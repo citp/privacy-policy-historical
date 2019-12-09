@@ -1,471 +1,654 @@
-<!--The following is the downloaded HTML source of the mynintendonews.com privacy policy that was archived on 2013-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230213023id_/http%3A//automattic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mynintendonews.com privacy policy that was archived on 2019-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191209035144id_/https%3A//mynintendonews.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en"><!--
-	generated 84 seconds ago
-	generated in 0.211 seconds
-	served from batcache in 0.002 seconds
-	expires in 216 seconds
---><head>
-	<title>Privacy&nbsp;Policy —  Automattic</title>
-	<meta charset="UTF-8">
-	<meta name="description" content="Making it easy">
-	<meta name="robots" content="noodp">
-	<link rel="pingback" href="http://automattic.com/xmlrpc.php">
-	<link rel="start" href="http://automattic.com/" title="Automattic">
-	<link rel="shortcut icon" href="http://s2.wp.com/wp-content/themes/a8c/automattic-2011/favicon.ico?m=1336714976g">
-	<meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="http://use.typekit.com/fti4bum.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>Privacy Policy | My Nintendo News</title>
+<meta name="google-site-verification" content="Ek0WST26mDWotcC3wGaeOZr7p1URc85oTfuRxZZ207k">
+<meta name="msvalidate.01" content="DD05F638E89B4283DC2CF804D3F8DA58">
+<meta name="p:domain_verify" content="aa6318a5f1e8fff5019ae178b685d824">
+<meta name="yandex-verification" content="98ae1c89f1a3ffb9">
+
+<!-- Async WordPress.com Remote Login -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.remove(); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[i].remove();
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+						+ '//' + window.location.hostname;
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9teW5pbnRlbmRvbmV3cy5jb20%3D"
+		+ "&wpcomid=183679"
+		+ "&time=1575863504";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel="dns-prefetch" href="//s2.wp.com">
+<link rel="dns-prefetch" href="//s1.wp.com">
+<link rel="dns-prefetch" href="//sickr.wordpress.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//widgets.wp.com">
+<link rel="dns-prefetch" href="//wordpress.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.pubmine.com">
+<link rel="dns-prefetch" href="//x.bidswitch.net">
+<link rel="dns-prefetch" href="//static.criteo.net">
+<link rel="dns-prefetch" href="//ib.adnxs.com">
+<link rel="dns-prefetch" href="//aax.amazon-adsystem.com">
+<link rel="dns-prefetch" href="//bidder.criteo.com">
+<link rel="dns-prefetch" href="//cas.criteo.com">
+<link rel="dns-prefetch" href="//gum.criteo.com">
+<link rel="dns-prefetch" href="//ads.pubmatic.com">
+<link rel="dns-prefetch" href="//gads.pubmatic.com">
+<link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+<link rel="dns-prefetch" href="//ad.doubleclick.net">
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//www.googletagservices.com">
+<link rel="dns-prefetch" href="//cdn.switchadhub.com">
+<link rel="dns-prefetch" href="//delivery.g.switchadhub.com">
+<link rel="dns-prefetch" href="//delivery.swid.switchadhub.com">
+<link rel="dns-prefetch" href="//a.teads.tv">
+<link rel="dns-prefetch" href="//prebid.media.net">
+<link rel="dns-prefetch" href="//adserver-us.adtech.advertising.com">
+<link rel="dns-prefetch" href="//fastlane.rubiconproject.com">
+<link rel="dns-prefetch" href="//prebid-server.rubiconproject.com">
+<link rel="dns-prefetch" href="//hb-api.omnitagjs.com">
+<link rel="dns-prefetch" href="//mtrx.go.sonobi.com">
+<link rel="dns-prefetch" href="//apex.go.sonobi.com">
+<link rel="dns-prefetch" href="//u.openx.net">
+<link rel="alternate" type="application/rss+xml" title="My Nintendo News » Feed" href="https://mynintendonews.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="My Nintendo News » Comments Feed" href="https://mynintendonews.com/comments/feed/">
 	<script type="text/javascript">
-		(function(doc) {
-			var addEvent = 'addEventListener',
-			    type = 'gesturestart',
-			    qsa = 'querySelectorAll',
-			    scales = [1, 1],
-			    meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
-			function fix() {
-				meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
-				doc.removeEventListener(type, fix, true);
-			}
-			if ((meta = meta[meta.length - 1]) && addEvent in doc) {
-				fix();
-				scales = [.25, 1.6];
-				doc[addEvent](type, fix, true);
-			}
-		}(document));
-		</script>
-			<script src="http://r-login.wordpress.com/remote-login.php?action=js&amp;host=automattic.com&amp;id=54117&amp;t=1388438939&amp;back=automattic.com%2Fprivacy%2F" type="text/javascript"></script>
-		<script type="text/javascript">
 		/* <![CDATA[ */
-			if ( 'function' === typeof WPRemoteLogin ) {
-				document.cookie = "wordpress_test_cookie=test; path=/";
-				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
-					WPRemoteLogin();
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
 				}
 			}
+		}
 		/* ]]> */
-		</script>
-		<script type="text/javascript">
-/* <![CDATA[ */
-function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
-/* ]]> */
-</script>
-<link rel="stylesheet" id="all-css-0" href="http://s1.wp.com/_static/??-eJyVUNFOwzAM/CGCV9hGeUB8i9t4aTqnjhJX1f6eLMA2aVDBU87R3fnO4GES9b1M+QIe+5wfYImmDEqTQphN5Nn5wmF/pAwjacT+aOp0R9eBQiFh2wPOKgG1+JqnTdPAt80onQk4oaMERQ7W58h4urPqWNx1tzhHVmY1B2GWBRZvHela3BD35TtE1AqHEnq1XpRc3Bl9gqwnpv90+1lwY57oXKdAVztfx78mGjCdxV/vb9mGLTiWDnnN9vN0uQZxIjYR2nqZ9/DWPLcv2127ed2NH0w/yTU=" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://s0.wp.com/_static/??-eJyFjkFuAjEMRS9UEwZYDIuqZ8lkTHBI4jR2GNHTN0gg0YLEypb9/J/NUsBxVsxqgpjEE0WEJlit7zOgfOBVkA/TOcouthnlCobvhvVyK28BSOSrVVwlynf4wVpYNKFIV77Y/lVRPhMub7GAWqw7QUWhn6dUPWL3GTs6Y5tysqrkYLMeBlNi85R7HE+QbO4v1Wv6TFKivfwPmiJ7uJ/03uPMTeHAMfJiFpo9ar/5Sp/DdtxttsO434dfGCiKQQ=="></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://automattic.wordpress.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://automattic.wordpress.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Work With&nbsp;Us" href="http://automattic.com/work-with-us/">
-<link rel="next" title="WordPress&nbsp;Widgets" href="http://automattic.com/code/widgets/">
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1573557586h&ver=5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s0.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1573557586h&amp;ver=5.3" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="all-css-0-1" href="https://s0.wp.com/_static/??-eJyNkcFWxCAMRX9ISDtjrS48fguUiMxAYUiwzt9LW+vCOVY3HBLe5T0CTEkMcWQcGbSPViRfrBsJppiNMgTWR628HIju4C+tuhQcUbwfbuShfIu9OyPBCTmp4SyW6ka+aW2ppcZs60lG6GUjG9DFeTMHWHCdVb4C8dXjP65ZqBo4DTFsxT47xC9ZK9teHsE44tWc5EoueX7lX4v3ghyjQOPYjdvUoJHtgzxAisRU30G85lkNfnb3BjqPpvZDUjwrQvVR6DFU2R42OWORK07bXjB+7CPr2HTKSCTqGlwJgt+q1/KHL+G57fquu398ao6nT5Jd39k=?cssminify=yes" type="text/css" media="all">
+<link rel="stylesheet" id="wpcom-block-editor-styles-css" href="//widgets.wp.com/wpcom-block-editor/common.min.css?ver=20191125210840" media="all">
+<link rel="stylesheet" id="all-css-2-1" href="https://s1.wp.com/_static/??/wp-content/mu-plugins/comment-likes/css/comment-likes.css,/i/noticons/noticons.css?m=1436783281j&amp;cssminify=yes" type="text/css" media="all">
+<link rel="stylesheet" id="aquene-google-fonts-css" href="https://fonts.googleapis.com/css?family=Lato%3A400%2C400i%2C700%2C700i%2C900%2C900i&amp;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&amp;display=swap" media="all">
+<link rel="stylesheet" id="all-css-4-1" href="https://s1.wp.com/_static/??/wp-content/themes/premium/aquene/assets/css/font-awesome.css,/wp-content/themes/premium/aquene/style.css?m=1574093975j&amp;cssminify=yes" type="text/css" media="all">
+<style id="aquene-style-inline-css">
+.custom-background.custom-background-override #page { margin: 0 auto; }.custom-background.custom-background-override #sticky-header { left: 0; right: 0; }
+</style>
+<link rel="stylesheet" id="print-css-5-1" href="https://s1.wp.com/wp-content/themes/premium/aquene/assets/css/print-style.css?m=1567609591h&amp;cssminify=yes" type="text/css" media="print">
+<link rel="stylesheet" id="all-css-6-1" href="https://s1.wp.com/_static/??-eJyNjEEOwjAMBD+EsQptOSHeEoIbBZw4qh1F/T3hBpeK2452Z7EV8JKNsmGqULiGmBVbfAQyRZMCRbQntY3p6FUPuK9Q7a28IgG7hkapsDP64yCQAIt3FiX/ACzs4rqnrnRnCT0G7Ksv/Ei3dB2m02U+j8M4P99lq1n3?cssminify=yes" type="text/css" media="all">
+<link rel="stylesheet" id="print-css-7-1" href="https://s2.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&amp;cssminify=yes" type="text/css" media="print">
+<link rel="stylesheet" id="all-css-8-1" href="https://s1.wp.com/_static/??-eJxlzEsOwjAMRdENkbiFhs8AsZYkhNTgOBV2hNg9RSoCidkbnHfhMZlYWRMrlGYmahlZwEfFysHfv8tGkRX88I+9NCIjqMmkMypyXirQ2X5r15CpBj8LfVISEPWKEQJ5vv0ldUxlNuOwnN7gVI692zk37A/d5voCshE/cw==?cssminify=yes" type="text/css" media="all">
+<style id="jetpack-global-styles-frontend-style-inline-css">
+@import url('https://fonts.googleapis.com/css?family=-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif:regular,bold,italic,bolditalic|-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif:regular,bold,italic,bolditalic|');:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<script type="text/javascript" src="https://s2.wp.com/_static/??-eJyFztEKwjAMBdAfsisyOnwRv6XWOFKXtDbphn69HeiDMBQC9+EeuLFLNshhqhcQG9vdK5THO7ooO/sLGMKxeIWOkD84JFZgXW1OogQifoSNltIZJzBVoDTA2mauacN9v4Q8Iyx/WQTNPtxMAcHnun6i4965Q++GwfXxBTkPW9k="></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sickr.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress.com">
-<link rel="canonical" href="http://automattic.com/privacy/">
-<link rel="shortlink" href="http://wp.me/Pe4R-d">
-<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fautomattic.com%2Fprivacy%2F&amp;for=wpcom-auto-discovery"><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fautomattic.com%2Fprivacy%2F&amp;for=wpcom-auto-discovery">
+<link rel="canonical" href="https://mynintendonews.com/privacy-policy/">
+<link rel="shortlink" href="https://wp.me/PLMz-15hQ">
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fmynintendonews.com%2Fprivacy-policy%2F&amp;for=wpcom-auto-discovery"><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fmynintendonews.com%2Fprivacy-policy%2F&amp;for=wpcom-auto-discovery">
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy&nbsp;Policy">
-<meta property="og:url" content="http://automattic.com/privacy/">
-<meta property="og:description" content="Your privacy is critically important to us. At Automattic we have a few fundamental principles: We don't ask you for personal information unless we truly need it. (We can't stand services that ask ...">
-<meta property="og:site_name" content="Automattic">
-<meta property="og:image" content="http://0.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=200">
-<meta name="twitter:site" content="@wordpressdotcom">
-<meta name="twitter:image" content="http://0.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=240">
+<meta property="og:title" content="Privacy Policy | My Nintendo News">
+<meta property="og:url" content="https://mynintendonews.com/privacy-policy/">
+<meta property="og:description" content="The My Nintendo News website is maintained by Excite Global Media Ltd. Protecting your privacy is important to Excite Global Media Ltd.&nbsp;and this statement is intended to make you aware of our commi…">
+<meta property="article:published_time" content="2019-09-21T08:46:34+00:00">
+<meta property="article:modified_time" content="2019-09-21T09:10:44+00:00">
+<meta property="og:site_name" content="My Nintendo News">
+<meta property="og:image" content="https://sickr.files.wordpress.com/2019/11/toad.jpg?w=200">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:creator" content="@MyNintendoNews">
+<meta name="twitter:site" content="@MyNintendoNews">
+<meta name="twitter:text:title" content="Privacy Policy">
+<meta name="twitter:image" content="https://sickr.files.wordpress.com/2019/11/toad.jpg?w=240">
 <meta name="twitter:card" content="summary">
 <meta property="article:publisher" content="https://www.facebook.com/WordPresscom">
-<meta name="twitter:app:name:iphone" content="WordPress">
-<meta name="twitter:app:id:iphone" content="335703880">
-<meta name="twitter:app:name:ipad" content="WordPress">
-<meta name="twitter:app:id:ipad" content="335703880">
-<meta name="twitter:app:name:googleplay" content="WordPress">
-<meta name="twitter:app:id:googleplay" content="org.wordpress.android">
-<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/662db33e9076ddbb8852ae35a845bfb4?s=16" sizes="16x16">
-<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/662db33e9076ddbb8852ae35a845bfb4?s=16" sizes="16x16">
-<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=114">
-<link rel="openid.server" href="http://automattic.wordpress.com/?openidserver=1">
-<link rel="openid.delegate" href="http://automattic.wordpress.com/">
-<link rel="search" type="application/opensearchdescription+xml" href="http://automattic.com/osd.xml" title="Automattic">
-<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com">
-<meta name="application-name" content="Automattic"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="Making it easy"><meta name="msapplication-task" content="name=Subscribe;action-uri=http://automattic.com/feed/;icon-uri=http://0.gravatar.com/blavatar/662db33e9076ddbb8852ae35a845bfb4?s=16"><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"><style id="syntaxhighlighteranchor"></style>
-</head>
 
-<body class="page page-id-13 page-template-default mp6 highlander-enabled highlander-light">
+<!-- End Jetpack Open Graph Tags -->
+<link rel="openid.server" href="https://mynintendonews.com/?openidserver=1">
+<link rel="openid.delegate" href="https://mynintendonews.com/">
+<link rel="search" type="application/opensearchdescription+xml" href="https://mynintendonews.com/osd.xml" title="My Nintendo News">
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com">
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
 
-<div id="wrapper">
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
 
-	<div class="header">
-		<h1 class="logo"><a href="/">Automattic</a></h1>
-		<ol class="menu">
-			<li class="page-item page-item-home "><a href="/">Home</a></li>
-			<li class="page-item page-item-about "><a href="/about/">About Us</a></li>
-			<li class="page-item page-item-news "><a href="/news/">News</a></li>
-			<li class="page-item page-item-jobs "><a href="/work-with-us/">Work With Us</a></li>
-		</ol>
-	</div>
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
 
-<div id="container">
-	<div id="content" class="tier">
-		<h2>Privacy&nbsp;Policy</h2>
-	    			<p class="statement">Your privacy is critically important to us. At Automattic we have a few fundamental principles:</p>
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="My Nintendo News"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="Nintendo News"><meta name="msapplication-task" content="name=Subscribe;action-uri=https://mynintendonews.com/feed/;icon-uri=https://sickr.files.wordpress.com/2019/11/toad.jpg?w=16"><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico"><meta name="description" content="The My Nintendo News website is maintained by Excite Global Media Ltd. Protecting your privacy is important to Excite Global Media Ltd.&nbsp;and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.…">
+		<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { pt: 2, ht: 1, tn: 'aquene', amp: false, siteid: 183679, consent: __ATA_CC() };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){return"string"==typeof a&&0<a.length}
+		function q(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],p=typeof f;"object"==p&&null!=f||"function"==p?d.push(q(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(n).join("&")}function r(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var t=Math.floor(1E13*Math.random()),u=window.__ATA||{};window.__ATA=u;u.rid=t;u.createdAt=g();var v=window.__ATA||{},w="s.pubmine.com";
+		v&&v.serverDomain&&(w=v.serverDomain);
+		var x="//"+w+"/conf",y=window.top===window,z=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,A="boolean"===typeof z?Number(z):null,B=window.__ATA_PP||null,C=y?document.referrer?document.referrer:null:null,D=y?null:document.referrer?document.referrer:null,E=function(){var a=void 0===a?document.cookie:a;return(a=h(a.split("; "),function(b){return-1!=b.indexOf("__ATA_tuuid=")}))?a.split("=")[1]:""}(),F=q({gdpr:A,pp:B,rid:t,src:C,ref:D,tuuid:E?E:null,vp:window.innerWidth+"x"+window.innerHeight},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){r(void 0,d)};m(a,function(d){d&&r(d)})})(x+"?"+F);}).call(this);
+		</script><script src="//s.pubmine.com/conf?pp.pt=2&amp;pp.ht=1&amp;pp.tn=aquene&amp;pp.amp=false&amp;pp.siteid=183679&amp;pp.consent=0&amp;rid=5575994095924&amp;vp=1366x768&amp;cb=callback__k60797n8_1"></script><link rel="icon" href="https://sickr.files.wordpress.com/2019/11/toad.jpg?w=32" sizes="32x32">
+<link rel="icon" href="https://sickr.files.wordpress.com/2019/11/toad.jpg?w=192" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://sickr.files.wordpress.com/2019/11/toad.jpg?w=180">
+<meta name="msapplication-TileImage" content="https://sickr.files.wordpress.com/2019/11/toad.jpg?w=270">
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s0.wp.com/?custom-css=1&amp;csblog=LMz&amp;cscache=6&amp;csrev=83">
+		</head>
+
+<body class="page-template-default page page-id-258654 custom-background customizer-styles-applied group-blog inactive-sidebar custom-background-override highlander-enabled highlander-light">
+<div id="page" class="site container">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="search-container" role="dialog" aria-hidden="true" class="site-search-container th-items-center th-justify-center th-text-md">
+		
+<form role="search" method="get" class="search-form" action="https://mynintendonews.com/">
+	<label for="search-form-5dedc4d0c62ec" class="th-block">
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" id="search-form-5dedc4d0c62ec" class="search-field th-block th-w-full" placeholder="Search this website…" value="" name="s" title="Search for:">
+	</label>
+	<button type="submit" class="submit has-icon clean-button th-text-base">
+		<span class="screen-reader-text">Search</span>
+	</button>
+</form><!-- .search-form -->
+
+		<button type="button" id="close-search-container" class="close-site-search clean-button has-icon th-text-base">
+			<span class="screen-reader-text">Close</span>
+		</button>
+	</div><!-- #search-container -->
+
+	<div id="toggle-sidebar" class="toggle-sidebar" aria-hidden="true">
+		<div class="inner-panel">
+			<button id="close-toggle-sidebar" class="has-icon close-button" type="button">Close Menu</button>
+			<nav id="mobile-navigation" class="mobile-navigation th-uppercase" aria-label="Mobile Menu"></nav><!-- #mobile-navigation -->
+		</div><!-- .inner-panel -->
+	</div><!-- #toggle-sidebar -->
+
+	<header id="masthead" class="site-header th-flex th-flex-wrap th-w-full th-px-base">
+		<div class="header-left-col md:th-w-9/12 th-w-full th-flex th-flex-wrap th-items-center">
+			<div class="site-branding md:th-m-0 lg:th-pr-sm th-stack--sm th-w-full md:th-text-align-unset th-text-center">
+							<div id="atatags-1836792-5dedc4d0c63c5"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-1836792-5dedc4d0c63c5',
+						location: 110,
+						formFactor: '002',   
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy settings',
+							}
+						}
+					});
+				});
+			</script>					<p class="site-title th-font-bolder th-uppercase th-leading-none th-text-2xl th-mb-0"><a href="https://mynintendonews.com/" rel="home">My Nintendo News</a></p>
+									<p class="site-description th-hidden th-mb-0 th-text-sm">Nintendo News</p>
+							</div><!-- .site-branding -->
+
+			<nav id="site-navigation" class="site-navigation main-navigation lg:th-block th-hidden" aria-label="Primary Menu">
+				<div class="menu-my-custom-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-9424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9424"><a href="https://mynintendonews.com/">Home</a></li>
+<li id="menu-item-238145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238145"><a href="https://mynintendonews.com/category/review/">Reviews</a></li>
+<li id="menu-item-203759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203759"><a href="https://mynintendonews.com/follow-blog-via-email/">News Email</a></li>
+<li id="menu-item-247685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247685"><a href="https://mynintendonews.com/contact/">News Tips</a></li>
+<li id="menu-item-258656" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-258654 current_page_item menu-item-258656"><a href="https://mynintendonews.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+		</div><!-- .header-left-col -->
+
+		<div class="header-right-col md:th-w-3/12 th-w-full th-flex md:th-justify-end md:th-items-center md:th-mt-0 th-mt-sm">
+					<nav class="jetpack-social-navigation jetpack-social-navigation-genericons" role="navigation" aria-label="Social Links Menu">
+			<div class="menu-social-container"><ul id="menu-social" class="menu"><li id="menu-item-195062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195062"><a title="Twitter" href="https://twitter.com/MyNintendoNews" class="has-icon"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-195061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195061"><a title="Facebook" href="https://www.facebook.com/MyNintendoNews/" class="has-icon"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-260742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260742"><a title="Tumblr" href="https://mynintendonews.tumblr.com" class="has-icon"><span class="screen-reader-text">Tumblr</span></a></li>
+</ul></div>		</nav><!-- .jetpack-social-navigation -->
+		
+			<button id="static-menu" class="mobile-menu-button has-icon clean-button lg:th-hidden th-inline-block th-text-sm" type="button" aria-expanded="false">
+				Menu			</button>
+
+			<button id="header-search" class="header-search-button has-icon clean-button th-ml-sm lg:th-pl-0 md:th-pl-sm th-pl-base th-text-base" type="button" aria-expanded="false">
+				<span class="screen-reader-text">Search</span>
+			</button><!-- .header-search-button -->
+		</div><!-- .header-right-col -->
+
+		<div id="sticky-header" class="th-flex th-items-center th-w-full th-py-sm th-px-base">
+			<div class="sticky-left-col th-w-9/12">
+				<button id="sticky-menu" class="mobile-menu-button has-icon clean-button lg:th-hidden th-inline-block th-leading-none th-text-sm" type="button" aria-expanded="false">
+					Menu				</button>
+			</div><!-- .sticky-left-col -->
+
+			<div class="sticky-right-col th-w-3/12" "="">
+				<button id="gotop" class="has-icon clean-button primary-font th-uppercase th-font-bolder th-leading-none" type="button">
+					Back to Top				</button>
+			</div><!-- .sticky-right-col -->
+		</div><!-- #sticky-header -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-258654" class="th-stack--md th-pb-md post-258654 page type-page status-publish hentry">
+	<header class="entry-header hentry-wrapper th-stack--base th-w-single-view md:th-px-xl th-px-base th-py-md th-rounded">
+		<h1 class="entry-title th-text-4xl th-mb-0">Privacy Policy</h1>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content hentry-wrapper th-content th-w-single-view md:th-px-xl th-px-base">
+		<p>The My Nintendo News website is maintained by Excite Global Media Ltd. Protecting your privacy is important to Excite Global Media Ltd.&nbsp;and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.</p>
+<p>When accessing our website, Excite Global Media Ltd. will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.</p>
+<p>When you visit our Website, we may automatically collect certain non-identifying information about you, such as your movement about the Website, time and date of accessing the site, the pages on the Website you visit most frequently, the type of browser or computer operating system you use, or the domain name of the website from which you linked to us (“Non-identifying Information”). &nbsp;In addition, we may store small files on your computer’s hard drive, such as a “cookie” or similar type of file to track and target your interests. &nbsp;We use this Non-identifying Information internally to help us enhance the efficiency and usefulness of the Website, for advertising purposes, and to improve customer service. &nbsp;If you object to this practice, please consult your browser’s documentation for instructions on erasing or blocking cookies.</p>
+<p>If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.</p>
+<p>The information collected is for statistical purposes. Excite Global Media Ltd. may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.</p>
+<p>For site security purposes and to ensure that this service remains available to all users, Excite Global Media Ltd. uses software programs to monitor network traffic to identify unauthorised attempts to upload or change information, or otherwise cause damage.</p>
+<p>Excite Global Media Ltd. will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.&nbsp;Cookies or similar type of file to track and target your interests&nbsp;may also be used.&nbsp;If you would like more information about this practice and to know your choices about not having this information used by these companies, click here&nbsp;<a href="http://www.networkadvertising.org/choices">http://www.networkadvertising.org/choices</a>.</p>
+<p>This Website may contain links to other Websites owned and operated by third parties. Please note that these websites’ privacy policies may differ from that of Excite Global Media Ltd. Excite Global Media Ltd. is not responsible for the privacy practices of those third parties and does not control the use of information provided through such third party websites. We encourage you to read the privacy policy of any website you may visit.</p>
+<h2>General Data Protection Regulation (GDPR)</h2>
+<p>All EU citizens have additional rights under the GDPR. We take GDPR seriously and will process any GDPR requests without undue delay. Email all GDPR related requests to admin (at) mynintendonews.com Include necessary information to identify the requested action and data subject as defined by&nbsp;<a href="https://gdpr-info.eu/">the GDPR</a>.</p>
+<p>Certain data is required to use our service. We track IP addresses for fraud and abuse prevention. Username, Handle and Email is required for account creation. Under the GDPR our legal basis for this collection is legitimate interest due to requiring of processing this data to provide our services for login, user accounts, etc.</p>
+<h3>You can contact us at any time to:</h3>
 <ul>
-<li>We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)</li>
-<li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
-<li>We don’t store personal information on our servers unless required for the on-going operation of one of our services.</li>
-<li>In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.</li>
+<li>Request information that Excite Global Media Ltd. has about you.</li>
+<li>Correct any information that Excite Global Media Ltd. has about you.</li>
+<li>Delete information that Excite Global Media Ltd. has about you.</li>
 </ul>
-<p>Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a <a href="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Sharealike</a> license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)</p>
-<p>If you have questions about deleting or correcting your personal data please contact our <a href="http://support.wordpress.com/">support team</a>.</p>
-<p>Automattic Inc. (“<strong>Automattic</strong>”) operates several websites including <a href="http://www.automattic.com/">automattic.com</a>, <a href="http://www.wordpress.com/">wordpress.com</a>, <a href="http://www.gravatar.com/">gravatar.com</a>, <a href="http://www.intensedebate.com/">intensedebate.com</a>, and <a href="http://www.akismet.com/">akismet.com</a>. It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.</p>
-<h3>Website Visitors</h3>
-<p>Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic’s purpose in collecting non-personally identifying information is to better understand how Automattic’s visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
-<p>Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Automattic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.</p>
-<h3>Gathering of Personally-Identifying Information</h3>
-<p>Certain visitors to Automattic’s websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at <a href="http://www.wordpress.com/">WordPress.com</a> to provide a username and email address. Those who engage in transactions with Automattic – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
-<h3>Aggregated Statistics</h3>
-<p>Automattic may collect statistics about the behavior of visitors to its websites. For instance, Automattic may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.</p>
-<h3>Protection of Certain Personally-Identifying Information</h3>
-<p>Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
-<h3>Cookies</h3>
-<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.</p>
-<h3>Business Transfers</h3>
-<p>If Automattic, or substantially all of its assets, were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.</p>
-<h3>Ads</h3>
-<p>Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.</p>
-<h3>Comments</h3>
-<p>Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.</p>
-<h3>Privacy Policy Changes</h3>
-<p>Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
-<p><strong>Change log:</strong></p>
+<h3>You have the following rights under the GDPR:</h3>
 <ul>
-<li><em>September 18, 2013:</em>&nbsp; Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.</li>
-<li><em>February 1, 2011:</em> Clarified subpoena language and added Business Transfers paragraph</li>
-<li><em>January 3, 2011:</em> Added court order and subpoena clarification</li>
-<li><em>July 1, 2010:</em> Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators</li>
-<li><em>October 29, 2009:</em> Added Comments paragraph to explain Akismet comment storage policy</li>
-<li><em>March 10, 2009:</em> Added Ads paragraph to alert users that ads from third parties may use cookies</li>
+<li>Right to be informed</li>
+<li>Right of access</li>
+<li>Right of rectification</li>
+<li>Right to erasure</li>
+<li>Right to restrict data processing</li>
+<li>Right to data portability</li>
+<li>Right to object</li>
+<li>Rights of automated decision-making and profiling</li>
 </ul>
-<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" id="like-post-wrapper-54117-13-52c1e59b3a524" data-src="//widgets.wp.com/likes/#blog_id=54117&amp;post_id=13&amp;origin=automattic.wordpress.com&amp;obj_id=54117-13-52c1e59b3a524" data-name="like-post-frame-54117-13-52c1e59b3a524"><h3 class="sd-title">Like this:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height:55px"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><span class="sd-text-color"></span><a class="sd-link-color"></a></div></div>			</div><!-- #content  -->
-</div><!-- #container -->
+			<div id="atatags-1836791-5dedc4d0c8971"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-1836791-5dedc4d0c8971',
+						location: 120,
+						formFactor: '001',   
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy settings',
+							}
+						}
+					});
+				});
+			</script><div id="atatags-1836795-5dedc4d0c8991">
+        <script type="text/javascript">
+            __ATA.cmd.push(function() {
+                __ATA.initVideoSlot('atatags-1836795-5dedc4d0c8991', {
+                    sectionId: '1836795',
+                    format: 'inread'
+                });
+            });
+        </script>
+    </div>	</div><!-- .entry-content -->
 
-	<div class="nav">
-		<div class="contactus"><a href="/contact/">Contact Us</a></div>
-		<div class="privacy"><a href="/privacy/">Privacy Policy</a></div>
-		<div class="social-links">
-			<div class="twitter"><a class="noticon noticon-twitter" href="https://twitter.com/automattic" target="_blank"><!-- Twitter --></a></div>
-			<div class="facebook"><a class="noticon noticon-facebook" href="http://www.facebook.com/AutomatticInc" target="_blank"><!-- Facebook --></a></div>
-		</div>
-		<ol class="menu">
-			<li class="page-item "><a href="/">Home</a></li>
-			<li class="page-item "><a href="/about/">About Us</a></li>
-			<li class="page-item "><a href="/news/">News</a></li>
-			<li class="page-item "><a href="/work-with-us/">Work With Us</a></li>
-		</ol>
-	</div>
-	<div class="footer">
-		<p class="copyr">© Automattic Inc., purveyors of fine blogging services since 2005. Thank you for your&nbsp;time.</p>
-	</div>
-</div><!-- #wrapper -->
+	</article><!-- #post-## -->
 
+		</main><!-- #main -->
+	</div><!-- #primary -->
 
 <script type="text/javascript">
-var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":"language.en,type.wpcom,wp.loggedout"};
-function wpcomQuantcastPixel( labels, options ) {
-	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };
+								var _gaq = _gaq || [];
+								_gaq.push(['_setAccount', 'UA-27403752-1']);
+_gaq.push(['_trackPageview']);
 
-	labels  = labels  || '';
-	options = options || {};
+								(function() {
+									var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+									ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+									var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+								})();
+							</script>
 
-	if ( typeof labels != 'string' )
-		options = labels;
+	</div><!-- #content -->
 
-	for ( i in defaults ) {
-		data[i] = defaults[i];
-	}
+	<footer id="colophon" class="site-footer th-text-secondary-light">
+		<div class="footer-top footer-section th-flex th-flex-wrap th-items-center th-py-sm th-px-base">
+			<div class="footer-branding lg:th-w-6/12 th-w-full">
+				<p class="site-footer-title th-font-bolder th-uppercase th-my-0 md:th-mr-tinier md:th-inline-block"><a href="https://mynintendonews.com/" rel="home">My Nintendo News</a></p>
+									<p class="site-footer-description th-my-0 md:th-inline-block">Nintendo News</p>
+							</div><!-- .footer-branding -->
 
-	for ( i in options ) {
-		data[i] = options[i];
-	}
+					<nav class="jetpack-social-navigation jetpack-social-navigation-genericons" role="navigation" aria-label="Social Links Menu">
+			<div class="menu-social-container"><ul id="menu-social-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195062"><a title="Twitter" href="https://twitter.com/MyNintendoNews" class="has-icon"><span class="screen-reader-text">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195061"><a title="Facebook" href="https://www.facebook.com/MyNintendoNews/" class="has-icon"><span class="screen-reader-text">Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260742"><a title="Tumblr" href="https://mynintendonews.tumblr.com" class="has-icon"><span class="screen-reader-text">Tumblr</span></a></li>
+</ul></div>		</nav><!-- .jetpack-social-navigation -->
+				</div><!-- .footer-top -->
 
-	if ( data.labels ) {
-		data.labels += ',' + labels;
-	} else {
-		data.labels = labels;
-	}
+				<div class="widget-area footer-section th-flex th-flex-wrap th-px-0 th-pb-base">
+						<div id="atatags-1836793-5dedc4d0c926b"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-1836793-5dedc4d0c926b',
+						location: 140,
+						formFactor: '003',   
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy settings',
+							}
+						}
+					});
+				});
+			</script><section id="top-posts-32" class="widget widget_top-posts th-w-full th-mt-base th-px-base"><h3 class="widget-title th-text-base th-text-inherit th-mb-sm">Top Posts &amp; Pages</h3><div class="widgets-grid-layout no-grav">
+					<div class="widget-grid-view-image">
+						<a href="https://mynintendonews.com/2019/12/08/rumour-unannounced-disney-remake-heading-to-nintendo-switch/" title="Rumour: Unannounced Disney remake heading to Nintendo Switch" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://sickr.files.wordpress.com/2019/12/disney_logo.jpg?resize=200%2C200" alt="Rumour: Unannounced Disney remake heading to Nintendo Switch" data-pin-nopin="true"></a>						</div>
+										<div class="widget-grid-view-image">
+						<a href="https://mynintendonews.com/2019/12/07/north-america-30-best-selling-nintendo-switch-eshop-games-of-november/" title="North America: 30 best-selling Nintendo Switch eShop games of November" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://sickr.files.wordpress.com/2019/12/fortnite_chapter_2.jpg?w=1200&amp;resize=200%2C200" alt="North America: 30 best-selling Nintendo Switch eShop games of November" data-pin-nopin="true"></a>						</div>
+										<div class="widget-grid-view-image">
+						<a href="https://mynintendonews.com/2019/12/07/rumour-activison-could-be-planning-an-imminent-new-crash-bandicoot-reveal/" title="Rumour: Activison could be planning an imminent new Crash Bandicoot reveal" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://sickr.files.wordpress.com/2018/02/crash_bandicoot1.jpg?w=1200&amp;resize=200%2C200" alt="Rumour: Activison could be planning an imminent new Crash Bandicoot reveal" data-pin-nopin="true"></a>						</div>
+										<div class="widget-grid-view-image">
+						<a href="https://mynintendonews.com/2019/12/08/cyberconnect2-have-talked-about-possibility-of-remaking-solatorobo/" title="CyberConnect2 have talked about possibility of remaking Solatorobo" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://sickr.files.wordpress.com/2014/10/solatorobo.jpg?w=1200&amp;resize=200%2C200" alt="CyberConnect2 have talked about possibility of remaking Solatorobo" data-pin-nopin="true"></a>						</div>
+					</div>
+</section><section id="text-5" class="widget widget_text th-w-full th-mt-base th-px-base"><h3 class="widget-title th-text-base th-text-inherit th-mb-sm">My Nintendo News</h3>			<div class="textwidget"><p>Excite Global Media Ltd. England and Wales company registration number 11019498</p>
+<p>Copyright © 2019 My Nintendo News /&nbsp;Excite Global Media Ltd.</p>
+</div>
+		</section>			<div id="atatags-1836793-5dedc4d0cac5f"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-1836793-5dedc4d0cac5f',
+						location: 140,
+						formFactor: '003',   
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy settings',
+							}
+						}
+					});
+				});
+			</script>		</div><!-- .widget-area -->
+		
+		<div class="footer-bottom footer-section th-uppercase th-flex th-flex-wrap th-items-center th-pb-sm th-px-base th-stack-full--sm">
+						<nav class="site-navigation footer-navigation lg:th-w-6/12 th-w-full" aria-label="Footer Menu">
+				<div class="menu-my-custom-menu-container"><ul id="footer-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9424"><a href="https://mynintendonews.com/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238145"><a href="https://mynintendonews.com/category/review/">Reviews</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203759"><a href="https://mynintendonews.com/follow-blog-via-email/">News Email</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247685"><a href="https://mynintendonews.com/contact/">News Tips</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-258654 current_page_item menu-item-258656"><a href="https://mynintendonews.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+</ul></div>			</nav><!-- .footer-navigation -->
+			
+			<div class="site-info lg:th-w-6/12 th-w-full">
+				<a></a>
+				
+							</div><!-- .site-info -->
+		</div><!-- .footer-bottom -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
 
-	_qevents.push( data );
-};
-(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })();
-_qevents.push( wpcomQuantcastData );
+<!--  -->
+<script src="//0.gravatar.com/js/gprofiles.js?ver=201950y"></script>
+<script>
+var WPGroHo = {"my_hash":""};
 </script>
-<noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=language.en%2Ctype.wpcom%2Cwp.loggedout" height="1" width="1" alt="" /></div></noscript>
+<script type="text/javascript" src="https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h"></script>
 
-	<div style="display:none">
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
 	</div>
-
-	<div id="bit" class="loggedout-follow-normal">
-		<a class="bsub" href="javascript:void(0)"><span id="bsub-text">Follow</span></a>
-		<div id="bitsubscribe">
-
-					<h3><label for="loggedout-follow-field">Follow “Automattic”</label></h3>
-
-			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
-			<p>Get every new post delivered to your Inbox.</p>
-
-			<p id="loggedout-follow-error" style="display: none;"></p>
-
-						<p class="bit-follow-count">Join 6,101 other followers</p>
-			<p><input type="email" name="email" value="Enter your email address" onfocus="this.value=(this.value==&quot;Enter your email address&quot;) ? &quot;&quot; : this.value;" onblur="this.value=(this.value==&quot;&quot;) ? &quot;Enter email address&quot; : this.value;" id="loggedout-follow-field"></p>
-
-			<input type="hidden" name="action" value="subscribe">
-			<input type="hidden" name="blog_id" value="54117">
-			<input type="hidden" name="source" value="http://automattic.com/privacy/">
-			<input type="hidden" name="sub-type" value="loggedout-follow">
-
-			<input type="hidden" id="_wpnonce" name="_wpnonce" value="dc888be206"><input type="hidden" name="_wp_http_referer" value="/privacy/">
-			<p id="bsub-subscribe-button"><input type="submit" value="Sign me up"></p>
-			</form>
-					<div id="bsub-credit"><a href="http://wordpress.com/signup/?ref=lof">Powered by WordPress.com</a></div>
-		</div><!-- #bitsubscribe -->
-	</div><!-- #bit -->
-		<iframe src="http://widgets.wp.com/likes/master.html?ver=20131206#ver=20131206&amp;mp6=1" scrolling="no" id="likes-master" name="likes-master" style="display:none;"></iframe>
-		<div id="likes-other-gravatars"><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
-		<script type="text/javascript">
-		//<![CDATA[
-			var jetpackLikesWidgetQueue = [];
-			var jetpackLikesWidgetBatch = [];
-			var jetpackLikesMasterReady = false;
-
-			function JetpackLikespostMessage( message, target ) {
-				if ( "string" === typeof message ){
-					try{
-						message = JSON.parse( message );
+			<script type="text/javascript">
+			( function( $ ) {
+				$( document.body ).on( 'post-load', function () {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
 					}
-					catch(e) {
-						return;
-					}
-				}
-
-				pm( {
-					target: target,
-					type: 'likesMessage',
-					data: message,
-					origin: '*'
 				} );
-			}
-
-			function JetpackLikesBatchHandler() {
-				var requests = [];
-				jQuery( 'div.jetpack-likes-widget-unloaded' ).each( function( i ) {
-					if ( jetpackLikesWidgetBatch.indexOf( this.id ) > -1 )
-						return;
-					jetpackLikesWidgetBatch.push( this.id );
-					var regex = /like-(post|comment)-wrapper-(\d+)-(\d+)-(\w+)/;
-					var match = regex.exec( this.id );
-					if ( ! match || match.length != 5 )
-						return;
-
-					var info = {
-						blog_id: match[2],
-						width:   this.width
-					};
-
-					if ( 'post' == match[1] ) {
-						info.post_id = match[3];
-					} else if ( 'comment' == match[1] ) {
-						info.comment_id = match[3];
-					}
-
-					info.obj_id = match[4];
-
-					requests.push( info );
-				});
-
-				if ( requests.length > 0 ) {
-					JetpackLikespostMessage( { event: 'initialBatch', requests: requests }, window.frames['likes-master'] );
-				}
-			}
-
-			function JetpackLikesMessageListener( event ) {
-				if ( "undefined" == typeof event.event )
-					return;
-
-				if ( 'masterReady' == event.event ) {
-					jQuery( document ).ready( function() {
-						jetpackLikesMasterReady = true;
-
-						var stylesData = {
-								event: 'injectStyles'
-						};
-
-						if ( jQuery( 'iframe.admin-bar-likes-widget' ).length > 0 ) {
-							JetpackLikespostMessage( { event: 'adminBarEnabled' }, window.frames[ 'likes-master' ] );
-
-							stylesData.adminBarStyles = {
-								background: jQuery( '#wpadminbar .quicklinks li#wp-admin-bar-wpl-like > a' ).css( 'background' ),
-								isRtl: ( 'rtl' == jQuery( '#wpadminbar' ).css( 'direction' ) )
-							};
-						}
-
-						if ( !window.addEventListener )
-							jQuery( '#wp-admin-bar-admin-bar-likes-widget' ).hide();
-
-						stylesData.textStyles = {
-							color: jQuery( '.sd-text-color').css( 'color' ),
-							fontFamily: jQuery( '.sd-text-color' ).css( 'font-family' ),
-							fontSize: jQuery( '.sd-text-color' ).css( 'font-size' ),
-							direction: jQuery( '.sd-text-color' ).css( 'direction' ),
-							fontWeight: jQuery( '.sd-text-color' ).css( 'font-weight' ),
-							fontStyle: jQuery( '.sd-text-color' ).css( 'font-style' ),
-							textDecoration: jQuery( '.sd-text-color' ).css('text-decoration')
-						};
-
-						stylesData.linkStyles = {
-							color: jQuery( '.sd-link-color' ).css('color'),
-							fontFamily: jQuery( '.sd-link-color' ).css('font-family'),
-							fontSize: jQuery( '.sd-link-color' ).css('font-size'),
-							textDecoration: jQuery( '.sd-link-color' ).css('text-decoration'),
-							fontWeight: jQuery( '.sd-link-color' ).css( 'font-weight' ),
-							fontStyle: jQuery( '.sd-link-color' ).css( 'font-style' )
-						};
-
-						JetpackLikespostMessage( stylesData, window.frames[ 'likes-master' ] );
-
-						JetpackLikesBatchHandler();
-
-						jQuery( document ).on( 'inview', 'div.jetpack-likes-widget-unloaded', function() {
-							jetpackLikesWidgetQueue.push( this.id );
-						});
-					});
-				}
-
-				if ( 'showLikeWidget' == event.event ) {
-					jQuery( '#' + event.id + ' .post-likes-widget-placeholder'  ).fadeOut( 'fast', function() {
-						jQuery( '#' + event.id + ' .post-likes-widget' ).fadeIn( 'fast', function() {
-							JetpackLikespostMessage( { event: 'likeWidgetDisplayed', blog_id: event.blog_id, post_id: event.post_id, obj_id: event.obj_id }, window.frames['likes-master'] );
-						});
-					});
-				}
-
-				if ( 'showOtherGravatars' == event.event ) {
-					var $container = jQuery( '#likes-other-gravatars' );
-					var $list = $container.find( 'ul' );
-
-					$container.hide();
-					$list.html( '' );
-
-					$container.find( '.likes-text span' ).text( event.total );
-
-					jQuery.each( event.likers, function( i, liker ) {
-						$list.append( '<li class="' + liker.css_class + '"><a href="' + liker.profile_URL + '" class="wpl-liker" rel="nofollow" target="_parent"><img src="' + liker.avatar_URL + '" alt="' + liker.name + '" width="30" height="30" style="padding-right: 3px;" /></a></li>');
-					} );
-
-					var offset = jQuery( "[name='" + event.parent + "']" ).offset();
-
-					$container.css( 'left', offset.left + event.position.left - 10 + 'px' );
-					$container.css( 'top', offset.top + event.position.top - 33 + 'px' );
-
-					var rowLength = Math.floor( event.width / 37 );
-					var height = ( Math.ceil( event.likers.length / rowLength ) * 37 ) + 13;
-					if ( height > 204 ) {
-						height = 204;
-					}
-
-					$container.css( 'height', height + 'px' );
-					$container.css( 'width', rowLength * 37 - 7 + 'px' );
-
-					$list.css( 'width', rowLength * 37 + 'px' );
-
-					$container.fadeIn( 'slow' );
-
-					var scrollbarWidth = $list[0].offsetWidth - $list[0].clientWidth;
-					if ( scrollbarWidth > 0 ) {
-						$container.width( $container.width() + scrollbarWidth );
-						$list.width( $list.width() + scrollbarWidth );
-					}
-				}
-			}
-
-			pm.bind( 'likesMessage', function(e) { JetpackLikesMessageListener(e); } );
-
-			jQuery( document ).click( function( e ) {
-				var $container = jQuery( '#likes-other-gravatars' );
-
-				if ( $container.has( e.target ).length === 0 ) {
-					$container.fadeOut( 'slow' );
-				}
-			});
-
-			function JetpackLikesWidgetQueueHandler() {
-				var wrapperID;
-				if ( ! jetpackLikesMasterReady ) {
-					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
-					return;
-				}
-
-				if ( jetpackLikesWidgetQueue.length > 0 ) {
-					// We may have a widget that needs creating now
-					var found = false;
-					while( jetpackLikesWidgetQueue.length > 0 ) {
-						// Grab the first member of the queue that isn't already loading.
-						wrapperID = jetpackLikesWidgetQueue.splice( 0, 1 )[0];
-						if ( jQuery( '#' + wrapperID ).hasClass( 'jetpack-likes-widget-unloaded' ) ) {
-							found = true;
-							break;
-						}
-					}
-					if ( ! found ) {
-						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
-						return;
-					}
-				} else if ( jQuery( 'div.jetpack-likes-widget-unloaded' ).length > 0 ) {
-					// Grab any unloaded widgets for a batch request
-					JetpackLikesBatchHandler();
-
-					// Get the next unloaded widget
-					wrapperID = jQuery( 'div.jetpack-likes-widget-unloaded' ).first()[0].id;
-					if ( ! wrapperID ) {
-						// Everything is currently loaded
-						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
-						return;
-					}
-				}
-
-				if ( 'undefined' === typeof wrapperID ) {
-					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
-					return;
-				}
-
-				var $wrapper = jQuery( '#' + wrapperID );
-				$wrapper.find( 'iframe' ).remove();
-
-				if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
-					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='22px' width='68px' frameBorder='0' scrolling='no' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
-				} else {
-					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='55px' width='100%' frameBorder='0' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
-				}
-
-				$wrapper.removeClass( 'jetpack-likes-widget-unloaded' ).addClass( 'jetpack-likes-widget-loading' );
-
-				$wrapper.find( 'iframe' ).load( function( e ) {
-					var $iframe = jQuery( e.target );
-					$wrapper.removeClass( 'jetpack-likes-widget-loading' ).addClass( 'jetpack-likes-widget-loaded' );
-
-					JetpackLikespostMessage( { event: 'loadLikeWidget', name: $iframe.attr( 'name' ), width: $iframe.width() }, window.frames[ 'likes-master' ] );
-
-					if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
-						$wrapper.find( 'iframe' ).Jetpack( 'resizeable' );
-					}
-				});
-				setTimeout( JetpackLikesWidgetQueueHandler, 250 );
-			}
-			JetpackLikesWidgetQueueHandler();
-		//]]>
-		</script>
-<script type="text/javascript" src="http://s2.wp.com/_static/??-eJyNi8kJgDAQABvSLCGI+hBrkc0+NprDHB7dq5AC/A3MDJyhRe8yuQwmgaaDkcIlTGrgVexwK5rS58xeKN5QuJIoLNBHEpbd314vmQLjSrFes52k6pUaZacG8wDHMDNo"></script>
+			} )( jQuery );
+			</script><link rel="stylesheet" id="all-css-0-2" href="https://s0.wp.com/wp-content/plugins/gutenberg-blocks/wpcom-blocks/blocks/front.css?m=1573041421h&amp;cssminify=yes" type="text/css" media="all">
+<script>
+var comment_like_text = {"loading":"Loading..."};
+</script>
+<script>
+var screenReaderText = {"expand":"Expand child menu","collapse":"Collapse child menu"};
+</script>
+<script>
+var actionbardata = {"siteID":"183679","siteName":"My Nintendo News","siteURL":"https:\/\/mynintendonews.com","icon":"<img alt='' src='https:\/\/sickr.files.wordpress.com\/2019\/11\/toad.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/aquene","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fmynintendonews.com%2Fprivacy-policy%2F&signup_flow=account&domain=mynintendonews.com","themeURL":"https:\/\/wordpress.com\/theme\/aquene\/","xhrURL":"https:\/\/mynintendonews.com\/wp-admin\/admin-ajax.php","nonce":"bbcfa5c99c","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"6970d9ccc2\" \/>","referer":"https:\/\/mynintendonews.com\/privacy-policy\/","canFollow":"1","feedID":"37969","statusMessage":"","customizeLink":"https:\/\/sickr.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fsickr.wordpress.com%2Fprivacy-policy%2F","postID":"258654","shortlink":"https:\/\/wp.me\/PLMz-15hQ","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/mynintendonews.com\/258654","statsLink":"https:\/\/wordpress.com\/stats\/post\/258654\/mynintendonews.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Aquene","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 526,171 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fmynintendonews.com%2Fprivacy-policy%2F&signup_flow=account&domain=mynintendonews.com\">Log in now.<\/a>","stats":"Stats"}};
+</script>
+<script type="text/javascript" src="https://s0.wp.com/_static/??-eJyVkNFuwyAMRX9ozJq0qOvDtG8hYKVOMDAwYZ8/Z2urLQ+R+oR9fc8FAz0bl6JgFJgreFzJYf56nusT/BlxMzm0iWKFQAtW+GzY8GKjD1gOzC4xq2R+oXmjR6idMj4C/RP24I2amrYjlsmMIbmlqke5W3M9cN1yXGpRfOpxnyUXZL0yF2RqDFa3jAi2VpSfh+Q2BnJX/WCDTn7aEGw6TQuhCbaDIOdgBXf6QY71TNGMtgDbKli0MmnFUshryl17MEGK1b84gpxQiht0r9T9we8vw+n1fHobhvP8DUBL1iQ="></script>
 <script type="text/javascript">
 // <![CDATA[
 (function() {
@@ -483,13 +666,16 @@ try{
 }catch(e){}
 })();
 // ]]>
-</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+</script><script src="//stats.wp.com/w.js?60" type="text/javascript" async="" defer=""></script>
 <script type="text/javascript">
-st_go({'blog':'54117','v':'wpcom','tz':'0','user_id':'0','post':'13','subd':'automattic'});
-ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1lSiYrZXhzUkM5fD1uTDNLUGt6QzVbd3FKb3Q4aWxUTWElWmU0VDYxaVE9SkFJTUhDVT9KJStMWnJFZC1mZklkUGh5R0N6NUJxTlBiLyZ4MnlFWXJCK1UlLzBDbkVnRiUxfmk3WUNyZy10aV18X0ZIR3x5fm9Ndi4/ZVttUyw9Z1hOeVJzNGt3Q3VRY28zRC1SbiVsNlp1SWhjWGJRVj1Sclc5Rzk/RmpsbG1POWhpVkhpJUU1S3A3WjM5WjBFeCVTSkEvcFM2MDRXR0o1ayxwNVBHYjNXK29dXyZpUmhsZDNTXWVGLndqLG5Eai1lejFwLXB8dS0tXzNGYXdMdDh1eTdUa3FFK0stalFSSm4uMQ=='});
-addLoadEvent(function(){linktracker_init('54117',13);});
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'183679','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'183679','v':'wpcom','tz':'0','user_id':'0','post':'258654','subd':'sickr'}]);
+_stq.push(['extra', {'crypt':'UE5tW3cvZGRWcHpNa3BISV1SLE92aHxYNlZZLSw2T2o/biYrPV1qN3dHMiVJLHxOdkZqLlVHaVdSWDdUSStSYz1dQllyMWouSHVuOCV2N1VsbXg3LEJNQWcuSXRRbUdvc3QmXWoyUy5sMzRVUEp8Jk9iMk9MNEpPWGkmbTZBbF85czN4cFg0aTVBSiU/d2t+UHQlNW45Q21fNExNUEdfbm1vaFRJJm9wbEFGZ1RdRTN4cUl3dWt3NkNrbVYzVjA/fmp+RiZPOGpHLVI2N08mXXdXcVFSR2Z4dU5T'}]);
+_stq.push([ 'clickTrackerInit', '183679', '258654' ]);
 	</script>
-<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
 <script>
 if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 
@@ -506,53 +692,11 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
 
 	if( "" != mobileStatsQueryString ) {
-		new Image().src = document.location.protocol + '//stats.wordpress.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
 	}
 	
 }
 </script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-try {
-var pageTracker = _gat._getTracker("UA-52447-5");
-pageTracker._trackPageview();
-} catch(err) {}
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript" src="/wp-content/themes/a8c/automattic-2011/includes/jquery.cookie.js"></script>
-<script type="text/javascript">
-
-console.log("Ready to wrangle JavaScript? http://automattic.com/work-with-us/");
-
-var pg = document.location.href;
-
-if ( pg.indexOf("work-with-us") != -1 ) { 	// check on jobs page
-	if ( pg.length > 37 ) { // check if detail page
-
-		var jvct = jQuery.cookie('jvct');
-		if ( typeof(jvct) == "undefined" ) { jvct = 0; }
-		else { jvct = parseInt(jvct); }
-		if ( isNaN(jvct) ) { jvct = 0; }
-
-		jvct = jvct + 1;
-		jQuery.cookie('jvct', jvct, { expires: 60, path: '/' });
-
-		if ( jvct > 3 ) {
-			// display card flipper
-			jQuery( '.jobsidebar' ).wrap( '<div class="card-container"></div>' );
-			jQuery('.jobs-notes' ).addClass( 'card' );
-
-			jQuery( '.jobsidebar').append( '<div class="jobs-notes-back card"><h4>Hey there!</h4><p>We couldn&rsquo;t help but notice that you&rsquo;ve visited this page a few times. It looks like you&rsquo;re really thinking about working here, huh?</p><p>Give it a shot and apply already!</p></div>' );
-			setTimeout( function() {
-				jQuery( '.jobsidebar' ).toggleClass( 'flipped' );
-			}, 1000 );
-		}
-	}
-}
-
-</script>
 
 
-</body></html>
+<iframe scrolling="no" id="wpcom_remote_login_key" src="https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&amp;origin=aHR0cHM6Ly9teW5pbnRlbmRvbmV3cy5jb20%3D&amp;wpcomid=183679&amp;time=1575863504" style="display: none;"></iframe></body></html>
