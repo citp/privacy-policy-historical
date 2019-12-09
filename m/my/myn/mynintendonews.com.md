@@ -1,67 +1,48 @@
-> *The following text is extracted and transformed from the mynintendonews.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230213023id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynintendonews.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209035144id_/https%3A//mynintendonews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Automattic
+# Privacy Policy | My Nintendo News
 
-Your privacy is critically important to us. At Automattic we have a few fundamental principles:
+The My Nintendo News website is maintained by Excite Global Media Ltd. Protecting your privacy is important to Excite Global Media Ltd. and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
 
-  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
-  * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+When accessing our website, Excite Global Media Ltd. will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+
+When you visit our Website, we may automatically collect certain non-identifying information about you, such as your movement about the Website, time and date of accessing the site, the pages on the Website you visit most frequently, the type of browser or computer operating system you use, or the domain name of the website from which you linked to us (“Non-identifying Information”).  In addition, we may store small files on your computer’s hard drive, such as a “cookie” or similar type of file to track and target your interests.  We use this Non-identifying Information internally to help us enhance the efficiency and usefulness of the Website, for advertising purposes, and to improve customer service.  If you object to this practice, please consult your browser’s documentation for instructions on erasing or blocking cookies.
+
+If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
+
+The information collected is for statistical purposes. Excite Global Media Ltd. may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, Excite Global Media Ltd. uses software programs to monitor network traffic to identify unauthorised attempts to upload or change information, or otherwise cause damage.
+
+Excite Global Media Ltd. will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Cookies or similar type of file to track and target your interests may also be used. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/choices>.
+
+This Website may contain links to other Websites owned and operated by third parties. Please note that these websites’ privacy policies may differ from that of Excite Global Media Ltd. Excite Global Media Ltd. is not responsible for the privacy practices of those third parties and does not control the use of information provided through such third party websites. We encourage you to read the privacy policy of any website you may visit.
+
+## General Data Protection Regulation (GDPR)
+
+All EU citizens have additional rights under the GDPR. We take GDPR seriously and will process any GDPR requests without undue delay. Email all GDPR related requests to admin (at) mynintendonews.com Include necessary information to identify the requested action and data subject as defined by [the GDPR](https://gdpr-info.eu/).
+
+Certain data is required to use our service. We track IP addresses for fraud and abuse prevention. Username, Handle and Email is required for account creation. Under the GDPR our legal basis for this collection is legitimate interest due to requiring of processing this data to provide our services for login, user accounts, etc.
+
+### You can contact us at any time to:
+
+  * Request information that Excite Global Media Ltd. has about you.
+  * Correct any information that Excite Global Media Ltd. has about you.
+  * Delete information that Excite Global Media Ltd. has about you.
 
 
 
-Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
+### You have the following rights under the GDPR:
 
-If you have questions about deleting or correcting your personal data please contact our [support team](http://support.wordpress.com/).
-
-Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](http://www.automattic.com/), [wordpress.com](http://www.wordpress.com/), [gravatar.com](http://www.gravatar.com/), [intensedebate.com](http://www.intensedebate.com/), and [akismet.com](http://www.akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
-
-### Website Visitors
-
-Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic’s purpose in collecting non-personally identifying information is to better understand how Automattic’s visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-
-Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Automattic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
-
-### Gathering of Personally-Identifying Information
-
-Certain visitors to Automattic’s websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [WordPress.com](http://www.wordpress.com/) to provide a username and email address. Those who engage in transactions with Automattic – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-
-### Aggregated Statistics
-
-Automattic may collect statistics about the behavior of visitors to its websites. For instance, Automattic may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.
-
-### Protection of Certain Personally-Identifying Information
-
-Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-### Cookies
-
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
-
-### Business Transfers
-
-If Automattic, or substantially all of its assets, were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
-
-### Ads
-
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
-
-### Comments
-
-Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
-
-### Privacy Policy Changes
-
-Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-**Change log:**
-
-  * _September 18, 2013:_   Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
-  * _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph
-  * _January 3, 2011:_ Added court order and subpoena clarification
-  * _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
-  * _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy
-  * _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies
+  * Right to be informed
+  * Right of access
+  * Right of rectification
+  * Right to erasure
+  * Right to restrict data processing
+  * Right to data portability
+  * Right to object
+  * Rights of automated decision-making and profiling
 
 
