@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissthemgoodbye.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627081954id_/http%3A//www.flaunt.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissthemgoodbye.net privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210212856id_/http%3A//www.flaunt.nu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flaunt Network
 
@@ -11,6 +11,8 @@ The following privacy policy applies to Flaunt.nu (“us”, “we”, or “our
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from Flaunt Network.
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie.
 
 ### **Definitions**
 
