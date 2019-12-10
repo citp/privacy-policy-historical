@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124034455id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210051232id_/https%3A//ww2.kqed.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About KQED
 
-This Privacy Policy, along with our [Terms of Service](http://ww2.kqed.org/about/help-old/terms-service/), applies to all users of KQED Inc.’s (“KQED”) digital platforms, including this website (the “Site”), embeddable content that we may make available for use on other people’s websites or digital platforms, and our apps (collectively, the “KQED Platform”), other than third party content, as discussed in Links to Third Party Sites and Services, below.
+This Privacy Policy, along with our [Terms of Service](http://ww2.kqed.org/about/terms-service/), applies to all users of KQED Inc.’s (“KQED”) digital platforms, including this website (the “Site”), embeddable content that we may make available for use on other people’s websites or digital platforms, and our apps (collectively, the “KQED Platform”), other than third party content, as discussed in Links to Third Party Sites and Services, below.
 
   * We only collect your personal information when you voluntarily provide it on the KQED Platform.
   * We will honor your browser’s Do Not Track setting.
@@ -90,6 +90,6 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 ## Terms of Use
 
-Please also make sure to read the [KQED Public Media Website’s Terms of Service](http://ww2.kqed.org/about/help/terms-service/) to understand the additional terms and conditions which apply to your use of the KQED Platform.
+Please also make sure to read the [KQED Public Media Website’s Terms of Service](https://ww2.kqed.org/about/terms-service/) to understand the additional terms and conditions which apply to your use of the KQED Platform.
 
 _Effective_ : May 5, 2016
