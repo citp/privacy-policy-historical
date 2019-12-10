@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616002028id_/https%3A//www.fragomen.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210163314id_/https%3A//www.fragomen.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy policies | Fragomen
 
