@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zimeye.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330131541id_/https%3A//www.zimeye.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zimeye.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210035731id_/https%3A//www.zimeye.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | ZimEye
 
 This privacy policy sets out how ZimEye uses and protects any information that you provide ZimEye .
 
-ZimEye is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+ZimEye is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 ZimEye does not collect personal data. This website uses cookies to collect and process anonymized statistical information such as mobile device used, geographical location for monitoring a user’s city or country, websites tracking, but in any case, ZimEye.com does not link any information to personal data relating to an identified or identifiable natural person.
 
