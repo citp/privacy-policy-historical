@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csoonline.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330170406id_/https%3A//www.csoonline.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csoonline.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210080158id_/https%3A//www.csoonline.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policies | CSO
 
@@ -165,27 +165,22 @@ If you believe you have suffered harm due to a breach of your rights by IDGC und
 
 The contact information for IDGC’s Data Protection Officer is: 
 
-**Mr. Keith Arnot**  
-c/o IDG Communications Ltd.  
-101 Euston Road  
-London NW1 2RA  
-United Kingdom   
-Email: [GDPR@idgcommunications.com](mailto:GDPR@idgcommunications.com)
-
-IDGC has also designated a Representative in the EU:
-
-**Mr. John McGill**  
+Mr. John McGill  
 c/o IDG Direct  
 Millennium House  
 Great Strand Street  
 Dublin 1  
 Ireland  
-Email: [GDPRrepresentative@idgcommunications.com](mailto:GDPRrepresentative@idgcommunications.com)
+[ GDPR@idgcommunications.com](mailto:GDPR@idgcommunications.com)
 
-## Feedback
+IDGC has also designated a Representative _in the EU_ :
 
-Your feedback is important to us. We’d love to hear your ideas, opinions and comments about IDGC’s services. Please email: [websites@idg.com](mailto:websites@idg.com)
+IDG Communications Media AG  
+Lyonel-Feininger-Strasse 26  
+Munich 80807  
+Germany  
+[GDPRrepresentative@idgcommunications.com](mailto:GDPRrepresentative@idgcommunications.com)
 
-[Download Privacy Policy](https://alt.idgesg.net/policies/privacy/csocom_privacy_policy_PP-050818001.pdf)
+[Download Privacy Policy](https://alt.idgesg.net/policies/privacy/idgc_privacy_policy_PP-130919001.pdf)
 
-Last Updated: May 8 2018 [Version PP-050818001] 
+Last updated: 13 September 2019 [Version PP-130919001]
