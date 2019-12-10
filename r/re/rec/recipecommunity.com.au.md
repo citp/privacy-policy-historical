@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320073737id_/https%3A//www.recipecommunity.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210232500id_/https%3A//www.recipecommunity.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Thermomix Forum & Recipe Community
 
