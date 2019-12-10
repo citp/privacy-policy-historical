@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the activision.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609150235id_/https%3A//www.activision.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activision.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210174942id_/https%3A//www.activision.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Activision | Privacy Policy
 
-**Activision uses "Cookies" to tailor content and marketing, and to improve and adjust user experiences. To find out more about "Cookies", and the options available to manage them, please[click here](https://web.archive.org/legal/cookie-policy). By using this Activision online property, you consent to our use of "Cookies".**
+**Activision uses "Cookies" to tailor content and marketing, and to improve and adjust user experiences. To find out more about "Cookies", and the options available to manage them, please[click here](https://web.archive.org/legal/cookie-policy). By using this Activision online property, you consent to our use of "Cookies".  **
 
-**Welcome to Activision's Privacy Policy. This Privacy Policy was last updated on May 25, 2018.**
+**Welcome to Activision's Privacy Policy. This Privacy Policy was last updated on October 30, 2019.**
 
-[](http://www.esrb.org/epcconfirm/activision/EN)
+[](http://www.esrb.org/confirm/activision-confirmation.aspx)
 
 Every day, millions of people worldwide use and enjoy Activision websites, products and services. We appreciate your trust in our products and services. In order to provide you with great games and make them better, Activision Publishing, Inc. (" **Activision** ") will collect both personal information and non-personal information (collectively, " **Information** ") and act as the data controller regarding your personal information. We take care of how your Information is processed and used.
 
@@ -17,7 +17,9 @@ This Privacy Policy:
 
 
 
-Activision uses cookies and/or similar technologies on the Properties. For more information about Activision’s use of cookies please see our _[Cookie Policy](https://web.archive.org/legal/cookie-policy)_ , which is also incorporated by reference into this Privacy Policy and made part of this Privacy Policy. 
+By downloading, accessing, using, playing, and/or interacting with our Properties, you agree to the collection and use of your Information in accordance with this Privacy Policy. You also consent to Activision’s and our advertising partners’ use of your data for targeted advertising purposes as described the **Mobile Advertising** section below.
+
+Activision uses cookies and/or similar technologies on the Properties. For more information about Activision’s use of cookies, and how you can withhold or withdraw your consent to the use of your data for targeted advertising purposes, please see our Cookie Policy, which is also incorporated by reference into this Privacy Policy and made part of this Privacy Policy. If you have any concerns about providing Information to us or it being used as described in this Privacy Policy you should not use our Properties.
 
 Activision reserves the right to make changes to this Privacy Policy at any time by posting a modified version online at <https://www.activision.com/legal/privacy-policy>, so please review it frequently to ensure you are aware of any changes. If Activision makes a material change to this Privacy Policy, we will provide notice to you in our Privacy Policy as posted and on the Activision home page.
 
@@ -45,7 +47,7 @@ This Privacy Policy applies to all Properties, including:
 
   * Activision websites, online products and services;
   * Activision console games; and
-  * Activision mobile applications.
+  * Activision mobile games and applications.
 
 
 
@@ -100,7 +102,7 @@ As set out in more detail in the following, Activision may collect Information f
 **Activision will collect certain Information from you when you register with a Property. Personal information collected during registration includes your first and last name, email address, username, and in specific cases, phone number. This personal information is combined with other Information such as your date of birth, country and information about your interests in and use of various products, programs and services and marketing preferences. Additionally, we collect and combine Information when you link a third party account (e.g., XBOX Live, PlayStation Network, Steam and Battle.net) to your Activision account, such as the username associated with you third party account, and the use of certain Properties may require you to link a third party account to your Activision account. 
 
 **B. Use of Our Properties  
-**When you visit or use our Properties we collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, advertising ID, third party account information (e.g., the username associated with your XBOX Live, PlayStation Network, Steam or Battle.net account), gameplay data, purchase histories, and Social Media data. We use Cookies and/or similar technologies (collectively referred to as “ **Cookies** ”) to do this. In addition, we or our partners also use Cookies to serve ads in our Properties. Please see our _[Cookie Policy](https://web.archive.org/legal/cookie-policy)_ for more details.
+**When you visit or use our Properties we collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, advertising ID, third party account information (e.g., the username associated with your XBOX Live, PlayStation Network, Steam or Battle.net account), gameplay data, purchase histories, and Social Media data. We use Cookies and/or similar technologies (collectively referred to as “ **Cookies** ”) to do this. In addition, we or our partners also use Cookies and advertising IDs to serve ads in our Properties. Please see our _[Cookie Policy](https://web.archive.org/legal/cookie-policy)_ for more details.
 
 Activision collects, processes, and combines data such as your age, gender, interests, name, email address, gameplay, marketing preferences, customer service, and device-related information.
 
@@ -120,11 +122,21 @@ In order to be able to provide you with customer service and assist you with res
 
 Activision offers you the ability to receive newsletters or marketing periodically by email about our products and services. We also, from time to time, will send you surveys in order to improve player experience with our games. At any time, you can manage your preferences from your account settings and stop receiving further newsletters by unsubscribing from the link in the footer of each email we send to you. 
 
-**F.  Buy Activision Products or Services Online**
+**F. Mobile Advertising**
+
+Our mobile games include advertising for third party products and services. By accepting this Privacy Policy and downloading or continuing to play our mobile games, and unless you opt out of interest-based advertising as explained in our Cookie Policy, you consent to us and our advertising partners collecting, sharing and using information about you to show you relevant third party ads that might be of interest to you in our mobile games, and to improve advertising, targeting and measurement systems.
+
+When you play our mobile games, we collect and share Information, including advertising IDs, non-personal identifiers and other information from your mobile device with advertising partners to enable the technical delivery of ads to your device. Our advertising partners may combine this Information with information which they have collected about you when you use their services (or the websites or services of third parties) in order to serve you more relevant ads in our mobile games or to improve the accuracy of their targeting and measurement systems. We recommend that you review our advertising partners’ privacy policies for more information, accessible in our Cookie Policy.
+
+You can review your options to manage and opt-out of mobile advertising by (1) visiting your mobile device developer's website or reviewing your device manual. Most mobile device developers will tell you how you can manage the settings on your mobile device to opt out of and/or delete Cookies from your mobile device, or to limit the use of your advertising ID, reset your advertising ID, and/or opt out of targeted advertising; or(2) by visiting http://networkadvertising.org/managing/opt_out.asp and/or http://youronlinechoices.com, or if you are in the EU http://www.youronlinechoices.eu/, for choices to opt out of advertising. You can also click on the AdChoices logo within an advertisement (where available).
+
+Please note: adjusting your preferences as described in this section does not mean you will no longer receive advertisements, it only means the ads you do see will be less relevant to your interests. We will also still use your device’s advertising ID to serve you with ads that may be less relevant to you; for example, we may use this for frequency capping (in other words, to control the maximum number of times you see the same ad from us).
+
+**G.  Buy Activision Products or Services Online**
 
 Activision does not collect any credit card and/or billing information when you purchase products or services (such as digital content) online. However, you may be required to provide credit card and/or billing information to one of our third-party vendors in order to complete a purchase. We encourage you to review the privacy policy of our third-party vendors before providing them with your personal information, as their privacy practices may vary from ours. At the time of purchase, in specific cases, you also have the option to provide Information (such as your email address) to Activision for the purpose of sending you additional information or offers.
 
-**G. Social Media**
+**H. Social Media**
 
 You can interact with some Properties through social networking sites, such as Facebook and Twitter (or social media plug-ins and applications) (" **Social Media** "). When you interact with Activision and/or the Properties through Social Media you acknowledge that we access your Information, solely in accordance with your Social Media privacy settings, and use it to tailor content, marketing, and improve and adjust user experience relating to Activision Properties, as well as (1) give you exclusive content; (2) personalize your online experience with us within and outside our Properties; and (3) contact you in accordance with applicable marketing preferences through Social Media, including through providing tailored marketing, or directly by sending you the latest news, special offerings, and rewards.
 
@@ -293,7 +305,8 @@ _Consent_
 
 We process your personal information based on your consent. This includes, for example, providing:
 
-  * newsletters, direct e-mails and surveys about our Properties; and
+  * newsletters, direct e-mails and surveys about our Properties;
+  * targeted ads in our mobile games; and
   * certain other marketing features.
 
 
@@ -338,7 +351,5 @@ Back to top
 In addition, if you are a visitor to our websites or other online products and services from outside the U.S., the personal information you provide will be collected, processed and stored directly on, or transferred to, servers in the United States or other countries where Activision group companies or our other partners or vendors maintain facilities or business operations.
 
 No matter where the Information is located, Activision takes commercially reasonable measures to safeguard your privacy rights in accordance with this Privacy Policy. If you do not agree to the collection, processing, storage and transfer of your Information, please do not provide your Information when requested and stop using our websites and other online products and services.
-
-Unfortunately, as of September 1st, 2015, we no longer offer Activision accounts to Russian based consumers.
 
 Back to top
