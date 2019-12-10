@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331063744id_/https%3A//www.fandm.edu/college-policies/technology/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210045910id_/https%3A//www.fandm.edu/college-policies/technology/privacy-notice) for the most accurate reproduction.*
 
 # Franklin & Marshall – Privacy Notice for F&M Website
 
@@ -59,52 +59,6 @@ F&M revises this notice annually.  To learn of any changes since the publicatio
 
 ##### The table below explains the cookies we use and why:
 
-**Cookie**  
-  
----  
-  
-fandm.sid  
-  
-**Purpose**
-
-| 
-
-**Session ID**
-
-This cookie stores a unique ID assigned by the web server.  It is used to enable some site functionality to work properly.  It is deleted when you close your browser.  
-  
-_node
-
-_hash
-
-TS01e84c7d  
-  
-**Purpose**
-
-| 
-
-**www.fandm.edu/admission**
-
-These cookies are used by F&M’s apply.fandm.edu  portion of F&M’s website to collect information about how visitors use our site.  We use the information to compile reports and to help us improve the site. These cookies are also used to track users’ interests and then provide targeted advertising on other sites.  The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visit.  
-  
-_utma
-
-_utmc
-
-_utmv
-
-_ga
-
-_gid  
-  
-**Purpose**
-
-| 
-
-**Google analytics**
-
-These cookies are used to collect information about how visitors use our site.  We use the information to compile reports and to help us improve the site. These cookies are also used to track users’ interests and then provide targeted advertising on other sites.  The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visit.  
-  
 **Cookie**
 
 | 
@@ -159,7 +113,7 @@ Admission, Athletics, Advancement and general Communications email marketing to 
 
 #### 7\. For more information
 
-Please refer to [F&M’s privacy policy](https://web.archive.org/college-policies/news-media-publicity-promotions/privacy-policy) for additional information.
+Please refer to [F&M’s privacy policy](https://web.archive.org/college-policies/technology/privacy-policy) for additional information.
 
 For additional information or to make an inquiry regarding F&M’s privacy practices, please contact F&M’s Data Protection Officer.
 
@@ -175,4 +129,4 @@ This notice may be reviewed and revised at any time.  
 
 \-------------------------  
 Notice Maintained by: Information Technology Services, Vice President and Chief Information Officer  
-Last Reviewed: 9 August 2018
+Last Reviewed: 03 September 2019
