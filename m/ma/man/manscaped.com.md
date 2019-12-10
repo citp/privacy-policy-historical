@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manscaped.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505235853id_/https%3A//www.manscaped.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manscaped.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210024827id_/https%3A//www.manscaped.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Manscaped Website - Manscaped.com
 
@@ -30,9 +30,9 @@ If you change your mind and no longer wish to receive these updates, you can opt
 
 Manscaped
 
-9240 Trade Place, Suite 100
+3394 Carmel Mountain Road, Suite 140
 
-San Diego, CA 92126
+San Diego, CA 92121
 
 Please note that even if you opt-out of receiving marketing emails from us, you may still receive email messages regarding your order, such as order confirmation, shipping information, and customer service notifications.
 
@@ -50,9 +50,9 @@ California law permits our customers who are California residents to request cer
 
 Manscaped
 
-9240 Trade Place, Suite 100
+3394 Carmel Mountain Road, Suite 140
 
-San Diego, CA 92126
+San Diego, CA 92121
 
 **SECTION 6 – Interest Based Advertising**
 
@@ -76,8 +76,8 @@ If you would like to access, correct, amend or delete any personal information w
 
 Manscaped
 
-9240 Trade Place, Suite 100
+3394 Carmel Mountain Road, Suite 140
 
-San Diego, CA 92126
+San Diego, CA 92121
 
 If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
