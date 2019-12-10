@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816024636id_/https%3A//www.schwans.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210123432id_/https%3A//www.schwans.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Schwan's
 
-Last updated: June 2, 2017
+Last updated: November 1, 2018
 
 * * *
 
@@ -64,7 +64,7 @@ Currently, our online Services do not recognize automated browser signals regard
 
 ## Miscellaneous
 
-Schwans.com may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites.
+Schwans.com may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. Your use of third-party websites and resources is at your own risk.
 
 It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information.
 
