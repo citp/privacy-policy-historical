@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurumaa.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613023230id_/http%3A//www.gurumaa.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurumaa.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210102207id_/http%3A//www.gurumaa.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
