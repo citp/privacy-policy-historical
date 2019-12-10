@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polylang.pro privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126121936id_/https%3A//polylang.pro/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polylang.pro privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210193535id_/https%3A//polylang.pro/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Polylang
 
