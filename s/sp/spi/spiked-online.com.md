@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiked-online.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620022131id_/https%3A//www.spiked-online.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiked-online.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210171700id_/https%3A//www.spiked-online.com/privacy) for the most accurate reproduction.*
 
 # Privacy notice - spiked
 
@@ -114,3 +114,7 @@ We keep our Privacy Notice under regular review. This Privacy notice was last up
 ## How to contact us
 
 If you want to request information about our Privacy Notice, you can contact Viv Regan, managing editor, on [viv.regan@spiked-online.com](mailto:viv.regan@spiked-online.com).
+
+## Change your consent settings
+
+Change Consent
