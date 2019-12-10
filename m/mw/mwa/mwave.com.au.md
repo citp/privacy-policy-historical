@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mwave.com.au privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501125859id_/https%3A//www.mwave.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwave.com.au privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210122240id_/https%3A//www.mwave.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Customer Service Help & Support Centre | Mwave.com.au
 
