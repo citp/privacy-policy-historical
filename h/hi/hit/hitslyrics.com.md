@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslyrics.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508232741id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslyrics.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211001041id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - Stlyrics.com
 
