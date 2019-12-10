@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellomagazine.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423005759id_/https%3A//www.hellomagazine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellomagazine.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210043553id_/https%3A//www.hellomagazine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy| hellomagazine.com
 
