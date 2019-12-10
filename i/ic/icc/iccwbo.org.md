@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406053944id_/https%3A//iccwbo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210035641id_/https%3A//iccwbo.org/privacy) for the most accurate reproduction.*
 
 # Privacy - ICC - International Chamber of Commerce
 
@@ -248,6 +248,12 @@ The controller shall communicate any rectification or erasure of personal data o
 
 
 If you no longer wish to receive communications from ICC, you may opt out by cancelling your subscription on the ICC Site through the link sent in each email you receive from ICC, or by sending an email to [ICC_Connect@iccwbo.org](mailto:ICC_Connect@iccwbo.org).
+
+  *  **Right to lodge a complaint with EU supervisory authority**
+
+
+
+The Commission Nationale Informatique et Libertés (CNIL): [https://www.cnil.fr](https://www.cnil.fr/)
 
 ###  **9\. Cookies Policy**
 
