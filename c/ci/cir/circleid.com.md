@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleid.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615200341id_/http%3A//www.circleid.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleid.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210033323id_/http%3A//www.circleid.com/about/privacy) for the most accurate reproduction.*
 
 # CircleID - About CircleID
 
