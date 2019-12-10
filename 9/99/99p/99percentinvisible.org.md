@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99percentinvisible.org privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530152938id_/https%3A//99percentinvisible.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99percentinvisible.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210202106id_/https%3A//99percentinvisible.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 99% Invisible
 
