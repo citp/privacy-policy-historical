@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the holded.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902113133id_/https%3A//www.holded.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holded.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210023512id_/https%3A//www.holded.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Holded
+# Privacy Policy | Holded
 
-###### Introduction
+#####  Introduction
 
 Holded's privacy policy follows international data protection legislation. In addition, Holded intends to inform the user through this document of their rights and obligations regarding the privacy of their data, in addition to explaining the reasons for the storage and use of the data.
 
 * * *
 
-  
-
-
-###### Data collected by Holded
+#####  Data collected by Holded
 
 Holded collects all the information entered in the application by the user and stores it on their own servers or on the servers of the Holded storage provider. Being a Cloud service, server storage is a requirement for the operation of the application , That is why the user accepts this fact.
 
@@ -21,59 +18,25 @@ Finally, Holded collects data from the connection device through cookies. The us
 
 * * *
 
-  
-
-
-###### Who is responsible for the processing of your data?
-
-Company: Holded Technologies S.L
-
-Address: C/Llacuna 162, 08018 Barcelona, Spain
-
-E-mail:hello@holded.com
-
 * * *
 
-  
-
-
-###### For what purpose do we treat your personal data?
+#####  For what purpose do we treat your personal data?
 
 In Holded technologies S.L we treat the information that the interested persons facilitate us with the purpose of lending and / or commercializing the products and / or services offered by our firm.
 
 * * *
 
-  
-
-
-###### How long will we keep your data?
+#####  How long will we keep your data?
 
 The personal data provided will be kept for the time necessary for the provision of the service requested or marketing of the product and during the legally established periods.
 
 * * *
 
-  
-
-
-###### What is the legitimacy for the treatment of your data?
-
-The legal basis for the treatment of your data is the execution of a contract or if it is not the case, it will be the consent of the interested party.
+* * *
 
 * * *
 
-  
-
-
-###### To which recipients will your data be communicated?
-
-The data will not be communicated to third parties except legal obligation.
-
-* * *
-
-  
-
-
-###### What are your rights when you provide us with your data?
+#####  What are your rights when you provide us with your data?
 
 Anyone has the right to obtain information about whether Holded Technologies S.L is processing personal data that concerns them, or not.
 
@@ -91,19 +54,13 @@ In case you feel your rights are violated in relation to the protection of your 
 
 * * *
 
-  
-
-
-###### How have we obtained your data?
+#####  How have we obtained your data?
 
 The personal data that we treat in Holded technologies S.L come from the data categories that are treated are: We do not deal with special categories of personal data. All personal data obatined by Holded has been facilitated directly by the user
 
 * * *
 
-  
-
-
-###### Data shared by user
+#####  Data shared by user
 
 Many of our services allow you to share information with other users. Remember that when you share information publicly, it can be indexed by search engines. Our services provide you with different options on how to share and delete your content. How to access your personal data and update them whenever you use our services, our goal is to provide access to your personal information. If that information is not correct, we strive to provide you with ways to eliminate or update it quickly, unless we have to maintain that information for legitimate business or legal reasons. By updating your personal information, we may ask you to verify your identity so we can process your request.
 
@@ -113,19 +70,13 @@ By providing our services, we will protect your data so that they can not be acc
 
 * * *
 
-  
-
-
-###### Access and modification of user data
+#####  Access and modification of user data
 
 The user can modify at any time his user data or the accounts of which he owns. Holded does not store the modified information, so that once the user modifies or deletes the information, he will lose it forever within the application.
 
 * * *
 
-  
-
-
-###### The data we share
+#####  The data we share
 
 We do not share personal information with companies, organizations or individuals that are not related to Holded, unless any of the following circumstances apply:
 
@@ -137,10 +88,7 @@ We do not share personal information with companies, organizations or individual
 
 * * *
 
-  
-
-
-###### Data security
+#####  Data security
 
 For Holded, security is the most important thing. Currently the data storage service is done through specialized providers with security certificates and anti hacking systems. Holded has decided to outsource storage to ensure the vendor meets the highest security standards, at levels that Holded could not offer on its own storage servers.
 
@@ -148,34 +96,25 @@ We endeavor to protect Holded and our users from any unauthorized modification, 
 
 * * *
 
-  
-
-
-###### Application of the privacy policy
+#####  Application of the privacy policy
 
 Our Privacy Policy applies to all services offered by Holded and its affiliates, including Holded, but excludes services that are subject to independent privacy policies that do not incorporate this Privacy Policy.
 
 * * *
 
-  
-
-
-###### Law compliance
+#####  Law compliance
 
 At Holded we verify compliance with our Privacy Policy on a regular basis. We also adhere to different self-regulation codes. In the event that we receive a formal written complaint, we will contact the person who made it to follow up on it. We will work with the relevant regulatory authorities, including local data protection authorities, to resolve any claims related to the transfer of personal data that we have not been able to resolve directly with the user.
 
 * * *
 
-  
-
-
-###### Modifications
+#####  Modifications
 
 Our Privacy Policy may be modified at any time. We will not limit your rights under this Privacy Policy without your express consent. We will post all modifications to this Privacy Policy on this page and, if significant, we will make a more noticeable notification (for example, we will send you an email notification if the modification affects certain services). In addition, we will archive the previous versions of This Privacy Policy so that you can consult them.
 
 * * *
 
-###### More information about the processing of your data
+#####  More information about the processing of your data
 
 When we need to obtain information from you, we will always ask you to provide it voluntarily by giving your consent expressly through the means enabled for it.
 
@@ -190,3 +129,12 @@ If you choose to leave our website through links to websites not belonging to ou
 Our policy regarding the sending of our emails is focused on sending only communications that you have requested to receive. If you prefer not to receive these messages by email, we will offer you the possibility to exercise your right to suppress and waive the receipt of these messages, in accordance with the provisions of Title III, article 22 of Law 34 / 2002, Services for the Information Society and Electronic Commerce.
 
 * * *
+
+Hours of Operation  
+Monday to Friday, 09:00 to 18:00 
+
+##### +44 20 3966 5955
+
+### We Can Help
+
+Around the clock support means you're never alone.
