@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terminals.io privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827185942id_/https%3A//www.terminals.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminals.io privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210170550id_/https%3A//www.terminals.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Terminals by Evolve PR
 
