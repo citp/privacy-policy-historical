@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630032813id_/http%3A//www1.cbn.com/about/cbn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210135703id_/https%3A//www1.cbn.com/about/cbn-privacy-policy) for the most accurate reproduction.*
 
 # CBN Privacy Policy | CBN.com
 
@@ -37,44 +37,43 @@ As noted above, we collect information from you in the course of your use of the
 CBN collects personal information for the following purposes. We have also provided the legal basis that we rely on to justify this use of your personal information.
 
 **Purpose** \- To provide the CBN website to you  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website) and, depending on the circumstances, to perform a contract between you and us
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website) and, depending on the circumstances, to perform a contract between you and us
 
 **Purpose** \- To determine membership eligibility and enroll a member in Superbook;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services) and, depending on the circumstances, to perform a contract between you and us
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services) and, depending on the circumstances, to perform a contract between you and us
 
 **Purpose** \- To register individuals for CBN services, products or events;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services, including events) and, depending on the circumstances, to perform a contract between you and us
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services, including events) and, depending on the circumstances, to perform a contract between you and us
 
 **Purpose** \- To provide you with member benefits, products or services that you have requested and related information about those products and services;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services) and, depending on the circumstances, to perform a contract between you and us
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services) and, depending on the circumstances, to perform a contract between you and us
 
 **Purpose** \- To communicate with you and to respond to prayer requests, concerns, or questions that you have raised with us;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and services)
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and services)
 
 **Purpose** \- To administer and improve the CBN website;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services, as well as to improve and ensure the security of those products and services)
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services, as well as to improve and ensure the security of those products and services)
 
 **Purpose** \- To process your payment for CBN services, products and events;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and services) and, depending on the circumstances, to perform a contract between you and us
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and services) and, depending on the circumstances, to perform a contract between you and us
 
 **Purpose** \- To process your donations to CBN;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and services)
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and services)
 
 **Purpose** \- To administer and provide you with the benefits of CBN membership;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and services)
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and services)
 
 **Purpose** \- To send you, or for our third party partners to send you, information about products, services and events that may be of interest to you based on your preferences;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services)
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services)
 
 **Purpose** \- To administer surveys and contests;  
- **Legal Bases** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services)
+ **Legal Basis** \- For our legitimate business purposes (i.e., the provision of the CBN website and member services)
 
 **Purpose** \- To prevent and detect fraud; and  
- **Legal Bases** \- For our legitimate business purposes and for compliance with legal obligations to which we are subject
+ **Legal Basis** \- For our legitimate business purposes and for compliance with legal obligations to which we are subject
 
 **Purpose** \- To protect and enforce our legal rights.  
- **Legal Bases** \- For our legitimate business purposes and for compliance with legal obligations to which we are subject  
- 
+ **Legal Basis** \- For our legitimate business purposes and for compliance with legal obligations to which we are subject
 
 We may also request your consent in circumstances where a legal justification over and above legitimate interests is required by applicable law (e.g., in relation to our use of certain cookies) and process your information based on such consent.  You have the right to withdraw your consent at any time in your sole discretion.
 
@@ -113,49 +112,49 @@ Please see the information below for a summary of your rights and who to contac
 
 You have the right to receive a copy of your personal information that we hold about you, subject to certain exemptions.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#315550455041435e45545245585e5f7152535f1f5e4356)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a5c1c4d1c4d5d7cad1c0c6d1cccacbe5c6c7cb8bcad7c2)
 
 **Right to rectify your personal information**
 
 You have the right to ask us to correct your personal information that we hold where it is incorrect or incomplete.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4c282d382d3c3e2338292f382523220c2f2e2262233e2b)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5733362336272538233234233e38391734353979382530)
 
 **Right to erasure of your personal information:**
 
 You have the right to ask that your personal information be deleted in certain circumstances. For example (i) where your personal information is no longer necessary in relation to the purposes for which they were collected or otherwise used; (ii) if you withdraw your consent and there is no other legal ground for which we rely on for the continued use of your personal information; (iii) if you object to the use of your personal information ; (iv) if we have used your personal information unlawfully; or (v) if your personal information needs to be erased to comply with a legal obligation.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#294d485d48595b465d4c4a5d404647694a4b4707465b4e)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b1b4a1b4a5a7baa1b0b6a1bcbabb95b6b7bbfbbaa7b2)
 
 **Right to restrict the use of your personal information**
 
 You have the right to suspend our use of your personal information in certain circumstances. For example (i) where you think your personal information is inaccurate and only for such period to enable us to verify the accuracy of your personal information; (ii) the use of your personal information is unlawful and you oppose the erasure of your personal information and request that it is suspended instead; (iii) we no longer need your personal information, but your personal information is required by you for the establishment, exercise or defense of legal claims; or (iv) you have objected to the use of your personal information and we are verifying whether our grounds for the use of your personal information override your objection.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#056164716475776a716066716c6a6b4566676b2b6a7762)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#600401140110120f14050314090f0e2003020e4e0f1207)
 
 **Right to data portability**
 
 You have the right to obtain your personal information in a structured, commonly used and machine-readable format and for it to be transferred to another organization, where it is technically feasible. The right only applies where the use of your personal information is based on your consent or for the performance of a contract, and when the use of your personal information is carried out by automated (i.e. electronic) means.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#046065706574766b706167706d6b6a4467666a2a6b7663)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94f0f5e0f5e4e6fbe0f1f7e0fdfbfad4f7f6fabafbe6f3)
 
 **Right to object to the use of your personal information**
 
 You have the right to object to the use of your personal information in certain circumstances. For example, if you object to the use of your personal information for direct marketing purposes.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bfdbdecbdecfcdd0cbdadccbd6d0d1ffdcddd191d0cdd8)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aacecbdecbdad8c5decfc9dec3c5c4eac9c8c484c5d8cd)
 
 **Right to withdraw consent**
 
 You have the right to withdraw your consent at any time where we rely only on consent to use your personal information.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d292c392c3d3f2239282e392422230d2e2f2363223f2a)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#402421342130322f34252334292f2e0023222e6e2f3227)
 
 **Right to complain to the relevant data protection authority**
 
 You have the right to complain to the relevant data protection authority having jurisdiction over CBN when you think we have not used your personal information in accordance with applicable data protection law.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81e5e0f5e0f1f3eef5e4e2f5e8eeefc1e2e3efafeef3e6)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fa9e9b8e9b8a88958e9f998e939594ba999894d495889d)
 
 **Children**  
 Children under 18 may only use a CBN site with the consent and involvement of a parent.
@@ -211,17 +210,17 @@ CBN 
 977 Centerville Turnpike   
 Virginia Beach, Virginia 23463  
 United States   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0d4d1c4d1c0c2dfc4d5d3c4d9dfdef0d3d2de9edfc2d7)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8de9ecf9ecfdffe2f9e8eef9e4e2e3cdeeefe3a3e2ffea)
 
 You are entitled to make an anonymous complaint or inquiry in relation to this Privacy Policy or your privacy rights; however, we may require you to identify yourself if required by law or it is impracticable for us to deal with your matter otherwise.
 
 We will acknowledge receipt of any written complaint within five business days and will work to provide you with a written response within 30 days of receipt of your complaint. There may be instances where this is not possible due to the content of the complaint. In such circumstances, we will respond to your complaint in a reasonable and practical time.  You also have the right to file a complaint with the appropriate governmental authority having jurisdiction over CBN.
 
 **CBN Website and Communications Terms of Use**  
-Please refer to CBN’s [**Terms of Use**](https://www1.cbn.com/terms-of-use) on all issues related to accessing, posting and sharing information through CBN’s website and communication services.  By using this CBN site, you are agreeing that your use and your relationship with CBN through the CBN website are governed by this Privacy Policy and CBN’s [Terms of Use](https://web.archive.org/cdn-cgi/l/email-protection#0f6b6e7b6e7f7d607b6a6c7b6660614f6c6d6121607d68).  In case of conflict, the CBN Terms of Use shall control.
+Please refer to CBN’s [**Terms of Use**](https://www1.cbn.com/terms-of-use) on all issues related to accessing, posting and sharing information through CBN’s website and communication services.  By using this CBN site, you are agreeing that your use and your relationship with CBN through the CBN website are governed by this Privacy Policy and CBN’s [Terms of Use](https://web.archive.org/cdn-cgi/l/email-protection#e38782978293918c978680978a8c8da380818dcd8c9184).  In case of conflict, the CBN Terms of Use shall control.
 
 **Changes to Our Privacy Policy**  
 CBN reserves the right to change this Privacy Policy as CBN deems necessary or appropriate.  Any material changes to the Privacy Policy will be posted. The updated Privacy Policy will take effect as soon as it has been updated.  
  
 
-**This Privacy Policy was last updated as of April 3, 2019**
+**This Privacy Policy was last updated as of November 9, 2019**
