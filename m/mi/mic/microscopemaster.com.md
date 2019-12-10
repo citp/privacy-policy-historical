@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microscopemaster.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606000850id_/https%3A//www.microscopemaster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microscopemaster.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210074715id_/https%3A//www.microscopemaster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
