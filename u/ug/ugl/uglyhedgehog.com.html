@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uglyhedgehog.com privacy policy that was archived on 2019-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190414164641id_/https%3A//www.uglyhedgehog.com/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uglyhedgehog.com privacy policy that was archived on 2019-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191210185239id_/https%3A//www.uglyhedgehog.com/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
  <meta charset="UTF-8">
@@ -104,6 +104,15 @@ a:hover {
  font-size:1em;
  font-family:Verdana;
 }
+.horiz_a_resp{
+ width:100%;
+}
+@media (max-width:480px) {
+ .horiz_a_resp{
+   width:100%;
+   height:50px;
+  }
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-28281917-1"></script>
@@ -121,32 +130,43 @@ a:hover {
 
 
 
-
-
-
-
-
-
-
-
-
-
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    var dfpMappingHorizontal=googletag.sizeMapping()
+    	.addSize([800,0],[[728,90]])
+    	.addSize([540,0],[[468,60],[320,50]])
+    	.addSize([0,0],[[320,50]])
+    	.build();
+    var dfpMappingBottom=googletag.sizeMapping()
+    	.addSize([800,0],[[728,90],[468,60],[320,50],[336,280],[300,250],[300,600],[160,600]])
+    	.addSize([540,0],[[468,60],[320,50],[336,280],[300,250],[300,600],[160,600]])
+    	.addSize([0,0],[[320,50],[300,250],[300,600],[160,600]])
+    	.build();
+    googletag.defineSlot("/2507246/UHH//uglyhedgehog//misc//1", [320, 50], "dfp_ad_unit_top").defineSizeMapping(dfpMappingHorizontal).addService(googletag.pubads());
+    googletag.defineSlot("/2507246/UHH//uglyhedgehog//misc//2", [320, 50], "dfp_ad_unit_middle_1").defineSizeMapping(dfpMappingHorizontal).addService(googletag.pubads());
+    googletag.defineSlot("/2507246/UHH//uglyhedgehog//misc//3", [320, 50], "dfp_ad_unit_middle_2").defineSizeMapping(dfpMappingHorizontal).addService(googletag.pubads());
+    googletag.defineSlot("/2507246/UHH//uglyhedgehog//misc//4", [320, 50], "dfp_ad_unit_middle_3").defineSizeMapping(dfpMappingHorizontal).addService(googletag.pubads());
+    googletag.defineSlot("/2507246/UHH//uglyhedgehog//misc//5", [300, 250], "dfp_ad_unit_bottom").defineSizeMapping(dfpMappingBottom).addService(googletag.pubads());
+    //googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
 
 <script type="text/javascript">
-var dsreLookupCounter=0;
-var dsreComplete=false;
-function dsreLookup(){
-	var dsreElement=document.getElementById("aswift_0")||document.getElementById("aswift_1")||document.getElementById("aswift_2")||document.getElementById("aswift_3")||document.getElementById("aswift_4")||document.getElementById("aswift_5")||document.getElementById("aswift_6");
-	if(dsreElement!=null){
-		new Image().src="/images/dsre.gif?c="+dsreLookupCounter+"&r="+Math.random();
-		dsreComplete=true;
+var isDsreCallMade=false;
+googletag.cmd.push(
+	function(){
+		googletag.pubads().addEventListener("slotRenderEnded", function(event) {
+			if(!isDsreCallMade){
+				new Image().src="/images/dsre.gif?s="+event.creativeId+"&r="+Math.random();
+				isDsreCallMade=true;
+			}
+		});
 	}
-	dsreLookupCounter=dsreLookupCounter+1;
-	if(dsreLookupCounter<10&&dsreComplete==false){
-		setTimeout(dsreLookup,5000);
-	}
-}
-setTimeout(dsreLookup,2000);
+);
 </script>
 
 
@@ -160,18 +180,21 @@ setTimeout(dsreLookup,2000);
  <div style="text-align:center; font-size:1em;"><strong>Ugly Hedgehog<span class="smalltext"><sup>®</sup></span> - Photography Forum</strong></div>
  
   
-   <div style="text-align:center;" class="smalltext">
-    <a href="/">Home</a> |
-    <a href="/newsletter.jsp" style="white-space:nowrap;">Photography Digest</a> |
-    <a href="/active-topic-list" style="white-space:nowrap;"><strong>Active Topics</strong></a> |
-    
-     <a href="/newest-post-attachment-list" style="white-space:nowrap;">Newest Pictures</a> |
-    
-    <a href="/search.jsp">Search</a> |
-    <a href="/login.jsp">Login</a> |
-    <a href="/register.jsp"><strong>Register</strong></a> |
-    <a href="/help/">Help</a>
-   </div>
+   
+    <div style="text-align:center;" class="smalltext">
+     <a href="/">Home</a> |
+	 
+     <a href="/active-topic-list" style="white-space:nowrap;"><strong>Active Topics</strong></a> |
+	 
+      
+       <a href="/newest-post-attachment-list" style="white-space:nowrap;" rel="nofollow">Newest Pictures</a> |
+      
+      <a href="/search.jsp" rel="nofollow">Search</a> |
+     
+     <a href="/login.jsp" rel="nofollow">Login</a> |
+     <a href="/register.jsp" rel="nofollow"><strong>Register</strong></a>
+    </div>
+   
   
   
  
@@ -185,24 +208,6 @@ setTimeout(dsreLookup,2000);
 
 
 <div style="margin-left:1%; margin-right:1%;">
-
-
-
-
-
-
-
-
-
- <div style="margin-top:1%; width:100%;">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- sm3v1_ughe_forum_top_responsive_horizontal_adsense -->
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-client="ca-pub-5891444586149952" data-ad-slot="5454748727" data-full-width-responsive="false" data-ad-format="horizontal"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
- </div>
-
 
 
 <div class="pageheadline">Privacy Policy</div>
@@ -278,7 +283,7 @@ setTimeout(dsreLookup,2000);
 
 <p><strong>HOW INFORMATION MAY BE USED</strong></p>
 
-<p>We do not rent, sell or share customer/subscriber/user information with third parties aside from organizations which enable us to provide services (such as ESPs).</p>
+<p>We do not rent, sell or share customer/subscriber/user information with third parties aside from organizations which enable us to provide services (such as ESPs), or unless the website is sold as a whole. In which case, the entire customer/subscriber/user database is turned over to the new owner/operator of the Website as part of the sale so that they can continue operating the Website.</p>
 
 <p><strong>INFORMATION THAT IS NOT SHARED</strong></p>
 
@@ -353,36 +358,22 @@ USA<br>
 </div>
 <div class="contentlookseparator">&nbsp;</div>
 
-
-
-
- <div style="margin-top:1%; width:100%;">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- sm3v1_ughe_forum_bottom_responsive_rectangle_adsense -->
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-client="ca-pub-5891444586149952" data-ad-slot="6405153726" data-full-width-responsive="false" data-ad-format="rectangle"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
- </div>
-
-
-
-
-
 </div>
 
 
 
 
 <div style="margin-top:1%;" class="headerfooter">
- <div style="text-align:center;" class="smalltext">
-  <a href="/">Home</a> |
-  <a href="/latest-digest">Latest Digest</a> |
-  <a href="#top">Back to Top</a> |
-  <a href="/all-section-list">All Sections</a>
- </div>
+ 
+  <div style="text-align:center;" class="smalltext">
+   <a href="/">Home</a> |
+   <a href="/latest-digest">Latest Digest</a> |
+   <a href="#top">Back to Top</a> |
+   <a href="/all-section-list">All Sections</a>
+  </div>
+ 
  <div style="text-align:center; margin-top:3%;" class="smalltext">
-  <a href="/contact_us.jsp">Contact us</a> | <a href="/privacy_policy.jsp">Privacy policy</a> | <a href="/terms_of_use.jsp">Terms of use</a>
+  <a href="/contact_us.jsp" rel="nofollow">Contact us</a> | <a href="/privacy_policy.jsp" rel="nofollow">Privacy policy</a> | <a href="/terms_of_use.jsp" rel="nofollow">Terms of use</a> | <a href="/dmca.jsp" rel="nofollow">DMCA</a>
  </div>
  <div style="text-align:center;" class="smalltext">
   UglyHedgehog.com - Forum
