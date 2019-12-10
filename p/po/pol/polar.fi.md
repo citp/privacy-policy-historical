@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polar.fi privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630194352id_/https%3A//www.polar.com/en/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polar.fi privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210135133id_/https%3A//www.polar.com/en/legal/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Polar Global
 
