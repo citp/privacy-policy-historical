@@ -1,324 +1,72 @@
-> *The following text is extracted and transformed from the three.ie privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412181916id_/https%3A//www.three.ie/TIHL-Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.ie privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210110304id_/https%3A//www.three.ie/legal/policies/privacy-policy) for the most accurate reproduction.*
 
-# TIHL Privacy Notice
+# Three Website Privacy Notice.
 
-#### About this Privacy Notice
+This privacy notice explains the kinds of information we may obtain from or about you as a visitor to our websites and pages on social media or as a user of our mobile or other applications (collectively, our “website”); how we may use that information (together with information provided offline or via other means); and who we may share that information with.
 
-This Privacy Notice tells you what personal data is processed by Three in relation to you, the purposes for which it is processed and the manner and duration of the processing. This information is provided in fulfilment of Three’s duty to process data in a manner which is fair, lawful and transparent, and to provide information relating to the processing at the time of collection of that data. You should read this Privacy Notice prior to providing any personal to Three and refer to it at any time should you have queries regarding the use of your personal data.
+Each time you access, browse and/or use our website you agree to the following terms. If you do not agree you must cease to use our website. We are not responsible for the content or privacy practices of other websites.
 
-#### About Data Protection
+This website privacy notice relates solely to processing of information via this website. For more detail on Three’s processing of your personal data, please visit <http://www.three.ie/legal/policies/privacy-notice/>
 
-Three processes personal data in accordance with the requirements of Data Protection law. This law includes the Irish Data Protection Acts and the EU General Data Protection Regulation (“GDPR”).
+## General Statement.
 
-Under Data Protection law, you are the “Data Subject” in respect of any personal data relating to you. “Personal Data” is any information which relates to an identifiable natural person. It does not include information relating to a company or other legal entity.
+Reference to "3", “Three”, “we” or “us” in this Privacy Policy means Three Ireland (Hutchison) Limited of 28/29 Sir John Rogerson's Quay, Dublin 2. Three respects your right to privacy and we are committed to complying with applicable data protection and privacy law.
 
-Depending on whether you are a customer of Three Ireland (Hutchison) Limited, or Three Ireland Services (Hutchison) Limited (formerly O2), one or both of those companies is the “Data Controller” in respect of this data. This Privacy Notice applies to both companies, and collectively refers them as “Three”.
+We will only collect personal information about you through this website with your awareness and as described in this policy. Any personal information which you provide to us and/or which we obtain about you, will be kept secure and confidential using appropriate technical measures. We may combine personal information that we collect via one method (for example, our website) with personal information that we collect via another method (for example, your offline interactions with us).
 
-Three may engage third parties (other than its own employees) to provide services to it. Any of those third parties who process personal data on our behalf is a “Data Processor”.
+## Collection and Use of Your Personal Information.
 
-“Processing” means any action performed on personal data, including collection, storage, copying, consulting, disclosure or destruction.
+We may collect and process the following data through our website (and combine this with data provided offline through your interactions with us):
 
-“Legal Basis” Data Controllers may not process personal data except on one of a limited number of legal bases. One of these bases is consent. Where consent is the legal basis, Three is required to stop processing the data if you withdraw your consent. However, other legal bases are relied on by Three, meaning that we can continue to process your personal data for as long as that legal basis remains valid. For example, where we process your data in order to perform our contract with you, we are permitted to continue to process it for as long as you remain our customer and for a reasonable period thereafter.
+  * Three uses cookies or similar technologies on our website. To find out more visit our Cookie Policy available at [//www.three.ie/legal/policies/cookie-policy/](https://www.three.ie/legal/policies/cookie-policy/). By using our website, you agree to Three’s use of cookies. You can opt out at any time by visiting <http://www.youronlinechoices.com/ie/your-ad-choices> or by using the specific opt-outs listed in our Cookie Policy.
+  * Any information provided by or about you through our website including competitions, comment boxes, forms, links, website usage or any other means.
+  * If any person contacts us via phone, email, post, surveys, through our website or otherwise, we may keep a record of that correspondence.
+  * Where you purchase any products or services from us, we collect your data in relation to that product or service as set out in this policy and our contract with you for that product or service.
+  * Three provides channels of social media communications in order to provide information regarding our services; respond to queries; and to deliver customer care to our customers. Three may retain any interactions with customers via any of its social media channels as part of your customer care history, along with your interactions with customer care via any other channel. Social media interactions with non-customers will be retained for a maximum period of 3 months for the relevant purposes set out below.
 
-Three has a Data Protection Officer, who is contactable at
 
-The Data Protection Officer,  
-Three Ireland 28/29 Sir John Rogerson’s Quay,  
-Dublin 2
 
-Alternatively, email [privacy@three.ie](mailto:privacy@three.ie)
+You agree that any data you provide to us via this website will be true, complete and accurate in all respects and you agree to notify us immediately of any changes to it. We will only collect personal information from or about you which is necessary to:
 
-#### How We Process Your Data
+  * process any applications for 3 Services made by you via this site;
+  * conduct a credit and fraud prevention check with a credit reference agency, if you apply for a monthly price plan account. The agency will supply us with information about you to help us verify your identity and decide whether to accept your application or future applications. The Agency will record details of our search and your application whether your application is successful or not. We will use a combination of credit scoring and/or automated decision making systems when assessing your application. This information will be available to other lenders;
+  * set up and administer your account;
+  * provide customer services and respond to and resolve any enquiries or complaints;
+  * provide any products, services or information requested by you;
+  * conduct analysis for traffic and billing management, and to support product development;
+  * contact you for market research purposes;
+  * conduct customer satisfaction surveys;
+  * personalise your experience on our website;
+  * provide and conduct competitions and similar offers;
+  * keep you up to date by post, telephone, email, and direct to your handset by text, picture, video and audio message or pop-up with information About Three, 3 services, and offers and promotions subject to any marketing preferences indicated by you. It's your choice and you’re in control - you can contact us at any time to update your preferences through My3, using the opt-out links on any email or SMS you receive or by writing to or calling customer services. Please note that where you opt out of all marketing from Three you will still receive service communications from Three (for example, billing communications); and
+  * show you targeted online marketing adverts on our website and other websites. See our [Cookie Policy](https://www.three.ie/legal/policies/cookie-policy/) for more information on third party cookies we use for targeted advertising and how to opt out. Where you opt out of the use of third party cookies by Three you will no longer see targeted ads but may see generic ads online featuring Three. Online targeted adverts may be targeted by matching activities or information collected via third party cookies on our website with information collected offline (e.g. your contract type or length with us).
 
-  1. Your name, address and date of birth
-  
-**Purpose of Processing**
 
-To identify you so that we can administer your account.
 
-**Legal Basis of Processing**
+If you are aged 16 or under, you must get your parent or guardian's consent to provide your personal information to 3's website, otherwise you are not allowed to provide any of your personal information to us.
 
-In order to perform our contract with you.
+## Monitoring of Your Communications
 
-**Duration of Processing**
+We may monitor and/or record communications between you and 3 for quality control, analytics, verification and training purposes.
 
-For as long as you remain a customer, plus two years for legitimate purposes arising out of the administration of your account.
+## Retention of data
 
-  2. Contact details including alternative telephone number(s) and email address
-  
-**Purpose of Processing**
+We keep your personal data for as long as necessary for the purposes for which it was collected and to provide you with services, to conduct our legitimate business interests or where otherwise required by law. We will retain your data for the lifetime of your account with us and for a period thereafter in accordance with our information retention policy.
 
-To contact you in relation to your account.
+## Disclosure
 
-**Legal Basis of Processing**
+Your personal information may also be processed by other organisations on our behalf for the purposes outlined above. We may disclose your information to other members of our group of companies, and to our or their partners, associates, agents or subcontractors and to possible successors to our business. Some of these parties may reside outside the European Economic Area (which currently comprises the Member states of the European Union plus Norway, Iceland and Liechtenstein). If we do this, your information be treated to the same standards adopted in Ireland. We may also disclose your information for the prevention and detection of crime and to protect the interests of 3 and other users or if required to do so by law or other binding request. By using our website you agree to such disclosure.
 
-In order to perform our contract with you.
+We take the security of the data that we process seriously. However, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted through our website. Any transmission is at your own risk.
 
-**Duration of Processing**
+## User Rights and access to your personal information
 
-For as long as you remain a customer, plus two years for legitimate purposes arising out of the administration of your account.
+The EU General Data Protection Regulation and the Irish Data Protection Acts, 1988 to 2018 give you the right to access, erase or correct information held about you in certain circumstances. You have the right to request a copy of any personal information we hold about you, and to receive some categories of personal data in portable form. To protect the security of your data, we may request a copy of ID to confirm your identity prior to making your data available to you. To make such a request, please write by sending an email to [privacy@three.ie](mailto:privacy@three.ie) or the Data Protection Officer, Three Ireland (Hutchison) Limited, 28/29 Sir John Rogerson's Quay, Dublin 2.
 
-  3. Bank and Credit Card information
-  
-**Purpose of Processing**
+## Other terms and conditions
 
-To process payment for services provided to you.
+You should read this Policy in conjunction with our website terms and conditions (which apply to your use of this website), our Cookie Policy, our Terms of Sale/Supply of Products (which apply to the purchase of products by you via this website) and the Terms for 3 Services (which apply to your use of 3 Services). Our customer privacy statement concerning your use of 3 Services is available [here](http://www.three.ie/legal/policies/privacy-notice/).
 
-**Legal Basis of Processing**
+## Notification of changes
 
-In order to perform our contract with you.
-
-**Duration of Processing**
-
-For as long as you remain a customer, plus 13 months to allow for investigation of disputed transactions.
-
-  4. Billing information
-  
-**Purpose of Processing**
-
-To calculate and issue charges for services provided to you.
-
-**Legal Basis of Processing**
-
-In order to perform our contract with you.
-
-**Duration of Processing**
-
-For current financial year, plus six years, as required under tax law.
-
-  5. Call Traffic Records
-
-Certain data is generated by your activity on our network. This includes the time and duration of your phone calls, the number to or from which the calls were made, your geographical location on the network, and details of your device.
-
-  
-**Purpose of Processing**
-    1. For connection of calls, calculation of billing and interconnector charges, traffic management, fraud investigation, network troubleshooting.
-    2. With your consent, for direct marketing and the provision of value added services.
-    3. This data is also retained and may be disclosed in accordance with the Communications (Retention of Data) Act, 2011
-**Legal Basis of Processing**
-    1. In order to perform our contract with you
-    2. On consent
-    3. To comply with a legal obligation
-**Duration of Processing**
-
-For two years, as required by law.
-
-  6. Credit Referencing, Identity Checks, Payment Default and Fraud Prevention
-
-On applying to open an account with you, we request information about your current and former addresses and your employment, for credit scoring purposes. For fraud prevention purposes, we also request copies of certain documents in order to verify your identity and address.
-
-If a Bill Pay account customer, we will make searches about you at credit reference agencies who will supply us with credit information, as well as information from the Electoral Register, to help us to decide whether to accept your application or future applications, and to verify your identity. The agency will record details of our search and your application whether you are accepted or not.
-
-We will use credit scoring systems when assessing your application. This information may be used for debt tracing.
-
-If a Bill Pay customer, we will also disclose details of your agreement with us, the payments you make under it, account balances and information about any default, dispute, and debts to credit reference agencies. We will also disclose details of any change of address reported to us or of which we become aware.
-
-Credit searches and the information supplied by us and held by credit reference agencies is used by us and other organisations to help make decisions about other credit applications by you or other members of your household with whom you are linked financially to trace debtors, recover debts, to prevent and detect fraud and to manage your account.
-
-Where we deem it appropriate, we may also check and share your details with fraud prevention agencies who will record details of any false or inaccurate information provided by you or where we suspect fraud (whether a Bill Pay or Prepay Customer). Records held by fraud prevention agencies will also be used by other organisations to help them prevent fraud against you and other organisations who make decisions on motor, household, credit, life and other insurance proposals and insurance claims for you and members of your household and to help prevent money laundering where applicable. Those fraud prevention agencies may disclose information to law enforcement agencies where requested and necessary for the investigation of crime.
-
-We may also use and share your details for the collection of any debts owed on your account. This may include the use of debt collection agencies to collect debts on our behalf or may include the assignment of debts to a third party company. The assignment of debts will involve the sale of your account information to a third party company – this information may include your name, address and contact data, year of birth, debts owed, payment history and other information necessary to help recover the debt.
-
-We may also pass and share information to other communications service providers and network operators for the detection, identification and prevention of payment default, theft and fraud.
-
-If a Bill Pay customer, if you allow your account to fall into arrears by not paying your bills in full and on time, information on your payment performance may be shared with other providers of landline, broadband and mobile services through the provision of the information to a database operated by the service providers called Credit Insights.
-
-Other providers of services who also supply information on payment performance of their customers to the Credit Insights database may check this information when you apply for their services in the future to help them assess your creditworthiness.
-
-The information shared with Credit Insights includes name, address, date of birth and account details and will be held on the database for 6 years from the date it was shared with Credit Insights.
-
-**Purpose of Processing**
-
-Credit Referencing, Identity Checks, Payment Default and Fraud Prevention
-
-**Legal Basis of Processing**
-
-Legitimate Interest
-
-**Duration of Processing**
-
-Credit scoring information is held for three years. Fraud Information is held for four Years. Copies of proofs of residence and identity are held for a maximum of six months Credit Insights data is held for six years.
-
-  7. Your Interactions with us
-
-When you interact with our customer care channels, records of these interactions will be held by us in order to administer your account. Where you interact with us via social media, our Social Media policy will apply. Calls to our call centre will be recorded.
-
-**Purpose of Processing**
-
-To administer your account and provide customer care to you
-
-**Legal Basis of Processing**
-
-In order to perform our contract with you
-
-**Duration of Processing**
-
-For as long as you remain a customer, plus two years for legitimate purposes arising out of the administration of your account. Call recordings are held for a maximum of 13 months. Webchat transcripts are held for a maximum of 13 months.
-
-  8. CCTV
-
-Our stores, data centres and headquarters buildings have CCTV in operation.
-
-**Purpose of Processing**
-
-The security of our staff, premises and property
-
-**Legal Basis of Processing**
-
-Legitimate Interest
-
-**Duration of Processing**
-
-CCTV footage is routinely held for 30 days, unless preserved for a particular purpose
-
-  9. Website
-
-We collect certain data from users and visitors to our website. For more details, see our [Website Privacy Policy](https://www.three.ie/privacy-policy/) and [Cookies Policy](https://www.three.ie/cookie-policy/)
-
-  10. Other Services
-
-If you sign up to services such as 3Extra or 3Plus, we may process certain data relating to you for direct marketing purposes and in order to provide value added services to you. This processing is done only with your consent, and subject to the Privacy Policies of these services. (Available [here](https://plus.three.ie/#/terms/) and [here](https://3extra.ie/privacy-policy/))
-
-**Purpose of Processing**
-
-To provide direct marketing and value added services to you.
-
-**Legal Basis of Processing**
-
-Consent
-
-**Duration of Processing**
-
-For as long as you remain a customer, or until you withdraw your consent by opting out.
-
-  11. Direct Marketing
-
-We may process the above data or data relating to your usage of our services to carry out analysis of your information:
-
-    * to develop our relationship with you, to develop and personalise Three Services and to present and deliver these to your Device.
-    * to keep you informed about Three’s services, developments, pricing tariffs, special offers, and any discounts or awards which we believe may be of personal interest to you, or which you may be entitled to.
-
-We may keep you up to date (including by automated means) directly to your Mobile or other contact number, by post, email, telephone, by electronic messaging such as mobile text, digital, online and picture message, and voicemail subject to any preferences indicated by you.
-
-If you do not wish to receive direct marketing information you should contact Customer Services by logging onto [www.three.ie/my3](https://www.three.ie/my3/), using our LiveChat Service at [www.three.ie/cg](https://www.three.ie/cg/), from our Contact Us Form [www.three.ie/contact-us/](https://www.three.ie/contact-us/) or by using the “opt-out” means provided for in our marketing communications to you. Please note that where you opt out of all marketing from Three you will still receive service communications from Three (for example, billing communications).
-
-**Purpose of Processing**
-
-Marketing, including Direct Marketing
-
-**Legal Basis of Processing**
-
-Legitimate Interest
-
-**Duration of Processing**
-
-For as long as you remain a customer, or until you opt out.
-
-  12. Premium Services
-
-Where you wish to avail of a Premium Service via your mobile phone, the Premium Service Provider (PSP) will require your mobile phone number and confirmation of which Telecommunications Provider you are with in order to bill you for the service. PSPs generally obtain this information by either; a) Asking you to enter it into an online form or b) Asking you for your consent to obtain the number via a URL on your handset. This is a process whereby once you click on a URL it generates a request to Three to send that PSP your number and confirmation that Three are your telecommunications provider. The PSP is responsible for providing you with all information necessary to ensure this process is transparent, prior to you availing of their service.
-
-  13. Other Processing
-
-We may process the above data or data relating to your usage of our services:
-
-    * to carry out activities necessary to the running of our business, including system testing, network monitoring, staff training, quality control and any legal proceedings.
-    * to carry out any activities or disclosures to comply with any regulatory, government or legal requirement or on foot of a binding request (e.g. Court Order)
-
-Where you have given us permission we will include your name, address and telephone number in our directory enquiry list and the National Directory Database (NDD) currently hosted by Eircom (as nominated by the Commission for Communications Regulation (ComReg)).
-
-  14. Automated Decision-Making
-
-Three does not make any decisions producing legal effects concerning you or similarly significantly affecting you which are based solely on automated processing, including profiling. In the event that Three introduces such Automated Decision-Making, we will include it in this Privacy Notice, and will implement suitable measures to safeguard your rights and freedoms and legitimate interests, at least the right to obtain human intervention by Three, to express your point of view and to contest the decision.
-
-
-
-
-#### Disclosure of Your Data to Others
-
-Data Processors
-
-Three uses service providers to assist in providing services to you, and some of these process your personal data on our behalf. These Data Processors provide a range of services to Three, including deliveries, cloud computing, data storage, document shredding, outsourced IT services, outsourced customer services, repairs of hardware, franchise store operators, security providers, consultants and professional advisors.
-
-Where we use Data Processors, we require them by contract to only process data in accordance with our instructions.
-
-Some of these Data Processors are based outside the European Economic Area (the ‘EEA’) which consists of the European Union Member States together with Iceland, Liechtenstein and Norway. When we transfer to or allow access to personal data from such countries, we adopt measures to carry out these transfers in accordance with applicable data protection law.
-
-Legal Disclosure
-
-Under the Communications (Retention of Data) Act, 2011, Three is obliged to disclose telecommunications data for the purpose of complying with a disclosure request for the prevention, detection, investigation or prosecution of a serious or revenue offence, for the safeguarding of the security of the State or for the saving of human life; in accordance with a court order; or as may be authorised by the Data Protection Commissioner.
-
-Other Personal Data may be disclosed where required for the purpose of preventing, detecting or investigating offences, apprehending or prosecuting offenders or assessing or collecting any tax, duty or other moneys owed or payable to the State, a local authority or a health board, in any case in which the application of those restrictions would be likely to prejudice any of the matters aforesaid. In such cases, we will not disclose your data without first taking into account your fundamental right to Data Protection.
-
-Connecting Calls
-
-When you make a call, the calling line identity (CLI) of your Mobile (your mobile number) will be displayed on the Mobile of the person you call. If you do not wish your CLI to be displayed and/or transmitted you should consult your user guide or contact Customer Services. Your CLI cannot be blocked when calling the emergency services, or when sending a text, picture, or video message.
-
-When you make a call, it is necessary to make certain meta data relating to that call available to other networks, including foreign networks when you are roaming or making an international call.
-
-#### Account Security
-
-Three endeavours to ensure that your personal data is kept safe and secure, as required under Data Protection law. However, If third parties, whether known to you or otherwise, have enough information about you, it may possible for them to successfully impersonate you. Three is not liable for any loss, direct or indirect, which you may incur as a result of a third party accessing your account by obtaining your passwords or other verifying information from yourself of other sources. Advice on what you can do to keep your data secure is available [here](https://www.three.ie/account-security/).
-
-#### Your Rights
-
-Information
-
-You have the right to certain information relating to processing of your personal data by Three. This Privacy Statement, along with other relevant publicly available documents, provides this information.
-
-Rectification
-
-You have the right to have any inaccurate personal data corrected or updated. Please contact customer care and they’ll be happy to help.
-
-Information
-
-You have the right to have your data deleted when it is no longer required by us for a lawful purpose. Three already automatically deletes this data.
-
-In this way, Three complies with your “Right to be Forgotten” without you having to make a request to us. Where data still needs to be kept, e.g. for a legal obligation or for legitimate business purposes we will automatically delete it as soon as this retention period ends.
-
-Right to Object
-
-You have the right to object to the processing of your personal data which is done for the purposes of a legitimate interest or in the public interest or in exercise of official authority vested in Three as data controller. Where you object, Three shall demonstrate compelling legitimate grounds for the processing, or cease it. To exercise this right, contact the Data Protection Officer.
-
-You have the right to object to processing for direct marketing purposes. This right can be exercised by opting out of direct marketing using the means provided.
-
-Restriction
-
-You have the right to have processing of data restricted
-
-  * While we verify the accuracy of your data or correct it if necessary
-  * If the processing is unlawful and you request restriction of the processing rather than erasure of the personal data. 
-  * We no longer need the personal data for the purposes of the processing, but you require us to retain it for the establishment, exercise or defence of legal claims
-  * While we consider an objection made by you under your Right to Object.
-
-
-
-To exercise this right, please contact the Data Protection Officer.
-
-Access
-
-You have the right to obtain a copy of personal data which we may hold about you. Please email privacy@three.ie or contact the Data Protection Officer.
-
-Portability
-
-You have the right to obtain a copy of certain personal data in a commonly used, machine readable format. This right is limited to data which
-
-  1. Was provided to us by you
-  2. Is processed by us on the basis of consent or a contract
-  3. Is processed by automated means
-
-
-
-Three provides such information in Excel Spreadsheet format. To exercise your Right to Data Portability, please email privacy@three.ie or contact the Data Protection Officer.
-
-Delivery of Access and Portability Rights
-
-We may ask you to complete a form to help us identify the data you require. We may request that you provide proof of your identity and residence. In the case of certain manifestly unfounded or excessive requests, we reserve the right to decline a request or to charge a reasonable administrative fee.
-
-We will provide your data to you within 30 days of receiving your request, except for requests which by reason of their complexity or number may take up to three months. In such cases we will notify you of any such delay within one month of receipt of the request, together with the reasons for the delay.
-
-You should note that Three is bound to retain data for no longer than is necessary, and that certain data may therefore have been deleted by the time a request for access is made, in line with our retention rules outlined above.
-
-The Right to Lodge a Complaint
-
-If you are unsatisfied to with any aspect of Three’s processing of your data, you have the right to lodge a complaint with a supervisory authority. The supervisory authority for Ireland is the Office of the Data Protection Commissioner.
+If we change this Website Privacy Notice we will post the amended Notice on our website so that you are always aware of how we collect, use and disclose your personal information.
