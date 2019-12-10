@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the steelmint.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225145024id_/http%3A//www.steelmint.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelmint.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210042502id_/https%3A//www.steelmint.com/privacypolicy) for the most accurate reproduction.*
 
 # Steel Coal and Metal Scrap Tenders News, Price and Research Reports SteelMint
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
-At SteelMint Info Services LLP, privacy issues are of high priority. We regard and are resolved to ensure your protection. By using our website <http://www.steelmint.com>, you are accepting the practices described in the Privacy Policy. This Privacy Policy describes how we handle your personal information for our services on our website. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices.
+At SteelMint Info Services LLP, privacy issues are of high priority. We regard and are resolved to ensure your protection. By using our website <https://www.steelmint.com>, you are accepting the practices described in the Privacy Policy. This Privacy Policy describes how we handle your personal information for our services on our website. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices.
 
 Should we ask you to provide any information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. By accepting the Privacy Policy and the Terms & Conditions during registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
