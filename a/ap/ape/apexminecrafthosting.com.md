@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexminecrafthosting.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328094056id_/https%3A//apexminecrafthosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexminecrafthosting.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210162145id_/https%3A//apexminecrafthosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Apex Minecraft Hosting
 
@@ -49,7 +49,7 @@ While we do not offer an opt-out on the site for cookies, browsers provide you w
 
 #### Customer Portal, Customer Customization, Preferences and Opt-Out
 
-New Customers are automatically registered for access at https://apexminecrafthosting.com/billing
+New Customers are automatically registered for access at https://billing.apexminecrafthosting.com/
 
 The Customer portal allows Customers the ability to create users, add/delete users, add/delete user privileges and opt in (or out) of services and mailing lists. The Customer portal provides the Customers with control over their preferences for electronic information delivery.
 
@@ -68,3 +68,5 @@ Apex Hosting is concerned with the security of the data we have collected and ut
 If we are going to use your data in a manner different from that stated at the time of collection, we will notify you via email. In addition, if we make any material changes in our privacy practices that do not affect user data already stored in our database, we will notify you by email or post a prominent notice on the customer portal notifying users of the change. In some cases, when we post the notice, we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
 We may update this policy from time to time to describe how new site features affect our use of your data and to let you know of new control and preference features that we provide.
+
+#### More Cookie Policy
