@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231157id_/https%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211000225id_/https%3A//www.classmarker.com/online-testing/privacy) for the most accurate reproduction.*
 
-# Privacy ClassMarker
+# Privacy | ClassMarker
 
 ## Privacy Policy
 
-Effective Date: 5 January 2016
+Effective Date: 12 May 2018
 
 ClassMarker Pty Ltd (" **ClassMarker** ”, " **we** ”, " **us** ”, or " **our** ”) recognizes the importance of privacy. In this Privacy Policy, we describe how we collect, use, and disclose information that we obtain about visitors to our website, www.classmarker.com (the " **Site** ”), and the services available through our Site (collectively, the " **Services** ”).
 
-By visiting the Site or using any of our Services, you agree that your personal information will be handled as described in this Privacy Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Privacy Policy. Our [Terms and Conditions](https://web.archive.org/online-testing/terms/) are incorporated by reference into this Privacy Policy.
+By visiting the Site or using any of our Services, you agree that your personal information will be handled as described in this Privacy Policy, except if you are resident in the EU, in which case please see Section 14 below. Your use of our Site or Services, and any dispute over privacy, is subject to this Privacy Policy. Our [Terms and Conditions](https://web.archive.org/online-testing/terms/) are incorporated by reference into this Privacy Policy.
 
-ClassMarker Pty Ltd (ACN 140552 389) is subject to the Privacy Act 1988 (Cth) and complies with the principles for handling your personal information.
+ClassMarker Pty Ltd (ACN 140552 389) is subject to the Australian Privacy Act 1988 (Cth) and complies with the principles for handling your personal information.
 
 Information we collect  
 How we use your information  
@@ -25,6 +25,7 @@ Your choices
 Consent to transfer personal information  
 Children  
 External links  
+EU Residents  
 Contact us  
 Changes to this Privacy Policy
 
@@ -32,10 +33,10 @@ Changes to this Privacy Policy
 
 We collect information, which may include personal information, about you directly from you, from third parties, and automatically through your use of our Site or Services. We may combine information automatically collected with other information that we have collected about you.
 
-You may browse and use certain portions of our Site without directly providing us with any personal information. For example, you can try our Sample Online Test without registering to use our Site. Certain features, however, require you to register. For example, in order to create your own quizzes you must provide us with certain information.
+You may browse and use certain portions of our Site without directly providing us with any personal information. Certain features, however, may only be used by organisations or their users that are registered. For example, in order to create your own quizzes you must provide us with certain information.
 
-  * **Information We Collect Directly From You.** Depending on your interactions with our Site, we may collect information directly from you, such as your name, username, email address, and country of residence if you use our Site. We will also collect any information that you otherwise provide to us through our Site, such as your name, email address, and message if you [Contact Us](https://web.archive.org/online-testing/contact-us "contacts page") through our Site. 
-  * **Information We Collect About You from Third Parties.** We may collect certain information about you from a third party system that integrates with our system that sends us data via our API (which would require a registered administrator account to do so). 
+  * **Information You Provide Us.** Depending on your interactions with our Site, you may provide us your name, username, email address, and country of residence if you use our Site, and your message if your message if you [Contact Us](https://web.archive.org/online-testing/contact-us "contacts page") through our Site.
+  * **Information About You We Obtain from Third Parties.** We may obtain certain information about registered administrator accounts from a third party system to determine IP address location information, or from a third party system (such as a recruiter) that integrates with our system that sends us data via our API to allow you to use services on our Site.
   * **Information We Collect Automatically.** We automatically collect information through your use of our Site using cookies and other technologies. This information may include, without limitation, your domain name, operating system, settings and system configurations, IP address, the webpages you access within our Site, the website that led you to our Site, the website to which you go after leaving our Site, the dates and times you access our Site, and web log data.
 
 
@@ -45,8 +46,8 @@ You may browse and use certain portions of our Site without directly providing u
 We may use your information for the following purposes:
 
   * **Providing Our Services.** To provide our Services to you; to communicate with you, including via email, about your use of our Services; to respond to your inquires; and for other customer service purposes.
-  * **Marketing.** Where you consent, we may provide you with news and newsletters, special offers, and promotions; to contact you about products or information we think may interest you; and for other marketing, advertising, and promotional purposes provided that you have not opted-out of receiving such communications.
-  * **Analyzing Use of Our Services.** To better understand how users access and use our Site and Services, both on an aggregated and individualized basis; to respond to user desires and preferences; and for other research and analytical purposes.
+  * **Marketing.** We may market our services to persons outside the EU. Where you consent, we may provide you with news and newsletters, special offers, and promotions; to contact you about products or information we think may interest you; and for other marketing, advertising, and promotional purposes provided that you have not opted-out of receiving such communications.
+  * **Analyzing Use of Our Services.** To better understand how users access and use our Site and Services, on an aggregated basis; to respond to user desires and preferences; and for other research and analytical purposes.
   * **To Protect Rights and Interests.** To protect our rights and interests as well as the rights and interests of our customers, users of our Site or Services, and any other person, as well as to enforce this Privacy Policy and our [Terms and Conditions](https://web.archive.org/online-testing/terms/). 
   * **Complying with the Law.** To comply with applicable legal obligations, including informal requests from law enforcement.
 
@@ -87,7 +88,7 @@ While there is still no universally accepted standard regarding tracking, our Si
 
 ### 6\. Third-party analytics
 
-We use service providers, such as [Google Analytics demographics and interests reports as well as advertising reporting features](http://www.google.com/intl/en/policies/privacy/) , to evaluate the use of our Site and our Services. We or our service providers use automated devices and applications to evaluate use of our Site and Services. We or our service providers use these tools to help us improve our Site, Services, performance, and user experiences. These entities may use cookies and other tracking technologies, such as web beacons or Flash LSO, to perform their services. To opt out of Google Analytics, go [here](https://tools.google.com/dlpage/gaoptout/).
+We use service providers, such as [Google Analytics demographics and interests reports as well as advertising reporting features](https://www.google.com/intl/en/policies/privacy/), to evaluate the use of our Site and our Services. We or our service providers use automated devices and applications to evaluate use of our Site and Services. We or our service providers use these tools to help us improve our Site, Services, performance, and user experiences. These entities may use cookies and other tracking technologies, such as web beacons or Flash LSO, to perform their services. To opt out of Google Analytics, go [here](https://tools.google.com/dlpage/gaoptout/).
 
 ### 7\. Interest-based advertising 
 
@@ -111,7 +112,7 @@ If you have an account with us, you should take steps to protect against unautho
 
 We take reasonable steps to ensure the personal information that ClassMarker collects, uses or discloses is accurate, complete and up-to-date. You may modify your personal information by updating your account on our Site or through our [Contact Us](https://web.archive.org/online-testing/contact-us "contacts page") page on the Site. On request, we will give you access to the personal information we hold about you. If any personal information we hold about you is out of date or inaccurate, we encourage you to let us know by contacting us using one of the methods listed above and ask us to correct it.
 
-We may send, with your prior consent, periodic promotional or informational emails to you. You may opt out of such communications at any time by following the opt-out instructions contained in the email. Please note that it may take up to five (5) business days for us to process opt-out requests. If you opt out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any Services you have requested or received from us provided that you have not opted-out of receiving such emails.
+If you are a registered user, we may send, (with your prior consent if you are outside the EU), periodic informational emails to you. You may opt out of such communications at any time by following the opt-out instructions contained in the email. Please note that it may take up to five (5) business days for us to process opt-out requests. If you opt out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any Services you have requested or received from us provided that you have not opted-out of receiving such emails.
 
 ### 11\. Consent to transfer personal information
 
@@ -119,19 +120,23 @@ Please note that your personal information may be transferred outside the countr
 
 ### 12\. Children
 
-Our Site is not targeted to children under thirteen (13) years of age nor do we knowingly collect personal information from children under thirteen (13). If we discover that a child under thirteen (13) data is in the system without adult consent, we will promptly delete such personal information from our systems. We encourage children under thirteen (13) to obtain their parent's or guardian's permission before sharing personal information with any website.
+Our Site is not targeted to children under thirteen (13) years of age (sixteen (16) for EU residents unless provided otherwise by applicable law) nor do we knowingly collect personal information from children under thirteen (13) (sixteen (16) for EU residents unless provided otherwise by applicable law). If we discover that a child under thirteen (13) (sixteen (16) for EU residents unless provided otherwise by applicable law) data is in the system without adult consent, we will promptly delete such personal information from our systems. We encourage children under thirteen (13) (sixteen (16) for EU residents unless provided otherwise by applicable law) to obtain their parent's or guardian's permission before sharing personal information with any website.
 
 ### 13\. External links
 
 This Site contains links to other websites. We are not responsible for the information handling practices or content of these external websites. Please ensure that you read the Terms and Conditions and privacy policies of these third parties before using such websites.
 
-### 14\. Contact us
+### 14\. EU Residents
 
-If you have any questions or concerns about the privacy aspects of our Site or Services, or want to complain about an interference with your privacy by ClassMarker, please [Contact Us](https://web.archive.org/online-testing/contact-us "contacts page") through our Site. We will do our best to resolve your complaint as quickly as possible.
+The Services are offered and provided on the Site to organisations (“Customers”) that wish to test their employees, students or agents, or provide them with pre-registered ID code, in order to use our Services (“Users”). We process the personal data of Users on behalf of our Customers, pursuant to instructions issued by our Customers, and the terms of our agreements with them. Users resident in the EU are not considered to have agreed to this Policy because the basis for processing their information is the performance of the Terms and Conditions we conclude with you or our contract with our Customers. The processing of data of Users located in the EU will be conducted consistent with the terms of this Policy and the data protection notice of the relevant Customer. We encourage you to contact the organisation that registered you for the Services for more information.
+
+### 15\. Contact us
+
+If you have any questions or concerns about the privacy aspects of our Site or Services, or want to complain about an interference with your privacy by ClassMarker, please [Contact Us](https://web.archive.org/online-testing/contact-us "contacts page") through our Site. We will do our best to resolve your complaint as quickly as possible. If you are a user in the EU, please contact the organisation that registered you for the Services.
 
 If you are an Australian resident and are not satisfied with our response to your complaint, you can refer the matter to the Office of the Australian Information Commissioner (OAIC) at [www.oaic.gov.au](https://www.oaic.gov.au/).
 
-### 15\. Changes to this Privacy Policy
+### 16\. Changes to this Privacy Policy
 
 This Privacy Policy is current as of the Effective Date set forth above. We may change this Privacy Policy from time to time, and new versions will be posted on this Site, so please check back periodically for updates.
 
@@ -144,5 +149,3 @@ View our [Terms and Conditions](https://web.archive.org/online-testing/terms/) p
 [](https://web.archive.org/online-testing/award-winning/)
 
 [](https://web.archive.org/online-testing/award-winning/)
-
-[](https://www.globalsign.com/ssl/ "SSL")
