@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokecommunity.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416220341id_/https%3A//www.pokecommunity.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokecommunity.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210200824id_/https%3A//www.pokecommunity.com/about/privacy) for the most accurate reproduction.*
 
 # PokéCommunity Privacy Policy
 
@@ -55,7 +55,7 @@ What PokéCommunity stores using local device storage:
 
 For individuals residing in the United States, the _Freedom of Information Act_ and the _Privacy Act of 1974_ provides you certain rights to obtain personal information about you from our records. For individuals residing within member states of the European Union, your rights to access and consent to the usage of your data are provided by the [_General Data Protection Regulation 2016/679_](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679).
 
-We offer all users some control over the privacy of the information associated with their account. Users may choose which optional elements of their profile will be filled out, such as date of birth, location, interests, friend codes, and more.
+We offer all users some control over the privacy of the information associated with their account. Users may choose which optional elements of their profile will be filled out, such as location, interests, friend codes, and more.
 
 They may also choose which elements of their profile will be visible to whom, with options ranging from all guests and registered users, registered users only, to users in one's friend list. Users may also choose which user information appears with each of their posts on the forum. After registration, it is optional to display age and date of birth to the public or to other users.
 
@@ -97,4 +97,4 @@ For minor questions and concerns, you may use our Feedback & Support forum, alth
 
 <https://www.pokecommunity.com/forumdisplay.php?fn=support>
 
-Policy last updated January 27th, 2019, 4:05 PM (local time).
+Policy last updated April 20th, 2019, 3:45 PM (local time).
