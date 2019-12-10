@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506090317id_/https%3A//www.genesys.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210133405id_/https%3A//www.genesys.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Genesys
 
