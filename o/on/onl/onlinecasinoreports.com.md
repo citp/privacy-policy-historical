@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecasinoreports.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417220925id_/https%3A//www.onlinecasinoreports.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecasinoreports.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210154513id_/https%3A//www.onlinecasinoreports.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Online Casino Reports
 
