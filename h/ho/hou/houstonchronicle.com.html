@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the houstonchronicle.com privacy policy that was archived on 2019-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190609230607id_/http%3A//www.houstonchronicle.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the houstonchronicle.com privacy policy that was archived on 2019-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191210141128id_/https%3A//www.houstonchronicle.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="header-noAd"><head>
         <!-- ux hearst/home/header_main.tpl -->
         <!-- eid:channel.8107 -->        <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <script async="" src="//c2.taboola.com/nr/hearstlocalnews-houstonchronicle/newsroom.js"></script><script async="" src="//cdn.taboola.com/libtrc/hearstlocalnews-houstonchronicle/loader.js" id="tb_loader_script"></script><script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
-        <!-- generated at 2019-06-09 18:03:22 on pwcm5 running vv9.45.2 -->
+        <!-- generated at 2019-12-10 08:11:03 on pwcm6 running vv9.60.11 -->
         <meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, width = device-width">
 
                 <!-- hearst/common/instart.tpl -->
@@ -28,7 +28,7 @@
         HDN.dataLayer.content.objectId = "8107";
         
         HDN.dataLayer.content.objectType = "channel";
-        HDN.dataLayer.content.sectionPath = ['privacy policy'];
+                        HDN.dataLayer.content.sectionPath = ['privacy policy'];
         HDN.dataLayer.content.pubDate = "2012-10-17 23:34:00";
         HDN.dataLayer.content.lastModifiedDate = "2014-01-07 22:58:36";
         HDN.dataLayer.content.wordCount = 0;
@@ -77,6 +77,7 @@
         // HDN.dataLayer object for site
         HDN.dataLayer.site = HDN.dataLayer.site || {};
 
+    
         // "geoloc" and "geocites" used for weather and other location based functionality
         HDN.dataLayer.site.geoloc = "houston";
 
@@ -84,10 +85,13 @@
         // Include comments data for page use
         
                                           
+              
                                         HDN.dataLayer.site.commentsType = 'spotim';
                 HDN.dataLayer.site.commentSiteKey = 'sp_NxITuoE4';
-                    
-
+                HDN.dataLayer.site.entitledComments = '';
+                            
+                    HDN.dataLayer.site.sailthruId = '48e30b5083cf6bf47c519651453c9e8a';
+        
         // HDN.dataLayer object for presentation information
         HDN.dataLayer.presentation = HDN.dataLayer.presentation || {};
 
@@ -106,8 +110,8 @@
         HDN.dataLayer.content.displayTemplate = "";
         
         // paymeter
-                HDN.dataLayer.paywall.policy = "free";
-        
+                    HDN.dataLayer.paywall.policy = "free";
+                                
         HDN.dataLayer.ads = HDN.dataLayer.ads || {};
                           HDN.dataLayer.ads.videoBidding = true;
             
@@ -118,24 +122,57 @@
         
         <!-- hearst/item/standalone.tpl -->
 <!-- mid:freeform.79557 -->
-
-                    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.v9.45.2.css" media="all">
-            <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.v9.45.2.css" media="all">
-            <link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.v9.45.2.css" media="all">
-            <link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.v9.45.2.css" media="all">
-            <link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.v9.45.2.css" media="all">
-            <link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.v9.45.2.css" media="all">
-            <link rel="stylesheet" type="text/css" href="/external/css/global.section.v9.45.2.css" media="all">
-            <link rel="stylesheet" type="text/css" href="/external/css/global.ie8.v9.45.2.css" media="all">
+<!-- ENG-2470 -->
+<script type="application/javascript">
+  (function () {
+    var abCookieKey = 'hnpabt3';
+    var abCookieVariant = 'no';
+    var allCookies = document.cookie;
+    if (allCookies) {
+      allCookies = allCookies.split('; ');
+      var abIndex = allCookies.filter(function (el) {return el.indexOf(abCookieKey) !== -1;});
+      abCookieVariant = abIndex.length > 0 ? abIndex[0].split('=')[1] : abCookieVariant;
+    }
+    var abTestCompositeId;
+    if (abCookieVariant.toUpperCase() == 'B') {
+      abTestCompositeId = 'HNP_HC_PHD_V1';
+    } else if (abCookieVariant.toUpperCase() == 'A') {
+      abTestCompositeId = 'HNP_HC_PHD_C';
+    } else {
+      abTestCompositeId = 'HNP_HC_PHD_NO';
+    }
+    // Add key to datalayer
+    if (abTestCompositeId) {
+      HDN.dataLayer.abtest = HDN.dataLayer.abtest || {};
+      HDN.dataLayer.abtest.experimentId = HDN.dataLayer.abtest.experimentId || [];
+      HDN.dataLayer.abtest.experimentId.push(abTestCompositeId);
+      // For juice KVP string value...
+      window.aps = window.aps || {};
+      window.aps.abtest = window.aps.abtest || '';
+      if (window.aps.abtest.length > 0) {
+        window.aps.abtest += ',';
+      }
+      window.aps.abtest += abTestCompositeId;
+    }
+  })();
+</script>
+                    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.v9.60.11.css" media="all">
+            <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.v9.60.11.css" media="all">
+            <link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.v9.60.11.css" media="all">
+            <link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.v9.60.11.css" media="all">
+            <link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.v9.60.11.css" media="all">
+            <link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.v9.60.11.css" media="all">
+            <link rel="stylesheet" type="text/css" href="/external/css/global.section.v9.60.11.css" media="all">
+            <link rel="stylesheet" type="text/css" href="/external/css/global.ie8.v9.60.11.css" media="all">
                 <script type="text/javascript" src="/js/hdn/utils/jquery-1.11.1.min.js"></script>
                             <!-- hmb:isa_header  include static asset for group js header  -->
-                            <script type="text/javascript" src="/external/js/global.header.v9.45.2.js"></script>
+                            <script type="text/javascript" src="/external/js/global.header.v9.60.11.js"></script>
                             <script type="text/javascript" src="//treg.hearstnp.com/treg.js"></script>
         <!-- hearst/common/omniture.tpl -->
 <script type="text/javascript">
     // <![CDATA[
     // document.domain = "hearstnp.com";
-    var requestTime = new Date(1560121402 * 1000);
+    var requestTime = new Date(1575987063 * 1000);
 
                                         
                     
@@ -209,17 +246,16 @@
                 <meta property="fb:app_id" content="653292111352579">
         <meta property="fb:pages" content="105702905593,307851324523,12852567813,480760515417232,288240529145,316774245761,984197758297116,7457442370,207033189701,207346283795,222959748728,207042068180,72983690774,339413234035,343689323559,345828366626,234821559861394,335699426867,10150105039485602,338983127562,364516539001,337922332042,115637335153191,372011535931,333376634908,127590790608884,141923885872653,655037391286291,320774811368833,1740489152861748,469700473093040,386754203367,556449374478585,340999853450,350771491032,1120648627959218,342017778245,338463361591,138772706196968,1641688532739111,326312697536,353120110016,343366744658,335009494554,347261603104,350924013892,257724773860,361203926417,367174215398,284154645394,334501182354,350279743224,154340691263654,147848678611852,361381078011,362831597677,10150095255780118">
             <meta property="article:content_tier" content="">
-    
+        
 <!-- e /business/templates/hearst/home/header_fbpage.tpl-->                                <script type="text/javascript" src="/js/hdn/unification/modules/adTools.js"></script>
         <!-- Fix for ad blocker plus - needs to be placed before include of juice -->
         <script type="text/javascript">function hearstPlaceAd(){}</script>
                                     <!-- hmb:jsadPositionManager js for adPositionManager (loadAds.js) -->
                 <script type="text/javascript" id="adPositionManagerScriptTag" src="https://aps.hearstnp.com/Scripts/loadAds.js"></script>
-                                            <!-- CSS/JS Hotfix freeform - all premium -->
+                                                            <script src="https://cdn.blueconic.net/hearst.js"></script>
+                            <!-- CSS/JS Hotfix freeform - all premium -->
         <!-- hearst/item/standalone.tpl -->
 <!-- mid:freeform.46358 -->
-<script src="https://cdn.blueconic.net/hearst.js"></script>
-
 <style>@media screen and (min-width: 768px){.nav-menu {width: 187px;}</style>
 
 <style>
@@ -276,13 +312,24 @@ var Banner = {
 Banner.init();
 })();
 </script>
+
+<!-- Begin code for ENG-2668 -->
+<style>
+.filler-3x2, .filler-3x2.filler-1x1 { padding: 0; }
+</style>
+<!-- End code for ENG-2668 -->
+
+<style>
+/* ENG-3232 */
+#BP300 {
+    display: block;
+    float: none;
+}
+</style>
         <!-- CSS/JS Hotfix freeform -->
         
         <!-- hearst/item/standalone.tpl -->
 <!-- mid:freeform.13324 -->
-<!-- ENG-2209 -->
-<style>.reNew .pageHeader--search-input { color: #000; }</style>
-
 <!-- ENG-1230 -->
 <meta name="apple-itunes-app" content="app-id=453564805">
 
@@ -418,10 +465,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
             <span><a href="/e-edition/" target="_blank">eNewspaper</a></span>
         </li>
         <li class="ht-saved">
-                                                                                        <span><a href="https://checkout.houstonchronicle.com/hcbutton?origin=hc.button" target="_blank">Subscribe</a></span>
+                                                                                        <span><a href="https://checkout.houstonchronicle.com/HCButtonsale?origin=button&amp;variant=wcm.business.site.id.33" target="_blank">Subscribe</a></span>
                 </li>
         <li class="treg-is-gigya gigya_menu">
-            <div class="gya-title expandable treg-conditional treg-not-logged-in"><span>Sign In</span></div>
+            <div class="gya-title expandable treg-conditional treg-not-logged-in"><span tabindex="0">Sign In</span></div>
             <div class="gya-title expandable treg-conditional treg-logged-in"><span></span></div>
             <div class="gya-content expandable">
                 <div class="treg-gya-login-widget"></div>
@@ -432,7 +479,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <!-- e ux/premiumchron/templates/hearst/common/admin_bar.tpl -->
         <div class="header-branding section">
     <div class="menu-btn">
-      <a id="menuBtn" class="hdn-analytics" data-hdn-analytics="visit|hamburger-menu|hamburger-menu|0"></a>
+      <a id="menuBtn" class="hdn-analytics" data-hdn-analytics="visit|hamburger-menu|hamburger-menu|0" tabindex="0"></a>
     </div>
     <div class="wrap-center">
       <a class="logo-link" href="/"></a>
@@ -446,12 +493,13 @@ document.addEventListener("DOMContentLoaded", function(event) {
     channel.comments: none
     -->
                 <!-- hearst/home/navigation.tpl -->
-        <!-- src/business/templates/hearst/home/premium_navigation_main.tpl -->
+ 
+    <!-- src/business/templates/hearst/home/premium_navigation_main.tpl -->
     <!-- src/business/templates/hearst/common/premium_dynamic_nav.tpl -->
 
             
         
-    <div id="navMenu" class="nav-menu">
+    <div id="navMenu" class="nav-menu" role="navigation">
         <div class="nav-search">
             
             <form class="search-form" action="/search/" method="get">
@@ -464,17 +512,17 @@ document.addEventListener("DOMContentLoaded", function(event) {
                 </fieldset>
             </form>
         </div>
-        <ul class="nav-menu-list">
+        <ul class="nav-menu-list" role="menu">
                                                                                                                 <li id="nav-menu-link-1278" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="/" class="hdn-analytics" data-hdn-analytics="visit|Home|navigation|1">
+                                <a href="/" class="hdn-analytics" data-hdn-analytics="visit|Home|navigation|1" role="menuitem">
                                     <span class="section-link" data-naveid="1278">Home</span>
                                 </a>
                             </div>
                         </li>
                                                                                                                                             <li id="nav-menu-link-5201" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="https://www.houstonchronicle.com/lifestyle/renew-houston/" class="hdn-analytics" data-hdn-analytics="visit|ReNew Houston|navigation|2">
+                                <a href="https://www.houstonchronicle.com/lifestyle/renew-houston/" class="hdn-analytics" data-hdn-analytics="visit|ReNew Houston|navigation|2" role="menuitem">
                                     <span class="section-link" data-naveid="5201">ReNew Houston</span>
                                 </a>
                             </div>
@@ -482,38 +530,38 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-1223" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/local/" class="hdn-analytics" data-hdn-analytics="visit|Local|navigation|3">
+                                <a aria-haspopup="true" href="/local/" class="hdn-analytics" data-hdn-analytics="visit|Local|navigation|3" role="menuitem">
                                     <span class="section-link" data-naveid="1223">Local</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="/local/houston/" class="hdn-analytics" data-hdn-analytics="visit|Local-Houston|navigation|1">
+                                                <a href="/local/houston/" class="hdn-analytics" data-hdn-analytics="visit|Local-Houston|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="1224">Houston</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/local/education/" class="hdn-analytics" data-hdn-analytics="visit|Local-Education|navigation|2">
+                                                <a href="/local/education/" class="hdn-analytics" data-hdn-analytics="visit|Local-Education|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="1232">Education</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="http://www.houstonchronicle.com/local/texas/" class="hdn-analytics" data-hdn-analytics="visit|Local-Texas|navigation|3">
+                                                <a href="http://www.houstonchronicle.com/local/texas/" class="hdn-analytics" data-hdn-analytics="visit|Local-Texas|navigation|3" role="menuitem">
                                                     <div class="nav-label" data-naveid="3364">Texas</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="http://www.houstonchronicle.com/local/transportation/" class="hdn-analytics" data-hdn-analytics="visit|Local-Transportation|navigation|4">
+                                                <a href="http://www.houstonchronicle.com/local/transportation/" class="hdn-analytics" data-hdn-analytics="visit|Local-Transportation|navigation|4" role="menuitem">
                                                     <div class="nav-label" data-naveid="3365">Transportation</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="http://www.houstonchronicle.com/neighborhood/" class="hdn-analytics" data-hdn-analytics="visit|Local-Neighborhoods|navigation|5">
+                                                <a href="http://www.houstonchronicle.com/neighborhood/" class="hdn-analytics" data-hdn-analytics="visit|Local-Neighborhoods|navigation|5" role="menuitem">
                                                     <div class="nav-label" data-naveid="3366">Neighborhoods</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="http://www.legacy.com/obituaries/houstonchronicle/" class="hdn-analytics" data-hdn-analytics="visit|Local-Obituaries|navigation|6">
+                                                <a href="https://www.legacy.com/obituaries/houstonchronicle/" class="hdn-analytics" data-hdn-analytics="visit|Local-Obituaries|navigation|6" role="menuitem">
                                                     <div class="nav-label" data-naveid="1220">Obituaries</div>
                                                 </a>
                                             </li>
@@ -522,28 +570,28 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-3625" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/politics/" class="hdn-analytics" data-hdn-analytics="visit|Politics|navigation|4">
+                                <a aria-haspopup="true" href="/politics/" class="hdn-analytics" data-hdn-analytics="visit|Politics|navigation|4" role="menuitem">
                                     <span class="section-link" data-naveid="3625">Politics</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="/local/politics-policy/" class="hdn-analytics" data-hdn-analytics="visit|Politics-Houston|navigation|1">
+                                                <a href="/local/politics-policy/" class="hdn-analytics" data-hdn-analytics="visit|Politics-Houston|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="1230">Houston</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/local/texas-politics/" class="hdn-analytics" data-hdn-analytics="visit|Politics-Texas|navigation|2">
+                                                <a href="/local/texas-politics/" class="hdn-analytics" data-hdn-analytics="visit|Politics-Texas|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="3626">Texas</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="http://www.houstonchronicle.com/us-world/politics-policy/" class="hdn-analytics" data-hdn-analytics="visit|Politics-U.S. &amp; World|navigation|3">
+                                                <a href="http://www.houstonchronicle.com/us-world/politics-policy/" class="hdn-analytics" data-hdn-analytics="visit|Politics-U.S. &amp; World|navigation|3" role="menuitem">
                                                     <div class="nav-label" data-naveid="3627">U.S. &amp; World</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/politics/texas-take/texas-take-podcast/" class="hdn-analytics" data-hdn-analytics="visit|Politics-Texas Take podcast|navigation|4">
+                                                <a href="/politics/texas-take/texas-take-podcast/" class="hdn-analytics" data-hdn-analytics="visit|Politics-Texas Take podcast|navigation|4" role="menuitem">
                                                     <div class="nav-label" data-naveid="3917">Texas Take podcast</div>
                                                 </a>
                                             </li>
@@ -552,28 +600,28 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-1257" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/opinion/" class="hdn-analytics" data-hdn-analytics="visit|Opinion|navigation|5">
+                                <a aria-haspopup="true" href="/opinion/" class="hdn-analytics" data-hdn-analytics="visit|Opinion|navigation|5" role="menuitem">
                                     <span class="section-link" data-naveid="1257">Opinion</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="/opinion/editorials/" class="hdn-analytics" data-hdn-analytics="visit|Opinion-Editorials|navigation|1">
+                                                <a href="/opinion/editorials/" class="hdn-analytics" data-hdn-analytics="visit|Opinion-Editorials|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="1311">Editorials</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/opinion/outlook/" class="hdn-analytics" data-hdn-analytics="visit|Opinion-Outlook|navigation|2">
+                                                <a href="/opinion/outlook/" class="hdn-analytics" data-hdn-analytics="visit|Opinion-Outlook|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="1312">Outlook</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/opinion/letters/" class="hdn-analytics" data-hdn-analytics="visit|Opinion-Letters to the Editor|navigation|3">
+                                                <a href="/opinion/letters/" class="hdn-analytics" data-hdn-analytics="visit|Opinion-Letters to the Editor|navigation|3" role="menuitem">
                                                     <div class="nav-label" data-naveid="1258">Letters to the Editor</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/opinion/columnists/" class="hdn-analytics" data-hdn-analytics="visit|Opinion-Columnists|navigation|4">
+                                                <a href="/opinion/columnists/" class="hdn-analytics" data-hdn-analytics="visit|Opinion-Columnists|navigation|4" role="menuitem">
                                                     <div class="nav-label" data-naveid="1259">Columnists</div>
                                                 </a>
                                             </li>
@@ -582,18 +630,18 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-4540" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/sports/texas-sports-nation/" class="hdn-analytics" data-hdn-analytics="visit|Texas Sports Nation|navigation|6">
+                                <a aria-haspopup="true" href="/sports/texas-sports-nation/" class="hdn-analytics" data-hdn-analytics="visit|Texas Sports Nation|navigation|6" role="menuitem">
                                     <span class="section-link" data-naveid="4540">Texas Sports Nation</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="/sports/texas-sports-nation/texas-sports-nation-podcast/" class="hdn-analytics" data-hdn-analytics="visit|Texas Sports Nation-TSN: The Podcast|navigation|1">
+                                                <a href="/sports/texas-sports-nation/texas-sports-nation-podcast/" class="hdn-analytics" data-hdn-analytics="visit|Texas Sports Nation-TSN: The Podcast|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="3851">TSN: The Podcast</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="https://www.houstonchronicle.com/sports/texas-sports-nation/about/" class="hdn-analytics" data-hdn-analytics="visit|Texas Sports Nation-About TSN|navigation|2">
+                                                <a href="https://www.houstonchronicle.com/sports/texas-sports-nation/about/" class="hdn-analytics" data-hdn-analytics="visit|Texas Sports Nation-About TSN|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="4550">About TSN</div>
                                                 </a>
                                             </li>
@@ -602,33 +650,33 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-1260" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/sports/" class="hdn-analytics" data-hdn-analytics="visit|Sports|navigation|7">
+                                <a aria-haspopup="true" href="/sports/" class="hdn-analytics" data-hdn-analytics="visit|Sports|navigation|7" role="menuitem">
                                     <span class="section-link" data-naveid="1260">Sports</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="/sports/texans/" class="hdn-analytics" data-hdn-analytics="visit|Sports-Texans|navigation|1">
+                                                <a href="/sports/texans/" class="hdn-analytics" data-hdn-analytics="visit|Sports-Texans|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="1261">Texans</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/sports/astros/" class="hdn-analytics" data-hdn-analytics="visit|Sports-Astros|navigation|2">
+                                                <a href="/sports/astros/" class="hdn-analytics" data-hdn-analytics="visit|Sports-Astros|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="1262">Astros</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/sports/rockets/" class="hdn-analytics" data-hdn-analytics="visit|Sports-Rockets|navigation|3">
+                                                <a href="/sports/rockets/" class="hdn-analytics" data-hdn-analytics="visit|Sports-Rockets|navigation|3" role="menuitem">
                                                     <div class="nav-label" data-naveid="1263">Rockets</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/sports/college-sports/" class="hdn-analytics" data-hdn-analytics="visit|Sports-College Sports|navigation|4">
+                                                <a href="/sports/college-sports/" class="hdn-analytics" data-hdn-analytics="visit|Sports-College Sports|navigation|4" role="menuitem">
                                                     <div class="nav-label" data-naveid="1266">College Sports</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/sports/hs-sports/" class="hdn-analytics" data-hdn-analytics="visit|Sports-HS Sports|navigation|5">
+                                                <a href="/sports/hs-sports/" class="hdn-analytics" data-hdn-analytics="visit|Sports-HS Sports|navigation|5" role="menuitem">
                                                     <div class="nav-label" data-naveid="1265">HS Sports</div>
                                                 </a>
                                             </li>
@@ -637,51 +685,63 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-1269" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/business/" class="hdn-analytics" data-hdn-analytics="visit|Business|navigation|8">
+                                <a aria-haspopup="true" href="/business/" class="hdn-analytics" data-hdn-analytics="visit|Business|navigation|8" role="menuitem">
                                     <span class="section-link" data-naveid="1269">Business</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="https://www.houstonchronicle.com/business/home-price-survey/" class="hdn-analytics" data-hdn-analytics="visit|Business-Home price survey|navigation|1">
+                                                <a href="https://www.houstonchronicle.com/business/home-price-survey/" class="hdn-analytics" data-hdn-analytics="visit|Business-Home price survey|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="5196">Home price survey</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/business/energy/" class="hdn-analytics" data-hdn-analytics="visit|Business-Energy|navigation|2">
+                                                <a href="/business/energy/" class="hdn-analytics" data-hdn-analytics="visit|Business-Energy|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="1272">Energy</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/business/real-estate/looped-in/" class="hdn-analytics" data-hdn-analytics="visit|Business-Looped In podcast|navigation|3">
+                                                <a href="/business/houston-how-to/" class="hdn-analytics" data-hdn-analytics="visit|Business-Houston How To|navigation|3" role="menuitem">
+                                                    <div class="nav-label" data-naveid="5369">Houston How To</div>
+                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/business/real-estate/looped-in/" class="hdn-analytics" data-hdn-analytics="visit|Business-Looped In podcast|navigation|4" role="menuitem">
                                                     <div class="nav-label" data-naveid="3930">Looped In podcast</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/business/real-estate/" class="hdn-analytics" data-hdn-analytics="visit|Business-Real Estate|navigation|4">
+                                                <a href="/business/real-estate/" class="hdn-analytics" data-hdn-analytics="visit|Business-Real Estate|navigation|5" role="menuitem">
                                                     <div class="nav-label" data-naveid="1275">Real Estate</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/business/retail/" class="hdn-analytics" data-hdn-analytics="visit|Business-Retail|navigation|5">
+                                                <a href="/business/retail/" class="hdn-analytics" data-hdn-analytics="visit|Business-Retail|navigation|6" role="menuitem">
                                                     <div class="nav-label" data-naveid="2642">Retail</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/business/top-workplaces/" class="hdn-analytics" data-hdn-analytics="visit|Business-Top Workplaces|navigation|6">
+                                                <a href="/business/top-workplaces/" class="hdn-analytics" data-hdn-analytics="visit|Business-Top Workplaces|navigation|7" role="menuitem">
                                                     <div class="nav-label" data-naveid="1317">Top Workplaces</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/techburger/" class="hdn-analytics" data-hdn-analytics="visit|Business-TechBurger|navigation|7">
+                                                <a href="/techburger/" class="hdn-analytics" data-hdn-analytics="visit|Business-TechBurger|navigation|8" role="menuitem">
                                                     <div class="nav-label" data-naveid="4426">TechBurger</div>
                                                 </a>
                                             </li>
                                                                                                             </ul>
                                                     </li>
+                                                                                                                                            <li id="nav-menu-link-5371" class="menu-item childless">
+                            <div class="nav-label">
+                                <a href="https://houston-chronicle.myshopify.com/collections/astros" class="hdn-analytics" data-hdn-analytics="visit|Shop the Chronicle|navigation|9" role="menuitem">
+                                    <span class="section-link" data-naveid="5371">Shop the Chronicle</span>
+                                </a>
+                            </div>
+                        </li>
                                                                                                                                             <li id="nav-menu-link-5041" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="https://www.houstonchronicle.com/news/space/mission-moon/" class="hdn-analytics" data-hdn-analytics="visit|Mission Moon|navigation|9">
+                                <a href="https://www.houstonchronicle.com/news/space/mission-moon/" class="hdn-analytics" data-hdn-analytics="visit|Mission Moon|navigation|10" role="menuitem">
                                     <span class="section-link" data-naveid="5041">Mission Moon</span>
                                 </a>
                             </div>
@@ -689,23 +749,23 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-1221" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/entertainment/" class="hdn-analytics" data-hdn-analytics="visit|Arts &amp; Entertainment|navigation|10">
+                                <a aria-haspopup="true" href="/entertainment/" class="hdn-analytics" data-hdn-analytics="visit|Arts &amp; Entertainment|navigation|11" role="menuitem">
                                     <span class="section-link" data-naveid="1221">Arts &amp; Entertainment</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="/entertainment/movies-and-tv/" class="hdn-analytics" data-hdn-analytics="visit|Arts &amp; Entertainment-Movies &amp; TV|navigation|1">
+                                                <a href="/entertainment/movies-and-tv/" class="hdn-analytics" data-hdn-analytics="visit|Arts &amp; Entertainment-Movies &amp; TV|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="1226">Movies &amp; TV</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/entertainment/music-theater-and-arts/" class="hdn-analytics" data-hdn-analytics="visit|Arts &amp; Entertainment-Music, Theater &amp; Fine Arts|navigation|2">
+                                                <a href="/entertainment/music-theater-and-arts/" class="hdn-analytics" data-hdn-analytics="visit|Arts &amp; Entertainment-Music, Theater &amp; Fine Arts|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="1239">Music, Theater &amp; Fine Arts</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/entertainment/rodeo/" class="hdn-analytics" data-hdn-analytics="visit|Arts &amp; Entertainment-Rodeo|navigation|3">
+                                                <a href="/entertainment/rodeo/" class="hdn-analytics" data-hdn-analytics="visit|Arts &amp; Entertainment-Rodeo|navigation|3" role="menuitem">
                                                     <div class="nav-label" data-naveid="1425">Rodeo</div>
                                                 </a>
                                             </li>
@@ -714,38 +774,38 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-3350" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/flavor/" class="hdn-analytics" data-hdn-analytics="visit|Flavor|navigation|11">
+                                <a aria-haspopup="true" href="/flavor/" class="hdn-analytics" data-hdn-analytics="visit|Flavor|navigation|12" role="menuitem">
                                     <span class="section-link" data-naveid="3350">Flavor</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="/entertainment/restaurants-bars/barbecue/bbq-state-of-mind-podcast/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Barbecue podcast|navigation|1">
+                                                <a href="/entertainment/restaurants-bars/barbecue/bbq-state-of-mind-podcast/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Barbecue podcast|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="4266">Barbecue podcast</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/entertainment/restaurants-bars/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Restaurants &amp; Bars|navigation|2">
+                                                <a href="/entertainment/restaurants-bars/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Restaurants &amp; Bars|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="1222">Restaurants &amp; Bars</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/entertainment/restaurants-bars/barbecue/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Barbecue|navigation|3">
+                                                <a href="/entertainment/restaurants-bars/barbecue/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Barbecue|navigation|3" role="menuitem">
                                                     <div class="nav-label" data-naveid="3147">Barbecue</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/entertainment/top-100-restaurants/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Top 100 Restaurants|navigation|4">
+                                                <a href="/entertainment/top-100-restaurants/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Top 100 Restaurants|navigation|4" role="menuitem">
                                                     <div class="nav-label" data-naveid="1793">Top 100 Restaurants</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/lifestyle/food/recipes/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Recipes|navigation|5">
+                                                <a href="/lifestyle/food/recipes/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Recipes|navigation|5" role="menuitem">
                                                     <div class="nav-label" data-naveid="1616">Recipes</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="https://www.houstonchronicle.com/entertainment/restaurants-bars/reviews/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Restaurant Reviews|navigation|6">
+                                                <a href="https://www.houstonchronicle.com/entertainment/restaurants-bars/reviews/" class="hdn-analytics" data-hdn-analytics="visit|Flavor-Restaurant Reviews|navigation|6" role="menuitem">
                                                     <div class="nav-label" data-naveid="5223">Restaurant Reviews</div>
                                                 </a>
                                             </li>
@@ -754,28 +814,28 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-1245" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/lifestyle/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle|navigation|12">
+                                <a aria-haspopup="true" href="/lifestyle/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle|navigation|13" role="menuitem">
                                     <span class="section-link" data-naveid="1245">Lifestyle</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="https://www.houstonchronicle.com/lifestyle/style/travel/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle-Travel|navigation|1">
+                                                <a href="https://www.houstonchronicle.com/lifestyle/style/travel/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle-Travel|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="3019">Travel</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/life-and-arts/home-and-garden/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle-Home &amp; Garden|navigation|2">
+                                                <a href="/life-and-arts/home-and-garden/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle-Home &amp; Garden|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="3353">Home &amp; Garden</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/life-and-arts/religion-and-life-passages/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle-Religion|navigation|3">
+                                                <a href="/life-and-arts/religion-and-life-passages/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle-Religion|navigation|3" role="menuitem">
                                                     <div class="nav-label" data-naveid="3357">Religion</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/lifestyle/society/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle-Society|navigation|4">
+                                                <a href="/lifestyle/society/" class="hdn-analytics" data-hdn-analytics="visit|Lifestyle-Society|navigation|4" role="menuitem">
                                                     <div class="nav-label" data-naveid="1250">Society</div>
                                                 </a>
                                             </li>
@@ -784,28 +844,28 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                                                                                                             <li id="nav-menu-link-1784" class="menu-item">
                             <div class="nav-label">
                                 <span class="arrow expand"></span>
-                                <a href="/local/specialsections/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects|navigation|13">
+                                <a aria-haspopup="true" href="/local/specialsections/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects|navigation|14" role="menuitem">
                                     <span class="section-link" data-naveid="1784">Special Projects</span>
                                 </a>
                             </div>
                                                             <ul class="nav-submenu-list">
                                                                                                                         <li>
-                                                <a href="https://www.houstonchronicle.com/local/hc-investigations/broken-trust/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects-Broken Trust|navigation|1">
+                                                <a href="https://www.houstonchronicle.com/local/hc-investigations/broken-trust/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects-Broken Trust|navigation|1" role="menuitem">
                                                     <div class="nav-label" data-naveid="5042">Broken Trust</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/local/investigations/abuse-of-faith/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects-Abuse of Faith|navigation|2">
+                                                <a href="/local/investigations/abuse-of-faith/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects-Abuse of Faith|navigation|2" role="menuitem">
                                                     <div class="nav-label" data-naveid="4826">Abuse of Faith</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="https://www.houstonchronicle.com/local/investigations/heart-failure/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects-Heart Failure|navigation|3">
+                                                <a href="https://www.houstonchronicle.com/local/investigations/heart-failure/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects-Heart Failure|navigation|3" role="menuitem">
                                                     <div class="nav-label" data-naveid="3607">Heart Failure</div>
                                                 </a>
                                             </li>
                                                                                                                                                                 <li>
-                                                <a href="/local/investigations/out-of-control/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects-Out of Control|navigation|4">
+                                                <a href="/local/investigations/out-of-control/" class="hdn-analytics" data-hdn-analytics="visit|Special Projects-Out of Control|navigation|4" role="menuitem">
                                                     <div class="nav-label" data-naveid="4201">Out of Control</div>
                                                 </a>
                                             </li>
@@ -813,42 +873,42 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                                     </li>
                                                                                                                                             <li id="nav-menu-link-3850" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="/podcasts/" class="hdn-analytics" data-hdn-analytics="visit|Podcasts|navigation|14">
+                                <a href="/podcasts/" class="hdn-analytics" data-hdn-analytics="visit|Podcasts|navigation|15" role="menuitem">
                                     <span class="section-link" data-naveid="3850">Podcasts</span>
                                 </a>
                             </div>
                         </li>
                                                                                                                                             <li id="nav-menu-link-3386" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="/newsletters/" class="hdn-analytics" data-hdn-analytics="visit|Newsletters|navigation|15">
+                                <a href="/newsletters/" class="hdn-analytics" data-hdn-analytics="visit|Newsletters|navigation|16" role="menuitem">
                                     <span class="section-link" data-naveid="3386">Newsletters</span>
                                 </a>
                             </div>
                         </li>
                                                                                                                                                                         <li id="nav-menu-link-4231" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="http://digital.olivesoftware.com/Olive/ODN/houstonchronicle/Default.aspx" class="hdn-analytics" data-hdn-analytics="visit|ENewspaper|navigation|1">
+                                <a href="http://digital.olivesoftware.com/Olive/ODN/houstonchronicle/Default.aspx" class="hdn-analytics" data-hdn-analytics="visit|ENewspaper|navigation|1" role="menuitem">
                                     <span class="section-link" data-naveid="4231">ENewspaper</span>
                                 </a>
                             </div>
                         </li>
                                                                                                                                             <li id="nav-menu-link-3387" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="/archive/" class="hdn-analytics" data-hdn-analytics="visit|Archive|navigation|2">
+                                <a href="/archive/" class="hdn-analytics" data-hdn-analytics="visit|Archive|navigation|2" role="menuitem">
                                     <span class="section-link" data-naveid="3387">Archive</span>
                                 </a>
                             </div>
                         </li>
                                                                                                                                             <li id="nav-menu-link-4555" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="/privacy_policy" class="hdn-analytics" data-hdn-analytics="visit|Privacy Notice|navigation|3">
+                                <a href="/privacy_policy" class="hdn-analytics" data-hdn-analytics="visit|Privacy Notice|navigation|3" role="menuitem">
                                     <span class="section-link" data-naveid="4555">Privacy Notice</span>
                                 </a>
                             </div>
                         </li>
                                                                                                                                             <li id="nav-menu-link-4556" class="menu-item childless">
                             <div class="nav-label">
-                                <a href="/terms_of_use" class="hdn-analytics" data-hdn-analytics="visit|Terms of Use|navigation|4">
+                                <a href="/terms_of_use" class="hdn-analytics" data-hdn-analytics="visit|Terms of Use|navigation|4" role="menuitem">
                                     <span class="section-link" data-naveid="4556">Terms of Use</span>
                                 </a>
                             </div>
@@ -1476,9 +1536,15 @@ $(document).ready(function () {
 <script>
                                 
         if ( document.readyState === "complete" || (document.readyState !== "loading" && !document.documentElement.doScroll)) {
-            HDN.spotim.commentCount(undefined,undefined,1);
+            if (HDN && HDN.hasOwnProperty('spotim')) {
+                HDN.spotim.commentCount(undefined,undefined,1);
+            }
         } else {
-            document.addEventListener("DOMContentLoaded", function() { HDN.spotim.commentCount(undefined,undefined,1); });
+            document.addEventListener("DOMContentLoaded", function() { 
+                        if (HDN && HDN.hasOwnProperty('spotim')) {
+                            HDN.spotim.commentCount(undefined,undefined,1);
+                        }
+                    });
         }
     
 </script>
@@ -1487,75 +1553,75 @@ $(document).ready(function () {
             <!-- hearst/item/standalone.tpl -->
 <div class="hdnce-e hdnce-item-11335"><!-- mid:freeform.11335 -->
 <div class="hc_sitefooter">
-<div class="lock1200">
-   <div class="hcsf_header">
-    <a href="http://www.houstonchronicle.com"><img src="/img/modules/sitefooter/footer_logo.png"></a>
-    <div class="toplink"><a href="#container"><span class="topLinkText">Top</span></a></div>
-   </div>
-   <ul class="hcsf_links">
-<li class="hcsf_about"> 
-     <h3>About</h3>
-     <ul class="hcsf_linklist">
-
-      <li><a href="/privacy_policy">Privacy Notice</a></li>
-      <li><a href="/privacy_policy/#caprivacyrights">Your California Privacy Rights</a></li>
-      <li><a href="/privacy_policy/#interestbasedads">Interest Based Ads</a></li>
-      <li><a href="/terms_of_use/">Terms of Use</a></li>
-      <li><a href="http://marketing.chron.com/">Advertising</a></li>
-      <li><a href="http://www.hearst.com/newspapers/houston-chronicle.php">Our Company</a></li>
-      <li><a href="http://www.chron.com/careers/">Careers</a></li> 
+  <div class="lock1200">
+     <div class="hcsf_header">
+      <a href="http://www.houstonchronicle.com"><img src="/img/modules/sitefooter/footer_logo.png" alt="Houston Chronicle Logo"></a>
+      <div class="toplink"><a href="#container"><span class="topLinkText">Top</span></a></div>
+     </div>
+     <ul class="hcsf_links">
+  <li class="hcsf_about"> 
+       <h3 id="about-footer-hc">About</h3>
+       <ul class="hcsf_linklist" role="list" aria-labelledby="about-footer-hc">
+  
+        <li><a href="/privacy_policy" role="listitem">Privacy Notice</a></li>
+        <li><a href="/privacy_policy/#caprivacyrights" role="listitem">Your California Privacy Rights</a></li>
+        <li><a href="/privacy_policy/#interestbasedads" role="listitem">Interest Based Ads</a></li>
+        <li><a href="/terms_of_use/" role="listitem">Terms of Use</a></li>
+        <li><a href="http://marketing.chron.com/" role="listitem">Advertising</a></li>
+        <li><a href="http://www.hearst.com/newspapers/houston-chronicle.php" role="listitem">Our Company</a></li>
+        <li><a href="http://www.chron.com/careers/" role="listitem">Careers</a></li> 
+       </ul>
+  </li>
      </ul>
-</li>
-   </ul>
-<ul class="hcsf_links">
-<li class="hcsf_contact"> 
-     <h3>Contact</h3>
-     <ul class="hcsf_linklist">
-<li><a href="/subscribe">Subscribe</a></li>
-      <li><a href="http://www.houstonchronicle.com/e-edition/" target="_blank">eNewspaper</a></li>
-      <li><a href="/archive/">Archives</a></li>
-      <li><a href="/customer_service">Customer Service</a></li>
-      <li><a href="/faq">Frequently Asked Questions</a></li>
-      <li><a href="/newsroom_contacts">Newsroom Contacts</a></li>
+  <ul class="hcsf_links">
+  <li class="hcsf_contact"> 
+       <h3 id="contact-footer-hc">Contact</h3>
+       <ul class="hcsf_linklist" role="list" aria-labelledby="contact-footer-hc">
+  <li><a href="/subscribe" role="listitem">Subscribe</a></li>
+        <li><a href="http://www.houstonchronicle.com/e-edition/" target="_blank" role="listitem">eNewspaper</a></li>
+        <li><a href="/archive/" role="listitem">Archives</a></li>
+        <li><a href="/customer_service" role="listitem">Customer Service</a></li>
+        <li><a href="/faq" role="listitem">Frequently Asked Questions</a></li>
+        <li><a href="/newsroom_contacts" role="listitem">Newsroom Contacts</a></li>
+       </ul>
+  </li>
      </ul>
-</li>
-   </ul>
-<ul class="hcsf_links">
-<li class="hcsf_connect desktop"> 
-     <h3>Connect</h3>
-     <ul class="hcsf_linklist">
-<li><a href="/newsletters">Newsletters</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.houstonchronicle.newsapp">Android App</a></li>
-<li><a href="https://itunes.apple.com/us/app/houston-chronicle/id453564805">iOS App</a></li>
-      <li><a class="fb-link" href="https://www.facebook.com/houstonchronicle">Facebook</a></li>
-      <li><a class="twtr-link" href="https://twitter.com/houstonchron">Twitter</a></li> 
-      <li><a class="li-link" href="http://www.linkedin.com/company/houston-chronicle">LinkedIn</a></li>
-      <li><a class="pin-link" href="http://pinterest.com/houstonchron/">Pinterest</a></li>
+  <ul class="hcsf_links">
+  <li class="hcsf_connect desktop"> 
+       <h3 id="connect-footer-hc">Connect</h3>
+       <ul class="hcsf_linklist" role="list" aria-labelledby="connect-footer-hc">
+  <li><a href="/newsletters" role="listitem">Newsletters</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.houstonchronicle.newsapp" role="listitem">Android App</a></li>
+  <li><a href="https://itunes.apple.com/us/app/houston-chronicle/id453564805" role="listitem">iOS App</a></li>
+        <li><a class="fb-link" href="https://www.facebook.com/houstonchronicle" role="listitem">Facebook</a></li>
+        <li><a class="twtr-link" href="https://twitter.com/houstonchron" role="listitem">Twitter</a></li> 
+        <li><a class="li-link" href="http://www.linkedin.com/company/houston-chronicle" role="listitem">LinkedIn</a></li>
+        <li><a class="pin-link" href="http://pinterest.com/houstonchron/" role="listitem">Pinterest</a></li>
+       </ul>
+  </li>
+      <li class="hcsf_connect mobile"> 
+       <h3 id="connect-footer-hc-mobile">Connect</h3>
+       <ul class="hcsf_linklist" role="list" aria-labelledby="connect-footer-hc-mobile">
+  <li><a class="fb-link" href="https://www.facebook.com/chroncom" role="listitem"></a></li>
+        <li><a class="twtr-link" href="https://twitter.com/houstonchron" role="listitem"></a></li> 
+        <li><a class="li-link" href="http://www.linkedin.com/company/houston-chronicle" role="listitem"></a></li>
+        <li><a class="pin-link" href="http://pinterest.com/houstonchron/" role="listitem"></a></li>
+        <li><a class="gplus-link" href="https://plus.google.com/+houstonchronicle" role="listitem"></a></li>
+       </ul>
+  </li>
      </ul>
-</li>
-    <li class="hcsf_connect mobile"> 
-     <h3>Connect</h3>
-     <ul class="hcsf_linklist">
-<li><a class="fb-link" href="https://www.facebook.com/chroncom"></a></li>
-      <li><a class="twtr-link" href="https://twitter.com/houstonchron"></a></li> 
-      <li><a class="li-link" href="http://www.linkedin.com/company/houston-chronicle"></a></li>
-      <li><a class="pin-link" href="http://pinterest.com/houstonchron/"></a></li>
-      <li><a class="gplus-link" href="https://plus.google.com/+houstonchronicle"></a></li>
-     </ul>
-</li>
-   </ul>
-<div class="copyright-wrap">
-    <img src="/img/modules/sitefooter/hst_copy_logo.png"><p class="copyright">© 2018 Hearst Newspapers, LLC.</p>
-   </div>
-</div>
+  <div class="copyright-wrap">
+      <img src="/img/modules/sitefooter/hst_copy_logo.png" alt="Hearst Newspapers Logo"><p class="copyright">© 2018 Hearst Newspapers, LLC.</p>
+     </div>
   </div>
-<!-- TEMPORARY HOTFIX WCM-1884 --><script type="text/javascript">
-if (typeof(HDN.dataLayer.paywall.accessRule) !== "undefined" && HDN.dataLayer.paywall.accessRule !== "edbContentToken") {
-    $('#hdn-vf-comments').remove();
-}
-</script>
-<!-- NPDATA-3311-->
-<img height="1" width="1" style="border-style:none;" alt="" src="//insight.adsrvr.org/track/evnt/?adv=ctg2su6&amp;ct=0:s6ioi9x&amp;fmt=3">
+    </div>
+  <!-- TEMPORARY HOTFIX WCM-1884 --><script type="text/javascript">
+  if (typeof(HDN.dataLayer.paywall.accessRule) !== "undefined" && HDN.dataLayer.paywall.accessRule !== "edbContentToken") {
+      $('#hdn-vf-comments').remove();
+  }
+  </script>
+  <!-- NPDATA-3311-->
+  <img height="1" width="1" style="border-style:none;" alt="" src="//insight.adsrvr.org/track/evnt/?adv=ctg2su6&amp;ct=0:s6ioi9x&amp;fmt=3">
 </div><!-- / hdnce-e -->                        
             <script type="text/javascript">
               window._taboola = window._taboola || [];
