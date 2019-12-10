@@ -1,15 +1,40 @@
-<!--The following is the downloaded HTML source of the goenglish.me privacy policy that was archived on 2019-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190507085834id_/https%3A//learningenglish.voanews.com/p/6021.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goenglish.me privacy policy that was archived on 2019-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191210015622id_/https%3A//learningenglish.voanews.com/p/6021.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" class="js"><head>
 <script src="https://tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.js" type="text/javascript" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N8MP7P"></script><script src="//tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.sync.js"></script> <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript">
 //a general 'js' detection, must be on top level in <head>, due to CSS performance
 document.documentElement.className = "js";
-var cacheBuster = "113";
+var cacheBuster = "129";
 var appBaseUrl = "/";
 var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
 var isLoggingEnabled = false;
+var pwaEnabled = false;
+var swCacheDisabled;
+</script>
+<script type="text/javascript">
+// register service worker if supported
+// Service-worker file needs to exist in root folder, because it defines its scope = it can intercept only requests below it in the tree structure
+window.addEventListener('load', function () {
+if ('serviceWorker' in navigator && (pwaEnabled || typeof OneSignal != 'undefined' || !swCacheDisabled)) {
+var sw = '/OneSignalSDKWorker.js';
+if (typeof OneSignal != 'undefined') {
+sw = sw + '?appId='+OneSignal.config.appId;
+}
+if (pwaEnabled) {
+sw = sw.indexOf('?') > -1 ? sw + '&pwa=true' : sw + '?pwa=true';
+}
+if (swCacheDisabled) {
+sw = sw.indexOf('?') > -1 ? sw + '&sw-cache-dis=true' : sw + '?sw-cache-dis=true';
+}
+navigator.serviceWorker.register(sw).then(function (registration) {
+console.log('ServiceWorker registration successful with scope: ', registration.scope);
+}, function (err) {
+console.log('ServiceWorker registration failed: ', err);
+});
+}
+});
 </script>
 <meta charset="utf-8">
 <title>Terms of Use and Privacy Note VOA - Voice of America English News</title>
@@ -35,10 +60,9 @@ var isLoggingEnabled = false;
 <meta content="VOA" property="og:site_name">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@VOALearnEnglish">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"MenuSection","inLanguage":"en-US-LEARN","mainEntityOfPage":"https://learningenglish.voanews.com/p/6021.html","url":"https://learningenglish.voanews.com/p/6021.html","headline":"Terms of Use and Privacy Note","name":"Terms of Use and Privacy Note","author":{"@type":"Organization","name":"VOA"},"creator":{"@type":"Organization","name":"VOA"},"image":{"@type":"ImageObject","url":"https://learningenglish.voanews.com/Content/responsive/VOA/en-US-LEARN/img/logo-amp.png","width":1080,"height":608},"datePublished":"2019-05-07","dateModified":"2019-05-07 08:58:34Z","keywords":"terms of use, privacy","publisher":{"@type":"Organization","url":"https://learningenglish.voanews.com","sameAs":["https://www.facebook.com/voalearningenglish","https://twitter.com/VOALearnEnglish","https://www.youtube.com/voalearningenglish","/rssfeeds","/podcasts","/subscribe.html"],"name":"VOA","logo":{"@type":"ImageObject","url":"https://learningenglish.voanews.com/Content/responsive/VOA/en-US-LEARN/img/logo-amp.png","width":240,"height":60}},"description":"Terms of Use and Privacy Note"}</script>
-<link href="/Content/responsive/VOA/en-US-LEARN/VOA-en-US-LEARN.css?&amp;av=7.31.0.0&amp;cb=113" rel="stylesheet">
-<script src="/Scripts/responsive/infographics.b?v=SoOwxR3GP1g_2rVvUJRa8ALUqwaBS2Bj7UH6Ua1r74Y1?&amp;av=7.31.0.0&amp;cb=113"></script>
-<script src="/Scripts/responsive/loader.b?v=pS1oZNXpN1hGCfqMdgFVUBLexqJVN55vBd6Hy2FIC1I1&amp;av=7.31.0.0&amp;cb=113"></script>
+<link href="/Content/responsive/VOA/en-US-LEARN/VOA-en-US-LEARN.css?&amp;av=7.35.0.0&amp;cb=129" rel="stylesheet">
+<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=7.35.0.0&amp;cb=129"></script>
+<script src="/Scripts/responsive/loader.b?v=LKgJ0gz997b2JNzZhFHPbtIIErTkvunXX0M4geNTAAE1&amp;av=7.35.0.0&amp;cb=129"></script>
 <link rel="shortcut icon" href="/Content/responsive/VOA/img/webApp/favicon.ico">
 <link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png">
 <link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/VOA/img/webApp/ico-144x144.png">
@@ -52,7 +76,7 @@ var isLoggingEnabled = false;
 <link rel="alternate" type="application/rss+xml" title="VOA - Top Stories [RSS]" href="/api/">
 <link rel="sitemap" type="application/rss+xml" href="/sitemap.xml">
 </head>
-<body class="nav-no-loaded pg-section  can-ff is-not-mobile">
+<body class="nav-no-loaded pg-section  can-ff">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript">
 if (top.location === self.location) { //if not inside of an IFrame
 var renderGtm = "true";
@@ -72,7 +96,7 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
-<img style="position: absolute" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/1461577899?pageName=voa%3alearn%3ar%3asection%20index%3aterms%20of%20use%20and%20privacy%20note&amp;c6=terms%20of%20use%20and%20privacy%20note&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=terms-of-use-and-privacy-note&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=index&amp;v4=D=c4&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" border="0" width="1" height="1" /></noscript>
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/701473466?pageName=voa%3alearn%3ar%3asection%20index%3aterms%20of%20use%20and%20privacy%20note&amp;c6=terms%20of%20use%20and%20privacy%20note&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=terms-of-use-and-privacy-note&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=index&amp;v4=D=c4&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
 <!-- End of Analytics tag management NoScript -->
 <!--*** Accessibility links - For ScreenReaders only ***-->
 <section>
@@ -106,14 +130,14 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <span class="arrow-open"></span>
 </a>
 </li>
-<li class="action action-menu" style="display: none;">
+<li class="action action-menu">
 <a href="/navigation.html" class="link-js">
 <span class="ico ico-menu"></span>
 <span class="arrow-open"></span>
 </a>
 </li>
 </ul>
-<div class="actions has-actions">
+<div class="actions">
 <div class="actions__safe-wrap">
 <div class="action action-entity-sites">
 <a href="/navigation/allsites" class="action__link" data-smoothscroll="disabled">
@@ -125,7 +149,7 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <ul class="follow">
 <li>
 <a href="https://www.facebook.com/voalearningenglish" title="Follow us on Facebook" class="btn btn--rounded btn-facebook" target="_blank">
-<span class="ico ico-facebook ico--nobg"></span>
+<span class="ico ico-facebook-alt ico--nobg"></span>
 </a>
 </li>
 <li>
@@ -142,20 +166,20 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 </div>
 </div>
 <div class="action pnl-srch-top collapsed">
-<form action="/s" id="form-headerSearch" method="get" role="search"><ul class="form__list">
-<span class="srch-elem">
-<span class="input-wrap">
+<form action="/s" id="form-headerSearch" method="get" pp="" r="" role="search" tab=""><div class="srch-elem">
+<ul class="form__list">
 <li class="form__group m-tb-0">
+<span class="input-wrap">
 <label for="txtHeaderSearch" class="form__label sr-only">Search</label>
 <input type="text" id="txtHeaderSearch" name="k" placeholder="search text ..." accesskey="s" value="" class="form__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }">
-</li>
 </span>
 <button title="Search" type="submit" class="btn btn-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
 <span class="ico ico-search"></span>
 <span class="text">Search</span>
 </button>
-</span>
-</ul></form>
+</li>
+</ul>
+</div></form>
 </div>
 </div>
 </div>
@@ -223,14 +247,14 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <ul>
 <li>
 <div class="media-block horizontal has-img size-3">
-<a href="/a/4886925.html" class="img-wrap" title="Learning English Broadcast">
+<a href="/a/5180887.html" class="img-wrap" title="Learning English Broadcast">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/47E37481-CAD6-4AEF-9AD4-74FC8B936E46_w66_r1.jpg" src="https://gdb.voanews.com/47E37481-CAD6-4AEF-9AD4-74FC8B936E46_w144_r1.jpg" class=" enhanced">
+<img data-src="https://gdb.voanews.com/47E37481-CAD6-4AEF-9AD4-74FC8B936E46_w66_r1.jpg" src="" alt=" ">
 </div>
 <span class="ico ico-audio ico--media-type"></span>
 </a>
 <div class="content">
-<a href="/a/4886925.html">
+<a href="/a/5180887.html">
 <h4 class="media-block__title">
 <span class="title">Learning English Broadcast</span>
 </h4>
@@ -279,20 +303,20 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <div data-trigger="btn-open-srch" class="sticked-nav-popup popup-srch">
 <div class="container">
 <div class="stick-srch-form">
-<form action="/s" id="form-stickyNavSearch" method="get" role="search"><ul class="form__list">
-<span class="srch-elem">
-<span class="input-wrap">
+<form action="/s" id="form-stickyNavSearch" method="get" pp="" r="" role="search" tab=""><div class="srch-elem">
+<ul class="form__list">
 <li class="form__group m-tb-0">
+<span class="input-wrap">
 <label for="txtStickyNavSearch" class="form__label sr-only">Search</label>
 <input type="text" id="txtStickyNavSearch" name="k" placeholder="search text ..." accesskey="s" value="" class="form__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) }">
-</li>
 </span>
 <button title="Search" type="submit" class="btn btn-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) ">
 <span class="ico ico-search"></span>
 <span class="text">Search</span>
 </button>
-</span>
-</ul></form>
+</li>
+</ul>
+</div></form>
 <button class="btn btn-close"><span class="ico ico-close"></span></button>
 </div>
 </div>
@@ -318,14 +342,14 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <input class="switcher-controller" id="more-less-1" type="checkbox">
 <span class="c-hlights__label">
 <span class="">Breaking News</span>
-<div class="switcher-trigger">
+<span class="switcher-trigger">
 <label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="Show more">
 <span class="ico ico-chevron-down"></span>
 </label>
 <label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="Show less">
 <span class="ico ico-chevron-up"></span>
 </label>
-</div>
+</span>
 </span>
 <ul class="c-hlights__items switcher-target">
 </ul>
@@ -346,14 +370,14 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <input class="switcher-controller" id="more-less-2" type="checkbox">
 <span class="c-hlights__label">
 <span class="badge badge--live">Live</span>
-<div class="switcher-trigger">
+<span class="switcher-trigger">
 <label for="more-less-2" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="Show more">
 <span class="ico ico-chevron-down"></span>
 </label>
 <label for="more-less-2" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="Show less">
 <span class="ico ico-chevron-up"></span>
 </label>
-</div>
+</span>
 </span>
 <ul class="c-hlights__items switcher-target">
 </ul>
@@ -374,12 +398,12 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <p>We will collect no personal information about you when you visit our website unless you choose to provide that information to us.</p>
 <p><strong>Information Collected and Stored Automatically</strong></p>
 <p>If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:</p>
-<ul class="wsw__ul">
-<li class="wsw__ul-li">The internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address ( an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website.</li>
-<li class="wsw__ul-li">The type of browser and operating system used to access our site;</li>
-<li class="wsw__ul-li">The date and time you access our site;</li>
-<li class="wsw__ul-li">The pages you visit;</li>
-<li class="wsw__ul-li">If you linked to this website from another website, the address of that other website.</li>
+<ul>
+<li>The internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address ( an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website.</li>
+<li>The type of browser and operating system used to access our site;</li>
+<li>The date and time you access our site;</li>
+<li>The pages you visit;</li>
+<li>If you linked to this website from another website, the address of that other website.</li>
 </ul>
 <p><strong>If You Send Us Personal Information</strong></p>
 <p>If you choose to provide us with personal information by sending an e-mail to us, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us get the information you have requested. We do not collect personal information for any other purposes. Moreover, we do not create individual profiles with the information you provide or give this information to any private organizations. Nor do we collect information for commercial marketing.</p>
@@ -396,11 +420,11 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <p><strong>Rules for Posting Comments</strong></p>
 <p>All comments will be reviewed before posting. VOA will make every effort to review and post comments within 48 hours, usually less. VOA encourages thoughtful discussion, and will not censor comments based on ideology or political points of view. VOA will not edit comments - we will either post them or not.</p>
 <p>All comments must follow these rules:</p>
-<ol class="wsw__ol">
-<li class="wsw__ol-li">Stay on topic.</li>
-<li class="wsw__ol-li">No obscenity, profanity, vulgarity, hate language, SHOUTING, or other bad behavior.</li>
-<li class="wsw__ol-li">No personal attacks. No inflammatory language or calls for violence.</li>
-<li class="wsw__ol-li">Simple text only, please.No html or other code.</li>
+<ol>
+<li>Stay on topic.</li>
+<li>No obscenity, profanity, vulgarity, hate language, SHOUTING, or other bad behavior.</li>
+<li>No personal attacks. No inflammatory language or calls for violence.</li>
+<li>Simple text only, please.No html or other code.</li>
 </ol>
 <p><strong>Copyright Statement</strong></p>
 <p>1. All text, audio and video material produced exclusively by the Voice of America is in the public domain. Credit for any use of VOA material should be given to voanews.com, Voice of America, or VOA. However, voanews.com content may also contain text, video, audio, images, graphics, and other copyrighted material that is licensed for use in VOA programming only. This material is not in the public domain and may not be copied, redistributed, sold, or published without the express permission of the copyright owner.</p>
@@ -464,11 +488,11 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 </div>
 </div>
 </div>
-<div class="back-to-top-nav visible-xs">
+<div class="back-to-top-nav disabled visible-xs">
 <div class="container">
 <div class="row">
 <div class="col-xs-12">
-<a title="Back to top" class="back-to-top-link not-used" href="#page">
+<a title="Back to top" class="back-to-top-link" href="#page">
 <span class="ico ico-chevron-up"></span>
 <span class="text">Back to top</span>
 </a>
@@ -490,7 +514,7 @@ Follow Us
 <ul class="subitems follow">
 <li>
 <a href="https://www.facebook.com/voalearningenglish" title="Follow us on Facebook" class="btn btn--rounded btn-facebook" target="_blank">
-<span class="ico ico-facebook ico--rounded"></span>
+<span class="ico ico-facebook-alt ico--rounded"></span>
 </a>
 </li>
 <li>
@@ -639,9 +663,6 @@ Audio Programs
 <a class="handler" href="https://learningenglish.voanews.com/p/6353.html">U.S. History</a>
 </li>
 <li class="subitem">
-<a class="handler" href="/z/4652">What's Trending Today</a>
-</li>
-<li class="subitem">
 <a class="handler" href="/z/5254">What It Takes</a>
 </li>
 <li class="subitem">
@@ -678,7 +699,7 @@ document.getElementsByTagName("body")[0].className += " is-not-mobile";
 }
 }
 </script>
-<script src="/conf.js?x=113" type="text/javascript"></script>
+<script src="/conf.js?x=129" type="text/javascript"></script>
 <div class="responsive-indicator">
 <div class="visible-xs-block">XS</div>
 <div class="visible-sm-block">SM</div>
@@ -687,13 +708,13 @@ document.getElementsByTagName("body")[0].className += " is-not-mobile";
 </div>
 <script type="text/javascript">
 var bar_data = {
-"apiUrl": "https://voa.pangea-cms.com/publisher/en-US-LEARN/api/frontend/itemdata",
 "apiId": "6021",
 "apiType": "2",
 "isEmbedded": "0",
+"culture": "en-US-LEARN",
 "cookieName": "cmsLoggedIn",
 "cookieDomain": "learningenglish.voanews.com"
 };
 </script>
 
-<script src="/res?callback=_resourceLoaderReceiver_0&amp;dependencies=prog_install_prompt,header,facebook_api,youtube_iframe,collapsible,highlights,hljson_loader,navigation_mobile,image_enhancer,smooth_scroll,google_translate,content_sharing,load_more,content_tabs,most_popular,simple_captcha,analyticstag_event,flexible_iframe,slider,back_to_top,whatsapp_share_button,sticky_player_pangea_video,sticky_player_youtube,sticky_player_history_handler,sticky_player,copy_to_clipboard,lt"></script><script src="/res?callback=_resourceLoaderReceiver_1&amp;dependencies=facebook_video_snippet,sticky_player_facebook"></script></body></html>
+</body></html>
