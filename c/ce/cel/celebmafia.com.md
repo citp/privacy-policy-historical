@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebmafia.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623210232id_/https%3A//celebmafia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebmafia.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210025743id_/https%3A//celebmafia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - CelebMafia
 
