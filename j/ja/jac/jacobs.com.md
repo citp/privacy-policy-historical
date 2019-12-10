@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacobs.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619152438id_/http%3A//www.jacobs.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobs.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210033242id_/http%3A//www.jacobs.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement & Terms of Use | Jacobs
 
@@ -112,7 +112,7 @@ While Jacobs attempts to ensure that only accurate information is presented on t
 
 You have a right to inquire about the Personal Data Jacobs holds about you. You have the right at any time to ask access to your Personal Data. In addition to this, you can object to our processing of your Personal Data, and request correction, amendment, deletion or restriction of the processing of your Personal Data and data portability.
 
-If you want to exercise one or more of your rights, please contact [privacy@jacobs.com](mailto:privacy@jacobs.com) and a request form will be sent to you for completion and return.
+If you want to exercise one or more of your rights, you can download and complete a [data subject request form](https://www.jacobs.com/sites/default/files/2019-08/data-subject-request-form.pdf) and submit it to [privacy@jacobs.com](mailto:privacy@jacobs.com).
 
 If you are unhappy with how we’ve handled your Personal Data, please contact Jacobs at [privacy@jacobs.com](mailto:privacy@jacobs.com).
 
