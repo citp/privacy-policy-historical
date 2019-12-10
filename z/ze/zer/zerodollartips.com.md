@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zerodollartips.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328231633id_/http%3A//www.zerodollartips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerodollartips.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210062302id_/http%3A//www.zerodollartips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zero Dollar Tips - Android and Windows 10 Tutorials
 
-[__  Home](http://www.zerodollartips.com/) > Privacy Policy
+[__  Home](https://www.zerodollartips.com/) > Privacy Policy
 
-At [Zero Dollar Tips](http://www.zerodollartips.com/about-us/ "Zero Dollar Tips") the privacy of our readers/visitors is exceedingly important. This Privacy Policy outlines the all types of personal information that is received and collected and how it is used.
+At [Zero Dollar Tips](https://www.zerodollartips.com/about-us/ "Zero Dollar Tips") the privacy of our readers/visitors is exceedingly important. This Privacy Policy outlines the all types of personal information that is received and collected and how it is used.
 
 Our privacy policy is reviewed and revised from time to time. You will wish to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
@@ -42,4 +42,4 @@ Publishing or copying articles from ZeroDollarTips.com in any other form is not 
 
 ### Contacting Us
 
-If you require any more information or have any questions about our privacy policy, please……. feel free to contact us by email at **zerodollartips@gmail.com** or use our [Contact Us](http://www.zerodollartips.com/contact-us/ "Contact Us") form.
+If you require any more information or have any questions about our privacy policy, please……. feel free to contact us by email at **zerodollartips@gmail.com** or use our [Contact Us](https://www.zerodollartips.com/contact-us/ "Contact Us") form.
