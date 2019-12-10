@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the 1stdibs.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418053323id_/https%3A//www.1stdibs.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stdibs.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210132120id_/https%3A//www.1stdibs.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for 1stdibs.com
+# Privacy Policy - 1stdibs
 
-The 1stdibs.com website and mobile application (collectively the "Site") are owned and operated by 1stdibs.com, Inc. This Privacy Policy describes how information, including Personal Information, is collected from you and subsequently used, shared, secured and otherwise processed by 1stdibs.com, Inc. and our affiliated companies ("1stdibs.com", "1stdibs", "us" or "we").
+The 1stdibs.com website and mobile application (collectively the “Site”) are owned and operated by 1stdibs.com, Inc. This Privacy Policy describes how information, including Personal Information, is collected from you and subsequently used, shared, secured and otherwise processed by 1stdibs.com, Inc. and our affiliated companies (“1stdibs.com”, “1stdibs”, “us” or “we”).
 
-"Personal Information", is any information that enables us to identify you, directly or indirectly, such as your email address, name, shipping and billing address, telephone number, company name, credit card information, any form of identification number or one or more factors specific to your physical, physiological, mental, economic, cultural or social identity.
+**“Personal Information”** , is any information that enables us to identify you, directly or indirectly, such as your email address, name, shipping and billing address, telephone number, company name, credit card information, any form of identification number or one or more factors specific to your physical, physiological, mental, economic, cultural or social identity.
 
-This Privacy Policy is part of our User Agreement, available here - [www.1stdibs.com/about/user-agreement/](https://web.archive.org/about/user-agreement/). Mobile users can navigate to the Settings icon to access our User Agreement and Privacy Policy.
+This Privacy Policy is part of our User Agreement, available here – [www.1stdibs.com/about/user-agreement/](https://www.1stdibs.com/about/user-agreement/). Mobile users can navigate to the Settings icon to access our User Agreement and Privacy Policy.
 
 By accessing this website or our mobile application and making use of our services you explicitly agree to the terms of this Privacy Policy and the User Agreement.
 
-For the purposes of the EU General Data Protection Regulation 2016/679 (the "GDPR"), the data controller is 1stdibs.com, Inc., whose registered office is at 51 Astor Place, 3rd Floor, New York, NY 10003 United States.
+For the purposes of the EU General Data Protection Regulation 2016/679 (the “GDPR”), the data controller is 1stdibs.com, Inc., whose registered office is at 51 Astor Place, 3rd Floor, New York, NY 10003 United States.
 
 1\. Effective date and updates to our Privacy Policy.
 
@@ -20,63 +20,41 @@ This Privacy Policy is effective as of January 29th, 2019. As our services evolv
 
 a) Information you give us
 
- _Communicating with us_
+_Communicating with us_. In general, you can visit the Site without telling us who you are or revealing any information about yourself. However, if you correspond with us through our Contact Us page, by phone, email or otherwise, we will retain the Personal Information that you provide. This includes Personal Information you provide when participating in discussion boards or social media functions on the Site, and when you report a problem with the Site.
 
-. In general, you can visit the Site without telling us who you are or revealing any information about yourself. However, if you correspond with us through our Contact Us page, by phone, email or otherwise, we will retain the Personal Information that you provide. This includes Personal Information you provide when participating in discussion boards or social media functions on the Site, and when you report a problem with the Site.
+_Communicating with other users_. Users can contact sellers to negotiate a sale or make a purchase by contacting the seller using a telephone number displayed on the Site which is operated by us. When a user connects with a seller by telephone that call may be recorded by us to log transactions and for training and quality assurance purposes.
 
- _Communicating with other users_
+_Creating an account_. To take advantage of some of our services you are required to register and create an account via the Sign Up page on our Site. When you open an individual account at 1stdibs.com, we ask you to provide Personal Information (such as your name, address, phone number, email address, business affiliation and contact information). All 1stdibs.com account holders are required to create a user password that, combined with your login email address, allows access to your account. This Personal Information is used to identify you as a 1stdibs.com registered user.
 
-. Users can contact sellers to negotiate a sale or make a purchase by contacting the seller using a telephone number displayed on the Site which is operated by us. When a user connects with a seller by telephone that call may be recorded by us to log transactions and for training and quality assurance purposes.
+_Saving an item_. Users may save items to their favorites by clicking the heart or folder icon for an item. If you have created an account, your saved items are stored in the favorites folders associated with your account. Items are saved until you remove them.
 
- _Creating an account_
+_Facebook log-in_. As part of our services, we offer you the option of creating an individual account with 1stdibs.com using your Facebook profile. If you select this option, we will automatically collect selected Personal Information about you from your Facebook account. The Personal Information we collect depends on your privacy settings for sharing such Personal Information, and may include name, profile picture, age range, gender, language, country and other public information.
 
-. To take advantage of some of our services you are required to register and create an account via the Sign Up page on our Site. When you open an individual account at 1stdibs.com, we ask you to provide Personal Information (such as your name, address, phone number, email address, business affiliation and contact information). All 1stdibs.com account holders are required to create a user password that, combined with your login email address, allows access to your account. This Personal Information is used to identify you as a 1stdibs.com registered user.
+_Creating a seller account_. When you open a seller account with 1stdibs.com, you will also be required to provide Personal Information such as information about your company and any reseller or trade association information. You will also be asked to provide references which may include Personal Information relating to third parties. Please ensure that those third parties have consented to the use of their Personal Information by 1stdib.com for the purposes of confirming your identity or the identity of your company.
 
- _Saving an item_
+_Making a purchase_. 1stdibs.com is a marketplace offering a forum for sellers to offer items for sale and for buyers to browse, and make purchases. When you make an offer, we will ask you to provide credit card or other payment details as well as shipping information for orders.
 
-. Users may save items to their favorites by clicking the heart or folder icon for an item. If you have created an account, your saved items are stored in the favorites folders associated with your account. Items are saved until you remove them.
-
- _Facebook log-in_
-
-. As part of our services, we offer you the option of creating an individual account with 1stdibs.com using your Facebook profile. If you select this option, we will automatically collect selected Personal Information about you from your Facebook account. The Personal Information we collect depends on your privacy settings for sharing such Personal Information, and may include name, profile picture, age range, gender, language, country and other public information.
-
- _Creating a seller account_
-
-. When you open a seller account with 1stdibs.com, you will also be required to provide Personal Information such as information about your company and any reseller or trade association information. You will also be asked to provide references which may include Personal Information relating to third parties. Please ensure that those third parties have consented to the use of their Personal Information by 1stdib.com for the purposes of confirming your identity or the identity of your company.
-
- _Making a purchase_
-
-. 1stdibs.com is a marketplace offering a forum for sellers to offer items for sale and for buyers to browse, and make purchases. When you make an offer, we will ask you to provide credit card or other payment details as well as shipping information for orders.
-
- _Reviews_
-
-. Registered users may choose to write reviews and have them posted on the Site; others wishing to post a review must register and provide their name and contact information including email and postal addresses. Reviews will include the first name and last initial and shipping location of the reviewer. Reviews must comply with our Terms of Use. Information posted in reviews becomes public information. The use that any third party makes of this information is beyond our control. Please use caution before disclosing any information in a review that you do not want to become public.
+_Reviews_. Registered users may choose to write reviews and have them posted on the Site; others wishing to post a review must register and provide their name and contact information including email and postal addresses. Reviews will include the first name and last initial and shipping location of the reviewer. Reviews must comply with our Terms of Use. Information posted in reviews becomes public information. The use that any third party makes of this information is beyond our control. Please use caution before disclosing any information in a review that you do not want to become public.
 
 b) Information we collect about you
 
 With regard to each of your visits to the Site we automatically collect the following information:
 
- _Technical Information_
+_Technical Information_. This includes browser type and version (e.g. Internet Explorer, Firefox, Chrome, Safari), operating system (e.g. Windows, Macintosh), IP address, device type, time zone setting and Internet domain (e.g. AOL, Hotmail).
 
-. This includes browser type and version (e.g. Internet Explorer, Firefox, Chrome, Safari), operating system (e.g. Windows, Macintosh), IP address, device type, time zone setting and Internet domain (e.g. AOL, Hotmail).
+_Information about your visit_. This includes the pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, and any phone number used to call our customer service number.
 
- _Information about your visit_
-
-. This includes the pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, and any phone number used to call our customer service number.
-
- _Location information_
-
-. 1stdibs asks mobile users whether they will permit us to collect information about their location. We collect location information only from mobile users who have agreed to provide that information.
+_Location information_. 1stdibs asks mobile users whether they will permit us to collect information about their location. We collect location information only from mobile users who have agreed to provide that information.
 
 We do not treat this information as Personal Information, except where the information can identify you when associated with other Personal Information we hold or where we are required to do so under applicable law.
 
-3\. Children's privacy
+3\. Children’s privacy
 
 1stdibs.com is not designed nor intended to be attractive to use by children under the age of 13. Our Terms of Use require that users must be 18 years old or older in order to register on our Site and use our services. If you are under the age of 18, please do not submit any information to us.
 
 4\. 1stdibs.com uses cookies.
 
-The Site uses cookies to distinguish you from other users. This helps us to analyze the use of the Site to customize and improve the content and the layout of the Site. For detailed information on the cookies we use and the purposes for which we use them, see our Cookie Policy <https://support.1stdibs.com/s/article/Cookie-Policy/>.
+The Site uses cookies to distinguish you from other users. This helps us to analyze the use of the Site to customize and improve the content and the layout of the Site. For detailed information on the cookies we use and the purposes for which we use them, see our Cookie Policy <https://support.1stdibs.com/s/article/Cookie-Policy/>.
 
 5\. How does 1stdibs.com use your Personal Information?
 
@@ -84,29 +62,29 @@ We use your Personal Information according to the terms of the Privacy Policy an
 
 a) We may use the Personal Information you give us for our legitimate commercial interests including, among other things:
 
-\- to respond to your inquiries and to provide you with the information, products and services that you request from us;
+– to respond to your inquiries and to provide you with the information, products and services that you request from us;
 
-\- to provide information on the products or services of our registered sellers with whom you are placed in touch with in connection with a prospective purchase;
+– to provide information on the products or services of our registered sellers with whom you are placed in touch with in connection with a prospective purchase;
 
-\- to verify that you qualify as a member of the Site;
+– to verify that you qualify as a member of the Site;
 
-\- to send you communications about (1) our own products and services, (2) products and services offered by sellers or advertisers on our Site and (3) products and services of third parties (those not offered by sellers on our Site) that we think you may find of interest, provided you have given your consent;
+– to send you communications about (1) our own products and services, (2) products and services offered by sellers or advertisers on our Site and (3) products and services of third parties (those not offered by sellers on our Site) that we think you may find of interest, provided you have given your consent;
 
-\- where the processing is required in order to enforce or apply our User Agreement and other agreements you have entered into; and
+– where the processing is required in order to enforce or apply our User Agreement and other agreements you have entered into; and
 
-\- to contact you as necessary.
+– to contact you as necessary.
 
 b) We may use the Personal Information we collect in either an identifiable or an anonymized form (independent of any personal identifiers):
 
-\- to administer the Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+– to administer the Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-\- to improve the Site and to customize the content you see on the Site;
+– to improve the Site and to customize the content you see on the Site;
 
-\- as part of our efforts to keep the Site safe and secure;
+– as part of our efforts to keep the Site safe and secure;
 
-\- to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
+– to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
 
-\- to do internal research on our Site visitors’ interests and behaviors to better understand and serve our members.
+– to do internal research on our Site visitors’ interests and behaviors to better understand and serve our members.
 
 We use email as the primary form of communicating transactional and relationship information with registered sellers and registered Site users. We may send mobile users notifications through the application but only if the user has agreed to receive notifications from us in their preferences. Preferences can be changed via Settings at any time. We may also use your street addresses and telephone numbers to provide these communications.
 
@@ -146,7 +124,7 @@ In addition, sellers registered on the Site are located around the world. Due to
 
 8\. How you can access and amend your Personal Information.
 
-You are required to provide us with accurate and up to date Personal Information. 1stdibs.com gives you the ability to amend your Personal Information at any time by accessing your account on our Site (by clicking on the "account details" link on the website homepage or the Account icon on the mobile application), modifying the Personal Information on your account page, acknowledging our User Agreement by clicking on the box at the bottom of the page and then clicking on submit.
+You are required to provide us with accurate and up to date Personal Information. 1stdibs.com gives you the ability to amend your Personal Information at any time by accessing your account on our Site (by clicking on the “account details” link on the website homepage or the Account icon on the mobile application), modifying the Personal Information on your account page, acknowledging our User Agreement by clicking on the box at the bottom of the page and then clicking on submit.
 
 If you do not want to share search terms, or items you have viewed, saved, or purchased history with sellers you contact, you can update your profile preferences on your account page at any time.
 
@@ -172,7 +150,7 @@ Please note that transmission of Personal Information via the internet is not co
 
 10\. Opt- out
 
-If you do not wish to receive offers or other notices from us in the future, you can "opt-out" by changing your preferences in My Account or by contacting us at the address indicated at the end of this policy. We will try to complete your request as promptly as possible. You can elect not to receive emails from us either by "unsubscribing" to an email you receive or by contacting us as indicated below. Any changes will affect only future uses of your information.
+If you do not wish to receive offers or other notices from us in the future, you can “opt-out” by changing your preferences in My Account or by contacting us at the address indicated at the end of this policy. We will try to complete your request as promptly as possible. You can elect not to receive emails from us either by “unsubscribing” to an email you receive or by contacting us as indicated below. Any changes will affect only future uses of your information.
 
 11\. Your California privacy rights
 
@@ -194,4 +172,4 @@ This Privacy Policy only applies to our Sites.
 
 14\. Contacting us
 
-The Site is owned and operated by 1stdibs.com, Inc. If you have any questions or suggestions with respect to this Privacy Policy or if you wish to ask us to correct or show you your Personal Information as provided above, you can write to us at Privacy Policy, 51 Astor Place, 3rd Floor, New York, NY 10003 or you can simply click on Contact Us to send us an email to [privacypolicy@1stdibs.com](mailto:privacypolicy@1stdibs.com).
+The Site is owned and operated by 1stdibs.com, Inc. If you have any questions or suggestions with respect to this Privacy Policy or if you wish to ask us to correct or show you your Personal Information as provided above, you can write to us at Privacy Policy, 51 Astor Place, 3rd Floor, New York, NY 10003 or you can simply click on Contact Us to send us an email to [privacypolicy@1stdibs.com](mailto:privacypolicy@1stdibs.com).
