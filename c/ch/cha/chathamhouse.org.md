@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517140144id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210111949id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policies | Chatham House
 
@@ -222,13 +222,13 @@ You also have the following rights:
 
 Should you wish to exercise these rights, we will require you to prove your identity with two pieces of approved identification. Please address requests to the Data Protection Officer, Chatham House, 10 St James’s Square, London SW1Y 4LE and we will respond within thirty days of receipt of your written request and confirmed ID.
 
+Alternatively, you can log a request directly using our online [Chatham House Subject Access Request Form](https://app.thecompliancespace.com/subject-access-request-form/648353ad-752a-4e0b-a6c0-20fa5a0eca4e). 
+
 Please provide as much information as possible about the nature of your contact with us to help us locate your records.
 
 To exercise any of these rights, you should contact our Data Protection Officer at the above address.
 
 If you are not happy about the way in which we have processed or dealt with your information, you can complain to the [Information Commissioner’s Office](https://ico.org.uk/) (ICO).
-
-[Here](https://ico.org.uk/concerns/), you can find more details on how to complain.
 
  **Complaining to the ICO**
 
@@ -242,11 +242,11 @@ Where your information is no longer required, we will ensure it is disposed of i
 
 ## Changes to our Privacy Policy
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 2 May 2018.
+We keep our privacy notice under regular review. This privacy notice was last reviewed and updated on 1 July 2019.
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
-By continuing to use our Site, you shall be deemed to have accepted such changes.
+By continuing to use our site, you shall be deemed to have accepted such changes.
 
 ## Contact Us
 
