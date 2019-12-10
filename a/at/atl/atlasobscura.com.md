@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620073033id_/https%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210151642id_/https%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlas Obscura
 
