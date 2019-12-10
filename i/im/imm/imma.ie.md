@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imma.ie privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520154803id_/https%3A//imma.ie/about/policies-and-reports/public-policies/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imma.ie privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210164153id_/https%3A//imma.ie/about/policies-and-reports/public-policies/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | IMMA
 
@@ -31,7 +31,7 @@ We will only contact you in relation to the service you have requested and will 
 **ii. Submitting Credit Card Details  
 **When you submit your credit card details to avail of the various services on our website we use a secure server which assures that the information is protected against unauthorised access.
 
-For Membership processing we use PayPal as an approved, secure GDPR compliant processor in accordance with their [Privacy Policy](https://www.paypal.com/ie/webapps/mpp/ua/privacy-prev#4). You will know you are entering information into PayPal by the url which will start with [www.paypal.com](http://www.paypal.com/)
+For Membership processing we use PayPal as an approved, secure GDPR compliant processor in accordance with their [Privacy Policy](https://www.paypal.com/ie/webapps/mpp/ua/privacy-prev#4). You will know you are entering information into PayPal by the url which will start with [www.paypal.com](https://www.paypal.com/)
 
 For Ticketing we use Ticketsolve as a secure, GDPR compliant ticketing processor. You will know you are entering information into Ticketsolve by the url which will end with .ticketsolve.com (e.g. www.imma.ticketsolve.com or www.immatours.ticketsolve.com
 
