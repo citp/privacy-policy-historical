@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeulia.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529082945id_/https%3A//www.jeulia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeulia.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210123609id_/https%3A//www.jeulia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jeulia Jewelry
 
@@ -97,6 +97,6 @@ We may periodically change this Privacy Statement to keep pace with new technolo
 
 ### Contact Us
 
-If you have any questions regarding this Privacy Statement or its implementation, here is how you can reach us:  
+Jeulia.com is owned and operated by Gnoce Trading Co., Limited. If you have any questions regarding this Privacy Statement or its implementation, here is how you can reach us:  
 In relation to the content of your personal data: law@jeulia.com  
 In relation to the use of your personal data for the provision of products and services you requested: [service@jeulia.com](mailto:service@jeulia.com)
