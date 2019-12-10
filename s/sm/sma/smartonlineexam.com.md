@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartonlineexam.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531081931id_/http%3A//www.smartonlineexam.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartonlineexam.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210021555id_/http%3A//smartonlineexam.com/privacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY:SmartOnlineExam
 
