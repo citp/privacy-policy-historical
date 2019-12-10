@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ejuicedirect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212323id_/https%3A//ejuicedirect.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejuicedirect.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210052711id_/https%3A//www.ejuicedirect.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – eJuice Direct
 
