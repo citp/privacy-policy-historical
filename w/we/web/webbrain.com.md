@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbrain.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124023709id_/https%3A//www.thebrain.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbrain.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210155150id_/https%3A//www.thebrain.com/about/legal/privacy) for the most accurate reproduction.*
 
 # TheBrain Privacy Policy
 
@@ -26,7 +26,7 @@ We use "remarketing" to enable third-party vendors, such as Google, display rele
 
 The security of our visitors’ and customers’ data is a top priority at TheBrain. TheBrain uses state of the art technology to protect your data from use, misuse or alteration by unauthorized third parties. Currently, TheBrain uses Secure Socket Layer software (SSL) to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name and address as it is transmitted over the Internet. Of course, we cannot guarantee the security of your Internet transmissions, and TheBrain does not warrant that your information will be absolutely secure. Any transmission of data on or through the use of TheBrain site is therefore at your own risk.
 
-To ensure the highest level of protection of the information you disclose to TheBrain, we recommend that you not disclose any sensitive personal information about yourself to TheBrain
+To ensure the highest level of protection of the information you disclose to TheBrain, we recommend that you not disclose any sensitive personal information about yourself to TheBrain.
 
 #### What choices do you have about how your information is used?
 
