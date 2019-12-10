@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiderkerala.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624084109id_/http%3A//spiderkerala.net/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiderkerala.net privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210155154id_/http%3A//www.spiderkerala.net/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SpiderKerala.net privacy policy
 
