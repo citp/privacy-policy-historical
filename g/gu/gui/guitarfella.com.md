@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarfella.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427131753id_/https%3A//www.guitarfella.com/pivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarfella.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210113454id_/https%3A//www.guitarfella.com/pivacy-policy) for the most accurate reproduction.*
 
 # Pivacy Policy - GuitarFella.com
 
@@ -24,18 +24,18 @@ Below we list the different types of Cookies that are used on the Site that you 
 To the extent any personal information is collected through first-party Cookies, our Privacy Policy applies and complements this Cookie Policy. Personal information collected through a third-party Cookie is subject to the privacy policy of that third party, and not our Privacy Policy.  
 This blog uses technology known as “cookies” and web server log files to collect info, such as date and time of your visit, what pages you looked at and the time your spent on each page, etc..
 
- **The Basic Cookies**
+**The Basic Cookies**
 
 Basic Cookies enable you to navigate the Site and to use its services and features. Without these necessary Cookies, the Site will not perform as smoothly for you as we would like it to and we may not be able to provide the Site or certain services or features. These cookies detects user’s country so they’re sent to the correct Amazon storefront when they click product links on our site.
 
- **Social Media Cookies**  
+**Social Media Cookies**  
 Social media Cookies are used to enable you to share pages and content you find interesting on our Site through third-party social networking and other websites. These Cookies may also be used for advertising purposes. These cookies are the Facebook cookie, Pinterest cookie etc. They are persistent cookies that expire after 2 years.
 
 Here is a [link](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen) to opt out from Facebook cookies.
 
-Here is a [link](https://help.pinterest.com/en/articles/edit-your-settings#Web) to opt out from Pinterest cookies.
+Here is a link to opt out from Pinterest cookies.
 
- **Analytics Cookies**  
+**Analytics Cookies**  
 Analytics Cookies collect information about your use of the Site, and enable us to improve the way it works. For example, Analytics Cookies show us which are the most frequently visited pages on the Site, help us record any difficulties you have with the Site, and show us whether our advertising is effective or not. Analytics Cookies allow us to see the overall patterns of usage on the Site, rather than the usage of a single person. We use information from Analytics Cookies to analyze the Site traffic, but we do not examine this information for individually identifying information. We are using cookies from Google Analytics, Clicky Analytics and VWO currently.
 
 Here is a link to opt out from [VWO](https://vwo.com/opt-out/)
@@ -44,7 +44,7 @@ Here is a link to opt out from [Google Analytics](https://tools.google.com/dlpag
 
 Here is a link to opt out from [Clicky](https://clicky.com/optout)
 
- **Advertising Cookies**  
+**Advertising Cookies**  
 Advertising Cookies are set to display targeted promotions or advertisements based upon your interests on the Site or to manage our advertising. These Cookies collect information about your activities on this Site and other websites to provide you targeted advertising. We are using cookies from DoubleClick.net, AdWords.com.
 
 Here is a [link ](https://tools.google.com/dlpage/optoutplugin/eula.html)to opt out from DoubleClick.net, AdWords.com
@@ -56,7 +56,7 @@ You can change your Cookie settings above by opting out of each Cookie or all Co
 In addition to the options provided above and below, you may refuse or accept Cookies from the Site or any other website at any time by activating settings on your browser. Most browsers automatically accept Cookies, but you can usually modify your browser setting to decline Cookies if you prefer. If you choose to decline Cookies, you may not be able to sign in or use other interactive features of our Site that depend on Cookies. Information about the procedure to follow in order to enable or disable Cookies can be found at:
 
 [Chrome](https://support.google.com/chrome/answer/95647?hl=en)  
-[Safari](https://support.apple.com/kb/PH19255?locale=en_US)  
+Safari  
 [Safari Mobile (iPhone and iPads)](https://support.apple.com/en-us/HT201265)  
 [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)  
 [Microsoft Edge](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
