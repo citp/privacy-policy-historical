@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uglyhedgehog.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414164641id_/https%3A//www.uglyhedgehog.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uglyhedgehog.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210185239id_/https%3A//www.uglyhedgehog.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ Cookies can be used to electronically gather information about you. Again, it ma
 
 **HOW INFORMATION MAY BE USED**
 
-We do not rent, sell or share customer/subscriber/user information with third parties aside from organizations which enable us to provide services (such as ESPs).
+We do not rent, sell or share customer/subscriber/user information with third parties aside from organizations which enable us to provide services (such as ESPs), or unless the website is sold as a whole. In which case, the entire customer/subscriber/user database is turned over to the new owner/operator of the Website as part of the sale so that they can continue operating the Website.
 
 **INFORMATION THAT IS NOT SHARED**
 
