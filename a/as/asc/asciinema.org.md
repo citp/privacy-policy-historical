@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asciinema.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517022448id_/https%3A//asciinema.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asciinema.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210185801id_/https%3A//asciinema.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - asciinema
 
