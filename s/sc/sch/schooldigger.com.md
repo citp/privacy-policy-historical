@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406222949id_/https%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210121111id_/https%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
 
 # SchoolDigger.com - Privacy Policy
 
@@ -68,6 +68,8 @@ If you disable cookies, some of the features that make your site experience more
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+We may collect and share hashed or anonymized user data with third-parties. Third parties may set cookies on users' browsers and collect user data using cookies or other technologies for their own use and subject to their own privacy policies. Third parties may combine user data with data collected across the internet or from other sites. Third parties may collect hashed user data using cookies/similar technologies from emails/communications. 
 
 **Third party links**
 
