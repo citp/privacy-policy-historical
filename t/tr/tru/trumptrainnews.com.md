@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trumptrainnews.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514023150id_/http%3A//trumptrainnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumptrainnews.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210190715id_/https%3A//www.trumptrainnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrumpTrain
 
@@ -22,7 +22,7 @@ If you do not wish to receive promotional and newsletter emails from us, you may
 
 If you opt-out of promotional or newsletter emails from us, we may continue to send you certain communications such as service announcements and administrative messages that relate to us and our website(s) that are necessary to our relationship with you.
 
-For all other requests for changes relating to your PII, including opting out of email and our sharing PII with our partners, please contact us at [Privacy@trumptrainnews.com](mailto:Privacy@trumptrainnews.com) or at 107 S. West Street, Ste. 948, Alexandria, Virginia 22314.
+For all other requests for changes relating to your PII, including opting out of email and our sharing PII with our partners, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3262405b4453514b724640475f424640535b5c5c5745411c515d5f) or at 625 First Street #183, Alexandria, VA 22314.
 
 **Use of Personally Identifiable Information**
 
@@ -116,4 +116,4 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 Please also read the Terms of Use to understand the additional terms and conditions that apply to your use of our website(s).
 
-Policy last updated November 2017 
+Policy last updated June 2019 
