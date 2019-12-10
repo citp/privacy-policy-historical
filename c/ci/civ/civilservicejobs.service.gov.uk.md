@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilservicejobs.service.gov.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331021606id_/https%3A//www.civilservicejobs.service.gov.uk/csr/index.cgi%3Fpageclass%3DStandardMessage%26display%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilservicejobs.service.gov.uk privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210224214id_/https%3A//www.civilservicejobs.service.gov.uk/csr/index.cgi%3Fpageclass%3DStandardMessage%26display%3Dprivacy) for the most accurate reproduction.*
 
 # Civil Service Jobs Privacy Notice - Civil Service Jobs - GOV.UK
 
@@ -48,7 +48,7 @@ When you view a job advert we may automatically collect:
 
 When you make an application we may ask for:
 
-  * full contact details, including address
+  * full contact details, including address, and mobile phone number
   * eligibility - nationality and immigration status
   * employment history 
   * qualifications, licences and professional memberships
@@ -96,6 +96,7 @@ The purposes for which we are processing your personal data are:
   * to manage recruitment for Civil Service organisations and non-departmental public bodies. This includes a job board, online application service, sift tests, interview scheduling, and pre-employment checking service
   * to assess your suitability for a role
   * to enable the creation of user accounts
+  * to provide SMS updates on the recruitment process
   * for civil servant candidate accounts, to allow users to view and apply for internal and across-government vacancies
   * to offer a job alert email service
   * to offer a priority mover service to help civil servants find new roles when they are at risk of redundancy
@@ -159,11 +160,12 @@ Once you have made an application, your information may be shared with:
   * the recruiting departments or profession
   * our technical supplier and their hosting provider
   * Capita
-  * GRS business intelligence system
+  * Government Recruitment Information Database (GRID)
   * Customer relationship management system
   * Email survey tools
   * Providers of individual leadership assessments, psychometric tests and staff engagement exercises
   * Civil Service Commission, Advisory Committee on Business Appointments, Office of the Commissioner for Public Appointments - to ensure that recruitment processes are correctly followed
+  * The GOV.UK Notify service for sending text messages
 
 
 
@@ -341,4 +343,4 @@ SW1A 2AS
 
 If this privacy notice changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it, and under what circumstances we will share it with other parties.
 
-Last updated: 13 March 2019
+Last updated: 6 December 2019
