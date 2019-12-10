@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneplus.in privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331144750id_/https%3A//www.oneplus.in/legal/privacy-policy%3Ffrom%3Dfoot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplus.in privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210110723id_/https%3A//www.oneplus.in/legal/privacy-policy%3Ffrom%3Dfoot) for the most accurate reproduction.*
 
 # Privacy Policy - OnePlus (India)
 
@@ -10,7 +10,7 @@
 
 1.3 We shall process your personal information in different scenarios based on different legal reasons, such as performing contracts and providing products and/or services to you, based on legitimate business interests or with your prior consent, as further detailed below. You will always have the right to object to the processing of your personal information on grounds relating to your particular situation. 
 
-### 2．Personal Information collected by OnePlus
+### 2\. Personal Information collected by OnePlus
 
 In any scenario in which you interact with us, we are likely to ask you to provide personal information. If you do not provide the relevant information, you may in certain situations not be able to achieve the specific purpose for a particular scenario. For example, you cannot purchase a OnePlus product; our call center cannot reach you and provide you with pre-sales and after-sales service; or you cannot download updated software systems and/or applications. 
 
