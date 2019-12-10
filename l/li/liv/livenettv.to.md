@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the livenettv.to privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401020053id_/https%3A//www.livenettv.to/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenettv.to privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210084005id_/https%3A//www.livenettv.sc/privacy.html) for the most accurate reproduction.*
 
 # Live NetTV [OFFICIAL Website] - Privacy Policy
 
 ## Privacy Policy
 
-This Privacy Policy (the “Policy”) describes how RaddixCore Solutions and its affiliates. (also referred to as “Raddixcore,” “Company,” “we,” “us,” or “our”), collects, stores, uses and protects your information when you use our website at <https://www.livenettv.to/> (the “Site”), any mobile applications that hyperlink to this Policy and are available for download on this website or any other third party app store, or are pre-installed on third party devices (the “Apps”), or any other websites, pages, features, or content owned or operated by RaddixCore (collectively, including the Site and Apps, the “Services”).  
-This Privacy Policy is part of, and is governed by, the terms and conditions set forth in our Terms of Service located at [TOS](https://www.livenettv.to/tos.html). Please read the Terms of Service carefully before you use our Services.
+This Privacy Policy (the “Policy”) describes how RaddixCore Solutions and its affiliates. (also referred to as “Raddixcore,” “Company,” “we,” “us,” or “our”), collects, stores, uses and protects your information when you use our website at <https://www.livenettv.sc/> (the “Site”), any mobile applications that hyperlink to this Policy and are available for download on this website or any other third party app store, or are pre-installed on third party devices (the “Apps”), or any other websites, pages, features, or content owned or operated by RaddixCore (collectively, including the Site and Apps, the “Services”).  
+This Privacy Policy is part of, and is governed by, the terms and conditions set forth in our Terms of Service located at [TOS](https://www.livenettv.sc/tos.html). Please read the Terms of Service carefully before you use our Services.
 
 * * *
 
@@ -76,4 +76,4 @@ However, we cannot guarantee the security of your personal information or that l
 
 ### 8\. How to Contact Us.
 
-If you have any questions about this Privacy Policy, please feel free to contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, please feel free to contact us: livenettv@tutamail.com.
