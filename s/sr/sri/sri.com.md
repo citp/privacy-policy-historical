@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sri.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615191223id_/https%3A//www.sri.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sri.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210072646id_/https%3A//www.sri.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SRI International
 
