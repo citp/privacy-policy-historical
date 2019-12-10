@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404084819id_/https%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210012710id_/https%3A//utah.gov/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Utah.gov: The Official Website of the State of Utah
 
@@ -14,7 +14,7 @@ The State of Utah (State) is committed to protecting the privacy of those access
 
 This privacy policy statement applies to all State executive branch agency Web sites except those administered by the State Board of Education, the Board of Regents, institutions of higher education, and except as described below in the section called “State Agency Privacy Policies and How They Relate to This Policy.”
 
-[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20190404084819id_/https%3A//www.utah.gov/hb25.html)
+[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20191210012710id_/https%3A//utah.gov/hb25.html)
 
 ### Definition of Personally Identifiable Information
 
@@ -71,11 +71,11 @@ The State of Utah is committed to data security and the data integrity of Person
 
 ### Procedures for Access by the User To View Or Correct Personally Identifiable Information
 
-Unless otherwise prohibited by State law, federal law, or federal regulation, an individual may access and correct Personally Identifiable Information whether or not the inaccuracy was created by accident, unauthorized access, or a change in circumstances. The State also reserves the right to use any legally appropriate measures to prevent, monitor, and investigate any attempt to deface, delete, or otherwise tamper with or abuse a State Web site, server, database, information system, or other State technology asset. For a description of the individual processes used by agencies to view or correct Personally Identifiable Information please use Utah.Gov’s [Live Help](https://web.archive.org/web/20190404084819id_/https%3A//www.utah.gov/contact.html) section. See also [Security Measures section](https://web.archive.org/web/20190404084819id_/https%3A//www.utah.gov/securitypolicy.html).
+Unless otherwise prohibited by State law, federal law, or federal regulation, an individual may access and correct Personally Identifiable Information whether or not the inaccuracy was created by accident, unauthorized access, or a change in circumstances. The State also reserves the right to use any legally appropriate measures to prevent, monitor, and investigate any attempt to deface, delete, or otherwise tamper with or abuse a State Web site, server, database, information system, or other State technology asset. For a description of the individual processes used by agencies to view or correct Personally Identifiable Information please use Utah.Gov’s [Live Help](https://web.archive.org/web/20191210012710id_/https%3A//utah.gov/contact.html) section. See also [Security Measures section](https://web.archive.org/web/20191210012710id_/https%3A//utah.gov/securitypolicy.html).
 
 ### State Agency Privacy Policies and How They Relate to This Policy
 
-A privacy policy issued by a State agency for its Web site may provide additional detail to, but not conflict with, this privacy policy, except as required by an applicable State law, federal law, or federal regulation. Any State agency or organization who collects or uses Personally Identifiable Information in a manner inconsistent with this policy as a result of an applicable State law, federal law, or federal regulation, will adopt and issue a privacy policy of its own. The privacy policy it issues shall describe how its collection and use of personally identifiable information differs from the State’s practices as set forth in this policy. The agency’s privacy policy will be conspicuously posted for your review. The privacy policy issued by the agency or organization will apply to its own Web site. In addition to this policy, we also recommend that you refer to the applicable agency privacy policy to obtain a description about how your personal information is collected and used or contact [Live Help](https://web.archive.org/web/20190404084819id_/https%3A//www.utah.gov/contact.html).
+A privacy policy issued by a State agency for its Web site may provide additional detail to, but not conflict with, this privacy policy, except as required by an applicable State law, federal law, or federal regulation. Any State agency or organization who collects or uses Personally Identifiable Information in a manner inconsistent with this policy as a result of an applicable State law, federal law, or federal regulation, will adopt and issue a privacy policy of its own. The privacy policy it issues shall describe how its collection and use of personally identifiable information differs from the State’s practices as set forth in this policy. The agency’s privacy policy will be conspicuously posted for your review. The privacy policy issued by the agency or organization will apply to its own Web site. In addition to this policy, we also recommend that you refer to the applicable agency privacy policy to obtain a description about how your personal information is collected and used or contact [Live Help](https://web.archive.org/web/20191210012710id_/https%3A//utah.gov/contact.html).
 
 An agency may not substitute its own privacy policy for this policy, unless a state law, federal regulation or federal statute requires an agency to treat personally identifiable information in a way that is inconsistent with this policy. In this case, an agency may opt-out of the specific provision of this policy which conflicts with the state statute, federal regulation, or federal statute. If that occurs, the remainder of the provisions of this policy shall apply to the agency.
 
@@ -87,6 +87,6 @@ Visitors may link to various Web sites from State Web pages. The State is not re
 
 ### Changes to and Versions of the Privacy Policy
 
-This privacy policy may be changed at any time; any changes will be posted on this web page. The version number and date the policy was last revised will be noted on the policy. Information collected while a particular version of this policy is in effect will be handled in accordance with that version. If you have questions, comments, or concerns, please [contact us](https://web.archive.org/web/20190404084819id_/https%3A//www.utah.gov/contact.html).
+This privacy policy may be changed at any time; any changes will be posted on this web page. The version number and date the policy was last revised will be noted on the policy. Information collected while a particular version of this policy is in effect will be handled in accordance with that version. If you have questions, comments, or concerns, please [contact us](https://web.archive.org/web/20191210012710id_/https%3A//utah.gov/contact.html).
 
 ## Feedback 
