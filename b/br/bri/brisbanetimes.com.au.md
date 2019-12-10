@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brisbanetimes.com.au privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530091300id_/https%3A//www.brisbanetimes.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisbanetimes.com.au privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210224940id_/https%3A//www.brisbanetimes.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
