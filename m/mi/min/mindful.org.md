@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindful.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611173853id_/https%3A//www.mindful.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindful.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210130131id_/https%3A//www.mindful.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Mindful magazine and mindful.org - Mindful
 
@@ -15,7 +15,7 @@ Mindful respects our users and their privacy. The purpose of this Privacy Policy
 
 ## Welcome to Mindful
 
-Mindful is the voice of the emerging mindfulness community. We’re the place to go for insight, information, and inspiration to help us all live more mindfully. Mindful.org, its subdomains and other Mindful properties are published by the Foundation for a Mindful Society (“Mindful”), located at 228 Park Avenue South #91043, New York, NY 10003-1502. The Foundation also makes the same or similar content available to mobile users through our Mindful Magazine app, in our print publication Mindful Magazine, and Mindful online courses. 
+Mindful is the voice of the emerging mindfulness community. We’re the place to go for insight, information, and inspiration to help us all live more mindfully. Mindful.org, its subdomains and other Mindful properties are published by the Foundation for a Mindful Society (“Mindful”), located at 228 Park Avenue South #91043, New York, NY 10003-1502. The Foundation also makes the same or similar content available to mobile users through our Mindful Magazine app, in our print publication Mindful Magazine, and Mindful Learning online courses. 
 
   
 This policy sets out our commitment to you regarding how we may collect and use your information. These policies apply across Mindful properties, including mindful.org, its subdomains and other digital properties. Please read our privacy policy carefully to understand how we collect, use, protect or otherwise handle your information.
@@ -32,14 +32,14 @@ We use the information covered to manage services provided by us or our licensee
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, browse the website, or use certain other site features in the following ways:
 
   * Email newsletters
-  * Marketing emails
+  * Marketing & promotional emails
   * Direct mail marketing offers
   * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested
   * Improve our website in order to better serve you
   * To allow us to better respond to your customer service requests
   * To administer a contest, promotion, survey or other site features
   * To quickly process your transactions
-  * To send periodic emails regarding your orders or other products and services
+  * To send emails regarding your orders or other products and services
   * To follow up with correspondence (email or phone inquiries)
 
 
@@ -80,13 +80,13 @@ We Comply with California Online Privacy Protection Act by:
 
 **A. Mindful.org and Other Mindful Digital Properties**
 
-We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties without your consent. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties without your consent. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. On occasion, Mindful makes use of our email database available to organizations whose products and/or services we feel will be of interest to our audience.
 
 We may disclose information in response to subpoenas, court orders, or other requests from jurisdictions inside or outside of the United States where we believe in good faith that the response is required under local laws of that jurisdiction, applies to users from that jurisdiction, and is consistent with generally accepted international practice.  We may also share information when we believe in good faith belief that it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms of Service.
 
 **B. Mindful Magazine Subscribers**
 
-On occasion Mindful makes one-time use of names and mailing addresses of our print magazine subscribers located in the United States available to organizations whose products/services we feel will be of interest to our readers. If you would like your name excluded from all such mailings, contact [subscriber services](https://www.mindful.org/subscriber-services/#contact) by phone or by email. Note that we will never, under any circumstance, offer your email address to any third-party organization.
+On occasion Mindful makes one-time use of names and mailing addresses of our print magazine subscribers located in the United States available to organizations whose products/services we feel will be of interest to our readers. If you would like your name excluded from all such mailings, contact [subscriber services](https://www.mindful.org/subscriber-services/#contact) by phone or by email.
 
 ## Third-party links
 
