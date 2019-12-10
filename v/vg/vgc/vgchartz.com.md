@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609224428id_/http%3A//www.vgchartz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210012803id_/http%3A//www.vgchartz.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - VGChartz
 
