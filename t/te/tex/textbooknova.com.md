@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbooknova.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502204352id_/https%3A//textbooknova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbooknova.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210051630id_/https%3A//textbooknova.com/privacy) for the most accurate reproduction.*
 
 # Book Nova Text Book Search Engine Privacy Policy
 
