@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podcastawards.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527183822id_/https%3A//www.podcastawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podcastawards.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210085642id_/https%3A//www.podcastawards.com/privacy) for the most accurate reproduction.*
 
 # Podcast Awards - Privacy Policy
 
