@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tofler.in privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602073132id_/https%3A//www.tofler.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tofler.in privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210190046id_/https%3A//www.tofler.in/privacy) for the most accurate reproduction.*
 
 # Tofler - Privacy Policy
-
-#### Privacy Policy
 
 What follows is the privacy policy followed at tofler.in by TWS Systems Pvt. Ltd. Please go through it carefully. This privacy policy may change at any time and without notice. Your continued use of the website indicates an acceptance of the policy as existing at that time.
 
