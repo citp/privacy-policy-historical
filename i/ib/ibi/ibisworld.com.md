@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816113727id_/https%3A//www.ibisworld.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210101405id_/https%3A//www.ibisworld.com/about/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - IBISWorld
 
 ### PRIVACY POLICY STATEMENT
 
