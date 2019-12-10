@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qustodio.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519144702id_/https%3A//www.qustodio.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qustodio.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210130850id_/https%3A//www.qustodio.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Qustodio
 
