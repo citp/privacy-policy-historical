@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropcatch.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320020634id_/https%3A//www.dropcatch.com/OtherInfo/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropcatch.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210170519id_/https%3A//www.dropcatch.com/OtherInfo/PrivacyPolicy) for the most accurate reproduction.*
 
 # DropCatch.com - The Expiring Domain Resource
 
