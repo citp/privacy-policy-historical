@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085721id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210050223id_/https%3A//www.warnerbros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Warner Bros. - The Studio
 
-Privacy Policy
+Updated:  August 29, 2019
 
-Updated: December 8, 2017
-
-Thank you for visiting a [Warner Bros. Entertainment Group](https://web.archive.org/affiliates) ("we" or "us") offering. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
+Thank you for visiting a [Warner Bros. Entertainment Group](https://policies.warnerbros.com/privacy/en-us/affiliates/) ("we" or "us") offering. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
 
 **TABLE OF CONTENTS**
 
@@ -21,7 +19,7 @@ Thank you for visiting a [Warner Bros. Entertainment Group](https://web.archive
   * INTERNATIONAL TRANSFER
   * NOTIFICATION REGARDING UPDATES
   * HOW TO CONTACT US
-  * [AFFILIATES](https://web.archive.org/affiliates)
+  * [AFFILIATES](https://policies.warnerbros.com/privacy/en-us/affiliates/)
 
 
 
@@ -41,7 +39,9 @@ We may collect different types of information during your interactions with our 
 
 **Location information.**  We may have access to certain Information about your location, such as your country or address, when you provide it or via device information (such as an IP address). If you access our Sites on your mobile device we may collect Information about your device’s precise location.
 
- **Technical and usage information.**  We also collect certain technical and usage information when you use our Sites, such as the type of device, browser, and operating system you are using, your Internet service provider or mobile carrier, unique device identifier, IDFA or IDFV, MAC address, IP address, device and browser settings, the webpages and mobile apps you use, advertisements you see and interact with, and certain Site usage information. See our Cookies and Other Technical Information section for more information on how we may use these technologies to collect this Information.
+**Camera access**. For some Sites, we will ask for permission to access your device’s camera. If you grant permission, you may be able to take pictures or video within the app experience or to access certain augmented reality (“AR”) features. Some of these features may rely on camera systems to track movements of your eyes and other facial features or your immediate surroundings to apply AR effects. Information gathered from facial scanning technology, e.g., TrueDepth API, is only used to make these services and features available to you and is only persistent on the device during use of the AR features. Facial data is not stored on our systems nor shared with any third party.
+
+**Technical and usage information.**  We also collect certain technical and usage information when you use our Sites, such as the type of device, browser, and operating system you are using, your Internet service provider or mobile carrier, unique device identifier, IDFA or IDFV, MAC address, IP address, device and browser settings, the webpages and mobile apps you use, advertisements you see and interact with, and certain Site usage information. See our Cookies and Other Technical Information section for more information on how we may use these technologies to collect this Information.
 
 **HOW WE USE THE INFORMATION**
 
@@ -67,7 +67,7 @@ We may share and disclose Information in the following ways or for any other pur
 
  **Service providers.**  Our agents and contractors may have access to Information to help carry out the services they are performing for us, such as, but not limited to, creation, maintenance, hosting, and delivery of our Sites, products, and services, conduct marketing, handle payments, email and order fulfillment, administer contests, conduct research and analytics, or customer service.
 
-**Affiliates and other third parties.  **We may disclose Information to companies whose practices are not covered by this Privacy Policy. For example, we may share Information we collect with our [affiliates](https://web.archive.org/affiliates) to provide, improve, offer, market, and otherwise communicate with you about their own products and services.
+**Affiliates and other third parties.  **We may disclose Information to companies whose practices are not covered by this Privacy Policy. For example, we may share Information we collect with our [affiliates](https://policies.warnerbros.com/privacy/en-us/affiliates/) to provide, improve, offer, market, and otherwise communicate with you about their own products and services.
 
 We may also share Information with business partners and third parties (e.g., other companies, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, participatory databases, publishers, and non-profit organizations) that may want to market products or services to you. If we share personal information with such unaffiliated third parties for their own marketing purposes, we provide you with an opportunity to opt out of such uses either at the point of collection or through the choice mechanisms set forth in this Privacy Policy. To learn more about your choices, please see Your Choices below.
 
@@ -83,15 +83,13 @@ We may also share Information with business partners and third parties (e.g., ot
 
 **Ad Choices.  **We may work with reputable third parties to present advertisements, and engage in data collection, reporting, ad delivery and response measurement, and site analytics on our Sites and on third party websites across the Internet and applications over time. These third parties may use cookies, web beacons, pixels, or similar technologies to perform this activity. They may also obtain information about applications you use, websites you visit, and other information from across your devices and browsers in order to help serve advertising that may be more relevant to your interests on and off our Sites and across your devices and browsers. This type of advertising is known as interest-based advertising. They may also use this information to associate various browsers and devices together for the purpose of interest-based advertising and other purposes like analytics.
 
-For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising by third parties that participate in self-regulatory programs, please visit the [Network Advertising Initiative](https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) and/or the DAA [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices). To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third parties that participate in the DAA’s AppChoices tool, please download the version of [AppChoices](http://youradchoices.com/appchoices) for your device [here](http://youradchoices.com/appchoices). Please note that any opt-out choice you exercise through these programs will apply to interest-based advertising by the third parties you select, but will still allow the collection of data for other purposes, including research, analytics, and internal operations. You may continue to receive advertising, but that advertising may be less relevant to your interests.
+For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising by third parties that participate in self-regulatory programs, please visit the [Network Advertising Initiative](https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) and/or the DAA [Self-Regulatory Program for Online Behavioral Advertising](http://optout.aboutads.info/choices). To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third parties that participate in the DAA’s AppChoices tool, please download the version of [AppChoices](https://youradchoices.com/appchoices) for your device [here](https://youradchoices.com/appchoices). Please note that any opt-out choice you exercise through these programs will apply to interest-based advertising by the third parties you select, but will still allow the collection of data for other purposes, including research, analytics, and internal operations. You may continue to receive advertising, but that advertising may be less relevant to your interests.
 
 You may have more options depending on your mobile device and operating system. For example, most device operating systems (e.g., iOS for Apple phones, Android for Android devices, and Windows for Microsoft devices) provide their own instructions on how to limit or prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems to learn more about these features and how they apply to tailored in-app advertisements.
 
 **Precise location information**. To disable the collection of precise location information from your mobile device through our mobile apps, you can access your mobile device settings and choose to limit that collection.
 
 See also Cookies and Other Technical Information for more choices about managing other technical and usage information.
-
- 
 
 **California residents**  \- your California privacy rights.  If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, email address, postal address, and the subject line labeled “Your California Privacy Rights”) by email at [privacy@wb.com](mailto:privacy@wb.com).
 
