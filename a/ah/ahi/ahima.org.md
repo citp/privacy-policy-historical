@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410065427id_/http%3A//www.ahima.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210125120id_/http%3A//www.ahima.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -97,7 +97,10 @@ Unique identifiers (such as membership identification numbers) are collected fro
 
 AHIMA sites make discussion forums available to users. Please remember that any information disclosed in these types of forums becomes public information, and you should exercise caution when deciding whether to disclose any personal or sensitive information. Discussion forums may be monitored for content by AHIMA. AHIMA retains the right to remove content at its discretion. 
 
-      American Health Information Management Association   
+  **Online Marketing  
+**The American Health Information Management Association (AHIMA) also utilizes NextRoll for our online marketing activities and if you live in California and would like to learn more about NextRoll and the California Consumer Privacy Act [please click here](https://www.nextroll.com/privacy#service-13).
+
+  American Health Information Management Association   
 233 N. Michigan Ave., 21st Floor   
 Chicago, IL 60601 
 
