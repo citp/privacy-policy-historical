@@ -1,180 +1,297 @@
-> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330181111id_/https%3A//www.reedbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210161213id_/https%3A//www.flightglobal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Reed Business Information
+# Privacy policy | Announcements | Flight Global
 
-### **1\. About this Privacy Policy**
+1\. Introduction
 
-This privacy policy applies when you visit or use our websites, apps and other services, including events, that refer or link to this privacy policy (each, a “Service”). This privacy policy may be supplemented by additional privacy statements, terms or notices provided on certain areas of the Service or during our interactions with you.
+This privacy policy explains how we collect and use personal data about you when you interact with our websites, subscribe to our content and use our services.
 
-Irrespective of any branding used on the website, the Reed Business Information legal entity that owns or administers the Service, as identified therein, is the primary controller of your personal information provided to, or collected by or for, the Service, and, in any event, you may contact us at the address below.
+This website is not intended for children and we do not knowingly collect data relating to children.
 
-### **2\. Information We Collect**
+It is important that you read this privacy policy together with any other privacy information we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data.
 
-We collect information about you in three ways: directly from your input, through the Service’s technologies, and from third party sources. For events this can include collecting your data from registration forms, badge/business card scanners, and other event related apps.
+2\. Who are we?
 
-### **2.1 Data You Provide to Us**
+We are DVV Media International Limited of 6th Floor, Chancery House, St Nicholas Way, Sutton, Surrey, SM1 1JB. Company reg. 07464854 DVV Media International Limited is the UK arm of the global publishing company DVV Media Group. Publications of DVV Media International Limited which are provided for in this privacy policy include:
 
-The types of personal information that we collect directly from you depends on how you interact with us and the Service and includes:
+    FlightGlobal
 
-  * Contact details, such as your name, email address, social media handle, postal address and phone number;
-  * Account login credentials, such as usernames and passwords, password hints and similar security information;
-  * Other account registration and profile information, such as educational and professional background and photo;
-  * Other account or event registration and profile information, such as educational and professional background and photo, and for events dietary and accessibility requirements;
-  * Payment information, such as a credit or debit card number;
-  * Comments, feedback and other information you provide to us, including search query data and questions or information you send to customer support; and/or
-  * Interests and communication preferences, including preferred language.
+    Flight International
 
+    Airline Business
 
+When you interact with our websites, buy our subscriptions and use our services we are the “data controller”. This means that we are responsible for deciding how we hold and use personal data about you. We are required under the General Data Protection Regulation 2016 (the “GDPR”) to notify you of the information contained in this privacy policy.
 
-### **2.2 Data from Service Use**
+We collect this data through our servers and the use of cookies and other technologies. You can control cookies through your browser’s settings and other tools. However, if you block certain cookies, you may not be able to register, login, or access certain parts or make full use of the Service.
 
-The Service automatically collects information about how you and your device interact with the Service, including:
+We have a dedicated data protection officer (“DPO”). You can contact the DPO by writing to the above address, marked for the attention of the DPO. Alternatively, you can email dataprotection@dvvmediainternational
 
-  * Computer, device and connection information, such as IP address, browser type and version, operating system and other software installed on your device, mobile platform and unique device identifier and other technical identifiers, error reports and performance data;
-  * Usage data, such as the features you used, the settings you selected, URL click stream data, including date and time stamp, and referring and exit pages, and pages you visited or searched for on the Service; and/or
-  * For location-aware Services, the region, city or town where your device is located in order to provide you with more relevant content for where you are in the world.
+THIRD-PARTY LINKS
 
+Our websites may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements.
 
+3\. What kinds of personal data about you do we process?
 
-We collect this data through our servers and the use of cookies and other technologies. You can control cookies through your browser’s settings and other tools. However, if you block certain cookies, you may not be able to register, login, or access certain parts or make full use of the Service. For more details, visit the cookie notice of the Service.
+We may collect, store, and use the following categories of personal data about you:
 
-### **2.3 Data from Other Sources**
+Categories of Data     Include
 
-We also may obtain personal information about you from our group companies and from other third parties, including:
+Identity     Name, title, date of birth and gender
 
-  * The administrators at the organization with which you are employed or affiliated to activate and manage your access to the organization’s subscription to the Service;
-  * Social networks when you grant permission to access your data on one or more networks;
-  * Our service providers that help us determine a location based on your IP address in order to customize the Service to your location;
-  * Partners with which we offer co-branded services or engage in joint marketing activities or event sponsorship and hosting; and/or
-  * Publicly-available sources and data suppliers from which we obtain data to validate or supplement the information we hold.
+Contact     Billing address, delivery address, email address and telephone numbers
 
+Financial     Bank account & payment card details
 
+Technical and usage     Information gathered by the use of cookies in your web browser including information about how you use our website. You can learn more about how we use cookies and similar technologies here.
 
-### **3\. How We Use Your Information**
+Profile     Your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses
 
-Depending on how you interact with us and the Service and your preferences, we use your personal information to:
+Demographics     Information provided by you about your industry, business and interests
 
-  * Provide, activate and manage your access to and use of the Service;
-  * Process and fulfil a request, order, download, subscription or other transaction (including to process payments);
-  * Provide technical, product and other support and to help keep the Service working, safe and secure;
-  * Enhance and improve the Service and our other products and services and to develop new products, services and benefits;
-  * Offer you customized content and other personalization to make the Service more relevant to your interests and geography;
-  * Respond to your requests, inquiries, comments and concerns;
-  * Notify you about changes, updates or other announcements related to the Service and our other products and services;
-  * Deliver targeted advertisements, promotional messages, notices and other information related to the Service, your interests and other products, events and services;
-  * For events: to include your professional details on delegate booklets, badges, passes, place cards, guest lists, seating charts, networking portals, and where applicable for speaker and panel presenter listings;
-  * Invite you to participate in user testing and surveys as well as sweepstakes, competitions and similar promotions;
-  * Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations, including determining the effectiveness of our promotional campaigns and evaluating our business performance, or in other ways pursuant to a customer agreement; and/or
-  * Comply with our legal obligations, resolve disputes, and enforce our agreements.
+Your communications with us     Enquiries through our Contact Us pages, our email exchanges with you or records of telephone calls
 
+Communications in response to adverts     Enquiries to adverts posted by third parties on our websites or in our publications
 
+Marketing and Communications     Your preferences in receiving marketing from us and our partners and your communication preferences
 
-If you are an administrator of an organization with a subscription to the Service, we will use your details to communicate with you about your organization’s subscription and related services. If you supply us contact information of your colleagues, we may contact those individuals with communications about the Service that may include reference to you.
+Forum posts/blog comments     Information posted on forums or comments to our content
 
-### **4\. Sharing of your Information**
+Social media     Your social media username, if you interact with us through those channels, to help us respond to your comments, questions or feedback
 
-### **4.1 Your Organization**
+4\. When do we collect your personal data?
 
-If you access the Service through a subscription administered by your organization, your personal information and certain usage data gathered through the Service may be accessed by or shared with the administrators authorised by your organization for the purposes of usage analysis, subscription management and compliance, cost attribution and departmental budgeting.
+We may share your personal information with:
 
-### **4.2 Application Licensor**
+    When you visit any of our websites
 
-If you access a third-party application on the Service through a license agreement with the licensor of that application, the personal information relevant to that third-party application will be shared with its licensor so that it can provide you access to the application, subject to the terms of its license agreement and its privacy policy.
+    When you create an account with us to access our content
 
-### **4.3 Our Processors**
+    When you subscribe to one of our publications
 
-Depending on the Service provided, we share information with:
+    You use your account to buy subscriptions or services
 
-  * Our affiliates, trading names and divisions within the Reed Business Information group of companies worldwide (for a list, click [here](https://www.reedbusiness.com/about-us/#about-us-locations)) and certain RELX Group companies that provide technology, customer service and other shared services functions; and/or
-  * Our service providers, suppliers, agents and representatives, including but not limited to, editors, payment processors, customer support, email service providers, IT service providers, mailing houses and shipping agents, venue providers and other onsite event contractors which may include trainers, caterers, security staff, and badge and booklet printers;
+    You book to attend one of our events, for example the Airline Strategy Awards
 
+    You create and post an advert on one of our websites
 
+    You send an enquiry using our website in response to an advert posted on one of our websites, for example a job advert on https://jobs.flightglobal.com
 
-to process the information for us based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security measures.
+    When you engage with us on our social media pages
 
-### **4.4 Your Choices**
+    When you provide us with your preferences to receiving marketing from us or from one of our partners
 
-We share your personal information with our group companies and with sponsors, joint venture partners and other third parties, including entities for which we are acting as an agent, licensee, application host or publisher, that wish to send you information about their products and services that may be of interest to you, as determined by your choices and in managing your communications preferences and other settings.
+    You send us an email or contact us through our Contact Us pages
 
-The Service may let you post and share personal information, comments, materials and other content. Any such contributions that you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas.
+    When you post messages to our forums or comments to our content
 
-### **4.5 Legal Reasons**
+    When you choose to complete a survey we send you or complete a survey on our websites
 
-We also disclose your personal information if we have a good faith belief that such disclosure is necessary to:
+    When you enter any prize draw or competitions
 
-  * meet any applicable law, regulation, legal process or other legal obligation;
-  * detect, investigate and help prevent security, fraud or technical issues; and
-  * protect the rights, property or safety of Reed Business Information, our users, employees and others;
+    When you submit a job application using our website for a job advertised on one of our websites, for example a job advert on https://jobs.flightglobal.com
 
+5\. How and why do we use your personal data?
 
+We aim to provide you with the best news and content in the transport and logistics industry keeping you up-to-date with the latest news, jobs, events and trends in your sector. To do this we sometimes need to use your personal data in a number of ways depending on your interactions with us and any services you have requested. We will not process your personal data unless we have a legal basis to do so under data protection law. The tables below set this out in detail, showing what we do with your personal data, why we do it, and the legal basis on which we rely.
 
-and as part of a corporate transaction, such as a transfer of assets to or an acquisition by or merger with another company.
+To provide you with our content or services, such as
 
-### **5\. Your Communications Preferences**
+a)     Process and fulfil a request or subscription for an e-newsletter, magazine, or other publication
 
-You can customise and manage your communications preferences and other settings when you register with the Service, by updating your account features and preferences, by using the “opt-out”,  unsubscribe mechanism, or other means provided within the communications that you receive. You can also contact [unsubscribe@reedbusiness.com](mailto:unsubscribe@reedbusiness.com), and if your contact details change, you can alter the details we hold by emailing [updatemydetails@reedbusiness.com](mailto:updatemydetails@reedbusiness.com).  We reserve the right to notify you of changes or updates to the Service whenever necessary.
+b)     Process and fulfil a request for an advert to be posted in one of our publications
 
-### **6\. Accessing and Updating your Information**
+c)     To deliver your subscription to you by post or email
 
-The Service may allow registered users to directly access and review their account information and make corrections or updates upon login at any time. Keeping such information up to date is solely the responsibility of the user. Registered users may also close their account directly through the Service or by contacting the Service’s customer support.
+d)     Provide, activate and manage your access to our subscriber/account holder only content
 
-### **7\. Data Retention**
+e)     To notify you of any changes or updates to your accounts or subscriptions
 
-We retain your personal information for as long as necessary to provide the Service and fulfill the transactions you have requested, and for other essential purposes such as complying with our legal obligations, maintaining business and financial records, resolving disputes, maintaining security, detecting and preventing fraud and abuse, and enforcing our agreements.
+f)     To process and fulfil a request for places or tables at our events
 
-### **8\. Children’s Privacy**
+g)     To process payments for subscriptions, adverts, award entries and other products or services
 
-We do not knowingly collect information from children under the age of 13 or target the Service to children under 13.
+h)     To provide customer service and support and to answer any enquiries or concerns
 
-### **9\. Data Security**
+i)     When you ask us to share your contact details and enquiry with a third party in response to an advert posted in one of our publications
 
-We use a variety of administrative, physical and technical security measures to help safeguard your personal information.
+j)     Assess your eligibility for one of our services or subscriptions, for example whether you meet the criteria to receive a free copy of Flight International magazine
 
-### **10\. Locations of Processing**
+k)     To update your records and contact details to contact you about your accounts or subscriptions, tracing your whereabouts to contact you about your account or to recover debts
 
-Your personal information may be stored and processed in your region or another country where Reed Business Information group companies and our service providers maintain servers and facilities, including Australia, Brazil, France, Germany, Italy, Ireland, the Netherlands, Singapore, South Africa, the United Kingdom, and the United States. We take steps, including through our contracts, to ensure that the information continues to be protected wherever it is located in a manner consistent with the standards of protection required under applicable law.
+l)     To run a survey, competition or promotion
 
-Where personal information is transferred from the European Economic Area (“EEA”) or Switzerland to a country that has not received an adequacy decision by the European Commission, we rely on appropriate safeguards, such as the European Commission-approved Standard Contractual Clauses and the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, to transfer the data.
+Where it is in our legitimate business interests to do so, such as:
 
-Accuity Inc. and FlightStats Inc have certified certain of their services to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce. Please view the Accuity Privacy Shield Notice [here](https://www.relx.com/documents/policies/privacy-shield.pdf) and the FlightStats Privacy Shield Notice [here](https://www.flightstats.com/company/legal/privacy-policy/#privacy-shield). To learn more about the Privacy Shield program, and to view these entities’ certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/welcome).
+a)     To manage your request or subscription for an e-newsletter, magazine, or other publication
 
-### **11\. Grounds for Processing**
+b)     To develop and improve our content and our services
 
-When we collect from you any personal information within the scope of European data protection laws, we do so (a) with your consent; (b) where necessary to provide the Service, fulfill a transaction or otherwise perform a contract with you or at your request prior to entering into a contract; (c) where necessary for our compliance with a legal obligation; (d) where necessary for the performance of a task carried out in the public interest; and/or (e) as necessary to fulfill our legitimate interests as described below, except where our interests are overridden by your privacy rights. Where we rely on your consent to process personal information, you have the right to withdraw your consent at any time, and where we rely on legitimate interests, you have the right to object.
+c)     To send re-subscribe emails and letters to our previous subscribers, though of course we will not send these to you if you opt out of receiving these types of communications
 
-Our legitimate interests are: to deliver our products to our customers and their end users; to detect or prevent fraud; to protect the security of our systems, customers and users; to further develop our products; to conduct direct marketing; to operate our business (by processing payments/invoices and conduct credit checks on customers, suppliers and leads, perform sales and customer relations management, supplier management, as well as incidental processing in our back office for these purposes); to enable our customers to comply with legal obligations; to provide customer service or support; or fulfil our other legitimate interests as described above.
+d)     For direct marketing communications and related profiling to help us keep our users and subscribers informed about events and services in your relevant industry sector, for example if you sign up to Flight International we will keep you up to date about services and events provided by us and our selected partners in the aviation industry
 
-### **12\. Your rights**
+e)     To populate and maintain a database of direct marketing preferences so that we only send you communications which may be of interest to you and so that we don’t send you any communications which you have opted out of receiving
 
-You have the right under European and certain other privacy and data protection laws to request free of charge:
+f)     To respond to requests, enquiries, comments or concerns
 
-  * access to and correction or deletion of your personal information,
-  * that we cease or limit our processing of your personal information,
-  * a copy of your personal information (right to data portability), and to
-  * object at any time to processing of personal information concerning you for direct marketing.
+g)     To protect our business and your account from fraud and other illegal activities
 
+h)     To carry out monitoring and to keep records of our communications with you and our staff
 
+i)     For market research and analysis and developing statistics
 
-If you would like to exercise any of these rights, please contact us at the address set out below. We will respond to your request consistent with applicable laws. To protect your privacy and security, we may require you to verify your identity.
+j)     Subject to appropriate controls or anonymisation, to provide insight of our readers to business partners and our advertisers, for example providing our advertisers with statistics on the industries our readers work in
 
-### **13\. Changes**
+k)     To assess your eligibility for one of our services or subscriptions, for example whether you meet the criteria to receive a free copy of Airline Business
 
-We will update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. If we make any material changes, we will provide notice through the Service or by other means.
+l)     To update your records and contact details to contact you about your accounts or subscriptions, tracing your whereabouts to contact you about your account or to recover debts
 
-### **14\. Contact us**
+m)     To use data analytics and website cookies to improve our websites, products, services, marketing, customer relationships and experiences
 
-If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact:
+n)     To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising
 
-Data Protection Officer,  
-Reed Business Information Limited,  
-Quadrant House,  
-The Quadrant,  
-Sutton, Surrey SM2 5AS,  
-United Kingdom,  
-[dataprotection@reedbusiness.com](mailto:dataprotection@reedbusiness.com).
+o)     For management and audit of our business operations
 
-### **15\. How to complain**
+With your consent or explicit consent, such as:
 
-We hope that we can resolve any query or concern you raise about our use of your information but you may also lodge a complaint with the data protection authority in the applicable jurisdiction.
+a)     For some direct marketing, for example where you request promotional emails about one of our events or awards
 
-**Last updated:   27 June 2018**
+b)     Where you provide your consent for one of our industry partners or advertisers to contact you about their services, events or industry content
+
+c)     Where you would like us to provide your details and enquiry to a third-party advertiser, for example a job application in response to an advert you have seen on https://jobsflightglobal.com
+
+d)     To administer any of our prize draws, competitions or awards which you enter, we may rely on your consent given at the time of entering
+
+To comply with our legal obligations, such as:
+
+a)     To process any orders you make using our websites, over the telephone or by post
+
+b)     To send you communications required by law or which are necessary to inform you about changes to the services we provide you, for example updates to this privacy policy
+
+6\. Do we process any sensitive personal data about you?
+
+The Service may allow registered users to directly access the account information they provided and make corrections or updates to that information upon login at any time. The accuracy of such information is solely the responsibility of the user.
+
+We will never ask you to provide sensitive personal data (known as special category personal data in the GDPR) about yourself such as details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. Nor do we collect any information about criminal convictions and offences.
+
+Information you make available in job applications or forum posts or other communications via our websites is your responsibility and you should think very carefully before including or sharing any sensitive personal data.
+
+7\. Sharing your data
+
+Trusted third parties
+
+We sometimes share your personal data with trusted third parties such as third-party service providers. We have data processor contracts in place with such third parties which require them to respect the security of your data and to treat it in accordance with data protection legislation.
+
+Examples of the kind of third parties we work with are:
+
+    External payment service providers to process any payments you send us
+
+    Website platform and software providers to assist us with our internet content and services
+
+    Operational companies such as delivery couriers and Royal Mail
+
+    IT companies who support our website and other business systems
+
+    Accountancy companies who administer our accounts
+
+We may also share your personal data with third parties where required by law or where we have another legitimate interest in doing so.
+
+Our industry partners
+
+On some occasions we may provide your contact details to other companies in our industry for their own purposes, for example so they may contact you about services and events you may be interested in. However, we will only ever provide your details in these circumstances where we have your informed consent.
+
+Subject to appropriate controls or anonymisation, we may also provide limited data to our advertisers to provide them with insight of our readers.
+
+Our business
+
+We may, from time to time, expand, reduce or sell our publications and this may involve the transfer of divisions or the whole business to new owners. If this happens, your personal data will, where relevant, be transferred to the new owner or controlling party, subject to data protection law.
+
+8\. Transferring your personal data outside the EEA
+
+We are based in the UK but on occasion may transfer your personal data outside the European Economic Area (“EEA”).
+
+Examples of situations where we may transfer your personal data outside the EEA
+
+    You are based outside the UK and place an order with us, we may need to provide your contact details to a courier outside the EEA.
+
+    You ask us to send an enquiry or job application to the poster of an advert on one of our websites or in one of our publications.
+
+9\. What if you don’t want to share your personal data with us?
+
+If you fail to provide certain information when requested, we may not be able to provide you with our content, products or services.
+
+10\. What should you do if your personal data changes?
+
+You should tell us, so we can update our records. The contact details for this purpose are in this privacy policy.
+
+11\. How do we keep your data secure?
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so.
+
+12\. For how long do we retain your personal data?
+
+We retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of providing you with our content, subscriptions and other services and products.
+
+In some circumstances we may anonymise your personal data so that it can no longer be associated with you, in which case we may use such information without further notice to you. For example, we may collect demographic information from our readers, anonymise it and provide it to our advertisers.
+
+13\. Your rights
+
+Your rights in connection with your personal data
+
+Under certain circumstances, by law you have the right to:
+
+    Request access to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+    Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+
+    Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below).
+
+    Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal data for direct marketing purposes.
+
+    Request the restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data, for example if you want us to establish its accuracy or the reason for processing it.
+
+    Request the transfer of your personal data to another party.
+
+If you want to review, verify, correct or request erasure of your personal data, object to the processing of your personal data, or request that we transfer a copy of your personal data to another party, please contact us.
+
+No fee usually required
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
+
+What we may need from you
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal data is not disclosed to any person who has no right to receive it.
+
+14\. Your right to withdraw consent
+
+In the limited circumstances where we rely on your consent to process personal data about you, you have the right to withdraw your consent for that specific processing at any time.
+
+To withdraw your consent, please contact the DPO by emailing dataprotection@dvvmediainternational.
+
+Where you have requested that we provide your personal data to one of our industry partners (for example an enquiry in response to a used vehicle listing on Commercial Motor or to enable an industry partner to market directly to you), you will need to contact that third party directly to withdraw your consent to that third party processing your personal data.
+
+15\. Your right to opt out of direct marketing
+
+There are several ways you can stop direct marketing communications from us:
+
+    Opt out of receiving promotional emails and marketing when you create your account or subscribe to any of our content.
+
+    If you have an account, log in and change your preferences.
+
+    Click the ‘unsubscribe’ link in any email communication we send you. We will then stop sending you any further emails from that particular publication or newsletter.
+
+    Contact our DPO at dataprotection@dvvmediainternational or write to Data Protection Officer, DVV Media International Limited of 6th Floor, Chancery House, St Nicholas Way, Sutton, Surrey, SM1 1JB
+
+Please note that you may continue to receive communications for a short period after changing your preferences while we update our systems.
+
+16\. Data Protection Officer
+
+We have appointed a DPO to oversee compliance with this privacy policy. If you have any questions about this privacy policy or how we handle your personal data, please contact the DPO at this email address: dataprotection@dvvmediainternational.com. You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues.
+
+17\. Changes to this Privacy Policy
+
+We reserve the right to update this privacy policy at any time. We may also notify you in other ways from time to time about the processing of your personal data.
+
+If you have any questions about this Privacy Policy, please contact the DPO by emailing dataprotection@dvvmediainternational.com
