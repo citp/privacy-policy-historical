@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the justworks.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419094748id_/https%3A//justworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justworks.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210023424id_/https%3A//justworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Justworks
-
-As our services evolve and we perceive the need or desirability of using information collected in other ways, we may from time to time amend this Privacy Policy. We post the effective date of our Privacy Policy on our website (“Site”).
 
 **Application of This Privacy Policy:** This Privacy Policy applies to your use of (regardless of means of access) any of the current set of products from Company, collectively referred to as “Company Products”, such as our website ([www.justworks.com](https://justworks.com/)). The Company Products are owned and provided by Company.
 
@@ -26,11 +24,11 @@ Bank credentials submitted as part of Justworks' real-time payment verification 
 
 We (or our service providers acting on our behalf) may collect Information about the Company Products that you use and how you use them. This information includes information that may identify you as well as statistical information (“Analytics”) that does not identify you. Some Analytics may be correlated with your PII. Usage Information may include:
 
-### A. DEVICE INFORMATION
+#### A. DEVICE INFORMATION
 
 We may collect Device-specific Information (such as your hardware model, operating system version, unique Device identifiers and mobile network Information including phone number). We may associate your Device identifiers or phone number with your Company Account.
 
-### B. LOG INFORMATION
+#### B. LOG INFORMATION
 
 When you use Company Products, we may automatically record or log Information from your Device, its software, and your activity using the Company Products. This may include:
 
@@ -54,15 +52,15 @@ This Site is not designed nor intended to be attractive to use by children under
 
 We use cookies to personalize our Site for you and to collect aggregate information about site usage by all of our users. A cookie is a text file that our Site transfers to your computer’s hard drive for record-keeping purposes and to enhance the quality of your visit to our Site. The cookie assigns a random, unique number to your computer Cookies are small text files that our Site places on your browser to enable our system to recognize your computer and allow us to see how you use our site. Further general information about cookies and how they work is available at www.allaboutcookies.org. The cookies we use on our Site include:
 
-### A. SESSION COOKIES
+#### A. SESSION COOKIES
 
 These temporary cookies expire and are automatically erased whenever you close your browser window. We use session cookies to grant our users access to content and to enable actions they must be logged in to do.
 
-### B. PERSISTENT COOKIES
+#### B. PERSISTENT COOKIES
 
 These usually have an expiration date in the distant future and remain in your browser until they expire or you manually delete them. We use persistent cookies to better understand usage patterns so we can improve the site for our customers. For example, we may use a persistent cookie to associate you with your user account or to remember that your choices on the Site, but this only works when cookies on our site are enabled.
 
-### C. THIRD PARTY COOKIES
+#### C. THIRD PARTY COOKIES
 
 We permit limited third parties to place cookies through the Site to provide us with better insights into the use of the Site or user demographics or to provide relevant advertising to you. For example, we utilize Google Analytics to analyze usage patterns of the Site. Google Analytics generates a cookie to capture information about your use of the Site which Google uses to compile reports on website activity for us and to provide other related services. Google may use a portion of your IP address to identify their cookie, but this will not be associated with any other data held by Google.
 
