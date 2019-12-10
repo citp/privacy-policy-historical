@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524235824id_/http%3A//www.nationalarchives.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210164121id_/https%3A//www.nationalarchives.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy statement - The National Archives of Ireland
 
