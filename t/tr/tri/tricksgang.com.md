@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricksgang.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403121914id_/https%3A//tricksgang.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricksgang.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210160644id_/https%3A//tricksgang.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,4 +58,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us via mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, please contact us via mail tricksgang@mail.com
