@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppaction.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626215214id_/https%3A//www.plannedparenthoodaction.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppaction.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210023253id_/https%3A//www.plannedparenthoodaction.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -145,7 +145,7 @@
 
 ****New York, NY 10038****
 
-****[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)****
+[****Donor Services****](https://www.plannedparenthoodaction.org/donor-services)
 
 ****1-800-430-4907****
 
@@ -330,9 +330,7 @@
 
 ### ****Your California Privacy Rights****
 
-****If you reside in California and have provided your personally identifiable information to us, you may request information once per calendar year about our disclosures of certain categories of your personally identifiable information to third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the following email address:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)****
-
-### **** ****
+****If you reside in California and have provided your personally identifiable information to us, you may request information once per calendar year about our disclosures of certain categories of your personally identifiable information to third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the following Link:[Donor Services](https://www.plannedparenthoodaction.org/donor-services)**** ** ** ****
 
 ### ****Contact us****
 
@@ -346,7 +344,7 @@
 
 ****New York, NY 10038****
 
-****[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)****
+[****Donor Services****](https://www.plannedparenthoodaction.org/donor-services)
 
 ****1-800-430-4907****
 
