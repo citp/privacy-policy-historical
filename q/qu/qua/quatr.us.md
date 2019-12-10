@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the quatr.us privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327152143id_/https%3A//quatr.us/history/quatr-us-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quatr.us privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210220429id_/https%3A//quatr.us/history/quatr-us-privacy-policy.htm) for the most accurate reproduction.*
 
-# Quatr.us privacy policy | Quatr.us Study Guides
+# Quatr.us privacy policy - Quatr.us Study Guides
 
-[](https://quatr.us/history/quatr-us-privacy-policy.htm# "Printer Friendly, PDF & Email")
+Skip to content
+
+[ ](https://quatr.us/)
+
+Quatr.us privacy policy
 
 ## What information do we collect?
 
@@ -73,4 +77,6 @@ United States
 
 Also check out our cooking site at [Gevirts.com](http://www.gevirts.com/), and our children’s site, [Kidipede](http://www.historyforkids.org/).
 
-**Cite this page:** Carr, K.E. Quatr.us privacy policy. Quatr.us Study Guides, October 9, 2017. Web. March 27, 2019.
+**Cite this page:** Carr, K.E. Quatr.us privacy policy. Quatr.us Study Guides, October 9, 2017. Web. December 10, 2019.
+
+This site uses Akismet to reduce spam. [Learn how your comment data is processed](https://akismet.com/privacy/).
