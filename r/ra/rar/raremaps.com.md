@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raremaps.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609084627id_/https%3A//www.raremaps.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raremaps.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210213538id_/https%3A//www.raremaps.com/site/privacy-policy) for the most accurate reproduction.*
 
 # (Title unset) - Barry Lawrence Ruderman Antique Maps Inc.
 
