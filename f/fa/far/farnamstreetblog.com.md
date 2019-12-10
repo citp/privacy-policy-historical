@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farnamstreetblog.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505204211id_/https%3A//www.fs.blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farnamstreetblog.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210180349id_/https%3A//www.fs.blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,10 +62,10 @@ We take reasonable steps to protect personal information from loss and misuse. P
 
 ## **Children’s Privacy**
 
-The Site is not intended for use by children under the age of 13. We will not knowingly collect personal information from them. If we discover that a child has provided us with personal information, we will use reasonable efforts to delete this information. If you have reason to believe we may have accidentally received personal information from a child under the age of 13, please immediately submit details through this form. Please click here to fill it out. Readers dissatisfied with a response may reach us via email at farnamstreet [at] gmail (dot) com.
+The Site is not intended for use by children under the age of 13. We will not knowingly collect personal information from them. If we discover that a child has provided us with personal information, we will use reasonable efforts to delete this information. If you have reason to believe we may have accidentally received personal information from a child under the age of 13, please immediately let us know at support@farnamstreetblog.com
 
 ## **Changes to this Privacy Policy**
 
 We may modify, alter or update this Privacy Policy at any time. We will not provide individual notice to you of changes to this Privacy Policy, but when we make updates to this Privacy Policy, we will update the date in this section.
 
-_This Privacy Policy was last updated on May 28, 2018_
+_This Privacy Policy was last updated on September 8, 2019_
