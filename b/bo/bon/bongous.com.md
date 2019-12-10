@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119222023id_/http%3A//crossborder.fedex.com/us/assets/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210170927id_/http%3A//crossborder.fedex.com/us/assets/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx Cross Border Technologies, Inc. and its operating groups, subsidiaries and divisions, (hereafter "FedEx"). At FedEx, we are committed to protecting your privacy and the security of your personal data. FedEx has created this Privacy Notice to explain how FedEx collects and uses personal data. This Privacy Notice does not apply to websites or services linked to or incorporated into our Sites or offered by other companies, including merchant retailers. Our Privacy Notice does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags, and other technologies to serve and offer relevant ads.
+Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx Cross Border Holdings, Inc. and its operating groups, subsidiaries and divisions, (hereafter "FedEx"). At FedEx, we are committed to protecting your privacy and the security of your personal data. FedEx has created this Privacy Notice to explain how FedEx collects and uses personal data. This Privacy Notice does not apply to websites or services linked to or incorporated into our Sites or offered by other companies, including merchant retailers. Our Privacy Notice does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags, and other technologies to serve and offer relevant ads.
 
- **FedEx Cross Border Technologies, Inc.**
+ **FedEx Cross Border Holdings, Inc.**
 
 * **Does this Privacy Notice apply to you?**
 
-This Privacy Notice applies to you if you are a customer of FedEx, a user of the FedEx services, including international check out and shipping services provided on merchant sites, a recipient of a package delivered by FedEx, a supplier of FedEx, or if you contact FedEx, for instance by applying for a position with FedEx, by visiting [www.fedex.com](https://web.archive.org/web/20181119222023id_/http%3A//crossborder.fedex.com/us/assets/www.fedex.com), using social media or if you receive emails from FedEx.
+This Privacy Notice applies to you if you are a customer of FedEx, a user of the FedEx services, including international check out and shipping services provided on merchant sites, a recipient of a package delivered by FedEx, a supplier of FedEx, or if you contact FedEx, for instance by applying for a position with FedEx, by visiting [www.fedex.com](https://web.archive.org/web/20191210170927id_/http%3A//crossborder.fedex.com/us/assets/www.fedex.com), using social media or if you receive emails from FedEx.
 
-Our websites are for a general audience and not geared toward children. We do not knowingly or intentionally collect Personal Data from children under age 16. If you are under the age of 16, please do not submit any Personal Data to us, and rely on a parent or guardian to assist you. If you believe your child may have disclosed personally identifiable information to us, please contact us at [dataprivacy@fedex.com](mailto:dataprivacy@fedex.com) or [ crossborder_privacy@ftn.fedex.com](mailto:crossborder_privacy@ftn.fedex.com) and we will remove it.
+Our websites are for a general audience and not geared toward children. We do not knowingly or intentionally collect Personal Data from children under age 16. If you are under the age of 16, please do not submit any Personal Data to us, and rely on a parent or guardian to assist you. If you believe your child may have disclosed personally identifiable information to us, please contact us at [dataprivacy@fedex.com](mailto:dataprivacy@fedex.com) or [ crossborder_privacy@ftn.fedex.com](mailto:crossborder_privacy@ftn.fedex.com) and we will remove it if required.
 
 * **What information does FedEx collect?**
 
-In the course of its business activities and providing the services, FedEx will need to process personal data. â€œPersonal Dataâ€ is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx or its third party service providers, for instance:
+In the course of its business activities and providing the services, FedEx will need to process personal data. "Personal Data" is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to FedEx or its third party service providers, for instance:
 
   * **Contact information.** Such as your name, address, e-mail address and phone number;
   * **Financial information.** Such as your bank account number, payment status and invoices;
@@ -25,22 +25,9 @@ In the course of its business activities and providing the services, FedEx will 
 
 
 
-In addition, FedEx may obtain Personal Data automatically when you visit the FedEx website ([www.fedex.com](https://web.archive.org/web/20181119222023id_/http%3A//crossborder.fedex.com/us/assets/www.fedex.com)) or any of its subpages, for system administration and troubleshooting, to identify you so we can enhance your online experience and to help FedEx understand the effectiveness of the content messaging and information provided. This information may consist of:
+In addition, FedEx may obtain Personal Data automatically when you visit the FedEx website ([www.fedex.com](https://web.archive.org/web/20191210170927id_/http%3A//crossborder.fedex.com/us/assets/www.fedex.com)) or any of its subpages.
 
-  * IP address;
-  * Unique device or user ID;
-  * System and browser type;
-  * Date and time stamps;
-  * Referring website address;
-  * Content and pages you access on our website or mobile apps;
-  * Dates, times and locations when actions take place;
-  * Collect websites you visit (if you connect to our in-store wireless service);
-  * Click-stream information; and
-  * Device location (if you turn on the feature in the mobile app).
-
-
-
-This Personal Data is obtained through the use of cookies or other local storage technologies. To learn more about the use of these technologies, please consult our [Digital Platform Privacy Notice](https://www.fedex.com/en-us/trust-center/privacy.html) and [FedEx Cross Border Cookie Policy.](http://crossborder.fedex.com/us/assets/privacy_policy.shtml)
+This Personal Data is obtained through the use of cookies or other local storage technologies. To learn more about the use of these technologies, please consult the [FedEx Cross Border Cookie Policy.](http://crossborder.fedex.com/us/assets/privacy_policy.shtml)
 
 * **Why does FedEx process Personal Data?**
 
@@ -98,7 +85,7 @@ For the European Union, such transfers to third parties will be governed by a tr
 
 * **What rights can you exercise in relation to your Personal Data?**
 
-Based on the law applicable to the use of your Personal Data, you may be able to exercise a number of rights in relation to your Personal Data. Note that in many cases, your rights are not absolute and we may not be required to comply with your request. A number of such rights, as may be applicable in the European Union, are explained below. 
+Based on the law applicable to the use of your Personal Data, you have rights in relation to your Personal Data. Note that we are not required to fully comply with your request in some cases, since we have to balance your rights against our rights and obligations to process your Personal Data and to protect the rights and freedoms of others. A number of the rights, you have in relation to your Personal Data, as may be applicable in the European Union, are explained below. 
 
 _Right of access_
 
@@ -138,4 +125,4 @@ You also have the right to lodge a complaint with local data protection authorit
 
 * **Will there be updates to this Privacy Notice?**
 
-FedEx may update this Privacy Notice from time to time. If an amendment will have a serious impact, FedEx will endeavor to actively inform you about such amendments. FedEx will publish an up-to-date Privacy Notice on the website [www.fedex.com](https://web.archive.org/web/20181119222023id_/http%3A//crossborder.fedex.com/us/assets/www.fedex.com) at all times, indicating the latest amendments.
+FedEx may update this Privacy Notice from time to time. If an amendment will have a serious impact, FedEx will endeavor to actively inform you about such amendments. FedEx will publish an up-to-date Privacy Notice on the website [www.fedex.com](https://web.archive.org/web/20191210170927id_/http%3A//crossborder.fedex.com/us/assets/www.fedex.com) at all times, indicating the latest amendments.
