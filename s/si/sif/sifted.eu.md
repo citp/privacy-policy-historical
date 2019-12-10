@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the sifted.eu privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415143958id_/https%3A//sifted.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sifted.eu privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210111256id_/https%3A//sifted.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sifted
+# Privacy Policy | Sifted
 
-Sifted is bringing a distinctive European voice to the global tech debate.
+  *   * [ ](https://web.archive.org/)
+  * 
 
-We are in beta, so go easy on us. But if you want to help us improve faster, we’d welcome [your feedback](mailto:hello@sifted.eu).
 
-[ ](https://web.archive.org/)
+The new-media platform for Europe's innovators and entrepreneurs
+
+* * *
+
+  *   *   *   *   *   * 
+
 
 SIFTED (EU) LIMITED, of 20-22 WENLOCK RD, London, England, N1 7GU (company no. 11080313), (the “ **Company** ” “ **We** “, “ **Us** ” and “ **Our** ”) are committed to protecting and respecting your privacy.
 
-This policy (together with our Terms and Conditions of Business, Terms of Website Use, Cookie Policy and Acceptable Use Policy which can be accessed on www.sifted.eu and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.sifted.eu ( **our Site** ) you are accepting and consenting to the practices described in this policy.
+This policy (together with our [Terms and Conditions of Business](https://sifted.eu/terms-of-use/), [Terms of Website Use](https://sifted.eu/terms-of-use/#terms), [Cookie Policy](https://sifted.eu/terms-of-use/#cookies) and [Acceptable Use Policy](https://sifted.eu/terms-of-use/#acceptable-use) which can be accessed on www.sifted.eu and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.sifted.eu ( **our Site** ) you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is the Company.
 
@@ -116,7 +121,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 #### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Sifted c/o Financial Times One Southwark Bridge London SE1 9HL or [hello@sifted.eu](mailto:hello@sifted.eu).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Sifted c/o Second Home, Clerkenwell House, Clerkenwell Green, London EC1R 0EB or [hello@sifted.eu](mailto:hello@sifted.eu).
 
 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -130,4 +135,4 @@ Any changes we may make to our Privacy Policy in the future will be posted on th
 
 #### Contact
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Sifted, c/o Financial Times, One Southwark Bridge, London SE1 9HL or [hello@sifted.eu](mailto:hello@sifted.eu).
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Sifted, c/o Second Home, Clerkenwell House, Clerkenwell Green, London EC1R 0EB or [hello@sifted.eu](mailto:hello@sifted.eu).
