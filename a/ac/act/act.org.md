@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608024010id_/http%3A//www.act.org/content/act/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210152312id_/https%3A//www.act.org/content/act/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ACT
 
