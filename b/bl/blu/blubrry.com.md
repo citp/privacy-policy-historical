@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403105524id_/http%3A//create.blubrry.com/resources/about-blubrry/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210210323id_/http%3A//create.blubrry.com/resources/about-blubrry/privacy-policy) for the most accurate reproduction.*
 
 # Blubrry Podcasting Privacy Policy - Blubrry Podcasting - Podcast Hosting, Statistics, WordPress Hosting, Syndication Tools and Directory
 
