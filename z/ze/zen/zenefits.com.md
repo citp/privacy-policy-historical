@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529232642id_/https%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211002203id_/https%3A//www.zenefits.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zenefits
 
-Enjoy full access to Zenefits, no setup or credit card needed.
-
-Sorry, something went wrong! Please try again.
-
-### Privacy Policy
-
-**Introduction**
+### Last updated on August 1, 2019
 
 Zenefits’ strives to provide employers and their employees who use Zenefits’ service to manage their HR needs (collectively, **Users,** or **you** ), a user-friendly platform that handles a wide spectrum of HR-related matters – from simple on-boarding and off-boarding of employees to managing a 401k plan, or providing health, dental, and vision insurance.
 
@@ -21,11 +15,9 @@ To do this, we recognize you must trust us with your personal information. Maint
 
 This Privacy Policy applies to all the data, including previously-collected data, from visitors of Zenefits.com as well as to users of the online services, mobile services, software, and other services that we provide or otherwise make available on Zenefits.com (collectively, “the Service”). We may, in our sole discretion, modify or update this Privacy Policy from time to time, and if we make material changes to it, we will notify you through the Service, or by other means so that you may review the changes before you continue to use the Service. Your continued use of the Service after we publish or communicate a notice about any changes to this Privacy Policy means that you consent to the changes.
 
-**1\. INFORMATION COLLECTION**
+## 1\. INFORMATION COLLECTION
 
-The amount of information we collect depends on which features of the Service you use. Zenefits needs personal information about you, your employees, and their dependents as applicable to provide the Service, and your providing the information to us constitutes your consent to our processing of this information. Additionally, because we provide a wide range of HR and benefits management features, we may collect information about you from your employer, rather than directly from you.
-
-More specifically, we may collect the following categories of personal information about you:
+The amount of information we collect depends on which features of the Service you use. Zenefits needs personal information about you, your employees, and their dependents as applicable to provide the Service, and your providing the information to us constitutes your consent to our processing of this information. Additionally, because we provide a wide range of HR and benefits management features, we may collect information about you from your employer, rather than directly from you. More specifically, we may collect the following categories of personal information about you:
 
   * **Registration Information:** Your email address and password (your login credentials), and other information necessary to set up your account on the Service, which will depend on the features you use or your employer chooses to use.
   * **Identity information:** Your name, physical address, Social Security Number/tax identification number, and other identifiers used to manage and track human resources processes and benefits.
@@ -37,35 +29,37 @@ More specifically, we may collect the following categories of personal informati
   * **Information from Third-Party Sites and Services:** If you use Zenefits to manage third party services that integrate with the Service, we may have access to your information on such third-party services. We may, for example, have information about your use of a third-party payroll service provider.
   * **Device and IP Information:** When you access the Service, we automatically receive the internet protocol (“IP”) address of your computer or the proxy server that you use to access the internet, in addition to other technical information such as your computer operating system details, your type of web browser, your mobile device (including your mobile device identifier provided by your mobile device operating system), your mobile operating system, and the name of your ISP or mobile carrier. Zenefits may log this information and analyze it to determine anomalous behavior, detect threats and generally improve the Service.
   * **From your interaction with Customer Support:** When you contact our customer support team, we may review your Zenefits user profile. Customer support will collect the information necessary to categorize your questions, respond to them, and, if applicable, investigate and resolve any issue you bring to our attention or that we discover independently. We may also use this information to track potential problems and trends, improve the Service, and customize our support responses to better serve you.
-  * **Cookies, Beacons, Mobile SDKs, and similar technologies:** We use cookies and similar technologies, including beacons in email messages, and application developer platforms that use mobile Software Development Kits ("SDKs") to collect information about your use of any mobile application that we make available to you, and other information related to how browsers and mobile devices interact with the Service. These technologies help us recognize your browser or mobile device when you log in to our website and use our mobile applications and help us improve your experience with the Service, increase Zenefits’ security, and measure and improve the use and effectiveness of our Service.
-
+  * **Cookies, Beacons, Mobile SDKs, and similar technologies:** We use cookies and similar technologies, including beacons in email messages, and application developer platforms that use mobile Software Development Kits (“SDKs”) to collect information about your use of any mobile application that we make available to you, and other information related to how browsers and mobile devices interact with the Service. These technologies help us recognize your browser or mobile device when you log in to our website and use our mobile applications and help us improve your experience with the Service, increase Zenefits’ security, and measure and improve the use and effectiveness of our Service.  
 Zenefits also uses these technologies to serve advertising to you on other sites using third party advertising services. You can control the cookies set in your browser and even block them entirely by configuring your browser settings. If you block cookies, however, you may not be able to use the Services. Additional options for controlling how or whether Zenefits can target you with advertising is detailed in Section 2 (advertising and marketing) of this policy. By visiting Zenefits’ website or using our mobile applications, you consent to the placement of cookies and beacons on your browser, and our use of mobile SDKs in accordance with this Privacy Policy.
 
 
 
-
-**2\. USES AND DISCLOSURES OF YOUR INFORMATION**
+## 2\. USES AND DISCLOSURES OF YOUR INFORMATION
 
 Zenefits uses the information it collects about you as set forth below:
 
   * **To provide the Service:** Zenefits uses the information it collects to provide the Service to our Users – including to provide User-specific and customized experiences where necessary and appropriate, with the goal of enabling hassle-free HR through our platform.
   * **To improve and customize the Service:** Zenefits seeks to improve your experience with the Service. As a result, we will analyze data we collect about your use of the Service to inform how we can improve our products, including our software, infrastructure, user interfaces, and integrations with our partners.
-  * **To integrate with Third Parties:** To support our Users and streamline the HR experience, Zenefits may integrate our system with third parties. For example, Zenefits may integrate the Service to support your preferred payroll service. If you have an independent direct relationship with a third party integrated into the Service, any permissions you may have granted to that third party will govern their use of your data. Otherwise, any third party used by Zenefits to help provide the Services will not have any independent right to access or use your personal information. 
+  * **To integrate with Third Parties:** To support our Users and streamline the HR experience, Zenefits may integrate our system with third parties. For example, Zenefits may integrate the Service to support your preferred payroll service. If you have an independent direct relationship with a third party integrated into the Service, any permissions you may have granted to that third party will govern their use of your data.  
+Otherwise, any third party used by Zenefits to help provide the Services will not have any independent right to access or use your personal information.
   * **To communicate with you:** Zenefits wants to help you know how to best take advantage of the Service, especially as we improve and develop new features. We may send messages relating to your use of the Service – for example, we may send you a note that open enrollment has commenced. We may also send you messages about Service-related matters through our dashboard or by email. Also, because we want to improve the Service, we may occasionally send promotional materials out via email so that you are able to take advantage of new or unused features. More details about our advertising and marketing activities are provided below. You can control whether you receive future non-Service-related messages by unsubscribing in the message itself.
-  * **To advertise and market to you:** As noted above, Zenefits relies on cookies, beacons, and mobile SDKs to recognize your browser or mobile device in order to serve you ads. These same technologies are used by Zenefits to analyze the effectiveness of our advertising and email marketing campaigns. Zenefits may use third party services, data, and software tools to target advertising to you, perform campaign effectiveness analysis, help us identify and reach potential Users, and track the performance of our site and advertising generally. Zenefits’ third party advertising vendors do not have any independent right to use Zenefits’ data or that of its Users. Zenefits will not use PHI in connection with any advertisement or marketing for you.
+  * **To advertise and market to you:** As noted above, Zenefits relies on cookies, beacons, and mobile SDKs to recognize your browser or mobile device in order to serve you ads. These same technologies are used by Zenefits to analyze the effectiveness of our advertising and email marketing campaigns. Zenefits may use third party services, data, and software tools to target advertising to you, perform campaign effectiveness analysis, help us identify and reach potential Users, and track the performance of our site and advertising generally. Zenefits’ third party advertising vendors do not have any independent right to use Zenefits’ data or that of its Users. Zenefits will not use PHI in connection with any advertisement or marketing for you. 
 
-To learn more about advertising technologies and how to opt-out of online behavioral advertising, please visit http://www.allaboutcookies.org or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org, or the Digital Advertising Alliance at http://www.aboutads.info/choices/. You may also opt out of tracking and receiving online behavioral advertising on your mobile device by some mobile advertising companies and other similar entities by downloading the App Choices app at http://wwwaboutads.com/info/appchoices. These sites are not controlled by Zenefits, but provide an opt-out from advertising exchanges. Depending on your mobile device, you also can control tracking technologies through your settings by resetting your advertising ID. Please note that the only way to completely “opt out” of the tracking that cookies and other technologies enable is to actively manage the settings on your browser or mobile device, which may negatively impact your ability to use the Service.
+To learn more about advertising technologies and how to opt-out of online behavioral advertising, please visit http://www.allaboutcookies.org or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org, or the Digital Advertising Alliance at http://www.aboutads.info/choices/.  
+You may also opt out of tracking and receiving online behavioral advertising on your mobile device by some mobile advertising companies and other similar entities by downloading the App Choices app at http://wwwaboutads.com/info/appchoices. These sites are not controlled by Zenefits, but provide an opt-out from advertising exchanges. Depending on your mobile device, you also can control tracking technologies through your settings by resetting your advertising ID. Please note that the only way to completely “opt out” of the tracking that cookies and other technologies enable is to actively manage the settings on your browser or mobile device, which may negatively impact your ability to use the Service.
 
-  * **To facilitate disclosures related to Insurance Services:** Similar to the protections applied to personal information described in this Privacy Policy, Zenefits maintains the privacy and security of PHI and strives to treat PHI consistent with HIPAA and other applicable laws.
+  * **To facilitate disclosures related to Insurance Services:** Similar to the protections applied to personal information described in this Privacy Policy, Zenefits maintains the privacy and security of PHI and strives to treat PHI consistent with HIPAA and other applicable laws. 
 
 As a Zenefits User, we strive to not disclose more than the minimum necessary PHI required to provide the Service. We may use, access, transmit and process PHI for you in our capacity as a Business Associate as defined under HIPAA. A “Business Associate” is a person or entity that performs certain functions that may involve the use or disclosure of PHI for a Covered Entity (like an insurance carrier).
 
 The reasons that a Business Associate like Zenefits may use and disclose PHI is to help carry out insurance payments, health care, and other benefits-related services in connection with providing the Service (or as otherwise permitted under applicable law). Other, related reasons that Zenefits may use or disclose PHI include:
 
-    1. **To facilitate your access:** It’s your information, and you should be able to get to it. We may use and transfer your PHI to the Service so you can access your enrollment and billing information for your selected benefit(s) plans (such as your selected group health plan).
+    1. **To facilitate your access:** It’s your information, and you should be able to get to it.  
+We may use and transfer your PHI to the Service so you can access your enrollment and billing information for your selected benefit(s) plans (such as your selected group health plan).
     2. **To facilitate payment:** If you’ve used your insurance benefits, we may use and disclose your PHI to help your insurance pay for covered health care services. For example, payment for services by doctors, hospitals, pharmacies and others covered by your insurance may require the use or disclosure of PHI. Zenefits might also use your information to help your insurance carrier determine your eligibility for benefits, to coordinate benefits, to examine medical necessity, to obtain premiums, and to issue explanations of benefits.
     3. **To facilitate Health Care Operations:** We may use and disclose your PHI for the operational aspects of health care, for example, transferring medical records to specialists or pharmacists, or to facilitate your treatment at dedicated facilities.
-  * **To work with our vendors and service providers:** Zenefits uses third party vendors and service providers to provide the Service to you. For example, we use Amazon Web Services (AWS) to host the Service in the secure AWS cloud, and, as mentioned above, we also use third parties to help us advertise and market to you. We also use a third party to help facilitate aspects of our Pay Your People payroll feature. We may also provide some of your information (your email address, for example) to a service provider in order to reach you with an email campaign about new Zenefits features, however, our service providers and vendors have no independent right to use your data. Similarly, Zenefits’ instance in AWS is not accessible to any Amazon employee except at our request and to carry out our instructions. In other words, all our vendors are limited to their use of your data in the same way that we are limited in our use of your data by this Privacy Policy.
+  * **To work with our vendors and service providers:** Zenefits uses third party vendors and service providers to provide the Service to you. For example, we use Amazon Web Services (AWS) to host the Service in the secure AWS cloud, and, as mentioned above, we also use third parties to help us advertise and market to you. We also use a third party to help facilitate aspects of our Pay Your People payroll feature.  
+We may also provide some of your information (your email address, for example) to a service provider in order to reach you with an email campaign about new Zenefits features, however, our service providers and vendors have no independent right to use your data. Similarly, Zenefits’ instance in AWS is not accessible to any Amazon employee except at our request and to carry out our instructions. In other words, all our vendors are limited to their use of your data in the same way that we are limited in our use of your data by this Privacy Policy. 
 
 Additionally, certain Zenefits vendors and service providers may perform services which involve access to PHI. Any Zenefits vendor or service provider that processes PHI will agree in writing to contract terms designed to safeguard your information under HIPAA.
 
@@ -77,16 +71,16 @@ Additionally, certain Zenefits vendors and service providers may perform service
 
 
 
-**3\. YOUR CHOICES**
+## 3\. YOUR CHOICES
 
   * **Right to access, correct, and delete your personal information:** Users have a right to access, modify, correct, or delete personal information controlled by Zenefits as necessary. In some cases, information deletion must be coordinated with the employer to ensure alternative HR systems are able to provide the User a legally compliant HR record-keeping system.
   * **Retention:** Zenefits retains the personal information you provide while your account is in existence or as needed to provide you the Service, including customer support-related reporting and trend analysis. We may retain Customer or User information if retention is reasonably necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes between Customer, Users, or related parties, prevent fraud and abuse, or enforce this Privacy Policy or our Terms of Use Agreement. We may retain personal information, for a limited period of time, if requested by law enforcement.
 
 
 
-**4\. IMPORTANT INFORMATION**
+## 4\. IMPORTANT INFORMATION
 
-  * Security: Zenefits has implemented industry standard administrative, technical, and physical security safeguards designed to protect the personal information that you provide. Access to your data on our Service is password-protected, and data is protected by SSL encryption when it is exchanged between your web browser and the Service. We also support secure https access to the Zenefits.com website. To protect any data you store on our servers, we also regularly monitor our system for possible vulnerabilities and attacks.
+  * Security: Zenefits has implemented industry standard administrative, technical, and physical security safeguards designed to protect the personal information that you provide. Access to your data on our Service is password-protected, and data is protected by SSL encryption when it is exchanged between your web browser and the Service. We also support secure https access to the Zenefits.com website. To protect any data you store on our servers, we also regularly monitor our system for possible vulnerabilities and attacks. 
 
 As you know, however, the Internet is not a 100% secure environment, and as a result, we cannot ensure or warrant the security of any information that you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our administrative, technical, or physical safeguards. It is your responsibility to protect the security of your login information. Please help keep your account safe by using a strong password.
 
@@ -98,15 +92,11 @@ As you know, however, the Internet is not a 100% secure environment, and as a re
 
 
 
-**5\. CONTACT US**
+## 5\. CONTACT US
 
 You may contact us by mail at:
 
 Privacy Policy Issues  
 C/O Zenefits’ Privacy Officer  
-250 Brannan Street, Floor 3  
-San Francisco, CA 94107 
-
-You may also reach us by email [here](mailto:privacy@zenefits.com).
-
-Effective date: September 15th, 2016.
+50 Beale Street,  
+San Francisco, CA 94105
