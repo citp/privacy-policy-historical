@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the houstonchronicle.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609230607id_/http%3A//www.houstonchronicle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonchronicle.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210141128id_/https%3A//www.houstonchronicle.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | HoustonChronicle.com - Houston Chronicle
 
 **Last Updated: May 24, 2018**
 
-When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by Houston Chronicle, a publication of Hearst Newspapers, LLC,, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](https://web.archive.org/web/20190609230607id_/http%3A//privacypolicy/) below for a detailed explanation of our practices.
+When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by Houston Chronicle, a publication of Hearst Newspapers, LLC,, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](https://web.archive.org/web/20191210141128id_/https://www.houstonchronicle.com/privacypolicy/) below for a detailed explanation of our practices.
 
 ### What Information We Obtain
 
