@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610200355id_/http%3A//www.comedycentral.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210201433id_/https%3A//www.comedycentral.co.uk/legal/dgzo3z/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CCUK
+# Privacy Policy | Comedy Central UK
 
-Updated: 25th May 2018
+Updated: 4th December 2019
 
-At The Paramount UK Partnership (the corporate name for the business which runs Comedy Central in the UK), we take your privacy seriously and are committed to ensuring that we protect the information you entrust to us. We created this Privacy Policy to tell you what personal information The Paramount UK Partnership collects about you, how we use, store and share it, and your rights and choices concerning that information. This Privacy Policy applies to all information about you that we collect, whether you are visiting our websites, using one of our mobile apps or other products or services, or otherwise interacting with us, such as by attending a live event, or contacting customer service. This policy collectively refers to these touchpoints as the “Services.” While some of the information we describe here is technical, our goal is to make this policy straightforward, so please contact us if you have any questions.
+At The Paramount UK Partnership (the corporate name for the business which runs Comedy Central in the UK), we take your privacy seriously and are committed to ensuring that we protect the information you entrust to us. We created this Privacy Policy to tell you what personal information The Paramount UK Partnership collects about you, how we use, store and share it, and your rights and choices concerning that information. This Privacy Policy applies to all information about you that we collect, whether you are visiting our websites, using one of our mobile apps or other products or services, or otherwise interacting with us, such as by attending a live event, or contacting customer service. This policy collectively refers to these touchpoints as the "Services." While some of the information we describe here is technical, our goal is to make this policy straightforward, so please contact us if you have any questions.
 
 We will change this Privacy Policy from time to time. When we make changes, we will revise the date at the top of the policy and, in some cases, will notify you through the Services, such as via our homepage, email, or other communication.
 
-**Personal Information We Collect**
+ **Personal Information We Collect**
 
 In this section, we explain what personal information we collect about you and how we collect it.
 
-_Information You Provide_
+ _Information You Provide_
 
 You can use most of our Services without actively submitting any information about yourself, but you may choose to provide us with personal information through the Services. In particular:
 
@@ -24,25 +24,25 @@ You can use most of our Services without actively submitting any information abo
 
 
 
-_Automatically Collected Information_
+ _Automatically Collected Information_
 
 When you access our Services online, for example by visiting our websites or using our mobile apps, we automatically collect information about your use of the Services, such as the time of your visit and the pages or content you viewed. We also receive and collect technical information about your device and software, including the type of device, operating system and version, mobile network information, IP address (a unique number used to identify a device on the internet), mobile device advertising identifier (a resettable identifier that is assigned to your mobile device by your operating system provider, such as Apple or Google) or other device identifier, the page you visited before visiting our website, and crash data.
 
-_Cookies_
+ _Cookies_
 
-We and our advertising and analytics service providers use cookies, which are small text files that help store user preferences and activity, and similar technologies such as web beacons, pixels, and ad tags to recognise you when you visit our Services, and to collect information such as the number of visits, which features or pages are popular, measurements about the advertising campaign’s success, and other information about your browsing activities. This allows us to ensure our Services are functioning properly, to improve the Services, and to provide and measure advertisements. For more information about cookies and the choices you have regarding the use of them through our Services, please visit our [Cookie Policy](http://www.comedycentral.co.uk/legal/cookie-policy).
+We and our advertising and analytics service providers use cookies, which are small text files that help store user preferences and activity, and similar technologies such as web beacons, pixels, and ad tags to recognise you when you visit our Services, and to collect information such as the number of visits, which features or pages are popular, measurements about the advertising campaign's success, and other information about your browsing activities. This allows us to ensure our Services are functioning properly, to improve the Services, and to provide and measure advertisements. For more information about cookies and the choices you have regarding the use of them through our Services, please visit our Cookie Policy.
 
-_Information from Third Parties_
+ _Information from Third Parties_
 
 We may offer you the ability to log into the Services with your credentials from another site or service, such as Facebook or Google. If you chose to login or register in this manner, the third-party service will provide us with access to information about you, such as your name, basic profile information, and friends list, in accordance with your privacy settings on that service.
 
-_Social Sharing_
+ _Social Sharing_
 
-The Services may give you the option to share with others on social media platforms, such as Facebook or Twitter. When you share in this manner, the privacy practices of the social media platform control who has access to your information and how it is treated by the social media platform. Please consult the privacy policies of any social media platform to which you share information in this manner to learn about the social media platform’s data practices.
+The Services may give you the option to share with others on social media platforms, such as Facebook or Twitter. When you share in this manner, the privacy practices of the social media platform control who has access to your information and how it is treated by the social media platform. Please consult the privacy policies of any social media platform to which you share information in this manner to learn about the social media platform's data practices.
 
 Please note that information that cannot be linked back to you (such as aggregated data) is not considered personal information under this Policy.
 
-**Use of Information**
+ **Use of Information**
 
 We use the personal information for the following purposes:
 
@@ -58,31 +58,28 @@ We use the personal information for the following purposes:
 
 
 
-**Data Storage**
+ **Data Storage**
 
 We store the personal information we collect for as long as is necessary for the purpose(s) for which we originally collected it. For example, if you register for an account with us, we will generally maintain your account information as long as needed to service your account. We may also retain personal information as required by law.
 
-**Disclosure of Your Personal Information**
+ **Disclosure of Your Personal Information**
 
 We will not disclose your personal information to any unrelated third parties unless we have your consent to do so, with the exceptions we mention here:
 
-With service providers who provide services to us under a contract and are required to keep the personal information confidential  
-If reasonably necessary to comply with a law, regulation, or compulsory process (for example, to respond to a subpoena)
-
+  * With service providers who provide services to us under a contract and are required to keep the personal information confidential
+  * If reasonably necessary to comply with a law, regulation, or compulsory process (for example, to respond to a subpoena)
   * If we conclude your actions violate our user agreements or policies, or to protect the rights, property or safety of The Paramount UK Partnership or others
   * In connection with a merger, sale of company assets, financing or acquisition of all or a portion of our business, provided that the receiving party agrees to protect personal information in accordance with the commitments of this policy and applicable law
   * With companies within the Viacom corporate family
-  * We share personal information that does not directly identify you but that identifies your device through third-party cookies and similar technologies on our website and in our apps, to enable those third parties to provide us with analytics and advertising services. Those companies collect information from our website or apps such as cookie identifiers, device identifiers, IP address, as well as information about your web viewing or app usage activity off of the Services. To learn more about how this information can be used for serving interest-based advertising, how The Paramount UK Partnership uses these services, and for links to these third parties’ privacy policies, please visit our [Cookie Policy](http://www.comedycentral.co.uk/legal/cookie-policy).
+  * We share personal information that does not directly identify you but that identifies your device through third-party cookies and similar technologies on our website and in our apps, to enable those third parties to provide us with analytics and advertising services. Those companies collect information from our website or apps such as cookie identifiers, device identifiers, IP address, as well as information about your web viewing or app usage activity off of the Services. To learn more about how this information can be used for serving interest-based advertising, how The Paramount UK Partnership uses these services, and for links to these third parties' privacy policies, please visit our Cookie Policy.
 
 
 
-**Data Transfers**
+ **Data Transfers**
 
-We and our service providers transfer your personal information to, or store or access it in, other countries where the laws may not provide levels of protection for your personal information equivalent the protection provided by the laws of the European Union. When we do this, we take steps to ensure that your personal information receives an appropriate level of protection through contractual requirements imposed on the recipient of the information (you can obtain a copy of these clauses by contacting us or, when we transfer data to the United States, through the EU-U.S. or Swiss-U.S. Privacy Shield Frameworks (“Privacy Shield”) regarding the collection, use, and retention of personal information transferred from the European Economic Area (EEA) or Switzerland to the United States. The Viacom family of companies in the United States (including Viacom, Inc. and Viacom International Inc.) adheres to the Privacy Shield Principles, as described in Viacom’s Privacy Shield certification, which you can find at [ https://www.privacyshield.gov](https://www.privacyshield.gov/).
+We and our service providers transfer your personal information to, or store or access it in, other countries where the laws may not provide levels of protection for your personal information equivalent the protection provided by the laws of the European Union. When we do this, we take steps to ensure that your personal information receives an appropriate level of protection through contractual requirements imposed on the recipient of the information (you can obtain a copy of these clauses by contacting us).
 
-For any questions or complaints regarding our compliance with either the EU-U.S. Privacy Shield Framework or the Swiss-U.S. Privacy Shield Framework, please contact us at [privacyshield@viacom.com](mailto:privacyshield@viacom.com). If we do not resolve your complaint, you may submit your complaint free of charge to JAMS, Viacom’s designated independent dispute resolution provider based in the United States. For information about the JAMS dispute resolution process or to submit a complaint, please [click here](https://www.jamsadr.com/eu-us-privacy-shield) to go to JAMS’ website. Under certain conditions specified by the principles of the Privacy Shield you may also be able to invoke binding arbitration to resolve your complaint. Viacom is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. If Viacom shares personal information collected in the EEA with a third-party service provider in the United States that processes the information on Viacom’s behalf, Viacom will be liable for that third party's processing of personal information in violation of the Privacy Shield, unless Viacom can prove that it is not responsible for the unauthorised processing.
-
-**Legal Basis for Processing**
+ **Legal Basis for Processing**
 
 We will only collect, store, or otherwise process your personal information in the following situations:
 
@@ -93,36 +90,36 @@ We will only collect, store, or otherwise process your personal information in t
 
 
 
-**Your Rights and Choices**
+ **Your Rights and Choices**
 
 You have the right to access the personal information we hold about you and to ask us to correct, erase, or, in some situations, transfer it to another provider. You may also have the right to withdraw your consent to processing, object to, or request that we limit or restrict certain processing of your personal information as described below.
 
-_Access and Deletion Requests_
+ _Access and Deletion Requests_
 
-You can also update, correct, or delete information we have about you or close your account by contacting us at [DataPrivacyRights@viacom.com](mailto:DataPrivacyRights@viacom.com?subject=Privacy%20Rights) with the subject line “Privacy Rights”. When necessary to identify you, we will request that you give proof of your identity or require more information from you that is necessary to handle your request.
+You can also update, correct, or delete information we have about you or close your account by contacting us at DataPrivacyRights@viacom.com with the subject line "Privacy Rights". When necessary to identify you, we will request that you give proof of your identity or require more information from you that is necessary to handle your request.
 
-_Emails, Text Messages, and WhatsApp Messages_
+ _Emails, Text Messages, and WhatsApp Messages_
 
 You can opt out of receiving promotional emails, text messages, or WhatsApp messages by following the instructions in those messages. If you opt out of receiving promotional emails from us, we may still send you non-promotional emails.
 
-_Mobile push notifications_
+ _Mobile push notifications_
 
 When you consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
 
-_Cookies and similar technologies_
+ _Cookies and similar technologies_
 
-For information about the choices you have regarding our use of cookies, including how to block cookies or withdraw consent to certain types of cookies and other similar technologies, please visit our [Cookie Policy](http://www.comedycentral.co.uk/legal/cookie-policy).
+For information about the choices you have regarding our use of cookies, including how to block cookies or withdraw consent to certain types of cookies and other similar technologies, please visit our Cookie Policy.
 
-_Questions or complaints_
+ _Questions or complaints_
 
-If you have a question about our Privacy Policy, data practices or the choices available to you, please contact us using the information below. If we are not able to address your concern and you are a resident of the EEA, you have the right to lodge a complaint with the Data Protection Authority where you live, work, or where the issue took place. For contact details of your local Data Protection Authority, please see <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+If you have a question about our Privacy Policy, data practices or the choices available to you, please contact us using the information below. If we are not able to address your concern and you are a resident of the EEA, you have the right to lodge a complaint with the Data Protection Authority where you live, work, or where the issue took place. For contact details of your local Data Protection Authority, please see http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm.
 
-**Contact Us**
+ **Contact Us**
 
 We are happy to answer your questions about our Privacy Policy and data practices. You may also contact us to exercise your rights as discussed in this Privacy Policy.
 
 The Paramount UK Partnership  
 Data Protection Officer  
-[DataPrivacyRights@viacom.com](mailto:DataPrivacyRights@viacom.com)  
+DataPrivacyRights@viacom.com  
 17-29 Hawley Crescent  
 London NW1 8TT
