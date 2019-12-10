@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glowing.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531134527id_/https%3A//glowing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowing.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210134600id_/https%3A//glowing.com/privacy) for the most accurate reproduction.*
 
 # Glow - Privacy
 
-Last Updated: May 25, 2018 
+Last Updated: June 14, 2018 
 
-Glow takes issues of privacy and the protection not only of personal health information, but all kinds of information about your private life very seriously. As discussed below we take great efforts to protect your information from disclosure, to use your information only to improve the service for you and to improve our ability to provide services to other people in a similar situation, and to assist researchers in finding better ways to improve health. 
+Glow takes issues of privacy and the protection not only of personal health information, but all kinds of information about your private life very seriously. As discussed below we take great efforts to protect your information from disclosure, to use your information only to provide services to you, to improve the service for you, to improve our ability to provide services to other people in a similar situation, and to assist researchers in finding better ways to improve health. 
 
 WE DO NOT SELL OR RENT YOUR PERSONAL DATA TO THIRD PARTIES. WE DON’T SHARE YOUR INFORMATION (OTHER THAN FORUM POSTS) TO SOCIAL NETWORKS OR OTHER PUBLIC OR SEMI-PUBLIC PLACES UNLESS INSTRUCTED BY YOU TO DO SO. 
 
@@ -14,13 +14,13 @@ Please read this Privacy Policy carefully, it is a material part of the contract
 
 ##  PARTICULARLY IMPORTANT INFORMATION 
 
-Who We are: For the purpose of applicable data protection legislation, the data controller of your personal data is Upward Lab Holdings, Inc. of 555 Kearny Street, 7th Floor San Francisco, California. We are in the process of identifying and appointing a Representative in the EU, but in the meantime, our EU Representative is Ryan Ye, reachable through EURepresentative@glowing.com. Our data protection officer is Ryan Ye, reachable through GlowDataProtectionOfficer@glowing.com 
+Who We are: For the purpose of applicable data protection legislation, the data controller of your personal data is Upward Lab Holdings, Inc. of 555 Kearny Street, 7th Floor San Francisco, California. We are in the process of identifying and appointing a Representative in the EU, but in the meantime, our EU Representative is Jirong Wang, reachable through EURepresentative@glowing.com. Our data protection officer is Jirong Wang, reachable through GlowDataProtectionOfficer@glowing.com 
 
 Must Read Sections: We direct your attention in particular to the sections entitled “International Data Transfer” and “Your Rights”. 
 
 ##  Changes to the Privacy Policy. 
 
-We may amend this Privacy Policy from time to time by posting a revised copy to our website, Glowing.com (“Website”) or through Glow, Glow Baby, Glow Nurture, Eve (Eve by Glow) (collectively the “Glow Apps”), and we encourage you to review it frequently. If we make material changes to this Privacy Policy, we will alert you through a notice on the Glow Apps, on our Website, or through an email prior to such change(s) taking effect. The “Last Updated” legend above indicates when this Privacy Policy was last changed. 
+We may amend this Privacy Policy from time to time by posting a revised copy to our website, Glowing.com (“Website”) or through our applications, including Glow, Glow Baby, Glow Nurture, Eve (Eve by Glow), GlowCare (collectively the “Glow Apps”), and we encourage you to review it frequently. If we make material changes to this Privacy Policy, we will alert you through a notice on the Glow Apps, on our Website, or through an email prior to such change(s) taking effect. The “Last Updated” legend above indicates when this Privacy Policy was last changed. 
 
 ##  PURPOSES OF PROCESSING 
 
@@ -41,6 +41,8 @@ Glow gives you a number of options regarding what information you will give us:
 • When you update a Glow App or the Website with information relevant to your fertility or pregnancy, 
 
 When you register with Glow you will submit a variety of personal data (such as gender, age, birthdate, name, email address, mobile phone number) and as you use the Glow Apps you may submit a variety of information (such as menstrual cycle, weight, temperature, occupation, hobbies, interests, zip code, etc.) which may include sensitive personal data about personal health issues and/or information related to your past, present, or future physical or mental health condition (“Sensitive Personal Data”). You may also choose to provide us with access to certain personal data stored by third parties including social media sites (such as Facebook and Twitter) and health sites, such as Apple HealthKit and Google Fit. The information we have access to varies by site and is controlled by your privacy settings on that site and your authorization. You may (and may be required to) share information about or give us access to additional third-party websites or services. 
+
+If you establish a GlowCare account / register to use GlowCare we will share personal data including Sensitive Perosnal Data with your healthcare provider that is using GlowCare. 
 
 Also, when you sign up for Glow First, we may collect personal data such as credit card numbers and/or cell phone numbers, as well as other information about you necessary to ensure that a transaction is properly authorized, such as your address, zip code, and cv number (collectively, “Payment Information”). We also may retain such Payment Information (or our third party “fulfillment house”, such as PayPal, may retain such information) to facilitate future transactions. See “Controlling Your Personal Data” below if you would like us not to use that information to assist you in completing future transactions. 
 
@@ -94,7 +96,7 @@ We may combine your personal data with information we collect from other users i
 
 ##  Protected Health Information 
 
-We maintain “protected health information” (as defined in the Health Insurance Portability and Accountability Act, “HIPAA”) in compliance with applicable health care privacy and security rules and our contractual obligations with our business partners and customers, including health care providers and their contractors (who are also subject to HIPAA). In the case where you affirmatively accept our Glow Fertility Program Patient Services Agreement, we act as a conduit between (a) health care providers offering fertility-related services, (b) other persons involved in the arranging, provision or financing of health care services and (c) end users such as you, and share your protected health information in connection with those services only in accordance with applicable law. 
+We maintain “protected health information” (as defined in the Health Insurance Portability and Accountability Act, “HIPAA”) in compliance with applicable health care privacy and security rules and our contractual obligations with our business partners and customers, including health care providers and their contractors (who are also subject to HIPAA). In the case where you affirmatively accept our Glow Fertility Program Patient Services Agreement, and/or where your healthcare provider uses GlowCare and you establish an account on GlowCare, we act as a conduit between (a) health care providers offering fertility-related services, (b) other persons involved in the arranging, provision or financing of health care services and (c) end users such as you, and share your protected health information in connection with those services only in accordance with applicable law. 
 
 ##  Marketing 
 
