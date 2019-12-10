@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225172608id_/https%3A//www.genesys.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210133405id_/https%3A//www.genesys.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Genesys
 
@@ -103,7 +103,7 @@ Genesys may update and make changes to the Privacy Notice at any time. When we d
 
 If you have any questions about the Privacy Notice, please contact us at [dataprivacy@genesys.com](mailto:dataprivacy@genesys.com).
 
-Last updated: July 25, 2017
+Last updated: Jan 1, 2019
 
 ### Corporate Headquarters
 
