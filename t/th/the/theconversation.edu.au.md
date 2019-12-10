@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconversation.edu.au privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611114955id_/https%3A//theconversation.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconversation.edu.au privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210172353id_/https%3A//theconversation.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy at The Conversation
 
@@ -137,10 +137,6 @@ If you make a complaint, we will assess your complaint and respond within 30 day
 
 If you aren’t satisfied with the way in which we handle your complaint, you can complain to the Australian privacy regulator, the Office of the Australian Information Commissioner.
 
-## 11\. Nielsen software
-
-The Conversation may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <https://www.nielsen.com/digitalprivacy>.
-
-## 12\. Questions
+## 11\. Questions
 
 If you have any other questions or concerns, please email us at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
