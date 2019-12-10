@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the pinoymoneytalk.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526131651id_/https%3A//www.pinoymoneytalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoymoneytalk.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210051801id_/https%3A//www.pinoymoneytalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Service - PinoyMoneyTalk.com
-
-  
-
 
 ## **Privacy Policy  **
 
@@ -94,4 +91,4 @@ Should you have any questions, concerns, or comments about our privacy policy or
 This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
   
-Ask a question or post a comment View Related Posts
+
