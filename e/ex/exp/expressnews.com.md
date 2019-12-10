@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the expressnews.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420063126id_/https%3A//www.expressnews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressnews.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210141051id_/https%3A//www.expressnews.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | San Antonio Express-News | ExpressNews.com - San Antonio Express-News
 
 **Last Updated: May 24, 2018**
 
-When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by San Antonio Express-News, a publication of Hearst Newspapers, LLC, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](https://web.archive.org/web/20190420063126id_/https://www.expressnews.com/privacypolicy/) below for a detailed explanation of our practices.
+When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by San Antonio Express-News, a publication of Hearst Newspapers, LLC, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](https://web.archive.org/web/20191210141051id_/https://www.expressnews.com/privacypolicy/) below for a detailed explanation of our practices.
 
 ### What Information We Obtain
 
