@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the whufc.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330143325id_/https%3A//www.whufc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whufc.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210230428id_/https%3A//www.whufc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | West Ham United
 
-### **Privacy Policy**
+### **Introduction**
 
-**Introduction**
-
-In this Privacy Notice, references to  **“we”** ,  **“us”** ,  **“our”**  or  **“WHU”**  are to West Ham United Football Club Limited registered in England and Wales with company number [00066516](tel:00066516) whose registered office is at London Stadium, Queen Elizabeth Olympic Park, London, England, E20 2ST.
+In this Privacy Notice, references to  **“we”** ,  **“us”** ,  **“our”**  or  **“WHU”**  are to West Ham United Football Club Limited registered in England and Wales with company number [00066516](https://web.archive.org/web/20191210230428id_/https%3A//www.whufc.com/00066516) whose registered office is at London Stadium, Queen Elizabeth Olympic Park, London, England, E20 2ST.
 
 For the purposes of the General Data Protection Regulation or  **“GDPR”**  (and all other laws relating to the use your Personal Data), we are the “data controller”, meaning that we are responsible for deciding how your Personal Data is used and more importantly, for keeping your Personal Data safe and only using it for legitimate reasons.
 
 We are committed to protecting your privacy and will take all steps necessary to comply with our legal obligations when using your Personal Data. This Privacy Notice explains how we fulfil this commitment, so please read this document carefully. 
 
-**What Personal Data do we collect?**
+### **What Personal Data do we collect?**
 
 You may provide us with the following types of Personal Data when you interact with us (when using our digital platforms or otherwise):
 
   * **Identity –**  first name, surname, gender, date of birth
-  * **Contact –**  email address and address
+  * **Contact –**  email address, phone number(s) and address
   * **Financial –**  payment card details, billing address, purchase information, payment history
   * **Profile –**  username, profile image
 
@@ -32,7 +30,7 @@ We may collect the following types of information from you when you use our digi
 
 We may also receive information about you from third parties, including our commercial partners, ticketing providers and other service providers, social media platforms and law enforcement agencies.
 
-**How do we use your Personal Data?**
+### **How do we use your Personal Data?**
 
 WHU uses the information collected from you for purposes including the following:
 
@@ -50,26 +48,25 @@ WHU uses the information collected from you for purposes including the following
   * to verify your identity and detect and prevent fraud and security issues
   * to give you the opportunity to provide us with feedback through reviews and surveys
   * to process job applications
+  * In addition to the above, we may also anonymise and aggregate your personal data in a way which means you cannot be identified. This may be helpful to us for testing our internal systems, carrying out research and general data analysis. Because this data is not personally identifiable, we can use it for any purposes.
 
 
 
-In addition to the above, we may also anonymise and aggregate your personal data in a way which means you cannot be identified. This may be helpful to us for testing our internal systems, carrying out research and general data analysis. Because this data is not personally identifiable, we can use it for any purposes.
-
-**What is our legal basis for processing your Personal Data?**
+### **What is our legal basis for processing your Personal Data?**
 
 We use your Personal Data on the following bases:
 
-  * •    To perform a contract, such as providing products or services to you 
-  * •    To comply with legal and regulatory obligations
-  * •    For legitimate business purposes (see “How do we use your Personal Data” section above)
-  * •    In certain cases, with your consent
-  * •    We may process your Personal Data for more than one lawful basis depending on the specific purpose for which we are using it. Importantly, we will only use your Personal Data when the law allows us to.
+  * To perform a contract, such as providing products or services to you 
+  * To comply with legal and regulatory obligations
+  * For legitimate business purposes (see “How do we use your Personal Data” section above)
+  * In certain cases, with your consent
+  * We may process your Personal Data for more than one lawful basis depending on the specific purpose for which we are using it. Importantly, we will only use your Personal Data when the law allows us to.
 
 
 
-**Who do we share your Personal Data with?**
+### **Who do we share your Personal Data with?**
 
-WHU may on occasions pass your Personal Data to third party suppliers who provide services to us (for example in relation to ticketing, payment processing, stadium access, retail operations, recruitment, logistics, legal and accountancy, website and mobile app operations and functionality, database management and marketing). WHU requires these parties to agree to process this information based on our instructions and requirements consistent with this Privacy Notice and GDPR.
+WHU may on occasions pass your Personal Data to third party suppliers who provide services to us (for example in relation to ticketing, payment processing, stadium access, retail operations, recruitment, logistics, legal and accountancy, website and mobile app operations and functionality, database management and marketing). WHU requires these parties to agree to process this information based on our instructions and requirements consistent with this Privacy Notice and GDPR (which may include anonymisation and/or aggregation in a way which means you cannot be identified).
 
 We may pass on your Personal Data to government or regulatory authorities or law enforcement officials to assist with their requests and comply with our legal obligations.
 
@@ -77,23 +74,23 @@ WHU may also disclose your Personal Data to other football clubs and the footbal
 
 We will not pass on your Personal Data to any third party to market their products/services to you unless we have obtained your consent.
 
-**Do we send your Personal Data outside the EEA?**
+### **Do we send your Personal Data outside the EEA?**
 
 The European Economic Area or “EEA” is deemed to have good standards when it comes to data privacy. As such, we consciously limit the occasions when we may need to transfer or handle your Personal Data outside of the EEA. Where we do, for example where our service providers are based outside of the EEA, we make sure that your Personal Data is still treated fairly and lawfully in all respects (including making sure we have a legal ground for sending your data outside the EEA and putting in place all necessary safeguards for such arrangement).
 
-**What is our Personal Data retention policy?**
+### **What is our Personal Data retention policy?**
 
 We will keep your Personal Data for as long as you are a registered user of one of our digital platforms, or for as long as is necessary for us to provide products or services for you, and for a limited period of time afterwards.
 
 Once you no longer wish to be engaged with WHU we may still need to keep hold of your data if there is a legal reason for doing so (such as for tax purposes where you have made purchases through one of our digital platforms or where we need to resolve any disputes with you).
 
-**How do we keep your Personal Data secure?**
+### **How do we keep your Personal Data secure?**
 
 We adopt industry standard security processes to ensure your data is kept safe and secure and to prevent unauthorised access or use or loss of your data. We also make sure that third parties who need to handle your data when helping us to deliver our services are subject to suitable confidentiality and security standards. 
 
 Despite the security measures we implement, please be aware that the transmission of data via the internet is not completely secure. As such, we cannot guarantee that information transmitted to us via the internet will be completely secure and any transmission is at your own risk.
 
-**Your rights as a data subject**
+### **Your rights as a data subject**
 
 At any point whilst WHU is in possession of or processing your Personal Data, you may have the following rights:
 
@@ -111,9 +108,15 @@ If you want to exercise any of these rights, please [Contact Us](https://whufc.
 
 In addition to the above, you may get in touch with the ICO (Information Commissioner’s Office) if you are concerned about the way in which we are handling your Personal Data. However, where possible, we would really appreciate you speaking with us first if you have any concerns.
 
-**How to opt-out of WHU marketing**
+### **How to opt-out of WHU marketing**
 
-To unsubscribe from WHU newsletters or any other marketing emails, you simply need to click on the unsubscribe link at the bottom of the relevant communication you have received. Alternatively, please [contact us](https://www.whufc.com/mail%20to:%20supporterservices@westhamunited.co.uk) (as detailed below) to opt-out of these communications.
+To unsubscribe from WHU newsletters or any other marketing emails, you simply need to click on the unsubscribe button at the bottom of the relevant communication you have received, then untick any mailing lists that you don’t want to subscribe to.
+
+Please ensure that you unsubscribe or edit your preferences using the claret button depicted in the image below as this will send an instruction directly to West Ham United for action. We are unable to guarantee that you will be unsubscribed from communications if you use any options that are listed separately by your service provider.
+
+For full details on how to unsubscribe or update your communication preferences visit [Hammers Help](https://whufc.freshdesk.com/support/solutions/folders/31000115647).
+
+Alternatively, please email **[supporterservices@westhamunited.co.uk](mailto:supporterservices@westhamunited.co.uk)** to opt-out of these communications.
 
 **Changes to this Privacy Notice**
 
@@ -125,10 +128,10 @@ If you would like to discuss anything in this Privacy Notice or if you want to e
 
 By Post: West Ham United Football Club Limited, attention of the Data Protection Lead  
 London Stadium,  
-Queen Elizabeth Olympic Park,   
-London, E20 2ST  
- 
+Queen Elizabeth Olympic Park,  
+London,  
+E20 2ST
 
-By Email: [supporterservices@westhamunited.co.uk](https://www.whufc.com/mail%20to:%20supporterservices@westhamunited.co.uk)
+By Email: **[supporterservices@westhamunited.co.uk](mailto:supporterservices@westhamunited.co.uk)**
 
 The Club will respond to your request within a maximum of 30 days in accordance with General Data Protection Regulation.
