@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325064305id_/https%3A//intermountainhealthcare.org/website-information/privacy-notices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210044506id_/https%3A//intermountainhealthcare.org/website-information/privacy-notices) for the most accurate reproduction.*
 
 # Privacy Notices | Intermountain Healthcare
 
