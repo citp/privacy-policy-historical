@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the engagebdr.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311012947id_/http%3A//engagebdr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagebdr.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211144922id_/https%3A//engagebdr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | engage:BDR
+# Privacy Policy – engage:BDR | Branding Driven by Results
 
 Updated as of June 26, 2018
 
 INTRODUCTION
 
-At engage:BDR, LLC privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us when you use our website. engage:BDR, LLC and its associated business units (“engage:BDR” or “we”, “us”, “our”) is an advertising network, which means we may deliver advertisements to other websites you visit and may gather certain information when you visit those websites, as well.
+At engage:BDR, LLC privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us when you use our website. engage:BDR, LLC and its associated business units (“engage:BDR” or “we”, “us”, “our”) is an advertising network, which means we may deliver advertisements to other websites you visit and may gather certain information when you visit those websites, as well.
 
-After reviewing the Privacy Policy, if you have any further questions, please contact us at: [privacy@engagebdr.com](mailto:privacy@engagebdr.com)
+After reviewing the Privacy Policy, if you have any further questions, please contact us at: [privacy@engagebdr.com](mailto:privacy@engagebdr.com)
 
 ACCEPTANCE OF TERMS
 
-engage:BDR, LLC strongly recommends you read this Privacy Policy carefully. This is our official Privacy Policy which forms part of your legal agreement with us. By visiting this website and/or sharing information with us, you agree to be bound by this Privacy Policy and any Terms and Conditions posted on our website or otherwise linked to herein.
+engage:BDR, LLC strongly recommends you read this Privacy Policy carefully. This is our official Privacy Policy which forms part of your legal agreement with us. By visiting this website and/or sharing information with us, you agree to be bound by this Privacy Policy and any Terms and Conditions posted on our website or otherwise linked to herein.
 
-WE CAN MODIFY THIS PRIVACY POLICY
+WE CAN MODIFY THIS PRIVACY POLICY
 
-This Privacy Policy was last revised on the date at the top of this page. We reserve the right, in our sole discretion, to modify, add or delete provisions of this Privacy Policy at any time, and from time to time, by posting updated Privacy Policies on the website. Our posting is the only official and required notice you will receive. Your use of our website after the effective date of any such modification means you accept and agree to be bound by the Privacy Policy, as modified. We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.
+This Privacy Policy was last revised on the date at the top of this page. We reserve the right, in our sole discretion, to modify, add or delete provisions of this Privacy Policy at any time, and from time to time, by posting updated Privacy Policies on the website. Our posting is the only official and required notice you will receive. Your use of our website after the effective date of any such modification means you accept and agree to be bound by the Privacy Policy, as modified. We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.
 
 INFORMATION ENGAGE:BDR, LLC COLLECTS
 
@@ -24,7 +24,7 @@ _Personal Identifiable Information (PII)_
 
 Personal Identifiable Information is data that can be used directly, or with reasonable effort, indirectly, to contact or identify you, and may include, but is not limited to, your name, phone number, date of birth, age, gender, email address and home address, among other things.
 
-engage:BDR, LLC does not intentionally collect PII from website visitors and takes precautions to avoid the collection of PII. engage:BDR, LLC cannot guarantee it may not inadvertently come into the possession of PII. Additionally, engage:BDR, LLC may obtain PII from our website when you, the website user, choose to provide it to engage:BDR, LLC. Collection of PII may occur when you send us PII about yourself in an email or by completing an online form or registration on our website. PII obtained in this manner may be stored for a reasonable time for record keeping purposes. You are not required to provide any PII to us unless you choose to access features on this site which require the information. If you do not agree with the terms of this Privacy Policy or other terms of use on this website, then you should immediately exit this website and discontinue using the site.
+engage:BDR, LLC does not intentionally collect PII from website visitors and takes precautions to avoid the collection of PII. engage:BDR, LLC cannot guarantee it may not inadvertently come into the possession of PII. Additionally, engage:BDR, LLC may obtain PII from our website when you, the website user, choose to provide it to engage:BDR, LLC. Collection of PII may occur when you send us PII about yourself in an email or by completing an online form or registration on our website. PII obtained in this manner may be stored for a reasonable time for record keeping purposes. You are not required to provide any PII to us unless you choose to access features on this site which require the information. If you do not agree with the terms of this Privacy Policy or other terms of use on this website, then you should immediately exit this website and discontinue using the site.
 
 _Non-Personal Identifiable Information (Non-PII)_
 
@@ -40,27 +40,25 @@ HOW INFORMATION IS COLLECTED
 
 HOW WE USE YOUR INFORMATION
 
-We will only use information we collect or obtain when you use our website, as described in this Privacy Policy, for our internal purposes or to ensure compliance with our Terms and Conditions. If any time in the future, we decide we are going to use your information in a way that differs from our then current Privacy Policy, we will give you notice as described in the section above entitled WE CAN MODIFY THIS PRIVACY POLICY.
+We will only use information we collect or obtain when you use our website, as described in this Privacy Policy, for our internal purposes or to ensure compliance with our Terms and Conditions. If any time in the future, we decide we are going to use your information in a way that differs from our then current Privacy Policy, we will give you notice as described in the section above entitled WE CAN MODIFY THIS PRIVACY POLICY.
 
 SECURITY
 
-Information that engage:BDR, LLC collects is stored on servers that are managed using standard security procedures and practices appropriate to the nature of the information in an effort to protect information from unauthorized access, destruction, use, modification, or disclosure. Please keep in mind, however, that whenever you give out PII online there is a risk that third parties may intercept and use that information. While engage:BDR, LLC strives to protect your PII and privacy, we cannot guarantee the security of any information you disclose online. By using this site, you expressly acknowledge and agree that we do not guarantee the security of any data provided to or received by us through this site and that any PII, other data or information received from you through the site is provided to us at your own risk, which you expressly assume.
+Information that engage:BDR, LLC collects is stored on servers that are managed using standard security procedures and practices appropriate to the nature of the information in an effort to protect information from unauthorized access, destruction, use, modification, or disclosure. Please keep in mind, however, that whenever you give out PII online there is a risk that third parties may intercept and use that information. While engage:BDR, LLC strives to protect your PII and privacy, we cannot guarantee the security of any information you disclose online. By using this site, you expressly acknowledge and agree that we do not guarantee the security of any data provided to or received by us through this site and that any PII, other data or information received from you through the site is provided to us at your own risk, which you expressly assume.
 
 DISCLOSURE OF INFORMATION TO THIRD PARTIES
 
-engage:BDR, LLC may share non-PII with trusted third  party partners for a variety of reasons, including to enable our platforms or partners to deliver targeted advertisements that we or they believe will be of most interest to you. engage:BDR, LLC may also disclose your personal information to third parties in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Release of your personal data pursuant to this section, to any person or entity under any circumstances shall be based on a determination made solely by us, exercising our own discretion, permission for which is expressly granted by you to us in accordance with this Privacy Policy.
+engage:BDR, LLC may share non-PII with trusted third  party partners for a variety of reasons, including to enable our platforms or partners to deliver targeted advertisements that we or they believe will be of most interest to you. engage:BDR, LLC may also disclose your personal information to third parties in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Release of your personal data pursuant to this section, to any person or entity under any circumstances shall be based on a determination made solely by us, exercising our own discretion, permission for which is expressly granted by you to us in accordance with this Privacy Policy.
 
 engage:BDR, LLC may share Non-PII and PII with entities controlling, controlled by, or under common control with engage:BDR, LLC engage:BDR, LLC may transfer information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
 
-In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss-U.S. Privacy Shield, engage:BDR, LLC is potentially liable **.** CONSENT TO WORLDWIDE TRANSFER AND PROCESSING OF PERSONAL INFORMATION
-
-Personal Information given to engage:BDR, LLC may be processed by engage:BDR, LLC in all countries in which engage:BDR, LLC operates or in which its affiliates and partners operate. Each of these countries has different privacy laws that afford varying levels of protection for your Personal Information. Regardless of the laws in place in these countries, engage:BDR, LLC will treat the privacy of your information in accordance with this Privacy Policy. With exception of persons located in the EU and Switzerland, by providing your Personal Information to engage:BDR, LLC, you consent to engage:BDR, LLC’s transmission to, and processing of your information in, any jurisdiction, in accordance with this Privacy Policy.
+Personal Information given to engage:BDR, LLC may be processed by engage:BDR, LLC in all countries in which engage:BDR, LLC operates or in which its affiliates and partners operate. Each of these countries has different privacy laws that afford varying levels of protection for your Personal Information. Regardless of the laws in place in these countries, engage:BDR, LLC will treat the privacy of your information in accordance with this Privacy Policy. With exception of persons located in the EU and Switzerland, by providing your Personal Information to engage:BDR, LLC, you consent to engage:BDR, LLC’s transmission to, and processing of your information in, any jurisdiction, in accordance with this Privacy Policy.
 
 DISCLAIMERS
 
-The Privacy Policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond engage:BDR, LLC’s control, and is not to be applied in any manner contrary to applicable law or governmental regulation. This online Privacy Policy only applies to information collected through this website. This privacy policy does not apply to any information we may collect from you in any place other than this website.
+The Privacy Policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond engage:BDR, LLC’s control, and is not to be applied in any manner contrary to applicable law or governmental regulation. This online Privacy Policy only applies to information collected through this website. This privacy policy does not apply to any information we may collect from you in any place other than this website.
 
-engage:BDR, LLC may provide links to third party websites from our website. Third party websites may utilize a variety of data collection tools to collect visitor data. engage:BDR, LLC is not responsible for the privacy practices, policies or content of third party websites. Please review the privacy policy of individual websites visited to learn more about the collection practices of that website. Even if we have a relationship with a third party you may encounter or see on our website, the advertising, links or references to third parties or any of their websites, including any Cookies or other technology they may use, are not under our control and they have their own terms, conditions, policies and practices that apply to you in connection with their websites, including those concerning collection, use and disclosure of your information.
+engage:BDR, LLC may provide links to third party websites from our website. Third party websites may utilize a variety of data collection tools to collect visitor data. engage:BDR, LLC is not responsible for the privacy practices, policies or content of third party websites. Please review the privacy policy of individual websites visited to learn more about the collection practices of that website. Even if we have a relationship with a third party you may encounter or see on our website, the advertising, links or references to third parties or any of their websites, including any Cookies or other technology they may use, are not under our control and they have their own terms, conditions, policies and practices that apply to you in connection with their websites, including those concerning collection, use and disclosure of your information.
 
 DATA RETENTION
 
@@ -68,11 +66,11 @@ We will retain your information and the personal information we process on behal
 
 ACCESS
 
-You have a right to access to your Personal Information and you may update, correct, or delete your account information and email preferences at any time by logging-in to your account and changing the information on file or by e-mailing engage:BDR, LLC at [privacy@engagebdr.com](mailto:privacy@engagebdr.com) with your request. To protect your privacy and security, we take reasonable steps to verify your identity before granting Users profile access. Similarly, if you’ve provided us with PII via the Websites, you may send us an email at [privacy@engagebdr.com](mailto:privacy@engagebdr.com) and we will respond within a reasonable time.
+You have a right to access to your Personal Information and you may update, correct, or delete your account information and email preferences at any time by logging-in to your account and changing the information on file or by e-mailing engage:BDR, LLC at [privacy@engagebdr.com](mailto:privacy@engagebdr.com) with your request. To protect your privacy and security, we take reasonable steps to verify your identity before granting Users profile access. Similarly, if you’ve provided us with PII via the Websites, you may send us an email at [privacy@engagebdr.com](mailto:privacy@engagebdr.com) and we will respond within a reasonable time.
 
 OPTING OUT
 
-You can opt out of having engage:BDR, LLC collect your Non-PII by clicking on the opt-out link below. engage:BDR, LLC offers an “opt-out Cookie” to block the placement of future engage:BDR, LLC Cookies. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookie from your computer, you will need to repeat the process.
+You can opt out of having engage:BDR, LLC collect your Non-PII by clicking on the opt-out link below. engage:BDR, LLC offers an “opt-out Cookie” to block the placement of future engage:BDR, LLC Cookies. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookie from your computer, you will need to repeat the process.
 
 [Install the engage:BDR, LLC Opt-Out Cookie](https://tracking.cirrusinsight.com/92d2ddd5-278d-494f-89e7-0102748a8647/engagebdr-com-opt-out)
 
@@ -84,22 +82,19 @@ CHANGING OR DELETING YOUR INFORMATION
 
 We may provide you with a mechanism to allow and enable you to correct or update the PII in our current records that we have obtained from you. You can always review and change your PII by contacting us by email at [privacy@engagebdr.com](mailto:privacy@engagebdr.com). Certain PII may not be changed without authentication (e.g., birth date) and you may be asked to provide additional information to allow us to confirm your identity in order to change those. If you ask us to remove your PII, we still reserve the right to retain as much of your PII and for so long as necessary to comply with our legal, regulatory, internal audit and record-keeping requirements.
 
-CHILDREN’S PRIVACY
+CHILDREN’S PRIVACY
 
-engage:BDR, LLC adheres to the Children’s Online Privacy Protection Act. engage:BDR, LLC is very sensitive to the issue of the privacy rights of children. engage:BDR, LLC websites and services generally are neither developed for, nor directed at, children. If we are made aware that we have received information from children under the age of 13, in the absence of verifiable parental consent, we will immediately remove that information from our records.
+engage:BDR, LLC adheres to the Children’s Online Privacy Protection Act. engage:BDR, LLC is very sensitive to the issue of the privacy rights of children. engage:BDR, LLC websites and services generally are neither developed for, nor directed at, children. If we are made aware that we have received information from children under the age of 13, in the absence of verifiable parental consent, we will immediately remove that information from our records.
 
 YOUR REPRESENTATIONS
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose information you supply to us with regard to: (a) the purposes for which such third party’s information has been collected; (b) the intended recipients or categories of recipients of the third party’s Information; (c) which of the third party’s data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them.
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose information you supply to us with regard to: (a) the purposes for which such third party’s information has been collected; (b) the intended recipients or categories of recipients of the third party’s Information; (c) which of the third party’s data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them.
 
 CONTACT INFORMATION
 
-If you have any questions or comments regarding this Policy, please contact engage:BDR, LLC’s Data Protection Officer by mail or e-mail as follows:
+If you have any questions or comments regarding this Policy, please contact engage:BDR, LLC’s Data Protection Officer by mail or e-mail as follows:
 
-engage:BDR Data Protection Officer  
-9220 Sunset Blvd., Suite 100  
-West Holywood, CA 90069  
-Email: [privacy@engagebdr.com](mailto:privacy@engagebdr.com)
+engage:BDR Data Protection Officer 9220 Sunset Blvd., Suite 100 West Holywood, CA 90069 Email: [privacy@engagebdr.com](mailto:privacy@engagebdr.com)
 
 RIGHT TO LODGE A COMPLAINT WITH A SUPERVISORY AUTHORITY
 
@@ -109,13 +104,8 @@ engage:BDR, LLC is subject to the investigatory and enforcement powers of the 
 
 engage:BDR, LLC commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources and non-human resources data transferred from the EU.
 
-engage:BDR, LLC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. engage:BDR, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+engage:BDR, LLC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. engage:BDR, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
-In compliance with the Privacy Shield Principles, engage:BDR, LLC commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact engage:BDR, LLC at:
+In compliance with the Privacy Shield Principles, engage:BDR, LLC commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact engage:BDR, LLC at:
 
-engage:BDR Data Protection Officer  
-9220 Sunset Blvd., Suite 100  
-West Holywood, CA 90069  
-Email: [privacy@engagebdr.com](mailto:privacy@engagebdr.com)
-
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel    
+engage:BDR Data Protection Officer 9220 Sunset Blvd., Suite 100 West Holywood, CA 90069 Email: [privacy@engagebdr.com](mailto:privacy@engagebdr.com) Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel    
