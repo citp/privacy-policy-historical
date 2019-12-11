@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the horrorfreaknews.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328125542id_/https%3A//horrorfreaknews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horrorfreaknews.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211044247id_/https%3A//horrorfreaknews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Horror Freak News
+# Privacy Policy - Horror Freak News - The Best Horror Movies Website
 
  This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -31,6 +31,8 @@ All transactions are processed through a gateway provider and are not stored or 
 **Do we use ‘cookies’?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+_This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The  _ _Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers.  Users can opt out of the Common ID tracking cookie._
 
 **We use cookies to:**
 
@@ -155,3 +157,5 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from **ALL** correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
+
+6834 Cantrell Road #1035, Little Rock. AR 72207.
