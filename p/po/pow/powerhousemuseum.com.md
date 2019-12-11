@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402210827id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211083422id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
 
 # Privacy – Museum of Applied Arts and Sciences
 
