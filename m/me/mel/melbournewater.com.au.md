@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408080827id_/https%3A//www.melbournewater.com.au/privacy-website-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211150937id_/https%3A//www.melbournewater.com.au/privacy-website-statement) for the most accurate reproduction.*
 
 # Privacy website statement | Melbourne Water
 
 ​We respect the privacy of your personal information and are committed to collecting and handling it responsibly and in accordance with Victoria's Privacy and Data Protection Act 2014.
 
 The following privacy statement applies to the entire Melbourne Water website, what personal information is collected and how it is handled. The statement does not extend beyond this website. If you visit other sites from this website you should familiarise yourself with their privacy statements.
-
-For general information about how we seek to protect your personal information, please visit [our privacy policy page](https://www.melbournewater.com.au/about-us/publications-and-policies/legislation-and-policies/policies-and-procedures/privacy-policy). You can also download the full policy here.
-
-[Privacy policy64.14 KB (PDF)](https://web.archive.org/media/3071/download)   
-
 
 ## ​What information do we collect?
 
@@ -55,7 +50,7 @@ We will only use or disclose information about you for the purpose for which you
 
 ## Access to your personal information
 
-To seek access to your personal information held by Melbourne Water, or to correct or update your personal information, contact us on 131 722 or [contact us online](https://web.archive.org/about-us/contact-us).
+To seek access to your personal information held by Melbourne Water, or to correct or update your personal information, [contact us](https://web.archive.org/about-us/contact-us).
 
 ## Security
 
@@ -73,4 +68,6 @@ If you are a registered user with Melbourne Water’s business sub-site we may, 
 
 ## Want to know more?
 
-If you require further information regarding this privacy statement, please contact us on 131 722 or [contact us online](https://web.archive.org/about-us/contact-us).
+If you require further information regarding this privacy statement, please [contact us](https://web.archive.org/about-us/contact-us).
+
+For general information about how we seek to protect your personal information, please visit [our privacy policy page](https://www.melbournewater.com.au/about-us/publications-and-policies/legislation-and-policies/policies-and-procedures/privacy-policy). 
