@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatstrending.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620015934id_/http%3A//whatstrending.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatstrending.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211123330id_/http%3A//whatstrending.com/privacy) for the most accurate reproduction.*
 
 # Privacy | What's Trending
 
@@ -10,7 +10,7 @@ Like most website operators, What’s Trending collects potentially personally-i
 
 Certain visitors to What’s Trending’s websites choose to interact with What’s Trending in ways that require What’s Trending to gather personally-identifying information. The amount and type of information that What’s Trending gathers depends on the nature of the interaction. For example, we ask visitors who sign up at What’s Trending to provide a username and email address. In each case, What’s Trending collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with What’s Trending. What’s Trending does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-We use third-party advertising companies to serve the ads displayed on our website. These companies may use aggregated information (not including your name, address, email or phone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see <http://networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve the ads displayed on our website. These companies may use aggregated information (not including your name, address, email or phone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [http://networkadvertising.org/managing/opt_out.asp](https://networkadvertising.org/managing/opt_out.asp)
 
 ### Aggregated Statistics
 
