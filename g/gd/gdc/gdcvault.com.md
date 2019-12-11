@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gdcvault.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626075918id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdcvault.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212004233id_/https%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
