@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1and1.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501215638id_/https%3A//www.ionos.com/terms-gtc/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211065452id_/https%3A//www.ionos.com/terms-gtc/terms-privacy) for the most accurate reproduction.*
 
 # Privacy policy - IONOS T&C
 
-1&1 IONOS Inc. has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website and the services offered by 1&1 IONOS. This Privacy Policy governs the manner in which 1&1 IONOS Inc. (1&1 IONOS) uses, maintains and discloses information collected from its customers and users of its website. This website is not directed at children under 13 years of age.
+1&1 IONOS Inc. has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website and the services offered by 1&1 IONOS. This Privacy Policy governs the manner in which 1&1 IONOS Inc. (1&1 IONOS) uses, maintains and discloses information collected from its customers and users of its website. This website is not directed at children under 13 years of age.
 
 ###  Information We Collect 
 
@@ -60,7 +60,7 @@ The 1&1 IONOS website contains links to other sites. Please be aware that 1&1 IO
 
 ###  Maintenance of Information 
 
-The information provided to 1&1 IONOS is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by 1&1 IONOS. 1&1 IONOS employs industry-standard security measures to protect the confidentiality of the information. While we cannot guarantee that loss, misuse or alteration of data will not occur, we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to 1&1 IONOS. Your use of the 1&1 IONOS services may result in the transfer of information internationally, including into or outside of the United States. By visiting accessing this site or using the 1&1 IONOS services you consent to such transfers.
+The information provided to 1&1 IONOS is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by 1&1 IONOS. 1&1 IONOS employs industry-standard security measures to protect the confidentiality of the information. While we cannot guarantee that loss, misuse or alteration of data will not occur, we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to 1&1 IONOS. Your use of the 1&1 IONOS Inc. Services may result in the transfer of information internationally, including into or outside of the United States. By visiting accessing this site or using the 1&1 IONOS Inc. Services you consent to such transfers.
 
 While 1&1 IONOS uses industry-standard measures to protect your information, no security measures are foolproof, and it is impossible to guarantee complete security of data sent or maintained via the internet.
 
@@ -72,7 +72,7 @@ You are responsible for the security of your Customer ID and passwords. Make sur
 
 California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to to [PrivacyPolicy@ionos.com. ](mailto:PrivacyPolicy@ionos.com.)or write to us:
 
-1&1 IONOS Inc. Privacy Rights
+1&1 IONOS Inc. Privacy Rights
 
 701 Lee Road
 
@@ -90,4 +90,4 @@ To report abuse, please send an e-mail to [abuse@ionos.com.](mailto:abuse@ionos.
 
 Revised: October 12, 2018
 
-© 2018 1&1 IONOS Inc. All rights reserved.
+© 2019 1&1 IONOS Inc. All rights reserved.
