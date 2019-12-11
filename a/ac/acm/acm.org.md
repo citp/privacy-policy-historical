@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518124636id_/https%3A//www.acm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211085240id_/https%3A//www.acm.org/privacy-policy) for the most accurate reproduction.*
 
 # ACM Privacy Policy
 
 The Association for Computing Machinery (" **ACM** ", " **we** ", " **us** " or " **our** ") is committed to protecting the privacy of its members and other individuals with whom it interacts.
 
-This Privacy Policy (" **Policy** ") explains how we use and maintain the privacy of personal information we collect online in connection with the acm.org web site (the " **Web Site** "). For the purposes of any applicable data protection laws (including the EU General Data Protection Regulation), the data controller in relation to your personal information is the Association for Computing Machinery, 2 Penn Plaza, Suite 701, New York, NY 10121-0701.
+This Privacy Policy (" **Policy** ") explains how we use and maintain the privacy of personal information we collect online in connection with the acm.org web site (the " **Web Site** "). For the purposes of any applicable data protection laws (including the EU General Data Protection Regulation), the data controller in relation to your personal information is the Association for Computing Machinery, 1601 Broadway, 10th Floor, New York, NY 10019-7434.
 
 This Policy will apply to personal information ACM collects or otherwise receives about third parties (" **you** "), including ACM members (" **Members** "), when you use our Web Site or otherwise engage with us. Personal information which is provided to us, or otherwise obtained by us, from which you can be identified (" **Personal Information** ") will only be used in the manner set out in this Policy. By visiting and/or contacting us through the Web Site (or otherwise engaging with us), you need to be aware that we may collect, use and transfer your Personal Information in the manner described in this Policy.
 
@@ -90,7 +90,7 @@ Any changes we may make to this Policy in the future will be posted on our Web. 
 
 ### 8\. Updating your Personal Information
 
-You can find out what Personal Information ACM holds about you by contacting us at [dpo@acm.org](mailto:dpo@acm.org). In the event that any of the Personal Information we hold about you is incorrect, you can ask us to update it.
+You can find out what Personal Information ACM holds about you by contacting us at [dpo@acm.org](mailto:dpo@acm.org). In the event that any of the Personal Information we hold about you is incorrect, you can ask us to update it or remove it.
 
 ACM Members may access the Personal Information contained in their membership records and correct and update their member profile and mailing information by logging into [myACM](https://myacm.acm.org/) and clicking on the "My Contact Information" link at left. For further assistance please contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org).
 
