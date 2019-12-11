@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624122650id_/https%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211190012id_/https%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # Bidder & Subscriber Privacy Policy
 
@@ -162,9 +162,7 @@ Boston, MA 02134
 
 This Sotheby's on Invaluable Online Platform ("Web Site" or "Platform") is published and maintained by Invaluable. If you are a registered user of Invaluable, the Invaluable Privacy Policy governs your agreement with Invaluable with respect to Invaluable's collection, use, storage, and disclosure of your personal information. Sotheby's does not control and is not responsible for the information and privacy practices of Invaluable on the Invaluable Web site, which is operated entirely by Invaluable. You agree that Sotheby's and its affiliates will not be responsible for, and that you release Sotheby's and its affiliates from, any and all claims, liabilities, damages, losses and expenses related to unauthorized access to or use of, or any security breach relating to or affecting, Invaluable's collection, use, storage, and disclosure of your personal information.
 
-This Sotheby's on Invaluable Online Platform Privacy Policy describes your privacy rights concerning personal information Invaluable shares with Sotheby's in connection with your access and participation in auctions by Sotheby's and its subsidiaries and affiliates (collectively referred to in this Privacy Policy as "Sotheby's," "we," "us,""our," or other similar pronouns, or "The Sotheby's Group") conducted by Invaluable on the Invaluable Online Platform.
-
-By registering to bid in the Sotheby's auction on the Invaluable Online Platform, you consent to and accept the terms of this Privacy Policy as they may be amended from time to time, and you consent to Sotheby's collection, use, disclosure and retention of your personal information on the terms set forth in this Privacy Policy. As we update and expand our services, this Privacy Policy may change, so please review this Privacy Policy before registering to bid, accessing and/or participating in any Sotheby's auction conducted on the Invaluable Online Platform. This Privacy Policy is incorporated into, and part of, the Sotheby's on Invaluable Online Platform Conditions of Sale posted on this page, which governs your relationship with Sotheby's when you access Sotheby's auctions through the Invaluable Online Platform.
+When you access or participate in a Sotheby's auction listed by Invaluable on the Invaluable platform, your registration information (Name, Address, email address, Phone number) and information about your bids, transactions, and online activities associated with the Sotheby's auction is sent to Sotheby's. The Sotheby's Privacy Policy located here <http://www.sothebys.com/en/privacy-policy.html> provides information about your privacy rights and describes how Sotheby's collects, uses, and protects personal information in connection with your access and participation in auctions by Sotheby's listed by Invaluable on the Invaluable Online Platform. As Sotheby's updates and expands its services, the Sotheby's Privacy Policy may change, so please review the Sotheby's Privacy Policy before registering to bid, accessing and/or participating in any Sotheby's auction conducted on the Invaluable Online Platform. The Sotheby's Privacy Policy is incorporated into, and part of, the Sotheby's on Invaluable Online Platform Conditions of Sale, which governs your relationship with Sotheby's when you access Sotheby's auctions through the Invaluable Online Platform.
 
 **Purpose**
 
@@ -248,4 +246,4 @@ New York, New York 10021
 Attention: Data Quality Department   
 ---|---  
   
-This policy document 3.00 was last revised effective May 25, 2018. 
+This policy document 3.10 was last revised effective November 12, 2018. 
