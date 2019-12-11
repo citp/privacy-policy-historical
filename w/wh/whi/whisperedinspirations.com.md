@@ -1,6 +1,40 @@
-> *The following text is extracted and transformed from the whisperedinspirations.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216133257id_/https%3A//whisperedinspirations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whisperedinspirations.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211072748id_/https%3A//whisperedinspirations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Whispered Inspirations
+
+**_This policy has been updated and effective as of May 5, 2018._**
+
+Any questions about this privacy policy, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81efe0efe2f8c1f6e9e8f2f1e4f3e4e5e8eff2f1e8f3e0f5e8eeeff2afe2eeec)
+
+We may change this Policy from time to time so please check this page occasionally to ensure that you’re happy with any changes. By using our website, you’re agreeing to be bound by this Policy.
+
+### Contents of Our Privacy Policy
+
+Review Policy  
+Copywrites  
+Who Are We?  
+What personal information do we collect from the people that visit?  
+When do we collect information?  
+How and Why we Track your Visit?  
+Google Analytics Demographics  
+Leaving a Comment on our Site  
+Newsletter Subscriber  
+How do we use your information?  
+How do we protect visitor information?  
+Do we use ‘cookies’?  
+Third Party Disclosure  
+Third Party Links  
+Google  
+Opting-Out  
+California Online Privacy Protection Act  
+CalOPPA  
+How does our site handle do not track signals?  
+CAN SPAM Act  
+If you are Under 16  
+Do we Transfer Your Information?  
+Contacting Us for Information or To Be Removed
+
+##### Introduction:
 
 Whispered Inspirations is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions, or other forms of compensation.
 
@@ -12,26 +46,86 @@ Any product claim, statistic, quote or other representation about a product or s
 
 ##### Review Policy:
 
-All products/samples received for review purposes are non-returnable, they become property of Whispered Inspirations. Giveaway prizes are the sponsor/client’s responsibility and requirement to cover shipping and send prize to the winner.
+All products/samples received for review purposes are non-returnable, they become the property of Whispered Inspirations. Giveaway prizes are the sponsor/client’s responsibility and the requirement to cover shipping and send the prize to the winner.
 
-For Prize Winners: As stated above, blog owner is not responsible to send out your prize. Blog owner will communicate with client to get your prize to you. The sponsor/client are ultimately responsible to get it to you. If ever a problem arises, blog owner will do their very best to get these issues resolved in a timely manner. 
+For Prize Winners: As stated above, blog owner is not responsible to send out your prize. Blog owner will communicate with client to get your prize to you. The sponsor/client are ultimately responsible to get it to you. If ever a problem arises, blog owner will do their very best to get these issues resolved in a timely manner.
 
 ##### Copywrites:
 
-All images taken by blog owner of Whispered Inspirations are under an All Rights Reserved license. They are copywrited property.  All content and text produced by blog author fall under the same category. Please do not download, copy, reproduce, redistribute or publish any of this material without the consent of Nancy Polanco, owner of Whispered Inspirations. Legal action will be taken against violators. 
+All images taken by blog owner of Whispered Inspirations are under an All Rights Reserved license. They are copywrited property.  All content and text produced by blog author fall under the same category. Please do not download, copy, reproduce, redistribute or publish any of this material without the consent of Nancy Polanco, owner of Whispered Inspirations. Legal action will be taken against violators.
 
-Copyright © 2007-2017  
+Copyright © 2007-2018  
 All Rights Reserved
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-##### What personal information do we collect from the people that visit ?
+##### Who are We?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your Personal Information if prize is won. or other details to help you with your experience.
+Whispered Inspirations is an online magazine and blog that was founded in 2007 by Nancy Polanco. The team consists of Darasak and Gabby. Darasak contributes with recipe creation, and men’s topics while Gabby assists with video production on kids/teens topics. Nancy shares tips, recipes, travel guides, DIY’s, and lifestyle ideas for men, women, and kids. We are based in the Windsor, Ontario and Detroit, Michigan area.
+
+##### What personal information do we collect from the people that visit?
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your Personal Information if a prize is won or other details to help you with your experience. Information is collected via log files, cookies, leaving comments on the site or subscribing to our newsletter.
+
+We collect information on your name, email address, website (if you leave this in a comment), IP address and the pages that you visited and when you visited them on the site. If you make any purchases at any time through the site, all financial details are collected via PayPal which does not retain any financial information once the transaction has been processed.
 
 ##### When do we collect information?
 
 We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
+
+##### How and Why we Track your Visit?
+
+Like most websites around the world, we use Google Analytics (GA) to process information about the number of visitors on our site, and their behaviour. We use this information to record the number of people using Whispered Inspirations and to better understand where you discover our site (from social media, Google or another site) and how you use it as well as to see how people move throughout the site.
+
+GA records your approximate location down to town level, the type device you are using e.g. Mobile or Tablet, Name of device i.e. iPad or Samsung Galaxy etc., the operating system i.e. Windows 10 or iOS and browser i.e. Firefox or Chrome. Be assured, none of this data can be used to identify you.
+
+Google does record your IP address however, we don’t have access to this information and it modifies it so that you can not be identified specifically just the area that you are in.
+
+##### Google Analytics Demographics
+
+We are committed to ensuring that our website contains content that is valuable and useful to our readers. To help us with this we have implemented the Google analytics demographics and interest reporting features on our website.
+
+These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs.
+
+Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out.
+
+You can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads using the [Google Ad settings](https://adssettings.google.ca/anonymous?sig=ACi0TCim925cB07-7cpwU1t82Zih-cyZJ-z258Rhs2_ob_VD9-KN0PF7SNjosxPqWAnMkL5o3KkIzcaiKhInpLNrtrjGb3FOZ2AF3COImtlEVfU_oOnno0I&hl=en) or through the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
+To do this Google Analytics uses a “cookie” on your machine read more about Cookies below.
+
+##### Leaving a Comment on our Site
+
+Here at Whispered Inspirations, we love hearing if you have tried a recipe, had success using one of our ideas and found the information useful. That is why we allow comments and give you the option of leaving a comment.
+
+To leave a comment you may leave it anonymously or leave a name, email address, website and comment.
+
+We only use this information to identify you as the comment maker and do not pass this on to any third party.
+
+Your email address will never be shown in the comment section of the site.
+
+Your details will remain in the database unless we remove it or the article is removed from the site.
+
+You may request that we delete the comment and remove your details at any time. Please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to ask to be removed.
+
+If you are under 16 you must obtain your parent’s permission before leaving a comment.
+
+##### Note: You should never enter any personal information into a comment on this site and it is recommended that you avoid doing this on any site.
+
+##### Newsletter Subscriber
+
+If you choose to join one of our regular newsletters via a sign-up form on Whispered Inspirations, your email address is required so that you can be sent the emails. We also ask for your First Name although this isn’t required so that we may address you personally in our weekly email.
+
+Your data is collected and then passed to our Email Service Provider Active Campaign.
+
+You may unsubscribe at any time from our newsletters using the unsubscribe link at the bottom of the email or you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and ask that you be removed. Please make sure that you are using the same email address as you receive the emails from to do this.
+
+Within the Email Service Provider, we use tags to track the pages that you visit and actions that you take within the emails so that we can provide a more personalised email service to you.
+
+We send emails as content goes live and with our tracking try and make these as relevant to you as possible. From time to time we may include promotions for products.
+
+If you have subscribed and received one of our free products your email with the link is sent via Postmark a Third Party Application, your email address, name and the details of the email are retained for 45 days and then your information is deleted automatically.
+
+Details that we hold including your name, email address and where you have visited will never be passed onto a Third Party.
 
 ##### How do we use your information?
 
@@ -46,20 +140,25 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 We use regular Malware Scanning.
 
-We do not use an SSL certificate  
+We use an SSL certificate  
 The only information we require from a reader is their mailing address and email address in the case they’ve won a prize. No other information is collected.
 
 ##### Do we use ‘cookies’?
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-We use cookies to:  
-• Understand and save user’s preferences for future visits.  
-• Keep track of advertisements.
+##### We use cookies to:
+
+  * Understand and save user’s preferences for future visits.
+  * Keep track of advertisements.
+  * Our commenting system so that you don’t have to always enter your details.
+  * Collect data as part of Google Analytics so that we can see who has visited our website.
+
+
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-If users disable cookies in their browser:
+##### If users disable cookies in their browser:
 
 If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
 
@@ -69,11 +168,19 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-##### Third party links
+  * Google, as a third party vendor, uses cookies to serve ads on whisperedinspirations.com.
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.rainydaymum.co.uk and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –[https://policies.google.com/technologies/ads.](https://policies.google.com/technologies/ads)
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+##### Third Party Links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: 
+
+[http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 ##### Google
 
@@ -83,7 +190,8 @@ Google’s advertising requirements can be summed up by Google’s Advertising P
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We have implemented the following:  
+##### We have implemented the following:
+
 • Google Display Network Impression Reporting  
 • Demographics and Interests Reporting
 
@@ -91,20 +199,19 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 
 ##### Opting out:
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative opt-out page or permanently using the Google Analytics Opt-Out Browser add-on.
 
 ##### California Online Privacy Protection Act
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: [California Privacy Protection Act](https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/#sthash.0FdRbT51.dpuf).
 
 ##### According to CalOPPA we agree to the following:
 
-Users can visit our site anonymously  
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found at the footer of the homepage or in the ‘About’ tab.
 
 Users will be notified of any privacy policy changes:  
-• On our Privacy Policy Page  
+• On our Privacy Policy Page
+
 Users are able to change their personal information:  
 • By emailing us
 
@@ -120,7 +227,7 @@ COPPA (Children Online Privacy Protection Act)
 
 When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-We market to but, we do not collect information from children under 13
+We market to but, we do not collect information from children under 13.
 
 ##### CAN SPAM Act
 
@@ -130,12 +237,24 @@ We collect your email address in order to: Send out email newsletters that are o
 
 To be in accordance with CANSPAM we agree to the following:
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at info@whisperedinspirations.com and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
 
-##### Contacting Us
+##### If you are Under 16
+
+Please obtain your parent’s permission before entering any personal information on Whispered Inspirations, we are concerned with your privacy as much as an adult’s.
+
+##### Do we Transfer Your Information?
+
+We will not transfer your personal data unless we are under legal obligation to do so.
+
+##### Contacting Us for Information or To Be Removed
+
+At any point, you may ask that we remove your information from our systems. Please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with your requirements and we will do so within 30 days. The same applies to what information we hold about you and can be identified as being about you.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://whisperedinspirations.com
+https://whisperedinspirations.com
 
-Nancy Polanco
+[](https://web.archive.org/cdn-cgi/l/email-protection#e08e818e8399a0978889939085928584898e939089928194898f8e93ce838f8d)
+
+    Nancy Polanco
