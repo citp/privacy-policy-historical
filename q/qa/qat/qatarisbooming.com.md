@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qatarisbooming.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621202756id_/http%3A//www.qatarisbooming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatarisbooming.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211091413id_/https%3A//www.qatarisbooming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Qatar is Booming
 
-[Privacy Policy](http://www.qatarisbooming.com/privacy-policy/ "Permanent Link to Privacy Policy")
+[Privacy Policy](https://www.qatarisbooming.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
 **1\. Introduction and General Terms**
 
