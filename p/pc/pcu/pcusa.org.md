@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604161010id_/http%3A//www.pcusa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211152452id_/https%3A//www.pcusa.org/privacy) for the most accurate reproduction.*
 
 # Presbyterian Church (U.S.A.) - Privacy policy
 
@@ -8,7 +8,7 @@ Respecting user privacy over the Internet is of utmost importance to us. This Pr
 
 In general, you can visit our Websites without telling us who you are or providing any information about yourself. In some areas of our Websites, programs have been designed to perform specific functions for you directly though our Websites. Within these programs we may ask you to provide information that will enable us to process an order, offer services that require registration for a gathering or event or assist you with technical support issues or to follow up with you. In some instances, the information sought may include Personal Data.
 
-This Privacy Policy applies to Personal Data submitted by you and/or collected online by us except through the Church Leadership Connection and student financial aid programs.
+This Privacy Policy applies to Personal Data submitted by you and/or collected online by us except through the student financial aid programs.
 
 #### **Your Consent**
 
