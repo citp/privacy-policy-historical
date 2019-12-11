@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigabyte.us privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527105254id_/https%3A//profile.gigabyte.com/PrivacyPolicy.aspx%3Fl%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigabyte.us privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211104600id_/https%3A//profile.gigabyte.com/PrivacyPolicy.aspx%3Fl%3Den-US) for the most accurate reproduction.*
 
 # Privacy Policy - GIGABYTE
 
