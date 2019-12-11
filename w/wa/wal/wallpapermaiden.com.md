@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapermaiden.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426015137id_/https%3A//www.wallpapermaiden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapermaiden.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211071335id_/https%3A//www.wallpapermaiden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WallpaperMaiden
 
@@ -32,9 +32,9 @@ All Information that you provide to wallpapermaiden.com is kept in secure comput
 
 Enquiries and Complaints
 
-You can make enquiries regarding your Information, access to, correction or deletion of such Information, request further information on this Policy, withdraw consent for use and disclosure of Information, unsubscribe from our mailing lists or newsletters, or complain of breaches of this Policy by writing to us at: [contact](http://www.wallpapermaiden.com/contact "contact") page
+You can make enquiries regarding your Information, access to, correction or deletion of such Information, request further information on this Policy, withdraw consent for use and disclosure of Information, unsubscribe from our mailing lists or newsletters, or complain of breaches of this Policy by writing to us at: [contact](https://www.wallpapermaiden.com/contact "contact") page
 
-For any of the above requirements, you can also contact us directly at: [contact](http://www.wallpapermaiden.com/contact "contact") page
+For any of the above requirements, you can also contact us directly at: [contact](https://www.wallpapermaiden.com/contact "contact") page
 
 We aim to acknowledge receipt of all enquiries and respond to them within a reasonable time. Complaints (if any) need to be accompanied by sufficient supporting evidence, so that we can process them successfully. We may request you to provide additional information which might assist us in our investigation. We will respond to your complaints within a reasonable time.
 
