@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529024505id_/https%3A//www.limecrime.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211211202id_/https%3A//www.limecrime.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vegan & Cruelty Free Makeup - Lime Crime
 
@@ -6,9 +6,9 @@ PRIVACY POLICY
 
 Lime Crime (“Lime Crime,” “we,” “us,” “our”) (with the help of our lawyers) created this policy to let you know what we do when you tell us stuff about yourself. We know that it seems like nothing is private anymore, but we take this stuff seriously and want to be sure you know what we are up to.
 
-Lime Crime understands that the privacy of your personal information is important to you, so we have established privacy policies and practices. This notice explains how your data will be used, shared, or otherwise handled by Lime Crime. By visiting limecrimemakeup.com and/or limecrime.com (the “Site”), you agree to be bound by this Privacy Policy. This Privacy Policy may be updated from time to time. Accordingly, you should check the date of this policy and review any changes since the last posted version. If at any time, you do not agree to the terms of this Privacy Policy, please cease use of the Site. Your continued use of our Site constitutes your agreement to this Privacy Policy. The Site is owned and operated by Lime Crime Inc.
+This Policy was last updated on June 3, 2019. This Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be collected in or transferred to the United States. Unless otherwise noted, all data described by this policy is stored and processed in the United States.
 
-This Policy was last updated on September 13, 2018. This Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be collected in or transferred to the United States. Unless otherwise noted, all data described by this policy is stored and processed in the United States.
+Lime Crime understands that the privacy of your personal information is important to you, so we have established privacy policies and practices. This notice explains how your data will be used, shared, or otherwise handled by Lime Crime. By visiting limecrimemakeup.com and/or limecrime.com (the “Site”), you agree to be bound by this Privacy Policy. This Privacy Policy may be updated from time to time. Accordingly, you should check the date of this policy and review any changes since the last posted version. If at any time, you do not agree to the terms of this Privacy Policy, please cease use of the Site. Your continued use of our Site constitutes your agreement to this Privacy Policy. The Site is owned and operated by Lime Crime Inc.
 
 How We Get Your Information and What We Do With It
 
@@ -25,8 +25,6 @@ If you would like to revoke your consent to receiving commercial messages you ha
 Information We May Disclose or Share
 
 We do not disclose, share, rent or sell your personal information to parties not associated with fulfilling your order without your consent unless sharing this information is necessary to provide you with Lime Crime products or is required by law. We consider your personal information a vital part of our relationship with you and your interaction with us and our Site. We may share your personal data: (1) with service providers or contractors who process on behalf of Lime Crime to perform certain business-related functions, such as backup and recovery services, business application services, database and analytics services, and/or bank merchant services to process or fulfill orders; (2) in connection with the sale, assignment, or other transfer of the business of this Site to which the information relates; and/or (3) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations all of which we have a legitimate interest in doing. Our contracts with these third party processors require them to comply with the terms and the intent of this privacy policy, and to make commercially reasonable efforts to safeguard your information.
-
-With your consent, we may share your personal data with our partners that sell products we think you might be interested in so that these third parties can send you information about their products. If you would like to withdraw your consent to allow us to share your information with such third parties, please send your request to [info@limecrimemakeup.com](mailto:info@limecrimemakeup.com) or utilize the unsubscribe link contained in any marketing email message you receive from one of these third parties. Please note that even if you request that we no longer send you marketing messages, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
 
 The collection, use, and disclosure of information described by this Privacy Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personal data.
 
@@ -74,18 +72,18 @@ Lime Crime App Privacy Policy
 
 Lime Crime is the operator of the Lime Crime AR App. This policy informs you of our policies regarding the collection, use and disclosure of Personal Information of users of the app.
 
-Social Media Sharing
+Lime Crime App - Social Media Sharing
 
 This app allows you to share predefined image(s) from this app to social media apps and services that are already on your device. These images do not identify you the user, and are the same for all users. However, sharing the image (and any commentary that you supply) will identify you as a user of this app to others on social media.
 
-Use of Camera
+Lime Crime App - Use of Camera
 
 This app utilizes the video camera on your device. We do not use the camera images for any purpose other than image recognition and registration for the AR functionality. No images from the video camera are captured or stored or transmitted by this app.
 
-Analytics Data
+Lime Crime App - Analytics Data
 
 We periodically send data from this app to an analytics service in order to understand how users are using this app and to improve it. This data is anonymized and used in aggregate, meaning that we do not collect any information of a personal nature about users. We do use the analytics service to track, collect or upload any data that could be used to personally identify an individual.
 
-Contact Us
+Lime Crime App - Contact Us
 
 If you have any questions about this privacy policy, please contact us at: Customercare@limecrime.com
