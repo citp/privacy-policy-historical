@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cofchrist.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331234350id_/https%3A//www.cofchrist.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cofchrist.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211143411id_/https%3A//www.cofchrist.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
