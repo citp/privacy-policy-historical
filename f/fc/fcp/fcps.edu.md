@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcps.edu privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406010936id_/https%3A//www.fcps.edu/about-fcps/policies-regulations-and-notices/web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcps.edu privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211025515id_/http%3A//www.fcps.edu/about-fcps/policies-regulations-and-notices/web-privacy-policy) for the most accurate reproduction.*
 
 # Web Privacy Policy | Fairfax County Public Schools
 
