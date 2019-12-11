@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308234659id_/https%3A//www.virginiamason.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211162939id_/https%3A//www.virginiamason.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virginia Mason, Seattle, WA
 
 ### Notice of Privacy Practices - Downloadable and Translation Materials
 
-  * [English](https://web.archive.org/web/20190308234659id_/https%3A//www.virginiamason.org/workfiles/privacy_notice.pdf "Notice of Privacy Practices - English")
-  * [Korean](https://web.archive.org/web/20190308234659id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_korean.pdf "Notice of Privacy Practices - Korean") 
-  * [Russian](https://web.archive.org/web/20190308234659id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_russian.pdf "Notice of Privacy Practices - Russian")
-  * [Spanish](https://web.archive.org/web/20190308234659id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_spanish.pdf "Notice of Privacy Practices - Spanish")
+  * [English](https://web.archive.org/web/20191211162939id_/https%3A//www.virginiamason.org/workfiles/privacy_notice.pdf "Notice of Privacy Practices - English")
+  * [Korean](https://web.archive.org/web/20191211162939id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_korean.pdf "Notice of Privacy Practices - Korean") 
+  * [Russian](https://web.archive.org/web/20191211162939id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_russian.pdf "Notice of Privacy Practices - Russian")
+  * [Spanish](https://web.archive.org/web/20191211162939id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_spanish.pdf "Notice of Privacy Practices - Spanish")
 
 
 
