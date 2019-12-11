@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spectator.co.uk privacy policy that was archived on 2019-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190627093120id_/https%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spectator.co.uk privacy policy that was archived on 2019-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191211120807id_/https%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 		<meta charset="UTF-8">
@@ -37,7 +37,7 @@
    // a viewport size, while the second is a list of allowed ad sizes.   
    var mappingLB = googletag.sizeMapping().
    // Mobile
-   addSize([320, 0], [[320, 50], [300, 50]]). 
+   addSize([320, 0], [[320, 100], [320, 50], [300, 50]]). 
    // Tablet 
    addSize([768, 0], [728, 90]). 
    // Desktop
@@ -82,55 +82,63 @@
    addSize([768, 0], []). 
    // Desktop
    addSize([1024, 0], [3, 3]).build();
+   
+   var mappingDuration = googletag.sizeMapping().
+   // Mobile
+   addSize([320, 0], [1, 1]). 
+   // Tablet 
+   addSize([768, 0], [1, 1]). 
+   // Desktop
+   addSize([1024, 0], [1, 1]).build();
 
 
    // Define the Leaderboard ad slots
-   gptAdSlots[0] = googletag.defineSlot('/21624813019/SpecBrandBrit//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-BrandBrit-LB1').
+   gptAdSlots[0] = googletag.defineSlot('/21624813019/SpecBrandBrit//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-BrandBrit-LB1').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[1] = googletag.defineSlot('/21624813019/SpecBrandBrit//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-BrandBrit-LB2').
+   gptAdSlots[1] = googletag.defineSlot('/21624813019/SpecBrandBrit//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-BrandBrit-LB2').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[2] = googletag.defineSlot('/21624813019/SpecCoffeeHse//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-CoffeeHse-LB1').
+   gptAdSlots[2] = googletag.defineSlot('/21624813019/SpecCoffeeHse//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-CoffeeHse-LB1').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[3] = googletag.defineSlot('/21624813019/SpecCoffeeHse//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-CoffeeHse-LB2').
+   gptAdSlots[3] = googletag.defineSlot('/21624813019/SpecCoffeeHse//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-CoffeeHse-LB2').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[4] = googletag.defineSlot('/21624813019/SpecCulture//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-Culture-LB1').
+   gptAdSlots[4] = googletag.defineSlot('/21624813019/SpecCulture//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-Culture-LB1').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[5] = googletag.defineSlot('/21624813019/SpecCulture//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-Culture-LB2').
+   gptAdSlots[5] = googletag.defineSlot('/21624813019/SpecCulture//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-Culture-LB2').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[6] = googletag.defineSlot('/21624813019/SpecHome//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-Home-LB1').
+   gptAdSlots[6] = googletag.defineSlot('/21624813019/SpecHome//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-Home-LB1').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[7] = googletag.defineSlot('/21624813019/SpecHome//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-Home-LB2').
+   gptAdSlots[7] = googletag.defineSlot('/21624813019/SpecHome//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-Home-LB2').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[8] = googletag.defineSlot('/21624813019/SpecMagazine//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-Mag-LB1').
+   gptAdSlots[8] = googletag.defineSlot('/21624813019/SpecMagazine//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-Mag-LB1').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[9] = googletag.defineSlot('/21624813019/SpecMagazine//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-Mag-LB2').
+   gptAdSlots[9] = googletag.defineSlot('/21624813019/SpecMagazine//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-Mag-LB2').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
@@ -205,12 +213,12 @@
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[24] = googletag.defineSlot('/21624813019/SpecWine//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-Wine-LB1').
+   gptAdSlots[24] = googletag.defineSlot('/21624813019/SpecWine//Top_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-Wine-LB1').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[25] = googletag.defineSlot('/21624813019/SpecWine//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-Wine-LB2').
+   gptAdSlots[25] = googletag.defineSlot('/21624813019/SpecWine//Bottom_BB', [[1200, 250], [1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 100], [320, 50], [300, 50]], 'div-gpt-ad-Wine-LB2').
        defineSizeMapping(mappingLB).
        addService(googletag.pubads());
    googletag.pubads();
@@ -465,13 +473,45 @@
        addService(googletag.pubads());
    googletag.pubads();
 
-   gptAdSlots[74] = googletag.defineSlot('/21624813019/SpecSchools//Sticky_Banner', [3, 3], 'div-gpt-ad-HSchools-StickyBan').
+   gptAdSlots[74] = googletag.defineSlot('/21624813019/SpecSchools//Sticky_Banner', [3, 3], 'div-gpt-ad-Schools-StickyBan').
        defineSizeMapping(mappingSticky).
        addService(googletag.pubads());
    googletag.pubads();
 
    gptAdSlots[75] = googletag.defineSlot('/21624813019/SpecWine//Sticky_Banner', [3, 3], 'div-gpt-ad-Wine-StickyBan').
        defineSizeMapping(mappingSticky).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   // Define the Duration Media Banner ad slots
+
+   gptAdSlots[76] = googletag.defineSlot('/21624813019/SpecCoffeeHse//DurationMedia', [1, 1], 'div-gpt-ad-CoffeeHse-DurationMedia').
+       defineSizeMapping(mappingDuration).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   gptAdSlots[77] = googletag.defineSlot('/21624813019/SpecCulture//DurationMedia', [1, 1], 'div-gpt-ad-Culture-DurationMedia').
+       defineSizeMapping(mappingDuration).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   gptAdSlots[78] = googletag.defineSlot('/21624813019/SpecMagazine//DurationMedia', [1, 1], 'div-gpt-ad-Magazine-DurationMedia').
+       defineSizeMapping(mappingDuration).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   gptAdSlots[79] = googletag.defineSlot('/21624813019/SpecSchools//DurationMedia', [1, 1], 'div-gpt-ad-Schools-DurationMedia').
+       defineSizeMapping(mappingDuration).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   gptAdSlots[80] = googletag.defineSlot('/21624813019/SpecWine//DurationMedia', [1, 1], 'div-gpt-ad-Wine-DurationMedia').
+       defineSizeMapping(mappingDuration).
        addService(googletag.pubads());
    googletag.pubads();
 
@@ -493,7 +533,17 @@ function OptanonWrapper() { }
 -->
 <!--OneTrust End-->
 
-<script src="//s3-us-west-2.amazonaws.com/momently-static/loader/Z2y4KAAQAQ8_momently.js" name="momently-script"></script>
+<!-- Hotjar Tracking Code for https://www.spectator.co.uk -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1370071,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="https://static.hotjar.com/c/hotjar-1370071.js?sv=6"></script>
 <!-- Start The SEO Framework by Sybre Waaijer -->
 <meta name="robots" content="noodp,noydir">
 <meta name="description" content="Privacy Policy on The Spectator | Privacy Policy The Spectator (1828) Ltd (“we”, “us” or “our” for short) are registered to collect and process personal data…">
@@ -508,7 +558,7 @@ function OptanonWrapper() { }
 <meta name="twitter:title" content="Privacy Policy | The Spectator">
 <meta name="twitter:description" content="Privacy Policy The Spectator (1828) Ltd (“we”, “us” or “our” for short) are registered to collect and process personal data under the Data Protection Act 1998 (the “Act” for short). The Spectator…">
 <link rel="canonical" href="https://www.spectator.co.uk/privacy-policy/">
-<!-- End The SEO Framework by Sybre Waaijer | 0.00583s -->
+<!-- End The SEO Framework by Sybre Waaijer | 0.00128s -->
 
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="The Spectator » Feed" href="https://www.spectator.co.uk/feed/">
@@ -766,11 +816,12 @@ img.emoji {
 <ul class="sub-menu sub-menu-depth-0">
 	<li id="menu-item-10290862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/uk-politics/" class="depth-1-link"><span class="menu-item-title">UK POLITICS</span></a></li>
 	<li id="menu-item-10290882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/eu/" class="depth-1-link"><span class="menu-item-title">EU</span></a></li>
+	<li id="menu-item-10648452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/brexit/" class="depth-1-link"><span class="menu-item-title">BREXIT</span></a></li>
 	<li id="menu-item-10290872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/us-politics/" class="depth-1-link"><span class="menu-item-title">US POLITICS</span></a></li>
 	<li id="menu-item-10290892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/religion/" class="depth-1-link"><span class="menu-item-title">RELIGION</span></a></li>
 	<li id="menu-item-10281932" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/author/steerpike/" class="depth-1-link"><span class="menu-item-title">STEERPIKE</span></a></li>
 	<li id="menu-item-10291102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/culture/" class="depth-1-link"><span class="menu-item-title">CULTURE</span></a></li>
-	<li id="menu-item-10281942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/coffee-house-shots" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/coffee-house-shots', 'COFFEE HOUSE SHOTS PODCAST');" class="depth-1-link"><span class="menu-item-title">COFFEE HOUSE SHOTS PODCAST</span></a></li>
+	<li id="menu-item-10281942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/coffee-house-shots-podcast/" class="depth-1-link"><span class="menu-item-title">COFFEE HOUSE SHOTS PODCAST</span></a></li>
 </ul>
 </li>
 <li id="menu-item-10281962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://www.spectator.co.uk/magazine/" class="depth-0-link"><span class="menu-item-title">Magazine</span></a>
@@ -779,9 +830,20 @@ img.emoji {
 	<li id="menu-item-10282002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/category/columnists/" class="depth-1-link"><span class="menu-item-title">COLUMNISTS</span></a></li>
 	<li id="menu-item-10290842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/books-arts/book-reviews/" class="depth-1-link"><span class="menu-item-title">BOOKS</span></a></li>
 	<li id="menu-item-10290852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/books-arts/art-reviews/" class="depth-1-link"><span class="menu-item-title">ARTS</span></a></li>
-	<li id="menu-item-10290832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/category/the-week/letters/" class="depth-1-link"><span class="menu-item-title">LETTERS</span></a></li>
 	<li id="menu-item-10291572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/category/life/" class="depth-1-link"><span class="menu-item-title">LIFE</span></a></li>
 	<li id="menu-item-10282042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/comic/" class="depth-1-link"><span class="menu-item-title">CARTOONS</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10282092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://www.spectator.co.uk/podcasts/" class="depth-0-link"><span class="menu-item-title">Radio</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10282102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/the-spectator-podcast/" class="depth-1-link"><span class="menu-item-title">THE SPECTATOR PODCAST</span></a></li>
+	<li id="menu-item-10282122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/coffee-house-shots-podcast/" class="depth-1-link"><span class="menu-item-title">COFFEE HOUSE SHOTS</span></a></li>
+	<li id="menu-item-10282152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/americano-podcast/" class="depth-1-link"><span class="menu-item-title">AMERICANO</span></a></li>
+	<li id="menu-item-10840332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/women-with-balls-podcast/" class="depth-1-link"><span class="menu-item-title">WOMEN WITH BALLS</span></a></li>
+	<li id="menu-item-10282132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/books-podcast/" class="depth-1-link"><span class="menu-item-title">BOOKS PODCAST</span></a></li>
+	<li id="menu-item-10840342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/the-green-room-podcast/" class="depth-1-link"><span class="menu-item-title">THE GREEN ROOM</span></a></li>
+	<li id="menu-item-10840352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/table-talk-podcast/" class="depth-1-link"><span class="menu-item-title">TABLE TALK</span></a></li>
+	<li id="menu-item-10282162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/holy-smoke-podcast/" class="depth-1-link"><span class="menu-item-title">HOLY SMOKE</span></a></li>
 </ul>
 </li>
 <li id="menu-item-10282702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://www.spectator.co.uk/writers/" class="depth-0-link"><span class="menu-item-title">Writers</span></a>
@@ -795,22 +857,12 @@ img.emoji {
 	<li id="menu-item-10284182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/author/lionelshriver/" class="depth-1-link"><span class="menu-item-title">LIONEL SHRIVER</span></a></li>
 </ul>
 </li>
-<li id="menu-item-10648452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-0"><a href="https://www.spectator.co.uk/brexit/" class="depth-0-link"><span class="menu-item-title">BREXIT</span></a></li>
 <li id="menu-item-10282052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://www.spectator.co.uk/books-arts/" class="depth-0-link"><span class="menu-item-title">Books &amp; Arts</span></a>
 <ul class="sub-menu sub-menu-depth-0">
 	<li id="menu-item-10283942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/books-arts/art-reviews/" class="depth-1-link"><span class="menu-item-title">ARTS</span></a></li>
 	<li id="menu-item-10282642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/books-arts/book-reviews/" class="depth-1-link"><span class="menu-item-title">BOOKS</span></a></li>
-	<li id="menu-item-10282072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/spectator-books-podcast" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/spectator-books-podcast', 'BOOKS PODCAST');" class="depth-1-link"><span class="menu-item-title">BOOKS PODCAST</span></a></li>
+	<li id="menu-item-10282072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/books-podcast/" class="depth-1-link"><span class="menu-item-title">BOOKS PODCAST</span></a></li>
 	<li id="menu-item-10282622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/category/blogs/culturehousedaily/" class="depth-1-link"><span class="menu-item-title">CULTURE HOUSE DAILY</span></a></li>
-</ul>
-</li>
-<li id="menu-item-10282092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://blogs.spectator.co.uk/the-spectator-podcasts/" class="depth-0-link"><span class="menu-item-title">Podcasts</span></a>
-<ul class="sub-menu sub-menu-depth-0">
-	<li id="menu-item-10282102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/the-spectator-podcast" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/the-spectator-podcast', 'THE SPECTATOR PODCAST');" class="depth-1-link"><span class="menu-item-title">THE SPECTATOR PODCAST</span></a></li>
-	<li id="menu-item-10282122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/coffee-house-shots" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/coffee-house-shots', 'COFFEE HOUSE SHOTS');" class="depth-1-link"><span class="menu-item-title">COFFEE HOUSE SHOTS</span></a></li>
-	<li id="menu-item-10282132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/spectator-books-podcast" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/spectator-books-podcast', 'SPECTATOR BOOKS');" class="depth-1-link"><span class="menu-item-title">SPECTATOR BOOKS</span></a></li>
-	<li id="menu-item-10282152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/americano" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/americano', 'AMERICANO');" class="depth-1-link"><span class="menu-item-title">AMERICANO</span></a></li>
-	<li id="menu-item-10282162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/holy-smoke" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/holy-smoke', 'HOLY SMOKE');" class="depth-1-link"><span class="menu-item-title">HOLY SMOKE</span></a></li>
 </ul>
 </li>
 <li id="menu-item-10282202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-0"><a href="https://life.spectator.co.uk" class="depth-0-link"><span class="menu-item-title">Life</span></a></li>
@@ -819,7 +871,7 @@ img.emoji {
 <ul class="sub-menu sub-menu-depth-0">
 	<li id="menu-item-10310732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/?utm-source=navigation" class="depth-1-link"><span class="menu-item-title">SHOP</span></a></li>
 	<li id="menu-item-10323462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/cartoons" class="depth-1-link"><span class="menu-item-title">CARTOONS</span></a></li>
-	<li id="menu-item-10323472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/order-your-2019-spectator-diary-today" class="depth-1-link"><span class="menu-item-title">2019 DIARY</span></a></li>
+	<li id="menu-item-10323472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/2020-diary" class="depth-1-link"><span class="menu-item-title">2020 DIARY</span></a></li>
 	<li id="menu-item-10323482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/spectator-gifts" class="depth-1-link"><span class="menu-item-title">GIFTS</span></a></li>
 	<li id="menu-item-10371142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/newsletters" class="depth-1-link"><span class="menu-item-title">EMAIL BULLETINS</span></a></li>
 	<li id="menu-item-10310742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="http://www.spectator.co.uk/wineclub?utm-source=navigation" class="depth-1-link"><span class="menu-item-title">WINE CLUB</span></a></li>
@@ -988,17 +1040,17 @@ img.emoji {
 <li id="menu-item-9900982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="http://www.spectator.co.uk/advertising/" class="depth-0-link"><span class="menu-item-title">Advertising</span></a>
 <ul class="sub-menu sub-menu-depth-0">
 	<li id="menu-item-10382782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="https://www.spectator.co.uk/spectator-classified-advertisements/" class="depth-1-link"><span class="menu-item-title">Classified Advertisements</span></a></li>
+	<li id="menu-item-10874022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="https://www.spectator.co.uk/advertising-terms-conditions/" class="depth-1-link"><span class="menu-item-title">Advertising Terms and Conditions</span></a></li>
 </ul>
 </li>
 <li id="menu-item-9652222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="http://www.spectator.co.uk/bottomnavsubs" class="depth-0-link"><span class="menu-item-title">Subscribe</span></a>
 <ul class="sub-menu sub-menu-depth-0">
 	<li id="menu-item-9662642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="http://www.spectator.co.uk/club" class="depth-1-link"><span class="menu-item-title">Club</span></a></li>
-	<li id="menu-item-9652232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/newsletters/" class="depth-1-link"><span class="menu-item-title">Email Newsletters</span></a></li>
 </ul>
 </li>
 </ul></div>	
 <div class="copyright">
-	<div class="copyright__line1">The Spectator, 22 Old Queen Street, London, SW1H 9HP<br><span id="copyright__line1__telephone">+44 (0)3303 330 050</span></div>
+	<div class="copyright__line1">The Spectator, 22 Old Queen Street, London, SW1H 9HP<br><span id="copyright__line1__telephone">+44 (0)3303 330 050</span><span id="copyright__line1__telephone-vx" class="hidden">+44 (0)3303 333 9403</span></div>
 	<div class="copyright__line2">
 								</div>
 </div>
@@ -1115,11 +1167,12 @@ var countVars = {"disqusShortname":"spectator-new-www"};
 <ul class="sub-menu sub-menu-depth-0">
 	<li id="menu-item-10290862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/uk-politics/" class="depth-1-link"><span class="menu-item-title">UK POLITICS</span></a></li>
 	<li id="menu-item-10290882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/eu/" class="depth-1-link"><span class="menu-item-title">EU</span></a></li>
+	<li id="menu-item-10648452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/brexit/" class="depth-1-link"><span class="menu-item-title">BREXIT</span></a></li>
 	<li id="menu-item-10290872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/us-politics/" class="depth-1-link"><span class="menu-item-title">US POLITICS</span></a></li>
 	<li id="menu-item-10290892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/religion/" class="depth-1-link"><span class="menu-item-title">RELIGION</span></a></li>
 	<li id="menu-item-10281932" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/author/steerpike/" class="depth-1-link"><span class="menu-item-title">STEERPIKE</span></a></li>
 	<li id="menu-item-10291102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/tag/culture/" class="depth-1-link"><span class="menu-item-title">CULTURE</span></a></li>
-	<li id="menu-item-10281942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/coffee-house-shots" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/coffee-house-shots', 'COFFEE HOUSE SHOTS PODCAST');" class="depth-1-link"><span class="menu-item-title">COFFEE HOUSE SHOTS PODCAST</span></a></li>
+	<li id="menu-item-10281942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/coffee-house-shots-podcast/" class="depth-1-link"><span class="menu-item-title">COFFEE HOUSE SHOTS PODCAST</span></a></li>
 </ul>
 </li>
 <li id="menu-item-10281962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://www.spectator.co.uk/magazine/" class="depth-0-link"><span class="menu-item-title">Magazine</span></a>
@@ -1128,9 +1181,20 @@ var countVars = {"disqusShortname":"spectator-new-www"};
 	<li id="menu-item-10282002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/category/columnists/" class="depth-1-link"><span class="menu-item-title">COLUMNISTS</span></a></li>
 	<li id="menu-item-10290842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/books-arts/book-reviews/" class="depth-1-link"><span class="menu-item-title">BOOKS</span></a></li>
 	<li id="menu-item-10290852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/books-arts/art-reviews/" class="depth-1-link"><span class="menu-item-title">ARTS</span></a></li>
-	<li id="menu-item-10290832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/category/the-week/letters/" class="depth-1-link"><span class="menu-item-title">LETTERS</span></a></li>
 	<li id="menu-item-10291572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/category/life/" class="depth-1-link"><span class="menu-item-title">LIFE</span></a></li>
 	<li id="menu-item-10282042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/comic/" class="depth-1-link"><span class="menu-item-title">CARTOONS</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10282092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://www.spectator.co.uk/podcasts/" class="depth-0-link"><span class="menu-item-title">Radio</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10282102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/the-spectator-podcast/" class="depth-1-link"><span class="menu-item-title">THE SPECTATOR PODCAST</span></a></li>
+	<li id="menu-item-10282122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/coffee-house-shots-podcast/" class="depth-1-link"><span class="menu-item-title">COFFEE HOUSE SHOTS</span></a></li>
+	<li id="menu-item-10282152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/americano-podcast/" class="depth-1-link"><span class="menu-item-title">AMERICANO</span></a></li>
+	<li id="menu-item-10840332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/women-with-balls-podcast/" class="depth-1-link"><span class="menu-item-title">WOMEN WITH BALLS</span></a></li>
+	<li id="menu-item-10282132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/books-podcast/" class="depth-1-link"><span class="menu-item-title">BOOKS PODCAST</span></a></li>
+	<li id="menu-item-10840342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/the-green-room-podcast/" class="depth-1-link"><span class="menu-item-title">THE GREEN ROOM</span></a></li>
+	<li id="menu-item-10840352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/table-talk-podcast/" class="depth-1-link"><span class="menu-item-title">TABLE TALK</span></a></li>
+	<li id="menu-item-10282162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/holy-smoke-podcast/" class="depth-1-link"><span class="menu-item-title">HOLY SMOKE</span></a></li>
 </ul>
 </li>
 <li id="menu-item-10282702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://www.spectator.co.uk/writers/" class="depth-0-link"><span class="menu-item-title">Writers</span></a>
@@ -1144,22 +1208,12 @@ var countVars = {"disqusShortname":"spectator-new-www"};
 	<li id="menu-item-10284182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/author/lionelshriver/" class="depth-1-link"><span class="menu-item-title">LIONEL SHRIVER</span></a></li>
 </ul>
 </li>
-<li id="menu-item-10648452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-0"><a href="https://www.spectator.co.uk/brexit/" class="depth-0-link"><span class="menu-item-title">BREXIT</span></a></li>
 <li id="menu-item-10282052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://www.spectator.co.uk/books-arts/" class="depth-0-link"><span class="menu-item-title">Books &amp; Arts</span></a>
 <ul class="sub-menu sub-menu-depth-0">
 	<li id="menu-item-10283942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/books-arts/art-reviews/" class="depth-1-link"><span class="menu-item-title">ARTS</span></a></li>
 	<li id="menu-item-10282642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/books-arts/book-reviews/" class="depth-1-link"><span class="menu-item-title">BOOKS</span></a></li>
-	<li id="menu-item-10282072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/spectator-books-podcast" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/spectator-books-podcast', 'BOOKS PODCAST');" class="depth-1-link"><span class="menu-item-title">BOOKS PODCAST</span></a></li>
+	<li id="menu-item-10282072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/podcasts/books-podcast/" class="depth-1-link"><span class="menu-item-title">BOOKS PODCAST</span></a></li>
 	<li id="menu-item-10282622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://blogs.spectator.co.uk/category/blogs/culturehousedaily/" class="depth-1-link"><span class="menu-item-title">CULTURE HOUSE DAILY</span></a></li>
-</ul>
-</li>
-<li id="menu-item-10282092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://blogs.spectator.co.uk/the-spectator-podcasts/" class="depth-0-link"><span class="menu-item-title">Podcasts</span></a>
-<ul class="sub-menu sub-menu-depth-0">
-	<li id="menu-item-10282102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/the-spectator-podcast" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/the-spectator-podcast', 'THE SPECTATOR PODCAST');" class="depth-1-link"><span class="menu-item-title">THE SPECTATOR PODCAST</span></a></li>
-	<li id="menu-item-10282122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/coffee-house-shots" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/coffee-house-shots', 'COFFEE HOUSE SHOTS');" class="depth-1-link"><span class="menu-item-title">COFFEE HOUSE SHOTS</span></a></li>
-	<li id="menu-item-10282132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/spectator-books-podcast" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/spectator-books-podcast', 'SPECTATOR BOOKS');" class="depth-1-link"><span class="menu-item-title">SPECTATOR BOOKS</span></a></li>
-	<li id="menu-item-10282152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/americano" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/americano', 'AMERICANO');" class="depth-1-link"><span class="menu-item-title">AMERICANO</span></a></li>
-	<li id="menu-item-10282162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://audioboom.com/channel/holy-smoke" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://audioboom.com/channel/holy-smoke', 'HOLY SMOKE');" class="depth-1-link"><span class="menu-item-title">HOLY SMOKE</span></a></li>
 </ul>
 </li>
 <li id="menu-item-10282202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-0"><a href="https://life.spectator.co.uk" class="depth-0-link"><span class="menu-item-title">Life</span></a></li>
@@ -1168,7 +1222,7 @@ var countVars = {"disqusShortname":"spectator-new-www"};
 <ul class="sub-menu sub-menu-depth-0">
 	<li id="menu-item-10310732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/?utm-source=navigation" class="depth-1-link"><span class="menu-item-title">SHOP</span></a></li>
 	<li id="menu-item-10323462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/cartoons" class="depth-1-link"><span class="menu-item-title">CARTOONS</span></a></li>
-	<li id="menu-item-10323472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/order-your-2019-spectator-diary-today" class="depth-1-link"><span class="menu-item-title">2019 DIARY</span></a></li>
+	<li id="menu-item-10323472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/2020-diary" class="depth-1-link"><span class="menu-item-title">2020 DIARY</span></a></li>
 	<li id="menu-item-10323482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://shop.spectator.co.uk/spectator-gifts" class="depth-1-link"><span class="menu-item-title">GIFTS</span></a></li>
 	<li id="menu-item-10371142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://www.spectator.co.uk/newsletters" class="depth-1-link"><span class="menu-item-title">EMAIL BULLETINS</span></a></li>
 	<li id="menu-item-10310742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="http://www.spectator.co.uk/wineclub?utm-source=navigation" class="depth-1-link"><span class="menu-item-title">WINE CLUB</span></a></li>
