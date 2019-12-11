@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrichslowly.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616152512id_/https%3A//www.getrichslowly.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrichslowly.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211100834id_/https%3A//www.getrichslowly.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
