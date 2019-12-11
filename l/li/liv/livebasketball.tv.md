@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livebasketball.tv privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531155032id_/http%3A//www.livebasketball.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebasketball.tv privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211071818id_/http%3A//www.livebasketball.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | livebasketball.tv
 
-This Privacy Notice explains how Perform Media Services Ltd together with other companies within the Perform Group (which means our subsidiaries, our ultimate holding company and its subsidiaries from time to time) (“ **Perform** ”, “ **We** ”, “ **Us** ”, “ **Our** ”) use information we collect about you and the choices you can make about the way your information is collected and used.  We are committed to protecting and respecting your privacy. 
+This Privacy Notice explains how Perform Media Services Ltd together with other companies within the Perform Group (which means our subsidiaries, our ultimate holding company and its subsidiaries from time to time) (“ **DAZN** ”, “ **We** ”, “ **Us** ”, “ **Our** ”) use information we collect about you and the choices you can make about the way your information is collected and used.  We are committed to protecting and respecting your privacy. 
 
 This Privacy Notice applies to and is incorporated in the LiveBasketball.tv Terms of Use (“ **Service** ”). 
 
