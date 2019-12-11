@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towson.edu privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616152510id_/https%3A//www.towson.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towson.edu privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211144115id_/https%3A//www.towson.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Towson University
 
@@ -10,7 +10,7 @@ TU complies with both federal and state law regarding privacy rights. For exampl
 
 ### Student Information
 
-TU collects and retains relevant information, including “education records” as defined under the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g; 34 C.F.R. Part 99) (“FERPA”), for both prospective and enrolled students. Its purpose is to further its mission, including providing successful academic opportunities throughout a student’s academic journey. Students’ education records are protected and not disclosed to third parties unless the student consents to the disclosure or a FERPA exception applies. Learn more about [TU’s compliance with FERPA](https://web.archive.org/registrar/grades/ferpa.html). 
+TU collects and retains relevant information, including “education records” as defined under the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g; 34 C.F.R. Part 99) (“FERPA”), for both prospective and enrolled students. Its purpose is to further its mission, including providing successful academic opportunities throughout a student’s academic journey. Students’ education records are protected and not disclosed to third parties unless the student consents to the disclosure or a FERPA exception applies. Learn more about [TU’s compliance with FERPA](https://web.archive.org/registrar/registration/ferpa.html). 
 
 ### Data Collection Forms 
 
@@ -39,4 +39,4 @@ This statement has been updated as of May 25, 2018. Additional updates will be a
 
 ### Questions
 
-If you have any comments or questions about this Privacy Statement or would like to contact a TU representative regarding privacy or your personal information, please contact [infosec@towson.edu](mailto:infosec@towson.edu). 
+If you have any comments or questions about this Privacy Statement or would like to contact a TU representative regarding privacy or your personal information, please contact [infosec AT_TOWSON](https://web.archive.org/web/20191211144115id_/https%3A//www.towson.edu/SPECIAL_LINKinfosec%20AT_TOWSON). 
