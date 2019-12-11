@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511030905id_/https%3A//whitney.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211140911id_/https%3A//whitney.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whitney Museum of American Art
 
