@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper.io privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206144710id_/http%3A//paper-io.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper.io privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211144251id_/http%3A//paper-io.com/privacy) for the most accurate reproduction.*
 
 # Paper.io - privacy policy
 
