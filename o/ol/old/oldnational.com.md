@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503171951id_/https%3A//www.oldnational.com/docs/default-source/legal-information/2017-18-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211024501id_/https%3A//www.oldnational.com/docs/default-source/legal-information/2017-18-privacy-policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
