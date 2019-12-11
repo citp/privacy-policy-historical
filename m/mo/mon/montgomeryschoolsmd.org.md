@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomeryschoolsmd.org privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208100239id_/https%3A//www.montgomeryschoolsmd.org/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomeryschoolsmd.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211091037id_/https%3A//www.montgomeryschoolsmd.org/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Montgomery County Public Schools, Rockville, MD
 
