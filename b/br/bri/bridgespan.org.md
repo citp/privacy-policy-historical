@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426093807id_/https%3A//www.bridgespan.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211234805id_/https%3A//www.bridgespan.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bridgespan
 
@@ -12,7 +12,7 @@ We don’t sell, rent, or otherwise share your personal data with anyone outside
 
 Some of the tools on our site also collect information and use their own cookies in order to provide you with features and services, and you should review those companies’ privacy policies. These include our social sharing buttons ([AddThis](http://www.addthis.com/privacy)), our commenting feature ([Disqus](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)), and our online polling/feedback/user experience tool ([HotJar](https://www.hotjar.com/legal/policies/privacy)). We also use [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en) to track overall activity on our site.
 
-If you ever have any questions, suggestions or concerns about your data privacy, including requests to have your data removed, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f2f2d36293e3c261f3d2d363b383a2c2f3e3171302d38). You can also send letters to: The Bridgespan Group, 2 Copley Place, 7th Floor, Suite 3700b, Boston, MA, 02116
+If you ever have any questions, suggestions or concerns about your data privacy, including requests to have your data removed, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9cadcdaddc6c4ccdbdaccdbdfc0cacce9cbdbc0cdceccdad9c8c787c6dbce96dadccbc3cccadd94f9dbc0dfc8cad08c9b99f9c6c5c0cad08c9b99f8dcccdaddc0c6c7). You can also send letters to: The Bridgespan Group, 2 Copley Place, 7th Floor, Suite 3700b, Boston, MA, 02116
 
 Read below for additional details about our policies and procedures. 
 
@@ -69,7 +69,7 @@ Although the Sites have security measures in place to protect against unauthoriz
 
 Bridgespan provides methods of updating your information and contact preferences. You may update your information and contact preferences online, or write, e-mail, or telephone us with changes to your information and contact preferences.
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81f1f3e8f7e0e2f8c1e3f3e8e5e6e4f2f1e0efafeef3e6).
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f0c1a1c1b00020a1d1c0a1d19060c0a2f0d1d060b080a1c1f0e0141001d08501c1a0d050a0c1b523f1d06190e0c164a5d5f3f0003060c164a5d5f3e1a0a1c1b060001).
 
 Physical address: The Bridgespan Group, 2 Copley Place, 7th Floor, Suite 3700b, Boston, MA, 02116
 
