@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gensteel.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419070457id_/https%3A//gensteel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gensteel.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211021033id_/https%3A//gensteel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: General Steel Corporation
 
