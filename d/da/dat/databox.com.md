@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the databox.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505080951id_/https%3A//databox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databox.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211211522id_/https%3A//databox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Databox
 
@@ -230,6 +230,12 @@ In general, we use the information collected to provide you with a great overall
 ### Outside Contractors and Third-Party Processors
 
 We may employ independent contractors, vendors and suppliers (collectively, “Outside Contractors”) to provide specific services and products related to the Databox website and our services, such as hosting, customer service, credit card processing and fraud screening, and mailing list hosting. In the course of providing products or services to us, these Outside Contractors may have access to information collected through the Databox website or web application, including your personal information. We require that these Outside Contractors agree to (1) protect the privacy of your personal information consistent with this Privacy Policy, or the Terms of Service and (2) not use or disclose your personal information for any purpose other than providing us with the products or services for which we contracted or as required by law. All Outside Contractors must be GDPR compliant.
+
+### YouTube APIs
+
+In order to provide you with the Databox services, we deploy YouTube’s API (application program interface) Services to enable access to YouTube via the Databox website. YouTube is an affiliated company of Google, LLC. YouTube’s privacy practices are governed by Google’s Privacy Policy (available at http://www.google.com/policies/privacy).
+
+If you have an account with Google, you can revoke Databox’s access to your information on your Google account via the Google security settings (available at https://security.google.com/settings/security/permissions).
 
 ### What choices do I have regarding the collection, disclosure and distribution of personal information?
 
