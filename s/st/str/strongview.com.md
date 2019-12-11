@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongview.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424084627id_/https%3A//www.selligent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongview.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211153849id_/https%3A//www.selligent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Selligent Marketing Cloud
 
