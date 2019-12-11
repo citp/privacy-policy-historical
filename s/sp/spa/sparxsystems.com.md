@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparxsystems.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530072524id_/https%3A//sparxsystems.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparxsystems.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211065908id_/https%3A//sparxsystems.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sparx Systems
 
