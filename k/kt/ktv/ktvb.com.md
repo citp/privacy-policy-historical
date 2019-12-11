@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330231127id_/https%3A//www.ktvb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211092547id_/https%3A//www.ktvb.com/privacy) for the most accurate reproduction.*
 
 # KTVB.com Privacy Policy
 
