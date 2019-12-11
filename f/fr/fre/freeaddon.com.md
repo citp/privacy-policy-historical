@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freeaddon.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623103548id_/http%3A//freeaddon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeaddon.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211141743id_/https%3A//freeaddon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers & Backgrounds
 
 **Last Update:** May 12th, 2017.
 
-This Privacy Policy (the **“Policy”** ) describes the privacy practices with respect to the service. “Services”, as such term is defined in the end user license agreement available here: <http://freeaddon.com/eula/> (“EULA”). By downloading and installing the Services and/or by accepting this Policy and the EULA, you consent to our access, collection, use and/or disclosure of your information as described in this Policy. 
+This Privacy Policy (the **“Policy”** ) describes the privacy practices with respect to the service. “Services”, as such term is defined in the end user license agreement available here: <https://freeaddon.com/eula/> (“EULA”). By downloading and installing the Services and/or by accepting this Policy and the EULA, you consent to our access, collection, use and/or disclosure of your information as described in this Policy. 
 
 1\. **_Information We Collect and Use_**
 
