@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growmap.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222005556id_/http%3A//growmap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growmap.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211205119id_/https%3A//growmap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,4 +41,4 @@ The following two tabs change content below.
 
 
 
-Gail Gardner is the founder of GrowMap.com. She is a Small Business Marketing Strategist she mentors small businesses, bloggers, and freelancers. After 23 years in the field with IBM and 5.5 years managing AdWords accounts, her focus shifted to small business marketing strategy. GrowMap.com is listed by Cision as a Top 100 Site for Marketers and has received three Small Business Influencer Awards from Small Business Trends. Named by D&B a Top 50 SMB Influencer on Twitter, you can follow Gail [@GrowMap](https://twitter.com/growmap) and on [LinkedIn](https://www.linkedin.com/in/growmap).
+Gail Gardner is the founder of GrowMap.com. She is a Small Business Marketing Strategist who mentors small businesses, bloggers, and freelancers. After 23 years in the field with IBM and 5.5 years managing AdWords accounts, her focus shifted to small business marketing strategy. GrowMap.com is listed by Cision as a Top 100 Site for Marketers and has received three Small Business Influencer Awards from Small Business Trends. Named by D&B a Top 50 SMB Influencer on Twitter, you can follow Gail [@GrowMap](https://twitter.com/growmap) and on [LinkedIn](https://www.linkedin.com/in/growmap).
