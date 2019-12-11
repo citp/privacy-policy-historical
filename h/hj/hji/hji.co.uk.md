@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hji.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401150851id_/https%3A//www.hji.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hji.co.uk privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211194646id_/https%3A//www.hji.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HJI
 
@@ -10,7 +10,7 @@ This privacy policy applies to the use that we make of personal information prov
 
 1\. **Who is collecting your data?**  
 Trades Exhibitions Ltd and M Squared Media Ltd are exhibition, conference and awards organisers and magazine publishers in the beauty, spa and wellness, aesthetics and hair industries. The brands and trading names of Trades Exhibitions and M Squared Media Ltd include Hairdressers Journal International, Salon International, Professional Beauty, World Spa & Wellness, 360 Active Wellness, Aesthetic Medicine and Organic & Natural Beauty.  
-The registered company address is: 1.17 The Plaza, 535 Kings Road, London, SW10 0SZ.Telephone: 0207 351 0536 Email: dataenquiries@tradesexhibitions.co.uk Company Registration No: Trades Exhibitions 06813406, M Squared Media Ltd 06318537
+The registered company address is: Allington House, 25 High Street, Wimbledon, SW19 5DX. Telephone: 0207 351 0536 Email: dataenquiries@tradesexhibitions.co.uk Company Registration No: Trades Exhibitions 06813406, M Squared Media Ltd 06318537
 
 **Why is the data being collected, and what’s our lawful basis for doing so?**  
 In order for us to provide you with services (such as access to ours shows, subscriber-only services, industry news, email newsletters and competitions) we will require you to supply us with your personal data. In order to deliver such services, it is our contractual obligation to process and store your personal information and may need to transfer it to our business partner(s) and to associated companies of Trade Exhibitions Limited for processing both inside and outside the European Economic Area (EEA).
