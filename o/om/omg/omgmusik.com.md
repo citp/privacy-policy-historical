@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the omgmusik.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019213633id_/http%3A//omgmusik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgmusik.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211025512id_/https%3A//omgmusik.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OMGMUSIK
-
-Skip to content
+# Privacy Policy - Oh!Musik
 
 **To visitor:**
 
@@ -16,7 +14,3 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Cookies are files with small amounts of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive.  
 We use & quot; Cookie & quot; To gather information. You can instruct your browser to reject all cookies or indicate when a cookie is sent. However, if you do not accept cookies, you may not use certain portions of our Services.
-
-**Contact us**
-
-If you have any questions about privacy policy, please contact us by email: omgmusikcom@gmail.com
