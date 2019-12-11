@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmath4kids.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115185101id_/https%3A//www.coolmath4kids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath4kids.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211142604id_/https%3A//www.coolmath4kids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CoolMath4Kids
 
