@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrealgames.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104212743id_/http%3A//www.myrealgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrealgames.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211141446id_/http%3A//www.myrealgames.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -30,6 +30,6 @@ You agree that MyRealGames.com may change this Privacy Policy at any time. If yo
 
 ## 7\. Contact Information
 
-If you have any questions or suggestions regarding our Privacy Policy, please use our [contact form](https://web.archive.org/web/20181104212743id_/http%3A//www.myrealgames.com/contact.html).
+If you have any questions or suggestions regarding our Privacy Policy, please use our [contact form](https://web.archive.org/web/20191211141446id_/http%3A//www.myrealgames.com/contact.html).
 
 All trademarks are the property of their respective owners. All Rights Reserved.
