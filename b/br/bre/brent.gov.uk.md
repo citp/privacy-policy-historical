@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321132823id_/https%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211174152id_/https%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Brent Council - Privacy and cookie policy
+# Brent Council - Privacy policy
 
-## Privacy Notice - How we use your information
+### How we use your information
 
 Our privacy notices explain what to expect when Brent Council collects your personal information. In this notice Brent Council, Brent Civic Centre, Engineers Way, Wembley HA9 0FJ is the data controller as defined by Data Protection legislation.
 
@@ -20,7 +20,7 @@ We may change this statement from time to time to reflect privacy or security up
 
 If you have any questions about this statement or if you would like to exercise any rights you may have in relation to your personal data, please contact the Data Protection Officer.
 
-## Why we collect and use your personal data
+### Why we collect and use your personal data
 
 Personal information is collected to enable the Council to provide a range of services to local people and businesses as required to fulfil our duties under UK legislation, statutory or contractual requirement or obligation. This includes:
 
@@ -50,7 +50,7 @@ Personal information is collected to enable the Council to provide a range of se
 
 The council is required to maintain a record of its processing activities, covering areas such as processing purposes, data sharing and retention. A copy can be obtained from our Data Protection Officer via [dpo@brent.gov.uk](mailto:dpo@brent.gov.uk).
 
-## The lawful basis for using your information
+### The lawful basis for using your information
 
 We collect and use information under one or more of the following legal bases.
 
@@ -66,7 +66,7 @@ Where we require consent to use your information we will make it clear when we a
 
 We will only use your personal data for the uses and purposes set out above, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original use and purposes. If we need to use your personal data for an unrelated purpose, we will notify you and will explain the legal basis which allows us to do so.
 
-## The categories of personal data we collect:
+### The categories of personal data we collect:
 
 The types of information we process include:
 
@@ -124,7 +124,7 @@ We process personal information about:
 
 
 
-## Who we share your information with:
+### Who we share your information with:
 
 Where necessary or required we share information with:
 
@@ -156,23 +156,21 @@ Where necessary or required we share information with:
 
 Once your information has been collected by the council, it may be used by other council departments, where necessary, to provide a complete service to you. It is for this reason that we link your information together, for example, to save you providing your information more than once.
 
-The paragraph within your Privacy Policy would require a small adjustment to meet requirements for Cifas Membership pilot, please see the amended paragraph below:
-
-  * The personal information we have collected from you will be shared with fraud prevention agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance, or employment. [View further details of how your information will be used](https://www.cifas.org.uk/fpn "View further details of how your information will be used") by us and these fraud prevention agencies, and your data protection rights. 
+  * The personal information we have collected from you will be shared with fraud prevention agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance, or employment. Further details of how your information will be used by us and these fraud prevention agencies, and your data protection rights, can be found at <https://www.cifas.org.uk/fpn>. 
 
 
 
-## Where in the world is your information stored?
+### Where in the world is your information stored?
 
 Brent Council does not process your information with third countries outside of the UK or EU zone without the safeguards being in place that are equivalent to the UK Data Protection legislation or the General Data Protection Regulations (GDPR).
 
 If you fail to provide the personal data, the Council may not be able to deliver accurate services to you and may also take action if it is required to do so by law.
 
-## How long do we keep your information?
+### How long do we keep your information?
 
 There’s often a legal and/or business reason for keeping your information for a set period of time, we try to include all of these in our retention schedule. A copy can be obtained from our Data Protection Officer.
 
-## Security
+### Security
 
 We are committed to ensuring that your personal data is secure. To prevent unauthorised access or disclosure, we have put appropriate technical and organisations measures in place to safeguard your information. The council assures this by complying with relevant security best practice standards.
 
@@ -184,7 +182,7 @@ The procedures and related standards include limiting access to data on a need t
 
 Employees and temporary workers are required to follow policies and procedures and complete mandatory annual training to understand data protection and information security.
 
-## Your rights
+### Your rights
 
 Brent Council shall process your information in adherence to your individual rights under the Data Protection legislation.
 
@@ -194,7 +192,11 @@ This is your right know about how your data is being processed, who it is given 
 
 **The right of access**
 
-You have a right to access your personal data and relevant supplementary information. This is known as a Subject Access Request. Further information can be found at [www.ico.org.uk](http://www.ico.org.uk/ "www.ico.org.uk"). You can make a request by completing a [Subject Access Request](https://web.archive.org/media/16410928/sar-form.docx "SAR form.docx") (.docx, 51.7kB) emailing the Data Protection Officer at [dpo@brent.gov.uk](mailto:dpo@brent.gov.uk "dpo@brent.gov.uk"), or in writing to the Data Protection Officer, Brent Council, Civic Centre, Engineers Way HA9 0FJ. You should receive a response within one month.
+You have a right to access your personal data and relevant supplementary information. This is known as a Subject Access Request. Further information can be found at [ **www.ico.org.uk**](http://www.ico.org.uk/).
+
+You can [log in to My Account and submit a SAR request](https://myaccount.brent.gov.uk/Web/IL1_Login.aspx "Sign in to My account and submit a SAR request"), which allows you to monitor the progress of your request online.
+
+Alternatively you can download and complete ** ** a [ **Subject Access Request form**](https://web.archive.org/media/16410928/sar-form.docx "Subject Access Request form"). Email your completed form to the Data Protection Officer at [ **dpo@brent.gov.uk**](mailto:dpo@brent.gov.uk), or post it to the Data Protection Officer, Brent Council, Civic Centre, Engineers Way HA9 0FJ. You should receive a response within one month.
 
 Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests as described under the ICO’s SAR code of practice. In this case, we will notify you and keep you updated.
 
@@ -234,8 +236,8 @@ Brent Council is required by law to protect the public funds it administers. We 
 
 In addition to undertaking our own data matching to identify errors and potential frauds we are required to take part in national data matching exercises undertaken by the National Fraud Initiative. The use of data by the National Fraud Initiative in a data matching exercise is carried out under its powers in Part 2A of the Audit Commission Act 1998. It does not require the consent of the individuals concerned.
 
-## Concerns about data protection
+### Concerns about data protection
 
 If you have a concern about the way we are collecting or using your personal data, we would appreciate the chance to deal with your concerns before making a complaint to the Information Commissioner’s Office by visiting [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/). You have the right to make a complaint at any time to the Information Commissioner.
 
-You can raise your concern by emailing the Data Protection Officer at [dpo@brent.gov.uk](mailto:dpo@brent.gov.uk "dpo@brent.gov.uk"),, or in writing to the Data Protection Officer, Brent Council, Civic Centre, Engineers Way HA9 0FJ.
+You can raise your concern by emailing the Data Protection Officer at [dpo@brent.gov.uk](mailto:dpo@brent.gov.uk "dpo@brent.gov.uk"), or in writing to the Data Protection Officer, Brent Council, Civic Centre, Engineers Way HA9 0FJ.
