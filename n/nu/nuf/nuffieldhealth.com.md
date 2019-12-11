@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621082615id_/https%3A//www.nuffieldhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211151849id_/https%3A//www.nuffieldhealth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nuffield Health
 
