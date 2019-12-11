@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeana.eu privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619104321id_/https%3A//www.europeana.eu/portal/rights/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeana.eu privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211173149id_/https%3A//www.europeana.eu/portal/rights/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Europeana Collections
 
@@ -45,11 +45,11 @@ We do not keep your data for any longer than necessary to fulfil the purposes fo
 
 You may ask us whether we process data relating to you, and if so, which data this concerns. In that case, we can provide you with access to the data processed by us that relates to you. If you believe your personal data has been processed incorrectly or incompletely, you may request that we change or supplement the data (rectification). 
 
-You can contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80e9eee6efc0e5f5f2eff0e5e1eee1aee5f5). 
+You can contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bed7d0d8d1fedbcbccd1cedbdfd0df90dbcb). 
 
 If you have a complaint concerning the processing of your personal data by Europeana Foundation, please 
 
-  1. contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#325b5c545d725747405d4257535c531c5747);
+  1. contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3d54535b527d58484f524d585c535c135848);
   2. contact your local Data Protection Authority (DPA).
 
 
@@ -96,7 +96,7 @@ We may send you service-related announcements when it is necessary to do so.
 
 ### Accessing or editing your data
 
-If you wish to access or edit your data or withdrawing your consent, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e474048416e4b5b5c415e4b4f404f004b5b).
+If you wish to access or edit your data or withdrawing your consent, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b22252d240b2e3e39243b2e2a252a652e3e).
 
 ## What this policy applies to
 
