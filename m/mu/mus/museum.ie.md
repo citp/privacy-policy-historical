@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museum.ie privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510060615id_/https%3A//www.museum.ie/Footer/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.ie privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211063424id_/https%3A//www.museum.ie/Footer/Privacy-Statement) for the most accurate reproduction.*
 
 # National Museum of Ireland
 
