@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330110345id_/https%3A//hothardware.com/pages/privacyterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211221112id_/https%3A//hothardware.com/pages/privacyterms) for the most accurate reproduction.*
 
 # Privacy, Terms, Conditions and Copyright | HotHardware
 
-**Privacy, Terms, Conditions and Copyright Policy of HotHardware.com, LLC.  
+**Privacy, Terms, Conditions and Copyright Policy of Hot Hardware, Inc.  
 **   
 HotHardware.com takes your privacy seriously. Our privacy policy is designed to help you understand the terms and conditions surrounding the collection and use of the information we collect. We encourage you to read our full privacy policy, below:   
 **  
@@ -104,7 +104,7 @@ Send your notice to our agent for notices of claimed copyright infringement as f
 Email: [copyright@hothardware.com](mailto:copyright@hothardware.com)
 
 Postal mail:   
-HotHardware.com, LLC.  
+Hot Hardware, Inc.  
 C/O Saunders & Silverstein, LLP.  
 14 Cedar Street - Suite 224    
 Amesbury, MA 01913  
@@ -127,7 +127,7 @@ Send your notice to our agent for notices of claimed copyright infringement as f
 Email: [copyright@hothardware.com](mailto:copyright@hothardware.com)
 
 Postal mail:   
-HotHardware.com, LLC.  
+Hot Hardware, Inc.  
 C/O Saunders & Silverstein, LLP.  
 14 Cedar Street - Suite 224    
 Amesbury, MA 01913  
