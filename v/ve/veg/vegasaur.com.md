@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the vegasaur.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505213545id_/https%3A//vegasaur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasaur.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211174020id_/https%3A//vegasaur.com/privacy) for the most accurate reproduction.*
 
 # Vegasaur.com Privacy Statement
-
-  
-
 
 ## Collection of your personal information
 
