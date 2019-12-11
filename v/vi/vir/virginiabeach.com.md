@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginiabeach.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409102528id_/https%3A//www.virginiabeach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiabeach.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212000532id_/https%3A//www.virginiabeach.com/privacy) for the most accurate reproduction.*
 
 # VirginiaBeach.com Privacy Policy | Virginia Beach
 
