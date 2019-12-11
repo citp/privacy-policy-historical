@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615044909id_/https%3A//www.chicagobusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211135048id_/https%3A//www.chicagobusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Crain's Chicago Business
 
@@ -6,7 +6,7 @@
 
 _Effective starting: May 25, 2018_
 
-**_  Crain's Chicago Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_of Crain Communications Inc. Our postal address is 150 N. Michigan Ave. Chicago, IL 60601.  We can be reached by e-mail at [](mailto:) or by telephone at (312) 649-5200. **
+**_  Crain's Chicago Business and the associated newsletters, news alerts, data centers, research reports, and other features are __products  _of Crain Communications Inc. Our postal address is 150 N. Michigan Ave. Chicago, IL 60601.  We can be reached by e-mail at [](mailto:) or by telephone at (312) 649-5200. **
 
 **What this Privacy Policy covers**
 
