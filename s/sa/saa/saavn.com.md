@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saavn.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617184830id_/https%3A//www.jiosaavn.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saavn.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211111929id_/https%3A//www.jiosaavn.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Saavn
 
@@ -141,8 +141,8 @@ For more information on advertising, please see the section on Advertising Servi
 
 We may also work with advertising networks that gather information about the content on our Platform you visit and on information on other websites and services you visit. This may result in you seeing advertisements through our Platform for us and for third parties, as well as seeing our advertisements when you visit other websites and services of third parties. For more information about interest-based advertising and how to turn this feature off see below or visit:
 
-  * European users can also visit [youronlinechoices.eu](https://web.archive.org/web/20190617184830id_/https://www.jiosaavn.com/corporate/privacy/youronlinechoices.eu) to learn how to opt out of having their data used for online behavioral advertising by European Interactive Digital Advertising Alliance (EDAA) member companies.
-  * Canadian users can also visit: [youradchoices.ca/choices](https://web.archive.org/web/20190617184830id_/https://www.jiosaavn.com/corporate/privacy/youradchoices.ca/choices).
+  * European users can also visit [youronlinechoices.eu](https://web.archive.org/web/20191211111929id_/https://www.jiosaavn.com/corporate/privacy/youronlinechoices.eu) to learn how to opt out of having their data used for online behavioral advertising by European Interactive Digital Advertising Alliance (EDAA) member companies.
+  * Canadian users can also visit: [youradchoices.ca/choices](https://web.archive.org/web/20191211111929id_/https://www.jiosaavn.com/corporate/privacy/youradchoices.ca/choices).
   * US users can visit Digital Advertising Alliance (DAA) AppChoices [boutads.info/appchoices](http://aboutads.info/appchoices) and [boutads.info/choices](http://aboutads.info/choices) or [optout.networkadvertising.org](http://optout.networkadvertising.org/);
   * To opt out from the use of information about your online activities for online behavioral advertising by NAI member companies, visit [networkadvertising.org/choices](http://networkadvertising.org/choices).
 
