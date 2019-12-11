@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alta.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405215849id_/https%3A//www.alta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alta.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211073829id_/https%3A//www.alta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alta Ski Area | Alta, Utah
 
