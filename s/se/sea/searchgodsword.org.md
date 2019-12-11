@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchgodsword.org privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614175143id_/http%3A//www.salemwebnetwork.com/our-brands/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchgodsword.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211223711id_/http%3A//www.salemwebnetwork.com/our-brands/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Salem Web Network
 
@@ -67,7 +67,7 @@ We may offer Services with chat rooms, blogs, message boards, bulletin boards, t
 
 **F.** **SPECIFIC PRIVACY RIGHTS**
 
-**(1) Children:** Neither our App nor any of our other Services are intended for children under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact Mallorie Klemens at [mallorie.klemens@salemmedia.com](mailto:mallorie.klemens@salemmedia.com).  A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use of that information.
+**(1) Children:** Neither our App nor any of our other Services are intended for children under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact Mallorie Klemens at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0bdb1bcbcbfa2b9b5febbbcb5bdb5bea390a3b1bcb5bdbdb5b4b9b1feb3bfbd).  A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use of that information.
 
 **(2) California:** Beginning January 1, 2005, California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us by clicking the _Contact Us_ link on our Website.
 
