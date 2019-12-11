@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617121020id_/http%3A//www.somethingawful.com/feature-articles/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211050527id_/https%3A//www.somethingawful.com/feature-articles/website-privacy-policy) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -46,7 +46,7 @@ If our policy on information collection or uses changes, will advise you by send
 
  **Our serious privacy policy:** we don't store or even have access to any of your credit card data except the last four digits and billing address. This information is used solely to protect us from credit card fraud. We won't sell any of your personal information to third parties. Something Awful LLC reserves the right to disseminate usernames, IP addresses, or email addresses to third parties in certain situations (ie, situations involving credit card fraud, harassment, stalking, illegal activities).
 
-Users can either disable cookies via their browser or opt out through a mechanism such as [this](http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery) or [this](http://www.networkadvertising.org/managing/opt_out.asp).  
+Users can either disable cookies via their browser or opt out through a mechanism such as [this](https://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery) or [this](https://www.networkadvertising.org/managing/opt_out.asp).  
 
 
 No refunds, returns, or cancellations are permitted, unless it is a problem with physical (damaged) merchandise. All electronic, non-physical purchases (such as forum accounts) are considered "as is" and may not be refunded, returned, or cancelled. Something Awful LLC reserves the right to ban any and all forum accounts when our moderation staff has determined the user(s) of these accounts have broken [the forum rules.](https://web.archive.org/d/forum-rules/forum-rules.php) Any further questions, inquiries, or issues may be sent to:
@@ -58,4 +58,4 @@ No refunds, returns, or cancellations are permitted, unless it is a problem with
 Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.](mailto:webmaster@somethingawful.com?subject=Something%20Awful%20Privacy%20Policy)  
 
 
-– [Rich "Lowtax" Kyanka](https://web.archive.org/author/3/) ([@lowtax](http://twitter.com/lowtax))
+– [Rich "Lowtax" Kyanka](https://web.archive.org/author/3/) ([@richard_kyanka](https://twitter.com/richard_kyanka))
