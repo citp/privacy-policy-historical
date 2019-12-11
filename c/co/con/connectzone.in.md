@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the connectzone.in privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616171214id_/http%3A//www.connectzone.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectzone.in privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211235359id_/https%3A//www.connectzone.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Best Broadband in Punjab and Chandigarh Area - Connect Broadband
 
+###### PRIVACY POLICY
+
 This Privacy Policy (“Policy”) governs the manner in which Quadrant Televentures Limited (QTL) (the “Company” or “We”) collects, uses, maintains and discloses information collected from the users (each, a “User”) of various services (“Services”) provided by the Company, either through website of the Company or through mobile applications or network telecom operators to protect the privacy of personal information of our customers which has been provided to us in order to access our services. Our Privacy Policy is designed and developed to ensure the privacy and security of Customer’s sensitive personal information provided to us. For the purpose of this policy, sensitive personal data or information of customer’s has been considered as a part of personal information. 
+
+###### The policy is designed to make you understand:
 
   * What we collect
   * What we do with the personal information we gather
@@ -23,7 +27,11 @@ This Privacy Policy (“Policy”) governs the manner in which Quadrant Televent
 
 This policy is provided for your information and is not intended to limit or exclude your rights under laws and regulations applicable in India.
 
+###### What we collect
+
 We may collect personal information from User in a variety of ways, including, but not limited to, when User accesses and uses the Services and in connection with other activities, services, features or resources we make available on the Services. User may be asked for, as appropriate, name, email address, address, phone number, credit card information, demographic information such as postcode, preferences and interests etc. We will collect personal identification from User only if they voluntarily submit such information to us. User can always refuse to supply personal information, except that it may prevent them engaging in certain Services related activities
+
+######  We do with the personal information we gather
 
 We may use your personal information to:
 
@@ -39,6 +47,8 @@ We may use your personal information to:
 
 
 
+###### Collection of Personal Information
+
 “Personal information” is any information that can be used to uniquely identify a person. We may collect your personal information as required under laws and regulations the time you subscribe and use our services or websites or otherwise interact with us, or from other sources like third parties.
 
   * information we collect about you will depend on the QTL products and services you use and subscribe to. The information we may collect includes, but is not limited to, the following:
@@ -50,7 +60,11 @@ We may use your personal information to:
 
 
 
+###### Collection of Non-Personal Information
+
 We may collect non-personal information about User whenever they interact with our Services. Non-personal information may include the browser name, the type of computer and technical information about means used by the User to connect to our Services, such as the information about the operating system and the internet service providers utilized and other similar information
+
+###### Use of Personal Information and Non-personal Information:
 
 This information is aggregated and used to help us provide more useful information to the User and to understand which part of the Services, its products and services are of most interest. We use your personally identifiable information to support and enhance your use of the Site and its features, including, without limitation, fulfilling your order, providing customer service, tracking email invitations you send, and otherwise supporting your use of the Site
 
@@ -59,6 +73,8 @@ If you have opted to receiving marketing material from us, we may also provide y
 We cannot protect any information that you make available to the general public in any publicly accessible area of our website or any other media. We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
 
 If we do combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined
+
+###### Purpose of collecting personal information
 
 Your personal information may be used & analyzed for various lawful purposes including enrichment of service experience. These include, but are not limited to:
 
@@ -80,7 +96,11 @@ Your personal information may be used & analyzed for various lawful purposes inc
 
 We will store your information for as long as we have to by law and as per directions of the regulatory & law enforcement Authorities. If there is no legal requirement, we will only store your information for as long as we need it for providing services to you.
 
+###### Sharing of information with Authorities
+
 We may share Personal Information as well as non-personal information of the User with the courts, police authorities or any other government/regulatory/statutory authority, in case these are required by them in relation to any proceedings pending before them
+
+###### Security
 
 We are committed to ensure that User’s personal information is secure. We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of the User personal information, username, password, transaction information and data stored in our Services. To prevent unauthorised access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved
 
@@ -96,6 +116,8 @@ When we dispose off your personal information, we use reasonable procedures to e
 
 No data transmission over the Internet is completely secure and for reasons outside of our control, security risks may still arise. Any personal information transmitted to us or from our online products or services will therefore be your own risk. However, we will strive to ensure the security of your information. We observe reasonable security measures to protect your personal information against hacking and virus dissemination. This privacy policy applies to information collected through all channels by QTL in the due course of business.
 
+###### How we use Cookies
+
 A cookie is a small file which asks permission to be placed on the User’s desktop/laptop/mobile device’s memory drive. Once the User agrees, the file is added and the cookie helps analyse web traffic. Cookies allow Services to respond to the User as an individual. The Services can tailor its operations to the User’s needs, likes and dislikes by gathering and remembering information about the User’s preferences.
 
 Cookies help us better understand User’s behaviour, and tell us which parts of the Services Users have visited and facilitates and measure the effectiveness of products and services offered by us. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that internet protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. We use traffic log cookies to identify which pages are being used.
@@ -106,6 +128,8 @@ Overall, cookies help us provide User with a better experience of the Services, 
 
 A User can choose to accept or decline cookies. Most web browsers automatically accept cookies, but a User can usually modify its browser setting to decline cookies if the User prefer. This may prevent the User from taking full advantage of the Services. 
 
+###### We may share information about you with:
+
   * Law-enforcement agencies, regulatory organizations, courts or other public authorities if we have to or are authorized to by law.
 
 
@@ -114,16 +138,30 @@ If we are reorganized or are sold to another organization, we may transfer any p
 
 QTL will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services to you on behalf of QTL, unless required to do so by law. Further, QTL may use this information to contact you regarding matters relevant to the underlying service provided and/or the information collected.
 
+###### Retention of Personal Information
+
 We will retain User's personal information for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
+
+###### Third party websites
 
 Users may find advertising or other content on the Services that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and services and are not responsible for the practices employed by those websites and services linked to or from our Services. In addition, these sites and services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites and services which have a link to the Services, is subject to that websites and services’ own terms and policies
 
+###### Advertising
+
 Advertisement appearing on the Services may be delivered to the User by advertising partners, who may set cookies. These cookies allow the ad server to recognize the User computer each time they send the User an online advertisement to compile non personal information about the User or others who use the User computer. This information allows advertisement networks to, among other things, deliver targeted advertisements that they believe will be of most interest to the User. This Policy does not cover the use of cookies by any advertisers
+
+###### Changes To This Privacy Policy
 
 The Company has the discretion to update this Policy at any time. We encourage User to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. User acknowledges and agrees that it is his/her responsibility to review this Policy periodically and become aware of modifications.
 
+###### User acceptance of these terms
+
 By using the Services, User signifies his/her acceptance of this Policy. If the User does not agree to this Policy, please do not use the Services. User continued use of the Services following the posting of changes to this Policy will be deemed User acceptance of those changes.
+
+###### Refund Policy
 
 In eventuality of failure of any transaction due to any technical fault whatsoever, the refund of transaction amount shall be initiated within 24 to 48 hours, however the concerned bank may take 4-7 working days to post the credit to your account.
 
 In case you have received a success confirmation but not received credit towards your bill payment or any other case you are welcome to lodge a complaint via any means as mentioned on our contact us page.
+
+ 
