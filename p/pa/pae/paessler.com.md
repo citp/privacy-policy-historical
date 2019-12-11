@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616190524id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211100406id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Paessler AG Privacy Policy
 
@@ -9,10 +9,10 @@
 Responsible for the data processing as described here is Paessler AG.
 
 Postal address: Paessler AG, Thurn-und-Taxis-Str. 14, 90411 Nuremberg   
-Email: [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#e58c8b838aa59584809696898097cb868a88)   
+Email: [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#40292e262f0030212533332c25326e232f2d)   
 Tel: +49 911 93775-0
 
-Company data protection officer is Sebastian Bonhag. Contact him via email to [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#b0c0c2d9c6d1d3c9f0c0d1d5c3c3dcd5c29ed3dfdd) or letter to the address above.
+Company data protection officer is Sebastian Bonhag. Contact him via email to [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#f181839887909288b181909482829d9483df929e9c) or letter to the address above.
 
 2\. Right to information and of complaint
 
@@ -52,11 +52,13 @@ Amazon, Facebook, Instagram, LinkedIn, Twitter, Amazon, Outbrain, Reach Group,
   * Amazon: <https://www.amazon.com/adprefs>
   * Outbrain: <https://my.outbrain.com/recommendations-settings/profile>
   * Reach Group: <https://www.reachgroup.com/en/opt-out/>
-  * Reddit: <https://old.reddit.com/personalization>
+  * Reddit: [https://www.reddit.com/personalization](https://old.reddit.com/personalization "Verknüpfung folgen")
 
 
 
 Hotjar: We use Hotjar to analyze the usage of our website. Hotjar will capture specific data related to the viewer's interaction with that particular webpage completely anonymous and by random selection. We do not record keypresses or the content of form fields with HotJar. You can deactivate HotJar by following the instructions on <https://www.hotjar.com/opt-out>.
+
+apartena.metrics: This website uses apartena.metrics, a web analytics service of Burda Direct interactive GmbH. This service uses cookies to identify a visitor's browser and to analyze the use of this website. These cookies do not collect personal data. For more information on how apartena.metrics processes your data, visit <https://www.apartena.net/datenschutzerklaerung.html>. You can disable apartena.metrics tracking at any time by following the instructions at <https://metrics.apartena.net/privacy-optout.do>.
 
 3\. For pseudonymized advertising (§15 par. 3 TMG)
 
@@ -161,6 +163,6 @@ Olark places cookies on your computer. You may refuse the use of cookies by sele
 
 5\. For advertising purposes (Art. 6 par. 1 lit. f GDPR)
 
-Paessler uses your data and your email address to provide you with offers for other services and products. In order to ensure optimal customer support, the contact can also be established by partners or service providers assigned by us. You can object to the establishment of contact at any time. Please send a complaint to [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#3c4f5d50594f7c4c5d594f4f50594e125f5351).
+Paessler uses your data and your email address to provide you with offers for other services and products. In order to ensure optimal customer support, the contact can also be established by partners or service providers assigned by us. You can object to the establishment of contact at any time. Please send a complaint to [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#d4a7b5b8b1a794a4b5b1a7a7b8b1a6fab7bbb9).
 
 We use TrustPilot as our customer review service. We add personalized URLs to some emails and webpages. Only when you click on such a link, your name and email address is transferred to TrustPilot. TrustPilot will only store your data, if you choose to create an account. (<http://legal.trustpilot.com/end-user-privacy-terms>)
