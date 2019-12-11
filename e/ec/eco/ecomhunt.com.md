@@ -1,17 +1,93 @@
-> *The following text is extracted and transformed from the ecomhunt.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomhunt.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211075538id_/https%3A//ecomhunt.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Ecomhunt - Privacy Policy Notice
 
-* * *
+Last Updated on Jan 25, 2018
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+**  
+1\. Scope of this Privacy Policy; Information Collected**
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+  
+Any Submission or other information you provide or is otherwise accessible to Ecomhunt (including from ancillary
 
+services such as Facebook or Google+, as well as Apple or Android application markets, all owned and/or operated by
 
+their respective owners, is considered, for the purpose of these Terms and Conditions and this Privacy Policy
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+hereunder, as Personally Identifiable Information.
+
+This Privacy Policy does not apply to any act or omission of any other person, third party entity or corporation, which
+
+Ecomhunt does not own or control, or to individuals whom Ecomhunt does not employ or manage, including any of the
+
+third parties to which Ecomhunt may disclose user information as set forth in this Privacy Policy.
+
+The contents of Submissions that have been delivered by the Ecomhunt Service or Application may not necessarily
+
+copied, kept or archived by Ecomhunt in the normal course of business. You may not rely on Ecomhunt in any way with
+
+respect to maintaining records of you activity.
+
+  
+ **2\. Use of Information by Ecomhunt**
+
+  
+Ecomhunt uses the Personally Identifiable Information you submit to us through the Application or Service, to operate,
+
+maintain, and provide to you the features and functionality of the Service.
+
+Ecomhunt may use non-personally- identifiable information (including user usage data, cookies, IP addresses, browser
+
+type, clickstream data, etc.) to improve the quality and design of the Ecomhunt Application and Service.
+
+  
+ **3\. Collection of Information**
+
+  
+The Operator complies with web browser’s mechanisms to allow choice. When using the Application, you may choose
+
+to stop sharing information at any time using your browser’s settings to disable the Application add-on. This will not
+
+erase historic data. For erasure request please email: service@ecomhunt.com.
+
+  
+ **4\. Use of your Information**
+
+  
+Ecomhunt will not sell or share your Personally Identifiable Information (such as mobile phone number) with other third-
+
+party without your consent or except as part of a specific offer or program or feature for which you will have the ability to
+
+either opt-in or opt-out, and which may not financially charge you without your consent.
+
+We may collect personally identifiable information about individual online activities over time and across different
+
+websites using the Website, Application and Services.
+
+ **5\. Data Security**
+
+Ecomhunt uses reasonable commercially reasonable physical and technical safeguards to preserve the integrity and
+
+security of your personal information. Ecomhunt can not and does not ensure or warrant the security of any information
+
+or Submission transmitted. Avoid unsecured or unprotected networks to submit messages through the Ecomhunt
+
+Service.
+
+ **6\. Children's Privacy**
+
+If you are under 16 years of age, then please do not use the Ecomhunt Service or access the Ecomhunt Site at any
+
+time or in any manner. If Ecomhunt learns that Personally Identifiable Information of persons under 16 years of age has
+
+been collected using the Service, then Ecomhunt may deactivate the account and/or remove the Submissions or render
+
+them inaccessible.
+
+ **7\. Event of Merger, Sale, or Liquidation**
+
+In the event that Operator is acquired by or merged with a third party entity, we reserve the right (or in the event of
+
+liquidation, as provided under law) to transfer or assign the information collected from our users as part of such merger,
+
+acquisition, sale, or other change of control.
