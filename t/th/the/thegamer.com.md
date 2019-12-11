@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegamer.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523154509id_/https%3A//www.thegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamer.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211143849id_/https%3A//www.thegamer.com/privacy-policy) for the most accurate reproduction.*
 
-# TheGamer
+# Privacy Policy | TheGamer
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
@@ -128,3 +128,7 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 ## Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at [data@valnetinc.com](mailto:data@valnetinc.com) or by mail at the postal address listed above, attention: Data Compliance Department.
+
+Message 
+
+Your consent has been withdrawn successfully.
