@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531093428id_/https%3A//www.nominet.uk/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211150235id_/https%3A//www.nominet.uk/privacy-notice) for the most accurate reproduction.*
 
 # See our Privacy Policy & Your Rights as a Website User
 
@@ -32,7 +32,7 @@ We have appointed a data protection officer (DPO) who is responsible for oversee
 
 Nominet UK, a UK company limited by guarantee company number 3203859, registered office Minerva House, Edmund Halley Road, Oxford Science Park, Oxford OX4 4DQ.
 
-Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b1f0b143b15141612151e0f550e10)
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dfbbafb09fb1b0b2b6b1baabf1aab4)
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
