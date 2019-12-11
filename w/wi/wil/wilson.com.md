@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilson.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517024346id_/https%3A//www.wilson.com/en-us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilson.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211010033id_/https%3A//www.wilson.com/en-us/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Wilson Sporting Goods
 
