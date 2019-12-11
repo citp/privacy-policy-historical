@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techjunkie.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626223510id_/https%3A//www.techjunkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techjunkie.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211084123id_/https%3A//www.techjunkie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
