@@ -1,370 +1,1409 @@
-> *The following text is extracted and transformed from the adidas.ie privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615135840id_/http%3A//www.adidas.ie/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.ie privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211173651id_/https%3A//www.adidas.ie/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-EFFECTIVE DATE: 07 December 2016
+**PRIVACY NOTICE**
 
-## **INTRODUCTION AND SCOPE OF THIS PRIVACY STATEMENT**
+valid as of 2 October 2019
 
-We, adidas International Trading BV (adidas)[1] want to give you the best adidas experience possible. We use the personal information you share with us to make our products and services and your experience even better. This privacy statement aims to give you a clear view of how we use personal information that you provide, our dedication to protecting it, your rights and the options you have to control your personal information and protect your privacy. It also outlines what personal information we collect about you when you visit our websites, stores or when you use our mobile apps, how we use your personal information and the third parties we will share it with.
+******1.** **      ****What does this Privacy Notice tell you?** ****
 
-We use personal information for various purposes, as described in detail below.
+**2.** **      ****Who are the adidas Data Controllers?** ****
 
-## **PERSONAL INFORMATION WE COLLECT FROM YOU**
+**3.** **      ****How do you get in touch with the Data Protection Officer of the adidas Data Controllers?** ****
 
- “Personal information” is any information that relates to you and identifies you personally, either alone or in combination with other information available to us. adidas will collect various types of personal information and special categories of personal information (such as health and other sensitive data) about you, including the following (as applicable):
+**4.** **      ****What Personal Data does adidas collect and use (Categories of Personal Data)?** ****
 
-### **adidas account**
+**5.** **      ****What does adidas do with your Personal Data and why (Purpose,   Processing, Legal Basis)?** ****
 
-If you sign up for an adidas account, we will ask for your name e-mail address and password. Additional information that will be collected if you choose to provide this: telephone number, gender, personal preferences, social identifier if you choose to log in to your account via social media and age or date of birth.
+I.     SITE (ADIDAS DOMAIN) OPERATION AND APP OPERATION
 
-### **Use of our products and services**
+II.    DOMAIN AND NETWORK SECURITY AND USER AUTHENTICATION
 
-When you use our products and services we will ask for personal information (at the moment of collection we will explain what information is required and what information you may choose to provide), such as:
+III.   GLOBAL CREDENTIAL TO ALL ADIDAS PLATFORMS – USER EXPERIENCE
 
-  * your postal address and payment details when ordering from our web shop;
-  * your date of birth and/or confirmation that you are above a certain age;
-  * your email-address when signing up for one of our contests, free prize giveaways ("Prize Giveaways") or newsletters;
-  * a record of our correspondence with you (including any feedback you have provided on any of our products or services), if you have been in contact with our Customer Service.
+IV.   SALES OF ADIDAS PRODUCTS - ONLINE AND OFF-LINE ORDER
 
+V.    PAYMENT FRAUD DETECTION
 
+VI.   PRODUCT DELIVERY
 
-### **adidas apps**
+VII.  ELECTRONIC DELIVERY TRACKING
 
-We offer a number of apps which allow you to upload and/or store certain information. Depending on the app, we will ask for personal information (we will explain what information is needed to offer the service and what information you may choose to provide so that we may understand your preferences), such as your:
+VIII. BUSINESS OPERATIONAL ANALYTICS
 
-  * sport and health data (for example, workout start and end times, activity type, duration, pace, distance, calories, RunScore and speed);
-  * body measurements, such as weight, height and heart rate;
-  * location.
+IX.    CUSTOMER SERVICE
 
+X.    PERSONALISED MARKETING MESSAGES VIA EMAIL (Newsletter Sign-Up)
 
+XI.   PERSONALISED MARKETING MESSAGES VIA EMAIL (via existing contract)
 
-### **adidas Communities**
+XII.  TARGETED MESSAGES ON 3RD-PARTY ADVERTISING PLATFORMS
 
-If you become a member of an adidas Community ("Member"), such as Front Row, we will ask for basic personal information (we will explain what information is required and what information you may choose to provide), such as:
+XIII.    CREATORS CLUB MEMBERSHIP ADMINISTRATION – WHERE APPLICABLE
 
-  * your name, e-mail address and date of birth.
+XIV.    PRIVATE EVENT REGISTRATION
 
+XV.     OPEN EVENT REGISTRATION
 
+XVI.    PRODUCT RESEARCH AND DEVELOPMENT
 
-Once you are a Member, you may choose to provide us with additional personal information, such as:
+XVII.    LEGAL OBLIGATION - COOPERATION WITH LAW ENFORCEMENT AND REGULATORY AUTHORITIES (INCLUDING COURTS)
 
-  * your interests and preferences, through the relevant online Community "dashboard".
+XVIII.   COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES (“COOKIES NOTICE”)
 
+XIX.    USER-GENERATED CONTENT (UGC) ACQUISITION FROM SOCIAL MEDIA
 
+XX.     PUSH NOTIFICATIONS (IN-APP COMMUNICATION)
 
-If you are a winner of any Prize Giveaways, we will ask for additional personal information, such as:
+**6.** **      ****What does adidas do when we transfer your Personal Data outside of the EU/EEA?** ****
 
-  * your postal address, clothes or shoe size, in order to be able to send you the prize.
+**7.** **      ****How do we secure your Personal Data?** ****
 
+**8.** **      ****What are your rights and how can you exercise them?** ****
 
+**9.** **      ****Questions, Complaints, and Support – who and how you can get in touch with them?** ****
 
-If we would like to promote the adidas Communities and Prize Giveaways and you are a winner of a Prize Giveaway, we will ask for additional personal information, such as:
+**10.** **       ****Updates and Notification of Updates** ****
 
-  * your City/Town; and/or
-  * your photograph.  
- 
+**11.** **       ****adidas Data Recipients** ****
 
+  1. What does this Privacy Notice tell you?
 
 
-### **Social sign-on**
 
-If you choose to create an adidas account through your social network account (such as Facebook), your sign-on credentials will be imported via your social network account. Please note that when you use this "social sign-on" option, we will use the following personal information:
+This Privacy Notice tells you how we collect and process the information from which you can be identified directly or indirectly (“ **Personal Data** ”) while you browse <https://www.adidas.ie/> as well as when you interact with different adidas platforms, portals and applications using your Personal Data (“ **adidas platforms** ”). 
 
-  * your Facebook identifier
+This Privacy Notice provides information on: 
 
+**a)** adidas Data Controllers; 
 
+**b)** Data Protection Officer; 
 
-We will often also receive certain personal information (which you have agreed to be accessible on your public profile) via the social network, such as:
+**c)** the different types of Personal Data we use (“ **Categories of Personal Data”)** ; 
 
-  * your name, age, location, preferences, occupation, and other public profile information such as your pictures or your friends list on the social network, as well as your likes.  This information will not be shared with adidas by Facebook if you have a private profile.
+**d)** why and how we use your Personal Data (“ **Purpose** ”; “ **Processing”** ; “ **Lawful basis”** ); 
 
+**e)** how long your Personal Data is kept (“ **Retention period** ”); 
 
+**f)** other recipients of your Personal Data (“ **Recipients** ”); 
 
-This information is not requested by adidas, but is provided by the social network through the use of the social sign-on option if you have a public profile, in line with the social network's terms of use. adidas will not use such information without your consent.
+**g)** transferring your Personal Data out of the EU/EEA (“ **International Data Transfer** ”); 
 
-### **adi Program**
+**h)** your rights under the EU General Data Protection Regulation and national applicable laws; and 
 
-adidas offers you the opportunity to participate in the adidas loyalty program called adi Program. If you choose to participate in the adi Program, we will collect and use the following personal information:
+**i)** any automated decision-making technologies used by us and how it works (where necessary). 
 
-  * your first and last name, date of birth, email address and adidas account password;
-  * purchases in our online or physical shops: the product(s) you have purchased and their quantity; the total purchase price of your purchase; the date you made your purchase; and any discount code(s) you may have used;
-  * where you have "checked in" in adidas physical stores (online stores are excluded) or at adidas events: the location of the store or event and the time and date you checked in;
-  * rewards "badges" earned where you choose to register your performance activities within your adi Program account;
-  * your participation activity in relation to the adi Program, including as set out below.
+  2. Who are the adidas Data Controllers?
 
 
 
-_Performance activities_
+The following adidas Data Controllers jointly determine how your Personal Data is used by adidas for the purposes identified in the adidas Privacy Notice (“Joint Controllers”). They are responsible for protecting your Personal Data and complying with GDPR and national legislation governing the use of your Personal Data.
 
-If you have a miCoach account, you may choose to register performance activities in your adidas account and to allow our parent company, adidas AG, to transfer information obtained through your miCoach account to adidas . In which case, we will link the miCoach information to your adidas account. For the purpose of these performance activities we will process personal information obtained through your miCoach account, such as:
+  * **adidas AG** \- Adi-Dassler Str. 1, 91074 Herzogenaurach, Germany **(”adidas AG”)**
+  * **adidas Business Services GmbH** \- Adi-Dassler Str. 1, 91074 Herzogenaurach, Germany
+  * **adidas (Ireland) Limited** \- Nangor Road, Nangor Road Business Park Unit C1, Clondalkin, Dublin 12, Ireland **(“Local Selling Entity”)**
 
-  * eUCI ("electronic Unique Client Identifier"), device type, the distance you have covered during your performance activity, start and end times, workout type, activity type, pace, duration, RunScore speed, the amount of calories you have burned and other information and results linked to your performance activity.
 
 
+For the purposes of
 
-_Social media interaction_
+  * **Sales of adidas products – online and off-line order**
+  * **Product research and development**
 
-When you participate in the adi Program, you have the opportunity to notify your friends of your participation through social network sites, to share adidas products or services on social media, like adidas pages or rate adidas products or services. If you choose to participate in this way we will use the following personal information:
 
-  * your social media network identifier.
 
+the legal entities identified below form Joint Controllers:
 
+  * **adidas AG**
+  * **adidas International Trading AG** \- Am Platz 10, 6039 Root D4, Switzerland
+  * **Local Selling Entity** ****
 
-_To receive the adi Program newsletter_
 
-When you participate in the adi Program, we will send you the adi Program newsletter. We will include personal information in the newsletter, such as:
+  3. How do you get in touch with the Data Protection Officer of the adidas Data Controllers?
 
-  * your participation level;
-  * the number of badges earned; and
-  * suggestions from adidas on rewards that may be of specific interest to you. For this purpose we will use your name, gender, email address, date of birth, address, city of residence and any other personal information you have provided to us within your adidas account.
 
 
+[**DataProtection@adidas.com**](mailto:DataProtection@adidas.com) ****
 
-_To create a single profile_
+**Global Privacy | Data Protection Officer**
 
-When you join the adi Program for ease of reference we will store all of your adidas Group accounts within one single profile, if you have provided your consent as required by applicable law.
+**adidas AG**
 
-### **Information we collect automatically**
+Adi-Dassler-Straße 1
 
-We will also collect personal information about you when you interact with our brand, websites and apps and how you use them, as follows:
+91074 Herzogenaurach
 
-  * Websites: we will collect information about the adidas websites that you visit and how you use them. A visit to one of our websites results in data being sent from your browser to our servers. We will collect personal information in this way, such as: 
-    * your IP address;
-    * the date and time of the visit and how long you remained on our website;
-    * the referral URL (the site from which the visitor has come);
-    * the pages visited on our website; and
-    * information about the device and browser (such as, browser type and version, operating system, etc).
-  * Cookies and similar devices: We and our partners use various technologies to collect and store information when you visit our websites or use our apps, and this will include sending one or more cookies or other similar devices to your device. Click here for more information about our use of cookies and similar devices and how to disable them.
-  * Location information: When you use a location-enabled service (for example an adidas running app), we will provide you a just in time notice to collect and process information about your actual location, for instance through GPS signals sent by a mobile device. We will also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points, Near Field Communication ("NFC") points and mobile network cell towers. You can generally disable sending your location through settings in your device, and we will inform you when we make use of location information.
+Germany
 
+  4. What Personal Data does adidas collect and use (Categories of Personal Data)?
 
 
-### **Sources of Information**
 
-Most of the information we collect about you will be personal information that you have voluntarily provided to us, for example, through our websites, e-shops, mobile apps, in-store etc. Other sources from whom we may obtain your personal information include:
+These are the categories of Personal Data we collect directly or indirectly from you: 
 
-  * our Point of Sale systems ([i.e. certain information may be collected about you when you make a purchase in one of our stores]);
-  * other adidas group companies; and
-  * third parties (such as credit reference agencies, law enforcement/regulatory bodies etc.).
+  * **Identity information** – includes: name [first, last, initials], Date of Birth, e-mail address, unique consumer identifier number (including your Creators Club member ID), nickname, password, social media identifiers and information passed along to us via your Facebook or Runtastic account, your device fingerprint, and gift card codes that are assigned to you. We use it to verify your identity. 
 
+  
+---  
+  
+  * **Contact information** \- includes: your phone number, shipping and billing address, e-mail address, Messenger ID, social media handle, any other communication channel you have used to contact us for more information. We use it to contact you for different reasons depending on the purposes stated below. ****
 
+  
+  
+  * **Location information** - **** includes: your residential location, current log-in location [IP address], GPS location (if you wish to share us, for example through your mobile device settings), or the specific adidas site you have visited that might give us clues about where you are. We use it to help you find what you are looking for at your current location. ****
 
-## **HOW WE USE PROCESS YOUR PERSONAL INFORMATION**
+  
+  
+  * **Size information** \- includes: shoe size, clothes size, height, weight, chest, waist, hip, inseam, body shape, heel-toe measurement. We use it to make sure your gear fits. ****
 
-The personal information we collect from the above sources will be used in the format that it is received, or it will be combined with personal information we obtain from other internal or external sources, where appropriate. We use and analyse your personal for the various other purposes detailed below:
+  
+  
+  * **Purchase information** - **** includes: your payment information (credit card number), payment risk profile (provided to us by our payment risk solution), shopping cart (your ordered items), delivery details, shipping and billing address, customer order number, purchase history with adidas, transaction ID, and any other information related to your purchase. We use it to complete your order on adidas sites and apps, in adidas stores, or other selling platforms. ****
 
-  * Improving our products and services: we will use your personal information to build a profile on you in order to understand how you use our products and services, to develop more interesting and relevant products and services, as well as to personalise the products and services we offer you.
-  * Processing your order: we use relevant personal information described above (including your name, address and payment details) to process and deliver your order, and to notify you of the status of your order. In addition, we may use your age, year of birth or confirmation that you are above a certain age to ascertain whether you meet the minimum age in your country for online purchases and whether you are considered to be a minor for data protection and/or marketing law purposes.
-  * Carrying out checks: we will also use your personal information to assess your creditworthiness and to prevent fraud. For this purpose, we may need to share your personal information with our credit rating providers (see "how we share your personal information" below).
-  * Customer service: if you contact our Customer Service (or vice versa), we will use personal information such as your order information and contact history to process your request and provide you with the best service possible.
-  * adidas products and services, engagements and offerings: we will use your personal information to provide you with the products and services you have requested from us, such as promotions, membership of adidas Communities, adidas loyalty programs, events and our apps. This will, if applicable, include the use of your personal information for submission in contests, Prize Giveaways and promotions, using your contact details for events and using information like your location for our mobile apps (such as running apps). 
-    * adi Program: if you choose to participate in the adi Program, we will use your contact details to send you a welcoming email to verify your username and password, to communicate with you in response to any inquiries and to send you service related announcements, for instance if the adi Program app is temporarily suspended for maintenance. We will also use your registration information to create and manage your account and to grant you rewards "badges" for your interaction, participation and/or loyalty.  In addition, we will use any information you provide voluntarily to us in free text boxes to understand your preferences and to improve our products and services.
-    * Performance activities: if you choose to allow information regarding your performance activities through miCoach to be linked to your participation in the adi Program, we will use your personal information, including the results of your miCoach activities, to make automated decisions about you in order to reward you with badges, which you can use to redeem rewards based on your performance activity.
-    * adidas apps: if you choose to download an adidas app, we will only collect special categories of personal information if we have obtained your express consent, as required by applicable law. Personal and sensitive personal information (such as health data) collected through the app will be collected from your device and stored on adidas servers for the following purposes: 
-      * to provide you the services you expect when using the app;
-      * to analyse your performance activity for the purposes of granting you rewards based on your performance activity (if you have agreed to participate in a performance activity within the adi Program);
-      * for the reasons set out in the "improving our products and services" section below; and
-      * for the reasons set out in the "marketing purposes" section below.
-    * adidas Communities: as part of an adidas promotion, we will publish certain details of the winners of any Prize Giveaways on our website or one of our affiliate's or service provider's websites according to the terms and conditions of the particular promotion.
-  * Social sign-on (this means the use of your social network credentials such as your Facebook user login information to create and sign into your adidas account: when you use the social sign-on option adidas limit use of public profile information to that which is necessary for the creation of your adidas account. adidas will, upon receipt of any irrelevant information from the social network, discard such information. After having created your account, you will have the opportunity to supplement it with any information you would like to share with us, such as personal information you provide through a completed survey. Any supplemental information you provide to us will be used for the purposes explained in this statement, including to enrich your adidas profile and to personalise your adidas experience.
-  * Marketing: when you signup to receive adidas newsletters, create an adidas account (or merge existing adidas accounts) and consent to our use of your personal information, become a Member of an adidas Community, join the adi Program, use an adidas app, order or provide feedback on a product or service online or use our website, we will use your personal information to create a profile based on the information we hold about you. We create this profile in order to provide you with the best personalised experience, to send you personalised marketing messages and newsletters and for opinion research purposes. Below you can find a more detailed description of the ways in which we will use your personal information for these purposes. 
-    * What kind of information: the way you interact with our brand and the information we collect in that regard provides us valuable information about your interests and preferences. This insight gives us the opportunity to offer you the best adidas experience possible. To learn about you and your interests, we analyse your interactions with our brand using various kinds of information, as set out above.  If you have given us your consent to send you marketing communications, we use the information that you have provided to us when interacting with us for sending you personalised marketing messages about adidas products or services, events, Prize Giveaways and promotions. In some instances we will also aggregate your personal information with that of other individuals, to create comprehensive reports about how customers use our products and services, and experience our brand.
-    * What kind of channels: we will send direct marketing communications to you via the channel you choose,  such as email, phone, or social media. We ask for your consent, where required by applicable law, in order to use the contact details you have provided to us to send our personalised marketing communications.
-    * What kind of messages: the messages we will send you will be personalised and tailored to your individual preferences and interests. We use analytics in order to generate such personalised messages. These direct marketing messages may contain information about our products and services, events, Prize Giveaways or promotions and adidas news. We will, in certain circumstances, also use the channels for opinion research (such as to ask if you would like to participate in a survey) and to learn about your experience and improve your experience with adidas, including by sending you personalised messages.
-  * Re-targeting: our websites and apps use re-targeting technologies. This enables us to show our visitors, who were already interested in our shop and our products and/or services, advertisements from us on partner websites. We believe that the display of personalised, interest-based advertising is more interesting and relevant to our customers than advertising that does not have a personal connection. Re-targeting technologies analyse your cookies and display advertisements based on your past web-surfing behaviour. Please click here for further information on cookies and instructions on how to disable re-targeting. Note that our sites generally are not configured to respond to web browser do-not-track signals.
-  * Ads: we also work with non-adidas companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect personal information about your visits to our websites or apps and your interaction with our communications, including advertising.
-  * Enrichment of our data: where we have obtained your personal information from various sources we will combine this information in certain circumstances in order to enrich our understanding of your requirements and preferences in relation to our adidas products and services. For example, we may combine information you have provided us directly with information collected automatically.  , such as metadata or IP addresses or where we have collected anonymous browsing data through the use of cookies, we may later determine that this data relates to your browsing history and combine that data with the existing information we hold on you. We may use the information we hold to correlate your interactions with us via one device (such as a browser on a computer) with your interactions with us via another device (such as an app on a phone). Specifically, we may carry out any of these exercises to be able to send you more personalised marketing or to prepare more effective marketing campaigns.
-  * Improving our products and services: we will use the personal information we hold about you (as well as pseudonymised or anonymised information generated from your personal information) to carry out analysis and research, including: 
-    * data science/analytics, whereby we combine information (such as personal information and/or sensitive personal information we have obtained through the use of an adidas sporting app or from your browsing history) we hold on a large scale in order: 
-      * learn more about our customers and their preferences;
-      * to identify patterns and trends amongst our customers;
-      * enhance user experience on our websites;
-      * provide information, content and offerings tailored to our customers' needs;
-      * for general research and statistical purposes; and
-      * for aggregated reporting purposes within the adidas group;
-    * develop new products and services;
-    * monitor performance of our products and services and/or improve our technology;
-    * to be able to send you personalised marketing messages;
-    * to display online ads to you.  
- 
-  * Websites: personal information collected through our websites, such as via cookies or other tracking technologies, will be used to allow us to assess browsing behaviours on our websites, to understand where improvements can be made, to optimise our products and services and personalise and improve your experience on our websites and apps.
-  * Global account: when you sign up for an adidas account we will verify whether your email address has previously been used within the adidas group. If this is the case, we will present you with the option of combining your adidas accounts and importing the information from your existing account by logging in.
-  * Performance analysis: we will use your personal information (including by anonymising and aggregating it with other customer's personal information) for sales, supply chain and financial analysis purposes, to determine how adidas is performing and where improvements can be made and where necessary to report back to our parent or affiliate group companies.
-  * We will ask for your consent if we wish to use your personal information for purposes other than those listed in this privacy statement and as required to do so under applicable law.
+  
+  
+  * **Behavioural and Profile information** \- includes: your shopping history, Wishlist items, your browsing behaviour, your browsing preferences, your shopping preferences, in-store interactions, your workout history, product reviews, social media interactions with us, and any other intelligence we have about you to help us learn you as a consumer better, including “Community information”. We use it to know you better as a consumer, so we can send you marketing messages containing only products and services that we think you might be interested in. ****
 
+  
+  
+  * **Community information** – includes: information provided by you when you participate various adidas events and communities either as a trainer, team member, a participant or as a promotor of our events, including for example: pictures, videos, your nickname, your team, your interests and preferences, your feedback, leader boards, event participation, joined groups, and registration details. We use this information to organise the events and communities, and to know more about you as a consumer. ****
 
+  
+  
+  * **Social Media information** – includes: information obtained through your interaction with us on various social media channels such as Facebook, Instagram, Google, etc., including: any social media information that is publicly available such as your social media handles, social media interactions and public postings, your “Likes” and other reactions, your social media connections, your photos that are public, or those you send to us by mentioning us or following our social media posts by using “handles” or “hashtags”. We obtain this information from the social media network (e.g. Facebook, Snapchat, Instagram, etc.) directly or indirectly through third-party agencies we have agreements with. ****
 
-## **HOW WE SHARE YOUR PERSONAL INFORMATION**
+  
+  
+  * **Device information** – includes: Information about your device or browser that give us an idea about your browsing behaviour or device usage. Your device information is collected by our app, and your browser information is collected by our cookies, tags, and pixels. This is often required for network security purposes. This includes, but not limited to: IP address, date and time of the visit, how long you remained on our website, the referral URL (if you came to our site via a different site or an advertisement), the pages visited on our site, your browser type, device type, versions, operating system. ****
 
-We treat your personal information with care and confidentiality and do not share it with third parties other than as set out below:
+  
+  
+  * **Activity information** \- includes: fitness data (for example workout start and end times, activity type, sports category), sensor data (for example step goal, duration, pace, distance, calories, heartbeat, RunScore and speed), and other data related to your fitness app. We use it to help you improve your performance goals and improve your user experiences and identify what products might be best for you based on your exercise patterns. ****
 
-### **With other adidas Group entities**
+  
+  
+  * **Correspondence** – includes: conversation we have when you contact customer service, the emails you write us about our products or services, the complaints you address to us via post, e-mail, fax, or call, notes we prepared on your feedback, call back from our Customer Service to you, and any other communication between you and adidas personnel. We record all Customer Service calls for quality assurance purposes. ****
 
-We will share your personal information as well as anonymised and aggregated information with other members of the adidas Group (such as adidas A.G., the parent company of the group, and/or other adidas entities as necessary). They will use this personal information for trend analysis.
+  
+  
+  * **Preference information** \- includes: preferred language, log-in location, Wishlist items, preferred shipping address, browsing preferences, our correspondence with you, your adidas product reviews. We use it to give you convenience when you visit and/or shop on our sites and apps. ****
 
-### **With service providers**
 
-We will share your personal information as necessary and only for the purposes described above with various third parties who process your personal information on our behalf, such as third parties that run our loyalty program and/or Prize Giveaways/competitions, hosting, delivery, payment and fraud management providers and credit scoring agencies. We require that these third parties adhere to strict rules when processing your personal information, including to only use your personal information in accordance with adidas' instructions and the applicable laws.
+  * **Creators Club information** – includes: Unique Member Identifier (member ID), date you became a member, store ID (if you signed up in a retail store), source ID, country and brand of your original membership, membership points, engagement history, rewards history, membership vouchers associated to members. All the information the listed here will be kept for as long as you are a Creators Club member.   ****
 
-### **With social networks**
+  
+  
+  5. What does adidas do with your Personal Data and why (Purpose,  Processing, Legal Basis)?
 
-Our website and apps will, in certain circumstances, provide you with social plug-ins from various social networks. If you choose to interact with a social network such as Facebook or Twitter (for example by registering an account), your activity on our website or via our apps will also be made available to that social network. If you are logged in on one of these social networks during your visit to one of our websites or apps or are interacting with one of the social plug-ins, the social network might add this information to your respective profile on this network based on your privacy settings. If you would like to prevent this type of data transfer, please log out of your social network account before you enter one of our websites or apps, or change the app's privacy settings, where possible. Please read the privacy policies of those social networks for detailed information about the collection and transfer of personal information, what rights you have and how you can maintain suitable privacy settings for your needs.
 
-### **With legal and law enforcement**
 
-adidas will disclose personal information where required by law or legal process, for the administration of justice, to protect your vital interest, for investigations by law enforcement or regulatory bodies, to protect and defend adidas' property and legal rights, to protect the personal safety of adidas website or (mobile) app users or by order of a valid injunction from a court or law enforcement agency.
+**Purpose**
 
-### **With your consent**
+| 
 
-We will share your personal information with other third parties (different from those described above, for example, sports or fitness centres or when you decide to connect our devices with third party devices) in other limited circumstances. In these instances we will, where required by applicable law, obtain your consent to share your personal information in this way.
+**Legal Basis**  
+  
+---|---  
+  
+  * I. Site (Adidas Domain) Operation and App Operation
 
-## **HOW WE PROTECT YOUR PERSONAL INFORMATION**
+| 
 
-We are committed to protecting your personal information and implement appropriate technical and organisational security measures to protect it against any unauthorised or unlawful processing and against any accidental loss, destruction, or damage.
+Legitimate Interest  
+  
+  * II. Domain and Network Security and User Authentication
 
-## **RETAINING YOUR PERSONAL INFORMATION**
+| 
 
-We will keep your personal information for two years from your last interaction with us, such as the date your account was deleted, your last purchase, the last time you used one of our apps or in some other way contacted or interacted, unless a longer or shorter retention period is required by law, is necessary in the course of legal proceedings or is otherwise needed for a particular purpose under applicable law.
+Legitimate Interest  
+  
+  * III. Global Credential to All Adidas Platforms – User Experience
 
-The following are examples to illustrate how adidas keeps your personal information for as long as necessary for a particular purpose:
+| 
 
-  * we may keep your personal information collected during a purchase for as long as required by tax laws (longer than 2 years in some European countries);
-  * we may keep your personal information for a shorter period if you ask us to delete your personal information. In such a case, adidas will aim to delete your personal information within a maximum period of one month from the date of the request;
-  * information collected in connection with promotions will be kept for no longer than one month following the end of the promotion.
+Legitimate Interest  
+  
+  * IV. Sales of adidas Products - Online and Off-Line Order
 
+| 
 
+Performance of Contract  
+  
+  * V. Payment Fraud Detection
 
-## **INTERNATIONAL TRANSFERS OF YOUR PERSONAL INFORMATION**
+| 
 
-Unless stated otherwise, we store and process your personal information in the European Union. There will, however, be occasions when we need to transfer your personal information outside of the European Economic Area ("EEA") to a country which does not provide the same level of data protection as the country in which you normally use our products and/or services. In these circumstances we will take appropriate steps to ensure that your personal information is adequately protected. Typically, such steps include carrying out data security reviews of any recipients and putting in place contracts with such recipients to ensure they employ the same or similar appropriate technical and organisational measures as adidas, so your data is adequately protected.
+Performance of Contract  
+  
+  * VI. Product Delivery
 
-## **INFORMATION ABOUT CHILDREN**
+| 
 
-As a general rule, we do not intentionally collect personal information about children under the age of 13. If we become aware that we have inadvertently collected personal information about children under the age of 13, we will take steps to delete the information as soon as possible, except where we are required by applicable law to keep it.
+Performance of Contract  
+  
+  * VII. Electronic Delivery Tracking
 
-Where we know a child is above the age of 13, but considered a minor under applicable law, we will obtain parental/guardian consent prior to using that child's personal information.
+| 
 
-## **LINKS TO OTHER WEBSITES AND SERVICES**
+Consent  
+  
+  * VIII. Business Operational Analytics
 
-Our websites may contain links to third party websites, and some of our services provide you with access to third party services (such as social networks).
+| 
 
-We have no control over how third party websites and services process your personal information. We do not review third party websites and services, and we are not responsible for such third party websites and services or their privacy practices. Please read the privacy statements of any third party websites or services that you access from our websites or services.
+Legitimate Interest  
+  
+  * IX. Customer Service
 
-## **YOUR RIGHTS IN RELATION TO YOUR PERSONAL INFORMATION**
+| 
 
-Fair play and transparency are important to us. We are open  about the personal information we collect and  have implemented  mechanisms  to enable you to  exercise any  rights you might have with respect to your personal information.
+Legitimate Interest  
+  
+  * X. Personalised Marketing Messages Via Email (Newsletter Sign-Up)
 
-### **Access and correction of personal information**
+| 
 
-If you have ordered products or services or registered an account with us, you can access a significant amount of your personal information through one of our websites. Our websites generally present you with the option to add, update or remove information we have about you
+Consent  
+  
+  * XI. Personalised Marketing Messages Via Email (Via Existing Contract)
 
-If any personal information we have about you is not accessible through our website, you can send us a request for access to this information at no cost using the contact details set out at the end of this privacy statement [insert link].
+| 
 
-After receiving your request and sufficient information to verify your identity we will provide you with a copy of the personal information we have about you which you are entitled to have under applicable law. We will also confirm the purposes for which such personal information is being used, its recipients and the origin of the information.
+Legitimate interest  
+  
+  * XII. Targeted Messages On 3rd-Party Advertising Platforms
 
-You may write to us at any time requesting amendments to certain personal information that you consider to be incorrect or irrelevant or to request that we block, erase or otherwise remove your personal information. We will update, block, erase or remove your personal information upon request in line with applicable law.
+| 
 
-## **OPTING OUT AND UNSUBSCRIBING FROM MARKETING MESSAGES**
+Consent  
+  
+  * XIII. Creators Club Membership Administration – Where Applicable
 
-All our marketing communications contain an easy way to opt out from receiving future messages, such as a link through which you can unsubscribe. You may also opt out for particular channels (for example email or SMS) as indicated in the message received in such channel or through your adidas account settings.
+| 
 
-If you would like to opt out of receiving adidas marketing messages you may use the unsubscribe link contained in the messages you have received, or alternatively you could contact our:  
- 
+Performance of Contract  
+  
+  * XIV. Private Event Registration
 
-Customer service department
+| 
 
-Online at <http://www.adidas.ie/contact.html> or
+Performance of Contract  
+  
+  * XV. Open Event Registration
 
-by telephone at 1800-930151
+| 
 
-Data Protection team
+Legitimate Interest  
+  
+  * XVI. Product Research and Development
 
-by E-mail at : [dataprotection@adidas-Group.com](mailto:dataProtection@adidas-Group.com)
+| 
 
-Note that if you choose to opt out of receiving marketing messages in the manner explained above, we will continue to process your personal information, in particular to allow us to understand your interests and preferences, but we will stop using your personal information to send you personalised or non-personalised marketing messages. If you would like us to stop such processing in part or in full, we have explained how to do this in the above paragraph.
+Legitimate interest  
+  
+  17. Legal Obligation - Cooperation with Law Enforcement And Regulatory Authorities (Including Courts)
 
-Please note that some of our mobile apps might also send you messages, including (if you have given your permission to do so) push messages, for instance about new products or services. In this case, the particular mobile app will provide just in time notices before we send you push notifications.  You can disable these messages through the settings in your phone or the app, or choose to uninstall the app to stop receiving the messages.
+| 
 
-## **DELETION OF INFORMATION**
+Legal Obligation  
+  
+  18. Collecting Your Device Information on Our Website Using Cookies, Pixels, Tags, And Similar Technologies (“Cookies Notice”)
 
-You may at any time ask adidas to delete your personal information.  We will consider and where necessary comply with your request in accordance with applicable law, as explained above.
+| 
 
-## **CHANGES TO THIS POLICY**
+Legitimate Interest | Consent  
+  
+  * XIX. User-Generated Content (UGC) Acquisition From Social Media
 
-adidas has pledged to adhere to the fundamental principles of privacy and data protection. We therefore regularly review our online privacy statement in order to ensure that it is free of errors and clearly visible on websites, that it contains appropriate information about your rights and our processing activities, and that it is implemented and is compliant with applicable law. We may update this privacy statement from time to time to keep it up to date, to keep pace with new developments and opportunities relating to the Internet and to stay in line with applicable law. If we make significant changes to this privacy statement, we will inform you by posting a notification on our websites and/or mobile apps along with an updated version of the privacy statement
+| 
 
-## **CONTACT INFORMATION**
+Performance of Contract  
+  
+  * XX. Push Notifications (In-App Communication)
 
-If you have any questions about our use of your personal information, how to exercise your rights or about our privacy statement you are welcome to contact us at:
+| 
 
-### **Customer service**
+Legitimate Interest  
+  
+  |   |    
+  
+In this section, we explain: 
 
-Online at http://www.adidas.ie/contact.html or
+  1. When and Why do we need your Personal Data (“ **Purpose** ”)?
+  2. What allows us to use your Personal Data for each Purpose (“ **Legal basis** ”)? 
+  3. What do we do to your Personal Data for each Purpose (“ **Processing** ”)?
+  4. Which of your Personal Data do we need for each Purpose (“ **Categories of Personal Data** ”)?
+  5. How long do we keep your Personal Data for each Purpose (“ **Retention period** ”)?
+  6. With whom (types of service providers) do we share your Personal Data to achieve the purpose (“ **Categories of recipients** ”)?
 
-by telephone at 1800-930151 (free number)
 
-### **Data Protection team**
 
-by E-mail at : [dataprotection@adidas-Group.com](mailto:dataProtection@adidas-Group.com)
+  * I. SITE (ADIDAS DOMAIN) OPERATION AND APP OPERATION
 
-if you prefer to contact us by regular mail, please send your request to the following address:  
- 
+  
+---  
+  
+**PROCESSING**
 
-adidas International Trading BV
+| 
 
-Legal and Compliance Department
+To run the sites that are connected to the adidas domain and the adidas app, fix bugs to make sure you always see the site the way we intended, and monitor compliance with our Terms and Conditions, we screen all traffic to our site and analyse data that is received by our servers. 
 
-Hoogoorddreeft 9a
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.     COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.  
+  
+**LEGAL BASIS**
 
-1101 BA Amsterdam
+| 
 
-The Netherlands  
- 
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DATA**
 
-**LAST UPDATED:** 07 December 2016  
- 
+| 
 
-### **LAST UPDATED:** 07 December 2016
+Device information
 
-## **WHAT YOU SHOULD KNOW ABOUT COOKIES**
+Identity information
 
-### **First of all… what are cookies?**
+Behavioural and Profile information 
 
-Cookies are small text files that are stored on your computer or mobile device when you visit a website. For this section, we conveniently use "cookies" as an umbrella term for techniques such as cookies, Flash cookies and web beacons. They don’t take much space and they will be removed automatically when expired. Some cookies expire at the end of your internet session, while others will be saved for a limited amount of time.  
- 
+Preference information  
+  
+**RETENTION PERIOD**
 
-### **Secondly… what are the different cookie types we use?**
+| 
 
-There are different types of cookies with different uses. Some are there just to allow you to browse the website and see certain features. Some give us an idea on your browsing experience, i.e. when you have trouble finding what you are looking for, so we can improve and make your future visit as pleasant as possible. 
+**Browsing Session**
 
-Cookies set by adidas are called "first party cookies".  Cookies set by parties other than us are called "third party cookies".  Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics).  The parties that set these third party cookies can recognise your computer or mobile both when it visits the website in question and also when it visits certain other websites.  We use first party and third party cookies for several reasons.
+We need your data for as long as you are on the site. We keep it for the duration of your browsing session.   
+  
+**CATEGORIES OF RECIPIENTS**
 
-The most important cookies are the required cookies. They are essential and help you to navigate on the website and to use basic features, such as media plugins. Then there are functionality cookies that enable you to save your shopping bag, create a wish list and to save your shipping details for a quicker checkout. The performance and analytics cookies we use to improve our website. We also like to show you relevant offers. To manage this we collect browsing data, which may be linked to a unique identifier (click [here] for our privacy statement). Interaction cookies are used for you to interact with social media or to submit reviews.  Targeting cookies, advertising cookies and social media cookies capture your preferences in order to show you relevant ads outside adidas sites. In addition, social media cookies may be used to track your activity over social media platforms.
+| 
 
-### **Next… why do we use cookies?**
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Site Administration Support Providers
 
-adidas uses cookies primarily to ensure your visit to our website is as pleasant as possible, as well as for advertising-related purposes during your future visits to other websites. Below you see a more elaborate overview of the types of cookies we are using and why:
+  
+  
+  * II. DOMAIN AND NETWORK SECURITY AND USER AUTHENTICATION
 
-  1. REQUIRED COOKIES  
-are essential and help you navigate, move around on the website and see certain features (e.g. these cookies make sure your basket is saved during all the steps of your checkout process). These cookies are required to enable core site functionality. These cookies are stored for the duration of your browsing session.
-  2. FUNCTIONALITY AND ANALYTICS COOKIES  
-are there so we can give you an even smoother customer experience (e.g. these cookies help you to save and remind you about your shopping bag and enable you to create a wish list). These cookies allow us to analyse site usage so we can measure and improve performance. These cookies may be placed by us or a third party on our behalf (see our cookie opt-out tool) and are stored for the duration of your browsing session.
-  3. ADVERTISING AND SOCIAL MEDIA COOKIES
+  
+---  
+  
+**PROCESSING**
 
+| 
 
-  * will remember your product and buying preferences or assist marketing efforts in other ways. These cookies enable us to share data, such as what you like, with our advertisers, so the advertisement you see can be more relevant to your preferences (sometimes referred to as "targeting cookies").
-  * help us to understand shopping behaviour of visitors. This enables us to keep improving our website, so shopping becomes easier and more pleasant, and to improve the marketing messages we send to our customers (sometimes referred to as "performance cookies").
-  * are used for you to express your opinion. These cookies will enable you to like or recommend us on social media and to chat with our service agents. But you can also advise our other (potential) customers by rating and reviewing our products (sometimes referred to as "interaction cookies").
+To protect our domains, detect unusual activities, and prevent security threats and protect our site-visitors from unauthorised accesses (such as hackers), we screen all traffic to our sites, and authenticate user log-in information using tokens to verify the details you provide to us and compare it with other available information, such us the credentials you have provided directly to adidas or other platforms (such as Runtastic or Facebook) or information that is available in the public domain to ensure only “authorised” users have access to our sites. 
 
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.  
+  
+**LEGAL BASIS**
 
+| 
 
-additional information
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DATA**
 
-### **What if you don’t like cookies?**
+| 
 
-You can change your browser settings to delete or prevent certain cookies from being stored on your computer or mobile device without your explicit consent. The ‘help’ section in your browser should provide information on how to manage your cookie settings. Find out how this works for your browser here:  
- 
+Device information
+
+Identity information
+
+Behavioural and Profile information 
+
+Preference information  
+  
+**RETENTION PERIOD**
+
+| 
+
+**Browsing Session**
+
+We need your data for as long as you are on the site. We keep it for the duration of your browsing session.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Site Administration Support Providers
+
+  
+  
+  * III. GLOBAL CREDENTIAL TO ALL ADIDAS PLATFORMS – USER EXPERIENCE
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We know you don’t like to remember usernames and passwords, or having to register multiple times. 
+
+To enable our users to log on to all platforms, portals, services, communities and apps operated by or on behalf of adidas Data Controllers (which includes the Runtastic app and services) (“ **adidas Platforms** ”) with one set of log-in credentials (“adidas Log-In”), we store your adidas Log-In in our global authentication platform. When you use your adidas Log-In to enter any adidas Platform, we will use a token to verify your identity from our global authentication platform. This also further ensures our network and domain security.
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information 
+
+Creators Club information (for Creators Club members only)
+
+Preference information  
+  
+**RETENTION PERIOD**
+
+| 
+
+**Your account duration or Inactivity+25 months**
+
+To allow you to sign in with your adidas Log-In on adidas Platforms, we need to maintain your data for as long as you have an account with us, or if you stop using our services without requesting to delete your data, we will keep it for 25 months after your last log in.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Site Administration Support Providers
+
+  
+  
+  * IV. SALES OF ADIDAS PRODUCTS - ONLINE AND OFF-LINE ORDER
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+To process your online and/or in-app orders, make sure your payment is received, comply with the requirements under our Terms and Conditions (3. Purchase Terms) (for selling you the products) including invoice processing, delivery, personalisation services, exchanges and refunds, click and collect. Your order cannot be completed if our payment fraud detection solutions flag your transaction as suspicious and potentially fraudulent.  Please note the payment fraud detection system is an automated decision-making process. It is required to allow us to conclude the contract with you. You have the right to request a human review of this decision, and challenge the decision.   
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information
+
+Location information
+
+Size information
+
+Purchase information
+
+Correspondence
+
+Device information
+
+Creators Club information (for Creators Club members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of contract and statutory limitation period. We need to keep the information in case of any legal disputes concerning the contract.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Selling Partners (where applicable)
+  * Manufacturing Providers
+  * Delivery Service Providers
+  * Payment Risk Solution Providers
+  * Payment Processing Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * V. PAYMENT FRAUD DETECTION
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We combine the purchase information you provide to us with other information we obtain through our third-party payment risk and fraud prevention service providers to ensure any purchases are legitimate, or you do not purchase our products in violation with our terms and conditions. This means depending on the outcome of the analysis of your information, we may reject your order, and decline your payment. This is an automated decision-making process that is required to conclude our sales contract with you.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information
+
+Behavioural and Profile information 
+
+Purchase information
+
+Device information  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of contract and statutory limitation period. We need to keep the information in case of any legal disputes concerning the contract.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Payment Risk Solution Providers
+  * Payment Processing Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * VI. PRODUCT DELIVERY
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+Once you have successfully placed an order, we use your contact details (home and/or shipping address) and other purchase information to deliver the products you purchased to you.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information: Name
+
+Contact information: Shipping Address  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of contract and statutory limitation period. We need to keep the information in case of any legal disputes concerning the contract.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Delivery Service Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * VII. ELECTRONIC DELIVERY TRACKING
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+**_This is a service provided on request of the consumer by our Delivery Partners._**
+
+You have the option to track your delivery using services provided directly by our delivery partners; however, we will only be able to share your information with our delivery partners for this purpose with your consent. The service is hosted on the Delivery Partner’s platform. You should read their Privacy Notice for the processing of your Personal Data for this purpose.  
+  
+**LEGAL BASIS**
+
+| 
+
+Consent  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information
+
+Any other information you may directly and voluntarily provide to the Delivery Partner  
+  
+**RETENTION PERIOD**
+
+| 
+
+As determined by our Delivery Partner.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Delivery Service Providers
+
+  
+  
+  8. BUSINESS OPERATIONAL ANALYTICS
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We need to know how we do as a business. This is in the interest of our shareholders, our board members, our employees, and our partners. For this purpose, we need to analyse different categories of information to understand how our products are selling in different markets, what are the popular features of our products, what worked and what didn’t in terms of our marketing and advertising campaigns, our product designs and distribution strategy, our website design and overall user experience, so we can establish, implement, and evaluate our business strategy. 
+
+This includes analysing data to understand how users browse our site and use the app to improve our user experience design to make sure you will continue to purchase our products and interact with us on our sites and applications. 
+
+To minimise the risk to you as an individual, we will only use either the unique consumer identifier or the IP address for this purpose. 
+
+You can learn more about how our Data Analytics Solution Providers provide analytics services by using your data here:
+
+Adobe Analytics Data Collection: <https://marketing.adobe.com/resources/help/en_US/reference/c_Privacy_Overview.html>
+
+Google Analytics Data Collection:
+
+<https://support.google.com/analytics/answer/6318039?hl=en>  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information: Unique Consumer Identifier (only)
+
+Size information 
+
+Purchase information
+
+Behavioural and Profile information 
+
+Community information
+
+Activity information
+
+Device information
+
+Correspondence
+
+Creators Club information (for Creators Club members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+When using analytics services provided by the vendors identified above, we are required to retain data for the period specified by these vendors. You can find the retention period indicated by the vendors here:
+
+Adobe Analytics: 36 months (<https://marketing.adobe.com/resources/help/en_US/reference/data-retention.html> )
+
+Google Analytics: 38 months
+
+(<https://support.google.com/analytics/answer/7667196?hl=en>)
+
+We need the information for this duration to produce accurate analysis of our business operations.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Prospective Buyers and Investors
+  * Business Consulting Service Providers
+  * Data Analytics Solution Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * IX. CUSTOMER SERVICE
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We collect your Personal Data to tell you when the product you like is available upon your request and respond to your questions and concerns through various communications channels we make available to you.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information
+
+Location information
+
+Size information
+
+Purchase information
+
+Correspondence
+
+Creators Club information (for Creators Club members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+Statutory limitation period. We need to keep the information in case of any legal disputes.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * Customer Service Provider
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Selling Partners (where applicable)
+  * Delivery Service Providers
+  * Payment Risk Solution Providers
+  * Payment Processing Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  * X. PERSONALISED MARKETING MESSAGES VIA EMAIL (Newsletter Sign-Up)
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We send you marketing messages that we think you would be interested (“personalised”) to the email address you provide to us because you signed up to our email newsletters. To send you “personalised” messages, we observe your online (and sometimes, where applicable, offline) behaviour, and analyse your behaviour using analytics to best estimate what product lines you might be interested in, and you can benefit from. This requires us to collect various categories of Personal Data from you. We use different analytics tools to understand what your behaviour means in terms of your like and dislike of our various product lines, and to understand the impact (success rates) of the messages delivered to you.
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.             COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.   
+  
+**LEGAL BASIS**
+
+| 
+
+Consent  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information (if available to adidas)
+
+Location information
+
+Size information (if available to adidas)
+
+Purchase information (if available to adidas)
+
+Behavioural and Profile information (if available to adidas)
+
+Community information (if available to adidas)
+
+Social Media information (if available to adidas)
+
+Activity information (if available to adidas)
+
+Device information
+
+Preference information (if available to adidas)  
+  
+**RETENTION PERIOD**
+
+| 
+
+We retain it for as long as you do not withdraw your consent sending you emails or object to us processing your Personal Data for marketing purposes.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Email Marketing Support Providers
+  * IT Cloud Solution Providers
+
+  
+| 
+
+  * XI. PERSONALISED MARKETING MESSAGES VIA EMAIL (via existing contract)
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We send you marketing messages that we think you would be interested in (“personalised”) to the email address you provide to us during a purchasing contract. To send you “personalised” messages, we observe your online (and sometimes, where applicable, offline) behaviour, and analyse your behaviour using analytics to best estimate what product lines you might be interested in, and you can benefit from. This requires us to collect various categories of Personal Data from you. We use different analytics tools to understand what your behaviour means in terms of your like and dislike of our various product lines, and to understand the impact (success rates) of the messages delivered to you.
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.   
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate interest  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information (if available to adidas)
+
+Location information
+
+Size information (if available to adidas)
+
+Purchase information (if available to adidas)
+
+Behavioural and Profile information (if available to adidas)
+
+Community information (if available to adidas)
+
+Social Media information (if available to adidas)
+
+Activity information (if available to adidas)
+
+Device information
+
+Preference information (if available to adidas)
+
+Creators Club information (for Creators Club members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+We retain it for as long as you do not object to us processing your Personal Data for marketing purposes, including sending of marketing messages.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Email Marketing Support Providers
+  * IT Cloud Solution Providers
+
+  
+| 
+
+  * XII. TARGETED MESSAGES ON 3RD-PARTY ADVERTISING PLATFORMS
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We use third-party advertising platforms, such as Facebook, Google, YouTube, Instagram, etc. to send you messages that are targeted at you, based on your behaviour and browsing pattern, at specific times and locations of these platforms to increase the efficiency of our advertising campaigns. We use third-party solutions such as **Google Audience** and **Facebook Custom Audience** to help us do a better job at targeting our campaigns and messages for our consumers. Your Personal Data is shared with the third-party advertising platforms, and they will attempt to match your profile in their database to determine the optimal time and place (the page you are browsing) to show you an advertisement from adidas. We also need to analyse necessary information to understand the impact of our campaigns. If you don’t accept that we track you for this purpose, you will _still_ see adidas advertisements on other platforms at random. 
+
+You can learn more about how our Advertising Partners help us achieve this purpose by visiting their sites:
+
+**Google Personalised Advertising** : <https://support.google.com/adspolicy/answer/143465?hl=en>
+
+**Google Advertising Policies** : https://support.google.com/adspolicy/answer/6020956
+
+**Facebook Lookalike Audiences** : <https://www.facebook.com/business/help/164749007013531>
+
+**Facebook Custom Audience Terms** : <https://www.facebook.com/legal/terms/customaudience>
+
+**Use of Cookies/Tags/Pixels:** We may collect your personal details for this purpose by using technologies such as cookies, pixels and tags to collect your device information. More information is available in “ **XVIII.      COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES**”.   
+  
+**LEGAL BASIS**
+
+| 
+
+Consent  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information (if available to adidas)
+
+Location information
+
+Size information (if available to adidas)
+
+Purchase information (if available to adidas)
+
+Behavioural and Profile information (if available to adidas)
+
+Community information (if available to adidas)
+
+Social Media information (if available to adidas)
+
+Activity information (if available to adidas)
+
+Device information
+
+Preference information (if available to adidas)
+
+Creators Club information (for Creators Club members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+We retain it for as long as you do not withdraw your consent.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Advertising Agency Partners
+  * Social Media Platforms
+  * Targeted Marketing Service Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  13. CREATORS CLUB MEMBERSHIP ADMINISTRATION – WHERE APPLICABLE
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+_Please note this section only applies if you are joining adidas Creators Club to become a Creators Club member._
+
+When you become an adidas Creators Club member, we use the information specified above to maintain and administer your membership as described in the Creators Club Terms and Conditions. 
+
+In particular, your Personal Data is used for: 
+
+a) calculating your club points to provide you rewards; 
+
+b) providing you access to special offers and promotions; 
+
+c) sending you invitations to exclusive events; 
+
+d) allowing you access to limited edition products; 
+
+e) providing you access to a premium Runtastic subscription when eligible; 
+
+f) storing your shipping address and payment details to shorten check-out time online and in the app; 
+
+f) storing your complete order history so you can access it at any time; and 
+
+g) allowing you to track your order delivery from your account.
+
+When you use your Creators Club membership ID, we receive the information to calculate reward points for you, such as when you purchase in participating adidas brand retail stores. Your data will be shared with Creators Club Partners who provide certain rewards according to Creators Club Terms and Conditions. 
+
+You will receive email marketing messages from adidas as a Creators Club member. If you wish to unsubscribe from our marketing messages, please refer to “ **8.      What are your rights and how can you exercise them?**” section. 
+
+You can also use your Creators Club membership in adidas apps. When you use adidas apps with your Creators Club membership, we use push notifications in the app to communicate information about your membership or promotional activities and offers. You can switch off push notifications at any time using “Settings” in your mobile devices. However, if you switch off push notifications, we may need to contact you via emails for important messages relating to your membership.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Creators Club information
+
+Size information (if available to adidas)
+
+Purchase information (if available to adidas)
+
+Behavioural and Profile information (if available to adidas)
+
+Community information (if available to adidas)
+
+Social Media information (if available to adidas)
+
+Activity information (if available to adidas)
+
+Device information (if available to adidas)
+
+Preference information (if available to adidas)  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of contract and statutory limitation period. We need to keep the information in case of any legal disputes concerning the contract.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Prospective Buyers and Investors
+  * Business Consulting Service Providers
+  * Data Analytics Solution Providers
+  * Creators Club Partners
+
+  
+  
+  14. PRIVATE EVENT REGISTRATION
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+When you sign up for an event we organise that have limited spots, we use the Personal Data you provide to reserve a spot for you. Your Personal Data will be used according to the Terms and Conditions associated with the event.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information
+
+Location information
+
+Activity information: any information we may collect from you on the day of the event.
+
+Creators Club information (for Creators Club members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of the event and statutory limitation period in case of any disputes.   
+  
+**RECIPIENTS**
+
+| 
+
+  * adidas Controller organizing the event. 
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Event Partners (where applicable)
+  * IT Cloud Solution Providers (where applicable)
+
+  
+  
+  * XV. OPEN EVENT REGISTRATION
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We often also organize events that are open to everyone. We use the Personal Data you provide to keep you inform of the events you are interested in.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information
+
+Contact information
+
+Location information
+
+Activity information: any information we may collect from you on the day of the event.
+
+Creators Club information (for Creators Club members only)  
+  
+**RETENTION PERIOD**
+
+| 
+
+For the duration of the event + 36 months if the data from a particular event is used for **BUSINESS OPERATIONAL ANALYTICS** purpose.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Controller organizing the event. 
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Event Partners (where applicable)
+  * IT Cloud Solution Providers (where applicable)
+
+  
+  
+  16. PRODUCT RESEARCH AND DEVELOPMENT
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+We conduct analysis to research improve our products and services. This includes asking you questions in surveys, asking you for feedback, asking you to test our products and provide us with a review, asking other service providers to conduct market and product research for us, try new technologies in our product that might collect Personal Data to stay ahead of the competition. We retain this information based on our “legitimate interest”, so by participating in any product review or survey, you agree that this is our legitimate interest. Where you wish to object to this legitimate interest, we will anonymise your information, so it is no longer Personal Data.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate interest  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information (only if required by the project)
+
+Contact information (only if required by the project)
+
+Location information (only if required by the project)
+
+Size information
+
+Purchase information (only if required by the project)
+
+Behavioural and Profile information (only if required by the project)
+
+Community information: this is the response you provided whichever format agreed at the time of the project.
+
+Social Media information (only if required by the project)
+
+Activity information (only if required by the project)
+
+Device information (only if required by the project)
+
+Correspondence (only if required by the project)
+
+Preference information 
+
+Creators Club information (for Creators Club members only)
+
+Health information: **if a project requires you to also provide health information, we will explicitly ask for your consent.**  
+  
+**RETENTION PERIOD**
+
+| 
+
+The duration of the project and statutory retention period stated to protect our IP rights.   
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Prospective Buyers and Investors
+  * Business Consulting Service Providers
+  * Data Analytics Solution Providers
+  * Manufacturing Providers
+  * IT Cloud Solution Providers
+
+  
+  
+  17. LEGAL OBLIGATION - COOPERATION WITH LAW ENFORCEMENT AND REGULATORY AUTHORITIES (INCLUDING COURTS)
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+When we are legally required to provide your Personal Data for national and public security reasons, crime prevention, investigation and prosecution, anti-money laundering, judicial proceedings, protection of other individuals’ rights and freedoms, and enforcement of civil claims, we will provide information as requested by the authorities or parties once we are satisfied that the request is mandated by law. We may not be able to notify you if it is against the law to do so.   
+  
+**LEGAL BASIS**
+
+| 
+
+Legal Obligation  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+All Categories of Personal Data as requested by the enforcement authority.  
+  
+**RETENTION PERIOD**
+
+| 
+
+For as long as required by law.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates
+  * Local and national government authorities, including tax authorities
+  * Local and national law enforcement agencies
+  * Local and national judiciary
+
+  
+  
+  18. COLLECTING YOUR DEVICE INFORMATION ON OUR WEBSITE USING COOKIES, PIXELS, TAGS, AND SIMILAR TECHNOLOGIES (“COOKIES NOTICE”)
+
+  
+---  
+  
+When you visit the adidas site, we store data collectors such as cookies, tags, pixels, tag containers, beacons, among others, in your browser to obtain certain information about your current browsing session. These technologies are often referred to as “ **Cookies** ” collectively by other websites. Cookies also enable our website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another. We use Cookies for different purposes, which also mean they have different legal bases. Please review the information below to understand how we use different types of Cookies to fulfil different purposes.  
+  
+**PROCESSING**
+
+| 
+
+“ **REQUIRED** ” – site functionality and business operation. 
+
+We use “ **Required Cookies** ” to operate our site. This includes storing a unique identifier to manage and identify you as a unique visitor to our site, to provide a consistent and accurate service to you. This includes making sure that we remember the products you have placed in your cart, or your language preferences. These Cookies are stored for the duration of your browsing session. Without these Cookies, you will not be able to view our site properly.  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**PROCESSING**
+
+| 
+
+“ **FUNCTIONAL** ” – website improvement and performance 
+
+We use “ **Functional Cookies** ” to continuously improve our website performance. This includes using the data we collected from you to do the following: 
+
+  * **Web analytics** —Based on your browsing behaviour, we will analyse the data to improve the functionality and design of our site. 
+  * **Ad response rates** — Based on how you come to our site, we will measure our ad response rates by analysing our ad click-through rates to improve the effectiveness of advertising purchased on a site external to ours. 
+  * **Affiliate tracking** — We need to let our affiliate marketing partners, or service providers have certain information if you came to our site, and purchased products, through a visit to theirs. This is required as we may need to provide them a fee for such services. For this purpose, we will share information about your visit, including the products you have purchased. 
+  * **Error management** — We measure errors presented on a website, to make sure we fix bugs or any issues promptly. 
+  * **Testing designs** — We need to use A/B testing or multivariate testing, to ensure a consistent look and feel is maintained for the user of the site in the current and subsequent sessions.
+
+  
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**PROCESSING**
+
+| 
+
+“ **MARKETING** ”
+
+We use “ **Marketing Cookies** ” provided by our advertising partners to make sure our advertising messages are shown to you at the right time and the right place. These Cookies are persistent but time-limited cookies. These Cookies contain a unique key to distinguish individual users’ browsing habits. We also use these Cookies to limit the number of times a user sees a particular ad on a website and to measure the effectiveness of a particular campaign. The identifier stored by these Cookies are provided by our partners. We cannot use the same identifier in our own systems. We also use these cookies to serve ads that are relevant to your immediate geo-location, for example to provide you with the nearest store where the product you are browsing may be available.   
+  
+**LEGAL BASIS**
+
+| 
+
+Consent  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Device information
+
+Location information
+
+Behavioural and Profile information: this is collected through observing your browsing behaviour
+
+Preference information (if available to adidas)  
+  
+**RETENTION PERIOD**
+
+| 
+
+The cookies, pixels, tags, and other similar technologies used to collect your device information and browsing behaviour information are stored in your browser for the session or for as long as you do not clear your browser cookie setting. 
+
+The data we obtained through the cookies related to other purposes will be stored for the duration of that purpose.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates
+  * Site Administration Support Providers
+  * Business Consulting Service Providers
+  * Data Analytics Solution Providers
+  * Advertising Agency Partners
+  * Social Media Platforms
+  * Targeted Marketing Service Providers
+
+  
+| 
+
+You can change your browser settings to delete or prevent certain cookies from being stored on your computer or mobile device without your explicit consent. The ‘help’ section in your browser should provide information on how to manage your cookie settings. 
+
+Find out how this works for your browser here:
 
 Internet Explorer: <https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies>
 
@@ -378,20 +1417,434 @@ Opera: <http://www.opera.com/browser/tutorials/security/privacy/>
 
 Adobe (flash cookies): <http://www.adobe.com/privacy/policies/flash-player.html>
 
-Note that you may visit <http://www.aboutads.info/choices> or <http://www.youronlinechoices.eu/> to learn about the options that some of the third parties we work with offer for opting out of certain ad targeting activities.  You will need to visit those websites from each browser and device that you would like to be  covered by your opt-out. Because the opt-out tools may depend on cookies, you may need to visit these sites again to reinstate your preferences if you delete your cookies.
+Google Chrome App: [https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en)
 
-### **How often will you update this Cookie Statement?**
+These websites will also help you understand more about how Cookie-based advertising works and how you can manage your Cookie Settings:
 
-We may update this Cookie Statement from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons.  Please therefore re-visit this Cookie Statement regularly to stay informed about our use of cookies and related technologies. 
+<http://www.aboutads.info/choices>
 
-The date at the top of this Cookie Statement indicates when it was last updated. 
+<http://www.youronlinechoices.eu/>
 
-### **Finally…w** **here can I get further information?**
+Network Advertising Initiative opt-out page: <http://optout.networkadvertising.org/?c=1>
 
-If you have any questions about our use of cookies or other technologies, please email us at [dataprotection@adidas-Group.com](mailto:dataProtection@adidas-Group.com)
+You can learn more about the laws governing the use of “Cookies” here: <http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm>  
+  
+  19. USER-GENERATED CONTENT (UGC) ACQUISITION FROM SOCIAL MEDIA
 
- 
+  
+---  
+  
+**PROCESSING**
 
-* * *
+| 
 
-[1] adidas Group is formed by adidas AG (Adi-Dassler-Straße 1, 91074 Herzogenaurach, Germany) and its affiliate entities including adidas International Trading B.V., Atlas Arena, Africa Building, Hoogoorddreef 9a, 1101 BA Amsterdam ZO, The Netherlands.
+We invite you to provide your images to us via social media platforms by following specific instructions such as “#yesadidas”. We will be using the images you provide for our campaign communications. We will obtain rights to your image through a licence agreement in the form of our terms and conditions. By submitting your images via social media platforms to us, you will agree for us to use your images as described in the licence agreement.  
+  
+**LEGAL BASIS**
+
+| 
+
+Performance of Contract  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Identity information: your social media handler
+
+Community information: images, videos, comments, sound recordings and other files provided through the social media platform promoting adidas
+
+Social Media information  
+  
+**RETENTION PERIOD**
+
+| 
+
+Duration of licence agreement and statutory limitation period in case of any disputes.   
+  
+**RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates 
+  * Event Partners (where applicable)
+  * UGC Support Partners
+  * Advertising Agency Partners
+  * Social Media Platforms
+  * IT Cloud Solution Providers (where applicable)
+
+  
+  
+  * XX. PUSH NOTIFICATIONS (IN-APP COMMUNICATION)
+
+  
+---  
+  
+**PROCESSING**
+
+| 
+
+When you use the adidas app, we use push notifications in this app to communicate with you concerning the purposes stated in this Notice. This includes information that relates to purposes based on the Performance of Contract (such as your purchase). You can switch off push notifications at any time using “Settings” in your mobile devices. However, if you switch off push notifications, we may need to contact you via emails for important messages relating to your purchase.   
+  
+**LEGAL BASIS**
+
+| 
+
+Legitimate Interest  
+  
+**CATEGORIES OF PERSONAL DATA**
+
+| 
+
+Device information  
+  
+**RETENTION PERIOD**
+
+| 
+
+For as long as you use the app and not switched Push Notification off.  
+  
+**CATEGORIES OF RECIPIENTS**
+
+| 
+
+  * adidas Data Controllers
+  * adidas AG Subsidiaries and Affiliates
+
+  
+  
+  6. What does adidas do when we transfer your Personal Data outside of the EU/EEA?
+
+
+
+Depending on the Personal Data processing activity, your Personal Data is shared with different “Categories of Recipients”. Where the recipient is located outside the EU/EEA, we have implemented necessary measures such as singing the EU Standard Contractual Clauses approved by the EU Commission or selecting vendors that certify and comply with the EU-US and Swiss-US Privacy Shield Framework. 
+
+  7. How do we secure your Personal Data?
+
+
+
+We implement appropriate technical and organisational measures to address the risks corresponding to our use of your Personal Data, including loss, alteration, or unauthorised access to your Personal Data, and empowering you to exercise your rights. We require our service providers to do the same through contractual agreements. However, you should be aware that any transmission of your Personal Data through the internet is at your own risk. We can only protect your Personal Data when we have it.
+
+  8. What are your rights and how can you exercise them?
+
+
+
+Under the GDPR and applicable data protection laws in the EU/EEA countries, you have the rights listed and explained below. We need to confirm your identity before we can handle your requests. When we refuse your request for legal reasons, we will tell you why. 
+
+**For all enquiries concerning your privacy and personal data, please contact us under the “ASK CUSTOMER SERVICE” section via**[ **HELP**](https://www.adidas.ie/help) **.**
+
+_Please consult your local supervisory authority about your rights under the GDPR and to understand what these rights mean._
+
+**YOUR RIGHT S**
+
+|   
+---|---  
+  
+  1. **Get a copy of your Personal Data**
+
+
+
+You have the right to obtain a copy of your Personal Data, if it does not have negative effect on other people.  
+  
+  2. **Access to information about your Personal Data**
+
+
+
+You have the right to know whether or not we use your Personal Data, as well as the following information: a) why we have your Personal Data; b) what categories of data we have; c)  what we do with your Personal Data; d) who has access to your Personal Data (and where they are); e) where your Personal Data might be transferred to; f) how long we are keeping your Personal Data; g) if you didn’t provide your Personal Data directly to us, how did we get them; h) your rights under applicable laws and the possibility to restrict processing; and i) if we use your Personal Data for any automated decision-making; and j) in some cases, you have the right to know how our automated decision-making works, if the decision significantly affects you.  
+  
+  3. **Make sure your Personal Data are correct**
+
+
+
+You have the right to make sure we are using the accurate details about you.  
+  
+  4. **Delete your Personal Data**
+
+
+
+You have the right to ask us to delete your Personal Data if: a) we no longer need it for a specific purpose, for example, a contract or a legal requirement; or b) you withdraw the consent you provided if we asked for your consent when we collected your Personal Data; or c) if you object to our use of your Personal Data based on legitimate interests we have identified, including direct marketing activities, unless we can demonstrate the compelling need of the legitimate interests.  
+  
+  5. **Restrict how we use your Personal Data**
+
+
+
+You have the right to stop us from doing certain things to your Personal Data when: a) you don’t think we are using the right Personal Data; b) you don't want us to delete your Personal Data, but you also don't think we are complying with the law; c) you want to make a legal complaint against us, but we want to delete the data; or d) you challenge our explanation of our use based on a "legitimate interest". When you successfully restrict how we use your Personal Data, we will only use your Personal Data with your consent, or unless it is required by law.  
+  
+  6. **Obtain a portable file so you can share it with another company**
+
+
+
+You have the right to obtain a portable file that contains the Personal Data you provided to us where the legal basis is either consent or the performance of contract. The file will provide you with the Personal Data you actively and knowingly provided to us, including data passively obtained by us when you use our service or products.   
+  
+  7. **Withdraw your consent**
+
+
+
+When we use your Personal Data based on your consent, you have the right to change your mind and withdraw your consent at any time.   
+  
+  8. **Object when we process your Personal Data based on “Legitimate Interest”**
+
+
+
+When we process your Personal Data based on “Legitimate Interest” as specified in this Privacy Notice, you may have the right to disagree and stop us from processing your Personal Data for this purpose. We may have compelling reasons, though, to continue processing your Personal Data even in the light of your objection. In such cases we will provide you with our rationale. We will respect and implement your objection in any case where it is related to direct marketing purposes.  
+  
+  9. **Challenge the decision generated by our automated decision-making process**
+
+
+
+When we use automated decision-making tools or processes that lead to an outcome which produces a legal effect (such as Payment Fraud Detection), you have the right to understand the logic involved, the significance and possible consequences of this process. You also have the right to request human intervention, especially when this is used to conclude a contract with us. You can challenge our decision by expressing your opinion.   
+  
+  10. **File a complaint with your local data protection supervisory authority**
+
+
+
+If you are not happy with how we have handled your Personal Data, or how we have responded to your rights provided here, you have the right to make a complaint against us with your local data protection supervisory authority.   
+  
+  9. Questions, Complaints, and Support – who and how you can get in touch with them?
+
+
+
+adidas Customer Service  
+  
+---  
+  
+**ASK CUSTOMER SERVICE:** [**https://www.adidas.ie/help**](https://www.adidas.ie/help)  
+  
+adidas Privacy Team and the Data Protection Officer  
+  
+[**DataProtection@adidas.com**](mailto:DataProtection@adidas.com)
+
+**Global Privacy | Data Protection Officer**
+
+**adidas AG**
+
+Adi-Dassler-Strasse 1
+
+91074 Herzogenaurach
+
+Germany  
+  
+Data Protection Supervisory Authorities
+
+|   
+  
+**adidas Lead Supervisory Authority**
+
+Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)
+
+[**poststelle@lda.bayern.de**](mailto:poststelle@lda.bayern.de)
+
++49 (0) 981 53 1300
+
+Promenade 27 
+
+91522 Ansbach
+
+Germany
+
+<https://www.lda.bayern.de/de/kontakt.html>
+
+| 
+
+**Your Local EU/EEA Supervisory Authority**
+
+**Please find the details to your local Data Protection Supervisory Authority here:**
+
+<https://edpb.europa.eu/about-edpb/board/members_en>  
+  
+  10. Updates and Notification of Updates
+
+
+
+We review and update the Privacy Notice periodically to reflect any changes resulting from our day-to-day business operations. You can always check the date of the Privacy Notice to find out when we last made any changes. We will notify you when we make significant changes that you must be aware of. 
+
+  11. adidas Data Recipients
+
+
+
+You can find a list of adidas Data Recipients who processes your personal data under adidas Data Controllers’ instructions below. The list is subject to change as necessary. 
+
+**COMPANY**
+
+| 
+
+**SERVICE**  
+  
+---|---  
+  
+adidas International Marketing B.V.
+
+| 
+
+Webshop operations & Marketing Services  
+  
+Demandware Inc.| USA
+
+| 
+
+Website Hosting  
+  
+Adyen | Netherlands
+
+| 
+
+Payment Processes  
+  
+InfoSys Technologies Ltd. | India, EPAM | Belarus
+
+| 
+
+Website Development  
+  
+Adobe Analytics | Ireland, Google Analytics | USA
+
+| 
+
+Web Analytics  
+  
+Sprinklr | USA, Olapic Inc. | USA
+
+| 
+
+Social Media Analytics  
+  
+Flurry | USA, Apps Flyer | Israel
+
+| 
+
+Mobile App Analytics  
+  
+Medallia Inc. | USA, Qualtrics LLC | USA
+
+| 
+
+Net Promoter Score  
+  
+act.3 | Germany, cip Trademarketing GmbH | Germany
+
+| 
+
+Event Management  
+  
+Neolane Ltd. | France
+
+| 
+
+Marketing  
+  
+Batterii LLC | USA
+
+| 
+
+Consumer Insights  
+  
+TBWA Worldwide Inc. | USA, Media Monk Netherlands, IRIS | Australia
+
+| 
+
+CRM Agencies  
+  
+Olapic, Inc. | USA
+
+| 
+
+UGC Support Partners  
+  
+adidas affiliates | globally
+
+| 
+
+Consumer Relationship Management  
+  
+Teleperformance | Germany
+
+| 
+
+Customer Service  
+  
+DHL | Germany
+
+| 
+
+Product Delivery  
+  
+Feedzai | Germany
+
+| 
+
+Fraud Prevention  
+  
+PayPal | USA
+
+| 
+
+Payment Service  
+  
+Apple Pay, Google Pay | USA
+
+| 
+
+Mobile Payment  
+  
+Facebook (WhatsApp, Instagram) | USA
+
+| 
+
+Social Media Interaction  
+  
+Twitter | USA
+
+| 
+
+Social Media Interaction  
+  
+Google | USA
+
+| 
+
+Social Media Interaction  
+  
+Runtastic | Austria
+
+| 
+
+Health and Fitness Community  
+  
+Google Analytics | USA
+
+| 
+
+Analytics  
+  
+Adobe Analytics | USA
+
+| 
+
+Analytics  
+  
+Anatwine Limited | UK
+
+| 
+
+Consumer Experience  
+  
+MediaCom | UK
+
+| 
+
+Advertising Partner  
+  
+Salesforce
+
+| 
+
+CRM Software | Data Analytics  
+  
+Wunderman
+
+| 
+
+Email Marketing Services  
+  
+_Where your personal data may be used by non-adidas Data Controllers via adidas platforms, applications or elsewhere for their own purposes, please consult the privacy notice of the non-adidas Data Controller for more information about how they handle your personal data._
