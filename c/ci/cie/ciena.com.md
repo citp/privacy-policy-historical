@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciena.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602020901id_/https%3A//www.ciena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciena.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211180858id_/https%3A//www.ciena.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - Ciena
 
