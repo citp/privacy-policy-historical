@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zomato.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611064446id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zomato.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211130806id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zomato
 
