@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adidas.ca privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204031437id_/https%3A//www.adidas.ca/en/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.ca privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211174022id_/https%3A//www.adidas.ca/en/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **INTRODUCTION AND SCOPE OF THIS PRIVACY STATEMENT**
 
-We, adidas Canada Ltd., 8100, Highway #27, Woodbridge, Ontario, L4N 3N2 and our parent company adidas International Trading BV (adidas)[1] want to give you the best adidas experience possible. We use the personal information you share with us to make our products and services and your experience even better. This privacy statement aims to give you a clear view of how we use personal information that you provide, our dedication to protecting it, your rights and the options you have to control your personal information and protect your privacy. It also outlines what personal information we collect about you when you visit our websites, stores or when you use our mobile apps, how we use your personal information and the third parties we will share it with.
+We, adidas Canada Ltd., 8100, Highway #27, Woodbridge, Ontario, L4N 3N2 and our parent company adidas International B.V. (Hoogoorddreef 9A, 1101 BA Amsterdam, Netherlands) and its affiliates, including adidas AG (Adi-Dassler-Strasse 1, 91074 Herzogenaurach, Germany) want to give you the best adidas experience possible. We use the personal information you share with us to make our products and services and your experience even better. This privacy statement aims to give you a clear view of how we use personal information that you provide, our dedication to protecting it, your rights and the options you have to control your personal information and protect your privacy. It also outlines what personal information we collect about you when you visit our websites, stores or when you use our mobile apps, how we use your personal information and the third parties we will share it with.
 
 We use personal information for various purposes, as described in detail below.
 
@@ -101,8 +101,6 @@ You can opt out of or delete location data and stop any further data from being 
   * <https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen>
   * <https://help.instagram.com/1415228085373580>
   * <https://support.google.com/ads/answer/2662922?hl=en>
-  *  
-  *  
 
 
 
@@ -278,7 +276,7 @@ All our marketing communications contain an easy way to opt out from receiving f
 If you would like to opt out of receiving adidas marketing messages you may use the unsubscribe link contained in the messages you have received, or alternatively you could contact:
 
 _adidas Canada Ltd., Digital Marketing, 8100, Highway #27, Woodbridge, Ontario   LN4 3N2, or customer service at 1-855-823-4327.  
-contactus@adidas.com_
+_
 
 Note that if you choose to opt out of receiving marketing messages in the manner explained above, we will continue to process your personal information, in particular to allow us to understand your interests and preferences, but we will stop using your personal information to send you personalised or non-personalised marketing messages. If you would like us to stop such processing in part or in full, we have explained how to do this in the above paragraph.
 
@@ -297,7 +295,7 @@ adidas has pledged to adhere to the fundamental principles of privacy and data p
 If you have any questions or complaints about our use of your personal information, or require information on how to exercise your rights or about our privacy statement you are welcome to contact us at:
 
 _adidas Canada Ltd., Digital Marketing, 8100, Highway #27, Woodbridge, Ontario   LN4 3N2, or customer service at 1-855-823-4327.  
- contactus@adidas.com_
+_
 
 We will explain the complaint procedure to you and investigate all complaints. If a complaint is justified, we will take all appropriate steps to correct the situation. We will also let you know what other complaint procedures may be available to you.  
  
@@ -375,10 +373,8 @@ The date at the top of this Cookie Statement indicates when it was last updated.
 
 **FINALLY…WHERE CAN I GET FURTHER INFORMATION?**
 
-If you have any questions about our use of cookies or other technologies, please email us at contactus@adidas.com.
+If you have any questions about our use of cookies or other technologies, contact our Customer Service team 
 
 **LAST UPDATED: 3** **.27.2018**
 
 _________________________
-
-[1] adidas Group is formed by adidas AG (Adi-Dassler-Straße 1, 91074 Herzogenaurach, Germany) and its affiliate entities including adidas International Trading B.V., Atlas Arena, Africa Building, Hoogoorddreef 9a, 1101 BA Amsterdam ZO, The Netherlands.
