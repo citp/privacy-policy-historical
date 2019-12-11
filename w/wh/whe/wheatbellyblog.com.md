@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wheatbellyblog.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629020713id_/http%3A//www.wheatbellyblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatbellyblog.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211184137id_/https%3A//www.wheatbellyblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which William Davis, MD collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.wheatbellyblog.com](http://www.wheatbellyblog.com/ "Wheat Belly Blog") website (“Site”). This privacy policy applies to the Site and all products and services offered by William Davis, MD.
+This Privacy Policy governs the manner in which William Davis, MD collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.wheatbellyblog.com](https://www.wheatbellyblog.com/ "Wheat Belly Blog") website (“Site”). This privacy policy applies to the Site and all products and services offered by William Davis, MD.
 
 ### Personal identification information
 
@@ -51,7 +51,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [www.wheatbellyblog.com](http://www.wheatbellyblog.com/ "Wheat Belly")
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-_This document was last updated on May 08, 2014  
-Privacy policy created by Generate Privacy PolicyBlog_
+_This document was last updated on November 07, 2019  
+Privacy policy created by Generate Privacy Policy Blog_
