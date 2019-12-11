@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114173337id_/https%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211093057id_/https%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mohegan Sun
 
@@ -8,7 +8,7 @@
 
 [ ](https://web.archive.org/)
 
-  * [ SUN WINE & FOOD FEST ](https://web.archive.org/sun-wine-and-food-fest.html)
+  * [ BACK OF HOUSE ](https://web.archive.org/back-of-house.html)
   * GAMING & PROMOS
     * Gaming
       * Gaming
@@ -17,6 +17,8 @@
       * [Table Games](https://web.archive.org/playing/table-games.html)
       * [Poker](https://web.archive.org/playing/poker.html)
       * [Race Book](https://web.archive.org/playing/race-book.html)
+      * [Casino of the Earth](https://web.archive.org/casino-of-the-earth.html)
+      * [Casino of the Sky](https://web.archive.org/casino-of-the-sky.html)
       * [Responsible Gaming](https://web.archive.org/playing/responsible-gaming.html)
       * [Casino Credit](https://web.archive.org/playing/casino-credit.html)
       * [Tax Forms](https://web.archive.org/playing/tax-forms.html)
@@ -35,45 +37,30 @@
       * [Play+](https://web.archive.org/momentum.html#playPlus)
       * [Momentum Travel Associates](https://web.archive.org/momentum/momentum-travel-associates.html)
       * [Momentum Partnerships](https://web.archive.org/momentum/momentum-partnerships.html)
-      * [January HotList](http://engage.mohegansun.com/mohegan-sun-january-hotlist/0264254001545840155)
-    * Casinos
-      * Casinos
-      * [Casino of the Earth](https://web.archive.org/casino-of-the-earth.html)
-      * [Casino of the Sky](https://web.archive.org/casino-of-the-sky.html)
-      * [Casino of the Wind](https://web.archive.org/casino-of-the-wind.html)
+      * [December HotList](http://engage.mohegansun.com/mohegan-sun-december-hotlist/0629432001574786764)
   * ENTERTAINMENT
     * [ Event Calendar ](https://web.archive.org/events-and-promotions/schedule-of-events.html)
       * Event Calendar
+    * [ New Year's Eve 2020 ](https://web.archive.org/nye.html)
+      * New Year's Eve 2020
     * Mohegan Sun Arena
       * Mohegan Sun Arena
       * [About the Arena](https://web.archive.org/poi/venues/mohegan-sun-arena.html)
-      * [Calendar](https://web.archive.org/events-and-promotions/schedule-of-events.mohegansun@venue_mohegan-sun-arena.html)
-      * [Tickets](http://www.ticketmaster.com/search?tm_link=tm_header_search&keyword=mohegan+sun)
+      * [Calendar](https://web.archive.org/events-and-promotions/schedule-of-events.mohegansun@venue_mohegan-sun-arena.html#calendar)
+      * [Tickets](https://www.ticketmaster.com/mohegan-sun-arena-tickets-uncasville/venue/237645)
       * [Arena Suites](https://web.archive.org/poi/venues/mohegan-sun-arena/arena-suites.html)
       * [Arena Policies](https://web.archive.org/poi/venues/mohegan-sun-arena/policies.html)
     * Wolf Den
       * Wolf Den
       * [About the Wolf Den](https://web.archive.org/poi/venues/wolf-den.html)
-      * [Calendar](https://web.archive.org/events-and-promotions/schedule-of-events.mohegansun@venue_wolf-den.html)
-    * Comix Mohegan Sun
-      * Comix Mohegan Sun
-      * [About Comix Mohegan Sun](https://web.archive.org/poi/dining/comix-mohegan-sun.html)
+      * [Calendar](https://web.archive.org/events-and-promotions/schedule-of-events.mohegansun@venue_wolf-den.html#calendar)
+    * Comix Roadhouse
+      * Comix Roadhouse
+      * [About Comix Roadhouse](https://web.archive.org/poi/dining/comix-roadhouse.html)
       * [Calendar](https://www.comixmohegansun.com/calendar)
       * [Tickets](https://www.comixmohegansun.com/calendar)
-    * Nightlife
-      * Nightlife
-      * [Nightlife Venues](https://web.archive.org/nightlife.html)
-      * [Calendar](https://web.archive.org/events-and-promotions/schedule-of-events.mohegansun@event_entertaintment_nightlife.html)
-      * [Plan Your Event](https://web.archive.org/nightlife/plan-your-party.html)
-    * Tastings & Festivals
+    * [ Tastings & Festivals ](https://web.archive.org/festivals.html)
       * Tastings & Festivals
-      * [Sun Wine & Food Fest](https://web.archive.org/sun-wine-and-food-fest.html)
-      * [Sun Whiskey Union](https://web.archive.org/sun-whiskey-union.html)
-      * [Sun BBQ Fest](https://web.archive.org/sun-bbqfest.html)
-      * [Sun Tequila Tasting](https://web.archive.org/sun-tequila-tasting.html)
-      * [Cigar Social](https://web.archive.org/cigar-social.html)
-      * [New England Food Truck Festival](https://web.archive.org/new-england-food-truck-festival.html)
-      * [Sun BrewFest](https://web.archive.org/sun-brewfest.html)
     * [ Convention & Expo Events ](https://web.archive.org/events-and-promotions/schedule-of-events.mohegansun@event_entertaintment_conventions.html)
       * Convention & Expo Events
     * [ Connecticut Sun ](https://web.archive.org/connecticut-sun.html)
@@ -82,12 +69,19 @@
       * New England Black Wolves
     * [ Signature Events ](https://web.archive.org/signature-events.html)
       * Signature Events
-    * [ Back Of House ](https://web.archive.org/back-of-house.html)
-      * Back Of House
     * [ Kids Quest & Cyber Quest ](https://web.archive.org/poi/venues/kids-quest-cyber-quest.html)
       * Kids Quest & Cyber Quest
-    * [ Supercharged ](https://web.archive.org/supercharged.html)
-      * Supercharged
+    * [ Supercharged Indoor Karting ](https://web.archive.org/supercharged.html)
+      * Supercharged Indoor Karting
+  * NIGHTLIFE
+    * [ novelle ](https://web.archive.org/poi/dining/novelle.html)
+      * novelle
+    * [ Nightlife Venues ](https://web.archive.org/nightlife.html)
+      * Nightlife Venues
+    * [ Calendar ](https://web.archive.org/events-and-promotions/schedule-of-events.mohegansun@event_entertaintment_nightlife.html#calendar)
+      * Calendar
+    * [ Plan Your Event ](https://web.archive.org/nightlife/plan-your-party.html)
+      * Plan Your Event
   * DINE & SHOP
     * Dining
       * Dining
@@ -106,11 +100,11 @@
       * [Electronics](https://web.archive.org/poi/shopping.mohegansun@shopping_storescategory_musicnelec.html)
     * [ Mohegan Sun Gift Cards ](https://web.archive.org/gift-cards.html)
       * Mohegan Sun Gift Cards
-  * HOTEL, SPA & GOLF
+  * HOTELS, SPA & GOLF
     * [ Book A Stay ](https://web.archive.org/booking.html)
       * Book A Stay
-    * Hotel Overview
-      * Hotel Overview
+    * Hotels Overview
+      * Hotels Overview
       * [Overview](https://web.archive.org/hotel-spa-and-golf.html)
       * [Sky Tower](https://web.archive.org/hotel-spa-and-golf/sky-tower.html)
       * [Earth Tower](https://web.archive.org/hotel-spa-and-golf/earth-tower.html)
@@ -124,7 +118,7 @@
       * Spas at Mohegan Sun
     * [ Mohegan Sun Golf Club ](https://mohegansungolfclub.com/)
       * Mohegan Sun Golf Club
-  * [ MEETINGS ](https://web.archive.org/meetings.html)
+  * [ MEETINGS ](https://meetings.mohegansun.com/)
   * ABOUT US
     * [ About Mohegan Sun ](https://web.archive.org/about-mohegan-sun.html)
       * About Mohegan Sun
@@ -139,6 +133,8 @@
     * [ Careers ](https://web.archive.org/about-mohegan-sun/careers.html)
       * Careers
   * LOCATIONS
+    * [ Fallsview Casino Resort (Canada) ](https://www.fallsviewcasinoresort.com/)
+      * Fallsview Casino Resort (Canada)
     * [ ilani (WA) ](https://ilaniresort.com/)
       * ilani (WA)
     * [ Mohegan Sun Pocono (PA) ](https://mohegansunpocono.com/)
@@ -146,11 +142,12 @@
     * [ Resorts Casino Hotel (NJ) ](https://resortsac.com/)
       * Resorts Casino Hotel (NJ)
   * [ SIGN UP & SAVE ](https://web.archive.org/engage/email.html)
+  * [ 中文 ](http://chinese.mohegansun.com/)
   * MY MOHEGAN SUN
     * [ Overview ](https://web.archive.org/my-mohegan-sun/overview.html)
     * [ Book A Visit ](https://web.archive.org/my-mohegan-sun/select-a-date.html)
     * [ My Promos and Offers ](https://web.archive.org/my-mohegan-sun/my-promos-and-offers.html)
-    * [ My Reward Points ](https://web.archive.org/my-mohegan-sun/my-reward-points.html)
+    * [ My Achievement Awards ](https://web.archive.org/my-mohegan-sun/my-reward-points.html)
     * [ My Calendar ](https://web.archive.org/my-mohegan-sun/my-calendar.html)
     * [ My Reservations ](https://web.archive.org/my-mohegan-sun/my-reservations.html)
     * My Account Info
@@ -184,7 +181,7 @@ This site is not intended for children. Children may use this site only with the
 
 If you have a question regarding any of the above information, please contact us at the following email address and we will be happy to get back to you.
 
-Email: [information@mohegansun.com](mailto:information@mohegansun.com)
+Email: [ **information@mohegansun.com**](mailto:information@mohegansun.com)
 
 You may also contact us by mail using the address below:
 
