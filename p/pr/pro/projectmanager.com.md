@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectmanager.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508094052id_/https%3A//www.projectmanager.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectmanager.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211110239id_/https%3A//www.projectmanager.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ProjectManager.com
 
