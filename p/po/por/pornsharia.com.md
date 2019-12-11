@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornsharia.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606225512id_/https%3A//wetplace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornsharia.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211101206id_/https%3A//wetplace.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
