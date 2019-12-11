@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elwoodclothing.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610211033id_/https%3A//www.elwoodclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elwoodclothing.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211081115id_/https%3A//www.elwoodclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elwood Clothing
 
@@ -8,7 +8,7 @@ _Last revised on  May 24, 2018_
 
 **By using our services and interacting with  Elwood through our website, consent to the use of information that is collected or submitted as described in this privacy policy, including our use of cookies. **
 
-Topson Direct, LLC, d.b.a. Elwood and its affiliates (the “Company”) are committed to respecting and protecting your privacy and the personal information that you share with us on this website. When you visit the website [www.elwoodclothing.com](https://web.archive.org/web/20190610211033id_/https%3A//www.elwoodclothing.com/pages/www.elwoodclothing.com "www.elwoodclothing.com") (the “Site”), we have the ability to collect information about you, from your name and address to your shopping preferences. This privacy policy explains why we collect it, how we use it and when we share it with others. Our policy also describes the choices you can make about how we collect and use your information.
+Topson Direct, LLC, d.b.a. Elwood and its affiliates (the “Company”) are committed to respecting and protecting your privacy and the personal information that you share with us on this website. When you visit the website [www.elwoodclothing.com](https://web.archive.org/web/20191211081115id_/https%3A//www.elwoodclothing.com/pages/www.elwoodclothing.com "www.elwoodclothing.com") (the “Site”), we have the ability to collect information about you, from your name and address to your shopping preferences. This privacy policy explains why we collect it, how we use it and when we share it with others. Our policy also describes the choices you can make about how we collect and use your information.
 
 This policy applies only to the Site and does not cover information provided on websites linked to our Site for purchasing or other purposes. Your use, and your privacy rights, in connection with any visits to those linked websites are covered by the privacy policies and terms of use that are posted on those sites.
 
