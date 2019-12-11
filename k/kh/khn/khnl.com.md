@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khnl.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093940id_/http%3A//www.hawaiinewsnow.com/2018/09/19/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khnl.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211033107id_/https%3A//www.hawaiinewsnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,9 @@ _**Introduction**_ We at Gray Television, Inc. (“GTI”), along with our telev
 
 This Privacy Policy does not apply to services offered by other companies or individuals, even if a product or site is linked to our Services and even if a relationship exists between GTI and a third party (see [Your Choices](https://www.wjhg.com/content/news/?article=158509635#choices) below).
 
-When you use our Services, we may access or collect personal information about you and non-personal information. This information is accessed and collected in a variety of ways, including: 
+This Privacy Policy is incorporated by reference into the [GTI Terms of Use Agreement](https://web.archive.org/terms-of-service), which also governs our Services.
+
+When you use our Services, we may access or collect personal information about you and non-personal information. This information is accessed and collected in a variety of ways, including:
 
   * You voluntarily submitting information to us via our Services for you to enjoy a particular Service, such as an email address in order to deliver news updates or a phone number to let you know that you won a contest; and
   * Us automatically collecting information about how you use our Services, including through the operating system of your mobile device (in the case of our mobile apps) or through analytics tools to determine when you use our Services and how you interact with our content.
@@ -17,7 +19,7 @@ Our Services may access or collect the following data:
 
   * Information that identifies you, including:
   * Information you voluntarily provide, which may include account information, name, email address, user credentials, age, address, and/or phone number;
-  * Location Data such as GPS, WiFi, or carrier network location (see [Location Data](https://www.wjhg.com/content/news/?article=158509635#location) below); and
+  * Location Data such as GPS, WiFi, or carrier network location (see Location Data below); and
   * User files stored on your device or system (for example, calendar, picture, and video files) that you voluntarily provide.
   * What you do on your device, system, or software when you use our Services, including access to and information about:
   * Camera use
@@ -36,7 +38,7 @@ We may collect personal information about other people when you submit it to us,
 
 We may obtain location data from your device to provide location-related services, for example, weather alerts or breaking news alerts. Your location information may be shared with third-parties that we have contracted with to perform the location-based features of our Services or collected by and/or shared with our third-party partners who help to provide you personalized advertisements.
 
-We will ask for your permission before collecting this location data. You can withdraw consent to use precise, real-time or network location data at any time by turning off the location-based feature on your mobile device or by opting out of using any location-based features. If you withdraw consent, functionality associated with precise, real-time or network location may be limited. For more information about your choices regarding location data, see [Your Choices](https://www.wjhg.com/content/news/?article=158509635#choices) below.
+We will ask for your permission before collecting this location data. You can withdraw consent to use precise, real-time or network location data at any time by turning off the location-based feature on your mobile device or by opting out of using any location-based features. If you withdraw consent, functionality associated with precise, real-time or network location may be limited. For more information about your choices regarding location data, see Your Choices below.
 
 _**Cookies and Similar Technologies; Do Not Track**_
 
@@ -50,7 +52,7 @@ You may configure your browser to reject cookies. But doing so could make it dif
 
 We use the information we collect to provide, protect, and improve our Services, to develop new ones, and to protect GTI, our Stations, and our users. For example, we and our vendors use your information to provide:
 
-  * Tailored content, features, and advertisements, including offers from us, our affiliates, and our advertisers (see [Advertising and Personalized Content](https://www.wjhg.com/content/news/?article=158509635#content) below);
+  * Tailored content, features, and advertisements, including offers from us, our affiliates, and our advertisers (see Advertising and Personalized Content below);
   * Automated updates concerning news, sports, weather, or emergencies;
   * Mobile apps and services;
   * Polls and surveys;
@@ -67,7 +69,7 @@ We may also use the data we collect to:
   * Develop reports regarding usage, activity, and statistics;
   * Comply with applicable laws, regulations, and legal process;
   * Protect someone’s health, safety, or welfare;
-  * Protect our rights, the rights of affiliates or related third-parties, or take appropriate legal action, such as to enforce our [GTI Terms of Use Agreement](https://www.wjhg.com/content/news/?article=158511785);
+  * Protect our rights, the rights of affiliates or related third-parties, or take appropriate legal action, such as to enforce our [GTI Terms of Use Agreement](https://web.archive.org/terms-of-service);
   * Keep a record of our transactions and communications;
   * Facilitate the provision of software updates and product support;
   * Improve products and other Services or provide Services or technologies to you;
@@ -86,7 +88,7 @@ We do not share your personal information with companies, organizations, or indi
   * To provide the Services that you access or request, complete transactions you initiate, or otherwise fulfill your requests;
   * With GTI affiliates for business, operational, promotional or marketing purposes;
   * With advertisers if you participate in a co-branded, co-sponsored, or jointly presented promotion, contest, or other Service;
-  * With advertisers, network advertising services, and/or other third parties as described in the section below (see [Advertising and Personalized Content](https://www.wjhg.com/content/news/?article=158509635#content) below);
+  * With advertisers, network advertising services, and/or other third parties as described in the section below (see Advertising and Personalized Content below);
   * With our vendors or service providers, who are generally restricted from using your personal information for any purpose other than that for which we hire them;
   * To protect the security of our Services or databases;
   * To protect the rights or property of our users, GTI, its affiliates, our advertisers, or our vendors and service providers;
@@ -104,7 +106,7 @@ _**Advertising and Personalized Content**_
 
 Advertising is important to our provision of free and low-cost Services to you. We may share your personal information with our advertisers, advertising networks, or other third parties for direct marketing and promotional purposes. Additionally, GTI and its Stations, our advertisers, certain outside network advertising services, and other third-parties may place cookies, web beacons, and other similar technology on your device to personalize your experience, collect information about your preferences, collect location information, and/or deliver customized advertising content.
 
-Advertisers and other third parties involved in the delivery of ads to you may offer you opportunities to choose what type of information about you is collected, used, and shared, and how that is done. We do not control outside parties or the choices they may offer you – please contact them directly to learn about your choices. For more information about your options for receiving personalized advertisements, see [Your Choices](https://www.wjhg.com/content/news/?article=158509635#choices) below.
+Advertisers and other third parties involved in the delivery of ads to you may offer you opportunities to choose what type of information about you is collected, used, and shared, and how that is done. We do not control outside parties or the choices they may offer you – please contact them directly to learn about your choices. For more information about your options for receiving personalized advertisements, see Your Choices below.
 
 _**California “Shine the Light Act”**_
 
@@ -120,9 +122,9 @@ Certain GTI Stations and Services may allow you to register for an account and u
 
 We take steps to protect the security of the information you provide us. Yet, no security is perfect, and transmissions over the Internet are potentially vulnerable. Please use caution when disclosing your personal information.
 
-  * _Location Information:_  We will ask for your permission before collecting precise, real-time, or network location information. It is your choice whether or not to allow for the collection of this location information, and you can withdraw consent to use this location information at any time by turning off the location-based feature on your mobile device or by opting out of using any location-based features. If you withdraw consent, functionality associated with precise, real-time, or network location may be limited.
-  * _Other Websites and Platforms:_  If you choose to use any of the links we provide to third-parties, you will be leaving our Services and going to a new site or platform. Our Privacy Policy does not apply to services offered by other companies or individuals, even if a product or site is linked to our Services and even if a relationship exists between GTI and a third party. Protection of your privacy at those other sites or platforms will be governed by the privacy policy at that site or platform. GTI and our Stations have no responsibility for the privacy policies or business practices of a third party we neither own nor control. Please take the time to read the privacy policies at these third-party sites or platforms. It is your choice whether or not to leave our Services and go to third-party sites or platforms.
-  * _Advertising and Personalized Content:_  To opt-out of receiving personalized advertising, please visit the Network Advertising Initiative Consumer Opt-Out Page at <http://www.aboutads.info/choices>, the Digital Advertising Alliance Consumer Choice Page at <http://www.aboutads.info/choices>. Please be aware that opting out of a network advertising service doesn’t mean that you won't receive online ads. It only means that the network from which you opted out should no longer deliver ads tailored to your preferences and interests.
+  * _Location Information:_ We will ask for your permission before collecting precise, real-time, or network location information. It is your choice whether or not to allow for the collection of this location information, and you can withdraw consent to use this location information at any time by turning off the location-based feature on your mobile device or by opting out of using any location-based features. If you withdraw consent, functionality associated with precise, real-time, or network location may be limited.
+  * _Other Websites and Platforms:_ If you choose to use any of the links we provide to third-parties, you will be leaving our Services and going to a new site or platform. Our Privacy Policy does not apply to services offered by other companies or individuals, even if a product or site is linked to our Services and even if a relationship exists between GTI and a third party. Protection of your privacy at those other sites or platforms will be governed by the privacy policy at that site or platform. GTI and our Stations have no responsibility for the privacy policies or business practices of a third party we neither own nor control. Please take the time to read the privacy policies at these third-party sites or platforms. It is your choice whether or not to leave our Services and go to third-party sites or platforms.
+  * _Advertising and Personalized Content:_ To opt-out of receiving personalized advertising, please visit the Network Advertising Initiative Consumer Opt-Out Page at <http://www.aboutads.info/choices>, the Digital Advertising Alliance Consumer Choice Page at <http://www.aboutads.info/choices>. Please be aware that opting out of a network advertising service doesn’t mean that you won't receive online ads. It only means that the network from which you opted out should no longer deliver ads tailored to your preferences and interests.
 
 
 
