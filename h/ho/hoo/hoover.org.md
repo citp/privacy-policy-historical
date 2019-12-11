@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoover.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611013324id_/https%3A//adminguide.stanford.edu/chapter-1/subchapter-6/policy-1-6-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoover.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211015718id_/https%3A//adminguide.stanford.edu/chapter-1/subchapter-6/policy-1-6-1) for the most accurate reproduction.*
 
 # 1.6.1 Privacy Policy | Administrative Guide
 
