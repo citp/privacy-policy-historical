@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212030358id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211010848id_/https%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | UnityPoint Health
 
@@ -35,7 +35,8 @@ UnityPoint Health - Grinnell Regional Medical Center
 Grinnell, Iowa 50112  
 [(641) 236-7511](tel:16412367511)
 
-  * [Notice of Privacy Practices - English](https://web.archive.org/grinnell/filesimages/Grinnell_hc_provider%20%20updated%2011-18.pdf)
+  * [Notice of Privacy Practices - English](https://www.unitypoint.org/desmoines/filesimages/Privacy/Des%20Moines_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish](https://www.unitypoint.org/desmoines/filesimages/Privacy/Des%20Moines_Span.pdf)
 
 
 
@@ -217,3 +218,6 @@ From time to time our website may provide links to other websites, not owned or 
 ## Changes to This Statement 
 
 UnityPoint Health may change this statement from time to time without notice. We plan to post notice on our home page for no less than a week if any significant changes occur. This privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
+
+  
+
