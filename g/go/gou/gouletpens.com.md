@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gouletpens.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331093239id_/https%3A//www.gouletpens.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gouletpens.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211022400id_/https%3A//www.gouletpens.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Goulet Pen Company
 
