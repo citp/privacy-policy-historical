@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the dyinglightgame.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304165329id_/http%3A//techland.pl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyinglightgame.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211102705id_/https%3A//techland.net/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Techland
-
-## Privacy Policy 
 
 This Privacy Policy applies to all services requiring the provision of personal data, provided by Techland sp. z o.o. with its registered office in Ostrów Wielkopolski, Żółkiewskiego 3, 63-400 Ostrów Wielkopolski, Poland (the “Company”) through websites owned by the Company.
 
 ## Scope of application
 
-This Privacy Policy applies to the storage and processing of personal data of persons using Company websites (“Users”) available at the following addresses techland.pl, playtesty.techland.pl, akademia.techland.pl, pomoc.techland.pl, support.techland.pl, purefarminggame.com, buy.tormentgame.com, dockets.dyinglightgame.com, dyinglightgame.com, techland.pl/gamejam, forum.techland.pl, dyinglightgame.com/speedrun-contest, dyinglightgame.com/badblood, dyinglightgame.com/registration, dyinglightgame.com/10in12, dyinglightgame.com/buy, dyinglightgame.com/gift, dyinglightgame.com/bounties, gemly.com, boxoffstore.com (“Websites”). The rules of using the Websites can be found in the relevant regulations available at the following [link](http://techland.pl/terms-of-service) (“Regulations”).
+This Privacy Policy applies to the storage and processing of personal data of persons using Company websites (“Users”) available at the following addresses techland.net, techland.pl, playtesty.techland.pl, akademia.techland.pl, pomoc.techland.pl, support.techland.pl, purefarminggame.com, buy.tormentgame.com, dockets.dyinglightgame.com, dyinglightgame.com, techland.pl/gamejam, forum.techland.pl, dyinglightgame.com/speedrun-contest, dyinglightgame.com/badblood, dyinglightgame.com/registration, dyinglightgame.com/10in12, dyinglightgame.com/buy, dyinglightgame.com/gift, dyinglightgame.com/bounties, gemly.com, boxoffstore.com (“Websites”). The rules of using the Websites can be found in the relevant regulations available at the following [link](https://techland.net/docs/terms-of-service/) (“Regulations”).
 
 Personal data of Users are processed in accordance with the applicable regulations on personal data protection. The Company is a controller of personal data of Users as defined in Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (“GDPR”).
 
@@ -85,3 +83,5 @@ Contact details of the Company:
 Techland sp. z o.o.  
 ul. Żółkiewskiego 3  
 63-400 Ostrów Wielkopolski
+
+Ok! I got it!Our website uses cookies. We use cookies to create a more personal experience. However, if you don’t feel comfortable with this, you can change the way cookies work for you in your browser’s settings.
