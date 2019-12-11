@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichegamer.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154656id_/https%3A//nichegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichegamer.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211043527id_/https%3A//nichegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Niche Gamer
 
@@ -110,7 +110,7 @@ You may exercise any of your rights in relation to your personal data by contact
 
 We use cookies on our website to save your submitted information, your preferences, and to gather data about our site traffic, so that we know how to better your experience at Niche Gamer.
 
-The advertisements you see on our website are from third parties, which use information from your browsing history, and how you reached Niche Gamer, in order to serve ads that correlate to your interests. If you would like to learn more about how these ads work, and to know your options of not having your information used by these third parties, go [here](http://www.networkadvertising.org/choices/).
+The advertisements you see on our website are from third parties, which use information from your browsing history, and how you reached Niche Gamer, in order to serve ads that correlate to your interests. If you would like to learn more about how these ads work, and to know your options of not having your information used by these third parties, go [here](https://www.networkadvertising.org/choices/).
 
  **Cookies that we use**
 
@@ -163,4 +163,6 @@ We may update this policy from time to time by publishing a new version on our 
 
 By using our website, you are consenting to our privacy policy. This policy only applies to the information collected from our website. Any changes made to this policy will be shown here, and made note of by the last modified date, seen below.
 
- _This policy was last modified on May 25th, 2018._
+We use a third-party provider, Venatus, to deliver targeted advertising and marketing to you. For information on how Venatus uses your data, please see Venatus’ privacy policy [here](https://www.venatusmedia.com/privacy/).
+
+ _This policy was last modified on June 6th, 2019._
