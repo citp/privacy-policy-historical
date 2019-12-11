@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazterize.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511185820id_/https%3A//www.mazterize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazterize.com privacy policy that was archived on 2019-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191211142942id_/https%3A//www.mazterize.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | MAZTERIZE
 
