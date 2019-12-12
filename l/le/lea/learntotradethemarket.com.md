@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learntotradethemarket.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103080606id_/https%3A//www.learntotradethemarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntotradethemarket.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212154449id_/https%3A//www.learntotradethemarket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Learn To Trade The Market
 
@@ -6,9 +6,9 @@ Effective date: May 24, 2018
 
 **Privacy Policies**
 
-[**Our EU GDPR Privacy Policy  Is Available Here.**](http://www.learntotradethemarket.com/privacy/privacy-policy-europe-gdpr)
+[**Our EU GDPR Privacy Policy  Is Available Here.**](https://www.learntotradethemarket.com/privacy/privacy-policy-europe-gdpr)
 
-[**Our Cookie Policy & EU GDPR Cookie Policy Is Here.**](http://www.learntotradethemarket.com/privacy/cookie-policy)
+[**Our Cookie Policy & EU GDPR Cookie Policy Is Here.**](https://www.learntotradethemarket.com/privacy/cookie-policy)
 
 **Global Privacy Policy For Clients, Free Subscribers & Website Visitors**
 
@@ -135,20 +135,36 @@ If you wish to opt-out of receiving marketing information altogether, you can:
 * call us on +61 0401 840 083; or  
 * write to us at support (@) learntotradethemarket.com  
    
-**Information Submitted To 3rd Party Technology & Service Providers (eg: Trading Platforms)**
+**8\. Information Submitted To 3rd Party Technology & Service Providers (eg: Trading Platforms)**
 
-  * [AXITrader.com](https://www.axitrader.com/demo?promocode=430845) (AXICorp Pty Ltd [AXI] ) is the provider of the online trading platform and financial services you request via the opt-in forms and application forms on our website.
+**8.1**
+
+  * [AXITrader.com](https://www.axitrader.com/demo?promocode=430845) (AXICorp Pty Ltd [AXI] ) is a provider of the online trading platform and financial services you may request via the opt-in forms and application forms on our website.
   * With your express consent and permission via online forms or applications, we will share information with a 3rd party platform provider (ie: [AXITrader.com](https://www.axitrader.com/demo?promocode=430845)).
   * Once you submit a form or complete an application form and your information has been handshaked to AXI you are also agreeing to their privacy policy, terms of service, consenting to their cookie policy and marketing policy.  [You can read these documents and policies here](https://www.axitrader.com/?page=A000016&promocode=430845).
   * We are not responsible for your data once the information is passed to these 3rd parties or technology providers.
   * You may receive marketing and promotional emails, as well as targetted ads from these 3rd parties
   * You may have cookies and tracking scripts (beacons) placed in your browser by these 3rd parties websites and software, beyond our control. You are subject to the providers’ cookie policy.
   * You may contact AXI to request what information they have on record about you by [contacting them here](https://www.axitrader.com/au/contact-us?promocode=430845).
-  * European clients under GDPR law should [refer to our EU GDPR Privacy Policy Here](http://www.learntotradethemarket.com/privacy/privacy-policy-europe-gdpr).
+  * European clients under GDPR law should [refer to our EU GDPR Privacy Policy Here](https://www.learntotradethemarket.com/privacy/privacy-policy-europe-gdpr).
 
 
 
-8\. Sending information overseas?  
+   
+**8.2**
+
+  * [FXTRADING.com](https://fxtrading.com/) (FXT) is a provider of the online trading platform and financial services you may request via the opt-in forms and application forms on our website.
+  * With your express consent and permission via online forms or applications, we will share information with a 3rd party platform provider (ie: FXTRADING.com).
+  * Once you submit a form or complete an application form and your information has been handshaked to FXT you are also agreeing to their privacy policy, terms of service, consenting to their cookie policy and marketing policy.  [You can read these documents and policies here](https://fxtrading.com/docs/privacy).
+  * We are not responsible for your data once the information is passed to these 3rd parties or technology providers.
+  * You may receive marketing and promotional emails, as well as targetted ads from these 3rd parties
+  * You may have cookies and tracking scripts (beacons) placed in your browser by these 3rd parties websites and software, beyond our control. You are subject to the providers’ cookie policy.
+  * You may contact FXT to request what information they have on record about you by [contacting them here](https://fxtrading.com/contact/).
+  * European clients under GDPR law should [refer to our EU GDPR Privacy Policy Here](https://www.learntotradethemarket.com/privacy/privacy-policy-europe-gdpr).
+
+
+
+9\. Sending information overseas?  
 We will only disclose your personal information to a recipient who is not in Australia and who is not our entity after we ensure that:
 
 * the overseas recipient does not breach the Australian Privacy Principles; or  
@@ -157,14 +173,14 @@ We will only disclose your personal information to a recipient who is not in Aus
 * the disclosure of the information is required or authorised by or under an Australian law or a court/tribunal order; or  
 * a permitted general situation (other than the situation referred to in item 4 or 5 of the table in subsection 16A(1) Privacy Act) exists in relation to the disclosure of the information.
 
-9\. Management of personal information  
+10\. Management of personal information  
 The Privacy Act requires us to take all reasonable steps to protect the security of personal information. Safeguarding the privacy of your information is important to us, whether you interact with us personally, by phone, mail, over the internet or other electronic medium.
 
 We hold personal information in a combination of secure computer storage facilities and paper based files and other records, and take steps to protect the personal information we hold from misuse, loss, unauthorized access, modification or disclosure.
 
 We may need to maintain records for a significant period of time. However, when we consider information is no longer needed, we will remove any details that will identify you or we will securely destroy the records.
 
-10\. Identifiers  
+11\. Identifiers  
 We will not use identifiers assigned by the Government, such as a tax file number, Medicare number or provider number, for our own file recording purposes unless required or authorized to do so by or under Australian law, regulation or court/tribunal order.
 
 Before using or disclosing a government related identifier of an individual, we will ensure that such use or disclosure is:  
@@ -174,11 +190,11 @@ Before using or disclosing a government related identifier of an individual, we 
 * within a permitted general situation (other than the situation referred to in item 4 or 5 of the table in subsection 16A(1) Privacy Act); or  
 * reasonably necessary for one or more enforcement related activities conducted by, or on behalf of, an enforcement body.
 
-11\. How do we keep personal information accurate and up-to-date?
+12\. How do we keep personal information accurate and up-to-date?
 
 We take reasonable steps to ensure that the personal information it holds is accurate, complete and up-to-date. We encourage individuals to contact us in order to update any personal information we hold about them. Our contact details are set out at the end of this document.
 
-12\. Access to personal information  
+13\. Access to personal information  
 Under the Privacy Act, you have the right to obtain a copy of any personal information which LTTTM holds about you and to advise LTTTM of any perceived inaccuracy.
 
 To make a request, you will need to complete an application form verifying your identity and specifying what information you require. We will acknowledge your request within 14 days and respond promptly to it or if that deadline cannot be met owing to exceptional circumstances, your request will be dealt with within 30 days.
@@ -192,7 +208,7 @@ If we refuse to give access to the personal information or to give access in the
 
 Additionally, we will endeavour to give access in a way that meets both yours and our needs.
 
-13\. Correction of personal information
+14\. Correction of personal information
 
 We will correct all personal information that we believe to be inaccurate, out of date, incomplete, irrelevant or misleading given the purpose for which that information is held or if you request us to correct the information.
 
@@ -202,26 +218,26 @@ If we refuse to correct the personal information as requested by you, we will gi
 
 If we refuse to correct the personal information as requested by you, you can request us to associate with the information a statement that the information is inaccurate, out of date, incomplete, irrelevant or misleading. We will then associate the statement in such a way that will make the statement apparent to users of the information.
 
-14\. Updates to this Policy  
+15\. Updates to this Policy  
 LTTTM ‘s Privacy Policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and to make sure it remains appropriate to the changing environment.
 
-15\. Responsibilities  
+16\. Responsibilities  
 It is the responsibility of management to inform employees and other relevant parties that this Privacy Policy is maintained and enforced. Management must ensure that they periodically advise LTTTM ’s employees and other relevant parties of any changes to the Privacy Policy in a timely manner. It is the responsibility of all employees and other relevant parties to ensure that they understand and adhere to this Privacy Policy. Ignorance of the existence of the Privacy Policy will not be an acceptable excuse for non-compliance.
 
-16\. Privacy Training  
+17\. Privacy Training  
 All new employees must be provided with timely and appropriate access to LTTTM ’s Privacy Policy. All employees must be provided with opportunities to attend appropriate and periodic Privacy awareness training and must ensure that they understand the Privacy related issues that could adversely affect LTTTM ’s position if not properly adhered to.
 
-17\. Non-compliance and disciplinary actions  
+18\. Non-compliance and disciplinary actions  
 Any LTTTM employee or relevant third party that identifies, knows about, or suspects a Privacy breach must immediately report the matter to the Privacy Officer. Employees or other relevant parties that contravene or do not comply with LTTTM ‘s Privacy Policy may be subject to disciplinary action.
 
-18\. Incidents/Complaints Handling  
+19\. Incidents/Complaints Handling  
 If an individual has a privacy complaint, he or she is required to send it in writing to the Privacy Officer.  
 LTTTM has an effective incidents/complaints handling process in place to manage privacy risks and issues. The incidents/complaints handling process involves:  
 * identifying (and addressing) any systemic/ongoing compliance problems;  
 * increasing consumer confidence in LTTTM ’s privacy procedures; and  
 * helping to build and preserve LTTTM ’s reputation and business.
 
-19\. Contractual arrangements with third parties  
+20\. Contractual arrangements with third parties  
 We must ensure that all contractual arrangements with third parties adequately address privacy issues.  
 Each third party is aware of this Privacy Policy, and has informed us that they have implemented policies in relation to the management of personal information in accordance with the Privacy Act, including:  
 * regulating the collection, use and disclosure of personal information;  
@@ -231,12 +247,12 @@ authorised employees or agents of the related organisations; and
 * ensuring that personal information is only disclosed to organisations which are approved by LTTTM .  
 The third parties specifically agree only to use personal information for the purposes consented to by LTTTM or by the individual concerned.
 
-20\. Websites  
+21\. Websites  
 LTTTM ’s websites (www.LearnToTradeTheMarket.com) contain links to other websites whose operator may or may not adhere to a privacy policy or be governed by the APPs. LTTTM has no control over the privacy practices of sites that are linked to its sites via hyperlinks or banner advertising. Please take care at all times to check whose site you are visiting.  
 When an individual accesses our websites, our websites uses cookies which allow us to identify the individual’s browser. Cookies do not identify the individual – they simply allow us to track usage patterns so that we can measure the level of interest in various areas of its site. All browsers allow individuals to be notified when they receive a cookie and elect whether to accept it.  
 We may also use third parties to analyse traffic at our web sites, which may involve the use of cookies. Information collected through such analysis is anonymous. Our websites’ privacy policy can be accessed by clicking on the privacy link located on the homepage of each of our websites.
 
-21\. Enquiries  
+22\. Enquiries  
 If you have any questions about privacy-related issues please contact the LTTTM Privacy Officer:  
 The Privacy Officer  
 Learn To Trade The Market Pty Ltd  
@@ -245,3 +261,5 @@ Gold Coast Mail Centre
 9726 , QLD, Australia  
 Tel +61 0401 840 083  
 Email: support (@) learntotradethemarket.com
+
+**Christmas Special: Get 50% Off Life-Time Access To: Nial Fuller's Price Action Forex Trading Course, Daily Trade Ideas Newsletter & Live Trade Setups Forum - [Click Here For More Info](https://www.learntotradethemarket.com/forex-trading-course).**
