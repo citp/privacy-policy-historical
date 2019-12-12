@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwhm.org privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430012548id_/http%3A//nwhm.org/donor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwhm.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212183847id_/https%3A//www.womenshistory.org/donor-privacy-policy) for the most accurate reproduction.*
 
 # Donor Privacy Policy | National Women's History Museum
 
