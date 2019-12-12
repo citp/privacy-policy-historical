@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the busymac.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611162745id_/http%3A//busymac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busymac.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212144849id_/http%3A//www.busymac.com/privacy.html) for the most accurate reproduction.*
 
-# BusyMac Privacy Policy
+# Busy Apps Privacy Policy
 
 Usage of our software allows you and your organization to fulfill the regulatory requirements of GDPR. It is important to note that we do not retain or store any data you add to our software. None of this information is transferred or synced to any of our servers. Instead, all accounts / services you add to BusyCal / BusyContacts results in direct, secure communication between the app and the service in question, thus it is important to realize that the service you're using our software with needs to comply with GDPR regulations.
 
+### Login Credentials
+
+BusyCal and BusyContacts use your username and password to sync, manage and display your calendars, events, reminders and contacts. When adding Office 365, Google Calendar or Contacts accounts to BusyCal and BusyContacts, we instead rely on industry standards such as OAuth to authenticate you. Your username, password or OAuth tokens are stored securely in the system Keychain. The Keychain is part of macOS and iOS, where credentials from system apps as well as third party apps are stored securely. Your account information, including the data you sync, is **never** transferred or shared outside of your machine or mobile to any third party server neither our own.
+
 ### Licensing
 
-Placing an order or purchasing a copy of our software requires you to share your email address with us, which is then tied to the serial number generated in order to uniquely identify your installation(s). This information is stored and used solely for licensing and invoicing purposes.
+Placing an order or purchasing a copy of our software requires you to share your email address with us, which is then tied to the serial number generated in order to uniquely identify your installation(s). This information is stored and used solely for licensing and invoicing purposes. When registering your mac for the first time, your mac-id, IP address and serial number and sent to our servers to validate and activate your copy. This is required solely for the purpose of licensing and to validate your installation.
+
+### Automatic Updates
+
+BusyCal and BusyContacts on macOS periodically check for updates by contacting our servers. This includes anonymous information about the installation of BusyCal / BusyContacts, as well as the version of macOS, in order to determine if there is an update available for you.
 
 ### Mailing List
 
@@ -18,7 +26,7 @@ In case you contact us and choose to send us your private logs (with consent) in
 
 ### Non-Personal Information
 
-Non-personal information is data that cannot, on its own, be used to uniquely identify a specific individual in any way or form. This information is usually in the form of crash logs and related analytics. We may collect, use, transfer, and disclose non-personal information for any purpose.
+Non-personal information is data that cannot, on its own, be used to uniquely identify a specific individual in any way or form. This information is usually in the form of crash logs and related analytics. We may collect, use, transfer, and disclose non-personal information for any purpose. We use Google Firebase (previously known as Fabric / Crashlytics) for this purpose.
 
 ### Cookies and Other Technologies
 
