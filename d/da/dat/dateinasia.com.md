@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the dateinasia.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205131613id_/https%3A//www.dateinasia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateinasia.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212181903id_/https%3A//www.dateinasia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DateInAsia.com
 
 **Last updated:**
 
+  * July 26th, 2019 (clarified how your account might expire) 
   * Jul 18th, 2018 (minor wordings) 
   * May 25th, 2018 (major changes) 
 
@@ -107,7 +108,7 @@ Other advertising partner's settings can be found by visiting [www.aboutads.info
 
 Some third party vendors may also use web beacons to collect information in the ad serving process. Third party cookies and web beacons are governed by each third party's specific privacy policy, not by our service's privacy policy. 
 
-A list of Google AdSense partners can be found below. You may click / tap on each advertiser's link to see their privacy policies, to learn about their practices, and in some cases opt out of the use of cookies for personalized advertising. 
+A list of Google AdSense partners can be found below. You may click/tap on each advertiser's link to see their privacy policies, to learn about their practices, and in some cases opt out of the use of cookies for personalized advertising. 
 
 Show list of AdSense partners
 
@@ -227,7 +228,7 @@ We keep your personal data only as long as we need it to provide you with our se
 
 ###  A. When you delete your account 
 
-You can delete your account from [this link](https://web.archive.org/DeleteAccount.aspx). If you have forgotten your login credentials, we will ask you to verify your identity. If you cannot prove your identity, data will be retained until your account expires. 
+You can delete your account from [this link](https://web.archive.org/deleteaccount). If you have forgotten your login credentials, we will ask you to verify your identity. If you cannot prove your identity, data will be retained until your account expires. 
 
 When you choose to delete your account, we immediately start the process of removing it. First, we aim to immediately remove your profile from view by others using our services. Then we start the process of completely deleting the data from our storage systems. Because we backup data continuously, it may take up to 30 days for all data contained in those backup archives to be deleted. 
 
@@ -237,7 +238,7 @@ Please note that deleted accounts cannot be restored if you regret deleting it, 
 
 ###  B. When your account expires 
 
-Inactive accounts might be deleted, and an account is defined as inactive if either a) no messages have been sent from the account and the account has not been signed in to during the last 60 days, or b) if the account has not been signed in to during the last 360 days. Incomplete accounts might be deleted after 7 days, and accounts containing junk or inappropriate data might be deleted immediately. 
+Inactive accounts might be deleted after 360 days, incomplete accounts might be deleted after 7 days, and accounts containing junk or inappropriate data might be deleted immediately. 
 
 ###  C. Exceptions 
 
@@ -259,7 +260,7 @@ Some data from banned users may be anonymized and used to train our system to de
 
 If you are located in the EEA, special rights set down in the General Data Protection Regulation or "GDPR" applies to you. 
 
-We will respond to all legitimate GDPR related requests which do not infringe on trade secrets or intellectual property or the privacy of another user within 30 days as required by the GDPR. This is usually free of charge, but we are allowed to charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. We may request proof of identity before we can answer your request. You have the right to complain to a data protection authority. For more information, please contact your local data protection authority. We can be contacted using our [contact us form](https://web.archive.org/Contact.aspx). 
+We will respond to all legitimate GDPR related requests which do not infringe on trade secrets or intellectual property or the privacy of another user within 30 days as required by the GDPR. This is usually free of charge, but we are allowed to charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. We may request proof of identity before we can answer your request. You have the right to complain to a data protection authority. For more information, please contact your local data protection authority. We can be contacted using our [contact us form](https://web.archive.org/contact). 
 
 ####  Right of access 
 
@@ -267,7 +268,7 @@ Also, sometimes referred to as "right of portability", you have the right to rev
 
 ####  Right to rectification and deletion 
 
-You have the right to correct, update or delete information about yourself. This can be done by [changing your settings](https://web.archive.org/settings), [editing your profile](https://web.archive.org/EditUserProfile.aspx), [managing your photos](https://web.archive.org/Photos), or by [deleting your account](https://web.archive.org/DeleteAccount.aspx). 
+You have the right to correct, update or delete information about yourself. This can be done by [changing your settings](https://web.archive.org/settings), [editing your profile](https://web.archive.org/editprofile), [managing your photos](https://web.archive.org/photos), or by [deleting your account](https://web.archive.org/deleteaccount). 
 
 ####  Right to object and restrict and to withdraw your consent 
 
@@ -275,11 +276,11 @@ You have the right to object to us processing your personal data, and the right 
 
 You may withdraw your previously given consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in accordance with applicable laws. 
 
-If you ask us to restrict processing of your personal data / withdraw your consent, we will no longer be able to provide our services to you. In this case, we recommend [deleting your account](https://web.archive.org/DeleteAccount.aspx). This will automatically stop all processing of your personal data. 
+If you ask us to restrict processing of your personal data / withdraw your consent, we will no longer be able to provide our services to you. In this case, we recommend [deleting your account](https://web.archive.org/deleteaccount). This will automatically stop all processing of your personal data. 
 
 ####  Right to opt-out of notifications and marketing communication 
 
-If you do not want to receive notifications and marketing communication from us, you can opt-out in your [notification settings](https://web.archive.org/settings#notifications) or click / tap the "unsubscribe" link in the communication we send to you. 
+If you do not want to receive notifications and marketing communication from us, you can opt-out in your [notification settings](https://web.archive.org/settings#notifications) or click/tap the "unsubscribe" link in the communication we send to you. 
 
 ##  9\. Children's privacy 
 
@@ -295,4 +296,4 @@ On top of this page you will find a "Last updated" time stamp. If the changes ar
 
 We can be contacted by using our contact us form: 
 
-[Contact us](https://web.archive.org/Contact.aspx)
+[Contact us](https://web.archive.org/contact)
