@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynews.lk privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530112703id_/http%3A//dailynews.lk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynews.lk privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212074702id_/http%3A//www.dailynews.lk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily News
 
