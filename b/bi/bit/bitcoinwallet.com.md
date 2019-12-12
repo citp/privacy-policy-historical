@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinwallet.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317170156id_/https%3A//bitcoinwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinwallet.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212162956id_/https%3A//bitcoinwallet.com/privacy.php) for the most accurate reproduction.*
 
 # BitcoinWallet.com Privacy Policy
 
