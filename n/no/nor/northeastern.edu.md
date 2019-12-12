@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northeastern.edu privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524153544id_/https%3A//www.northeastern.edu/privacy-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northeastern.edu privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212012732id_/https%3A//www.northeastern.edu/privacy-information) for the most accurate reproduction.*
 
 # Privacy Information - Northeastern University
 
@@ -203,7 +203,7 @@ Your Rights. Subject to EU law, you may have the following rights in relation to
   * Right to erasure: You may ask us to erase your Personal Data in some circumstances, such as where we no longer need it or you withdraw your consent (where applicable). If we shared your information with others, we will alert them to the need for erasure where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data with so you can contact them directly.
   * Right to restrict processing: You may ask us to restrict or ‘block’ the processing of your Personal Data in certain circumstances, such as where you contest the accuracy of the data or object to us processing it (please read below for information on your right to object). We will tell you before we lift any restriction on processing. If we shared your Personal Data with others, we will tell them about the restriction where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so you can contact them directly.
   * Right to data portability: You have the right to obtain your Personal Data from us that you consented to give us or that was provided to us as necessary in connection with our contract with you. We will give you your Personal Data in a structured, commonly used and machine-readable format. You may reuse it elsewhere.
-  * Right to object: You may ask us at any time to stop processing your Personal Data, and we will do so:
+  * Right to object: You may ask us at any time to stop processing your Personal Data, and we will do so: 
     * If we are relying on a legitimate interest (described under the “How We Use Your Information” section above) to process your Personal Data — unless we demonstrate compelling legitimate grounds for the processing; or
     * If we are processing your Personal Data for direct marketing.
   * Rights in relation to automated decision-making: You have the right to be free from decisions based solely on automated processing of your Personal Data, unless this is necessary in relation to a contract between you and us or you provide your explicit consent to this use.
