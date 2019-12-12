@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapg.org privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412065918id_/https%3A//www.aapg.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapg.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212184941id_/https%3A//www.aapg.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
