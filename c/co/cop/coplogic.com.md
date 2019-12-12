@@ -1,130 +1,38 @@
-> *The following text is extracted and transformed from the coplogic.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205020446id_/http%3A//www.coplogic.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coplogic.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212120935id_/https%3A//risk.lexisnexis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Coplogic Online Citizen Police Reporting
+# Privacy Policy | LexisNexis Risk Solutions
 
-### LexisNexis Privacy Policy
+### 4.1 Your Organization
 
-1\. Scope of this Privacy Policy  
-2\. Collection of Information  
-3\. Use of Your Personal Information  
-4\. Sharing or Disclosing Your Personal Information  
-5\. Children's privacy  
-6\. Your Choices and Selecting your Privacy Preferences  
-7\. Access to and Accuracy of Your Personal Information  
-8\. Security  
-9\. Changes to this Policy  
-10\. Cross Border Transfer of Data  
-11\. Contacting Us
+If you access the Service through a subscription administered by your organization, your personal information and certain usage data gathered through the Service may be accessed by or shared with the administrators authorized by your organization for the purposes of usage analysis, subscription management and compliance, cost attribution and departmental budgeting. 
 
-**1\. Scope of this Privacy Policy**  
-This privacy policy describes how LexisNexis and its worldwide affiliated group companies (collectively, “LexisNexis”) will use the personal information collected when you visit the LexisNexis websites, application websites and mobile platforms that contain a link to this privacy policy (each, a “Service”). A Service may supplement this privacy policy with additional privacy terms or with additional privacy notices in connection with certain features of that Service. This privacy policy does not apply to websites, applications or mobile platforms that are not linked to this privacy policy or to those operated by third parties. We encourage you to review the privacy policies posted on those websites, applications and mobile platforms.
+### 4.2 Application Licensor
 
-**2\. Collection of Information**  
-The Service collects information from you in two ways: directly from your input and automatically through the Service’s technologies.
+If you access a third-party application on the Service through a license agreement with the licensor of that application, personal information relevant to that application will be shared with the licensor so that it can provide you access to the application, subject to the terms of its license agreement and privacy policy. 
 
-**a. Information provided by you**  
-The types of information the Service collects directly from you may include the following as well as any other information type that we expressly ask you to enter and submit to the Service:
+### 4.3 Our Group Companies and Service Providers
 
-  * Contact information, such as your name, email address, and telephone number; 
-  * Usernames and passwords; 
-  * Payment information, such as a credit or debit card number;
-  * Educational and employment background; 
-  * Comments and feedback; 
-  * Interests and communication preferences. 
+Depending on the Service provided, we share personal information with:
+
+  * Our affiliates, trading names and divisions within the LexisNexis Risk Solutions group of companies worldwide (for a list, [click here](https://risk.lexisnexis.com/contact-us#office-locations)) and certain RELX Group companies that provide technology, customer service and other shared services functions; and/or 
+  * Our service providers, suppliers, agents and representatives, including but not limited to, payment processors, customer support, email service providers, IT service providers, mailing houses and shipping agents; 
 
 
 
-**b. Information Collected Automatically**  
-The Service automatically collects certain information regarding your use of the Service. Examples of information collected automatically include:
+to process the information as necessary to provide the Service, complete a transaction or fulfill your request or otherwise on our behalf based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security measures. 
 
-  * Internet Protocol ("IP") address used to connect your computer to the Internet;
-  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier (“UDID”) and other technical identifiers;
-  * Uniform Resource Locator ("URL") click stream data, including date and time, and content you viewed or searched for on a Service;
-  * Location information for location-aware Services to provide you with more relevant content for where you are in the world.
+### 4.4 Your Choices
 
+We share your personal information with our affiliates and with sponsors, joint venture partners and other third parties, including entities for which we are acting as an agent, licensee, application host or publisher, that wish to send you information about their products and services that may be of interest to you, as determined by your choices in managing your communications preferences and other settings. The Service may let you post and share personal information, comments, materials and other content. Any such contributions you disclose publicly may be collected and used by others, may be indexed by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas. 
 
+### 4.5 For Legal Reasons
 
-We may use and disclose automatically collected information for any purpose, except where we are restricted by applicable law. If we combine any automatically collected information with personal information, the combined information will be treated by us as personal information.
+We also will disclose your personal information if we have a good faith belief that such disclosure is necessary to: 
 
-We may also use aggregated information for any purpose, however, this information does not identify specific individuals and so is not personal information.
-
-**c. Cookies and Web Beacons**  
-The Service may also automatically collect information through the use of cookies or similar technologies, such as web beacons. Cookies are small text files that a website sends to the browser on your computer or mobile device when you first visit a web page so that the website can recognize your device the next time you visit. Most websites typically use the following:
-
-  * “Session” cookies, which are temporary and deleted when you close your browser;
-  * “Persistent” cookies, which remain until you delete them or they expire;
-  * Web beacons, which are electronic images also known as single-pixel gifs.
+  * meet any applicable law, regulation, legal process or other legal obligation; 
+  * detect, investigate and help prevent security, fraud or technical issues; and/or 
+  * protect the rights, property or safety of LexisNexis Risk Solutions, our users, employees or others;
 
 
 
-In general, cookies, web beacons and similar technologies do not contain personally identifiable information, but when you furnish your personal information through the Service, this information may be linked to the non-personally identifiable data stored in cookies sent to your browser from the Service.
-
-LexisNexis and its service providers use these technologies for various purposes, including: facilitating the login process, administering, customizing and improving the Service, personalizing the browsing experience; advertising, promotions and surveys, reporting and paying royalties and license fees to third-party providers, such as authors, societies and other copyright holders and content distributors as well as tracking and analyzing user preferences and trends.
-
-There are a number of ways to manage cookies. The “help” portion of the toolbar on most browsers will tell you how to stop accepting cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies. However, if you block cookies, you may not be able to register, login or make full use of the Service. You can also use your mobile device’s settings to manage the available privacy options.
-
-Our HTML-formatted emails may contain a web beacon to tell us whether our emails are opened and verify any clicks through to links or advertisements within the email. We may use this information for purposes including determining which of our emails are more interesting to users, to query whether users who do not open our emails wish to continue receiving them and to inform our advertisers in aggregate how many users have clicked on their advertisements. The web beacon will be deleted when you delete the email. Emails in plain text rather than HTML will not include the web beacon.
-
-**3\. Use of Your Personal Information**  
-We use the personal information collected through the Service to complete various actions:
-
-  * to assist you in completing a transaction or order; 
-  * to provide and improve service and support; 
-  * to update you on relevant new services and benefits; 
-  * to personalize the Service and to select content to be communicated to you or to use features on the Service such as sharing content with a friend or colleague; 
-  * to contact you regarding our products or services or other products and services from third parties;
-  * to invite you to participate in surveys, sweepstakes, competitions and similar promotions; 
-  * for data analysis, audits, developing new products, enhancing the Service, identifying usage trends and determining the effectiveness of our promotional campaigns, or in other ways to which you have expressly agreed in a customer agreement with us; 
-  * to prevent and detect security threats, fraud or other malicious activity; and 
-  * to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-
-
-We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for the purposes described above.
-
-**4\. Sharing or Disclosing Your Personal Information**  
-We share your personal information in the following ways:
-
-  * Agents, Representatives, Sponsors, Societies and Business Partners. Your personal information may be accessible to our agents, representatives, sponsors and entities for which we are acting as an agent, licensee, joint venturer or publisher.
-  * Service Providers. Your personal information may be accessible to our service providers and suppliers, which assist us with producing and delivering our products and services, operating our business, and marketing, promotion and communications. These providers and suppliers include, for example, editors, reviewers, credit card processors, customer support, email service providers, IT service providers and shipping agents. 
-  * Institutional Subscribers. If the Service offers a content database or learning service ("Subscription Service") and you access the Subscription Service through an institution-sponsored subscription, your personal information and certain usage data gathered through the Subscription Service, such as the number of items you downloaded, any non-subscribed items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription management, course management, and testing and remediation. If your institution is a corporation or other business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also may be shared for the purposes of cost attribution and departmental budgeting. 
-  * Recruiters. Some of our websites offer you the ability to create a profile and upload a CV to our database. Your profile and CV may be then made available for searching, viewing over the Internet and downloading by our customers. These may be direct recruiters, employment consultants or other organizations. Your CV can only be viewed by a customer if you have consented to this within the profile section. You can choose to prevent our customers from accessing your personal details, CV or profile. You can also choose to make your personal details and your CV anonymous, while having your profile available to be searched by recruiters. 
-  * Other Third Parties: We may share personal Information with other third parties if we expressly told you about such potential disclosure at the point at which you submitted the Information to us. 
-  * Compliance with Law and Similar Obligations. We may share personal information in order to: (i) respond to or comply with any law, regulation, subpoena or court order; (ii) investigate and help prevent security threats, fraud or other malicious activity; (iii) enforce and protect the rights and properties of LexisNexis or its affiliates; or (iv) protect the rights or personal safety of our employees and third parties on or using our property. 
-  * Change in Corporate Circumstances. If LexisNexis, the Service or a related asset or line of business is acquired by, transferred to or merged with another company, your personal information may be disclosed to the prospective or actual purchasers. The Service also may provide access to social media features, message boards, chat, forums, blogs, profile pages and other services to which you are able to post personal information and materials. Any information you post or disclose through these services is public. Please be careful when disclosing personal information in these public areas. 
-
-
-
-**5\. Children’s Privacy**  
-We do not knowingly collect information from children under the age of 13 and LexisNexis does not target its websites to children under 13.
-
-**6\. Your Choices and Selecting Your Privacy Preferences**  
-You can manage available communications preferences when you register with the relevant Service, by updating your account preferences, or, where applicable, by using the “opt-out” or unsubscribe mechanism or other means provided within the communications that you receive. We reserve the right to notify you of changes or updates to the Service whenever necessary.
-
-**7\. Access to and Accuracy of Your Personal Information**  
-You may request access to personal information about you that you have provided to us through the websites or mobile platforms governed by this policy. You may also request to review and correct any of that personal information. Additional rights may also apply under applicable laws.
-
-The Service may allow registered users to access their registration information and make corrections or updates. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity. To view and change the personal information that you directly provided to us, you can return to the Web page where you originally submitted your data and follow the instructions on that Web page, or contact us at the address listed below.
-
-**8\. Data Security**  
-We use a variety of data security measures intended to ensure the confidentiality and integrity of your personal information.
-
-**9\. Changes to Privacy Policy**  
-If we modify this privacy policy, we will post the revised version here, with an updated revision date.
-
-**10\. Cross-Border Transfer of Personal Information**  
-Your personal information may be transferred to other countries for processing, and by using the Service you consent to the transfer of information to countries outside of your country of residence, which may have different personal data protection rules than in your country. Certain entities of LexisNexis participate in the U.S. Department of Commerce's Safe Harbor principles for the transfer of personal data. Please visit our [Safe Harbor Privacy Policy](http://www.reedelsevier.com/Documents/policies/safe-harbor-policy.pdf) to learn more.
-
-**11\. Contacting Us**  
-If you have comments or questions about this privacy policy or our processing of your information, please contact:
-
-LexisNexis  
-Information Assurance and Data Protection Organization  
-PO Box 933  
-Dayton, Ohio 45401  
-Telephone: 1-800-831-2578  
-Email: [privacy.information.mgr@lexisnexis.com](mailto:privacy.information.mgr@lexisnexis.com)
-
-This policy was last revised 12/15/2014.
+and as part of a corporate transaction, such as a transfer of assets or an acquisition by or merger with another company. 
