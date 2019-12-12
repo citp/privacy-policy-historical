@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slidehunter.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614201952id_/https%3A//slidehunter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidehunter.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212152331id_/https%3A//slidehunter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy PowerPoint .PPT - SlideHunter.com
 
