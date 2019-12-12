@@ -1,16 +1,11 @@
-> *The following text is extracted and transformed from the legislation.gov.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523010604id_/http%3A//www.legislation.gov.uk/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legislation.gov.uk privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212110431id_/http%3A//www.legislation.gov.uk/privacynotice) for the most accurate reproduction.*
 
 # Privacy Notice
 
-## Search Legislation
+  * Skip to main content
+  * Skip to navigation
 
-Title: _(or keywords in the title)_
 
-Year:
-
-Number:
-
-Type:
 
 ## Introduction
 
