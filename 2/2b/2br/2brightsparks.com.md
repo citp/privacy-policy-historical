@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 2brightsparks.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612172850id_/https%3A//www.2brightsparks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2brightsparks.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212034644id_/https%3A//www.2brightsparks.com/privacy.html) for the most accurate reproduction.*
 
 # 2BrightSparks Privacy Statement
 
 ### Privacy Statement
 
-Last Modified January 2019
+Last Modified August 2019
 
 At 2BrightSparks, your privacy is very important to us. This privacy notice explains what to expect when 2BrightSparks Pte Ltd collect personal information from users. Personal information can include any information about a person who can be identified from that information, which is recorded in some material form, including as part of a database. This ranges from basic personal details such as name and email address to IP address, credit card details and other sensitive information, including information made as a result of purchasing products and subscriptions.
 
@@ -23,9 +23,7 @@ Generally, you can visit our website (www.2brightsparks.com) without leaving any
 
 • Customer database (managed by 2BrightSparks and stored on **Amazon** servers)
 
-• Registering and usage of reseller affiliate program (stored by **Impact Radius** )
-
-• Registering and posting on Disqus message boards (stored by **Disqus** )
+• Registering and usage of reseller affiliate program (stored by **Impact** )
 
 • Submitting upgrade enquiries (stored by **Logiforms** )
 
@@ -38,7 +36,7 @@ When you provide us with personal identifying information in an e-mail or ticket
 
 We have an active forum that runs on phpBB, an open source forum software. When you visit our forum and signup as a forum member and/or submit postings, we may collect your information based on what you submit to us. Your forum account will contain a uniquely identifiable name (user name), a personal password used for logging into your account and a personal, valid email address. Any information beyond your user name, password, and email address during the registration process is either mandatory or optional, at the discretion of 2BrightSparks. In all cases, you have the option to decide what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated emails from the phpBB software. Our forum also supports signing in using your social network account (Facebook, Twitter, etc), in which case, your login information is stored by OneAll and your data protection falls under their privacy policy.
 
-We have an affiliate program where resellers can sign up as our affiliates to earn commission for reselling our products. This program is hosted by Impact Radius, our affiliate management partner. All account information required during registration are required by Impact Radius and the reseller information database is hosted by them.
+We have an affiliate program where resellers can sign up as our affiliates to earn commission for reselling our products. This program is hosted by Impact, our affiliate management partner. All account information required during registration are required by Impact and the reseller information database is hosted by them.
 
 When you subscribe to our mailing list, you provide us with a valid email address which is stored on our servers. During the purchase process, you can also optionally opt-in to our mailing list. If so, the name you used during the purchase process is also recorded in the mailing list database along with your email address.
 
@@ -83,15 +81,11 @@ To find out more about using your browser settings to control cookies please vis
 
 • FreshDesk – ticket support channel (<https://www.freshworks.com/privacy/>). If you wish to request that they no longer use your Collected Data, contact them at support@freshworks.com.
 
-• Disqus – blog commenting service (<https://help.disqus.com/customer/portal/articles/466259-privacy-policy>). If you own a registered Disqus account, you can use the self-serve deletion feature in Settings > Account > Delete Your Disqus Account. If you are a guest, you can unsubscribe from emails by replying to any notification with the word "unsubscribe" in response. You can also [contact 2BrightSparks](https://web.archive.org/contact.html) to delete your comments for you, if desired. See [GDPR: Delete or Access User Data](https://help.disqus.com/commenting/gdpr-delete-or-access-user-data) for more details.
-
 • FastSpring – Webstore host and payment processor (<https://fastspring.com/privacy/>). To remove your data contact **privacy@fastspring.com**
 
 • Logiforms – Submission of user feedback and serial number disputes (<http://v3.logiforms.com/privacy>)
 
 • Office 365 – 2BrightSparks company email hosted by Microsoft (<https://privacy.microsoft.com/en-ca/privacystatement>)
-
-• Quttera – Website malware scanner (<https://www.quttera.com/privacy>). No user identifiable data is stored.
 
 • Google Analytics – See the section below for details.
 
