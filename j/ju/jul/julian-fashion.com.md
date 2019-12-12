@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the julian-fashion.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904042403id_/https%3A//www.julian-fashion.com/en-US/policy/CondPrv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the julian-fashion.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212180040id_/https%3A//www.julian-fashion.com/en-US/policy/CondPrv) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - US
 
 **DISCLOSURE PURSUANT TO ART. 13 and 14 OF THE EUROPEAN REGULATION 679/2016 (GDPR)**
 
@@ -37,7 +37,7 @@ Sharing Your Data
 
 Julian Fashion shall not share its clients’ personal data with third parties, internal or external, unless it is absolutely necessary for the fulfillment of the sales contract and under the clients’ consent, with the adequate security measures taken to ensure their integrity.
 
-In accordance with the new EU Regulation UE 2016/679 on Data Protection (GDPR), the data may be transferred to non EU countries or countries not belonging to the European Economic Area, that however grant an adequate level of protection of the personal data. In any case, the data processing will take place in accordance with the provisions of the current rules and regulations.
+In accordance with the new EU Regulation UE 2016/679 on Data Protection (GDPR), the data may be transferred to non EU countries or countries not belonging to the European Economic Area, that however grant an adequate level of protection of the personal data.As far as the processing of credit cards' data is concerned, Easy Nolo will appoint the Riskified Ltd. company as sub-manager of data processing. In any case, the data processing will take place in accordance with the provisions of the current rules and regulations.
 
 Client Rights
 
