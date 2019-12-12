@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302162938id_/https%3A//metametricsinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212160746id_/https%3A//metametricsinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MetaMetrics Inc.
 
