@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the chicagomarathon.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528173542id_/https%3A//www.chicagomarathon.com/participant-information/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagomarathon.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212053719id_/https%3A//www.chicagomarathon.com/participant-information/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice - Bank of America Chicago Marathon
 
-Countdown to the big race, October 13, 2019 
+Countdown to the big race, October 11, 2020 
 
-**LAST UPDATED: May 23, 2018**
+**LAST UPDATED: August 21, 2019**
 
 Bank of America N.A. (“the bank,” “we”) collects personal data from participants for the  Bank of America Chicago Marathon (the “Chicago Marathon”) offline and through the website operated by us from which you are accessing this Privacy Notice:  <https://www.chicagomarathon.com/> (the “Website” and together with the Marathon, the “Services”). Participants can include event participants, volunteers, staff, and other event partners.  This Privacy Notice explains how we collect, use, share and protect that Personal Data.
 
-The bank works with Chicago Event Management (CEM), as an agency, to produce the Chicago Marathon. CEM develops, manages and produces  the Chicago Marathon.
+The bank works with Chicago Event Management (CEM), as an agency, to produce the Chicago Marathon. CEM develops, manages and produces the Chicago Marathon.
 
 * * *
 
-### Personal Data We Collect
+## Personal Data We Collect
 
 We collect Personal Data (information that identifies or relates to an identifiable individual), which may include:
 
@@ -28,11 +28,11 @@ We collect Personal Data (information that identifies or relates to an identifia
 
 
 
-### How We Collect Personal Data
+## How We Collect Personal Data
 
-You provide us with your Personal Data when you sign up for a newsletter or register to participate in  the Marathon.
+You provide us with your Personal Data when you sign up for a newsletter or register to participate in the Marathon.
 
-### Uses of Personal Data
+## Uses of Personal Data
 
 We use Personal Data to facilitate your Chicago Marathon registration and participation, and ensure that all participants in the event have a safe and enjoyable experience.  This data may be used for the following business purposes including:
 
@@ -67,7 +67,7 @@ We may also use your Personal Data to accomplish our business purposes, such as 
 
 We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
 
-### Disclosure of Personal Data
+## Disclosure of Personal Data
 
 We may disclose Personal Data to:
 
@@ -76,7 +76,7 @@ We may disclose Personal Data to:
 
 
 
-### Other Uses and Disclosures
+## Other Uses and Disclosures
 
 We may also use and disclose Personal Data as we believe to be necessary or appropriate to do so:
 
@@ -84,19 +84,19 @@ We may also use and disclose Personal Data as we believe to be necessary or appr
   * to respond to requests from public and government authorities, which may include authorities outside your country;
   * ·to cooperate with law enforcement, governmental, regulatory, or other similar agencies or authorities to which we or our affiliates are subject or submit;
   * to courts, litigation counterparties and others, pursuant to subpoena or other court order or process or otherwise as reasonably necessary, including in the context of litigation, arbitration and similar proceedings to enforce our terms and conditions, and as reasonably necessary to prepare for or conduct any litigation, arbitration and/or similar proceedings; and
-  * to enforce our terms and conditions and protect our rights, privacy, safety or property, and/or  that of our affiliates, you or others.
+  * to enforce our terms and conditions and protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.
 
 
 
-In addition, we may use, disclose or transfer Personal Data to a third party in the event of any reorganization, merger, sale, joint  venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).  Such third parties may include, for example, an acquiring entity and its advisors.
+In addition, we may use, disclose or transfer Personal Data to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).  Such third parties may include, for example, an acquiring entity and its advisors.
 
-### Sensitive Data
+## Sensitive Data
 
 We do not collect medical or health data at the time of registration.  Participants may, however, tell us that they would like to participate in the Athletes with Disabilities program. This information is used only to the extent necessary to facilitate any disability accommodations.
 
 In the event a participant seeks medical attention during an event, personnel at medical aid stations may collect and store individually identifiable medical information during this encounter.
 
-### Other Information
+## Other Information
 
 “Other Information” is any information that does not reveal a person’s specific identity or does not directly relate to an identifiable individual, such as:
 
@@ -111,7 +111,7 @@ In the event a participant seeks medical attention during an event, personnel at
 
 If we are required to treat Other Information as Personal Data under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Data as detailed in this Privacy Notice.
 
-### Collection of Other Information
+## Collection of Other Information
 
 We and our service providers may collect Other Information in a variety of ways, including:
 
@@ -123,7 +123,7 @@ We and our service providers may collect Other Information in a variety of ways,
 
 
 
-### Uses and Disclosures of Other Information
+## Uses and Disclosures of Other Information
 
 We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law.  In some instances, we may combine Other Information with Personal Data.  If we do, we will treat the combined information as Personal Data as long as it is combined.
 
@@ -131,27 +131,27 @@ Certain links may contain content provided by third parties. Those third parties
 
 Third Party Advertisements and/or Analytics: We may serve third party advertisements and may use third party analytics service providers to provide us with statistical information.  These third parties display advertisement banners based on an analytics of the statistical data regarding your visits to the Sites or mobile applications in order to tailor advertisements that may interest you. These third parties typically install cookies or other tracking technologies to monitor and record certain behavioral statistics that assist with targeted advertising practices. This Privacy Policy does not cover the methodologies used by third parties. Please review the privacy policy of all third party websites that you contact prior to sharing your personal information with such websites. We are not responsible for the content or practices of any third party advertiser.
 
-### Security
+## Security
 
 We seek to use reasonable organizational, technical and administrative measures to protect Personal Data within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure please immediately notify us in accordance with the “Contacting Us” section below.
 
-### Retention Period
+## Retention Period
 
 We will retain Personal Data for as long as it is needed or permitted in light of the purposes for which it was obtained. The criteria used to determine our retention periods include: (i) the length of time we have an ongoing relationship with you; (ii) whether there is a legal obligation to which we are subject; and (iii) whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
 
-### Minors
+## Minors
 
 We do not solicit individuals under the age of sixteen (16) to register for the Chicago Marathon, and we do not knowingly collect Personal Data from individuals under 16. We require parental consent for the processing of personal data for individuals under sixteen.
 
-### Jurisdiction and Cross-Border Transfer
+## Jurisdiction and Cross-Border Transfer
 
 Personal Data may be stored and processed in any country where we have facilities or in which we engage service providers, including the United States, and by using the Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies or regulatory agencies in those countries may be entitled to access Personal Data.
 
-### Additional Information Regarding the EEA
+## Additional Information Regarding the EEA
 
 Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available here https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as the standard contractual clauses adopted by the European Commission to protect your Personal Data. You may obtain a copy of these measures by following this link: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en]
 
-### Marketing Communications
+## Marketing Communications
 
 We may seek your consent to send communications regarding future races and events and marketing communications from sponsors.  We will ask you to opt in to receiving these communications, which may be revoked by you at any time.
 
@@ -166,19 +166,19 @@ You may opt-out from:
 
 We will try to comply with your request(s) as soon as reasonably practicable.  Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
 
-### How You Can Access, Change or Suppress your Personal Data
+## How You Can Access, Change or Suppress your Personal Data
 
-If you would like to request to review, correct, update, suppress, restrict or delete persona data that you have previously provided to us, object to the processing of Personal Data, or if you would like to request to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent this right of portability is provided to you by applicable law), you may contact us as described in the “Contact Us” section below.  We will respond consistent with applicable law.
+If you would like to request to review, correct, update, suppress, restrict or delete personal data that you have previously provided to us, object to the processing of Personal Data, or if you would like to request to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent this right of portability is provided to you by applicable law), you may contact us as described in the “Contact Us” section below.  We will respond consistent with applicable law.
 
 In your request, please make clear what Personal Data you would like to have changed, whether you would like to have the Personal Data suppressed from our database or otherwise let us know which of the above limitations you would like to put on our use of the Personal Data. For your protection, we may only implement requests with respect to the Personal Data associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
 
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion.
 
-### Updates to this Privacy Notice
+## Updates to this Privacy Notice
 
 We may change this Privacy Notice from time to time. The “LAST UPDATED” legend at the top of the Privacy Notice indicates when it was last revised. Any changes will become effective when we post the revised Privacy Notice. Continued use of the Website signifies acceptance of the revised Privacy Notice.
 
-### Contacting Us
+## Contacting Us
 
 If you have any questions regarding this Privacy Notice or the Bank of America Chicago Marathon, please e-mail us at [office@chicagomarathon.com](mailto:office@chicagomarathon.com) or call 312.904.9800 during regular business hours.
 
@@ -191,7 +191,7 @@ USA
 
 Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
 
-### Additional Information for the European Economic Area (EEA)
+## Additional Information for the European Economic Area (EEA)
 
 You may contact our EU Data Protection Officer at [BAML.EUDPO@baml.com](mailto:BAML.EUDPO@baml.com)
 
@@ -203,4 +203,4 @@ Beginning of dialog message
 
 By clicking **Continue** , you will be taken to a third party website. Bank of America’s privacy policy and level of security do not apply to their site as they may have their own privacy policy and security practices. You can click the **Cancel** button to return to the previous page, or you can use the back button on your browser after you leave.
 
-Continue Cancel End of dialog message
+Continue End of dialog message
