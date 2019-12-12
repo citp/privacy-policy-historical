@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abp.in privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601025918id_/http%3A//www.abp.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abp.in privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212132837id_/http%3A//www.abp.in/privacy.html) for the most accurate reproduction.*
 
 # Welcome to ABP
 
@@ -50,7 +50,7 @@ We use various internet technologies to manage ABP and track use of the Services
 
 **Cookies, Beacons, Local Storage and Other Similar Technologies.**  We use "cookies," web beacons, tags and scripts, and other similar technologies including local storage objects such as HTML5. These technologies allow us to manage access to and use of the Services, recognize you and provide personalization, and help us understand how people use ABP. You will not be able to access certain areas of our websites, including ABP, if your computer does not accept cookies from us. We do not respond to browser-based "do not track" signals. For more detailed information about our use of cookies and local storage, and how to manage them, see  _ _Frequently Asked Questions About Cookies__.
 
-We may transmit non-personally identifiable website usage information to third parties in order to show you advertising for ABP when you visit other sites. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please [click here](http://www.google.com/privacy/ads/).
+We may transmit non-personally identifiable website usage information to third parties in order to show you advertising for ABP when you visit other sites. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please [click here](https://www.google.com/privacy/ads/).
 
 **Local Storage Objects**
 
