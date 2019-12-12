@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aipac.org privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805042642id_/http%3A//www.aipac.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aipac.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212143752id_/https%3A//www.aipac.org/about-aipac2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AIPAC.org
 
