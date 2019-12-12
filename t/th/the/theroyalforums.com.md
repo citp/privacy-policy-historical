@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theroyalforums.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331094221id_/http%3A//www.theroyalforums.com/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theroyalforums.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212132051id_/http%3A//www.theroyalforums.com/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
 
 # The Royal Forums
 
