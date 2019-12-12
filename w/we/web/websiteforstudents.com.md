@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteforstudents.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529085304id_/https%3A//websiteforstudents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteforstudents.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212044942id_/https%3A//websiteforstudents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Website for Students
 
@@ -43,6 +43,14 @@ For users that register on our website (if any), we also store the personal info
 **What rights you have over your data**
 
 If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+**Akismet**
+
+We collect information about visitors who comment on Sites that use our Akismet anti-spam service. The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
+
+**Really Simple SSL**
+
+Really Simple SSL and Really Simple SSL add-ons do not process any personal identifiable information, so the GDPR does not apply to these plugins or usage of these plugins on your website. You can find our privacy policy [here](https://really-simple-ssl.com/privacy-statement/).
 
 **Where we send your data**
 
