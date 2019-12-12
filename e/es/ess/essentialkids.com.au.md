@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialkids.com.au privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610161113id_/http%3A//www.essentialkids.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialkids.com.au privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212163217id_/http%3A//www.essentialkids.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
