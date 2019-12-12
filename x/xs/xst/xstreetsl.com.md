@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xstreetsl.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616015512id_/https%3A//www.lindenlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xstreetsl.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212232030id_/https%3A//www.lindenlab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Linden Lab
 
@@ -6,7 +6,7 @@
 
 Linden Research, Inc., Linden Research International, Inc., Linden Research UK, Ltd., Tilia Inc., and Tilia Branch UK Ltd.  (collectively “Linden Lab”) respect the privacy of its online visitors and users of its websites, products and services, including communication services, (collectively, the “Services”). We recognize the importance of protecting information collected from our users and have adopted this Privacy Policy to inform you about how we gather, use, process, store and disclose your information, including personal information, in conjunction with your access and use of our Services.
 
-By using our Services, you confirm that you have agreed to our [Terms of Service](https://www.lindenlab.com/tos) and read and understood this Privacy Policy. We will not share your personally identifiable information except as described herein.
+By using our Services, you confirm that you have agreed to our [Terms of Service](https://www.lindenlab.com/tos) and read and understood this Privacy Policy. We will not share your personally identifiable information except as described herein. U.S. consumers who utilize the services of Tilia Inc. should consult Tilia Inc.’s U.S. Consumer Privacy Notice (“Privacy Notice”), which governs the use of their personal information. In the case of a conflict between that Privacy Notice and this Privacy Policy, that Privacy Notice controls.
 
   1. Types of Information We Collect
 
@@ -51,7 +51,7 @@ We collect the following categories of information:
 
   * Your marketing preferences.
 
-  * Information you share with us in connection with surveys, contents or promotions.
+  * Information you share with us in connection with surveys, contests, or promotions.
 
   * Communications that you send to us, such as customer support inquiries or other inquiries related to your account.
 
@@ -73,7 +73,7 @@ Additionally, there are a few special circumstances to note:
 
 We collect information you provide directly to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer inquiries or surveys, or otherwise interact with us. We also record some of this information automatically when you use our Services.  We also may receive some of this information from third parties.
 
-  * We collect the types of information as outlined in Section 1 and when you visit our sites or applications, when you register and manage your account, when you use our Services, when you purchase a product or services from us, when you post to public forums or chats, if you send us support inquiries, intellectual property claims or other claims, complaints or inquiries, when you participate in contents or promotions, or when we ask you for information for contractual or legal reasons. 
+  * We collect the types of information as outlined in Section 1 and when you visit our sites or applications, when you register and manage your account, when you use our Services, when you purchase a product or services from us, when you post to public forums or chats, if you send us support inquiries, intellectual property claims or other claims, complaints or inquiries, when you participate in contests or promotions, or when we ask you for information for contractual or legal reasons. 
 
   * We collect information through technology, such as cookies and other technologies (such as web beacons and pixel tags), including when you visit our sites and applications or use our applications on third-party sites or platforms. A cookie is a small string of data which often includes an anonymous unique identifier sent to your Internet browser from a website’s computers, which is stored on your computer’s hard drive and is used to customize your use of a product or online site, keep records of your access to an online site or product, or store information needed by you on a regular basis (e.g. password retention functionality). Linden Lab (itself or through third parties acting on our behalf) use cookies for a number of purposes relating to our websites, applications and services, including to access your account information where you “login” to our websites, forums or other areas and to keep track of your website session data. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so consult the “Help” menu of your browser to learn how you change your cookie preferences. Please note that if you reject all cookies, you may not be able to use certain of our (or other companies’) web pages.
 
@@ -90,7 +90,7 @@ Please keep in mind that when you provide information to us on a third-party sit
 
 Linden Research, Inc. (itself or in the capacity of a data processor for Linden Research UK, Ltd.) and Tilia Inc. (itself or in the capacity of a data processor) (collectively, “Linden Lab Controller”) will be the data controller for your information. Linden Lab Controller may have access to your information where it performs services on behalf of the data controller(s) (as a data processor) and, unless prohibited under applicable law, for use on its own behalf (as a data controller) for the following purposes:
 
-  * Provide you with the products and services you request, such as create and manage your account, process payments, send your emails or other communications about your transactions and Service-related announcements, provide you with customized services based on your preferences
+  * Provide you with the products and services you request, such as create and manage your account, process payments, send you emails or other communications about your transactions and Service-related announcements, provide you with customized services based on your preferences
 
   * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
 
@@ -102,7 +102,7 @@ Linden Research, Inc. (itself or in the capacity of a data processor for Linden 
 
     * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications
 
-    * Administer surveys, contest or promotions 
+    * Administer surveys, contests, or promotions 
 
   * Optimize or improve our products, services and operations
 
@@ -282,3 +282,6 @@ San Francisco, CA 94111
 NOTICE TO CALIFORNIA RESIDENTS:
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your Personal Information by Linden Lab to third parties for the third parties’ direct marketing purposes. With respect to these entities, this Privacy Policy applies only to their activities within the State of California. To make such a request, please send an e-mail to [privacy@lindenlab.com](mailto:privacy@lindenlab.com) or write us at the address listed immediately above.
+
+  
+
