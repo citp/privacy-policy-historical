@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warframe.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425165607id_/https%3A//www.warframe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warframe.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212111732id_/https%3A//www.warframe.com/privacy) for the most accurate reproduction.*
 
 # Warframe: Privacy Policy
 
@@ -15,7 +15,7 @@ Our data protection officer may be contacted at [ privacy@digitalextremes.com ](
 
 We strive to be transparent about how we collect and use your information. The following policy outlines how we collect, use, share, and protect your information. 
 
-This policy applies to all of Digital Extremes Ltd’s games and services, including Warframe and Survived By, as well as the following websites: [ https://www.digitalextremes.com ](https://www.digitalextremes.com/) , [https://www.warframe.com](https://www.warframe.com/), [ https://www.amazingeternals.com ](https://www.amazingeternals.com/) , [https://www.survivedby.com](https://www.survivedby.com/). 
+This policy applies to all of Digital Extremes Ltd’s games and services, including Warframe, as well as the following websites: [ https://www.digitalextremes.com ](https://www.digitalextremes.com/) , [https://www.warframe.com](https://www.warframe.com/)
 
 ###  Information we Collect 
 
