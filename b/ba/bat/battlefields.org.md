@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battlefields.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517035600id_/https%3A//www.battlefields.org/about/accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlefields.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212180329id_/https%3A//www.battlefields.org/about/accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Battlefield Trust
 
