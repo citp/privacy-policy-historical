@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the salvationarmy.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330153044id_/https%3A//www.salvationarmy.org/ihq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmy.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212204551id_/https%3A//www.salvationarmy.org/ihq/privacy) for the most accurate reproduction.*
 
 # The Salvation Army International - Privacy Notice
 
 **1.**    **INTRODUCTION**   
 
 This privacy notice provides you with details of how we collect and process your personal data through your use of our site [www.salvationarmy.org](http://www.salvationarmy.org/) and associated microsites, including any information you may provide through our site when you make a donation to us using our online portal, sign up to our newsletter or take part in interactive elements. See also our [Terms and Conditions](https://web.archive.org/ihq/terms) and [Cookies Policy](https://web.archive.org/ihq/cookies).
+
+The Salvation Army International Trust is a charity registered in England and Wales (no. 1000566) whose sole trustee is The Salvation Army International Trustee Company, a company limited by guarantee and registered in England and Wales (no. 02538134) at 101 Queen Victoria Street, London EC4V 4EH.
 
 By providing us with your data, you warrant to us that you are over 13 years of age.
 
