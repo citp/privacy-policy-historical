@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islamicboard.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221105108id_/http%3A//www.islamicboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islamicboard.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212100618id_/https%3A//www.islamicboard.com/privacy.php) for the most accurate reproduction.*
 
 # IslamicBoard - Discover Islam | Connect with Muslims - Privacy Policy
 
