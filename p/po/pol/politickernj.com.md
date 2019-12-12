@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politickernj.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622085122id_/http%3A//observermedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politickernj.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212190345id_/http%3A//observermedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — OBSERVER MEDIA
 
