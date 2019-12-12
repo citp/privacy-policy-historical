@@ -1,279 +1,335 @@
-> *The following text is extracted and transformed from the prettygreen.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111200421id_/http%3A//www.prettygreen.com/terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettygreen.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212042418id_/https%3A//www.prettygreen.com/privacy) for the most accurate reproduction.*
 
-# Pretty Green | Designer fashion from Liam Gallagher
+# Privacy Policy | Pretty Green | Online Shop
 
-Please read these terms and conditions ("Agreement") carefully: they govern your use of the website www.prettygreen.com ("Website") and they apply to any purchases made by you, and any sale made by us, of the items described on this Website. If you do not wish to be bound by this Agreement, you must not use the Website or order any items from us.
+Company Name: PG2019 LIMITED
 
-## 1\. Definitions
+Company Number: 11628610
 
-In this Agreement, "Pretty Green", "we", "our" and "us" means Pretty Green Limited (company number 05914755), whose principal office is at PO Box 8157, Reading, RG6 9NH, "User" and "you" means any user of the Website including any User who makes a purchase through the Website (a "Buyer").
+Territory: UK
 
-## 2\. Agreement
+  
 
-2.1 Buyers must be over 18 years old and have full legal capacity.
 
-2.2 We reserve the right to modify this Agreement. The Agreement in force at the time an order is accepted will govern any particular order. In the event that we make any amendment to this Agreement which is materially detrimental to you, we will ensure that the amendment does not become effective for at least one month after the change is made.
+  1. **_the best bits_ **
 
-2.3 We will keep a record of this Agreement and dates of any changes made and we recommend that you print and keep a copy of this Agreement.
+We only use your data to improve your Pretty Green experience
 
-## 3\. Registration
+  2. **_keeping it real_ **
 
-You are able to navigate through the Website without going through the registration process but we require you to complete the on-line registration form to become a registered member before an order can be made through the Website.
+We’ll talk to you straight – no stress, no worries
 
-## 4\. Placing an order
+  3. **_No Junk_ **
 
-4.1 To place an order, you should select the required item(s) and add to your basket by clicking on the 'Buy this product' link. You can review the selected item(s) at any time by clicking on the 'Basket' link.. Once you have completed your shopping, please click on the 'Proceed to payment' link.
+You choose what and how we speak to you
 
-4.2 You must confirm your delivery address to access the purchase order, which contains a summary of the information related to the item(s) ordered, quantity, price, total and your other details along with the delivery address. It is your responsibility to notify us if any of the information is incorrect. Giving false information may result in the rejection of the order.
+  4. **_Super Safe_ **
 
-4.3 Each order constitutes a separate transaction and we are not able to consolidate separate transactions into a single order or delivery. If you would like to order multiple items for delivery at the same time, you must ensure that all of these appear on the same order before you confirm your order.
+Your Data is Protected 24 / 7
 
-4.4 Your placing of an order is an offer by you to purchase an item and is subject to acceptance by us. Orders shall be accepted at our sole discretion but are normally accepted if the item(s) is/are available, the order reflects current pricing, you are based in a country to which we are currently able to sell/deliver and your credit/debit card is authorised for the transaction.
 
-4.5 In the event that an item is out of stock, you will be informed as soon as practically possible once we are made aware by our suppliers. The order relating to the unavailable item will be cancelled and a full refund will be made including any delivery charges. Where your order is for multiple items, the rest of the order will remain valid.
 
-## 5\. Pricing and Payment
 
-5.1 All items are priced in pounds sterling (GBP) and are exclusive of: (i) delivery charges which will be indicated to you during the ordering process and (ii) any customs and import charges applicable to your delivery address.
+Everything we do at JD is about you! Things change, but it’s nothing to worry about . We take our customers privacy and security very seriously and we are 100% committed to protecting it so you can shop away without a single worry. If you have any questions about how we protect your privacy, just shout us @ [customercare@prettygreen.com](mailto:customercare@prettygreen.com)
 
-5.2 We reserve the right to modify our prices at any time but any change in price will be communicated to you prior to delivery of the items.
+## HOW WE USE YOUR DATA
 
-5.3 Once you have reviewed your order and provided the required personal details, you will be required to click on 'Checkout' to pay by card. Payment by card will be processed through the electronic payment terminal of HSBC. The HSBC website is secured by SSL encryption (Secure Socket Layer), signed by Thawte, an accredited certification service provider, to protect the confidential details provided for payment. The User's payment details are transferred directly to the bank, which also operates under the secure SSL encryption.
+We are committed to protecting your privacy. It is important that you understand how we look after your personal data and how we make sure that we meet our legal obligations to you under the data protection rules and regulations in the relevant territory (including associated guidance) (the " **Data Protection Laws** "). This privacy policy outlines how JD Sports Fashion plc and its group companies (together, the " **JD Group** ") will collect, use, store and share your personal data. 
 
-5.4 In the event that payment cannot be made in accordance with section 5.3, the order will not be processed and will automatically be cancelled. If you have already received any items, you must return those items to us in the same condition that you received them at your own expense. If you fail to do so within 7 days of our cancelling your order, we may arrange for collection of the items at your expense. We reserve the right to charge you for any damage to (or other adverse interference with) any items that are the subject of an order that we cancel in accordance with this section.
+If you have any questions in relation to this policy or generally how your personal data is processed by us, please contact our customer care team by letter addressed to: Pretty Green, PO Box 8157, Reading, RG6 9NH ; by email at [customercare@prettygreen.com](mailto:customercare@prettygreen.com) ; or by phone on +44 (0)1189 353 555 
 
-## 6\. Acceptance of your order
+This policy applies to any personal data that we collect about you when you:
 
-6.1 Your offer to purchase an item is accepted by us and a contract of sale between us is formed only on the later of: (a) the receipt by us of cleared funds from you in full payment for the item(s) (including any applicable taxes and delivery costs); and (b) our written confirmation of your order (whether by a dispatch confirmation email or otherwise).
+  * visit our one of our websites; 
+  * purchase products from us; 
+  * visit one of our stores; 
+  * contact us, for example by telephone, email, post or through submitting a form on our websites. 
 
-6.2 Once the payment has been accepted, the order cannot be amended.
 
-6.3 We will confirm receipt of your order to the email address you provide at the time of registration. It is recommended that you retain the email or print out the confirmation of the order.
 
-## 7\. Delivery, risk and ownership
+## WHO ARE WE?
 
-7.1 All items will be delivered to the address specified in your order. However, there are some countries to which we are unable to deliver, please check the Website for a list of those countries.
+In this privacy policy, the terms " **we** ", " **our** ", and " **us** " are used to refer to the JD Group. 
 
-7.2 All items will be delivered to the address specified in your order.
+The controller of your information for the purposes of the Data Protection Laws will depend on which member of the JD Group you are dealing with. The table below sets out each of the data controllers within the JD Group and each of the brands operated by those data controllers. 
 
-7.3 Following the shipment of the order from us, you will receive an e-mail specifying the tracking number for your parcel which you can use to track the parcel on the website of our designated courier. The parcel will usually be delivered to you within three working days of the e-mail containing the tracking number.
+## JD GROUP WEBSITES (OUR "WEBSITES")
 
-7.4 All risk in the items you order (including risk of loss and/or damage to the items) shall pass to you when they are delivered to the delivery address specified in your order.
+The relevant controller above is responsible for your personal data. This policy applies to all of the controllers above and the JD Group as a whole. Our brands each have their own websites. This central policy provides information to you about the basis on which the JD Group as a whole collects, uses, stores and shares your information. We will use your personal data fairly, lawfully and in a transparent manner and in accordance with the Data Protection Laws. 
 
-7.5 You will only own the items once they have been successfully delivered and when we have received cleared payment for them in full. Until that time we will retain title to the items.
+## CONSENT
 
-## 8\. Failed Delivery
+The brands and data controllers listed above within the JD Group may send you marketing messages by email, SMS, social media and post; about us and our products; where you have not unsubscribed and where you have purchased similar products and/or services from that brand or entity, or where you have otherwise signed up, or consented, to receive marketing messages from a brand or entity. 
 
-8.1 If you are not present at the time of delivery, a delivery note will be left inviting you to contact the courier directly in order to arrange re-delivery at a convenient time. If you are not in when a second delivery attempt is made, another note will be left asking you to call to arrange a convenient time for delivery. If you are not in when a third attempt is made, the parcel will be returned to the courier's warehouse and you will be contacted. We will refund you for the value of the items ordered but not for the delivery charge.
+You have the right to withdraw your consent to processing of this nature at any time by contacting our customer care team using the details at the start of this privacy policy. You can tell us you no longer wish to receive marketing information from us by [clicking here. ](https://reporting.jdsports.co.uk/cgi-bin/msite?pref+a+0+0+0+0+0)
 
-8.2 If after five working days following notification of the tracking number, you have not received the parcel or a delivery note, you must contact our Customer Service team on customercare@prettygreen.com. If the parcel is found, it will be sent to you immediately. In the event that the parcel has been lost, we will refund the total amount of the order including delivery costs.
+## WHAT INFORMATION DO WE COLLECT ABOUT YOU?
 
-## 9\. Faulty or incorrectly delivered items
+If you have an account with us or make a purchase online with us, or enter a competition or respond to a survey with us, we collect your name and contact details (including your address, telephone number, details about your order, and your billing information (where you are purchasing products)). 
 
-9.1 We take care when dispatching orders but we recommend that when you receive your order, you carefully check the item(s) received. Any problem with the order should be notified to our Customer Service team as soon as possible.
+We also collect details of your interactions with us through our customer contact centres, in store, online or via our apps. For example, when you telephone one of our contact centres, we collect notes of our conversations with you and details of your query and from time to time we may record your calls for training and monitoring purposes. We also collect information about the purchases that you make, your saved items, your payment information, any complaints and comments that you make and your shopping preferences. We also collect CCTV images in all of our stores. 
 
-9.2 You must return any incorrectly delivered or faulty item(s) to us as soon as possible, and at the latest within 30 days of receipt of the item, and we will refund the cost of you doing so.
+Each time you visit one of our websites, we will also automatically collect information and personal data about your computer for system administration including, where available, your IP address, operating system and browser type. We do this to help us analyse how users use the websites (including behaviour patterns and the tracking of visits across multiple devices), to establish more about our website users and to assist us in managing your account and improving your online experience. We also collect information about your activities on our websites, for example what device you are using and what products you're looking at. 
 
-9.3 We will provide a full refund including delivery costs for a faulty or missing item or, where requested by you, we can send a replacement item subject to availability.
+By way of example, some of our websites use SessionCam for analysis purposes and specifically to identify any technical issues or difficulties the users of our websites are having during the customer journey. To do this, SessionCam records your mouse clicks, mouse movements, scrolling of pages and the text that you key into forms on our websites. The information that we collect about you through SessionCam does not include your bank details or any special categories of personal data, but does include your name, address, telephone number, email address and anything else you may insert when completing an order. The information collected by us through SessionCam is used for our internal purposes only and is used to improve our websites' usability and is stored and used only for the purposes of collecting aggregates and statistics relating to the functional performance of our websites. SessionCam is operated for the JD Group by SessionCam Ltd. 
 
-## 10\. Cancellation and returns policy
+Please see our [cookies policy](https://www.jdsports.co.uk/customer-service/cookies/) for further information about what information may be automatically collected when you visit our websites 
 
-10.1 If you purchase an item from us then, subject to section 10.3, you have the right to cancel your order within 7 working days of receiving the item. To do so, you must notify our Customer Services team on customercare@prettygreen.com within those 7 working days. You will then be entitled to a refund from Pretty Green which will be paid as soon as possible, but in any event within 30 days.
+Please note that, from time to time, we will combine personal data that we receive from other sources with personal data you give to us and personal data we collect about you. 
 
-10.2 If you cancel your order with us, you must return any items to us immediately, in the same condition in which you received them, at your own cost. If you return any items, we will not be responsible for any loss or damage to them in transit and we reserve the right to charge you for any such loss or damage.
+## WHERE DO WE GET THIS INFORMATION FROM?
 
-10.3 If the items were made to your specifications, or are clearly personalised, you will not have the right to cancel your order under section
+We collect some of your information directly from you, either through information that you give to us or information that we collect during your visits to our websites, stores, or through your communications with us. We may also obtain some information from third parties, including retail analytics companies, consumer insight companies and credit reference agencies and publicly available sources to assist us with understanding customer demographics and shopper behaviours, or where we merge with or otherwise acquire another business. 
 
-10.4 If you are not happy with your purchase, simply complete the form contained in your parcel and return the item, along with the completed form, to us within fourteen days of receiving your parcel (except where you are returning it because it is incorrectly delivered, or faulty, in which case see section 9).
+Information that you give us 
 
-10.5 You must return the item(s) in the same condition in which you received them, with their original packaging. You are asked to take reasonable care with the items and in the case of an item with a hygiene seal, you are required not to remove the seal when examining the item.
+| 
 
-10.6 Any return carried out (other than for faulty items or items delivered incorrectly by us) will be at your own expense.
+  * You may share personal data about yourself with us by: 
+  * filling in forms on our websites, including when you purchase products online, submit queries to us, create an account on one of our websites and/or sign up to receive promotional material and newsletters; 
+  * responding to a survey or entering a competition with us; 
+  * giving us information about yourself in any communication with us, either by telephone, e-mail, post or otherwise, either in connection with your account, purchases, or to report a complaint or issue. 
+  * You are not obliged to provide your personal data to us. However, if you do not provide your personal data to us, we may not be able to fulfil your order or provide other services to you or respond to your queries. 
 
-10.7 A full refund excluding delivery costs will be processed within fifteen days of us receiving the returned items.
+  
+---|---  
+  
+Information that we collect about you 
 
-10.8 We advise you to return items by recorded delivery or by any other means that shows proof of the return.
+| 
 
-## 11\. Access to the Website and content
+  * We collect personal data about you: 
+  * when you visit our websites, including details of your visits to our websites including, but not limited to, Internet Protocol (IP) address used to connect your computer to the internet, MAC addresses, traffic data, location data, your login information, time-zone setting browser type and version, browser plug-in types and versions, operating system and platform, weblogs, cookies and other communication data, and the resources that you access. For more information please see our [cookies policy](https://www.prettygreen.com/cookies/)
+  * when you link your Twitter, Instagram or Facebook accounts with us, to enable you to log onto our websites simply and securely without having to create a new account; 
+  * when you visit one of our stores, including CCTV images; 
+  * when you contact us in relation to our products, services, a complaint or another query or issue. In particular, calls to our contact centres will be recorded for training and monitoring purposes from time to time. 
 
-11.1 We are continually reviewing the items available on the Website, so specifications or design changes may be made at any time. We shall use reasonable commercial endeavours to keep the Website up to date but information and specifications given are for your information only and are subject to change without notice.
+  
+  
+Information that we receive from other sources 
 
-11.2 We try to ensure that pictures of the items on the Website are as accurate as possible, but there are technical limitations and slight variations in colour and texture between the pictures and the items themselves must be expected.
+| 
 
-11.3 We will endeavour to allow uninterrupted access to the Website, but access may be suspended, restricted or terminated at any time.
+  * We will receive personal data about you from other third parties, including: 
+  * in connection with any mergers or acquisitions where we obtain your information from another company. 
+  * When we work with retail analytics companies, consumer insight companies, credit reference agencies and through our use of information from publicly available sources. 
 
-11.4 The Website may include links to other websites or material, which are beyond our control. We are not responsible for access to and content on the Internet, or any site other than the Website.
+  
+  
+## WHY DO WE NEED YOUR INFORMATION?
 
-11.5 If we reasonably believe that you have acted inconsistently with this Agreement through your use of the Website, we may take all or any of the following actions: (a) immediate, suspension (temporary) or termination (permanent) withdrawal of your right to use the Website, without notice to you; (b) issue a warning to you; (c) disclose such information to law enforcement authorities as we reasonably feel is necessary; (d) commence legal proceedings against you for reimbursement of all costs resulting from your act; (e) commence further legal action against you; or (f) take any other action we reasonably deem appropriate.
+The main purpose for which we use your information is to provide you with the products that you purchase from us and to send you offers and promotions that you might be interested in. 
 
-## 12\. Liability
+In particular, we use your information:
 
-12.1 We will use reasonable skill and care in fulfilling any order for an item placed by you which is accepted by us. We warrant that the items shall meet their specification and shall be free from defects in materials and workmanship at the time of delivery. However, we exclude all other representations, warranties, conditions and terms with regard to the Website and our products whether express or implied by statute, common law or otherwise, to the fullest extent permitted by law. 
+  * to provide you with the products that you have purchased from us and any receipts of purchase, including to deliver your products, and to send you order status updates; 
+  * to take payments for the products that you have purchased and to give refunds or exchanges; 
+  * to provide customer service and support to you; 
+  * to develop and improve our products and services; 
+  * to develop and improve our websites and set default options for you (such as language and currency) and to ensure that content is presented in the most effective manner; 
+  * to provide you with information that you request from us or which we feel may interest you. We may send you marketing information by email, SMS or post. This can include information about new products and offers that you may find interesting; 
+  * to research our customers' preferences and trending products; 
+  * to run surveys and competitions; 
+  * to notify you about changes to our products; 
+  * as part of our efforts to keep our stores safe and secure (for example through the use of CCTV in our stores); 
+  * to prevent and detect fraud and crime (for example, through the use of CCTV in our stores). 
 
-12.2 We will take all reasonable care to keep your order secure, but in the absence of our sole negligence we cannot be held liable for any loss you may suffer if a third party obtains unauthorised access to any data (including credit and account details) you provide when accessing or ordering from the Website.
 
-12.3 We shall not be liable to you or in breach of this Agreement for delay or failure to perform if the delay or failure is due to a cause beyond our reasonable control ("Event"). We will contact you within five days of any relevant Event in order to discuss possible alternatives for the performance of the Agreement. If the Event lasts for more than thirty days, your order will be deemed to be cancelled and you will receive a full refund.
 
-12.4 We shall not be liable to you in connection with this Agreement in contract, tort (including negligence) or otherwise for any loss arising out of any Event (as defined in section 12.3) or any internet, network or virus problem, or for any loss of profit, revenue, anticipated savings or data (in each case whether direct or indirect), or for any indirect loss.
+## BASIS FOR USING YOUR INFORMATION
 
-12.5 Our aggregate liability to you in connection with this Agreement whether in contract, tort (including negligence) or otherwise shall not exceed the value of the items ordered by you.
+## Compliance with legal obligations
 
-12.6 Notwithstanding anything else in this Agreement, we accept unlimited liability in respect of death or personal injury caused by our negligence and in respect of any other liability which cannot be excluded by law.
+As a corporate group there are certain laws we need to comply with. In particular, we will need to process your personal information to verify your identity and for fraud and crime prevention purposes. Failure to provide the requisite personal information on sign-up / as you use our websites, may mean we cannot provide our products to you, as to allow you to purchase our products may mean we may be in breach of our legal obligations. You will not be able to object to processing or ask for the deletion of your personal information insofar as it falls under this category. 
 
-## 13\. Statutory rights
+## Necessary for the entry into or performance of a contract
 
-This Agreement does not affect your statutory rights as a consumer.
+When you enter into a transaction with us or one of our brands, a contract between you and the relevant brand will have been entered into. In order for us to fulfil our obligations under such contract (e.g. to allow you to place an order and receive products from us), we will need to collect and process your personal information. Failure to provide the requisite personal information on sign-up to an account or on placing an order and payment information or objecting to this type of processing / exercising your deletion rights will mean we cannot provide our products to you. 
 
-## 14\. E-mail, user name and password
+## Legitimate business interests
 
-14.1 E-mails to you shall be to the address you specify to us. It is important that you give us an accurate and valid e-mail address and tell us of any changes to it.
+We use your personal data as set out in this privacy policy for the legitimate interests of our business to enable us to: 
 
-14.2 The user name and password you are issued with are personal to you and are not transferable. You are responsible for the use of your user name and password and maintaining their confidentiality. Any breach or suspected breach of security of a user name or password must be notified to us immediately. You will be responsible for all activities that occur under your user name and password and for any payments due for items ordered through the Website by anyone using your user name and password. We have the right to disable your user name and/or password at any time if in our opinion you have failed to comply with this Agreement.
+  * provide you with products as requested by you; 
+  * carry out research to understand our customers and how they purchase and use our products; 
+  * develop and improve our products. 
 
-14.3 In the event of a forgotten password you can obtain a new one by clicking on the link 'Forgotten your password'. A new password will be sent to you by e-mail.
 
-14.4 Our aggregate liability to you in connection with this agreement shall not exceed the value of the items ordered by you.
 
-14.5 Notwithstanding anything else in these terms and conditions, we accept unlimited liability in respect of death or personal injury caused by our negligence.
+As indicated below, we will also pass your personal data to members of the JD Group and other third parties and this is also for our legitimate business interests. 
 
-## 15\. Verification procedure
+We are required to carry out a balancing test of our legitimate business interests in using your personal data outlined above against your interests and rights under the Data Protection Laws and regulations in the relevant territory. As a result of our balancing test, which is detailed below, we have determined, acting reasonably and considering the circumstances, that we are able to process your personal data in accordance with the Data Protection Laws on the basis that we have a legitimate business interest. 
 
-15.1 In exceptional circumstances, we reserve the right to use a verification procedure to prevent fraudulent use of the Website. If required, you will be requested to send us (by fax or email) a copy of your ID (e.g. passport) as well as proof of your address for the past 3 months. The order will only be dispatched after we have received and verified these documents.
+Legitimate interest 
 
-15.2 We reserve the right to cancel an order and carry out a refund in the event of not receiving the documents or non-conformity of the documents.
+| 
 
-15.3 We reserve the right to define the circumstances in which this additional verification will be required.
+  * We have a legitimate interest in processing your information as: 
+we both benefit from the effective management of your account(s) (where applicable); 
+  * we both benefit from the effective management, operation and administration of our websites;
+  * we both benefit from the provision of products, services and support and from improvements to our services; 
+  * we both benefit from updates to our websites; 
+  * we will both benefit from the ability to enforce or apply rights under any contract between us; 
+  * we are required to ensure the health and safety of our customers and the security of our stored data and have a legitimate interest in ensuring any processes relating to the same are effective and that fraud and other crimes are prevented and detected; 
+  * we would be unable to provide our products and services without processing your information; and 
+  * we have a legitimate interest in processing your information in connection with any mergers, acquisitions or reorganisation of our business, in which case some of your information may be shared with a prospective buyer or otherwise but only so far as is strictly necessary for the purposes of such sale or administration. 
 
-## 16\. Prohibited uses
+  
+---|---  
+  
+Necessity 
 
-16.1 You may use the Website for lawful purposes only. You have sole responsibility for any content or data which you upload, post, email or otherwise transmit using the Website. You may not use the Website in any way which we reasonably consider to be abusive or inappropriate.
+| 
 
-16.2 You must not attempt to interfere with the proper working of the Website and, in particular, you must not attempt to circumvent security, hack into or otherwise disrupt any part of the Website, or knowingly transmit any data, or send or upload any material that contains viruses or any other harmful programs.
+We consider that it is reasonable for us to process your personal data for the purposes of our legitimate interests outlined above as we process your personal data only so far as is necessary to achieve the purpose outlined in this privacy policy.   
+  
+Impact of processing 
 
-16.3 You must not use the Website to transmit, download, upload, view or otherwise use any material which is defamatory or libellous; obscene, offensive, hateful or inflammatory; contains sexually explicit material; promotes violence; promotes discrimination based on race, sex, religion, nationality, disability, sexual orientation or age; infringes any copyright, trade mark or other intellectual property right of any person; is threatening, abusive or invades any person's privacy; is likely to harass, upset or alarm any other person; is used to impersonate any person, or to misrepresent your identity or affiliation with any person; gives the impression that they emanate from us, if that is not the case; or advocates, promotes or assists any unlawful act such as (without limitation) copyright infringement or computer misuse.
+| 
 
-## 17\. Intellectual property
+We consider that it is reasonable for us to process your personal data for the purposes of our legitimate interests outlined above as the processing of your personal data does not unreasonably intrude on your privacy.   
+  
+## Consent
 
-17.1 All intellectual property rights (including without limitation copyright) in the material contained in the Website (including without limitation all photographs, videos, audio and all other content on the Website), together with the website design, text and graphics and their selection and arrangement and all software compilations, underlying source code and software (including applets) belongs to us, our licensors or the providers of such information. All rights in Pretty Green TM are owned by us. All rights are reserved. None of this material may be reproduced or redistributed without our written permission.
+As set out above, we will send you marketing communications where you have not told us that you wish to unsubscribe and where you have purchased similar products and/ or services from the same brand or legal entity (as set out in the table above). You will also receive marketing communications from us where you have signed up, or otherwise consented, to receive marketing messages from a brand or entity within the JD Group. 
 
-17.2 You may retrieve and display the content of the Website on a computer screen, store such content in electronic form on disk (but not any server or other storage device connected to a network) and print one copy of such content for your own personal, non-commercial use, provided you keep intact all copyright and proprietary notices.
+You have the right to withdraw your consent to processing of this nature at any time by contacting our customer care team using the details at the start of this privacy policy. 
 
-17.3 You may not reproduce, modify, copy or distribute or use for commercial purposes any of the materials or content on the Website without written permission from us (except as set out in section 17.2).
+## WHO DO WE SHARE YOUR INFORMATION WITH?
 
-## 18\. Privacy
+We do not, and will not, sell any of your information to any third party, including your name, address, email address or credit card information. However, we do share your information with a number of select third parties to enable us to provide our products and services to you, to send marketing information and to improve our business operations as set out below. 
 
-Personal data submitted by you to us (for example, in the registration or ordering process) is subject to our Privacy Policy. For more information, please see our Privacy Policy.
+We will share your information with other members of the JD Group but only for the purposes specified in this privacy policy. In particular: 
 
-## 19\. Complaints procedure
+  * we will share your information with other members of the JD Group where you have consented for us to do so for the purposes of receiving marketing from those other JD Group members; 
+  * we will share your information with other members of the JD Group for group analysis and business information purposes, to improve our products and services. 
 
-We want you to be happy with the service we provide, but if you have a complaint about any aspect of our service, please let us know and we will try to resolve your complaint quickly and efficiently. You can contact our Customer Support team at [customercare@prettygreen.com](mailto:customercare@prettygreen.com)
 
-## 20\. Customer service
 
-If you would like to contact our Customer Service team for any reason, please e-mail us at [customercare@prettygreen.com](mailto:customercare@prettygreen.com).
+We will also use a number of carefully selected third parties to help us to provide you with products, services and to market to you. In particular, we disclose your information to: 
 
-## 21\. General
+  * Companies that do things to get your purchases to you, such as payment service providers, warehouses, order packers and delivery companies; 
+  * Our trusted service providers,such as marketing agencies, advertising partners, website hosts and other third parties who provide services to help us to tailor our marketing to you; 
+  * Credit reference agencies, law enforcement and fraud prevention agencies; 
+  * Companies approved by you, such as social media sites, including companies such as Facebook and Google; and 
+  * We will provide third parties with aggregated but anonymised information and analytics about our customers and, before we do so, we will make sure that it does not identify you. 
 
-21.1 If any provision of this Agreement is held to be unlawful, invalid or unenforceable, that provision shall be deemed severed and the validity and enforceability of the remaining provisions of this Agreement shall not be affected.
 
-21.2 You may not assign, sub-license, or otherwise transfer any of your rights under this Agreement.
 
-21.3 You can inform us at any time if you no longer require marketing communications to be sent by emailing us at [customercare@prettygreen.com](mailto:customercare@prettygreen.com).
+We will only share your information with third party suppliers where it is necessary for them to provide us with the services we need. 
 
-21.4 A person who is not a party to this Agreement shall have no right under the UK's Contract (Rights of Third Parties) Act 1999 to enforce any term of this Agreement.
+We may disclose your information to other companies in connection with any merger, acquisition, insolvency situation or otherwise, in which case we will only disclose your information so far as is necessary. 
 
-## 22\. Governing law
+We may also need to disclose personal data to third parties to comply with a legal or regulatory obligation, or if necessary for legal proceedings. 
 
-This Agreement (and any non-contractual disputes arising under it) shall be governed by and construed in accordance with English law. Any disputes shall be subject to the exclusive jurisdiction of the English courts, to which both parties submit.
+## WHAT AUTOMATED DECISIONS DO WE MAKE ABOUT YOU?
 
-This privacy policy governs the collection, storage and use of personal information collected by us, Pretty Green Limited, via the Website. It provides you with details about the personal information we collect from you, how we use your personal information and your rights to control personal information we hold about you.
+We carry out some profiling of you for the purposes of improving and developing our products and services and to help us to tailor our marketing to you. 
 
-Please read this privacy policy carefully: by accessing the Website, or ordering any item from us, you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use the Website. If you have any questions relating to this privacy policy, please contact us at [customercare@prettygreen.com](mailto:customercare@prettygreen.com)
+The impact of any automated decision is to ensure you experience the best service possible.
 
-## Who we are
+We use information that we learn about you such as your gender, preferences, hobbies, interests and purchase history to make sure the marketing you receive from us and the way our websites are displayed to you are appropriate and tailored to you. 
 
-The Website is operated by Pretty Green Limited ("Pretty Green"), a company registered in England and Wales with company number 05914755.
+## WHERE IS YOUR INFORMATION STORED AND HOW LONG DO WE KEEP IT FOR?
 
-In this privacy policy, "we" "us" and "our" mean Pretty Green and "you" and "your" means the individual accessing the Website. We respect your right to privacy and will only process personal information you provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws.
+## Transfers outside of the European Economic Area
 
-If you have any questions about how we collect, store and use personal information, or if you have any other privacy related questions, please contact us by any of the following means: 
+The information which we collect about you may be transferred outside the European Economic Area. In the event of such transfer, we will ensure the adequate standard of security is in place for example by incorporating the European Commission approved clauses into our agreements with such third parties to ensure the security of your personal data. A copy of the European Commission approved model clauses is available here: [ http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en ](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)
 
-  * e-mail us at [customercare@prettygreen.com](mailto:customercare@prettygreen.com); or 
+## Retention of your personal data
 
-write to us at:
+We will only keep your information for as long as is necessary to carry out the purposes we collected it for, as set out in this privacy policy (unless a longer retention period is required by the applicable law). We typically keep your personal data for 6 years from the purchase in order to enable us to deal with any issues or concerns you may have about the products or services you have received, and to allow us to bring or defend legal proceedings. In some circumstances, some of your data will be deleted in much shorter timescales, for example: 
 
-  * Pretty Green
-  * PO Box 8157
-  * Reading
-  * RG6 9NH
+  * cookies are deleted in accordance with our [cookies policy](https://www.prettygreen.com/cookies/)
+  * CCTV images are kept for 60 days; 
+  * marketing consents will be refreshed/deleted after 4 years, however, our aim is only to market to you for as long as we believe you want to continue hearing from us based on how you interact with us. 
 
 
 
-## A quick word about children
+If reasonably necessary or required to meet legal or regulatory requirements, resolve disputes, prevent fraud and abuse, or enforce our terms and conditions, we will also keep hold of some of your information, even if it is no longer needed to provide our services to you. 
 
-We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Website unless you have the consent of, and are supervised by, a parent or guardian.
+## Security of your personal data
 
-## The personal information we collect about you
+Transmission of information via the internet is not and cannot be completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our websites; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
 
-When you access and use the Website (including when you submit personal information to us through the registration process or elsewhere within the Website), we may collect the following information from you:
+## WHAT NON-PERSONALLY IDENTIFIABLE INFORMATION DO WE COLLECT?
 
-  * your email address;
-  * your postal address;
-  * your mobile telephone number;
-  * your payment details, for example, your credit or debit card details.
+We may also collect non-personally identifiable information (that is, information that does not specifically identify you), for the purposes of aggregates and statistics. 
 
+## WHAT RIGHTS DO YOU HAVE?
 
+You have a number of rights under the Data Protection Laws in relation to the way we process your personal data, which are set out below. You may contact us using the details at the beginning of this privacy policy to exercise any of these rights. 
 
-## How we may store and use your information
+In some instances, we may be unable to carry out your request, in which case we will contact you to explain why.
 
-We (or third party data processors acting on our behalf, such as Chillifish Limited) may collect, store and use your personal information listed above for the following purposes:
+1\. You have the right to request access to your personal data 
 
-  * to register you with our Website, make the Website available to you and to administer the Website;
-  * to provide you with services that you request;
-  * to enable us to process and deliver your order for an item;
-  * for assessment and analysis purposes, for example, customer and product analysis, to enable us to review, develop and improve our services; and/or
-  * where you have given us your consent, to contact you (including by SMS and e-mail) with products and services which we think may interest you.
+| 
 
+You have the right to request confirmation that your personal data is being processed, access to your personal data (through us providing a copy) and other information about how we process your personal data.   
+  
+---|---  
+  
+2\. You have the right to ask us to rectify your personal data 
 
+| 
 
-Please note that the personal information you give us in relation to an on-line sale is obligatory, necessary for recording and processing the delivery of your order, as well as for the billing team. You have the right to access, modify or correct the information given. To exert this right, you should contact our Customer Service team.
+You have the right to request that we rectify your personal data if it is not accurate or not complete.   
+  
+3\. You have the right to ask us to erase your personal data 
 
-We will give you the opportunity to opt in to receive marketing information by e-mail from us and we will only send it to you if you do opt in or if you are an existing customer and the information relates to similar items or services to those which you have previously purchased from us. When we send you communications by e-mail, we will give you the opportunity to opt out of receiving such communications from us. It is not our normal practice to send out marketing communications by post or telephone but if we do, you will be able to opt out of receiving such communications from us. However, remember if you opt out of receiving communications from us, particularly by email, that this will preclude you from receiving our special offers or promotions in future.
+| 
 
-We will not disclose, sell or rent your personal information to any third party unless you have consented to this. If you do consent to receive marketing information from us or carefully selected third parties but later change your mind, you may contact us by email at any time at customercare@prettygreen.com and we will cease any such activity.
+You have the right to ask us to erase or delete your personal data where there is no reason for us to continue to process your personal data. This right would apply if we no longer need to use your personal data to provide products to you, where you withdraw your consent for us to send you marketing information, or where you object to the way we process your personal data (see right 6 below).   
+  
+4\. You have the right to ask us to restrict or block the processing of your personal data 
 
-If a third party acquires all (or substantially all) of our business and/or assets, we may disclose your personal information to that third party in connection with the acquisition. We may also disclose your personal information where we are required to do so by applicable law, by a governmental body or by a law enforcement agency.
+| 
 
-Finally, we may also collect anonymised details about users of our Website for the purposes of aggregate statistics or reporting purposes. Certain pages of the Website can sometimes contain electronic images or statistics trackers, which make it possible to count the number of visitors to the page. This can be used with certain partners in order to measure and improve the effectiveness of certain adverts. The information obtained is anonymous and simply makes it possible to gather statistics on the frequency of use of certain pages of the Website. No single individual will be identifiable from the anonymised details we collect for these purposes.
+You have the right to ask us to restrict or to block the processing of your personal data that we hold about you. This right applies where you believe the personal data is not accurate, you would rather we block the processing of your personal data rather than erase your personal data, where we don't need to use your personal data for the purpose we collected it for but you may require it to establish, exercise or defend legal claims.   
+  
+5\. You have the right to port your personal data 
 
-## Cookies
+| 
 
-A cookie is an element of data that a website can send to your browser. If you wish, you can usually adjust your browser so that your computer does not accept cookies. We do not exchange cookies with any third party websites or external data suppliers. The only cookies we use are related to each connection and are deleted at the end of each visit of the Website.
+You have the right to obtain and reuse your personal data from us to reuse for your own purposes across different services. This allows you to move personal data easily to another organisation, or to request us to do this for you.   
+  
+6\. You have the right to object to our processing of your personal data 
 
-## International transfers
+| 
 
-We will not transfer any personal information relating to you to any country outside of the European Economic Area, without your consent.
+You have the right to object to our processing of your personal data on the basis of our legitimate business interests, unless we are able to demonstrate that, on balance, our legitimate interests override your rights or we need to continue processing your personal data for the establishment, exercise or defence of legal claims.   
+  
+7\. You have the right not to be subject to automated decisions 
 
-## Security
+| 
 
-Whilst we take appropriate technical and organisational measures to safeguard the personal information that you provide to us, no transmission over the Internet can ever be guaranteed to be secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.
+You have the right to object to any automated decision making, including profiling, where the decision has a legal or significant impact on you.   
+  
+8\. You have the right to withdraw your consent 
 
-## Your rights
+| 
 
-You have the following rights: 
+You have the right to withdraw your consent where we are relying on it to use your personal data, for example where we are relying on your consent to send you marketing information.   
+  
+## Marketing
 
-  * the right to ask us to provide you with copies of personal information that we hold about you at any time, subject to a fee specified by law; 
-  * the right to ask us to update and correct any out-of-date or incorrect personal information that we hold about you free of charge; 
-  * the right to opt out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you. 
+We always give you the choice of whether or not you wish to receive marketing communications from us.
 
+By contacting us [customercare@prettygreen.com ](mailto:customercare@prettygreen.com) you can tell us that you do not wish to receive marketing communications from us and we will update your records. You can also click on the unsubscribe link in any promotional emails. 
 
+## WHAT IF YOU HAVE A COMPLAINT?
 
-If you wish to exercise any of the above rights, please contact us at customercare@prettygreen.com.
+If you have any concerns regarding our processing of your personal data, or are not satisfied with our handing of any request made by you, or would otherwise like to make a complaint, please contact our customer contact centre in the first instance using the details at the start of this privacy policy, so that they can do their very best to sort out the problem. 
 
-## Third party sites
+You can also contact the Information Commissioner's Office at Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF [ www.ico.org.uk ](http://www.ico.org.uk/) . 
 
-Please note that this privacy policy applies only to the personal information that we collect and we cannot be responsible for personal information that third parties may collect, store and use through their websites. You should always read the privacy policy of each website you visit carefully.
+## OTHER WEBSITES
 
-## Returns and the free poster
+Our websites may, from time to time, contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or your use of those websites. 
 
-Please note that any returns requesting a refund on an order that contains a free poster will not be refunded unless the poster is included with the returned item(s).
+## CHANGES TO THIS PRIVACY POLICY
+
+We will take all measures necessary to communicate any changes to this privacy policy to you, and will post any updated privacy policies on this page. 
+
+This policy was last reviewed and updated in May 2018.
