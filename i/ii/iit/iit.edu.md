@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iit.edu privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420101424id_/https%3A//web.iit.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iit.edu privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212042850id_/https%3A//web.iit.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Illinois Institute of Technology
 
