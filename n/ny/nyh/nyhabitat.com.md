@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301230929id_/https%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212141345id_/https%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
 
 # New York Habitat's Privacy Policy
 
@@ -37,13 +37,17 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If and when it is discovered that a registration form or any other information has been submitted by an individual under the age of 13, New York Habitat deletes it immediately.
 
+### General Data Protection Regulation
+
+The General Data Protection Regulation (GDPR) is a European Union law which gives individuals the right to know which personal information is collected and processed and for which purpose. Under this regulation, you have the right to request access to this data, correct it as well as withdraw your consent to process it or have it erased. For any questions related to your personal data, please call us at +1 (212) 255-8018[+1 (212) 255-8018](tel:+1-212-255-8018) or send us an email to [privacy@nyhabitat.com](mailto:privacy@nyhabitat.com).
+
 ### Where we process your personal information
 
 **For those of you visiting us from the European Union, Canada, or other jurisdictions outside of the United States, please note that the personal information you enter may be transferred outside of your home country for use by New York Habitat for one or more of the purposes described in this policy. Your information may be processed and stored in the United States and as a result, governments, courts or law enforcement or regulatory agencies may be able to obtain the disclosure of your information through laws applicable in the United States. By using our website and providing us with your personal information, you consent to this transfer of your personal information.**
 
 ### Updates to this Privacy Policy
 
-This Privacy Policy was last updated on August 31 2012.  This Privacy Policy applies from that date.  We may occasionally amend this Privacy Policy to reflect regulatory requirements, advances in technology, Website updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on the website. You should therefore return here regularly to view our most up to date Privacy Policy.
+This Privacy Policy was last updated on November 21 2019.  This Privacy Policy applies from that date.  We may occasionally amend this Privacy Policy to reflect regulatory requirements, advances in technology, Website updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on the website. You should therefore return here regularly to view our most up to date Privacy Policy.
 
 ### How to contact us
 
