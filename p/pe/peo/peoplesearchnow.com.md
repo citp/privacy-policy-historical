@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesearchnow.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617211726id_/https%3A//www.peoplesearchnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesearchnow.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212121143id_/https%3A//www.peoplesearchnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for People Search Now
 
@@ -31,16 +31,6 @@ We use the information you provide to:
   * For our internal business purposes, such as to analyze trends and statistics, for audits and to determine the effectiveness of our promotional campaigns
   * To protect the security or integrity of our PeopleSearchNow Applications and our business
   * To contact you if necessary regarding your transactions, your account, changes to our terms, conditions, and policies, and/or for other administrative purposes
-
-
-
-**Your Information Choices**
-
-You can:
-
-  * Review and edit your personal information through your My Account page
-  * Control the messages you receive from PeopleSearchNow and other third parties
-  * Tell us to close your account
 
 
 
@@ -81,7 +71,7 @@ In addition to any Personal Information or other information that you choose to 
 
 Provide useful features to simplify your experience when you return to PeopleSearchNow Applications; for example, remembering the searches you conducted Deliver relevant content based on your preferences, usage patterns and location Monitor and evaluate the use and operation of our PeopleSearchNow Applications Analyze traffic on our PeopleSearchNow Applications and on the sites and applications of third parties We may associate this tracking data with your registration account, in which case we will treat it as personal information. Technologies such as: cookies, beacons, tags and scripts are used by PeopleSearchNow and our marketing and distribution partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. Third party service providers might combine information they collect from your interaction with PeopleSearchNow Applications with personal information they collect from other sources. We do not have access to, nor control over, third parties' use of tracking technologies. Service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online. If you choose to disable cookies on your Device, some features of the PeopleSearchNow Applications may not function properly. For instance, if cookies are disabled, you will not be able to log into our PeopleSearchNow Applications.
 
-We use Local Storage Objects (LSOs) such as Flash to store information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+We use Local Storage Objects (LSOs) such as Flash to store information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
 Analytics: Google Analytics Premium feature is enabled in PeopleSearchNow. Google Analytics will collect data about our traffic via [Google advertising cookies](https://www.google.com/policies/technologies/types/) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation.
 
@@ -95,10 +85,10 @@ We acquire information from other trusted sources to update or supplement the in
 
 Advertising
 
-Advertisers and third parties also may collect information about your activity on PeopleSearchNow Applications and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on our PeopleSearchNow Applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. We do not have access to or control over information that may be collected by advertisers and third parties, but many ad networks, data exchanges, marketing analytics and other service providers may allow you to choose not to receive their targeted advertising. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by visiting <https://www.peoplesearchnow.com/opt-out>. Additionally, you may also opt-out specifically to rubicon project by visiting <http://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. We adhere to the digital advertising alliance's self-regulatory principles for online behavioral advertising.
+Advertisers and third parties also may collect information about your activity on PeopleSearchNow Applications and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on our PeopleSearchNow Applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. We do not have access to or control over information that may be collected by advertisers and third parties, but many ad networks, data exchanges, marketing analytics and other service providers may allow you to choose not to receive their targeted advertising. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by visiting <https://www.peoplesearchnow.com/opt-out>. Additionally, you may also opt-out specifically to rubicon project by visiting [ Please note this does not opt you out of being served advertising. You will continue to receive generic ads. We adhere to the digital advertising alliance's self-regulatory principles for online behavioral advertising.](http://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
 
-Advertising Opt-out  
-As a consumer, you have choices as how PeopleSearchNow handles personal information related to your activities on the website. You have a choice to opt-out from the Digital Advertising data that is gathered during your visit by visiting <http://www.aboutads.info/choices/>. Please note your personal information content and advertising opt-out are handled differently and are separate activities initiated by the consumer.
+[Advertising Opt-out  
+As a consumer, you have choices as how PeopleSearchNow handles personal information related to your activities on the website. You have a choice to opt-out from the Digital Advertising data that is gathered during your visit by visiting ](http://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)<http://www.aboutads.info/choices/>. Please note your personal information content and advertising opt-out are handled differently and are separate activities initiated by the consumer.
 
 If you wish to stop receiving promotional emails, you may opt out by accessing your account and updating your settings in "Email preferences", or clicking the Unsubscribe link found on the bottom of every promotional email we send. 
 
@@ -126,11 +116,15 @@ Advertising and Analytics data collection: PeopleSearchNow and some third-party 
 
 **III. ACCESS TO YOUR INFORMATION**
 
-If for any reason you are concerned that the Personal Information or Billing Information you provided to us is not correct and you wish to change or delete it, you have the ability to review and update your personal information online by logging into your account, <https://www.peoplesearchnow.com/login>. You can also email us regarding your personal information by using our contact form located at <https://www.peoplesearchnow.com/contact>. If you change information in your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Use or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our PeopleSearchNow Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
+If for any reason you are concerned that the Personal Information or Billing Information you provided to us is not correct and you wish to change or delete it, you have the ability to review and update your personal information online by logging into your account, <https://www.peoplesearchnow.com/login>. You can also email us regarding your personal information by using our contact form located at [ If you change information in your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Use or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our PeopleSearchNow Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.](https://www.peoplesearchnow.com/contact)
+
+[
 
 **IV. CHOICE AND OPT OUT**
 
-Content Opt Out. Upon request we can block the records we have control over in our database from being shown on PeopleSearchNow. You can request for your personal information to be blocked from being searched using the link below. Unless otherwise required by law, we will only accept opt-out requests directly from the individual whose information is being opted-out and we reserve the right to require verification of identity and reject opt-out requests in our sole discretion. Of course we are unable to remove any information about you from databases operated by third parties. We do not accept opt-out requests via fax or mail. To manage or remove your public records from our database, please go to <https://www.peoplesearchnow.com/opt-out>. Please note that changes you request may not be effective immediately. Note that despite any request for removal of or change to personal information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. 
+](https://www.peoplesearchnow.com/contact)
+
+[Content Opt Out. Upon request we can block the records we have control over in our database from being shown on PeopleSearchNow. You can request for your personal information to be blocked from being searched using the link below. Unless otherwise required by law, we will only accept opt-out requests directly from the individual whose information is being opted-out and we reserve the right to require verification of identity and reject opt-out requests in our sole discretion. Of course we are unable to remove any information about you from databases operated by third parties. We do not accept opt-out requests via fax or mail. To manage or remove your public records from our database, please go to ](https://www.peoplesearchnow.com/contact)<https://www.peoplesearchnow.com/opt-out>. Please note that changes you request may not be effective immediately. Note that despite any request for removal of or change to personal information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. 
 
 We are not obligated by law to block the records we have control over in our database from being shown on PeopleSearchNow. Despite this, we will endeavor to comply with any such requests to block the records we have control over as described above. Please note, we have no control over public records, and do not guarantee or warrant that a request for removal of or change to personal information as described above will result in removal of or change to all of your information from PeopleSearchNow. Further, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personal information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
 
@@ -142,7 +136,9 @@ Links to other Site and Communities. To the extent hyperlinks may be utilized to
 
 Testimonials. We may display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at <https://www.peoplesearchnow.com/contact>.
 
-Public Directory. We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, please go to <https://www.peoplesearchnow.com/opt-out>. 
+Public Directory. We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, please go to [. ](https://www.peoplesearchnow.com/opt-out)
+
+[
 
 Social Media Features. Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
@@ -158,14 +154,8 @@ Disputes. If you choose to visit the PeopleSearchNow Applications your visit and
 
 No Rights of Third Parties. This Privacy Policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Site.
 
-Contacting Us. If you have any questions about this Privacy Policy, or the practices of the PeopleSearchNow Applications and Community Services, please e-mail us by using our contact form located at <https://www.peoplesearchnow.com/contact> or write to us at:
+](https://www.peoplesearchnow.com/opt-out)
 
-People Search Now
+[Contacting Us. If you have any questions about this Privacy Policy, or the practices of the PeopleSearchNow Applications and Community Services, please e-mail us by using our contact form located at ](https://www.peoplesearchnow.com/opt-out)<https://www.peoplesearchnow.com/contact> or write to us at:
 
-Customer Service
-
-P.O. Box 29502
-
-Las Vegas, NV 89126
-
-Copyright ©2018 PeopleSearchNow, All rights reserved.
+Copyright ©2019 PeopleSearchNow, All rights reserved.
