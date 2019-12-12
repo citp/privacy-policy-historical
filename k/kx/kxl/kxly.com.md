@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630071556id_/https%3A//www.kxly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212203217id_/https%3A//www.kxly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KXLY.com - KXLY
 
-Welcome to KXLY.com. KXLY Broadcast Group. (KXLY), operator of KXLY.com, respects your privacy and takes it very seriously. This statement is provided to help you learn about our privacy policy and to help you understand what information we gather and what we do with that information.  For purposes of this privacy policy, we or our applies to KXLY and to all of the products, services and websites offered by KXLY and/or its subsidiaries or companies under common ownership.  This privacy policy does not cover the information practices of companies collecting data on our site or Web sites linked to our site.
+Welcome to KXLY.com. KXLY Broadcast Group. (4 News now), operator of KXLY.com, respects your privacy and takes it very seriously. This statement is provided to help you learn about our privacy policy and to help you understand what information we gather and what we do with that information.  For purposes of this privacy policy, we or our applies to KXLY and to all of the products, services and websites offered by 4 News Now and/or its subsidiaries or companies under common ownership.  This privacy policy does not cover the information practices of companies collecting data on our site or Web sites linked to our site.
 
  _What Information We Collect_
 
@@ -26,7 +26,7 @@ Contact information will be used to notify contest winners and award prizes and 
 
 In all other respects, we will not sell or otherwise provide access to any of our visitors personally identifiable information to any third party under any circumstances, unless (1) you consent to our doing so; (2) we need to share your information to provide the product or service you have requested; (3) to enforce compliance with our Terms of Use; or (4) we must respond to a lawful subpoena, court order or other legal process.
 
-If KXLY becomes involved in a merger, acquisition, or any form of sale of any or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+If 4 News Now becomes involved in a merger, acquisition, or any form of sale of any or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
 We may edit this policy from time to time. If we make any substantial changes to it, we will endeavor to notify you by posting a prominent announcement on our pages.  If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days.
 
@@ -36,7 +36,7 @@ KXLY.com is a general audience web site that complies with the Children's Online
 
  _Information Collection and Use_
 
-As described above, we collect personally identifiable information from all users including, but not limited to, the information described above. KXLYs Terms of Use Agreement [insert hyperlink] prohibits users under 13 from using the website and/or becoming a Member.
+As described above, we collect personally identifiable information from all users including, but not limited to, the information described above. 4 News Now's Terms of Use Agreement [insert hyperlink] prohibits users under 13 from using the website and/or becoming a Member.
 
 Personally identifiable information is collected and used in the manner described above.
 
@@ -44,4 +44,4 @@ Personally identifiable information is collected and used in the manner describe
 
 If we become aware that any user under 13 has provided us with personally identifiable information, we will delete the member account and any associated information provided. Parents or others who become aware that information has been collected on one of our sites from a child under 13 should contact and inform us at privacy@kxly.com and we will delete the information in which such information was collected.
 
-Last Revised: July 2, 2010 
+Last Revised: July 1, 2019 
