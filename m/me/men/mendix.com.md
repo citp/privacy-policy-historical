@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628190623id_/https%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212204708id_/https%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
 
 # Mendix Privacy Policy
 
@@ -8,7 +8,7 @@ We process Personal Data through the Mendix websites, applications (“Mendix Si
 
 ## Who we are
 
-The Mendix Sites are provided by Medix Technology B.V., an entity established under the laws of the Netherlands.
+The Mendix Sites are provided by Mendix Technology B.V., an entity established under the laws of the Netherlands and a subsidiary of Siemens Digital Industries Software.
 
 You may submit inquiries regarding personal data protection, privacy and security matters or contact us for other reason via [support@mendix.com](mailto:support@mendix.com) or by writing to Mendix, Wilhelminakade 197, 5th floor, 3072 AP Rotterdam, the Netherlands. You can call us on +31 10 276 0434.
 
@@ -16,8 +16,8 @@ You may submit inquiries regarding personal data protection, privacy and securit
 
 The scope of this Privacy Policy includes the collection of Personal Data through:
 
-  * the website available at [www.mendix.com](https://www.mendix.com/), and other web sites form which you are accessing this Privacy Policy (e.g. Community Portal, Documentation pages, Developer Account pages, event pages);
-  * our social media pages located at [include the URLs for all of our company social media pages on LinkedIn, Google+, Instagram, etc.] (collectively, our “Social Media Pages”); and
+  * The website available at [www.mendix.com](https://www.mendix.com/), and other web sites form which you are accessing this Privacy Policy (e.g. Community Portal, Documentation pages, Developer Account pages, event pages);
+  * Our social media pages located at [include the URLs for all of our company social media pages on LinkedIn, Google+, Instagram, etc.] (collectively, our “Social Media Pages”); and
   * HTML-formatted email messages and polls that we send to you and that link to this Privacy Policy;
 
 
@@ -107,7 +107,7 @@ Sending Direct Marketing Communications: We use your data to send marketing comm
 
 Mendix is not in the business of selling Personal Data. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share Personal Data with certain third parties without further notice to you, as set forth below:
 
-  * We may share Personal Data with our subsidiaries, affiliates and other related companies for purposes consistent with this Privacy Policy.
+  * We may share Personal Data with Siemens Digital Industries Software, our subsidiaries, affiliates and other related companies for purposes consistent with this Privacy Policy.
   * Mendix, like many businesses, sometimes hires other companies to perform certain business-related functions, such as web site hosting, data analysis, information technology and related infrastructure provision, customer service, email delivery, auditing, processing payments, and other similar services. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
   * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages). Please note that any information you post or disclose will become public information, and may be available to users of the Mendix Sites and services, and our Social Media Pages, and to the general public. We urge you to be very careful when deciding to disclose any information about you.
   * To your connections associated with your social media account, to other web site users, as well as to your social media account provider, in connection with your social sharing activity, such as if you connect your social media account to your Mendix account or log into your Mendix account from your social media account. By connecting your Mendix account and your social media account, you authorize us to share information with your social media account provider and you understand that the use of the information we share will be governed by the social media site’s privacy policy. If you do not want Personal Data about you shared with other users or with your social media account provider, please do not connect your social media account with your Mendix account and do not participate in social sharing on the Mendix Sites and services.
@@ -159,4 +159,4 @@ Personal Data may be stored on servers located within the European Union, but ma
 
 We may change our business and the Mendix Sites from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time without prior notice. We recommend that you review this Privacy Policy regularly, so that you remain informed of any changes. Your continued use of the Mendix Sites after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised policy.
 
-_This Privacy Policy was last updated on 30 November 2018._
+_This Privacy Policy was last updated on 04 October 2019._
