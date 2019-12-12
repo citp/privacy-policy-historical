@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etsi.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623082453id_/https%3A//www.etsi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsi.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212070741id_/https%3A//www.etsi.org/privacy) for the most accurate reproduction.*
 
 # ETSI - Privacy
 
 ## ETSI privacy policy
 
-**This privacy policy is effective from 16 April 2018 and was last updated on 20 June 2019.**
+ **This privacy policy is effective from 16 April 2018 and was last updated on 20 June 2019.**
 
 ETSI is a not-for-profit organization established under the French law of 1st July 1901 and recognized as a European Standards Organization dealing with telecommunication, broadcasting and other electronic communication networks and services.
 
