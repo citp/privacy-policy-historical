@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the g-portal.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812114329id_/https%3A//www.g-portal.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-portal.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212062439id_/https%3A//www.g-portal.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-__Dear user, unfortunately we can not guarantee complete functionality due to the obsolete technology of Internet Explorer. We therefore recommend using our web interface with the latest version of Google Chrome or Mozilla Firefox. Thank you for your understanding.
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -72,20 +70,13 @@ We collect your email address in order to:
 
 To be in accordance with CANSPAM, we agree to the following:
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at support@g-portal.de and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://www.g-portal.com/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
 
 #### Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-OCIRIS GmbH
-
-Kistlerhofstraße 70
-
-Building 79
-
-81379 Munich
-
-Germany
-
-support@g-portal.de
+ **Ociris GmbH**  
+Aidenbachstraße 54  
+81379 Munich  
+[[email protected]](https://www.g-portal.com/cdn-cgi/l/email-protection)
