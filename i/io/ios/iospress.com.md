@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iospress.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401163948id_/https%3A//www.iospress.nl/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iospress.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212134026id_/https%3A//www.iospress.nl/service/privacy-policy) for the most accurate reproduction.*
 
 # IOS Press
 
