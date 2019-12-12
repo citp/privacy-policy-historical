@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nothingtoxic.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330170813id_/http%3A//www.nothingtoxic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingtoxic.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212052827id_/https%3A//www.nothingtoxic.com/privacy) for the most accurate reproduction.*
 
 # Extreme Entertainment - Nothing Toxic
 
