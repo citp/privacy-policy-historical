@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the clearme.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517065801id_/https%3A//www.clearme.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearme.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212183714id_/https%3A//www.clearme.com/privacy_policy) for the most accurate reproduction.*
 
 # CLEAR
 
-Effective Date: March 14th, 2019
+Securing data and protecting privacy is job #1 for us at CLEAR.  Our customers trust us to provide frictionless experiences, to keep your data safe and to protect your privacy and we’re obsessed with delivering on that promise. Importantly, we will never sell or rent your personal information. We are transparent about what we know about our customers, how we protect that information, and how customers engage with CLEAR from the very beginning -- starting with the privacy policy below. 
 
-We at CLEAR, along with our subsidiaries and affiliates (collectively, “CLEAR”), respect your concerns about privacy and value our relationship with you. This Privacy Policy describes the types of personal information we obtain about consumers and others identified below, how we may use the information, with whom we may share it, and the choices available regarding our use of the information. The Privacy Policy also describes the measures we take to safeguard the personal information and how individuals can contact us about our privacy practices.
+Effective Date: November 18, 2019
 
-For applicants to or members of the former CLEAR program prior to 2010 who subsequently chose not to participate in the new CLEAR program, your information is governed by the former program’s Privacy Policy, available [here](https://prismic-io.s3.amazonaws.com/clear-website%2F54b39be3-0518-4580-8477-9df8d53054f0_clear_privacy_v1.pdf).
+We at CLEAR, along with our subsidiaries and affiliates (collectively, “CLEAR”), respect your concerns about privacy and value our relationship with you. This Privacy Policy describes the types of personal information we obtain about consumers and others identified below, how we may use the information, with whom we may share it, and the choices available regarding our use of the information. The Privacy Policy also describes the measures we take to safeguard your personal information and how you can contact us about our privacy practices.
 
 #### 1\. INFORMATION WE OBTAIN
 
@@ -18,22 +18,21 @@ We may obtain personal information about you from various sources, including the
   * Government-issued identification information (such as Social Security number, passport number, Alien Registration number and driver’s license number, as well as copies of government-issued identification documents);
   * Digital photographs;
   * Biometric data (such as digital images of fingerprints and irises);
-  * Tracking information about use of the CLEAR service;
-  * Payment information, such as name, billing address and payment card details, including card number, expiration date and security code;
+  * Information about your use of the CLEAR service;
+  * Payment information, such as billing address and payment card details, including card number, expiration date and security code;
   * Financial information, (such as financial account information and details that may be contained in a consumer report);
   * Demographic details (such as date and place of birth, citizenship, travel habits and preferences, income level, education level, family status and employment status);
   * Location information;
   * Contact information for friends or others you would like us to contact;
-  * Information you submit in connection with a career opportunity at CLEAR, such as
-  * contact details, information in your resume and details about your current employment;
+  * Information you submit in connection with a career opportunity at CLEAR, such as contact details, information in your resume and details about your current employment;
   * Survey information; and
   * Other information you may provide to us (such as shopping and language preferences).
 
 
 
-We also may collect personal information typed into forms on clearme.com, whether or not the form is submitted.
+We also may collect personal information typed into forms on our website, whether or not the form is submitted. 
 
-In addition, when users visit our website, we collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser type, operating system, referring URLs, information on actions taken on our site, and dates and times of website visits. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon”, also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data, which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. Clickstream data also can tell us the type of computer and browsing software a visitor uses, the address of the website from which the visitor linked to our site, and the pages she visits on our site.
+In addition, when users visit our website, we collect certain information by using cookies, web beacons and other tracking tools to collect certain information including your device’s IP address, device type, browser type, operating system, referring URLs, actions taken on our site, and dates and times of website visits. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon”, also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data, which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. Clickstream data also can tell us the type of computer and browsing software a visitor uses, the address of the website from which the visitor linked to our site, and the pages she visits on our site.
 
 #### 2\. HOW WE MAY USE THE INFORMATION WE OBTAIN
 
@@ -43,7 +42,7 @@ We may use biometric data and other personal information we obtain about you to:
 
   * Facilitate and manage the CLEAR application and enrollment process
   * Operate and administer the CLEAR program
-  * Verify applicants’ and members’ identities, including authenticating users of the CLEAR service, and conducting background checks and security threat assessments concerning CLEAR applicants and members
+  * Verify applicants’ and members’ identities, including authenticating users of the CLEAR service
   * Comply with and enforce applicable legal requirements and policies, including this Privacy Policy and enforce our Website Terms of Use and the CLEAR Membership Terms and Conditions
 
 
@@ -55,6 +54,7 @@ We also may use the information in other ways with your express consent, such as
 In addition to the uses described in 2.A. above, we also may use non-biometric personal information to:
 
   * Provide services to our consumers (such as travel or airport-related amenities)
+  * Authenticate users of the CLEAR service, and conduct background checks and security threat assessments concerning CLEAR applicants and members 
   * Respond to and communicate with our consumers about their questions and comments
   * Create and manage online accounts that consumers establish on our website
   * Send news and updates about CLEAR and other communications (such as communications about products and services offered by our marketing partners)
@@ -119,7 +119,11 @@ We recognize the importance of protecting children's online privacy. The CLEAR w
 
 This Privacy Policy may be updated periodically to reflect new CLEAR program features or changes in our personal information practices. We will post a notice for consumers at the top of this Privacy Policy of any significant changes to this Privacy Policy. We will indicate at the top of the Privacy Policy when the policy was most recently updated.
 
-#### 12: BIOMETRIC DATA RETENTION FOR ILLINOIS ENROLLEES
+#### 12\. FORMER CLEAR MEMBERS
+
+For members of the former CLEAR program prior to 2010 who subsequently chose not to participate in the new CLEAR program, your information is governed by the former program’s Privacy Policy, available  **[HERE](https://clearme.com/privacy_policy)**.
+
+#### 13: BIOMETRIC DATA RETENTION FOR ILLINOIS ENROLLEES
 
 For Illinois enrollees, in accordance with Illinois state law CLEAR will retain biometric data only until the occurrence of the first of the following:
 
