@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626071842id_/https%3A//lolsnaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212042042id_/https%3A//lolsnaps.com/privacy) for the most accurate reproduction.*
 
-# LolSnaps.com | Constant updates of the best funny pictures and memes on the internet.
+# Privacy | LolSnaps.com
 
 LolSnaps is a entertainment company and the services that link to this Privacy Policy provide fun ways for you to create, share, and discover the best content from around the internet. When you use these services, you’ll share some information with us. We want to explain clearly what information we collect, why we collect it, how we use it, whom we share it with, and the controls we give you to access, update, and delete your information. That’s why we’ve written this Privacy Policy. We tried to write it in simple language with minimal legalese so it’s easy for you to understand. If you have any questions about anything in our Privacy Policy, please [contact us](https://lolsnaps.com/contact).
 
