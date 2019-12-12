@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itgetsbetter.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330204320id_/https%3A//itgetsbetter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgetsbetter.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212072452id_/https%3A//itgetsbetter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – It Gets Better
 
