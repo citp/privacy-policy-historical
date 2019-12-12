@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the temp-mail.org privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126213502id_/https%3A//temp-mail.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temp-mail.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212113212id_/https%3A//temp-mail.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy & Terms of use
 
 **1\. Privacy policy**  
-last updated 10 october 2016
+last updated 24 may 2018
+
+Temp-mail.org is committed to protecting your privacy. We will only use the information that we collect lawfully in accordance with the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679).
 
 Information is saved for many years on your conventional e-mail. This may be exposed to hacking or lost due to failure of service.
 
