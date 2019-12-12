@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leeschools.net privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602202933id_/http%3A//www.leeschools.net/privacy-policy-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeschools.net privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212092109id_/https%3A//www.leeschools.net/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lee County School District
+# Privacy Policy - Lee County Schools
 
 We recognize the importance of protecting your privacy and the information that you share with us. Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity. It is designed to assist you in understanding how we collect, use and safeguard the personal information you provide and to help you in making informed decisions when using our site, products and services. This Privacy Policy will be continually assessed against new technologies and our schools needs.
 
