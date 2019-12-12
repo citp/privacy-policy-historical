@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsf.net privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405075628id_/https%3A//www.hsf.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsf.net privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213005103id_/https%3A//www.hsf.net/privacy-policy) for the most accurate reproduction.*
 
 # HSF: Privacy Policy
 
