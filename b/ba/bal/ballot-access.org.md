@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballot-access.org privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619012002id_/https%3A//ballot-access.org/web/20150227215853/http%3A/www.ballot-access.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballot-access.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212143607id_/http%3A//ballot-access.org/web/20150227215853/http%3A/www.ballot-access.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ballot Access News
 
