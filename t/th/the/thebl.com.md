@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thebl.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331060521id_/https%3A//thebl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebl.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212193915id_/https%3A//thebl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheBL.com
-
-__06:15, 11 Aug 2018 [Print](https://thebl.com/privacy-policy/print/ "Print") T + T - 
 
 **_Who We Are_**
 
@@ -65,14 +63,7 @@ Please bear in mind that if you exercise such rights, this may affect our abilit
 
 **_Sharing and Disclosing Your Personal Information_**
 
-We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this notice or where there is a legal requirement. TheBL.com uses trusted third-parties to provide the below services and business functions, those our third-parties collect and process your data governed by their privacy policy.
-
-We share your personal data with the following categories:
-
-  * we use limited services from trusted third-party service providers, such as Google and Facebook, to analyze how users use our websites and Apps, track user interests, trends and patterns in order to provide you with personalized suitable contents to meet your interest from our websites and Apps.
-  * we use limited third-party advertising companies, to serve users with some of the advertisements that appear on our websites and Apps, in order to provide personalized ads at your interest when experiencing our websites and Apps.
-
-
+“[TheBL.com](http://thebl.com/) does not sell or share end user information, including end user phone numbers.”
 
 **_International transfers of personal information_**
 
