@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the queerclick.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628171820id_/http%3A//www.queerclick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queerclick.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212073604id_/http%3A//www.queerclick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - QueerClick
 
-This statement covers the site [QueerClick.com](http://www.queerclick.com/) (QueerClick). Please read this statement carefully before proceeding to access QueerClick. Your use of QueerClick indicates your agreement to abide by the Terms in effect.
+This statement covers the site [QueerClick.com](https://www.queerclick.com/) (QueerClick). Please read this statement carefully before proceeding to access QueerClick. Your use of QueerClick indicates your agreement to abide by the Terms in effect.
 
 ### Information Collection
 
@@ -23,7 +23,7 @@ Any information you’ve provided by commenting on the website (Username, Email 
 You can review Disqus’ privacy policy here:  
 <https://help.disqus.com/terms-and-policies/disqus-privacy-policy>
 
-Please [contact us](http://www.queerclick.com/contact) with any questions or concerns.
+Please [contact us](https://www.queerclick.com/contact) with any questions or concerns.
 
 ### Discussion Group and Cookies
 
