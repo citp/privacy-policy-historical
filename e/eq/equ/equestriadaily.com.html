@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the equestriadaily.com privacy policy that was archived on 2019-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190501051157id_/https%3A//www.equestriadaily.com/p/eqd-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the equestriadaily.com privacy policy that was archived on 2019-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191212021708id_/https%3A//www.equestriadaily.com/p/eqd-privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="v2" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
+<!DOCTYPE html><html class="v2" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
 <link href="https://www.blogger.com/static/v1/widgets/3597120983-css_bundle_v2.css" rel="stylesheet" type="text/css">
 <meta content="width=1100" name="viewport">
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -11,16 +11,15 @@
 <link rel="alternate" type="application/atom+xml" title="Equestria Daily - MLP Stuff! - Atom" href="https://www.equestriadaily.com/feeds/posts/default">
 <link rel="alternate" type="application/rss+xml" title="Equestria Daily - MLP Stuff! - RSS" href="https://www.equestriadaily.com/feeds/posts/default?alt=rss">
 <link rel="service.post" type="application/atom+xml" title="Equestria Daily - MLP Stuff! - Atom" href="https://www.blogger.com/feeds/1865775941337421610/posts/default">
-<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1961721879-ieretrofit.js"></script>
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1270012344-ieretrofit.js"></script>
 <![endif]-->
 <meta content="https://www.equestriadaily.com/p/eqd-privacy-policy.html" property="og:url">
 <meta content="EQD Privacy Policy" property="og:title">
 <meta content="My Little Pony: Friendship is Magic News, Brony and bronies, my little pony merchandise, pony art, pony music, pony media" property="og:description">
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
-<script src="//cdn.rawgit.com/equestriadaily/eqdscriphost/cda475eb4d8c80e572a4e4ba1d82708bfec1f64e/eqd.countdown.js" type="text/javascript"></script>
+<script src="//equestriadaily.github.io/countdown.script.js" type="text/javascript"></script>
 <script src="https://cdn.adligature.com/equestria/prod/rules.js" type="text/javascript"></script>
-<!-- <script defer='defer' src='https://www.poniloader.com/Countdown/jquery.countdown.min.js' type='text/javascript'/> -->
 <meta content="Uqs6i0s7EExBocSPfRVLw-ST4OpHToU6ex7hFS6TRlE" name="google-site-verification">
 <meta content="My Little Pony, Toys, Art, Comics, Cartoons, Video Games, Fanfiction, Analysis, Music, Ponies, Merchandise, meetups, pony news, conventions," name="keywords">
 <meta content="Sethisto" name="author">
@@ -548,6 +547,9 @@ body .navbar {
 /* Post
 ----------------------------------------------- */
 
+ul.posts{
+	list-style-type:none;
+}
 li.blog-post
 {
 	margin:0px;
@@ -791,7 +793,6 @@ div.settings
 	color:#333;
 	position: relative;
 	top:-20px;
-	background-color: #FFF;
 	box-shadow: 2px 2px 4px rgba(0,0,0,0.2);
 }
 
@@ -1267,7 +1268,18 @@ font-weight: bold;
 ---------------------------------------------*/
 #countdown.expired {color:#bba3a3;}
 #countdown.soon {color:#d62929;}
-#countdown { border-radius:13px; padding:4px; min-width:200px; text-align:center;font-weight:bold } <!--background: #EDEDED; color:black;  box-shadow:3px 3px #bba3a3;}-->
+#countdown { 
+	border-radius:13px;
+	padding:4px; 
+	min-width:200px; 
+	text-align:center;
+	font-weight:bold;
+} 
+#countdown-time {
+	/*add following lines to optimize update performance*/
+    will-change: contents;
+}
+<!--background: #EDEDED; color:black;  box-shadow:3px 3px #bba3a3;}-->
 
 /* Footer
 ----------------------------------------------- */
@@ -1503,9 +1515,217 @@ font-weight: bold;
 {
 	display:inline;
 }
+
+/*LIGHT/DARK MODE ADJUSTMENTS*/
+/*DEFINED AT END OF CSS FILE SO OLDER BROWSERS CAN FALL BACK ON DEFAULTS DEFINED EARLIER*/
+/*GENERAL*/
+  body{
+    background-color:var(--body-bg-color);
+  }
+  /*HEADER*/
+  .header-wrapper
+  {
+    background-color:var(--header-wrapper-bg-color);
+  }
+  #header-bg-1 { 
+    background-image:var(--header-image-url-layer1); 
+  }
+
+  #header-bg-2 { 
+    background-image:var(--header-image-url-layer2); 
+  }
+
+  #header-bg-3 { 
+    background-image:var(--header-image-url-layer3); 
+  }
+
+  #header-bg-4 { 
+    background-image:var(--header-image-url-layer4); 
+  }
+  /*NAV BAR*/
+  a.nav-bar-button {
+    color:var(--nav-bar-button-text);
+  }
+  /*SETTINGS PANE*/
+  div.settings
+  {
+    background-color:var(--settings-background-color);
+  }
+  div.settings-content label
+  {
+    background-color:var(--settings-button-background-color);
+  }
+  /*AD SECTIONS*/
+  .top-banner-section{
+    background-color:var(--ad-banner-background-color);
+    color:var(--ad-banner-text-color);
+  }
+  .right-banner-section{
+    background-color:var(--ad-banner-background-color);
+    color:var(--ad-banner-text-color);
+  }
+  .list-banner-section{
+    background-color:var(--ad-banner-background-color);
+    color:var(--ad-banner-text-color);
+  }
+  .bottom-banner-section{
+    background-color:var(--ad-banner-background-color);
+    color:var(--ad-banner-text-color);
+  }
+  /*HEADLINES*/
+  ul.headlines li a {
+    color: var(--headlines-link-color);
+  }
+  /*WIDGETS*/
+  .module {
+    background-color:var(--widget-background-color);
+    color:var(--widget-text-color);
+  }
+  .module button {
+    background-color:var(--widget-button-background-color) !important;
+    color:var(--widget-button-text-color) !important;
+  }
+  /*POPULAR POSTS*/
+  .popular-posts li .post-snippet{
+    color:var(--popular-post-list-text);
+  }
+  .popular-posts a:link{
+    color:var(--popular-post-list-link);
+  }
+  /*POST AND COMMENTS*/
+  .post
+  ,.post-comments
+  {
+    background-color:var(--post-background-color);
+    color:var(--post-text-color);
+  }
+  .post a:link,
+	.post-comments a:link
+  {
+      color:var(--post-link-text-color);
+  }
+  .post .post-body img
+  {
+      background-color:var(--post-image-background-color);
+      border:1px solid var(--post-image-border-color);
+  }
+  /*POST FOOTER*/
+  .post .post-footer{
+    background-color:var(--post-footer-background-color);  
+    color:var(--post-footer-text-color);
+  }
+  
+  button,
+  .button
+  ,.comment-link
+  {
+    background-color:var(--post-footer-button-background-color);
+    color:var(--post-footer-button-text-color) !important;
+    text-shadow:var(--post-footer-button-text-shadow-mode);
+  }
+  .button:HOVER, .comment-link:HOVER {
+    background-color:var(--post-footer-button-background-color-hover);
+    color: var(--post-footer-button-text-color-hover) !important;
+  }
+
+/*LIGHT/DEFAULT MODE*/
+:root{
+    --body-bg-color: #303843;
+
+	--header-wrapper-bg-color: #BBEEFA;
+	--header-image-url-layer1:url('https://3.bp.blogspot.com/-_d1HBnBjW7U/W0HTB0-5IeI/AAAAAAADCJ4/hPaEq7VauS4MkFSObk-xR9Z46LO0fbMCwCLcBGAs/s1920/Cloudy.png');
+	--header-image-url-layer2:url('');
+	--header-image-url-layer3:url('');
+	--header-image-url-layer4:url('');
+	--nav-bar-button-text: #FFF;
+
+	--settings-background-color:#fff;
+	--settings-button-background-color:#f8f8f8;
+
+	--ad-banner-background-color:#ff;
+	--ad-banner-text-color:#000000;
+
+	--headlines-link-color:#a9c8ff;
+
+	--widget-background-color:#FFF;
+	--widget-text-color:#000000;
+
+	--widget-button-background-color:#EEEEEE;
+	--widget-button-text-color:#cccccc;
+
+	--popular-post-list-text:#696969;
+	--popular-post-list-link:#2385e1;
+
+	--post-background-color:#FFF;
+	--post-image-background-color:#eee;
+	--post-image-border-color:#ccc;
+	--post-text-color:#000000;
+    --post-link-text-color:#2385e1;
+
+	--post-footer-background-color:#eeeeee;
+	--post-footer-text-color:#666666;
+
+	--post-footer-button-background-color:#eee;
+	--post-footer-button-text-color:#333;
+	--post-footer-button-text-shadow-mode:1px 1px rgba(255,255,255, 0.5);
+
+	--post-footer-button-background-color-hover:#ddd;
+	--post-footer-button-text-color-hover:#333;
+}
+
+/*DARK MODE*/
+[data-theme="dark"] {
+    --body-bg-color: #1e2329;
+
+	--header-wrapper-bg-color: #0d8aa6;
+	--header-image-url-layer1:url('https://3.bp.blogspot.com/-_d1HBnBjW7U/W0HTB0-5IeI/AAAAAAADCJ4/hPaEq7VauS4MkFSObk-xR9Z46LO0fbMCwCLcBGAs/s1920/Cloudy.png');
+	--header-image-url-layer2:url('');
+	--header-image-url-layer3:url('');
+	--header-image-url-layer4:url('');
+
+	--nav-bar-button-text: #cccccc;
+
+	--settings-background-color:#222222;
+	--settings-button-background-color:#cccccc;
+
+	--ad-banner-background-color:#222222;
+	--ad-banner-text-color:#cccccc;
+
+	--headlines-link-color:#5ab9ff;
+
+	--widget-background-color:rgb(0,0,0,0.25);
+	--widget-text-color:#cccccc;
+
+	--widget-button-background-color:#444444;
+	--widget-button-text-color:#cccccc;
+
+	--popular-post-list-text:#cccccc;
+	--popular-post-list-link:#5ab9ff;
+
+	--post-background-color:#181818;
+	--post-image-background-color:#333;
+	--post-image-border-color:#444;
+	--post-text-color:#cccccc;
+    --post-link-text-color:#5ab9ff;
+
+	--post-footer-background-color:#222222;
+	--post-footer-text-color:#cccccc;
+
+	--post-footer-button-background-color:#444444;
+	--post-footer-button-text-color:#cccccc;
+	--post-footer-button-text-shadow-mode:none;
+
+	--post-footer-button-background-color-hover:#555555;
+	--post-footer-button-text-color-hover:#dddddd;
+}
+
+
 </style>
 <script>
 // <![CDATA[
+
+	
+	UpdateDarkLightMode( );
 
 	$(window).ready( function()
 	{
@@ -1526,6 +1746,9 @@ font-weight: bold;
 	        	}
         	} );
         }
+
+		$("#setting-darklight-mode").on("change",function() { LocalStorageSet( "darklight-mode", $(this).val() ); UpdateDarkLightMode( ); });
+
 
 		UpdateFixedNavigationBar( );
 		$("#setting-fixed-navigation-bar").on("change",function() { LocalStorageSet( "fixed-navigation-bar", $(this).is(":checked") ); UpdateFixedNavigationBar( ); });
@@ -1594,6 +1817,30 @@ font-weight: bold;
 
     function deleteCookie(name) {
         createCookie(name,"",-1);
+    }
+
+	function UpdateDarkLightMode()
+    {   
+        var darkLightMode = LocalStorageGet( "darklight-mode", "system" );
+        $("#setting-darklight-mode").val(darkLightMode);
+		
+		var enableDarkMode = false;
+        if(darkLightMode === 'system')
+        {
+            //Use browser/system default mode
+            enableDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        }
+        else{
+            enableDarkMode = darkLightMode === "dark";
+        }
+		
+		if(enableDarkMode)
+        {
+			document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      	else{
+			document.documentElement.removeAttribute('data-theme');
+      	}
     }
 
 	function UpdateS4Spoilers( )
@@ -1767,9 +2014,9 @@ font-weight: bold;
 		} );
 		//]]>
 	</script>
-<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=1865775941337421610&amp;zx=b1cdebac-09a6-465c-b786-f93a9b4ee38a" media="none" onload="if(media!='all')media='all'" rel="stylesheet"><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=1865775941337421610&amp;zx=b1cdebac-09a6-465c-b786-f93a9b4ee38a' rel='stylesheet'/></noscript>
+<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=1865775941337421610&amp;zx=dcf2aaa1-a272-407f-99f6-11e705d752a6" media="none" onload="if(media!='all')media='all'" rel="stylesheet"><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=1865775941337421610&amp;zx=dcf2aaa1-a272-407f-99f6-11e705d752a6' rel='stylesheet'/></noscript>
 
-<script src="//equestriadaily.disqus.com/embed.js" data-timestamp="1580355354026"></script></head>
+<script src="//equestriadaily.disqus.com/embed.js" data-timestamp="1580355358130"></script></head>
 <body class="">
 <div class="body-wrapper">
 <div class="header-wrapper">
@@ -1788,7 +2035,7 @@ font-weight: bold;
 <div id="header-bg-2">
 <div id="header-bg-3">
 <div id="header-bg-4">
-<a href="/"><img src="//1.bp.blogspot.com/-C7X7HYDD0wk/XMWcszCircI/AAAAAAADMH0/c11RGn8m2foFhGeYfLy1U4iK80TL1aazwCK4BGAYYCw/s1600/equestria_daily_logo_by_thepatrollpl-d62twe3.png" style="display:block; margin:auto;"></a>
+<a href="/"><img src="//2.bp.blogspot.com/-IBDlbDvbjZg/XfAr38HcWcI/AAAAAAADSoI/3AK-n--kQOwbxFx7CSnrr4sKcW92Us3KgCK4BGAYYCw/s1600/eq_Fluttershy.png" style="display:block; margin:auto;"></a>
 </div>
 </div>
 </div>
@@ -1815,6 +2062,7 @@ font-weight: bold;
 <a href="/search/label/Wallpaper">Wallpaper</a>
 <a href="/search/label/3D Pony">3D Ponies</a>
 <a href="/search/label/Artist Spotlight">Artist Spotlight</a>
+<a href="/search/label/Open Art">Open Art</a>
 </div>
 </div>
 </div>
@@ -1949,7 +2197,7 @@ font-weight: bold;
 <a href="https://www.equestriadaily.com/search/label/Pony%20Community%20Soapbox">Pony Soapbox</a>
 <a href="https://forums.equestriadaily.com/">Forums</a>
 <a href="https://www.equestriadaily.com/search/label/Discussion">Discussion</a>
-<a href="https://www.equestriadaily.com/2018/01/2018-brony-and-my-little-pony.html">Convention List</a>
+<a href="https://www.equestriadaily.com/2019/02/planned-my-little-pony-brony.html">Convention List</a>
 <a href="https://www.equestriadaily.com/search/label/Poll">Polls</a>
 <a href="https://www.equestriadaily.com/2013/04/brony-meetup-group-map.html">Meetup Group Map</a>
 <a href="https://www.equestriadaily.com/2016/11/equestria-daily-current-staff-and.html">EQD Staff</a>
@@ -1998,12 +2246,19 @@ font-weight: bold;
 <div class="settings" id="settings" style="display:none;">
 <h1>Equestria Daily Settings</h1>
 <div class="settings-content">
-<label><input class="setting-tag" data-tag="Season 9" type="checkbox"> Hide Season 9 Posts</label>
+<label><input class="setting-tag" data-tag="Season 9" type="checkbox"> Hide Spoiler Posts</label>
 <label><input class="setting-tag" data-tag="Equestria Girls" type="checkbox"> Hide Equestria Girls Posts</label>
 <label><input class="setting-tag" data-tag="Drawfriend Human Anthro Pony" type="checkbox"> Hide Anthro Posts</label>
-<label><input class="setting-tag" data-tag="Ratings" type="checkbox"> Hide Ratings Posts</label>
 <label><input id="setting-fancy-banner" type="checkbox"> Fancy Banner</label>
 <label><input id="setting-fixed-navigation-bar" type="checkbox"> Fixed Navigation Bar</label>
+<label>
+            Site theme
+            <select id="setting-darklight-mode">
+<option value="system">Follow browser/system</option>
+<option value="light">Celestia (Light)</option>
+<option value="dark">Luna (Dark)</option>
+</select>
+</label>
 </div>
 </div>
 <!--Notifications-->
@@ -2033,18 +2288,17 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-0');
 <input name="siteurl" type="hidden" value="www.equestriadaily.com/">
 <input name="ref" type="hidden" value="https://www.equestriadaily.com/2016/12/how-to-submit-to-equestria-daily.html">
 <input name="ss" type="hidden" value="">
-<button><img src="https://lh3.googleusercontent.com/-GLsGXUPhyXk/VoVyErLvGCI/AAAAAAACes8/u05h_MYkkh8/s16-Ic42/K6iDlij.png"></button>
+<button><img alt="Search" src="https://lh3.googleusercontent.com/-GLsGXUPhyXk/VoVyErLvGCI/AAAAAAACes8/u05h_MYkkh8/s16-Ic42/K6iDlij.png"></button>
 </form>
 </div>
 </div></div>
 <!-- Headlines -->
 <div class="sidebar-right section" id="sidebar-right-headlines"><div class="widget LinkList" data-version="1" id="LinkList401">
 <ul class="headlines">
-<li><a href="https://www.equestriadaily.com/2019/04/the-point-of-no-return-episode-followup.html">Point of No Return - Episode Followup</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/my-little-pony-season-9-episode-5-point.html">Point of No Return - Stream / Discuss</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/synopsis-for-episode-12-and-13-of.html">S9 Episode 12 and 13 Synopsis</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/synopsis-for-episode-11-of-season-9.html">S9 Episode 11 Synopsis Reveal!</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/editorial-relationship-debate-twilight.html">Twilight and Spike's Relationship?</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/the-10-ponies-ill-miss-most-from.html">10 Ponies We I'll Miss From FIM! </a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/equestria-girls-rarity-investigates.html">EG Followup - Rarity Investigages </a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/a-guide-to-pony-tears-season-nine.html">Pony Tears - Season 9 Edition</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/top-5-hearths-warming-eve-specials.html">Top 5 Hearths Warming Specials</a></li>
 </ul>
 </div><div class="widget HTML" data-version="1" id="HTML802">
 <div class="right-banner-section">
@@ -2059,7 +2313,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-4');
 <!-- Social Media -->
 <div class="sidebar-right section" id="sidebar-right-social"><div class="widget HTML" data-version="1" id="HTML301">
 <div class="module-plain" style="text-align:center;">
-<center><a href="https://www.patreon.com/EquestriaDaily?ty=h"><img src="https://3.bp.blogspot.com/-50DcLW56X4Q/XGtBq2jr-gI/AAAAAAADJlg/KBe1fEu7Ex4Il-Q28W7bKGckVlCe6opFQCLcBGAs/s1600/Patreon%2B3.jpg"></a><br><a href="https://www.equestriadaily.com/p/equestria-daily-patreon-credits-page.html"><img src="https://2.bp.blogspot.com/-5u2a8dmeOYs/XGs-vFJKh4I/AAAAAAADJlA/piB4l0ogWiklbwMPjYO6qx6rtWylMYaaQCLcBGAs/s1600/Patreon%2BHall%2Bof%2BFame.jpg"></a><br><br><a href="https://www.instagram.com/equestriadaily_mlp/"><img src="https://2.bp.blogspot.com/-Cv7z5HY_MDk/W5b-SgLhA4I/AAAAAAADEfQ/gdSEn5gAnsk0ztAOP10rpqvzkaaFoAh7wCLcBGAs/s1600/Instagram.jpg"></a> <a href="https://www.equestriadaily.com/p/my-little-pony-friendship-is-magic.html"><img src="https://4.bp.blogspot.com/-fpFJ4_OX3jI/WJj7ogPOUPI/AAAAAAACwCs/Nrz5ne9eNJcNCJTSaKJwGw8uRaCsI8xTwCLcB/s1600/Discord%2BButton.jpg"></a> <a href="https://www.facebook.com/pages/Equestria-Daily/256456604367656?sk=wall"><img src="https://4.bp.blogspot.com/-oRugfXmGdwY/WFq_LHJdOpI/AAAAAAACuPo/1q7FZvwnSRMLDE49fn6dHHwnXrLT2sbtQCLcB/s1600/facebook.png"></a> <a href="https://steamcommunity.com/groups/Equestriadaily"><img src="https://1.bp.blogspot.com/-J0E1kwG_Y34/WFq_LCBrVXI/AAAAAAACuPw/NUGnq6drwZwzohbytZSfimMbzQTdMT3ZACLcB/s1600/steam.png"></a> <a href="https://www.youtube.com/user/Sethisto"><img src="https://3.bp.blogspot.com/-Rw5KwMlIvA0/WFq_LeWUw9I/AAAAAAACuPs/0JBYJXZr4pIcPSKYUyzKDXn2ADMOl3jgwCLcB/s1600/youtube.png"></a> <a href="https://twitter.com/EquestriaDaily"><img src="https://3.bp.blogspot.com/-N_uuXiHXpCI/WFq_LGW7ryI/AAAAAAACuPk/tpm7C6bzIPcPx9l1KkTemf7glvpn5i3FgCLcB/s1600/twitter.png"></a><br><br><center><a href="https://amzn.to/2t6uEgi"><img src="https://4.bp.blogspot.com/-fc89ahwBiAQ/XD2z-zXJj6I/AAAAAAADIdQ/L76NElDXtLYJapMbMF4Ec9ua4rqIAhiqQCLcBGAs/s1600/Amazon%2Bad%2B2017.jpg"></a><a href="https://shareasale.com/r.cfm?b=18545&amp;u=985453&amp;m=5108&amp;urllink=www%2Eteepublic%2Ecom%2Ft%2Dshirts%2Fmlp%2Dfim%3Fsort%3Dpopular&amp;afftrack="><img src="https://1.bp.blogspot.com/-MFwz9Vx22uI/XD21b76quGI/AAAAAAADIdc/_wVKSFgty4AnZFkKjUJhze2ijJFf8_o-QCLcBGAs/s1600/Teepublic.jpg"></a></center></center>
+<a href="https://www.patreon.com/EquestriaDaily?ty=h"><img src="https://3.bp.blogspot.com/-50DcLW56X4Q/XGtBq2jr-gI/AAAAAAADJlg/KBe1fEu7Ex4Il-Q28W7bKGckVlCe6opFQCLcBGAs/s1600/Patreon%2B3.jpg" alt="Patreon"></a><br><a href="https://www.equestriadaily.com/p/equestria-daily-patreon-credits-page.html"><img src="https://2.bp.blogspot.com/-5u2a8dmeOYs/XGs-vFJKh4I/AAAAAAADJlA/piB4l0ogWiklbwMPjYO6qx6rtWylMYaaQCLcBGAs/s1600/Patreon%2BHall%2Bof%2BFame.jpg" alt="Patreon OC Hall of Fame"></a><br><br><a href="https://www.instagram.com/equestriadaily_mlp/"><img src="https://2.bp.blogspot.com/-Cv7z5HY_MDk/W5b-SgLhA4I/AAAAAAADEfQ/gdSEn5gAnsk0ztAOP10rpqvzkaaFoAh7wCLcBGAs/s1600/Instagram.jpg" alt="Instagram"></a> <a href="https://www.equestriadaily.com/p/my-little-pony-friendship-is-magic.html"><img src="https://4.bp.blogspot.com/-fpFJ4_OX3jI/WJj7ogPOUPI/AAAAAAACwCs/Nrz5ne9eNJcNCJTSaKJwGw8uRaCsI8xTwCLcB/s1600/Discord%2BButton.jpg" alt="Discord"></a> <a href="https://www.facebook.com/pages/Equestria-Daily/256456604367656?sk=wall"><img src="https://4.bp.blogspot.com/-oRugfXmGdwY/WFq_LHJdOpI/AAAAAAACuPo/1q7FZvwnSRMLDE49fn6dHHwnXrLT2sbtQCLcB/s1600/facebook.png" alt="Facebook"></a> <a href="https://steamcommunity.com/groups/Equestriadaily"><img src="https://1.bp.blogspot.com/-J0E1kwG_Y34/WFq_LCBrVXI/AAAAAAACuPw/NUGnq6drwZwzohbytZSfimMbzQTdMT3ZACLcB/s1600/steam.png" alt="Steam"></a> <a href="https://www.youtube.com/user/Sethisto"><img src="https://3.bp.blogspot.com/-Rw5KwMlIvA0/WFq_LeWUw9I/AAAAAAACuPs/0JBYJXZr4pIcPSKYUyzKDXn2ADMOl3jgwCLcB/s1600/youtube.png" alt="Youtube"></a> <a href="https://twitter.com/EquestriaDaily"><img src="https://3.bp.blogspot.com/-N_uuXiHXpCI/WFq_LGW7ryI/AAAAAAACuPk/tpm7C6bzIPcPx9l1KkTemf7glvpn5i3FgCLcB/s1600/twitter.png" alt="Twitter"></a><br><br><a href="https://amzn.to/2PpCjEc"><img src="https://1.bp.blogspot.com/-QIVqiqleA6Q/XWfh-DNUKOI/AAAAAAADPV4/NvoITYSbZzkze5LJEWxGcKweAUylvJ4DQCLcBGAs/s1600/Amazon%2BAds.jpg" alt="Amazon"></a><a href="https://www.equestriadaily.com/2019/11/teepublics-35-off-black-friday-sale-now.html"><img src="https://1.bp.blogspot.com/-AHhksohYO4w/XeLQQ7i1QXI/AAAAAAADSVo/ZjsJ0w4P_Dg1yzdTLm7RXf5dvOyRdUZcQCLcBGAsYHQ/s1600/teepublic.jpg" alt="Teepublic"></a>
 </div>
 </div></div>
 <!-- Search -->
@@ -2069,17 +2323,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-4');
 <div class="module">
 <h1>Countdown</h1>
 <div class="widget-content">
-<div id="countdown"></div>
+<div id="countdown">
+<div id="countdown-title"></div>
+<div id="countdown-time"></div>
+</div>
 <script async="async">
           var dates=[];
-          dates.push(["Season 9 Episode 1 & 2 - The Beginning Of The End","2019-04-06 11:30","et"]);
-dates.push(["Season 9 Episode 3 - Uprooted","2019-04-13 11:30","et"]);
-dates.push(["Season 9 Episode 4 - Twilight's Seven","2019-04-20 11:30","et"]);
-dates.push(["Season 9 Episode 5 - The Point of No Return","2019-04-27 11:30","et"]);
-dates.push(["Season 9 Episode 6 - Common Ground","2019-05-04 11:30","et"]);
-dates.push(["Season 9 Episode 7 - She's All Yak","2019-05-11 11:30","et"]);
-dates.push(["Season 9 Episode 8 - Frenemies","2019-05-18 11:30","et"]);
-dates.push(["Season 9 Episode 9 - Sweet and Smoky","2019-05-25 11:30","et"]);
+          dates.push(["My Little Pony Movie (2021)","Sep 24, 2021 00:00 EDT"]);
           generatecountdown(dates,"countdown");
           </script>
 </div>
@@ -2097,7 +2347,7 @@ dates.push(["Season 9 Episode 9 - Sweet and Smoky","2019-05-25 11:30","et"]);
 <!-- Patreon and ads -->
 <div class="sidebar-right section" id="sidebar-right-patreon"><div class="widget HTML" data-version="1" id="HTML12">
 <div class="widget-content">
-<a href="https://www.patreon.com/EquestriaDaily?"><img src="https://lh3.googleusercontent.com/-Z4ybbenYnc4/V6Lax3xFX7I/AAAAAAACodk/1Bq9tLwQs6Ecx91xRlQ5s1xx2IqtHv27ACCo/s320/Patreon.jpg"></a><br><br><a href="https://www.webtoons.com/en/challenge/tame/list?title_no=91511"><img src="https://2.bp.blogspot.com/-2EnCrZUZcks/XJmjmLJ1tGI/AAAAAAADK4c/lODRTfXaobk7hw5aiLITw7iXGn5cjSFbACLcBGAs/s1600/TAME%2Bbanner.jpg"></a><br><br><a href="https://www.deviantart.com/estories"><img src="https://3.bp.blogspot.com/-Q7uO5RVzSGs/W5br_kg1uvI/AAAAAAADEcU/jGYAdyRJ6e0aSosE-j515eciK9-zPzj7wCLcBGAs/s1600/Equestria%2BStories.jpg"></a><br><br><a href="https://ministryofimage.net/"><img src="https://1.bp.blogspot.com/-qCncjEihk98/W1ObdOtFlNI/AAAAAAADCkk/ocU1UUyDD44YQN2qNSXngWHDKJQH8XU5ACLcBGAs/s1600/Ministry%2Bof%2BImage.jpg"></a><br><br><a href="https://igg.me/at/everfreetarot2/x/16919760"><img src="https://3.bp.blogspot.com/-TFb5snF3ltg/W-qTBPJnmmI/AAAAAAADGo0/3XX1pt0OHTwO1XO5t-juVntB55XeLX4qQCLcBGAs/s1600/everfree%2Btarot%2B-%2B11-13%2B2m.jpg"></a><br><br><a href="https://www.deviantart.com/art-n-prints"><img src="https://2.bp.blogspot.com/-XCZZTgXBvHo/XGuNJK9o0lI/AAAAAAADJng/IwPTO8MaDwMhrpv35zbSts5I3HdQz-5nwCLcBGAs/s1600/Arts%2BN%2527%2BPrints%2BAd.jpg"></a><br><br><a href="https://lunarshinestore.com/"><img src="https://2.bp.blogspot.com/-NESeA1Z2D1w/XIHAuOvZwOI/AAAAAAADKRw/2LtgN4GfAQsVR2wGIL40hUFeqh_4YhbfACLcBGAs/s1600/Lunarshine%2BAd.jpg"></a><br><br><a href="https://www.wukrii.com/"><img src="https://3.bp.blogspot.com/--hn0swAcHWo/XHm0FyZc6MI/AAAAAAADKDg/xQcw7gCeTKclA_XPzIt9Le_9xEqgfLuXwCLcBGAs/s1600/Wukrii.jpg"></a><br><br><a href="https://twitter.com/KilianKuro"><img src="https://1.bp.blogspot.com/-L-TVGsXV0rM/XKJ3HOHvLgI/AAAAAAADLLA/XC8pHGg1l2oPCf9kKQMeR054UUN-jmYgQCLcBGAs/s1600/Kilian%2BCommission.jpgg"></a><br><br><a href="https://www.indiegogo.com/projects/equestrian-stories-a-short-work-anthology#/"><img src="https://1.bp.blogspot.com/-yWzNFxh27Mo/XJ-lz1qwVWI/AAAAAAADLF4/ZpzbzD9_fZcQU4UXtjdCMAMv4zM4KYNvwCLcBGAs/s1600/ES%2B2019.jpg"></a><br><br><a href="https://www.falloutequestriabook.com/"><img src="https://4.bp.blogspot.com/-mO6usYtlsi0/XLEQN1o7O3I/AAAAAAADLxU/JhtnC4gtskMr8RX7toXTW4UR5wSyyUmqQCLcBGAs/s1600/Fallout%2BEquestria%2BAd.jpg"></a><br><br><a href="https://www.equestriadaily.com/2017/01/equestria-daily-how-to-use-site.html"><img src="https://4.bp.blogspot.com/-SjArwpCvC2I/WJlCRErAiHI/AAAAAAACwFw/2zGFWiAcToUYAlKDtPbZtTR2ViP5hX05QCLcB/s1600/Welcome%2Bbutton.jpg"></a><br><br><a href="https://forums.equestriadaily.com/"><img src="https://4.bp.blogspot.com/-YK4pffqGcFo/V8DQ9GgWhZI/AAAAAAACpa4/arrDULSlKuY1_qRzAlfOha6JjTOvTu7TACLcB/s1600/forums.jpg"></a><br><br>
+<a href="https://www.patreon.com/EquestriaDaily?"><img src="https://lh3.googleusercontent.com/-Z4ybbenYnc4/V6Lax3xFX7I/AAAAAAACodk/1Bq9tLwQs6Ecx91xRlQ5s1xx2IqtHv27ACCo/s320/Patreon.jpg" alt="Patreon Ads"></a><br><br><a href="https://www.webtoons.com/en/challenge/tame/list?title_no=91511"><img src="https://1.bp.blogspot.com/-Ufqcgu7auLQ/XbInW-RHZII/AAAAAAADRI8/4Ce5ObV3DqwvuIkCIqrIr_8DD8eL-1SIgCLcBGAsYHQ/s1600/TAME%2Bbanner.jpg" alt="Tame Banner"></a><br><br><a href="https://www.deviantart.com/estories"><img src="https://3.bp.blogspot.com/-Q7uO5RVzSGs/W5br_kg1uvI/AAAAAAADEcU/jGYAdyRJ6e0aSosE-j515eciK9-zPzj7wCLcBGAs/s1600/Equestria%2BStories.jpg" alt="Equestria Stories"></a><br><br><a href="https://lunarshinestore.com/"><img src="https://1.bp.blogspot.com/-i0fTrgY7PdM/XcVypD4-19I/AAAAAAADRtE/DFHe6dwwAtA586xm57jZ1YJ2fKvVL-nigCLcBGAsYHQ/s1600/Night%2BStitch.jpg" alt="Night Stitch"></a><br><br><a href="https://www.etsy.com/shop/LetYourArtTravel?ref=l2-shopheader-name"><img src="https://1.bp.blogspot.com/-TVWCaMJyrvI/XWhHiGtnXFI/AAAAAAADPXw/SeCKtEKHmho2dKEbCLAy42RBHwWIiM1zQCLcBGAs/s1600/Traveling%2BPony.jpg" alt="Traveling Pony"></a><br><br><a href="https://www.falloutequestriabook.com/"><img src="https://1.bp.blogspot.com/-1UqC1cypXRo/XdSJqDWAjHI/AAAAAAADSFw/KgWbzsoE6D0yooR-I9oLnsEGJ9SHUMMzgCLcBGAsYHQ/s1600/Ministry%2Bof%2BImage.jpg" alt="Fallout Equestria"></a><br><br><a href="https://twitter.com/Jonny_Sel/status/1201549967879475201"><img src="https://1.bp.blogspot.com/-S6PGROJvT8w/XeXmyM2Rx3I/AAAAAAADSaY/axCn14SDMYYVIUltVj-s1HBm-Xzk9loWgCLcBGAsYHQ/s1600/Organ%2BAd.jpg" alt="Organ"></a><br><br><a href="https://www.etsy.com/shop/SamohtLionCreations"><img src="https://1.bp.blogspot.com/-AxJIFqJi_Gc/Xe8R0hl144I/AAAAAAADSlM/l0pzoyunj40xxIxNNQj0_pTahbXaJ2GggCLcBGAsYHQ/s1600/Papercraft.jpg" alt="Papercraft"></a><br><br><a href="https://www.equestriadaily.com/2017/01/equestria-daily-how-to-use-site.html"><img src="https://4.bp.blogspot.com/-SjArwpCvC2I/WJlCRErAiHI/AAAAAAACwFw/2zGFWiAcToUYAlKDtPbZtTR2ViP5hX05QCLcB/s1600/Welcome%2Bbutton.jpg" alt="Welcome to Equestria Daily"></a><br><br><a href="https://forums.equestriadaily.com/"><img src="https://4.bp.blogspot.com/-YK4pffqGcFo/V8DQ9GgWhZI/AAAAAAACpa4/arrDULSlKuY1_qRzAlfOha6JjTOvTu7TACLcB/s1600/forums.jpg" alt="Forums"></a><br><br>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
@@ -2113,12 +2363,12 @@ dates.push(["Season 9 Episode 9 - Sweet and Smoky","2019-05-25 11:30","et"]);
 <div class="sidebar-right section" id="sidebar-right-poll"><div class="widget HTML" data-version="1" id="HTML402">
 <div class="module">
 <h1>Poll</h1>
-<script type="text/javascript" charset="utf-8" src="https://secure.polldaddy.com/p/10306551.js"></script>
-<noscript><a href="https://poll.fm/10306551">What "Thing That Makes FIM Awesome" Talking Point Do You Want Most Out of G5?</a></noscript>
+<script type="text/javascript" charset="utf-8" src="https://secure.polldaddy.com/p/10475914.js"></script>
+<noscript><a href="https://poll.fm/10475914">Which Season Finale Had the Best Song?</a></noscript>
 </div>
 </div></div>
 <!-- Popular Posts -->
-<div class="sidebar-right section" id="sidebar-right-popular-posts"><div class="widget HTML" data-version="1" id="HTML3">
+<div class="sidebar-right section" id="sidebar-right-lower-area"><div class="widget HTML" data-version="1" id="HTML3">
 <div class="right-banner-section">
 <!-- /21669118529/ED_MR_SB_2 -->
 <div id="div-gpt-ad-1513093315333-5" style="height:250px; width:300px;">
@@ -2131,7 +2381,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-5');
 <div class="module">
 <h1 class="title">Get Daily Updates by Email!</h1>
 <div class="widget-content">
-<div class="gt_newpost" style="padding: 20px; outline: 0px none; vertical-align: baseline; background: rgb(255, 255, 255) none repeat scroll 0% 0%; font-size: 100%; box-shadow: 0px 0px 5px rgb(204, 204, 204); display: inline-table; border: 1px solid rgb(204, 204, 204); width: 325px; height: 170px;">
+<div class="gt_newpost" style="padding: 20px; outline: 0px none; vertical-align: baseline; font-size: 100%;display: inline-table;  width: 325px; height: 170px;">
 <div class="form-overlay"></div>
 <form action="https://www.specificfeeds.com/widgets/subscribeWidget/UXhJdEQ5SVJkVHYza1dlT2Qya2FVRXg1RjNaWlh1MEl4clFDSWVSZ002ajFqS0I2NFg5dnNZUHk4a3FZWmcrQjFPU1UrZ3RHTnU0c0I4ZW1tWVgzYitKbnNwMXJlTDJ2R2xld0h0ZExuQ1dRMUxEckNlWWdmWTFyVlZSUm9SSEZ8b1N2L2pSYXo0MXI3MjdxV2orNjlRblNkdVV5VWJtRmh5Rm1RMm1TNEdURT0=/8/" method="post" target="popupwindow">
 <p style="margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica,Arial,sans-serif; font-size: 14px; text-align: center; font-weight: bold;"></p>
@@ -2144,12 +2394,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-5');
 </div></div>
 </div><div class="widget Text" data-version="1" id="Text1">
 <div class="widget-content">
-<center><center><img src="https://lh3.googleusercontent.com/-UdeoemiP-xE/V6Lul30zmYI/AAAAAAACod4/l8EkSAC5FbktIgGPEDn8ctoeFgclewwvgCCo/s320/Best%2Bof%2BBrony%2BArchives.jpg"></center><center><br><a href="https://www.equestriadaily.com/2016/07/the-best-of-brony-animation-archive-top.html"><img src="https://lh3.googleusercontent.com/-nlZ79NyFz_I/V6LumC5EosI/AAAAAAACoeA/9RLYwvplfS01I_Ks5CeTOEjDGLDPFv6AwCCo/s320/Animation%2BArchive.jpg"></a></center><br><center><a href="https://www.equestriadaily.com/2016/08/best-of-brony-pony-music-video-pmv_30.html"><img src="https://2.bp.blogspot.com/-t-k8iVyri0Q/V-EAeLZStyI/AAAAAAACqXU/_BXGT1HooswW84TOz2_Q0CdlRXzqqYuIwCLcB/s1600/pmv%2Barchive.jpg"></a></center><br><center><a href="https://www.equestriadaily.com/2016/08/the-best-of-brony-3d-animation-archive.html"><img src="https://1.bp.blogspot.com/-KFQbTm6m8kw/WEXQFsQYOXI/AAAAAAACty8/b1s4JFIoucAiKQVmeJTOztTqw62nuAOAACLcB/s1600/sfm%2Barchive.jpg"></a></center><br><center><a href="https://www.equestriadaily.com/2016/06/my-little-pony-eqd-spotlight-music.html#disqus_thread"><img src="https://lh3.googleusercontent.com/-1CjRh5I3Q6g/V6LumPbeIeI/AAAAAAACod8/wq3_425zIMEHJu02HlPX5d3bq4Aq8HkYwCCo/s320/Spotlight%2BMusic%2BArchive.jpg"></a></center><br><br><br><center><a href="www.equestriadaily.com"><img src="https://lh3.googleusercontent.com/-7qAOf2NiJZM/V6Lax9ZWpbI/AAAAAAACodg/odwh5q_vJXwocwsobRgEvChNR-M2ZpIUgCCo/s320/Resources.jpg"></a></center><br><center><a href="https://www.equestriadaily.com/2017/02/pony-themed-celebration-day-calendar.html"><img src="https://1.bp.blogspot.com/-2leohCws_Bk/WJk-KHvU96I/AAAAAAACwFk/xSf8qwQ4Obo3-vKi9NQxtrA2n35zctfIgCLcB/s1600/Pony%2BDay%2BArchive.jpg"></a></center><br><center><a href="https://www.equestriadaily.com/2013/04/brony-meetup-group-map.html"><img src="https://lh3.googleusercontent.com/-aAhCjxgmqmI/VoVqT8V7cMI/AAAAAAACero/p2MfgrEA0zQ/s320-Ic42/Meetup%252520Map%252520new%252521.png"></a></center><br><center><a href="https://www.equestriadaily.com/2019/02/planned-my-little-pony-brony.html"><img src="https://lh3.googleusercontent.com/-rCz9vrnqbPY/VpiHA-CrJUI/AAAAAAACfv4/r5SLgfdTNyA/s320-Ic42/Convention%252520Button.png"></a></center><br><center><a href="https://www.equestriadaily.com/2013/06/tutorial-codex.html#more"><img src="https://lh3.googleusercontent.com/-VuI7xb0uvh0/VoVrhnDZnVI/AAAAAAACesM/sje6gufW_Qw/s320-Ic42/Tutorials%252520and%252520Guides.png"></a></center><br><center><a href="https://www.equestriadaily.com/2014/05/gaming-index.html"><img src="https://lh3.googleusercontent.com/-IyFP_xGzK8k/VoVqTofybYI/AAAAAAACerc/1I7h8Xkz01I/s320-Ic42/Game%252520Index.png"></a></center><br></center>
+<a href="www.equestriadaily.com"><img src="https://lh3.googleusercontent.com/-7qAOf2NiJZM/V6Lax9ZWpbI/AAAAAAACodg/odwh5q_vJXwocwsobRgEvChNR-M2ZpIUgCCo/s320/Resources.jpg" alt="Resources"></a><br><a href="https://www.equestriadaily.com/2017/02/pony-themed-celebration-day-calendar.html"><img src="https://1.bp.blogspot.com/-2leohCws_Bk/WJk-KHvU96I/AAAAAAACwFk/xSf8qwQ4Obo3-vKi9NQxtrA2n35zctfIgCLcB/s1600/Pony%2BDay%2BArchive.jpg" alt="MLP Celebration Day Calendar"></a><br><a href="https://www.equestriadaily.com/2013/04/brony-meetup-group-map.html"><img src="https://lh3.googleusercontent.com/-aAhCjxgmqmI/VoVqT8V7cMI/AAAAAAACero/p2MfgrEA0zQ/s320-Ic42/Meetup%252520Map%252520new%252521.png" alt="Meetup Group Map"></a><br><a href="https://www.equestriadaily.com/2019/02/planned-my-little-pony-brony.html"><img src="https://lh3.googleusercontent.com/-rCz9vrnqbPY/VpiHA-CrJUI/AAAAAAACfv4/r5SLgfdTNyA/s320-Ic42/Convention%252520Button.png" alt="Brony Conventions"></a><br><a href="https://www.equestriadaily.com/2013/06/tutorial-codex.html#more"><img src="https://lh3.googleusercontent.com/-VuI7xb0uvh0/VoVrhnDZnVI/AAAAAAACesM/sje6gufW_Qw/s320-Ic42/Tutorials%252520and%252520Guides.png" alt="MLP Art Tutorials and Guides"></a><br><a href="https://www.equestriadaily.com/2014/05/gaming-index.html"><img src="https://lh3.googleusercontent.com/-IyFP_xGzK8k/VoVqTofybYI/AAAAAAACerc/1I7h8Xkz01I/s320-Ic42/Game%252520Index.png" alt="Game Index"></a><br>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=1865775941337421610&amp;widgetType=Text&amp;widgetId=Text1&amp;action=editWidget&amp;sectionId=sidebar-right-popular-posts" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Text1&quot;));" rel="nofollow" target="configText1" title="Edit">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=1865775941337421610&amp;widgetType=Text&amp;widgetId=Text1&amp;action=editWidget&amp;sectionId=sidebar-right-lower-area" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Text1&quot;));" rel="nofollow" target="configText1" title="Edit">
 <img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -2160,74 +2410,74 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-5');
 <h1>Popular Posts</h1>
 <ul class="popular-posts">
 <li>
-<a href="https://www.equestriadaily.com/2019/04/my-little-pony-season-9-episode-5-point.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://3.bp.blogspot.com/-LrqO6m0n6dI/XMOxxJgiP6I/AAAAAAACPgk/eYtKGBUJ0fcwAfM2xVNRQ9zFQagAkOoSgCLcBGAs/s72-c/2022708.gif" width="72">
+<a href="https://www.equestriadaily.com/2019/12/the-10-ponies-ill-miss-most-from.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-qwK1_qq1NQ8/Xex6rOrs8zI/AAAAAAADSj8/phmYMvODUjoGIV0K5BaKU-bap1vR2H_cQCLcBGAsYHQ/s72-c/10%2BPonies%2BI%2527ll%2BMiss%2BMost.jpg" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/my-little-pony-season-9-episode-5-point.html">My Little Pony - Season 9 Episode 5 - "The Point of No Return" - Discussion / Stream</a></div>
-<div class="post-snippet">   Source     Another week, another episode guys! Are you ready to spend another enjoyable weekend with ponies? This one appears to be an in...</div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/the-10-ponies-ill-miss-most-from.html">The 10 Ponies I'll Miss the Most from Friendship is Magic! </a></div>
+<div class="post-snippet">   With Friendship is Magic now officially over on the new episode front, we've had to say goodbye to some of the best characters to eve...</div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/synopsis-for-episode-12-and-13-of.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://4.bp.blogspot.com/-q6V5OhZlKKY/XMNu6NOtCxI/AAAAAAACPf8/pAlmuI9LgRoOtr2S24vPVc6gqcZ9diOQgCLcBGAs/s72-c/applejack_big_smile_s02e05.png" width="72">
+<a href="https://www.equestriadaily.com/2019/12/nightly-discussion-2000.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-uKeuJc3GLWc/Xel3jMfltdI/AAAAAAACSbk/6lTQ8gL2VEgfiqYmKY1bNC5nC7kX2AmOwCLcBGAsYHQ/s72-c/db9j55q-db692f8a-081a-485e-b34b-cdc97d9ad41d.gif" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/synopsis-for-episode-12-and-13-of.html">Synopses for Episode 12 and 13 of Season 9 Revealed Too! - The Last Crusade and Between Dark and Dawn</a></div>
-<div class="post-snippet">   And yet more synopses! These just dropped into our inbox as well so now we know what the first half of the season looks like   Get them a...</div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/nightly-discussion-2000.html">Nightly Discussion #2000</a></div>
+<div class="post-snippet">   Source     Happy Nightly Discussion #2000 everyone! I can't believe all those years ago when I started the NDs that they would have l...</div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/synopsis-for-episode-11-of-season-9.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-3LjbJwjbSUs/XMNpyabm22I/AAAAAAACPfs/WILM2r-i1IA45udGjRYE0Ju2Ybo61KsmACLcBGAs/s72-c/Very-happy-Fluttershy-aquamarine6663-37647993-986-788.jpg" width="72">
+<a href="https://www.equestriadaily.com/2019/12/official-pony-life-trailer-on-hasbros.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-5TpwCHNwNrs/XfE3d7H-wnI/AAAAAAADSoo/acBqGBpxW9knN76csUrdFI4LIrlsCMcLwCLcBGAsYHQ/s72-c/1.JPG" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/synopsis-for-episode-11-of-season-9.html">Synopsis for Episode 11 of Season 9 Revealed! - Student Counsel</a></div>
-<div class="post-snippet">   Looks like another synopsis has been revealed to us this week! With episode 11 now revealed we are sadly almost to the halfway point   Ch...</div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/official-pony-life-trailer-on-hasbros.html">Official "Pony Life" Trailer on Hasbro's Youtube Channel Set to Private </a></div>
+<div class="post-snippet">   Hasbro has mysteriously set their Pony Life  announcement video over on Youtube to private as of yesterday. The video itself had a pretty...</div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/the-point-of-no-return-episode-followup.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://2.bp.blogspot.com/-LXFP6dsZvAU/XMXekIBru2I/AAAAAAAAC3w/71SVsH1l0PoFZqKQR76creQ7jAPxgUZ3QCLcBGAs/s72-c/header.png" width="72">
+<a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3182.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-D9wztIcbbfk/XerSxzXCXhI/AAAAAAADSe4/nUgORTbDTechesVC5NaNNA3ZydOQ76DiwCLcBGAsYHQ/s72-c/derpibooru-2214015.jpg" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/the-point-of-no-return-episode-followup.html">"The Point of No Return" Episode Followup - [Twilynanas Intensifies]</a></div>
-<div class="post-snippet">       Are you prepared for more Twilight freakouts? Of course you are. This is as regular an occurrence as the sun and moon!&nbsp; Provided Cele...</div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3182.html">Drawfriend Stuff (Pony Art Gallery) #3182</a></div>
+<div class="post-snippet">   Lt. Dashie is here to demand your entrance into the Equestrian airforce. Unfortunately you can't fly, and she doesn't have planes...</div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/new-equestria-girls-digital-series.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://2.bp.blogspot.com/-Tct0_LU_zTQ/XMTThHyGYcI/AAAAAAACPgs/KLmLA5_o_EQqEgWjsJv_tY80crkl_AYNgCLcBGAs/s72-c/1086203.jpeg" width="72">
+<a href="https://www.equestriadaily.com/2019/12/a-guide-to-pony-tears-season-nine.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-1ykVhUxtEUI/Xet5tF4GfzI/AAAAAAAAW34/xpyprtNBTHccMrhv5Ao686Kfl0iOU89uQCLcBGAsYHQ/s72-c/Twicrying.jpg" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/new-equestria-girls-digital-series.html">New Equestria Girls Digital Series Episode Synopses Revealed - Airing Soon!</a></div>
-<div class="post-snippet">   Source   Looks like the girls are back! According to Google the digital series will be coming back a week from tomorrow with two new epis...</div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/a-guide-to-pony-tears-season-nine.html">A Guide to Pony Tears - Season Nine</a></div>
+<div class="post-snippet">    Howdy, folks! TheSlorg here with the final season installment of our Guide to Pony Tears, where we've explored just how often the in...</div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/comics-raritys-plan-simple-joys-200.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://4.bp.blogspot.com/-IC3GE373Qe8/XMRpDniyPQI/AAAAAAADMFA/a7EQrdf6hgIgM8GSrh8HCLCkZhsKQQQngCLcBGAs/s72-c/1.PNG" width="72">
+<a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3184.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-sFNQNuT3DRI/Xe1mU-KF6XI/AAAAAAADSkc/IyuNzf9gwQMvA32LXhy1TLdjGbZB7EjqQCLcBGAsYHQ/s72-c/deviantart-DimFann-822818856.jpg" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/comics-raritys-plan-simple-joys-200.html">Comics: Rarity's Plan / Simple Joys / 200 According to Spikaku / Sorricide #2 / Princess Pool #2 / Once A... #16 / Hollowshades #108 / Pone Wars #8.13  </a></div>
-<div class="post-snippet">   That or Rarity needs it.   We've got comics. Click for full, and get them above and below.   </div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3184.html">Drawfriend Stuff (Pony Art Gallery) #3184</a></div>
+<div class="post-snippet">     The season 9 comics better explore zebra land. Or I'll rebel.   Get the art below.   [14] Source   Appletini by DimFann    </div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/names-of-quibble-pants-special-friend.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-AUMLV1CeemQ/XMi2tTBNhqI/AAAAAAACPjo/7U-Fr5kka9YIsJhiP3F2-p5PqnuDejbRwCLcBGAs/s72-c/sig-4618389.sig-4618389.1212425__safe_screencap_smug_spoiler-colon-s06e13_stranger%2Bthan%2Bfan%2Bfiction_quibble%2Bpants.png" width="72">
+<a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3183.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-B20H_tXLA3w/XewVwMZpzyI/AAAAAAADSf4/mB620lihEXAN24Yb3sdVE8XA4xadyjpVACLcBGAsYHQ/s72-c/tumblr-koviry-189121553763-0.jpg" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/names-of-quibble-pants-special-friend.html">Names of Quibble Pant's Special Friend and Her Daughter Revealed</a></div>
-<div class="post-snippet">   Looks like we've learned a little bit more from Twitter about Quibble's special friend as well as her daughter: their names! Mere...</div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3183.html">Drawfriend Stuff (Pony Art Gallery) #3183</a></div>
+<div class="post-snippet">     I have no idea why pone is fishing for letters, but she looks good doing it.   Get the arts below.   [1] Source   by koviry   </div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/giant-drawfriend-stuff-pony-art-gallery_27.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://2.bp.blogspot.com/-EiULje5N6Jc/XMRx08nWpEI/AAAAAAADMF8/As7pkZnc2Iowi8rDwJfwG-jq1A5FSv3SwCLcBGAs/s72-c/1.png" width="72">
+<a href="https://www.equestriadaily.com/2019/12/drawfriend-equestria-girls-anthro-mlp_9.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-Y6Ln6PvUk8E/Xexv-SXilMI/AAAAAAADSi4/T43EbhipT7Mc3tasEjTxPqN-H3oIv7OKQCLcBGAsYHQ/s72-c/deviantart-SakuranoRuu-822676169.jpg" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/giant-drawfriend-stuff-pony-art-gallery_27.html">GIANT Drawfriend Stuff (Pony Art Gallery) #2961</a></div>
-<div class="post-snippet">   Somehow we once again hit a crazy amount of drawings.  88  in all. Where does allt he art even come from?   Start with some Applejack in ...</div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/drawfriend-equestria-girls-anthro-mlp_9.html">Drawfriend - Equestria Girls / Anthro MLP Art Gallery #155</a></div>
+<div class="post-snippet">    Have an anime style Pinkie as a header for this one. It's a pretty common idea for humanized pone.   Get more below.   [1] Source   ...</div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/drawfriend-stuff-pony-art-gallery-2959.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://2.bp.blogspot.com/-w0v9BiwLB_U/XMHGqhAMQyI/AAAAAAADMDQ/4pgora3ufU8S9ainDHjPbIYJ0BiHzUbKwCLcBGAs/s72-c/deviantart-LA-ndy-795068359.kkj_y3nk8MfenB1CSJZl0oxc-aUeaa3lrT1BlDt0nno.jpg" width="72">
+<a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3186.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-IVbzWcT_U6I/Xe_0qJEDQ9I/AAAAAAADSl0/BCxgpVErZcAtRZnhYq2bjfX9JUQvOsWfACLcBGAsYHQ/s72-c/deviantart-DiscordTheGE-823019910.jpg" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/drawfriend-stuff-pony-art-gallery-2959.html">Drawfriend Stuff (Pony Art Gallery) #2959</a></div>
-<div class="post-snippet">    Is it the new best pair?   Get the art below!   [1] Source   Double The Badassitude by LA-ndy    </div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3186.html">Drawfriend Stuff (Pony Art Gallery) #3186</a></div>
+<div class="post-snippet">  CLANG CLANG TING TANG CLANG   It looks good without sound though.   Art below!   [1] Source   Strings of her soul by DiscordTheGE   </div>
 </li>
 <li>
-<a href="https://www.equestriadaily.com/2019/04/drawfriend-stuff-pony-art-gallery-2960.html" target="_blank">
-<img alt="" border="0" class="post-thumbnail" height="72" src="https://2.bp.blogspot.com/-aWIzOtoVv2o/XMMQm4SdSAI/AAAAAAADMEM/RJHtZvHW9g0bRPDF5nN9tIVLaSuVRwvBQCLcBGAs/s72-c/deviantart-Setharu-795303286.D5J1-km9MgIz1U9BvRjZn5W4J28mhtxhGz9M_U0BHWE.jpg" width="72">
+<a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3185.html" target="_blank">
+<img alt="" border="0" class="post-thumbnail" height="72" src="https://1.bp.blogspot.com/-Rk00lAroGjc/Xe6J6BHVIJI/AAAAAAADSlE/Vzi0doT7yZou9s4xC4AUOi-KOUrTk0nbACLcBGAsYHQ/s72-c/deviantart-hioshiru-alter-822941257.jpg" width="72">
 </a>
-<div class="post-title"><a href="https://www.equestriadaily.com/2019/04/drawfriend-stuff-pony-art-gallery-2960.html">Drawfriend Stuff (Pony Art Gallery) #2960</a></div>
-<div class="post-snippet">    How much is 10,000 bits to USD I wonder?   We've got more art! Get it all below.   [1] Source   s09e01 by Setharu    </div>
+<div class="post-title"><a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3185.html">Drawfriend Stuff (Pony Art Gallery) #3185</a></div>
+<div class="post-snippet">    It's a comfy time of year, so have a comfy header image.   Get lots of art below!&nbsp;   [1] Source   Warm cocoa by hioshiru-alter   </div>
 </li>
 </ul>
 </div>
@@ -2396,9 +2646,9 @@ please contact us at:</span><br>
 </div>
 <div class="post-comment-link post-footer-comment"><span style="margin-right:6px">Share This!</span>
 <a class="button image-button" data-url="https://www.equestriadaily.com/p/eqd-privacy-policy.html" href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent($(this).data('url')),'facebook-share-dialog','width=626,height=436');return false;" title="Share on Facebook">
-<img src="https://lh3.googleusercontent.com/-IcHgpcIDZGY/VoVyXmH5tnI/AAAAAAACetE/BfOK5rLc67I/s16-Ic42/BzjSfdN.png">
+<img alt="Facebook Share" src="https://lh3.googleusercontent.com/-IcHgpcIDZGY/VoVyXmH5tnI/AAAAAAACetE/BfOK5rLc67I/s16-Ic42/BzjSfdN.png">
 </a>
-<a class="button image-button" href="https://www.twitter.com/share?text=Found @equestriadaily&amp;url=https://www.equestriadaily.com/p/eqd-privacy-policy.html" title="Tweet about this post"><img src="https://lh3.googleusercontent.com/-ctbGq2ywQGg/VoVzFtZD9LI/AAAAAAACetQ/DOIAnWI66KM/s16-Ic42/OG784k7.png"></a>
+<a class="button image-button" href="https://www.twitter.com/share?text=Found @equestriadaily&amp;url=https://www.equestriadaily.com/p/eqd-privacy-policy.html" title="Tweet about this post"><img alt="Twitter Share" src="https://lh3.googleusercontent.com/-ctbGq2ywQGg/VoVzFtZD9LI/AAAAAAACetQ/DOIAnWI66KM/s16-Ic42/OG784k7.png"></a>
 </div>
 </div>
 </div>
@@ -2468,35 +2718,3062 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 <span class="zippy toggle-open">▼&nbsp;</span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2019/">2019</a>
-<span class="post-count" dir="ltr">(1561)</span>
+<span class="post-count" dir="ltr">(4390)</span>
 <ul class="hierarchy">
 <li class="archivedate expanded">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy toggle-open">▼&nbsp;</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019/12/">December</a>
+<span class="post-count" dir="ltr">(118)</span>
+<ul class="hierarchy">
+<li class="archivedate expanded">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy toggle-open">▼&nbsp;</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_11_archive.html">Dec 11</a>
+<span class="post-count" dir="ltr">(10)</span>
+<ul class="posts">
+<li><a href="https://www.equestriadaily.com/2019/12/nightly-discussion-2005.html">Nightly Discussion #2005</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/drawfriend-equestria-girls-anthro-mlp_11.html">Drawfriend - Equestria Girls / Anthro MLP Art Gall...</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/the-top-10-pony-videos-of-november-2019.html">The Top 10 Pony Videos of November 2019</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/drawfriend-stuff-pony-art-gallery-3187.html">Drawfriend Stuff (Pony Art Gallery) #3187</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/official-pony-life-trailer-on-hasbros.html">Official "Pony Life" Trailer on Hasbro's Youtube C...</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/comic-ponies-must-be-crazy-9-rainbow.html">Comic: Ponies Must Be Crazy 9 / Rainbow Factory 13...</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/fanfiction-being-lesser-evil.html">Fanfiction: Being the Lesser Evil</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/eqg-song-remix-other-side-wootmaster.html">EQG Song Remix: The Other Side (Wootmaster Remix) ...</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/poll-results-how-happy-were-you-with.html">Poll Results: How Happy Were You With the Amount o...</a></li>
+<li><a href="https://www.equestriadaily.com/2019/12/morning-discussion-1778.html">Morning Discussion #1778</a></li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_10_archive.html">Dec 10</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_09_archive.html">Dec 09</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_08_archive.html">Dec 08</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_07_archive.html">Dec 07</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_06_archive.html">Dec 06</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_05_archive.html">Dec 05</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_04_archive.html">Dec 04</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_03_archive.html">Dec 03</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_02_archive.html">Dec 02</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_12_01_archive.html">Dec 01</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019/11/">November</a>
+<span class="post-count" dir="ltr">(361)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_30_archive.html">Nov 30</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_29_archive.html">Nov 29</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_28_archive.html">Nov 28</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_27_archive.html">Nov 27</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_26_archive.html">Nov 26</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_25_archive.html">Nov 25</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_24_archive.html">Nov 24</a>
+<span class="post-count" dir="ltr">(8)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_23_archive.html">Nov 23</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_22_archive.html">Nov 22</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_21_archive.html">Nov 21</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_20_archive.html">Nov 20</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_19_archive.html">Nov 19</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_18_archive.html">Nov 18</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_17_archive.html">Nov 17</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_16_archive.html">Nov 16</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_15_archive.html">Nov 15</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_14_archive.html">Nov 14</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_13_archive.html">Nov 13</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_12_archive.html">Nov 12</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_11_archive.html">Nov 11</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_10_archive.html">Nov 10</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_09_archive.html">Nov 09</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_08_archive.html">Nov 08</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_07_archive.html">Nov 07</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_06_archive.html">Nov 06</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_05_archive.html">Nov 05</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_04_archive.html">Nov 04</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_03_archive.html">Nov 03</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_02_archive.html">Nov 02</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_11_01_archive.html">Nov 01</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019/10/">October</a>
+<span class="post-count" dir="ltr">(420)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_31_archive.html">Oct 31</a>
+<span class="post-count" dir="ltr">(18)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_30_archive.html">Oct 30</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_29_archive.html">Oct 29</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_28_archive.html">Oct 28</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_27_archive.html">Oct 27</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_26_archive.html">Oct 26</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_25_archive.html">Oct 25</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_24_archive.html">Oct 24</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_23_archive.html">Oct 23</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_22_archive.html">Oct 22</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_21_archive.html">Oct 21</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_20_archive.html">Oct 20</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_19_archive.html">Oct 19</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_18_archive.html">Oct 18</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_17_archive.html">Oct 17</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_16_archive.html">Oct 16</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_15_archive.html">Oct 15</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_14_archive.html">Oct 14</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_13_archive.html">Oct 13</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_12_archive.html">Oct 12</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_11_archive.html">Oct 11</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_10_archive.html">Oct 10</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_09_archive.html">Oct 09</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_08_archive.html">Oct 08</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_07_archive.html">Oct 07</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_06_archive.html">Oct 06</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_05_archive.html">Oct 05</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_04_archive.html">Oct 04</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_03_archive.html">Oct 03</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_02_archive.html">Oct 02</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_10_01_archive.html">Oct 01</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019/09/">September</a>
+<span class="post-count" dir="ltr">(373)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_30_archive.html">Sep 30</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_29_archive.html">Sep 29</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_28_archive.html">Sep 28</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_27_archive.html">Sep 27</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_26_archive.html">Sep 26</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_25_archive.html">Sep 25</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_24_archive.html">Sep 24</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_23_archive.html">Sep 23</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_22_archive.html">Sep 22</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_21_archive.html">Sep 21</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_20_archive.html">Sep 20</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_19_archive.html">Sep 19</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_18_archive.html">Sep 18</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_17_archive.html">Sep 17</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_16_archive.html">Sep 16</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_15_archive.html">Sep 15</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_14_archive.html">Sep 14</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_13_archive.html">Sep 13</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_12_archive.html">Sep 12</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_11_archive.html">Sep 11</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_10_archive.html">Sep 10</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_09_archive.html">Sep 09</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_08_archive.html">Sep 08</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_07_archive.html">Sep 07</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_06_archive.html">Sep 06</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_05_archive.html">Sep 05</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_04_archive.html">Sep 04</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_03_archive.html">Sep 03</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_02_archive.html">Sep 02</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_09_01_archive.html">Sep 01</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019/08/">August</a>
+<span class="post-count" dir="ltr">(382)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_31_archive.html">Aug 31</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_30_archive.html">Aug 30</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_29_archive.html">Aug 29</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_28_archive.html">Aug 28</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_27_archive.html">Aug 27</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_26_archive.html">Aug 26</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_25_archive.html">Aug 25</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_24_archive.html">Aug 24</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_23_archive.html">Aug 23</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_22_archive.html">Aug 22</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_21_archive.html">Aug 21</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_20_archive.html">Aug 20</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_19_archive.html">Aug 19</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_18_archive.html">Aug 18</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_17_archive.html">Aug 17</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_16_archive.html">Aug 16</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_15_archive.html">Aug 15</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_14_archive.html">Aug 14</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_13_archive.html">Aug 13</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_12_archive.html">Aug 12</a>
+<span class="post-count" dir="ltr">(17)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_11_archive.html">Aug 11</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_10_archive.html">Aug 10</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_09_archive.html">Aug 09</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_08_archive.html">Aug 08</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_07_archive.html">Aug 07</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_06_archive.html">Aug 06</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_05_archive.html">Aug 05</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_04_archive.html">Aug 04</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_03_archive.html">Aug 03</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_02_archive.html">Aug 02</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_08_01_archive.html">Aug 01</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019/07/">July</a>
+<span class="post-count" dir="ltr">(396)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_31_archive.html">Jul 31</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_30_archive.html">Jul 30</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_29_archive.html">Jul 29</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_28_archive.html">Jul 28</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_27_archive.html">Jul 27</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_26_archive.html">Jul 26</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_25_archive.html">Jul 25</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_24_archive.html">Jul 24</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_23_archive.html">Jul 23</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_22_archive.html">Jul 22</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_21_archive.html">Jul 21</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_20_archive.html">Jul 20</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_19_archive.html">Jul 19</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_18_archive.html">Jul 18</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_17_archive.html">Jul 17</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_16_archive.html">Jul 16</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_15_archive.html">Jul 15</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_14_archive.html">Jul 14</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_13_archive.html">Jul 13</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_12_archive.html">Jul 12</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_11_archive.html">Jul 11</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_10_archive.html">Jul 10</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_09_archive.html">Jul 09</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_08_archive.html">Jul 08</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_07_archive.html">Jul 07</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_06_archive.html">Jul 06</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_05_archive.html">Jul 05</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_04_archive.html">Jul 04</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_03_archive.html">Jul 03</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_02_archive.html">Jul 02</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_07_01_archive.html">Jul 01</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019/06/">June</a>
+<span class="post-count" dir="ltr">(375)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_30_archive.html">Jun 30</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_29_archive.html">Jun 29</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_28_archive.html">Jun 28</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_27_archive.html">Jun 27</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_26_archive.html">Jun 26</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_25_archive.html">Jun 25</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_24_archive.html">Jun 24</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_23_archive.html">Jun 23</a>
+<span class="post-count" dir="ltr">(18)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_22_archive.html">Jun 22</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_21_archive.html">Jun 21</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_20_archive.html">Jun 20</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_19_archive.html">Jun 19</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_18_archive.html">Jun 18</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_17_archive.html">Jun 17</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_16_archive.html">Jun 16</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_15_archive.html">Jun 15</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_14_archive.html">Jun 14</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_13_archive.html">Jun 13</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_12_archive.html">Jun 12</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_11_archive.html">Jun 11</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_10_archive.html">Jun 10</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_09_archive.html">Jun 09</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_08_archive.html">Jun 08</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_07_archive.html">Jun 07</a>
+<span class="post-count" dir="ltr">(17)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_06_archive.html">Jun 06</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_05_archive.html">Jun 05</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_04_archive.html">Jun 04</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_03_archive.html">Jun 03</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_02_archive.html">Jun 02</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_06_01_archive.html">Jun 01</a>
+<span class="post-count" dir="ltr">(8)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019/05/">May</a>
+<span class="post-count" dir="ltr">(404)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_31_archive.html">May 31</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_30_archive.html">May 30</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_29_archive.html">May 29</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_28_archive.html">May 28</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_27_archive.html">May 27</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_26_archive.html">May 26</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_25_archive.html">May 25</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_24_archive.html">May 24</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_23_archive.html">May 23</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_22_archive.html">May 22</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_21_archive.html">May 21</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_20_archive.html">May 20</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_19_archive.html">May 19</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_18_archive.html">May 18</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_17_archive.html">May 17</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_16_archive.html">May 16</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_15_archive.html">May 15</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_14_archive.html">May 14</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_13_archive.html">May 13</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_12_archive.html">May 12</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_11_archive.html">May 11</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_10_archive.html">May 10</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_09_archive.html">May 09</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_08_archive.html">May 08</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_07_archive.html">May 07</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_06_archive.html">May 06</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_05_archive.html">May 05</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_04_archive.html">May 04</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_03_archive.html">May 03</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_02_archive.html">May 02</a>
+<span class="post-count" dir="ltr">(16)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
+</a>
+<a class="post-count-link" href="https://www.equestriadaily.com/2019_05_01_archive.html">May 01</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2019/04/">April</a>
 <span class="post-count" dir="ltr">(401)</span>
 <ul class="hierarchy">
-<li class="archivedate expanded">
+<li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
-<span class="zippy toggle-open">▼&nbsp;</span>
+<span class="zippy">
+
+										►&nbsp;
+									
+</span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2019_04_30_archive.html">Apr 30</a>
 <span class="post-count" dir="ltr">(12)</span>
-<ul class="posts">
-<li><a href="https://www.equestriadaily.com/2019/04/cinematic-pony-music-zephysonas-my.html">Cinematic Pony Music: Zephysonas - My Little Epic ...</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/nightly-discussion-1786.html">Nightly Discussion #1786</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/fanfiction-scouted-thousand-words-of.html">Fanfiction (Scouted): A Thousand Words of Noise</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/discussion-what-has-been-your-favorite.html">Discussion: What Has Been Your Favorite Moment in ...</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/wonderbolts-music-crusader-lets-hear-it.html">Wonderbolts Music: Crusader! - Let's Hear It (For ...</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/names-of-quibble-pants-special-friend.html">Names of Quibble Pant's Special Friend and Her Dau...</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/comics-scroll-in-box-try-this-one-shy.html">Comics: Scroll in a Box / Try This One / Shy Monst...</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/drawfriend-stuff-pony-art-gallery-2964.html">Drawfriend Stuff (Pony Art Gallery) #2964</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/fox-news-grabs-tara-strong-for.html">Fox News Grabs Tara Strong for an Interview, Inclu...</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/s09e04-sparkles-seven-music-dynamite.html">S09E04 Sparkle's Seven Music: Dynamite Grizzly - A...</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/patton-oswalt-shows-off-behind-scenes.html">Patton Oswalt Shows Off Behind the Scenes in his U...</a></li>
-<li><a href="https://www.equestriadaily.com/2019/04/morning-discussion-1558.html">Morning Discussion #1558</a></li>
-</ul>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -4099,7 +7376,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2018/">2018</a>
-<span class="post-count" dir="ltr">(4996)</span>
+<span class="post-count" dir="ltr">(4995)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -5345,7 +8622,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2018/09/">September</a>
-<span class="post-count" dir="ltr">(394)</span>
+<span class="post-count" dir="ltr">(393)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -5486,7 +8763,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2018_09_20_archive.html">Sep 20</a>
-<span class="post-count" dir="ltr">(12)</span>
+<span class="post-count" dir="ltr">(11)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -9013,7 +12290,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2017/">2017</a>
-<span class="post-count" dir="ltr">(5546)</span>
+<span class="post-count" dir="ltr">(5544)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -9024,7 +12301,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2017/12/">December</a>
-<span class="post-count" dir="ltr">(410)</span>
+<span class="post-count" dir="ltr">(409)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -9412,7 +12689,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2017_12_02_archive.html">Dec 02</a>
-<span class="post-count" dir="ltr">(12)</span>
+<span class="post-count" dir="ltr">(11)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -13509,7 +16786,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2017/01/">January</a>
-<span class="post-count" dir="ltr">(461)</span>
+<span class="post-count" dir="ltr">(460)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -13598,7 +16875,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2017_01_25_archive.html">Jan 25</a>
-<span class="post-count" dir="ltr">(16)</span>
+<span class="post-count" dir="ltr">(15)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -13927,7 +17204,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2016/">2016</a>
-<span class="post-count" dir="ltr">(5691)</span>
+<span class="post-count" dir="ltr">(5689)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -15576,7 +18853,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2016/08/">August</a>
-<span class="post-count" dir="ltr">(462)</span>
+<span class="post-count" dir="ltr">(461)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -15873,7 +19150,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2016_08_09_archive.html">Aug 09</a>
-<span class="post-count" dir="ltr">(18)</span>
+<span class="post-count" dir="ltr">(17)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -16408,7 +19685,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2016/06/">June</a>
-<span class="post-count" dir="ltr">(451)</span>
+<span class="post-count" dir="ltr">(450)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -16666,7 +19943,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2016_06_11_archive.html">Jun 11</a>
-<span class="post-count" dir="ltr">(16)</span>
+<span class="post-count" dir="ltr">(15)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -18854,7 +22131,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2015/">2015</a>
-<span class="post-count" dir="ltr">(6212)</span>
+<span class="post-count" dir="ltr">(6211)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -18865,7 +22142,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2015/12/">December</a>
-<span class="post-count" dir="ltr">(503)</span>
+<span class="post-count" dir="ltr">(502)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -18954,7 +22231,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2015_12_25_archive.html">Dec 25</a>
-<span class="post-count" dir="ltr">(14)</span>
+<span class="post-count" dir="ltr">(13)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -33596,7 +36873,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2012/">2012</a>
-<span class="post-count" dir="ltr">(6886)</span>
+<span class="post-count" dir="ltr">(6885)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -38105,7 +41382,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2012/01/">January</a>
-<span class="post-count" dir="ltr">(624)</span>
+<span class="post-count" dir="ltr">(623)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -38428,7 +41705,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2012_01_07_archive.html">Jan 07</a>
-<span class="post-count" dir="ltr">(22)</span>
+<span class="post-count" dir="ltr">(21)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -38523,7 +41800,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2011/">2011</a>
-<span class="post-count" dir="ltr">(6172)</span>
+<span class="post-count" dir="ltr">(6169)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -39769,7 +43046,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2011/09/">September</a>
-<span class="post-count" dir="ltr">(585)</span>
+<span class="post-count" dir="ltr">(583)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -39910,7 +43187,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2011_09_20_archive.html">Sep 20</a>
-<span class="post-count" dir="ltr">(18)</span>
+<span class="post-count" dir="ltr">(17)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -40092,7 +43369,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2011_09_06_archive.html">Sep 06</a>
-<span class="post-count" dir="ltr">(20)</span>
+<span class="post-count" dir="ltr">(19)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -41810,7 +45087,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2011/04/">April</a>
-<span class="post-count" dir="ltr">(461)</span>
+<span class="post-count" dir="ltr">(460)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
@@ -41951,7 +45228,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513093315333-1');
 </span>
 </a>
 <a class="post-count-link" href="https://www.equestriadaily.com/2011_04_20_archive.html">Apr 20</a>
-<span class="post-count" dir="ltr">(18)</span>
+<span class="post-count" dir="ltr">(17)</span>
 </li>
 </ul>
 <ul class="hierarchy">
@@ -43210,10 +46487,10 @@ My Little Pony: Friendship is Magic is © Hasbro, all Creations © to their resp
 </div>
 <script async="async" id="dsq-count-scr" src="//equestriadaily.disqus.com/count.js"></script>
 
-<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/640298382-widgets.js"></script>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2488788848-widgets.js"></script>
 <script type="text/javascript">
-window['__wavt'] = 'AOuZoY6LwF2www6maSevxVJywaTbMHuVSw:1556687517488';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d1865775941337421610','//www.equestriadaily.com/p/eqd-privacy-policy.html','1865775941337421610');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '1865775941337421610', 'title': 'Equestria Daily - MLP Stuff!', 'url': 'https://www.equestriadaily.com/p/eqd-privacy-policy.html', 'canonicalUrl': 'https://www.equestriadaily.com/p/eqd-privacy-policy.html', 'homepageUrl': 'https://www.equestriadaily.com/', 'searchUrl': 'https://www.equestriadaily.com/search', 'canonicalHomepageUrl': 'https://www.equestriadaily.com/', 'blogspotFaviconUrl': 'https://www.equestriadaily.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Equestria Daily - MLP Stuff! - Atom\x22 href\x3d\x22https://www.equestriadaily.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Equestria Daily - MLP Stuff! - RSS\x22 href\x3d\x22https://www.equestriadaily.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Equestria Daily - MLP Stuff! - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/1865775941337421610/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-6285692791338183', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/1961721879-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/78a598507f5735a0', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': true, 'jumpLinkMessage': 'Read more', 'pageType': 'static_page', 'pageId': '1197591850955245385', 'pageName': 'EQD Privacy Policy', 'pageTitle': 'Equestria Daily - MLP Stuff!: EQD Privacy Policy', 'metaDescription': ''}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'EQD Privacy Policy', 'description': 'My Little Pony: Friendship is Magic News, Brony and bronies, my little pony merchandise, pony art, pony music, pony media', 'url': 'https://www.equestriadaily.com/p/eqd-privacy-policy.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 1197591850955245385}}]);
+window['__wavt'] = 'AOuZoY6uAJpiMwjnGXzlFwjrz-cZew8nxg:1576117024207';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d1865775941337421610','//www.equestriadaily.com/p/eqd-privacy-policy.html','1865775941337421610');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '1865775941337421610', 'title': 'Equestria Daily - MLP Stuff!', 'url': 'https://www.equestriadaily.com/p/eqd-privacy-policy.html', 'canonicalUrl': 'https://www.equestriadaily.com/p/eqd-privacy-policy.html', 'homepageUrl': 'https://www.equestriadaily.com/', 'searchUrl': 'https://www.equestriadaily.com/search', 'canonicalHomepageUrl': 'https://www.equestriadaily.com/', 'blogspotFaviconUrl': 'https://www.equestriadaily.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Equestria Daily - MLP Stuff! - Atom\x22 href\x3d\x22https://www.equestriadaily.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Equestria Daily - MLP Stuff! - RSS\x22 href\x3d\x22https://www.equestriadaily.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Equestria Daily - MLP Stuff! - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/1865775941337421610/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-6285692791338183', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/1270012344-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/86b054a6ff1e9da1', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': true, 'jumpLinkMessage': 'Read more', 'pageType': 'static_page', 'pageId': '1197591850955245385', 'pageName': 'EQD Privacy Policy', 'pageTitle': 'Equestria Daily - MLP Stuff!: EQD Privacy Policy', 'metaDescription': ''}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'EQD Privacy Policy', 'description': 'My Little Pony: Friendship is Magic News, Brony and bronies, my little pony merchandise, pony art, pony music, pony media', 'url': 'https://www.equestriadaily.com/p/eqd-privacy-policy.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 1197591850955245385}}]);
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML201', 'nav-bar-inner', document.getElementById('HTML201'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML202', 'nav-bar-inner', document.getElementById('HTML202'), {}, 'displayModeFull'));
@@ -43233,10 +46510,10 @@ _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML301', 'sidebar-
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar-right-countdown', document.getElementById('HTML1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebar-right-patreon', document.getElementById('HTML12'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML402', 'sidebar-right-poll', document.getElementById('HTML402'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-right-popular-posts', document.getElementById('HTML3'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'sidebar-right-popular-posts', document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'sidebar-right-popular-posts', document.getElementById('Text1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts501', 'sidebar-right-popular-posts', document.getElementById('PopularPosts501'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-right-lower-area', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'sidebar-right-lower-area', document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'sidebar-right-lower-area', document.getElementById('Text1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts501', 'sidebar-right-lower-area', document.getElementById('PopularPosts501'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'bottom-banner-section', document.getElementById('HTML2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'footer', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
