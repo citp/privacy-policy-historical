@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poopourri.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020015241id_/https%3A//www.poopourri.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poopourri.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212054330id_/https%3A//www.poopourri.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Poo~Pourri
 
@@ -9,7 +9,7 @@ Our postal address is
  **Suite 106D**  
  **Addison, TX 75001**
 
-We can be reached via e-mail at **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#fa93949c95ba8a95958a958f888893d4949f8e)**  
+We can be reached via e-mail at **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#71181f171e31011e1e011e040303185f1f1405)**  
 or you can reach us by telephone at **972.818.8200**
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
@@ -28,13 +28,13 @@ From time to time, we make our _customer_ e-mail list available to other reputab
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address.
 
-you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above, e-mailing us at the above address.
+You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above, e-mailing us at the above address.
 
 Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by , sending us e-mail at the above address, calling us at the above telephone number.
+Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by, sending us e-mail at the above address, calling us at the above telephone number.
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
