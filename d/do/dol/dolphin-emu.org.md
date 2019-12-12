@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolphin-emu.org privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512142527id_/https%3A//dolphin-emu.org/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolphin-emu.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212062841id_/https%3A//dolphin-emu.org/docs/privacy) for the most accurate reproduction.*
 
 # Dolphin Emulator - Privacy Policy
 
