@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the offcampusjobs4u.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403083118id_/https%3A//www.offcampusjobs4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offcampusjobs4u.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212054601id_/https%3A//www.offcampusjobs4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the exact manner in which our site **Offcampusjobs4u.com**  uses, collects, maintains and discloses the information gathered from the readers (each, a “User”) of the [https://offcampusjobs4u.com](https://offcampusjobs4u.com/) website (“Site”). This privacy policy applies to the entire website and all products and services offered by the Offcampusjobs4u.com.
+This Privacy Policy governs the exact manner in which our site **Offcampusjobs4u.com**  uses, collects, maintains and discloses the information gathered from the readers (each, a “User”) of the [https://www.offcampusjobs4u.com](https://www.offcampusjobs4u.com/) website (“Site”). This privacy policy applies to the entire website and all products and services offered by the Offcampusjobs4u.com.
 
  **What information do we gather from our readers?**
 
@@ -84,6 +84,6 @@ By using this website, you signify your full acceptance of this policy. If you d
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[ **www.offcampusjobs4u.com**](https://offcampusjobs4u.com/)
+[ **www.offcampusjobs4u.com**](https://www.offcampusjobs4u.com/)
 
-[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f4049494c4e425f5a5c45404d1b5a6f48424e4643014c4042)
+[ [email protected]](https://www.offcampusjobs4u.com/cdn-cgi/l/email-protection#b6d9d0d0d5d7dbc6c3c5dcd9d482c3f6d1dbd7dfda98d5d9db)
