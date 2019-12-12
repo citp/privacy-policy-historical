@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deserttrip.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828002817id_/https%3A//deserttrip.com/privacy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deserttrip.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212050910id_/https%3A//deserttrip.com/privacy-1) for the most accurate reproduction.*
 
 # Privacy Policy — Desert Trip
 
