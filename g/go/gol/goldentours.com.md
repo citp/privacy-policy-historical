@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603093325id_/https%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212092037id_/https%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Golden Tours
 
@@ -58,6 +58,8 @@ There are also other instances where you will provide us with information. For e
 We may also receive information about you from other sources. These include business partners like affiliate partners and other independent third parties. Any data we receive from them might be combined with information provided by you.
 
 Our affiliates and business partners are allowed to share information about you with Golden Tours Ltd. – this might happen if you have support questions about your pending reservation, when disputes arise about a booking or service, or there's any other communication about your bookings with us.
+
+We use live chat software on our website, this is provided by Click4Assistance, a 3rd party UK based Software Company. Information regarding how the data is processed and stored can be viewed here. <https://www.click4assistance.co.uk/click4assistance-web-chat-software-cookie-policy>
 
   3. **Direct Marketing using email**
 
@@ -130,4 +132,4 @@ We may make changes to this Privacy Policy. If we do make any significant change
 
 If you have any questions, comments, or concerns about data protection at Golden Tours Ltd. please contact our Data Protection team on [dataprotection@goldentours.com](mailto:dataprotection@goldentours.com).
 
-Last updated: May -2018
+Last updated: August -2019
