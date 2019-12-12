@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501051157id_/https%3A//www.equestriadaily.com/p/eqd-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212021708id_/https%3A//www.equestriadaily.com/p/eqd-privacy-policy.html) for the most accurate reproduction.*
 
 # Equestria Daily - MLP Stuff!: EQD Privacy Policy
 
