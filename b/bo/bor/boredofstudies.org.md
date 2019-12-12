@@ -1,43 +1,60 @@
-> *The following text is extracted and transformed from the boredofstudies.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612175159id_/http%3A//boredofstudies.org/BOSPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boredofstudies.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212034457id_/https%3A//www.boredofstudies.org/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Bored Of Studies
 
-I Study Australia Pty Limited, is committed to adopting the highest standards to safeguard our members personal information. I Study Australia, like other companies operating in Australia, is bound by the National Privacy Principles as set out in the Privacy Act 1988 (Cth) and the Privacy Amendment (Private Sector) Act 2000. I Study Australia's collection, use and disclosure of personal information is set out below:
+We are Bored Of Studies ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/pages/contact-us/).
 
-## What Personal Information does I Study Australia collect and why?
+## What information we hold about you
 
-I Study Australia collects personal information about you in order to provide personalised information services. The personal information you provide to I Study Australia will enhance the products and services that we offer you. The type of personal information we collect may include your name, address, telephone numbers, information on how you use our products and services (such as the type, date, time, or location, and personal preferences). 
+The type of data that we collect and process includes:
 
-## How I Study Australia may use your Personal Information 
-
-The personal information you provide I Study Australia may be used for a number of purposes connected with our business operations, which include:
-
-  * providing you with products and/or services requested;
-  * billing you or administering your account;
-  * dealing with requests, enquiries or complaints and other customer care related activities;
-  * carrying out market and product analysis and marketing our products and services generally;
-  * contacting you about our companies' products and services;
-  * registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our and our group companies' loyalty or reward programmes and other similar schemes; and
-  * carrying out any activity in connection with a legal, governmental or regulatory requirement on us or in connection with legal proceedings, crime or fraud prevention, detection or prosecution.
-
-We may also use your personal information for purposes related to those described above which would be reasonably expected by you. To opt-out of receiving certain I Study Australia marketing materials, please email [unsubscribe@boredofstudies.org](mailto:unsubscribe@boredofstudies.org?subject=Unsubscribe). Please note that I Study Australia will still need to send you essential information about your account. We will not use your information for purposes other than described above unless we have your consent or there are specified law enforcement or public health and safety reasons. 
-
-## Sharing your Personal Information
-
-I Study Australia may disclose or receive personal information or documents about you to/from:
-
-    * law enforcement agencies to assist in the prevention of criminal activities;
-    * our service and content providers, dealers and agents, or any company within the I Study Australia group for purposes that are related to providing you with an information service which would be reasonably expected.
-
-Unless you consent, we will not disclose your personal information to third parties, other than those who have contracted with I Study Australia to keep the information confidential, or who are subject to obligations to protect your personal information.
-
-## Security of your Personal Information
-
-We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment protected from unauthorised access, modification or disclosure. How to access your personal information upon your request, I Study Australia will take reasonable steps to let you know, generally, what sort of personal information we hold, for what purposes and how we collect, use and disclose that information. Upon your request, I Study Australia will provide access to your personal information we hold, except in certain prescribed circumstances, including emergency situations, specified business imperatives and law enforcement or other public interests. 
-
-## How to contact us
-
-If you have any queries or concerns, please contact us by phoning **(02) 8006 1886**.
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
 
 
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
+
+We collect some or all of this information in the following cases:
+
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
+
+
+
+## How your personal information is used
+
+We may use your personal information in the following ways:
+
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
+
+
+
+## Other ways we may use your personal information.
+
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
+
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
+
+## Keeping your data secure
+
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/help/cookies).
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
