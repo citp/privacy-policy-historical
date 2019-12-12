@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomeranggmail.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621172921id_/http%3A//www.boomeranggmail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomeranggmail.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212142240id_/http%3A//www.boomeranggmail.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Boomerang for Gmail
 
@@ -179,7 +179,7 @@ We may disclose Personal Data that we collect or you provide as described in thi
 We may also disclose your Personal Data: 
 
   * to comply with any court order, law, or legal process, including to respond to any government or regulatory request;
-  * to enforce or apply our terms of use (http://www.baydin.com/boomerang4gmail/download/terms.html) and other agreements, including for billing and collection purposes; and
+  * to enforce or apply our terms of use (https://www.boomeranggmail.com/terms.html) and other agreements, including for billing and collection purposes; and
   * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Baydin, Inc., our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
