@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machotube.tv privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401041142id_/https%3A//www.machotube.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machotube.tv privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212190123id_/https%3A//www.machotube.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for MachoTube.TV
 
