@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutamom.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505185946id_/https%3A//www.aboutamom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutamom.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212150838id_/https%3A//www.aboutamom.com/privacy) for the most accurate reproduction.*
 
 # Privacy - About A Mom
 
