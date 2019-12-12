@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightful.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428231102id_/https%3A//www.fightful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightful.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212084700id_/https%3A//www.fightful.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fightful News
 
