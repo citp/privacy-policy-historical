@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freekibble.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530011945id_/http%3A//theanimalrescuesite.greatergood.com/clickToGive/ars/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freekibble.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212092234id_/https%3A//theanimalrescuesite.greatergood.com/clicktogive/ars/terms-of-service) for the most accurate reproduction.*
 
-# Terms of Service
+# The Animal Rescue Site | Terms of Service
 
 **Privacy**
 
@@ -11,71 +11,71 @@ If you have an unresolved privacy or data use concern that we have not addressed
 This privacy policy and terms of service covers the following:
 
 **GreaterGood**  
-[CharityUSA](http://charityusa.com/)  
-[GreaterGood](http://greatergood.com/)  
-[GreaterGood Shop](http://shop.greatergood.com/)
+[CharityUSA](https://charityusa.com/)  
+[GreaterGood](https://greatergood.com/)  
+[GreaterGood Shop](https://store.greatergood.com/)
 
-[The Hunger Site](http://thehungersite.com/) and store and blog  
-[The Breast Cancer Site](http://thebreastcancersite.com/) and store and blog  
-[The Animal Rescue Site](http://theanimalrescuesite.com/) and store and blog  
-[The Veterans Site](http://theveteranssite.com/) and store and blog  
-[The Autism Site](http://theautismsite.com/) and store and blog  
-[The Alzheimer's Site](http://thealzheimerssite.com/) and store and blog  
-[The Diabetes Site](http://thediabetessite.com/) and store and blog  
-[The Literacy Site](http://theliteracysite.com/) and store and blog  
-[The Earth Site](http://blog.theearthsite.com/) blog and store  
-[The Rainforest Site](http://therainforestsite.com/) and store and blog
+[The Hunger Site](https://thehungersite.com/) and store and blog  
+[The Breast Cancer Site](https://thebreastcancersite.com/) and store and blog  
+[The Animal Rescue Site](https://theanimalrescuesite.com/) and store and blog  
+[The Veterans Site](https://theveteranssite.com/) and store and blog  
+[The Autism Site](https://theautismsite.com/) and store and blog  
+[The Alzheimer's Site](https://thealzheimerssite.com/) and store and blog  
+[The Diabetes Site](https://thediabetessite.com/) and store and blog  
+[The Literacy Site](https://theliteracysite.com/) and store and blog  
+[The Earth Site](https://blog.theearthsite.greatergood.com/) blog and store  
+[The Rainforest Site](https://therainforestsite.com/) and store and blog
 
-[Shelter Challenge](http://shelterchallenge.com/)  
-[Free Kibble](http://freekibble.com/)  
-[Free Kibble Kat](http://freekibblekat.com/)  
-[Free Kat Litter](http://freekatlitter.com/)  
-[Global Girlfriend](http://globalgirlfriend.com/)  
-[Pink Ribbon Store](http://pinkribbonstore.com/)  
-[Hope Faith Love](http://hopefaithlove.greatergood.com/store/hfl/site)  
+[Shelter Challenge](https://shelterchallenge.com/)  
+[Free Kibble](https://freekibble.com/)  
+[Free Kibble Kat](https://freekibblekat.com/)  
+[Free Kat Litter](https://freekatlitter.com/)  
+[Global Girlfriend](https://globalgirlfriend.com/)  
+[Pink Ribbon Store](https://pinkribbonstore.com/)  
+[Hope Faith Love](https://hopefaithlove.greatergood.com/store/hfl/site)  
 [Ecology Fund](http://ecologyfund.com/)
 
 **GreaterGood Kids**  
-[Creative Kidstuff](http://creativekidstuff.com/)  
-[Sensational Beginnings](http://sensationalbeginnings.com/)
+[Creative Kidstuff](https://creativekidstuff.com/)  
+[Sensational Beginnings](https://sensationalbeginnings.com/)
 
-**[Family Pet](http://familypet.com/)**  
-[Coupaw](http://coupaw.com/)  
-[Doggyloot](http://doggyloot.com/)  
-[RescueBox](http://rescuebox.com/)
+**[Family Pet](https://familypet.com/)**  
+[Coupaw](https://coupaw.com/)  
+[Doggyloot](https://doggyloot.com/)  
+[RescueBox](https://rescuebox.com/)
 
-**[GreaterGood Wholesale](http://greatergoodwholesale.com/)**  
+**[GreaterGood Wholesale](https://greatergoodwholesale.com/)**  
 [Global Girlfriend](https://globalgirlfriend.com/)
 
 **Great Life Publishing**  
-[12 Tomatoes](http://12tomatoes.com/)  
-[24 Blocks](http://24blocks.com/)  
-[Big Hawgs](http://bighawgs.com/)  
-[Crafty House](http://crafty.house/)  
-[Daily Craftsman](http://dailycraftsman.com/)  
-[Dusty Old Thing](http://dustyoldthing.com/)  
-[FaithHub](http://faithhub.net/)  
-[Fine Southern Dish](http://finesoutherndish.com/)  
-[The Good Old Days](http://thegoodolddays.club/)  
-[Grizzly Fare](http://grizzlyfare.com/)  
-[The Humble Gardener](http://thehumblegardener.com/)  
-[The Knitting Circle](http://theknittingcircle.net/)  
-[Leathers On](http://leatherson.com/)  
-[My Old Photos](http://myoldphotos.com/)  
-[Pickups & Beer](http://pickupsandbeer.com/)  
-[The Reader’s Nook](http://thereadersnook.com/)  
-[Saddled & Ready](http://saddledandready.com/)  
-[Smoking Rubber](http://smokingrubber.com/)  
-[Spilled Color](http://spilledcolor.com/)  
-[Star & Sky](http://starandsky.com/)  
-[Starting Chain](http://startingchain.com/)  
-[Surrounded By Flowers](http://surroundedbyflowers.com/)  
-[Three Pound Trout](http://threepoundtrout.com/)  
-[Trail Crawlers](http://trailcrawlers.com/)  
-[Warbler Calls](http://warblercalls.com/)  
-[Wind On Sail](http://windonsail.com/)  
-[The Writer’s Circle](http://writerscircle.com/)  
-[Yard Sale Finds](http://topyardsalefinds.com/)
+[12 Tomatoes](https://12tomatoes.com/)  
+[24 Blocks](https://24blocks.com/)  
+[Big Hawgs](https://bighawgs.com/)  
+[Crafty House](https://crafty.house/)  
+[Daily Craftsman](https://dailycraftsman.com/)  
+[Dusty Old Thing](https://dustyoldthing.com/)  
+[FaithHub](https://faithhub.net/)  
+[Fine Southern Dish](https://finesoutherndish.com/)  
+[The Good Old Days](https://thegoodolddays.club/)  
+[Grizzly Fare](https://grizzlyfare.com/)  
+[The Humble Gardener](https://thehumblegardener.com/)  
+[The Knitting Circle](https://theknittingcircle.net/)  
+[Leathers On](https://leatherson.com/)  
+[My Old Photos](https://myoldphotos.com/)  
+[Pickups & Beer](https://pickupsandbeer.com/)  
+[The Reader’s Nook](https://thereadersnook.com/)  
+[Saddled & Ready](https://saddledandready.com/)  
+[Smoking Rubber](https://smokingrubber.com/)  
+[Spilled Color](https://spilledcolor.com/)  
+[Star & Sky](https://starandsky.com/)  
+[Starting Chain](https://startingchain.com/)  
+[Surrounded By Flowers](https://surroundedbyflowers.com/)  
+[Three Pound Trout](https://threepoundtrout.com/)  
+[Trail Crawlers](https://trailcrawlers.com/)  
+[Warbler Calls](https://warblercalls.com/)  
+[Wind On Sail](https://windonsail.com/)  
+[The Writer’s Circle](https://writerscircle.com/)  
+[Yard Sale Finds](https://topyardsalefinds.com/)
 
 **Free Daily Click**
 
@@ -147,11 +147,11 @@ We use this information to understand how our websites are used to better meet t
 
 **Tracking Technologies**
 
-Charity USA and its partners use cookies or similar technologies to analyze trends, administer the website, track users movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Your continued use of cookies on our sites authorizes us to use that information to better inform and serve our users. 
+Charity USA and its partners use cookies or similar technologies to analyze trends, administer the website, track users movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Your continued use of cookies on our sites authorizes us to use that information to better inform and serve our users. 
 
 **Behavioral Targeting/Retargeting**
 
-CharityUSA partners with a third party ad network to both display advertising on our own Web sites and to manage our advertising on other sites. Our ad network partners use cookies or similar technologies to collect non-personal information about your activities on this and other Web sites in order to provide you targeted advertising based upon your interests, and to provide you relevant advertising through retargeting when you leave our sites. By using, you consent to the use of cookies to collect such data from you. If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/), or by using the [NAI opt-out mechanism.](http://optout.networkadvertising.org/) Please note that this does not opt you out of being served advertising -- you will continue to see general ads that are not targeted to your interests. 
+CharityUSA partners with a third party ad network to both display advertising on our own Web sites and to manage our advertising on other sites. Our ad network partners use cookies or similar technologies to collect non-personal information about your activities on this and other Web sites in order to provide you targeted advertising based upon your interests, and to provide you relevant advertising through retargeting when you leave our sites. By using, you consent to the use of cookies to collect such data from you. If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/), or by using the [NAI opt-out mechanism.](https://optout.networkadvertising.org/) Please note that this does not opt you out of being served advertising -- you will continue to see general ads that are not targeted to your interests. 
 
 Due to technological limitations at this time, CharityUSA does not respond to browser Do Not Track signals.
 
@@ -175,7 +175,7 @@ Your comfort and security while shopping with us are important. We have multiple
 
   * We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our web site, you can contact us at [customerservice@greatergood.com](mailto:customerservice@greatergood.com).
 
-  * You can read more on how to shop online safely [here](http://www.microsoft.com/security/online-privacy/finances-rules.aspx).
+  * You can read more on how to shop online safely [here](https://www.microsoft.com/security/online-privacy/finances-rules.aspx).
 
 
 
