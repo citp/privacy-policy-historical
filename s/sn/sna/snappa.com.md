@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappa.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908103348id_/https%3A//snappa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappa.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212160207id_/https%3A//snappa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Snappa
 
