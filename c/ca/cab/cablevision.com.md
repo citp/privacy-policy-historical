@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablevision.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106234922id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablevision.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212191049id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
 
 # 
 
@@ -77,17 +77,6 @@ Not {{CommonHeaderCtrl.currentLoggedInUser.optimumId}}?
 
 Sign out
 
-Support
-
-#### Service status
-
-  
-
-
-#### {{CommonHeaderCtrl.outage.message}}
-
-#### {{CommonHeaderCtrl.outage.message}}
-
 Internet
 
 #### [Sign in](https://web.archive.org/login/) to check your email and manage your internet features
@@ -105,6 +94,14 @@ TV
 #### [Sign in](https://web.archive.org/login/) to manage your DVR and TV features.
 
 ####  You have no recordings scheduled.
+
+####  Service unavailable at this time. 
+
+####  [Click here](https://web.archive.org/FAQ#/answers/a_id/2580) to learn more about DVR
+
+  * [ ](https://web.archive.org/web/20191212191049id_/https%3A//www.optimum.net/pages/%7B%7Brecording.href%7D%7D)
+
+
 
 Phone
 
@@ -405,27 +402,31 @@ Jericho, NY 11753
 
 Effective October 15, 2018
 
-### Mobile Application Privacy Notice
+### App Privacy Notice
 
-Altice is committed to protecting the privacy of its customers. This short-form privacy notice is designed to give you a general understanding of how Altice protects your privacy in connection with our mobile applications, including but not limited to Altice One, Optimum, Optimum DVR Manager, Optimum WiFi Register, Optimum WiFi Finder, Business Hosted Voice and Optimum Support (hereinafter collectively referred to as the "Mobile Applications"). These applications are generally designed for use by existing Altice subscribers. These applications have limited functionality for non-subscribers but may collect Personally Identifiable information from non-subscribers.
+Altice is committed to protecting the privacy of its customers. This short-form privacy notice is designed to give you a general understanding of how Altice protects your privacy in connection with our apps, including but not limited to Altice One, Altice One Alexa Skill, Optimum, Optimum DVR Manager, Optimum WiFi Register, Optimum WiFi Finder, Business Hosted Voice and Optimum Support (hereinafter collectively referred to as the " **Apps** "). These Apps are generally designed for use by existing Altice subscribers. These Apps have limited functionality for non-subscribers but may collect Personally Identifiable information from non-subscribers.
 
-Please note that Altice's privacy practices with regard to its cable television services (such as Optimum TV), our high-speed Internet services (such as Optimum Online), our voice services (such as Optimum Voice and Business Hosted Voice), and any other cable or communication services we may provide (the "Covered Services") are subject to the [Customer Privacy Notice](https://web.archive.org/pages/PrivacyExisting.html#/cablevision-customer-privacy-notice) and where applicable, the[ Additional Privacy Information for High Speed Internet Service](https://web.archive.org/pages/privacy/ool.html) (collectively, the "Customer Privacy Notices").
+Please note that Altice's privacy practices with regard to its cable television services (such as Optimum TV), our high-speed Internet services (such as Optimum Online), our voice services (such as Optimum Voice and Business Hosted Voice), and any other cable or communication services we may provide (the " **Covered Services** ") are subject to the [Customer Privacy Notice](https://web.archive.org/pages/PrivacyExisting.html#/cablevision-customer-privacy-notice) and where applicable, the[ Additional Privacy Information for High Speed Internet Service](https://web.archive.org/pages/privacy/ool.html) (collectively, the " **Customer Privacy Notices** ").
 
-In this notice, "we" and "Altice" refer to CSC Holdings LLC (formerly Cablevision or CSC Holdings, Inc.) and its respective subsidiaries and affiliates that own, operate, or aid in the provision of the Mobile Applications.
+In this notice, "we" and "Altice" refer to CSC Holdings LLC (formerly Cablevision or CSC Holdings, Inc.) and its respective subsidiaries and affiliates that own, operate, or aid in the provision of the Apps.
 
-Please review this notice carefully prior to using the Mobile Applications. By using the Mobile Applications, you acknowledge that you understand and consent to the collection, use, and/or disclosure of your information in accordance with this notice.
+Please review this notice carefully prior to using the Apps. By using the Apps, you acknowledge that you understand and consent to the collection, use, and/or disclosure of your information in accordance with this notice.
 
 **A. How We Collect Information**
 
-In connection with the provision of the Mobile Applications and our ongoing efforts to improve the quality and value of Altice's services, we may maintain certain information related to you that you provide to us or that we collect using the Mobile Applications ("Mobile Subscriber Information"). We may collect your first and last name, your home address, your e-mail address, your telephone number, your account number, your payment card or banking information, and your Optimum ID and Password in order to render our services through the Mobile Applications or to detect unauthorized use of our services. We may also collect application usage information, as well as records of the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment utilized in association with the Mobile Applications.
+In connection with the provision of the Apps and our ongoing efforts to improve the quality and value of Altice's services, we may maintain certain information related to you that you provide to us or that we collect using the Apps ("Mobile Subscriber Information"). We may collect your first and last name, your home address, your e-mail address, your telephone number, your account number, your payment card or banking information, and your Optimum ID and Password in order to render our services through the Apps or to detect unauthorized use of our services. We may also collect application usage information, as well as records of the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment utilized in association with the Apps.
 
-Your use of the Mobile Applications, with the exception of the Optimum WiFi Finder, is necessarily tied to your Altice subscriber account. Accordingly, the collection, use and disclosure of your personally identifiable information as it relates to the Mobile Applications, is governed by the [Customer Privacy Notice](https://www.optimum.net/pages/PrivacyExisting.html), to which you, as a subscriber, have already agreed. If there is any conflict between provisions of this short-form notice and the applicable Customer Privacy Notices, the Customer Privacy Notices will govern. The use of non-subscriber information is covered solely by this notice.
+Your use of the Apps, with the exception of the Optimum WiFi Finder, is necessarily tied to your Altice subscriber account. Accordingly, the collection, use and disclosure of your personally identifiable information as it relates to the Apps, is governed by the [Customer Privacy Notice](https://www.optimum.net/pages/PrivacyExisting.html), to which you, as a subscriber, have already agreed. If there is any conflict between provisions of this short-form notice and the applicable Customer Privacy Notices, the Customer Privacy Notices will govern. The use of non-subscriber information is covered solely by this notice.
 
-Through the Mobile Applications, Altice may also collect the following application specific information:
+Through the Apps, Altice may also collect the following application specific information:
 
 **_Optimum and Optimum DVR Manager Applications:_** To utilize the Optimum and Optimum DVR Manger Applications, you must be a digital cable television subscriber. In conjunction with the digital cable television services provided through these applications, we may automatically collect information when you interact with our systems such as changing your television channel, reviewing listings in an electronic program guide, interacting with your DVR, ordering or viewing on-demand programming, and engaging in other interactive programming features. This information will be used as described in the Customer Privacy Notice(s), including for billing, troubleshooting, operations, or other service related purposes such as VOD, program and content recommendation features and functions, e-Bill, or use of certain services such as requests for information or product purchases. There is no limitation on Altice's use of this information in de-identified or aggregate form.
 
 **_Altice One Application:_** To utilize the Altice One Application, you must be a digital cable television subscriber using the Altice One and/or Altice One Mini Box(es). In conjunction with the digital cable television services provided through this application, we may automatically collect information when you interact with our systems such as changing your television channel, reviewing listings in an electronic program guide, interacting with your DVR, ordering or viewing on-demand programming, and engaging in other interactive programming features. This information will be used as described in the Customer Privacy Notice(s), including for billing, troubleshooting, operations, or other service related purposes such as VOD, program and content recommendation features and functions, e-Bill, or use of certain services such as requests for information or product purchases. There is no limitation on Altice's use of this information in de-identified or aggregate form.
+
+**_Altice One Skill:_** To utilize the Altice One Skill, you must be in possession of an Alexa enabled speaker, which includes but is not limited to the Altice Amplify. In conjunction with the functionality provided through this application, we may automatically collect information when you interact with our systems such as changing your television channel, utilizing search functionality, and engaging in other interactive programming features. This information will be used as described in the Customer Privacy Notices, including for internal research, to improve our systems, troubleshooting, operations, and/or other service related purposes. There is no limitation on Altice's use of this information in de-identified or aggregate form.
+
+Please note that any information collected by Amazon as a result of your use of the Altice One Skill will also be subject to [Amazon's Terms of Use and Privacy Policy.](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740)
 
 **_Optimum WiFi Register Application:_** In order to utilize the Optimum WiFi Register Application to automatically sign in and get online from any of Altice's Optimum WiFi Hot Spots, you must be an Optimum Online subscriber and you must explicitly agree that Altice may upload and maintain a copy of your MAC Address. If you are an Optimum WiFi Register user and an Optimum Online subscriber, we may maintain records of Internet Protocol addresses assigned to you. We may also collect usage information for the purpose of managing or operating the Optimum WiFi Services. Altice does not collect or utilize Personally Identifiable Information from non-subscribers through Optimum WiFi Register.
 
@@ -439,7 +440,7 @@ Please Note: You may revoke this application's permission to use your current lo
 
 **B. How We Use Information**
 
-We may use non-personally identifiable or aggregated usage information from our Mobile Applications for any purpose, including for programmer, advertiser and internal research, and to improve our systems, the content that subscribers receive, and their service experience (for example, to measure viewership of channels, TV shows and commercials). We may also use this information to provide targeted content for our services such as programming and advertising or provide our recommendation features or functions to you. Finally, we may also use this information to deliver relevant third party advertising/promotional messages using your set-top box or through other IP-enabled device applications without disclosing Personally Identifiable Information to these third party advertisers.
+We may use non-personally identifiable or aggregated usage information from our Apps for any purpose, including for programmer, advertiser and internal research, and to improve our systems, the content that subscribers receive, and their service experience (for example, to measure viewership of channels, TV shows and commercials). We may also use this information to provide targeted content for our services such as programming and advertising or provide our recommendation features or functions to you. Finally, we may also use this information to deliver relevant third party advertising/promotional messages using your set-top box or through other IP-enabled device applications without disclosing Personally Identifiable Information to these third party advertisers.
 
 **C. When We Disclose Information**
 
@@ -460,9 +461,9 @@ Jericho, NY 11753
 
 **F. Updates To The Notice**
 
-We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
+We will review this privacy notice periodically as we deem appropriate and when we change or update the Apps. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Apps, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Apps, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
 
-Effective October 15, 2018 
+Effective August 20, 2019 
 
 Altice is committed to protecting the privacy of its customers. This notice is designed to give you a general understanding of how Altice protects your privacy in connection with our residential and business cable television services (such as Optimum TV), high-speed Internet services (such as Optimum Online), voice services (such as Optimum Voice) and any other cable service or communication service we may provide to you using our cable system as such services are defined by applicable law, as well as Optimum.net (together "Covered Services").
 
@@ -736,25 +737,29 @@ Jericho, NY 11753
 
 Effective October 15, 2018
 
-Altice is committed to protecting the privacy of its customers. This short-form privacy notice is designed to give you a general understanding of how Altice protects your privacy in connection with our mobile applications, including but not limited to Altice One, Optimum, Optimum DVR Manager, Optimum WiFi Register, Optimum WiFi Finder, Business Hosted Voice and Optimum Support (hereinafter collectively referred to as the "Mobile Applications"). These applications are generally designed for use by existing Altice subscribers. These applications have limited functionality for non-subscribers but may collect Personally Identifiable information from non-subscribers.
+Altice is committed to protecting the privacy of its customers. This short-form privacy notice is designed to give you a general understanding of how Altice protects your privacy in connection with our apps, including but not limited to Altice One, Altice One Alexa Skill, Optimum, Optimum DVR Manager, Optimum WiFi Register, Optimum WiFi Finder, Business Hosted Voice and Optimum Support (hereinafter collectively referred to as the " **Apps** "). These Apps are generally designed for use by existing Altice subscribers. These Apps have limited functionality for non-subscribers but may collect Personally Identifiable information from non-subscribers.
 
-Please note that Altice's privacy practices with regard to its cable television services (such as Optimum TV), our high-speed Internet services (such as Optimum Online), our voice services (such as Optimum Voice and Business Hosted Voice), and any other cable or communication services we may provide (the "Covered Services") are subject to the [Customer Privacy Notice](https://web.archive.org/pages/PrivacyExisting.html#/cablevision-customer-privacy-notice) and where applicable, the[ Additional Privacy Information for High Speed Internet Service](https://web.archive.org/pages/privacy/ool.html) (collectively, the "Customer Privacy Notices").
+Please note that Altice's privacy practices with regard to its cable television services (such as Optimum TV), our high-speed Internet services (such as Optimum Online), our voice services (such as Optimum Voice and Business Hosted Voice), and any other cable or communication services we may provide (the " **Covered Services** ") are subject to the [Customer Privacy Notice](https://web.archive.org/pages/PrivacyExisting.html#/cablevision-customer-privacy-notice) and where applicable, the[ Additional Privacy Information for High Speed Internet Service](https://web.archive.org/pages/privacy/ool.html) (collectively, the " **Customer Privacy Notices** ").
 
-In this notice, "we" and "Altice" refer to CSC Holdings LLC (formerly Cablevision or CSC Holdings, Inc.) and its respective subsidiaries and affiliates that own, operate, or aid in the provision of the Mobile Applications.
+In this notice, "we" and "Altice" refer to CSC Holdings LLC (formerly Cablevision or CSC Holdings, Inc.) and its respective subsidiaries and affiliates that own, operate, or aid in the provision of the Apps.
 
-Please review this notice carefully prior to using the Mobile Applications. By using the Mobile Applications, you acknowledge that you understand and consent to the collection, use, and/or disclosure of your information in accordance with this notice.
+Please review this notice carefully prior to using the Apps. By using the Apps, you acknowledge that you understand and consent to the collection, use, and/or disclosure of your information in accordance with this notice.
 
 **A. How We Collect Information**
 
-In connection with the provision of the Mobile Applications and our ongoing efforts to improve the quality and value of Altice's services, we may maintain certain information related to you that you provide to us or that we collect using the Mobile Applications ("Mobile Subscriber Information"). We may collect your first and last name, your home address, your e-mail address, your telephone number, your account number, your payment card or banking information, and your Optimum ID and Password in order to render our services through the Mobile Applications or to detect unauthorized use of our services. We may also collect application usage information, as well as records of the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment utilized in association with the Mobile Applications.
+In connection with the provision of the Apps and our ongoing efforts to improve the quality and value of Altice's services, we may maintain certain information related to you that you provide to us or that we collect using the Apps ("Mobile Subscriber Information"). We may collect your first and last name, your home address, your e-mail address, your telephone number, your account number, your payment card or banking information, and your Optimum ID and Password in order to render our services through the Apps or to detect unauthorized use of our services. We may also collect application usage information, as well as records of the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment utilized in association with the Apps.
 
-Your use of the Mobile Applications, with the exception of the Optimum WiFi Finder, is necessarily tied to your Altice subscriber account. Accordingly, the collection, use and disclosure of your personally identifiable information as it relates to the Mobile Applications, is governed by the [Customer Privacy Notice](https://www.optimum.net/pages/PrivacyExisting.html), to which you, as a subscriber, have already agreed. If there is any conflict between provisions of this short-form notice and the applicable Customer Privacy Notices, the Customer Privacy Notices will govern. The use of non-subscriber information is covered solely by this notice.
+Your use of the Apps, with the exception of the Optimum WiFi Finder, is necessarily tied to your Altice subscriber account. Accordingly, the collection, use and disclosure of your personally identifiable information as it relates to the Apps, is governed by the [Customer Privacy Notice](https://www.optimum.net/pages/PrivacyExisting.html), to which you, as a subscriber, have already agreed. If there is any conflict between provisions of this short-form notice and the applicable Customer Privacy Notices, the Customer Privacy Notices will govern. The use of non-subscriber information is covered solely by this notice.
 
-Through the Mobile Applications, Altice may also collect the following application specific information:
+Through the Apps, Altice may also collect the following application specific information:
 
 **_Optimum and Optimum DVR Manager Applications:_** To utilize the Optimum and Optimum DVR Manger Applications, you must be a digital cable television subscriber. In conjunction with the digital cable television services provided through these applications, we may automatically collect information when you interact with our systems such as changing your television channel, reviewing listings in an electronic program guide, interacting with your DVR, ordering or viewing on-demand programming, and engaging in other interactive programming features. This information will be used as described in the Customer Privacy Notice(s), including for billing, troubleshooting, operations, or other service related purposes such as VOD, program and content recommendation features and functions, e-Bill, or use of certain services such as requests for information or product purchases. There is no limitation on Altice's use of this information in de-identified or aggregate form.
 
 **_Altice One Application:_** To utilize the Altice One Application, you must be a digital cable television subscriber using the Altice One and/or Altice One Mini Box(es). In conjunction with the digital cable television services provided through this application, we may automatically collect information when you interact with our systems such as changing your television channel, reviewing listings in an electronic program guide, interacting with your DVR, ordering or viewing on-demand programming, and engaging in other interactive programming features. This information will be used as described in the Customer Privacy Notice(s), including for billing, troubleshooting, operations, or other service related purposes such as VOD, program and content recommendation features and functions, e-Bill, or use of certain services such as requests for information or product purchases. There is no limitation on Altice's use of this information in de-identified or aggregate form.
+
+**_Altice One Skill:_** To utilize the Altice One Skill, you must be in possession of an Alexa enabled speaker, which includes but is not limited to the Altice Amplify. In conjunction with the functionality provided through this application, we may automatically collect information when you interact with our systems such as changing your television channel, utilizing search functionality, and engaging in other interactive programming features. This information will be used as described in the Customer Privacy Notices, including for internal research, to improve our systems, troubleshooting, operations, and/or other service related purposes. There is no limitation on Altice's use of this information in de-identified or aggregate form.
+
+Please note that any information collected by Amazon as a result of your use of the Altice One Skill will also be subject to [Amazon's Terms of Use and Privacy Policy.](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740)
 
 **_Optimum WiFi Register Application:_** In order to utilize the Optimum WiFi Register Application to automatically sign in and get online from any of Altice's Optimum WiFi Hot Spots, you must be an Optimum Online subscriber and you must explicitly agree that Altice may upload and maintain a copy of your MAC Address. If you are an Optimum WiFi Register user and an Optimum Online subscriber, we may maintain records of Internet Protocol addresses assigned to you. We may also collect usage information for the purpose of managing or operating the Optimum WiFi Services. Altice does not collect or utilize Personally Identifiable Information from non-subscribers through Optimum WiFi Register.
 
@@ -768,7 +773,7 @@ Please Note: You may revoke this application's permission to use your current lo
 
 **B. How We Use Information**
 
-We may use non-personally identifiable or aggregated usage information from our Mobile Applications for any purpose, including for programmer, advertiser and internal research, and to improve our systems, the content that subscribers receive, and their service experience (for example, to measure viewership of channels, TV shows and commercials). We may also use this information to provide targeted content for our services such as programming and advertising or provide our recommendation features or functions to you. Finally, we may also use this information to deliver relevant third party advertising/promotional messages using your set-top box or through other IP-enabled device applications without disclosing Personally Identifiable Information to these third party advertisers.
+We may use non-personally identifiable or aggregated usage information from our Apps for any purpose, including for programmer, advertiser and internal research, and to improve our systems, the content that subscribers receive, and their service experience (for example, to measure viewership of channels, TV shows and commercials). We may also use this information to provide targeted content for our services such as programming and advertising or provide our recommendation features or functions to you. Finally, we may also use this information to deliver relevant third party advertising/promotional messages using your set-top box or through other IP-enabled device applications without disclosing Personally Identifiable Information to these third party advertisers.
 
 **C. When We Disclose Information**
 
@@ -789,9 +794,9 @@ Jericho, NY 11753
 
 **F. Updates To The Notice**
 
-We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
+We will review this privacy notice periodically as we deem appropriate and when we change or update the Apps. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Apps, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Apps, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
 
-Effective October 15, 2018 
+Effective August 20, 2019 
 
   * © Copyright {{CommonFooterCtrl.fullYear}}  CSC Holdings, LLC.
 
@@ -803,13 +808,12 @@ Effective October 15, 2018
 
   * © {{CommonFooterCtrl.fullYear}} CSC Holdings, LLC.
   * [](http://www.news12.com/)
-  * [](http://www.newsday.com/)
-  * [](http://www.msgvarsity.com/)
-  * [](http://long-island.newsday.com/)
-  * [](http://www.amny.com/)
-  * [](http://cars.newsday.com/index.php)
-  * [](http://homes.newsday.com/)
-  * [](http://www.optimum.net/community?tid=opt)
+  * [](http://www.news12varsity.com/)
+  * [](https://i24news.tv/)
+  * [](https://www.alticemobile.com/)
+  * [](https://www.alticeusa.com/we-are-altice-business)
+  * [](https://www.alticeconnects.com/)
+  * [](http://www.a4media.com/)
 
 
 
