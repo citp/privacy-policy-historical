@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h2o.ai privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425104630id_/https%3A//www.h2o.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h2o.ai privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212120610id_/https%3A//www.h2o.ai/privacy) for the most accurate reproduction.*
 
 # Privacy - Open Source Leader in AI and ML
 
