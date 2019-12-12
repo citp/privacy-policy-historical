@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekeyplay.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530022610id_/http%3A//www.thekeyplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekeyplay.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212193709id_/http%3A//www.thekeyplay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Key Play
 
