@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413222718id_/https%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212110943id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy relating to the SOAS website | SOAS University of London
 
@@ -47,7 +47,7 @@ We use the personal data collecting through your use of the website for the foll
 
 
 
-SOAS will process the data you provide for enquiries about study or applications to courses in accordance with our [Course Enquirers, Applicants or Offer-holders Privacy Notice](https://web.archive.org/infocomp/dpa/enquirer-applicant-offer-holder-privacy-notice/). We will process data you provide for open days and other events because it is in our mutual interests to stay in touch about arrangements for the event and to record attendance.
+SOAS will process the data you provide for enquiries about study or applications to courses in accordance with our [Course Enquirers, Applicants or Offer-holders Privacy Notice](https://web.archive.org/infocomp/dpa/privacy-notices/enquirer-applicant-offer-holder-privacy-notice/). We will process data you provide for open days and other events because it is in our mutual interests to stay in touch about arrangements for the event and to record attendance.
 
 When you apply for a short course at SOAS, you will need to provide some personal data to support your application. We will process this data because there is a legitimate interest in the School managing the application efficiently. If you apply and are offered a place on a course, then SOAS will process the personal data because we are taking steps to enter into a contract at your request.
 
