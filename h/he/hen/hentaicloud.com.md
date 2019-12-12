@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaicloud.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308213052id_/https%3A//www.hentaicloud.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaicloud.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212201425id_/https%3A//www.hentaicloud.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hentai Cloud
 
@@ -64,4 +64,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.hentaicloud.com  
-[email protected]
+support@hentaicloud.com
