@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sendmail.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330221427id_/https%3A//www.proofpoint.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendmail.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212121157id_/https%3A//www.proofpoint.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Proofpoint
 
 ## Proofpoint Privacy Policy
 
-### This Privacy Policy is effective as of October 3, 2018
+### This Privacy Policy is effective as of November 15, 2019
 
-[](http://privacy.truste.com/privacy-seal/Proofpoint,-Inc-/validation?rid=dbe694ac-18a6-49ad-8e03-efc5a0d0d7f1)
+[](https://privacy.truste.com/privacy-seal/validation?rid=d321f3ac-46cc-41e9-9275-053515c30ee0)
 
 Proofpoint, Inc., whose registered address is at 892 Ross Drive, Sunnyvale, CA 94089 understands the importance of safeguarding your privacy and we take this responsibility very seriously.
 
@@ -22,7 +22,7 @@ In this policy, "using" and "processing" information includes using cookies on a
 
 Proofpoint is a multi-national organization with cross-border technical systems, intra-group relationships and business processes. If you are located outside the United States and provide personal data to us, Proofpoint may transfer your personal data to the United States and use it there in accordance with this Privacy Policy. 
 
-Proofpoint, Inc. and its subsidiary companies Proofpoint Canada, Inc., Proofpoint Limited (UK), Proofpoint Pty Ltd (Australia), Proofpoint Japan KK, Proofpoint GmbH (Germany), Proofpoint Singapore Ptd. Ltd., and Proofpoint Int’l (Taiwan) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Proofpoint, Inc. is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+Proofpoint, Inc. and US subsidiary companies Cloudmark LLC and Wombat Security Technologies, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Proofpoint, Inc. is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
 Proofpoint, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Proofpoint, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -45,7 +45,7 @@ We will use your Contact Information to: (i) carry out our obligations arising f
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@proofpoint.com](mailto:privacy@proofpoint.com). Please note that we may still retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Personal Data You Post On Our Blog  **  
-If you use the blog on this Site, you should be aware that any personal data you submit there can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personal data you choose to submit in these blogs. To request removal of your personal data from our blog, contact us at  _[privacy@proofpoint.com](mailto:privacy@proofpoint.com) _. In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
+If you use the blog on this Site, you should be aware that any personal data you submit there can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personal data you choose to submit in these blogs. To request removal of your personal data from our blog, contact us at [privacy@proofpoint.com](mailto:privacy@proofpoint.com) . In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
 
 **Customer Testimonials We Collect From You**  
 We may post customer testimonials/comments/reviews on our Site which may contain personal data. We will not post a testimonial from you without obtaining your prior consent.
