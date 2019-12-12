@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the blair.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508215610id_/https%3A//www.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blair.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212142242id_/https%3A//www.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | Blair
 
 **BLAIR.COM  
 Online Privacy Policy**
 
-**Effective Date: January 18, 2017**
+**Effective Date: October 1st, 2019**
 
 Welcome to Blair.com (this "Site").
 
@@ -132,8 +132,45 @@ We also participate in the Adobe Marketing Cloud Device Co-op to better understa
 Do Not Track signals your opt-out preference with an HTTP header that requests that we disable tracking you on our Site and across sites. At this time, we do not respond to browser "do not track" signals. 
 
 **Protecting Children**  
-Our website is not focused on marketing or attracting minors and we do not knowingly collect personal information about anyone under the age of 18. Anyone under the age of 18 should not use this Site. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the federal Children's Online Privacy Protection Act. If you believe that we have received information from a child, please notify us immediately by calling us at 1-800-458-6057 or by sending us an email at [  
-](mailto:customerservice@blair.com%3Ecustomerservice@blair.com%3C/a%3E%20and%20we%20will%20remove%20that%20information%20from%20our%20database.%3C/p%3E%3Cbr%3E%3Cbr%3E%3Cp%3E%3Cb%3ESECURITY%20AND%20CONFIDENTIALITY%3C/b%3E%3Cbr%3E%3Cbr%3E%3Cb%3EIn%20General%3C/b%3E%3Cbr%3EWe%20take%20commercially%20reasonable%20administrative,%20physical%20and%20technological%20security%20measures%20to%20protect%20your%20personal%20information%20from%20unauthorized%20access,%20unauthorized%20use,%20and%20unauthorized%20or%20accidental%20destruction,%20modification%20or%20disclosure.%20Although%20we%20take%20commercially%20reasonable%20precautions%20to%20provide%20a%20level%20of%20security%20appropriate%20to%20the%20sensitivity%20of%20the%20personal%20information%20we%20collect,%20we%20cannot%20guarantee%20the%20security%20of%20information%20provided%20over%20the%20Internet%20or%20stored%20in%20our%20databases.%3C/p%3E%3Cbr%3E%3Cp%3E%3Cb%3EPassword%20Protected%20Areas%20of%20This%20Site%3C/b%3E%3Cbr%3EFor%20your%20protection,%20certain%20areas%20of%20this%20Site%20are%20password%20protected.%20You%20are%20responsible%20for%20maintaining%20the%20confidentiality%20of%20your%20passwords.%20We%20have%20the%20right%20to%20assume%20that%20anyone%20accessing%20this%20Site%20using%20a%20password%20assigned%20to%20you%20has%20the%20right%20to%20do%20so.%20You%20will%20be%20solely%20responsible%20for%20the%20activities%20of%20anyone%20accessing%20this%20Site%20using%20a%20password%20assigned%20to%20you,%20even%20if%20the%20individual%20is%20not,%20in%20fact%20authorized%20by%20you.%20If%20you%20have%20reason%20to%20believe%20that%20your%20password%20has%20been%20compromised%20or%20used%20without%20authorization,%20you%20must%20promptly%20change%20it%20using%20the%20functionality%20provided%20on%20this%20Site.%3C/p%3E%3Cbr%3E%3Cp%3E%3Cb%3EDo%20Not%20Use%20Emails%20to%20Communicate%20Sensitive%20Personal%20Information%3C/b%3E%3Cbr%3ENever%20provide%20sensitive%20personal%20information%20\(for%20example,%20your%20Social%20Security%20number,%20driver's%20license%20number%20or%20credit%20card%20information\)%20to%20us%20via%20email.%20Use%20the%20appropriate%20areas%20of%20this%20Site%20to%20communicate%20this%20information%20or%20contact%20us%20by%20telephone.%3C/p%3E%3Cbr%3E%3Cp%3E%3Cb%3ELinks%20to%20Third%20Party%20Sites%3C/b%3E%3Cbr%3EThis%20site%20may%20contain%20links%20to%20Web%20sites%20operated%20by%20other%20companies,%20including%20websites%20operated%20by%20our%20third-party%20service%20providers,%20our%20Marketing%20Partners,%20and%20other%20third%20parties.%20This%20Privacy%20Policy%20does%20not%20apply%20to%20personal%20information%20collected%20on%20any%20of%20these%20third-party%20sites.%20When%20you%20access%20third-party%20sites%20through%20a%20link%20on%20this%20Site,%20please%20take%20a%20few%20minutes%20to%20review%20the%20privacy%20policy%20posted%20on%20that%20site.%3C/p%3E%3Cbr%3E%3Cp%3E%3Cb%3EGoverning%20Law%3C/b%3E%3Cbr%3E%20This%20Privacy%20Policy%20is%20governed%20under%20the%20laws%20of%20the%20State%20of%20Minnesota%20without%20regard%20to%20its%20conflicts%20of%20law%20provisions.%3C/p%3E%3Cbr%3E%3Cp%3E%3Cb%3EInterpretation%3C/b%3E%3Cbr%3EAs%20used%20in%20this%20Privacy%20Policy,%20the%20word)
+Our website is not focused on marketing or attracting minors and we do not knowingly collect personal information about anyone under the age of 18. Anyone under the age of 18 should not use this Site. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the federal Children's Online Privacy Protection Act. If you believe that we have received information from a child, please notify us immediately by calling us at 1-800-458-6057 or by sending us an email at [customerservice@blair.com](mailto:customerservice@blair.com) and we will remove that information from our database.
+
+ **SECURITY AND CONFIDENTIALITY**
+
+**In General**  
+We take commercially reasonable administrative, physical and technological security measures to protect your personal information from unauthorized access, unauthorized use, and unauthorized or accidental destruction, modification or disclosure. Although we take commercially reasonable precautions to provide a level of security appropriate to the sensitivity of the personal information we collect, we cannot guarantee the security of information provided over the Internet or stored in our databases.
+
+**Password Protected Areas of This Site**  
+For your protection, certain areas of this Site are password protected. You are responsible for maintaining the confidentiality of your passwords. We have the right to assume that anyone accessing this Site using a password assigned to you has the right to do so. You will be solely responsible for the activities of anyone accessing this Site using a password assigned to you, even if the individual is not, in fact authorized by you. If you have reason to believe that your password has been compromised or used without authorization, you must promptly change it using the functionality provided on this Site.
+
+**Do Not Use Emails to Communicate Sensitive Personal Information**  
+Never provide sensitive personal information (for example, your Social Security number, driver's license number or credit card information) to us via email. Use the appropriate areas of this Site to communicate this information or contact us by telephone.
+
+**Links to Third Party Sites**  
+This site may contain links to Web sites operated by other companies, including websites operated by our third-party service providers, our Marketing Partners, and other third parties. This Privacy Policy does not apply to personal information collected on any of these third-party sites. When you access third-party sites through a link on this Site, please take a few minutes to review the privacy policy posted on that site.
+
+**Governing Law**  
+This Privacy Policy is governed under the laws of the State of Minnesota without regard to its conflicts of law provisions.
+
+**Interpretation**  
+As used in this Privacy Policy, the word "including" means "including, without limitation."
+
+  
+
+
+**Your Nevada Privacy Rights**  
+Under Nevada law, consumers who reside in Nevada have the right to make a verifiable request prohibiting Blair from selling "covered information" that Blair has collected or will collect to a third party ("Verifiable Opt-Out Request From Sale"). "Covered Information" may include your first name and last name; a home or other physical address; and email address; a social security number; an identifier that allows for a person to be contacted either physically or online; or any other information concerning a person collected from the person through the Website and maintained in combination with an identifier that makes the information personally identifiable. Blair may not be required to follow a consumer's Nevada Opt-Out Request from sale under specific circumstances. 
+
+If you are a Nevada consumer and would like to make a Verifiable Opt-Out Request From Sale, please fill out the form found here: [Contact Us](https://www.blair.com/custserv/custserv.jsp?pageName=ContactUs). We intend to respond to Verifiable Opt-Out Requests From Sale within 60 days. If we need more time to respond to a Verifiable Opt-Out Request From Sale, we will notify you of such an extension.
+
+  
+
+
+**Contact Us**  
+If you have questions about this policy or our privacy practices, please email us at [customerservice@blair.com](mailto:customerservice@blair.com) and write "Privacy" in the subject line or write us at:
+
+Blair  
+220 Hickory St.  
+Warren, PA 16366
 
   
 
