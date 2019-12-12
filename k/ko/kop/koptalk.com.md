@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koptalk.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619074644id_/http%3A//www.koptalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koptalk.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212054949id_/http%3A//www.koptalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - KopTalk - Liverpool FC News
 
@@ -20,14 +20,14 @@ KopTalk uses cookies to store information about visitors’ preferences, to reco
 
 → Google, as a third party vendor, uses cookies to serve ads on KopTalk.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to KopTalk and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners  
 **  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-  * [Google](http://www.google.com/ads/preferences/)
-  * [Amazon](http://www.amazon.co.uk/gp/help/customer/display.html?ie=UTF8&*Version*=1&*entries*=0&nodeId=201149560)
+  * [Google](https://www.google.com/ads/preferences/)
+  * [Amazon](https://www.amazon.co.uk/gp/help/customer/display.html?ie=UTF8&*Version*=1&*entries*=0&nodeId=201149560)
 
 
 
@@ -56,10 +56,10 @@ This privacy policy applies only to our online activities and is valid for visit
   * KopTalk does not sell and will never sell your data i.e. your email address
   * KopTalk only obtains your email address to deliver you our services e.g. access to our forums or members website or inclusion on to an email list e.g. Latest Liverpool FC news updates, that you have opted in to (which you can just as easily opt out of)
   * We only track the locations on our website that you visit to ensure the website is working efficiently and to monitor which sections are popular.
-  * Third party vendors, including [Google](http://www.google.com/ads/preferences/), use cookies to serve ads based on your prior visits to our website
+  * Third party vendors, including [Google](https://www.google.com/ads/preferences/), use cookies to serve ads based on your prior visits to our website
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you that are based on your visit to our site and/or other sites across the Internet
-  * You may opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). Alternatively, you can opt out of a third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/)
-  * As well as [Google](http://www.google.com/ads/preferences/), [Clickio](http://legal.clickio.com/PrivacyPolicy/) and [Amazon](http://www.amazon.co.uk/gp/help/customer/display.html?ie=UTF8&*Version*=1&*entries*=0&nodeId=201149560) may also serve adverts on our website
+  * You may opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). Alternatively, you can opt out of a third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/)
+  * As well as [Google](https://www.google.com/ads/preferences/), [Clickio](http://legal.clickio.com/PrivacyPolicy/) and [Amazon](https://www.amazon.co.uk/gp/help/customer/display.html?ie=UTF8&*Version*=1&*entries*=0&nodeId=201149560) may also serve adverts on our website
   * Visitors to our website may visit those advertisers’ websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability) or you can opt out of some third-party vendors’ use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
 
