@@ -1,41 +1,275 @@
-> *The following text is extracted and transformed from the earn.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326114413id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earn.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212205112id_/https%3A//earn.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - The Company Corporation
+# Privacy
 
-## The Company Corporation Privacy Statement 
+### Last Modified: May 25, 2018
 
-**Last Revised:  July 15, 2011**
+This Privacy Policy (the “Policy”) describes how Earn USA, Inc (referred to as "Earn.com" or "we" or “us” or “our”) collects, uses, and handles your personal information when you use websites, pages, mobile applications, features, or content owned or operated by Earn.com, or any Earn.com products and services (collectively the “Services”). Please read carefully through this Policy and the Terms of Use, which governs your use of the Services. 
 
-Our Privacy Statement explains how we gather your personal and company data, how we handle and protect this data, and what further steps you can take to protect your data. We may change this Statement from time to time as the need arises to accurately reflect how we gather and manage your data. All changes to this Statement will be effective upon posting to this Web site without any other notice to you. 
+## 1\. Acceptance
 
-Some affiliates of The Company Corporation have their own Web sites with their own unique privacy statements, tailored to the services that they provide. We encourage you to read those privacy statements carefully when you visit those affiliate sites. 
+By accessing or using the Services, you warrant and represent that you accept the data practices and terms detailed in this Policy. If you do not agree with this Policy, please discontinue your access or use of the Services immediately. This Policy does not apply to services offered by other companies or other sites linked from our Services.
 
-## What Information We Collect, and Why 
+## 2\. Changes to This Privacy Policy
 
-You may browse our site without submitting any personally identifiable information ("personal information") at all. The kinds of information we collect from you will vary, depending on how you use The Company Corporation Web site. In order to process your order, we will collect some standard information such as your name, e-mail address, mailing address, credit card number, and telephone number. For the purpose of forming your corporation or Limited Liability Company (LLC), we will collect the following information: the name you want your business entity to have, a brief description of the purpose of your business, the name and address of the corporation's Registered Agent, the name and address of the directors and officers of your corporation or members or managers for an LLC, and how many shares of stock your corporation will be authorized to issue and the par value of such stock. 
+We may amend this Policy at any time by posting the most current version on our website. If we make any material changes your rights under this Policy, we will notify you by means of a prominent notice in advance of such changes coming into effect. A prominent notice may include sending email notifications to the email address we have on file, or providing you with an in-application notice such as a banner or popup alerting you of the changes. We will update the “Last Modified” date at the top of the Policy when we post the new Policy. Your continued use of the Services after posting of the Policy will constitute your acceptance of the changes.
 
-In addition to the information you choose to submit, our systems are set up to gather certain anonymous data to help us better understand how our site is being used, how to improve our site for your convenience, and study customers' navigation patterns. This automatically gathered data includes your computer's IP or "Internet Protocol" address, statistics about how visitors navigate through our site, and information provided through the use of "cookies."
+In addition, we may provide you with "just-in-time" disclosures or additional information about our data collection, purposes for processing, or other relevant information. The purpose of such just-in-time notices is to supplement or clarify our privacy practices or provide you with additional choices about how we process your personal information.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Our cookies are used for two reasons: (1) to help you keep track of your information for your own convenience; (2) to help us understand our audience in aggregate and the traffic patterns within our site so that we can continuously improve our products and services. 
+## 3\. Our Relationship With You
 
-We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please email us at [info@incorporate.com](mailto:info@incorporate.com). 
+Earn.com has the following relationships with individuals on its Services: 
 
-For your convenience, our Web site may contain links to companies offering products or services through our Web site. These other company Web sites are not under the control of The Company Corporation, and we can make no promises or guarantees regarding data collection or privacy practices on those third party Web sites. These other sites may send their own cookies to users, collect data, or solicit personally identifiable information. We strongly suggest that you review such third parties' privacy policies before providing any data to them. You should contact these entities directly if you have any questions about their use of the information that they collect.
+  * “Users” are individuals providing personal information to us via our website, pages, social media accounts, or other means. For example, Users can sign up to be added to the public Lists, receive marketing communications or newsletters, or interact with us on our social media accounts. Earn.com is in a “data controller” relationship with Users.
 
-## How We Protect and Use Your Personal Information 
+  * “Customers” are individuals that have purchased or obtained the Earn.com Services. Here, Earn.com is in a “data controller” relationship with Customers. 
 
-To protect your personal and credit card information from unauthorized access, all information exchanged between our servers and your Web browser is encrypted using Secure Sockets Layer (SSL) technology and is accessible only by designated staff. All of our employees are made aware of our Confidentiality of Client Information Policy on a regular basis and must acknowledge that they have received and read the same. We also secure the infrastructure that supports information collection, exchange, and storage/retrieval at the following levels. We use firewalls to secure the perimeter of our information network and monitor our systems on a regular basis. We also use an authentication and authorization mechanism based on user i.d. and password to restrict access to your personal information. Each authenticated user only has access to the information that he or she is authorized to use. 
 
-All credit card information, personal information, and company information is treated as confidential and proprietary and is not shared outside The Company Corporation, with the exception of contact information and company formation information. Contact information includes your name, your company's name, and the company's address and phone number. Company formation information includes only the month of formation of your company. From time to time, The Company Corporation may rent or sell such contact information and company formation information to outside parties for marketing or other purposes. No personal or company information other than this contact information is shared with any outside party. If you do not want your contact information to be shared with outside parties, please send a request for such information to be removed to [info@incorporate.com](mailto:info@incorporate.com).
 
-From time to time, The Company Corporation may wish to send you updates or newsletters with topics of interest to our client base. We may occasionally notify you of new services and special offers via e-mail updates. If you would rather not receive any updates from us, please send a request to be removed from our e-mail update list to [info@incorporate.com](mailto:info@incorporate.com). 
 
-## Steps You Can Take to Ensure Your Privacy 
+Hereinafter, we may refer to Users and Customers collectively as “you.”
 
-You play a vital role in ensuring the security of your information on this Web site. Here are a few steps that you can take to maintain the privacy of your information. It is your responsibility to make sure that the information you provide to us is accurate and current. If your information changes, please update your information by going to the contact us section on the Web site. 
+## 4\. What Information Is Collected
 
-You should also take the necessary precautions to safeguard your user i.d. and password to prevent unauthorized access to your information stored on this Web site and the applications within this Web site. 
+When you use our Services, we collect personal information about your use of our Services and information that you send us. We may also obtain information about you from third party sources. 
 
-If you require assistance to update or delete your information, or if you feel that your user i.d. and password have been compromised, you should contact our Customer Service staff at 800-818-6082 (toll-free) or 302-636-5440. Our hours of operation are Monday - Friday from 8 a.m. to 8 p.m. Eastern Time. 
+Throughout this Policy, we use the term "personal information" to describe information that identifies you or makes you identifiable. We do not consider personal information to include information that has been anonymized so that it does not identify a specific individual.
 
-If you wish for your contact information not to be shared with outside parties, or if you would rather not receive any updates from us, please send a request to [info@incorporate.com](mailto:info@incorporate.com). 
+We may collect personal information in the following ways:
+
+  * _Information you give us._ We may collect information that you provide to us, such as when you create an Earn.com Profile, make a comment on our blog, or when you otherwise correspond with us regarding our Services (e.g., inquiry to customer support team, social media, etc.). 
+
+  * _Account Registration._ To create an account on Earn.com, you must provide us with your name, username, and email address. Alternatively, you can use single sign-on (also known as “OAuth”) by logging in to our Services using Facebook's sign-in service, Coinbase, Google or LinkedIn. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address. In addition to your login information, you may upload pictures of yourself, provide additional information when creating a Earn.com account, such as linking to your Facebook, LinkedIn, GitHub, Google, or Twitter or other social media accounts, and more. 
+
+  * _Device Information._ We may collect information about devices you use to access the Services and how you use the Services, such as your Internet Protocol (“IP”) address and which websites you visited before accessing our Services.
+
+  * _Transaction Information._ When you engage in transactions via our Services, we collect transaction-related information such as amount sent, date, and information about the payment instrument used to complete your transaction (e.g. cryptocurrency public address or credit card).
+
+  * _Contact Information._ To engage in cryptocurrency transactions via email, to interact with others via our Services, or to invite others to sign up for Earn.com via our referral program, you may share other individuals’ contact information with us.
+
+  * _Performance and Log Data._ Our servers automatically record information created by your use of our Services, which may include information such as, but not limited to, your IP address, browser type, operating system, command line information, diagnostic information related to the Services (i.e., crash activity reports), the referring web page, pages visited, location, your mobile carrier, device and application IDs, and search terms. 
+
+  * _Cookies._ We use technologies like cookies, web beacons and pixel tags to gather information about how you are interacting with the Services, which may include identifying your IP address, browser type, and referring page. Please see more information about how we use Cookies below.
+
+
+
+
+Parts of our Services are public, such as parts of our Lists and social media accounts, and any information that is disclosed on such public parts of our Services may appear on search engines or other publicly available platforms, and may be “crawled,” searched and used by third parties or other Users and Customers of the Services. Please do not post any information that you do not want to reveal publicly.
+
+## 5\. Third Party Sources of Information
+
+When you use our Services, we may collect personal information about you from the following sources: 
+
+  * _Fraud Prevention Partners._ When you sign up to use certain parts of our Services that require verification, we use fraud prevention partners to obtain information about you to help us manage our risks. Our fraud prevention partners may obtain information about you from public databases and other sources for purposes of verifying your identity. As a part of fraud prevention, we may obtain information about your current and past name, address, job role, public employment profile, status on any sanctions lists maintained by public authorities, and other relevant data. We obtain such information to manage fraud risk and to comply with our legal obligations under sanctions laws and regulations. 
+
+  * _Social Media Platforms._ We collect information about your publicly available social media profiles (e.g. LinkedIn) or other linked accounts (e.g., GitHub, Google+, etc.). We collect this information to better understand you, to maintain and improve the accuracy of the records we hold about you, and to help us monitor, prevent and detect fraud.
+
+
+
+
+## 6\. How Is Collected Information Used
+
+Generally, we collect and use information from you to provide, protect, and improve our Services, and to provide you with a personalized experience when using our Services. For example, when you provide Earn.com with your email address, we may send you updates on new or expanded Services, notices about security updates or change to our policies, and other administrative or transactional information. Much of the information you provide us through our Services is information that is designed to be made public, such as your Earn.com Profile information, including your name, photo, and Earn.com username.
+
+Some specific examples of how Earn.com may use your personal information include:
+
+  1. **To provide you with the Services**. We process your personal information when you sign up for and use our Services (including the Lists and Tasks), make transactions, or participate in our referral program. When you sign up for an Earn.com account, we let you choose which Services you would like to enable. When you enable a new part of the Services, we will disclose how we handle your personal information and ask for any necessary permissions to provide the Services to you. When you enable new Services, you may allow us to collect additional personal information about you or others as necessary to provide the Services. For some parts of our Services, we must verify your identity to manage risks properly and to perform our contract with you. We share your personal information with our service providers and partners to the extent necessary to provide you with the Services. We cannot provide you with the Services without such information. 
+
+  2. **To provide you with administrative communications**. We will contact you to keep you updated about your account and the Services, such as changes to this Privacy Policy, our Terms of Use and our other policies, security updates, or to provide transaction-related information to you. Without such communications, we cannot provide you with important information about your continued use of our Services. 
+
+  3. **For security purposes**. We process your personal information to enhance the security of our Services and to combat spam, malware or other security risks. Our processing includes monitoring your activities on our Services and verifying your identity and access to the Services. Without processing your personal information, we may not be able to ensure the security of our Services. 
+
+  4. **To provide customer service**. When you contact us with questions, concerns, disputes, feedback or any other reason, we process your personal information to respond to you. Without your personal information, we cannot respond to you or ensure your continued enjoyment of our Services.
+
+  5. **To enforce our terms, agreements and policies**. We process your personal information to actively monitor, investigate, prevent and mitigate any alleged or actual prohibited, illicit or illegal activities on our Services or violations of our terms and agreements with you. In addition, we may process your personal information to enforce our agreements with third parties and partners, and/or collect fees based on your use of our Services. We cannot perform our Services in accordance with our terms, agreements or policies without processing your personal information for such purposes.
+
+
+
+
+Designated Countries: For all purposes listed above, pursuant to the EU General Data Protection Regulation (“GDPR”) or any equivalent legislation (collectively “Data Protection Laws”), Earn.com processes the personal information of Users and Customers located in the European Economic Area (“EEA”), United Kingdom and Switzerland (collectively, the “Designated Countries”) based on its contract with such individuals. 
+
+  1. **To maintain legal and regulatory compliance, and to prevent fraud**. We process your personal information to comply with sanctions laws, tax law, or as otherwise necessary to fulfill our other business obligations; identify, prevent, and mitigate fraud on our Services; and/or to manage risk as required under applicable law. We cannot perform the Services in accordance with our legal and regulatory requirements without processing your personal information for such purposes. 
+
+
+
+Designated Countries: Pursuant to the Data Protection Laws, Earn.com processes the personal information of Users and Customers located in the Designated Countries to comply with its legal obligations. 
+
+  1. **To engage in marketing and promotional activities**. Earn.com may send you marketing communications to alert you about new products or services. You can opt-out of our marketing activities at any time. When you share your friends’ contact information with us, we may reach out to them to invite them to use our Services and to continue receiving our communications. However, you are responsible for determining whether the individuals you invite on our Services would like to receive such communications from you – Earn.com does not require you to provide such information to continue enjoying our Services. Please note, transactional communications about your account or our Services are not considered “marketing” communications. 
+
+Designated Countries: For Users and Customers located in the Designated Countries, please see “Marketing Activities” under Section 12 below for more information. 
+
+  2. **To enhance your experience on the Services**. We process your personal information to provide you with a unique and personalized experience on our Services. For example, we allow you to use social media plugins on our Services (e.g., Facebook, Twitter, etc.), we keep track of your preferences (e.g., display name, time zone, etc.), and more. Without such processing, we may not be able to ensure your continued enjoyment of part or all of our Services. 
+
+  3. **To conduct research and development**. In order to offer you new, customized or improved features on our Services, we process your personal information for research and development purposes. Your personal information helps us better understand the way you use and interact with our Services. Without such processing, we cannot ensure your continued enjoyment of part or all of our Services. 
+
+Designated Countries: Pursuant to the Data Protection Laws, Earn.com processes Customer and User personal information to satisfy its legitimate interests as described in bullet points 6.H. and 6.I. above.
+
+
+
+
+We do not sell, exchange, transfer, or give your personal information to any other company or individual for any reason except as set forth below.
+
+  1. We will share personal information with companies or individuals when we have your consent to do so.
+
+  2. We may provide personal information to our trusted services providers to assist us in providing Services to you, and only based on our instructions and in adherence with this Policy and applicable confidentiality and security measures.
+
+  3. If we are involved in a merger or acquisition, your personal information may be transferred as part of that transaction. In such event, we will require that your personal information be protected in accordance with this Policy. We will notify you of any change in applicable policy.
+
+  4. We will share personal information with law enforcement or other third parties if we: (1) are compelled to do so to comply with any applicable law or legal process; or (2) believe in good faith that disclosure is necessary to prevent physical harm, illegal activity, or harm to the rights, property, or safety of Earn.com or others.
+
+  5. If you elect to donate your earnings to charity or a nonprofit, Earn.com will share with such information with the charity or nonprofit for tax and other compliance reporting purposes. Such information may include, but is not limited to, your name, email, and mailing address.
+
+Designated Countries: Pursuant to the Data Protection Laws, Earn.com processes your personal information for 7.A. based on your consent; for 7.B. based on our contract with you or to take steps as directed by you to enter into a contract; for 7.C. based on our legitimate interest; for 7.D. to comply with our legal obligations, to protect your vital interests, or in the public interest; and for 7.E. based on our contract with you.
+
+
+
+
+## 8\. How We Protect Your Information
+
+Earn.com takes reasonable precautions to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. We maintain physical, technical and procedural safeguards to protect the confidentiality and security of your personal information. Such safeguards include the use of firewalls and data encryption, enforcing physical access controls to our buildings and files, and limiting access to personal information only to those employees, agents or third parties who need access to that information to process it for us. We contractually require all third-party service providers to maintain appropriate security measures to protect your personal information. 
+
+However, you are also responsible for keeping your personal information confidential and secure. Earn.com cannot guarantee that your personal information will be 100% safe while using its Services. You should choose a password that is complex (e.g., special characters and numbers, sufficient length, etc.) and keep your password confidential. Do not leave your device unlocked so that other individuals may access your device or Earn.com account. Earn.com is not in control of your wireless connection or the devices you use to log into the Earn.com Services, so you should make sure you trust the devices and connections you use to access the Services. 
+
+If you believe that you have experienced unauthorized access or use of your Earn.com account, please contact us immediately at [support@earn.com](mailto:support@earn.com). 
+
+## 9\. Retention of Your Information
+
+We store your personal information for as long as we need it to provide you the Services, to serve the purpose(s) for which your personal information was processed, or as necessary to comply with our legal obligations, resolve disputes, or enforce our agreements to the extent permitted by law. While retention requirements can vary by country, we generally apply the retention periods noted below.
+
+  * **Marketing**. We store information used for marketing purposes indefinitely until you unsubscribe. Once you unsubscribe from marketing communications, we add your contact information to our suppression list to ensure we respect your unsubscribe request.
+
+  * **Your Interactions and Content on Our Services**. We may store any information about your interactions on our Services or any content created, posted or shared by you on our Services (e.g., pictures, comments, support tickets, and other content) as long as necessary after the closure your account for the establishment or defense of legal claims, audit and crime prevention purposes.
+
+  * **Web Behavior Data**. We retain any information collected via cookies, clear gifs, flash cookies, webpage counters and other technical or analytics tools up to one year from expiry of the cookie or the date of collection. 
+
+
+
+
+If you have any questions about our retention periods, please feel free to contact us. 
+
+## 10\. Children
+
+We do not knowingly request to collect personal information from any person under the age of 18. If a User or Customers submitting personal information is suspected of being younger than 18 years of age, we will require the User or Customer to close his or her account and will not allow continued use of the Services. We will also take steps to delete the information as soon as possible, unless an exception applies. Please notify us if you know of any individuals under the age of 18 using our Services so we can take action to prevent access to our Services.
+
+## 11\. Cookies & Similar Tracking Technologies
+
+When you access our Services, we may place small data files called “cookies” or “pixel tags” on your device. We use these files to understand, secure, operate, and provide our Services. In some cases, we may use cookies and similar technologies to collect personal information, or information that becomes personal information if we combine it with other information. Cookies can store information in different ways: 
+
+  * Session cookies. A session cookie lasts while your browser is open and is automatically deleted when you close your browser.
+
+  * Persistent cookies. A persistent cookie lasts until you or your browser deletes the cookies or they expire.
+
+
+
+
+We may place "first party cookies” or “third-party cookies” on our Services. A first party cookie is a cookie that we set on our Services, while a third-party cookie is set by parties other than Earn.com. A third-party cookie can recognize your computer both when it visits our Services and when it visits other websites or applications. Earn.com does not control how third-party cookies are used. You should check the third party’s website for more information about how they use cookies.
+
+  1. **Types of Cookies Collected**. We collect the following types of cookies: 
+
+    * _Strictly Necessary Cookies_. These cookies are essential because they enable you to move around our Services and use certain features on our Services. For example, strictly necessary cookies allow you to access secure areas. Without these cookies, some Services cannot be provided.
+
+    * _Performance/Analytics Cookies_. These cookies collect information about how you use a website. For example, a performance or analytics cookie will collect information about which pages you go to most often, if you get error messages from certain pages, or how much time you spend on a page. These cookies are important because they help us maintain and improve our Services.
+
+    * _Functionality Cookies_. These cookies allow us to remember the choices you make and to tailor our Services to your preferences so we can provide relevant content to you. For example, a functionality cookie can remember your preferences (e.g., country or language selection), or your username. Without these cookies, you may not be able to refer other users to our Services to collect earnings. Without these cookies, you may not be able to enjoy some of the Services.
+
+    * _Advertising Cookies_. These cookies allow us to provide you advertisements based on your interests and preferences. They collect information to measure the efficacy of an advertisement, such as which advertisements you clicked on, whether you made a purchase, and what the advertisement was about.
+
+  2. **Do Not Track**. Some Internet browsers allow you to transmit “Do Not Track” signals, but our Services do not respond to “Do Not Track” signals because we do not track our Users or Customers over time and across third-party websites to provide targeted advertising.
+
+  3. **Retention**. Retention periods for cookie information depend on the type of cookie. Session cookies only stay as long as you are browsing with your device, while persistent cookies stay on your browsing device until they expire or are deleted. Each category of cookie listed above is either a session cookie or persistent cookie. The retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used. You can delete cookie data as described below.
+
+  4. **Managing Your Cookies**.
+
+    * _First Party Cookies_ : To manage first-party cookies, you can follow the instructions provided by your browser or device (see your “Settings” or “Preferences”) to modify your cookie settings. Please note, if you choose to disable or not accept cookies, parts of the Services may lose functionality or become inaccessible.
+
+    * _Third-Party Cookies_ : To opt-out of third-party advertising networks and similar entities that use targeting/advertising cookies, go to [http://www.aboutads.info/choices](https://earn.com/external-redirect/?redirect_uri=http%3A%2F%2Fwww.aboutads.info%2Fchoices). Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising entities. For more information about third-party advertising networks and similar entities that use these technologies, please see [http://www.aboutads.info/consumers](https://earn.com/external-redirect/?redirect_uri=http%3A%2F%2Fwww.aboutads.info%2Fconsumers).
+
+    * _Mobile Advertising_ : To manage advertising on your mobile device, go to your settings or preferences on your mobile device. If you opt out of mobile advertising cookies, advertising cookies will no longer collect information about you and all information already collected about you will be removed, including your random ID.
+
+Designated Countries: Pursuant to the Data Protection Laws, Earn.com processes your personal information to satisfy its legitimate interests as described above. As required by law, Earn.com will ask for your consent.
+
+
+
+
+## 12\. Access & Modification of Your Information
+
+If you would like to access the information we hold on you or would like to modify the information we have on file, please contact us at [support@earn.com](mailto:support@earn.com). We reserve the right to limit your access or modifications if your requests are too frequent and/or burdensome, or as necessary to manage our risks or comply with our contractual or legal obligations.
+
+For individuals residing in Designated Countries, please refer to Section 15 entitled “Designated Countries Privacy Rights” below for more information.
+
+## 13\. Our Communications to You
+
+We want to keep you up-to-date with new or expanded Services, provide you with important information about your account or transactions, and send you information we believe interests you. Any communications from us that are not Service-related or transactional in nature will offer you an "unsubscribe" option so that you can opt out of receiving such messages. 
+
+For individuals residing in Designated Countries, please refer to the “Designated Countries Privacy Rights” section below for more information.
+
+## 14\. California Privacy Rights
+
+If you are a California resident, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties for the third parties’ direct marketing purposes. California law provides that you have the right to submit a request to us at our designated address and receive the following information: (a) the categories of information we disclosed to third parties for the third parties’ direct marketing purposes during the preceding calendar year; and (b) the names and addresses of third parties that received such information, or if the nature of their business cannot be determined from the name, then examples of the products or services marketed. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. You may make such a request by emailing [support@earn.com](mailto:support@earn.com). 
+
+## 15\. Designated Countries Privacy Rights
+
+This Section only applies to Users and Customers of the Services that are located in the European Economic Area, United Kingdom and/or Switzerland (collectively, the “Designated Countries”) at the time of data collection. We may ask you to identify which country you are located in when you use some of the Services, or we may rely on your IP address to identify which country you are located in. Where we rely only on your IP address, we cannot apply the terms of this Section to any User or Customer that masks or otherwise obfuscates their location information so as not to appear located in the Designated Countries. If any terms in this Section conflict with other terms contained in this Policy, the terms in this Section shall apply to Users and Customers in the Designated Countries. 
+
+  1. **Our Relationship to You.** Earn.com is a data controller with regard to any personal information collected from Customers or Users of its Services. A “data controller” is an entity that determines the purposes for which and the manner in which any personal information is processed. Any third parties that act as our service providers are “data processors” that handle your personal information in accordance with our instructions. 
+
+
+  1. **Lawful Basis for Processing Your Personal Information.** We describe our lawful bases for processing in Section 6 (“How Is Collected Information Used”) and Section 7 (“Information We Share”) under headings entitled “Designated Countries.” The lawful bases on which we rely to process your personal information include: your consent to the processing; satisfaction of our legal obligations; to protect your vital interests; to carry out our obligations arising from any contracts we entered with you or to take steps at your request prior to entering into a contract with you; in the public interest; or for our legitimate interests as described in those sections.
+
+
+  1. **Marketing Activities.** Direct marketing includes any communications we send to you that are only based on advertising or promoting products and services. Transactional communications about your account or our Services are not considered “direct marketing” communications. We will only contact Users or Customers by electronic means (including email or SMS) based on our legitimate interest or their consent. When we rely on legitimate interest, we will only send you information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you.
+
+If you do not want us to use your personal information in this way, please click an unsubscribe link in your emails, or contact us at [support@earn.com](mailto:support@earn.com). You can object to direct marketing at any time and free of charge. 
+
+
+
+  1. **Individual Rights.** We provide you with the rights described below when you use our Services. Please contact us at [support@earn.com](mailto:support@earn.com) if you would like to exercise your rights under applicable law. When we receive an individual rights request from you, please make sure you are ready to verify your identity. 
+
+Please be advised that there are limitations to your individual rights. We may limit your individual rights in the following ways: (i) where denial of access is required or authorized by law; (ii) when granting access would have a negative impact on other's privacy; (iii) to protect our rights and properties; and (iv) where the request is frivolous or burdensome.
+
+
+
+  * 1) **Right to withdraw consent.** If we rely on consent to process your personal information, you have the right to withdraw your consent at any time. A withdrawal of consent will not affect the lawfulness of our processing or the processing of any third parties based on consent before your withdrawal.
+
+
+  * 2) **Right of access and rectification.** If you request a copy of your personal information that we hold, we will provide you with a copy without undue delay and free of charge, except where we are permitted by law to charge a fee. We may limit your access if such access would adversely affect the rights and freedoms of other individuals. You may request to correct or update any of your personal information held by us, unless you can already do so directly via the Services.
+
+
+  * 3) **Right to erasure (the “Right to be Forgotten”).** You may request us to erase any of your personal information held by us that: is no longer necessary in relation to the purposes for which it was collected or otherwise processed; was collected in relation to processing that you previously consented to, but later withdrew such consent; or was collected in relation to processing activities to which you object, and there are no overriding legitimate grounds for our processing.
+
+
+  * 4) **Right to restriction.** You have the right to restrict our processing your personal information where one of the following applies: 
+
+    * a) You contest the accuracy of your personal information that we processed. We will restrict the processing of your personal information, which may result in an interruption of some or all of the Services, during the period necessary for us to verify the accuracy of your personal information.
+    * b) The processing is unlawful and you oppose the erasure of your personal information and request the restriction of its use instead.
+    * c) We no longer need your personal information for the purposes of the processing, but it is required by you to establish, exercise or defense of legal claims. 
+    * d) You have objected to processing, pending the verification whether the legitimate grounds of our processing override your rights.
+    * e) We will only process your restricted personal information with your consent or for the establishment, exercise or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest. We will inform you if or when the restriction is lifted.
+
+
+  * 5) **Right to object to processing.** You may object to our processing at any time and as permitted by applicable law if we process your personal information on the legal basis of consent, contract or legitimate interests. We can continue to process your personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
+
+
+  * 6) **Right to data portability.** If we process your personal information based on a contract with you or based on your consent, or the processing is carried out by automated means, you may request to receive your personal information in a structured, commonly used and machine-readable format, and to have us transfer your personal information directly to another “controller”, where technically feasible, unless exercise of this right adversely affects the rights and freedoms of others.
+
+
+  * 7) **Notification to third-parties.** If we share your personal information with third parties, we will notify them of any requests for rectification, erasure or restriction of your personal information, unless this proves impossible or involves disproportionate effort. Upon your request, we will identify such third parties.
+
+
+  * 8) **Automated individual decision-making, including profiling.** You have the right not to be subject to a decision based solely on automated processing of your personal information, including profiling, which produces legal or similarly significant effects on you, unless an exception applies under applicable law.
+
+
+  * 9) **Right to Lodge a Complaint.** If you believe we have infringed or violated your privacy rights, please contact us at [support@earn.com](mailto:support@earn.com) so that we can work to resolve your concerns. You also have a right to lodge a complaint with a competent supervisory authority situated in a Member State of your habitual residence, place of work, or place of alleged infringement.
+
+
+  1. **Data Protection Officer**. You may reach our Data Protection Officer at [dpo@earn.com](mailto:dpo@earn.com).
+
+
+
+## 16\. Cross-Border Transfer of Personal Information
+
+We may store, process and transmit personal information in locations around the world, including locations outside of the country or jurisdiction where you are located. Such countries or jurisdictions may have data protection laws that are less protective than the laws of the jurisdiction in which you reside. Some information may also be stored locally on devices you use to interact with Earn.com’s Services. If you do not want your information transferred to or processed or maintained outside of the country or jurisdiction where you are located, you should not use our Services.
+
+_Designated Countries:_ Earn.com transfers your personal information subject to appropriate safeguards as permitted under the Data Protection Laws. Specifically, when your personal information is transferred out of the Designated Countries, we have the required contractual provisions for transferring personal information in place with the third parties to which your information is transferred. For such transfers, we rely on legal transfer mechanisms such as Standard Contractual Clauses or we work with U.S. based third parties that are certified under the EU-U.S. and Swiss-U.S. Privacy Shield Framework.
+
+If you have questions or concerns regarding this Policy or would like to access, change or delete your personal information, or have a complaint, please contact us on our support page or by emailing us at [support@earn.com](mailto:support@earn.com) or contacting us at Earn USA, Inc., 548 Market Street #23008, San Francisco, CA 94104.
