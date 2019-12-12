@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Web Site Privacy Policy | U.S. COMMODITY FUTURES TRADING COMMISSION
 
 The privacy of visitors to our websites, [www.cftc.gov](https://web.archive.org/), [www.SmartCheck.gov](https://smartcheck.cftc.gov/), and [www.WhistleBlower.gov](https://www.whistleblower.gov/), is of the utmost importance to the CFTC. You are not required to give us any personal information to visit our websites. While we automatically collect certain data for statistical purposes, that data does not include your name, mailing or email address.
 
-[Information Collected and Stored Automatically](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#infocollected)  
-[Cookies](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#cookies)  
-[If You Choose to Send Us Personal Information](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#personalinfo)  
-[Sharing of Your Information](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#sharinginfo)  
-[Linking to Other Websites](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#linking)  
-[Use of Social Media Sites](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#socialmedia)  
-[Security](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#security)  
-[Intrusion Detection Monitoring and US-CERT EINSTEIN Program](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#intrusion)  
-[Other Privacy Information: Systems of Records Notices and Privacy Impact Assessments](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#otherinfo)  
-[Questions About Privacy](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#privacyquestions)
+[Information Collected and Stored Automatically](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#infocollected)  
+[Cookies](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#cookies)  
+[If You Choose to Send Us Personal Information](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#personalinfo)  
+[Sharing of Your Information](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#sharinginfo)  
+[Linking to Other Websites](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#linking)  
+[Use of Social Media Sites](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#socialmedia)  
+[Security](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#security)  
+[Intrusion Detection Monitoring and US-CERT EINSTEIN Program](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#intrusion)  
+[Other Privacy Information: Systems of Records Notices and Privacy Impact Assessments](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#otherinfo)  
+[Questions About Privacy](https://web.archive.org/web/20191212142622id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#privacyquestions)
 
 ### Information Collected and Stored Automatically
 
@@ -46,7 +46,7 @@ For example, if you send us a comment letter on a proposed rule, that letter bec
 If you choose to provide personal information, you are consenting to the CFTC’s use of that information and allowing the information to be shared with CFTC employees and contractors to conduct official business. Such employees and contractors are subject to confidentiality restrictions to protect your personal information. The information may also be shared by the CFTC with third parties to advance the purpose for which you provide the information, including law enforcement, foreign government authorities, and other federal or state government agencies. Your information will only be used to perform official business for which it was collected and for other uses compatible with the purposes for which it was collected. For example:
 
   1. If you report suspicious activity that suggests a violation of the Commodity Exchange Act, the information you have provided may be shared with law enforcement, foreign government authorities, and other federal or state agencies. In this situation, the primary use of your PII would be to enable the government to contact you in the event we have questions regarding the information you have reported.
-  2. If you populate a Tip, Complaint or Referral (TCR) form to be considered as a whistleblower under the Dodd-Frank Act, the information you have provided may be disclosed to the Whistleblower Award Determination Panel, and depending on whether you have requested anonymity and the extent of the investigation into your allegations, to law enforcement, foreign government authorities and other federal or state agencies, in accordance with the Commodity Exchange Act. In this situation, the primary use of your PII would be to:
+  2. If you populate a Tip, Complaint or Referral (TCR) form to be considered as a whistleblower under the Dodd-Frank Act, the information you have provided may be disclosed to the Claims Review Staff, and depending on whether you have requested anonymity and the extent of the investigation into your allegations, to law enforcement, foreign government authorities and other federal or state agencies, in accordance with the Commodity Exchange Act. In this situation, the primary use of your PII would be to:
 
 
 
