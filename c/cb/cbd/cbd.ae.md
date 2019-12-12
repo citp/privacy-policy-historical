@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbd.ae privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226215742id_/https%3A//www.cbd.ae/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbd.ae privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212055236id_/https%3A//www.cbd.ae/general/privacy-policy) for the most accurate reproduction.*
 
 # CBD.ae | Privacy Policy
 
