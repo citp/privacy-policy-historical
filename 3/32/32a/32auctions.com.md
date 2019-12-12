@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 32auctions.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903150012id_/https%3A//www.32auctions.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32auctions.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212165133id_/https%3A//www.32auctions.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 32auctions
 
 Last updated: June 21, 2018
 
-In this Privacy Policy references to "32auctions, LLC", "32auctions", “we", “us" or “our" means 32auctions, LLC, a limited liability company based in the United States. References to “you" or “your" means the person accessing and using the 32auctions website, including all web pages that include a link to this Privacy Policy (collectively, the “Website") and/or using the services that we make available to you via the Website (the “Services").
+In this Privacy Policy references to "32auctions, LLC", "32auctions", "we", "us" or "our" means 32auctions, LLC, a limited liability company based in the United States. References to "you" or "your" means the person accessing and using the 32auctions website, including all web pages that include a link to this Privacy Policy (collectively, the "Website") and/or using the services that we make available to you via the Website (the "Services").
 
-Your privacy is important to us. This Privacy Policy explains our online information practices, including what information we collect, who is responsible for the personal information collected, and how we will use such information, and the choices you can make about the way your information is collected and used. In this Privacy Policy where we use the words “personal information" we use these words to describe information that is about you and which identifies you.
+Your privacy is important to us. This Privacy Policy explains our online information practices, including what information we collect, who is responsible for the personal information collected, and how we will use such information, and the choices you can make about the way your information is collected and used. In this Privacy Policy where we use the words "personal information" we use these words to describe information that is about you and which identifies you.
 
 We are the data controller for the purpose of data protection law, in respect of your personal information collected and used through your use of the Website and the Services. This is because we dictate the purpose for which your personal information is used and how we use your personal information.
 
@@ -25,7 +25,7 @@ Name; email address and telephone number
 If you are a winning bidder, we may collect shipping information  
   
 ---|---  
-Account information | Login information; account preferences; bidder name  
+Account information | Login information; account preferences; display name  
 Donor information | An auction administrator may enter information about a donor (an individual or organization that provides items for bidding), including donor name; website; address and phone number  
 Organization information | An auction administrator may enter information about an organization running an auction, including organization name; website; address and phone number  
 Marketing preferences, marketing activities and customer feedback | 
@@ -83,7 +83,7 @@ Purpose | Legal Basis
 ---|---  
 To communicate with you and other individuals | For our legitimate business purposes (i.e., the provision of the Website and our Services)  
 To provide you with the Website and the Services | For our legitimate business purposes (i.e., the provision of the Website and our Services), and depending on the circumstances, to perform a contract between you and us  
-To notify you about changes to the Website or the Services (such as when we send auction administrators “what's new" emails to announce new features) | For our legitimate business purposes (i.e., the provision of the Website and our Services)  
+To notify you about changes to the Website or the Services (such as when we send auction administrators "what's new" emails to announce new features) | For our legitimate business purposes (i.e., the provision of the Website and our Services)  
 To audit and monitor the use of the Website (including to create audit trails of usage) | 
 
 For our legitimate business purposes (i.e., the provision of the Website and our Services, as well as to improve and monitor the security of the Website)
@@ -167,7 +167,7 @@ Right to erasure of your personal information: | You have the right to ask that 
 Right to restrict the use of your personal information | You have the right to suspend our use of your personal information in certain circumstances. For example (i) where you think your personal information is inaccurate and only for such period to enable us to verify the accuracy of your personal information; (ii) the use of your personal information is unlawful and you oppose the erasure of your personal information and request that it is suspended instead; (iii) we no longer need your personal information, but your personal information is required by you for the establishment, exercise or defense of legal claims; or (iv) you have objected to the use of your personal information and we are verifying whether our grounds for the use of your personal information override your objection.  
 Right to data portability | You have the right to obtain your personal information in a structured, commonly used and machine-readable format and for it to be transferred to another organization, where it is technically feasible. The right only applies where the use of your personal information is based on your consent or for the performance of a contract, and when the use of your personal information is carried out by automated (i.e., electronic) means.  
 Right to object to the use of your personal information | You have the right to object to the use of your personal information in certain circumstances. For example (i) where you have grounds relating to your particular situation and we use your personal information for our legitimate interests (or those of a third party); and (ii) if you object to the use of your personal information for direct marketing purposes.  
-Right to withdraw consent | You have the right to withdraw your consent at any time where we rely on consent to use your personal information.  
+Right to withdraw consent | You have the right to withdraw your consent at anytime where we rely on consent to use your personal information.  
 Right to complain to the relevant data protection authority | You have the right to complain to the relevant data protection authority where you think we have not used your personal information in accordance with data protection law.  
   
 ####  Links to Third-Party Websites 
@@ -190,7 +190,7 @@ California law permits California residents who provide us with personal informa
 
 ####  Do-Not-Track Disclosure 
 
-Certain mechanisms may allow you to send web browser signals, known as “Do Not Track" (“DNT") signals, indicating your choice to disable tracking on the Website. We do not respond to browser do not track signals at this time. We may not be aware of or able to honor and respond to every such mechanism. More information about “do not track" is available at www.allaboutdnt.org concerning such information.
+Certain mechanisms may allow you to send web browser signals, known as "Do Not Track" ("DNT") signals, indicating your choice to disable tracking on the Website. We do not respond to browser do not track signals at this time. We may not be aware of or able to honor and respond to every such mechanism. More information about "do not track" is available at www.allaboutdnt.org concerning such information.
 
 ####  How To Contact Us 
 
