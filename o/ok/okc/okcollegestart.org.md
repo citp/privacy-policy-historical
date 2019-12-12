@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okcollegestart.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615112712id_/https%3A//secure.okcollegestart.org/Home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcollegestart.org privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212141214id_/https%3A//secure.okcollegestart.org/Home/privacy.aspx) for the most accurate reproduction.*
 
 # OKcollegestart - Privacy Policy
 
