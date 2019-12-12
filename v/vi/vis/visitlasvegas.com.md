@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlasvegas.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505151630id_/https%3A//www.visitlasvegas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlasvegas.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212221609id_/https%3A//www.visitlasvegas.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | VisitLasVegas.com
 
@@ -85,7 +85,6 @@ The service providers we use for online advertising may change. By visiting our 
 Such service providers include:
 
   * Simpleview Inc. 
-  * Precision Dialogue Marketing
   * Salesforce.com
   * NewsMarket 
   * Questex 
@@ -93,6 +92,14 @@ Such service providers include:
   * Governmentjobs.com 
   * Cordell
   * Jackrabbit Systems
+  * Destinations International
+  * iPost
+  * Travel Relations LLC
+  * TravPro Mobile
+  * RR Donnelley
+  * Cision
+  * Reach Global Marketing Ltd.
+  * MMGY Hills Balfour
 
 
 
