@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thedrive.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331050947id_/https%3A//thedrivemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrive.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212093501id_/https%3A//thedrivemedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – The Drive Media, Inc. – The Drive Media, Inc.
+# Privacy Policy – The Drive Media, Inc.
 
-## ****
+## [](https://thedrivemedia.com/)
 
-## **Privacy Policy**
+## Privacy Policy
 
 This Privacy Policy discloses the privacy practices for this site, The Drive owned and operated websites and mobile apps on which it appears, our email newsletters and other applications owned and operated by The Drive, including offline and online subscriptions and other product offerings (collectively referred to as the “Services”), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by The Drive and its subsidiaries.
 
@@ -14,11 +14,11 @@ This Privacy Policy is intended to assist you in making informed decisions when 
 
 Please also note that this Privacy Policy only applies to the use of your personal information obtained by us, it does not apply to your personal information collected during your communications with third parties.
 
-### **1.** **Who are we and what do we do?**
+### 1\. Who are we and what do we do?
 
 The Web Site and our Services are operated by The Drive (“ **we** ”, “ **us** ” or “ **our** ”). We are the data controller responsible for your personal information.
 
-### **2.** **The information we collect and how do we use it?**
+### 2\. The information we collect and how do we use it?
 
 Through the Services, you can, among other activities, order publications and products; engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities.
 
@@ -59,11 +59,11 @@ We collect and maintain personal information that you voluntarily submit to us d
     * **Events** – any applicable third party hosting the event; ticketing companies such as Eventbrite;
 
 
-  *   * 
+  * **What is our legal basis?**
 
 
-**What is our legal basis?  
-**It is necessary for us to use your personal information to perform our obligations in accordance with any contract that we may have with you. ** **
+
+It is necessary for us to use your personal information to perform our obligations in accordance with any contract that we may have with you. ** **
 
 ### **Client service enquiries.**
 
@@ -209,8 +209,6 @@ Where you are a registered user of Facebook, or of a Google service, we will use
       * the information Facebook and/or Google hold about you.
 
 
-  * 
-
 
 We do this using Facebook Lookalike Audiences and/or Google Similar Audience respectively. Please note that such activity is subject to the privacy choices you have elected to make on such services.
 
@@ -251,7 +249,7 @@ Where we share your sensitive personal information, we shall obtain your consent
 
 
 
-### 3\. **How** **do we obtain your consent?**
+### 3\. How do we obtain your consent?
 
 Where our use of your personal information requires your consent, you can provide such consent:
 
@@ -260,7 +258,7 @@ Where our use of your personal information requires your consent, you can provid
 
 
 
-### **4.** **Your California Privacy Rights: Notice to California Customers**
+### 4\. Your California Privacy Rights: Notice to California Customers
 
 _California’s “Shine the Light” law_
 
@@ -270,7 +268,7 @@ _California Do Not Track Disclosures_
 
 “Do Not Track” is a privacy preference that users can set in their web browsers. When a user turns on a Do Not Track signal in their browser, the browser sends a message to websites requesting that they do not track the user. For information about Do Not Track, please visit [www.allaboutdnt.org](http://www.allaboutdnt.org/). At this time, we do not respond to Do Not Track browser settings or signals. In addition, we use other technology that is standard to the internet, such as pixel tags, web beacons, and other similar technologies, to track visitors to the website. Those tools may be used by us and by third parties to collect information about you and your internet activity, even if you have turned on the Do Not Track signal. For information on how to opt out from tracking technologies used on our website, see our cookies policy.
 
-### **5.** **Collection of Information by Third Parties**
+### 5\. Collection of Information by Third Parties
 
 Some of our Services contain links to third party sites and services whose privacy practices may be different than ours. We also allow you to connect with other third party sites and services. Please remember that when you use a link to go from our Web Site to another website or you request a service from a third party, this Privacy Policy no longer applies.
 
@@ -288,7 +286,7 @@ We may use third parties to present or serve advertisements, including online be
 
 Note regarding Market Research/Ratings: Our Services may also feature Nielsen’s proprietary measurement software which may contribute to market research, like Nielsen’s TV Ratings. To learn more about this information, please click [here](http://www.nielsen.com/digitalprivacy). Nielsen’s software may collect your choices with regards to it.
 
-### **6.** **Cookies and other Tracking Technologies**
+### 6\. Cookies and other Tracking Technologies
 
 We may place “cookies” on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
 
@@ -307,7 +305,7 @@ Some of the tracking technologies we may use include:
 
 These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
 
-### **7.** **Our Commitment to Security**
+### 7\. Our Commitment to Security
 
 We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect.
 
@@ -324,7 +322,7 @@ All of our employees and data processors (i.e. those who process your personal i
 
 No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-### **8.** **Accessing, Correcting, and Deleting Your Personal Information**
+### 8\. Accessing, Correcting, and Deleting Your Personal Information
 
 We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates. You have the following rights in relation to the personal information we hold about you:
 
@@ -355,7 +353,7 @@ We will take reasonable steps to accurately record the personal information that
 
 
 
-### **9.** **Retention of Personal Information**
+### 9\. Retention of Personal Information
 
 We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity.
 
@@ -363,17 +361,17 @@ If your information is only useful for a short period e.g. for specific marketin
 
 Your rights to request that we delete your personal information are set forth in the **“Accessing, Correcting, and Deleting Your Personal Information”** section above.
 
-### **10.** **Special Note for Parents**
+### 10\. Special Note for Parents
 
 The site you are visiting is not intended for use by children. Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations protect the privacy of children using the internet. We do not knowingly contact or collect information from persons under the age of 18. The website is not intended to solicit information of any kind from persons under the age of 18. It is possible that we could receive information pertaining to persons under the age of 18 by the fraud or deception of a third party. If we are notified of this, as soon as we verify the information, we will, where required by law to do so, immediately obtain the appropriate parental consent to use that information or, if we are unable to obtain such parental consent, we will delete the information from our servers. If you would like to notify us of our receipt of information about persons under the age of 18, please do so by e-mail or post using the contact details set out in this Privacy Policy.
 
-### **11.** **Changes to this Privacy Policy**
+### 11\. Changes to this Privacy Policy
 
 We may make changes to this Privacy Policy from time to time.
 
 To ensure that you are always aware of how we use your personal information we will update this Privacy Policy from time to time to reflect any changes to our use of your personal information. We may also make changes as required to comply with changes in applicable law or regulatory requirements. We encourage you to review this Privacy Policy periodically to be informed of how we use your personal information.
 
-### **12.** **How to** **contact us?**
+### 12\. How to contact us?
 
 If you have any questions about this Privacy Policy or want to exercise your rights set out in this Privacy Policy, please contact us by:
 
