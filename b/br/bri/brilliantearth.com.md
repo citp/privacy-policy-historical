@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929031714id_/https%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212085209id_/https%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
 
 # Brilliant Earth: Security Policy & Privacy Policy
 
-## Brilliant Earth Privacy Policy
-
-#### Introduction and Overview
+### Introduction and Overview
 
 This Privacy Policy explains what information Brilliant Earth, LLC (“Brilliant Earth”, “we”, “our” or “us”) collects, why we collect this information, and how we use the information we collect as well as your rights and choices regarding such information. Our Privacy Policy applies to your use of any online service location that posts a link to this Privacy Policy and all features, content, and other services that we own, control, or make available (collectively, the “Service”).
 
@@ -12,11 +10,11 @@ By using the Service, you agree to our [Terms and Conditions](https://www.brilli
 
 Brilliant Earth encourages you to periodically review this Privacy Policy to learn about our privacy practices. If you have questions or concerns about our privacy policy, please contact Brilliant Earth as set forth in the section entitled “Contact Us” below.
 
-#### Data Controller
+### Data Controller
 
 EU data protection law makes a distinction between organizations that process personal data for their own purposes (known as “controllers”) and organizations that process personal data on behalf of other organizations (known as “processors”). Brilliant Earth, located at the address in the section entitled “Contact Us” below, is the controller with respect to information you provide through the Service.
 
-#### Information We Collect
+### Information We Collect
 
 #### Information You Provide
 
@@ -30,7 +28,7 @@ The information we collect includes information that identifies you personally (
   * **Payment Data.** We collect data necessary to process your payment if you make a purchase, including your payment instrument number (such as a credit card number), and the security code associated with your payment instrument.
   * **Profile Data.** We collect your interests, favorites, wish lists, ring size preferences, and other profile data.
   * **Contacts.** We collect data about your contacts in order to fulfill a request by you. For example, when you e-mail a product to a friend or refer a friend through the Service, we request that you provide names and e-mail addresses for you and your friend. This helps ensure that your friend will know that you have requested that Brilliant Earth send them an e-mail. The information Brilliant Earth collects from you and your friend will only be used in ways as set forth in this Privacy Policy. By using this functionality, you acknowledge and agree that you have your contacts’ consent for us to use their contact information to fulfill your request.
-  * **Content.** We collect the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide to customer support. For example, if you contact a customer service representative or jewelry consultant and provide information to the consultant or submit a request through our Service, we will use your information to respond to your request and to provide you with additional information that we believe may be helpful to you.
+  * **Content.** We collect the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide to customer support. For example, if you contact a customer service representative or jewelry consultant and provide information to the consultant or submit a request through our Service, we will use your information to respond to your request and to provide you with additional information that we believe may be helpful to you. We may also collect content such as photos, videos or other content that you submit to us.
   * **Resume Data.** We collect data as necessary to consider you for a job opening if you submit an application to us, including your employment history, transcript, writing samples, and references.
 
 
@@ -51,21 +49,19 @@ Brilliant Earth automatically collects information about your device and how you
 Brilliant Earth collects data through the use of cookies, web logs, web beacons and other tracking technologies (now and hereafter developed) (“Tracking Technologies”), including the following:
 
   * **Log Files.** Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
-  * **Cookies.** “Cookies” are small pieces of information that are stored by your browser on your device's hard drive. We use cookies on certain pages of our Service to, among other things, analyze our web page flow, measure promotional effectiveness, deliver you a more customized shopping experience, track visits from our affiliates and partners and allow the use of our shopping cart.
-
-
+  * **Cookies.** “Cookies” are small pieces of information that are stored by your browser on your device's hard drive. We use cookies on certain pages of our Service to, among other things, analyze our web page flow, measure promotional effectiveness, deliver you a more customized shopping experience, track visits from our affiliates and partners and allow the use of our shopping cart. 
 
 Brilliant Earth uses cookies for various purposes, including the following:
 
-  * Operational: Cookies are essential in order for you to use our Service, such as our shopping bag, as well as to access password protected areas, such as your personal account.
-  * Analytics and Performance: Cookies collect information about how you use our Service and remember the choices you make (such as your language or location) to provide an enhanced performance and a more personalized experience.
-  * Customization: Cookies allow us to gather information on how our Service is being used so that we can provide content that is relevant to you.
-  * Targeting and Advertising: Cookies help us deliver advertisements that are more tailored to you and your interests, as well as limit the number of times you receive the same advertisement. We also use cookies to measure the effectiveness of our advertising campaigns.
-  * Social Networking: Cookies allow users to share our pages and content to third-party social networking sites.
-
-
+    * Operational: Cookies are essential in order for you to use our Service, such as our shopping bag, as well as to access password protected areas, such as your personal account.
+    * Analytics and Performance: Cookies collect information about how you use our Service and remember the choices you make (such as your language or location) to provide an enhanced performance and a more personalized experience.
+    * Customization: Cookies allow us to gather information on how our Service is being used so that we can provide content that is relevant to you.
+    * Targeting and Advertising: Cookies help us deliver advertisements that are more tailored to you and your interests, as well as limit the number of times you receive the same advertisement. We also use cookies to measure the effectiveness of our advertising campaigns.
+    * Social Networking: Cookies allow users to share our pages and content to third-party social networking sites.
 
 For an updated list of cookies on our Service, and your choices regarding them, please visit our Cookie List.
+
+
 
   * **Web Beacons.** Brilliant Earth also uses electronic images known as web beacons (also known as pixels) on the Service. When you access a website, video, e-mail, or advertisement that contains a pixel, the pixel may permit us or a third party to drop or read cookies on your browser. Pixels are used in combination with cookies to track activity by a particular browser on a particular device. We may incorporate pixels from third parties that allow us track our conversions, bring you advertising both on and off the Service, and provide you with additional functionality, such as the ability to connect our Service with your social media account.
   * **Device Fingerprinting.** Device fingerprinting is the process of analyzing and combining sets of information elements from your device’s browser, such as JavaScript objects and installed fonts, in order to create a “fingerprint” of your device and uniquely identify your device and apps.
@@ -77,7 +73,7 @@ Some information about your use of the Service and certain Third Party Services 
 
 For further information on Tracking Technologies and your rights and choices regarding them, see the sections entitled “Third Parties” and “Your Rights and Choices” below.
 
-#### Information From Other Sources
+#### Information from Other Sources
 
 As a general policy, Brilliant Earth does not sell, trade or rent your information to third-parties, unless you have granted us permission to do so. However, Brilliant Earth may obtain information about you from other third party sources. To the extent we combine the information you provide to Brilliant Earth through the Service with information we have obtained from third party sources, we will treat the combined information in accordance with the practices described in this Privacy Policy, plus any additional restrictions imposed by the source of the data. These third party sources vary over time, but have included:
 
@@ -91,7 +87,7 @@ As a general policy, Brilliant Earth does not sell, trade or rent your informati
 
 For further information on Third Party Services, see the section entitled “Third Parties” below. 
 
-#### Use of Information
+### Use of Information
 
 We use information about you for our legitimate interests, including to:
 
@@ -116,7 +112,7 @@ We also use information about you with your consent, including to:
 
 We may use information that does not identify you (including information that has been de-identified) without obligation to you except as prohibited by applicable law. For information on your rights and choices regarding how we use your information, please see the section entitled “Your Rights and Choices” below.
 
-#### Sharing of Information
+### Sharing of Information
 
 We share your information as follows:
 
@@ -124,7 +120,7 @@ We share your information as follows:
   * **Affiliates:** We may share your information with our related entities including our parent and sister companies. For example, we may share your information with our affiliates for customer support, marketing, and technical operations.
   * **Business Partners:** We may share your information with our business partners in connection with offering you co-branded services, selling or distributing our products, or engaging in joint marketing activities. For example, we may share information about you with a business partner for purposes of providing you with co-branded products or services that we may offer.
   * **Special Events:** If you choose to participate in a special event (for example, a Promotion), Brilliant Earth may share your information with those organizations participating in the applicable event. Typically, these third parties do not use your information for any other purpose other than to manage the event. In some cases these third-party partners may send you promotional materials regarding their products and services. In these cases, you will be given the opportunity to opt-out, and not have your information shared with that third-party partner. By entering a Promotion, you agree to the official rules that govern that Promotion, and may, except where prohibited by applicable law, allow the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials.
-  * **Feedback and Testimonials.** If you provide feedback or testimonials on the Service or on Brilliant Earth products or services, we may post this feedback or testimonial, including your information, on the Service or in marketing and promotional materials. We may, by our sole discretion, edit feedback or testimonials for length and content. California residents and data subjects in Europe have additional rights as set forth in “Your Rights and Choices” below.
+  * **Feedback, Testimonials and User Provided Content.** If you provide feedback or testimonials on the Service or on Brilliant Earth products or services, or provide other User Provided Content (such as photos or videos), we may post and share this feedback, testimonial or other User Provided Content, including your information, on the Service, with third party partners, or in marketing and promotional materials. We may, by our sole discretion, edit feedback, testimonials or User Provided Content for length and content. California residents and data subjects in Europe have additional rights as set forth in “Your Rights and Choices” below.
   * **Third Parties.** We may share your information with third parties for purposes of facilitating your requests (such as when you choose to share information with a social network about your activities on the Service) and in connection with tailoring advertisements, measuring and improving our Service and advertising effectiveness, and enabling other enhancements.
   * **Business Transfer.** Your information may be disclosed as part of, or in connection with, any merger, sale of company assets, or acquisition, as well as in the event of an insolvency, bankruptcy or receivership, in which information would be transferred as one of the business assets of Brilliant Earth.
   * **Security, Compliance with Law, and Fraud Protection.** We may disclose your information as we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We also may share your information in order to investigate, prevent or take action regarding illegal activities, including suspected fraud, or as otherwise required by law. We may also share your information to protect the rights, property, life, health, security and safety of us, the Service or any third party.
@@ -134,11 +130,11 @@ We share your information as follows:
 
 Without limiting the foregoing, in our sole discretion, we may share aggregated information which does not identify you or de-identified information about you with third parties or affiliates for any purpose except as prohibited by applicable law. For information on your rights and choices regarding how we share your information, please see the section entitled “Your Rights and Choices” below.
 
-#### Children
+### Children
 
 Brilliant Earth does not knowingly collect personal information from children under the age of thirteen (13). In the event that Brilliant Earth ever does so, we will strictly comply with the Children's Online Privacy Protection Act (“COPPA”). If you are a parent or guardian and believe Brilliant Earth has collected such information in a manner not permitted by COPPA, please contact us as set forth in the section entitled “Contact Us” below, and we will remove such data to the extent required by COPPA.
 
-#### Third Parties
+### Third Parties
 
 #### Third Party Services
 
@@ -161,7 +157,7 @@ We may serve ads on Third Party Services, such as Facebook and Google, which are
 
 For further information on Tracking Technologies and your rights and choices regarding them, please see the sections entitled “Information Collected Automatically” above and “Your Rights and Choices” below.
 
-#### Your Rights and Choices
+### Your Rights and Choices
 
 #### Review and Update of Account Information
 
@@ -200,21 +196,21 @@ To exercise any of these rights, contact us as set forth in the section entitled
 
 If you have any issues with our compliance, you have the right to lodge a complaint with a European supervisory authority.
 
-#### Data Security
+### Data Security
 
 We implement and maintain reasonable administrative, physical, and technical security safeguards to help protect your information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
 Despite the measures we take, transmission via the Internet is not completely secure and we cannot guarantee the security of your information.
 
-#### International Transfer
+### International Transfer
 
 Brilliant Earth is based in the U.S. and the information we collect is governed by U.S. law. Your information may be stored and processed in the United States or any other country in which Brilliant Earth or its partners, affiliates, service providers, subsidiaries or agents maintain facilities and by using this Website, you consent to any such transfer of information outside of your country. Data protection laws in the U.S. and other jurisdictions may be different from those of your country of residence. Your use of the Service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing, and storage of your information in the U.S. and other jurisdictions as set forth in this Privacy Policy. If your data is collected in Europe, we will transfer your personal data subject to appropriate or suitable safeguards.
 
-#### Changes to the Privacy Policy
+### Changes to the Privacy Policy
 
 This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may occasionally update this Privacy Policy to reflect changes in our practices and services, and we reserve the right to do so at any time. When a revision is made we will revise the "Effective Date" on this page and any changes will be effective immediately upon posting of the revised Privacy Policy. Brilliant Earth encourages you to periodically review this Privacy Policy to learn how we are protecting your information. Your continued use of our Services indicates your consent to the Privacy Policy then posted. If any changes are material, we may provide you additional notice to your e-mail address.
 
-#### Contact Us
+### Contact Us
 
 If you have questions about this privacy policy, or the information practices, please contact us as follows:
 
