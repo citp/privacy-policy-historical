@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divshot.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419021003id_/https%3A//divshot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divshot.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212215733id_/https%3A//divshot.com/privacy-policy) for the most accurate reproduction.*
 
 # Divshot - Privacy Policy
 
