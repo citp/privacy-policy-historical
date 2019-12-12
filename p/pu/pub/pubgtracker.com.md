@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubgtracker.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430190335id_/https%3A//thetrackernetwork.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubgtracker.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212052342id_/https%3A//thetrackernetwork.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Tracker Network Tracker Network Privacy Policy
 
@@ -46,7 +46,7 @@ Last Updated on May 25, 2018
     1. Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links: 
       1. <https://support.google.com/chrome/answer/95647?hl=en> (Chrome); 
       2. <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox); 
-      3. <http://www.opera.com/help/tutorials/security/cookies/> (Opera); 
+      3. [http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/) (Opera); 
       4. <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-deletemanage-cookies> (Internet Explorer); 
       5. <https://support.apple.com/kb/PH21411> (Safari); and 
       6. <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge). 
@@ -91,7 +91,7 @@ The Company Service are not directed to people under the age of thirteen (13). I
     3. Notwithstanding the other provisions of this Section 11, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. 
   12. **Who can I ask if I have additional questions?**
 
-For additional inquiries about the privacy of your information, you can contact us by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a4e485b59515f4814545f4e4d554851)
+For additional inquiries about the privacy of your information, you can contact us by emailing us at [support@tracker.network](mailto:support@tracker.network)
 
 
 
