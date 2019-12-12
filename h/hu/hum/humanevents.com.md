@@ -1,45 +1,73 @@
-> *The following text is extracted and transformed from the humanevents.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203140529id_/http%3A//www.humanevents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanevents.com privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212232507id_/https%3A//humanevents.com/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy, Our Privacy Policy Promise | Human Events
+# Privacy Policy | Human Events
 
-**HUMAN EVENTS** is committed to protecting the privacy of our registered members and subscribers. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This policy is effective May 12, 2004.
+PARALLEL MEDIA LLC PRIVACY POLICY
 
-**What information do you capture if I subscribe online?**
+Parallel Media LLC (the “Company”) is committed to maintaining robust privacy protections for its users.  Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.  
 
-If you place a subscription or order online, you must provide us contact information, including your name, mailing address and e-mail address; we also collect financial information, including credit card number and expiration date.
+For purposes of this Agreement, “Site” refers to the Company’s website, Human Events which can be accessed at www.humanevents.com
 
-**Will you rent, sell, or trade my e-mail address to a third party?**
+“Service” refers to the Company’s services accessed via the Site, in which users sign up for an e-mail newsletter, or sign up for our membership. 
 
-Your e-mail address will be used by **HUMAN EVENTS** to send order confirmations and to e-mail news and offers that we believe will be of interest to you. Though we hope you gain value from the messages you receive, you can choose to opt-out of receiving further messages by following the instructions provided at the close of each e-mail. We will honor the change to your account preferences on humanevents.com, however we also advertise on many other Internet and email outlets. Therefore you may see our advertisements in connection with other websites and email outlets. We will ensure that they offer you the ability to opt-out from their messages.
+The terms “we,” “us,” and “our” refer to the Company.
 
-We may from time to time send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this.
+“You” refers to you, as a user of our Site or our Service. 
 
-**Will you rent, sell, or trade my name and postal address to another company?**
+By accessing our Site or our Service, you accept our Privacy Policy and Terms of Use (found here: https://app.termly.io/document/terms-of-use-for-website/7a7c0a2d-6a93-4c13-aa94-08145d590265), and you consent to our collection, storage, use and disclosure of your Personal Information as described in this Privacy Policy.
 
-Yes, **HUMAN EVENTS** makes our members’ names and addresses available to other mail order companies on a one-time use, rental-fee basis. We carefully choose who rents our names and only rent to companies offering goods or services that we think would be of interest to our members. If you would like us to remove your name and address from the rental file, please contact customer service and we will take your name off the list. You may e-mail us at [CustomerService@humaneventsonline.com](mailto:CustomerService@humaneventsonline.com).
+I.               INFORMATION WE COLLECT
 
-**Do you share any other personal information with third parties?**
+We collect “Non-Personal Information” and “Personal Information.” **Non-Personal Information** includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks. **Personal Information** includes your email and other information, which you submit to us through the registration process at the Site.
 
-No, we will never share your personal information with a third party. However, we do share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
+1.    _Information collected via Technology_
 
-**Are my transactions secured online?**
+To activate the Service you do not need to submit any Personal Information other than your email address. To use the Service thereafter, you do not need to submit further Personal Information. However, in an effort to improve the quality of the Service, we track information provided to us by your browser or by our software application when you view or use the Service, such as the website you came from (known as the “referring URL”), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you. We track this information using cookies, or small text files which include an anonymous unique identifier. Cookies are sent to a user’s browser from our servers and are stored on the user’s computer hard drive. Sending a cookie to a user’s browser enables us to collect Non-Personal information about that user and keep a record of the user’s preferences when utilizing our services, both on an individual and aggregate basis. 
 
-Yes! This Web site takes every precaution to protect your information. You are the only one who can access your account so long as you keep your username and password secret. When you place an order or make a payment online, your credit card account information is verified and processed on a secure server outside of the site server and all transmissions are fully encrypted. The information you send us is also encrypted in transit using secure socket layer (SSL) software.
+The Company may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser.  
 
-**What are cookies? How do you use cookies?**
+2.    _Information you provide us by registering for an account_
 
-Cookies are small pieces of information that your browser stores on your computer’s hard drive. Cookies do not hold any personal information, but they allow us to remember your password and store your site preferences.
+In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your email address, and creating a user name and a password. By registering, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy.
 
-If you check the “Remember me” box on the login page, we store your encrypted username and password to make it easier and faster to login the next time you return to the site.
+3\. _Children’s Privacy_
 
-If you choose not to accept any cookies on the site, you will still be able to use all the features of the site. You will, however, need to provide your login information during each visit.
+The Site and the Service are not directed to anyone under the age of 13. The Site does not knowingly collect or solicit information from anyone under the age of 13, or allow anyone under the age of 13 to sign up for the Service. In the event that we learn that we have gathered personal information from anyone under the age of 13 without the consent of a parent or guardian, we will delete that information as soon as possible. If you believe we have collected such information, please contact us at contact@humanevents.com. 
 
-**Do you track site usage and traffic patterns?**
+II.             HOW WE USE AND SHARE INFORMATION
 
-Yes. By monitoring traffic patterns we learn which links and pages of the site are the most utilized. **HUMAN EVENTS** will then use this information to further develop the features and functionality of the site and, hopefully, enhance your online membership experience.
+_Personal Information:_
 
-**How will I know if your privacy policy changes?**
+Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for the Company, such as the servers for our email communications who are provided access to user’s email address for purposes of sending emails from us. Those vendors use your Personal Information only at our direction and in accordance with our Privacy Policy.
 
-If there are changes to our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
 
-Still have questions? Contact [CustomerService@humaneventsonline.com](mailto:CustomerService@humaneventsonline.com)
+We may share Personal Information with outside parties if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable legal process or enforceable governmental request; to enforce applicable Terms of Service, including investigation of potential violations; address fraud, security or technical concerns; or to protect against harm to the rights, property, or safety of our users or the public as required or permitted by law. 
+
+_Non-Personal Information_
+
+In general, we use Non-Personal Information to help us improve the Service and customize the user experience. We also aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
+
+In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy. If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices. We suggest that you check the Site periodically if you are concerned about how your information is used.
+
+III.           HOW WE PROTECT INFORMATION
+
+We implement security measures designed to protect your information from unauthorized access. Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use. We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology. However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. By using our Service, you acknowledge that you understand and agree to assume these risks.
+
+IV.           YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION
+
+You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail. You can also indicate that you do not wish to receive marketing communications from us in the unsubscribe section of the email newsletters. Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in unsubscribe page of the newsletter, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
+
+V.             LINKS TO OTHER WEBSITES
+
+As part of the Service, we may provide links to or compatibility with other websites or applications. However, we are not responsible for the privacy practices employed by those websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and the Service. Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service. To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. We encourage our users to read the privacy statements of other websites before proceeding to use them.
+
+VI.           CHANGES TO OUR PRIVACY POLICY
+
+The Company reserves the right to change this policy and our Terms of Service at any time.  We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. Significant changes will go into effect 30 days following such notification. Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
+
+VII.         CONTACT US
+
+If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to contact@humanevents.com
+
+Last Updated: This Privacy Policy was last updated in April 2019.
