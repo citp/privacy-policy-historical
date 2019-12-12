@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wfu.edu privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627151711id_/https%3A//about.wfu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfu.edu privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212160322id_/https%3A//about.wfu.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | About Wake Forest | Wake Forest University
+# About Wake Forest | Privacy Policy
 
 This policy discloses the privacy practices applicable to visitors to wfu.edu, the website for Wake Forest University. As used in this policy, the terms “Wake Forest, “the University,” “we,” “our,” and “us” refer to Wake Forest University, a North Carolina nonprofit corporation. “You” and “your” refer to the individual accessing the web pages owned and controlled by the University.
 
@@ -70,10 +70,10 @@ Several areas of our website feature web forms for the purpose of facilitating f
 
 Online gifts made to the University can be canceled up to 72 hours after submission for a full refund.
 
-For the University’s Alumni Clubs program specifically:
+For the University’s Wake Community program specifically:
 
-  * Unless otherwise noted, non-club event payments can be canceled up to 72 hours before the event occurs for a full refund.
-  * Unless otherwise noted, club event payments are non-refundable. Exceptions may be made due to extreme circumstances which will be evaluated on a case-by-case basis.
+  * Unless otherwise noted, non-Wake Community event payments can be canceled up to 72 hours before the event occurs for a full refund.
+  * Unless otherwise noted, Wake Community event payments are non-refundable. Exceptions may be made due to extreme circumstances which will be evaluated on a case-by-case basis.
 
 
 
