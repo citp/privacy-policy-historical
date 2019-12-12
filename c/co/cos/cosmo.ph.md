@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmo.ph privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323001002id_/https%3A//www.cosmo.ph/privacy-policy%3Fref%3Dmenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmo.ph privacy policy that was archived on 2019-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191212010326id_/https%3A//www.cosmo.ph/privacy-policy%3Fref%3Dmenu) for the most accurate reproduction.*
 
 # Cosmo.ph: The Online Home Of Fun, Fearless Pinays
 
