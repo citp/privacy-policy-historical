@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518065622id_/https%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213220834id_/https%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
 
 # Footasylum Customer Services - Privacy policy
 
@@ -59,7 +59,7 @@ We use this information to improve the website and its contents to provide a bet
 How? | Why?  
 ---|---  
 Improve your personal experience by personalising the website. | Making it easier for you to look at products you are interested in based on your previous use of the website. It is in our interest to see that you have a great shopping experience!  
-To provide third parties with statistical information about our users. | So that we can get information about browser types, geographical location, referral source from our affiliate program and length of stay and pages visited as it is in our interest that you find it easy to use and improve our web service.  
+To provide third parties with statistical information about our users. | So that we can get information about browser types, device types, number of pages viewed, geographical location, products and categories viewed in visit, channel that sent the visit, previous visitor information, landing page URL, last page viewed URL, time on site, time of last interaction, referral source from our affiliate program and length of stay and pages visited as it is in our interest that you find it easy to use and improve our web service. This is a form of profiling our customers as part of legitimate interests as a company. For more information on why we do this see our section titled: Profiling and Automated Decision Making.  
 To track shopping basket use so that we can offer you discounts. | We track selections in your basket that may be eligible for discounts during your purchasing journey. It is in our interest that you get the best deal!  
   
 ### How we use your personal data for Promotions and Competitions.
@@ -79,7 +79,36 @@ We use this information in order to provide targeted marketing to you.
 
 How? | Why?  
 ---|---  
-Any personal information provided by you as part of the competition entry may be used by our company (as the Promoter) or our agents and suppliers to administer the competition prizes. | This is to ensure that where you have given us permission to send you marketing communications, we can provide you with products that you are likely to have an interest in. This is performed under your consent only.  
+Your email address provided to us when providing consent for direct marketing.
+
+Each email contains a tracking pixel which will track email opens (if the receiver has images enabled in their email client/ mailbox). This is the standard approach for measuring open and click rates and is used by all email platforms in the market. This is processed on our behalf by our third-party data processor based in the UK.
+
+All links in the emails records data for each link clicked as follows: 
+
+  * Event type (delivery, bounce, open, click, spam compliant, unsubscribe)
+  * Email address of the recipient (already known to us as we sent it)
+  * IP address of the recipient (in case of open and click)
+  * Geo location based on IP address (city level) (in case of open and click)
+  * Device type mobile/ computer/tablet) and browser IE/Firefox/Chrome/Safari)
+
+| To send direct marketing communications by email but only under your consent.
+
+This is to ensure that where you have given us permission to send you marketing communications, we can provide you with products that you are likely to have an interest in. This is performed under your consent only and you can choose to withdraw your consent at any time.
+
+You can also object to the processing of your personal data where it is used for profiling for direct marketing. For more about profiling see our Glossary or section on Profiling and Automated Decision Making.  
+  
+### How we may use your personal data for security purposes.
+
+How? | Why?  
+---|---  
+We may process your personal data for security purposes. | In order to protect your privacy and the security of your data on occasion we may need to process your personal data as part of security checks. This may be incidental contact with your data when conducting a check of our systems or to use your contact details to inform you of any security issues. This will only be restricted to authorised security personnel. This processing is necessary in order for the company to fulfil its requirements to have suitable technical and organisational security measures in place to protect the company's legitimate interests and to protect your privacy and security.  
+  
+### How we use your personal data to protect against crime and prevent fraud.
+
+How? | Why?  
+---|---  
+The use of CCTV within our stores and CCTV footage captured during incidents. | Fraud monitoring and sharing with fraud prevention agencies and law enforcement where necessary.  
+To keep you and our customers safe and to prevent and protect against fraud and crime as part of the legitimate interests of our business. | For the prevention of fraud and crime as part of the legitimate interests of our business.  
   
 ## Focused on your rights to keep control of your data.
 
@@ -89,6 +118,7 @@ Any personal information provided by you as part of the competition entry may be
   * You can access your information and receive information about how we use your information and the lawful basis for its use. You can also receive your information in an electronic portable format such as a CSV or PDF file.
   * You can request correction of your information if it is found to be inaccurate, where possible we will enable you to do this for yourself to give you greater control. For example, if you have an account with us you can probably sign in under your account and correct some of this for yourself.
   * You can request that your information is removed or for us to stop processing or collecting your information in some circumstances.
+  * You have the right to object to the processing of your personal data for the purposes of direct marketing or profiling connected to direct marketing.
   * Where you have given us permission to use your information you can change your mind at any time to either restrict the use of the information or remove the information. Particularly if you no longer wish us to send you marketing updates. See **Stop Marketing Updates** and **Updating your Marketing Preferences**.
   * The right to complain to the Information Commissioner’s Office (the ICO) if you feel your information has been misused: <https://ico.org.uk/concerns/handling/> or telephone the ICO on 0303 123 1113. Please raise any concern with us in the first instance, as they will usually ask you to get in touch with us first.
 
@@ -97,6 +127,18 @@ Any personal information provided by you as part of the competition entry may be
 To contact us on any of the above, please contact our customer service team.
 
 Our contact details are within the **Data Access Requests and Raising Concerns** section of this policy.
+
+## Profiling and Automated Decision Making.
+
+### Profiling
+
+We use a third party data processor to help us analyse sets of data to determine common patterns in behaviour which allows us to provide you with a more personalised, individual experience on our website, in our digital advertising and in our electronic marketing communications. For example, if we recognise that you browse several products with a common feature over a period of time, we are able to recommend similar products that you may also be interested in.  
+You have a right to object to this kind of processing.
+
+### Automated Decision Making
+
+We do not use automated decision-making processes that could be considered to have a significant impact or legal effect on our customers. Examples of this are performed by other companies who use profiling and the results of the profiling to make automated decisions regarding credit worthiness or to deny or permit a service.  
+Our profiling data process is used to ensure we can more accurately target direct marketing to you and direct marketing is always sent to you only with your consent which can be withdrawn at any time (for guidance in how to do this, see Stop Marketing Updates).
 
 ## Ensure that we do not keep your data any longer than we need to.
 
@@ -120,13 +162,17 @@ You are entitled to receive this information in a portable format such as a CSV 
 
 Exceptions - If the request is complex then we will be in touch with you to agree an extension to fulfil your request in full. If the request is deemed to be ‘excessive’ or ‘unfounded’ as defined within GDPR we can refuse to process the SAR or charge a reasonable admin fee. We will inform you of any exceptions if this is the case and you have the right to appeal to the ICO.
 
+The Information Commissioner’s contact details are:
+
+The ICO, Wycliffe House, Water Lane, Wilmslow, SK9 5AF. They can also be contacted via their helpline on 0303 123 1113 or via their website at <https://ico.org.uk/make-a-complaint>
+
 ### Raising Concerns
 
 If you have any concerns about how Footasylum are processing your personal data then please contact the customer services team with the contact details above. If using email, please entitle the subject line: **Information Rights Concern**
 
 ## Additional Processing and Sharing with Third Parties.
 
-We use third parties to provide supporting services for Footasylum plc. These enable us to provide the web and ecommerce service so that you can purchase goods.
+We use third parties to provide supporting services for Footasylum ltd. These enable us to provide the web and ecommerce service so that you can purchase goods.
 
   * Web Hosting Service Provider providing web hosting service for this website.
   * Web Developers.
@@ -142,12 +188,12 @@ Please refer to their Privacy Policy here: <https://www.laybuy.com/uk/privacy>
 
 
 
-We use third parties who act as data processors for Footasylum plc. We share some aspects of your personal data with these organisations.
+We use third parties who act as data processors for Footasylum ltd. We share some aspects of your personal data with these organisations.
 
   * Courier companies who need your name and address details so that we can deliver our goods to your address, these also provide a tracking service where you can keep track of your deliveries.
   * A Business intelligence and Data Profiling Agency who provide a service for us to improve, optimise and analyse the personal data that we process under marketing consent.
   * Postcode and address finder service company who will enable quicker completion of the order checkout process.
-  * Payment Service Providers who need to process credit/debit card payments in order for you to purchase goods and services from Footasylum plc.
+  * Payment Service Providers who need to process credit/debit card payments in order for you to purchase goods and services from Footasylum ltd.
   * Credit Reference, Law Enforcement and Fraud Prevention agencies for the purposes of preventing fraud and cyber crime.
   * See **Other Parties** for linked sites below.
 
@@ -173,7 +219,7 @@ We will update our Privacy Notice in this event to ensure that you are kept info
 
 ## Keeping you up to date.
 
-We will make changes to the Privacy Notice from time to time, in line with any new legal requirements or any changes we make within the business regarding the processing of your personal data. This version of the Privacy Notice includes processing of personal data for competition entries, updated guidance for third country processing and processors and controllers was published in October 2018.
+We will make changes to the Privacy Notice from time to time, in line with any new legal requirements or any changes we make within the business regarding the processing of your personal data. This version of the Privacy Notice includes processing of your personal data for security purposes and was published in November 2019.
 
 ## Cookies (collection of Anonymous Data).
 
@@ -213,6 +259,8 @@ Please include as your subject header: **Privacy Policy Feedback.**
 
 ## Glossary.
 
+**Automated Decision Making** – A decision-making process that is totally automated and excludes any human influence on the outcome. A process might still be considered solely automated if a human inputs the data to be processed, and then the decision-making is carried out by an automated system. A process won’t be considered solely automated if someone weighs up and interprets the result of an automated decision before applying it to the individual.
+
 **Consent** – One of the Lawful Basis for Processing personal data. You (the Data Subject) should be provided with the opportunity to give informed and explicit consent for data processing which is deemed to have a high impact.
 
 **CJEU** – Court of Justice of the European Union.
@@ -240,6 +288,8 @@ Please include as your subject header: **Privacy Policy Feedback.**
 **PDF File** – Portable Document Format file. This is a portable and easily readable format for electronic data which can be transferred to different computing platforms.
 
 **Privacy Notice** – Information provided to the Data Subject which clearly states how we will protect your personal data and what we do with it. Also referred to as a Privacy Policy.
+
+**Profiling** – Any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that person’s performance at work, economic situation, health, personal preferences, interests, reliability, behaviours, location or motives.
 
 **Provider** – An external company who provide a service to the company who is processing your personal data, these may also be data processors.
 
