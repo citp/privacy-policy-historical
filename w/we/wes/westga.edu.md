@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westga.edu privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408211503id_/https%3A//www.westga.edu/administration/policy/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westga.edu privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213234022id_/https%3A//www.westga.edu/administration/policy/privacy-policy.php) for the most accurate reproduction.*
 
 # UWG | Privacy Policy
 
