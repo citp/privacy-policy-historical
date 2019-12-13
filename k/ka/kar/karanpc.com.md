@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karanpc.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625014856id_/https%3A//karanpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karanpc.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213103841id_/https%3A//karanpc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Karan PC
 
