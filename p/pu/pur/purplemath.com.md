@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purplemath.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210200349id_/https%3A//www.purplemath.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purplemath.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213091419id_/http%3A//www.purplemath.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | Purplemath
 
@@ -10,7 +10,7 @@ Purplemath, Inc.
 P.O. Box 493  
 Addison, IL 60101-0493
 
-Purplemath may be reached via e-mail at [stapel@purplemath.com](mailto:stapel@purplemath.com) or via the site's [contact form](https://web.archive.org/web/20190210200349id_/https%3A//www.purplemath.com/feedback.php).
+Purplemath may be reached via e-mail at [stapel@purplemath.com](mailto:stapel@purplemath.com) or via the site's [contact form](https://web.archive.org/web/20191213091419id_/http%3A//www.purplemath.com/feedback.php).
 
 **TL;DR** If all you've done is visit Purplemath (and maybe surf around a bit), then we have no idea who you are, where you're from, or where else on the Internet you've been. And we won't tell anybody that you've been here.
 
@@ -24,11 +24,11 @@ With respect to cookies: We use cookies to track generic traffic profiles. (For 
 
 If you supply us with your postal address, you will only receive the information, correspondence, or product for which you provided us with said address.
 
-With respect to Ad Servers: We use third-party advertising companies to serve ads when you visit our website. These companies may use information (such as your domain type, your IP address and clickstream or behavioral information; but not including your name, address, email address, or telephone number) about your visits to our and other Web pages in order to provide advertisements about goods and services believed to be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, kindly please consult the privacy policies of [Google](http://www.google.com/privacy_ads.html), [AdPushup](https://www.adpushup.com/privacy.php), [Adversal](https://www.adversal.com/online-privacy.html), [Amazon](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496), [AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy), [Chegg](https://www.chegg.com/privacypolicy), [Conversant](https://www.conversantmedia.com/legal/privacy), [Criteo](https://www.criteo.com/privacy/), [Exponential](https://creative.exponential.com/who-we-are/privacy-policy.jsp), [MathHelp.com](https://www.mathhelp.com/privacy/), [Mathway](https://www.mathway.com/privacy), [Media.net](https://www.media.net/en/privacy-policy), [PageFair](https://pagefair.com/privacy/) (statistics only), [RevContent](https://faq.revcontent.com/customer/en/portal/articles/2703838-revcontent-s-privacy-and-cookie-policy), and [WyzAnt](https://www.wyzant.com/privacypolicy). (See also [NAI Principles](http://www.networkadvertising.org/managing/opt_out.asp).) All Purplemath advertisers, affiliates, and networks are believed to be compliant with GDPR. All tracking via Purplemath's [Revive](https://www.revive-adserver.com/blog/revive-adserver-v4-1-4-released/) adserver is completely anonymized. For specifics, please review our [Cookies](https://web.archive.org/web/20190210200349id_/https%3A//www.purplemath.com/cookies.htm) page.
+With respect to Ad Servers: We use third-party advertising companies to serve ads when you visit our website. These companies may use information (such as your domain type, your IP address and clickstream or behavioral information; but not including your name, address, email address, or telephone number) about your visits to our and other Web pages in order to provide advertisements about goods and services believed to be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, kindly please consult the privacy policies of [Google](http://www.google.com/privacy_ads.html), [AdPushup](https://www.adpushup.com/privacy.php), [Adversal](https://www.adversal.com/online-privacy.html), [Amazon](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496), [AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy), [Chegg](https://www.chegg.com/privacypolicy), [Conversant](https://www.conversantmedia.com/legal/privacy), [Criteo](https://www.criteo.com/privacy/), [Exponential](https://creative.exponential.com/who-we-are/privacy-policy.jsp), [MathHelp.com](https://www.mathhelp.com/privacy/), [Mathway](https://www.mathway.com/privacy), [Media.net](https://www.media.net/en/privacy-policy), [PageFair](https://pagefair.com/privacy/) (statistics only), [RevContent](https://faq.revcontent.com/customer/en/portal/articles/2703838-revcontent-s-privacy-and-cookie-policy), and [WyzAnt](https://www.wyzant.com/privacypolicy). (See also [NAI Principles](http://www.networkadvertising.org/managing/opt_out.asp).) All Purplemath advertisers, affiliates, and networks are believed to be compliant with GDPR. All tracking via Purplemath's [Revive](https://www.revive-adserver.com/blog/revive-adserver-v4-1-4-released/) adserver is completely anonymized. For specifics, please review our [Cookies](https://web.archive.org/web/20191213091419id_/http%3A//www.purplemath.com/cookies.htm) page.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, please check back at our Web site periodically.
 
-Users may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or using our [contact form](https://web.archive.org/web/20190210200349id_/https%3A//www.purplemath.com/feedback.php).
+Users may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or using our [contact form](https://web.archive.org/web/20191213091419id_/http%3A//www.purplemath.com/feedback.php).
 
 Upon request, we provide site visitors with access to communications that the consumer / visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, if any, and a description of information that we maintain about them.
 
@@ -36,11 +36,11 @@ Visitors can access this information by e-mailing us at the above address, or us
 
 Upon request, we offer visitors the ability to have inaccuracies corrected in contact information, transaction information, or communications that the consumer/visitor has directed to the site.
 
-Users can have this information corrected by sending us e-mail at the above address, or by using our [contact form](https://web.archive.org/web/20190210200349id_/https%3A//www.purplemath.com/feedback.php).
+Users can have this information corrected by sending us e-mail at the above address, or by using our [contact form](https://web.archive.org/web/20191213091419id_/http%3A//www.purplemath.com/feedback.php).
 
 With respect to security: We collect no sensitive or personalized information from visitors in the course of their surfing Purplemath.com. We share no information provided by users (email addresses, etc) with any third parties.
 
-If you feel that this site is not following its stated information policy, you may contact us at the our mailing address (above), our e-mail address (above), or our [contact form](https://web.archive.org/web/20190210200349id_/https%3A//www.purplemath.com/feedback.php)
+If you feel that this site is not following its stated information policy, you may contact us at the our mailing address (above), our e-mail address (above), or our [contact form](https://web.archive.org/web/20191213091419id_/http%3A//www.purplemath.com/feedback.php)
 
 * * *
 
