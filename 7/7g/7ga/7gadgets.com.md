@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 7gadgets.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928070946id_/https%3A//www.7gadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7gadgets.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213230836id_/https%3A//www.7gadgets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – 7 Gadgets
 
 **What information do we collect?**
 
