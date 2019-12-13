@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpsonswiki.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618041919id_/https%3A//simpsonswiki.com/wiki/Wikisimpsons%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpsonswiki.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213203602id_/https%3A//simpsonswiki.com/wiki/Wikisimpsons%3APrivacy_policy) for the most accurate reproduction.*
 
 # Wikisimpsons:Privacy policy - Wikisimpsons, the Simpsons Wiki
 
@@ -27,4 +27,4 @@ At any time, you have the right to request a copy of all of the personal identif
 
 If you have any questions regarding Wikisimpsons's privacy policies, please use the [administrators](https://web.archive.org/wiki/Wikisimpsons:Administrators "Wikisimpsons:Administrators") page to get in touch with one of Wikisimpsons's many knowledgeable team members, who will be more than happy to answer them for you. 
 
-[Template:Notice](https://web.archive.org/w/index.php?title=Template:Notice&action=edit&redlink=1 "Template:Notice \(page does not exist\)")
+Your usage of this site constitutes agreement to these terms as outlined above. If you do not agree with these terms, you must immediately cease usage of this website. This privacy policy is effective as of **May 26th, 2018**. 
