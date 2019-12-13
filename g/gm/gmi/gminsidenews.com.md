@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331210249id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dgminsidenews.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213184715id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dgminsidenews.com) for the most accurate reproduction.*
 
 # 
 
