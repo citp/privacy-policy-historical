@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retractionwatch.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521192036id_/https%3A//retractionwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retractionwatch.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213062226id_/https%3A//retractionwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Retraction Watch
 
