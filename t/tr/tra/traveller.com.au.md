@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveller.com.au privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620101256id_/http%3A//www.traveller.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveller.com.au privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213040437id_/http%3A//www.traveller.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
