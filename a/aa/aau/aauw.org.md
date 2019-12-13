@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417075405id_/https%3A//www.aauw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213115145id_/https%3A//www.aauw.org/privacy-policy) for the most accurate reproduction.*
 
 # AAUW Privacy Policy: AAUW
 
@@ -73,6 +73,9 @@ AAUW collects information that users provide when using online services includin
   * AAUW member search via the Member Services Database (MSD) directory. The MSD is a reference tool for AAUW members only. Users of the directory are prohibited from providing personal information contained in the directory to others or using it for promotional or survey purposes without the written permission of AAUW. Excessive use or abuse of the directory may result in loss of access for the user. AAUW will not include member’s contact information in the AAUW Member Services Database (MSD) if they opt out.
 
 
+  * AAUW Work Smart Online and AAUW Salary Negotiation Facilitator Trainings registration
+
+
 
 ### Financial Information
 
@@ -112,12 +115,17 @@ AAUW may share information with third parties including those in the following c
   * customer relationship management platforms
 
 
+  * Work Smart Online promotional partners
+
+
 
 AAUW may work with selected third parties to provide certain features on the Website such as social sharing functions. This privacy policy does not govern any information you choose to provide directly to such third parties. Such third parties have their own privacy policies that govern how they may collect, use, and disclose the information that you provide.
 
 You may be asked by specific AAUW vendors to consent to their processing of your information when such processing will be subject to their privacy policy. We encourage you to review such policies closely and be sure that you agree to them before providing your consent.
 
-Some AAUW websites may provide links – including any link through an online banner advertisement –to other sites on the Internet. These other sites are maintained by third parties over which AAUW exercises no control. The appearance of any such third-party links is not intended to endorse any particular company or product. If you decide to access any of the third-party sites linked to the AAUW websites, you do so entirely at your own risk and information you submit to them will be governed by their privacy policy, not that of AAUW. AAUW is not responsible for the services, content, conduct, or handling of materials by any third-party advertisers appearing on an AAUW website.
+Some AAUW websites may provide links — including any link through an online banner advertisement — to other sites on the Internet. These other sites are maintained by third parties over which AAUW exercises no control. The appearance of any such third-party links is not intended to endorse any particular company or product. If you decide to access any of the third-party sites linked to the AAUW websites, you do so entirely at your own risk and information you submit to them will be governed by their privacy policy, not that of AAUW. AAUW is not responsible for the services, content, conduct, or handling of materials by any third-party advertisers appearing on an AAUW website.
+
+As part of our promotional efforts for Work Smart Online, AAUW may share information collected from Work Smart Online registrants with select promotional partners including local AAUW Branches and outside organizations. You may be contacted by AAUW with the option to opt-in to receive more information from our promotional partners. De-identified registration data and demographic information may be shared with promotional partners on an aggregated basis. 
 
 ## What are cookies and how does AAUW use them
 
@@ -198,7 +206,7 @@ If you wish to exercise any of the rights granted to you by the GDPR, contact us
 
 ### Right to Lodge a Complaint
 
-If you are an EEA resident and you believe that AAUW has infringed your rights under the GDPR, please contact us by sending an email to connect@aauw.org or calling 202.785-7700. You also have the right to lodge a complaint with a supervisory authority, including in your applicable Member State.
+If you are an EEA resident and you believe that AAUW has infringed your rights under the GDPR, please contact us by sending an email to connect@aauw.org or calling 202.785.7700. You also have the right to lodge a complaint with a supervisory authority, including in your applicable Member State.
 
 ### Sensitive Information
 
@@ -211,7 +219,7 @@ California Civil Code Section 1798.83 permits our website visitors who are Calif
 American Association of University Women  
 1310 L Street, NW, Suite 1000  
 Washington, DC 20005  
-800.326.2289  
+202.785.7700  
 [connect@aauw.org ](mailto:connect@aauw.org)
 
 Please make sure to state in the request that you are a California resident.
@@ -225,4 +233,4 @@ When AAUW makes updates to its Privacy Policy, changes will be posted on this pa
 If you have any questions about this Privacy Policy or need to contact the AAUW to exercise your rights as a data subject under the GDPR, please contact the AAUW at [connect@aauw.org](mailto:connect@aauw.org) or 202.785.7700.
 
    
-**Last Updated: August 24th, 2018**
+**Last Updated: August 13, 2019**
