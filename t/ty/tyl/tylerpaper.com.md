@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408230853id_/https%3A//tylerpaper.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213013957id_/https%3A//tylerpaper.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | tylerpaper.com
 
