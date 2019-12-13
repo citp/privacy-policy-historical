@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wallethacks.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404021101id_/https%3A//wallethacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallethacks.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213204041id_/https%3A//wallethacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for Wallet Hacks
+Privacy Policy for Best Wallet Hacks
 
-Wallet Hacks (“Company,” “we,” or “us”) respects your privacy and is committed to protecting it through this Privacy Policy.
+JWE LLC (“Company,” “we,” or “us”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
-This Privacy Policy governs your access to and use of Wallet Hacks, including any content, functionality and services offered on or through Wallet Hacks (the “Website”), whether as a guest or a registered user.
+This Privacy Policy governs your access to and use of this site, including any content, functionality and services offered on or through Best Wallet Hacks (the “Website”), whether as a guest or a registered user.
 
 When accessing the Website, the Company will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
@@ -124,10 +124,10 @@ Contact Us
 
 The Company welcomes your questions or comments regarding the Privacy Policy:
 
-Wallet Hacks  
-PO Box #323  
+Best Wallet Hacks  
+PO Box 323  
 Fulton, MD 20759
 
 Email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Effective as of May 24, 2018
+Effective as of September 24, 2019
