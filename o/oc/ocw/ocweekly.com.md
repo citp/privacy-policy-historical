@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331160203id_/https%3A//ocweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213092504id_/https%3A//ocweekly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OC Weekly
+# Privacy Policy – OC Weekly
 
 #### OC Weekly News, Inc.
 
