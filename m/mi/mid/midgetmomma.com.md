@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midgetmomma.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614003622id_/https%3A//www.midgetmomma.com/policies/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midgetmomma.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213081708id_/https%3A//www.midgetmomma.com/policies/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure/ Disclaimer/ Privacy Policy • MidgetMomma
 
@@ -14,7 +14,7 @@ WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
 **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-**Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
+**Information We Collect from Others** : We may receive information about you from other sources. You may link your Facebook, Instagram, and/or Google accounts to your user profile. If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account. The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
 **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
@@ -57,7 +57,7 @@ From time to time, we may use anonymous data, which does not identify you alone,
 
 PUBLICLY VISIBLE INFORMATION
 
-If you create a user profile on the Website or leave a comment, certain information may be publicly visible.  To create a user profile, you must choose a username and password and input your email address for profile confirmation.  Your email address will never be available publicly. 
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible. To create a user profile, you must choose a username and password and input your email address for profile confirmation. Your email address will never be available publicly. 
 
 COOKIES
 
@@ -79,7 +79,7 @@ From time to time, the Website may engage in remarketing efforts with third-part
 
 The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
-MidgetMomma.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+MidgetMomma.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
 Newsletters
 
@@ -122,7 +122,7 @@ To get your own policy, go to [http://www.disclosurepolicy.org](http://www.discl
 
 **Our Disclaimer:  **
 
-We at MidgetMomma.com do not guarantee the availability of the deals that we post.  Not all deals are always in every location. We can not guarantee that when you sign up for a deal or freebie in the mail that you will receive it. We are only passing information on to you and we are not responsible for any information other then what is posted on this site. At no point are responsible for anything other then our opinions. We are not liable for the following, loss of business due to a review we do or anything that we state about a company, product or person. We are not liable for any incidental, consequential or indirect damages to any person, business including but not limited to, loss of profit, loss of information,or anything that comes from using our services or reading our content. Any pictures that are sent in to us become our property and we have the right to use them in whatever way we feel is more beneficial.
+We at MidgetMomma.com do not guarantee the availability of the deals that we post. Not all deals are always in every location. We can not guarantee that when you sign up for a deal or freebie in the mail that you will receive it. We are only passing information on to you and we are not responsible for any information other then what is posted on this site. At no point are responsible for anything other then our opinions. We are not liable for the following, loss of business due to a review we do or anything that we state about a company, product or person. We are not liable for any incidental, consequential or indirect damages to any person, business including but not limited to, loss of profit, loss of information,or anything that comes from using our services or reading our content. Any pictures that are sent in to us become our property and we have the right to use them in whatever way we feel is more beneficial.
 
 **Terms of Use:**
 
@@ -131,6 +131,6 @@ By visiting this site you are agreeing to the following but not limited to, you 
 [](https://creativecommons.org/licenses/by-nc-sa/3.0/)  
 MidgetMomma.com owned  by Lauren Happel is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-Based on a work at [www.midgetmomm.com](https://www.midgetmomma.com/policies).
+Based on a work at [www.midgetmomm.com](https://www.midgetmomma.com/policies/).
 
-Permissions beyond the scope of this license may be available at [www.midgetmomma.com](https://www.midgetmomma.com/policies).
+Permissions beyond the scope of this license may be available at [www.midgetmomma.com](https://www.midgetmomma.com/policies/).
