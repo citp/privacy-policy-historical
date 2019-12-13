@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theselfemployed.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227024749id_/https%3A//www.theselfemployed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theselfemployed.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213232036id_/https%3A//www.theselfemployed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheSelfEmployed.com
 
@@ -53,7 +53,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [Terms of Use](https://web.archive.org/terms-of-use).
+By using our site, you consent to our [Terms of Use](https://www.theselfemployed.com/terms-of-use).
 
 **Changes to our Privacy Policy**
 
@@ -61,4 +61,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact-us).
+If there are any questions regarding this privacy policy you may [contact us](https://www.theselfemployed.com/contact-us).
