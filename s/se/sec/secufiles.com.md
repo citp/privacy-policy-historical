@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secufiles.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601085612id_/https%3A//secufiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secufiles.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213165119id_/https%3A//secufiles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SecuFiles
 
@@ -16,7 +16,7 @@ SecuFiles securely holds data about it's users in order to process orders and pr
   * Your first, last and recent login IP addresses.
   * Any data supplied by our payment gateways in order to process your order. These include address data, company name, your payment account email and your full name.
   * Your browser user agent, referrering site and which pages you visited.
-  * You can receive a copy of this information by making a request via our [contact form](https://web.archive.org/web/20190601085612id_/https%3A//secufiles.com/contact.html).
+  * You can receive a copy of this information by making a request via our [contact form](https://web.archive.org/web/20191213165119id_/https%3A//secufiles.com/contact.html).
 
 
 
