@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defence.gov.au privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622155250id_/http%3A//defence.gov.au/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defence.gov.au privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213214311id_/https%3A//www.defence.gov.au/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy : Defence : Department of Defence, Australian Government
 
@@ -8,7 +8,7 @@ Welcome to Defence's privacy page where you'll find the privacy policy, a versio
 
 ### Defence Privacy Policy - overview
 
-The [complete Defence Privacy Policy](https://web.archive.org/web/20190622155250id_/http%3A//defence.gov.au/ComplaintResolution/privacy.asp) is designed to inform individuals about the way Defence collects, stores, uses and discloses personal information. This policy also provides guidance about how you can access, or seek correction of, personal information held by Defence.
+The [complete Defence Privacy Policy](https://web.archive.org/web/20191213214311id_/https%3A//www.defence.gov.au/ComplaintResolution/privacy.asp) is designed to inform individuals about the way Defence collects, stores, uses and discloses personal information. This policy also provides guidance about how you can access, or seek correction of, personal information held by Defence.
 
 #### Who should read this privacy policy?
 
@@ -87,7 +87,7 @@ A privacy impact assessment is a systematic assessment of a project that identif
 
 Defence as a Commonwealth agency has an obligation to conduct a privacy impact assessment (PIA) for all high privacy risk projects. Conducting PIAs helps Defence to ensure privacy compliance and identify better practice within the organisation.
 
-Defence is also obligated to maintain an [internal register of the PIAs](https://web.archive.org/web/20190622155250id_/http%3A//defence.gov.au/PrivacyPIAregister.xlsx) [XLS-20KB] it conducts and publish a version of the register on the Departmental website.
+Defence is also obligated to maintain an [internal register of the PIAs](https://web.archive.org/web/20191213214311id_/https%3A//www.defence.gov.au/PrivacyPIAregister.xlsx) [XLS-20KB] it conducts and publish a version of the register on the Departmental website.
 
 #### Further information
 
