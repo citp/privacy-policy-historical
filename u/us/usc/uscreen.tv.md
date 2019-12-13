@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uscreen.tv privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928161404id_/https%3A//www.uscreen.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscreen.tv privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213215912id_/https%3A//www.uscreen.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Uscreen | Uscreen
+# Privacy Policy | Uscreen
 
 ## 1\. Description of Service
 
@@ -36,32 +36,14 @@ In the event of Uscreen goes through a business transition, such as a merger, ac
 
 We employ and protect all data with SSL encryption and other security measures to ensure you that your data is protected and safe. However please be advised that while we take extra measures to protect your data and integrity of your information, we cannot guarantee that our security measures will prevent unauthorized access from occurring. Please take the proper steps to maintain the security of your account information. We highly recommend that you set a tough to guess password for your registered account with Uscreen to ensure others from easily guessing your password.
 
-## Changes to our privacy policy
+## 7\. Changes to our privacy policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-## 7\. Your Rights
+## 8\. Your Rights
 
-You have the right to ask us to not process your personal data for marketing purposes. You can exercise that right by contacting us at support@uscreen.tv
+You have the right to ask us to not process your personal data for marketing purposes. You can exercise that right by contacting us at support@uscreen.tv.
 
-## Contact Information
+## 9\. Contact Information
 
 If you have any questions or concerns about this policy or any Uscreen services products, services or features, please don’t hesitate to contact us at support@uscreen.tv
-
-[contact-form-7 id="15985" title="Subscribe Widget Form" html_id="myForm"]
-
-['submit', null, '2374b832-50e8-48d5-b78f-82b27686f251']
-
-['submit', null, '2374b832-50e8-48d5-b78f-82b27686f251']
-
-['baseURI', 'https://app-3QNC77RV64.marketingautomation.services/webforms/receivePostback/MzawMDEzNjcyAQA/']
-
-['baseURI', 'https://app-3QNC77RV64.marketingautomation.services/webforms/receivePostback/MzawMDEzNjcyAQA/']
-
-[‘form’, ‘myForm’, '2374b832-50e8-48d5-b78f-82b27686f251’]
-
-[‘form’, ‘myForm’, '2374b832-50e8-48d5-b78f-82b27686f251’]
-
-['submitType', 'manual']
-
-['submitType', 'manual']
