@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guardian-angel-reading.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106072804id_/https%3A//www.guardian-angel-reading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian-angel-reading.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213215205id_/https%3A//www.guardian-angel-reading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Padre, medium and online Reading of the Angels
 
-_Last update: 05/25/2018_
+_Last update: 12/09/2019_
 
 Sesam Limited would like to thank you for visiting guardian-angel-reading.com (the “website”) and for your interest in our products and services. Your privacy is important to us and we want you to feel comfortable while visiting our website. Sesam Limited recognizes the need for appropriate protection and management of personal data collected. This document explains clearly and simply which of your personal data are collected by our website and how these personal data are used. You will also find essential information on your rights with regard to the sharing, transmission, alteration or deletion of your personal data. Please read this document carefully so that you fully understand our privacy policy. This privacy policy is subject to any applicable mandatory local laws and regulations.
 
@@ -35,6 +35,9 @@ You enter your confidential credit card details within a secure area managed ent
 When you visit guardian-angel-reading.com, our web server may also automatically collect your IP address. Furthermore, our web server may automatically collect generic information which does not identify you personally such as your web browser, your operating system or your Internet service provider.
 
 We do not process your personal data for a longer period of time than necessary. If you do not use or purchase service(s) and/or products for twelve months, we will stop processing and erase your personal data, unless applicable law authorizes or requires personal data to be kept for a longer period.
+
+Google reCAPTCHA  
+We may use “Google reCAPTCHA” (hereinafter “reCAPTCHA”) on our websites. This service is provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”). reCAPTCHA is used to check whether the data entered on our website (for instance in a contact form) were entered by a computer or any other automated program. To that end, reCAPTCHA analyzes the visitor’s behavior taking several characteristics into consideration. This analysis starts as soon as the visitor connects to the website. reCAPTCHA will analyze several elements: the IP address, the period of time during which the site is visited or the cursor movements of the user). The data collected during the analysis will then be transmitted to Google. The analysis performed by reCAPTCHA take place in the background. Visitors of the website are not informed that such an analysis is underway. Data processing is based on the Article. 6 (1) (f) GDPR. The website operator has a legitimate interest in protecting its site from abusive automated exploration and spam. For more information about Google reCAPTCHA and Google’s privacy policy, please follow the following links: <https://www.google.com/intl/en/policies/privacy/> and <https://www.google.com/recaptcha/intro/android.html>
 
 ## How is this information used?
 
@@ -139,3 +142,5 @@ In the event Sesam Limited goes through a business transition, such as a merger,
 ## How can you contact us?
 
 If you have any comments or questions about this document, you can contact us at [privacy@guardian-angel-reading.com](mailto:privacy@guardian-angel-reading.com)
+
+Our address in Europe: Sesam Ltd – 8A Pitmans Alley – Main Street – Gibraltar
