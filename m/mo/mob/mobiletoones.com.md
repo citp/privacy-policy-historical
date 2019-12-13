@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804063359id_/http%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214002514id_/https%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Toones
 
-> [Home](http://www.mobiletoones.com/) > Privacy Policy 
+> [Home](https://www.mobiletoones.com/) > Privacy Policy 
 
 MobileToones.com values the users of our website. Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("MobileToones.com Services").   
 To understand how we treat the information you give us as you use Mobile Toones, you should read this policy. 
@@ -25,10 +25,10 @@ Mobile Toones does not provide any personally identifiable information to these 
 Currently, Mobile Toones has relationships with the following third-party ad servers or ad networks: 
 
   * Google, Inc.   
-http://www.google.com/privacypolicy.html 
+https://www.google.com/privacypolicy.html 
     * Google, as a third party vendor, uses cookies to serve ads on your site. 
     * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-    * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+    * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](https://www.google.com/privacy_ads.html)
   * We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [ValueClick Media Website](https://admin.valueclickmedia.com/optout/index.html)
 
 
