@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the musicglue.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401115939id_/https%3A//www.musicglue.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicglue.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213224450id_/https%3A//www.musicglue.com/policies) for the most accurate reproduction.*
 
 # Policies - Music Glue
 
-Last Updated: 2nd May, 2018
-
-**1\. Introduction.**
+1\. Introduction. 
 
 We are Music Glue Limited (“we”, “our” and “us”) and we operate under the name of Music Glue. Artists, record labels, merchandisers, venues and promoters (“Merchants”) use us to power their online stores and websites (our “Services”). Your privacy is important to us and we are committed to protecting and respecting your privacy. This Privacy Policy is intended to help you better understand how we collect, use and store your ”Personal Data” – defined as information that can be associated with or which relates to a person and/or could be used to identify a person.
 
@@ -28,7 +26,7 @@ Music Glue is registered with the Information Commissioners Office, registration
 
 If you have any questions or concerns at any time you can contact us at the above address or via [support@musicglue.com](mailto:support@musicglue.com).
 
-**2\. Personal Data That We Collect.**
+2\. Personal Data That We Collect. 
 
 2.1 All Users.
 
@@ -64,7 +62,7 @@ Information you provide to us: We will collect financial information from you (e
 
 Information we obtain from other sources: We may also collect or receive Personal Data from third party sources, such as Merchants, other Customers, social media or other third party integrations, your credit card issuing bank, our payment processing partners or other third parties.
 
-**3\. How We Use Your Personal Data.**
+3\. How We Use Your Personal Data. 
 
 We collect and use the Personal Data we collect in a manner that is consistent with this Privacy Policy. We may use the Personal Data as follows:
 
@@ -74,7 +72,7 @@ If you provide Personal Data for a certain purpose, we may use the Personal Data
 
 3.2 Access, Use and Provision of Services
 
-If you provide Personal Data in order to obtain access to or use of the Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of the Services or functionality and to analyse your use of such Services or functionality. For instance, if you supply Personal Data relating to your identity to use certain portions of the Services, we will use that information to grant you access to use such Services. Similarly, if you supply Personal Data in the course of an ecommerce transaction, we will use that Personal Data to fulfil that transaction and supply you with the items/events you have purchased, or to help you to do so (such as via abandoned cart functionality). 
+If you provide Personal Data in order to obtain access to or use of the Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of the Services or functionality and to analyse your use of such Services or functionality. For instance, if you supply Personal Data relating to your identity to use certain portions of the Services, we will use that information to grant you access to use such Services. Similarly, if you supply Personal Data in the course of an ecommerce transaction, we will use that Personal Data to fulfil that transaction and supply you with the items/events you have purchased, or to help you to do so (such as via abandoned cart functionality).
 
 3.3 Internal Business Purposes.
 
@@ -100,7 +98,7 @@ If we intend to use any Personal Data in any manner that is not consistent with 
 
 In an ongoing effort to understand and serve our Users better, we often conduct research on our customer demographics, interests and behaviour based on Personal Data and other information that we have collected. This research is typically conducted on an aggregate basis only that does not identify you. Once Personal Data is in an aggregated form, for purposes of this Privacy Policy, it becomes Non-Personal Data.
 
-**4\. How We Disclose And Transfer Your Personal Data.**
+4\. How We Disclose And Transfer Your Personal Data. 
 
 4.1 No Sale.
 
@@ -128,7 +126,7 @@ Similarly, if you are a member of a Merchant's organisation within Music Glue, y
 
 We may disclose your Personal Data if required to do so by law in order to (for example) respond to a subpoena or request from law enforcement, a court or a government agency (including in response to public authorities to meet national security or law enforcement requirements), or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect or defend our rights, interests or property or that of third parties, (c) prevent or investigate possible wrongdoing in connection with the Services, (d) act in urgent circumstances to protect the personal safety of Users of the Services or the public, or (e) protect against legal liability.
 
-**5\. How We Store Your Personal Data.**
+5\. How We Store Your Personal Data. 
 
 We may store Personal Data itself or such information may be stored by third parties to whom we have transferred it in accordance with this Privacy Policy. We take what we believe to be reasonable organisational and technologicalsecurity measuresto protect the Personal Data collected via the Services from loss, misuse, unauthorised use, access, inadvertent disclosure, alteration and destruction.
 
@@ -138,21 +136,21 @@ We use payment processors such as PayPal and Stripe for payment processing. We a
 
 However, no network, server, database or Internet or e-mail transmission is ever fully secure or error free. Therefore, you should take special care in deciding what information you send to us electronically. Please keep this in mind when disclosing any Personal Data.
 
-**6\. How You Can Access, Update, Correct or Delete Your Personal Data.**
+6\. How You Can Access, Update, Correct or Delete Your Personal Data. 
 
 You can request access to some of your Personal Data being stored by us. You can also ask us to correct, update or delete any inaccurate Personal Data that we process about them.
 
-If you are a registered User, you can exercise these rights by logging in and visiting the My Account page. Both registered and unregistered Users may also exercise these rights bycontacting us directly by email via [support@musicglue.com](mailto:support@musicglue.com)or at the address specified below.
+If you are a registered User, you can exercise these rights by logging in and visiting the My Account page. Both registered and unregistered Users may also exercise these rights bycontacting us directly by email via [support@musicglue.com](mailto:support@musicglue.com) or at the address specified below.
 
 If a Customer initiates a data deletion request, Music Glue is authorised to delete or anonymise Personal Data of the requesting Customer from the Services even if that means removing its availability to the Merchant through the Services. However, if you are a Customer, you understand that even if Music Glue deletes or anonymises your Personal Data upon your request or pursuant to this Policy, your Personal Data may still be available in the Merchant's own databases if transmitted to the Merchant prior to Music Glue receiving or taking action on any deletion or anonymisation activity.
 
 We will consider and respond to all requests in accordance with applicable law.
 
-**7\. How Long We Retain Your Personal Data.**
+7\. How Long We Retain Your Personal Data. 
 
 We may retain your Personal Data as long as you are registered to use the Services. You may close your account by contacting [support@musicglue.com](mailto:support@musicglue.com). However, we may retain Personal Data for an additional period as is permitted or required under applicable laws. Even if we delete your Personal Data it may persist on backup or archival media for an additional period of time for legal, tax or regulatory reasons or for legitimate and lawful business purposes.
 
-**8\. Cookies, Pixels Tags, Local Shared Objects, Web Storage And Similar Technologies.**
+8\. Cookies, Pixels Tags, Local Shared Objects, Web Storage And Similar Technologies. 
 
 Music Glue sites use cookies and Music Glue merchants may also use cookies. Some are strictly necessary, and some are used to monitor site performance or to provide customised advertising.
 
@@ -168,7 +166,7 @@ We may also use other automated tracking methods on our websites, in communicati
 
 European Customers: You will be presented with a pop up to manage your cookie settings when you first visit the site, and after that you can manage your cookie preferences via 'Cookie Settings' in the lower left of every page. Google Analytics to track site usage is enabled anonymously at all times for customers in Europe. If you enable Analytics Tracking your IP address will also be submitted to GA. If you enable marketing pixels, Facebook and Twitter marketing pixels may be loaded on the site. These services can provide you with customised advertising based on your usage of the site. If you disable this setting you will still receive uncustomised advertising.
 
-**9\. Your Choices.**
+9\. Your Choices. 
 
 You have several choices available when it comes to your Personal Data:
 
@@ -198,27 +196,27 @@ It may take up to 2 working days for us to process an unsubscribe request. Even 
 
 We currently do not participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personal Data.
 
-**10\. Exclusions.**
+10\. Exclusions. 
 
 10.1 Third Party Links.
 
 This Privacy Policy applies only to the Services. The Services may contain links to other websites not operated or controlled by us (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-**11\. Children - Children's Online Privacy Protection Act.**
+11\. Children - Children's Online Privacy Protection Act. 
 
-We do not knowingly collect Personal Data from children under the age of thirteen (13). If you are under the age of thirteen (13), please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Services, please contact us via [support@musicglue.com](mailto:support@musicglue.com)and we will endeavour to delete that information from our databases.
+We do not knowingly collect Personal Data from children under the age of thirteen (13). If you are under the age of thirteen (13), please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Services, please contact us via [support@musicglue.com](mailto:support@musicglue.com) and we will endeavour to delete that information from our databases.
 
-**12\. International Privacy Laws.**
+12\. International Privacy Laws. 
 
 Music Glue operates a Global Service. Currently our servers are located in the European Union. Please be aware that if you are buying a product from a Merchant in a different country to you, then your information (including Personal Data) will be available to the Merchant in that country. Your information may then be transferred to other countries outside of your country of residence. These countries may not necessarily have data protection laws as comprehensive or protective as those in your country of residence; however, our collection, storage and use of your Personal Data will at all times continue to be governed by this Privacy Policy.
 
-**13\. Changes To This Privacy Policy.**
+13\. Changes To This Privacy Policy. 
 
 The Services and our business may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right, in our sole discretion, to update or modify this Privacy Policy at any time (collectively, "Modifications"). Modifications to this Privacy Policy will be posted to the Site with a change to the "Updated" date at the top of this Privacy Policy. In certain circumstances Music Glue may, but need not, provide you with additional notice of such Modifications, such as via email or with in-Service notifications. Modifications will be effective thirty (30) days following the "Updated" date or such other date as communicated in any other notice to you.
 
 Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was updated on the date indicated above. Your continued use of the Services following the effectiveness of any Modifications to this Privacy Policy constitutes acceptance of those Modifications. If any Modification to this Privacy Policy is not acceptable to you, you should cease accessing, browsing and otherwise using the Services.
 
-**14\. Complaints**
+14\. Complaints 
 
 If you have a complaint about Music Glue's privacy practices you should email [support@musicglue.com](mailto:support@musicglue.com) or write to us at:
 
@@ -229,7 +227,7 @@ London NW5 1TL.
 
 We will take reasonable steps to work with you to attempt to resolve your complaint.
 
-**15\. EEA, SWITZERLAND AND UK ONLY**
+15\. EEA, SWITZERLAND AND UK ONLY 
 
 The EU General Data Protection Regulation (GDPR)
 
