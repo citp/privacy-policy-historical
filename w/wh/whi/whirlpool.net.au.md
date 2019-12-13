@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whirlpool.net.au privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419003921id_/https%3A//whirlpool.net.au/wiki/wp_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whirlpool.net.au privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214002914id_/https%3A//whirlpool.net.au/wiki/wp_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Whirlpool will not give, sell, trade or rent your private information to others 
 
   * may be required to do so under Australian law (e.g. by Court Order or by law enforcement agencies under statutory or other powers);
   * are trying to prevent abuse of Whirlpool or Whirlpool's systems (e.g. because we are being DOSed, DDOSed, or where a user is abusing or threatening users or moderators);
-  * are of the reasonable view that there may be an actual or potential breach of the law (e.g. where Whirlpool is being used for the furtherance of crimes against persons or property);
+  * are of the reasonable view that Whirlpool is being used for the furtherance of crimes against persons or property;
   * are acting to identify sources of spam, malicious behaviour or identity theft.
 
 
@@ -49,7 +49,7 @@ The information on the Identity and What I Use tab page of your Account Settings
 
 Your public profile only shows limited information to non-logged in users and search engines (it does not show contact details to non-logged in users). The contact details in your public profile are only visible by registered members of good standing.
 
-Moderators cannot read your private messages (WhIM's). Administrators can do so if required, such as to verify serious abuse of other users.
+Moderators cannot read your private messages (WhIM's) unless explicitly reported to them by a participant in the private message thread. Administrators can also investigate where abuse or improper use of the affected private message system is believed to have occurred.
 
 Please note that, like any online publisher, we cannot pre-emptively control your private information being published by another user. If this happens, [contact a moderator](https://web.archive.org/wiki/WP_ModContact).
 
