@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ogbongeblog.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923114850id_/http%3A//www.ogbongeblog.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogbongeblog.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213202336id_/https%3A//www.ogbongeblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy – OgbongeBlog
 
-**Privacy Policy** for http://www.ogbongeblog.com
+**Privacy Policy** for https://www.ogbongeblog.com
 
-The privacy of our visitors to http://www.ogbongeblog.com is important to us.
+The privacy of our visitors to https://www.ogbongeblog.com is important to us.
 
-At http://www.ogbongeblog.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://www.ogbongeblog.com, and how we safeguard your information. **We never sell your personal information to third parties**.
+At https://www.ogbongeblog.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit https://www.ogbongeblog.com, and how we safeguard your information. **We never sell your personal information to third parties**.
 
 **Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Globacom Nigeria), the browser you used to visit our site (such as Internet Explorer, Safari or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Cookies and Web Beacons** This blog doesn't use cookies. However, some of our business partners (for example, advertisers) may use cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally **used for geotargeting purposes** (showing Lagos Real Estate ads to someone in Lagos, Nigeria, for example) or showing certain ads based on specific sites visited (such as showing mobile phones ads to someone who frequents Phone sites).
+**Cookies and Web Beacons** This blog doesn’t use cookies. However, some of our business partners (for example, advertisers) may use cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally **used for geotargeting purposes** (showing Lagos Real Estate ads to someone in Lagos, Nigeria, for example) or showing certain ads based on specific sites visited (such as showing mobile phones ads to someone who frequents Phone sites).
 
-This site has no access to, or control of advertisers' cookies.
+This site has no access to, or control of advertisers’ cookies.
 
 **DoubleClick DART cookies** We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).
 
@@ -22,7 +22,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [OgbongeBlog](http://www.ogbongeblog.com/)
-
-  
-
+AdSense Privacy Policy Provided by [OgbongeBlog](https://www.ogbongeblog.com/)
