@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productionparadise.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616232815id_/https%3A//www.productionparadise.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productionparadise.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213203155id_/https%3A//www.productionparadise.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -49,7 +49,7 @@ Marketing - [Facebook](https://www.facebook.com/about/privacy/) and [Twitter](ht
     Cookies and usage data
 Advertising - [Google DFP](https://policies.google.com/privacy)
     Cookies and usage data
-Handling payments – [Redsys](https://web.archive.org/web/20190616232815id_/https%3A//www.productionparadise.com/www.redsys.es/legal/20180223_politica_de_privacidad_web_publica_redsys.pdf)
+Handling payments – [Redsys](https://web.archive.org/web/20191213203155id_/https%3A//www.productionparadise.com/www.redsys.es/legal/20180223_politica_de_privacidad_web_publica_redsys.pdf)
     Data as specified in the privacy policy of the service
 Managing contacts and sending messages - [Sendy](https://sendy.co/privacy-policy), [SES](https://aws.amazon.com/privacy/), [Salesmanago](https://www.salesmanago.com/info/gdpr.htm)
     Name and/or company name, email address, country, city, business sector, job title, phone number, website or portfolio link, usage data
