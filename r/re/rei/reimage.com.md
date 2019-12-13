@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reimage.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519104850id_/https%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reimage.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213042039id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reimageplus.com
 
