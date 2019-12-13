@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edelkrone.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123204755id_/https%3A//www.edelkrone.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edelkrone.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213070222id_/https%3A//edelkrone.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - edelkrone
 
