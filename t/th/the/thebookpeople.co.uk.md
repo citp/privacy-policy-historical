@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thebookpeople.co.uk privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623154146id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic%3Ftopic%3DpolicyPrivacy%26storeId%3D10001%26langId%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookpeople.co.uk privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213211738id_/https%3A//www.thebookpeople.co.uk/help/policies/privacy-policy) for the most accurate reproduction.*
 
 # Help - Privacy policy
 
-### CONTENTS OF PRIVACY POLICY
+### Contents of privacy Policy
 
   1. Introduction
   2. Explaining the legal bases we rely on
@@ -26,7 +26,7 @@
 
 This Privacy Policy explains in detail the types of personal data we may collect about you when you interact with us. It also explains how we’ll store and handle that data, and keep it safe.
 
-We know that there’s a lot of information here, but we want you to be fully informed about your rights, and how The Book People uses your data. 
+We know that there’s a lot of information here, but we want you to be fully informed about your rights, and how The Book People uses your data.
 
 We hope the following sections will answer any questions you have but if not, please do get in touch with us.
 
@@ -74,7 +74,7 @@ We will also use your address details to send you direct marketing information b
   * When you contact us by any means with queries, complaints etc.
   * When you ask us to email you information about a product or service.
   * When you enter prize draws or competitions.
-  * When you choose to complete any surveys we send you. 
+  * When you choose to complete any surveys we send you.
   * When you comment on or review our products and services.
   * When you've given a third party permission to share with us the information they hold about you.
 
@@ -91,7 +91,7 @@ For example, we collect notes from our conversations with you, details of any co
 
   * Copies of documents you provide to prove your age or identity where the law requires this, (including your passport and driver's licence). This will include details of your full name, address, date of birth and facial image. If you provide a passport, the data will also include your place of birth, gender and nationality. 
   * Details of your visits to our websites or apps, and which site you came from to ours.
-  * Information gathered by the use of cookies in your web browser. Learn more about how we use cookies and similar technologies here: [Cookie Policy](https://web.archive.org/web/20190623154146id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies)
+  * Information gathered by the use of cookies in your web browser. Learn more about how we use cookies and similar technologies here: [Cookie Policy](https://web.archive.org/help/policies/cookie-policy)
   * Personal details which help us to recommend items of interest.
 
 
@@ -185,7 +185,7 @@ _For example, for fraud management, carrier services or to handle complaints and
   * IT companies who support our website and other business systems.
   * Operational companies such as delivery couriers.
   * Direct marketing companies who help us manage our electronic communications with you.
-  * Google/Facebook to show you products that might interest you while you’re browsing the internet. This is based on either your marketing consent or your acceptance of cookies on our websites. See our [Cookie Policy](https://web.archive.org/web/20190623154146id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies) for details.
+  * Google/Facebook to show you products that might interest you while you’re browsing the internet. This is based on either your marketing consent or your acceptance of cookies on our websites. See our [Cookie Policy](https://web.archive.org/help/policies/cookie-policy) for details.
   * Data insight companies to ensure your details are up to date and accurate. 
   
 
@@ -206,7 +206,7 @@ We will only do this in very specific circumstances, for example:
 
 ### 9\. Cookies
 
-We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies and other such software on our website contain information that is transferred to your computer's hard drive. They help us to improve the website and to deliver a better and more personalised service. Find out more about our cookie policy here: [Cookie Policy](https://web.archive.org/web/20190623154146id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/help_topic?topic=policyCookies)
+We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies and other such software on our website contain information that is transferred to your computer's hard drive. They help us to improve the website and to deliver a better and more personalised service. Find out more about our cookie policy here: [Cookie Policy](https://web.archive.org/help/policies/cookie-policy)
 
 This includes, but is not limited to:
 
@@ -291,7 +291,7 @@ If you feel that your data has not been handled correctly, or you are unhappy wi
 
 You can contact them by calling [0303 123 1113](tel:303 123 1113).
 
-Or go online to [www.ico.org.uk/concerns](https://web.archive.org/web/20190623154146id_/https%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/www.ico.org.uk/concerns) (opens in a new window; please note we can't be responsible for the content of external websites)
+Or go online to [www.ico.org.uk/concerns](https://www.ico.org.uk/concerns) (opens in a new window; please note we can't be responsible for the content of external websites)
 
 If you are based outside the UK, you have the right to lodge your complaint with the relevant data protection regulator in your country of residence. Details can be found in Section 16.
 
