@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectism.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621030204id_/https%3A//www.highsnobiety.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectism.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213074239id_/https%3A//www.highsnobiety.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Highsnobiety
 
@@ -6,13 +6,13 @@
 
 This Privacy Policy was last updated on May 22, 2019.
 
-We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.highsnobiety.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Titel Media GmbH, Ritterstraße 9, 10969 Berlin, Germany (collectively “we” or “us”).
+We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.highsnobiety.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Titel Media GmbH, Genthiner Strasse 32–34, 10785 Berlin, Germany (collectively “we” or “us”).
 
 This Privacy Policy also incorporates the terms contained in the [Terms of Use](https://www.highsnobiety.com/terms/), the [Copyright Policy](https://www.highsnobiety.com/copyright-policy)and the [Highsnobiety Imprint](https://www.highsnobiety.com/imprint/).
 
 ### Data controller/responsible body
 
-Titelmedia GmbH, Ritterstraße 9, 10969 Berlin, Germany  
+Titelmedia GmbH, Genthiner Strasse 32–34, 10785 Berlin, Germany  
 Duly represented by David Fischer, Jürgen Hopfgartner
 
 ### Data process manager
@@ -416,7 +416,7 @@ When you use our services or view content provided by us, we may automatically c
 
 We may combine this automatically collected log information with other information we collect about you. We do this to improve marketing, analytics, and the products and services we offer you. Such information is used in anonymized or pseudonymized form only. Legal basis for such data processing is Article 6 (1) lit. f GDPR. Unless statutory provisions provide otherwise, the data will be deleted if the purpose cease to apply.
 
-**You may at all times object to the use of personal data for the above mentioned purposes by informal notification by written letter to Titelmedia GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to[dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).**
+**You may at all times object to the use of personal data for the above mentioned purposes by informal notification by written letter to Titelmedia GmbH, Genthiner Strasse 32–34, 10785 Berlin, Germany, or by e-mail to[dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).**
 
 ## X. Cloudflare
 
@@ -530,7 +530,7 @@ This shall not apply if the decision:
 
 3\. is based on the data subject’s explicit consent.
 
-In all such cases, please refer to us by written letter to Titel Media GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to dpo@highsnobiety.com.
+In all such cases, please refer to us by written letter to Titel Media GmbH, Genthiner Strasse 32–34, 10785 Berlin, Germany, or by e-mail to dpo@highsnobiety.com.
 
 ### Right to revocation
 
@@ -538,9 +538,9 @@ You may at all times revoke consent to the processing of personal data. You can 
 
 ### Right to lodge a complaint with a supervisory authority
 
-Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of personal data by Titel Media relating to you infringes the provisions oft he GDPR.
+Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of personal data by Titel Media relating to you infringes the provisions of the GDPR.
 
-In all such cases, please refer to us by written letter to Titel Media GmbH, Ritterstraße 9, 10969 Berlin, Germany, or by e-mail to [dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).
+In all such cases, please refer to us by written letter to Titel Media GmbH, Genthiner Strasse 32–34, 10785 Berlin, Germany, or by e-mail to [dpo@highsnobiety.com](mailto:dpo@highsnobiety.com).
 
 If you have any questions about your privacy or data protection, please feel free to contact us at any time using the details given above.
 
