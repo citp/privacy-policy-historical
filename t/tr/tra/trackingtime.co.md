@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackingtime.co privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507025820id_/https%3A//trackingtime.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackingtime.co privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213220227id_/https%3A//trackingtime.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center
 
