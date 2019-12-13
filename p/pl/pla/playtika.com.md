@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtika.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426003123id_/https%3A//www.playtika.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtika.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213131307id_/https%3A//www.playtika.com/privacy-policy) for the most accurate reproduction.*
 
 # Playtika
 
@@ -32,7 +32,7 @@ To prevent disclosure of your personal information for use in direct marketing b
 
 Playtika only collects Personal Information to the extent necessary to fulfil one or more of its functions and activities, and will do so only by fair and reasonable means. Generally we will collect Personal Information directly from the individual to whom the Personal Information relates, but in some circumstances (including as outlined below), it may be necessary for us to collect information from a third party source.
 
-##  1.     Information About You That We Get from Third-Party Applications, Including Social Networks (like Facebook)
+## 1.     Information About You That We Get from Third-Party Applications, Including Social Networks (like Facebook)
 
 If you play Playtika’s games or access any of our other Services on connected third-party applications or connect our Services to any third-party applications, including social networks like Facebook, Playtika may receive certain information about you from the provider of the third-party application. The information we receive depends on the Playtika game you’re playing, the third-party application, your privacy settings and, if applicable, your friends’ privacy settings on that third-party application.
 
@@ -64,7 +64,7 @@ If you access our Services from a third-party application or connect our Service
 
 If you are unclear about what information a third-party application is sharing with us, please go to the third-party application to find out more about their privacy practices.
 
-##  2.     Cookies and Automated Information Collection
+## 2.     Cookies and Automated Information Collection
 
 Like many websites, Playtika and service providers acting on our behalf, like Google Analytics, store log files and use tracking technologies such as "cookies" to collect information. A cookie is a small data file that is transferred to your computer’s hard disk or your mobile device for record-keeping purposes. The Service may send cookies to a computer or a mobile device when a user accesses or views a Service. Information contained in a cookie may be linked to personal information for purposes such as improving the quality of Playtika’s Service, tailoring recommendations to interests, and making the Service easier to use. 
 
@@ -104,7 +104,7 @@ In some cases, we will connect this information with your social network ID or P
 
 For more information on how to limit the types of cookies you allow, please see Opting out of Cookie Tracking section _._
 
-##  3.     Information About You That You Share With Us Directly
+## 3.     Information About You That You Share With Us Directly
 
 When you use our Services (whether through a social network or through Playtika directly), you may give us information directly (like when you’re setting up your account) and we will store that on our systems and use it for the purposes described in this Privacy Policy.
 
@@ -136,7 +136,7 @@ links to your profiles on various social network; and
 
 details about the games you play; 
 
-##  4.     Information You Generate Using Our Communications Features
+## 4.     Information You Generate Using Our Communications Features
 
 Except for games designed for children under 13, you may be able to take part in certain activities on our Service that let you communicate or share information not just with Playtika, but also with other Playtika players. These include:
 
@@ -152,7 +152,7 @@ posting photos or drawings.
 
 You acknowledge and expressly agree that we may access in real-time, record and/or store archives of these communications, comments, photos and drawings on Playtika's servers to make use of them to protect the safety and well-being of our players and Playtika’s rights and property in connection with our Services; to conduct research; to operate, improve, personalize and optimize our Services and our players’ experiences, including through the use of analytics; and to manage and deliver contextual advertising.
 
-##  5.     Payment Information
+## 5.     Payment Information
 
 Playtika may obtain the billing and payment information that you provide when your purchase is processed by someone else (like Facebook, Apple or Google) such as when you purchase something in a game you play on a social network or that you downloaded on your mobile device. Our [Terms of Service](https://www.playtika.com/terms-service) explain our policies and terms relevant to our charges, billing practices, third-party credits and virtual currencies.
 
@@ -160,7 +160,7 @@ If you purchase virtual currency or virtual items in a Playtika game, our third-
 
 Playtika does not collect or store your financial information, like credit card numbers. However, Playtika’s payment processors may share non-financial information with us related to your purchases, like your name, billing address and the items purchased in order to fulfill your order. 
 
-##  6.     Message Boards and Chat Rooms
+## 6.     Message Boards and Chat Rooms
 
 You may be able to take part in certain activities on our websites or games that give you the opportunity to communicate or share information not just with Playtika, but also with other users of our Service. Note that certain information you post and communicate through a Service or a third party site or service is public information for which you have no expectation of privacy.
 
@@ -170,17 +170,17 @@ You should be aware that any personally identifiable information you submit in t
 
 If you post a video, image or photo through a Service for public view, you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. Playtika is not responsible for the videos, images or photos that you choose to post through a Service. Please see Playtika’s Terms of Service on this point and for other guidelines about posting content through any Service.
 
-##  7.     Customer Support Correspondence
+## 7.     Customer Support Correspondence
 
 Except as provided herein, when you ask for help from our [Customer Support ](https://playtikaprod.service-now.com/privacy_security.do)team, we will collect and store the contact information you give them (generally, your name and e-mail address), information about your game play or activity on our Services, and your Playtika player and/or social network ID number. We will also store the communications you have with the Customer Service team and any information in those communications in order to provide support and improve the Services. For users of our games designed for children under 13, we will use your contact information for the sole purpose of providing a one-time response to your question. We will then delete your information from our servers.
 
-##  8.     Other Sources
+## 8.     Other Sources
 
 We may collect or receive information about you from other sources like third-party information providers. We use this information along with information you provide us directly, for example, to help you and your friends connect or to serve you advertising more tailored to your interests.
 
 If you would like to learn more about how we secure your information, please see Security of Your Information section below.
 
-##  1.     How We Use Your Information
+## 1.     How We Use Your Information
 
 The main use of the information we collect, and store is to provide a better gaming experience, but there are other uses as well. The uses for which we collect and store your information include:
 
@@ -212,24 +212,24 @@ to conduct research.
 
 One important use of your information is communication. If you have provided your e-mail address to Playtika, we will use it to respond to customer support inquiries, and keep you informed of your in-game activity, including comments from friends, let you know about in-game status and promotions as well as tell you about gift and neighbor requests. Some messages, like invites for friends to join you in a game, may include your name and profile photo. We may also send promotional e-mail messages and promotional SMS messages (e.g. text messages) ("Promotional Communications") directly or in partnership with other parties, in accordance with your marketing preferences. Each Promotional Communication will offer you choices about receiving additional messages. Receipt of such communications depends on Playtika having certain contact information from you. If you play one of our games designed for children under 13, you will not be able to provide us with certain contact information. Please see the section on Our Policies Concerning Children for more information.
 
-##  2.     How We Share Your Information
+## 2.     How We Share Your Information
 
 We may disclose or publish aggregated information (information about you and other players collectively that is not intended to specifically identify you, for example, players between the ages of 25 and 30 who live Chicago) and other non-personal information about our players for industry analysis, demographic profiling, marketing, analytics, advertising, and other business purposes.  
 In addition, we may share your information (which may include personal information) with third parties (in other words, parties other than Playtika) or allow third parties to collect this information from our Services in the following circumstances:
 
-##  3.     Your Consent
+## 3.     Your Consent
 
 With your consent, we may share your information with third parties or allow them to collect your information from our Services in some ways not specifically described in this Privacy Policy.
 
-##  4.     Aggregated and Analytical Information
+## 4.     Aggregated and Analytical Information
 
 We use anonymous, statistical or aggregated information and may share it with our partners for legitimate business purposes. It has no effect on your privacy, because there is no reasonable way to extract data from the aggregated information that can be associated with you. We will share your identifiable information only subject to the terms of this policy, or subject to your prior consent. 
 
-##  5.     Friends and Other Playtika Players
+## 5.     Friends and Other Playtika Players
 
 The Service supports and often encourages you to interact with other players. In most Playtika games, if you play through a social network or register through a social network (for example, Facebook Connect), your social network friends will see your name, profile photo and descriptions of your game activity. Similarly, in many Playtika games, other players, regardless of whether they are your social network friends or not, will be able to see descriptions of your game activity (including the identification of any Playtika games you have played), communicate with you within our Services, and view your game profile, which may include your name or a “game name” and your profile photo. For example, in Playtika Poker, any other player may see your game profile if you are playing at the same table. In certain cases, your profile photo can reveal your social network ID or Playtika player ID, and access to a social network ID or Playtika player ID may allow others to view the public information associated with your related social network profile or Playtika account. Other players may also be able to send you game requests or even friend requests through the related social network’s or Playtika’s communication channels.
 
-##  6.     Third-Party Advertising Including Tailored Advertising and Analytics
+## 6.     Third-Party Advertising Including Tailored Advertising and Analytics
 
 We have advertising on our Services so we can continue to offer many of our Services for free.
 
@@ -259,47 +259,47 @@ Please note, after clicking on a third party advertisement, you may no longer be
 
 If you do not want to receive tailored in-application advertisements from third parties, please see How to Access, Update and Manage Your Information. Please note that no tailored advertisements will be delivered for Playtika games designed for children under 13, though Playtika may allow contextual advertisements to be displayed.
 
-##  7.     Third-Party Service Providers
+## 7.     Third-Party Service Providers
 
 We will share your information with third-party companies to perform services on our behalf, like processing payments, analyzing data, optimizing game play, e-mail delivery, hosting services, customer service and to help us in our marketing efforts, including managing and delivering contextual and tailored advertisements. We contractually require these third-party service providers to maintain the confidentiality of the information we share with them, and we contractually require them not use your information for anything other than to provide services on our behalf.
 
-##  8.     Sale or Merger
+## 8.     Sale or Merger
 
 In the event that Playtika undergoes a business transition (including proposed transactions), like a merger, acquisition by another company, or sale of all or part its assets (like selling a game), we may disclose or transfer all of your information, including personal information, to the successor organization in the transition. We will make reasonable efforts to let you and other players know (in the way described in Changes to Our Privacy Policy) of the business transition before transferring your personal information.
 
-##  1.     Accessing and Updating Your Information Held by Playtika
+## 1.     Accessing and Updating Your Information Held by Playtika
 
 If you want to review, delete, or change the information Playtika has about you or have additional questions, contact us at  __[GDPR Information center](https://playtika.com/gdpr) __ , and we will respond to your request within thirty days. For exercising your GDPR rights you can open a request in the [Playtika Privacy Portal](https://playtikaprod.service-now.com/privacy_security.do)
 
-##  2.     Stopping Use of Your Information
+## 2.     Stopping Use of Your Information
 
 If you no longer want Playtika to make active use of your information, you may send an e-mail to [Privacy@playtika.com](mailto:legal@playtika.com)  Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and your social network ID for the social network from which you access our Services (if applicable) in the body of the e-mail (for example, your Facebook user ID). We will respond to your request within thirty days. Please note that certain records, for example those relating to payments or customer service matters, will be held for legal and accounting purposes. If you have sent content through or posted content on the Service, we may not be able to delete it.
 
-##  3.     Manage Information We get from a Third-Party Application
+## 3.     Manage Information We get from a Third-Party Application
 
 To manage the information Playtika receives about you from a third-party application where you play our games, like Facebook, you will need to follow the instructions for the third-party application for updating your information and changing your privacy settings. The privacy management tools for applications on Facebook can be found  _[here](https://www.facebook.com/settings/?tab=applications)_. To review and update information associated with your Playtika game profile in certain games, visit the “settings” page in that game. You also can manage some aspects of information collection and use by visiting the “settings” page of your mobile device and reviewing the permissions of each application or “app.”
 
 Once Playtika receives your information from a third-party application or your mobile device, that information is stored and used by Playtika in accordance with this Privacy Policy. You may access and update that information as described below.
 
-##  4.     Opting Out of Geolocation
+## 4.     Opting Out of Geolocation
 
 If you have previously allowed us to access your geolocation data, you can stop making geolocation available to us by visiting your mobile device's settings for the relevant application or the “settings” page for the relevant game.
 
-##  5.     Opting Out of Promotional Emails from Playtika
+## 5.     Opting Out of Promotional Emails from Playtika
 
 If you want to stop receiving promotional e-mails from Playtika, click on the "unsubscribe" link in any promotional email from Playtika or visit the e-mail preference . Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective. Your unsubscribe or e-mail preference change will be processed promptly, and in no event longer than ten business days.
 
-##  6.     Opting from FB messages
+## 6.     Opting from FB messages
 
 If you want to stop receiving messages through our game pages, you may click on the “settings” icon on the top of such message, and by clicking ”manage messages” you may turn off all messages from such game.
 
-##  7.     Opting Out of Other Communications
+## 7.     Opting Out of Other Communications
 
 When you install our apps on your mobile device you can choose to receive push notifications, which are messages an app sends you on your mobile device even when the app is not on. You can turn off notifications by visiting your mobile device’s “settings” page.
 
 In most of our games, you may find under “your account” or Settings” section an option to stop e-mail or other notifications.
 
-##  8.     Opting Out of Third-Party Tailored Advertising
+## 8.     Opting Out of Third-Party Tailored Advertising
 
 If you are interested in more information about tailored advertising and your choices to prevent third parties from delivering tailored web and mobile web advertising you may visit the following websites:
 
@@ -313,21 +313,21 @@ In addition, if you do not want to receive tailored in-application advertisement
 
 **_Please note that you may still receive advertisements from third parties within Playtika’s games even if you opt out of tailored advertising but they will not be based on your activity across unrelated web sites or apps._**
 
-##  9.     Opting Out of Cookie Tracking
+## 9.     Opting Out of Cookie Tracking
 
 You can set your web browser to warn you about attempts to place cookies on your computer or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. To learn more about and manage flash cookies you can visit the  _[Adobe website](http://www.adobe.com/)_  and make changes at the  _[Global Privacy Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html)_.
 
 If you disable cookies, you may lose some of the features and functionality of our Services because Playtika cookies are necessary to track and enhance your game activities.
 
-##  10.  California Online Privacy Protection Act Notice
+## 10.  California Online Privacy Protection Act Notice
 
 At this time, there is no general agreement on how companies like Playtika should interpret Do Not Track signals. Playtika does not currently respond to Do Not Track signals, whether that signal is received on a computer or on a mobile device. You can learn more about Do Not Track.
 
-##  1.     Policy Regarding Persons Under 21
+## 1.     Policy Regarding Persons Under 21
 
 Unless written otherwise, our games are intended for use by those 21 or older for amusement purposes only. Without derogating from the foregoing, Playtika does not knowingly collect personal information from children under the age of 18. Children under the age of 18 should not use our websites or games at any time. If Playtika learns that a person under the age of 18 has provided it with personal information, Playtika will take reasonable steps to delete such information as soon as possible.
 
-##  2.     Policy Regarding Board kings, Pirate Kings and Monster Blasters Games
+## 2.     Policy Regarding Board kings, Pirate Kings and Monster Blasters Games
 
 Games offered by Jelly Button Games Ltd. (Company within Playtika group) are intended for use by those 13 or older for amusement purposes only. Without derogating from the foregoing, Jelly Button games does not knowingly collect personal information from children under the age of 13. Children under the age of 13 should not use our websites or games at any time. If Jelly Button learns that a person under the age of 13 has provided it with personal information, Jelly Button will take reasonable steps to delete such information as soon as possible. When we intend to collect personal information from children, we take additional steps to protect children’s privacy, including:
 
@@ -335,7 +335,7 @@ Limiting our collection of personal information from children to no more than is
 
 Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted
 
-##  1.     Security of Your Information
+## 1.     Security of Your Information
 
 Playtika has made reasonable technical and organizational measures designed to secure your information both online and offline from accidental loss and from unauthorized access, use, alteration or disclosure, and we are committed to the protection of customer information. We will take reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
@@ -345,7 +345,7 @@ Also please note that email and messaging systems are not considered secure, so 
 
 Although we strive to protect your personal data, we cannot guarantee the security of your data while it is being transmitted to our site; any transmission is at your own risk. Once we have received your information, we have procedures and security features in place to try to prevent unauthorized access. If you have questions about the security of our websites, please submit a ticket via the applicable support channel of the game.
 
-##  2.    Safety, Security and Compliance with Law
+## 2.    Safety, Security and Compliance with Law
 
 Your information, and the contents of all of your online communications in our Services and between You and Playtika may be accessed and monitored as needed to provide our Service and may be disclosed:
 
@@ -359,7 +359,7 @@ when we have a good faith belief that there is an emergency that poses a threat 
 
 to protect the rights or property of Playtika and other applicable third parties, including to enforce our [Terms of Service](https://playtika.com/terms-service).
 
-##  3.     International Operations and Transfers Out of the EEA
+## 3.     International Operations and Transfers Out of the EEA
 
 When you use Our Services, your data may be sent to the United States and possibly other countries.
 
@@ -371,11 +371,11 @@ The data we hold may also be processed by employees operating outside of the EEA
 
 If you are a resident in a jurisdiction, where transfer of your personal information to another jurisdiction requires your consent, then you provide us your express and unambiguous consent to such transfer for us to provide you with our services.
 
-##  4.     How Long We Keep Your Information
+## 4.     How Long We Keep Your Information
 
 How long we retain your information depends on why we collected it and how we use it. We will not retain your personal information for longer than is necessary for our business purposes or for legal requirements. For instance, we may retain some information for a few years after you have closed your account with us if this is necessary to meet our legal obligations or to exercise, defend or establish legal rights.
 
-##  5.     Changes to Our Privacy Policy
+## 5.     Changes to Our Privacy Policy
 
 If we decide to make material changes to our Privacy Policy, we will tell you and other players by placing a notice on Playtika.com or its equivalent in-game, or by sending you a notice to the e-mail address we have on file for you prior to the change becoming effective. We may supplement this process by placing notices on game blogs, social network pages, and/or forums and on other Playtika websites. You should periodically check [www.Playtika.com](http://www.playtika.com/) and this privacy page for updates.
 
