@@ -1,76 +1,145 @@
-> *The following text is extracted and transformed from the shareably.co privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319120517id_/https%3A//shareably.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareably.co privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213125312id_/https%3A//shareably.co/privacy-policy) for the most accurate reproduction.*
 
 # Shareably - We are the next generation of storytellers
 
-Your privacy is critically important to us. At Shareably Media, LLC (“ **Shareably** ” or “ **we** ” or “ **us** ”) we have a few fundamental principles:
+Effective as of July 18, 2018.
 
-  * We don’t ask you for personal information unless we truly need it (we can’t stand services that ask you for things like your gender or income level for no apparent reason).
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+This Privacy Policy explains how Shareably Media, LLC (“ **Shareably** ”, “ **we** ”, “ **us** ” or “ **our** ”) collects, uses and shares your personal information if you use our website at shareably.net or any other Shareably website to which this Privacy Policy is posted (collectively, our “ **Website** ”). 
+
+**Table of Contents**
+
+Personal Information We Collect
+
+How We Use Your Personal Information
+
+How We Share Your Personal Information
+
+Your Choices
+
+Cookies and Similar Technologies
+
+Other Important Privacy Information
+
+How to Contact Us
+
+Notice to European Users
+
+**Personal Information We Collect**
+
+**Information you give us.** We may collect your name, email address and other information about you through the Website or otherwise when you request information, respond to surveys, participate in market research activities, report a problem with the Website, receive customer support or otherwise correspond with us. We may also collect other personal information from you that is not specifically mentioned in this Privacy Policy from time to time, but if we do we will use it in accordance with this Privacy Policy. 
+
+**Information automatically collected.** Our servers and third party service providers may automatically record certain information about how you use the Website and the device you use to access it, such as your Internet Protocol (IP) address, device and browser type, approximate geographic location (e.g., city or town), referring website, operating system, unique device identifiers, unique application and advertising identifiers, the pages or features of the Website that you browsed and the time spent on those pages or features, the frequency with which you use the Website, the links that you click on or use, and other statistics. We collect this information in server logs and by using cookies and similar tracking technologies. See our [Cookie Policy](https://web.archive.org/cookie-policy) for more information. 
+
+Sensitive personal information. We ask that you not provide to us any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin; political opinions, religion or other beliefs; health, biometrics or genetic characteristics; criminal background or union membership) through the Website or otherwise, but if you do, you must consent to our use of this information in accordance with this Privacy Policy. 
+
+**How We Use Your Personal Information**
+
+We use your personal information for the following purposes and as otherwise described to you in this Privacy Policy or at the time of collection: 
+
+**To provide the Website.** We use your personal information: 
+
+  * to provide, operate and improve the Website;
+  * to communicate with you regarding the Website, including by sending you announcements, updates, security alerts, and support and administrative messages;
+  * to better understand your needs and interests, and personalize your experience with the Website; and
+  * to respond to your Website-related requests, questions and feedback.
 
 
 
-Below is our privacy policy which incorporates these goals and recognizes the need to protect the privacy of the personal information you provide to Shareably with respect to your access and use of Shareably’s website (www.shareably.net) (the “ **Website** ”). 
+**For research and development.** We use information automatically collected and other information to analyze trends, administer the Website, analyze users’ movements around the Website, gather demographic information about our user base as a whole, improve the Website and develop new products and services. 
 
-Therefore, we have adopted this privacy policy (the “ **Privacy Policy** ”), which sets forth, among other things, the type of information that will be collected, the purpose and use of the collected information, and your rights with regard to the collected information. By accessing the Website, you are consenting to the collection and the use of your information by Shareably, but only to the extent described herein. Should you wish to revoke your consent, you may do so in accordance with the provisions of Section 4 below.
+**To send you marketing communications.** We may send you promotions or other marketing communications but you may opt out of receiving them as described in the [Opt out of marketing](https://web.archive.org/web/20191213125312id_/https://shareably.co/privacy-policy/opt-out-of-marketing) section below. 
 
-Shareably may make modifications, deletions and/or additions to this Privacy Policy (“ **Changes** ”) at any time. Changes will be effective: (i) thirty (30) days after notice of the Changes is provided through the Website or otherwise; or (ii) when you opt-in or otherwise expressly agree to the Changes or a version of this Privacy Policy incorporating the Changes, whichever comes first. 
+**To provide you with advertising.** We may use your personal information to serve ads on the Website or on third party sites and to tailor ads to your interests and browsing history. See our [Cookie Policy](https://web.archive.org/cookie-policy) for more information. 
 
-1\. **Protection of Your Information**. **** We are accountable for the information in our custody. Therefore, when we collect or use your information, we will utilize commercially reasonable safeguards to ensure its protection. It should be noted that no security procedure is currently 100% effective. Should any breach of your Personal Information occur, we will inform you as soon as reasonably possible, as required by applicable law.
+**To create anonymous data.** We may create aggregated and other anonymous data from our users’ information. We make personal information into anonymous data by removing information that makes the data personally identifiable. We may use this anonymous data and share it with third parties to understand and improve our products and services and for other lawful business purposes. 
 
-2\. **Type and Purpose of Collection** **.** We collect information at various points in the Website to facilitate its use by our customers. Specifically, two types of information are collected:
+**For compliance, fraud prevention and safety.** We may use your personal information as we believe appropriate to (a) investigate violations of and enforce our Terms of Use; (b) protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims); and (c) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity. 
 
-_Non-Personal Information:_ Upon accessing the Website, certain non-personal information will be automatically collected without your knowledge or consent, such as your IP address, location data (which is anonymous) and the referring website (“ **Non-Personal Information** ”). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use “cookies”, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited. 
+**For compliance with law.** We may use your personal information as we believe appropriate to (a) comply with applicable laws, lawful requests and legal process, such as to respond to subpoenas or requests from government authorities; and (b) where permitted by law in connection with a legal investigation. 
 
-(b) _Identifying Personal Information_ : To utilize some portions of the Website, you must first provide personal information that will allow you to be identified (“ **Personal Information** ”). This type of information will not be collected without your consent. The purposes of the collection of Personal Information are the following: 
+**With your consent.** In some cases we may ask for your consent to collect, use or share your personal information, such as when required by law or our agreements with third parties. 
 
-  * To create your account;
-  * To send you confirmation of your registration;
-  * To administer your account;
-  * To establish a relationship with you;
-  * To anticipate and resolve problems with your service; 
-  * To understand your needs and desires vis-à-vis the Website;
+**How We Share your Personal Information**
+
+We do not share your personal information with third parties without your consent, except in the following circumstances:
+
+**Affiliates.** We may share your personal information with parent companies, subsidiaries and affiliates for use consistent with this Privacy Policy.
+
+**Service providers.** We may share your personal information with third party companies and individuals as needed for them to provide us with services that help us with our business activities and to provide the Website (such as customer support, hosting and storage, website analytics, email delivery, marketing/advertising, database management services and legal and other professional advice). These third parties will be given limited access to your personal information that is reasonably necessary for them to provide their services.
+
+**Compliance, fraud prevention, safety.** We may disclose your personal information as we believe appropriate to government or law enforcement officials or private parties for the purposes described above under the following sections: For compliance, fraud prevention and safety and For compliance with law.
+
+**Business transfers.** We may sell, transfer or otherwise share some or all of our business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a corporate divestiture, merger, consolidation, acquisition, reorganization or sale of assets, or in the event of bankruptcy or dissolution.
+
+**Your Choices**
+
+**Opt out of marketing.** You may opt out of marketing-related emails by clicking on the unsubscribe link in the email. You may continue to receive Website-related and other non-marketing emails.
+
+**Opt out of advertising.** See our [Cookie Policy](https://web.archive.org/cookie-policy) for details on how to limit targeted advertising based on your information.
+
+**Cookies and Similar Technologies**
+
+We may allow service providers and other third parties to use cookies and other tracking technologies to track your browsing activity over time and across the Website and third party websites. For more details, see our [Cookie Policy](https://web.archive.org/cookie-policy). Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to "Do Not Track" or similar signals. To find out more about "Do Not Track," please visit [www.allaboutdnt.com](https://www.allaboutdnt.com/).
+
+**Other Important Privacy Information**
+
+**Third party sites and services** The Website may contain links to other websites and services operated by third parties. These links are not an endorsement of, or representation that we are affiliated with, any third party. We do not control third party websites, applications or services, and are not responsible for their actions. Other websites and services follow different rules regarding their collection, use and sharing of your personal information. We encourage you to read their privacy policies to learn more. If you allow a third party service to access your user content in the Website, you do so at your own risk. 
+
+**Security.** The security of your personal information important to us. We take a number of organizational, technical and physical measures designed to protect the personal information we collect. However, security risk is inherent in all internet and information technologies and we cannot guarantee the absolute security of your personal information. We will comply with applicable laws and regulations requiring that we notify you in the event your personal information is compromised as a result of a breach of our security measures. 
+
+**International data use.** We are headquartered in the United States and have affiliates and service providers in other countries, and your personal information may be collected, used and stored in the United States or other locations outside of your home country. Privacy laws in the locations where we handle your personal information may not be as protective as the privacy laws in your home country. 
+
+**Children.** The Website is not directed at, and we do not knowingly collect personal information from, anyone under the age of 16. If we learn that we have collected personal information from a child under age 16, we will promptly delete that information. 
+
+**Changes to this Privacy Policy.** We reserve the right to modify this Privacy Policy at any time. If we make changes to this Privacy Policy we will post them on the Site and indicate the effective date of the change. If we make material changes to this Privacy Policy we will notify you by email or through the Website. 
+
+**How to Contact Us**
+
+Shareably Media, LLC  
+2263 Ashbourne Drive  
+San Ramon, CA 94583  
+[hi@shareably.net](mailto:hi@shareably.net)  
+
+
+**Notice to European Users**
+
+The following applies to individuals in the European Economic Area.
+
+**Controller.** Shareably Media, LLC is the controller of your personal information covered by this Privacy Policy for purposes of European data protection legislation.
+
+**Legal bases for processing.** The legal bases of our processing of your personal information are described in the table below. 
+
+**Processing purpose** (click link for details) | **Legal basis**  
+---|---  
+To provide the Website | You have entered a contract with us and we need to use your personal information to provide services you have requested or take steps that you request prior to providing services.   
+For research and development
+
+To send you marketing communications
+
+To provide you with advertising
+
+To create anonymous data
+
+For compliance, fraud prevention and safety
+
+| These processing activities constitute our legitimate interests. We consider and balance the potential impact on your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).  
+For compliance with law | Processing is necessary to comply with our legal obligations.  
+With your consent | Processing is based on your consent. Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in the Website.  
+To share your personal information as described in this Privacy Policy | This sharing constitutes our legitimate interests, and in some cases may be necessary to comply with our legal obligations.  
+  
+**Retention.** Generally, we retain your personal information for as long as necessary to process your personal information as described in this Privacy Policy unless a longer retention period is required or permitted by law. 
+
+**Your rights.** European data protection laws give you certain rights regarding your personal information. You may ask us to take the following actions in relation to your personal information that we hold: 
+
+  * **Access.** Provide you with information about our processing of your personal information and give you access to your personal information.
+  * **Correct.** Update or correct inaccuracies in your personal information.
+  * **Delete.** Delete your personal information.
+  * **Transfer.** Transfer a machine-readable copy of your personal information to you or a third party of your choice.
+  * **Restrict.** Restrict the processing of your personal information.
+  * **Object.** Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights.
 
 
 
-To update you on changes to our services or products, including new promotions.
+You may submit these requests by email to [hi@shareably.net](mailto:hi@shareably.net) or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). 
 
-You may opt out of such notifications through your device or by contacting us at hi@shareably.net.
-
-We expressly acknowledge that we will not use your Personal Information for any other purposes without your consent. Further, we will only collect Personal Information to the extent necessary for the abovementioned purposes. The Personal Information we collect will vary depending on how you are using the Website, but may include, without limitation: (i) your name, mailing address, phone number and email address; (ii) credit card information and charge history; (iii) unique identifiers such as user name, account number and password; (iv) preferences information such as product or content interests, communication or marketing preferences; (v) device information and data; and (vi) Twitter and Facebook identity.
-
-Additionally, Personal Information may be used and disclosed to the extent Shareably may deem reasonably necessary to enforce the terms of any agreement between you and Shareably, or to protect the rights, property or safety of any person or entity.
-
-3\. **Right to Examine Information.** **** You have the right to examine any of your Personal Information that we collect. Should you wish to examine such information, please send us a written request to hi@shareably.net **.** We reserve the right to charge you a reasonable administrative fee to access your information, as permitted by applicable law. In certain cases we may not be able to provide you with access to all of your Personal Information (ex: if the information also pertains to the Personal Information of another user).
-
-4\. **Withdrawal of Consent.** You may withdraw your consent to the collection of Personal Information at any time by sending a written request to hi@shareably.net. **** Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose. Please note that we will send you an email confirmation upon receipt of your request. Therefore, if you do not receive a confirmation email, please contact us again with your request. If you do choose to withdraw such consent, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited. 
-
-5\. **Sharing Information.** We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
-
-(a) _Affiliated Service Providers_ : We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that we use are required to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ. Additionally, for example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent. 
-
-(b) _Where required by law_ : We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
-
-(c) _Statistical Analysis_ : We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
-
-(d) _Transactions:_ In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as one of our business assets.
-
-6\. **How We Respond to Do Not Track Signals**. Shareably does not track its users across third party websites, nor does it allow third parties to collect Personal Information on our Website. As such, our service does not respond to browser “Do Not Track” requests. To learn more about browser tracking signals and Do Not Track please visit http://www.allaboutdnt.org/.
-
-7\. **External Links** **.** The Website contains links and references to other websites. We are not responsible for the collection, use and disclosure of information, or the privacy practices of such websites, and we expressly disclaim any liability relating thereto. 
-
-8\. **International Transfer.** Your information may be transferred to and maintained on computers located outside of your jurisdiction, where privacy laws may not be as protective as your jurisdiction. Your consent to this Privacy Policy represents your consent to any such transfer.
-
-9\. **Terms and Conditions of Use.** This Privacy Policy is incorporated into and forms part of the Terms and Conditions of Use, which outlines the terms and conditions you agree to when accessing and using the Applications, and which can be found here: https://shareably.net/terms-of-use.
-
-10\. **Persons Under 18.** The Website is not marketed toward persons under the age of 18. If Shareably discovers that it has inadvertently collected Personal Information about individuals under the age 18, it will promptly delete such information. Any individual under the age of 18, who may have inadvertently posted content or Personal Information on our Website, may request that such content and Personal Information be completely removed at any time by sending a written request to hi@shareably.net.
-
-11\. **Choices and How To Opt Out Of Interest-Based Advertising**
-
-(a) _Opting Out of Interest-Based Advertising Services by Shareably_  
-Shareably is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes of Conduct as described on the [NAI website](http://www.networkadvertising.org/). Shareably also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://www.aboutads.info/). As described above, Shareably may use or transfer Device Data that it directly collects or that it receives from Shareably’s Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
-
-(b) _Opting Out of Interest-Based Advertising by Third Parties on the Shareably Site_  
-Shareably may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on the Shareably Site or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://www.networkadvertising.org/choices/) or [DAA’s Consumer Choice Page](http://www.aboutads.info/choices).
-
-Should you have any questions or comments concerning this Privacy Policy, please do not hesitate to contact us at hi@shareably.net.
+**Personal Data Export.** If we export your personal information from the European Economic Area to a country outside of it and are required to apply additional safeguards to that personal information under European data protection legislation, we will do so. Such safeguards may include applying the European Commission model contracts for the transfer of personal data to third countries described [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en#international-data-transfers-using-model-contracts). Please contact us for further information about any such transfers or the specific safeguards applied. 
