@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413055727id_/https%3A//www.bbr.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213183130id_/https%3A//www.bbr.com/about/privacy) for the most accurate reproduction.*
 
 # Berry Bros & Rudd - Privacy and Security | Berry Bros. & Rudd
 
@@ -27,15 +27,15 @@ We are happy to answer any questions you have about this Privacy Policy. Email u
   * How do I delete my personal data from Berry Bros. & Rudd and what are the consequences? 
   * How long does Berry Bros. & Rudd keep my information? 
   * How is information stored? 
-  * Is Berry Bros. & Rudd using cookies to gather information? 
+  * Does Berry Bros. & Rudd use Cookies?
   * How can I contact Berry Bros. & Rudd if I have questions regarding this Privacy Policy statement? 
   * What personal data do we hold and why?
   * How do we use your information?
   * Who do we share your information with?
   * How long do we store your data for?
   * Why do we need to store your data?
+  * Does Berry Bros. & Rudd record telephone calls?
   * Your rights regarding our use of your personal data 
-  * Cookies
   * Contacting you via email alerts, notices and newsletters
   * Interception of email
   * Security
@@ -120,8 +120,8 @@ We are committed to protecting the security of your personal data. We store data
 
 * * *
 
-**Is Berry Bros. & Rudd using cookies to gather information? **  
-We may use cookies when you visit our website. By visiting our website, you agree to the use of cookies and similar technologies for the purposes described in our Privacy Policy. This helps us to provide you with the best experience and allows certain parts of our website to function properly. If this concerns you, you can adjust your browser or device settings in order not to accept cookies and similar technologies. 
+**Does Berry Bros. & Rudd use Cookies?**  
+We use cookies on our website to provide the best possible experience. You can find out more about how we use cookies in our [Cookies Policy](https://web.archive.org/about/website-cookies). 
 
 * * *
 
@@ -185,6 +185,11 @@ We store your information securely to prevent unauthorised use. See our Security
 
 * * *
 
+**Does Berry Bros. & Rudd record telephone calls?**  
+Berry Bros. & Rudd may record incoming and outgoing telephone calls. We do this in order to resolve customer queries, monitor quality, and provide training to our staff. We retain call recordings for no longer than 18 months. 
+
+* * *
+
 **Your rights regarding our use of your personal data**  
 You can review, edit or ask us to delete your personal data we hold by contacting us directly at [privacy@bbr.com. ](mailto:privacy@bbr.com)
 
@@ -197,15 +202,6 @@ If you wish to update your details, if you need to check the accuracy of the det
 We will respond to any request to access or delete your personal data as soon as possible, but certainly within 30 days. 
 
 Your ultimate point of contact for all data protection matters in the UK is the Information Commissioner’s Office. See the Contact Us page on the ICO website. 
-
-* * *
-
-**Cookies**   
-A cookie is a small data file, typically containing letters and numbers, downloaded onto your device when you access our website. These cookies enable us to collect information about how our websites and services are being used and to manage them more efficiently.
-
-Until you have registered on Berry Bros. & Rudd’s website, the cookie will only track general usage patterns and technical information about your computer type and will not be used to identify you individually. After registration, cookies will be used to collect information on you to facilitate and improve your website experience. Cookies are also used as a site security method to stop abuse of our subscriber service. 
-
-You can turn off the ability to receive cookies by adjusting the browser on your computer but you should note that if you do so, this may materially distort the quality of service and data you receive. Cookies are not used to collect your personal information. 
 
 * * *
 
@@ -230,13 +226,9 @@ Berry Bros. & Rudd has developed and implemented strict policies and processes g
 
 We use reasonable endeavours to install and have appropriate security measures in place in our systems and facilities to protect against the loss, misuse or alteration of information that we have collected from you.
 
-Our website is fully PCI DSS compliant. The Payment Card Industry Data Security Standard (PCI DSS) is an information security standard for organisations like ours that handle branded credit cards from the major card schemes.
-
 We do not store any credit card details on our website. The card details are encrypted and securely held by WorldPay. 
 
 We minimise the personal data that is accessible to our colleagues, and where appropriate we anonymise that data for marketing purposes.
-
-We password protect personal data that is stored within the business.
 
 When we introduce new systems and policies that relate to personal data, we ensure that data protection and security is included in the design of those systems. 
 
