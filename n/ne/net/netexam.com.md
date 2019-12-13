@@ -1,299 +1,249 @@
-> *The following text is extracted and transformed from the netexam.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627002023id_/http%3A//netexam.com/privacy-policy/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netexam.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213132959id_/http%3A//netexam.com/privacy-policy/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy | Netexam
 
-**Media Defined Inc. Privacy Policy**
+**Website Privacy Policy**
 
-**About us**
+Last modified: September 26, 2019
 
-Media Defined Inc., doing business as NetExam, together with its affiliates, which includes subsidiaries and entities that Media Defined Inc. operates (collectively, “Media Defined Inc.,” “Media Defined Inc.,” “we,” or “us”) provides cloud-based sales, marketing, learning, and customer experience solutions.
+**Introduction**
 
-Media Defined Inc. is committed to protecting your privacy and the personal information collected and processed about you.
+Media Defined, Inc., doing business as NetExam, together with its affiliates, including subsidiaries and entities that Media Defined, Inc. operates (collectively, “Media Defined,” “us” or “we”), provides cloud-based sales, marketing, learning, and customer experience solutions. We respect your privacy and are committed to protecting it through our compliance with this policy. 
 
-**About this policy**
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [http://www.netexam.com/](http://www.netexam.com/) (our “Website”) and our practices for collecting, using, maintaining, protecting, and disclosing that information. 
 
-This is the Privacy and Cookies Policy ("Policy") for the website hosted at <http://www.netexam.com/>. The Site (as defined below) is operated by or on behalf of Media Defined Inc.
+This policy applies to information we collect:
 
-This Policy describes our general privacy policy and practices in relation to Media Defined Inc.’s services offered through the Site, or providing your personal information to us at our corporate events (collectively, the “Services”).
+  * On this Website;
+  * In email, text, and other electronic messages between you and this Website;
+  * Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website;
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy; and
+  * Through surveys that we may conduct on this Website from time to time in which you voluntarily participate.
 
-This Policy also describes how we collect information about you, what we do with that information, and also what controls you have over that information in relation to your use of our Site and Services.
 
-By visiting and using Media Defined Inc.’s website, mobile site, and/or applications (together, the "Site") or using our Services, you acknowledge you have read and understood this Policy.
 
-For the purposes of European Economic Area data protection law (the "Data Protection Law"), this Policy applies to the information collected by Media Defined Inc., and any of their respective affiliate entities (the “Media Defined Inc.”). The Media Defined Inc.’s data protection officer is Brett Strauss, contactable at [bstrauss@mediadefined.com](mailto:bstrauss@mediadefined.com).
+It does not apply to information collected by:
 
-Throughout this Policy we use ‘plain English’ summaries which are intended to give you guidance about what each section is about. Please click the link below to learn more about:
+  * Us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or
+  * Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-  1. **How we collect your information**
-  2. **How we use your information**
-  3. **Cookies**
-  4. **Sharing your information**
-  5. **Public Forums, Refer a Friend, and Customer Testimonials**
-  6. **Security**
-  7. **Transfer of information overseas**
-  8. **Privacy Shield**
-  9. **Retention**
-  10. **Your Rights**
-  11. **Linked sites and advertisements**
-  12. **Children**
-  13. **How you can access and update your information**
-  14. **Changes to this Policy**
-  15. **How to contact us**
 
 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-## 1\. How we collect your information:
+**Children Under the Age of 16**
 
-This section gives you more information about what information we collect about you and how we collect it, whether we collect it directly from you or other sources.
+Our Website is not intended for children under 16 years of age. No one under age 16 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 16. If you are under 16, do not use or provide any information on this Website or through any of its features, register on the Website, make any purchases through the Website. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please Contact Us.
 
-How we collect and store information depends on the Site you visit, the activities in which you participate, and the Services you use. You can use some of the Services without providing any information, although several categories of information are automatically collected from you when you use the Services via the Site.
+California residents under 16 years of age may have additional rights regarding the collection and sale of their personal information. Please see Your California Privacy Rights for more information.
 
-When using the Services, we may collect and process the following information about you:
+**Information We Collect About You and How We Collect It**
 
-### Information provided directly by you
+We collect several types of information from and about users of our Website, including information:
 
-  * Information (such as your name, company name, email address, postal address, telephone number and other contact details that you provide by completing forms on the Site or using the Service, including information about you if you register as a user of the Site or subscribe to a Service, information about you that you upload or submit to the Site or Service, or information you provide to us when requesting information or material from us;
-  * Information and other details of any transactions made by you through the Site including but not limited to financial and billing information, including account numbers, billing name and address, birth year, credit card number, the total number of employees within the organization that will be using the Services and other financial-related information (“Billing Information”) provided by you when making transactions through the Site or when using our Services;
-  * Information contained in communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the Site (or its content) or the Services;
-  * Information from surveys that we may, from time to time, conduct on the Site that you respond to or participate in;
-  * Information from any employment materials you send us, for example, a CV, resumé or other details of your employment history; or
-  * Other additional information that you provide to us when attending our corporate events.
+  * By which you may be personally identified, such as name, postal address, email address, telephone number, or any other identifier by which you may be contacted online or offline (“personal information”).
+  * That is about you but individually does not identify you, such as any Media Defined products and services you utilize, geographic locations, and general demographics.
+  * About your internet connection, the equipment you use to access our Website, and usage details.
 
 
 
-**Information that we may collect from you when you use our Site**
+We collect this information:
 
-We may automatically collect certain information about the computer or other devices that you use to access the Site or use the Services, including mobile devices, through commonly-used information-gathering tools, such as cookies and web beacons (see our Cookies section here).
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site, which may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-We may also collect information when you access the Site or use our Services such as: (i) location information (as described in the next section below), unique device identifiers and other information about your mobile phone or other mobile device(s) such as your Internet Protocol ("IP") address, browser types, browser language, operating system, the state or country from which you accessed the Services; and (ii) information related to the ways in which you interact with the Services, such as referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, error logs, and other similar information. If you do not want to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device; provided your device allows you to do this.
 
-We may aggregate and/or de-identify information collected by the use of the Site or the Services so that the information is not intended to identify you. This Policy does not restrict our use or disclosure of aggregated and/or de-identified information.
 
-### Information about you collected from third parties
+**_Information You Provide to Us_**
 
-We may process your personal information that we have either obtained from you, or obtained from somewhere else. Personal information which is not collected directly from you may be collected.
+The information we collect on or through our Website may include:
 
-  * From your employer in connection with your job and how it relates to us.
-  * If you use any Site operated by us.
-  * From third parties we work closely with (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, and search information providers). We will notify you when we receive information about you from them and the purposes for which we intend to use that information.
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service(s), posting material, or requesting further services. We may also ask you for information when you report a problem with our Website.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
+  * Your search queries on the Website.
 
 
 
-If you access the Site or use the Services through a third-party connection or log-in, you authorize Media Defined Inc. to collect, store, and use, in accordance with this Policy, any and all information available to Media Defined Inc. through the third-party interface.
+You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-## 2\. How we use your information:
+**_Information We Collect Through Automatic Data Collection Technologies_**
 
-Information is collected for the purposes stated in this Policy and will not be further processed in a manner that is incompatible with those purposes.
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
-We will collect and use your information as described in this Policy and as permitted by applicable laws, including in circumstances where it is necessary: (i) to provide or fulfil Services requested by or for you; (ii) for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into such a contract; (iii) for compliance with a legal obligation to which we are a subject; (iv) to pursue our legitimate interests; or (v) where you have given us your express consent.
+  * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type.
 
-We collect and use your information for the following purposes:
 
-  * _To perform the Services requested by you_. For example, if you fill out a “Contact Me” web form, we will use the information provided to contact you about your interest in the Services. This data processing is necessary to provide or fulfil a service requested by or for you.
-  * _To plan and host events_. For example, corporate events, host online forums and social networks in which event attendees may participate, and populate online profiles in relation to the Services. This data processing is necessary to provide or fulfil a service requested by or for you.
-  * _For marketing purposes_. For example, we may use your information to further discuss your interest in the Services and to send you information regarding Media Defined Inc. and our group companies and our partners such as information about promotions, events, products or services. We will only send you marketing communications and updates about our products, services and events with your prior consent, where required by law or otherwise in our legitimate interests provided these interests do not override your right to object to such communications. You can withdraw your consent at any time.
 
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). For information on how you can opt out of behavioral tracking on this website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking, please Contact Us.
 
+The information we collect automatically may include personal information. We may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
 
-You can object to further marketing at any time by checking and updating your contact details within your account, or/and selecting the "unsubscribe"” link located on the bottom of Media Defined Inc.’s marketing emails. Additionally, you may send a request to [privacy@mediadefined.com](mailto:privacy@mediadefined.com).
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website
 
-You have the right to contact us at any time to object to the further processing of your information for the purposes of direct marketing to you, including any profiling related to such marketing.
 
-  * _For financial and payment purposes_. For example, for checking financial qualifications and collect payment from you, where applicable. This data processing is necessary to provide or fulfil a service requested by or for you.
-  * _For operating and improving Media Defined Inc.’s Site and your customer experience_. For example, we may collect and analyze data on your use of our website and process it for the purpose of improving our online customer experience. Data collected could include data about your device, such as unique device identifiers, information about your mobile phone or other mobile device(s), browser types, browser language, operating system, and the state or country from which you accessed the Services. Data collected could also include information related to the ways in which you interact with the Services, such as referring and exit pages and URLs, platform type, the number of clicks and domain names. This data allows us to understand our customers, their interaction with our website and improve our website to better serve our customers. We may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information. Data processing for analytical and operational improvement purposes is a legitimate business interest.
-  * _For security purposes_. For example, we may use your data to protect Media Defined Inc. and its third parties against security breaches and to prevent fraud and violation of Media Defined Inc.’s applicable agreements. Data processing for security purposes is a legitimate business interest.
-  * _For hosting purposes_. For example, if you are our customer, we may collect and host your data to provide Services to you. If your employer is our customer, we may process your data in accordance with providing Services to them. However, we will not review, share, distribute, or reference any such data except as provided in a services agreement between us and our customer, or as may be required by law. Data processing for the purpose of hosting our Services is a legitimate business interest.
-  * _For customizing the Services with location-based information, advertising, and features_. For example, if location-tracking on your mobile device shows you are close to a Media Defined corporate event, we may reach out to you and let you know you should visit our nearby event. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. This data processing is necessary to provide or fulfil a service requested by or for you, and can be disabled by you.
-  * _Protection of Media Defined Inc. and Others_. For example, we may disclose your information to: (i) comply with legal obligations; (ii) enforce any agreements that you entered into with us; (iii) respond to claims that any content violates the rights of third parties; (iv) respond to your requests for customer service; and/or (v) the extent necessary for the purposes of the legitimate interests pursued by us or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subjects. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law. This is data processing for compliance with a legal obligation.
-  * _Business Transfers_. For example, we reserve the right to disclose and transfer all of your information, to a successor (or potential successor) company in connection with a merger, acquisition, or sale of all, or components, of our business, or in connection with due diligence associated with any such transaction. Data processing for this purpose is a legitimate business interest.
 
+The technologies we use for this automatic data collection may include:
 
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices About How We Use and Disclose Your Information.
+  * **Web Beacons.** Pages of our Website and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-## 3. Cookies
 
-Our Site uses cookies and/or other similar technologies to enhance & customise your user experience. Cookies are small text files placed on your device that enable us to remember your device, and which can be used to manage a range of features and content as well as storing searches and presenting personalised content.
 
-We use this information to ensure the proper functioning and security of our Site and Services and to optimize our Site or Services.
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
-**How do we collect cookies and other technologies** This section describes our practices with respect to how we use cookies. By using our Services with your browser set to accept cookies, you are consenting to our use of cookies in the manner described herein.
+**Third-Party Use of Cookies and Other Tracking Technologies**
 
-We may collect data about your use of the Services through the use of cookies, Internet server logs, tracking pixels (also called web beacons) and similar technologies. A cookie is a small text file that is placed on your computer or mobile device when you visit a website, that enables us to recognize your computer/device, store your preferences and settings, enhance your user experience by delivering content specific to your interests, perform searches and analytics, and assist with security administrative functions. An Internet server log is a file where website activity is stored. Server logs are used to track usage and provide security. A tracking pixel, which is also referred to as a web beacon or a clear GIF, is an electronic tag with a unique identifier that is embedded on webpages, in online advertisements and/or email. These pixels are designed to provide usage information, such as advertising impressions or clicks, measure popularity of the Services and associated advertising, and access user cookies.
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies [alone or in conjunction with web beacons or other tracking technologies] to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-**What types of cookies do we use?**
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
 
-_Third party cookies_  
-We use third parties to assist us in advertising, tracking aggregated and/or de-identified site usage statistics, and providing content-sharing services to support the Services. These third parties may also use cookies and similar technologies to collect similar information about your use of the Services. For instance, the cookies may reflect de-identified data linked to or derived from data you voluntarily have submitted to us, e.g., a hashed version of your email address, which we may share with service providers, solely in non-human readable form. We do not control these third-party technologies, and their use is governed by those parties’ privacy policies.
+**How We Use Your Information**
 
-We also allow other third parties (e.g., ad networks and ad servers) to serve tailored ads to you on the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Site or use the Services.
+We use information that we collect about you or that you provide to us, including any personal information:
 
-_Session and persistent cookies_  
-We use both session cookies and persistent cookies. A session cookie is used to identify a particular visit to our site. These cookies expire after a short time, or when you close your web browser after using our Services. We use these cookies to identify you during a single browsing session. A persistent cookie will remain on your devices for a set period of time specified in the cookie. We use these cookies where we need to identify you over a longer period of time. For example, we would use a persistent cookie if you asked that we keep you signed in. Another type of cookies is Flash cookies, which are stored with your Adobe Flash Player files and help in the viewing of content that uses the Adobe Flash player.
+  * To present our Website and its contents to you;
+  * To provide you with information, products, or services that you request from us;
+  * To fulfill any other purpose for which you provide it;
+  * To provide you with notices about your account/subscription, including expiration and renewal notices;
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+  * To notify you about changes to our Website or any products or services we offer or provide though it;
+  * To allow you to participate in interactive features on our Website;
+  * In any other way we may describe when you provide the information; and/or
+  * For any other purpose with your consent.
 
-We use these cookies and other technologies on the basis that they are necessary for the performance of a contract with you, or because using them is in our legitimate interests (where we have considered that these are not overridden by your rights), and, in some cases, where required by law, where you have consented to their use
 
-**_Why does Media Defined Inc. use cookies and similar technologies?_** Media Defined Inc. uses cookies and similar technologies for the following purposes:
 
-  * **Authentication and Security** : To log you into the Services; to protect your security; and to help us detect and fight spam, abuse, and other activities that violate Media Defined Inc.’s Website Terms and Conditions, which can be found [here](http://www.netexam.com/privacy-policy/pp.html). For example, these technologies help authenticate your access to the Services and prevent unauthorized parties from accessing your account. They also let us show you appropriate content through the Services.
-  * **Preferences** : To remember information about your browser and your preferences; and to remember your settings and other choices you have made.
-  * **Analytics and Research** : To help us better understand how people use our Services, we work with a number of analytics partners, including Google Analytics; and to help us improve and understand how people use the Services. For example, cookies help us test different versions of our Services to see which particular features or content users prefer. We may include web beacons in e-mail messages or newsletters to determine whether the message has been opened and for other analytics. We might also optimize and improve your experience using the Services by using cookies to see how you interact with the Services, such as when and how often you use them and what links you click on. To find out more about how Google uses data when you visit a website that uses Google Analytics, please visit <https://www.google.com/policies/privacy/partners/>.
-  * **Personalized Content** : To customize the Services with more relevant content.
-  * **Advertising** : To provide you with more relevant advertising. As explained below, third parties whose products or services are accessible or advertised via the Services may use cookies to collect information about your activities on the Services, other sites, and/or the ads you have clicked on. This information may be used by them to serve ads that they believe are most likely to be of interest to you and measure the effectiveness of their ads. Targeting and advertising cookies on the Services may include Google and other advertising networks and services we use from time to time.
+We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please contact us using the information in the “Contact Information” section below. For more information, see Choices About How We Use and Disclose Your Information.
 
+We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
+**Disclosure of Your Information**
 
-For more information about targeting and advertising cookies and how you can opt out, you can visit http://youronlinechoices.eu/ or www.allaboutcookies.org/manage-cookies/index.html. Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt out of tailored advertising. In that case, the ads will not be tailored to your interests.
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-**_Where are cookies and similar technologies used?_** We use these technologies on the Services, including our Site. We do not release the information collected from our own cookies to any third parties, other than to our service providers who assist us in providing the Services and only in accordance with this Policy.
+We may disclose personal information that we collect or you provide as described in this privacy policy: 
 
-**_What are my privacy options?_** You have a number of options to control or limit how we and our partners use cookies. Most browsers automatically accept cookies, but you can modify your browser setting to limit or decline cookies by visiting your browser’s help page. The browser manufacturers, not Media Defined Inc., control these settings. You can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information (e.g., Internet Explorer; Google Chrome; Mozilla Firefox; or Apple Safari). You can also manage the use of Flash technologies, including Flash cookies, with the Flash management tools available at Adobe’s website. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some features of the Services. For general information about cookies and how to disable them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Media Defined’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Media Defined about our Website users is among the assets transferred.
+  * To third parties to market their products or services to you if you have [consented to/not opted out of] these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see Choices About How We Use and Disclose Your Information.
+  * To fulfill the purpose for which you provide it. For example, if you give us an email address to use the “email a friend” feature of our Website, we will transmit the contents of that email and your email address to the recipients.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
-We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below.
 
-You may receive tailored advertising on your computer or mobile device through a web browser. If you are interested in more information about tailored browser advertising and how you can generally control cookies, you may visit the [Network Advertising Initiative’s Consumer Opt-Out Link](http://optout.networkadvertising.org/), the [Digital Advertising Alliance’s Consumer Opt-Out Link](http://optout.aboutads.info/), or the [European Interactive Digital Advertising Alliance, “Your Online Choices” page](http://www.youronlinechoices.eu/) to opt out of receiving tailored advertising from companies that participate in those programs. To opt out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit the Google [Ads Settings](https://www.google.com/settings/ads) page. Please note that, to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt out of tailored advertising. In that case, the ads will just not be tailored to your interests. Also, we do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
 
-## 4\. Sharing your information:
+We may also disclose your personal information:>
 
-You have the right to know who we share your information with.
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms of use and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Media Defined, our customers, or others, including exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-We may share your information with:
 
-  * Any of our group companies, or to our agents, partners or contractors who assist us in providing the Services we offer through our Site. The assistance provided by our agents, partners or contractors may be related to our marketing activities such as: updating marketing lists, data analytics, advertising, market research, participation in a contest or sweepstakes, and receiving and sending communications. Transactional assistance may also be provided by our agents, partners or contractors, including: processing transactions, fulfilling requests for information, billing, sales execution, and fulfillment of orders. Other support services provided may include **:** data storage, transfer, analysis and processing, legal services, providing IT, and in other tasks as requested, from time to time. Our agents, partners and contractors will only use your information to the extent necessary to perform their functions under this Policy and are subject to contractual restrictions prohibiting them from using your information for any other purpose.
-  * We may use third-party web analytics services such as Google Analytics. These service providers use your information to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information collected by the technology (including your IP address) will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section. To prevent Google Analytics from using your information for analytics, you may install the [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout) by clicking the hyperlink.
-  * To receive a list of the agents, partners or contractors assisting us in the processing of your information please send your request to [privacy@mediadefined.com](mailto:privacy@mediadefined.com). This list may change and will be updated from time to time.
-  * From time to time, Media Defined Inc. may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Media Defined Inc., Media Defined Inc. may share information about you collected in connection with your purchase or expression of interest with our joint promotion partner(s). If you do not want your information to be shared in this manner, you may email [privacy@mediadefined.com](mailto:privacy@mediadefined.com). However, we do not control our business partners’ use of the information that we share with them about you that we collect, and their use of the information will be in accordance with their own privacy policies.
-  * Data About Attendees: Media Defined Inc. does not share Data About Attendees with business partners unless: (i) you specifically opt in to such sharing via an event registration form; or (ii) you attend a Media Defined Inc. event and have your attendee badge scanned by a business partner. If you do not want your information to be shared, you may email [privacy@mediadefined.com](mailto:privacy@mediadefined.com). If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy policies.
-  * To protect Media Defined Inc. and Others: We may disclose any of your information to: (i) comply with legal process; (ii) enforce any agreements that you entered into with us; (iii) respond to claims that any content violates the rights of third parties; (iv) respond to your requests for customer service; and/or (v) the extent necessary for the purposes of the legitimate interests pursued by us or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subjects. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
-  * Business Transfers: We reserve the right to disclose and transfer all of your information, including, without limitation, your information, to a successor (or potential successor) company in connection with a merger, acquisition, or sale of all, or components, of our business, or in connection with due diligence associated with any such transaction. 
-  * California Do Not Track Disclosure. We are committed to providing you with meaningful choices about the information collected on the Services that is shared with third parties, and that is why we provide the opt-out choices set forth in this Policy. However, we do not recognize or respond to browser-initiated Do Not Track (“DNT”) signals, in part because no common industry standard for DNT has been adopted by industry groups, technology companies, or regulators, nor is there a consistent standard of interpreting user intent. We take privacy and meaningful choice seriously and will make efforts to continue to monitor developments in these areas.
 
+**Choices About How We Use and Disclose Your Information**
 
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-## 5\. Public Forums, Refer a Friend, and Customer Testimonials
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s [website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by sending us an email with your request to [privacy@mediadefined.com.](mailto:privacy@mediadefined.com)]
+  * **Promotional Offers from the Company.** If you do not wish to have your [email address/contact information] used by Media Defined to promote our own or third parties’ products or services, you can opt-out by sending us an email stating your request to [privacy@mediadefined.com](mailto:privacy@mediadefined.com). If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions. This opt out does not apply to information provided to us as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by sending us an email stating your request to [privacy@mediadefined.com](mailto:privacy@mediadefined.com)
 
-We may provide bulletin boards, blogs, or chat rooms through the Services. Any information you submit in such a forum may be read, collected, or used by others who visit these forums. We are not responsible for the information you choose to submit in these forums. We are not responsible for the privacy policies or the content of such sites.
 
-You may elect to use our referral program to inform friends about the Services. When using the referral program, Media Defined Inc. requests the friend’s name and email address. Media Defined Inc. will automatically send the friend a one-time email inviting him or her to visit Media Defined Inc.’s websites. Media Defined Inc. does not store this information.
 
-Media Defined Inc. posts a list of customers and testimonials on Media Defined Inc.’s websites that contain information such as the names and titles. Media Defined Inc. obtains the consent of the individuals concerned prior to posting such information or testimonials.
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s [website](http://www.networkadvertising.org/managing/opt_out.asp).
 
-## 6\. Security
+California residents may have additional personal information rights and choices. Please see Your California Privacy Rights for more information.
 
-We have appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access and maintain data security of, and to use correctly, the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store.
+**Accessing and Correcting Your Information**
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using TLS 1.1 or higher. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+You can review and change your personal information by logging into the Website and visiting your account profile page, if offered.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+You may also send us an email at [privacy@mediadefined.com](mailto:privacy@mediadefined.com) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-## 7\. Transfer of information overseas:
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, r might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use.
 
-You have the right to know if and where your information may be transferred. This section provides information on the existence of transfers of your information by us.
+California residents may have additional personal information rights and choices. Please see Your California Privacy Rights for more information.
 
-The personal information about you that we collect is sent to and stored on secure servers located as noted below or in the systems of the third parties that we use, where applicable. Such storage is necessary in order to process the information.
+**Your California Privacy Rights**
 
-Media Defined Inc. Server locations include:  
-Dallas, TX, USA  
-San Jose, CA, USA  
+If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [https://oag.ca.gov/privacy/ccpa](https://oag.ca.gov/privacy/ccpa).
 
+**Data Security**
 
-Some Personal information may be transferred by us to the third parties mentioned in the circumstances described above (see Sharing your information), which may be situated outside the European Economic Area (EEA) and may be processed by our staff operating outside the EEA.
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
 
-### Standard Contractual Clauses
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-We will take all steps reasonably necessary to ensure that it is subject to appropriate safeguards, such as relying on a recognized legal adequacy mechanism which may include by entering into EC approved standard contractual clauses relevant to transfers of personal information (see <http://ec.europa.eu/justice/dataprotection/internationaltransfers/transfer/index_en.html>)  and that it is treated securely and in accordance with this Policy.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
-## 8\. Transfer of information to the United States: Privacy Shield
+**Changes to Our Privacy Policy**
 
-Media Defined Inc. has self-certified under the EU-U.S. Privacy Shield framework set forth by the U.S. Department of Commerce and the European Union. For more information on the EU–U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at please visit <https://www.privacyshield.gov/>.
+It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the primary email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-**Adhesion to the Privacy Shield Framework**
+**Contact Us**
 
-Media Defined Inc. has certified to the U.S. Department of Commerce that it adheres to the privacy Shield Principles. We comply with the EU-U.S Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States, respectively.
+To ask questions or comment about this privacy policy and our privacy practices, contact us by email at [privacy@mediadefined.com](mailto:privacy@mediadefined.com), or in writing addressed to: 
 
-If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+Media Defined, Inc.   
+3002A Commerce Street   
+Dallas, Texas 75026
 
-**Accountability for onward transfers**
+In addition, Media Defined has designated the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA), as an independent recourse mechanism to investigate and resolve disputes at no cost to you. To register a complaint or concern with the ICDR/AAA, please visit <http://go.adr.org/privacyshield.html>.
 
-We are responsible and remain liable for the processing of personal information we receive, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal information from the EU, including the onward transfer liability provisions.
+**Privacy Shield Policy**
 
-With respect to personal information received or transferred pursuant to the Privacy Shield Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+This Privacy Shield Policy (“Policy”) describes how Media Defined, Inc. and its subsidiaries and affiliates in the United States (“Media Defined,” “we,” or “us”) collect, use, and disclose certain personally identifiable information that we receive in the United States (“U.S.”) from the European Economic Area (“EEA”) and the United Kingdom (“U.K.”) (“Personal Data”). This Policy applies to the following U.S. affiliated entities: Media Defined, Inc. This Policy supplements our Website Privacy Policy, and unless specifically defined in this Policy, the terms in this Policy have the same meaning as the Website Privacy Policy.
 
-**Right of access**
+Media Defined, Inc. recognizes that the EEA and the U.K. have established strict protections regarding the handling of Personal Data, including requirements to provide adequate protection for Personal Data transferred outside of the EEA and the U.K.. To provide adequate protection for certain Personal Data about consumers, corporate customers, clients, suppliers, business partners, job applicants, and employees received in the U.S. from the EEA and the U.K., Media Defined has elected to self-certify to the EU-U.S. Privacy Shield Framework administered by the U.S. Department of Commerce (“Privacy Shield”). Media Defined adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability.
 
-You have a legal right to request the personal information about you held by us. On request, we will provide you with a copy of this information. You also have a right to correct, amend or delete such personal information where it is inaccurate or has been processed in violation of data protection laws and Privacy Shield Principles.
+For purposes of enforcing compliance with the Privacy Shield, Media Defined is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. For more information about the Privacy Shield, see the U.S. Department of Commerce’s Privacy Shield website located at: [https://www.privacyshield.gov](https://www.privacyshield.gov/). To review Media Defined’s representation on the Privacy Shield list, see the U.S. Department of Commerce’s Privacy Shield self-certification list located at: <https://www.privacyshield.gov/list>.
 
-**Resolution of Privacy Shield queries and complaint mechanism**
+**Personal Data Collection and Use**
 
-In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. If you have any inquiries or complaints regarding our Privacy Shield policy you should first contact us at [privacy@mediadefined.com](mailto:privacy@mediadefined.com)
+Our Website Privacy Policy describes the categories of Personal Data that we may receive in the U.S. as well as the purposes for which we use that Personal Data. Media Defined will only process Personal Data in ways that are compatible with the purpose for which Media Defined collected it, or for purposes the individual later authorizes. Before we use your Personal Data for a purpose that is materially different than the purpose for which we collected it or that you later authorized, we will provide you with the opportunity to opt out. Media Defined maintains reasonable procedures to help ensure that Personal Data is reliable for its intended use, accurate, complete, and current.
 
-We have further committed to refer unresolved Privacy Shield complaints to JAMS. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> or to file a complaint visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. The services of JAMS are provided at no cost to you. As further explained in the Privacy Shield Principles, a binding arbitration option may also be made available to you in order to address residual complaints not resolved by any other means.
+**Data Transfers to Third Parties**
 
-**Enforcement**
+ ** _Third-Party Agents or Service Providers._** We may transfer Personal Data to our third-party agents or service providers who perform functions on our behalf as described in our Website Privacy Policy. Where required by the Privacy Shield, we enter into written agreements with those third-party agents and service providers requiring them to provide the same level of protection the Privacy Shield requires and limiting their use of the data to the specified services provided on our behalf. We take reasonable and appropriate steps to ensure that third-party agents and service providers process Personal Data in accordance with our Privacy Shield obligations and to stop and remediate any unauthorized processing. Under certain circumstances, we may remain liable for the acts of our third-party agents or service providers who perform services on our behalf for their handling of Personal Data that we transfer to them.
 
-We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. We may be required to share your personal information, including the disclosure of EU personal information, to public authorities and law enforcement agencies in response to lawful requests, including requests to meet national security and law enforcement requirements.
+**_Third-Party Data Controllers._** In some cases, we may transfer Personal Data to unaffiliated third-party data controllers. These third parties do not act as agents or service providers and are not performing functions on our behalf. We will only provide your Personal Data to third-party data controllers where you have not opted-out of such disclosures, or in the case of sensitive Personal Data, where you have opted-in if the Privacy Shield requires consent. We enter into written contracts with any unaffiliated third-party data controllers requiring them to provide the same level of protection for Personal Data the Privacy Shield requires. We also limit their use of your Personal Data so that it is consistent with any consent you have provided and with the notices you have received. If we transfer your Personal Data to one of our affiliated entities within our corporate group, we will take steps to ensure that your Personal Data is protected with the same level of protection the Privacy Shield requires.
 
-## 9\. Retention:
+**_Disclosures for National Security or Law Enforcement._** Under certain circumstances, we may be required to disclose your Personal Data in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
 
-This section explains how long we will retain your personal information for following termination of our commercial relationship and the reasons for retention.
+**Security**
 
-We will only keep your information as long as it remains necessary for the identified purpose(s) for which it was originally collected and for up to eight (8) years afterwards or otherwise permitted by local laws, or as required for our business operations or by applicable laws.
+Media Defined maintains reasonable and appropriate security measures to protect Personal Data from loss, misuse, unauthorized access, disclosure, alteration, or destruction in accordance with the Privacy Shield.
 
-We may need to retain certain personal information even once a customer account has been closed or deleted to enforce our terms, for fraud prevention, to identify, issue or resolve legal claims and/or for proper record keeping purposes. We may also retain a record of any stated objection by you to receiving our updates for the purpose of ensuring we can continue to respect your wishes and not contact you further. For example, if you request to stop receiving emails from us, we will retain your email address for use on an email “suppression list” to ensure you do not receive further emails, as requested.
+**Access Rights**
 
-All retained information will remain subject to the terms of this Policy. If you request that your name be removed from our databases, it may not be possible to completely delete all your information due to technological and legal constraints.
+You may have the right to access the Personal Data that we hold about you and to request that we correct, amend, or delete it if it is inaccurate or processed in violation of the Privacy Shield. These access rights may not apply in some cases, including where providing access is unreasonably burdensome or expensive under the circumstances or where it would violate the rights of someone other than the individual requesting access. If you would like to request access to, correction, amendment, or deletion of your Personal Data, you can submit a written request to the contact information provided below. We may request specific information from you to confirm your identity. In some circumstances we may charge a reasonable fee for access to your information.
 
-## 10\. Your Rights:
+**Questions or Complaints**
 
-This section provides details about your rights in relation to your personal information.
+In compliance with the Privacy Shield principles, you can Contact Us regarding any questions or complaints about the collection, use or disclosure of your Personal Data. We will investigate and attempt to resolve any complaints or disputes regarding the use or disclosure of your Personal Data within 45 days of receiving your complaint. For any unresolved complaints, we have agreed to cooperate with the ICDR/AAA. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Media Defined at Contact Us. If you are unsatisfied with the resolution of your complaint, you may contact the ICDR/AAA at [http://go.adr.org/privacyshield.html for further information and assistance](http://go.adr.org/privacyshield.html).
 
-You may ask us to:
+**_Binding Arbitration._** Media Defined has further committed to refer unresolved Privacy Shield complaints to the American Arbitration Association, an alternative dispute resolution provider located in the United States, You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (1) raised your complaint directly with Media Defined and provided us the opportunity to resolve the issue; (2) made use of the independent dispute resolution mechanism identified above; and (3) raised the issue through the relevant data protection authority and allowed the U.S. Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see [U.S. Department of Commerce’s Privacy Shield Framework: Annex I (Binding Arbitration)](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit the American Arbitration Association at <https://www.adr.org/> for more information or to file a complaint. The services of American Arbitration Association shall be provided at no cost to you by Media Defined, as applicable.
 
-  * Access all the personal information about you held by us, including where applicable, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. On request, we will provide you with a copy of this information. Where a request is manifestly unfounded or excessive (for example, because it is repetitive) we reserve the right to charge a reasonable fee taking into account the administrative costs of providing the information or taking the action requested. You can exercise your right of access to your personal information: 
-    * By emailing us at [privacy@mediadefined.com](mailto:privacy@mediadefined.com); or
-    * By writing to us at the address below.
+To ask questions or comment about Privacy Shield compliance and practices or to make a complaint, contact us by email at [privacy@mediadefined.com](mailto:privacy@mediadefined.com), or in writing addressed to
 
+Media Defined, Inc.   
+3002A Commerce Street   
+Dallas, Texas 75026
 
+ **Changes to This Policy**
 
-Please note that we may be required to ask you for further information in order to confirm your identity before we provide the information requested.
+We reserve the right to amend this Policy from time to time consistent with the Privacy Shield’s requirements.
 
-  * Correct or erase your personal information where appropriate. Please note, you may review and update certain user profile information by logging in, as applicable, to the relevant portions of the Services where such information may be updated;
-  * Restrict the processing of your personal information whilst we investigate your concern;
-  * Where your processing is based on your consent, you have a right to receive your information in a commonly used electronic format or ask we move the data in that format to another provider where your request relates to the data that you gave us direct and where technically possible (data portability);
-  * Object to the further processing of your personal data, including the right to object to marketing (as mentioned in 'Our marketing’ section);
-  * Request that your provided personal data be moved to a third party;
-  * You may opt out at any time from allowing further access by us to your location data by exiting the site. You can also stop all information collection by un-installing the App. You may use the standard un-install processes as may be available for your mobile device.; and
-  * Withdraw your consent at any time when the processing relies upon consent. You can also change your marketing preferences at any time as described in 'Our marketing' section;
+**Effective date: October 5, 2019**
 
-
-
-If you remain unhappy with a response you receive you can also refer the matter to your data protection supervisory authority (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>).
-
-## 11\. Linked sites and advertisements
-
-The Site or Services may contain links to third-party websites. We are not responsible for the privacy practices or the content of those third-party websites. Any information you provide via those services is subject to the applicable third party privacy policies and is not covered by this Policy.
-
-## 12\. Children
-
-Our Sites and Services do not target and are not intended to attract children under the age of 16. Media Defined Inc. does not knowingly solicit personal information from children under the age of 16. Should we learn or be notified that we have collected information from users under the age of 16, we will immediately delete such personal information. If you are under 16 in your country of residence, please ask your parent or guardian to provide their information for you.
-
-## 13\. How you can access and update your information
-
-You may review and update certain user profile information by logging in, as applicable, to the relevant portions of the Site or Services where such information may be updated, or by contacting [privacy@mediadefined.com](mailto:privacy@mediadefined.com).
-
-## 14. Changes to this Policy
-
-Media Defined Inc. reserves the right to change this Policy from time to time. Please check this page periodically for changes. If we make any material changes to this Policy we will notify you before they take effect either through the Site or by sending you a notification. Any such material changes will only apply to personal information collected after the revised Policy took effect.
-
-## 15\. Contact us:
-
-Have additional privacy questions or need further info? This section is about how to contact us.
-
-If you have any questions, comments, or concerns regarding this Policy or Media Defined Inc.’s privacy practices, they may be submitted via email to [privacy@mediadefined.com](mailto:privacy@mediadefined.com), or in writing by addressing your inquiries to:
-
-Media Defined Inc.  
-3002A Commerce St.  
-Dallas, TX 75026   
-USA 
-
-[bstrauss@mediadefined.com](mailto:bstrauss@mediadefined.com)
-
-This Policy was last modified on August 17, 2018.
+**Last modified: October 5, 2019**
