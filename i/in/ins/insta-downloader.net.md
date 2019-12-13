@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insta-downloader.net privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601030701id_/http%3A//insta-downloader.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insta-downloader.net privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213013730id_/https%3A//insta-downloader.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insta-downloader.net
 
