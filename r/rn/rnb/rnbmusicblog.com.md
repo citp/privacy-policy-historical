@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rnbmusicblog.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730043633id_/http%3A//www.rnbmusicblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnbmusicblog.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213022854id_/https%3A//www.rnbmusicblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - R&B Music Blog
 
-RnB Music Blog (“us”, “we”, or “our”) operates http://www.rnbmusicblog.com/ (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+RnB Music Blog (“us”, “we”, or “our”) operates https://www.rnbmusicblog.com/ (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.rnbmusicblog.com/.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.rnbmusicblog.com/.
 
 **Information Collection And Use**  
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
@@ -50,6 +50,6 @@ Our Site does not address anyone under the age of 13 (“Children”). We do not
 RnB Music Blog may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
 **Contact Us**  
-If you have any questions about this Privacy Policy, please [contact us](http://www.rnbmusicblog.com/contact-us/).
+If you have any questions about this Privacy Policy, please [contact us](https://www.rnbmusicblog.com/contact-us/).
 
 This Privacy Policy was last modified on July 18, 2016.
