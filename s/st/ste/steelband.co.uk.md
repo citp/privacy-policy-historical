@@ -1,20 +1,26 @@
-> *The following text is extracted and transformed from the steelband.co.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630230114id_/http%3A//steelband.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelband.co.uk privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213080453id_/https%3A//steelband.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Steelasophical Caribbean Music
+
+Skip to content
+
+PRIVACY POLICY[G a r y Trotman](https://steelband.co.uk/author/steebandcouk/ "Posts by G a r y Trotman")2019-06-10T18:49:58+01:00
+
+> If you have any questions about this privacy statement or the practices of this site, please contact me.
 
 ## **General:**
 
 I care about providing you with tools and information to manage and protect your online privacy. I have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what I may do with the information, and how long it is kept. While I have made every attempt to make this policy as clear as possible, if you have any further questions about it, feel free to contact me.
 
-###  **Your Information:**
+### **Your Information:**
 
 I will not give out any information you submit at this site to any third parties except in compliance with a request of a law enforcement agency. Under no circumstances will your name, e-mail, phone number or address be sold to, or given to any other parties. I will never wilfully sell, lease, or rent any of your or your business’ personally identifiable information to any third party.
 
-###  **Collected Information:**
+### **Collected Information:**
 
 Your personal information is collected through the contact forms only. This website currently has no applications or programs that gather information from your computer without your consent. Users are required to give contact information (e.g., your name and email address) and demographic information (e.g., your postcode). Certain information, such as your email address, is collected in order to verify your identity and for use in my records. Information collected at this website is kept in my records only as long as is necessary to provide requested services to my clients.
 
-###  **Summation:**
+### **Summation:**
 
 If you have any questions about this privacy statement or the practices of this site, please contact me.
 
@@ -68,3 +74,5 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 [Steelasophical](http://facebook.com/Steelasophical)
+
+2020 
