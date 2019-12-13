@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldcommunitygrid.org privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606090001id_/https%3A//www.worldcommunitygrid.org/viewMemberPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcommunitygrid.org privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213171918id_/https%3A//www.worldcommunitygrid.org/viewMemberPolicy.do) for the most accurate reproduction.*
 
 # World Community Grid - Privacy and Security - Member Policy
 
-_This Statement is effective as of May 25, 2018. The previous version of our Online Privacy Statement is available[here](https://web.archive.org/web/20190606090002id_/https://www.worldcommunitygrid.org/viewPrevPrivacyStatement.do)._
+_This Statement is effective as of May 25, 2018. The previous version of our Online Privacy Statement is available[here](https://web.archive.org/web/20191213171918id_/https://www.worldcommunitygrid.org/viewPrevPrivacyStatement.do)._
 
 Your privacy is important to IBM; maintaining your trust is paramount to us.
 
