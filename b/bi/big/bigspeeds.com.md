@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigspeeds.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612073903id_/https%3A//www.deepbrid.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigspeeds.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213154459id_/https%3A//www.deepbrid.com/page/privacy) for the most accurate reproduction.*
 
-# Deepbrid.com - Privacy Policy
+# Deepbrid - Privacy Policy
 
 Website Visitors  
 Like most website operators, deepbrid.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. deepbrid.com purpose in collecting non-personally identifying information is to better understand how deepbrid visitors use its website. From time to time, deepbrid.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.  
