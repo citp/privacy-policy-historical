@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401022420id_/http%3A//www.israeltoday.co.il/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213171201id_/https%3A//www.israeltoday.co.il/privacy-policy) for the most accurate reproduction.*
 
-# israel today | Israel News - Stay Informed, Pray Informed
+# Privacy Policy - Israel Today
 
 Israel Today | Israel News is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Israel Today | Israel News site and governs data collection and usage. By using the Israel Today | Israel News site, you consent to the data practices described in this statement.
 
-Collection of your Personal Information
+**Collection of your Personal Information**
 
 Israel Today | Israel News collects personally identifiable information, such as your email address, name, home or work address or telephone number. Israel Today | Israel News also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
@@ -14,7 +14,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 Israel Today | Israel News encourages you to review the privacy statements of Web sites you choose to link to from Israel Today | Israel News so that you can understand how those Web sites collect, use and share your information. Israel Today | Israel News is not responsible for the privacy statements or other content on Web sites outside of the Israel Today | Israel News and Israel Today | Israel News family of Web sites.
 
-Use of your Personal Information
+**Use of your Personal Information**
 
 Israel Today | Israel News collects and uses your personal information to operate the Israel Today | Israel News Web site and deliver the services you have requested. Israel Today | Israel News also uses your personally identifiable information to inform you of other products or services available from Israel Today | Israel News and its affiliates. Israel Today | Israel News may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
@@ -26,22 +26,18 @@ Israel Today | Israel News keeps track of the Web sites and pages our customers 
 
 Israel Today | Israel News Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Israel Today | Israel News or the site; (b) protect and defend the rights or property of Israel Today | Israel News; and, (c) act under exigent circumstances to protect the personal safety of users of Israel Today | Israel News, or the public.
 
-Use of Cookies
+**Use of Cookies**
 
-The Israel Today | Israel News Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Israel Today | Israel News Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Israel Today | Israel News pages, or register with Israel Today | Israel News site or services, a cookie helps Israel Today | Israel News to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Israel Today | Israel News Web site, the information you previously provided can be retrieved, so you can easily use the Israel Today | Israel News features that you customized.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Israel Today | Israel News services or Web sites you visit.
 
-Security of your Personal Information
+**Security of your Personal Information**
 
 Israel Today | Israel News secures your personal information from unauthorized access, use or disclosure. Israel Today | Israel News secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Changes to this Statement
+**Changes to this Statement**
 
 Israel Today | Israel News will occasionally update this Statement of Privacy to reflect company and customer feedback. Israel Today | Israel News encourages you to periodically review this Statement to be informed of how Israel Today | Israel News is protecting your information.
-
-Contact Information
-
-Israel Today | Israel News welcomes your comments regarding this Statement of Privacy. If you believe that Israel Today | Israel News has not adhered to this Statement, please contact Israel Today | Israel News at [donotreply1@israeltoday.co.il](mailto:donotreply1@israeltoday.co.il). We will use commercially reasonable efforts to promptly determine and remedy the problem.
