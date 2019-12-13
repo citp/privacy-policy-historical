@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827134601id_/https%3A//www.completecareshop.co.uk/articles/respecting-your-privacy/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213040330id_/https%3A//www.completecareshop.co.uk/articles/respecting-your-privacy/our-privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy by Complete Care Shop
+# Our Privacy Policy by Jon Price, Complete Care Shop
 
 This is about the personal data we collect, what we use it for and how we look after it. We try to keep personal data to a minimum while using other data we collect to provide a great shopping experience for you and all our customers.
 
@@ -118,9 +118,9 @@ We take the security of your data storage extremely seriously:
 
 **Marketing**
 
-If you have consented to our marketing, which is a great idea as you'll be kept informed of our offers and products you may not have been aware of, then you will always have a simple way to opt out or amend your preferences with every email sent and we will also attempt to do the same with any printed material should we do a direct mailshot.
+If you have consented to our email marketing, which is a great idea as you'll be kept informed of our offers and products you may not have been aware of, then you will always have a simple way to opt out or amend your preferences with every email sent.
 
-From the 25th May, 2018, marketing will only proceed to new customers who opt in to receive it. Customers who bought from us or signed up to receive our newsletters prior to this date will continue to be marketed to as we have evidence that our marketing is of benefit to both the customer and ourselves. Please see our Legitimate Use of Data for Marketing in [Our Legitimate Interests](https://web.archive.org/articles/respecting-your-privacy/our-legitimate-interests).
+From the 25th May, 2018, email marketing will only proceed to new customers who opt in to receive it. Customers who bought from us or signed up to receive our newsletters prior to this date will continue to be marketed to as we have evidence that our marketing is of benefit to both the customer and ourselves. Please see our Legitimate Use of Data for Marketing in [Our Legitimate Interests](https://web.archive.org/articles/respecting-your-privacy/our-legitimate-interests).
 
 **Data Breach**
 
