@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gci.org privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602112919id_/https%3A//www.gci.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gci.org privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213210350id_/https%3A//www.gci.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grace Communion International
 
@@ -20,7 +20,7 @@ GCI defines “personal information” to mean information that we directly asso
 
 GCI may collect your personal information through one or more of the following methods:
 
-  * Personal Information You Provide. GCI may collect personal information when you provide personal information to our supporters or volunteers, register as a user of our website or to attend our camps, retreats, and events, sign up for our newsletter, donate to us, register to be a volunteer, contact us about a request to make contact, or email, call, or otherwise communicate with us. No personal information is gathered about you when you visit our web site, unless you voluntarily provide information to us (through an information request or contacting us). For example, if you contact us regarding our churches, we may request that you provide personal information that will enable us to respond to your inquiry.  If you do not provide such information, we may not be able to respond to your inquiry, or the information we provide may be limited.
+  * Personal Information You Provide. GCI may collect personal information when you provide personal information to our supporters or volunteers, register as a user of our website or to attend our camps, retreats, and events, sign up for our newsletter, donate to us, register to be a volunteer, contact us about a request to make contact, or email, call, or otherwise communicate with us. No personal information is gathered about you when you visit our web site, unless you voluntarily provide information to us (through an information request or contacting us). For example, if you contact us regarding our churches, we may request that you provide personal information that will enable us to respond to your inquiry. If you do not provide such information, we may not be able to respond to your inquiry, or the information we provide may be limited.
   * Automatically Collected Personal Information. When you register for our camps, retreats, or events, transactional information such as the date of your registration, camp, retreat, or event registration and your financial and user information may be collected automatically. We treat all such automatically collected information as personal information if we combine it with or link it to other information that may identify you.
   * Other Information. We may obtain information about you from third parties, such as demographic marketing information, address verification, complaints, grievances, or mailing list information and combine it with other personal information pertaining to you.
   * Cookies, Web Beacons, and Similar Technologies. We may use cookies, web beacons, and similar technologies to manage our website and email messages, and we may collect information about your activities online at our website. We may link this information with other personal information about you. By continuing to visit our web site, you agree to the placement of cookies on your device. If you choose not to accept our cookies, we cannot guarantee that you will have access to the full experience of our web site.
@@ -76,7 +76,7 @@ GCI may share your personal information internally among its affiliates. GCI doe
 
 ### PAYMENT INFORMATION
 
-We may also ask you for financial information for payment purposes, including your name; billing address; credit, debit, bank card or PayPal account information; or any other information that we, in our sole discretion, deem appropriate (“Payment Information”). We will not store your Payment Information on our database, unless you have provided your consent for the storage of such Payment Information for recurring donations.  Once you provide us with your Payment Information, we will forward the information to our third party payment processor, who will only use your Payment Information to process your payment of the ordered products.
+We may also ask you for financial information for payment purposes, including your name; billing address; credit, debit, bank card or PayPal account information; or any other information that we, in our sole discretion, deem appropriate (“Payment Information”). We will not store your Payment Information on our database, unless you have provided your consent for the storage of such Payment Information for recurring donations. Once you provide us with your Payment Information, we will forward the information to our third party payment processor, who will only use your Payment Information to process your payment of the ordered products.
 
 ### INFORMATION PERTAINING TO CHILDREN
 
@@ -104,7 +104,7 @@ GCI will modify this Privacy Policy if our practices change. We will notify you 
 
 GCI’s website does not respond to “do not track” signals or similar mechanisms. GCI may send you email messages, direct mail offers, or other communications regarding events or news unless you specifically ask us not to do so when you enroll as a member or register for an event, access our website, or change your preferences by updating any accounts you may have with us. At any time, you may elect to discontinue receiving messages from GCI by submitting an opt-out request to our GCI Member Service Center (see “How to Contact Us” below) or by following the instructions in the form of the communication you received, as described below.
 
-  * Emails: To opt out of receiving email messages, use the  unsubscribe link at the bottom of this email.
+  * Emails: To opt out of receiving email messages, use the unsubscribe link at the bottom of this email.
   * Printed Materials: To opt out of receiving printed marketing materials at your postal address, such as letters, flyers, or postcards, contact us at member.services@gci.org
   * Voice Messages and Texting: To opt out of receiving voice messages by telephone or text messages, you may follow the instructions stated in the pre-recorded voice message or contact us at member.services@gci.org
 
@@ -112,7 +112,7 @@ GCI’s website does not respond to “do not track” signals or similar mechan
 
 ### APPLICABLE LAW
 
-Our web site was created by and is controlled, operated, and administered by GCI, which is a California non-profit religious corporation, or its agents from offices within the United States of America utilizing servers located in the United States of America. We make no representation that materials at our web site are appropriate or available for transmission to or from, or use in, locations outside of the jurisdiction stated above, and accessing our web site from any jurisdiction where our web site’s contents are illegal is prohibited. You may not use our web site or export the materials in violation of import or export laws and regulations. If you access our web site from a location outside of the United States, Canada, and the European Union, you are responsible for compliance with all local laws.  Please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.
+Our web site was created by and is controlled, operated, and administered by GCI, which is a California non-profit religious corporation, or its agents from offices within the United States of America utilizing servers located in the United States of America. We make no representation that materials at our web site are appropriate or available for transmission to or from, or use in, locations outside of the jurisdiction stated above, and accessing our web site from any jurisdiction where our web site’s contents are illegal is prohibited. You may not use our web site or export the materials in violation of import or export laws and regulations. If you access our web site from a location outside of the United States, Canada, and the European Union, you are responsible for compliance with all local laws. Please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.
 
 This Privacy Policy is in compliance with the Personal Information Protection and Electronic Documents Act (PIPEDA) of Canada and the European Union’s General Data Protection Regulation (“GDPR”).
 
@@ -142,6 +142,6 @@ Please contact us by mail, email, or telephone, if you have any questions, comme
 
   * Email: legal.office@gci.org
   * Mailing Address: Grace Communion International 3120 Whitehall Park Drive, Charlotte, NC 28273
-  * Phone:  980-495-3982
+  * Phone: 980-495-3982
 
 
