@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329054018id_/https%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213024944id_/https%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
