@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mollysdailykiss.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327085204id_/https%3A//mollysdailykiss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollysdailykiss.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213202355id_/https%3A//mollysdailykiss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Molly's Daily Kiss
 
