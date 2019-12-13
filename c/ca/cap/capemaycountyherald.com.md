@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the capemaycountyherald.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329054505id_/https%3A//www.capemaycountyherald.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capemaycountyherald.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213060734id_/https%3A//www.capemaycountyherald.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | capemaycountyherald.com
 
 Effective as of April 16, 2012
 
-Seawave Corporation d/b/a Herald Newspapers (“Company”, “we” or “us”) provides this “Privacy Policy” to inform you of our policies and procedures regarding the collection, use and disclosure of information received from users on our website at www.capemaycountyherald.com or our Facebook Application (collectively, the “Site”). This Privacy Policy applies to information collected on the Site and is incorporated by reference into the Visitor Agreement.
+Seawave Corporation d/b/a Cape May County Herald (“Company”, “we” or “us”) provides this “Privacy Policy” to inform you of our policies and procedures regarding the collection, use and disclosure of information received from users on our website at www.capemaycountyherald.com or our Facebook Application (collectively, the “Site”). This Privacy Policy applies to information collected on the Site and is incorporated by reference into the Visitor Agreement.
 
  **Scope**
 
