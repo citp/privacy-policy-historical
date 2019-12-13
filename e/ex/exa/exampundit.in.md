@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exampundit.in privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306034447id_/http%3A//exampundit.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exampundit.in privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213155635id_/https%3A//exampundit.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Exampundit.in
 
@@ -139,3 +139,13 @@ Us**
 If  
 you have any questions or suggestions about our Privacy Policy, do not hesitate  
 to contact us at exampundit@gmail.com.
+
+No votes so far! Be the first to rate this post. 
+
+##  We are sorry that this post was not useful for you! 
+
+Let us improve this post! 
+
+Tell us how we can improve this post? 
+
+Thanks for your feedback!
