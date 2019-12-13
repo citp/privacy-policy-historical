@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4ocean.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525231707id_/https%3A//4ocean.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ocean.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213074956id_/https%3A//4ocean.com/privacy-policy) for the most accurate reproduction.*
 
-# 4Ocean | Privacy Policy | 4Ocean Bracelet - 4ocean
+# Privacy Policy
 
-Updated: July 20, 2018 
+Updated: July 20, 2018
 
 Effective: May 24, 2018
 
@@ -28,21 +28,21 @@ At 4ocean, we take privacy very seriously and it is always our goal to communica
 
 9\. How to Contact Us
 
-A. Information Collection 
+A. Information Collection
 
-4ocean is the sole owner of the information collected on the 4ocean Website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We may also collect Personal Information about you when you interact with us on social media sites and from other third parties and may also automatically collect information that may contain Personal Information as described in 4ocean's Cookie Policy.  We may use that Personal Information where in our legitimate interest to do so for the following purposes: to contact you and respond to your requests and enquiries; to personalize your visit and use of our Internet Services and to assist you while you use those services; to carry out, monitor and analyze our business or website operations; and to contact you (unless you tell us that you prefer us not to) regarding publications, newsletters, cleanups and other events that may be of interest to you. If you do not want to receive publications or details of events that we consider may be of interest to you, you may do so by clicking on the unsubscribe link in electronic marketing communications. 
+4ocean is the sole owner of the information collected on the 4ocean Website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We may also collect Personal Information about you when you interact with us on social media sites and from other third parties and may also automatically collect information that may contain Personal Information as described in 4ocean's Cookie Policy.  We may use that Personal Information where in our legitimate interest to do so for the following purposes: to contact you and respond to your requests and enquiries; to personalize your visit and use of our Internet Services and to assist you while you use those services; to carry out, monitor and analyze our business or website operations; and to contact you (unless you tell us that you prefer us not to) regarding publications, newsletters, cleanups and other events that may be of interest to you. If you do not want to receive publications or details of events that we consider may be of interest to you, you may do so by clicking on the unsubscribe link in electronic marketing communications. 
 
 4ocean collects information from our users at several different points on our Website including:
 
-  1. Account Information 
+  1. Account Information
   2. Payment Information
   3. Third Party Collections
 
 
 
-B. Account Information 
+B. Account Information
 
-In order to purchase products from the Website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the products on our site for which they have expressed interest. 
+In order to purchase products from the Website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the products on our site for which they have expressed interest.
 
   1. Full Name
   2. Email Address
@@ -85,7 +85,7 @@ F. Log Files
 
 We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-G. How We Use Your Information 
+G. How We Use Your Information
 
 We use the information we collect for the following purposes:
 
@@ -105,9 +105,9 @@ We will share aggregated demographic information with our partners and advertise
 
 We use an outside shipping company to ship orders and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-We partner with four other third parties, such as SpringBot, CookieBot, Bazaarvoice and Formstack to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
+We partner with four other third parties, such as SpringBot, CookieBot, Bazaarvoice and Formstack to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 We may also share your information for legal reasons or to prevent harm. We may preserve or disclose information about you to comply with a law, regulation, legal process, or governmental request; to assert legal rights or defend against legal claims; or to prevent, detect, or investigate illegal activity, fraud, abuse, violations of our terms, or threats to the security of the Services.
 
@@ -131,7 +131,7 @@ L. Tell-A-Friend
 
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. 4ocean will automatically send the friend a one-time email inviting them to visit the site.
 
-4ocean stores this information for the sole purpose of sending this one-time email. The friend may contact us at [info@4Ocean.com](mailto:info@4Ocean.com) to request the removal of this information from our database.
+4ocean stores this information for the sole purpose of sending this one-time email. The friend may contact us at [info@4Ocean.com](mailto:info@4Ocean.com) to request the removal of this information from our database.
 
 M. Security
 
@@ -139,15 +139,13 @@ This website takes every precaution to protect our users’ information. When us
 
 encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Google Chrome and Microsoft Internet
 
-Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. To learn more about SSL, follow this link: [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security).
+Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. To learn more about SSL, follow this link: [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security).
 
-.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. 
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.
 
 Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security at our website, you can send an
 
-email to [info@4Ocean.com](mailto:info@4Ocean.com).
+email to [info@4Ocean.com](mailto:info@4Ocean.com).
 
 N. Special Offers
 
@@ -191,7 +189,7 @@ Information Is Shared section. If you have a complaint about our Privacy Shield 
 
 please contact us. You can also refer a complaint to our chosen independent dispute resolution
 
-body, the International Centre for Dispute Resolution® at [http://go.adr.org/privacyshield.html](http://go.adr.org/privacyshield.html).    
+body, the International Centre for Dispute Resolution® at [http://go.adr.org/privacyshield.html](http://go.adr.org/privacyshield.html).    
 
 Please note that the countries where we operate may have privacy and data protection laws that
 
@@ -207,9 +205,9 @@ You have the right to lodge a complaint regarding your information with the prop
 
 U. Correction/Updating Personal Information:
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the user account page or by emailing our Customer Support at info@4Ocean.com or by sending a written request to: 
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the user account page or by emailing our Customer Support at info@4Ocean.com or by sending a written request to:
 
-4ocean LLC, 
+4ocean LLC,
 
 Attention: Privacy Officer
 
@@ -225,7 +223,7 @@ Our users are given the opportunity to ‘opt-out’ of having their information
 
 Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking the opt-out, unsubscribe button, or email us at info@4Ocean.com or by sending a written request to:
 
-4ocean LLC, 
+4ocean LLC,
 
 Attention: Privacy Officer
 
@@ -237,7 +235,7 @@ Boca Raton, FL 33487
 
 P. Choice/Opt-out
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this, so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+Users of our site are always notified when their information is being collected by any outside parties. We do this, so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
 V. Notification of Changes
 
@@ -251,7 +249,7 @@ If you have questions, suggestions, or concerns about this policy, or about our 
 
 information, please contact us at info@4Ocean.com or by sending a written request to:
 
-4ocean LLC, 
+4ocean LLC,
 
 Attention: Privacy Officer
 
@@ -263,7 +261,7 @@ Boca Raton, FL 33487
 
 If you live in the European Economic Area, United Kingdom, or Switzerland and are seeking to exercise any of your statutory rights, please contact our Privacy Officer at info@4Ocean.com or by sending a written request to:
 
-4ocean LLC, 
+4ocean LLC,
 
 Attention: Privacy Officer
 
