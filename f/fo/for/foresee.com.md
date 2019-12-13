@@ -1,160 +1,216 @@
-> *The following text is extracted and transformed from the foresee.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327172509id_/https%3A//www.foresee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foresee.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213172016id_/https%3A//www.foresee.com/privacy-policy) for the most accurate reproduction.*
 
-# Verint ForeSee » Privacy Policy
+# Verint ForeSee » Verint Privacy Policy
 
-## **ForeSee Privacy Statement Effective date: August 12, 2016**
+Verint® Systems Inc. and its Affiliates, (collectively, “Verint”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. Affiliates as used herein is defined as any entity which now or in the future controls, is controlled by, or is under common control with Verint Systems Inc., with “control” defined as the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such person or entity, whether through the ownership of voting securities, by contract, or otherwise). A list of Affiliates can be viewed [here](https://www.sec.gov/Archives/edgar/data/1166388/000116638819000013/vrnt-ex211_20190131xform10.htm) .  
 
-If you have taken a ForeSee® survey, we thank you. If not, we hope you will do so in the future. ForeSee’s clients use the data we collect to improve your experience as a customer or web browser, and we want your voice to be heard.
+This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “Site”), as well as certain information we collect from offline sources, as explained in more detail below. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-In many cases, our surveys are anonymous; however, some of our clients may ask you for some basic contact information. Whether you provide that type of personal information is entirely optional. But in all cases, the information you provide belongs to our client, and we will not sell or otherwise use your information for any other purpose. That promise is simple, but the details are complex—please review our full Privacy Statement below for those details.
+If you apply for a job through the Site, our use of the Personal Information you provide through our Career Center is governed by a separate privacy policy, not this Privacy Policy. Please click <http://www.verint.com/about/careers/> to review our privacy policy for job seekers who apply for jobs through the Site.
 
-This Privacy Statement describes how ForeSee collects, uses, and discloses certain personally identifiable information (“Personal Data”) that it receives about the following types of individuals through certain websites, mobile websites, and mobile applications as outlined herein: (i) ForeSee’s own website visitors, (ii) ForeSee’s clients (“Clients”), and (iii) ForeSee’s Clients’ customers and website visitors.  ForeSee’s practices with respect to each of these categories of individuals is explained below.
+Verint seeks to comply with all laws applicable to it when collecting, using or disclosing information.   
 
-ForeSee recognizes that the European Union (“EU”) has established strict protections regarding the handling of Personal Data, and ForeSee therefore has elected to adhere to the EU-U.S. Privacy Shield Framework (the “Privacy Shield”) with respect to such Personal Data that it receives in the United States about individuals located in the EU. ForeSee also engages with its Clients in the EU Model Clauses for data processing.
+## **Personal Information**
 
-For further background and information about Privacy Shield, and to see ForeSee’s representation on the Privacy Shield List, please refer to the Privacy Shield website at [www.privacyshield.gov](https://www.privacyshield.gov/).
+#### **Personal Information We Collect**
 
-If you are located outside of the United States, please be aware that ForeSee’s Clients may transfer your Personal Data to ForeSee for processing in the United States.  By using our website, contracting with us to receive our products or services, or submitting any information to us through a customer satisfaction survey or otherwise, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction that may not provide the same level of privacy protection as the laws in your home jurisdiction.
+“Personal Information” is information that identifies you as an individual, such as:
 
-### Personal Data Collection and Purposes of Use
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
+  * Organization and job title or function
+  * Login ID, PIN or other Password for access to certain content on the Site
+  * Support Data, which we collect when you submit a support request or run an automated troubleshooter, including : information about hardware, software, and other details related to the support incident, such as: contact or authentication information, chat session personalization, information about the condition of the computer and the application when the issue occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files.
 
-ForeSee collects customer feedback on behalf of its Clients, including some of the biggest players in retail, banking, media, and government.  Feedback is solicited through surveys, which are presented either through an interactive invitation or via email or text message.  Most ForeSee surveys do not solicit Personal Data and, when they do, the information is always optional.  All ForeSee surveys are entirely voluntary.
 
-#### ForeSee’s Clients’ Customers and Website Visitors
 
-ForeSee collects data for our Clients through online and offline (in store and call center) customer satisfaction surveys. The data collected by ForeSee may include the following categories of Personal Data:  name, email addresses, mailing address, and phone number.  ForeSee may also collect the following categories of demographic information:  age, gender, income bracket, education level and race.  If ForeSee combines demographic or other information with Personal Data about you, we will treat the combined information as Personal Data.  Personal Data does not include aggregated anonymous information.
+We may merge Personal Information collected through the Site with Personal Information that we collect about you offline, such as business contact information that we receive in connection with sales presentations, your emails to us or your purchases from us, information gathered when you attend a trade show, seminar or other business event, or information provided by your employer if your company enrolls you in a training event. Where required under the applicable law, we will obtain your consent in doing so. All such merged Personal Information will be treated in accordance with this Privacy Policy.
 
-In some instances, a Client may also provide ForeSee data about its customers or website visitors, which may include information about your use of the Client’s website and your relationship or transactional history with the Client.  ForeSee and/or the Client may combine this information with the data you provided in a survey response in order to better understand your feedback.  Please refer to the Client’s posted privacy policy to determine what information the Client may provide ForeSee.
+We use third-party payment services (“Payment Service”) to collect payments for purchases made through the Site. If you wish to make a payment through the Site, you will be directed to a webpage that is hosted by the Payment Service (or the Payment Service’s service providers) and not by Verint. Any Personal Information that you provide through the Payment Service’s web page will be collected by Payment Service and not by us, and will be subject to Payment Service’s privacy policy, rather than this Privacy Policy. EXCEPT IN JURISDICTIONS WHERE EXPRESSLY DEEMED SO, WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY SUCH PAYMENT SERVICES.
 
-The data ForeSee collects belongs to our Clients, and ForeSee uses the data to compile reports on customer satisfaction for our Clients.  Aggregated anonymous information may be provided to third-parties including media outlets, and does not include any Personal Data.
+We need to collect Personal Information in order to provide the requested Services to you.  If you do not provide the information requested, we may not be able to provide the Services. If you disclose any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
 
-ForeSee may email customer satisfaction surveys to Client customers or website visitors.  Because ForeSee is acting as the Client’s agent, if the customer or website visitor chooses to opt-out of future emails, the opt-out will be Client-specific, and does not apply to other emails sent by ForeSee.  Data collected in response to an email is handled in the same manner as other Client customer and website visitor data, as described in this Privacy Statement.
+#### **How We Use Personal Information**
 
-ForeSee will not request, access or otherwise track any location based information from a Client’s customer’s or visitor’s mobile device.  Please refer to the Client’s posted privacy policy to determine what information the Client may collect.
+We may use Personal Information:
 
-Most of the data we collect is anonymous, but some of our Clients may direct us to ask for your contact information, which is Personal Data. Wherever we obtain access to Personal Data about our Clients’ customers or website visitors, we are acting as a mere data processor on behalf of our Clients, and we therefore process such Personal Data strictly in accordance with their instructions and pursuant to our contractual arrangements with them.  ForeSee’s Clients are the data controllers and data owners.  If you are a customer or website visitor with an existing relationship with one of our Clients, you should refer to the Client’s website to understand the privacy practices that apply to Personal Data that we may maintain about you on behalf of the Client.  Our Clients are encouraged to participate in privacy initiatives to protect the privacy and security of the data collected; however, since we do not have direct control over the policies or practices of our Clients, we cannot be responsible for their actions.  We recommend that you always review the privacy policies of the Client for which you have been presented a survey before you provide any Personal Data.
+  * To respond to your inquiries and fulfill your requests, such as to send you email alerts, white papers or information about our company, products and services. 
+    * We will engage in this activity with your consent or where we have a legitimate interest.
+  * To send you important information regarding the Site, and changes to our terms, conditions, and policies and/or other administrative information. 
+    * We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
+  * To complete and fulfill your purchase, for example, to have your order delivered to you, to provide you with the products and services you request, to communicate with you regarding your purchase, and to provide you with related customer service. 
+    * We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation.
+  * To allow you to register for or take advantage of various opportunities, such as enrolling in online and classroom training; submitting online tickets for support or other services; participating in forums, blogs or other interactive features; or applying for your organization to become a Verint partner. 
+    * We use this information to manage our contractual relationship with you and/or because we have a legitimate interest.
+  * To send you marketing communications that we believe may be of interest to you. 
+    * We will engage in this activity with your consent or where we have a legitimate interest.
+  * To allow you to provide feedback in a customer satisfaction survey or for market research purposes. 
+    * We will engage in this activity with your consent or where we have a legitimate interest.
+  * To personalize your experience on the Site by presenting products and offers tailored to you. 
+    * We will provide personalized services either with your consent or because we have a legitimate interest.
+  * To administer and develop our business relationship with you and the organization you represent, if you represent one of our customers, business partners, or prospective customers or partners.
+  * For our business purposes, such as data analysis, providing services requested by you, audits, for fraud and security monitoring purposes (for example, to detect and prevent cyberattacks or attempts to commit identity theft), developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
+    * We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
+  * To provide you with support services through phone, email, or online chat. We may use Remote Access (RA), with your consent, to temporarily navigate your desktop. Phone conversations, online chat sessions, or RA sessions with support professionals may be recorded and/or monitored. For RA, you may also access the recording after your session. For Online Chat or RA, you may end a session at any time of your choosing. We also use Personal Information, including Support Data to help resolve your support incident and for training purposes. 
+    * We engage in this activity with your consent, to manage our contractual relationship with you, and/or where we have a legitimate interest.
+  * Aggregating and/or anonymizing Personal Information. We may aggregate and/or anonymize Personal Information so that it will no longer be considered Personal Information. We do so to generate other data for our use, which we may use and disclose for any purpose.
 
-You have the right to access your Personal Data.  If you would like to access and review Personal Data that you provided to us, you can either contact our Client with any such requests, or make your request directly to us at [Privacy@ForeSee.com](mailto:Privacy@ForeSee.com).  We will cooperate as appropriate with requests from our Clients to assist with such responses and will respond to such requests within 30 days.
 
-#### Surveys with Sweepstakes Incentives
 
-In certain instances, ForeSee’s surveys include sweepstakes incentives. When a survey includes a sweepstakes incentive, entry in the sweepstakes is entirely optional. Survey responses may be submitted without entering the sweepstakes. Please refer to the specific sweepstakes rules for further detail. In all cases, any contact information collected by ForeSee, including but not limited to name, email address, mailing address, and telephone number, is only used to manage the sweepstakes, subject to the sweepstakes rules and the terms of the Client’s privacy policy.
+#### **How Personal Information is Disclosed**
 
-#### ForeSee’s Clients
+Your Personal Information may be disclosed:
 
-ForeSee provides a wide variety of services and solutions, including providing Clients with comprehensive consumer experience measurement analytics through customer satisfaction surveys and related tools.  In connection with providing the services and solutions, ForeSee may obtain information about individual Client employees, including Personal Data about the Client contact such as name and contact information.  ForeSee may use this information for business purposes, including to deliver or provide products or services to our Clients, to establish or maintain client and business relationships and manage Client accounts, and to provide customer feedback to our Clients as necessary or appropriate in connection with the servicing and development of the business relationship.  In addition, if you are a current ForeSee Client, we may send you service-related emails as necessary, for example, if our service is temporarily suspended for maintenance.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.
+  * To our Affiliates for the purposes described in this Privacy Policy. Verint Systems Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services and other similar services to enable them to provide services.
+  * To business partners, if you choose to purchase products and services from us that include or require products and services of our business partners (such as integration services), to enable them to provide the applicable products and services. EXCEPT IN JURISDICTIONS WHERE EXPRESSLY DEEMED SO, WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY SUCH BUSINESS PARTNERS.
+  * To identify you to anyone to whom you send messages through the Site.
+  * To third-party distributors that we ask to follow-up on requests from you.
+  * By you, on message boards, chat, profile pages and blogs, and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information and may be available to visitors to the Site and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Site.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * Where required under the applicable law, we will obtain your consent in disclosing your Personal Information.
 
-We will occasionally send you information on ForeSee products or services we think may be of interest to you if you are a Client or choose to sign up for our newsletter.  If you do not want to receive this promotional information, you may opt-out from these types of communications by following the instructions included in each communication, or by contacting us at [Privacy@ForeSee.com](mailto:Privacy@ForeSee.com).
 
-When you download and use our mobile applications for Client portal access, ForeSee automatically collects information such as the type of device you use and operating system version. ForeSee uses mobile analytics software to allow us to better understand the functionality of our mobile application. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and the source of the application download.
 
-Our Clients may contact us if any of their Personal Data changes, if they wish to have inaccurate data deleted, or if they would like to access and correct Personal Data that we maintain about them. They may contact us by sending an email to [Privacy@ForeSee.com](mailto:Privacy@ForeSee.com), or by using the information at the end of this Privacy Statement. We will respond to your request to access and/or correct your Personal Data within 30 days. You may also contact your assigned analyst to inquire about your stored Personal Data.
+We also use and disclose Personal Information, As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-#### ForeSee’s Website Visitors
+### **Other Information**
 
-If you visit our website located at [www.foresee.com](https://www.foresee.com/) and download information or choose to contact us, you may provide certain Personal Data about yourself, such as your name, email address, phone number and mailing address.  We use this information to respond to your inquiry and, if necessary, to correspond with you.
+#### **Other Information We Collect**
 
-* * *
+“Other Information” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
 
-### Disclosures of Personal Data
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information that no longer reveals your specific identity
 
-ForeSee does not sell any Personal Data gathered from individual survey respondents and does not share any Personal Data with third parties for their own marketing purposes. Personal Data collected by ForeSee is only disclosed to ForeSee’s Client or as directed by the Client in accordance with the contractual relationship, or as otherwise set forth in this Privacy Statement.
 
-ForeSee may disclose Personal Data to business partners and subcontractors, such as sweepstakes administrators, as necessary in connection with the performance of requested services or solutions, or as otherwise appropriate in connection with a legitimate business need. ForeSee may also disclose Personal Data as necessary in connection with the sale or transfer of all or part of the business. In these situations, ForeSee will require the recipient of the Personal Data to protect the Personal Data in accordance with the relevant Privacy Shield principles, or otherwise take steps to ensure that the Personal Data is appropriately protected. ForeSee may also disclose Personal Data where required or permitted by law, or where ForeSee believes that such disclosures are appropriate in connection with a law enforcement request.
 
-If you have provided Personal Data to us, and wish to limit our use and disclosure of that data, you can contact us at [Privacy@ForeSee.com](mailto:Privacy@ForeSee.com).
+#### **How We Collect Other Information**
 
-### Data Retention
+We and our third party service providers may collect Other Information in a variety of ways, including:
 
-ForeSee retains all data, including the Personal Data we process on behalf of our Client, for as long as needed to provide services. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  * Through your browser: Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version and Internet browser type and version. We use this information to help ensure that our Site functions properly.
+  * Using cookies and web beacons: Please see our [Cookie Policy](https://www.verint.com/our-company/legal-documents/cookies-overview/), which explains how we use cookies.
+  * Usage data: We may use statistical data, analytics, trends and usage information derived from your use of services (“usage data”) through pixel tags and other similar technologies. Usage data includes, for example, aggregated quantitative information about active users, activity, topics, and groups. Some ways we use the usage data include operating, improving and personalizing the services and our offerings, as well as other Verint products and services.
+  * IP Address: Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many websites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
+  * From you: Information such as your location, as well as other information, such as your preferred means of communication or areas of interest, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Site.
+  * By aggregating information: Aggregated Personal Information does not personally identify you or any other user of the Site. (For example, we may use aggregated Personal Information to calculate the percentage of our users who have a particular telephone area code.)
 
-### Cookies on our Site
 
-Many websites use “cookies” to help personalize a website visitor’s online experience. A cookie is a text file that is placed on the hard drive of a computer by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-We use session level cookies on [www.foresee.com](https://www.foresee.com/) to make it easier for you to navigate our site. A session level cookie expires when you close your browser. We do not link any Personal Data you provide to cookies.
+#### **How We Use and Disclose Other Information**
 
-ForeSee and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then, in addition to the uses listed in the “How We Collect Other Information” section above, we may use and disclose Other Information for all the purposes for which we use and disclose Personal Information.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies by default, but you can usually modify your browser setting to decline cookies by changing the browser preferences. If you choose to decline cookies, you may not be able to fully experience the interactive features of the services or websites you visit.
+In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-### Third Party Cookies
+#### **Third Party Advertising**
 
-We allow our third party tracking utility company to use cookies throughout our website. Although we do not have technological control over cookies they place in your browser, they are contractually restricted in their use of such cookies to uses consistent with this Privacy Statement. Our tracking utility company uses session level cookies to make it easier for you to navigate our site and to track how many pages a particular visitor has passed over.
+Data Collected in Connection with Ad Serving and Targeting. Our goal at Verint is to provide you with ads that are relevant to you. We use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and site analytics, as well as to assist with the delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third-party service providers, advertisers, advertising networks and platforms, agencies and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](https://preferences-mgr.truste.com/).
+Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across Verint’s websites.
 
-### Clear Gifs (Web Beacons/Web Bugs)
+For example, if you often visit content on the Verint network about Workforce Optimization (WFO), we or our service providers may use “web beacons” to infer your possible interest in WFO and may deliver an ad to you related to that interest when you are on the Site or on a third-party site. It’s important to understand that these technologies use anonymous identifiers within the “cookies” stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [AdChoices](https://www.verint.com/our-company/legal-documents/ad-choices/) page.
 
-Our third party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our website visitors’ Personal Data. We do not link Personal Data you provide to clear gifs.
+Verint’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising. Verint adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit http://optout.aboutads.info/#/ and <http://optout.networkadvertising.org/#/> .  
 
-### Cookies In Our Surveys
+#### **Third Party Sites**
 
-Some cookies related to ForeSee’s surveys are deployed by the Client, consistent with the Client’s website privacy policy. You should refer to the Client’s website privacy policy for additional information on their use of cookies.
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our Affiliates.
 
-Session level cookies are automatically deleted at the end of a session, when you close your browser. ForeSee’s survey mechanism places a session level cookie on respondents’ browser to track non-personal information such as: the number of pages a particular visitor has passed over; what page the visitor was viewing when the survey appeared; what language, browser and operating system a visitor is using; the referring website (i.e., Google); and any search terms that brought the visitor to the website. We use this data to ensure that a visitor has sufficiently browsed the site in order to adequately answer the survey, and to prevent an individual from getting a survey multiple times in a single session.
+#### **Security**
 
-Persistent cookies are automatically deleted on a set expiration date. A persistent cookie will only be placed if ForeSee’s Client desires for this type of cookie to be utilized, and in compliance with the Client’s privacy policy. This persistent cookie will only be used to track that a particular respondent has been presented a survey invitation and has completed or declined the survey to help ensure that the individual does not receive the survey again within a reasonable amount of time. ForeSee does not collect any Personal Data with this persistent cookie, and does not track any visitor once they have left the given site.
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
 
-### Log Files
+#### **Choices and Access**
 
-As is true of most websites, we gather certain information automatically. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We use this information to better understand your website experience, and to ensure that we are optimizing the functionality of our website and survey interfaces.
+Your choices regarding our use and disclosure of your Personal Information
 
-### Children Under 13
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from the following (and in jurisdictions where prior affirmative consent is required, we shall collect such consent from you in order for you to allow us to do the following):
 
-In most cases, ForeSee’s customer satisfaction surveys and website are not designed or intended for use by children under 13, although the sites we survey may offer children’s products for purchase by adults and/or children’s services. If you are under 18, you should not participate in our survey or use our site without the permission and in the presence of a parent or guardian. In rare instances, a ForeSee Client may choose to survey children under 13; such surveys will not solicit Personal Data. Children under 13 may not submit any Personal Data to us, and if we discover that we have inadvertently gathered any Personal Data about a child under 13, we will take appropriate steps to delete it immediately. Children over 13 (ages 14-17) should only provide us with Personal Data if they have explicit permission from a parent or legal guardian.
+  * Receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a go-forward basis, you may opt-out by following the instructions contained in the email or by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com)
+  * Our sharing of your Personal Information with Affiliates for their marketing purposes: If you would prefer that we do not share your Personal Information on a go-forward basis with our Affiliates for their marketing purposes, you may opt-out of this sharing by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com)
+  * Our sharing of your Personal Information with unaffiliated third parties for their marketing purposes: If you would prefer that we do not share your Personal Information on a go-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com)
 
-### Data Security and Integrity
 
-ForeSee takes reasonable precautions to protect Personal Data stored in its global hosting centers and in other locations in the United States from loss, misuse and unauthorized access, disclosure, alteration, and destruction. ForeSee also makes reasonable efforts to keep all Personal Data reliable for its intended use, accurate, current, and complete. We use secure server hosting locations with 24×7 security monitoring, firewall protection, controlled access, and encryption technology to protect your Personal Data. When our Clients enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). Because no method of transmission over the Internet or method of electronic storage is 100% secure, we cannot guarantee its absolute security.
 
-If you have any questions about our security practices, you can contact us via email at [Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com) or by using the information at the end of this Privacy Statement.
+We will try to comply with your request(s) as soon as reasonably practicable. Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
-### Public Forums
+#### **How to access, change or suppress your Personal Information**
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you would like to request to review, correct, update, suppress, restrict or delete or otherwise limit our use of your Personal Information that has been previously provided to us, object to the processing of Personal Information, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law) you may contact us at [privacy@verint.com](mailto:privacy@verint.com) or at the addresses listed below in “Contacting Us”.  We will respond to your request consistent with applicable law.
 
-### Testimonials
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise, and let us know which of the above limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
 
-ForeSee displays client testimonials on our website. We receive permission to post testimonials that include personal information or video images prior to posting the content on our website. If you wish to update or delete your testimonial, you can contact us at [Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com).
+#### **Retention Period**
 
-### Social Media Widgets
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
-Our website includes Social Media Widgets, such as the Facebook share button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+The criteria used to determine our retention periods include: 
 
-### Links to Other Sites
+  * The length of time we have an ongoing relationship with you and provide the Services to you (for example, for as long as you have an account with us or keep using the Services);
+  * Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+  * Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations). ** **
 
-If you click on a link to a third party website, including on an advertisement, you will leave the ForeSee site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your Personal Data by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as ForeSee. We encourage you to review the privacy policies of any third party website that you visit before providing any Personal Data.
 
-### Changes to this Privacy Policy
 
-If we decide to change our privacy practices, we will post those changes to this Privacy Statement on the home page of our website, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Statement at any time, without prior notice to you, and any changes will become effective immediately upon posting. If we make material changes to this Privacy Statement, we will notify you here, by email, or by means of a notice on our home page.
+#### **Use** **of site by** **Minors**
 
-* * *
+The Site is not directed to individuals under the age of eighteen (18), and we request that these individuals do not provide Personal Information through the Site.
 
-## Questions
+#### **Cross-Border Transfer**
 
-If you have any questions about this Privacy Statement or our privacy or security practices, or if you would like to request access to Personal Data that we may maintain about you, please contact us as follows:
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our Site, you consent to the transfer of information to countries outside of your country of residence or the country where the Personal Information is collected, including the United States, which may have different data protection rules than in your country.  In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information
 
-ForeSee  
-Attention: Chief Privacy Officer  
-2500 Green Road, Suite 400  
-Ann Arbor, MI 48105  
-800-621-2850  
-[Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com)
+We will transfer your data in accordance with applicable law when it is transferred outside your country of residence or country from where your Personal Information is collected.
 
-## ForeSee and Privacy Shield
+Verint ForeSee may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-This Privacy Statement covers the website [www.foresee.com](https://www.foresee.com/), all ForeSee-hosted surveys, including the collection of Personal Data about ForeSee’s Clients and ForeSee’s Clients’ customers and website and mobile website visitors.
+ADDITIONAL INFORMATION REGARDING TRANSFERS FROM THE EEA: Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available here <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en>
 
-If you have questions or complaints regarding our Privacy Statement or practices, please contact us at [Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com). This email is directed to our legal department and Chief Privacy Officer (Tamika A. Bryant-Cromer, Vice President and General Counsel). If you are not satisfied with our response and have a complaint about our privacy practices, you can contact your local Data Protection Authority.
+Verint ForeSee may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-ForeSee may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. ForeSee may be liable for passing Personal Data on to third-parties (an “onward transfer”) that do not adhere to the protections mandated by the EU and Switzerland.
+For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission to protect your Personal Information. You may obtain a copy of these measures by following this link <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en>  
 
-* * *
+#### **Sensitive Information**
 
-## Dispute Resolution
+We do not collect any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, or genetic characteristics, criminal background or trade union membership).  We ask that you not send us, and you not disclose, any such sensitive Personal Information to us.
 
-ForeSee participates in the Privacy Shield Framework. As part of our participation in that program, we have agreed to adhere to its principles for the resolution of disputes relating to our compliance with Privacy Shield. If you have any complaints regarding our compliance with Privacy Shield, you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with your local Data Protection Authority in accordance with the Privacy Shield Framework guidance published here: <https://ec.europa.eu/commission/index_en>
+#### **Information** **we handle as a service provider**
 
-ForeSee is subject to the investigatory and enforcement powers of the United States Federal Trade Commission and other regulatory agencies. In some circumstances, an individual having a dispute with ForeSee may invoke binding arbitration through the Privacy Shield Panel in accordance with the Privacy Shield Framework guidance published here: [http://ec.europa.eu/justice/data-protection/document/citizens-guide_en.pdf](https://ec.europa.eu/justice/data-protection/document/citizens-guide_en.pdf)
+In the course of providing goods and services to our customers, Verint may receive information in the form of text, sound, software or image files from our customers and distributors about their own customers (“Customer Information”). Verint makes no claim of ownership to Customer Information. Our customers may collect Personal Information, and at their request, we may host that data as part of service offerings on our platform. Verint acts only in accordance with our customers’ or distributors’ instructions and applicable law with respect to such information, and its collection, use and disclosure is governed by the privacy policy and practices of the customer or distributor concerned and not by this Privacy Policy. You should review the customer’s privacy policy or contact the customer directly to understand how they will use the data you submit to them.
+
+#### **Compliance with Relevant Laws, Ordinances, and Guidelines**
+
+When handling Personal Information, we shall comply with applicable laws and ordinances, and guidelines.
+
+#### **Updates to this Privacy Policy**
+
+We may update this Privacy Policy. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+
+#### **Contacting Us**
+
+If you have any questions about this Privacy Policy, please contact us by email at privacy@verint.com, or write to the following address:
+
+Verint Systems Inc.
+
+Attn: Legal Department/Privacy Policy
+
+175 Broadhollow Rd, Ste 100
+
+Melville, NY 11747
+
+Please note that email communications are not always secure, so please do not include credit card information or sensitive information in your emails to us.
+
+#### **ADDITIONAL INFORMATION REGARDING THE EEA**
+
+You may also:
+
+  * Contact our Data Protection Officer (DPO) at [privacy@verint.com](mailto:privacy@verint.com).
+  * Lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law occurs. A list of data protection authorities is available at [http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080](https://protect-us.mimecast.com/s/GVKtCmZM8ki2Bq0BH312ig). ** **
+
+
