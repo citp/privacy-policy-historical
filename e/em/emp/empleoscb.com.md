@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empleoscb.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622155225id_/https%3A//hiring.careerbuilder.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empleoscb.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213123322id_/https%3A//hiring.careerbuilder.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerBuilder for Employers
 
