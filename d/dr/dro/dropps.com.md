@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408045530id_/https%3A//www.dropps.com/pages/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213061909id_/https%3A//www.dropps.com/pages/terms-conditions) for the most accurate reproduction.*
 
 # Privacy & Terms + Conditions – Dropps
 
