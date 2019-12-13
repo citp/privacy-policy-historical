@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yes.scot privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426081755id_/https%3A//www.yes.scot/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yes.scot privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213175413id_/https%3A//www.yes.scot/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — It's Time
 
