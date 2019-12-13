@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the granicus.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630192734id_/https%3A//granicus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granicus.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213124937id_/https%3A//granicus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Granicus
 
-## We Are Committed to Maintaining Your Trust
+[ ](https://web.archive.org/)
 
-Granicus, LLC (“Granicus”, “Company”, or “We”) is committed to maintaining your trust by protecting your personal data. The Granicus privacy policy was last updated on May 31, 2019. 
+
+
+
+## We Are Committed to Maintaining Your Trust 
+
+Granicus, LLC (“Granicus”, “Company”, or “We”) is committed to maintaining your trust by protecting your personal data. The Granicus privacy policy was last updated on May 31, 2019.
 
 This statement explains how we collect, use, share, and protect your personal data. Personal data is any information relating to an identified or identifiable person. Your name, address, phone number, email address, and IP address are examples of personal data. Unless otherwise specified, this statement applies to Granicus’ marketing efforts.
 
@@ -13,19 +18,6 @@ Granicus will process your personal data in a transparent and lawful way. Any pe
 We may change this statement from time to time to reflect privacy or security updates. If we make material changes, we will notify you via the email address listed in your account, or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 This privacy statement is provided in a layered format so you can click through to the specific sections set out below. Alternatively, you can download a pdf version of the statement [here](https://granicus.com/wp-content/uploads/application/pdf/Marketing-Privacy-Notice_US_V1.1_2019_May31-PDF.pdf).
-
-### Contact Us
-
-If you have any questions about this statement or if you would like to exercise any rights you may have in relation to your personal data, please contact us at [gdpr@granicus.com](mailto:gdpr@granicus.com?subject=questions%20about%20GDPR). If you have additional questions or need to escalate an issue, use the below details for our Data Protection Officer (DPO).
-
-Full name of legal entity: Granicus, LLC
-
-Name of DPO: Gerry Hansen  
-Email address: [dpo@granicus.com](mailto:dpo@granicus.com?subject=from%20https://granicus.com/privacy-policy)  
-Postal address: 408 St. Peter Street, Suite 600, St.Paul, MN 55102, USA  
-Telephone number: 01 651 925 5765
-
-You have the right to make a complaint at any time to the relevant data protection supervisory authority in the EU member state in which you reside. We would, however, appreciate the chance to deal with your concerns before you approach your supervisory authority so please contact us in the first instance.
 
 ### Which Personal Data Does Granicus Collect, and for What Purpose?
 
@@ -73,13 +65,13 @@ We will not use your personal data for decisions based solely on automated proce
 Except as described here or in any of our other applicable privacy policies, we will not sell, distribute, lease, or provide any of your personal data to any third parties unless we have your permission to do so or are required by law. We share your personal data with the following categories of recipient:
 
   * **Agents and subcontractors**. We may disclose your personal data with our agents or subcontractors for the purposes identified above. In these cases, the agent or subcontractor will be obligated to use that personal data in accordance with the terms of this privacy statement. _Your data may be shared with these types of agents and subcontractors:_
-    *       * Data deduplication and rerouting service provider
-      * Customer Relationship Management (CRM) service provider
-      * Marketing automation and analytics provider
-      * Sales development tools provider
-      * Conversion optimization and lead generation services provider
-      * Webinar marketing service provider
-      * Sales engagement solution provider
+    * Data deduplication and rerouting service provider
+    * Customer Relationship Management (CRM) service provider
+    * Marketing automation and analytics provider
+    * Sales development tools provider
+    * Conversion optimization and lead generation services provider
+    * Webinar marketing service provider
+    * Sales engagement solution provider
   * **Third parties as permitted or required by law.**  This may include disclosing your personal data to regulators, or law enforcement authorities. We may transfer and disclose the data we collect about you to comply with a legal obligation, including responding to a court order, to prevent fraud, to comply with an inquiry by a government agency or other regulator, to address security or technical issues, to respond to an emergency, or as necessary for other legal purposes.
   * **As part of a business transaction.**  In relation to an ongoing or proposed business transaction such as a transfer of the ownership or operation of Granicus, LLC or any companies in its group to another organization, if we merge with or are acquired by another organization, or if we liquidate our assets, your personal data may be transferred to a successor organization. If such a transfer occurs, the successor organization’s use of your data will still be subject to this statement and the privacy preferences you have expressed to us.
 
@@ -122,7 +114,7 @@ Data processed for marketing purposes will be retained for as long as you remain
 
 To determine the appropriate retention period for the information we collect from you, we consider the amount, nature, and sensitivity of the information, the potential risk of harm from unauthorized use or disclosure of the data, the purposes for which we process the data, whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-### Data subject Rights
+### Data Subject Rights
 
 To exercise any of the following rights, please contact [gdpr@granicus.com](mailto:gdpr@granicus.com?subject=questions%20about%20GDPR). If you need to escalate a matter or feel that your issue is unresolved, please contact our DPO.
 
