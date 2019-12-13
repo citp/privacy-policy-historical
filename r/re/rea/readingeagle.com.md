@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502051222id_/https%3A//www.readingeagle.com/section/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213130818id_/https%3A//www.readingeagle.com/section/privacypolicy) for the most accurate reproduction.*
 
 # Reading Eagle Reading, PA | privacypolicy | readingeagle.com
 
@@ -69,11 +69,10 @@ Reading Eagle Company and readingeagle.com do not knowingly collect personal inf
 Contacting us.**
 
 We can be reached by contacting:  
-Internet Services  
-Reading Eagle Company  
-P.O. Box 582  
-Reading, PA 19603  
-Email: internetservices@readingeagle.com 
+Reading Eagle  
+345 Penn St.  
+Reading, PA 19601  
+Email: customersupport@readingeagle.com 
 
 **Implied acceptance and changes to this policy.**
 
