@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepvid.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530215714id_/https%3A//keepvid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepvid.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213010209id_/https%3A//keepvid.com/privacy.html) for the most accurate reproduction.*
 
 # [OFFICIAL] KeepVid Privacy Policy
 
@@ -23,3 +23,9 @@ KeepVid.com may contain links to other websites of interest. However, once you h
 ###### 5\. Collected Information
 
 KeepVid.com respects the privacy of its users and does not collect any personal information about its users.
+
+###### 6．Third-Party Websites and Services
+
+KeepVid.com may have third-party services, such as Google Analytics, on our website. We don’ty have control of these third-party services, including their information collection and use practices. We are not responsible for their privacy practices or policies. We therefore recommend you to review the privacy policies of these third-party services before providing any personal information to them. For more information about the third-party services which may be included in our website, please contact use at contact@keepvid.com.
+
+Third-party vendors, such as Google, may show ads of KeepVid.com on sites all across the Internet. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by setting up in [Google Ads Settings](https://www.google.com/settings/ads).
