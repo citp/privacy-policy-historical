@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangahelpers.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215205936id_/https%3A//mangahelpers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangahelpers.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213084822id_/https%3A//mangahelpers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ Notwithstanding these security measures, please be aware that when you submit Pe
 
 You have the ability to review, change and correct the personally identifiable information you provide us. If you are a registered user, you can access, correct or update your account or other Personal Information such as your city or interests, by clicking the "Control panel" link on the MangaHelpers Site on which you are registered. If you are a registered user, you may also request that we remove from our databases the information you provided when you registered with a MangaHelpers Site by e-mailing us at [admin@MangaHelpers.com](mailto:admin@MangaHelpers.com "Mail us") If you are not a registered user, but have provided personally identifiable information to us, you may make changes to your personally identifiable information by e-mailing us at [admin@MangaHelpers.com](mailto:admin@MangaHelpers.com "Mail us").
 
-If you have any other questions, comments or complaints about this Policy, write to us at: [admin@MangaHelpers.com](https://web.archive.org/web/20190215205936id_/https%3A//mangahelpers.com/admin@MangaHelpers.com "Mail us").
+If you have any other questions, comments or complaints about this Policy, write to us at: [admin@MangaHelpers.com](https://web.archive.org/web/20191213084822id_/https%3A//mangahelpers.com/admin@MangaHelpers.com "Mail us").
 
 ## Unsubscribe
 
