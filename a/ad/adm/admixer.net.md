@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admixer.net privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628142132id_/https%3A//admixer.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admixer.net privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213053326id_/https%3A//admixer.net/privacy) for the most accurate reproduction.*
 
 # ᐉ Privacy Policy // Admixer
 
