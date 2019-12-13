@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rkguns.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320104735id_/https%3A//www.rkguns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rkguns.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213170720id_/https%3A//www.rkguns.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : RK Guns
 
