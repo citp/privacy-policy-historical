@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reply.io privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328072551id_/https%3A//reply.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reply.io privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214000332id_/https%3A//reply.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reply
 
@@ -106,11 +106,17 @@ You may also provide us information that you post to the Services. Your question
 
 ### 3.7 Google User Data
 
-If you choose to connect a Gmail account, we will, after we have confirmed your permission, securely access information obtained from your account. In particular, we may need to access your inbox folder in order to detect replies to emails, that have been sent via Reply; this is necessary in order to make work the core functionality of our Services work as intended.
+If you choose to connect a Gmail account to Reply, we will ask you to grant Reply application permissions to access your Gmail account. These permissions are necessary to sustain the functionality of our Services, as intended and described in Terms of Service. In particular, we will need to access your inbox folder to detect replies to emails that have been sent via Reply.
 
-Our servers only stores emails you have sent via Reply and any responses you received to those emails, so we can detect replies, classify them and you can have access to them from the Services.
+Our servers only store emails that you have sent via Reply and any responses you have received to those emails so we can detect replies, classify them, and provide access to them in your Reply account. All data obtained via Gmail API is available in your Reply account. 
 
-Also, we may store your authentication token and account email address. This data will be securely stored in order to be used by Reply to provide you with the Services (including but not limited to logging in to your account, sending emails via the Reply platform, accessing emails you sent and viewing replies you received). Under no circumstances will this data be voluntarily shared with any third parties; Reply would only provide this information to legal authorities upon their rightful request or in the case of an emergency. Should you choose to disconnect your Gmail account or choose to close your account, any information from Google stored on our servers will be deleted permanently.
+Also, we will store your authentication token and account email address. This data will be securely stored to be used by Reply to provide you with the Services (including but not limited to logging into your account, sending emails via the Reply platform, accessing emails you sent, and viewing replies you received to this emails). Under no circumstances will this data be voluntarily shared with any third parties; Reply could only provide this information to legal authorities upon their lawful request. Should you choose to disconnect your Gmail account or decide to close your account, any information from Google that is stored on our servers will be removed permanently.
+
+At Reply, we do not use data obtained from our customers (from their Google accounts) for advertising purposes; this includes personalized, re-targeted, and interest-based advertising.
+
+Our employees, contractors, and any human, in general, are not allowed to access your personal information, including the data obtained via Google API. We could access user data only after obtaining the user’s affirmative agreement. We may need access the user data to resolve a support issue, provide advice on service usage or provide any other help, requested by the user. Also, we can access such information when/if necessary for a security investigation or to comply with applicable laws.
+
+To obtain more information, please reach out to our Data Protection Officer (dpo@reply.io).
 
 ### 3.8 Web beacons
 
@@ -238,7 +244,7 @@ In compliance with the Privacy Shield Principles, Reply commits to resolve compl
 
 [dpo@reply.io](mailto:dpo@reply.io)
 
-Reply has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://web.archive.org/web/20190328072551id_/https://reply.io/privacy-policy/www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
+Reply has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://web.archive.org/web/20191214000332id_/https://reply.io/privacy-policy/www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
 
 If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
 
@@ -270,7 +276,7 @@ We also provide customers with the tools to manage their sending reputation and 
 
 You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our e-mails, or by sending us email us at [dpo@reply.io](mailto:dpo@reply.io). Customers cannot opt out of receiving transactional emails or notifications related to their account with us or the Reply Service.
 
-### 5.4. To Unsubscribe from Our Customers’ Communications
+### 6.4. To Unsubscribe from Our Customers’ Communications
 
 Our customers are solely responsible for their own sales or marketing emails and other communications;  
 We make sure that all emails sent using Reply service has proper unsubscribe mechanics (links or text + AI sorting + Auto opt out).  
