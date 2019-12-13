@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flourish.studio privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524184627id_/https%3A//flourish.studio/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flourish.studio privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213073635id_/https%3A//flourish.studio/privacy) for the most accurate reproduction.*
 
-# Privacy & cookies policy | Flourish | Data Visualisation & Storytelling
+# Privacy & cookies policy | Flourish | Data Visualization & Storytelling
 
 ## Introduction
 
