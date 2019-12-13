@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notalwaysworking.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630213221id_/https%3A//about.notalwaysright.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysworking.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213024454id_/https%3A//about.notalwaysright.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Not Always Right
 
