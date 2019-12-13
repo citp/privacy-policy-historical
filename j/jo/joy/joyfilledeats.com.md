@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyfilledeats.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106193748id_/https%3A//joyfilledeats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyfilledeats.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213232308id_/https%3A//joyfilledeats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joy Filled Eats
 
@@ -88,7 +88,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-(e) <https://support.apple.com/kb/PH21411> (Safari); and
+(e) https://support.apple.com/kb/PH21411 (Safari); and
 
 (f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
 
