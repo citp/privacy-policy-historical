@@ -1,57 +1,194 @@
-> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915140912id_/https%3A//www.preqin.com/item/privacy-policy/103/1592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213092712id_/https%3A//www.preqin.com/item/privacy-policy/1592) for the most accurate reproduction.*
 
-# Policies - Privacy Policy - Preqin
+# Privacy Policy - Preqin
 
-We collect information from you when you register on our site, use our site, download our mobile application, use our mobile application, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+This is the privacy policy of Preqin Ltd, a company registered in England with registered number 04456744, and whose registered office is at 3rd Floor, Vintners Place, 68 Upper Thames Street, London EC4V 3BJ, on behalf of itself, its affiliates and subsidiaries ( **Preqin** ).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+Preqin respects your privacy and is committed to ensuring that your personal information is used in accordance with current data protection legislation.
 
-Any of the information we collect from you may be used in one of the following ways:
+This policy is structured in the following manner to aid your understanding:
 
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs)
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions
-
-
-
-We may share or sell information with third parties for marketing or other purposes without your consent.
-
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+  * What information do we hold on you?
+  * How is your data collected?
+  * How do we use your information?
+  * Who do we share your information with?
+  * Information on transfers outside the EEA
+  * How long do we retain your information?
+  * What are your rights in relation to your information?
+  * Contact point in relation to this policy
 
 
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.  
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+For the purposes of Personal Data processing Preqin identifies the following Data Subject categories:
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * Alternative Assets Industry Individual ( **Individual** ) – the subjects of our research.
+  * Data Contribution Service network member ( **Contributor** ) – a representative of a firm listed on one of our products who shares and updates contact data on behalf of the firm.
+  * Subscriber to Preqin Services, both existing and former ( **Subscriber** ) – you have requested to receive a regular Preqin publication, or you access one of our free, or paid, research products or feeds online.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+We have therefore split this privacy notice into those three categories for clarity and readability.
 
-Yes (cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+You may belong to more than one category.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+### **What information do we hold on you?**
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+We collect your name, role, firm name, email address, LinkedIn profile URL and business address.
 
-We use third party vendors, including Google, to show our ads on other websites on the internet. Some of these third party vendors, including Google, use anonymous cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page.
+We may also collect mobile phone numbers and/or wechat IDs.
 
-From time to time, we make the email addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please contact us.
+### **How is your data collected?**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Our researchers obtain relevant information from direct interactions or publicly available sources such as company corporate websites, LinkedIn, regulatory filings and news alerts. If you have attended an alternative asset industry event organised by Preqin we will have collected your name, firm name, business address and other contact details. This may also apply where Preqin co-sponsors an event. Our researchers may also obtain your mobile phone number and/or wechat ID from direct interactions.
 
-This online privacy policy applies only to information collected through our website and mobile application and not to information collected offline.
+### **How do we use your information?**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.preqin.com/item/terms-conditions/100/304](https://web.archive.org/item/terms-conditions/100/304)
+_Processing for the purpose of providing services:_
 
-By using our site, you consent to our web site privacy policy.
+We process your data, relying on the "legitimate interest ground". Preqin’s legitimate business interest, and purpose of our processing of your data, is researching the key current and historical financing, performance, and investment trends in the alternative asset industry and to provide data and information on the firms active in this industry. This includes the provision of company and business professional contact information such as name, role, business address, phone number and email address. Such information will be displayed in our Subscriber products. Where we have obtained your mobile phone number or webchat ID from a direct interaction with you we will seek your consent to display on our product(s).
 
-If we decide to change our privacy policy, we will post those changes on this page.
+### **Who do we share your information with?**
+
+We process your data using cloud hosting providers in the EU. We will share your contact details with Subscribers.
+
+Our Subscribers include investors, fund managers, service providers and advisors in the alternative assets industry.
+
+### **What information do we hold on you?**
+
+We collect your name, role, firm name, email address, LinkedIn profile URL and business address.
+
+When you connect to our services, we log your IP address.
+
+If you visit our offices in London, we capture CCTV images.
+
+### **How is your data collected?**
+
+If your firm has expressed an interest in our product(s), our sales team will collect your name, firm name, business address and other contact details.
+
+If your firm is a participant in our Data Contribution Service network, then you or your colleagues will have either verified or submitted your name, firm name, business address and other contact details to us.
+
+If you visit our offices in London, we capture CCTV images.
+
+### **How do we use your information?**
+
+_Processing for the purpose of providing services:_
+
+We process your data, relying on the "legitimate interest ground". Preqin’s legitimate business interest, and purpose of our processing of your data, is researching the key current and historical financing, performance and investment trends in the alternative asset industry and to provide data and information on the firms active in this industry. This includes the provision of company and business professional contact information such as name, role, business address, phone number and email address. Such information will be displayed in our Subscriber products.
+
+In order to provide our contracted services we will process your personal data to enable the creation of credentials to access our product.
+
+Logs of access recorded by IP address are used in the process of potential system abuse and crime detection. This access is anonymized unless it is related to a sign-in by a Contributor userID.
+
+CCTV images are used in the process of crime detection.
+
+### **Who do we share your information with?**
+
+We process your data using cloud hosting providers in the EU. We will share your contact details with Subscribers and we will share your information with third parties who conduct surveys to help enhance our products.
+
+Our Subscribers include investors, fund managers, service providers and advisors in the alternative assets industry.
+
+### **What information do we hold on you?**
+
+We collect your name, role, firm name, email address, LinkedIn profile URL and business address.
+
+When you connect to our services we log your IP address and the pages you have viewed.
+
+If you visit our offices in London we capture CCTV images.
+
+### **How is your data collected?**
+
+If your firm has expressed an interest in our product(s), our sales team will collect your name, firm name, business address and other contact details.
+
+If your firm is a participant in our Data Contribution Service network, then  you or your colleagues will have either verified or submitted your name, firm name, business address and other contact details to us.
+
+If you have bought a product from us, we will collect your name, firm name, business address and other contact details.
+
+If you have requested one of our free products from us, we will collect your name, firm name, business address and other contact details.
+
+If you have used our services, our systems will collect your IP address for services you have used and pages you have visited. We will also collect details on the device you used to connect, such as operating system, geographic location, browser type and language, access times and referring website addresses.
+
+If you visit our offices in London, we capture CCTV images.
+
+### **How do we use your information?**
+
+_Processing for the purpose of providing services:_
+
+We process your data, relying on the "legitimate interest ground". Preqin’s legitimate business interest, and purpose of our processing of your data, is researching the key current and historical financing, performance and investment trends in the alternative asset industry and to provide data and information on the firms active in this industry. This includes the provision of company and business professional contact information such as name, role, business address, phone number and email address. Such information will be displayed in our Subscriber products subject to the role being relevant and the information is verified through publicly availably sources.
+
+In order to provide our contracted services we will process your personal data to enable the creation of credentials to access our product.
+
+Logs of access recorded by IP address are used in the process of potential system abuse and crime detection. This access is anonymized unless it is related to a sign-in by a Subscriber userID.
+
+Logs of page views and interaction with our web product are maintained to help us to provide you with a more personalized user experience in relation to the provision of services to you.
+
+We will use business contact details to process contractual payments.
+
+CCTV images are used in the process of crime detection.
+
+_Processing for the purpose of analyzing user data:_
+
+When you receive newsletters or promotional email from Preqin, we will use personalized unique links or similar technologies to determine whether the email has been opened and which links you click. This enables us to provide you with email communications or other information that are more targeted to your needs. We will rely on our legitimate interests to do this, meaning the provision of electronic direct marketing of our data, services and products, unless legislation requires us to obtain your consent, in which case we will request this from you.
+
+### **Who do we share your information with?**
+
+We process your data using cloud hosting providers in the EU. We will share your contact details with other Subscribers subject to the role being relevant and the information is verified through publicly availably sources.
+
+We will also share your information with third parties who conduct surveys to help enhance our products.
+
+We will share your information with partners that provide analytics, user experience and interaction analysis of our web product. This data is pseudonymized, [using cookies.](https://web.archive.org/item/cookie-policy/22662)
+
+Printed products are despatched to fulfil the contract with you by a provider in the UK.
+
+We will process online product payment information via EU-based third-party hosted payment pages that are compliant with the Payment Card Industry Data Security Standard.
+
+We share data with a third party who helps with billing subscribers. They are a cloud-based processor in the EU. One-off billing settlement by credit card is managed by our London-based finance team using EU-based third-party payment service provider web portals that are compliant with the Payment Card Industry Data Security Standard.
+
+Any billing arrears are referred to a debt collection agency which has a local presence in all relevant territories.
+
+### **Individuals, Contributors and Subscribers**
+
+Our offices, operating as separate legal entities, in Singapore, New York, San Francisco and Hong Kong, have access to all contact data that we hold. Appropriate data protection is provided by a Model Clauses schedule in the relevant contracts between the legal entities.
+
+Our outsourced research teams in the Philippines, China and India have access to all contact data that we hold. Appropriate data protection is provided by a Model Clauses schedule in the relevant contracts.
+
+Our outsourced finance team in the Philippines have access to all contact data that we hold. Appropriate data protection is provided by a Model Clauses schedule in the relevant contracts.
+
+We partner with companies who analyze how our Subscribers navigate and use our website. These companies operate in the US and appropriate data protection is covered by their EU Privacy Shield certification.
+
+Our Survey partners operate in the US and appropriate data protection is covered by their EU Privacy Shield certification.
+
+Subscribers are globally distributed and have access to visible contact data in our products. Where Subscribers operate outside of a territory that is deemed to have "Adequate" status by the European Commission or are not certified to US/EU Privacy Shield, appropriate data protection is provided by a Model Clauses schedule in the Terms and Conditions of service.
+
+A definition of Adequate status and a list of relevant countries can be found here: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en>
+
+Model clauses permit such transfer under Article 46 of the General Data Protection Regulation (the "GDPR"). You can find a link to the model clauses here: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en>
+
+You have rights under data protection law in relation to our use of your information, including to:
+
+  1. request access to your information, which you can do by emailing [dp@preqin.com](mailto:dp@preqin.com) stating you are submitting a Subject Access Request
+  2. update or amend your information if it is inaccurate or incomplete by emailing [dp@preqin.com](mailto:dp@preqin.com) requesting an update
+  3. object to certain uses of your personal data (which includes direct marketing and processing based on legitimate interests and processing for purposes of scientific or historical research and statistics) on grounds relating to your particular situation by emailing [dp@preqin.com](mailto:dp@preqin.com).
+  4. request the deletion of your information, or restrict its use, in certain circumstances (for example you can request that we erase your information where the information is no longer necessary for the purpose for which it was collected, unless certain exceptions apply) by emailing [dp@preqin.com](mailto:dp@preqin.com);
+  5. withdraw any consents you have provided in respect of our use of your information either by clicking unsubscribe links in emails or emailing [dp@preqin.com](mailto:dp@preqin.com);
+  6. request the return of information you have provided to us, to use for your own purposes (often called your right to data portability) where the processing is based on your consent or for the performance of a contract, and the processing is carried out by automated means;
+  7. lodge a complaint with the Information Commissioner's Office (<https://www.ico.org.uk/global/contact-us/email/>) [or other relevant supervisory authority].
+
+
+
+We may need to ask you for further information and identification to help us to comply with this request. More information about these rights can be found at <https://ico.org.uk/for-the-public/>. If you have any questions about these rights, or you would like to exercise any of them, please contact us at [dp@preqin.com](https://web.archive.org/).
+
+Contact details of **Individuals** , **Contributors** and **Subscribers** are stored for varying lengths depending on the nature and purpose for which it was collected. Preqin will review your personal data periodically (usually annually) to ensure it is still necessary to be retained for the purpose for which it was collected.
+
+Page View data meaning statistics as to which firm has accessed your firm profile on our web product and how often is kept for the lifetime of the product so that we can understand changes to usage patterns over time.
+
+System access and event logs are kept online for 28 days.
+
+Billing data is kept for the lifetime of our contract with you and then ongoing for seven years to comply with tax legislation.
+
+Backups of our products are retained for a year. However, we have processes to ensure if a restore is required Subject Rights are maintained.
+
+CCTV data in the London office is retained online for a year.
+
+If you have any questions regarding this policy, please email [dp@preqin.com](mailto:dp@preqin.com).
+
+We keep this privacy notice under regular review and we will place any updates on this webpage. We will inform you of any material changes to the privacy notice. This privacy notice was last updated on 9th October 2019 (in respect of WeChat).
