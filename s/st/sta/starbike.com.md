@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbike.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609082808id_/http%3A//www.starbike.com/en/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbike.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214003548id_/http%3A//www.starbike.com/en/data-privacy-policy) for the most accurate reproduction.*
 
 # Data privacy policy
 
