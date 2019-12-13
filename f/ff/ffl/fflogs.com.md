@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fflogs.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303124508id_/https%3A//www.fflogs.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fflogs.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213122330id_/https%3A//www.fflogs.com/help/privacy) for the most accurate reproduction.*
 
 # FF Logs - Combat Analysis for FF
 
@@ -80,7 +80,7 @@ You can close your account by email. We will remove certain information from vie
 
 #### 6\. CHILDREN
 
-The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](mailto:logs@fflogs.com). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](mailto:support@fflogs.com). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
 #### 7\. SECURITY
 
