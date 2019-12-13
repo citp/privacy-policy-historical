@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621125838id_/http%3A//ultrasurf.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213020450id_/https%3A//ultrasurf.us/privacy) for the most accurate reproduction.*
 
 # About Ultrasurf and Ultrareach - Internet Freedom, Privacy, and Security
 
