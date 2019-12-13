@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamair.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524093533id_/https%3A//www.kamair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamair.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213075845id_/https%3A//www.kamair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
