@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcf.org privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117114351id_/https%3A//www.pcf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcf.org privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213225916id_/https%3A//www.pcf.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Prostate Cancer Foundation
 
@@ -22,9 +22,9 @@ To the extent any donations are processed through a third-party service provider
 
 ## What We Collect
 
-On the Prostate Cancer Foundation website, you can make donations, order products, register for events, make information requests, or sign up to receive news and information from us. The types of personal information you provide to us on these pages may include name, address, phone, email address, user IDs and passwords, billing information, credit card information and contact preferences. 
+On the Prostate Cancer Foundation website, you can make donations, order products, register for events, request guides, make information requests, or sign up to receive news and information from us. The types of personal information you provide to us on these pages may include name, address, phone, email address, user IDs and passwords, billing information, credit card information and contact preferences. 
 
-Anonymous (non-personal) data we collect may include the pages visited on [www.pcf.org](http://www.pcf.org/), unique URLs visited within our website, browser type and IP address. Most anonymous data is collected via cookies (see below) or other analysis technologies. 
+Anonymous (non-personal) data we collect may include the pages visited on [www.pcf.org](https://www.pcf.org/), unique URLs visited within our website, browser type and IP address. Most anonymous data is collected via cookies (see below) or other analysis technologies. 
 
 From time to time, we may share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information. 
 
@@ -85,11 +85,15 @@ Most web browsers automatically accept cookies, but you can usually adjust the p
 
 
 
-Another good resource for information about cookies is<http://www.cookiecentral.com/faq>. 
+Another good resource for information about cookies is <http://www.cookiecentral.com/faq>. 
 
 The cookies we place on your computer are not shared with or revealed to other sites, nor do we look at the cookies that have been placed on your machine by other websites. 
 
 The Prostate Cancer Foundation does not post third-party ads on its own website. However, the Prostate Cancer Foundation may use third-party media companies to place ads for its products or services on other companies’ websites. If you view a web page where a Prostate Cancer Foundation ad appears, the online media company may place a cookie on your computer. This allows the online media company to recognize your computer when it is used to return to that site or measure advertising response. This data is anonymous and is not linked to personal data on your computer or the Prostate Cancer Foundation database. To prevent online media companies from placing cookies on your computer, you will need to visit each media company’s website and use their cookie removal (opt-out) process (see “Opt-Out Policy” above). 
+
+## Pixel Tags
+
+This website contains web beacons (also called: “pixel tags”). A web beacon is an often transparent graphic image, usually no larger than 1 pixel x 1 pixel that is placed on a website or in an e-mail that is used to monitor the online behavior of the user visiting our website or sending the e-mail. Web beacons are used by third-party technologies, to monitor the activity of the users to our website. It allows tracking which computer accessed a certain website, when and from where (country/city level). For a continuous optimization of marketing communication we use an analytical software function. It allows for tracking online behavior in terms of time, geographic location and usage of this Site and our marketing, based on that information. This information is collected via tracking pixels and/or cookies. 
 
 ## The Prostate Cancer Foundation – Tell-A-Friend
 
@@ -99,8 +103,31 @@ If a user elects to use our referral service for informing a friend about our si
 
 We will always use information in accordance with the privacy policy under which the information was collected. However, our business changes constantly, and our privacy policy may change as well. If we decide to change our privacy policy, we will post the changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we may disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by email. Users will then have a choice as to whether or not we may use their information in this different manner. We may email periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. 
 
-If you have any concern about privacy at [www.pcf.org](http://www.pcf.org/), please send a thorough description to [webmaster@pcf.org](mailto:webmaster@pcf.org), and we will try to resolve it. 
+If you have any concern about privacy at [www.pcf.org](https://www.pcf.org/), please send a thorough description to [webmaster@pcf.org](mailto:webmaster@pcf.org), and we will try to resolve it. 
+
+## Access To and Your Rights Over Your Personal Information
+
+The personal data we hold about you is yours. You have the following rights over your information: 
+
+  * To be informed how your data is being processed
+  * To access your data
+  * To rectify any data that is inaccurate
+  * To instruct us to delete your data
+  * To restrict our processing of your data (which includes contacting you via email) at any time. All our email communications to you will contain an unsubscribe link.
+  * To object to your data being stored.
+  * To move your data
+
+
 
 ## Contacting Us
 
-We value your comments and opinions. If you have comments or questions about our privacy policy or need help, or to remove your name from our database, contact us by phone at (310) 570-4700 or email us at [webmaster@pcf.org](mailto:webmaster@pcf.org). 
+If you wish to exercise any of these rights or have any questions about this policy you may contact us in the following ways: 
+
+  * By phone at (310) 570-4700
+  * Email us at [info@pcf.org](mailto:info@pcf.org)
+  * Write to us at:  
+Prostate Cancer Foundation  
+1250 Fourth Street  
+Santa Monica, CA 90401
+
+
