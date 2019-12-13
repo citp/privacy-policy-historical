@@ -1,174 +1,169 @@
-> *The following text is extracted and transformed from the granicusideas.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504183115id_/https%3A//granicus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granicusideas.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213124937id_/https%3A//granicus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Granicus
+# Privacy Policy | Granicus
 
-Granicus provides its customers with a variety of fulfillment, support, and eCommerce-related services. This Privacy Statement informs you of our privacy practices, the way your information is collected online, and how that information is used. This statement is readily available on our home page and at the bottom of every Granicus Web page.
+[ ](https://web.archive.org/)
 
-If you have questions or concerns regarding this statement, please feel free to contact Granicus using the contact information included at the end of this statement.
 
-### Links to Non-Granicus Websites
 
-Some services may be provided through sites bearing our partners’ and suppliers’ names; their trademarks are not under the sole control of Granicus. Additionally, Granicus may provide links to the websites of third parties to provide services to you directly or on our behalf. If you access any third-party link, you will leave the Granicus website. Granicus does not control the third-party sites or their privacy practices which may differ from Granicus’ practices. The personal data you choose to provide, or information that is collected by these outside websites, is not covered by the Granicus Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information.
 
-### Collection of Personal Information
+## We Are Committed to Maintaining Your Trust 
 
-Personal information means any information that may be used to identify an individual, and may include, but is not limited to, your name, mailing address, email address, phone number, types of hardware or software you own, credit card details, or other information required to provide you with the product, service, or support requested. Depending on the nature of the services provided by Granicus to our customers, or the services provided to Granicus from its partners or suppliers, Granicus may receive personal information either from you directly, from our partners, or our suppliers. Some of the ways Granicus may receive personal information include but are not limited to:
+Granicus, LLC (“Granicus”, “Company”, or “We”) is committed to maintaining your trust by protecting your personal data. The Granicus privacy policy was last updated on May 31, 2019.
 
-  * requesting information about products and services;
-  * entering a contest or promotion;
-  * ordering newsletters or other informational tools;
-  * purchasing, downloading and/or registering products; and/or
-  * signing up for additional services.
+This statement explains how we collect, use, share, and protect your personal data. Personal data is any information relating to an identified or identifiable person. Your name, address, phone number, email address, and IP address are examples of personal data. Unless otherwise specified, this statement applies to Granicus’ marketing efforts.
 
+Granicus will process your personal data in a transparent and lawful way. Any personal data you provide when using this website or our products and services will be used only in accordance with this privacy statement.
 
+We may change this statement from time to time to reflect privacy or security updates. If we make material changes, we will notify you via the email address listed in your account, or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-### Use of Personal Information
+This privacy statement is provided in a layered format so you can click through to the specific sections set out below. Alternatively, you can download a pdf version of the statement [here](https://granicus.com/wp-content/uploads/application/pdf/Marketing-Privacy-Notice_US_V1.1_2019_May31-PDF.pdf).
 
-Personal information provided to us may be transferred worldwide within Granicus or to third-parties providing services to Granicus, including, but not limited to, across borders, from your country or collective area to other countries or collective areas around the world.
+### Which Personal Data Does Granicus Collect, and for What Purpose?
 
-Some of the ways in which we will use the personal information provided to us include:
+As part of our marketing efforts, we may collect your personal data such as your name, place of employment and address, job position, e-mail address, date of birth, and phone number. This data is generally gathered directly from you through forms on our website, or over the phone and is used to communicate and personalize such communications with you, including offering products and services that we believe may be of interest to someone in your position.
 
-  * to take, process or deliver your order;
-  * to process or obtain payment or notify you of the status of your order;
-  * in connection with keys, access codes or other information as may be required to permit you to access our partnersites to receive products, updates or services;
-  * to provide it to industry and credit-related organizations for security, credit or fraud prevention purposes;
-  * to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;
-  * to facilitate the renewal of subscriptions for products or services;
-  * to provide you with effective customer service and/or technical support;
-  * to monitor service or purchasing patterns;
-  * to provide you with service updates, announcements, and other product offerings;
-  * to send you, with your consent, newsletters or promotional emails, or undertake other promotional activities;
-  * to permit you to participate in online surveys and polls, assuming you voluntarily agree to provide such information in connection with these surveys and polls; and
-  * to improve Granicus websites, the customer experience, and any related products or services.
+Information about your chosen subscriptions are used to better provide you with relevant e-mail content. We may also gather data about you from publically accessible sources, such as your LinkedIn profile, or we may receive such information from third party lists. In certain situations, such as when you authorize a social network to prefill a form on our website or if you interact with social media buttons on our website, we may receive publicly available data from your social media profile (such as first name, last name, e-mail address, date of birth, gender, job title, and company).
 
+We also gather certain data automatically upon your visit to our website, including Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site and e-mails (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. Your IP address may also be utilized to infer your location, which we may use to send you more relevant content.
 
+### Legal Basis of Collecting and Processing Data
 
-We will take reasonable steps to ensure any person or entity receiving personal information for the purposes described above are obligated to protect the personal information on your behalf. By submitting your order, either to our partner or to us, you consent to the use of your personal information as set forth above, and to the transfer of that data to our partners or those individuals or entities we engage to provide services in connection with your transaction.
+We will use your personal data when the law allows us to. Most commonly, for marketing purposes, we will process your personal data in the following circumstances:
 
-### Management of Personal Information
+  * Where you consent; or
+  * Where it is necessary for our legitimate interests (i.e. we have a business or commercial reason for using your information) and your interests and your fundamental rights do not override those interests.
 
-Granicus tries hard to keep personal information accurate and up-to-date. If you find that your personal information is not accurate, please let us know. Granicus will use best efforts to investigate your concerns after we receive your inquiry and make the necessary corrections, additions and/or deletions.
 
-### Disclosure of Personal information
 
-Granicus discloses your personal information directly to you upon your request; provided, however, that we may reject all or part of your request when: 1) the disclosure may harm the life, the property or the rights of third parties, 2) the disclosure may lead to remarkable difficulty in the operation of our business or 3) the disclosure may lead to a breach of the law or other regulations.
+Our legitimate interests may include:
 
-### Cookies and WebBeacons
+  * Providing high quality customer service.
+  * Complying with laws or regulations that apply to us.
+  * Developing our products and services, and what we charge for them.
+  * Defining customers for our products and services.
+  * Seeking your consent when we need it to contact you.
+  * Providing our customers with relevant marketing, and other high-quality product and service features.
+  * Keeping our marketing updated and relevant.
 
-We may use Cookies and other tracking technologies such as web beacons. Cookies are small text files that are transferred to your computer’s hard disk by the website. Granicus cookies are used to identify a computer or browser, not to identify specific customer traits. If you do not want cookies in your browser, you may set your browser to reject cookies or to notify you when a website attempts to place a cookie in your browser.
 
-WebBeacons (also referred to as GIF files, pixels or action tags) help Granicus recognize a unique cookie on your browser. We use this tool to compile aggregate information about you, and it is not personally identifiable. This information includes IP addresses, search terms, domain names and browser types. We use this information to track usage and other patterns on our Websites. We may share this aggregate information with our partners or service providers.
 
-### Sharing Personal Information
+### Change of Legal Basis
 
-Granicus may receive personally identifiable information either from you directly, or from our partners or suppliers. In some circumstances, personal information that Granicus receives from you directly may be provided to our partners or suppliers in order for them to fulfill a service. We may also provide your information in order to register your purchase with the manufacturer or service provider for warranty, technical support, or similar purposes.
+We will only use your personal data for the uses and purposes set out above, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original uses and purposes. If we need to use your personal data for an unrelated purpose, we will notify you and will explain the legal basis which allows us to do so.
 
-Granicus also employs other companies to provide services to us in connection with your transaction. We do use companies to process credit card payments, deliver packages, send mail, analyze data, provide marketing aid and assistance, provide customer service, and otherwise provide services to us to enable us to serve you and enhance our services. These organizations may have access to personal information as required to permit them to perform their obligations to us. Personal information may be stored and processed in the United States or any other country in which Granicus or its affiliates, subsidiaries, agents or partners maintain offices, and you consent to any transfer of this information outside of the country in which you reside by your use of this site.
+### Failure to Provide Personal Data
 
-Granicus may be required to respond to subpoenas, court orders, or be asked to respond to other legitimate requests for your personal information from appropriate law enforcement or governmental authorities. We will not provide you with notice of such requests. In such situations, we will release personally identifiable information to third parties when we believe it is appropriate for us to do so in order to comply with the law or to protect against fraud. We will also release such information:
+Where we need to collect personal data by law or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-  * to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena);
-  * to comply with all valid court orders or subpoenas;
-  * to protect the legal rights of Granicus, its employees, and our users;
-  * when we believe it is needed for fraud protection and/or credit risk reduction; and/or,
-  * to protect the personal safety of our employees, agents, other users, or the public in general.
+### Profiling
 
+We will not use your personal data for decisions based solely on automated processing if the decision has legal effects concerning you or if it significantly affects you, unless you gave your explicit consent for this processing.
 
+### Do We Share Your Personal Data with Third Parties?
 
-Granicus also reserves the right to report to such entities any activities that we believe to be unlawful. Any such report of the activities outlined in (a) through (e) will be made without prior notice to you, and you consent to such disclosure by us.
+Except as described here or in any of our other applicable privacy policies, we will not sell, distribute, lease, or provide any of your personal data to any third parties unless we have your permission to do so or are required by law. We share your personal data with the following categories of recipient:
 
-In the event Granicus merges with another entity, is acquired by another entity, or enters into a business combination with another entity, Granicus may be required to disclose some or all of your personally identifiable information to that entity to continue serving you
+  * **Agents and subcontractors**. We may disclose your personal data with our agents or subcontractors for the purposes identified above. In these cases, the agent or subcontractor will be obligated to use that personal data in accordance with the terms of this privacy statement. _Your data may be shared with these types of agents and subcontractors:_
+    * Data deduplication and rerouting service provider
+    * Customer Relationship Management (CRM) service provider
+    * Marketing automation and analytics provider
+    * Sales development tools provider
+    * Conversion optimization and lead generation services provider
+    * Webinar marketing service provider
+    * Sales engagement solution provider
+  * **Third parties as permitted or required by law.**  This may include disclosing your personal data to regulators, or law enforcement authorities. We may transfer and disclose the data we collect about you to comply with a legal obligation, including responding to a court order, to prevent fraud, to comply with an inquiry by a government agency or other regulator, to address security or technical issues, to respond to an emergency, or as necessary for other legal purposes.
+  * **As part of a business transaction.**  In relation to an ongoing or proposed business transaction such as a transfer of the ownership or operation of Granicus, LLC or any companies in its group to another organization, if we merge with or are acquired by another organization, or if we liquidate our assets, your personal data may be transferred to a successor organization. If such a transfer occurs, the successor organization’s use of your data will still be subject to this statement and the privacy preferences you have expressed to us.
 
-Granicus is not in the business of selling, trading or renting personal information. We will not use or share your personally identifiable information with others except those individuals or entities which have a business relationship with Granicus.
 
-### Your Choices
 
-You can decide whether or not to provide personal information to Granicus. However, if you do not provide personal information you may not be able to make purchases, enlist services, or access certain offers or options that may be of benefit to you. At the time you provide your information, we will offer you a choice as to whether or not you wish to receive further communications about special offers, product information, or other marketing messages. We may provide this information to our business partners and suppliers. If you choose not to receive these communications, we will not use your personally identifiable information for this purpose.
+### International Data Transfers
 
-### Changes to this Privacy Statement
+Granicus is owned and operated within the United States. Therefore, the data that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area (“EEA”).
 
-If we change our privacy statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our statement , we may also notify you by other means, such as sending an email or posting a notice on our home page.
+**Privacy Shield Certification**  
+Granicus participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Granicus is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-This Privacy Statement informs you of our privacy practices, the way your information is collected in the mobile app, and how that information is used. If you have questions or concerns regarding this statement, please feel free to contact Granicus, the developer of this app, using the contact information on www.granicus.com.
+Granicus is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Granicus complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-### Collection of Personal Information
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Granicus is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Granicus may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-This Application collects some Personal Data from its Users. Any personal information that is collected in the app is used to facilitate the request. Personal information will not be used for any other purposes besides fulfilling the request for work and keeping you updated about your work request.
+In addition, Granicus has agreed to cooperate with the [European Data Protection Authorities](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm) for the purpose of handling any unresolved complaints regarding personal data concerns. Data subjects may engage their local data protection and/or labor authority concerning adherence to the Privacy Shield Principles, and Granicus shall respond directly to such authorities with regard to investigations and resolution of complaints.
 
-The personal information collected may include:
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-  * First and last name
-  * Physical address
-  * Email address
-  * Phone number
-  * Fax number
+As a global company, Granicus employs a multifaceted approach to protecting personal data. For example, when transferring personal data between corporate entities, Granicus relies on different legal transfer mechanisms (e.g., standard contractual clauses or Privacy Shield certification) depending on the type of personal data needed and countries involved. Please contact Granicus for any questions you might have or for additional information regarding the protections in place to protect your personal data.
 
+### Security
 
+We are committed to ensuring that your personal data is secure. To prevent unauthorized access or disclosure, we have put appropriate technical and organizational measures in place to safeguard and secure your personal data.
 
-The app may also request your GPS location and access to your phone’s photos to facilitate your service request. You are able to deny both the addition of your GPS location and access to your photos in the app.
+If a data breach does occur, we will do everything in our power to limit the damage. In case of a high-risk data breach, and depending on the circumstances, we will inform you about remedial actions to prevent any further damage. We will also inform the relevant supervisory authority or authorities of the breach.
 
-Any personal information you provide will be stored in a database to facilitate the processing of your service request. We will take reasonable steps to ensure any person or entity receiving personal information for the purposes described above, are obligated to protect the personal information on your behalf. By submitting your order, either to our partner or to us, you consent to the use of your personal information as set forth above, and to the transfer of that data.
+Unfortunately, no security measures are completely secure. We therefore cannot guarantee that your personal data will not be disclosed, misused or lost by accident or by the unauthorized acts of others. Further, we cannot control dissemination of personal data you post in the public domain and you should have no expectation of privacy in respect of such data.
 
-### Your Choices
+The procedures and related standards include limiting access to data and regularly testing and auditing our security practices and technologies.
 
-The Personal Data that the app collects is freely provided by the User. However, to complete a service request, some personal information may be required in order to submit the request.  If you do not provide personal information you may not be able to submit the request that may be of benefit to you.
+Employees and temporary workers are required to follow policies and procedures and complete confidentiality training to understand the requirement of maintaining the confidentiality of customer information. If they fail to do so, they are subject to disciplinary action. All employees are required to complete privacy, security, ethics and compliance training. We also offer a wide variety of other training to all employees and temporary workers to help us achieve our goal of protecting your personal data.
 
-Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
+### Data Retention
 
-Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+How long we retain your data depends on the type of data and the purpose for which we process your data. Your data will not be retained for a period longer than necessary for the purpose for which we have processed your data, plus any statutory period during which we need to retain the data to resolve any legal claims.
 
-Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party’s consent to provide the Data to the Owner.
+Data processed for marketing purposes will be retained for as long as you remain a customer. However, certain opportunity data (information about potential or consummated sales) related to your account will be retained for up to 5 years after you cease being a customer. If you have subscribed to receive marketing information from Granicus but have ceased engaging with Granicus emails or offered content, your personal data will be erased after 5 years of non-engagement. Please note that it may not always be possible to completely remove or delete all your personal data from our databases without some residual data because of backups and other reasons.
 
-### Mode and place of processing the data
+To determine the appropriate retention period for the information we collect from you, we consider the amount, nature, and sensitivity of the information, the potential risk of harm from unauthorized use or disclosure of the data, the purposes for which we process the data, whether we can achieve those purposes through other means, and the applicable legal requirements.
 
- **Methods of processing**
+### Data Subject Rights
 
-Granicus processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+To exercise any of the following rights, please contact [gdpr@granicus.com](mailto:gdpr@granicus.com?subject=questions%20about%20GDPR). If you need to escalate a matter or feel that your issue is unresolved, please contact our DPO.
 
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to Granicus, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from Granicus at any time.
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
- **Place**
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-The Data is processed at Granicus’ operating offices and in any other places where the parties involved with the processing are located. For further information, please contact Granicus.
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-The GovDelivery Communications Cloud only collects personally identifiable information about you to the extent you specifically provide it to us. This includes, for example, the information you provide when you register to receive subscriptions or notices related to a document provided by one of the organizations that we have partnered with.
+**Right to Request Access:  **You have the right to request details of your personal data that we hold. Upon request, we will provide a copy of such personal data within a reasonable timeframe.
 
-### Information You Provide When Using GovDelivery
+**Right to Rectification:  **If you believe that any personal data we are holding on you is incorrect or incomplete, please contact us as soon as possible at the address above. We will promptly correct any personal data found to be incorrect, though we may need to verify the accuracy of the new data you provide to us.
 
-We use this information you share with us:
+**Right to Object:  **You may choose to object to processing of your personal data where we are relying on a legitimate interest and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. In some cases, we may demonstrate that we have compelling legitimate grounds to process your data which override your rights and freedoms. You also have the right to object in cases where we are processing your personal data for direct marketing purposes. We will provide you with appropriate choices to opt-in or opt-out as set out above in this statement.
 
-  * to provide the services you request,
-  * to improve the content of the Web site, and
-  * for announcements related to new content on the portion of the site you were using when you provided the information.
+Please note that your objection may be overridden by the legitimate interests of Granicus to process and collect your personal data.
 
+### Right to Erasure
 
+To the extent legally permissible, you may be entitled to have certain personal data erased in the following circumstances:
 
-We never share information gathered through our clients with third parties for promotional purposes.
+  1. The personal data is no longer necessary in relation to the purposes for which it was collected or processed.
+  2. You object to the collection or use of your personal data and there are no overriding legitimate grounds for the processing.
+  3. The personal data has been unlawfully processed.
+  4. The personal data has reached the defined retention period or for compliance with a legal obligation to which Granicus is subject.
 
-However, we grant select outside vendors limited and controlled access to this information.  These vendors do not use it for any purpose other than to enhance our ability to deliver services to you and other customers and are bound to keep the information confidential.
 
-In some cases, our client organizations using the GovDelivery Communications Cloud service (such as governmental and public bodies) have ownership of the information and its privacy and use is subject to that client organization’s separate privacy policy.  We will also share this information with outside parties as required by law.
 
-### Other Information About You
+You can exercise this right by emailing us at [gdpr@granicus.com](mailto:gdpr@granicus.com?subject=GDPR%20data%20erasure) or by visiting our [subscription management center](https://go.granicus.com/Subscription-Management.html). Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
 
-In addition to information you provide (e-mail address, password, subscriptions, preferences), Granicus uses technology that lets us know what type of browser you are using, the Web site from which you enter GovDelivery, and which GovDelivery pages you view. This technology does not identify you personally — it simply helps us compile statistics about our visitors and their use of the GovDelivery application. We use these statistics and share them with third parties only to improve our Web site design and content and in connection with marketing programs.
+### Right to Restriction of Processing
 
-### What If You Do Not Wish to Have Your Information Stored by Granicus for Any Reason or Purpose?
+You may have the right to restrict further processing of your personal data in the following situations:
 
-If you have provided your information to Granicus for whatever reason and would prefer that Granicus not store your information for any purpose, simply visit GovDelivery to cancel your subscription and delete your profile. You can also request removal from our database by sending an e-mail to REMOVE stating your request.  We will act promptly to honor your request.
+  1. You contest the accuracy of the personal data.
+  2. The processing of the data is unlawful.
+  3. The personal data has reached the defined retention period, but you require the personal data to establish, exercise, or defend legal claims.
+  4. You object to the processing of data pursuant to the right to object as described above. The processing may be restricted pending the verification of whether Granicus’s legitimate grounds override your rights as a data subject.
 
-### Children
 
-Granicus does not knowingly collect personally identifiable information from children under the age of 13.  If a child has provided Granicus with personally identifiable information, we ask that a parent or guardian send an e-mail to SUPPORT with the child’s name and we will do our best to delete the information from our files.
 
-### Your Consent
+### Right to Portability
 
-By using the Granicus Web site, you consent to our use of the information you provide to us as described in this Online Privacy Policy.  As we implement new technology and introduce new services, we will update our Online Privacy Policy, so we encourage you to review it often.
+You have the right to receive your personal data in a structured, commonly used and machine-readable format. Granicus will assist in the transmission of such data to another entity, upon request, to the extent technically feasible. Note that this right only applies to automated information which you initially provided consent for us to use, or where we need the info to perform a contract with you.
 
-### Granicus Contact Information
+### Right to Revoke Consent
 
-If you would like to contact us with questions or comments concerning our Privacy Statement or if you feel your inquiry or request has not been addressed to your satisfaction, please write to us at the following address:
+If you have consented to the processing of your personal data via the explicit checkbox located in the forms you filled out, you have the right to revoke such consent by unchecking the consent checkbox or by visiting our [subscription management center](https://go.granicus.com/Subscription-Management.html) and unsubscribing from all emails. However, if you withdraw your consent, this will not affect the lawfulness of any processing carried out before you withdraw your consent.
 
-Granicus  
-707 17th St., Suite 4000  
-Denver, CO 80202
+### Right to Make a Complaint
+
+You have the right to make a complaint at any time to the relevant data protection supervisory authority in the EU member state in which you reside.
