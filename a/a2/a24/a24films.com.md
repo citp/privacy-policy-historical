@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a24films.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614160915id_/https%3A//a24films.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a24films.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213213400id_/https%3A//a24films.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A24
 
