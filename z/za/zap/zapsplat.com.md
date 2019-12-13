@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapsplat.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601234513id_/https%3A//www.zapsplat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapsplat.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213094316id_/https%3A//www.zapsplat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ZapSplat - Download free sound effects
 
