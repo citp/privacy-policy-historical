@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104120441id_/https%3A//www.pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213025645id_/https%3A//www.pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Penny Pinchin' Mom Privacy Policy Information
 
@@ -39,7 +39,6 @@ Additionally, the Website may use third-party service providers service various 
   * Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
   * Payment Processing – this service is used to serve our ecommerce platform. At no time is your banking information passed to the Website. We receive only information used for order fulfillment.
   * ConvertKit – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.
-  * Leadpages – this service is used to connect you with the free item you sign up for via email. Your information is not stored on this platform, but is forwarded directly to the email provider.
 
 
 
