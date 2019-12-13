@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530212518id_/https%3A//www.undercovertourist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213195353id_/https%3A//www.undercovertourist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | No spam, just common sense | Undercover Tourist
 
