@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the movado.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018015946id_/http%3A//www.movado.com/us/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movado.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213110909id_/https%3A//www.movado.com/us/en/ca-privacy-policy.html) for the most accurate reproduction.*
 
-# Movado Privacy Policy | Movado US
+# Movado Privacy Policy
 
 ### MOVADO GROUP GLOBAL PRIVACY POLICY
 
-Effective Date: 25 May 2018
+Effective Date: 24 October 2018
 
 We at Movado Group, Inc. (“MGI”) along with our subsidiaries and affiliates (collectively, “Movado Group”), respect your concerns about privacy.
 
@@ -12,7 +12,7 @@ This Global Privacy Policy will inform you about the type of information we coll
 
 This website is not intended for children, and we do not knowingly collect data relating to children.
 
-This Global Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. If you would like to download a pdf version of this policy [click here.](http://www.movado.com/on/demandware.static/-/Sites-MovadoUS-Library/default/dw4a1c4742/content-assets/Global%20Privacy%20Policy%202018%2005-25.pdf)
+This Global Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. If you would like to download a pdf version of this policy [click here](https://www.movado.com/on/demandware.static/-/Sites-MovadoUS-Library/default/dw298eccc5/content-assets/Global%20Privacy%20Policy%20en%20Eff%202018%2010-24.pdf).
 
 ### 1\. IMPORTANT INFORMATION AND WHO WE ARE
 
@@ -106,7 +106,7 @@ We will only use your personal data when the law allows us to do so. Most common
 
 
 
-Generally, we do not rely on consent as a legal basis for processing your personal data. However, we strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You can change those choices at any time by clicking the “unsubscribe” link on the communication sent to you or by [_Contacting us_](mailto:privacy@movadogroup.com). When you unsubscribe we will stop sending you direct marketing communications but may continue using your personal data for other purposes for which a different lawful basis for processing exists.
+Generally, we do not rely on consent as a legal basis for processing your personal data. However, we strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You can change those choices at any time by clicking the “unsubscribe” link on the communication sent to you or by [_Contacting us_](mailto:privacy@movadogroup.com). When you unsubscribe we will stop sending you direct marketing communications but may continue using your personal data for other purposes for which a different lawful basis for processing exists. If you choose to provide us with your email address to receive our newsletter or other direct marketing materials, we will not share that information with unaffiliated entities for those third parties’ own purposes, although as described below we may share that information with unaffiliated third parties to help facilitate and improve our own communications with you.
 
 PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
 
@@ -329,7 +329,7 @@ We may share your personal data within the Movado Group of affiliated companies 
 
 We also may share your personal data with external third parties, including service providers who perform services on our behalf based on our instructions. We do not authorize these service providers to use or to disclose the data except as necessary to perform services on our behalf or to comply with legal requirements. Examples of these service providers include entities that process credit card payments, manage and reduce our credit risk, verify information, fulfill orders, and provide web hosting, analytics, and marketing services.
 
-Where permitted by law, we may share your personal data with other third parties for those parties’ own purposes, such as to offer products or services that may interest you. For example, as described in _Cookies and Other Automated Means_, we allow carefully-selected third parties to set cookies during your visit to our website that enables them to provide you with relevant messaging on other websites. You may tell us that you do not wish your personal data to be shared with third parties for those parties’ own purposes by [_Contacting us_](mailto:privacy@movadogroup.com).
+Where permitted by law, we may share your personal data with other third parties for those parties’ own purposes, such as to offer products or services that may interest you. For example, as described in _Cookies and Other Automated Means_, we allow carefully-selected third parties to set cookies during your visit to our website that enables them to provide you with relevant messaging on other websites. However, as explained above, we will not share your email address with unaffiliated parties for their own direct marketing purposes. You may tell us that you do not wish any other personal data to be shared with third parties for those parties’ own purposes by [_Contacting us_](mailto:privacy@movadogroup.com).
 
 In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity, (iv) to third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets, and/or (v) to new owners who have acquired or have merged with our business.
 
@@ -411,7 +411,7 @@ To manage third-party cookies served on our site, please visit Google Analytics:
 
 To manage all cookies on our site, including those that are served by the Movado Group, you can change your browser settings. For additional information on how to manage all cookies please visit [_http://www.allaboutcookies.org/_](http://www.allaboutcookies.org/). Please note that disabling, blocking, or deleting cookies in your browser settings may impact your ability to fully use both our website and other websites.
 
-If you wish to disable the use of cookies on this website only, [_Click here_](http://www.movado.com/on/demandware.store/Sites-MovadoUS-Site/default/Util-ChangeTrackingStatus). Please note that activating this option will impact your ability to fully use this website.
+If you wish to disable the use of cookies on this website only, [_Click here_](https://www.movado.com/on/demandware.store/Sites-MovadoUS-Site/en_US/Util-ChangeTrackingStatus). Please note that activating this option will impact your ability to fully use this website.
 
 Certain web browsers allow you to instruct your browser to send Do Not Track (“DNT”) signals to websites you visit, informing those sites that you do not want your online activities to be tracked. When we recognize a relevant DNT signal we aim to suppress the third-party tags that are used to recognize your computer once you navigate away from our site and which are used to present you with Movado Group advertisements. However, currently there is no uniform standard for DNT signal recognition, and our technology may not recognize all DNT signals. Thus, if you do not wish for cookies or other automated means to be enabled, we encourage you to manage cookies through the other means noted above.
 
