@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615033022id_/http%3A//adparlor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213080914id_/http%3A//adparlor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdParlor
 
