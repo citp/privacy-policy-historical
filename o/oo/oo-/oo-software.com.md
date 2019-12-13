@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oo-software.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511183437id_/https%3A//www.oo-software.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oo-software.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213185443id_/https%3A//www.oo-software.com/en/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -52,6 +52,11 @@ These internet pages use Plug-Ins from the social network facebook.com. These Pl
 If you access our internet presence through internet sites containing such Plug-Ins, a connection to the Facebook Servers is first made when you actively click on the Facebook symbol. This is how the Facebook servers are informed which of our internet pages you have visited. If you are logged in as a member of Facebook at this time, Facebook assigns this information to your personal Facebook account. When using the Plug-In functions (such as clicking on the “Like” button, or entering a comment) this information is also assigned to your Facebook account, which you can only avoid by logging out of Facebook before using the Plug-Ins.
 
 Further information on the collection and use of data by Facebook, and about your rights in this respect and how to protect your privacy, can be found in the privacy pages of Facebook.
+
+**Newsletter**  
+Newsletter2Go is the software used for our NewsLetters. Your data will be transmitted to Newsletter2Go GmbH. Newsletter2Go is prohibited from selling and using your data for purposes other than sending newsletters. Newsletter2Go is a German, certified provider, which was selected according to the requirements of the General Data Protection Regulation and the Federal Data Protection Act.
+
+Further information can be found here: <https://www.newsletter2go.com/information-for-newsletter-recipients>.
 
 **Security of your personal data**  
 O&O protects your personal data from unauthorized access, use and distribution. O&O secures the personal identifying data which you make available to the server to prevent unauthorized access, use and distribution. If personal data, for example a credit card number, are transferred to other websites, these data are protected by the use of encoding e.g. SSL (Secure Sockets Layer). We are committed to securing our systems and services. However, you are responsible for the security and confidentiality of your passwords and your account profile or registration information. In addition, it is your responsibility to verify that the personal information we hold about you is accurate and up-to-date.
