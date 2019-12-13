@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petfooddirect.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617013016id_/https%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petfooddirect.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213152229id_/https%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chewy.com
 
