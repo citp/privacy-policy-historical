@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the etherscan.io privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612210230id_/https%3A//etherscan.io/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etherscan.io privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213172410id_/https%3A//etherscan.io/privacyPolicy) for the most accurate reproduction.*
 
 # Etherscan Privacy Policies
 
-PLEASE READ THE PRIVACY POLICY CAREFULLY. (May 2018)
+PLEASE READ THE PRIVACY POLICY CAREFULLY.
 
 Etherscan.io (referred to as the “Company”, “Etherscan”, “we”, “our” or “us”) is committed to the protection of your Personal Data and takes the matter of protecting your privacy as high priority. 
 
@@ -48,7 +48,7 @@ From our website, we collect your Personal Data in the following ways:
 
 (a)     _IP address_
 
-We use your IP address to help diagnose problems with our server, and to administer our website. IP addresses are not linked to personally identifiable information.
+We use your IP address to help diagnose problems with our server, and to administer our website.
 
 (b)     _Cookies_
 
@@ -60,41 +60,47 @@ It is important that you prevent unauthorized access to your password and your c
 
 Information collected from cookies is used by us to evaluate the effectiveness of our site, analyze trends, and manage the platform. The information collected from cookies allows us to determine such things as which parts of our site are most visited and difficulties our visitors may experience in accessing our site. 
 
-With this knowledge, we can improve the quality of your experience on the platform by recognizing and delivering more of the most desired features and information, as well as by resolving access difficulties. We also use cookies and/or a technology known as web bugs or clear gifs, which are typically stored in emails to help us confirm your receipt of, and response to our emails and to provide you with a more personalized experience when using our site.
-
-Your continued use of this site, as well as any subsequent usage, will be interpreted as your consent to cookies being stored on your device. 
+With this knowledge, we can improve the quality of your experience on the platform by recognizing and delivering more of the most desired features and information, as well as by resolving access difficulties. We also use cookies and/or a technology known as web bugs or clear gifs, which are typically stored in emails to help us confirm your receipt of, and response to our emails and to provide you with a more personalized experience when using our site. Your continued use of this site, as well as any subsequent usage, will be interpreted as your consent to cookies being stored on your device.
 
 (c)     _User feedback form_
 
 Our feedback form requires you to give us contact information (e.g. your name and email address) so that we can respond to your comments. We use your contact information from the registration form to send you information about our company. Your contact information is also used to contact you where necessary. 
 
-(d)     _Site tracking_
+(d)     _General Site tracking_
 
 We also use third party service provider(s), to assist us in better understanding the use of our site. Our service provider(s) will place cookies on the hard drive of your computer and will receive information that we select, for example, how visitors navigate around our site, what pages are browsed and general transaction information. Our service provider(s) analyzes this information and provides us with aggregate reports. The information and analysis provided by our service provider(s) will be used to assist us in better understanding our visitors' interests in our site and how to better serve those interests. The information collected by our service provider(s) may be linked to and combined with information that we collect about you while you are using the platform. Our service provider(s) is/are contractually restricted from using information they receive from our Site other than to assist us.
+
+(e)     _Web Server site visits logging_
+
+The following is how we store the web server site visit logs (applicable to https://etherscan.io) :  
+(a)  To throttle the rate of requests and prevent certain types of attacks against us, we track the incoming IP addresses for very short periods of time and is then released.  
+(b)  By default, we do NOT store identifiable 'x-forwarded-for' originating IPs during your site visit in the Web Server site visits logs.  
+(c)  However in the event of certain types of third-party attacks, general server/application troubleshooting or other related reasons, we might temporarily activate the 'x-forwarded-for' logging.  
+(d)  As part of our routine server maintenance, all raw web server site visit logs are retained for a minimum of 5 days only and then purged on an automated scheduled basis. 
 
 4.WHAT DO WE USE YOUR PERSONAL DATA FOR?
 
 We may use your Personal Data for the following purposes:
 
-(a)    to enable us to provide our services and perform our services to you;
+(a)   to enable us to provide our services and perform our services to you;
 
 (b)   to protect the safety and well being of yourself and/or other customers;
 
-(c)    to investigate and respond to claims and inquiries from you;
+(c)   to investigate and respond to claims and inquiries from you;
 
-(d)  for business development purposes such as statistical and marketing analysis, systems testing, maintenance and development, customer surveys or to help us in any future dealings with you, for example by identifying your requirements and preference;
+(d)   for business development purposes such as statistical and marketing analysis, systems testing, maintenance and development, customer surveys or to help us in any future dealings with you, for example by identifying your requirements and preference;
 
-(e)    to comply with any legal or regulatory requirements; and/ or
+(e)   to comply with any legal or regulatory requirements; and/ or
 
-(f)    for all other purposes ancillary to any of the purposes stated above.
+(f)   for all other purposes ancillary to any of the purposes stated above.
 
 ("Core Purposes")
 
-(g)    to communicate offers, product, services and information on products and activities;
+(g)   to communicate offers, product, services and information on products and activities;
 
-(h)    marketing/cross-marketing and communicating with you in relation to products and services offered by us and our service partners as well as our appointed agents; and/or
+(h)   marketing/cross-marketing and communicating with you in relation to products and services offered by us and our service partners as well as our appointed agents; and/or
 
-(i)    for all other purposes ancillary to any of the purposes stated above.
+(i)   for all other purposes ancillary to any of the purposes stated above.
 
 (" **Ancillary Purposes** ")
 
@@ -106,9 +112,8 @@ You may request to obtain information of your personal data and also update or m
 
 6\. WITHDRAWING CONSENT
 
-Please note that it is obligatory for the Company to process your Personal Data for the Core Purpose as stated above, without which some services or features provided by Etherscan may be affected. If we do not have your consent to process your Personal Data for the Ancillary Purposes, we will not be able to keep you updated about our future, new and/or enhanced services and products.
+Please note that it is obligatory for the Company to process your Personal Data for the Core Purpose as stated above, without which some services or features provided by Etherscan may be affected. If we do not have your consent to process your Personal Data for the Ancillary Purposes, we will not be able to keep you updated about our future, new and/or enhanced services and products. Nevertheless, you may stop receiving promotional activities by:   
 
-Nevertheless, you may stop receiving promotional activities by:
 
 (a)   unsubscribing from the mailing list;
 
