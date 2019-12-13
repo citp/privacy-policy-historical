@@ -1,36 +1,54 @@
-> *The following text is extracted and transformed from the linktiger.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326150813id_/http%3A//www.linktiger.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linktiger.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213064713id_/https%3A//wp.linktiger.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: LinkTiger.com - online links checking service
+# Privacy -
 
-### LINKTIGER.COM PRIVACY POLICY STATEMENT
+LinkTiger PRIVACY POLICY
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+Last updated: November 2017
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](https://web.archive.org/terms.html), or as otherwise required by law.
-  * We transfer information about you if LinkTiger.com is acquired by or merged with another company. In this event, LinkTiger.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
-
-
-
-### INFORMATION GATHERING AND USAGE
-
-  * When you register for LinkTiger.com we ask for information such as your name, billing address, email address and website address. Members who sign up for the free account are not required to enter a name, billing address or credit card information.
-  * LinkTiger.com works with the trusted third party 2Checkout for credit card payment processing. Therefore LinkTiger.com does not receive or have insight in credit card details other than the name and billing address.
-  * LinkTiger.com uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
-
-
-
-### CLIENT DATA STORAGE
-
-Although LinkTiger.com owns the data storage, databases and all rights to the LinkTiger.com application, you retain all rights to your data and we will never sell or share your client data with any third-parties, contact your clients directly, or use your data for our own business advantage. We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any other means of profit. We respect the privacy of our subscribers, and the privacy of their client data.
-
-### DISCLOSURE
-
-LinkTiger.com may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service.](https://web.archive.org/terms.html "LinkTiger.com - Terms of service")
-
-### CHANGES
-
-LinkTiger.com may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your LinkTiger.com primary account holder account or by placing a prominent notice on our site.
-
-### QUESTIONS
-
-Any questions about this Privacy Policy should be addressed to [privacy@LinkTiger.com](mailto:privacy@LinkTiger.com)
+At LinkTiger, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy (“Privacy Policy”) explains our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we may receive from you and other users of the LinkTiger service, through our software and our website located at https://www.LinkTiger.com (the “Website”). Such service, the software, and the Website are collectively referred to in this Privacy Policy as the “Service”. This Privacy Policy applies only to information that you provide to us through the Service.  
+BY USING THE SERVICE, YOU CONSENT TO OUR COLLECTION, USE, AND DISCLOSURE OF YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.  
+LinkTiger reserves the right to update this Privacy Policy from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Website at https://www.LinkTiger.com.. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Service will be subject to the then-current privacy policy.  
+INFORMATION WE COLLECT  
+Non-Personally Identifiable Information. LinkTiger collects non-personally identifying information that your browser makes available whenever you visit a website. This information includes your Internet connection and hardware specs, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.  
+Personally Identifiable Information. In addition we collect your personal information such as your full name, credit card information, billing address, your email address, history of communication with LinkTiger, history of payments, IP address, system information, your activities on the Website.  
+Information Collection. To facilitate your use of the Service, LinkTiger may automatically collect certain types of information when you access or use the Service, complete surveys, send and receive communications, perform search queries and marketing activities. In order to collect this data, LinkTiger may utilize automated tools and files such as cookies and web beacons. These automated tools and files may reside on our servers or on your computer or device. If you restrict our ability to use automated tools and files, your ability to access and use all or part of the Service may be limited or disabled completely.  
+Additionally and only upon your grant of respective permissions we may collect information from third party service providers.  
+USE OF INFORMATION  
+Non-Personally Identifiable Information. We use non-personally identifying information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Service, for the Service’s technical administration, to increase the Service’s functionality and user-friendliness, to better tailor it to most common user needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that users of the Service meet the criteria required to process their requests.  
+Personally Identifiable Information. We use the personally identifiable user information that we collect to provide, maintain, protect and improve the current Services offerings, to develop new Services, to be able to tailor the Services to one’s specific needs if feasible, for convenience of users and communication with them, and as may be required by law.  
+DISCLOSURE  
+Disclosure to Third-Parties. LinkTiger does not share your personal information with third parties or the public except as set forth herein. We may share your personal information with our third-party service providers, such as SMTP infrastructure providers, analytical services, payment processors, merchants, or resellers, performing services, which supplement our Services. These service providers may have access to personal information as needed to perform their functions. Third parties with whom we share your data currently include, but are not limited to, Infusionsoft, Google, YouTube, Zendesk, Stripe, Paypal, Zapier, LinkedIn, Facebook, Twitter, and Freshbooks. We do not sell your personal information.  
+Research. We may use and disclose to third parties information we collect in aggregated, non-personally identifiable form for research and informational purposes and to help us make sales, marketing and business decisions.  
+Events and Webinars. LinkTiger may share the names, email addresses and other details of users who register for some of our webinars and events, both online and offline, with the respective webinar speakers, announced special guests, our partners at the events, and others. We carefully select these persons and require them to use this information for the purposes related to the event (including webinars). We will try to label such events (including webinars) on the registration forms therefor, but if you affirmatively do not wish your name, email address or other details disclosed, please contact us before registering for any LinkTiger event to confirm whether your personal information will be shared at the specific event that you are considering. You may not opt-out of sharing your information at an event where such information is shared. Your only recourse is not to register for an event which so shares information.  
+Mergers and Acquisitions. If LinkTiger is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to any new privacy policy of an acquirer of our business.  
+Special Circumstances. LinkTiger will not disclose your personally identifiable information except as set forth in this Section 3, including in subsections (1) through (4) below:  
+when requested to do so by law enforcement agencies;  
+when obliged to do so under Canadian law;  
+for the purpose of pursuing outstanding debts or liabilities; and  
+when given permission to do so by you.  
+Use of Information for Commercial Purposes. You may object to the use of your personal data for commercial purpose at any time.  
+INFORMATION STORAGE  
+Permission to Use Information. By submitting your personal information, you agree to its transfer, storage or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.  
+Password. Where we have given you (or where you have chosen) a password which enables you to access certain Services or specific areas of the Website, you are responsible for keeping this password confidential. We ask that you do not share your password with anyone.  
+Disclaimer. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to us via the Internet; any such transmission is at your own risk.  
+INFORMATION SECURITY  
+Security Measures. We work hard to protect LinkTiger and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.  
+Limited Access to Information. We work hard to restrict access to personal information to LinkTiger employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.  
+Be Aware. To prevent being a phishing website victim, always check domain details when you are providing your personal information. Please, be aware that if you suspect the website you are on is a fake site representing to be LinkTiger or to provide the Services, contact us directly at support@LinkTiger.com.  
+Controlling Your Personal Information. LinkTiger may, from time to time, make available to users chat rooms, forums, message boards, and other interactive features. You should be aware that when you voluntarily disclose personally identifiable information (e.g. user name, e-mail address) via blog, forums, postings, profiles or other areas of the Website, that information, along with any substantive information disclosed in your communication, can be collected, correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of LinkTiger. Please do not post any personal information on the Website or in other areas that you expect to keep private.  
+Links. For your convenience, we may provide links to certain third party websites or referrals to certain third parties’ products or services. If you choose to visit a third party’s website or use its products or services, please be aware that the third party’s privacy policy, and not this Privacy Policy, will govern your activities and any information you disclose while interacting with the third party.  
+COMPLIANCE AND COOPERATION WITH REGULATORY AUTHORITIES  
+When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.  
+COLLECTION OF INFORMATION FROM CHILDREN  
+We do not knowingly collect personally identifiable information relating to children. In the event that we learn that we have collected personally identifiable information from anyone under 18 years of age without prior parental consent, we will take steps to promptly delete such information. By providing your personal information to LinkTiger, through the Service, you represent that you are at least 18 years of age or older.  
+INTERNATIONAL VISITORS AND USERS  
+The Website is hosted in the United States. If you are visiting from the other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the other regions and by providing your personal data you consent to:  
+The use of your personal data for the purposes identified above in accordance with this Privacy Policy; and  
+The transfer of your personal data to the United States as indicated above.  
+NO ERROR-FREE PERFORMANCE  
+LinkTiger does not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our reasonable efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve this Privacy Policy. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it.  
+LEGAL NOTICES  
+This Privacy Policy is subject to the Terms and Conditions, available for review at https://app.linktiger.com//terms.html . Our Terms and Conditions take precedence over any conflicting provision in this Privacy Policy.  
+CONTACT  
+Your privacy matters to LinkTiger so whether you are new to LinkTiger or a long time user, please do take the time to get to know our practices. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to us by email at support@LinkTiger.COM.
