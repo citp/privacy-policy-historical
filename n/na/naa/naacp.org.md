@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naacp.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625234343id_/https%3A//www.naacp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naacp.org privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213152341id_/https%3A//www.naacp.org/privacy-policy) for the most accurate reproduction.*
 
 # NAACP | Privacy Policy
 
