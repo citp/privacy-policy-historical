@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331223859id_/https%3A//www.first4figures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213100639id_/https%3A//www.first4figures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ First4figures does not sell, trade, or otherwise transfer your personal identifi
 First4figures provides your personal data:
 
   * to selected third party providers in order to process and deliver your orders, for example delivery companies and payment providers;
-  * to selected marketing agencies, web-mailing companies and hosting companies;
+  * to selected marketing agencies, web-mailing companies and hosting companies to provide more relevant delivery of marketing material and services. These third parties are not authorized by us to use your personal infomration except in connection with providing service to us
   * to other companies in the same group of companies as First4figures. These companies will only use your personal data in the same way as First4figures can under this privacy policy;
   * and credit reference agencies or fraud prevention agencies.
   * Payment Providers – to securely process your card payments (we do not see, or store payment card details)
