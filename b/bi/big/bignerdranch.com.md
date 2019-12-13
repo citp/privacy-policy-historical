@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bignerdranch.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609051025id_/https%3A//www.bignerdranch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bignerdranch.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213221323id_/https%3A//www.bignerdranch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Big Nerd Ranch
+# Privacy Policy - Digital product development agency | Big Nerd Ranch
 
 This privacy notice discloses the privacy practices for www.bignerdranch.com. This site is owned and operated Big Nerd Ranch. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -75,13 +75,13 @@ A cookie is a file containing an identifier (a string of letters and numbers) th
 
 We may use both “session” cookies and “persistent” cookies on our website. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. For further information please visit <http://www.google.com/analytics/> and read Google's Privacy Policy at <http://www.google.com/privacypolicy.html>.
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. For further information please visit <http://www.google.com/analytics/> and read Google’s Privacy Policy at<http://www.google.com/privacypolicy.html>.
 
 ## Services provided by third parties
 
-We use the services provided by Intercom for our feedback tool and provide support to our users. Intercom have their Privacy Policy and we are not responsible for its content. For further information, please visit <https://www.intercom.com/terms-and-policies>.
+We use the services provided by Intercom for our feedback tool and provide support to our users. Intercom have their Privacy Policy and we are not responsible for its content. For further information, please visit <https://www.intercom.com/terms-and-policies>.
 
-We also use the services provided by Disqus for our blogs. Disqus has their Privacy Policy and we are not responsible for its content. For further information, please visit [https://help.disqus.com/terms-and-policies/disqus-privacy-policy.](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)
+We also use the services provided by Disqus for our blogs. Disqus has their Privacy Policy and we are not responsible for its content. For further information, please visit[https://help.disqus.com/terms-and-policies/disqus-privacy-policy.](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)
 
 ## Links to other websites
 
@@ -99,14 +99,14 @@ If you communicate with us by email, please take note that the content of unencr
 
 We take precautions to protect your information. When you submit sensitive information via our website, your information is protected both online and offline.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
 ## Acceptance, validity and modification of this Privacy Policy
 
-By using our website or our other services, you implicitly agree to accept the use of your personal information as specified above. 
+By using our website or our other services, you implicitly agree to accept the use of your personal information as specified above.
 
 From time to time, we may make changes to this Privacy Policy. In order to ensure that you are familiar with our most updated policies and practices, you should check the effective date indicated above of this Privacy Policy each time you use our services. If we make any changes, we will notify you of such changes by posting the updated Privacy Policy on our website. In some cases and if we consider necessary, we may also send you an email alerting you of such changes. You will be bound by any such changes to the Privacy Policy when you use our services after those changes have been posted. If we make material revisions concerning practices where we have represented that we will obtain your consent to use or disclose your personal information, we will obtain your consent before taking any action inconsistent with those representations.
 
-If you feel that we are not abiding by this privacy policy, you should contact Big Nerd Ranch immediately via telephone at 770.817.6373 or [info@bignerdranch.com.](mailto:info@bignerdranch.com)
+If you feel that we are not abiding by this privacy policy, you should contact Big Nerd Ranch immediately via telephone at 770.817.6373 or [info@bignerdranch.com.](mailto:info@bignerdranch.com)
