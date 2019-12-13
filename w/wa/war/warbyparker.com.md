@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402002057id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213061418id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warby Parker
 
 ## Privacy Policy
 
-## Effective Date: November 5, 2018
+## Effective Date: August 23, 2019
 
-At Warby Parker, we’re all about helping you see things a little more clearly. And we believe that you have a right to know what information we collect from you and how we protect your privacy. So we’ve created this Privacy Policy to let you know what to expect when you interact with us. This Privacy Policy applies to your use of our retail locations, as well as any of our websites, website features, and mobile applications (each, an “App”) that contain a link to this Privacy Policy (together the retail locations, our websites, and Apps are referred to as the “Services”). 
+At Warby Parker, we’re all about helping you see things a little more clearly. And we believe that you have a right to know what information we collect from you and how we protect your privacy. So we’ve created this Privacy Policy to let you know what to expect when you interact with us. This Privacy Policy applies to your use of our retail locations, as well as any of our websites, website features, and mobile applications (each, an “App”) that contain a link to this Privacy Policy. 
 
-We operate a mobile application and related website (the “Prescription Check App”) and retail store service and related website (“In-Store Prescription Check” and, together with the Prescription Check App, “Prescription Check”) that you may use for the purpose of performing a vision test that may allow you to update your eyewear prescription. This Privacy Policy also applies to your use of Prescription Check. 
+We operate a mobile application and related website (the “Prescription Check App”) and retail store service and related website (“In-Store Prescription Check” and, together with the Prescription Check App, “Prescription Check”) that you may use for the purpose of performing a vision test that may allow you to update your eyewear prescription. We also operate MyVisionDirectory, located at [www.myvisiondirectory.com](https://www.myvisiondirectory.com/), which is a website that you may use to search for and book eye exams (“MyVisionDirectory”). This Privacy Policy applies to your use of Prescription Check and MyVisionDirectory. Collectively the retail locations, our websites and Apps, Prescription Check, and MyVisionDirectory are referred to in this Privacy Policy as the “Services”. 
 
 Your use of Prescription Check is subject to our [Prescription Check Terms of Use](https://web.archive.org/prescription-check-app/terms-of-use). Your use of all other Services is subject to our [Terms of Use](https://web.archive.org/terms-of-use). Our use of any individually identifiable health information you provide is subject to the requirements of the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). In addition to this Privacy Policy, our [Notice of Privacy Practices](https://web.archive.org/notice-of-privacy-practices) will apply to such information. 
 
@@ -28,9 +28,11 @@ For some online, App, and in-store features, we may ask you to submit (or we may
 
 When you make a purchase, we ask you to provide payment information, which may include payment card information (such as credit card number, type, and expiration date), vision insurance plan information, billing address, and shipping address. Our payment processor, which is required by credit card issuers to meet specific security requirements, will collect, store, and process your credit card and other payment information on our behalf using industry-standard security measures. We do not store any payment card information.
 
+  *  **When you use MyVisionDirectory.** When you use MyVisionDirectory, you disclose certain personal and health information about yourself, such as your name, contact information, insurance information, billing information, and exam type.
+
   *  **When you use Prescription Check.** When you use Prescription Check, you disclose certain information about yourself by (1) answering a series of questions to determine whether you are eligible to participate in the Prescription Check vision test (the “Eligibility Questionnaire”), (2) performing a series of tasks to help licensed optometrists or ophthalmologists (each an “Eye Doctor”) determine whether to issue you an updated eyewear prescription (the “Vision Test”), and (3) communicating with Warby Parker or our Eye Doctors in connection with your use of Prescription Check. The In-Store Prescription Check Vision Test includes an acuity test and measurement of your refractive error using a handheld device, and the results of both will be provided to us. 
 
-"Health Information" is information that relates to your past and present health or vision conditions (including medications, ailments, and prescriptions) that is derived from your use of Prescription Check. Some Health Information may be subject to laws and regulations, including HIPAA. You represent that any Health Information that you disclose to us is your Health Information that you are authorized to disclose to us. “Personal Information” is information about you, including your first name, last name, and demographic information, derived from your use of Prescription Check. Your Warby Parker account contains Personal Information and/or Health Information, and we will access such information when you use Prescription Check. Additionally, in order to facilitate your use of Prescription Check and to help an Eye Doctor determine your need for an eyewear prescription, we may collect the following information when you use Prescription Check:
+"Health Information" is information that relates to your past and present health or vision conditions (including medications, ailments, and prescriptions) that is derived from your use of Prescription Check or MyVisionDirectory. Some Health Information may be subject to laws and regulations, including HIPAA. You represent that any Health Information that you disclose to us is your Health Information that you are authorized to disclose to us. “Personal Information” is information about you, including your first name, last name, and demographic information, derived from your use of Prescription Check or MyVisionDirectory. Your Warby Parker account contains Personal Information and/or Health Information, and we will access such information when you use Prescription Check. Additionally, in order to facilitate your use of Prescription Check and to help an Eye Doctor determine your need for an eyewear prescription, we may collect the following information when you use Prescription Check:
 
     * your name, age, email address, username, or other Personal Information or Health Information contained in your Warby Parker account
     * answers and written information that you submit during the Eligibility Questionnaire
@@ -79,6 +81,7 @@ When you make a purchase, we ask you to provide payment information, which may i
 
   * to provide, personalize, and improve our products and our Service
   * to facilitate the sale and delivery of your purchases and Home Try-On
+  * to confirm, reschedule, or provide other services related to your eye exam
   * to provide you with Prescription Check services
   * to communicate with you, including to respond to your comments or questions, and to send you updates about your order
   * to understand your use of our Services to help us improve the customer experience
@@ -120,6 +123,7 @@ We’ve figured out ways to do a lot of things on our own, but we haven’t quit
   * website-related services, such as web hosting
   * improvement of website-related services and features
   * maintenance services
+  * marketing services
   * data analytics
 
 
@@ -147,7 +151,7 @@ We may share your information with your doctor if you’ve asked us to confirm t
 
 ### With Eye Doctors
 
-In connection with Prescription Check, we will share your Health Information and Personal Information with one or more Eye Doctors, who will evaluate the results of your Eligibility Questionnaire and Vision Test. Eye Doctors may be any of the following: Warby Parker employees, Warby Parker independent contractors, employees of a professional corporation, or independent contractors of a professional corporation. In all cases, Eye Doctors will be under a contractual obligation to keep your Health Information and Personal Information confidential.
+In connection with Prescription Check, we will share your Health Information and Personal Information with one or more Eye Doctors, who will evaluate the results of your Eligibility Questionnaire and Vision Test. Eye Doctors may be any of the following: Warby Parker employees, Warby Parker independent contractors, employees of a professional corporation, or independent contractors of a professional corporation. Additionally, we will share the information you provide to us through MyVisionDirectory with the Eye Doctor performing your eye exam. In all cases, Eye Doctors are under a contractual obligation to keep your Health Information and Personal Information confidential.
 
 ### With your vision insurance carrier
 
@@ -186,7 +190,7 @@ Through your account settings, you can access, view, and edit the following info
 
 
 
-You can delete any of the above information, and contact us with questions or concerns about your information, by emailing privacy@warbyparker.com. The information you can view, edit, and delete may change as our Services change.
+You can delete any of the above information, and contact us with questions or concerns about your information, by emailing [privacy@warbyparker.com](mailto:privacy@warbyparker.com). The information you can view, edit, and delete may change as our Services change.
 
 If you decide you don’t want to receive email from us, you can select the “opt out” provision in our communications to unsubscribe, you can email us at [privacy@warbyparker.com](mailto:privacy@warbyparker.com), or you can contact customer support. Unsubscribing will stop you from receiving most types of email communications, but it may not prevent you from receiving emails about orders or transactions you place through our Services or to emails in response to a specific request from you, such as password recovery. If you wish to stop receiving notifications from us on your mobile device, you can update your device settings.
 
