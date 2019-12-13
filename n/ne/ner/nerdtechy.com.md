@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdtechy.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401065634id_/https%3A//nerdtechy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdtechy.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213045436id_/https%3A//nerdtechy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nerd Techy
 
