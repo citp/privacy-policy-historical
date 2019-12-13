@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unlockphonetool.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528020026id_/http%3A//www.unlockphonetool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockphonetool.com privacy policy that was archived on 2019-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191213125945id_/http%3A//www.unlockphonetool.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Unlock Phone Tool
 
 At UnlockPhoneTool.com, we recognize that privacy of your personal information is important.
 
