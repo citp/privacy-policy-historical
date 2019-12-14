@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancrate.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512145806id_/https%3A//www.japancrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancrate.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214234442id_/https%3A//www.japancrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Japanese Candy Box Subscription | Japan Crate
 
