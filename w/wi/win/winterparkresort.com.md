@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609062204id_/https%3A//www.alterramtnco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215001031id_/https%3A//www.alterramtnco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alterra Mountain Company
 
@@ -165,7 +165,7 @@ Alterra Mountain Company requires the consent of the child’s parent or guardia
 
 ### ACCESS AND CORRECTION
 
-**Request a Copy:** To obtain access to, or a copy of, your Personal Information that we have on file for little or no cost contact [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com) or send a written request to 1621 18th St., Suite 300, Denver, CO 80202 Attention: Chief Privacy Officer. Access to this information may be denied if you are unable to verify that you are the subject of the request. Information may also not be provided when giving you access to the information would threaten someone’s life or security, reveal third-party Personal Information, breach confidentiality, violate attorney/solicitor-client privilege, disrupt a formal dispute resolution, or impede a law enforcement investigation.
+**Request a Copy:** To obtain access to, or a copy of, your Personal Information that we have on file for little or no cost contact [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com) or send a written request to 3501 Wazee St., Suite 400, Denver, CO 80216 Attention: Chief Privacy Officer. Access to this information may be denied if you are unable to verify that you are the subject of the request. Information may also not be provided when giving you access to the information would threaten someone’s life or security, reveal third-party Personal Information, breach confidentiality, violate attorney/solicitor-client privilege, disrupt a formal dispute resolution, or impede a law enforcement investigation.
 
 **Accuracy:** We endeavor to ensure that your Personal Information is as accurate, complete, and as up to date as necessary for the purposes for which it will be used or shared. If you would like to request correction of your Personal Information that we have on file you may write to us at [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com) or 3501 Wazee St., Suite 400, Denver, CO 80216 Attention: Chief Privacy Officer.
 
@@ -199,7 +199,7 @@ Email: [yourprivacy@alterramtnco.com](mailto:yourprivacy@alterramtnco.com)
 
 ### SUBJECT TO CHANGE
 
-This Policy is subject to change and may be supplemented or modified at any time. You should check this site regularly to stay up-to-date about changes to this Policy. If material changes are made, we will notify you by placing prominent notice on our website [https://www.alterramtnco.com/privacy-policy](http://www.alterramtnco.com/privacy.aspx).
+This Policy is subject to change and may be supplemented or modified at any time. You should check this site regularly to stay up-to-date about changes to this Policy. If material changes are made, we will notify you by placing prominent notice on our website [https://www.alterramtnco.com/privacy-policy](https://www.alterramtnco.com/privacy-policy/).
 
 _California Customers:_
 
