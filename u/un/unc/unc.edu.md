@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unc.edu privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617152437id_/https%3A//www.unc.edu/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unc.edu privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214154855id_/https%3A//www.unc.edu/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - The University of North Carolina at Chapel Hill
 
