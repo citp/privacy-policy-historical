@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneangrygamer.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629065058id_/https%3A//www.oneangrygamer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneangrygamer.net privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214212522id_/https%3A//www.oneangrygamer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - One Angry Gamer
 
@@ -25,3 +25,11 @@ Google, Bing, Yahoo and other search engines may also store and relate cookie in
 We are not liable for how any of the search engines, web services or third-party ad services utilize data collected from visitors.
 
 By using One Angry Gamer or any associated services, you acknowledge that you adhere to the information provided within this privacy policy and agree to the terms of the policy.
+
+### Common ID Cookie
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking here.
+
+### Advertising Privacy Settings
+
+When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking here.
