@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papamurphys.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614213354id_/https%3A//www.papamurphys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papamurphys.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214232742id_/https%3A//www.papamurphys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Papa Murphy's Take N' Bake Pizza
 
