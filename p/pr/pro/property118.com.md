@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property118.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330225829id_/https%3A//www.property118.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property118.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214063820id_/https%3A//www.property118.com/privacy-policy) for the most accurate reproduction.*
 
 # Property118 | Property118.com: Privacy Policy
 
