@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adc.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616011246id_/https%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adc.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214195310id_/https%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
