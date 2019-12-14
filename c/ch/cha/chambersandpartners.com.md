@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906095619id_/https%3A//www.chambersandpartners.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214152958id_/https%3A//chambers.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Chambers and Partners
 
 ## Chambers and Partners Privacy Notice
 
-**Last Updated:  17th May 2018**
+**Last Updated:   7th May 2019**
 
 **WHO WE ARE**
 
-We, Orbach and Chambers Limited, incorporated in England (registered number 0969186) with its registered office at 39-41 Parker Street, London, WC2B 5PQ, trading under the name 'Chambers and Partners' ('we', 'us' or 'our' being interpreted accordingly) are committed to processing any personal information or data that we collect fairly and transparently in accordance with the law, in particular, the EU General Data Protection Regulation (2016/679); the UK Data Protection Act 2018 and other applicable laws, from time to time, that regulate the collection, handling and privacy of personal data (together, 'Data Protection Law').
+We, Orbach and Chambers Limited, incorporated in England (registered number 0969186) with its registered office at No.3 Waterhouse Square, 138 Holborn, London, UK, EC1N 2SW, trading under the name 'Chambers and Partners' ('we', 'us' or 'our' being interpreted accordingly) are committed to processing any personal information or data that we collect fairly and transparently in accordance with the law, in particular, the EU General Data Protection Regulation (2016/679); the UK Data Protection Act 2018 and other applicable laws, from time to time, that regulate the collection, handling and privacy of personal data (together, 'Data Protection Law').
 
 This Privacy Notice provides information about how we collect and handle personal data in the course of our research and other business activities. It also provides information about an individual's rights in respect of such personal data under Data Protection Law.
 
@@ -34,22 +34,28 @@ The following activities involve us collecting and processing personal informati
   14.  
   15. Our ranked law firms, ranked lawyers and their business development professionals may be contacted by our sales team with marketing opportunities we think may be of interest to them. We will also use the personal data that we collect in relation to any others who sign up as users or customers for our products or services for marketing purposes.
 
-  16. Our ranked law firms, ranked lawyers and their business development professionals may be contacted by our sales team with marketing opportunities we think may be of interest to them. We will also use the personal data that we collect in relation to any others who sign up as users or customers for our products or services for marketing purposes.
+  16. Anyone can object to receive direct marketing from us at any time, by contacting us using the email address below. Any emails or other electronic communications that we send for direct marketing purposes will also have an 'unsubscribe' facility.
 
-  17. Anyone can object to receive direct marketing from us at any time, by contacting us using the email address below. Any emails or other electronic communications that we send for direct marketing purposes will also have an 'unsubscribe' facility.
-
-  18. **\- Publishing, Customer Services & Business Administration**: ** __** we also use personal data for the following purposes:
-  19. \- To conduct our activities as researchers, writers and publishers of the Chambers Guides, website and other publications;
-  20. \- To provide users of publications and other customers with the services or information that they have requested from us;
-  21. \- To promote, manage and administer our publishing and other business activities;
-  22. \- To deal with requests or enquiries we receive from individuals or organisations, firms and companies they work for;
-  23. \- To provide information about us or our services when requested;
-  24. \- To perform contracts and keep a record of any communications and agreements with individuals;
-  25. \- For any other purpose in relation to an individual making contact with us.
-  26. \- We use cookies - and services such as Hotjar - to ensure an enhanced user experience on our website
-  27. \- To provide relevant marketing email communications, we track open rates and click throughs on our marketing emails
+  17. **\- Publishing, Customer Services & Business Administration**: ** __** we also use personal data for the following purposes:
+  18. \- To conduct our activities as researchers, writers and publishers of the Chambers Guides, website and other publications;
+  19. \- To provide users of publications and other customers with the services or information that they have requested from us;
+  20. \- To promote, manage and administer our publishing and other business activities;
+  21. \- To deal with requests or enquiries we receive from individuals or organisations, firms and companies they work for;
+  22. \- To provide information about us or our services when requested;
+  23. \- To perform contracts and keep a record of any communications and agreements with individuals;
+  24. \- For any other purpose in relation to an individual making contact with us.
+  25. \- We use cookies - and services such as Hotjar - to ensure an enhanced user experience on our website
+  26. \- To provide relevant marketing email communications, we track open rates and click throughs on our marketing emails
 
 
+
+### Cookies
+
+Some features that are designed to give you a better online experience only work if we use cookies.
+
+You can change your mind at any time but, for now, are you happy for us to store and access cookies on your device for the purposes described?
+
+You can find more information about cookies, and how to block or delete them in our [cookie declaration](https://chambers.com/cookie-declaration)
 
 **INFORMATION WE HOLD AND HOW WE KEEP IT UPDATED**
 
@@ -100,7 +106,7 @@ Please note however that there are always inherent risks in sending information 
 
 Chambers and Partners is a global research operation based wholly in the UK. 
 
-We do not transfer any personal data that we collect or hold outside of the UK. ****
+We do not transfer any personal data that we collect or hold outside of the EU. ****
 
 **THE LAWFUL GROUNDS ON WHICH WE COLLECT AND PROCESS PERSONAL DATA**
 
@@ -154,14 +160,8 @@ Please note that (where necessary) we reserve the right to ask for evidence to v
 
 **CONTACT US**
 
-Anyone can [contact](mailto:enquiries@chambersandpartners.com) Chambers and Partners to exercise their data protection rights or get in touch with any other data related queries by phoning us at +44 (0)20 7606 8844; by email at [enquiries@chambersandpartners.co.uk](mailto:enquiries@chambersandpartners.co.uk) or by post at Chambers and Partners, 39-41 Parker Street, London, WC2B 5PQ .
+Anyone can [contact](mailto:enquiries@chambers.com) Chambers and Partners to exercise their data protection rights or get in touch with any other data related queries by phoning us at +44 (0)20 7606 8844; by email at [enquiries@chambers.com](mailto:enquiries@chambers.com) or by post at Chambers and Partners, 39-41 Parker Street, London, WC2B 5PQ .
 
 If any individual is dissatisfied with how we handle his or her request or believes that we are unlawfully processing their personal data, they can lodge a complaint with the relevant UK data protection regulator, the Information Commissioner's Office (ICO).
 
 For more information on how to contact the ICO, see: <https://ico.org.uk/concerns/>.
-
- 
-
- 
-
-** **
