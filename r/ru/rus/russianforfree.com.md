@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianforfree.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129081050id_/http%3A//www.russianforfree.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianforfree.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214214042id_/https%3A//www.russianforfree.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy - Learn Russian for Free
 
@@ -86,7 +86,7 @@ This site uses Google Analytics which is one of the most widespread and trusted 
 
 ### FACEBOOK COOKIES
 
-Facebook does not use cookies to create a profile of your browsing behavior on third-party sites or to show you ads, although it may use anonymous or aggregate data to improve ads generally. You can remove or block cookies using the settings in your browser, but in some cases, this may impact your ability to use Facebook. For more information, visit [Facebook’s Cookie Policy](https://www.facebook.com/help/360595310676682)
+Facebook does not use cookies to create a profile of your browsing behavior on third-party sites or to show you ads, although it may use anonymous or aggregate data to improve ads generally. You can remove or block cookies using the settings in your browser, but in some cases, this may impact your ability to use Facebook. For more information, visit [Facebook’s Cookie Policy](https://www.facebook.com/policy/cookies/)
 
 ### TWITTER COOKIES
 
