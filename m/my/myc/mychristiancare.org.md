@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mychristiancare.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214105615id_/https%3A//mychristiancare.org/utility/internet-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychristiancare.org privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214122121id_/https%3A//mychristiancare.org/utility/internet-privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy | Medi-Share
 
