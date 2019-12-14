@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the w3layouts.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401060614id_/https%3A//w3layouts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3layouts.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214203750id_/https%3A//w3layouts.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy - w3layouts.com
+# privacy policy - W3Layouts
 
 This Privacy Policy governs the manner in which w3layouts.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the w3layouts.com website (“Site”). This privacy policy applies to the Site and all products and services offered by w3layouts.com.
 
