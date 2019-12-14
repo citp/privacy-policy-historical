@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefamouspeople.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614223431id_/https%3A//www.thefamouspeople.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefamouspeople.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215001129id_/https%3A//www.thefamouspeople.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Thefamouspeople.Com
 
