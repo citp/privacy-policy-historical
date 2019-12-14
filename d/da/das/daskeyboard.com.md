@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daskeyboard.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505035314id_/https%3A//www.daskeyboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daskeyboard.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214144158id_/https%3A//www.daskeyboard.com/privacy-policy) for the most accurate reproduction.*
 
 # Das keyboard - Privacy Policy
 
