@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeycanada.ca privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326224915id_/https%3A//www.hockeycanada.ca/en-ca/corporate/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeycanada.ca privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215002247id_/https%3A//www.hockeycanada.ca/en-ca/corporate/about/privacy-policy) for the most accurate reproduction.*
 
 # Hockey Canada Privacy Policy
 
@@ -161,7 +161,7 @@ Security measures at all levels designed to protect personal information in our 
 
 **10.3** Hockey Canada shall investigate all complaints. If the complaint is deemed justified Hockey Canada shall take the appropriate steps to ensure that compliance is achieved and will make changes to its policies to allow for compliance in the future.
 
-**10.4** All complaints shall be addressed to the Hockey Canada Privacy Officer Glen McCurdie who can be reached at [gmccurdie@hockeycanada.ca](mailto:gmccurdie@hockeycanada.ca), or by phone at 613-562-5677, extension #2314.
+**10.4** All complaints shall be addressed to the Hockey Canada Privacy Officer Glen McCurdie who can be reached at [gmccurdie@hockeycanada.ca](mailto:gmccurdie@hockeycanada.ca), or by phone at 613-696-0781.
 
 **For more information specifically regarding Hockey Canada's Privacy and Copyright Policies,  
 please contact: [privacy@hockeycanada.ca](mailto:privacy@hockeycanada.ca)**
