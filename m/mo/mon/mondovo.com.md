@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondovo.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021090637id_/https%3A//www.mondovo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondovo.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214182755id_/https%3A//www.mondovo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Mondovo.com
 
@@ -46,6 +46,10 @@ Sensitive and private data exchange between our website and its users happens ov
 ### Sharing your personal information
 
 At www.mondovo.com, we do not sell or rent our users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business on our behalf. Third party tools for sending out emailers is a case in point. We may share your information with these third parties for limited purposes, if you have given us permission.
+
+Additional Limits on Use of Your Google User Data: Notwithstanding anything else in this Privacy Policy, if you provide the App access to the following types of your Google data, the App's use of that data will be subject to these additional restrictions:
+
+The App will only use access to read and analyze your Google Analytics and Google Search Console data and will not transfer this data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets. The App will not use this data for serving advertisements. The App will not allow any other third party to read this data unless we have your affirmative agreement for specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the App's internal operations and even then only when the data have been aggregated and anonymized.
 
 ### Changes to this privacy policy
 
