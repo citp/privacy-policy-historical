@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylescars.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326101420id_/https%3A//www.mylescars.com/self-drive-car-rental/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylescars.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214100119id_/https%3A//www.mylescars.com/self-drive-car-rental/privacy-policy) for the most accurate reproduction.*
 
 # Myles: Privacy Policy
 
