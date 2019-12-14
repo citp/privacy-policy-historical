@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lpages.co privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617074336id_/https%3A//www.leadpages.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpages.co privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214061517id_/https%3A//www.leadpages.net/privacy) for the most accurate reproduction.*
 
-# Leadpages Privacy Policy
+# Leadpages Privacy Policy - Know How We Protect and Your Data
 
 * ## OUR APPROACH TO PRIVACY
 
@@ -68,7 +68,7 @@
 
 * If you wish to exercise one of these rights, please contact us using the contact details at the end of this Privacy Policy.
 
-* You also have the right to lodge a complaint to your local data protection authority. Further information about how to contact your local data protection authority is available at[http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)
+* You also have the right to lodge a complaint to your local data protection authority. Further information about how to contact your local data protection authority is available at [https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)
 
 * ## COOKIES AND SIMILAR TECHNOLOGIES
 
@@ -90,7 +90,7 @@
 
 * Targeting cookies. These cookies record your visit to our Websites, the pages you have visited and the links you have followed. We will use this information to make our Websites and the advertising displayed on them more relevant to your interests. We may also share this information with third parties for this purpose.
 
-* We may collect analytics data, or use third-party analytics tools such as Google Analytics, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our users. You can learn more about Google’s practices at <https://policies.google.com/privacy/partners>, and view its currently available opt-out options at[https://tools.google.com/dlpage/gaoptout.](https://tools.google.com/dlpage/gaoptout)
+* We may collect analytics data, or use third-party analytics tools such as Google Analytics, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our users. You can learn more about Google’s practices at <https://policies.google.com/privacy/partners>, and view its currently available opt-out options at [https://tools.google.com/dlpage/gaoptout.](https://tools.google.com/dlpage/gaoptout)
 
 * We may also work with third party partners to employ technologies, including the application of statistical modelling tools, which permit us to recognize and contact you across multiple devices.
 
@@ -100,7 +100,7 @@
 
 * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/products/windows)
 
-* [Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies)
+* [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies)
 
 * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
@@ -114,7 +114,7 @@
 
 * We and our third party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.
 
-* To learn about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative’s online resources, at <http://www.networkadvertising.org/choices>, the DAA’s resources at www.aboutads.info/choices and/or Your Online Choices at [www.youronlinechoices.com/uk.](https://web.archive.org/web/20190617074336id_/https%3A//www.leadpages.net/www.youronlinechoices.com/uk)You may also be able to limit interest-based advertising through the settings on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android). You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting <http://youradchoices.com/appchoices> and downloading the mobile AppChoices app.
+* To learn about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative’s online resources, at <https://www.networkadvertising.org/choices>, the DAA’s resources at www.aboutads.info/choices and/or Your Online Choices at [https://www.youronlinechoices.com/uk.](https://www.youronlinechoices.com/uk) You may also be able to limit interest-based advertising through the settings on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android). You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting <https://youradchoices.com/appchoices> and downloading the mobile AppChoices app.
 
 * Please note that opting-out of receiving interest-based advertising through the NAI’s and DAA’s or Your Online Choices online resources will only opt-out a user from receiving interest-based ads on that specific browser or device, but the user may still receive interest-based ads on his or her other devices. You must perform the opt-out on each browser or device you use.
 
