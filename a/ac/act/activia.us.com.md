@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activia.us.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411002508id_/https%3A//www.activia.us.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activia.us.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214063654id_/http%3A//www.activia.us.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Dannon Activia
 
