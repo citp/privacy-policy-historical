@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the relrules.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093308id_/https%3A//www.relrules.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relrules.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214022550id_/https%3A//www.relrules.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Relationship Rules collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.relrules.com website (“Site”).
+This Privacy Policy governs the manner in which Relationship Rules collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://relrules.com website (“Site”).
 
 Personal identification information
 
@@ -40,7 +40,7 @@ We may share or sell information with third parties for marketing or other purpo
 
 Sharing your personal information
 
-This Privacy Policy governs the manner in which Relationship Rules collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.relrules.com website (“Site”).
+This Privacy Policy governs the manner in which Relationship Rules collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://relrules.com website (“Site”).
 
 Personal identification information
 
