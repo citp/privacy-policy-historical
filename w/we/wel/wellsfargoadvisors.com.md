@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wellsfargoadvisors.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427093248id_/https%3A//www.wellsfargoadvisors.com/disclosures/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellsfargoadvisors.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214045531id_/https%3A//www.wellsfargoadvisors.com/disclosures/privacy.htm) for the most accurate reproduction.*
 
 # Wells Fargo Advisors | Privacy
+
+_This notice is effective as of February 5, 2019._
 
 FACTS
 
@@ -191,7 +193,7 @@ Other important information
   
  **Do Not Call Policy:** This privacy policy constitutes Wells Fargo Advisors' Do Not Call Policy under the Telephone Consumer Protection Act for all consumers. Wells Fargo maintains an internal Do Not Call preference list. Do Not Call requests will be honored within 30 days and will be effective for at least five years from the date of request. No telemarketing calls will be made to residential or cellular phone numbers that appear on the Wells Fargo Do Not Call list.  
   
- **Nevada residents:** We are providing you this notice pursuant to state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing_ section. For more information, contact us at **[1-800-869-3557](tel:+18008693557)** ; [nevadanoticeinfo@wellsfargo.com](mailto:nevadanoticeinfo@wellsfargo.com), or Wells Fargo, P.O. Box 5110, Sioux Falls, SD 57117-5110. Or, contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; **[702-486-3132](tel:+17024863132)** ; [agInfo@ag.nv.gov](mailto:agInfo@ag.nv.gov).  
+ **Nevada residents:** We are providing you this notice pursuant to state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing_ section. For more information, contact us at **[1-800-869-3557](tel:+18008693557)** ; [nevadanoticeinfo@wellsfargo.com](mailto:nevadanoticeinfo@wellsfargo.com), or Wells Fargo, P.O. Box 5110, Sioux Falls, SD 57117-5110. Or, contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; **[702-486-3132](tel:+17024863132)** ; [aginfo@ag.nv.gov](mailto:aginfo@ag.nv.gov).  
   
  **Vermont:** We automatically treat customers with a Vermont mailing address as having limited sharing with our affiliates as provided above.   
   
