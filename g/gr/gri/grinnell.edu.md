@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grinnell.edu privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530053157id_/https%3A//www.grinnell.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grinnell.edu privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214120537id_/https%3A//www.grinnell.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Grinnell College
 
