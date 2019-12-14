@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-tube.at privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220053113id_/https%3A//www.redtube.com/information%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-tube.at privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214083603id_/https%3A//www.redtube.com/information%23privacy) for the most accurate reproduction.*
 
 # Free Porn Videos & Sex Movies - Porno, XXX, Porn Tube and Pussy Porn
 
@@ -338,6 +338,10 @@ Comments:*
 Submit 
 
 Your request has been sent, thank you. 
+
+__ How do I make sure a video of me or my content never gets uploaded to RedTube? Close
+
+We use MediaWise®, a third-party automated audiovisual identification system, to assist us in identifying and blocking potentially infringing content from being uploaded by users. Videos uploaded to Pornhub are compared against MediaWise®'s database of digital fingerprints. When a video is matched to a digital fingerprint, access to it is disabled. If you are interested in having your content digitally fingerprinted by the provider of the automated audiovisual identification system we use, please contact Vobile in one of the manners described at <http://www.vobileinc.com/contact>
 
 __ How do I become a community member? Close
 
@@ -717,7 +721,7 @@ _Last Modified: May 21st, 2018_
 
 ## Introduction
 
-MG Freesite II Ltd (hereinafter “we”, “us” or “our”) operates the website [RedTube.com](https://www.redtube.com/) (hereinafter “RedTube” or the “Website”) and is the controller of the information collected or provided via this Website.
+MG Freesite Ltd (hereinafter “we”, “us” or “our”) operates the website [RedTube.com](https://www.redtube.com/) (hereinafter “RedTube” or the “Website”) and is the controller of the information collected or provided via this Website.
 
 Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data.
 
@@ -1140,8 +1144,6 @@ United States
 
 
 RedTube is rated with RTA label. Parents, you can easily block access to this site. Please read this page <http://www.rtalabel.org/index.php?content=parents> for more information.
-
-RedTube is also a member of the ASACP. Please read this page <http://www.asacp.org/> for more information.
 
 Location (URL) of the allegedly infringing work or material * :
 
