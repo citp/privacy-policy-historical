@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the humanitarianresponse.info privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518235216id_/https%3A//www.un.org/en/sections/about-website/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanitarianresponse.info privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214073457id_/https%3A//www.un.org/en/sections/about-website/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | United Nations
 
-  1. [Home](https://web.archive.org/web/20190518235216id_/https://www.un.org/en/index.html)
+  1. [Home](https://web.archive.org/web/20191214073457id_/https://www.un.org/en/index.html)
   2. Privacy Notice
 
 
