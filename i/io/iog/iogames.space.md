@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iogames.space privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628084654id_/http%3A//www.iogames.space/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iogames.space privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214144044id_/http%3A//iogames.space/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iogames.space
 
