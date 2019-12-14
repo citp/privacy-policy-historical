@@ -1,409 +1,177 @@
-> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016101943id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214154411id_/https%3A//www.costco.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Your Rights | Costco UK
+# Privacy Policy | Costco UK
 
-## Privacy Policy Last updated 07/05/2015
+This Privacy Policy explains how Costco processes personal data when you visit our warehouse stores, purchase products or services from us, use our website (located at www.costco.co.uk), contact customer service, or otherwise interact with us. We encourage you to review our Privacy Policy from time to time to make sure you understand how we process your personal data and the choices you have with respect to such processing.
 
-This privacy statement (also referred to as Costco's Online Privacy Policy) explains our privacy practices for our Members and customers who shop in our UK warehouse stores or use our website: www.costco.co.uk. We draw your attention to the fact that this policy does not apply to Costco’s [Online Digital Photo Centre](http://warehouses.costco.co.uk/privacy/).
+Depending on whether you are a warehouse or online member, or whether you use our travel services, the data controller of the personal data we process about you will be Costco Wholesale UK Limited, Costco Online UK Limited, or Costco Travel UK Limited (“Costco”, “we” or “us”).Our head office in the UK is located at Hartspring Lane, Watford, Hertfordshire, WD25 8JS.
 
-#### Costco's Commitment to Privacy
+Please note that we provide additional or different privacy notices in connection with certain products, services or programs. In addition, personal data that you provide when you visit Costco’s warehouses or websites outside of the UK are governed by the privacy policies of the Costco entities in those other countries.
 
-We respect your right to privacy. We maintain and use your Personal Data in accordance with applicable laws, including the Data Protection Act of 1998. We do not sell, rent, share or disclose Personal Data to third parties without your prior consent, except in the circumstances described in this Privacy Statement. In addition, your ability to make informed choices about the uses of your information is important to us. This privacy statement explains our policy regarding the collection, use, disclosure and protection of Personal Data. The links below provide detailed information about our privacy practices:
+## Costco’s Commitment to Personal Data and Privacy
 
-A. What is Personal Data?  
-B. Collection of Personal Data  
-C. Use of Personal Data by Costco  
-D. Sharing of Personal Data  
- 1\. Order Fulfilment  
- 2\. Service Providers and Contractors  
- 3\. Primary Costco Account Holder  
- 4\. Services  
-E. Cross-Border Transfers   
-F. Other Uses and Disclosures   
-G. Protection of Personal and Credit Card Information   
-H. Choice; Updating Your Account Data   
-I. Optical and Hearing Centres   
-J. Cookies and Online Specifics   
- 1\. Cookies; Links and Accessing Costco via a Mobile Device  
- 2\. Links to Other Sites  
- 3\. Accessing Costco on your Mobile Device  
-K. Use of the Costco.co.uk Site by Minors   
-L. Questions or Concerns   
-M. Changes to this Statement
+We respect your right to privacy and comply with all applicable laws and regulations with respect to personal data protection.
 
-#### A. What is Personal Data?
+We do not sell or rent your personal data to third parties. We only share personal data with third parties as described in this Privacy Policy. These transfers only take place if we have obtained your prior consent or in compliance with applicable legislation when such consent is not required. For further information on how we share personal data with third parties, please see Section 4.
 
-Personal Data is information that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, telephone number, Internet (IP) address and information about an individual’s purchases and online shopping. Personal information also includes medical information collected through our pharmacies, hearing aid centers and optical centers (see Health Care Centers below). As a convenience to our Members, we allow the primary cardholder to add his/her spouse or others to a membership account.
+Your ability to make informed choices about how we process personal data is important to us. This Privacy Policy describes how you can make choices about how we use or otherwise process your personal data.
 
-#### B. Collection of Personal Data
+## 1\. WHAT IS PERSONAL DATA?
 
-We collect the Personal Data that you provide us, such as when you: 
+Personal data is data related to an identified or identifiable individual.
 
-  * Sign up for or renew your Costco membership
-  * Register to use Costco.co.uk or consent to receive news about specials or other promotions;
-  * Place an order or purchase products or services, at our warehouse stores or online;
-  * Contact us for any reason;
-  * Sign up for or renew your Costco membership or online subscription;
-  * Sign up for or participate in our various Services (see Services below).
+## 2\. WHAT PERSONAL DATA IS COLLECTED BY COSTCO?
 
+We collect personal data when you sign up for or renew your Costco membership, visit our warehouses, place an order, make purchases, returns or exchanges, sign up for certain products and services (such as rebates, the Costco credit card, the Costco Services program and other business and consumer services), access and use our website or kiosks, sign up to receive marketing and promotional materials from us, participate in a survey or promotion, enter into a contest or sweepstakes, fill out a form, communicate with us via email or phone, or otherwise interact with us. For the purposes set out in this Privacy Policy, we collect the following personal data:
 
+  * Identification data, such as your name, title, marital status, photograph (taken at Costco’s premises for your membership card), date of birth, identity document (national identification card, foreigner identification number, passport or residence permit, and/or tax identification number), and of course your Costco membership number.
+  * Contact data, such as your address, email address, home phone number, and mobile phone or other phone number for contact purposes.
+  * Transactional data, which includes information about individual purchases and returns, account notes recorded in connection with your transactions with us and other information you choose to provide to us in connection with a transaction (such as photographs if you choose to use the Costco Photo Centre).
+  * Electronic data, which includes the IP address used to access our website, mobile device ID, type of browser, activity on our website, and image records obtained through video surveillance systems at our warehouses. We automatically collect electronic data when you access and use our website using cookies, pixels and local storage. For more information, please see our [Cookie Policy](https://web.archive.org/cookie-policy)
 
-We may automatically collect some information when you visit our website, such as your computer's IP address or your device ID and operating system, the site from which you linked to us, your site activity, the time and date of your visit, and your purchases. This information may be collected through the use of "cookies" and web beacons (see Cookies below). We also receive information from third parties who help us correct our records, prevent fraud, and provide Services (see Services below) or special promotions or products. We may combine any of this information with the other Personal Data we maintain about you.
 
-#### C. Use of Personal Data by Costco
 
-The Personal Data we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest and administer your account, including distribution of our own surveys and publications. For example, we may: 
+We also receive personal data related to members and customers through indirect channels. For example, if a member adds additional household members to his or her membership account, we collect names, addresses, phone numbers and email addresses from the member about these individuals. In some cases, we also receive personal data, such as contact information, from third parties that support us with specific processes, such as records correction, fraud prevention, delivery services and the offering of special promotions or products. We combine this data with the other personal data we collect directly about you to administer your membership, provide you with products and services and ensure our records are accurate and up-to-date.
 
-  * Alert you about product recalls or safety issues;
-  * Send notifications (via email or SMS/text message) related to your purchases, such as purchase confirmations or delivery schedules;
-  * If you consent to receive it, provide you with promotional information, such as coupons, offers and product recommendations ("Promotional Information"). You may contact us at any time to decline Promotional Information (see Choice below).
+## 3\. HOW DOES COSTCO USE PERSONAL DATA?
 
+In general, we use personal data to process your requests and transactions, provide you with high-quality service, tell you about opportunities we think will be of interest and administer your membership account. The specific purposes for which we process your personal data are set out below:
 
+  * To process your membership request and/or renewal and administer your membership (the legal basis for this processing is the performance of the membership agreement between you and Costco);
+  * To provide products and services to you, which includes processing payments, sending notifications (via email or SMS/text message) related to your purchases, and processing exchanges and returns and warranties (the legal basis for this processing is the performance of the purchase agreement between you and Costco);
+  * To respond to queries or complaints from you, including if you contact our customer service team (the legal basis for this processing is your consent);
+  * To provide you with news, product recommendations, promotional information, coupons, offers and other marketing communications about Costco and third-party products and services via email, direct mail and phone calls. The marketing communications we send you may be tailored based on your membership account details and purchase history so we can provide you with information and offers we think will be of particular interest to you. For more information about opting out of promotional communications from us, see “A right to object to processing” in Section 11) (the legal basis for this processing is our legitimate interest in providing information about products and services that may be of interest to you, unless applicable law requires us to obtain your consent, in which case we will do so);
+  * To communicate with you about your experience with us and the products and services you purchase, which includes sending you information about your orders (e.g., email and SMS notifications related to status, shipping, delivery and pick-up), surveys and information about product quality issues (the legal basis for this processing is our legitimate interest in improving your shopping experience and providing relevant information about products purchased from us);
+  * To communicate with you about product recalls and provide other health, safety and consumer protection notices (the legal basis for this processing is compliance with our legal obligations under UK consumer protection law);
+  * To comply with our legal obligations, including our tax obligations, those related to the prevention of fraud and money laundering, and those required for you to benefit from rights recognised by law (the legal basis for this processing is compliance with our legal obligations under UK law related to, for instance, taxation, money-laundering and terrorism financing and consumer protection law);
+  * To analyse your use of our website (the legal basis for this processing is our legitimate interest in improving our website and better understanding user needs and expectations);
+  * For internal management purposes, including planning, resource allocation, policy development, quality improvement, monitoring, audit, evaluation and reporting (the legal basis for this processing is our legitimate interest in understanding shopping behaviour, improving our selection of products and services, and exploring ways to develop and enhance our business); and
+  * To detect, investigate and prevent fraudulent transactions and other illegal activities and protect against harm to the rights, property or safety of Costco and our members, customers, employees or the public, including by using video surveillance systems (the legal basis for this processing is our legitimate interest in preventing fraud and protecting and securing our premises, members, customers, employees and the public).
 
-#### D. Sharing of Personal Data
 
-We share information in these circumstances: 
 
-  1. **Order Fulfilment**  
-We may provide to a third party information necessary to process a transaction or fulfil an order you have placed with us. However, we give suppliers, and others involved in the distribution chain only the information needed to provide you the products or services you order, and we require them to keep the information confidential and not to use it for other purposes. We are not responsible for any information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
-  
+## 4\. HOW DOES COSTCO SHARE PERSONAL DATA WITH THIRD PARTIES? 
 
-  2. **Service Providers and Contractors**  
-We may contract with others to perform services on our behalf. For example, we retain companies to process debit and credit card payments, ship merchandise, manage our customer care centre, distribute emails, process rebates or analyse and correct or update our data. If any of these service providers need access to your Personal Data, we require them to use it only to perform the services for us. We also require that they maintain the confidentiality of the information and/or return the information to us when they no longer need it.
-  
+We do not share personal data about you with third parties except as follows:
 
-  3. **Primary Costco Account Holder**
+  * Our Service Providers
 
-If you are a Costco Member, each membership account has an individual primary account holder who is authorised to designate and remove add-on members and make other account management decisions. We may disclose Personal Data that relates to activities occurring under the account to the primary account holder.
+We share personal data with companies that perform services for us (e.g. web hosting, information technology, payment processing, product fulfilment, installation, claims processing, recovery of unpaid checks, direct mail and email distribution, marketing, and the provision of data analytics, insurance, audit, accountancy, legal and advisory services). Please note that since some of these service providers are located abroad, certain disclosures imply a cross-border transfer of your personal data as described in Section 5.
 
-Similarly each online subscription account has a primary Subscriber. We may disclose Personal Data that relates to activities occurring under the account to the Subscriber of record.
+  * Third-Party Suppliers
 
-  
+We share personal data with companies that we partner with to provide you with certain products and services, such as optical and hearing aid suppliers and manufacturers or distributors who ship products directly to you. If you purchase, apply for or request certain products or services provided by a third party, we will share your name, membership number and other personal data as is necessary for the third party to deliver the product or service to you. We are not responsible for any additional information you provide directly to these third parties and encourage you to become familiar with their privacy and security practices and policies before disclosing any additional personal data to them.
 
-  4. **Services**
+  * Primary Costco Account Holder
 
-You may purchase products and services offered by us through third parties, such as financial, travel, insurance and other business and consumer services ("Services"). We may share your name, postal address, email address and membership or subscriber status, number and type ("Information") with these third parties so they may notify you of their offerings, to determine whether, or at what level, you qualify for the products, offerings or services, and to evaluate new and existing products, offerings or services. If you prefer that we do not share Information with these third parties, you can contact us at any time (see Choice below).
+If you are a Costco member, each membership account has an individual primary account holder who is authorised to designate and remove add-on members and make other account management decisions. **Please be aware that information about all activities occurring under the account, including transactions completed by add-on members, will be available to the primary account holder. Similarly each online subscription account has a primary subscriber; information relating to all activities occurring under the online account is available to the subscriber of record.**
 
-If you purchase, apply for or request Services, information you provide will be shared directly with the third party offering the Services.
+  * Third Party Services
 
-These third parties are required to use Personal Data we share only to provide the requested Services. We are not responsible for any additional information you provide directly to these parties, and we encourage you to become familiar with their privacy practices and policies before disclosing information to them. Information you provide to third parties, may in turn be shared with us along with information about your use of the services. In some cases, these third parties may require as a condition of providing services to you that you authorise them to share information with us. If we terminate our relationship with a third party, information you provided to them may be returned to us, and we may provide that information to a new third party offering the same or similar services.
+You may purchase products and services offered by us through third parties, such as financial, travel and other business and consumer services ("Third Party Services"). If you purchase, apply for or request Third Party Services, information you provide will be shared with the third party offering the Third Party Service. See Section 8 for more details about Third Party Services.
 
-If you apply for an American Express Card through Costco Wholesale, Costco Wholesale will collect the application on behalf of American Express.
+  * Our Affiliates and Entities that Belong to Costco's Corporate Group
 
+We share personal data with our corporate affiliates for the purposes described in Section 3. Since our affiliates are located abroad, please note that disclosures to certain affiliates imply a cross-border transfer of your personal data as described in Section 5.
 
+  * Fraud Control
 
+Costco works with services providers and belongs to associations that share a limited amount of personal data for fraud control purposes, such as all or part of a payment card number, an IP address or a device ID.
 
-#### E. Cross-Border Transfers
+  * Compliance with Law
 
-In some cases Personal Data may be transferred outside of the European Economic Area (EEA) in order to carry out processes, including but not limited to e-mail communications and customer call-centre services. Costco ensures that Personal Data transferred outside the EEA is maintained with at least the same level of security and protection for the rights and freedoms of data subjects that is required under the UK Data Protection Act of 1998. By submitting Personal Data to us you consent to the transfer and storage of your personal data outside the EEA.
+We also disclose personal data when we are legally authorised or required to do so to comply with applicable law or legal process (including requests from authorities and courts), to respond to claims (including inquiries by you in connection with your purchases at Costco), or to protect the rights, property or personal safety of the Costco companies, our shoppers, members, our employees or the public.
 
-#### F. Other Uses and Disclosures
+  * Corporate Transactions
 
-In addition, we may use or disclose Personal Data in the good faith belief that we are lawfully authorised to do so, or that doing so is reasonably necessary to protect you, to comply with legal process or authorities, to respond to any claims, or to protect the rights, property or personal safety of the Costco Companies, our shoppers, Costco’s Members and Subscribers, our employees or the public. This includes disclosure of information to control or investigate fraud. Personal Data, may be disclosed or transferred as part of, or during negotiations of, any merger or sale of company assets or acquisition.
+Personal data may be disclosed or transferred as part of, or during negotiations of, any merger or sale of company assets or acquisition to third parties involved in such transactions.
 
-#### G. Protection of Personal and Credit Card Information
+  * Consent
 
-We have physical, administrative and technical security measures in place to protect Personal Data from loss, misuse or alteration while it is under our control. When you enter Personal Data online, that information is encrypted prior to transmission using a security protocol called SSL (Secure Sockets Layer). We also use SSL to allow you to securely view your online account and registration information. Even if you establish an account with us, we do not retain your credit card information. A unique “token” is substituted for your credit card number. If you become a repeat customer, you may be asked to create a password that you will give us instead of your credit card number, providing an additional layer of security.
+We also share personal data with third parties, other than those described above, when we have your consent to do so.
 
-Online account information is accessible only by using a password. You must keep your password confidential. You are responsible for all uses of www.costco.co.uk by anyone using your password. Please advise us immediately if you believe your password has been misused.
 
-#### H. Choice; Updating Your Account Data
 
-We give you choices related to your personal information, and numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members.
 
-We will not send you promotional emails or SMS (text) messages unless you explicitly consent to receive them. If you wish to give or withdraw your consent or update your online account information, or if you have questions concerning our information practices, you may call our Customer Care Centre on Freephone **0800 0324 324** , or access "My Account" if you are a registered user of costco.co.uk.
+## 5\. DOES COSTCO TRANSFER PERSONAL DATA OUTSIDE THE EEA?
 
-Your choice not to receive promotional materials means that we also will not share your information with our providers of Services.
+Your personal data will be transferred to countries outside of the European Economic Area (“EEA”), including the UK, and, in some cases, the laws of these countries do not provide the same level of protection of your personal data as those in the UK. For example, we transfer personal data to our corporate affiliates, located in the United States, Canada, Australia, Japan, South Korea, Taiwan and Mexico, for the purposes described in this Privacy Policy. We also transfer personal data to service providers that process personal data for us in the United States, Canada and other locations (as an example, Google and Microsoft process personal data for us in various data centre locations, including those listed at <http://www.google.ca/about/datacenters/inside/locations/> and <https://azure.microsoft.com/en-us/global-infrastructure/regions/>, respectively).
 
-If you have more than one email address, you will need to make separate privacy elections for each. If you receive emails from the online Photo Center or have separately opted to receive materials from one of our Services providers (see Services) you will need to change your privacy elections separately for these communications as well.
+Costco ensures, with the signature of Standard Contractual Clauses adopted by the European Commission, that personal data transferred outside the EEA is maintained with at least the same level of security and protection for personal data that is required under the applicable legislation. Copies of the Standard Contractual Clauses we use to facilitate the transfer of data outside the EEA are available [here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915) and [here](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087).
 
-#### I. Optical and Hearing Centres
+## 6\. HOW DOES COSTCO PROTECT PERSONAL DATA?
 
-If you purchase eyeglasses, contact lens, hearing devices and accessories from us, we collect and retain in our files your prescription information as well as a limited amount of background health information that you give us so that we may properly provide the service and/or medical device you have requested. We have extraordinary procedures in place to protect your health-related information. If you request or receive NHS funding for optical or hearing devices or services, we may share your health information with the NHS.
+We have physical, administrative and technical security measures in place to help protect personal data from damage, loss, alteration, destruction or unauthorised access, processing or use while it is under our control. With regard to credit card data, we are required to process and maintain payment card data in accordance with the data security rules adopted by credit card companies such as Visa, MasterCard and American Express.
 
-#### J. Cookies and Online Specifics
+## 7\. HOW LONG DOES COSTCO RETAIN PERSONAL DATA?
 
-  1. **Cookies; Links and Accessing Costco via a Mobile Device.**
+Costco will retain your personal data for as long as necessary to achieve the purposes for which such data was collected, unless a longer retention period is required under applicable law. For example, we need to keep records about our members’ purchase histories in order to honour our returns policy. If you want to return an item you bought from us several years ago, we need to be able to confirm when and where you bought it. For this reason, we generally keep records about our members’ accounts and purchase histories for a minimum of 10 years. In addition, when you consent to receive marketing communications from us, we retain your email address and information about your marketing preferences for the duration of your membership, unless you opt out of receiving such communications or terminate your membership.
 
-Cookies are small files that are stored on your computer. They enable us to monitor online activity. When you first access the website, you will be asked if you consent to our use of cookies. If you do not consent, the web site will not load properly.
+## 8\. THIRD PARTY SERVICES
 
-Like most web sites, we use cookies to log your IP address, identify your browser type, and log the date and time of your purchases and other activities. We use this information for system administration, troubleshooting, fraud investigation, communications from Costco (only) and optimising your shopping experience. For example, we may customise our home page for you, better display pages according to your browser type, and/or deliver customised product recommendations and email. Cookies are not spyware, and Costco does not collect multi- site data or, with the exception of Google Analytics, share information with others that we gather through cookies.
+If you purchase, apply for or request Third Party Services, information you provide will be shared with the third party offering the Third Party Service. For example, if you register for the Costco Auto Programme, we may share membership details with participating dealers to confirm your enrolment in the programme. In turn, information you provide to these third parties may in turn be shared with us along with information about your use of the particular Third Party Service. We are not responsible for any additional information you provide directly to these third parties, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them.
 
-We share your IP address, but no other Personal Data, with Google Analytics in order to obtain data about how our website is accessed and used. If you do not wish your IP address to be tracked for this purpose, you may opt-out of Google Analytics by following the steps found at <https://tools.google.com/dlpage/gaoptout>.
+If you apply for an American Express Card co-branded credit card through Costco Wholesale, Costco Wholesale will collect the application on behalf of American Express. We will share with our credit card partners (including the issuing institution, the payment processing network, and other organisations providing services relating to the Costco co-branded credit card) the information you provide on the application form. If the application is approved, we will share with these partners your Costco membership number(s) and start date(s), your Costco membership photograph(s) that will appear on the co-branded card, your company name and resale permit number (if applicable) and the type and status of your Costco membership. Our credit card partners also have privacy policies, which we encourage you to review carefully before applying for a co-branded credit card.
 
-Finally, we use web beacons to determine when and how many times a page has been viewed. Again, we use this information for our own marketing purposes.
+## 9\. OPTICAL AND HEARING CENTRES
 
-If you would like help clearing cookies, please call our Customer Care Centre on Freephone **0800 0324 324**. If you clear cookies you will need to accept our cookie policy upon your next visit to our website.
+If you purchase eyeglasses, contact lens, hearing devices and accessories from us, we collect and retain in our files your prescription information as well as a limited amount of background health information that you give us so that we may properly provide the service and/or medical device you have requested. We have procedures in place to protect your health-related information. If you request or receive government funding for optical or hearing devices or services, we may share your health information with the relevant government agency. Costco and our service providers may collect, use or disclose your personal health information in connection with:
 
-  2. **Links to Other Sites**
+  * providing you with the health services you request;
+  * communicating with your health service providers;
+  * storing electronic health records within onsite or offsite servers;
+  * processing or obtaining payment for government-funded health services (for example, obtaining authorisation from your insurer or a government agency for payment);
+  * processing or obtaining payment from your health insurance provider; or
+  * internal management purposes, including planning, resource allocation, policy development, quality improvement, monitoring, audit, evaluation and reporting.
 
-From our web site you can link to websites of third parties who we allow to offer goods, information and/or Services. If it is not clear from the context that you are being directed to a third party site, we endeavour to notify you that you are visiting a site where a different privacy policy applies. In general, any Personal Data you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of websites to which we link. We encourage you to learn about their privacy and security practices and policies before providing them with Personal Data.
+We process your personal health information where we have your explicit consent to do so, and where necessary for the provision of healthcare or treatment to you.
 
-  3. **Accessing Costco on Your Mobile Device**
+We may also disclose personal health information without your knowledge or consent if a law, regulation, search warrant, subpoena or court order legally authorises us or requires us to do so or to protect the rights, property or personal safety of Costco, its customers, employees or other members of the public. We may also be required to disclose certain personal health information in order to maintain standing with professional health bodies, including those for pharmacists, audiologists and opticians.
 
-Before we collect or send location –specific information, we will ask for your consent. You may use our apps or mobile site without consenting to this, and you may withdraw your consent by changing your selection within the app. Your general consent to your mobile service provider to allow (or disallow) location-based services does not automatically apply to us.
 
-In general, you do not need to provide any personal information to connect with us via your mobile device. If you wish to make a purchase, however, you must create an account. Personal information you provide is subject to this Privacy Policy. In addition, as with any online service, our apps and mobile site automatically collect information such as an IP address, the unique identifier of your mobile device and the URL from which you accessed our app (see Online Specifics). Neither your name nor telephone number are automatically collected. It is not possible to opt out of providing information automatically collected through our apps.
 
-Providers who supply the technology necessary for us to provide the app may share in the receipt of automatically collected information. We restrict their use of Personal Information to the purpose of providing services to Costco. In addition, you should review the privacy statements published by your mobile carrier and by your device manufacturer. Either or both of them also may automatically collect information. Costco does not have access to information you provide to or that is automatically collected by these third parties.
 
-Our apps and mobile site may provide links to Costco service providers (see Member Services) and other third parties (see Links to Other Sites).
+## 10\. COSTCO TRAVEL UK
 
+Costco Travel, UK Limited acts as an agent to help our members book travel in the UK and throughout the world. (Costco Travel UK currently provides car hire, but may at some time also offer cruises, hotels and other travel-related goods or services.) Since, in this instance, we are acting as an agent connecting our members to various travel providers, personal data you provide to us will be transferred to the travel providers and their agents, and will be subject to their privacy policies and their local laws. Your personal data may be accessible in the UK or in foreign jurisdictions to law enforcement and national security authorities. We are not responsible for the privacy and security practices or policies of these travel providers or their agents, and we encourage you to learn about their privacy and security practices and policies before booking travel through us.
 
+The personal data requested by travel providers may include, among other things, financial information, travel document details, trip details, nationality, gender, date of birth, credit card information, disability information, travel preferences, loyalty program details, and emergency contact details. This personal data is required for purposes including booking your trip, contacting you in association with your trip, providing mandatory information to government authorities, personalising your travel experiences, and for other purposes identified by the travel providers in their privacy policies. We may retain some or all of this information in order to provide services to you in association with your bookings. The information held by us will be subject to our Privacy Policy.
 
+When you make a reservation for someone else through us, we will ask you for their personal data. You should ensure that you have the consent of other individuals before providing us with their personal data. By providing us with that information, we consider that you have these other individuals’ consent and authorisation to provide us with their personal data and to make bookings on their behalf in accordance with our travel providers’ privacy policies.
 
-#### K. Use of costco.co.uk Website by Minors
+If another person who has your full name and booking reference numbers contacts us and seeks information on your booking or wishes to make changes to it, we will disclose that information and allow that other person to make changes to your booking, as we will assume that you have given that person the consent to do so. Likewise, if your bookings are made through or by third parties, such as employers, family members or others, we will consider those people to be authorised by you to provide your personal data in accordance with this Section, unless or until you tell us otherwise.
 
-We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from minors. If you are under 18, you should not provide information on the costco.co.uk website.
+## 11\. WHAT PERSONAL DATA RIGHTS DO YOU HAVE?
 
-#### L. Questions or Concerns
+Subject to certain limitations and exceptions, you have a number of legal rights in relation to the processing of your personal data, including:
 
-If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can call our Customer Care Centre on freephone **0800 0324 324** or see [Contact Us](https://web.archive.org/view/content/enquiries).
+  * **A right to obtain information:** You have the right to request information about how we process your personal data.
+  * **A right of access:** You have the right to request access to, or a copy of, the personal data we process about you.
+  * **A right of rectification:** You have the right to request that we correct or supplement inaccurate or incomplete personal data we process about you.
+  * **A right of erasure:** You have the right to request that we delete personal data about you.
+  * **A right to restriction of processing:** You have the right to request that we restrict processing of your personal data, so that we can store such data but not further process it.
+  * **A right to data portability:** You have the right to request that we provide the personal data which you provided to us in a structured, commonly used and machine-readable format, and you have the right to transmit such data to another controller without hindrance from Costco.
+  * **A right to object to processing:** You have the right to request that we stop processing personal data about you (for example, when your personal data is processed for direct marketing purposes, you have the right to object to the processing of such data at any time by writing to gdprrequests@costco.co.uk or clicking on the “unsubscribe” link available at the bottom of the messages received).
+  * **A right to revoke your consent:** When our processing is based on your consent, you have the right to revoke such consent at any time.
+  * **The right to file a complaint:** You have the right to file a complaint regarding our data protection practices with a supervisory authority. You can do so by contacting the Information Commissioner’s Office (www.ico.org.uk).
 
-#### M. Changes to this Statement
 
-We may change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your Personal Data will be used. If we make a material change to how we use Personal Data and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance.
 
-## Payment Security
+To exercise these rights, please email us at [gdprrequests@costco.co.uk](mailto:gdprrequests@costco.co.uk) or [click here](https://app.onetrust.com/app/#/webform/637a816d-827d-4302-b72c-c609f6f08b71)
 
-We have put into place technical, contractual, administrative and physical security measures in an effort to protect Personal Information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other information.
+## 12\. USE OF THE WEBSITE BY CHILDREN
 
-We also use Secure Sockets Layer (SSL) software, which encrypts information you input during online transactions. SSL Certificate details can be found by clicking the padlock icon next to the URL. We may request proof of identity before we disclose Personal Information to you in conjunction with our security procedures.
+We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect data from children or, in general, from individuals who are under 18 years of age. If you are under 18, you must not provide personal data through our website.
 
-In some cases, Personal Information may be transferred outside the European Economic Area (EEA) in order to carry out essential processes. Costco.co.uk ensures that at all times Personal Information transferred outside the EEA is maintained with at least the same level of security that is required in the UK. By submitting Personal Information to costco.co.uk you consent to the transfer and storage of your Personal Information outside the EEA. For further information please refer to our Privacy Policy.
+## 13\. CHANGES TO THIS PRIVACY POLICY
 
-## Conditions of use Last updated 18/04/2013
+We reserve the right to change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and if we make material changes, we will provide you with additional notice. We encourage you to review this Privacy Policy frequently to make sure you understand how your personal data will be processed and the choices available to you.
 
-These Terms and Conditions apply to the use of www.costco.co.uk (the “website”) and our sale and supply of goods and services via this website.
+## 14\. QUESTIONS OR CONCERNS
 
-The website is the property of Costco Online UK Limited (“Costco”), which provides you access and use of this website subject to your compliance with these Terms and Conditions and all related policies and terms (collectively, the "Site Terms"). The Site Terms include, but are not limited to, the Privacy Policy and the Delivery, Cancellations and Assistance Policy. Please review these Terms and Conditions and all related policies and terms before using this website.
+If you have any questions or concerns about this Privacy Policy or would like to contact us for any reason, including the possibility of submitting a claim, you can write to gdprrequests@costco.co.uk or you can contact our Data Protection Officer by writing to privacy@costco.com. Alternatively, if you would prefer to submit your questions by post, please write to us at:
 
-By using and accessing the website you agree to be bound by the Site Terms and all applicable law. You consented to these Site Terms the first time you accessed this website from a particular computer or device, and confirm your consent each time you use this website.
-
-If you do not have the authority to agree to or accept these Site Terms, you may not use or access this website.
-
-The links below provide detailed information about our Site Terms. Please read them carefully:
-
-A. SHOPPING WWW.COSTCO.CO.UK: THREE OPTIONS   
-B. RELATED POLICIES AND TERMS   
-C. MODIFICATION OF SITE TERMS    
-D. LIMITATIONS ON USAGE, LICENCE AND WEBSITE ACCESS    
-E. CONTRACT PRICING, FORMATION AND PAYMENT    
-F. PRODUCT DESCRIPTIONS AND AVAILABILITY, PRICE INDICATIONS AND OFFERS AND CHANGES   
-G. PASSWORDS AND SECURITY   
-H. INTELLECTUAL PROPERTY   
-   a. Ownership  
-   b. Trade marks  
-   c. Restrictions on use  
-I. SOFTWARE   
-J. HYPERLINKS   
-   a. Links to the website  
-   b. Third Party Links  
-K. YOUR RESPONSIBILITIES; INFORMATION YOU PROVIDE TO US; ENFORCEMENT   
-L. MINORS   
-M. DISCLAIMERS   
-N. LIMITATION OF LIABILITY   
-O. GOVERNING LAW AND JURISDICTION   
-Q. TERMINATION   
-R. SEVERABILITY AND WAIVERS   
-S. THIRD PARTY RIGHTS   
-T. FURTHER INFORMATION    
-U. CONTACT US
-
-#### DEFINITIONS AND INTERPRETATION
-
-In the Site Terms: 
-
-"Consumer" means an individual who uses the website to purchase goods or services from us that are not related to their trade, business or profession;
-
-"Cookies" are small text files stored on your computer.
-
-"Costco Companies" means the group of companies of which we are part, which currently includes Costco Wholesale Corporation, Price Costco International, Inc. and Costco Wholesale UK Limited;
-
-"Costco Member" means a trade or individual member of any of the warehouse club membership programmes operated by the Costco Companies or their affiliates;
-
-"Costco Satisfaction Guarantee" means the Costco satisfaction guarantee set out in the Consumer Delivery, Cancellation, Replacement and Returns Policies;
-
-"Higher Value Goods" means goods of which the price per unit to Costco Members described on the website (exclusive of VAT and delivery charges) exceeds £1000;
-
-’Personal Data’ means data that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, telephone number, Internet (IP) address, and information about an individual’s purchases and online shopping;
-
-"Site Materials" means all materials on the website including, but without limitation to, trade marks, design, product description, HTML text, graphics, other files, photographs, codes, software layout, designs forms and the selection and arrangement thereof;
-
-"Subscriber" means an individual who pays an annual subscription fee in order to shop on www.costco.co.uk but who is not a current Costco Member.
-
-’We’ or ’us’ or "Costco" means Costco Online UK Limited. In the Site Terms, paragraph headings are used for convenience only. They are not intended to describe the entire content of the paragraphs or have any effect on their interpretation.
-
-#### A. SHOPPING WWW.COSTCO.CO.UK: THREE OPTIONS
-
-We offer three ways to shop:
-
-**Costco Members:** If you are a Costco Member you may shop online by entering your member number at checkout. As a Costco Member you do not pay any surcharge on website purchases. If you are an Executive Member your online purchases qualify toward your annual reward. [Find out to see if you qualify for membership](http://www.warehouses.costco.co.uk/membership/).
-
-**Subscribers:** You may become a Costco Online Subscriber. When you make your first purchase, at checkout you may opt to subscribe by paying an annual fee. Subscribers do not pay any surcharge on website purchases. When making your first purchase after expiry, you will be given an opportunity to renew your subscription for an additional year. Subscribers must be eighteen years of age or older.
-
-**Surcharge:** If you are neither a Costco Member nor a Subscriber, you may shop www.Costco.co.uk by paying a 5% surcharge on all purchases. This charge will be added automatically to your purchase at check-out.
-
-If you are not satisfied with your subscription, we will refund your entire subscription fee at any time. The five percent surcharge similarly is refundable to the same extent as the corresponding merchandise.
-
-#### B. RELATED POLICIES AND TERMS
-
-Additional Site Terms apply to use of this website and our sale/supply of goods and services. These include:
-
-  * Costco Online Privacy Policy
-  * [Returns and Cancellation & Assistance Procedures](https://web.archive.org/view/content/customer_care)
-  * [WEEE terms, relating to applicable purchases of electrical and electronic equipment](https://web.archive.org/view/content/weee_regulations)
-  * [For Costco Wholesale Members only, the provisions of the Membership Terms that apply to them](http://warehouses.costco.co.uk/terms/)
-
-
-
-Certain other, or amended, terms apply in the case of particular goods or services, where indicated elsewhere in the Site Terms or in the relevant part of the website.
-
-Please review all relevant additional Site Terms. The Site Terms do not alter, in any way, the terms or conditions of any other agreement you may have with us or with other Costco Companies for products, services or otherwise. In particular, we draw your attention to the Costco Wholesale Privacy Policy applicable to Costco Members that you should refer to in order to fully understand how we collect, use and otherwise process your Personal Data. In addition, these Terms and Conditions do not apply to Costco’s Online Digital Photo Centre. 
-
-#### C. MODIFICATION OF SITE TERMS
-
-We reserve the right to modify these Site Terms at our sole discretion from time to time and only we have the right to do so. You may not alter, exclude or add to the Site Terms, and any attempt to do so shall have no effect. If the Site Terms are changed, we will post the new terms on the website and note the date they were last updated. Any changes or modification will be effective upon posting of the Site Terms as revised. Your use of the website following the posting will constitute your acceptance of the new Site Terms. However, any changes to the Site Terms will not affect the terms of any order you have already placed for goods or services via this website prior to such posting.
-
-#### D. LIMITATIONS ON USAGE, LICENCE AND WEBSITE ACCESS
-
-This website may only be used to order goods and services for delivery to addresses in the UK. The use of this website is governed by the laws of England and Wales. The laws of your jurisdiction may be more or less strict than the laws that apply to this website. If you access this website from outside the UK you do so at your own risk and are responsible for compliance with the laws of your jurisdiction.
-
-To register and shop with this website you must be eighteen years of age or over. Please refer to Section K for more information in relation to the use of this website by minors.
-
-If you meet the above requirements, we grant you a limited licence to make personal use only of the website. Such grant does not include, without limitation: (a) any resale or commercial use of this website or any Site Materials (defined above); (b) modification, adaptation, translation, reverse engineering, de-compilation, disassembly or conversion into human readable form any of the Site Materials not intended to be so read, including use of or directly viewing the underlying HTML or other code from this website except as interpreted and displayed in a web browser; (c) copying, imitating, mirroring, reproducing, distributing, publishing, downloading, displaying, performing, posting or transmitting any Site Materials (including any trade marks) in any form or by any means, including, but not limited to, electronic, mechanical, photocopying, recording or otherwise; (d) the collection and use of any product listings or descriptions; (e) making modifications to or other derivative uses of the website and any Site Materials; or (f) use of any data mining, bots, spiders, automated tools or similar data gathering and extraction methods, directly or indirectly, on the Site Materials or to collect any information from the website or any other user of the website. Except as noted above, you are not granted any right or licence by implication, estoppel, or otherwise in or under a patent, trademark, copyright, database right or other Intellectual Property right belonging to the Costco Companies or any third party. You may not use any meta-tags or any other ’hidden text’ utilising any name, trade mark, or product name of the Costco Companies without our express written consent. We may terminate this licence, your subscription and/or your use of or access to the website at any time if you breach or permit any breach of these Site Terms. Such actions by you may also breach applicable laws, including but without limitation to: copyright laws, trademark laws, communications, regulations and statutes. We reserve the right to enforce our legal rights.
-
-#### E. CONTRACT PRICING, FORMATION, PAYMENT AND NON-MEMBER SURCHARGE
-
-Prices indicated on the website include UK mainland delivery charges (unless stated otherwise). However, prices on the website do not include the annual subscription fee or the surcharge that must be paid by customers other than Costco Subscribers and Members when ordering goods or services from us. The surcharge is equal to 5% (five percent) of the total price of the goods and services placed in an order, excluding any VAT charged in respect of those goods and services. Subscription fees and surcharges are subject to VAT, which must be paid in addition. Costco Members whose membership is current and valid at the date of their orders, and who have entered their membership number during the registration process in the My Account section of the website, do not have to pay the surcharge. Subscription fees and surcharges will be separately itemized in the checkout section on the website and added to the price of the goods and services.
-
-Nothing in these Site Terms or elsewhere on this website constitutes an offer to sell or supply goods or services, including a subscription to costco.co.uk. Your order of goods or services or application for a subscription account constitutes an offer to purchase them. Our Order Confirmation confirms the receipt of your order, but does not constitute an acceptance of it. Once we accept the order, however, it is our duty to supply the goods you ordered.
-
-Except in the case of Higher Value Goods, we accept your order when we despatch the goods or begin to supply the services that you have ordered. This concludes the contract of sale for the goods despatched, but not for any other goods or services that you may have ordered at the same time.
-
-In the case of Higher Value Goods, the contract between Costco and you for the sale/purchase of the goods concerned will not take place until the goods are made available for your inspection at the delivery address you have specified, and you have signed a receipt provided by the carrier. If you choose not to sign the receipt, we will retain the goods in question and your offer to purchase them will be deemed withdrawn.
-
-Title to goods that you order will not pass to you until we have received payment in full for the goods concerned and the goods are delivered to you. We reserve our rights to retain the goods, or recover them from you, at any time until you have paid in full. The risk of loss of or damage to goods that you order will pass to you at the same time as title passes.
-
-We shall be under no liability for any delay or failure to deliver goods or services ordered via this website if the delay or failure is caused by circumstances beyond our reasonable control.
-
-We welcome Visa, MasterCard, Maestro and American Express credit cards. When you order goods from us, you will need to complete your credit or debit card details. We will usually pre-authorize charges for up to ten days prior to shipment, but we will not take payment until shipment. In the case of Higher Value Items, payment may be taken at or about the time that the sale/purchase contract is concluded (as indicated above). 
-
-All card payments are subject to authorisation by your card issuer. If your payment is not authorised, or for any other reason we are not able to take payment when we attempt to do so, we will not fulfil your order. We reserve the right to refuse a subscription to any applicant, and we may revoke a subscription at any time with or without cause.
-
-#### F. PRODUCT DESCRIPTIONS AND AVAILABILITY, PRICE INDICATIONS AND OFFERS AND CHANGES
-
-We take reasonable precautions to ensure that goods and services are fairly and accurately described on our website and that they are available at the prices listed. However, please note that, subject to applicable law, we: (a) reserve the right to change the goods and services advertised or offered for sale through this website without any prior notice, the prices or specifications of such goods and services, and any promotional offers and any other Site Materials at any time and from time to time without any notice or liability to you or any other person; (b) cannot guarantee that goods or services advertised or offered for sale on this website will be available when ordered or thereafter; (c) reserve the right to limit quantities sold or made available for sale; (d) do not warrant that the Site Materials (including but without limitation to product descriptions, photographs and product user guides) are accurate, complete, reliable, current or error-free; and (e) reserve the right not to process orders, and to revise orders or recover funds where the price or other material information on this website is inaccurate or when we recognise there has been a material error or breach of the Site Terms. If we do not process an order for such reason, we will advise you that the order has been cancelled and will either not charge you or will apply credit to the payment type used in the order.
-
-For more information please see our [Returns, Cancellations and Assistance Procedures](https://web.archive.org/view/content/customer_care).
-
-#### G. PASSWORDS AND SECURITY
-
-If you use a password to access this website or any portion of it, then you are responsible for maintaining the confidentiality of the password and for restricting access to your computer. If you use a shared computer, remember to sign-out once you finish shopping at costco.co.uk. In the event that the confidentiality of your account or password is compromised in any manner, you must immediately notify our Customer Care Centre on our freephone number **0800 0324 324**.
-
-We reserve the right to take any and all action as necessary or reasonable to maintain the security of the website and your account, including but without limitation to: terminating your account, changing your password or requesting information to authorise or cancel transactions on your account.
-
-While we take prudent steps to protect your account and the website, we cannot protect your information outside of the website. For example, if we communicate with you electronically but outside of the website, you acknowledge that the communication may not be transmitted and/or stored securely, and may be viewed by others. You acknowledge that by requesting information by e-mail, we may transmit it to you and store it in an unencrypted form. Similarly e-mails you send to us may also be unencrypted, and thus may be viewed by others. We may rely on the authority of anyone accessing your account or using your password. You accept responsibility for their activities. In no event will we be held liable to you for any liabilities or damages resulting from or arising out of (i) any action or inaction of costco.co.uk under this provision; (ii) any compromise of the confidentiality of your account or password, and (iii) any unauthorised access to your account or use of your password.
-
-Please see our Privacy Policy for more information on how we use, collect, store and disclose personal information.
-
-#### H. INTELLECTUAL PROPERTY
-
-a. Ownership
-
-All Site Materials are owned by us or other Costco Companies, and are protected by UK and international copyright, trade mark and other intellectual property laws.
-
-b. Trade marks
-
-COSTCO, COSTCO.CO.UK, KIRKLAND SIGNATURE (and other registered trade marks owned by Costco listed on the attached Exhibit A), and their respective designs and logos are either trade marks or registered trade marks of Costco Companies and may not be copied, imitated or used, in whole or in part, without our prior written permission of costco.co.uk.
-
-In addition all page headers, custom graphics, button icons and scripts are trade marks of Costco and may not be copied, imitated, or used, in whole or in part, without our prior written permission. All other trade marks, registered trade marks, product names and company names or logos mentioned herein or on this website are the property of their respective owners.
-
-c. Restrictions on Use
-
-Except as stated in the Site Terms, none of the materials and Intellectual Property described in these Site Terms may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means, including, but not limited to, electronic, mechanical, photocopying, recording or otherwise, without our prior written permission or the respective intellectual property rights owner.
-
-You may electronically copy and print portions of this website for the sole purpose of using materials it contains for informational and non-commercial, personal use only. Any other use of the materials in this website, including any commercial use, reproduction for purposes other than described above, modification, distribution, republication, display, or performance without our prior written permission is strictly prohibited.
-
-#### I. SOFTWARE
-
-Any software, including any files, images incorporated in or generated by the software, and data accompanying the software (collectively “Software”), that may be made available on this website is licensed to you on a non-exclusive and limited basis. The Costco Companies shall retain full and complete title and all intellectual property rights to Software. You shall not copy, distribute, sell, modify, decompile, reverse engineer, disassemble or create modified copyright works or other derivative works from any Software.
-
-#### J. HYPERLINKS
-
-a. Links to the website
-
-You are granted a limited, non-exclusive right to create a hypertext link to the home page only of this website, provided such link does not portray any of the Costco Companies or any of their products and services in a false, misleading, derogatory, or otherwise defamatory manner. This limited right may be revoked at any time. You may not use, frame or utilise framing techniques to enclose any Costco trade mark, logo or other proprietary information of the Costco Companies, including the images found at this website, the content of any text or the layout/design of any page, or form contained on a page without our express written consent. All other linking is prohibited without our prior consent. Except as noted above, you are not conveyed any right or licence by implication, estoppel, or otherwise to any patent, trade mark, copyright, design right, database right or other intellectual property right of the Costco Companies or any third party.
-
-b. Third Party Links
-
-We provide links and access to third party websites who we allow to offer goods, information and/or services. We do not monitor or assume responsibility for the content of third parties' statements or websites. Accordingly, we do not endorse or adopt these websites or any information they contain. We make no representations or warranties whatsoever regarding, such third party websites and accept no responsibility for the quality, content, nature, accuracy or reliability of websites accessible by hyperlink from this website or otherwise linked to this website.
-
-#### K. YOUR RESPONSIBILITIES; INFORMATION YOU PROVIDE TO US; ENFORCEMENT
-
-If you become a Subscriber and/or register on this website, you agree that any information you provide to us will be current, accurate and complete. You must inform us of any changes to that information by updating your personal registration details on this website.
-
-In addition, you agree not to use the website to: (1) Engage in or encourage a criminal offence, breachthe rights of any party, or otherwise create liability or breach any national, or international law; (2) Impersonate any person or entity or otherwise misrepresent your affiliation with a person or entity; and (3) Disseminate any harmful content of any kind, including without limitation, viruses, Trojan horses, worms, time bombs, zombies, bots or any other computer programming routines that may damage, spy-on, interfere with, surreptitiously intercept or expropriate any system, programme, data or Personal Data controlled or possessed by Costco.co.uk.
-
-All access to and use of this website is governed by and subject to the Site Terms. We have the right, but not the obligation, to monitor any activity and content associated with forums and interactive areas on this website. We may access at any time and use internally for any lawful purpose information stored on our systems, including the content of any e-mails or other communications. Consistent with our Privacy Statement and the Data Protection Act of 1998, we may disclose such information to any third party including law enforcement agencies to protect our rights, property or staff in response to legal process, or in a good faith belief that such disclosure is justified or required in an emergency situation.
-
-We may investigate any reported breach of our Site Terms or complaints and take any action that we deem appropriate. We have the right, but not the obligation, to carry out this process. We can carry out such actions, including but not limited to: issue a warning, suspend or terminate your access and use of the website and related services at any time. Costco takes no responsibility and assumes no liability for any Content posted or uploaded by any third party, or for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter on this website.
-
-a. **Responsibility for your Conduct**
-
-You agree to indemnify and hold harmless Costco and its employees, agents and representatives from any claim, action or demand claiming loss, or damages (including legal fees) made or incurred by any third party arising out of or relating to your use of the website, your breach of any Site Terms or of any rights of a third party. Indirect or attempted breaches of these Site Terms or any policy, and actual or attempted breaches by a third party on behalf of a user of this website will be considered breaches of these Site Terms by such user.
-
-#### L. MINORS
-
-We do not knowingly permit any person under 18 years of age to use this website. If you are under 18 years of age, you must not attempt to order goods or submit Personal Data via this website or otherwise use this website.
-
-#### M. DISCLAIMERS 
-
-This website and the materials provided on it are provided on an "as is" basis and, to the extent permitted by applicable law, without warranties of any kind, either express or implied. Costco disclaims, to the extent permitted by applicable law, all warranties, conditions and terms express or implied, including, but not limited to, any warranties that might be implied as to the compatibility of the website with your computer equipment, software or telecommunications links, or as to the fitness for any particular purpose of the website or the content on the website. Costco does not represent or warrant that the website will be available, that the website services will meet your requirements or that materials in this website are accurate, complete, reliable, current, or error-free. Costco is not responsible for typographical errors or omissions relating to pricing, text or photography. Costco does not represent or warrant that this website or its server(s) are free of viruses or other harmful components, even if Costco or its authorised representatives have been advised of the possibility of such viruses or other harmful components and you are advised to use up-to-date commercially available virus screening software when accessing or otherwise using this website. You expressly agree that use of this website, including all content, data or software, distributed by, downloaded or accessed from or through this website is at your sole risk.
-
-Reference to any products, services, processes, or other information, by trade name, trademark, manufacturer, supplier, or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof by Costco.
-
-#### N. LIMITATION OF LIABILITY 
-
-Please see our Returns and Cancellations Procedures for details of the Costco Satisfaction Guarantee. Nothing in this section affects your rights under the Costco Satisfaction Guarantee or your statutory rights including, but not limited to, your statutory cancellation rights. For further information on Consumer statutory rights, please see Section S (Further Information) below or [Statutory Rights section.](https://web.archive.org/view/content/payments_and_refunds)
-
-Except to the extent that applicable law may prohibit the exclusion of such liability, Costco shall have no liability for any direct, special, punitive, exemplary, indirect or consequential losses, liabilities, costs (including legal costs), expenses or damages of any kind (collectively, "loss and damage"), including but not limited to loss of use, loss of profits, loss of business opportunity, loss of data, loss of goodwill or reputation whether in an action in contract, tort, for tortious or contractual negligence, or otherwise, arising out of or in any way connected with the use or inability to use this website or the materials contained in, or accessed through, this website. This does not apply to any liability we may have towards you in respect of goods and services that we sell or supply to you.
-
-Other than as set out above in this section, we shall not be liable to you for any loss and damage which is not a reasonably foreseeable consequence of your use of this website and purchase of goods and services in accordance with these Site Terms.
-
-If you are not a Consumer, our maximum aggregate liability to you in respect of goods and services that you purchase from us via the website (whether in contract, tort including negligence, strict liability, breach of statutory duty or other legal theory) shall be limited to the price charged to you in relation to those goods and services.
-
-Nothing in this section shall operate to exclude or limit in any way our liability for personal injury or death caused by our negligence or our liability for fraud.
-
-#### O. GOVERNING LAW AND JURISDICTION
-
-These Site Terms shall be governed by and construed in accordance with the laws of England and Wales. Regardless of where you access this website, you agree that any claim or other legal action in law or in equity arising out of or relating to the Site Terms shall be determined only in the courts of England and Wales, and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction and venue of such courts over any suit, action or proceeding arising out of the Site Terms.
-
-#### Q. TERMINATION
-
-Notwithstanding the Site Terms, we reserve the right, without notice and in our sole discretion, to terminate your licence to use this website, and to block or prevent future access to and use of this website if you breach any of the Site Terms or applicable law. Upon termination, these Site Terms shall still apply.
-
-#### R. SEVERABILITY AND WAIVERS
-
-If any provision of the Site Terms is found to be unlawful, void, or unenforceable, then that provision shall be deemed to be severed from the rest of the Site Terms and shall not affect the validity and enforceability of any and all remaining provisions.
-
-No waiver by us shall be construed as a waiver of any proceeding or succeeding breach of any and all provisions documented within the Site Terms. All waivers shall be made in writing.
-
-#### S. THIRD PARTY RIGHTS
-
-No party who is not a party to the agreement between us created by the Site Terms (other than Costco's subsidiaries and affiliates) shall have any right to enforce any of the Site Terms whether by virtue of the Contracts (Rights of Third Parties) Act 1999 or otherwise.
-
-#### T. FURTHER INFORMATION 
-
-For further information about Consumer statutory rights, please see our Consumer Fact Sheet: U.K. [Statutory Cancellation Right](https://web.archive.org/view/content/payments_and_refunds) or visit [www.adviceguide.org.uk](http://www.adviceguide.org.uk/). 
-
-#### U. CONTACT US
-
-If you experience difficulties in using the website or wish to report any matter relating to this website, please contact us:   
-By phone: freephone number **0800 0324 324**.   
-By e-mail: [customercare@costco.co.uk](mailto:customercare@costco.co.uk).  
-By mail: Costco.co.uk, Building 4400 Harris Parkway Magna Park Lutterworth LE17 4XJ 
-
-#### EXHIBIT A
-
-Currently, the registered trade marks owned by the Costco Companies include the following without limitation: BANQUET, GRANDMA PORCOS, COSTCO, COSTCO.CO.UK, COSTCO CONCIERGE SERVICES, THE COSTCO CONNECTION, COSTCO WHOLESALE, KIRKLAND, SIGNATURE, COSTCO WHOLESALE EXECUTIVE MEMBER, KIRKLAND SIGNATURE, CHOCOLATES OF THE WORLD, COURT CLASSIC, and FUNHOUSE TREATS. The Costco Companies also may use other trade marks that are not registered. 
+Costco Wholesale UK Ltd  
+UK Home Office (Privacy Department)  
+213 Hartspring Lane  
+Watford, Herts., WD25 8JS
