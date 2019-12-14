@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religionclothing.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402023858id_/https%3A//religionclothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionclothing.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214031731id_/https%3A//religionclothing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Religion Clothing
 
