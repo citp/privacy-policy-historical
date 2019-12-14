@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myrume.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619040724id_/https%3A//www.myrume.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrume.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214155219id_/https%3A//www.myrume.com/pages/privacy-policy-1) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – MyRuMe.com
 
 **SECURE ORDERING**
 
@@ -62,7 +62,7 @@ We reserve the right to disclose your personally identifiable information as req
 **Choice/Opt-out**  
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@MyRume.com](mailto:info@rumebags.com). We offer an opportunity to opt-out of certain communications on our [My Account](http://myrume.myshopify.com/account) pages, or you may [contact us](http://myrume.myshopify.com/pages/contact-us) at 866-921-0475 or RuMe, Inc 7042 S. Revere Parkway, Suite 470, Centennial, CO 80112 to opt-out.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@MyRume.com](mailto:info@myrume.com "info@myrume.com"). We offer an opportunity to opt-out of certain communications on our [My Account](https://www.myrume.com/account/login "Account") pages, or you may [contact us](https://www.myrume.com/pages/contact-us "Contact Us") at 866-921-0475 or RuMe, Inc 6981 S. Quentin St, Suite D, Centennial, CO 80112 to opt-out.
 
 **Log Files**  
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
@@ -78,12 +78,12 @@ We use both session ID cookies and persistent cookies. A session ID cookie expir
 
 We set a persistent cookie to link your shopping cart to you. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-If you reject cookies, you may still use our site, but you will not be able to place or review orders on the Site. Please [contact us](http://myrume.myshopify.com/pages/contact-us) at 866-921-0475 to place an order.
+If you reject cookies, you may still use our site, but you will not be able to place or review orders on the Site. Please [contact us](https://www.myrume.com/pages/contact-us "Contact Us") at 866-921-0475 to place an order.
 
 This privacy statement covers the use of cookies by MyRume.com
 
 **Access to Personally Identifiable Information**  
-If your personally identifiable information changes, you may correct or update it by making the change on our [My Account](http://myrume.myshopify.com/account) pages or by emailing our Customer Support at [info@MyRume.com](mailto:info@myrume.com) or by [contacting us](http://myrume.myshopify.com/pages/contact-us) at (303) 799-4256 or RuMe, Inc., Privacy Department, 7042 S. Revere Parkway, Suite 470, Centennial, CO 80112.
+If your personally identifiable information changes, you may correct or update it by making the change on our [My Account](https://www.myrume.com/account/login "Account") pages or by emailing our Customer Support at [info@MyRume.com](mailto:info@myrume.com "info@myrume.com") or by [contacting us](https://www.myrume.com/pages/contact-us "Contact Us") at (303) 799-4256 or RuMe, Inc., Privacy Department, 6981 S. Quentin St, Suite D, Centennial, CO 80112.
 
 **Security**  
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
@@ -98,5 +98,5 @@ By using our Web site or purchasing a product from us, you agree to the collecti
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-[](http://www.rumebags.com/contact_us.php)[Contact Us](http://myrume.myshopify.com/pages/contact-us)  
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@MyRume.com](mailto:info@rumebags.com) or by contacting us at 866-921-0475 or RuMe, Inc., Privacy Department, 7042 S. Revere Parkway, Suite 470, Centennial, CO 80112
+[](https://web.archive.org/web/20170619040724/http://www.rumebags.com/contact_us.php)[Contact Us](https://www.myrume.com/pages/contact-us "Contact Us")  
+If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@MyRume.com](mailto:info@myrume.com "info@myrume.com") or by contacting us at 866-921-0475 or RuMe, Inc., Privacy Department, 6981 S. Quentin St, Suite D, Centennial, CO 80112
