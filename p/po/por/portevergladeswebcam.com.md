@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503104056id_/https%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214045742id_/https%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
 
 # PTZtv - Privacy Policy
 
@@ -41,11 +41,9 @@ We contract with Google for both advertising and site traffic analytics. How the
 
 Google Analytics privacy policy is [here](https://www.google.com/analytics/learn/privacy.html). They compile aggregate, non-personal data about site traffic and site interaction so that we can offer better site experiences and features in the future. They are not permitted to use the information collected on our behalf except to help us conduct and improve our business. Data they collect is deleted after 26 months.
 
-We also contract with Sovrn for advertising. How they use information and how you can opt-out are explained [here](https://www.sovrn.com/privacy-policy/).
+We also contract with a number of other thord-party advetrtising networks as follows:
 
-Our websites also display advertising from DistrictM and their privacy policy is [here](https://districtm.net/en/page/platforms-data-and-privacy-policy/).
-
-On the Roku platform and for the PTZtv Roku channel, we are represented exclusively by [BaronsMedia.com](http://www.baronsmedia.com/) and their privacy policy is [here](http://baronsmedia.com/privacy-policy/).
+Sovrn : how they use information and how you can opt-out are explained [here](https://www.sovrn.com/privacy-policy/)
 
 Users may also opt out of the use of cookies for interest-based advertising by visiting [aboutads.info](http://optout.aboutads.info/) .
 
@@ -104,6 +102,6 @@ By using our websites, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on **February 11th, 2019**
+This policy was last modified on **December 4th, 2019**
 
 If you have further questions, please contact us by email to [info@ptztv.com](mailto:info@ptztv.com)
