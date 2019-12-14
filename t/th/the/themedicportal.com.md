@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themedicportal.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319062751id_/https%3A//www.themedicportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedicportal.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214140144id_/https%3A//www.themedicportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Medic Portal
 
@@ -16,7 +16,7 @@ For the purpose of the Data Protection Legislation, including GDPR, (EU General
 
 We may collect and process the following data about you:
 
-  * Information you give us. You may give us information about you by filling in forms on our website [www.themedicportal.com](http://www.themedicportal.com/) (our website) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our website, subscribe to our service, search for a product, place an order on our website, participate in discussion boards or other social media functions on our website, and when you report a problem with our website. The information you give us may include your name, address, school, e-mail address and phone number, financial and credit card information, personal description and photograph and academic information.
+  * Information you give us. You may give us information about you by filling in forms on our website [www.themedicportal.com](https://www.themedicportal.com/) (our website) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our website, subscribe to our service, search for a product, place an order on our website, participate in discussion boards or other social media functions on our website, and when you report a problem with our website. The information you give us may include your name, address, school, e-mail address and phone number, financial and credit card information, personal description and photograph and academic information.
   * Information we collect about you. With regard to each of your visits to our website we may automatically collect the following information: 
     * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
     * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
@@ -117,7 +117,3 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 ### 13.                EFFECTIVE DATE
 
 This Privacy Policy was updated in May 2018 and applies from this date.
-
-Loading More Content
-
-We use cookies to ensure that we give you the best experience on our website. 'All Cookies' includes cookies from third-party social media websites. If you continue to use the site without choosing a preference, only necessary cookies will be used. You can adjust cookie settings in your browser.Allow all cookiesAllow only necessary cookies[See our Cookies Policy](https://www.themedicportal.com/cookies-policy/)
