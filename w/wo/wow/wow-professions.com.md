@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow-professions.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621130319id_/http%3A//www.wow-professions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-professions.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214025533id_/https%3A//www.wow-professions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WoW-professions
 
@@ -26,7 +26,7 @@ Like many other Web sites, this website makes use of log files. The information 
 
 .:: Google, as a third party vendor, uses cookies to serve ads on [www.wow-professions.com](http://www.wow-professions.com/).  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.wow-professions.com](http://www.wow-professions.com/) and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [https://www.google.com/privacy_ads.html ](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. My advertising partners include ....  
 Google Adsense  
