@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsnfreedom.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525143129id_/http%3A//gunsnfreedom.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnfreedom.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214091728id_/http%3A//gunsnfreedom.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # Affiliate Disclosure & Privacy
 
@@ -67,5 +67,3 @@ This affiliate disclosure is subject to change without notice. Please check back
 This Affiliate Disclosure was last updated on: July 31, 2013
 
 [](https://www.pinterest.com/pin/create/button/)
-
-NASA is warning that we have 13 months to get ready.  See why FEMA has ordered 300 million body bags in the face of what some are calling WWIII. **[CLICK HERE](http://52b9e9wzui7kltqj6dyfxcuisv.hop.clickbank.net/?tid=SURVBOTPOST "Survive End Days")** (sponsored)
