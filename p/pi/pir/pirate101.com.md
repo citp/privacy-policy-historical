@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pirate101.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317003542id_/https%3A//www.pirate101.com/free_game/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pirate101.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214022414id_/https%3A//www.pirate101.com/free_game/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pirate101 Free Online Game
 
