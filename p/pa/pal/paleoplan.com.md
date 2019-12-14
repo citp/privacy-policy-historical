@@ -1,86 +1,154 @@
-> *The following text is extracted and transformed from the paleoplan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045611id_/http%3A//www.paleoplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleoplan.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214150432id_/https%3A//www.paleoplan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Paleo Plan
+# Privacy Policy
 
-## Privacy Policy
+Thank you for visiting the Paleoplan.com web site (hereinafter “Website”). Paleoplan, LLC (hereinafter “We”) understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this Website.  
 
-We WILL NEVER sell your email address to anyone. You can always unsubscribe from our lovely newsletter by clicking unsubscribe on the bottom right of the email.
+Please read this Privacy Policy before using this Website or submitting any personal information. California residents, please also see the “Note To California Residents” Section for additional rights that apply to you.
 
-## Full Policy
+By using this Website, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the Website to make sure you understand how any personal information you provide will be used.
 
-This Privacy Policy discloses the privacy practices for the Paleo Plan website (collectively, the “Website” located at www.paleoplan.com). All Meal Plans, LLC, an Orlando corporation, the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
+  1.  **Information We Collect**
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
-### 1\. Changes to Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, to the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our website.
+ **A.** **Personally Identifiable Information (Including Data That Is Shared With Third Parties / Affiliate Entities)**
 
-### 2\. Types of Information Collected and Uses of Collected Information
 
-We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information.
 
-Personally Identifiable Information. Personally Identifiable Information is information that identifies a specific End User when you engage in certain activities on the Website, such as your email address.
 
-Non-Personally Identifiable Information. Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy.
+  
+In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. Most of your customer information is stored in a third-party Customer Relationship Manager (CRM) system [insert name], and not directly on our servers.  Your credit card information is not stored by us, and is instead [passed directly to Stripe or whatever is accurate].
 
-We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.
+We may use your personal information, transfer your personal information, and/or sell your personal information for any legal purpose, including, without limitation: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; (4) to reach you, when necessary, regarding your use of the web site or product(s); and (5) to bring retail opportunities and promotional offers to you by email, direct mail, telemarketing, and/or online banner advertising. 
 
-### 3\. Release of Personally Identifiable Information
+ **By submitting your email and telephone information on this web site, you agree to receive email and telephone calls from us and the following sister companies (that are separate entities but owned by some of the same principals): PaleoHacks LLC (**[ **www.paleohacks.com**](http://www.paleohacks.com/) **) and iRollie Marketing LLC (**[ **www.irolliemarketing.com**](http://www.irolliemarketing.com/) **).  **
 
-We will not share, sell, rent, or trade your Personally Identifiable Information with other parties. We may share your information with Authorized Third Party Service Providers. We provide services and products through third parties. These “Third Party Service Providers” perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may share your information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate’s information to our bank to send out a payment. We encourage Paleo Plan Partners and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control.
+We, and our third party service providers, may maintain separate email lists for different purposes. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do.
 
-We may remarket your information. Remarketing is a way for us to connect with users, based upon your past interactions with the Paleo Plan Group website. Third-party marketing vendors may be hired by Paleo Plan to perform remarketing services. As a result, third-party vendors, including Google, may show Paleo Plan ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to Paleo Plan’s website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page at http://www.google.com/privacy_ads.html. This information is used only for remarketing purposes and will not be used by them for any other purpose.
+By submitting your email address, you also agree to allow us to use your email address for custom audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us.  
 
-We may share your information in a Business Transfer. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.
+If you wish to stop seeing ads from us on Facebook, you can turn off the ad by using the following steps:
 
-We may share your information for our Protection and the Protection of Others. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.
+  1. From within Facebook, go to the advertisement you want to turn off.
+  2. Click on the drop-down arrow in the top corner of the ad (that may be in the top right corner or top left corner).
+  3. Click on “Hide ad”. 
 
-### 4\. Release of Non-Personally Identifiable Information
 
-We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
 
-We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp
+You can also customize the ads you see in Facebook across all advertisers by using the following steps:
 
-We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
+  1. Log in to your Facebook account and click “settings”. 
+  2. Click on “Ads”. 
+  3. On that page you will see a list of options you can choose to limit and/or block the information Facebook shows to advertisers.
 
-### 5\. Updating and Correcting Information
 
-We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the “my account” section of the site, sending us an email at support@paleoplan.com or writing to us at 1227 NW Davis St. Portland, OR 97209. Please indicate your name, address and email address, and what information you would like to update when you contact us. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
 
-### 6\. User Choices on Collection and Use of Information
+If you wish to stop seeing ads from us in Google Ads, you can turn off the ad by using the following steps:
 
-As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
+  1. Go to the advertisement you want to turn off.
+  2. Click on the x in the top left corner.
+  3. Click on “Stop seeing this ad”.
 
-As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at support@paleoplan.com, by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
-### 7\. Security of Information
 
-We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.
+Other ad platforms we may use in the future have similar ways you can turn off any ad from us to stop seeing it.
 
-### 8\. Data Tracking
+In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We and the select few third party service providers receiving your data as described herein retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
 
-Cookies. To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly. Other Tracking Devices. We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.
+When your information is provided to third parties, these third parties may include providers of direct marketing services and applications. We or these third parties may supplement the information we collect online with outside records to enhance our ability to serve you, to tailor our content to you, and/or to offer you targeted advertising and other opportunities to purchase products and services that we believe may be of interest to you.
 
-### 9\. Privacy Policies of Third Party Websites
+We will NEVER share your credit card information with third parties unless you have given us explicit permission to do so, such as in order to fulfill a third party offer that you have accepted from us. 
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you on www.paleoplan.com. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
+By permitting us to collect this information, you will be able to receive information on other products and services that may be of interest to you, including related third party offers that we may send to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service. 
 
-### 10\. Miscellaneous Privacy Issues
+ **B. Non-Personally Identifiable Information**
 
-Children. Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Paleo Plan does not sell products for purchase by children. In certain instances, we sell children’s products for purchase by adults.
+We also may collect various types of non-personally identifiable information to help us make your experience more enjoyable, measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better.  
 
-Public Areas. We may provide areas on our Website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.
+For example, we may use session and persistent “cookies,” session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
 
-Notice of Privacy Rights to California Residents. California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the “Act”) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of our legal department, and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
+Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our Website. Third party retargeting networks may also use cookies to display our advertisements to you on other sites.  You can learn more about how to opt-out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-### 11\. Contacting Us
+Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
 
-Corporate Address  
-All Meal Plans, LLC (d/b/a “Paleo Plan”)  
-10524 Moss Park Rd, Suite 204-330A  
-Orlando, FL 32832  
-(844) 44-PALEO
+If you visit this Website with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this Website with an open ID, the number of items “liked” on this Website, or items on this Website that you choose to share with a third-party social media site.
 
-For Customers  
-Customer Service Inquiries | support@paleoplan.com
+Other parties such as advertising partners and analytics companies may also be collecting information about your online activity across various websites over time. The information collected by those third parties may include identifiers that allow those third parties to tailor the ads that they serve to your computer or other device.  
+
+Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” signals other than cookies, we do not currently respond to “Do Not Track” signals that are undefined.
+
+Please note that you do have the option to configure most web browsers to NOT accept cookies.  However, be aware that disabling cookies may keep you from having access to some functions or services on our Website or the web-hosted software that runs on our Website.
+
+  2.  **Third Party Actions**
+
+
+
+We do not control and are not liable for the actions of any third parties who we may promote and/or link to from this Website. We pride ourselves in recommending quality companies, but have no control over the actions of those third parties, the content they provide, or their privacy practices. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
+
+  3.  **Children’s Privacy**
+
+
+
+We do not knowingly intend to collect personally identifiable information from children under 18 years of age. If your minor child has provided us with personally identifiable information, you may contact us at the phone number or mailing address listed in the section entitled “Contacting Us” if you want this information deleted from our records. We will then make reasonable efforts to remove your child’s information from the database that stores the information.
+
+  4.  **IP Addresses**
+
+
+
+We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
+
+  5.  **Commitment to Data Security**
+
+
+
+  
+All information collected from you is stored in a technically and physically secure environment. Furthermore, employees, contractors, and vendors who have access to your personally identifiable information in connection with providing services for us are required to keep the information confidential.
+
+We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
+
+  6.  **Updating, Removing, or Exporting your Personal Information**
+
+
+
+If you are a subscriber to one of our mailing lists, you can customize your information and the mailing lists you have subscribed to at any time by simply clicking the link called “Manage Preferences” at the bottom of any email you receive from us.  That will take you to a preferences center where you can update your information and communication preferences.
+
+If you have questions about the use, amendment, or deletion of Personal Information that you have provided to Us, or if you would like to opt out of future communications from us, please contact us using the information below in the Contacting Us section.
+
+If you are a European subject and wish to request that we forget you from our database, please send an email to mail@Paleoplan.com with the subject line “Forget Me” and explain in the body of the email that you are asking to have your personal data deleted.  To protect user privacy, you must send such a request from the account information we have on file or the request will not be honored. We reserve the right to retain any data that we are required to maintain under applicable laws. Some data will be anonymized rather than deleted; this means that some of the data will be held in a form that cannot be connected to you personally. Please be aware that once we delete your data, we will be unable to “undelete” it.
+
+If you are a European subject and wish to request that we export your data, such as for purposes of porting it to another vendor, please send an email to mail@Paleoplan.com with the subject line “Export My Data” and explain in the body of the email that you are asking for a data export.  We have a standard data export format that we will provide and are not able to create custom exports. To protect user privacy, you must send such a request from the account information we have on file or the request will not be honored.  
+
+You may also have other rights under applicable federal, state, or local laws.
+
+  7.  **Contacting Us**
+
+
+
+If you need to contact us, you can email us at mail@Paleoplan.com, or send us a letter at: Paleoplan LLC, 311 West Third St, Suite 3991, Carson City, Nevada 89703.
+
+We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
+
+  8.  **Severability**
+
+
+
+If any part of this Privacy Policy is held invalid or unenforceable, that portion shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions shall remain in full force and effect. 
+
+  9.  **Note To California Residents**
+
+
+
+If you live in the State of California, under the California Civil Code, you have the right to request that companies who conduct business in California provide you with a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. 
+
+Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (often referred to as “unsubscribe”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options. 
+
+This Website qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
+
+If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at [support@Paleoplan.com](mailto:mail@paleohacks.com),  or you may contact us via regular mail at: 
+
+311 West Third St, Suite 3991, Carson City, Nevada 89703
+
+ **All requests sent via regular mail must be labeled “Your California Privacy Rights” on the email subject line or envelope and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own record keeping. 
+
+ **We do not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
