@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323212138id_/https%3A//www.iihs.org/iihs/copyright-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214054151id_/https%3A//www.iihs.org/copyright-information-and-privacy-policy) for the most accurate reproduction.*
 
 # Copyright information and privacy policy
 
@@ -19,7 +19,7 @@ Requests for website usage will be subject to the following guidelines:
 
 Please contact the Legal Department at [legal@iihs.org](mailto:legal@iihs.org) if you have any questions concerning the Institutes’ copyright policy.
 
-* * *
+## Privacy policy
 
 Thank you for visiting the website of the Insurance Institute for Highway Safety and the Highway Loss Data Institute (collectively, the Institute). This Privacy Policy explains the Institute's online information practices.
 
@@ -39,8 +39,10 @@ The Institute uses the information that it collects to count the number of visit
 
 If you contact the Institute via email, the Institute will use your personal information (such as your name, email address, telephone number, and/or postal address) to respond to your request. The Institute does not provide your personal information to other organizations.
 
-The Institute sells its consumer videos and DVDs through an outside vendor, [2Checkout.com](https://www.2checkout.com/). 2Checkout guarantees secure sales. Please see 2Checkout.com's own [Privacy Policy](https://www.2checkout.com/privacy/) for more information.
+The Institute sells its consumer videos through an outside vendor, [2Checkout.com](https://www.2checkout.com/). 2Checkout guarantees secure sales. Please see 2Checkout.com's own [Privacy Policy](https://www.2checkout.com/legal/privacy/) for more information.
 
-The Institute's website includes links to federal agencies and other highway-safety organizations. When you link to another website, you are no longer on the Institute's website or subject to the Institute's Privacy Policy. However, you will be subject to the privacy policy of the new website that you are visiting. The Institute does not endorse any information or services that these external sites offer, and only provides the links as a service to you.
+The Institute's website includes links to websites maintained by other organizations. When you link to another website, you are no longer on the Institute's website or subject to the Institute's Privacy Policy. Instead, you will be subject to the privacy policy of the new website that you are visiting. The Institute does not endorse any information or services that these external sites offer and only provides the links as a service to you.
+
+For information on how to disable cookies in your specific browser, navigate [here](https://www.internetcookies.org/disable-cookies/).
 
 * * *
