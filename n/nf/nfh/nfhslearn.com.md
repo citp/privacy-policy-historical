@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfhslearn.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325235407id_/https%3A//nfhslearn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfhslearn.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214091503id_/https%3A//nfhslearn.com/privacy_policy) for the most accurate reproduction.*
 
 # NFHS Learn | Interscholastic Education, Made Easy
 
