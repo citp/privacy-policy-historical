@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinasichuanfood.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326081844id_/https%3A//www.chinasichuanfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinasichuanfood.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214154713id_/https%3A//www.chinasichuanfood.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | China Sichuan Food
 
