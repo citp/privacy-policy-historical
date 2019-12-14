@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomhartmann.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623005540id_/https%3A//www.thomhartmann.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomhartmann.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214104629id_/https%3A//www.thomhartmann.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Thom Hartmann
 
