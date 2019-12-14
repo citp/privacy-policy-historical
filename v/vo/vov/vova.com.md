@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vova.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409173144id_/https%3A//www.vova.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vova.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214173917id_/https%3A//www.vova.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Vova | Privacy Policy
 
