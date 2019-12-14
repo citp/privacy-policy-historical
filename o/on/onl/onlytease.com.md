@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlytease.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627145621id_/https%3A//www.onlytease.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlytease.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214080120id_/https%3A//www.onlytease.com/privacy-policy) for the most accurate reproduction.*
 
-# Only Tease - Erotic models in sexy lingerie
+# Privacy Policy - OnlyTease
 
 ## 1.0 – Our beliefs regarding user privacy and data protection
 
