@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naseej.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425130404id_/https%3A//naseej.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naseej.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214064656id_/https%3A//www.naseej.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Naseej نسيج
 
-This privacy policy discloses the information collection and use practices for our website (www.naseej.com) – referred to hereunder as “this website”. 
+This privacy policy discloses the information collection and use practices for our website (www.naseej.com) – referred to hereunder as “this website”.
 
 We are aware that many visitors and users of this website my feel concerned about their submitted information and how we deal with it.  This privacy notice – which can be regularly updated – is meant to address such concerns.
 
@@ -35,16 +35,15 @@ How we use collected information?
   * We use your personal information to offer you customized content. In some cases, we communicate with you about our products and services. If you no longer wish to receive such information, you may notify us by contacting through “Contact us” or by emailing us.
   * We use the collected information to better understand your needs, to improve our services and enhance our website usability. This information may help us boost our website design and content, or for our products and services analysis and display.
   * No third party will have access to your information.
-  * To protect your personal data, we use the appropriate security technologies for electronic storage and transmission of data. 
+  * To protect your personal data, we use the appropriate security technologies for electronic storage and transmission of data.
   * This website contains URLs to other websites and portals that may employ different privacy and information security measures. We not responsible for their content and privacy principles. You are kindly advised to consult their privacy notices.
 
 
 
 For inquiries or suggestions on our privacy notice, please contact the website management on this email:  info@naseej.com
 
- **Naseej - Arabian advanced Systems**
+ **Naseej – Arabian advanced Systems**
 
- **Copyrights 2012 - 2017**
+ **Copyrights 2012 – 2019**
 
- **All Rights Reserved Arabian Advanced Systems  **  
-
+ **All Rights Reserved Arabian Advanced Systems**
