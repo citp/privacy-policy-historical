@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailinganarchy.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203170740id_/https%3A//sailinganarchy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailinganarchy.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214203242id_/https%3A//sailinganarchy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Sailing Anarchy
 
