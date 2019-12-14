@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyesmen.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331231628id_/https%3A//theyesmen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyesmen.org privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214112432id_/https%3A//theyesmen.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Yes Men
 
