@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoptimer.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506170702id_/https%3A//www.seoptimer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoptimer.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214112234id_/https%3A//www.seoptimer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SEOptimer: SEO Audit & Reporting Tool. White Label Option.
+# Privacy Policy - SEOptimer
 
 SEOptimer takes the privacy of all user and customer data very seriously.
 
