@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boldcommerce.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320033200id_/https%3A//boldcommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldcommerce.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214040928id_/https%3A//boldcommerce.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Bold Commerce
+# Privacy Statement | Shopify App & Development Experts
 
 ### Published Date: May 28th, 2018
 
@@ -8,7 +8,7 @@
 
 Protecting your privacy is important to Bold Innovation Group LTD. (“Bold Commerce”)
 
-Bold Commerce provides services and develops software to help merchants sell better or more efficiently online through various platforms, such as Shopify. Bold Commerce has adopted this Privacy Statement to guide you through the collection, use, retention, and disclosure of Personally Identifiable Information (“Personal Data”, as further described below) that you may provide while using Bold Commerce websites, apps, and services in connection with these platforms (collectively referred to as “Services”). [A listing of the Bold Commerce websites and domains is available here](https://boldcommerce.com/domains-list). Bold Commerce encourages you to read this Privacy Statement, as well as our Terms and Conditions of Use, in order to understand how we collect and process Personal Data in the course of providing the Services and your interaction with the Services.
+Bold Commerce provides services and develops software to help merchants sell better or more efficiently online through various platforms, such as Shopify. Bold Commerce has adopted this Privacy Statement to guide you through the collection, use, retention, and disclosure of Personally Identifiable Information (“Personal Data”, as further described below) that you may provide while using Bold Commerce websites, apps, and services in connection with these platforms (collectively referred to as “Services”). [A listing of the Bold Commerce websites and domains is available here](https://web.archive.org/domains-list). Bold Commerce encourages you to read this Privacy Statement, as well as our Terms and Conditions of Use, in order to understand how we collect and process Personal Data in the course of providing the Services and your interaction with the Services.
 
 By using the Services, you consent to the collection, use, retention, and disclosure of your Personal Data for processing as described in, and subject to the limitations set out in, this Privacy Statement.
 
@@ -116,7 +116,7 @@ Bold Commerce may also disclose Personal Data about you in connection with legal
 
 Finally, as Bold Commerce’s business develops, it may sell or buy corporate assets, and in such transactions Personal Data may be one of the transferred business assets. If Bold Commerce, its internet businesses, or substantially all of its shares or assets, is acquired or an acquisition is contemplated, Personal Data may be one of the assets assessed or transferred in connection with that transaction.
 
-[A list of Data Processors engaged by Bold Commerce who may receive Personal Data is available here](https://boldcommerce.com/data-processors). New processors will be added to this list 30 days prior to being integrated into our Services. If you are subject to the GDPR and have objections to a Data Processor addition please contact the Bold Commerce Privacy Officer via the Contact & Questions area at the bottom of this Privacy Statement. Objections to Data Processors may impact the Services which can be offered or provided to you by Bold Commerce.
+[A list of Data Processors engaged by Bold Commerce who may receive Personal Data is available here](https://web.archive.org/data-processors). New processors will be added to this list 30 days prior to being integrated into our Services. If you are subject to the GDPR and have objections to a Data Processor addition please contact the Bold Commerce Privacy Officer via the Contact & Questions area at the bottom of this Privacy Statement. Objections to Data Processors may impact the Services which can be offered or provided to you by Bold Commerce.
 
 If you believe your Personal Data has been disclosed other than as described in this Privacy Statement, please contact the Bold Commerce Privacy Officer via the Contact & Questions area at the bottom of this Privacy Statement.
 
