@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veggietales.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503000049id_/http%3A//www.veggietales.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veggietales.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214010420id_/https%3A//www.veggietales.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
