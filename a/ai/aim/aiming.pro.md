@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the aiming.pro privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508020516id_/https%3A//aiming.pro/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiming.pro privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214070650id_/https%3A//aiming.pro/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Aiming.Pro
 
 ## Aiming.Pro Privacy Policy
-
-  
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/aiming.pro).  
-
 
 This privacy policy sets out how Aiming.Pro uses and protects any information that you give [business name] when you use this website.
 
@@ -57,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://aiming.pro/cdn-cgi/l/email-protection)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at contact@aiming.pto
 
 
 
