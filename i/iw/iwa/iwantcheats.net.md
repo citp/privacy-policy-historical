@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iwantcheats.net privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526205043id_/https%3A//www.iwantcheats.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantcheats.net privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214060030id_/https%3A//www.iwantcheats.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IWantCheats.com
-
-## **Effective Date: November, 2014**
 
 The following Privacy Policy governs the online information collection practices of IWANTCHEATS.COM ”we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the iwantcheats.net website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
