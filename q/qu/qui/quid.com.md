@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quid.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411191402id_/https%3A//quid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quid.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214085024id_/https%3A//quid.com/privacy-policy) for the most accurate reproduction.*
 
 # Quid
 
@@ -9,7 +9,7 @@ This Privacy Policy applies to Personal Information that is processed by Quid in
 
 **E.U. GENERAL DATA PROTECTION REGULATION**
 
-Quid has taken steps in an effort to comply with the EU GENERAL DATA PROTECTION REGULATION (“GDPR”) as set forth by the Council of the European Union and European Parliament, which becomes enforceable May 25, 2018, regarding the collection, use, transmission, processing, and retention of personal identifiable data of natural persons from European Union member countries. The GDPR is meant to strengthen the security and protection of personal data and to harmonize data protection laws throughout the EU. 
+Quid has taken steps in an effort to comply with the EU GENERAL DATA PROTECTION REGULATION (“GDPR”) as set forth by the Council of the European Union and European Parliament, which became enforceable May 25, 2018, regarding the collection, use, transmission, processing, and retention of personal identifiable data of natural persons from European Union member countries. The GDPR is meant to strengthen the security and protection of personal data and to harmonize data protection laws throughout the EU. 
 
 What this means is that we at Quid are committed to protecting your data in a secure and transparent manner. Quid processes, uses, and exchanges personal data for our legitimate business purposes only in the limited uses described herein. 
 
@@ -101,7 +101,7 @@ The Services are not directed to children under 16 years of age, and Quid does n
 
 **CALIFORNIA RESIDENTS**
 
-Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” any of our users who are California residents are entitled to request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties or corporate affiliates for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address Quid Inc., 600 Harrison Street, Suite 400, San Francisco, CA  94107\. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response. 
+Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” any of our users who are California residents are entitled to request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties or corporate affiliates for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address Quid Inc., One California St, 23rd Floor, San Francisco, CA 94111. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response. 
 
 **CONTACT US**
 
@@ -113,4 +113,4 @@ You can also contact us by mail at Quid Inc., One California St, 23rd Floor San 
 
 Quid reserves the right to change this Privacy Policy at any time. If there are any material changes to this Privacy Policy, Quid will notify you by email or as otherwise required by applicable law. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective immediately when it is posted (or upon notice as applicable). 
 
-Effective as of May 21, 2018
+Effective as of November 14, 2019
