@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615224350id_/https%3A//catalog.flatworldknowledge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214180244id_/https%3A//catalog.flatworldknowledge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,7 +61,7 @@ Some of the cookies used by our website are set by us, and some are set by third
 
 Most web browsers automatically accept cookies, but have the ability to decline cookies. This can be done by activating the setting on your browser that enables you to decline the cookies. Please note that if you choose to decline cookies, you may be unable to access parts of our website.
 
-In addition to cookies, tracking GIFs, also knows as “pixels” or “web beacons,” may be set by us or third parties in respect of your use of the Products. Tracking GIFs are small image files within the content of the Products (including our websites, Ebooks, emails we send, and the like), or by third parties, to gather information about which parts of the Products are viewed and whether particular content is of interest.
+In addition to cookies, tracking GIFs, also knows as “pixels” or “web beacons,” may be set by us or third parties in respect of your use of the Products. Tracking GIFs are small image files within the content of the Products (including our websites, eBooks, emails we send, and the like), or by third parties, to gather information about which parts of the Products are viewed and whether particular content is of interest.
 
 ## II. FlatWorld's use of your information
 
