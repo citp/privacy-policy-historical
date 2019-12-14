@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502170724id_/https%3A//www.redlion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214075737id_/https%3A//www.redlion.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Red Lion Hotels
 
@@ -206,12 +206,12 @@ We do not sell products or services for purchase by minors (defined as individua
 
 ### How do I get in touch with you or your data protection officer?
 
-We hope that we can satisfy queries you may have about the way we process your data. You can get in touch with RLH Corporation’s Data Protection Officer if you have any concerns or queries about how we process your data at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by writing to the following address:
+We hope that we can satisfy queries you may have about the way we process your data. You can get in touch with RLH Corporation’s Data Protection Officer if you have any concerns or queries about how we process your data at DPO@rlhco.com or by writing to the following address:
 
-**RLH Corporationc/o Data Protection Officer**  
+**RLH Corporation C/O Data Protection Officer**  
 RLH Corporation  
 1550 Market St #350  
-Denver, CO 8020
+Denver, CO 80202
 
 * * *
 
@@ -245,6 +245,6 @@ If you have any questions about this Privacy Policy please contact:
 
 **RLH Corporation**  
 1550 Market St #350  
-Denver, CO 8020
+Denver, CO 80202
 
-[[email protected]](http://Privacy@redlion.com/)
+[Privacy@rlhco.com](https://www.redlion.com/)
