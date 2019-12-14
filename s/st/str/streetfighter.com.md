@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615104540id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214074525id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -6,19 +6,19 @@
 
 ## CAPCOM USA ONLINE PRIVACY STATEMENT
 
-Last updated August 2, 2018
+Last updated August 6, 2019
 
-Here is a [PDF version](https://web.archive.org/web/20190615104540id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20USA%20Online%20Privacy%20Statement%2020180802.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20191214074525id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202019.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
 
 Welcome to Capcom USA!
 
 **OUR PRIVACY COMMITMENT**
 
-Capcom U.S.A., Inc. (collectively, "Capcom USA", "Capcom", or "we") respects the privacy rights of our online visitors and users of our mobile, online, downloadable products, websites and services, and we recognize the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Capcom USA Online Privacy Policy ("Privacy Policy") to outline for you how we collect and process your information.
+Capcom U.S.A., Inc. (collectively, "Capcom USA", "Capcom", or "we") respects the privacy rights of our online visitors and users of our mobile, online, downloadable products, websites, games, newsletters, applications, and other services (each a “Service” or collectively, the “Services”), and we recognize the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Capcom USA Online Privacy Policy ("Privacy Policy") to outline for you how we collect and process your information.
 
 This Privacy Policy applies to the use and sharing of information collected on and after the date that this Privacy Policy is posted. Unless applicable law requires your affirmative consent (as further described herein), by using our Services, you hereby consent to this Privacy Policy.
 
-This Privacy Policy and the ESRB certification seals shown on our websites confirm that Capcom USA is a member in good standing of the Entertainment Software Rating Board's Privacy Certified Program ("ESRB Privacy Certified"). To protect your privacy, we have voluntarily undertaken this privacy initiative and all our websites, products, and services where this Privacy Policy is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use, and disclosure practices. As a licensee of this privacy program, we are subject to frequent audits of our Services (defined below) and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
+Capcom USA is a member in good standing of the Entertainment Software Rating Board's Privacy Certified Program ("ESRB Privacy Certified"). To protect your privacy, we have voluntarily undertaken this privacy initiative. All our Services where this Privacy Policy is posted and an ESRB Privacy Certified seal is displayed have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use, and disclosure practices. As a licensee of this privacy program, we are subject to audits of our Services and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
 
 **TABLE OF CONTENTS**
 
@@ -38,29 +38,15 @@ This Privacy Policy and the ESRB certification seals shown on our websites confi
 
 ## • Q1. What information does this Privacy Policy cover?
 
-This Privacy Policy applies only to information collected on or through the websites, services, games and applications (each a “Service” or collectively, the “Services”) offered to you by Capcom USA, and to information shared with Capcom USA by certain third parties (as further described in this Privacy Policy). It does not apply to any other information collected by Capcom USA through any other means.
+This Privacy Policy applies only to information collected on or through the Services offered to you by Capcom USA, and to information shared with Capcom USA by certain third parties (as further described in this Privacy Policy). It does not apply to any other information collected by Capcom USA through any other means.
 
-Please note that this Privacy Policy applies only to information submitted and collected via the Internet, and does not apply to information that may be collected by Capcom via offline means. Further, this Privacy Policy applies only to the Services offered and maintained by Capcom USA, and not to any websites, services, games and/or applications offered and/or maintained by our international affiliates (e.g., Capcom Vancouver, Capcom Asia, Capcom Europe, and Capcom Japan), or, unless otherwise described in this Privacy Policy, any other companies or organizations to which we link. Capcom USA is therefore not responsible for the content or activities provided on those websites, except as expressly provided in this Privacy Policy.
+Please note that this Privacy Policy applies only to information submitted and collected via the Internet, and does not apply to information that may be collected by Capcom via offline means. Further, this Privacy Policy applies only to the Services offered and maintained by Capcom USA, and not to any websites, services, games and/or applications offered and/or maintained by our international affiliates (e.g., Capcom Media Ventures, Capcom Asia, Capcom Europe, and Capcom Japan), or, unless otherwise described in this Privacy Policy, any other companies or organizations to which we link. Capcom USA is therefore not responsible for the content or activities provided on those websites, except as expressly provided in this Privacy Policy.
 
-**Third Party Websites**
+**Third-Party Websites**
 
-Once you have clicked on an advertisement or a third party link and have left our websites or other Services, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser/third party to see how your information will be collected and processed on its website.
+Once you have clicked on an advertisement or a third-party link on our site and have left our websites or other Services, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser/third party to see how your information will be collected and processed on its website.
 
-Please note that the Capcom merchandise and apparel stores (accessible at <http://shop.capcom.com/>) are third party websites operating under license from Capcom USA, and are not covered by this Privacy Policy. Specifically, the purchase information collected through the [Capcom merchandise store](http://store.capcom.com/) is collected and used by Digital River, Inc. and is therefore governed by Digital River's privacy policy. Similarly, the purchase information collected through the [Capcom apparel store](http://www.capcomstore.com/) is collected and used by Pinpoint Marketing Group, Inc. and is therefore governed by Pinpoint Marketing Group, Inc.’s privacy policy. We encourage you to review Digital River and Pinpoint’s privacy policies carefully, and you may reach out to them directly with any questions you have regarding their privacy practices at the following:
-
-**Digital River, Inc.**  
-ATTN: Privacy Department  
-10380 Bren Road West  
-Minnetonka, MN 55343  
-
-
-**Pinpoint Marketing Group, Inc.**  
-ATTN: Privacy Department  
-3710 W. Royal Ln, Suite 125  
-Irving, TX 75063  
-
-
-Finally, the terms of this Privacy Policy are subject to all applicable laws.
+Please note that the Capcom merchandise and apparel store (accessible at <http://shop.capcom.com/>) is a third-party website operating under license from Capcom USA, and is not covered by this Privacy Policy. Specifically, all personal information, including purchase information, collected through the Capcom store is collected and used by Scalefast, Inc. pursuant to the privacy policy that governs that store (the “Scalefast Privacy Policy,” available at <https://store.capcom.com/us/docs/privacy>), which we encourage you to review carefully. You may reach out to Scalefast directly with any questions you have regarding their privacy practices by visiting <https://www.scalefast.com/#contact-modal.Pursuant> to the Scalefast Privacy Policy, Scalefast shares all information collected from consumers of the Capcom store with Capcom USA. This includes a consumer’s name, date of birth, street address, email address, payment information, and payment history. All information shared with Capcom USA originating from the Capcom store is handled in accordance with this Privacy Policy.
 
 (Back to top)
 
@@ -119,7 +105,7 @@ Other times, we collect your personal information automatically when you use our
 
 
 
-As referenced above, please note that when purchasing merchandise and apparel from Digital River, Inc. and Pinpoint Marketing Group, Inc., you may have the ability to authorize those third parties to transfer to Capcom your email address and other information for our direct marketing purposes. Should you choose not to consent to the sharing of this information, no personal information will be provided to us by Digital River, Inc. and/or Pinpoint Marketing Group, Inc.
+As referenced above, please note that when purchasing merchandise and apparel from Scalefast, Inc., the personal information you provide Scalefast will be shared with Capcom USA.
 
 **Non-Personal Information That We Collect**
 
@@ -129,9 +115,9 @@ Additionally, we may also collect other types of non-personal information (known
 
 i. Information Collected Through Social Networking Services
 
-You can engage with our Services on or through third-party social networking websites, such as Facebook, Twitch and Twitter, or other third-party social media plug-ins and applications which may be hosted on separate websites or embedded within or integrated with our Services. Where practicable, we will provide clear notice before you are directed to a third-party social networking website, plug-in, or application. When you engage with our Services on or through third-party social networking websites, plug-ins and applications, you may authorize us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the "likes" you make) to deliver content or as part of the operation of the Service. We may also obtain non-personal information from your interaction with our Services (e.g., content viewed, game performance and scores, and information about advertisements within the content you have been shown or may have clicked on).
+YYou can engage with our Services on or through third party social networking websites, such as Facebook, Twitch and Twitter, or other third party social media plug-ins and applications which may be hosted on separate websites or embedded within or integrated with our Services. Where practicable, we will provide clear notice before you are directed to a third party social networking website, plug-in, or application. When you engage with our Services on or through third-party social networking websites, plug-ins and applications, you may authorize us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the "likes" you make) to deliver content or as part of the operation of the Service. We may also obtain non-personal information from your interaction with our Services (e.g., content viewed, game performance and scores, and information about advertisements within the content you have been shown or may have clicked on).
 
-By engaging with our Services on and through social networking websites, you consent to the sharing of such personal information with Capcom in accordance with this Privacy Policy. Please note that when you provide personal information to us through social networking websites, it may be publicly viewed by other members of those social networking websites, and we cannot prevent further use of the information by third parties. Further, any use of third-party social networking websites, plug-ins, or applications will be subject to such third-party social network’s respective terms of service and privacy policy, and may result in the collection of information about your use of our Services by those third parties. 
+By engaging with our Services on and through social networking websites, you consent to the sharing of such personal information with Capcom in accordance with this Privacy Policy. Please note that when you provide personal information to us through social networking websites, it may be publicly viewed by other members of those social networking websites, and we cannot prevent further use of the information by third parties. Further, any use of third party social networking websites, plug-ins, or applications will be subject to such third party social network’s respective terms of service and privacy policy, and may result in the collection of information about your use of our Services by those third parties.
 
 ii. Information Collected Through First Party Platforms
 
@@ -240,9 +226,9 @@ Information collected from those who voluntarily submit it to us is used to prov
 
 If you register for access to our blogs or message boards, we will use your personal information to enable you to view and post messages on the boards. You should understand, however, that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community. So whenever you give out personal information in public areas, that information can be collected and used by people you don't know.
 
-Should you wish to remove content or information after you have posted it, you may do so by logging into your Capcom account and clicking either the "garbage can" or "x" icon located on your post. Alternatively, you may contact us at [privacy@capcom.com](mailto:privacy@capcom.com) with your request. In addition, Capcom provides all registered users the ability to completely and permanently delete their account information including all comments, blogs, and forum posts. To delete your Capcom-Unity account, please log in and visit this link: <http://www.capcom-unity.com/help/remove_user.one>. Please note that deleting your profile cannot be reversed.
+Should you wish to remove content or information after you have posted it, you may do so by logging into your Capcom account and clicking either the "garbage can" or "x" icon located on your post. Alternatively, you may contact us at [privacy@capcom.com](mailto:privacy@capcom.com) with your request. In addition, Capcom provides all registered users the ability permanently delete their account information including all comments, blogs, and forum posts. To delete your Capcom-Unity account, please log in and visit this link: <http://www.capcom-unity.com/help/remove_user.one>. Please note that deleting your profile cannot be reversed.
 
-Please also note that removal of this content or information from public view does not guarantee complete or comprehensive removal. After your removal request has been honored, we may retain copies of the content or information you have previously posted on our servers if we have a legal basis for doing so. For example, we are not required to remove your posted content or information if it has been rendered anonymous or if we are ordered by a court to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted this information. 
+Please also note that removal of this content or information from public view does not guarantee complete or comprehensive removal. After your removal request has been honored, we may retain copies of the content or information you have previously posted on our servers if we have a legal basis for doing so. For example, we are not required to remove your posted content or information if it has been rendered anonymous or if we are ordered by a court to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted this information.
 
 **Operational Uses**
 
@@ -262,7 +248,7 @@ From time to time, we may purchase a business or sell one or more of our busines
 
 **Third Party Processing**
 
-Capcom engages third parties, located both within and outside of the United States, to collect and/or process your personal information on our behalf in connection with our offering and maintenance of the Services, such as for providing back-end server/matchmaking services, customer support services, and analytics services, conducting market surveys, or sending newsletters, or otherwise in accordance with the purpose(s) for which your personal information was originally collected. When these third party service providers collect or receive your personal information, we require that they use your personal information only on our behalf, not sell your personal information to third parties, not disclose your personal information except as may be required by law, or as permitted by us or as stated in this Privacy Policy.
+Capcom engages third parties, located both within and outside of the United States, to collect and/or process your personal information on our behalf in connection with our offering and maintenance of the Services, such as for providing back-end server/matchmaking services, customer support services, analytics services, conducting market surveys, or sending newsletters, or otherwise in accordance with the purpose(s) for which your personal information was originally collected. When these third party service providers collect or receive your personal information, we require that they use your personal information only on our behalf, not sell your personal information to third parties, not disclose your personal information except as may be required by law, or as permitted by us or as stated in this Privacy Policy.
 
 To the extent that your personal information may be transferred to countries outside of the United States, we will take measures to ensure that any such transfers comply with applicable data protection laws and that your personal information remains protected to the standards described in this Privacy Policy.
 
@@ -335,7 +321,7 @@ San Francisco, CA 94107
 
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-Capcom is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not properly responded to your inquiry, please contact the ESRB at <http://www.esrb.org/privacy/contact.jsp>, or:
+Capcom is a member of the ESRB's Privacy Certified Program. If you believe that we have not properly responded to your inquiry, please contact the ESRB at <http://www.esrb.org/privacy/contact>, or:
 
 ESRB  
 Attn.: Privacy Certified Program  
@@ -346,7 +332,7 @@ New York, NY 10170
 
 (Back to top)
 
-## • Q8. How can you access and control the use of your personal information? 
+## • Q8. How can you access and control the use of your personal information?
 
 Capcom provides you choices when it comes to the collection and use of your personal information. For example, you can choose to opt in or out of marketing emails. If you would like to opt out at any time after granting consent, contact us at the following:
 
@@ -364,7 +350,7 @@ You also may adjust your browser settings to block certain online tracking, such
 
 Users residing in certain countries, including the EU/EEA users, are afforded certain additional rights regarding their personal information. Except where an exception or exemption applies, these rights include the ability to access, correct, and request deletion of your personal information; request a portable copy of your personal information; or otherwise object to or restrict how we use your personal information.
 
-At any time, you may contact us to deactivate your Capcom accounts, delete the personal information associated with your accounts or otherwise collected in connection with your use of our Services by contacting our Privacy Policy Administrator at the address above. If you choose to do so, you may no longer have access to the Services associated with your accounts. Note that Capcom may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information only for as long as reasonably necessary to provide you Services, create and improve our products, comply with the law, and to run our business.
+At any time, you may contact us to deactivate your Capcom accounts, delete the personal information associated with your accounts or otherwise collected in connection with your use of our Services by contacting our Privacy Policy Administrator at the address above. If you choose to do so, you may no longer have access to the Services associated with your accounts. Note that Capcom may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information only for as long as reasonably necessary to provide you Services, create and improve our products, comply with the law, or to run our business.
 
 You may exercise your rights concerning your personal information at any time. To exercise your personal data rights, send us an email at [privacy@capcom.com](mailto:privacy@capcom.com) headed "Subject Access Request". Before we process any request, we may ask you for certain personal information in order to verify your identity. Where permitted by local law, we may reject requests that are unreasonable or impractical. We will respond to your requests in a reasonable timeframe.
 
