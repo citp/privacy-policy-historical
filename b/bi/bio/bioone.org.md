@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioone.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622191608id_/https%3A//bioone.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioone.org privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214232603id_/https%3A//bioone.org/privacy-policy) for the most accurate reproduction.*
 
 # BioOne Privacy Policy
 
