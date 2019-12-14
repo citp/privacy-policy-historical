@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaskawa.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119205312id_/https%3A//www.yaskawa.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaskawa.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214151014id_/https%3A//www.yaskawa.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Privacy Policy - Yaskawa
 
