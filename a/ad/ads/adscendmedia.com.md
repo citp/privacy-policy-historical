@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adscendmedia.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428161244id_/http%3A//adscendmedia.com/notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adscendmedia.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214175903id_/http%3A//adscendmedia.com/notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adscend Media
 
