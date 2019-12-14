@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyplate.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623022745id_/https%3A//www.everyplate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyplate.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214071115id_/https%3A//www.everyplate.com/privacy-policy) for the most accurate reproduction.*
 
 # EveryPlate: The Affordable Meal Kit for Everyone
 
@@ -135,7 +135,7 @@ EveryPlate strives to provide you with choices regarding the personal informatio
 
 
 
-Please note that we do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's [website](http://www.networkadvertising.org/choices/).
+Please note that we do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's [website](https://www.networkadvertising.org/choices/).
 
 #### Your Access To Information
 
