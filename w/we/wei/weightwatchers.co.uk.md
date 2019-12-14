@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306080813id_/https%3A//www.weightwatchers.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214205917id_/https%3A//www.weightwatchers.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WW UK
 
@@ -181,7 +181,7 @@ We do not use your Personal Data to make decisions with legal or similar effects
 
 **WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?**
 
-If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy or the applicable data protection laws, please contact our data protection officer at [uk.legal@weightwatchers.co.uk](mailto:uk.legal@weightwatchers.co.uk). 
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy or the applicable data protection laws, please contact our data protection officer at [legal.uk@ww.com](mailto:legal.uk@ww.com). 
 
 **CHANGES TO THIS PRIVACY POLICY**
 
