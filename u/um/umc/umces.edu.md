@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umces.edu privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601210354id_/https%3A//www.umces.edu/terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umces.edu privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214193729id_/https%3A//www.umces.edu/terms-use) for the most accurate reproduction.*
 
 # Terms of Use | University of Maryland Center for Environmental Science
 
