@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the heap.io privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225008id_/https%3A//heap.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heap.io privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214034554id_/https%3A//heap.io/privacy) for the most accurate reproduction.*
 
-# Privacy - Heap | Mobile and Web Analytics
+# Privacy - Heap | Product and Web Analytics
 
-#### **HEAP ANALYTICS** **PRIVACY STATEMENT**
+**HEAP  PRIVACY POLICY**
 
-This website privacy statement (“Privacy Statement”) provides information regarding how Heap, Inc. (“Heap” or “we”) collects, uses and transfers personally identifiable information (“Personal Data”) from you through Heap’s publicly accessible website (http://www.Heap.io) (the “Website” or “Site”).  By using this Website, you consent to the collection and use of your Personal Data as described herein. If you do not agree with the terms set out herein, please do not use this website.  If Heap decides to make changes to this Privacy Statement, Heap will post the changes on this website so that you will know what Personal Data we collect, and how we use it. We therefore encourage you to periodically look for updates to this Privacy Statement.
+ **Last Update:** August 30, 2019
 
-This Privacy Statement describes how Heap makes use of your Personal Data and your rights regarding the same.  The following information is included in this Privacy Statement:
+This Website Privacy Policy (“Privacy Policy”) provides information regarding how Heap, Inc. (“Heap” or “we”) collects, uses and transfers personally identifiable information (“Personal Data”) from you through Heap’s publicly accessible website ([http://www.Heap.io](http://www.heap.io/)) (the “Website” or “Site”).  By using this Website, you consent to the collection and use of your Personal Data as described herein. If you do not agree with the terms set out herein, please do not use this website.  If Heap decides to make changes to this Privacy Policy, Heap will post the changes on this website so that you will know what Personal Data we collect, and how we use it. We therefore encourage you to periodically look for updates to this Privacy Policy.
+
+This Privacy Policy describes how Heap makes use of your Personal Data and your rights regarding the same.  The following information is included in this Privacy Policy:
 
   1. THE HEAP SERVICE
   2. COLLECTION OF PERSONAL DATA
@@ -20,7 +22,7 @@ This Privacy Statement describes how Heap makes use of your Personal Data and yo
 
 
 
- **1\. THE HEAP SERVICE**
+ **1\. THE HEAP SERVICE  **
 
 Heap is a user behavioral analytics product and service. We allow businesses and websites to collect and analyze data about how their users are interacting with their services. Heap does this by collecting data on what users are doing, including but not limited to what webpages they visit, what users click on, where those users are located, what browser or platform those users are using, and many other forms of behavioral or personal data.
 
@@ -34,6 +36,8 @@ When you request information on the Website, subscribe to a mailing list or for 
   * certain information related to the business you represent such as number of employees and industry type.
 
 
+
+If you receive services from us and advertently disclose personal health information to us, we may collect and store such personal health information also. This is limited only to customers who work with personal health information and collect personal health information. It is your responsibility to not disclose personal health information to Heap. ]
 
 You may opt out of providing information by not entering it when asked and, if such information is required in order to allow us to respond to your inquiry, you will receive a notice advising you of this.
 
@@ -56,7 +60,7 @@ We may also automatically record certain information from your device by using v
 
 
 
-We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message. This information is gathered from all users, and may be connected with other information about you.
+We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message. This information is gathered from all users and may be connected with other information about you.
 
 When you use our Website, we may send one or more cookies (small text files containing a string of alphanumeric characters) to your device. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our Sites. Your web browser may provide you with some options regarding cookies. Please note that if you delete, or choose not to accept, cookies from our Websites, you may not be able to utilize the features to their fullest potential. We may use third party cookies in connection with our Website.
 
@@ -73,7 +77,7 @@ We use the information that we collect on or through our Website to:
 
 
 
- ** ** **4\. LEGAL BASIS OF PROCESSING PERSONAL DATA**
+ **4\. LEGAL BASIS OF PROCESSING PERSONAL DATA**
 
 If you are visiting our Website from the European Economic Area, we typically collect and/or process your Personal Data when we have a legitimate business interest or your specific consent.
 
@@ -120,24 +124,14 @@ We welcome your comments or questions about this privacy policy. You may also co
 
 Email address:  privacy@heap.io
 
-Mailing Address until June 25th, 2018:
-
-460 Bryant St. Ste 300
-
-San Francisco, CA 94107
-
-Mailing Address as of June 25th, 2018:
-
-225 Bush St. 2nd Floor
-
-San Francisco, CA 94104
+Mailing Address: 225 Bush St. 2nd Floor, San Francisco, CA 94104
 
 Data Protection Officer: Jerry van Leeuwen
 
-Email address:  dpo@heap.io
+Email address:  [dpo@heap.io](mailto:dpo@heap.io)
 
 [Learn more](https://heap.io/blog/company/heaps-commitment-to-gdpr-and-data-privacy)
 
-To request modifications or withdraw consent please complete the [form](https://goo.gl/forms/Ooz9VTVW2ifDcISG3).
+To request modifications or withdraw consent please complete the [form](https://goo.gl/forms/Ooz9VTVW2ifDcISG3).
 
- **Last Updated: May 1, 2018**
+ **Last Update** : August 30, 2019
