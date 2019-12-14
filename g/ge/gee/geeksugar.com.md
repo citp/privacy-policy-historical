@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geeksugar.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626234702id_/https%3A//www.popsugar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksugar.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214125829id_/https%3A//www.popsugartech.com/privacy) for the most accurate reproduction.*
 
 # POPSUGAR Privacy Policy
 
-**Effective Date: January 25, 2019**
+**Effective Date: September 12, 2019**
 
 **UPDATED PRIVACY POLICY**
 
@@ -74,10 +74,11 @@ User Information is used to provide Services to you by POPSUGAR and its partners
 * Allow you to set up an account and profile and log into your account on the Services and to access certain parts of the Services through such account;
 * Allow you to share certain information about yourself with other users through your account profile;
 * For our POPSUGAR [Voices](https://www.popsugar.com/voices) or Influencer platforms, to determine what assignments or projects are a good fit for your skills and interests and to process payments for your services if you are selected for a paid assignment;
-* Allow you to submit an application to become and create your account as a seller on our GLOW by POPSUGAR service ( **"GLOW"** );
+* Allow you to submit an application to become and create your account as a seller on our GLOW by POPSUGAR service;
 * Personalize and improve the Services;
 * Connect you across multiple devices or platforms where you are accessing our content;
-* Customize the Services to provide advertisements, content, features or recommendations on the Services or on other platforms (for example, social media platforms) that match your interests;
+* Customize the Services to provide advertisements, content, features or recommendations on the Services or on other platforms (for example, social media platforms) that match your interests or are otherwise tailored to you;
+* Send you free gifts or other promotions;
 * Send you notices, updates and other administrative messages;
 * Process transactions and send you related information;
 * Send emails or newsletters to you, which may also offer or advertise POPSUGAR or third party products and/or services;
@@ -119,11 +120,13 @@ We may provide certain Advertisers with information regarding your interactions 
 
 In order to help us sell advertising on the Services and otherwise publicize POPSUGAR and its products and services, we may share aggregate statistics that describe our online audience. Those statistics are often based on the information you provide when you subscribe, register, or browse the Services and describe, among other things, the demographics of our visitors.
 
+[Sparkle](http://sparkle.popsugar.com/) application pages are developed and hosted by POPSUGAR and licensed to Advertisers. In connection with Sparkle, you may provide certain information to us in response to specific questions and prompts, such as providing your email address to sign up for marketing emails or newsletters, or tapping or clicking on an "Add to cart" feature for specific products. Information provided through Sparkle may be stored by POPSUGAR (such as which products are added to a cart) and may be shared with the Advertiser(s) we have partnered with in connection with that Sparkle page. We may use your IP address to understand trends within a specific zip code or geographical area. Advertisers may use such information to complete your transaction or send you emails or other communications, including communications to market their products and/or services to you, or for other internal uses. When you enter information using a Sparkle "Add to cart" feature, we may share your information with a third-party retailer (who may in some cases also be an Advertiser) to complete your transaction, which is subject to such retailer's terms and conditions and privacy policy.
+
 ### Third party service providers
 
 We employ or utilize the services of other third party vendors, consultants and service providers who need access to your User Information (such as your name, address, email, or other identifiers) in order to enable them to perform services on our behalf or to provide us with additional information necessary to provide you one of our Services to you. We use third party vendors for a variety of services across our Services, such as email message deployment, email address validation, subscription fulfillment, research, statistical analysis, cross-device user tracking, data and website hosting, marketing, advertising, and other data and transaction processing. 
 
-We also engage third party service providers for the purpose of processing payments for purchases of content and subscriptions through our Services, to fulfill your orders for product purchases, to honor your request to be removed from promotional mailings, and to monitor, analyze and prevent fraudulent traffic or other suspicious activities on our Services or on other services. For our [Voices](https://www.popsugar.com/voices) and Influencer platforms, we may also provide your User Information to third party processors in order to process payments for services if you are selected for a paid assignment under those platforms.
+We also engage third party service providers for the purpose of processing payments for purchases of content, subscriptions and physical goods through our Services, to fulfill your orders for product purchases, to honor your request to be removed from promotional mailings, and to monitor, analyze and prevent fraudulent traffic or other suspicious activities on our Services or on other services. For our [Voices](https://www.popsugar.com/voices) and Influencer platforms, we may also provide your User Information to third party processors in order to process payments for services if you are selected for a paid assignment under those platforms.
 
 In addition to receiving your User Information from us, our service providers may also: 
 
@@ -141,7 +144,7 @@ We may use social plugins on our Services, for instance plugins of the social ne
 
 ### User profiles and submissions
 
-Certain User Information from your profile such as a your user name, display name, biographical information, or any comments or video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services. In some applications, information you share in your profile will be publicly available to other users. For example, for our [Binge](https://binge.popsugar.com/) service, certain profile information and a link to your complete profile may be found in the Binge public search feature. You may opt out of being included in the public search feature on Binge by turning off this setting in the profile tab of the Binge application. For our POPSUGAR [Voices](https://www.popsugar.com/voices) and Influencer platforms, User Information from your profile may be shared with third parties including advertisers in connection with an advertising campaign, which may include publicly-available metrics related to your social media channels and a description of your blog or other content you have created in the past.
+Certain User Information from your profile such as a your user name, display name, biographical information, or any comments or video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services. In some applications, information you share in your profile will be publicly available to other users. For our POPSUGAR [Voices](https://www.popsugar.com/voices) and Influencer platforms, User Information from your profile may be shared with third parties including advertisers in connection with an advertising campaign, which may include publicly-available metrics related to your social media channels and a description of your blog or other content you have created in the past.
 
 ### Third party offers
 
@@ -153,23 +156,25 @@ We may collect and share User Information you provide in connection with a Promo
 
 ### Text message services
 
-By signing up for our text messages services such as POPSUGAR Must Have It or Gazelle, you expressly agree that we may share your mobile phone number and the contents of any message you send or receive through such Service with our third party partner, Twilio. For more information regarding how Twilio may store or use your information, please review [Twilio's Privacy Policy](https://www.twilio.com/legal/privacy).
+By signing up for our text messages services such as POPSUGAR Must Have It, or providing your mobile number in connection with GLOW by POPSUGAR, you expressly agree that we may share your mobile phone number and the contents of any message you send or receive through such Service with our third party partner, Twilio. For more information regarding how Twilio may store or use your information, please review [Twilio's Privacy Policy](https://www.twilio.com/legal/privacy).
 
 ### Payment card information
 
-To use certain aspects of our Services, such as subscribing to our Must Have Box Service, or participating in our Must Have It Service, and selling or purchasing content products or subscriptions through our GLOW service, we may require you to submit credit or debit card account information. In order to participate as a seller on our GLOW service and receive payments from buyers in connection with the sale of content products, you will be required to connect your GLOW service account to a valid account with one of our designated third party payment processors. By submitting your credit or debit card account information or other financial information through the Services, you expressly consent to the sharing of this information with third party retailers, subscription and billing processors, and payment processors. 
+To use certain aspects of our Services, such as subscribing to our Must Have Box Service, or participating in our Must Have It Service, and selling or purchasing content products or subscriptions through our GLOW by POPSUGAR service, we may require you to submit credit or debit card account information. In order to participate as a seller on our GLOW by POPSUGAR service and receive payments from buyers in connection with the sale of content products, you will be required to connect your GLOW by POPSUGAR service account to a valid account with one of our designated third party payment processors. By submitting your credit or debit card account information or other financial information through the Services, you expressly consent to the sharing of this information with third party retailers, subscription and billing processors, and payment processors. 
 
-We may use Stripe to collect your credit or debit card account information, to allow buyers to purchase content products directly from and pay sellers through the GLOW service, and/or to process transaction such payments with our financial institutions. Stripe may store your credit or debit card account information and other financial information so you can use our Services in the future. We do not have access to your complete credit or debit card account information, social security number, or other financial information. We do not store or have direct control over or responsibility for your credit or debit card account information, social security number, or other financial information as transmitted to Stripe. We cannot guarantee that transmissions of your credit or debit card account information, social security number, other financial information, or other personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third party service providers. Please see the [Stripe Terms and Conditions](https://stripe.com/us/legal), [Stripe Privacy Policy](https://stripe.com/privacy), and the [Stripe Connected Account Agreement](https://stripe.com/us/connect-account/legal).
+We may use Stripe to collect your credit or debit card account information, to allow buyers to purchase content products directly from and pay sellers through the GLOW by POPSUGAR service, and/or to process transaction such payments with our financial institutions. Stripe may store your credit or debit card account information and other financial information so you can use our Services in the future. We do not have access to your complete credit or debit card account information, social security number, or other financial information. We do not store or have direct control over or responsibility for your credit or debit card account information, social security number, or other financial information as transmitted to Stripe. We cannot guarantee that transmissions of your credit or debit card account information, social security number, other financial information, or other personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third party service providers. Please see the [Stripe Terms and Conditions](https://stripe.com/us/legal), [Stripe Privacy Policy](https://stripe.com/privacy), and the [Stripe Connected Account Agreement](https://stripe.com/us/connect-account/legal).
 
 We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third party access, or other causes beyond our control.
 
 ### GLOW by POPSUGAR
 
-As part of the buying and selling process through our GLOW service and by making a purchase on the GLOW service, you agree that we may share your buyer information, such as your email, with the seller as necessary to complete the transaction. As a seller under the GLOW services you may only use buyer user information for communications related to the GLOW service and transactions facilitated through the GLOW service. Seller may not use buyer user information for any other purpose, including without limitation, unauthorized transactions or sending unsolicited commercial messages in violation of any applicable laws.
+As part of the buying and selling process through our GLOW by POPSUGAR service and by making a purchase on the GLOW by POPSUGAR service, you agree that we may share your buyer information, such as your email, with the seller as necessary to complete the transaction. As a seller on the GLOW by POPSUGAR services you may only use buyer user information for communications related to the GLOW by POPSUGAR service and transactions facilitated through the GLOW by POPSUGAR service. Seller may not use buyer user information for any other purpose, including without limitation, unauthorized transactions or sending unsolicited commercial messages in violation of any applicable laws.
 
-### Twinning
+### Twinning and Aura by POPSUGAR
 
-For our [Twinning](http://twinning.popsugar.com/) Service, we collect photos you submit and may provide them to our third party service providers for analysis and matching with similar-looking celebrities or public figures. When you submit a photo to Twinning, we post a composite image of your photo and your celebrity look-a-likes on a public URL for you to reference and share with your friends. While we only provide this unique URL to you, the URL is public and may be viewed by anyone who has the link. You can request removal of any unique URL created in connection with your photos through Twinning by contacting us at [community@popsugar.com](mailto:community@popsugar.com). 
+For our [Twinning](http://twinning.popsugar.com/) and [Aura](http://aura.popsugar.com/) Services, we collect photos you submit and may provide them to our third party service providers for analysis and matching with similar-looking celebrities or public figures. When you submit your photo to Twinning, you agree that your photo may be shared with Clarifai, and when you submit your photo to Aura by POPSUGAR, you agree that your photo may be shared with Microsoft, and that their respective uses of your photo is subject to their separate privacy policies. The Clarifai privacy policy may be found [here](https://www.clarifai.com/privacy), and the Microsoft privacy policy may found [here](https://privacy.microsoft.com/en-us/privacystatement). Any information about your photo that is provided by Microsoft is used by POPSUGAR only to provide the results and is not stored by POPSUGAR. 
+
+When you submit a photo to Twinning, we post a composite image of your photo and your celebrity look-a-likes on a public URL for you to reference and share with your friends. When you submit a photo to Aura by POPSUGAR, we post an image of your photo with your aura reading results on a public URL. While For both Twinning and Aura by POPSUGAR, while we only provide this unique URL to you, the URL is public and may be viewed by anyone who has the link. You can request removal of any unique URL created in connection with your photos through Twinning or Aura by POPSUGAR by contacting us at [community@popsugar.com](mailto:community@popsugar.com). 
 
 ### What the Face
 
@@ -207,7 +212,7 @@ You can usually instruct your browser by changing its settings to stop accepting
 
 ### Precise location data
 
-You may opt out of having your Precise Location Data collected us at any time by editing the appropriate setting on your mobile device (which is usually located in the Settings area of your device).
+You may opt out of having your Precise Location Data collected by us at any time by editing the appropriate setting on your mobile device (which is usually located in the Settings area of your device).
 
 ### Newsletter and email subscriptions
 
@@ -231,7 +236,7 @@ To remove Offers (described in the section above entitled "WHAT INFORMATION WE S
 
 ### Text messages
 
-If you no longer wish to receive text messages from any of our text message services (such as our Must Have It Service or Gazelle Service), you can reply "STOP" to any text message sent by us through such Service. For our Must Have It Service, if you have a POPSUGAR account linked to the phone number you provided for the Must Have It Service, you can also visit the "Account Settings" page in your Must Have account and change the Must Have It Phone Number settings from "on" to "off."
+If you no longer wish to receive text messages from our Must Have It Service, you can reply "STOP" to any text message sent by us through such Service or text "STOP" to 441-76. For our Must Have It Service, if you have a POPSUGAR account linked to the phone number you provided for the Must Have It Service, you can also visit the "Account Settings" page in your Must Have account and change the Must Have It Phone Number settings from "on" to "off."
 
 ### California residents
 
