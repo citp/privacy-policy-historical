@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622134242id_/https%3A//www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215002321id_/https%3A//www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Schlock Mercenary - Privacy Policy and Terms of Use
 
 _This policy was last modified on May 25, 2018_
 
-This policy covers Schlock Mercenary content sites at  **[schlockmercenary.com](https://www.schlockmercenary.com/)**  and **[ovalkwiki.com](https://web.archive.org/web/20190622134242id_/https://www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use/ovalkwiki.com)** , as well as the storefront  **[shop.schlockmercenary.com](https://shop.schlockmercenary.com/).** Our policy also covers the data we acquire via [Patreon](https://patreon.com/SchlockMercenary?ty=c), [Kickstarter](https://www.kickstarter.com/), [Backerkit](http://www.backerkit.com/), [Shopify](http://shop.schlockmercenary.com/) and [Mailchimp](https://mailchimp.com/), and they each have robust privacy policies which cover the your interactions with them. 
+This policy covers Schlock Mercenary content sites at  **[schlockmercenary.com](https://www.schlockmercenary.com/)**  and **[ovalkwiki.com](https://web.archive.org/web/20191215002321id_/https://www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use/ovalkwiki.com)** , as well as the storefront  **[shop.schlockmercenary.com](https://shop.schlockmercenary.com/).** Our policy also covers the data we acquire via [Patreon](https://patreon.com/SchlockMercenary?ty=c), [Kickstarter](https://www.kickstarter.com/), [Backerkit](http://www.backerkit.com/), [Shopify](http://shop.schlockmercenary.com/) and [Mailchimp](https://mailchimp.com/), and they each have robust privacy policies which cover the your interactions with them. 
 
 We are fully GDPR ([General Data Protection Regulation](https://gdpr-info.eu/)) compliant, and have taken great care to only partner with sites that are also GDPR compliant.
 
