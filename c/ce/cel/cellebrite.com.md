@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the cellebrite.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012154538id_/https%3A//www.cellebrite.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellebrite.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214153342id_/https%3A//www.cellebrite.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Cellebrite
-
-## PRIVACY NOTICE
+# Privacy Notice - Cellebrite
 
 We at Cellebrite Mobile Synchronization Ltd. (“ **Cellebrite** “, “ **we** ”, “ **us** ”, “ **our** ”) have long recognized that individuals with whom we conduct business value their privacy and we respect your right to privacy. As you know, in order to conduct global business in this increasingly electronic economy, the collection of personal information is often necessary and desirable.
 
-This Privacy Notice (the “ **Notice** “) describes the ways your personal data is collected and used through our websites: [www.cellebrite.com](http://www.cellebrite.com/)  [www.cellebritelearningcenter.com](http://www.cellebritelearningcenter.com/)   [my.cellebrite.com](http://my.cellebrite.com/) (together, the “ **Website** “). It also describes the rights and options available to you with respect to your information.
+This Privacy Notice (the “ **Notice** “) describes the ways your personal data is collected and used through our websites: [www.cellebrite.com](http://www.cellebrite.com/)  [www.cellebritelearningcenter.com](http://www.cellebritelearningcenter.com/)   [my.cellebrite.com](http://my.cellebrite.com/) (together, the “ **Website”)** and through our products (the **“Products”** ) **.**  It also describes the rights and options available to you with respect to your information.
 
 ### **DATA CONTROLLER**
 
-**Cellebrite is the data controller of the personal data we collect via the Website.  **Cellebrite Mobile Synchronization Ltd. (“ **we** ”, “ **us** ”, “ **our** ”) is the data controller for the purposes of the personal data we collect via the Website and for the performance of the services offered through the Website.
+**Cellebrite is the data controller of the personal data we collect via the Website.**
+
+Cellebrite Mobile Synchronization Ltd. (“ **we** ”, “ **us** ”, “ **our** ”) is the data controller for the purposes of the personal data we collect via the Website for the performance of the services offered through the Website, and with respect to the collection of usage data in connection with some of our Products.
 
 We are based at 94 Shlomo Shmelzer Rd., Petah Tikva 4970602, P.O.B 3925, Israel.
 
-### **DATA PROTECTION OFFICER AND EUROPEAN REPRESENTATIVE**
+### **DATA PROTECTION OFFICER AND EUROPEAN REPRESENTATIVE  AND CALIFORNIA REPRESENTATIVE**
 
 **To communicate with our Data Protection Officer, please follow the[link](https://www.cellebrite.com/en/privacy-data-inquiry/). **If you have any questions or requests concerning your personal data or about our privacy practices and policies, you may contact our Data Protection Officer, by following the [link](https://www.cellebrite.com/en/privacy-data-inquiry/).
 
@@ -25,47 +25,57 @@ __London EC4V 6JA
 __United Kingdom  
 __Tel. +442033182444_
 
+**To contact our State of California representative.  **If you are within the State of California, you may contact us in the following toll-free number: +1-800-609-9912
+
 ### **PERSONAL DATA WE COLLECT**
 
 **We collect information you provide us voluntarily and knowingly. You are not legally required to provide us your information.**
 
-We collect the following information you provide us either during the online registration process or an offline pre-sale process: full name, email address, the company you represent, your job role and your address (or the address of the company you represent). When you register to any of our Cellebrite training classes, we also collect information about your progress and achievements in training classes and payment information. We refer to this as **“Onboarding Information** “.
+We collect the following information you provide us either during the online registration process or an offline pre-sale process: full name, email address, the company you represent, your job role, the Products you expressed interest in or have purchased, and your address (or the address of the company you represent). When you register to any of our Cellebrite training classes, we also collect information about your progress and achievements in training classes and payment information. We refer to this as **“Onboarding Information** “.
 
 If you submit an inquiry through the various forms on our Website, we will ask you to provide us the following information: full name, email address, business phone number, country, your job role, the organization you represent and any other information you choose to share with us (“ **Inquiry Information** “).
 
 You do not have a legal duty to provide the information, and providing it, is subject to your willing consent. However, there are areas of the Website and parts of the Products that require the use of Information to complete their customization functions, and such may not be available to those choosing not to reveal the information requested.
 
-**We also collect analytical information about your use of the Website.** When you visit our website, we will record and collect certain information in relation to your visit and use of the Website, including: IP address from which you accessed the Website, time and date of access, type of browser used, language use, links clicked, and actions taken while browsing the Website, preferences while using the Website, and feedback regarding our solutions or services **(“Analytical Information”).**
+**We also collect analytical information about your use of the Website and the Products.** When you visit our website, we will record and collect certain information in relation to your visit and use of the Website, including: IP address from which you accessed the Website, time and date of access, type of browser used, language use, links clicked, and actions taken while browsing the Website, preferences while using the Website, and feedback regarding our solutions or services **.**
+
+When you use our Products such as the UFED Cloud Analyzer, then subject to your separate and explicit consent, we will collect information about how you use the Product under the license Cellebrite gives you, such as the number of  extractions you perform with the software, which type of data source you extract, any errors you came across using the Product, the number of events you collect, how often you use the Web crawler and which views you use. This usage data will be sent to Cellebrite in encrypted form, and we do not and will not access any case-related data.
+
+All of the above data is referred to as ****Analytical Information**. **
 
 The overall personal data outlined above will be referred to as the “ **Information** “.
 
+Please note that we will inform you in advance with every additional category of personal information that will be collected or used.
+
+We may offer you, upon notification, with a financial incentives or payment of compensation for the collection of your personal information, or the deletion of personal information. In order to do that, we must receive from you a prior opt-in consent which clearly describes the material terms of the financial incentive program, and which may be revoked by you at any time.
+
 ### **HOW WE USE PERSONAL DATA**
 
-**We use Onboarding Information to fulfil the service you have requested.** We use the Onboarding Information we collect from you to provide and administer products and services requested (the “ **Products** “), such as: license renewal, training, support services, upgrades and updates.
+**We use Onboarding Information to fulfil the service you have requested.** We use the Onboarding Information we collect from you to provide and administer the Products and services requested , such as: license renewal, training, support services, upgrades and updates.
 
-_The legal basis under EU law for collecting and processing your Onboarding_ _Information is its necessity for the fulfillment of a contract between you (or, the customer you represent) and Cellebrite, or to take steps ahead of the fulfillment of a contract._
+_The legal basis under EU laws  or State of California Consumer Privacy Act (“CCPA”) for collecting and processing your Onboarding_ _Information is its necessity for the fulfillment of a contract between you (or, the customer you represent) and Cellebrite, or to take steps ahead of the fulfillment of a contract._
 
 **We use Inquiry Information to identify and contact you.** We will use your Inquiry Information to contact you about your inquiry.
 
-_The legal basis under EU law for collecting and processing your Inquiry Information is its necessity for the provision of feedback, comment or service in response to your inquiry and the performance of the service you requested within your inquiry (i.e. training, support, etc.)._
+_The legal basis under EU laws  or the CCPA for collecting and processing your Inquiry Information is its necessity for the provision of feedback, comment or service in response to your inquiry and the performance of the service you requested within your inquiry (i.e. training, support, etc.). _
 
 **We use your Information for profiled marketing purposes.  **If you indicate your consent, we will use the Onboarding Information and Inquiry Information, as well as your buying trends and customer profile to send you email communications about Cellebrite’s product upgrades, product updates and new products and services that we believe are suitable to you.
 
-**You may opt-out from our profiled marketing by following the link[go.cellebrite.com/stayintouch](http://go.cellebrite.com/stayintouch). **You may ‘opt-out’ of using your profiled data for promotional communications by following the link: [go.cellebrite.com/stayintouch](http://go.cellebrite.com/stayintouch). By doing so, Cellebrite will only delete the Information which is required to contact you for promotional communications, while the rest of the Information you submitted to us which is necessary in order to provide you with the Products will continue to be processed.
+**You may opt-out from our profiled marketing by following the link<https://www.cellebrite.com/en/stay-in-touch/>. **You may ‘opt-out’ of using your profiled data for promotional communications by following the link: <https://www.cellebrite.com/en/stay-in-touch/>. By doing so, Cellebrite will only delete the Information which is required to contact you for promotional communications, while the rest of the Information you submitted to us which is necessary in order to provide you with the Products will continue to be processed.
 
-_The legal basis under EU law for collecting and processing your contact information for profiled marketing purposes is your explicit consent._
+_The legal basis under EU laws  or the CCPA for collecting and processing your contact information for profiled marketing purposes is your explicit consent._
 
-**We will send you marketing communications for products and services similar to those you’ve purchased, unless you opt out. We may also do so where applicable law makes this permissible.** If we obtain your contact information in the course of a sale of a Cellebrite product or service, we will give you a simple opportunity to refuse or opt out of marketing communications. So long as you have not opted-out, Cellebrite will send you promotional communications, including renewal emails notifying of the expiry of the license and the opportunity to renew it. The same applies where applicable law permits us to send marketing emails to an email address belonging to a company or governmental agency, or to an email address belonging to a contact person whose position relates to the substance of the marketing email **.**
+**We will send you marketing communications for products and services similar to those you’ve purchased, unless you opt out. We may also do so where applicable law makes this permissible.** If we obtain your contact information in the course of a sale of a Cellebrite Product or service, we will give you a simple opportunity to refuse or opt out of marketing communications. So long as you have not opted-out, Cellebrite will send you promotional communications, including renewal emails notifying of the expiry of the license and the opportunity to renew it. The same applies where applicable law permits us to send marketing emails to an email address belonging to a company or governmental agency, or to an email address belonging to a contact person whose position relates to the substance of the marketing email **.**
 
-_The legal basis under EU law for collecting and processing your contact information for marketing emails in these cases, is our legitimate interest in offering further products to existing customers or to relevant contact persons within companies or governmental agencies._
+_The legal basis under EU laws  or the CCPA for collecting and processing your contact information for marketing emails in these cases, is our legitimate interest in offering further products to existing customers or to relevant contact persons within companies or governmental agencies._
 
-**If you agree to participate in surveys, we will collect information about your opinion and satisfaction of Cellebrite products and services.  **We may from time to time invite you to participate in surveys about your use of Cellebrite products and services. If you agree to participate in the survey, we will collect your certain Onboarding Information as well as information about your opinion and satisfaction of Cellebrite products and services.
+**If you agree to participate in surveys, we will collect information about your opinion and satisfaction of Cellebrite Products and services.  **We may from time to time invite you to participate in surveys about your use of Cellebrite Products and services. If you agree to participate in the survey, we will collect your certain Onboarding Information as well as information about your opinion and satisfaction of Cellebrite Products and services.
 
-_The legal basis under EU law for collecting and processing survey information is your explicit consent, as well as our legitimate interest in ongoing management of our business, business development and product development._
+_The legal basis under EU laws  or the CCPA for collecting and processing survey information is your explicit consent, as well as our legitimate interest in ongoing management of our business, business development and product development._
 
-**We use Analytical Information to improve and enhance the Website and our services.  **We use Analytical Information to improve the Website and to enrich the content on the Website and the services we offer to customers. We also use the Analytical Information to adapt the Website, its content, and services to users’ preferences.
+**We use Analytical Information to improve and enhance the Website as well as our Products and to understand business trends about our Products.  **We use Analytical Information to improve the Website, as well as to improve the features in our Products we offer to customers. We also use the Analytical Information to adapt the Website, its content, the services and the Products to users’ preferences. Analytical Information is also used to help us understand business trends about our Products.
 
-_The legal basis under EU law for processing and collecting Analytical Data is our legitimate interests in operating our website, ongoing management of our business and business development._
+_The legal basis under EU laws  or the CCPA for processing and collecting Analytical Data is our legitimate interests in operating our website, ongoing management of our business and business development. The legal basis under EU laws or the CCPA for collecting and processing the Product usage data is your explicit consent. _
 
 ### **WHEN AND HOW WE SHARE PERSONAL DATA WITH OTHERS**
 
@@ -74,6 +84,10 @@ _We will not share your information with third-parties, except in the events lis
 **We share your Information with our subsidiaries.  ** **We share your Information with our service provider helping us operate our business, the Website and the Products.  **We will share your Information with members of our family group of companies, who help us process the data for the purpose set out above.
 
 **We share your Information with our service provider helping us operate our business, the Website and the Products.** We will share your personal information with our service providers who assist us with the internal operations of our Website and the Products. These companies are authorized to use your personal information only as necessary to provide these services to us and not for their own promotional purposes. We do not sell your personal information to third parties.
+
+**We may share pre-sale information about you with partners that promote the sale of our products and business** We may share the information you provide us during the offline pre-sale process with our authorized partners who will use the information to promote the sale of our products and business.
+
+**The legal basis under EU laws for sharing your information in these cases is our legitimate interest in advancing   the pre-sale process with you.**
 
 **We will share your Information with competent authorities, if you violated the terms of your engagement with Cellebrite.** If you have breached the terms of use of the Website, this Notice or any other agreement you have with Cellebrite, abused your rights to use the Website, or violated any applicable law. Your Information will be shared with competent authorities and with third parties (such as legal counsels and advisors), for the purpose of handling of the violation or breach.
 
@@ -115,11 +129,13 @@ We also use techniques called web beacons and web pixels for purposes similar to
 
 If we transfer your Information from within Europe to other jurisdictions outside Europe (the United States, Singapore, Brazil, Canada and Australia), this will be done under the terms of a data transfer agreement which contain standard data protection contract clauses with adequate safeguards determined by the EU Commission.
 
-### **YOUR EU RIGHTS**
+### **YOUR RIGHTS UNDER THE EU LAWS AND UNDER THE CCPA**
 
-**You have the right to access, update or delete your Information and obtain a copy of your Information.** If you are in the EU, you may ask to access the personal information about you that is stored in our systems, or have us update, correct or delete such information in certain cases. You are also entitled to obtain from us your information (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and have the right to transmit those data to another data controller. If you wish to exercise any of these rights, please follow the [link ](https://www.cellebrite.com/en/privacy-data-inquiry/)
+**You have the right to access, update or delete your Information and obtain a copy of your Information.** If you are in the EU or in the State of California and upon a verified request, you may ask to access the personal information about you that is stored in our systems, or have us update, correct or delete such information in certain cases. You are also entitled to obtain from us your information (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and have the right to transmit those data to another data controller. Where our processing is based on our legitimate interests, you are entitled to object to this on grounds relating your particular situation, and we will then no longer process the personal data unless we demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms or for the establishment, exercise or defense of legal claims. You may also withdraw your consent where our processing is based on consent you’ve given, at any time, without affecting the lawfulness of our processing that was based on consent before its withdrawal. If you wish to exercise any of these rights, please follow the [link ](https://www.cellebrite.com/en/privacy-data-inquiry/)
 
 **You have a right to submit a complaint to the relevant supervisory data protection authority.** Subject to applicable law, you have the right to lodge a complaint with your local data protection authority. If you are in the EU, then according to Article 77 of the GDPR, you can lodge a complaint to the supervisory authority, in particular in the Member State of your residence, place of work or of an alleged infringement of the GDPR. For a list of supervisory authorities in the EU, click [here](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061).
+
+If you are in the State of California, then according to the Civil Code, relating to personal information, and declaring the urgency thereof, to take effect immediately, approved by Governor September 23, 2018, filed with Secretary of State September 23, 2018, you can lodge a complaint to the supervisory authority.
 
 ### **MINORS**
 
@@ -129,4 +145,4 @@ If we transfer your Information from within Europe to other jurisdictions outsid
 
 **If we change this Notice, we will provide you notice of such change through the Website interface or by sending you an email notice.** From time to time, we may change this Notice. If you are a registered user, we will provide you notice of such changes through the Website interface or by sending you an email notice. In case of legal requirement, we may also introduce immediate changes to the Notice and require that you accept them. In any event, if you do not consent to the amended Notice, we may terminate your user account. The latest version of the Notice will always be accessible on the Website.
 
-Last Update: July 17, 2018
+Last Update: December 5, 2019
