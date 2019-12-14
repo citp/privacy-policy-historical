@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbfc.co.uk privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512075617id_/http%3A//bbfc.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbfc.co.uk privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214144304id_/https%3A//bbfc.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | British Board of Film Classification
 
