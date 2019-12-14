@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicleap.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629055755id_/https%3A//www.magicleap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicleap.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214040929id_/https%3A//www.magicleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Magic Leap
 
