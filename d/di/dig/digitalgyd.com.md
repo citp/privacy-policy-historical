@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalgyd.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705121610id_/https%3A//www.digitalgyd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalgyd.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214105748id_/https%3A//www.digitalgyd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DigitalGYD
 
