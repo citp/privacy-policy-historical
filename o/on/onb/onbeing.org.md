@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onbeing.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331201017id_/https%3A//onbeing.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbeing.org privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214151130id_/https%3A//onbeing.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The On Being Project
 
