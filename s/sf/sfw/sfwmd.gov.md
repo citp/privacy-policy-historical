@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfwmd.gov privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416122936id_/https%3A//www.sfwmd.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfwmd.gov privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214014702id_/https%3A//www.sfwmd.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | South Florida Water Management District
 
@@ -16,4 +16,4 @@ When you visit www.sfwmd.gov, (or any other Internet Web site), the Web server a
 
 We also gather collective information about the volume and timing of our visitors' access to the site by collecting information on the date, time and pages you visited while at the site. We do this to measure which sections of our site visitors find most useful so that we can work to improve the content of the site. This information is not shared with other organizations. Again, only aggregate information is collected, and your personal information is not identified.
 
-If you have other questions about the South Florida Water Management District's Internet Privacy Policies, please e-mail us [**Privacy@sfwmd.gov**](https://web.archive.org/contact), or call (561) 682-2063.
+If you have other questions about the South Florida Water Management District's Internet Privacy Policies, please e-mail us [**Privacy@sfwmd.gov**](mailto:privacy@sfwmd.gov), or call (561) 682-2063.
