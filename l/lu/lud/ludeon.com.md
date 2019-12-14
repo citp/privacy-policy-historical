@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ludeon.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520093350id_/https%3A//ludeon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ludeon.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214162938id_/https%3A//ludeon.com/privacy) for the most accurate reproduction.*
 
 # Ludeon Privacy Policy
 
@@ -44,7 +44,7 @@ We collect information globally and primarily store that information in the Unit
 
 Users residing in certain countries, including the EEA, are afforded certain rights regarding their personal information. Except where an exception or exemption applies, these rights include the right to access, correct, and request deletion your personal information.
 
-If you believe we have data about you and you want a copy of that data, or want the data erased, please email Ludeon support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91fde4f5f4fefff9f4fde1d1f6fcf0f8fdbff2fefc) with the specifics of your subject access request (“SAR”). We will respond within thirty (30) days.
+If you believe we have data about you and you want a copy of that data, or want the data erased, please email Ludeon support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#25495041404a4b4d404955654248444c490b464a48) with the specifics of your subject access request (“SAR”). We will respond within thirty (30) days.
 
 In the case of erasure SARs, we will erase what we can but be aware that in some cases we need to retain data as required by law or for our legitimate business purposes (including tax reporting and security).
 
@@ -136,6 +136,6 @@ We may assign or transfer this Policy, as well as information covered by this Po
 
 ## Contact information
 
-For general support or questions please email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9c5dccdccc6c7c1ccc5d9e9cec4c8c0c587cac6c4)
+For general support or questions please email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b1ddc4d5d4dedfd9d4ddc1f1d6dcd0d8dd9fd2dedc)
 
-Data protection and privacy handling policies are the responsibility of Tynan Sylvester: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4a0adbab5bafaa7adb8a2b1a7a0b1a694b3b9b5bdb8fab7bbb9)
+Data protection and privacy handling policies are the responsibility of Tynan Sylvester: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#becac7d0dfd090cdc7d2c8dbcdcadbccfed9d3dfd7d290ddd1d3)
