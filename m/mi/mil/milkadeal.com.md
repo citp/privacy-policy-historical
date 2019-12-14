@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the milkadeal.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120044926id_/http%3A//www.milkadeal.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkadeal.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214034545id_/https%3A//www.milkadeal.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MilkADeal
+# 💰 Privacy Policy | MilkADeal
 
 ### Privacy Policy
 
-This Privacy Policy discloses the privacy practices for the MilkADeal website (collectively, the "website" is located at http://www.milkadeal.com).
+This Privacy Policy discloses the privacy practices for the MilkADeal website (collectively, the "website" is located at https://www.milkadeal.com).
 
 Your privacy is critically important to us. At MilkADeal we have a few fundamental principles:
 
@@ -83,7 +83,7 @@ MilkADeal knows that your word is who you are and integrity is the cornerstone o
 
 #### Privacy Policies of Third Party Websites
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you on http://www.milkadeal.com. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. Therefore, if you link to any such website, we urge you review the website’s privacy policy as we cannot be responsible for the policies or practices of third parties.
+This Privacy Policy only addresses the use and disclosure of information we collect from you on https://www.milkadeal.com. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. Therefore, if you link to any such website, we urge you review the website’s privacy policy as we cannot be responsible for the policies or practices of third parties.
 
 #### Miscellaneous Privacy Issues
 
@@ -95,9 +95,6 @@ Facebook Connect. The MilkADeal Site allows users to access Facebook Connect to 
 
 If you have any questions about our Privacy Policy, or feel that this site is not following its stated information policy, please contact us.
 
-**MILKADEAL SDN BHD (928546-V)**  
-22-3 Jalan PJU 8/5G,  
-Damansara Perdana,  
-47820 Petaling Jaya,  
-Selangor, Malaysia.  
+**MilkADeal (Registration No.: 201101000412 (928546-V))**  
+The Boulevard, 17-2, Signature Office, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur  
 Customer Service Inquiries | support@milkadeal.com
