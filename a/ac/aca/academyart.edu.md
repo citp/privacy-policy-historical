@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academyart.edu privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611131316id_/https%3A//www.academyart.edu/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academyart.edu privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214130312id_/https%3A//www.academyart.edu/privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | Academy of Art University
 
@@ -8,16 +8,11 @@ Academy of Art University seeks to protect your personal and private information
 
 You may review, correct, update or change your Personal Information, or remove your Personal Information from direct marketing efforts, at any time by contacting Academy of Art University at:
 
-Academy of Art University
-
-79 New Montgomery Street
-
-San Francisco, CA 94105-3410
-
-1-800-544-2787 (US only)
-
-1-415-274-2200
-
+Academy of Art University  
+79 New Montgomery Street  
+San Francisco, CA 94105-3410  
+1-800-544-2787 (US only)  
+1-415-274-2200  
 info@academyart.edu
 
 **Information Collection & Use **
