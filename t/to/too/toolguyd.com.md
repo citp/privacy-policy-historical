@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312015557id_/https%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214042539id_/https%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,11 +28,11 @@ As with most other websites, we collect and use the data contained in server log
 
 **Cookies and Web Beacons**
 
-[What is a cookie?](http://en.wikipedia.org/wiki/HTTP_cookie) When you comment to an entry or article on ToolGuyd, a cookie is stored on your computer, and it contains the name and URL (if any) that you wish to display when making a comment as well as your email address . Your email address is also securely stored in this cookie.
+[What is a cookie?](https://en.wikipedia.org/wiki/HTTP_cookie) When you comment to an entry or article on ToolGuyd, a cookie is stored on your computer, and it contains the name and URL (if any) that you wish to display when making a comment as well as your email address . Your email address is also securely stored in this cookie.
 
 ToolGuyd uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-Google, as a third party vendor, uses cookies to serve ads on ToolGuyd. Google’s use of the DART cookie enables it to serve ads based on your visit to ToolGuyd and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on ToolGuyd. Google’s use of the DART cookie enables it to serve ads based on your visit to ToolGuyd and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 **Disabling Cookies**
 
