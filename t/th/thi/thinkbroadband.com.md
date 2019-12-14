@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502121739id_/https%3A//www.thinkbroadband.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214043251id_/https%3A//www.thinkbroadband.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thinkbroadband
 
@@ -106,7 +106,7 @@ Our site allows (but does not require) you to register with us if you wish to us
 
 ### Cookies & IP Addresses
 
-Virtually all websites use cookies which are small files stored on your computer when you visit a site. The data stored in them is used to enable features on a site, such as keeping you logged in, or remembering your preferences. Please visit our cookies page find out more information our [cookie policy](https://web.archive.org/web/20190502121739id_/cookies).We may use cookies that are necessary for the operation of our site, analytics/performance cookies tghat help us understand how many of our visitors are new and what they are doing on the site, and functional cookies that allow us to manage login systems, etc.
+Virtually all websites use cookies which are small files stored on your computer when you visit a site. The data stored in them is used to enable features on a site, such as keeping you logged in, or remembering your preferences. Please visit our cookies page find out more information our [cookie policy](https://web.archive.org/web/20191214043251id_/cookies).We may use cookies that are necessary for the operation of our site, analytics/performance cookies tghat help us understand how many of our visitors are new and what they are doing on the site, and functional cookies that allow us to manage login systems, etc.
 
 ### Surveys
 
@@ -152,6 +152,6 @@ By using our site you agree to accept this privacy policy and are aware that our
 
 ## Who we are
 
-thinkbroadband® is a trading name of NetConnex Ltd. Registered in England (No: 3416805) at 5 Fleet Place, London. EC4M 7RD. VAT 797995328. This address is provided for legal purposes only. Please do not send press releases, marketing materials, invitations or any general business correspondence to this address or add it to any mailing list as any such material sent to this address will be discarded on receipt. Data Protection registration number Z9551528. For privacy queries - please e-mail [privacy@thinkbroadband.com](https://www.thinkbroadband.com/aalogin.php/pages/edit/)
+thinkbroadband® is a trading name of NetConnex Ltd. Registered in England (No: 3416805) at 5 Fleet Place, London. EC4M 7RD. VAT 797995328. This address is provided for legal purposes only. Please do not send press releases, marketing materials, invitations or any general business correspondence to this address or add it to any mailing list as any such material sent to this address will be discarded on receipt. Data Protection registration number Z9551528. For privacy queries - please e-mail [privacy@thinkbroadband.com](mailto:privacy@thinkbroadband.com)
 
 _Updated 22/05/2018_
