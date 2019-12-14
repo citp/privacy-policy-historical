@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513053407id_/https%3A//www.levenger.com/users/SecurityPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214104744id_/https%3A//www.levenger.com/users/SecurityPrivacy.aspx) for the most accurate reproduction.*
 
 # Security & Privacy - Levenger
 
