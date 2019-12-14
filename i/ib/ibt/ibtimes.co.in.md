@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624075403id_/https%3A//www.ibtimes.co.in/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214183325id_/https%3A//www.ibtimes.co.in/corporate/privacy-policy) for the most accurate reproduction.*
 
-# International Business Times India ::: Privacy & Policy
+# Advertise with IBTimes India
 
 ### INTRODUCTION:
 
