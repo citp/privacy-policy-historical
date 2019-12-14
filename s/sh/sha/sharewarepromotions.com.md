@@ -1,69 +1,122 @@
-> *The following text is extracted and transformed from the sharewarepromotions.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630070529id_/http%3A//www.softwarepromotions.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewarepromotions.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214133020id_/https%3A//www.softwarepromotions.com/privacy-policy) for the most accurate reproduction.*
 
-# SoftwarePromotions Limited privacy policy
+# SoftwarePromotions Ltd Privacy Policy
 
-This privacy policy sets out how SoftwarePromotions Limited uses and protects any information that you give SoftwarePromotions Limited when you use this website.
+## Privacy Policy
+    
+    
+    Last updated: Monday, October 21, 2019
 
-SoftwarePromotions Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy sets out how SoftwarePromotions Limited uses and protects any information that you provide us when you use our website.
 
-SoftwarePromotions Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 1st 2011, and was last updated on May 30th 2012.
+SoftwarePromotions Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can rest assured that it will only be used in accordance with this privacy statement.
 
-What we collect
+SoftwarePromotions Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 1st 2011.
+
+## Privacy Policy
 
 We may collect the following information when you complete a form on our website:
 
-  * * name 
-  * * email address 
-  * * IP address 
-  * * details of your web browser and operating system
+  * name
+  * email address
+  * IP address
+  * details of your web browser and operating system
+  * where you came from
+  * which pages you visit
+  * any information you share within the form
 
 
 
-What we do with the information we gather
+## What we do with the information we gather
 
 We use this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * * Internal record keeping. 
-  * * We may use the information to improve our products and services. 
+  * Internal record keeping
+  * We may use the information to improve our products and services
+  * We store the information within our email system – currently Google’s G Suite
 
 
 
-Security
+## Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-How we use cookies
+## How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+Our website uses cookies to remember your preferences and help you obtain the right information. Cookies also allow us to see how our Website is being used.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Analytics 
+You can manage your cookies preferences using the following links for some of the most popular internet browsers:
 
-This website uses Google Analytics, a web analytics service provided by [Google](http://www.google.com/), Inc. ("Google"), and Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. 
+Internet Explorer – [https://www.microsoft.com/info/uk-en/cookies.mspx](https://privacy.microsoft.com/en-gb/privacystatement)
 
-Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+Google Chrome – [https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
 
-This website also uses Visual Website Optimizer, a range of website analytics services for A/B and multivariate testing purposes provided by Wingify. This service uses cookies to identify a visitor's browser and track website usage while on this website. The cookies do not collect personal information about you. For more information on how Wingify uses your data, please go to <http://visualwebsiteoptimizer.com/privacy-policy.php>.
+Firefox- <http://support.mozilla.org/en-US/kb/Blocking%20cookies>
 
-This website also uses [GetClicky](http://www.getclicky.com/), a web analytics service provided by Roxr. Roxr values the privacy of its users. Roxr will not provide any information about its users and/or their traffic data to any third party company for any purpose, unless required to do so by law.
+Safari – <https://support.apple.com/kb/ph19214?locale=en_US>
 
-Roxr makes data available to the public about trends in internet usage, such as web browser and operating system market share, on the following web page: <http://getclicky.com/marketshare/>. These reports are generated from the data from every web site being monitored by the Service. These reports are generic in nature and do not contain any personally identifiable information.
+Opera – <http://www.opera.com/help/tutorials/security/privacy/>
 
-This website also uses [SnapEngage](http://www.snapengage.com/) (by TIMZON, LLC.) to answer queries from visitors to our website. You are not required to provide personally identifiable information to visit the Website or to watch publicly available information; however, in order to take advantage of SnapEngage you may need to optionally provide your email address. You are not required to provide personally identifiable information to visit the Website or to watch publicly available information; however, in order to take advantage of certain features you need to provide your email address. Further information may be found at the SnapEngage privacy policy at <http://www.snapengage.com/privacy>.
+To find out more about using your browser settings to control cookies please go to: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-Links to other websites
+## Analytics
+
+This website uses Google Analytics, a web analytics service provided by [Google](http://www.google.com/), Inc. (“Google”), and Google Analytics uses cookies. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. 
+
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. Google complies with the EU-U.S. Privacy Shield Framework.
+
+## Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-How we use your personal information
+## How long we store personal information  
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We will not use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+It is our policy to retain your Personal Information for the length of time required for the specific purpose or purposes for which it was collected, which are set out in this Privacy Policy. 
+
+On occasion, however, we may be obliged to store some data for a longer time, for example, where a longer time period is required by applicable laws. In this case, we will ensure that your Personal Data will continue to be treated in accordance with this Privacy Policy.
+
+## How we use your personal information  
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
+
+We will not use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+We will not use your personal information to contact you unless you initiate a request for information – by filling out a form on our website, by opting-in to a mailing list, by speaking with us on the phone and providing this information or by [emailing us directly](mailto:mail@softwarepromotions.com).
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to the following address: Dave Collins, SoftwarePromotions Limited, PO Box 5823, New Milton, Hampshire, BH25 5ZW, England.
 
+For most individuals this would consist of when they contacted us, how they did so, and any email correspondence that took place.
+
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## Other services and systems that we use  
+
+
+Our company uses a number of different products, tools and systems for running our business. Some of them may store a minimal amount of your private information – typically your name, email address and date of first contact. Some may also include emails sent between our companies.
+
+Some services that we provide also require the involvement of third parties. We have carefully selected these third parties and taken steps to ensure that your Personal Information is adequately protected.
+
+Google’s Gmail, Calendar, Google Analytics, Google Drive – emails and submitted contact information may be stored. [Google Cloud Help](https://support.google.com/googlecloud/answer/6056694?hl=en). Our security policy measures for this service are high, and include automatic logout, 2-factor authentication and regular access checks. Google complies with the EU-U.S. Privacy Shield Framework.
+
+Dropbox – information shared with our company may be stored in Dropbox, which uses [data centres across the United States](https://www.dropbox.com/help/security/physical-location-data-storage). Our security policy measures for this service are high, and include 2-factor authentication and regular access checks. Information deemed to be sensitive will be encrypted. Dropbox complies with the EU-U.S. Privacy Shield Framework.
+
+We also make use of other tools and online services. For the most part, the private information that may be stored is publicly available. These include (but are not limited to) [Microsoft’s Office 365](https://www.office.com/) (complies with the EU-U.S. Privacy Shield Framework), [PipeDrive](https://www.pipedrive.com/en/privacy), [BidSketch](https://www.bidsketch.com/privacy/), [Evernote](https://evernote.com/) (complies with the EU-U.S. Privacy Shield Framework), [Amazon S3](https://aws.amazon.com/s3/) (complies with the EU-U.S. Privacy Shield Framework), [ActiveCampaign](https://www.activecampaign.com/) (complies with the EU-U.S. Privacy Shield Framework), [Xero](https://www.xero.com/content/xero/ca/campaigns/xero-and-gdpr.html), [PayPal](https://www.paypal.com/en/webapps/mpp/ua/privacy-full), and [Spanning](https://spanning.com/gdpr/).
+
+## Sharing with other third parties  
+
+
+We may also provide your information to other third parties such as regulators and law enforcement agencies, where we are required by law to do so, where necessary for the purposes of preventing and detecting fraud, other criminal offences and/or to ensure network and information security.
+
+Our Website offers the possibility to share content on social media channels, e.g., Facebook. The respective social media provider will directly gather Personal Information only after you click on the corresponding sharing button. Please refer to the privacy policy of the social media providers to learn more about what Personal Information is collected and used.
+
+We acknowledge that the information you provide may be confidential. We do not sell, rent, distribute or otherwise make Personal Information commercially available to any third party, except that we may share information with our service providers for the purposes set out in this Privacy Policy. We will maintain the confidentiality of and protect your information in accordance with our Privacy Policy and all applicable laws.
