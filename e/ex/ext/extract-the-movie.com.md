@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the extract-the-movie.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331214159id_/https%3A//www.yellowpagesgoesgreen.org/privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extract-the-movie.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214133903id_/https%3A//www.yellowpagesdirectory.com/privacy_policies.php) for the most accurate reproduction.*
 
 # Yellow Pages Directory Inc. - Privacy Policy
 
-  
+#### This policy was last updated on November 22, 2019
 
+Yellow Pages Directory Inc. (" _YPD_ ") offers our visitors a secure and private experience while keeping our site, specifically, " _YellowPagesDirectory.com_ ", simple and convenient to use. To do this, and due to the nature of this site, in many cases we collect, store and/or use "Personally Identifiable Information", including your name, email address, physical address, telephone number and/or other information that could potentially identify you specifically, subject to the terms of this Privacy Policy. Please note this Privacy Policy is applicable only to information collected by YPD through the site YellowPagesDirectory.com and does not impact information collected or used by YPD or its Affiliates through other means.
 
-#### This policy was last updated on May 19, 2018
-
-Yellow Pages Directory Inc. (“ _YPD_ ”) offers our visitors a secure and private experience while keeping our site, specifically, “ _YellowPagesGoesGreen.org_ ”, simple and convenient to use. To do this, and due to the nature of this site, in many cases we collect, store and/or use “Personally Identifiable Information”, including your name, email address, physical address, telephone number and/or other information that could potentially identify you specifically, subject to the terms of this Privacy Policy. Please note this Privacy Policy is applicable only to information collected by YPD through the site YellowPagesGoesGreen.org and does not impact information collected or used by YPD or its Affiliates through other means.
-
-How you interact with the website determines if and when certain information is collected. For instance, some sections or areas of the site allow you to submit contact forms, provide feedback, leave reviews, request information and other services. However, the majority of pages on the site serve visitors purely as “ _informational_ ” and “ _read-only_ ” not requiring you to submit anything. However, if and when you choose to participate in certain services by inputting your information, this site will collect this information while other sections may do so automatically by storing ‘ _cookies_ ’ and/or placing them in your computers’ browser. Among other things, cookies prevent you from having to type the same information each and every time you visit, with the sole purpose of providing an easier user experience. Cookies may also control or limit the amount or the type of advertisements you see while visiting the site. This is intended to provide users a better user experience.
+How you interact with the website determines if and when certain information is collected. For instance, some sections or areas of the site allow you to submit contact forms, provide feedback, leave reviews, request information and other services. However, the majority of pages on the site serve visitors purely as " _informational_ " and " _read-only_ " not requiring you to submit anything. However, if and when you choose to participate in certain services by inputting your information, this site will collect this information while other sections may do so automatically by storing ' _cookies_ ' and/or placing them in your computers' browser. Among other things, cookies prevent you from having to type the same information each and every time you visit, with the sole purpose of providing an easier user experience. Cookies may also control or limit the amount or the type of advertisements you see while visiting the site. This is intended to provide users a better user experience.
 
 We also collect information for statistical, website administration and analytical purposes including information regarding your geographic location, your computer or devices IP address, what type of device is being used to visit the site, which websites brought you to the service _(web referrals or links from other sites)_ or even, where applicable, what key phrases on search engines may have led to your visit. We do this only where we are permitted by law to collect and process this information.
 
-As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with any information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password each visit. Additionally we may not be able to customize the site’s features according to your preferences.
+As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with any information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password each visit. Additionally we may not be able to customize the site's features according to your preferences.
 
 For more information on how to clear or prevent cookies from being stored in your browser, please click here if you are using [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), here for [Chrome](https://support.google.com/accounts/answer/61416), and here for [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies).
 
@@ -24,7 +21,7 @@ For more information on how to clear or prevent cookies from being stored in you
 
 First and foremost, we will use your information only as permitted by law and as set forth in this policy. Information that does not personally identify you or any other person specifically may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most popular. This type of general, non-personal information may occasionally be shared with our advertisers and business partners, but it cannot be used to contact you or any other person individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on the site to communicate with you regarding other products and services offered by YPD and other YPD Affiliates. We reserve the right to share information with other YPD business units and any entities that control, are controlled by, or are under common control with, YPD (collectively, “ _Affiliates_ ”), including without limitation YPD and its Affiliate related businesses and websites.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on the site to communicate with you regarding other products and services offered by YPD and other YPD Affiliates. We reserve the right to share information with other YPD business units and any entities that control, are controlled by, or are under common control with, YPD (collectively, " _Affiliates_ "), including without limitation YPD and its Affiliate related businesses and websites.
 
 Personally Identifiable Information collected by YPD may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site _(our Web hosting service, our ISP for example)_ may also have access to such information. We also contract with other companies to provide services on our behalf, including credit-card and billing processing for our customers and advertisers, ad networks, email servers, list processing and analytics or management. We provide these companies only with the information they need to perform their services.
 
@@ -77,8 +74,8 @@ If you feel that information is inaccurate, or should not be listed:
 
 
   1. Have your phone number unpublished, please contact your local telephone company. 
-  2. Have your listing [edited](https://www.yellowpagesgoesgreen.org/support.php) (service fee applies for making your requested changes), or 
-  3. Have your listing removed. Please follow the instructions provided, we will [remove your listing free of charge](https://www.yellowpagesgoesgreen.org/support.php).
+  2. Have your listing [edited](https://www.yellowpagesdirectory.com/support.php) (service fee applies for making your requested changes), or 
+  3. Have your listing removed. Please follow the instructions provided, we will [remove your listing free of charge](https://www.yellowpagesdirectory.com/support.php).
 
   
 
@@ -93,10 +90,10 @@ Beginning January 1, 2005, California law permits visitors who are California re
 #### **Contacting Us.**
 
 _Yellow Pages Directory Inc.  
-384 Larkfield Road, Suite #6  
-East Northport, New York 11731  
-Phone: (631) 482-3385  
-[www.yellowpagesdirectory.com](https://www.yellowpagesgoesgreen.org/)  
+48 Wall Street, 11th Floor   
+New York, NY 10005   
+Phone: (212) 918-4474  
+[www.yellowpagesdirectory.com](https://www.yellowpagesdirectory.com/)  
 [editor@yellowpagesdirectory.com](mailto:editor@yellowpagesdirectory.com)_
 
   
@@ -113,4 +110,15 @@ YPD reserves the right to change this policy at any time. If you are concerned w
 
 Beginning March 25, 2018, some countries outside of the United States will require explicit consent to process and/or use data gathered on certain sites. However, this site is controlled, operated and administered entirely within the United States. It offers its service only in the English language and does not target users in any other counties. If you are located outside the United States, please be aware that while visiting this site information you provide to us through the site may be processed and transferred to the U.S. The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence. By using the Services, you consent to this collection, transfer, storage, and processing of information to and in the U.S.
 
-_© 2018 Yellow Pages Directory Inc_
+  
+
+
+#### **California Consumer Privacy Act (CCPA)**.
+
+The California Consumer Privacy Act (CCPA) is a data privacy law that establishes right for residents of California to opt out of the _“sale”_ of their _“personal information”_ _(as the law defines those terms),_ with the opt-out function offered via a prominent _“Do Not Sell My Personal Information”_ link on the _“selling”_ party’s homepage. CCPA does recognize certain exceptions to the definition of _“sale,”_ such that not all transfers of personal information are _“sales.”_ For example, transferring personal information from users of this site to a _“service provider”_ such as an Internet Service Provider (ISP) under the law is not a sale.
+
+As a part of our continued commitment to users, we never sell personal information to third parties, however, to ensure compliance with CCPA, this site automatically uses _“restricted data processing”_ which meets the California Consumer Privacy Act (CCPA) compliance requirements for all users who our software and advertising partners _(Google Ads, Google Analytics, etc.)_ determine visit this site from the State of California preventing a need for having users specifically _“opt-out”_ by clicking on a _“Do Not Sell My Personal Information”_ link.
+
+Restricted data processing restricts how our advertising and traffic statistic technologies uses certain unique identifiers when users visit and interact with the site, and limits data processed in the provision of services to users. With respect to data to which restricted data processing applies, these purposes include ad delivery, traffic reporting and measurement, security and fraud detection, debugging, and improving and developing features for the services. 
+
+_© 2019 Yellow Pages Directory Inc_
