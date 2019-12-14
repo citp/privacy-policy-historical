@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerpyx.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613174045id_/http%3A//www.powerpyx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpyx.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214220319id_/http%3A//www.powerpyx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,6 +51,8 @@ Furthermore, we are a participant in the Amazon Services LLC Associates Program,
 
 Criteo is also among our advertisers. See [official Criteo privacy policy](http://www.criteo.com/us/privacy-policy) (the purpose of the Criteo cookies is to re/target users of our website to display personalized advertisements in their future navigation.
 
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie.
+
 **Information Gathered by Third Party Advertisers**  
 Cookies enable advertisers to learn about what ads you see, what ads you click, and other actions you take on our site and other sites. This allows advertisers to provide you with more useful and relevant ads. For example, if they know what ads you are shown while visiting our site, they can be careful not to show you the same ones repeatedly. They do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
 
@@ -84,4 +86,4 @@ This website may permit third parties to collect information on its Site and com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at .
 
-_Last update: May 25, 2018._
+_Last update: October 17, 2019._
