@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnykfir.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321173906id_/https%3A//www.justhost.com/cgi/info/privacy-policy%3Fno_navigation%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnykfir.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214211229id_/https%3A//www.justhost.com/cgi/info/privacy-policy%3Fno_navigation%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | Just Host
 
@@ -134,9 +134,7 @@ Just Host reserves the right to revise, amend, or modify this Privacy Policy at 
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact:  
 ATTN: Just Host Legal Department.   
-1500 N Priest Drive   
-Suite 200   
-Tempe, AZ 85281 
+1500 North Priest Drive Suite 200, 2nd Floor Tempe, AZ 85281 
 
 Fax: 781-998-8277 or E-mail: legal@justhost.com
 
@@ -155,6 +153,6 @@ Just Host retains personal data it processes on behalf of Just Host's Resellers 
 
 
 
-This file was last modified: June 28, 2018.
+This file was last modified: September 19, 2019.
 
 [Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Data Request Policy](https://web.archive.org/data-request-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
