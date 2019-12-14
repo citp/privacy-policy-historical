@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the itechhacks.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319003820id_/https%3A//itechhacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechhacks.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214180715id_/https%3A//itechhacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or take action on **https://itechhacks.com** (the “Site”).
 
-**PERSONAL INFORMATION WE COLLECT**
+ **PERSONAL INFORMATION WE COLLECT**
 
 When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-**We collect Device Information using the following technologies:**
+ **We collect Device Information using the following technologies:**
 
 – “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and
 
@@ -24,7 +24,7 @@ Additionally when you make a purchase or attempt to make a purchase through the 
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-**How we use collected information?**
+ **How we use collected information?**
 
 iTech Hacks may collect and use Users personal information for the following purposes:
 
@@ -38,23 +38,23 @@ We may use the email address to send User information and updates pertaining to 
 
 Below every email we send with your permission, there’s a link attached to unsubscribe yourself.
 
-**How we protect your information?**
+ **How we protect your information?**
 
 We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 Sensitive and private data exchange between the Site and its Users happens over SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**Sharing your personal information**
+ **Sharing your personal information**
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 By accessing the services and/or completing the registration process for itechhacks.com website, you represent that you are 18 years of age or older. In simpler words, you have to be at least 18 years old to access our website and use its services.
 
-**Third party websites**
+ **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-**Advertising**
+ **Advertising**
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
@@ -67,7 +67,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 <http://www.google.com/privacy_ads.html>
 
-**Push Notifications**
+ **Push Notifications**
 
 When you visit itechhacks.com, you might receive a pop-up asking for your permission to send you to push notifications on your device. In case you choose not to agree, you can continue using our website. If you choose to agree to receive push notifications on your device, you can later opt-out of the notifications by searching for “Notifications” in your web browser’s “Settings” section. Find more information on One Signal’s push notification service here:
 
@@ -81,29 +81,29 @@ All the information, all without special notice, the copyright belongs to M/s it
 
 iTechHacks shall hold the right to modify and update the copyrighted material at any time.
 
-**Changes to this privacy policy**
+ **Changes to this privacy policy**
 
 itechhacks has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Your acceptance of these terms**
+ **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**YOUR RIGHTS**
+ **YOUR RIGHTS**
 
 If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
 Additionally, if you are a **European resident** we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-**MINORS**
+ **MINORS**
 
 The Site is intended for individuals under the age of 12.
 
-**CHANGES**
+ **CHANGES**
 
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-**Contacting us**
+ **Contacting us**
 
 iTechHacks is committed to providing a secure and transparent experience to our Users. Protecting our Users’ privacy and data is extremely important to us. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at **admin@itechhacks.com**
 
