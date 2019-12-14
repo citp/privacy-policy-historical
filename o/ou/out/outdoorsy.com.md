@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorsy.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822162443id_/https%3A//www.outdoorsy.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorsy.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214164745id_/https%3A//www.outdoorsy.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Outdoorsy
 
@@ -70,7 +70,10 @@ publicly visible to all Outdoorsy Users and consequently should reflect how much
 
 ### Listings
 
-If you post a Listing, we may publish that Listing publicly via the Services and may enable third parties to publish your Listing on their websites through the use of an HTML “ **widget** “. We may also display the geographical location of your Listing in the form of a map to potential Renters.  
+If you publish a listing, your Outdoorsy listing, and any personally identifiable information associated with your public listing, may be shared with and distributed by external 3rd parties. Such 3rd parties may include, but are not limited to, external marketplaces, local and national classifieds, and any other approved Outdoorsy partners. We may also display the geographical location of your Listing in the form of a map or an obscured address to potential Renters as well as any listing data or media shared by you.
+
+Outdoorsy is not responsible for any information included in your listings, and cannot be held liable should it be distributed without your explicit consent or permission. Should an Outdoorsy customer feel their listing data shouldn’t be shared and would not like bookings from third party sources it is the customer’s responsibility to contact Outdoorsy at fboptout@outdoorsy.com and request that said listing data is removed.
+
 If you request to make a booking via the Services, Outdoorsy will share the following information about you with the applicable Owner: (i) your first and last name, (ii) a link to your Outdoorsy Account profile page where the owner can view your Vehicle history, reviews, and description/links. All of this information will enable the Owner to decide whether to confirm or reject your booking. When an Owner confirms a booking we will share pieces of the Owner’s Identify Information, including, but not limited to, full name, phone number, the Vehicle’s address and the Owner’s email address, with the applicable Renter selected by the Owner and we will share pieces of the Renter’s Identify Information with the Owner, including, but not limited to, full name, phone number and email  
 address, so that the Renter and Owner may contact one another directly. In no  
 event is a Renter’s Billing Information shared with an Owner.
