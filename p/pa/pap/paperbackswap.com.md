@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperbackswap.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617052739id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperbackswap.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214090529id_/https%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.*
 
 # PaperBackSwap :: Privacy Policy
 
@@ -16,11 +16,11 @@ PaperBackSwap does not rent, sell, or share personal information about you with 
 **Affiliated Entities**   
 PaperBackSwap may engage in marketing products or services in cooperation with other companies. While engaged in a cooperative relationship with PaperBackSwap, such companies are considered affiliated entities and PaperBackSwap may share your information with them, including your name, address, email address, and other personal information that you have provided to us. If you purchase postage through the Site, the United States Postal Service and our postage partner, Endicia, require that we collect and share your personal information with Endicia and the United States Postal Service. Information sharing includes, but may not be limited to, your name, address, email address, credit card number, and telephone number and such additional information as may be requested or required to complete or facilitate a postage purchase transaction. Your information can then be used according to their respective privacy policies, which can be found at 
 
-<http://www.endicia.com/PrivacyPolicy/>
+<https://www.endicia.com/PrivacyPolicy/>
 
 and 
 
-<http://about.usps.com/who-we-are/privacy-policy/welcome.htm>
+<https://about.usps.com/who-we-are/privacy-policy/welcome.htm>
 
 **Posted Communications**   
 PaperBackSwap may make message boards, opinion forums, bulletin board services or other interactive communication facilities available to users of the Site. Posted communications are publicly viewable and searchable through Google or other search engines. PaperBackSwap cannot review all communications made on or through the Site. PaperBackSwap reserves the right to use posted materials for its own purposes for marketing, communication, advertising, or any other purpose at the sole discretion of PaperBackSwap.
