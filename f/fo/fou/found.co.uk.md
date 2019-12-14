@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the found.co.uk privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328023132id_/https%3A//www.found.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the found.co.uk privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214050033id_/https%3A//www.found.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FOUND
+# Privacy Policy | Found
 
 ## Introduction
 
@@ -99,7 +99,7 @@ We use Google Analytics for the following purposes:
   * Hubspot for the following purposes: 
     * Marketing automation service in order to assist us in managing our sales pipeline and staying in touch with our potential customers and industry peers. Part of the service they provide us with is the provisioning of forms on our website. Their privacy policy is available at this address: <https://legal.hubspot.com/privacy-policy>
   * We also use advertising partners to collect cookie-based information about our website users in order to assist us with better targeting of our advertising. For more specific information about our advertising partners – please visit our [cookie policy](https://web.archive.org/cookie-policy). 
-  * For further information on cookies in general, including how to decline and remove cookies from your browser visit [www.aboutcookies.org](https://web.archive.org/web/20190328023132id_/https://www.found.co.uk/privacy-policy/www.aboutcookies.org).
+  * For further information on cookies in general, including how to decline and remove cookies from your browser visit [www.aboutcookies.org](https://www.aboutcookies.org/).
 
 
 
