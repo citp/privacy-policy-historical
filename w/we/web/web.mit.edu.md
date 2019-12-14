@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web.mit.edu privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528005530id_/http%3A//web.mit.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web.mit.edu privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214060215id_/http%3A//web.mit.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | MIT - Massachusetts Institute of Technology
 
