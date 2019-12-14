@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331040712id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214195814id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
 
 # figshare - Privacy
 
@@ -19,6 +19,7 @@ Click on one of the links below to jump to the listed section:
   * Your rights
   * Third party sites
   * Contact details
+  * EU-US Privacy Shield Notice
   * Changes to this Notice
 
 
@@ -129,8 +130,35 @@ If you would like any further information, or have any questions or concerns, re
 
 You have the right to make a complaint at any time to your local supervisory authority for data protection issues. We would, however, appreciate the chance to deal with your concerns in the first instance. 
 
+## EU-US Privacy Shield Notice
+
+Digital Science's US affiliate, Digital Science & Research Solutions Inc. ("Digital Science US"), participates in the EU-US Privacy Shield. This Notice applies to personal data transferred to Digital Science US, in the United States, from the UK or European Economic Area, where transferred in reliance on the EU-US Privacy Shield (which is referred to in this Notice as EU Personal Data). 
+
+To the extent there is any conflict between the Privacy Shield Principles and this Notice, the Privacy Shield Principles will prevail in respect of EU Personal Data. 
+
+  * **Commitment to the Privacy Shield Principles**
+
+Digital Science US participates in the EU-US Privacy Shield Framework and has certified its compliance with the Privacy Shield Principles regarding the collection, use and retention of EU Personal Data. Digital Science US is responsible for the processing of EU Personal Data, and remains liable for its onward transfer to third parties acting as agents on our behalf, in accordance with the Privacy Shield Principles. 
+
+For purposes of enforcing compliance with the Privacy Shield, Digital Science US is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. 
+
+To learn more about the Privacy Shield Principles, and to view Digital Science US’s certification, please visit <https://www.privacyshield.gov/welcome>. 
+
+  * **Disclosure for national security or law enforcement**
+
+Digital Science US may be required to share your personal data to public authorities and law enforcement agencies in response to lawful requests, including requests to meet national security and law enforcement requirements. 
+
+  * **Resolution of Privacy Shield queries and complaint mechanism**
+
+If you have a Privacy Shield-related (or general privacy-related) query or complaint, we encourage you to contact us (see contact details above) as a first step. Any unresolved complaints may be referred to our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. You may also contact your local supervisory authority within the European Economic Area. 
+
+Under certain conditions, more fully described on the Privacy Shield website, including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration. 
+
+
+
+
 ## Changes to this Notice
 
 We reserve the right to modify or replace this Notice at any time by posting the revised Notice on our website. You are responsible for reviewing and becoming familiar with any such change each time you access any part of figshare.
 
-## Last Updated [25 June 2018]
+## Last Updated [24 May 2019]
