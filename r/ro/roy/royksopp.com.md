@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royksopp.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620130239id_/http%3A//royksopp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royksopp.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214014905id_/http%3A//royksopp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Röyksopp
 
