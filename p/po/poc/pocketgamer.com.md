@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketgamer.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303073929id_/http%3A//download.steelmedia.co.uk/terms/SM-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketgamer.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214074909id_/http%3A//download.steelmedia.co.uk/terms/SM-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Steel Media Privacy Policy
 
