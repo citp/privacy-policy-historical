@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omorashi.org privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302184738id_/https%3A//omorashi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omorashi.org privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214200043id_/https%3A//www.omorashi.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OmoOrg
 
