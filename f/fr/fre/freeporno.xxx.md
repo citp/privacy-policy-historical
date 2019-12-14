@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeporno.xxx privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601230202id_/https%3A//freeporno.xxx/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeporno.xxx privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214031657id_/https%3A//freeporno.xxx/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
