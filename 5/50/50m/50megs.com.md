@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50megs.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116002322id_/http%3A//www.50megs.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50megs.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214020422id_/http%3A//www.50megs.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- 50megs.com
 
