@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogy.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322103135id_/https%3A//www.genealogy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogy.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214180451id_/https%3A//www.genealogy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Genealogy.com
 
