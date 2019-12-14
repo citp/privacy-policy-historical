@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachable.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608021540id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachable.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214043217id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
 
 # Teachable | Privacy Policy
 
@@ -174,4 +174,4 @@ Teachable, Inc.
 
 New York, New York 10010
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdcdcfd4cbdcdec4fdc9d8dcded5dcdfd1d893ded2d0)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b2c2c0dbc4d3d1cbf2c6d7d3d1dad3d0ded79cd1dddf)
