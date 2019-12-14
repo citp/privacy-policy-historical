@@ -1,78 +1,25 @@
-> *The following text is extracted and transformed from the suprafootwear.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119235058id_/http%3A//www.suprafootwear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suprafootwear.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214142753id_/https%3A//suprafootwear.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Supra Footwear
 
-**Last Updated: August 6 th 2015**
+* Supra uses cookies only to allow you to use the Suprafootwear.com website in the most efficient manner. Cookies allow us to enhance and personalize your online browsing and shopping experience. By way of example, our use of cookies enable us to “remember” the items in your shopping cart, recognize you when you return to the site, and collect other non-personal identifiable information to analyze visitor behavior such as IP address, browser type and other unique device identifiers.
 
-This Privacy Policy explains how information about you is collected, used and disclosed by K-Swiss Global Brands (KSGB) and its subsidiaries and affiliated companies (collectively, "KSGB"). This Privacy Policy applies to the websites of KSGB, including [suprafootwear.com](http://suprafootwear.com/), and KSGB's other online and mobile applications and services (collectively, "Sites"). Please read the following Privacy Policy to understand how we will treat information about you when you use our Sites.
+If you wish, you may have your computer warn you each time a cookie is being sent, or you may choose to turn off all cookies. You do this through your browser settings. Please note, however, that by deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our website.
 
-KSGB may modify this Privacy Policy at any time. If we make changes, we will notify you by revising the date at the top of this policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access our Sites to stay informed about our information practices and the ways you can help protect your privacy.
+We also work with other companies who use tracking technologies, including web beacons, to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visit to our website and about your interaction with our communications, including advertising and e-mails. If you object to web beacons, you may follow the instructions for deleting existing cookies and disabling future cookies. We will still know how many of our e-mails are opened and we will automatically receive your IP address, a unique identifier for your computer or other access devices, but we will not identify you as an individual.
 
-### What Kind Of Information Do We Collect?
+* Except as described in this Privacy Policy, Supra does not sell, rent or trade any personal information you provide to us online or at our stores, nor do we share such information with third parties. We may disclose personal information about you to third parties who provide services to us and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy.
 
-We collect information about you in various ways when you use our Sites. For example, we collect information you provide directly to us when you register for an account, make purchases, request a catalog, request to receive communications or participate in a promotion or other Site feature. The information we collect may include your name, address, phone number, email address and other contact or demographic information.
+Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfilment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing. We may need to share personal information with these third parties so that they can perform these services; however, we limit the personal information that we give to them and authorize them to use this information only for the purpose of performing those services.
 
-In addition, when you visit our Sites, some information is automatically collected. For example, we may collect your computer's operating system, Internet Protocol ("IP") address, access times, browser type and language and the website you visited before navigating to our Sites. We also collect information about your usage of and activity on our Sites.
+In proceeding with your online order, you agree that both your name and address and those of the delivery name and address (if different) will be checked using third parties such as credit agencies. If you are providing a delivery name and address that is not your own, you must have that person’s permission to give us their personal information and for us to use it for the purposes specified. By providing their name and address, you are telling us that you have their permission.
 
-**Cookies.** We automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits on our Sites. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove and/or reject cookies. Please note that if you choose to remove or reject cookies, this could affect certain features or services of our Sites.
+We share aggregated demographic information about our user base with certain business agents and vendors, so that they can provide marketing analysis and advise us on advertising strategies. This information does not identify individual users. From time to time, we also may share non-personal information (such as the number of users who visited the website during a specific time period or who purchased a specific product through the website) with our marketing partners, advertisers and others. This information is usually shared in an aggregated form.
 
-**Web Beacons.** We may also collect information using Web beacons. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
+We may release personal information if we believe in good faith that: the law or legal process requires it; if we have been advised by counsel; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of Supra or any of our respective affiliates, business partners, customers or others.
 
-### Credit Card Security
+As with any business, it is possible that as our business develops, we might go through a business transition, such as a merger, acquisition by another company, sale of all or a portion of our assets or the purchase of online stores or other assets. In such cases, information about customers will likely be transferred. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the privacy policy in effect.
 
-We work to protect the security of your information during your session and any transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input. We also have integrated additional security measures through our approved order processing partner to safeguard your entire online experience. We reveal only the last four digits of your credit card numbers when confirming an order.
+Personal information submitted to or collected through this website may be stored and/or processed in the United States for the purposes described in this privacy policy. By using Supra products and services (including our website), you consent to any such transfer of information outside of your country.
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
-
-We may also obtain information from other sources and combine that with information we collect through our Sites. For example, we may have access to your Facebook username.
-
-### Using Information
-
-We may use information about you for purposes described in this Privacy Policy or otherwise disclosed to you on our Sites For example, we may use your information:
-
-  * to operate and improve our Sites;
-  * to administer contests, promotions, surveys or other Site features and to provide you with the relevant products or services;
-  * to send you information/materials about products, offers, events, news and for other promotional purposes we think you will find valuable;
-  * to respond to your comments and questions and to provide customer service;
-  * to provide and deliver products and services and to send you related information, including confirmations, invoices, technical notices, updates, security alert and support and administrative messages;
-  * to link or combine with other information about you we collect from third parties; and
-  * to monitor and analyze trends, usage and activities in connection with our Sites; and
-  * to personalize and improve the Sites and provide advertisements, content or features that match user profiles and interests.
-
-
-
-KSGB may store and process personal information in the United States and other countries. By accessing or using the Sites, you consent to the processing and transfer of information in and to the United States and other countries.
-
-### Security
-
-KSGB takes reasonable measures to safeguard information about you in an effort to prevent loss, theft and misuse, as well as unauthorized access, disclosure, alteration and destruction.
-
-### Sharing Information
-
-  * We may share information about you as follows or as otherwise described in this Privacy Policy:
-  * when you give us your consent to do so, including if we notify you on the Sites that the information you provide will be shared in a particular manner and you provide such information;
-  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
-  * in response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
-  * if we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of KSGB or others; and
-  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
-  * KSGB may also share aggregated or anonymized information that does not directly identify you.
-
-
-
-### Social Sharing Features 
-
-The Sites may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
-
-### Third Party Advertising and Analytics Services
-
-KSGB uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show KSGB ads on sites across the internet. KSGB and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to suprafootwear.com
-
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Sites and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices).
-
-### Your Choices
-
-You may request to modify or delete information about you or cancel your account at any time by emailing us at [customerservice@suprafootwear.com](mailto:customerservice@suprafootwear.com).
-
-### General Contact Information
-
-If you have any questions or comments regarding this Privacy Policy, our products or our Sites, please contact [Customer Service](https://web.archive.org/customer-service/contact/) or please call us toll free at 844-284-7224.
+If you would like to opt-out of receiving ads tailored by 3rd party tracking technologies associated with our website, please click here. If you opt-out from these third party tracking technologies, you may still see our ads at other websites, but the ads will not be tailored using third party tracking technologies associated with our website.
