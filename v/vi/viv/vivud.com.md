@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivud.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829212655id_/https%3A//vivud.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivud.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214155002id_/https%3A//vivud.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page - VIVUD.com
 
