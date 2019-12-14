@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filepup.net privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118141819id_/http%3A//www.filepup.net/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepup.net privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214222903id_/http%3A//www.filepup.net/help/privacy.php) for the most accurate reproduction.*
 
 # FilePup.net - Dead Simple Personal Cloud
 
