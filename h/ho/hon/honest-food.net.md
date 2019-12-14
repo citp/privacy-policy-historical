@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honest-food.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125044404id_/https%3A//honest-food.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honest-food.net privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214082044id_/https%3A//honest-food.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunter Angler Gardener Cook
 
