@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019200701id_/https%3A//www.mbs.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214125107id_/https%3A//www.mbs.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Alliance MBS
 
@@ -74,7 +74,7 @@ This information will be provided by you, and we will use your information to co
 
 However, you will be given the opportunity to opt-out of receiving information about future events and we will not contact you again if you ask us not to.
 
-You can change your contact preferences by using the link which is at the bottom of all of our event communications or by emailing [events@manchester.ac.uk](mailto:%20events@manchester.ac.uk).
+You can change your contact preferences by using the link which is at the bottom of all of our event communications or by emailing [events@manchester.ac.uk](mailto:events@manchester.ac.uk).
 
 ###  How will we handle your information and with other organisations?
 
