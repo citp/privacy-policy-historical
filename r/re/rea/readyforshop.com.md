@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyforshop.com privacy policy that was archived on 2016-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160707053219id_/https%3A//www.readyforshop.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyforshop.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214150445id_/https%3A//www.readyforshop.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -65,28 +65,21 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 The table below lists the cookies we collect and what information they store.
 
-COOKIE name | COOKIE Description  
+Cookie Name | Cookie Description  
 ---|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FORM_KEY | Stores form key used by page cache functionality.  
-FRONTEND | Your session ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-RECENTLYCOMPARED | The items that you have recently compared.  
+FORM_KEY | Stores randomly generated key used to prevent forged requests.  
+PHPSESSID | Your session ID on the server.  
+GUEST-VIEW | Allows guests to view and edit their orders.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history, if you have asked for this.  
 STF | Information on products you have emailed to friends.  
 STORE | The store view or language you have selected.  
 USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wish List.  
-WISHLIST_CNT | The number of items in your Wish List.
+MAGE-CACHE-SESSID | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-STORAGE | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-STORAGE-SECTION-INVALIDATION | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-TIMEOUT | Facilitates caching of content on the browser to make pages load faster.  
+SECTION-DATA-IDS | Facilitates caching of content on the browser to make pages load faster.  
+PRIVATE_CONTENT_VERSION | Facilitates caching of content on the browser to make pages load faster.  
+X-MAGENTO-VARY | Facilitates caching of content on the server to make pages load faster.  
+MAGE-TRANSLATION-FILE-VERSION | Facilitates translation of content to other languages.  
+MAGE-TRANSLATION-STORAGE | Facilitates translation of content to other languages.
