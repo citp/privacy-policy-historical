@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622021630id_/http%3A//www.careers.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.org privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214155149id_/http%3A//www.careers.org/privacy-policy) for the most accurate reproduction.*
 
 # Careers.org | Career Resources, Career Guide, Online Education and Degree Directory
 
