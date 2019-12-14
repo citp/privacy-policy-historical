@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405082831id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214234532id_/https%3A//arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
 
 # Learn More | Privacy Policy - ArcLight Cinemas
 
@@ -167,11 +167,7 @@ DOB - Month DOB - Day DOB - Year
 
 * Preferred Cinema
 
-*Please provide at least one phone number 
-
-Home Phone
-
-Cell Phone
+*Cell Phone
 
 I would like to receive exclusive member offers and information on the latest happenings at ArcLight
 
