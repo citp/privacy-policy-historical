@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biolayne.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501140813id_/https%3A//www.biolayne.com/legal-docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biolayne.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214155325id_/https%3A//www.biolayne.com/legal-docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Biolayne
 
@@ -86,4 +86,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20190501140813id_/https://www.biolayne.com/contact/).
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20191214155325id_/https://www.biolayne.com/contact/).
