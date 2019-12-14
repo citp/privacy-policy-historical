@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toro.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027182344id_/https%3A//www.toro.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toro.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214140639id_/https%3A//www.toro.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Toro | Privacy Policy
+# Privacy Policy | Toro
 
 ### 1\. Toro's Commitment to Your Privacy
 
