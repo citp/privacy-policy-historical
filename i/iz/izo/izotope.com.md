@@ -1,32 +1,30 @@
-> *The following text is extracted and transformed from the izotope.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404095835id_/https%3A//www.izotope.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izotope.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214122519id_/https%3A//www.izotope.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# iZotope Privacy Policy | Audio Plug-ins, VTS, AAX
+# Privacy Policy
 
-**Effective December 21, 2018**
-
-**Introduction**
+### **Introduction**
 
 This privacy policy (“Policy”) describes how iZotope, Inc. (“iZotope”) collects, uses and shares personal information of consumer users of the iZotope websites (the “Sites”) or any products or services available on or through the Sites. iZotope is the sole owner of the information collected on the Sites or through your use of the iZotope products and services. We will not sell, share, or rent this information to others in ways different from what is disclosed in this Policy.
 
 Further, iZotope Inc respects your privacy and is committed to protecting your personal data in line with the General Data Protection Regulation - Regulation (EU) 2016/679 (GDPR).  This Policy will inform you as to how we will look after your personal data when you interact with us, including visiting our Sites. It also tells you about your rights in relation to your personal data.
 
-**What Is Personal Data And Who Is Responsible For Looking After My Personal Data?**
+### **What Is Personal Data And Who Is Responsible For Looking After My Personal Data?**
 
 Personal data is any information about an identifiable individual. iZotope Inc is responsible for personal data which we collect from you and, along with our distributors, resellers, dealers and other sales channels, we are also responsible for how we handle personal data which we collect from iZotope’s sales partners.
 
-**Data Collected and Its Use**
+### **Data Collected and Its Use**
 
 iZotope allows you to voluntarily provide us with contact information through our website and when you are purchasing or redeeming offers or registering products you purchased from other authorized retailers. The information we may collect from you includes your name, email address, phone number, and past purchases. We do not collect or store credit card information. In addition, if you contact us, we may keep a record of your communication to help solve any issues you might be facing.  Finally, we may receive contact details or other information about you from publicly and commercially available sources, which we may combine with other information we receive from or about you. We will use the information we collect from third party sources in accordance with this Privacy Policy.
 
-If you have requested information or if you have purchased products or services from us in the past we may use this information to provide you with news, offers for upgrades, discounts and other marketing information. But we only want to stay in contact with people that are interested in what we're doing. If you do not wish to receive marketing communications from iZotope, Inc., you can opt-out in the manner designated in the marketing communication or by contacting us through our Contact Us  _[form](https://support.izotope.com/customer/portal/emails/new)_.
+If you have requested information or if you have purchased products or services from us in the past we may use this information to provide you with news, offers for upgrades, discounts and other marketing information. But we only want to stay in contact with people that are interested in what we're doing. If you do not wish to receive marketing communications from iZotope, Inc., you can opt-out in the manner designated in the marketing communication or by contacting us through our Contact Us form.
 
 If you use a blog, bulletin board or similar means of communication on or through our Sites, you should be aware that any data you submit there can be read, collected, or used by other users of these forums. We use industry standard measures, including administrative, technical, and physical safeguards, to help protect personal daa from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. However, no data transmission over the Internet can be guaranteed to be entirely secure.
 
 As a result, while we always use all reasonable efforts to protect your personal data, we cannot guarantee the security of your information and the submission of data is thus at your own risk.
 
-**Data Integrity and Security**
+### **Data Integrity and Security**
 
-iZotope uses industry standard security measures to protect against the loss, misuse and/or alteration of data located on our systems. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality. We regularly review our security and related policies to adapt the technology as new threats evolve, and monitor our systems to help ensure the highest level of availability. If you have any questions about the security at our Sites, you can contact  _[izotope.com/support](https://www.izotope.com/support)_.
+iZotope uses industry standard security measures to protect against the loss, misuse and/or alteration of data located on our systems. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality. We regularly review our security and related policies to adapt the technology as new threats evolve, and monitor our systems to help ensure the highest level of availability. If you have any questions about the security at our Sites, you can contact izotope.com/support.
 
 **Lawful Grounds For Using Your Personal Data**
 
@@ -40,31 +38,31 @@ There are various lawful grounds on which we use your personal data including th
 
 (d) to inform our marketing strategy including to define customers for our products and services.
 
-**Your Right To Make A Complaint And How To Contact Us**
+### **Your Right To Make A Complaint And How To Contact Us**
 
-Your privacy is very important to us. You have the right to make a complaint at any time to the supervisory authority for data protection issues in your country. We would, however, appreciate the chance to deal with your concerns so if you have any questions or concerns regarding our privacy policies please  _[contact us](https://support.izotope.com/customer/portal/emails/new)_  at  _[legal@izotope.com](mailto:legal@izotope.com)_.
+Your privacy is very important to us. You have the right to make a complaint at any time to the supervisory authority for data protection issues in your country. We would, however, appreciate the chance to deal with your concerns so if you have any questions or concerns regarding our privacy policies please contact us at legal@izotope.com.
 
-**Non-Personal Data**
+### **Non-Personal Data**
 
 iZotope collects non-personal identification information about you whenever you interact with our website. Non-personal identification information may include browser name, type of computer, and technical information about your means of connecting to our website, such as the operating system, the Internet service provider utilized, and other similar information. We use this information to optimize and improve our website.
 
-**Cookies and Web Beacons**
+### **Cookies and Web Beacons**
 
 iZotope uses cookies on its website. These cookies are stored by your browser for record-keeping purposes.  Also, through the use of cookie technology or otherwise, we may track and collect information about your computer and software when you visit the Sites or use our products or services. This information is automatically collected, and may include, but is not limited to: (i) your Internet Protocol (“IP”) address; (ii) domain server; (iii) type of computer; (iv) your operating system; (v) type of web browser and browser language; (vi) access times; (vii) pages viewed and how long you spend on a page; (viii) referring websites addresses; and (ix) other information about your use of and actions on our Sites (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you. Traffic Data assists us to design and arrange our web pages in the most user-friendly manner and to continually improve our Sites to better meet the needs of users.  iZotope also analyzes the data through the use of Google Analytics and Google AdWords.
 
 We may also use web beacons (small pieces of data that are embedded in images on the pages of websites) and auditing software to track page views and entry and exit points to and from our Sites. In addition, we may use web beacons, cookies, customized links and/or similar technologies to determine whether electronic newsletters sent by us to those who have requested them from us have been opened and which links are clicked. Any data collected will only be used in an aggregate form and will not contain any personal information, as that term is defined below.
 
-You may choose to set your web browser to refuse cookies. You may also opt out of a third-party vendor’s use of cookies by using the NIA opt-out site at  _<http://www.networkadvertising.org/choices/>_ , or for those in Europe, the EDAA opt out site at  _<http://www.youronlinechoices.com/>_. A user who does not accept cookies from our Sites may not be able to access certain areas of the Sites.
+You may choose to set your web browser to refuse cookies. You may also opt out of a third-party vendor’s use of cookies by using the NIA opt-out site at http://www.networkadvertising.org/choices/, or for those in Europe, the EDAA opt out site at http://www.youronlinechoices.com/. A user who does not accept cookies from our Sites may not be able to access certain areas of the Sites.
 
 Further, third-party vendors including AdRoll and Google may use the cookie information about your prior visits to the iZotope website in order to place targeted iZotope advertisements on other sites you visit.
 
 Some iZotope downloads or software generate a computer ID value during installation. This ID does not contain any specific information about you or the data on your computer.
 
-**Surveys and Responsive Requests**
+### **Surveys and Responsive Requests**
 
 If you have opted to participate, from time to time, we may request information from users via surveys or similar responsive requests. Participation in these surveys or responsive requests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, email and shipping address), and demographic information (such as zip code, age level). If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so. Survey information may be used to monitor or improve the use and satisfaction of the Sites or our products and services.
 
-**Information Sharing and Disclosure**
+### **Information Sharing and Disclosure**
 
 iZotope will not sell or rent any personal data, except to successors in interest, without your consent. iZotope reserves the right to release account information when exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
@@ -78,7 +76,7 @@ We may also share personal data in the event of an emergency, for the protection
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law.
 
-**Recipients**
+### **Recipients**
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law.
 
@@ -94,15 +92,15 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 
 
-Please contact us  _[here](https://www.izotope.com/support)_  if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+Please contact us here if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
-**Other Sites**
+### **Other Sites**
 
 iZotope contains links to other sites on the Web. iZotope has no control over these external sites and is not responsible for the privacy practices or content of these sites. We advise you to read the privacy policies of those websites thoroughly so that you are aware of the manner in which those websites will use your personal data.
 
 iZotope reserves the right to remove content that does not comply with the conduct stated above or is otherwise deemed objectionable. iZotope reserves the right, in its sole discretion, to terminate your access to any part or this entire site without notice.
 
-**How Long Will We Keep Your Personal Data For?**
+### **How Long Will We Keep Your Personal Data For?**
 
 We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
@@ -112,9 +110,9 @@ In some circumstances you can ask us to delete your data: see the “Your rights
 
 In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-**Your Rights**
+### **Your Rights**
 
-Under certain circumstances, you have rights under data protection laws in relation to your personal data. We have explained your rights below; if you wish to exercise any of your rights, please contact us at  _[izotope.com/support](https://www.izotope.com/support)_.
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. We have explained your rights below; if you wish to exercise any of your rights, please contact us at izotope.com/support.
 
 You have the right to:
 
@@ -128,48 +126,48 @@ You have the right to:
 
 
 
-**No Fee Usually Required**
+### **No Fee Usually Required**
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
-**What We May Need From You**
+### **What We May Need From You**
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-**Choice and Access; Time Limit To Respond**
+### **Choice and Access; Time Limit To Respond**
 
 We will provide an individual opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
 
-To limit the use and disclosure of your personal information, please submit a written request to  _[izotope.com/support](https://www.izotope.com/support)_. iZotope acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to  _[izotope.com/support](https://www.izotope.com/support)_. If requested to remove data, we will respond within a reasonable timeframe.
+To limit the use and disclosure of your personal information, please submit a written request to izotope.com/support. iZotope acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to izotope.com/support. If requested to remove data, we will respond within a reasonable timeframe.
 
-**Acceptance of Privacy Policy**
+### **Acceptance of Privacy Policy**
 
 By using the Sites, you consent to the collection, use and storage of your information by us in the manner described in this Policy. We reserve the right to make changes to this Policy at any time. If we decide to change our Policy, we will post those changes on our Sites so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 If you do not agree with this Policy, please do not use our Sites. Your continued use of our Sites following posting of changes to these terms will mean you accept those changes.
 
-**Privacy Shield**
+### **Privacy Shield**
 
-iZotope complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.  iZotope has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome).
+iZotope complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.  iZotope has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/.
 
 iZotope is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-**Dispute Resolution and Enforcement**
+### **Dispute Resolution and Enforcement**
 
 In compliance with the Privacy Shield Principles, iZotope commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact iZotope at the contact details below:
 
-iZotope has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/)  for more information and to file a complaint. This service is provided free of charge to you.
+iZotope has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers  for more information and to file a complaint. This service is provided free of charge to you.
 
-If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
 
-**Children’s Privacy**
+### **Children’s Privacy**
 
-The Children’s Online Privacy Protection Act restricts the collection and use of Personal Information pertaining to children under the age of 13.  We do not allow such children to register as users and will not knowingly collect or solicit Personal Information from anyone under the age of 13.  No one under the age of 13 should provide any Personal Information on or through this Site or otherwise.  In the event we learn that we have collected Personal Information from a child under age 13, we will terminate the any account and communications, and delete such information.  If you believe that we might have any information from or about a child under 13, please contact us at  _[izotope.com/support](https://www.izotope.com/support)_.  Minors aged 13 and over should not use this site or post any information or other content without adult supervision.
+The Children’s Online Privacy Protection Act restricts the collection and use of Personal Information pertaining to children under the age of 13.  We do not allow such children to register as users and will not knowingly collect or solicit Personal Information from anyone under the age of 13.  No one under the age of 13 should provide any Personal Information on or through this Site or otherwise.  In the event we learn that we have collected Personal Information from a child under age 13, we will terminate the any account and communications, and delete such information.  If you believe that we might have any information from or about a child under 13, please contact us at izotope.com/support.  Minors aged 13 and over should not use this site or post any information or other content without adult supervision.
 
-**California Notices**
+### **California Notices**
 
-Users who reside in California and have provided personal data to us have the right to receive: (a) information identifying any third party to whom we may have disclosed, within the past year, personal data pertaining to you and your family for that party’s direct marketing purposes; and (b) a description of the categories of personal data disclosed. To obtain such information, please email your request to  _[izotope.com/support](https://www.izotope.com/support)_. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+Users who reside in California and have provided personal data to us have the right to receive: (a) information identifying any third party to whom we may have disclosed, within the past year, personal data pertaining to you and your family for that party’s direct marketing purposes; and (b) a description of the categories of personal data disclosed. To obtain such information, please email your request to izotope.com/support. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
-**Contact Information**
+### **Contact Information**
 
-We welcome your comments or questions about this Policy. You may contact us at  _[izotope.com/support](https://www.izotope.com/support)_   or at our address of 60 Hampshire Street, Cambridge, MA 02139.
+We welcome your comments or questions about this Policy. You may contact us at izotope.com/support  or at our address of 60 Hampshire Street, Cambridge, MA 02139.
