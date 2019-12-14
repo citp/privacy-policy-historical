@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophatter.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404195025id_/https%3A//tophatter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophatter.com privacy policy that was archived on 2019-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191214154439id_/https%3A//tophatter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tophatter
 
