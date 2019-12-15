@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touro.edu privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422163754id_/https%3A//www.touro.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touro.edu privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215184604id_/http%3A//www.touro.edu/privacy-policy) for the most accurate reproduction.*
 
 # Touro College Website Privacy Policy | The Touro College and University System
 
