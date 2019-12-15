@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigmamakeup.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825090012id_/https%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmamakeup.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215134815id_/https%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
