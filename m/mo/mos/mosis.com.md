@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosis.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503205226id_/https%3A//www.mosis.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosis.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215172739id_/https%3A//www.mosis.com/pages/about/privacy) for the most accurate reproduction.*
 
 # MOSIS Web Site Privacy Statement
 
@@ -26,7 +26,7 @@ MOSIS provides links to other web sites that we think may be useful to VLSI desi
 
 ### Data Protection Rights
 
-To exercise any of the following data protection rights you can submit a Request to the [MOSIS Support Center: ](https://web.archive.org/web/20190503205226id_/https%3A//www.mosis.com/pages/account-login)
+To exercise any of the following data protection rights you can submit a Request to the [MOSIS Support Center: ](https://web.archive.org/web/20191215172739id_/https%3A//www.mosis.com/pages/account-login)
 
   * When you are asked to provide Personal Data, you may decline, but in certain such cases, MOSIS may not be able to provide its technology or service.
   * Request the correction of your Personal Data when incorrect, out of date or incomplete.
@@ -50,5 +50,5 @@ We may update this privacy policy from time to time. Please look for our the mos
 
 ### Comments and Questions
 
-Please direct any comments or questions regarding the MOSIS Web Site Privacy Policy to the [MOSIS Support Center.](https://web.archive.org/web/20190503205226id_/https%3A//www.mosis.com/pages/account-login)   
+Please direct any comments or questions regarding the MOSIS Web Site Privacy Policy to the [MOSIS Support Center.](https://web.archive.org/web/20191215172739id_/https%3A//www.mosis.com/pages/account-login)   
 You can read more information about USC’s Privacy Policy [here](https://policy.usc.edu/). 
