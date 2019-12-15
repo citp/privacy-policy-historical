@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoutons.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012122446id_/https%3A//zoutons.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoutons.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215033204id_/https%3A//zoutons.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
