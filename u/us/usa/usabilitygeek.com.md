@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usabilitygeek.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515072332id_/https%3A//usabilitygeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilitygeek.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215192401id_/https%3A//usabilitygeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice - Usability Geek
 
@@ -13,8 +13,8 @@ Our privacy notice tells you what personal data (PD) and non-personal data (NPD)
 
 ## Data Controller
 
-Justin Mifsud  
-info at usabilitygeek.com
+Mads Soegaard  
+mads.soegaard at gmail.com
 
 ## Your Rights
 
@@ -266,7 +266,7 @@ We strongly urge you to protect any password you may have for our website and to
 
 ## Transferring Personal Data From the European Union
 
-Personal Data that we collect from you may be stored, processed, and transferred between any of the countries in which we operate, more specifically Malta and the United States. The European Union has not found the United States and some other countries to have an adequate level of protection of Personal Data under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR for the transfer of data outside the European Union. For European Union customers and users, with your consent, your Personal Data may be transferred outside the European Union to the United States and/or other countries. We will use your Personal Data to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your Personal Data, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your Personal Data described within this section.
+Personal Data that we collect from you may be stored, processed, and transferred between any of the countries in which we operate, more specifically Denmark and the United States. The European Union has not found the United States and some other countries to have an adequate level of protection of Personal Data under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR for the transfer of data outside the European Union. For European Union customers and users, with your consent, your Personal Data may be transferred outside the European Union to the United States and/or other countries. We will use your Personal Data to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your Personal Data, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your Personal Data described within this section.
 
 ## Changes to Our Privacy Notice
 
