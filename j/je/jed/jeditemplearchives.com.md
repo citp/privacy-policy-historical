@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeditemplearchives.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628111852id_/http%3A//www.jeditemplearchives.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeditemplearchives.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215064756id_/https%3A//www.jeditemplearchives.com/privacy.shtml) for the most accurate reproduction.*
 
 # Jedi Temple Archives Privacy Policy
 
@@ -38,7 +38,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.jeditemplearchives.com/privacy.shtml).
+By using our site, you consent to our [web site privacy policy](https://www.jeditemplearchives.com/privacy.shtml).
 
 **Changes to our Privacy Policy**
 
@@ -48,5 +48,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[http://www.jeditemplearchives.com](http://www.jeditemplearchives.com/)  
+[http://www.jeditemplearchives.com](https://www.jeditemplearchives.com/)  
 [news@jeditemplearchives.com](mailto:news@jeditemplearchives.com)
