@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novelupdates.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630062805id_/https%3A//www.novelupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelupdates.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216000031id_/https%3A//www.novelupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Novel Updates
 
