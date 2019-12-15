@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630054244id_/https%3A//www.qualcomm.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215103721id_/http%3A//www.qualcomm.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Qualcomm
 
