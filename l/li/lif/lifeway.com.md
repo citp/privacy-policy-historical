@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeway.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406223420id_/https%3A//www.lifeway.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeway.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215025238id_/http%3A//www.lifeway.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LifeWay
 
