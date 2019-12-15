@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metraonline.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035441id_/http%3A//www.metraonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metraonline.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215170416id_/http%3A//www.metraonline.com/privacy) for the most accurate reproduction.*
 
 # Metra Online
 
