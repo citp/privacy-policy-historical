@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615183221id_/https%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215192558id_/https%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | ProgrammableWeb
 
@@ -81,15 +81,15 @@ We also use web beacons on our websites. For example, we may place web beacons i
 
 The following sets out how we use different categories of cookies and similar technologies, as well as information on your options for managing the settings for the data collection by these technologies:
 
-**_Required Cookies:_**  
+ ** _Required Cookies:_**  
 Required cookies enable you to navigate our websites and use their features, such as accessing secure areas of the websites.
 
 If you have chosen to identify yourself to us, we may place on your browser a cookie that allows us to uniquely identify you when you are logged into the websites and to process your online transactions and requests.
 
-**_Managing Required Cookies:_**  
+ ** _Managing Required Cookies:_**  
 Required cookies are essential to operate the websites there is no option to opt out of these cookies. Please refrain from using our site if you do not consent to these cookies.
 
-**_Functional Cookies_**  
+ ** _Functional Cookies_**  
 Functional cookies allow us to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features.
 
 Functional cookies may also be used to improve how our websites function and to help us provide you with more relevant messages, including marketing communications. These cookies collect information about how our websites are used, including which pages are viewed most often.
@@ -100,7 +100,7 @@ In particular, we use Google Analytics ("Google Analytics"), a web analytics ser
 
 Mulesoft may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored.
 
-**_Managing Functional Cookies_** To manage the use of functional cookies on our websites, consult your individual browser settings for cookies. Note that opting out may impact the functionality you receive when using our websites.
+ ** _Managing Functional Cookies_** To manage the use of functional cookies on our websites, consult your individual browser settings for cookies. Note that opting out may impact the functionality you receive when using our websites.
 
 To opt out from data collection by Google Analytics, you can download and install a browser add-on, which is available [here](https://tools.google.com/dlpage/gaoptout?hl=en).
 
@@ -108,12 +108,12 @@ To learn how to control functional cookies using your browser settings click [he
 
 To learn how to manage privacy and storage settings for Flash cookies click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
-**_Targeting or Advertising Cookies_**  
+ ** _Targeting or Advertising Cookies_**  
 We sometimes uses cookies delivered by us or third parties to show you ads for our products that we think may interest you on any devices you may use and to track the performance of our advertisements. For example, in these cases, cookies may collect and remember information such as which browsers have visited our websites. The information provided to third parties does not include Personal Data, but this information may be re-associated with Personal Data after the Company receives it.
 
 MuleSoft also contracts with third party advertising networks that collect IP addresses and other information from web beacons (see below) on our websites, from emails, and on third-party websites. Advertising networks follow your online activities over time and across different sites or other online services by collecting device and usage data through automated means, including through the use of cookies. These technologies may recognize you across the different devices you use, such as a desktop or laptop computer, smartphone or tablet. Third parties use this information to provide advertisements about products and services tailored to your interests. You may see their advertisements on other websites or mobile applications on any of your devices. This process also helps us manage and track the effectiveness of our marketing efforts.
 
-**_Managing Targeting or Advertising Cookies_**  
+ ** _Managing Targeting or Advertising Cookies_**  
 See Section 4.3, below, to learn more about these and other advertising networks and your ability to opt out of collection by certain third parties.
 
 All cookies placed by MuleSoft and listed above expire after 12 months.
@@ -142,17 +142,17 @@ Your interactions with Social Media Features are governed by the privacy policie
 
 We collect and process your Personal Data for the purposes and on the legal bases identified in the following:
 
-  * **Providing our websites:** We will process your Personal Data to the extent this is necessary for the performance of our contract with you for the use of our websites and to fulfill our obligations under the applicable terms of use/service; where we have not entered into a contract with you, we base the processing of your Personal Data on our legitimate interest to operate and administer our websites and to provide you with content you access and request (e.g., download of certain content from our websites);
-  * **Promoting security of our websites:** We will process your Personal Data by tracking use of our websites, creating aggregated, non-personal data, verifying accounts and activity, investigating suspicious activity, as well as violations of and enforcement of our terms and policies, to the extent this is necessary for the purpose of our legitimate interests in promoting the safety and security of the systems and application used for our websites, and protecting our rights and the rights of others;
-  * **Managing user registrations:** We will process your Personal Data by managing your user account for the purpose of performing the contract with you according to any applicable terms of service;
-  * **Handling contact and user support requests:** If you fill out a "Contact Me" web form, request user support, or if you contact us by other means, we will process your Personal Data for the performance of our contract with you and to the extent it is necessary for the purpose of our legitimate interests to fulfill your request and communicate with you;
-  * **Managing event registrations and attendance:** We will process your Personal Data to plan and host the event or webinar, including related communication with you, on basis of the performance of our contract with you;
-  * **Managing payments:** If you have provided financial information, we will process your respective Personal Data to check the financial qualifications and collect payments to the extent this is necessary for completing transaction with you under the entered contract;
-  * **Developing and improving our websites:** We will process your Personal Data to analyze trends, track your usage of our websites and interactions with emails to the extent this is necessary for our legitimate interests to develop and improve our websites and to provide our users with more relevant and interesting content;
-  * **Managing office visitors:** We will process your Personal Data for security reasons, to register who visited our offices and who signed the non-disclosure agreement that visitors may be required to sign.
-  * **Displaying personalized advertisements and content:** We will process your Personal Data to conduct marketing research, advertise to you, provide personalized information about us on and off our websites, and other personalized content based upon your activities and interests to the extent it is necessary for our legitimate interests to advertise our websites or, where necessary, to the extent you have provided your prior separate consent (please also view "Your rights relating to your Personal Data" below to learn how you can control how your Personal Data is processed by MuleSoft for marketing purposes);
-  * **Sending marketing communications:** We will process your Personal Data to send you marketing information, product recommendations and other non-transactional communications (e.g., marketing newsletters) about us and our affiliates and partners, including information about our products, promotions or events as necessary for our legitimate interests to conduct direct marketing or to the extent you have provided your prior separate consent (please also view "Your rights relating to your Personal Data" section below to learn how you can control how your Personal Data is processed by Salesforce for marketing purposes);
-  * **Complying with legal obligations:** We will process your Personal Data when cooperating with public and government authorities, courts or regulators in accordance with our legal obligations under applicable laws to the extent this requires the processing or disclosure of Personal Data to protect our rights, and is necessary for our legitimate interests to protect against misuse or abuse of our websites, to protect personal property or safety, to pursue remedies available to us and limit our damages, to comply with a judicial proceedings, court order or legal process, and/or to respond to lawful requests. Where we need to collect and process Personal Data by law, or under a contract we have entered into with you and you fail to provide that required Personal Data when requested, we may not be able to perform the contract.
+  *  **Providing our websites:** We will process your Personal Data to the extent this is necessary for the performance of our contract with you for the use of our websites and to fulfill our obligations under the applicable terms of use/service; where we have not entered into a contract with you, we base the processing of your Personal Data on our legitimate interest to operate and administer our websites and to provide you with content you access and request (e.g., download of certain content from our websites);
+  *  **Promoting security of our websites:** We will process your Personal Data by tracking use of our websites, creating aggregated, non-personal data, verifying accounts and activity, investigating suspicious activity, as well as violations of and enforcement of our terms and policies, to the extent this is necessary for the purpose of our legitimate interests in promoting the safety and security of the systems and application used for our websites, and protecting our rights and the rights of others;
+  *  **Managing user registrations:** We will process your Personal Data by managing your user account for the purpose of performing the contract with you according to any applicable terms of service;
+  *  **Handling contact and user support requests:** If you fill out a "Contact Me" web form, request user support, or if you contact us by other means, we will process your Personal Data for the performance of our contract with you and to the extent it is necessary for the purpose of our legitimate interests to fulfill your request and communicate with you;
+  *  **Managing event registrations and attendance:** We will process your Personal Data to plan and host the event or webinar, including related communication with you, on basis of the performance of our contract with you;
+  *  **Managing payments:** If you have provided financial information, we will process your respective Personal Data to check the financial qualifications and collect payments to the extent this is necessary for completing transaction with you under the entered contract;
+  *  **Developing and improving our websites:** We will process your Personal Data to analyze trends, track your usage of our websites and interactions with emails to the extent this is necessary for our legitimate interests to develop and improve our websites and to provide our users with more relevant and interesting content;
+  *  **Managing office visitors:** We will process your Personal Data for security reasons, to register who visited our offices and who signed the non-disclosure agreement that visitors may be required to sign.
+  *  **Displaying personalized advertisements and content:** We will process your Personal Data to conduct marketing research, advertise to you, provide personalized information about us on and off our websites, and other personalized content based upon your activities and interests to the extent it is necessary for our legitimate interests to advertise our websites or, where necessary, to the extent you have provided your prior separate consent (please also view "Your rights relating to your Personal Data" below to learn how you can control how your Personal Data is processed by MuleSoft for marketing purposes);
+  *  **Sending marketing communications:** We will process your Personal Data to send you marketing information, product recommendations and other non-transactional communications (e.g., marketing newsletters) about us and our affiliates and partners, including information about our products, promotions or events as necessary for our legitimate interests to conduct direct marketing or to the extent you have provided your prior separate consent (please also view "Your rights relating to your Personal Data" section below to learn how you can control how your Personal Data is processed by Salesforce for marketing purposes);
+  *  **Complying with legal obligations:** We will process your Personal Data when cooperating with public and government authorities, courts or regulators in accordance with our legal obligations under applicable laws to the extent this requires the processing or disclosure of Personal Data to protect our rights, and is necessary for our legitimate interests to protect against misuse or abuse of our websites, to protect personal property or safety, to pursue remedies available to us and limit our damages, to comply with a judicial proceedings, court order or legal process, and/or to respond to lawful requests. Where we need to collect and process Personal Data by law, or under a contract we have entered into with you and you fail to provide that required Personal Data when requested, we may not be able to perform the contract.
 
 
 
