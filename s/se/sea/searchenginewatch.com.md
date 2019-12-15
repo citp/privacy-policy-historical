@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginewatch.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235204id_/https%3A//searchenginewatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginewatch.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215041936id_/https%3A//www.searchenginewatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Watch Search Engine Watch
 
@@ -79,7 +79,7 @@ Our company name is Contentive Limited
 
 Our company address is One Hammersmith Broadway, Hammersmith, London, W6 9DL
 
-Our email address is [gdpr@contentive.com](mailto:gdpr@contentive.com)
+Our email address is [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3d5a594d4f7d5e525349585349544b58135e5250)
 
 **To Whom We Disclose Information**
 
