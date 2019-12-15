@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themezee.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622140118id_/https%3A//themezee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themezee.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215134526id_/https%3A//themezee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ThemeZee
 
