@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902001444id_/https%3A//www.virginexperiencedays.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215153117id_/https%3A//www.virginexperiencedays.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Virgin Experience Days
 
