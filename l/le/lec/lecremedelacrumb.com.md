@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lecremedelacrumb.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331143643id_/https%3A//www.lecremedelacrumb.com/about/%23terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecremedelacrumb.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215140229id_/https%3A//www.lecremedelacrumb.com/about/%23terms) for the most accurate reproduction.*
 
 # About Tiffany | Food Blogger | Creme de la Crumb
 
