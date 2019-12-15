@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcgill.ca privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427143853id_/https%3A//mcgill.ca/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcgill.ca privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215055143id_/https%3A//mcgill.ca/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | McGill University - McGill University
+# Privacy Notice | McGill University
 
 Please note that this website, like many others, uses Google Analytics and Hotjar to track user behaviour on McGill.ca and affiliated sites. 
 
