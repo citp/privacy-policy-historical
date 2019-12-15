@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tutanota.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403064005id_/https%3A//tutanota.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutanota.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215040122id_/https%3A//tutanota.com/privacy) for the most accurate reproduction.*
 
 # Tutanota Privacy Statement
 
 ### Privacy Statement of Tutao GmbH
 
-_This Data Privacy Statement is provided in English for your convenience. Please note that in case of a dispute or discrepancy between the German Data Privacy Statement and the English translation, the[German version](https://tutanota.com/de/privacy) shall prevail._
+_This Data Privacy Statement is provided in English for your convenience. Please note that in case of a dispute or discrepancy between the German Data Privacy Statement and the English translation, the[German version](https://web.archive.org/de/privacy) shall prevail._
 
 **Status: May 25, 2018**
 
