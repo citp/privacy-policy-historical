@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the davidjones.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812141743id_/https%3A//www.davidjones.com/information/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjones.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215025306id_/https%3A//www.davidjones.com/information/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
-#### David Jones Privacy Policy December 2015
+#### David Jones Privacy Policy December 2019
 
 David Jones Pty Ltd (Australia) and David Jones (New Zealand) Pty Limited ( **David Jones** ) recognises the importance of protecting the privacy of our customers and other third parties who provide their personal information to us.
 
 Our policy for dealing with your personal information is explained below ( **Privacy Policy** ).
 
-Our Privacy Policy was last updated in December 2015 and includes disclosure of thmatters set out in the Australian Privacy Principles and the New Zealand Privacy Principles.
+Our Privacy Policy was last updated in December 2019 and includes disclosure of thmatters set out in the Australian Privacy Principles and the New Zealand Privacy Principles.
 
 #### Personal information we collect
 
 When used in this policy, “personal information” has the meaning given to that term in the Privacy Act 1988 (Cth) for our Australian operations and the Privacy Act 1993 for our New Zealand operations. Personal information generally includes any information that can be used to personally identify you.
+
+We use Google Analytics Advertising Features to promote our Services. Google and other third parties collect data about traffic to this site via advertising cookies and identifiers. This enables us to display ads on other sites that are relevant to you, based on your previous visits to this site. If you would like to prevent your data from being used by Google Analytics, please click here: https://tools.google.com/dlpage/gaoptout. Alternatively, you can find out how Google Analytics uses data when you use our partners’ sites or apps, at www.google.com/policies/privacy/partners
 
 The personal information we collect from you is what is reasonably necessary for our business functions. We may collect the following types of personal information from you:
 
@@ -38,7 +40,7 @@ We may also collect information from you that is not personal information becaus
   * your shopping preferences and a list of products and services you have purchased from David Jones. This may include your shopping history, product types, departments, specifications, sizes, dimensions, colours, occasion date, or other attributes of products and services we have provided to you or may provide to you in the future;
   * information we require to deliver, service or fulfil warranty obligations for products or services;
   * your marketing preferences, including the type of marketing materials you wish to receive and the method of delivery (email, SMS, direct mail, or other);
-  * if you are a member of our loyalty program, your membership number, transaction history, account preferences, and reward redemption history for loyalty program rewards or services;
+  * if you are a member of David Jones Rewards, your membership number, and reward redemption history for David Jones special rewards or services;
   * information you provide to us via our customer service centre, website, application forms, or directly to team members within our stores in relation to our products and services;
   * device identification information when you use a computer, mobile phone, smart phone, tablet, or other device to access our WIFI service or interact with us through our online store ([www.davidjones.com](https://web.archive.org/default.aspx)). This information may include session cookies, your device IMEI number, IP address or MAC address; and
   * information collected via our secure payment processing systems.
@@ -50,11 +52,10 @@ We may also collect information from you that is not personal information becaus
 We collect your personal information for the primary purpose of being able to sell and promote our products to you . In addition we collect your personal information so that we can carry out the following actions (each a **Purpose** ):
 
   * to provide you with products and services that you have requested from us;
-  * to communicate with you, including about products and services, competition results, special offers, and events which might interest you;
+  * to communicate with you, including about products and services, competition results, special offers, and events which might interest you (including any associated David Jones Rewards special offers and rewards);
   * to answer your questions and provide you with information or advice;
   * to interact with you via social media and digital marketing;
   * to create orders, transaction records, agreements for the sale of products or services, accounts, tax invoices or receipts;
-  * if you are a loyalty program member, to service your loyalty account, fulfil redemptions, and to provide rewards and special offers to you in accordance with the terms of our loyalty program;
   * provide your personal information to third parties that assist us in providing products and services you have requested, such as delivery service providers and fulfilment managers;
   * carry out administration, marketing, planning, fraud and loss prevention activities, procurement, product and service development, quality control and research to improve the way David Jones and its related bodies corporate and service providers provide products and services to you;
   * to consider and respond to complaints made by you;
@@ -93,7 +94,7 @@ Normally we collect information from you directly, unless it is unreasonable or 
 
 Collection of your personal information can occur through the following interactions:
 
-  * when you join our loyalty program both within Australia and New Zealand;
+  * when you join David Jones Rewards by subscribing to receive marketing emails;
   * when you register with us by creating an account, or subscribe to our marketing programs;
   * when you access and use our website or WiFi services, or interact with us via social media or digital media;
   * when you provide information to our team members;
@@ -126,9 +127,8 @@ Your personal information may be disclosed in connection with any Purpose to any
 
   * our employees, contractors or service providers, to the extent reasonably necessary to fulfil our obligations to you. This may include internet service providers, IT systems administrators, mailing houses, couriers, payment processors, and data entry service providers;
   * retail brands and suppliers who provide goods and services within our stores. This may include beauty, fashion, electrical, home wares and other suppliers who provide products and services to you on our behalf;
-  * our related companies and brands, including Country Road Group Pty Ltd (Mimco, Witchery, Trenery and Country Road) and Woolworths Holdings Limited (incorporated in South Africa);
+  * our related companies and brands, including Country Road Group Pty Ltd (Mimco, Witchery, Trenery, Politix and Country Road) and Woolworths Holdings Limited (incorporated in South Africa);
   * our business advisors, including lawyers, accountants or other professional service providers, to the extent reasonably required;
-  * our loyalty program partners, suppliers and service providers;
   * suppliers and other third parties with whom we have commercial relationships, for business, marketing and related purposes;
   * any of our related Australian and New Zealand entities;
   * if you are a candidate for an employment position involving a third party with whom we have an agreement, to that third party to assess your application;
@@ -139,9 +139,9 @@ Your personal information may be disclosed in connection with any Purpose to any
 
 Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy.
 
-#### Direct Marketing
+#### Direct Marketing and David Jones Rewards
 
-We may send you direct marketing communications and information about products and services offered by us or our retail brands, partners or suppliers via the channels you have nominated. This may include, but is not limited to, email, SMS, regular mail, social media and other digital channels. If you have indicated a preference for a method of communication, we will endeavour to use that method wherever practical to do so. You may opt out of receiving marketing communications at any time by responding via the channel in which you received the marketing communication, or by contacting us (see contact information below). You can unsubscribe from emails by clicking the unsubscribe link on the footer of the email communication you have received. You may also update your personal information by editing your online profile. You may also receive marketing communications by post, email, SMS , direct and digital channels from our retail brands, partners and suppliers who provide goods and services within our stores, but this will only occur where you have requested that type of information from us or from a third party within our stores. We do not provide your personal information to any other organisations for the purposes of direct marketing.
+We may send you direct marketing communications and information about products and services offered by us or our retail brands, partners or suppliers via the channels you have nominated. This may include, but is not limited to, email, SMS, regular mail, social media and other digital channels. If you have indicated a preference for a method of communication, we will endeavour to use that method wherever practical to do so. By consenting to receive email marketing communications from David Jones, you may also receive access to a range of exclusive offers and rewards not available to the general public **(David Jones Rewards)**. If you are currently receiving David Jones emails, you will automatically be a member of, and receive emails about, David Jones Rewards. You can join David Jones Rewards by subscribing to marketing emails from David Jones. You can do this by creating an online profile and opting in to receive emails from David Jones, or by providing your email address instore. All the benefits from David Jones Rewards will be delivered to you via email, including rewards and exclusive offers. You may opt out of receiving marketing communications at any time by responding via the channel in which you received the marketing communication, or by contacting us (see contact information below). You can unsubscribe from emails by clicking the unsubscribe link on the footer of the email communication you have received. You may also update your personal information by editing your online profile. Please note that if you unsubscribe from emails, you will be unsubscribing from David Jones Rewards and all emails from David Jones. You may also receive marketing communications by post, email, SMS , direct and digital channels from our retail brands, partners and suppliers who provide goods and services within our stores, but this will only occur where you have requested that type of information from us or from a third party within our stores. We do not provide your personal information to any other organisations for the purposes of direct marketing.
 
 #### Information given by you to other parties
 
@@ -160,8 +160,8 @@ Mail:
 **The Privacy Officer**  
 David Jones Pty Ltd  
 Legal Services  
-Building 1, 572 Swan St  
-Melbourne VIC 3121
+Building 2, 572 Swan St  
+Burnley VIC 3121
 
 Normally we will provide a record of your personal information to you via your preferred contact method (phone, email or mail), and we may charge a fee.
 
@@ -211,7 +211,7 @@ Mail:
 **The Privacy Officer**  
 David Jones Pty Ltd  
 Legal Services  
-Building 1, 572 Swan St  
+Building 2, 572 Swan St  
 Melbourne VIC 3121
 
 We may update our Privacy Policy from time to time. Amendments will be published on our web page [www.davidjones.com/information/privacy-and-security](https://web.archive.org/information/privacy-and-security)
