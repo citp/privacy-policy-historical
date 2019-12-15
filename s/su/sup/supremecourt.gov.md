@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supremecourt.gov privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401200432id_/https%3A//www.supremecourt.gov/policies/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supremecourt.gov privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215131100id_/https%3A//www.supremecourt.gov/policies/privacy_notice.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Supreme Court of the United States
 
