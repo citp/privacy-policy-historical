@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maternityweek.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603111004id_/http%3A//maternityweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maternityweek.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215065334id_/http%3A//maternityweek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | maternityweek.com
+# Privacy policy | Maternityweek.com
 
-We are committed to safeguarding the privacy of visitors to the Maternity Week website (the “Site”); this policy sets out how we will treat your personal information.
+We are committed to safeguarding the privacy of visitors to the Maternity Week website (the “Site”); this policy sets out how we will treat your personal information.
 
 If you are younger than 18, please ensure that your parent or guardian has read this privacy policy and is happy for you to accept it. Your registration for the Site is conditional on your parent or guardian’s consent to this privacy policy.
 
@@ -28,9 +28,9 @@ We may use both “session” cookies and “persistent” cookies on the Site f
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies may remain stored on your computer until deleted, or until they reach a specified expiry date. We use these persistent cookies to better serve you with the kinds of content that we feel may be of interest to you.
 
-We use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about the Site use by means of cookies, which are stored on users’ computers. The information generated relating to the Site is used to create reports about the use of the Site. Google will store this information. Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.
+We use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about the Site use by means of cookies, which are stored on users’ computers. The information generated relating to the Site is used to create reports about the use of the Site. Google will store this information. Google’s privacy policy is available at: [http://www.google.com/privacypolicy.html](https://www.google.com/privacypolicy.html "http://www.google.com/privacypolicy.html").
 
-We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
@@ -122,4 +122,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 **11\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [contact@maternityweek.com](mailto:contact@maternityweek.com) or by post to 72-75 Red Lion Street, London, WC1R 4NA.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [contact@maternityweek.com](mailto:contact@%5Bdomain%5D) or by post to 72-75 Red Lion Street, London, WC1R 4NA.
