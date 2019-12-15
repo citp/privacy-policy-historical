@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-journal.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331234230id_/https%3A//www.city-journal.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-journal.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215191232id_/https%3A//www.city-journal.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City Journal
 
