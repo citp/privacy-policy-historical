@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lesmills.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911005642id_/http%3A//www.lesmills.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesmills.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215180113id_/https%3A//www.lesmills.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Les Mills
-
-## LES MILLS PRIVACY POLICY
 
 _**Last updated 04 May 2018**_
 
@@ -318,7 +316,7 @@ Some pages of the site and our e-mails will contain small electronic files known
 
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) will also use cookies on our site, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. Advertising networks in particular collect information about your online activities over time and across different websites and use this information to provide you with interest-based (behavioural) advertising or other targeted content. If you'd like to opt out of interest based advertising, please go to the Network Advertising Initiative website here -
 
-<http://www.networkadvertising.org/choices/> or the EDAA opt-out program here –
+<http://optout.networkadvertising.org/?c=1> or the EDAA opt-out program here –
 
 [http://www.youronlinechoice.eu](http://www.youronlinechoice.eu/) or in respect of mobile devices
 
@@ -647,7 +645,7 @@ Vi använder följande cookies:
 
 Vissa sidor på webbplatsen och våra e-postmeddelanden innehåller små elektroniska filer som kallas webbsignaler (även kallad ”clear gifs”, pixeltaggar och ”single-pixel gifs”) som normalt arbetar i samband med cookies för att identifiera våra användare och användarbeteende över tid, till exempel för att räkna antalet användare som har besökt vissa hemsidor eller öppnat e-post och för annan relaterad webbplatsstatistik (till exempel registrering av populariteten av visst webbplatsinnehåll och kontrollera system- och serverintegritet).
 
-Observera att tredje part (inklusive till exempel annonsnätverk och leverantörer av externa tjänster som webbtrafik) även använder cookies på vår hemsida som vi inte har någon kontroll över. Dessa cookies kommer sannolikt att vara analytiska-/prestandacookies eller inriktade cookies. Annonsnätverk i synnerhet samlar in information om dina online-aktiviteter över tid och mellan olika webbplatser och använder denna information för att tillhandahålla intressebaserad reklam eller annat riktat innehåll. Om du vill välja bort intressebaserad annonsering, gå till Network Advertising Initiative’s hemsida här - <https://www.networkadvertising.org/choices/> eller EDAA opt-out programmet här – [htttp://www.youronlinechoices.eu](htttps://www.youronlinechoices.eu) observera att vi inte är ansvariga för innehållet på externa webbplatser.
+Observera att tredje part (inklusive till exempel annonsnätverk och leverantörer av externa tjänster som webbtrafik) även använder cookies på vår hemsida som vi inte har någon kontroll över. Dessa cookies kommer sannolikt att vara analytiska-/prestandacookies eller inriktade cookies. Annonsnätverk i synnerhet samlar in information om dina online-aktiviteter över tid och mellan olika webbplatser och använder denna information för att tillhandahålla intressebaserad reklam eller annat riktat innehåll. Om du vill välja bort intressebaserad annonsering, gå till Network Advertising Initiative’s hemsida här - <https://www.networkadvertising.org/choices/> eller EDAA opt-out programmet här – [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) observera att vi inte är ansvariga för innehållet på externa webbplatser.
 
 Du kan blockera cookies genom att aktivera inställningen på din webbläsare som gör att du kan vägra ta emot alla eller vissa cookies. Men om du använder webbläsarens inställningar för att blockera alla cookies (inklusive viktiga cookies) kan det hända att du inte kommer åt alla delar av hemsidan.
 
