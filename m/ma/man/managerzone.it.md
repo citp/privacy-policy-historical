@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managerzone.it privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615205615id_/https%3A//www.managerzone.com%3Fp%3Dstart%26sub%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managerzone.it privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215210953id_/https%3A//www.managerzone.com/%3Fp%3Dstart%26sub%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - ManagerZone
 
