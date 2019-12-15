@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southfront.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417035030id_/https%3A//southfront.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southfront.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215165300id_/https%3A//southfront.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
