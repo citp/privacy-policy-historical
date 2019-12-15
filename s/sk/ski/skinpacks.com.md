@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinpacks.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520151420id_/https%3A//skinpacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinpacks.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215042139id_/https%3A//skinpacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SkinPack - Customize Your Digital World
 
