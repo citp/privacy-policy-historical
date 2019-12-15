@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravenet.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622135346id_/https%3A//www.bravenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravenet.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215174300id_/http%3A//www.bravenet.com/privacy-policy) for the most accurate reproduction.*
 
 # Bravenet Privacy Policy
 
