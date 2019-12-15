@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autism.org.uk privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412114059id_/https%3A//www.autism.org.uk/get-involved/about-us/website/data.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autism.org.uk privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215125701id_/https%3A//www.autism.org.uk/get-involved/about-us/website/data.aspx) for the most accurate reproduction.*
 
 # Privacy and data protection - National Autistic Society
 
