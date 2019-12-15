@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615195131id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215011602id_/https%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
 
 # SnapFiles Privacy Policy
 
 ### Information Collection and Use
 
 WebAttack, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. WebAttack, Inc. collects information from our users at several different points on our website. 
-
-We may use third-party advertising companies to serve ads when you visit our website
 
 ### Registration
 
@@ -63,4 +61,4 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 If you feel that this company is not abiding by its posted privacy policy, you should first contact : 
 
-WebAttack, Inc. - 4300 W Lake Mary Blvd, Suite 1010-136, Lake Mary, FL 32746 Email: [email](https://web.archive.org/feedback/)
+WebAttack, Inc. - 4300 W Lake Mary Blvd, Suite 1010-136, Lake Mary, FL 32746 Email: [email](http://www.snapfiles.com/feedback/)
