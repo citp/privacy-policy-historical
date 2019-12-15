@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olweb.tv privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817160557id_/http%3A//www.olweb.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olweb.tv privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215151207id_/https%3A//www.olweb.tv/privacy) for the most accurate reproduction.*
 
-# Privacy - Watch Tv Online
+# Privacy - OLWeb.TV
 
 By using this site, you agree to our Privacy Policy.  
 If you do not agree with this Policy, please do not use this site.  
