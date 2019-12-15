@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apu.edu privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629212911id_/https%3A//www.apu.edu/about/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apu.edu privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215054114id_/https%3A//www.apu.edu/about/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - About This Site - Azusa Pacific University
 
@@ -45,7 +45,6 @@ This Privacy Policy covers information provided to Azusa Pacific University onli
 
   * [Main APU Website](https://web.archive.org/)
   * [Bookstore Website](http://www.bookstore.apu.edu/)
-  * [Undergraduate Online Application](https://www.apuadmissions.org/apply/)
   * [Graduate Online Application](https://web.archive.org/graduateprofessionalcenter/apply/)
   * [Alumni Website](https://web.archive.org/alumni/)
 
@@ -53,8 +52,8 @@ This Privacy Policy covers information provided to Azusa Pacific University onli
 
 This Privacy Policy does _not_ cover information collected through means other than the APU websites listed above, and does _not_ cover the following internal Azusa Pacific University websites:
 
-  * [APU Intranet](http://home.apu.edu/)
-  * [APU Sakai](http://sakai.apu.edu/)
+  * [APU Intranet](https://home.apu.edu/)
+  * [APU Canvas](https://canvas.apu.edu/)
 
 
 
