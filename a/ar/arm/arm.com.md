@@ -1,183 +1,186 @@
-> *The following text is extracted and transformed from the arm.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508073451id_/https%3A//www.arm.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arm.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215124148id_/https%3A//www.arm.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Arm
 
-### Introduction 
+Introduction
 
-Arm understands the fundamental importance of privacy, data protection, and security. We take your privacy seriously and are committed to safeguarding your personal data. This Privacy Policy (“Policy”) informs you how Arm Limited, 110 Fulbourn Road, Cambridge, Cambridgeshire, CB1 9NJ, registered number 2557590, and its subsidiaries (collectively “we”, “us” or “our”), collect, process, transfer and protect personal data. 
+This Arm Privacy Statement (" **Privacy Statement** ") describes our privacy practices. Please read this Privacy Statement carefully to learn how we collect, use, share and otherwise process information relating to individuals (" **Personal Data** "), and to learn about your rights and choices regarding our processing of your Personal Data. 
 
-In this Policy, “personal data” means any information which on its own or combined with other information relates to and identifies (directly or indirectly) a living individual. 
+A reference to “ **Arm”** , “ **we** ,” “ **us** ” or the “ **Company** ” is a reference to Arm Ltd of 110 Fulbourn Road, Cambridge CB1 9NJ, UK.
 
-### Scope 
+Scope
 
-This Policy applies to all Arm companies as well as Arm websites, domains, services, applications, and products.  
+Arm is the controller of your Personal Data as described in this Privacy Statement. 
 
-This Policy does not apply to third-party applications, websites, products, services or social media platforms that may be accessed through links that we provide to you. These sites are owned and operated independently from us, and they have their own separate privacy and data collection practices. Any personal data that you provide to these websites will be governed by the third party’s own privacy policy. We cannot accept liability for the actions or policies of these independent sites, and we are not responsible for the content or privacy practices of such sites.
+For the avoidance of doubt, this Privacy Statement does not apply to the extent we process Personal Data in the role of a processor on behalf of our customers, including where we offer to our customers various cloud products and services. 
 
-### Types of Data We Collect and How We Collect It 
+Types of Processing Activities
 
-**Data you provide**
+This Privacy Statement applies to the processing of Personal Data collected by us when you:
 
-When you interact with us, we collect and process personal data from your online activity, your use of devices, products or services. This data can be used to help you set up an account, deliver products or services to you or improve the way we or our products work with you. This data may include: 
+  * Visit our websites that display or link to this Privacy Statement;
+  * Visit our branded social media pages;
+  * Visit our offices;
+  * Receive communications from us, including emails, phone calls, texts or fax; or
+  * Register for, attend and/or otherwise take part in our events, webinars or contests.
 
-  * **Account information** such as your name, title, date of birth, gender, company, profile photo, email address, mailing address and phone number.
-  * **Payment information** such as your billing address, credit card, debit card or other payment method. 
-  * **Other information** such as your occupation, employment details, academic institution details and residential address. 
 
 
+Personal Data We Collect
 
-**Data we automatically collect**
+1\. Directly From You
 
-When you visit an Arm website we automatically collect and store information about your visit using browser cookies (files which are sent by us to your computer) or similar technology which we can access when you visit an Arm website in future. To read more about cookies and local shared objects, please read our [](https://web.archive.org/company/policies/cookies)[Cookie Policy](https://web.archive.org/company/policies/cookies).
+The Personal Data that we collect directly from you includes the following:
 
-We also process information when you use our services. This information includes IP addresses, login information, device IDs, time stamps, authentication records, location information, carrier service used, signal strength, the origin, destination, type and quantity of traffic passed and other operational data. 
+  * If you express an interest in obtaining additional information about our services, use our "Contact Us" or similar features, register to use our websites, sign up for an event, contest, or download certain content, we will require that you provide to us your contact information, such as your name, job title, company name, address, phone number, email address or username and password;
+  * If you attend an event where we scan your attendee badge, we will collect from your attendee badge information such as name, title, company name, address, country, phone number and email address;
+  * If you use and interact with our websites or emails, we automatically collect information about your device and your usage of our websites or emails through cookies, web beacons or similar technologies (please see the "Device and Usage Data" section below for more information);
+  * If you use and interact with our services, we automatically collect information about your device and your usage of our services, through log files and other technologies, some of which may qualify as Personal Data (please see the "Device and Usage Data” section below for more information); and
+  * If you visit our offices, you will be required to register as a visitor and to provide your name, email address, phone number, company name and time and date of arrival. 
 
-**Data we collect from third parties**
 
-We may receive your personal data from third parties such as social network platforms, partners and other sources. This information is not collected by us but by a third party and is subject to the relevant third party’s own separate privacy and data collection policies. We do not have any control or input on how your personal data is handled by third parties so if you have any questions you should contact the relevant third party for further information about your personal data.  
 
-### How We Use Personal Data We Collect 
+If you provide us with any Personal Data relating to other individuals, you must explain to those individuals that their Personal Data will be used in accordance with this Privacy Statement. If you believe that your Personal Data has been provided to us improperly, or if you otherwise wish to exercise your rights relating to your Personal Data, please contact us by using the information set out in the “Contact Us” section below. 
 
-We collect and use personal data about you with your consent to provide, maintain, and develop our products and services and understand how to improve them. 
+2\. From Other Sources
 
-**Provide, Develop, and Improve our Products and Services  **
+We also collect information about you from other sources and combine this information with Personal Data provided by you. This helps us to update, expand and analyze our records, identify new customers and create more tailored advertising to provide services that may be of interest to you. In particular, we collect Personal Data from third party providers of business contact information, including professional contact details, employment-related information (such as job titles) and device / location-related information (such as IP addresses) for purposes of targeted advertising, delivering relevant email content, event promotion and profiling.
 
-  * Deliver, maintain, debug and improve our products and services;
-  * Enable you to access Arm services and set up accounts;
-  * Provide cloud services and tools to enable you to create and deploy commercial, standards-based IoT solutions; 
-  * Host discussions, blogs and information to encourage knowledge sharing and effective collaboration; 
-  * Enable you to access the Arm Community or register on the Arm Education Media’s digital content hub; 
-  * Activate, administer and monitor software tools;
-  * Provide you with technical and customer support; and
-  * Allow you to enroll in educational courses or training schemes about our products and services.
+We obtain information through partners, vendors, suppliers and other third parties. These enterprises largely fall into the following categories: partners, hosts or vendors at events or trade shows, research partners and enterprises that deploy the Arm technology or third-party offerings that include Arm technology. We might also obtain information through a partner as part of our business operations. This kind of data is used for work such as improving algorithms and data models, product testing and improvement, enhancing existing products and developing new capabilities and features.
 
+Device and Usage Data
 
+We use common information-gathering tools, such as cookies, web beacons and similar technologies, to automatically collect information that may contain Personal Data from your computer or mobile device as you navigate our websites, our services or interact with emails we have sent to you. 
 
-**Build a Safe and Secure Environment    **
+We gather certain information automatically in connection with the use of our website by individual users. This information may include IP address (or proxy server), device and application identification numbers, location, browser type, Internet service provider and/or mobile carrier, the pages and files viewed, searches, operating system and system configuration information and date/time stamps associated with your usage.
 
-  * Verify or authenticate your identity; and
-  * Investigate and prevent security incidents such as breaches, attacks and hacks.
+In addition, we gather certain information automatically as part of your use of the cloud products and services. This information may include the information described in the preceding paragraph.
 
+This device and usage data is primarily used for the purposes of identifying the uniqueness of each user logging on (as opposed to specific individuals), apart from where it is strictly required to identify an individual (e.g., by means of an obvious identifier, such as a name) for security purposes or as required as part of our provision of the services to our customers (where we act as a processor). In any event, device and usage data will constitute your Personal Data.
 
+Why and How We Use Your Information
 
-**Organise and Deliver Advertising and Marketing   **
+We collect and process your Personal Data for the purposes and on the legal bases identified in the following:
 
-  * Aggregate your information in an anonymised form to generate usage statistics;
-  * Display content and advertising, including third-party advertising, that we believe might be of interest to you; 
-  * Send you newsletters and other marketing communications about current and future products, programs and services, events, competitions, surveys and promotions held by us or hosted on our behalf; and
-  * Organise events or register attendees and schedule meetings for events. 
+  * **Providing our websites and services** : We process your Personal Data to perform our contract with you for the use of our websites and services and to fulfill our obligations under applicable terms of use/service; where we have not entered into a contract with you, we base the processing of your Personal Data on our legitimate interest to operate and administer our websites and to provide you with the content you access and request (e.g., to download content from our websites);
+  * **Promoting the security of our websites and services** : We process your Personal Data by tracking use of our websites and services, creating aggregated, non-Personal Data, verifying accounts and activity, investigating suspicious activity and enforcing our terms and policies, to the extent this is necessary for our legitimate interest in promoting the safety and security of the services, systems and applications and in protecting our rights and the rights of others;
+  * **Managing user registrations** : If you have registered for an account with us, we process your Personal Data by managing your user account for the purpose of performing our contract with you according to applicable terms of service;
+  * **Handling contact and user support requests** : If you fill out a “Contact Me” web form or request user support, or if you contact us by other means including via a phone call, we process your Personal Data to perform our contract with you;
+  * **Managing event registrations and attendance** : We process your Personal Data to plan and host events or webinars for which you have registered or that you attend, including sending related communications to you, to perform our contract with you;
+  * **Managing contests or promotions** : If you register for a contest or promotion, we process your Personal Data to perform our contract with you. Some contests or promotions have additional rules containing information about how we will process your Personal Data;
+  * **Developing and improving our websites and services** : We process your Personal Data to analyze trends and to track your usage of and interactions with our websites and services to the extent it is necessary for our legitimate interest in developing and improving our websites and services and providing our users with more relevant content and service offerings, or where we seek your valid consent;
+  * **Assessing and improving user experience** : We process device and usage data as described above, which in some cases may constitute Personal Data, to analyze trends and assess and improve the overall user experience to the extent it is necessary for our legitimate interest in developing and improving the service offering, or where we seek your valid consent; • Assessing capacity requirements: We process your Personal Data to assess the capacity requirements of our services to the extent that it is in our legitimate interest to ensure that we are meeting the necessary capacity requirements of our service offering;
+  * **Identifying customer opportunities** : We process your Personal Data to assess new potential customer opportunities to the extent that it is in our legitimate interest to ensure that we are meeting the demands of our customers and their users’ experiences;
+  * **Registering office visitors** : We process your Personal Data for security reasons, to register visitors to our offices and to manage non-disclosure agreements that visitors may be required to sign, to the extent that such processing is necessary for our legitimate interest in protecting our offices and our confidential information against unauthorized access;
+  * **Sending marketing communications** : We process your Personal Data to send you marketing information, product recommendations and other non-transactional communications (e.g., marketing newsletters, telemarketing calls, SMS, or push notifications) about us and our affiliates and partners, including information about our products, promotions or events as necessary for our legitimate interest in conducting direct marketing or to the extent you have provided your prior consent (please see the "Your legal rights" section below to learn how you can control the processing of your Personal Data by Arm for marketing purposes); and
+  * **Complying with legal obligations** : We process your Personal Data when cooperating with public and governmental authorities, courts or regulators in accordance with our legal obligations under applicable laws to the extent the processing or disclosure of Personal Data to protect our rights is necessary for our legitimate interest in protecting against misuse or abuse of our websites, protecting personal property or safety, pursuing remedies available to us and limiting our damages, complying with judicial proceedings, court orders or legal processes or to respond to lawful requests.
 
 
 
-Where we process your personal data to provide a product or service, we do so because it is necessary to perform contractual obligations. All of the above processing is necessary in our legitimate interests to provide products and services and to maintain our relationship with you and to protect our business for example against fraud. We will seek your consent to send you direct marketing. 
+Where we need to collect and process Personal Data by law, or under a contract we have entered or will enter into with you, and you fail to provide the required Personal Data when requested, we may be unable to perform our contract with you.
 
-### Process and storage 
+When and How Can Arm Share Your Personal Data
 
-We store and process data on servers in the European Economic Area (EEA). However, your personal data may also be transferred to and processed in regions including North America, Africa and Asia Pacific. Laws protecting your personal data may be different to the place where you live. We will take appropriate steps to ensure that your personal data is treated securely and in accordance with this Policy as well as applicable data protection law. We are in the process of applying for approval of Binding Corporate Rules and, pending approval, we will enter into EU standard contractual clauses (or equivalent measures) with parties outside the EEA (available here: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en>) 
+Sharing with Third Parties
 
-### Sharing and Disclosure 
+We share information with the following third parties:
 
-We will share your personal data with third parties only in the ways set out in this Policy or set out at the point when the personal data is collected. We consider your personal data to be a vital part of our relationship with you. We do not sell your personal data to third parties, including to third-party advertisers.
+  * Third party service providers (for example advertising and event / marketing services, information technology, product delivery, website hosting, data analysis, IT services, auditing, payment processing or customer service and other service providers) in order for these third parties to provide services on behalf of Arm;
+  * As required by law, to comply with a legal obligation, in connection with a request from a public or governmental authority, or in connection with court or tribunal proceedings, to prevent loss of life or injury, or to protect our rights or property. Where possible and practical, and where we are legally permitted to do so, we will tell you in advance of such disclosure.
+  * Relevant third parties as part of a contemplated or actual corporate transaction such as a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * With third parties that are not suppliers or vendors but are working with us to offer certain opportunities such as sweepstakes, contests, and similar promotions, to enable joint products or research studies, or to facilitate services like message boards, blogs or other shared platforms. In these cases, additional terms or privacy notices will be provided where required. 
 
-**Arm Subsidiaries**
 
-We may share your information across the Arm corporate group in order to provide, maintain and develop our products and services. For example, if you are based outside Israel or Finland then we will need to share your personal data with our subsidiaries in these countries in order to provide our Mbed cloud services to you. 
 
-**Legal Requirement**
+Sharing within Arm
 
-We may use or disclose your personal data in order to comply with a legal obligation, in connection with a request from a public or government authority, or in connection with court or tribunal proceedings, to prevent loss of life or injury, or to protect our rights or property. Where possible and practical to do so, we will tell you in advance of such disclosure. 
+We share your information across the Arm corporate group in order to provide, maintain and develop our products and services. Arm employees will only access the information to the extent necessary to achieve the particular purpose(s) and perform their job.
 
-**Service Providers and Other Third Parties**
+We also share information that is not Personal Data, such as anonymized or aggregated information, for purposes such as analysis, identifying trends in the areas of our products and to help research and develop new Arm services.
 
-We use a variety of third party service providers, independent contractors, agencies, approved distributors and consultants to deliver and help us improve our products and services. Service providers may be within or located outside the EEA. We may share your personal data with marketing agencies, database service providers, backup and disaster recovery service providers, email service providers and others but only to maintain and improve our products and services. 
+Data Aggregation and Analytics
 
-We partner with other embedded tool companies and semi-conductor manufacturers to provide you with important or interesting information about products or services that you may find beneficial. We may provide your personal data to these third parties to enable them to provide you with such information.
+We collate your Personal Data which you provide to us or we collect and use it anonymously for analytics, benchmarking and to effectively monitor our website and improve your user experience. 
 
-**Data Aggregation and Analytics**
+How Long Do We Retain Your Information
 
-We may collate your personal data you provide to us or we collect and use it anonymously for analytics, benchmarking and to effectively monitor the website and improve your user experience. 
+We retain Personal Data for the period necessary to:
 
-### Security
+  * Provide requested Arm services, as needed to comply with legal obligations (e.g., maintaining opt-out lists to fulfill advertising and marketing choices or to comply mandatory record retention or legal hold requirements), as agreed in an individual consent; and
+  * to resolve disputes, and to otherwise fulfill the purposes, rights and obligations outlined in this Privacy Statement.
 
-We are constantly deploying and updating our technical and organisational security measures to protect against loss, misuse or alteration of personal data that we have collected or received from a third party. 
 
-To the extent permitted by law, Arm may review, scan or analyse communications for fraud prevention, investigation, regulatory compliance, risk assessment, research, product development, and customer support purposes.  
 
-We use industry-standard encryption technologies when transferring and receiving personal data, and network access control technology to limit access to the systems on which personal data is stored, and we monitor for possible vulnerabilities and attacks. 
+Retention periods can vary significantly based on the type of information and how it is used and our retention periods are based on criteria that include legally mandated retention periods, pending or potential litigation, our Arm intellectual property or ownership rights, contract requirements, operational directives or needs, and historical archiving. When Personal Data is removed from our systems, it will be deleted or destroyed using appropriate security protocols so that it cannot be reconstructed or read. 
 
-If you become aware that there has been a breach in security of any of the personal data that we store or that is stored by our third-party service providers, please contact us via the instructions provided in the Contact Us section below. 
+Your Legal Rights
 
-### Retention
+If you are located in a European Union Member State and certain other countries, you have the following additional rights:
 
-We will only retain your personal data for as long as necessary for the purpose for which that data was collected and to the extent required by applicable law. When we no longer need personal data, we will remove it from our systems and / or take steps to anonymise it.
+**Access and / or Have Your Information Provided to You  
+**You can request a copy of the Personal Data we are processing about you.
 
-### Your rights
+**Change or Correct**  
+You can ask us to change, fix or update information about you (for example, if it is incomplete or inaccurate).
 
-You have the following rights (if applicable): 
+**Deletion**  
+You can ask us to delete Personal Data about you.
 
-**Access**
+**Restrictor Limit Use**  
+You have the right to restrict our processing (i.e., stop any active processing) of your Personal Data (for example, if the information about you is inaccurate).
 
-You have the right to request a copy of the personal data we are processing about you. 
+**Portability**  
+In certain circumstances, you have the right to obtain Personal Data we hold about you in a structured, electronic format, and to transmit such data to another data controller.
 
-**Rectification**
+**Object**  
+You have the right to object to Arm using your Personal Data in some circumstances (in particular, where we don’t have to process the data to meet a contractual or other legal requirement, or where we are using the data for direct marketing). See below for information about how to unsubscribe to direct marketing.
 
-You have the right to have incomplete or inaccurate personal data that we process about you rectified.  
+**Opt-out**  
+You can withdraw your consent, including for marketing messages that you receive from us. 
 
-**Deletion   **
+Please note that these rights may be limited, for example if fulfilling your request would reveal Personal Data about another person, or if you ask us to delete information which we are required by law or have compelling legitimate interests to keep. If you have unresolved concerns, you have the right to complain to a data protection authority as described below.
 
-You have the right to request that we delete personal data that we process about you, except we are not obliged to do so if we need to retain such data in order to comply with a legal obligation or to establish, exercise or defend legal claims. 
+[Make a Data Subject Access Request](https://privacyportal-cdn.onetrust.com/dsarwebform/4230c274-73e7-42ff-86c2-f30227e11c55/e9942c90-78a0-41fb-88b2-aba5374e2b30.html)
 
-**Restriction   **
+International Transfer of Personal Data
 
-You have the right to restrict our processing of your personal data where you believe such data to be inaccurate; our processing is unlawful; or if we no longer need to process such data for a particular purpose unless we are not able to delete the data due to a legal or other obligation or because you do not wish us to delete it.
+Your Personal Data may be collected, transferred to and stored by us in the United States and by our affiliates and third parties disclosed above, that are based in other countries. 
 
-**Portability   **
+Therefore, your Personal Data may be processed outside your jurisdiction, and in countries that may not provide for the same level of data protection as your jurisdiction, such as the European Economic Area (EEA). We ensure that the recipient of your Personal Data offers an adequate level of protection, for instance by entering into the appropriate data processing agreements and, if required, standard contractual clauses for the transfer of data as approved by the European Commission (Art. 46 GDPR).
 
-You have the right to obtain personal data we hold about you, in a structured, electronic format, and to transmit such data to another data controller, where this is (a) personal data which you have provided to us, and (b) if we are processing that data on the basis of your consent or to perform a contract with you. 
+Children’s Privacy
 
-**Objection**
+We will not knowingly collect Personal Data from children under the age of 13 years. On occasion Arm does run campaigns to encourage the use of technology for children under the age of 13. Such campaigns are strictly for educational purposes only. Any information collected by Arm of participating children under the age of 13 is done with the consent of the parent or legal guardian and the data collected is strictly segregated and deleted immediately after the end of any such campaign.
 
-Where the legal justification for our processing of your personal data is our legitimate interest, you have the right to object to such processing on grounds relating to your particular situation. We will abide by your request unless we have compelling legitimate grounds for processing which override your interests and rights, or if we need to continue to process the data for the establishment, exercise or defence of a legal claim.
+Changes
 
-**Withdrawing Consent**
+We may modify this Privacy Statement at any time. If we make changes to this Privacy Statement, then we will post an updated version of this Privacy Statement on our website. We will specifically notify you by [insert e.g., email] about any material changes to this Privacy Statement. 
 
-If you have consented to our processing of your personal data, you have the right to withdraw your consent at any time, free of charge such as where you wish to opt out from marketing messages that you receive from us.  If you wish to withdraw your consent, please contact us at [opt-out@arm.com](mailto:opt-out@arm.com).
+Contact Us
 
-You can make a request to exercise any of these rights in relation to your personal data by sending the request by mail to Privacy Counsel of Arm Limited, 110 Fulbourn Road, Cambridge, CB1 9NJ or email to [privacy@arm.com](mailto:privacy@arm.com).  For your own privacy and security, at our discretion we may require you to prove your identity before providing the requested information. 
-
-### Children’s Privacy
-
-We will not knowingly collect personal data from children under the age of 16 years.  
-
-### Changes 
-
-We may modify this Policy at any time. If we make changes to this Policy then we will post an updated version of this Policy on our website.   
-
-### Contact Us
-
-To contact us, please email [privacy@arm.com](mailto:privacy@arm.com) or write to us at:
+If you believe we have used your Personal Data in a way that is not consistent with this Privacy Statement or your choices, or if you have any questions or comments about this Privacy Statement, please contact the Arm Privacy Office at by emailing here: privacy[at]arm[dot]com. Any request will be evaluated and completed in accordance with applicable data protection law, including verification of the requestor’s identity.   
+Alternatively, please contact us at the following address: 
 
 Privacy Counsel  
 Arm Limited  
 110 Fulbourn Road  
-Cambridge  
-CB1 9NJ
+Cambridge CB1 9NJ 
 
-### Complaints
+Filing a Complaint
 
-If you have a complaint about this Policy or any element of your personal information that we hold then please contact us at the above address. If you are not satisfied, then you have the right to lodge a complaint with the local data protection authority. If you are based in, or the issue relates to, the UK, you can contact the Information Commissioner’s Office at the following address:
+If you have a complaint about this Privacy Statement or any element of how we use your Personal Data, then please contact us first. If you are not satisfied and are located in a European Union country, then please contact your local data protection authority. If you are based in, or the issue relates to, the UK, you can contact the Information Commissioner’s Office at the following address: 
 
 Information Commissioner’s Office  
 Wycliffe House  
 Water Lane  
 Wilmslow  
-Cheshire   
-SK9 5AF
+Cheshire  
+SK9 5AF 
 
-Alternatively, you can use an online form via the Information Commissioner’s website (<https://ico.org.uk/concerns>). 
+Alternatively, you can use an online form via the Information Commissioner’s website (https://ico.org.uk/concerns). 
 
-If you are based in, or the issue you would to complain about took place elsewhere in the EEA, please visit this website ([http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061)) for a list of local data protection authorities in other EEA countries. 
+If you are based in, or the issue you would to complain about took place elsewhere in the EEA, please visit this website (http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061) for a list of local data protection authorities in other EEA countries. 
 
-Last updated: May 2018, SP-LES-PRE-20809 Version: 0.9, 
+Last updated: October 2019, SP-LES-PRE-20809 Version: 1.05, 
 
-Copyright © 2018 Arm Limited (or its affiliates). All rights reserved.
+Copyright © 2019 Arm Limited (or its affiliates). All rights reserved.
