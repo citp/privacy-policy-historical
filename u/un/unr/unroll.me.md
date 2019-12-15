@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unroll.me privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508215817id_/https%3A//www.unroll.me/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unroll.me privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216000127id_/https%3A//www.unroll.me/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Unroll.Me
 
-Last updated on January 11, 2019
+Last updated on September 16, 2019
 
 Data security and privacy are a priority for Unroll.me, a wholly-owned subsidiary of Slice Technologies, Inc. and its group companies (“Unroll.me” or “we”). This privacy policy describes:
 
@@ -23,11 +23,17 @@ This privacy policy also provides you with information about:
 
 ## Information that we collect and how we use it
 
-We collect information from you in several ways. You directly provide us with some information about you, you authorize us to collect other types of information, and we automatically collect certain types of information. As described in the section “How We Protect Your Information,” after we collect your information, we undertake a process that is designed to de-identify this information, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws.
+We collect information from you in several ways:
+
+  * you directly provide us with some information
+  * you authorize us to collect other types of information, and
+  * we automatically collect certain types of information.
+
+
 
 Information you provide to us: When you register for the Service, you provide us with basic contact information, such as name and email address. You may also provide us with information when you interact with us, such as:
 
-  * when you sign up for email alerts,
+  * when you sign up for email alerts
   * subscribe to receive information,
   * complete a survey, or
   * seek customer support.
@@ -44,25 +50,35 @@ From time to time we will request additional information from you so that we can
 
 
 
-Information you authorize us to collect: In order for us to perform tasks that are part of the Service, we need to access your email account(s). You authorize this access by agreeing to this privacy policy and providing any consent required by your email provider.
+Information you authorize us to collect: In order for us to perform tasks that are part of the Service, we need to access your email account(s). You authorize this access by agreeing to this privacy policy and providing any consent required by your email provider. provider.
 
 We use this access to:
 
-  * perform the functions of the Service, such as unsubscribing you from unwanted subscriptions and creating a roll-up of other subscriptions;
-  * develop and offer new services;
-  * tailor content as part of our Service such as in our roll-up summaries; and
-  * support our market research business.
+  * perform the functions of the Service, such as unsubscribing you from unwanted subscriptions and creating a “roll-up” of other subscriptions and/or transactions;
+  * develop and offer new services; and
+  * tailor content as part of our Service such as in our roll-up summaries
 
 
 
-Specifically, we access information from transaction-related emails that you receive to develop and prepare market research datasets and analyses with the assistance of and, in combination with data that is available to, our parent company, our affiliate companies, and other trusted business partners. Examples of the transaction-related emails that we or our trusted business partners process include purchase receipts, sales receipts, delivery confirmations and returns, subscription confirmations and cancellations, registration confirmations, transaction summaries and the like. This market research is used by Fortune 500 companies, household name brands, investment companies, and other businesses for purposes such as:
+Additionally, unless otherwise restricted by your email provider, we use this access to support our e-commerce measurement business.
+
+Measurement Products and Datasets: We access information from transaction-related emails that you receive to develop and prepare measurement products and datasets with the assistance of, and in combination with, data that is available to: our parent company, our affiliate companies, and other trusted business partners. Examples of the transaction-related emails that we or our trusted business partners process include purchase receipts, sales receipts, delivery confirmations and returns, subscription confirmations and cancellations, registration confirmations, transaction summaries and the like. The measurement information that we prepare is used by Fortune 500 companies, household name brands, investment companies, and other businesses for purposes such as:
 
   * understanding industry and business trends;
   * improving the goods, services or offers provided to customers;
   * improving business operations;
-  * understanding the competitive landscape; or
-  * understanding where to make investments; or 
+  * understanding the competitive landscape;
+  * understanding where to make investments; or
   * gaining other business insights.
+
+
+
+As described in the section “How We Protect Your Information,” unless otherwise restricted by your email service provider, after we collect your information:
+
+  * we undertake a process that is designed to de-identify this information,
+  * we may further combine or aggregate this information with other information available to us or our trusted business partners; and once the information is processed,
+  * we use this processed information for measurement purposes, and
+  * we share this processed information with trusted business partners for their analytics and other business purposes, subject to applicable laws.
 
 
 
@@ -81,24 +97,33 @@ Please note that if there are features of our Services that are provided by thir
 
 Here are some of the types of automated data collection that occur when you use our sites:
 
-Web Browsers: When you visit one of our websites, your browser automatically sends us your Internet protocol (“IP”) address so that the web pages you request can be sent to your computer or device. We use your IP address to determine additional information, such as whether the computer or device has ever been used to visit our site before, which site features were used most often, and how much time was spent on a page.
+Web Browsers: When you visit one of our websites, your browser automatically sends us your internet protocol (“IP”) address so that the web pages you request can be sent to your computer or device. We use your IP address to determine additional information, such as whether the computer or device has ever been used to visit our site before, which site features were used most often, and how much time was spent on a page.
 
-Cookies: We automatically collect information through “cookies,” which are text files placed on your device’s hard drive when you visit websites. Cookies can enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies to help us manage and understand how you use our website. For example, we use cookies for authentication purposes, to measure session activity on the site, and to determine which areas and features of the site are the most popular. If you wish to disable cookies, you can do so by adjusting the settings for the browser that you use. If you do choose to disable cookies through your browser, you will not able to take full advantage of all our site features.
+Cookies: We automatically collect information through “cookies,” which are text files placed on your device’s hard drive when you visit websites. Cookies can enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies to help us manage and understand how you use our website. For example, we use cookies for authentication purposes, to measure session activity on the site, and to determine which areas and features of the site are the most popular. If you wish to disable cookies, you can do so by adjusting the settings for the browser that you use. If you do choose to disable cookies through your browser, you will not be able to take full advantage of all our site features.
 
-Web Beacons and Log Files: We may use “web beacons” (also known as Internet tags, pixel tags, tracking pixels, and clear GIFs) on pages of our websites. These web beacons allow third parties to collect information such as the IP address of the device, the URL of the web page, the time the page was viewed, the type of browser used, and any additional information in cookies that may have been set by the third party. The information is typically collected in log files, which generally track traffic on our websites. We use web beacons to manage the content we present and for analytical purposes (such as understanding our users, and how they interact with our site, and assisting us in managing and improving our site and Service). We do not attempt to identify individual users through this information.
+Web Beacons and Log Files: We may use “web beacons” (also known as internet tags, pixel tags, tracking pixels, and clear GIFs) on pages of our websites. These web beacons allow third parties to collect information such as the IP address of the device, the URL of the web page, the time the page was viewed, the type of browser used, and any additional information in cookies that may have been set by the third party. The information is typically collected in log files, which generally track traffic on our websites. We use web beacons to manage the content we present and for analytical purposes (such as understanding our users, and how they interact with our site, and assisting us in managing and improving our site and Service). We do not attempt to identify individual users through this information.
 
 Do Not Track Browser Signals. At this time, our Service does not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. However, you may be able to change your privacy preferences regarding the use of cookies and similar technologies through your browser, as described above.
 
 ## Information That We Share
 
-We share the information we collect to the following:
+We share the information we collect to our parent company and third party service providers, who help us with the processing and storage of your data and otherwise operate and improve our Service.
 
-  * our parent company, who helps us process our data, and develop market research datasets and analyses;
-  * our affiliated companies, who enhance our market research capabilities by combining the information that we collect with other information available to them;
-  * third-party service providers that help us operate and improve our Service;
-  * third-party service providers that help us collect, store and process data;
-  * third-party business partners that work with us to develop and resell products; and
-  * customers (including third parties and affiliates) that have access to our market research datasets and analyses.
+Additionally, unless otherwise restricted by your email provider, we share the information that we collect with:
+
+  * our parent company, who helps us develop measurement products and datasets;
+  * our affiliated companies, who enhance our measurement capabilities by combining the information that we collect with other information available to them;
+  * third-party service providers that work with us to develop and resell measurement products; and
+  * customers (including third parties and affiliates) that have access to our measurement products and datasets.
+
+
+
+As described in the section “How We Protect Your Information,” unless otherwise restricted by your email service provider, after we collect your information:
+
+  * we undertake a process that is designed to de-identify this information,
+  * we may further combine or aggregate this information with other information available to us or our trusted business partners; and once the information is processed,
+  * we use this processed information for measurement purposes, and
+  * we share this processed information with trusted business partners for their analytics and other business purposes, subject to applicable laws.
 
 
 
@@ -106,19 +131,33 @@ We may also disclose information about you:
 
   * if we are required to do so by law or legal process,
   * to law enforcement authorities or other government officials,
+  * when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity, or
   * if necessary to protect the vital interests of another individual.
 
 
 
 Additionally, we reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets.
 
-As described in the section “How We Protect Your Information,” after we collect your information, we undertake a process that is designed to de-identify this, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws.
-
 ## How We Protect Your Information
 
-Data security and privacy are a priority for us, and with the assistance of our parent company, our affiliated companies and other trusted business partners, we undertake a process that is designed to de-identify / aggregate the information that we collect, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws.
+We maintain administrative, technical and physical safeguards to protect your personal information from accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. This said, no data transmissions through the internet or via mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information. As such, we do not ensure or warrant the security of any data or information you transmit to us, and you do so at your own risk.
 
-We maintain administrative, technical and physical safeguards to protect your personal information from accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. This said, no data transmissions through the Internet or via mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information. As such, we do not ensure or warrant the security of any data or information you transmit to us, and you do so at your own risk.
+Data security and privacy are a priority for us, and with the assistance of our parent company, our affiliated companies and other trusted business partners, unless otherwise restricted by your email service provider, after we collect your information:
+
+  * we undertake a process that is designed to de-identify this information,
+  * we may further combine or aggregate this information with other information available to us or our trusted business partners; and once the information is processed,
+  * we use this processed information for measurement purposes, and
+  * we share this processed information with trusted business partners for their analytics and other business purposes, subject to applicable laws.
+
+
+
+## Restrictions
+
+For users that signed into this Service through their Gmail account, Google restricts third parties from using its API tool to access Gmail account information("Your Google User Data"). This restriction will not apply to other Gmail users that sign up by providing us with an app password that was generated specifically as part of Google’s two-factor authentication process. To determine whether you are subject to this restriction, please go to the settings page of your Unroll.Me dashboard which can be accessed [here](https://web.archive.org/a/settings)
+
+Additional Limits on Use of Your Google User Data: The following limits apply to information that we collect and process after June 1, 2019. Notwithstanding anything else in this Privacy Policy, if you provide the Service with access to the following types of Your Google User Data, the Service’s use of that data will be subject to these additional restrictions:
+
+The Service will only use access to read, write, modify or control Gmail message bodies (including attachments), metadata, headers, and settings to provide you with the Service and will not transfer this Gmail data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets. The Service will not use this Gmail data for serving advertisements. The Service will not allow humans to read this data unless we have your affirmative agreement for specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the Service’s internal operations and even then only when the data have been aggregated and anonymized.
 
 ## Your Choices
 
@@ -128,9 +167,7 @@ You can also choose not to give us the information we request, as described in t
 
 In some cases, you can stop or limit the information we collect by automated means. Please review the sections of this policy titled “Information Collected by Automated Means” to learn more about how you may be able to stop or limit our receipt of that information.
 
-Should you wish to delete your account, you can do so by following these [instructions](https://support.unroll.me/hc/en-us/articles/200165526-How-do-I-delete-my-Unroll-Me-account-). You may also exercise and amend your choices by sending an email to us as specified in the “How to Contact Us” section below.
-
-Should you wish to delete your account, you can do so by following these [instructions](https://support.unroll.me/hc/en-us/articles/200165526-How-do-I-delete-my-Unroll-Me-account-). You may also exercise and amend your choices by sending an email to us as specified in the “How to Contact Us” section below.
+Should you wish to delete your account, you can do so by following these [instructions. ](https://support.unroll.me/hc/en-us/articles/200165526-How-do-I-delete-my-Unroll-Me-account-)You may also exercise and amend your choices by sending an email to us as specified in the “How to Contact Us” section below.
 
 ## Access and Correction
 
@@ -148,7 +185,7 @@ Our service is currently not offered to individuals from the European Union, and
 
 ## Updates to Our Privacy Notice
 
-This privacy policy may be updated periodically to you to reflect changes in our information practices or relevant laws. We will indicate at the top of the policy when it was updated. Please review this Notice any time you access or use our sites to make sure you have reviewed the most recent version.
+This privacy policy may be updated periodically to you to reflect changes in our information practices or relevant laws. We will indicate at the top of the policy when it was updated. Substantial changes to this policy will be effective 30 days after posting. Please review this Notice any time you access or use our sites to make sure you have reviewed the most recent version.
 
 ## How to Contact Us
 
