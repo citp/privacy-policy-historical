@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330195835id_/https%3A//www.avbuyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215023118id_/https%3A//www.avbuyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AvBuyer
 
@@ -23,7 +23,7 @@ This privacy policy explains how we use any personal information we collect abou
 
 **_This Privacy Policy applies to all users of AvBuyer services online and off-line, whether they have registered and created an account or otherwise._** ** _If you do not accept this privacy policy, you must not use this site._**
 
-**WHY DO WE COLLECT DATA?**
+** ** **WHY DO WE COLLECT DATA?**
 
 We collect data to help you communicate with Aircraft and Aviation Services sellers and companies in the global aviation marketplace.
 
@@ -33,7 +33,8 @@ That includes:
 
   * Informing you of aircraft models for sale that you have expressed an interest in and sending relevant articles.
   * Updating you as to how your advertisement is progressing and to send you enquiries or statistics.
-  *  We also use it for business, regulatory and legal purposes, like:
+  * To pass on special offers from AvBuyer partners such as Pratt and Whitney's free Aircraft Advertisement offer. 
+  * We also use it for business, regulatory and legal purposes, like:
   * Dealing with any requests you make or content you submit,
   * Getting in touch if we need to tell you about something, a change to our policies or issues with a service, for example,
   * Processing your orders for either aircraft for sale advertisements, print subscriptions or for email aircraft alerts and digital magazines,
@@ -42,9 +43,9 @@ That includes:
 
 
 
-**HOW DO WE COLLECT & USE YOUR DATA?**
+** ** **HOW DO WE COLLECT & USE YOUR DATA?**
 
-**Marketing**
+  **Marketing**
 
 **  1. ** **AvBuyer User Account**
 
@@ -84,11 +85,22 @@ We use  Google DFP to serve display banner and MPU advertising.
 
 Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity. For, further information visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org.](http://www.allaboutcookies.org/) Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being updated, or to block cookies altogether. Please note that by blocking any or all these cookies you may not have access to certain features, content or personalization available through our Site. This information does not identify individual users.  Find out more about[ AvBuyer's cookie policy](https://www.avbuyer.com/cookie-policy).
 
+**  9\. Partnership Offers  
+**
+
+Sometimes we will make offers to  users on behalf or our trusted partners, such as the Pratt and Whitney free aircraft advertisement offer.
+
+When a user signs up for this offer, AvBuyer will email them directly about the creation of their aircraft advertisement and users will need to stay subscribed for the duration of their advertisement being displayed on the site.  After that they can unsubscribe from AvBuyer at any time via the unsubscribe link at the bottom of all our emails. Or contact us directly as outlined on this page.
+
+The users' data as outlined on the page for the offer is also shared with Pratt and Whitney who will contact them directly with more information or offers. If a user wants to unsubscribe from Pratt and Whitney, they can do so via Pratt and Whitney's unsubscribe link on their e-marketing. 
+
+Some offers are for all users or only for new users for commercial reasons. Always check the details on the relevant offer, and if unsure contact the online team via the Contacts page. 
+
 **OPTING OUT OF E-MARKETING?**
 
 If you have requested, registered or signed up via AvBuyer.com or AvBuyer staff at Aviation events, we will send you emails about aircraft for sale, aviation services, editorial and intelligence. You may opt out at any time. Please contact [Michas Rapf](https://www.avbuyer.com/contacts) via the Contact page.
 
-**CHECKING + CHANGING YOUR DATA**
+** ** **CHECKING + CHANGING YOUR DATA**
 
 **_We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate._**
 
@@ -112,7 +124,7 @@ Once you have received your details you also can request that we correct or dele
 
 **WHO ELSE HAS ACCESS TO MY DATA?**
 
-We will never disclose your information to anyone outside the Avbuyer group of companies except where we have your consent; where we are required or permitted to do so by law, such as when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process; where other companies who provide a service to us as part of our order process require that data i.e. delivery companies, payment providers; or companies who send out email communications on our behalf; or where they are successors in title to our business.  
+We will never disclose your information to anyone outside the AvBuyer group of companies except where we have your consent, where we are required or permitted to do so by law, such as when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process; where other companies who provide a service to us as part of our order process require that data i.e. delivery companies, payment providers; or companies who send out email communications on our behalf; or where they are successors in title to our business. Where AvBuyer collects data to promote a special offer with a partner company, we will advise the user of that instance and advise them to refer to both our Privacy statement and that of the partner. 
 
   **Accounts**
 
@@ -167,7 +179,7 @@ AvBuyer collects the following data for CRM:
 
   * AvBuyer needs to manage its engagement activities properly to provide an effective service. By engaging with AvBuyer, you agree to let us use your information as set out in this privacy policy.
   * The data we collect will not be resold or used for commercial marketing purposes.
-  * Email [Liam Robinson ](https://www.avbuyer.com/contacts) to opt-out of the processing described in this privacy policy or find out more about how we use our CRM.
+  * Email [Michas Rapf](https://www.avbuyer.com/contacts) to opt-out of the processing described in this privacy policy or find out more about how we use our CRM.
 
 
 
@@ -183,11 +195,11 @@ Any client financial data is protected by third party encryption.
 
 The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. 
 
-**THIRD PARTIES & DATA MANAGEMENT **
+**THIRD PARTIES & DATA MANAGEMENT**
 
 1\. Please do not submit your personal information to us if you do not wish us to collect, use and transfer your personal information under the terms of this policy.
 
-_ _ 2\. All user data is stored within a secure customer management system (CMS) based in the UK. It is a bespoke content management system built/managed by **Fiare.** Fiare have offices in Helsinki and India.  Personal information about users may be transferred outside the EU/EEA area to India where our Web Development team is based. The personal information is not processed in India for any commercial purposes in the interest of the controller, but the developers of this service have limited access to the service’s control panel and servers to solve technical issues. The service’s data protection and information security has been guaranteed with the standard contractual clauses provided by the EU commission.
+_ _ 2\. All user data is stored within a secure customer management system (CMS) based in the UK. It is a bespoke content management system built/managed by **[Fiare](https://fiare.com/).** Fiare have offices in Helsinki and India.  Personal information about users may be transferred outside the EU/EEA area to India where our Web Development team is based. The personal information is not processed in India for any commercial purposes in the interest of the controller, but the developers of this service have limited access to the service’s control panel and servers to solve technical issues. The service’s data protection and information security has been guaranteed with the standard contractual clauses provided by the EU commission.
 
  3\. Our Servers are operated by [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). They are commited to GDPR compliance and there are full details on their site. 
 
@@ -211,4 +223,4 @@ Please don’t send us any sensitive Information: such as social security number
 
 **PRIVACY POLICY UPDATED**
 
-We review our privacy policy regularly. This privacy policy was last updated on 23rd May 2018.
+We review our privacy policy regularly. This privacy policy was last updated on 29th October, 2019
