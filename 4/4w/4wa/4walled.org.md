@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4walled.org privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226045631id_/https%3A//alpha.wallhaven.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4walled.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215142217id_/https%3A//wallhaven.cc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - wallhaven.cc
 
@@ -76,4 +76,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us.](https://alpha.wallhaven.cc/contact)
+If you have any questions about this Privacy Policy, please [contact us.](https://wallhaven.cc/contact)
