@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112050310id_/https%3A//www.mobilefun.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215040104id_/https%3A//www.mobilefun.co.uk/privacy) for the most accurate reproduction.*
 
 # Security, Privacy and Cookies
 
@@ -14,9 +14,7 @@ If we make changes to this notice we will notify you by updating it on our websi
 
 Should you need to contact us please write to: **Data Protection Officer MF Group HQ, Unit 5, Gravelly Industrial Park, Birmingham, B24 8HZ** or via [privacy@mobilefun.co.uk](mailto:privacy@mobilefun.co.uk) quoting Security and Privacy Enquiry.
 
-If you would like to request or review any part of your personal information held by Mobile Fun then click [submit a request form](https://mobilefun.wufoo.eu/forms/w13wyxw407qrr40/).
-
-This privacy notice was last updated on 8th January 2019.
+This privacy notice was last updated on 21st January 2019.
 
   
 
@@ -131,7 +129,7 @@ We may need your personal information to establish, bring or defend legal claims
 
 ## What are your rights
 
-You are entitled to request the following from Mobile Fun, these are called your Data Subject Rights and there is more information on these on the Information Commissioners website [www.ico.org.uk](https://web.archive.org/web/20190112050310id_/https%3A//www.mobilefun.co.uk/www.ico.org.uk)
+You are entitled to request the following from Mobile Fun, these are called your Data Subject Rights and there is more information on these on the Information Commissioners website [www.ico.org.uk](https://web.archive.org/web/20191215040104id_/https://www.mobilefun.co.uk/privacy/www.ico.org.uk)
 
 • Right of access –to request access to your personal information and information about how we process it   
 • Right to rectification –to have your personal information corrected if it is inaccurate and to have incomplete personal information completed   
@@ -143,7 +141,7 @@ You are entitled to request the following from Mobile Fun, these are called your
 
 If you have any general questions about your rights or want to exercise your rights please contact [privacy@mobilefun.co.uk](mailto:privacy@mobilefun.co.uk) quoting Security and Privacy Enquiry.
 
-You have the right to lodge a complaint with a data protection regulator in Europe, in particular in a country you work or live or where your legal rights have been infringed. The contact details for the Information Commissioner’s Office (ICO), the data protection regulator in the UK, are available on the ICO website [www.ico.org.uk](https://web.archive.org/web/20190112050310id_/https%3A//www.mobilefun.co.uk/www.ico.org.uk) where your personal information has or is being used in a way that you believe does not comply with data, however, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns you may have.
+You have the right to lodge a complaint with a data protection regulator in Europe, in particular in a country you work or live or where your legal rights have been infringed. The contact details for the Information Commissioner’s Office (ICO), the data protection regulator in the UK, are available on the ICO website [www.ico.org.uk](https://web.archive.org/web/20191215040104id_/https://www.mobilefun.co.uk/privacy/www.ico.org.uk) where your personal information has or is being used in a way that you believe does not comply with data, however, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns you may have.
 
   
 
@@ -228,4 +226,6 @@ This Cookie Notice was last updated on 11th May 2018, and further changes will b
 
 Should you need to contact us please write to: **Data Protection Officer MF Group HQ, Unit 5, Gravelly Industrial Park, Birmingham, B24 8HZ** or via [privacy@mobilefun.co.uk](mailto:privacy@mobilefun.co.uk) quoting Security and Privacy Enquiry.  Please note that in some circumstances we may require sufficent proof of identity before taking any action on requests.
 
-If you would like to request or review any part of your personal information or excercise your right for erasure by Mobile Fun then click [submit a request form.](https://mobilefun.wufoo.eu/forms/w13wyxw407qrr40/).
+If you would like to request or review any part of your personal information held by Mobile Fun then click [submit an Information Access Request form](https://mobilefun.wufoo.com/forms/information-access-request/) here.
+
+If you would like to request Erasure (Right to be Forgotten) by Mobile Fun then click [ submit a Data Removal Request Form here](https://mobilefun.wufoo.com/forms/data-removal-request/) and a member of the team will contact you to help fulfill your request.
