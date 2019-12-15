@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memoryx.net privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417024141id_/http%3A//www.memoryx.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memoryx.net privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215174206id_/https%3A//www.memoryx.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
