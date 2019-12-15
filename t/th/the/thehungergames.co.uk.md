@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehungergames.co.uk privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329092156id_/http%3A//www.scholastic.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehungergames.co.uk privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215232759id_/http%3A//www.scholastic.co.uk/privacy) for the most accurate reproduction.*
 
 # Scholastic UK Ltd – Privacy Policy - Scholastic UK - Children's Books, Book Clubs, Book Fairs and Teacher Resources
 
@@ -170,6 +170,8 @@ To make suggestions and recommendations to you about goods or services that may 
 To enable you to submit contributions and content to us and/or the Website and to moderate that content where appropriate  |  (a) Identity   
 (b) Contact   
 (c) Profile  |  Necessary for our legitimate interests (to enable us to receive feedback from you on our Services and for you to be able to interact with us and other users of our Website and/or our Services)   
+To provide access to our office and distribution sites (to ensure site security and verify visitors)  |  (a) Identity   
+(b) Contact  |  Necessary for our legitimate interests  
   
 ##### Marketing
 
