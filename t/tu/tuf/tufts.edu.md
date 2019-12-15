@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tufts.edu privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626210406id_/https%3A//www.tufts.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tufts.edu privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215022603id_/https%3A//www.tufts.edu/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statements & Terms of Use | Tufts University
 
@@ -749,7 +749,7 @@ The following statement has been prepared to provide notice to students whose EE
 
 This statement should be read together with the EEA Privacy Statement.
 
-In addition to the information provided in this statement, students are encouraged to review the information about the Family Educational Rights and Privacy Act (FERPA) for their school. FERPA permits the disclosure of certain personal information classified by a school as “directory” information. See [School of Arts and Sciences and School of Engineering FERPA Notice](http://students.tufts.edu/registrar/family-educational-rights-and-privacy-act-ferpa); [The Fletcher School FERPA Notice](http://fletcher.tufts.edu/~/media/Fletcher/Student%20Handbook/Student%20Handbook%202016-2017%20updated%20Jan%202017.pdf); [Cummings School of Veterinary Medicine FERPA Notice](http://vet.tufts.edu/wp-content/uploads/2017-2018-Student-Handbook.pdf); [Friedman School of Nutrition Science and Policy FERPA Notice](https://nutrition.tufts.edu/about/policies-and-procedures/family-educational-rights-and-privacy-act); [School of Dental Medicine FERPA Notice](https://dental.tufts.edu/sites/default/files/pdf/Student%20Handbook%202017-18.pdf); [Sackler School of Graduate Biomedical Sciences FERPA Notice](https://sackler.tufts.edu/studentLife/currentStudents/FERPA); and [School of Medicine FERPA Notice](http://medicine.tufts.edu/About-Us/Policies-and-Reports/FERPA). Privacy Blocks are available to students who wish to prevent the University from disclosing their directory information (in student directories and commencement programs, for example) by selecting the appropriate privacy settings through SIS (<http://go.tufts.edu/sis>).
+In addition to the information provided in this statement, students are encouraged to review the information about the Family Educational Rights and Privacy Act (FERPA) for their school. FERPA permits the disclosure of certain personal information classified by a school as “directory” information. See [School of Arts and Sciences and School of Engineering FERPA Notice](http://students.tufts.edu/registrar/family-educational-rights-and-privacy-act-ferpa); [The Fletcher School FERPA Notice](https://students.tufts.edu/registrar/family-educational-rights-and-privacy-act-ferpa); [Cummings School of Veterinary Medicine FERPA Notice](https://vet.tufts.edu/education/student-life/policies-and-procedures-for-students/); [Friedman School of Nutrition Science and Policy FERPA Notice](https://nutrition.tufts.edu/about/policies-and-procedures/family-educational-rights-and-privacy-act); [School of Dental Medicine FERPA Notice](https://dental.tufts.edu/sites/default/files/pdf/Student%20Handbook%202017-18.pdf); [Sackler School of Graduate Biomedical Sciences FERPA Notice](https://sackler.tufts.edu/studentLife/currentStudents/FERPA); and [School of Medicine FERPA Notice](http://medicine.tufts.edu/About-Us/Policies-and-Reports/FERPA). Privacy Blocks are available to students who wish to prevent the University from disclosing their directory information (in student directories and commencement programs, for example) by selecting the appropriate privacy settings through SIS (<http://go.tufts.edu/sis>).
 
 #### 1\. What is “EEA Personal Data”?
 
@@ -802,7 +802,7 @@ Tufts may process your EEA Personal Data for a range of contractual, statutory, 
   * To operate security, governance, disciplinary (including plagiarism and academic misconduct), complaint, audit and quality assurance processes and arrangements.
   * To support your training, medical, safety, and welfare requirements and your religious, spiritual, ethical, and cultural life.
   * To compile statistics and conduct research for internal, statutory, regulatory and accreditation reporting purposes.
-  * To fulfil and monitor our legal obligations under equal opportunity, immigration and public safety laws and regulations, and for the establishment, exercise or defense of legal claims.
+  * To fulfill and monitor our legal obligations under equal opportunity, immigration and public safety laws and regulations, and for the establishment, exercise or defense of legal claims.
   * To enable us to contact others in the event of an emergency.
 
 
@@ -1026,7 +1026,7 @@ III. For Faculty, Staff, Consultants, and other Persons providing Services for T
 
 IV. General Information, including your GDPR rights and where you can get answers to your questions
 
-This statement discloses the privacy practices for the EEA Personal Data of faculty, staff, consultants, and people who apply for jobs or positions with us when the GDPR applies. Please read these terms together with the [Tufts University Privacy Statement](https://web.archive.org/about/privacy), the [EEA Privacy Statement](https://web.archive.org/about/privacy#European%20Economic%20Area%20\(EEA\)%20Privacy%20Statement), and the [Statement on Personnel Records](https://access.tufts.edu/personnel-records).
+This statement discloses the privacy practices for the EEA Personal Data of faculty, staff, consultants, and people who apply for jobs or positions with us when the GDPR applies. Please read these terms together with the [Tufts University Privacy Statement](https://web.archive.org/about/privacy), the [EEA Privacy Statement](https://web.archive.org/about/privacy#European%20Economic%20Area%20\(EEA\)%20Privacy%20Statement), and the [Statement on Personnel Records](https://access.tufts.edu/employee-policies-procedures-online-accesstufts).
 
 #### I. Job Applicants for Tufts-Sponsored EEA Study Abroad Programs
 
@@ -1109,7 +1109,7 @@ In all cases, we will only use any information gathered as part of any relevant 
 
 #### 1\. How We Use Your EEA Personal Data
 
-This section provides information about the use of EEA Personal Data while you are a member of faculty, staff, consultant, or other person providing services at Tufts University for a Tufts-Sponsored EEA Study Abroad Program. Tufts University respects the privacy of its employees and other persons providing services and strives to keep its personnel files confidential. The Human Resources Department maintains a personnel file for each employee. See [Statement on Personnel Records](https://access.tufts.edu/personnel-records).
+This section provides information about the use of EEA Personal Data while you are a member of faculty, staff, consultant, or other person providing services at Tufts University for a Tufts-Sponsored EEA Study Abroad Program. Tufts University respects the privacy of its employees and other persons providing services and strives to keep its personnel files confidential. The Human Resources Department maintains a personnel file for each employee. See [Statement on Personnel Records](https://access.tufts.edu/employee-policies-procedures-online-accesstufts).
 
 As a member of faculty, staff, consultant or other person providing services at Tufts, you also have certain legal responsibilities to protect the EEA Personal Data of other people (e.g. other employees, students, research participants) by handling it appropriately; relevant policies and guidance on the University's policy on handling EEA Personal Data are available at the [Tufts University Privacy Statement](https://www.tufts.edu/about/privacy) and the EEA Privacy Statement.
 
@@ -1203,7 +1203,7 @@ The GDPR provides you with several specific data protection rights with respect 
 
 #### 2\. How can I access my personnel file?
 
-In addition to your rights to access your EEA Personal Data, as described above, you may also request a copy of your personnel file. See [Statement on Personnel Records](https://access.tufts.edu/personnel-records).
+In addition to your rights to access your EEA Personal Data, as described above, you may also request a copy of your personnel file. See [Statement on Personnel Records](https://access.tufts.edu/employee-policies-procedures-online-accesstufts).
 
 #### 3\. Where can I go if I have questions?
 
