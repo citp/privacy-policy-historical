@@ -1,107 +1,167 @@
-> *The following text is extracted and transformed from the searchenginestrategies.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627152051id_/http%3A//www.clickz.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginestrategies.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215041936id_/https%3A//www.searchenginewatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ClickZ
+# Privacy Policy - Search Engine Watch Search Engine Watch
 
-**1\. INTRODUCTION**  
-ClickZ Group Limited and all companies within its Group (“ClickZ Group” or “We”) are committed to protecting and respecting your privacy.
+This Privacy Policy describes the information that we gather on or through our Services and how we use and process such information. For each processing purpose we will articulate the reason for requiring the data, what data we will process, the legal basis for processing the data and how long we will keep the data.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20160627152051id_/http%3A/static/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Where the legal basis of consent is to be used, this will be gathered freely, and we will use clear, plain language that is easy to understand, and you will be able to remove your consent at any point.
 
-For the purpose of the Data Protection Act 1998 (“the Act”), the data controller is ClickZ Group Limited of 1 Hammersmith Broadway, London, W6 9DL.
+**What information do we collect about you?**
 
-**2\. INFORMATION WE MAY COLLECT FROM YOU**  
-We may collect and process the following data about you:
+We collect/process information so that we can provide the best possible experience when you utilise our services.  This section of the policy will describe the purpose for processing your personal data, the legal basis to do so and how long we will keep your data.
 
-  * Information that you provide by filling in forms on our sites, and which may be amended from time to time (“ **our sites** “). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+**Our Product / Service**
 
+_If you choose to use our service, you must provide us with some personal data so that we can provide our services to you, this will include your name, email address, job title, company name, company type, company size, business type, company turnover and company region. Other non-mandatory personal data may also be gathered._
 
+_We will process data using two legal rationales, if you are an individual and not associated with a contracted client we will ask for your consent. If you are associated with a contracted client we will use legitimate interest as the legal basis to process the data._
 
-**3\. IP ADDRESSES**  
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+_Personal data will be retained for a period of up to 2 years for a dormant account, ie an account which hasn’t been used._
 
-**4\. COOKIES**  
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. The cookies we use can be grouped into four separate categories:
+**Corporate**
 
-  * Strictly necessary
-  * Performance
-  * Functionality
-  * Targeting
+_If you choose to use our service, personal data items such as Name, Email Address and Telephone number may be stored in our Corporate Cloud Storage, Corporate Email Platform or our Help Desk platform._
 
+_We will process data using two legal rationales, if you are an individual and not associated with a contracted client we will ask for your consent. If you are associated with a contracted client we will use legitimate interest as the legal basis to process the data._
 
+_Personal data will be retained for a period of up to 3 years for an active account, ie an account which has been used._
 
-_Strictly Necessary_  
-‘Strictly Necessary’ cookies allow you to navigate the website and use essential features like secure areas and online registration. These cookies don’t gather any information about you that could be used for marketing or remembering where you’ve been on the internet. Since these cookies are essential in our being able to guarantee the performance of our website, should you disable them we won’t be able to ensure your security or predict how our website will perform during your visit.
+**Marketing**
 
-An examples of a strictly necessary cookie that we use is: Kreatio_session
+_We would like to send you information about products and services of ours which may be of interest to you. You have a right at any time to stop us from contacting you for marketing purposes. The personal data will include names, addresses, email addresses, employer, job title and telephone numbers._
 
-_Performance_  
-This type of cookie collects information about how you use our website e.g. which pages you visit, and if you experience any errors. The information collected is anonymous and is only used to help us improve how our website works, gauge what interests our users and assess the effectiveness of advertising.  
-An example of a performance cookie is: Kreatio_session
+_We will process data using the following legal rationales to send marketing information, if you are an individual and not associated with a contracted client we will ask for your consent. If you are associated with a contracted client, we will use contractual obligation as the legal basis to process the data. If you are associated with a previous contracted client, we will use legitimate interest as the legal basis to process the data. All of the above rationales for marketing information can be removed by informing us of your wish to remove consent._
 
-_Functionality_  
-This type of cookie remembers your preferences for tools found on our websites, so you don’t have to re-set them each time you visit. Some of them are managed by third parties. They may for instance determine whether you see the latest or oldest comments made in relation to an article first.  
-An example is: __utmz
+_We will retain personal data for active customer leads for a period of up to 1 year, a lead will be active under the following circumstances_
 
-_Targeting_  
-These cookies are used to analyse what advertising might be most relevant to a user of the website based on the areas of the website that the user visits.  
-An example is: DoubleClick
-
-Please note that any advertisers featured on our site may also use cookies, over which we have no control.
-
-You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our sites.
-
-Please also note that by clicking on the distinctive Ad Choices logo that appears in our sites you can obtain further information as to how cookies can be used or restricted in tailoring advertising relevant to you.
-
-**5\. WHERE WE STORE YOUR PERSONAL DATA**  
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA working for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.  
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-**6\. USES MADE OF THE INFORMATION**  
-We use information held about you in the following ways:
-
-  * To ensure that content from our sites is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our services, when you choose to do so.
-  * To notify you about changes to our service.
+  * _An email sent by our organisation has not received an unknown account bounce back_
+  * _An email has been sent to our organisation from the data subject_
 
 
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you, and we (or they) may contact you about these by post, email or telephone.
+**Cookies**
 
-If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+_Like many websites, we use cookies and similar technologies to collect additional website usage data and to improve our Services. Website usage information is collected using cookies to monitor aggregate site usage metrics such as total number of visitors, pages viewed and web traffic routing on our Services. We will store the cookie values on our platform to allow us to perform our analysis, however this will not be used to target marketing material to an individual user._
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+_We will process data under the legitimate interest legal basis as we only use the data to perform aggregated tracking analysis and will not target individuals based upon this analysis and you also need to accept our cookie policy to allow us to process the data._
 
-If you are an event attendee, your job title and organisation will be included on a delegate list, which will be available to all attendees at the event. Your information will be shared with event sponsors/partners if a) you attend a session given by a sponsor /partner and/or b) your badge is scanned by a sponsor. This will enable them to follow up with presentations or relevant information on products or services which they believe may be of interest to you.
+_We will retain active cookie data for a period of up to 1 year, a cookie will remain active if a user re-visits our platform._
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form or, alternatively, email info@clickz.com if you do not wish for your details to be made available to carefully chosen companies.
+Learn more about how we use cookies <https://www.searchenginewatch.com/cookie-policy/>
 
-**7\. DISCLOSURE OF YOUR INFORMATION**  
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may disclose your personal information to third parties:
+**Updating These Terms**
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If ClickZ Group or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our  
-View our [terms and conditions of use](https://web.archive.org/web/20160627152051id_/http%3A/static/terms-conditions/) and other agreements; or to protect the rights, property, or safety of ClickZ Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can request an account deletion.
+
+**Your Rights**
+
+Accessing or Rectifying your personal data
+
+We want to make sure that your personal information is accurate and up to date and you have the right to request a copy and update the personal data that we hold about you. You may ask us to correct or remove information you think is inaccurate. If you would like to invoke this right, please email or write to us at the below address.
+
+Deletion
+
+Based upon the retention periods described above we will remove your personal data from our platforms.
+
+Object, Restrict or Withdraw Consent
+
+You may wish to object to or restrict our ability to process your personal data, this can be done either via email or in writing, using the contact details below. Further context may need to be requested to ensure we can carry out the relevant tasks on our platforms to perform the request.
+
+Portability
+
+You may wish to port your personal data to another platform. This can be done either via email or in writing, using the contact details below.
+
+**Who we are and how to contact us**
+
+We are the data controller responsible for defining and managing how your personal data is processed.
+
+Our company name is Contentive Limited
+
+Our company address is One Hammersmith Broadway, Hammersmith, London, W6 9DL
+
+Our email address is [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3d5a594d4f7d5e525349585349544b58135e5250)
+
+**To Whom We Disclose Information**
+
+Except as described in this Policy, we will not intentionally disclose the Personal Data or Client Data that we collect or store on the Service to third parties without the consent of the data subject. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
+
+Unrestricted Information
+
+Any information that you voluntarily choose to include in a Public Area of the Service, such as a public profile page, will be available to any Visitor or User who has access to that content.
+
+Service Providers
+
+We work with third party service providers who provide email hosting, core corporate applications, web hosting, maintenance, and other services for us. These third parties may have access to, or process Personal Data or Client Data as part of providing those services for us. We limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and our contracts with them require them to maintain the confidentiality of such information.
+
+Service providers include:
+
+BC Foxtrot Limited, 1 Hammersmith Broadway, London W6 9DL; for the purpose of Hosting
+
+Marketo EMEA, Limited, Cairn House, South Country Business Park, Leopardstown, Dublin 18, Ireland; for the purposes of Marketing and Email Campaigns
+
+On24 Inc. Corporation Delaware, 201 Third Street, Suite 300, San Francisco, CA 94 103, USA; for the purposes of Webinar Marketing Campaigns
+
+Mailchimp of The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA; for the purposes of Marketing and Email Campaigns
+
+SurveyGizmo 4888 Pearl East Cir. Suite 100, Boulder, CO 80301 USA; for the purposes of Marketing Surveys
+
+SurveyMonkey UK Limited, 6th Floor, One London Wall, London, EC2Y 5EB; for the purposes of Marketing Surveys
+
+Overseas transfers
+
+The information you provide may be transferred to countries outside the European Economic Area (EEA) that do not have similar protections in place regarding your data and restrictions on its use as set out in this policy. However, we will take steps to ensure adequate protections are in place to ensure the security of your information. The EEA comprises the EU member states plus Norway, Iceland and Liechtenstein. By submitting your information, you consent to these transfers for the purposes specified above.
+
+We may transfer your personal information to the following which are located outside the European Economic Area (EEA) as follows:
+
+Marketo EMEA, Limited, Cairn House, South Country Business Park, Leopardstown, Dublin 18, Ireland; for the purposes of Marketing and Email Campaigns
+
+On24 Inc. Corporation Delaware, 201 Third Street, Suite 300, San Francisco, CA 94 103, USA; for the purposes of Webinar Marketing Campaigns
+
+Mailchimp of The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA; for the purposes of Marketing and Email Campaigns
+
+SurveyGizmo 4888 Pearl East Cir. Suite 100, Boulder, CO 80301 USA; for the purposes of Marketing Surveys
+
+Marketo, On24, Mailchimp and SurveyGizmo have each provided the following safeguards to ensure the safety of your personal data, and it shall be processed to at least the same standards as set out by the General Data Protection Regulations: Marketo, On24, Mailchimp and SurveyGizmo each participates in The Privacy Shield framework, which is accepted by the European Commission as evidence that an adequate level of protection exists for the personal data in the country, territory, or organisation where it is being transferred, in this case, the United States.
+
+You can obtain a copy of the safeguards and any other of Mailchimp’s data protection documentation by visiting https://mailchimp.com, or applying via post to Mailchimp, The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA.
+
+You can obtain a copy of the safeguards and any other of Marketo data protection documentation by visiting https://www.marketo.com, or applying via post to Marketo EMEA, Limited, Cairn House, South Country Business Park, Leopardstown, Dublin 18, Ireland.
+
+You can obtain a copy of the safeguards and any other of On24 data protection documentation by visiting https://www.on24.com, or applying via post to On24 Inc. Corporation Delaware, 201 Third Street, Suite 300, San Francisco, CA 94 103, USA.
+
+You can obtain a copy of the safeguards and any other of SurveyGizmo data protection documentation by visiting https://www.surveygizmo.com, or applying via post to SurveyGizmo 4888 Pearl East Cir. Suite 100, Boulder, CO 80301 USA.
+
+Non-Personally Identifiable Information
+
+We may make non-personally-identifiable information available to third parties for various purposes. This data maybe automatically-collected and would be analysed to create an aggregated view of the data, ensure the reported information was anonymous.
+
+Law Enforcement, Legal Process and Compliance
+
+We may disclose Personal Data or other information if required to do so by law or in the good-faith belief that such action is necessary to comply with applicable laws, in response to a facially valid court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies.
+
+Change of Ownership
+
+Information about data subject, may be disclosed and otherwise transferred to an acquirer, successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets and only if the recipient of the personal data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy.
+
+**Our Data Security**
+
+We have appropriate security measures in place to prevent personal information from being accidentally lost, used or accessed in an unauthorised way.
+
+The following security procedures, and technical and organisational measures to safeguard your personal information have been put in place:
+
+  * In cases where personal data is being processed in third countries or third parties, a rigorous data protection impact assessment is being performed to ensure that your data is always secured.
+  * Our application platform is hosted in ISO 27001 certified secure data centres in the UK.
+  * Firewalls, intrusion detection and prevention, anti-virus and anti-malware and backup and disaster recovery is in place to prevent data loss or deletion.
+  * 24/7 security guard, closed circuit television and a door access control system to authorized personnel secures our offices and data centres.
+  * Our applications are engineered by following industry standards to minimise security vulnerabilities and updates on a regular basis.
+  * Intrusion detection and prevention secures the network traffic to the servers and applications.
+  * Anti-malware and anti-virus software is deployed to all of our servers and regularly scan and update with the latest anti-malware and virus signatures.
+  * We regularly apply critical, security patches and firmware updates to operating systems and physical hardware to minimise the risk of vulnerabilities
+  * Our employees undergo background screening and selection processes, with a restricted list of employees having access to secure areas of the applications, databases and physical infrastructure. The access to the secure areas are logged and auditable.
+  * We will use all reasonable efforts to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
+  * We limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality.
+  * We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.
 
 
 
-**8\. YOUR RIGHTS**  
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@clickz.com](mailto:info@clickz.com).
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-**9\. ACCESS TO INFORMATION**  
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-**10\. CHANGES TO OUR PRIVACY POLICY**  
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
-
-**11\. CONTACT**  
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@clickz.com](mailto:info@clickz.com).
+This privacy policy was last updated on 23 May 2018.
