@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apples4theteacher.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615020611id_/http%3A//www.apples4theteacher.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apples4theteacher.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215031253id_/http%3A//www.apples4theteacher.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Apples4theteacher.com Privacy Polcy
 
