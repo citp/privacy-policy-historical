@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsuplife.in privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502051103id_/https%3A//www.whatsuplife.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsuplife.in privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215202841id_/https%3A//www.whatsuplife.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for What's Up Life !!
 
