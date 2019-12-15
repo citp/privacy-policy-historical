@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the diabetesjournals.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620122609id_/http%3A//www.diabetesjournals.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesjournals.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216002047id_/https%3A//www.diabetesjournals.org/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | American Diabetes Association
-
-## The Journals of the American Diabetes Association
-
-_Updated June 4, 2018_
+# Privacy Policy, American Diabetes Association Journals | American Diabetes Association
 
 ### Our Commitment to Privacy
 
 Your privacy is important to us. To protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by the American Diabetes Association (ADA).
 
-* * *
+### Collection and Use of Personal Information
 
-### **Collection and Use of Personal Information**
-
-**What Is Personal Data?**  
+**What is personal data?**  
 Personal Data (also referred to in this policy as Personal Information) means any information relating to a natural person who can be identified by reference to an identifier such as a name, an identification/account number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that person.
 
 **Personal Information We Collect**  
@@ -49,16 +43,17 @@ Part of our mission is to improve the lives of all people affected by diabetes, 
 
 For EU-based visitors and subscribers, the following list provides information required by the General Data Protection Regulation (GDPR) relating to our use of your personal information.
 
-  * **Personal Information** Contact information, including name, address, email address, and telephone number.  
-**Legal Basis for Processing** Consent to provide you with the content you request, as necessary for the performance of a contract.
-  * **Personal Information   **Purchaser information, including credit card number, contact information, and billing information.  
-**Legal Basis for Processing   **Necessary to provide you with the content you request.
-  * **Personal Information   **Demographic information, including age, preferences, gender, educational degrees, ethnic background, interests, and diabetes specific information.  
-**Legal Basis for Processing   **Legitimate purpose of providing tailored content to you.
-  * **Personal Information  **Technical information, including your IP address, browser type, domain names, access times, and referring website addresses.  
-**Legal Basis for Processing   **Legitimate purpose of authenticating subscribers and optimizing website performance.
+_Personal Information_ : Contact information, including name, address, email address, and telephone number.  
+_Legal Basis for Processing_ : Consent to provide you with the content you request, as necessary for the performance of a contract.
 
+_Personal Information_ : Purchaser information, including credit card number, contact information, and billing information.  
+_Legal Basis for Processing_ : Necessary to provide you with the content you request.
 
+_Personal Information_ : Demographic information, including age, preferences, gender, educational degrees, ethnic background, interests, and diabetes specific information.  
+_Legal Basis for Processing_ : Legitimate purpose of providing tailored content to you.
+
+_Personal Information_ : Technical information, including your IP address, browser type, domain names, access times, and referring website addresses.  
+_Legal Basis for Processing_ :  Legitimate purpose of authenticating subscribers and optimizing website performance.
 
 ### Retention of Personal Information
 
@@ -68,14 +63,14 @@ We retain indefinitely all the personal information we gather about visitors or 
 
 We do not share or disclose your personal information to third parties except as set forth below:
 
-  * **Technical information**
+  * Technical information 
     * With ADA business partners for the legitimate purpose of understanding usage patterns for ADA Websites and those of our partners.
     * With web hosting and other technical service providers for the legitimate purpose of hosting our web servers and ensuring information security for our networks.
-  * **Contact information**
+  * Contact information 
     * With consultants and vendors for the legitimate purpose of providing customer support and marketing assistance.
     * With our business partners, with your consent, for the purposes of providing you with products or services tailored to your interests and preferences.
-  * **Credit card information**  
-With credit card processors for purposes of processing credit card transactions in connection with the donors and subscriber’s contract with the ADA Websites.
+  * Credit card information 
+    * With credit card processors for purposes of processing credit card transactions in connection with the donors and subscriber’s contract with the ADA Websites.
 
 
 
@@ -124,11 +119,11 @@ The registration forms and other sections of the ADA Websites where we collect y
 
 The above are examples of opt-in/opt-out options and are not intended to describe every option on the ADA Websites.
 
-### **Links to Other Sites**
+### Links to Other Sites
 
 The ADA Websites may provide links to other World Wide Web sites or resources. You acknowledge and agree that the American Diabetes Association has no control over such sites and resources and is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Materials, advertising, products, or other materials on or available from such sites or resources or those sites’ data collection or privacy policies. You further acknowledge and agree that the American Diabetes Association shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Materials or goods available on or through any such site or resource or those sites data collection or privacy policies.
 
-### **Monitoring of Information and Cookies**
+### Monitoring of Information and Cookies
 
 We monitor customer traffic patterns and site usage to help us develop the design and layout of ADA Websites. We may also use the information we collect to occasionally notify you about important changes to the websites; new content, services, or features offered by the American Diabetes Association; and special offers and information we think you will find valuable. If you would rather not receive this information, please contact us through one of the channels identified in How to Correct or Update Information.
 
