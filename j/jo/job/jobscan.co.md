@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscan.co privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331174746id_/https%3A//www.jobscan.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscan.co privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215220054id_/https%3A//www.jobscan.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobscan
 
@@ -25,7 +25,7 @@ Jobscan also collects, or logs, certain other information that cannot identify y
 
 In addition, Jobscan may collect indirect information about you when you use certain third party services on our site. For example, if you register on our site by using your LinkedIn user name and password, you authorize us to have access to and store the information from your LinkedIn Account profile; such information will be subject to, and treated in accordance with, the policies and practices described in this Privacy Policy. 
 
-Jobscan receives information about you from certain of its third party partners, such as Google, Facebook, LinkedIn, Uservoice and Purechat, You may be entitled to receive a list of the specific nonaffiliated third-parties that Jobscan receives your personal data from. If you would like to view such a list, please email our support at support@jobscan.co. 
+Jobscan receives information about you from certain of its third party partners, such as Google, Facebook and LinkedIn. You may be entitled to receive a list of the specific nonaffiliated third-parties that Jobscan receives your personal data from. If you would like to view such a list, please email our support at support@jobscan.co. 
 
 You can correct or update your Jobscan account profile, resume(s) or email alerts at any time. Moreover, you can delete your resume(s) from Jobscan 's online database or close your account(s) at any time, in which event we will remove all our copies of your resume and cover letters. 
 
