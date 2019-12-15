@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525133628id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215181517id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/web/20190525133628id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20191215181517id_/http%3A//www.nanotech-now.com/) > Privacy
 
 ## Privacy Notice:
 
