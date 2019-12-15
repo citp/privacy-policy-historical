@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qikspa.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109144804id_/http%3A//www.qikspa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qikspa.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215165055id_/http%3A//qikspa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# qikspa.com, global spa directory from easyspa.org
+# qikspa.com womens health and spa wellness
 
 **Privacy Policy**
 
