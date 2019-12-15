@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reshot.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327163641id_/https%3A//www.reshot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reshot.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215195754id_/https%3A//www.reshot.com/privacy) for the most accurate reproduction.*
 
 # Reshot
 
