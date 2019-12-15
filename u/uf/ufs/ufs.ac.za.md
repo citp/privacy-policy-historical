@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328175437id_/https%3A//www.ufs.ac.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216001739id_/https%3A//www.ufs.ac.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
