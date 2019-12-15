@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeable.io privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404061352id_/https%3A//codeable.io/terms-of-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeable.io privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215205123id_/https%3A//codeable.io/terms-of-service/privacy-policy) for the most accurate reproduction.*
 
 # Codeable - Privacy Policy
 
@@ -6,11 +6,11 @@ Codeable ApS provides this Privacy Policy to inform you of our policies and proc
 
 In the course of using our Site and service (together, the “Service”) we ask you to provide us with certain personal information. The personal information that we collect, process and file, inter alia, is:
 
-  * Your contact information; e.g. your name, company name, email address, postal address and phone number.
-  * Information regarding the use of our service. From Clients, information related to jobs posted via the Service (e.g., budget, location, history of job listings, timing of job performance and feedback/rating information). From Contractors, information in connection with their Contractor profiles (e.g., information on jobs previously performed skills, tests taken, hourly pay rates and feedback/rating information). This information may be used to solve possible disputes between users or Codeable and users.
-  * Your email address used to login to your PayPal account or other financial accounts when using the Service to make or receive payments. We use PayPal, Paymill and possibly other services, and they may also collect and process personal information, such as Credit Card information. We encourage you to read the privacy policies or statements of these services.
-  * Feedback from users about their experience with other users of the Service. Please note that any feedback you provide will be publicly viewable via the Service.
-  * When you visit our Site, whether as a registered or non-registered user our servers automatically record information that your browser sends whenever you visit a website. This log data may include information such as your computer’s Internet Protocol, IP address, browser type, browser software version or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. In addition to this, we may use third party services that collect, monitor and analyse this type of information with the purpose of increasing our Site’s functionality and user-friendliness, to better tailor it to our visitors’ needs, and in some cases to detect suspicious activity. These third party service providers have their own privacy policies addressing how they use such information. We use cookies to record this information. See our cookie policy below.
+  * Your contact information; e.g. your name, company name, email address, postal address and phone number. 
+  * Information regarding the use of our service. From Clients, information related to jobs posted via the Service (e.g., budget, location, history of job listings, timing of job performance and feedback/rating information). From Contractors, information in connection with their Contractor profiles (e.g., information on jobs previously performed skills, tests taken, hourly pay rates and feedback/rating information). This information may be used to solve possible disputes between users or Codeable and users. 
+  * Your email address used to login to your PayPal account or other financial accounts when using the Service to make or receive payments. We use PayPal, Paymill and possibly other services, and they may also collect and process personal information, such as Credit Card information. We encourage you to read the privacy policies or statements of these services. 
+  * Feedback from users about their experience with other users of the Service. Please note that any feedback you provide will be publicly viewable via the Service. 
+  * When you visit our Site, whether as a registered or non-registered user our servers automatically record information that your browser sends whenever you visit a website. This log data may include information such as your computer’s Internet Protocol, IP address, browser type, browser software version or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. In addition to this, we may use third party services that collect, monitor and analyse this type of information with the purpose of increasing our Site’s functionality and user-friendliness, to better tailor it to our visitors’ needs, and in some cases to detect suspicious activity. These third party service providers have their own privacy policies addressing how they use such information. We use cookies to record this information. See our cookie policy below. 
 
 
 
@@ -64,14 +64,14 @@ If you do not accept cookies, however, you may not be able to use all portions o
 
 Third party cookies: We use third party services to analyse the use of our site for statistical purposes and to deliver specific functionality that we need to operate as a business. Such services, and related cookies, are for the following tools:
 
-Category| Purpose| Tools  
+Category | Purpose | Tools  
 ---|---|---  
-Analytics| To measure website usage, so that we can understand trends and performance, and improve how we’re operating| Google Analytics, Google Optimize, Segment, WordPress Stats, Hotjar  
-Chat & customer support| To allow website visitors to easily communicate with our Support team| Intercom  
-Content promotion & user engagement| To allow website visitors to subscribe to our premium content offerings| Hubspot  
-Blog comments| To allow website visitors to add comments to our blog posts| Disqus  
-Tag management| To manage the implementation of services on our website| Google Tag Manager  
-Affiliate program| To allow us to operate our partner program| Referoo (a Codeable service)  
+Analytics | To measure website usage, so that we can understand trends and performance, and improve how we’re operating  | Google Analytics, Google Optimize, Segment, WordPress Stats, Hotjar  
+Chat & customer support | To allow website visitors to easily communicate with our Support team | Intercom  
+Content promotion & user engagement | To allow website visitors to subscribe to our premium content offerings | Hubspot  
+Blog comments | To allow website visitors to add comments to our blog posts | Disqus  
+Tag management | To manage the implementation of services on our website | Google Tag Manager  
+Affiliate program | To allow us to operate our partner program | Referoo (a Codeable service)  
   
 We may also use advertising-related cookie to understand the performance of our advertising activity.
 
