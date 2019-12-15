@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the intofilm.org privacy policy that was archived on 2018-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180924075016id_/https%3A//www.intofilm.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intofilm.org privacy policy that was archived on 2019-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191215081341id_/https%3A//www.intofilm.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js async-hide"><!--<![endif]--><head>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    <meta charset="utf-8">
     
@@ -24,9 +24,9 @@
     <meta name="geo.region" content="gb">
         
     <link rel="shortcut icon" href="/img/f/favicon.ico"> 
-    <link href="/v2.1.141.1/css/print.css" media="print" rel="stylesheet" type="text/css">
-<link href="/v2.1.141.1/css/screen.css" media="screen" rel="stylesheet" type="text/css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PXTS444"></script><script>
+    <link href="/v3.0.0-rc3/css/print.css" media="print" rel="stylesheet" type="text/css">
+<link href="/v3.0.0-rc3/css/screen.css" media="screen" rel="stylesheet" type="text/css">
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PXTS444"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
     window.dataLayer = window.dataLayer || [];
 
     function getCookie(a, b) {
@@ -44,7 +44,7 @@
     var film_club = getCookie("film_club");
     if(film_club == '') {
         film_club = undefined;
-    }
+    };
 
     var isLeader = getCookie("leader");
     if(isLeader == 'true') {
@@ -62,6 +62,30 @@
 
     window.dataLayer = [{'user_id': user_id, 'film_club': film_club, 'user_type': user_type}];
 
+    var newAccount = getCookie("account_created");
+    if(newAccount) {
+        var accountType = getCookie("account_type");
+        window.dataLayer.push({'event': 'Account Created', 'account_type': accountType, 'user_id': user_id })
+        document.cookie = 'account_created=; Max-Age=0'
+    }
+</script>
+
+<!-- Page-hiding snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+        {'GTM-5Q46ZQN':true});
+</script>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-9646965-9', 'auto', {'siteSpeedSampleRate': 100});
+    ga('require', 'GTM-5Q46ZQN');
 </script>
 
 <!-- Google Tag Manager -->
@@ -79,15 +103,12 @@
         f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-PXTS444');</script>
 <!-- End Google Tag Manager -->
-    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-9646965-9', 'auto');</script>
     <script>
     </script>
 
 </head>
 
-    <body class="">            <script type="text/javascript">
-                var festivalActive = true;
-            </script>
+    <body class="">
         <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXTS444" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
@@ -98,37 +119,8 @@
     <div class="logo">
         <a aria-label="home" tabindex="0" href="/"><img src="/img/f/logo.png" alt="IntoFilm logo"></a>
     </div>
-    <div class="settings-container">
-        <div class="profile logged-out">
-            <p><a class="link" href="/login"><i class="fa fa-user"></i><span class="label">Login</span></a> <span class="label">or</span> <a class="link label" href="/login?strategy=pre_register">Create an Account</a></p>
-        </div>
-        <div class="profile logged-in">
-            <p><a class="link myaccount" href="#"><i class="fa fa-user"></i><span class="label">My Account</span> <i class="fa fa-caret-down"></i></a></p>
-            <div id="account-settings" class="account-settings">
-                <p class="username">Username</p>
-                                <div class="control-buttons">
-                    <a class="btn leader-only" href="/clubs/leader/my-club">My Into Film Club</a>
-                    <a class="btn member-only" href="/clubs/member/my-club">My Into Film Club</a>
-                    <a class="btn btn-edit-profile" href="/profile">View / Edit profile</a>
-                    <a class="btn btn-account-settings" href="/profile">Account settings</a>                    
-                                            <a class="btn btn-festival-bookings leader-educator-only" href="/profile#bookings">Festival Booking</a>
-                                        
-                </div>
-                <a class="logout" href="/logout">LOG OUT<i class="fa fa-sign-out"></i></a>
-            </div>
-        </div>
-        
-        <div id="globalsearchpanel" class="search">
-            <form enctype="multipart/form-data" method="get" accept-charset="utf-8" action="/search/global" class="aerian-form">
-                <label for="globalsearch" class="control-label hidden">Search</label>
-                <div class="control-wrapper">
-                    <input type="text" name="globalsearch" id="globalsearch" placeholder="Search Into Film" class="form-control input">
-                </div>
-                <button id="globalsearch-btn" class="globalsearch-btn" type="submit"><span class="hidden">Search</span><i class="fa fa-search"></i></button>
-            </form>
-            <p class="search-area"><span class="label">Search</span> <i class="fa fa-search"></i></p>
-            <a href="#" class="close-btn"><span class="label hidden">Close</span><i class="fa fa-times"></i></a>
-        </div>
+    <div class="bfi-lottery">
+        <img src="/img/f/bfi-lottery_logo.png" alt="BFI/Lottery logo">
     </div>
     <div id="nav-container" class="navigation-container collapsed">
         <div class="navigation-bar">
@@ -139,7 +131,7 @@
                     <li><a tabindex="0" href="/training">Training</a></li>
                     <li><a tabindex="0" href="/resources">Resources</a></li>
                     <li><a tabindex="0" href="/events">Events</a></li>
-                    <li><a tabindex="0" href="/competitions">Competitions</a></li>                    
+                    <li><a tabindex="0" href="/competitions">Competitions</a></li>
                     <li><a tabindex="0" href="/news-and-views">News &amp; Views</a></li>
                 </ul>
             </nav>
@@ -161,6 +153,36 @@
                 </ul>
             </nav>
         </div>
+    </div>
+    <div class="settings-container">
+        <div class="profile logged-out">
+            <p><a class="link" href="/login"><i class="fa fa-user"></i><span class="label">Login</span></a> <span class="label">or</span> <a class="link label" href="/login?strategy=pre_register">Create an Account</a></p>
+        </div>
+        <div class="profile logged-in">
+            <p><a class="link myaccount" href="#"><i class="fa fa-user"></i><span class="label">My Account</span> <i class="fa fa-caret-down"></i></a></p>
+            <div id="account-settings" class="account-settings">
+                <p class="username">Username</p>
+                                <div class="control-buttons">
+                    <a class="btn leader-only" href="/clubs/leader/my-club">My Into Film Club</a>
+                    <a class="btn member-only" href="/clubs/member/my-club">My Into Film Club</a>
+                    <a class="btn btn-edit-profile" href="/profile">View / Edit profile</a>
+                    <a class="btn btn-account-settings" href="/profile">Account settings</a>
+                                    </div>
+                <a class="logout" href="/logout">LOG OUT<i class="fa fa-sign-out"></i></a>
+            </div>
+        </div>
+        
+        <div id="globalsearchpanel" class="search">
+            <form enctype="multipart/form-data" method="get" accept-charset="utf-8" action="/search/global" class="aerian-form">
+                <label for="globalsearch" class="control-label hidden">Search</label>
+                <div class="control-wrapper">
+                    <input type="text" name="globalsearch" id="globalsearch" tabindex="-1" placeholder="Search Into Film" class="form-control input">
+                </div>
+                <button id="globalsearch-btn" class="globalsearch-btn" tabindex="-1" type="submit"><span class="hidden">Search</span><i class="fa fa-search"></i></button>
+            </form>
+            <p tabindex="0" class="search-area"><span class="label">Search</span> <i class="fa fa-search"></i></p>
+            <a href="#" aria-hidden="true" tabindex="-1" class="close-btn"><span class="label hidden">Close</span><i class="fa fa-times"></i></a>
+        </div>
     </div></header>            <div id="wrapper" onclick="void(0);">
                                 <section class="default-masthead contentpage" style="">
     <div class="title-container">
@@ -177,7 +199,7 @@
         <section class="block-container block-section col-md-12 primary-container" id="primary"><div class="block block-text">
     <h2>Introduction</h2><p>		Into Film needs to collect personal data from its users to provide a full range of products and services. This Privacy Statement explains what personal information we collect and how it is processed.</p><p>		Into Film collects personal data for the following three reasons:</p><ol><li>To provide a personalised service to users of Into Film products and services</li>	<li>To help us monitor and make improvements to our services</li>	<li>To promote products and services to users if they have given us consent to do so</li></ol><h2>Our principles</h2><p>		Into Film is committed to protecting personal data and adheres strictly to the principles outlined in the Data Protection Act 1998 and The General Data Protection Regulation (EU) 2016/679.</p><ul><li>We will ensure that the appropriate security measures are deployed to protect the information that you share with us</li>	<li>We will collect only the personal data required to provide the products and services that you opt into. No other data will be collected</li>	<li>We will provide sufficient information for users to make an informed choice about consenting to Into Film communications</li>	<li>We will only send communications that you have positively opted into receive, unless legitimate interest is deemed the lawful basis for sending communications - for example, Into Film Clubs</li>	<li>We will ensure your right to change your preferences at any time via your profile settings on the Into Film website or by contacting support@intofilm.org</li>	<li>We will ensure that all users can opt out of communications at any time</li>	<li>We will collect consent from a parent or legal guardian to collect the personal data of children and young people under the age of 16.</li></ul><h2>The information we collect and why</h2><h3>Registering for an Into Film account</h3><p>		We ask for the following information when users register for an Into Film account. An account is required to access a range of Into Film products and services including educational resources, Into Film Festival bookings and starting an Into Film Club.</p><ul><li>Date of birth  this enables us to set up and manage the right account for the user  either an educator account or an account for a young person</li>	<li>First name, last name, email address and username</li></ul><p>		As part of the registration process we give users the option of being kept up-to-date with Into Film products and services via email. Users must proactively tick this box to give consent for Into Film to communicate with them. Registered users who do not tick this box will not receive emails from Into Film, unless it's related to an event that they have booked.</p><p>		All Into Film emails include a clear link to unsubscribe from future communications. This can also be done by changing preferences in the profile page on the Into Film website or contacting support@intofilm.org</p><h3>Into Film Festival&nbsp;</h3><p>		We will ask for a mobile telephone number when users register to attend a screening at the Into Film Festival. This is required as the cinema may need to call the ticket booker regarding a last-minute timing change, cancellation or late arrival.&nbsp;</p><p>		Mobile phone numbers will not be used for any other purpose than contacting Into Festival attendees as described above, and mobile phone data will be deleted within one month of the Into Film Festival ending.</p><h3>	Data provided by Children and Young People</h3><p>		Children and young people aged 8 to 19, who are members of their school or college film club, can register to use the Into Film website. This allows them to write and publish film reviews online and recommend films to be shown at their club.</p><p>		All children aged 16 or under are required to gain parental or legal guardian consent to access the Into Film site. This consent is gained when a child or young person provides a signed consent form to attend their film club.&nbsp;</p><h3>Competitions and surveys&nbsp;</h3><p>		On occasion, Into Film will conduct competitions and surveys via an authorised data capture provider. The provider will be named at the point at which the survey or competition is launched. All third-party data capture providers will be vetted to ensure they are GDPR compliant. Any information collected via such a service will be shared only with Into Film and used only for the purposes of the competition or survey.&nbsp;</p><p>		Some of our Into Film Festival communications are managed by a third-party agency. The agency is contracted to ensure GDPR compliance and that all data held by them is securely deleted within one month of the Into Film Festival ending.</p><h2>	How do we profile the data we hold?</h2><p>		We sometimes profile the personal data that we collect (see list below), as this enables Into Film to offer registered users a range of Into Film products and services that reflect their interests. We do not profile sensitive data, nor does our profiling of data have a legal or significant effect on the individual. We do not sell on data to any third parties.</p><ul><li>Stage of education (e.g.) primary or secondary</li>	<li>Subject taught</li>	<li>Resources downloaded</li>	<li>Region of registered user</li>	<li>Films ordered via title the Into Film website</li></ul><h3>Cookies</h3><p>		Cookies are pieces of data that are created when users visit a website, and which are stored in the cookies directory of their computer. Cookies are created when users visit intofilm.org, and we use four types of cookies:</p><ol><li>Session cookie: this allows us to identify logged in users, giving them access to more of the site. This is essential for the website to operate.&nbsp;</li>	<li>Google Analytics cookie: this allows us to generate data about how many people use our site, and which pages they visit.&nbsp;</li>	<li>'Accept' cookie: this tells us that a user has accepted that their information can be used as part of our analytics and statistics (as above).&nbsp;</li>	<li>Demographics and Interests cookie: this allows us to collect data on users by age, gender and interest categories. This helps us to target our communications more effectively to users. </li></ol><p>		We have some relationships with carefully-selected and monitored suppliers. They may also set cookies during your visit to be used for analysis and re-marketing purposes. This enables us to promote products and services that reflect a visitors interests.</p><p>		In accordance with new legislation, users can actively opt-in to these cookies being stored on their computer. Users can also change settings and preferences on their browser to manage and delete cookies across all websites. Please note that by deleting our cookies or disabling future cookies, users may not be able to access certain areas or features of our site.</p><h2>	When will Into Film contact me?</h2><p>		Into Film will only contact a registered user if consent has been given, or if we have a legitimate interest to do so (Film Club leaders). Consent options will always be presented clearly and all users will be asked to opt in to give Into Film the right to communicate with them.</p><p>		All registered users have the right to refuse consent without detriment and can unsubscribe from communications at any time, either by clicking unsubscribe or changing the options in their account settings.</p><h3>Into Film may contact you:</h3><ul><li>In relation to the functioning of any service you have signed up for to ensure that Into Film can deliver the service to you</li>	<li>Where you have opted to receive further correspondence</li>	<li>If you are the winner of an Into Film competition or prize that you have entered</li>	<li>To promote other Into Film products and services&nbsp;</li></ul><h3>Film Clubs</h3><p>		Into Film has a legitimate interest to contact Film Club leaders, as outlined in the Into Film agreement. This is to ensure that Into Film can provide the best possible service to Film Club leaders and their members.</p><p>		Film Club leaders are given a clear option to unsubscribe from future Into Film communications on all emails that Into Film sends, and can unsubscribe in their account settings.</p><h2>Photography&nbsp;</h2><p>		We will only use images that we have consent to use. Images may be used in a range of Into Film communications and, on occasion, by our funders  the British Film Institute (BFI) and Camelot, who run The National Lottery.</p><p>		We gain consent for all individuals that appear in the photography we use, and individuals have the right to withdraw their consent at any time. Individuals wishing to withdraw consent for photography should contact Into Film.</p><p>	We will store photographic images for a period of 10 years (unless consent is withdrawn) and then securely delete the image file. Individuals have the right to request that images are deleted at any time and should contact Into Film to do so.</p><ul><li>Email:	 support@intofilm.org</li>	<li>Tel:	0330 313 7600</li></ul><h2>Filming</h2><p>		The use of personal data is lawful for filmmaking projects as it is necessary for the performance of the contract to make the film. All participants that appear in Into Film filmmaking projects will have given their consent to do so.</p><p>		Filmed content may be used in on a range of platforms including the Into Film website, YouTube, Facebook and Twitter.</p><p>		On occasion, individuals may wish to withdraw their consent for a filmmaking project after the film has been completed, and we will consider these requests on a case-by-case basis. To discuss withdrawing consent for a filmmaking project please contact Into Film.</p><ul><li>Email:	 support@intofilm.org</li>	<li>Tel:	0330 313 7600</li></ul><p>		Unless consent is withdrawn, filmed content will be stored in perpetuity in order to showcase and catalogue the work of the young people involved.</p><h3>Request to review, change or delete your personal information</h3><p>		If you require access to (or a copy of) the personal information we hold about you, or would like to request a correction or to delete it then please contact Into Film.</p><ul><li>Email:	 support@intofilm.org</li>	<li>Tel:	0330 313 7600</li></ul><p>		We will delete all personal information that we hold on a registered user within 30 working days of receiving a request unless we are required to retain the data for legal reasons.</p><h3>How long will we keep personal data?</h3><p>		We will keep personal data for as long as we need to, and this will depend on what we are using it for. For example, film club leader information will be kept for as long as the film club remains open. If we no longer need your data, we will either delete it securely or make it anonymous by removing all details that identify you. All users can ask for their data to be erased at any time by contacting into film.</p><ul><li>Email:	 support@intofilm.org</li>	<li>Tel:	0330 313 7600</li></ul><h2>	Making a complaint&nbsp;</h2><p>		If you wish to make a complaint about how Into Film have managed your personal information, please contact our Data Protection Officer.&nbsp;</p><ul><li>Tel:	0330 313 7600</li>	<li>Email:	support@intofilm.org</li>	<li>In writing:		Into Film, 31 Islington Green, London, N1 8DU</li></ul><p>		We will respond to all complaints within 30 working days. If you are not satisfied with our response, then you have the right to report the complaint to the Information Commissioners Office (ICO).</p><ul><li>Tel: 0303 123 1113</li>	<li>Email: <a href="https://ico.org.uk/global/contact-us/email/">https://ico.org.uk/global/contact-us/email/</a></li></ul><h2>	Changes to this privacy policy</h2><p>		If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.</p><h3>24/5/18</h3><p>		The privacy policy was updated to describe how Into Film complies with The General Data Protection Regulation (EU) 2016/679.</p></div></section>
     </div>
-</div>            <div class="share-options no-margin">
+</div>                        <div class="share-options no-margin">
                 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54173e14223fda9e" async="async"></script>
 
     <p>Share</p><div class="addthis_sharing_toolbox"></div>            </div>
@@ -197,7 +219,6 @@
                         <ul class="links">
                             <li><a href="https://twitter.com/intofilm_edu"><i class="fa fa-twitter"></i><span class="sr-only">twitter icon</span></a></li>
                             <li><a href="https://www.facebook.com/IntoFilm"><i class="fa fa-facebook-official"></i><span class="sr-only">facebook icon</span></a></li>
-                            <li><a href="https://www.youtube.com/user/filmclubuk"><i class="fa fa-youtube-play"></i><span class="sr-only">youtube icon</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -225,14 +246,14 @@
         <a title="Find out about our trustees, without whose support and dedication many of our activities would not be possible." href="/our-trustees">Our Trustees</a>
     </li>
     <li>
-        <a title="Find out more about the Executive Team that make Into Film's UK-wide programme happen." href="/our-team">Our Executive Team</a>
+        <a title="Find out more about the Team that make Into Film's UK-wide programme happen." href="/our-team">Our Team</a>
     </li>
 </ul><ul>
     <li>
-        <a title="Applications are now open for our Youth Advisory Council 2018. Apply here and find out how the council shapes and guides our work." href="/youth-advisory-council">Youth Advisory Council</a>
+        <a title="Applications are now open for our Youth Advisory Council 2019. Apply here and find out how the council shapes and guides our work." href="/youth-advisory-council">Youth Advisory Council</a>
     </li>
     <li>
-        <a title="Our Young Reporter Programme provides children and young people with the opportunity to become the voice of Into Film." href="/young-reporters">Young Reporter Programme</a>
+        <a title="Our Young Reporter Programme provides young people aged 13 - 18 with the opportunity to become the voice of Into Film." href="/young-reporters">Young Reporter Programme</a>
     </li>
     <li>
         <a title="From Education to Communication, below you can find details of all of our current job opportunities across the UK." href="/jobs">Jobs at Into Film </a>
@@ -242,7 +263,10 @@
         <a title="The Into Film Festival is a free, annual, UK-wide celebration of film, providing memorable cinema experiences for children and young people aged 5-19. " href="/festival">Into Film Festival</a>
     </li>
     <li>
-        <a title="Explore your local area and its history through this documentary filmmaking project. " href="/greatest-generation"> Greatest Generation</a>
+        <a title="Find out more about the actors, directors and film industry talent that have lent their support to the Into Film mission." href="/ambassadors">Into Film Ambassadors</a>
+    </li>
+    <li>
+        <a title="Securing Cinema Audiences for the Future" href="/film-industry">Partnering with the Film Industry</a>
     </li>
 </ul>                </div>
                 <div class="bfi">
@@ -255,7 +279,7 @@
         <a title="Into Film is dedicated to making our website easy to view for all users regardless of physical, economic or technological circumstances." href="/accessibility">Accessibility</a>
     </li>
     <li>
-        <a title="The internet is an incredible tool for education, so it's more important than ever to be safe and responsible when using it. " href="/online-safety">Online safety</a>
+        <a title="The Internet can be an incredible tool for education, so it's important to help young people know how best to keep themselves safe and protected when browsing the Internet." href="/online-safety">Online Safety</a>
     </li>
     <li>
         <a title="This page tells you the terms of use which you agree to when you use www.intofilm.org." href="/terms-and-conditions">Terms and Conditions</a>
@@ -268,7 +292,7 @@
     </li>
 </ul>                    </div>
                     <div class="copyright">
-                        <p>© 2018 Into Film | Registered charity number - 1154030</p>
+                        <p>© 2019 Into Film | Registered charity number - 1154030</p>
                     </div>
                     
                 </div>
@@ -285,7 +309,7 @@
         </div>
     </div>    
 </footer>
-        <script src="/v2.1.141.1/js/main.min.js"></script>    
+        <script src="/v3.0.0-rc3/js/main.min.js"></script>    
     
 
 </body></html>
