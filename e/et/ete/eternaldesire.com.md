@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eternaldesire.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603213853id_/https%3A//www.eternaldesire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eternaldesire.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215211846id_/https%3A//support.metart.com/hc/en-us/articles/360006239314-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – MetArt Network Customer Care
 
