@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatfreevegan.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515214308id_/https%3A//blog.fatfreevegan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatfreevegan.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215202613id_/https%3A//blog.fatfreevegan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FatFree Vegan Kitchen
 
