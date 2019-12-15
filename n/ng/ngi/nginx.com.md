@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nginx.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200056id_/https%3A//www.nginx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nginx.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215095050id_/http%3A//nginx.com/privacy-policy) for the most accurate reproduction.*
 
 # NGINX Inc. Privacy Policy - How Information is Used
 
