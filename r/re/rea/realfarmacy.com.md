@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realfarmacy.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630023927id_/https%3A//realfarmacy.com/legal-disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realfarmacy.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215131155id_/https%3A//realfarmacy.com/legal-disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # REALfarmacy.com
 
