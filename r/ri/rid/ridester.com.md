@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridester.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330162129id_/https%3A//www.ridester.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridester.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215034814id_/https%3A//www.ridester.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Ridester
 
