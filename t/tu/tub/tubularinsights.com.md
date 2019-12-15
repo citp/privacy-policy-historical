@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubularinsights.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428023206id_/https%3A//tubularinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubularinsights.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215203434id_/https%3A//tubularinsights.com/privacy) for the most accurate reproduction.*
 
 # TubularInsights.com Privacy Policy
 
@@ -31,7 +31,7 @@ The short answer is that we generally use this information to provide and improv
 
 
 
-If you have any questions or comments about SNS Authenticated Data, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6616140f1007051f26121304130a07140a0704154805090b).
+If you have any questions or comments about SNS Authenticated Data, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3747455e4156544e77434255425b56455b5655441954585a).
 
 ## When Do We Share or Disclose Your Information?
 
@@ -49,7 +49,7 @@ If you have any questions or comments about SNS Authenticated Data, please email
   *  **Opt-Out.**
     * We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our [Terms of Service](https://tubularlabs.com/terms/) or this Privacy Policy or information about billing.
     * You can opt-out of providing Authenticated Data to Tubular Labs at any time by revoking the permissions previously granted to Tubular Labs in the Settings section of your Account. Authenticated Data accessible by Tubular Labs during any ‘opt-in’ period in accordance with the terms of this Privacy Policy.
-  *  **Modifying Your Information.** You can update or correct personal information (e.g., your email address) by accessing your Account. You can also access, or delete, your information by reaching out to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#68181a011e090b11281c1d0a1d04091a04090a1b460b0705). We will respond to your request within 30 days. Please note that we have the right to reject deletion requests that are unduly burdensome or repetitive or that cannot be honored in light of legal obligations or ongoing disputes, or where retention is necessary to enforce our agreements or protect our or another party’s rights, property, safety, or security.
+  *  **Modifying Your Information.** You can update or correct personal information (e.g., your email address) by accessing your Account. You can also access, or delete, your information by reaching out to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0c0c2d9c6d1d3c9f0c4c5d2c5dcd1c2dcd1d2c39ed3dfdd). We will respond to your request within 30 days. Please note that we have the right to reject deletion requests that are unduly burdensome or repetitive or that cannot be honored in light of legal obligations or ongoing disputes, or where retention is necessary to enforce our agreements or protect our or another party’s rights, property, safety, or security.
 
 
 
@@ -77,7 +77,7 @@ Under California Civil Code sections 1798.83-1798.84, also known as the “Shine
 
 ## Contact Us
 
-If you have any questions about our privacy practices, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5525273c2334362c1521203720393427393437267b363a38).
+If you have any questions about our privacy practices, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f0f0d16091e1c063f0b0a1d0a131e0d131e1d0c511c1012).
 
 You can also contact us by mail at Tubular Labs Inc., 153 Castro Street #300, MOUNTAIN VIEW, CA 94041
 
