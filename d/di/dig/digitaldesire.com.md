@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldesire.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625231604id_/http%3A//www.digitaldesire.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldesire.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215024853id_/http%3A//www.digitaldesire.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Desire
 
