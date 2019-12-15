@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allexamreview.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506131431id_/http%3A//www.allexamreview.com/blog-page_15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allexamreview.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215130403id_/https%3A//www.allexamreview.com/blog-page_15) for the most accurate reproduction.*
 
 # Privacy Policy - All Exam Review
 
