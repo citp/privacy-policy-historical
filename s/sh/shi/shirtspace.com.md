@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shirtspace.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420224325id_/https%3A//www.shirtspace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shirtspace.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215120343id_/https%3A//www.shirtspace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Shirtspace.com
+# Privacy Policy | Shirtspace
 
 This Application collects some Personal Data from its Users.
 
@@ -88,13 +88,13 @@ This type of service allows User Data to be utilized for advertising communicati
 This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
 Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
 
-#### Bing Ads (Microsoft Corporation)
+#### Microsoft Advertising (Microsoft Corporation)
 
-Bing Ads is an advertising service provided by Microsoft Corporation.
+Microsoft Advertising is an advertising service provided by Microsoft Corporation.
 
 Personal Data collected: Cookies; Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://privacy.microsoft.com/privacystatement/) – [Opt Out](https://choice.microsoft.com/opt-out). 
+Place of processing: US – [Privacy Policy](https://privacy.microsoft.com/privacystatement/) – [Opt Out](https://choice.microsoft.com/opt-out). Privacy Shield participant. 
 
 ### Analytics
 
