@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615134811id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215142740id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Users of the Chiff.com Internet Directory
 
@@ -25,7 +25,7 @@ _**What about "cookies" and other tracking devices?**_ Cookies are actually very
 
 As stated above, we do not set cookies. However, that does not limit our advertising and social media partners from doing so. 
 
-**IMPORTANT NOTE:** For more information see: [How Google uses data when you use our partners' sites or apps](http://www.google.com/intl/en/policies/privacy/partners/). Also see [AddThis](http://www.addthis.com/privacy/privacy-policy), our social media partner, for more on their privacy policy with additional instructions on how to opt out entirely.
+**IMPORTANT NOTE:** For more information see: [How Google uses data when you use our partners' sites or apps](https://www.google.com/intl/en/policies/privacy/partners/). Also see [AddThis](https://www.addthis.com/privacy/privacy-policy), our social media partner, for more on their privacy policy with additional instructions on how to opt out entirely.
 
 In the event of a change in our policy, a revised Privacy Statement will promptly be posted to this Web site. You agree to accept posting of a revised Privacy Statement electronically on the web site as actual notice to you. You should review the Privacy Statement periodically to remain informed of any changes.
 
