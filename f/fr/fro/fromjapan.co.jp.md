@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromjapan.co.jp privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803024434id_/https%3A//www.fromjapan.co.jp/en/title/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromjapan.co.jp privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215103243id_/https%3A//www.fromjapan.co.jp/en/title/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Proxy bidding and ordering service for Japanese auctions and shopping - FROM JAPAN
 
@@ -6,12 +6,12 @@ FROM JAPAN, Co., Ltd., (here in after "our company") understands the importance 
 
 ## Definition of Personal Information
 
-This privacy policy defines any information that can identify a person, including user ID, name, address, birthday, sex, phone number, email address, means of payment, and purchase history, as personal information. 
+This privacy policy defines any information that can identify a person, including user ID, name, address, birthday, sex, phone number, email address, means of payment, purchase history and social media account(s) as personal information. 
 
 ## Intended Purpose
 
 Our company may use your personal information for the following purposes:  
-(1) Management of user and order information  
+(1) Management of information regarding members, orders and participation in campaigns  
 (2) Product sales, charging of various fees  
 (3) Shipment of orders  
 (4) Notifications regarding sale campaigns, new product information, and important site operation news  
@@ -23,7 +23,8 @@ Our company may use your personal information for the following purposes:
 (10) Sharing beneficial information to users regarding product development and other service improvements for marketing analysis purposes, various sale campaigns and new product notifications through third party partner companies.  
 Sharing method: through sending documents or electronic/electromagnetic methods to third parties  
 (However, the sharing of personal information with third party companies can be stopped by the request of the user)  
-(11) Other purposes conforming to or closely related to the above listed purposes  
+(11) Recruitment information  
+(12) Other purposes conforming to or closely related to the above listed purposes  
 
 
 ## Provision to Third Parties
