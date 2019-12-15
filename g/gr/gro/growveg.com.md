@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growveg.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428135306id_/https%3A//www.growveg.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growveg.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215010709id_/https%3A//www.growveg.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -193,7 +193,7 @@ You can ask us for a copy of this Notice by writing to the above address or by u
 
 To unsubscribe from our emails and service you can use the unsubscribe link at the bottom of any email our system sends out. Alternatively you may use any of the following:
 
-  * Contact us using our [Contact Form](https://web.archive.org/web/20190428135306id_/https%3A//www.growveg.com/contact.aspx).
+  * Contact us using our [Contact Form](https://web.archive.org/web/20191215010709id_/https%3A//www.growveg.com/contact.aspx).
   * Send an email to the address unsubscribe(at)growveg.com (please replace the (at) with @)
   * Send your request to following address:  
 Growing Interactive Ltd  
@@ -208,4 +208,4 @@ You may request us to provide a copy of the data we hold about you, which can ta
 
 ## Contact Information
 
-If you have any questions, concerns or suggestions regarding our privacy policy, please contact us via our [Contact Form](https://web.archive.org/web/20190428135306id_/https%3A//www.growveg.com/contact.aspx).
+If you have any questions, concerns or suggestions regarding our privacy policy, please contact us via our [Contact Form](https://web.archive.org/web/20191215010709id_/https%3A//www.growveg.com/contact.aspx).
