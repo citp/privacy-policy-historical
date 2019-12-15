@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evo.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503082749id_/https%3A//www.evo.com/what-is-your-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evo.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215235922id_/https%3A//www.evo.com/what-is-your-privacy-policy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -102,9 +102,9 @@ We also use a third party to "power" product reviews on our Services. When you s
 
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. However, under the law, a business is not required to provide this information if it permits California residents to optin to, or opt out of  this type of sharing. evo qualifies for this alternative option. To opt out of having your information shared with third parties for direct marketing purposes, please [call Customer Service](https://www.evo.com/customer-care-phone-hours). 
 
-## Your EU Privacy Rights
+## Visitors from outside the U.S.
 
-evo complies with the practices and rules outlined in the General Data Protection Regulations (GDPR) in effect as of May 25, 2018. If you are visiting from the EU, any data collected during your visit is governed by the GDPR. Please review our [GDPR Notification](https://www.evo.com/gdpr-notices) for details about the data we collect, how we use that data and your rights under the GDPR.
+We are based in the U.S. and the information we collect is governed by U.S. law. If you are visiting the Site from outside the U.S., please be aware that information we obtain through the Site or our Services may be transferred to, processed, stored and used in the U.S. Data protection laws in the U.S. may be different from those of your country of residence. Your use of the Site or our Services constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including Personal Information, in the U.S. as set forth in this Privacy Policy.
 
 ## Changes to this Privacy Policy
 
@@ -116,7 +116,7 @@ If you want to update or access your personal information, or if you have any qu
 
 evo  
 Attention: Privacy Officer  
-3500 1st Ave NW  
+122 NW 36th St  
 Seattle, WA 98107
 
  
