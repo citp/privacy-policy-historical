@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423215304id_/https%3A//doit.niu.edu/doit/policies_root/privacy-website.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215145504id_/https%3A//www.niu.edu/policies/policy-documents/website-privacy-policy.shtml) for the most accurate reproduction.*
 
-# Privacy Notice
+# Website Privacy Policy - NIU - Policy Library
+
+### NIU Website Privacy Notice
 
 _Updated: 7/5/18 (approved language to incorporate explicit voluntary consent where consent is required ; and to grant data subjects the right of review and the right to request corrections); 4/15/18 (providing contact information); 7/24/2016_
-
-* * *
 
 ### Overview
 
 The Board of Trustees of Northern Illinois University ("NIU," or "University") respects the privacy of every individual who visits NIU websites. This privacy notice outlines the information that NIU websites and online forms may collect and how that information may be processed.
 
 NIU websites and online forms are supported by several University servers and applications. Some servers or sites hosted by Northern Illinois University may adopt different privacy notices that go beyond the parameters set forth in this document, as their specific needs require. However, those servers or sites cannot adopt privacy policies or practices that in any way supersede federal or state laws or regulations, NIU Board of Trustees Bylaws and Regulations, and/or this policy. Any discrepancy between the information presented here and the official Bylaws and Regulations of the Board of Trustees of Northern Illinois University and the policies and procedures of Northern Illinois University is not intended to and does not alter or amend the official Bylaws, Regulations, policies or procedures. NIU reserves the right to alter this policy at any time and will post future amended documents at this location.
-
-* * *
 
 ### Definitions
 
@@ -21,13 +19,9 @@ NIU websites and online forms are supported by several University servers and a
 
 
 
-* * *
-
 ### Questions or Concerns
 
-Anyone with questions or concerns about NIU's policies and procedures regarding the protection of personal data may email the University Privacy Officer at [PrivacyOfficer@niu.edu](mailto:PrivacyOfficer@niu.edu). For additional information on privacy rights for NIU community members, please view the [NIU Privacy Policy](https://web.archive.org/web/20190423215304id_/https%3A//doit.niu.edu/doit/policies_root/privacy_policy.shtml).
-
-* * *
+Anyone with questions or concerns about NIU's policies and procedures regarding the protection of personal data may email the University Privacy Officer at [PrivacyOfficer@niu.edu](mailto:PrivacyOfficer@niu.edu). For additional information on privacy rights for NIU community members, please view the [NIU Privacy Policy](https://doit.niu.edu/doit/policies_root/privacy_policy.shtml).
 
 ### Collection and Processing of Supplied Personal Data
 
@@ -92,8 +86,6 @@ NIU data is retained or disposed of according to published Record Schedules (<ht
 
 The Division of Information Technology (DoIT) has taken several steps to safeguard the integrity of its communications and computing infrastructure, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire University operating environment as part of its continuing commitment to risk management. However, such activities should not be construed as any warranty against the unauthorized breach/failure of these security measures.
 
-* * *
-
 ### Information Placed Automatically on Visitor Computers (Cookies)
 
 When visitors view the NIU website, some information may be stored on their computer in the form of a "cookie" or similar file. Cookie help web authors tailor websites to better match user interests and preferences. With most Internet browsers, users can alter user preferences to erase cookies from their hard drive, block cookies, or have it prompt the user to either accept or refuse to store the cookie. Most browser help files have detailed instructions on how to set user preferences for cookies.
@@ -107,15 +99,11 @@ In compliance with the [Illinois State Agency Web Site Act](http://www.ilga.gov/
 
 NIU websites may, however, use transactional cookies that facilitate business transactions.
 
-* * *
-
 ### Public Forums, Online Surveys and Other Information Provided by the User
 
 Many units of the University provide chat rooms, forums, message boards, and other online groups for their users. Any information that is disclosed in these areas may become public information and a user should therefore exercise caution when deciding to disclose one's personal information in such places. Chat sessions and discussion forums may be logged.
 
 In addition, at any time there are numerous online surveys being conducted on NIU websites. Persons responsible for conducting online surveys that collect personally identifiable information (PII) must clearly state at the survey site the extent to which any information provided will be shared or protected. Aggregated and anonymized data from surveys may be shared with external third parties in ways that do not compromise privacy.
-
-* * *
 
 ### Compliance with Relevant Privacy Laws
 
@@ -130,8 +118,6 @@ In addition, Northern Illinois University is committed to complying fully with:
   * Applicable international privacy laws.
 
 
-
-* * *
 
 ### Legal Disclaimers
 
