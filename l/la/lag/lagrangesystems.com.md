@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lagrangesystems.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916155330id_/https%3A//www.webscalenetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagrangesystems.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215164317id_/https%3A//www.webscale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Webscale
 
@@ -65,7 +65,7 @@ Webscale also uses third-party vendor re-marketing tracking cookies, including t
 
 **5\. Opt-Out**
 
-You may opt out of Google’s use of cookies by visiting [Google’s Ad Settings](https://www.google.com/settings/u/0/ads/authenticated). Also, you can opt out of other third-party vendors’ use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+You may opt out of Google’s use of cookies by visiting [Google’s Ad Settings](https://www.google.com/settings/u/0/ads/authenticated). Also, you can opt out of other third-party vendors’ use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
 **6\. How do I access or change my information?**
 
@@ -124,10 +124,6 @@ Attn: Customer Service
 Mountain View CA 94043  
 1.303.900.3560  
 [info@webscalenetworks.com](mailto:info@webscalenetworks.com)
-
-For additional information, please see:  
-[http://www.leginfo.ca.gov/cgi-bin/displaycode?section=civ&group=01001-02000&file=1798.80-1798.84](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=civ&group=01001-02000&file=1798.80-1798.84)  
-[http://www.leginfo.ca.gov/cgi-bin/waisgate?WAISdocID=105930194+0+0+0&WAISaction=retrieve](http://www.leginfo.ca.gov/cgi-bin/waisgate?WAISdocID=105930194+0+0+0&WAISaction=retrieve)
 
 **16\. How will I know if you update this Privacy Policy?**
 
