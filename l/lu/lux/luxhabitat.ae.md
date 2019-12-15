@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxhabitat.ae privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321060339id_/https%3A//www.luxhabitat.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxhabitat.ae privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215150616id_/https%3A//www.luxhabitat.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Luxhabitat
 
@@ -50,4 +50,4 @@ We do not knowingly permit children in the EEA under age 16 to register for any 
 
 We keep your personal information for as long as needed or permitted in light of the purpose for which it was obtained. The criteria used to determine our retention periods include (i) for as long as we have an ongoing relationship with you and provide the Services to you; (ii) as required by a legal obligation to which we are subject; or (iii) as advisable in light of our legal position (such as in regard of applicable statutes of limitations, litigation, or regulatory investigations).
 
-If you would like to receive an electronic copy of your Personal Information or for any questions about this privacy policy, you may contact us at [customercare@luxhabitat.ae](mailto:customercare@luxhabitat.ae).
+If you would like to receive an electronic copy of your Personal Information or for any questions about this privacy policy, you may contact us at [[email protected]](https://www.luxhabitat.ae/cdn-cgi/l/email-protection#91f2e4e2e5fefcf4e3f2f0e3f4d1fde4e9f9f0f3f8e5f0e5bff0f4).
