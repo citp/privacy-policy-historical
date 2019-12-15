@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spigotmc.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630192856id_/https%3A//www.spigotmc.org/wiki/spigot-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spigotmc.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215072104id_/https%3A//www.spigotmc.org/wiki/spigot-privacy) for the most accurate reproduction.*
 
 # SpigotMC Privacy Policy | SpigotMC - High Performance Minecraft
 
@@ -11,7 +11,7 @@ Read about SpigotMC [here](https://web.archive.org/wiki/about-spigot/)!
 
   * SpigotMC Privacy Policy
 
-Last Modified: August 1, 2018
+Last Modified: August 24, 2019
 
 * * *
 
@@ -64,12 +64,12 @@ This section explains how SpigotMC may share or use your personal information. Y
     * as necessary for our (or others') legitimate interests, including our interests in providing a safe and profitable service to our users and partners.
   
 **7\. Accessing and Editing Your Information**  
-When using our Platform you may be able to access and edit some of your personal information via the Platform dashboard. If at any time, you have any questions or wish to review, change, or edit any additional personal information collected by us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#37435a471a444247475845437744475e5058435a5419584550).
+When using our Platform you may be able to access and edit some of your personal information via the Platform dashboard. If at any time, you have any questions or wish to review, change, or edit any additional personal information collected by us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a1b8a5f8a6a0a5a5baa7a195a6a5bcb2baa1b8b6fbbaa7b2).
 
 **8\. Removal of Information**  
-If you wish to have any of your personal information stored within the SpigotMC Platform removed, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4c0d9c499c7c1c4c4dbc6c0f4c7c4ddd3dbc0d9d79adbc6d3). Please be aware that removal requests are not processed instantaneously. There may be a reasonable delay in removing any personal information requested.
+If you wish to have any of your personal information stored within the SpigotMC Platform removed, please contact us using the information [here](https://www.spigotmc.org/threads/392153/). Please be aware that removal requests are not processed instantaneously. There may be a reasonable delay in removing any personal information requested.
 
-You may make a removal request by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a6e776a37696f6a6a75686e5a696a737d756e77793475687d). If you require additional details regarding the deletion or retention of your personal information, please contact us. All removal or deletion requests are subject to Section 6 and subject to any applicable laws. Additionally, we will retain and use your personal information (even after a removal or deletion request), where required, so that we may fulfill our legal obligations, resolve disputes, and enforce our agreements.
+You may make a removal request by following the instructions [here](https://www.spigotmc.org/threads/392153/). If you require additional details regarding the deletion or retention of your personal information, please contact us. All removal or deletion requests are subject to Section 6 and subject to any applicable laws. Additionally, we will retain and use your personal information (even after a removal or deletion request), where required, so that we may fulfill our legal obligations, resolve disputes, and enforce our agreements.
 
 **9\. Cookies**  
 We currently use cookies, please see our Cookie Policy.
@@ -86,7 +86,7 @@ SpigotMC may post links to third party websites on our Platform, which may inclu
 We make reasonable attempts to protect your information by using physical and electronic safeguards in accordance with industry standards. However, as our Platform is hosted electronically we can make no guarantees as to the security or privacy of your information. For this reason, we recommend that you use anti-virus software, robust passwords, firewalls, and other precautions to protect yourself from security and privacy threats.
 
 **13\. Your California Privacy Rights**  
-SpigotMC permits residents of the State of California to use its Platform, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5420392479272124243b26201427243d333b2039377a3b2633) with any questions regarding your California Privacy Rights.
+SpigotMC permits residents of the State of California to use its Platform, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0c78617c217f797c7c637e784c7f7c656b6378616f22637e6b) with any questions regarding your California Privacy Rights.
 
 **14\. Age Compliance**  
 We intend to fully comply with American and international laws respecting children’s privacy. Therefore, we do not collect or process any information for any persons under the age of 13. If you are under 13 you may not access the Platform.
@@ -98,10 +98,10 @@ Please be aware that your personal information shall be transferred and processe
 In the event that SpigotMC is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your personal information may be sold or transferred as part of that transaction. Please be aware that once the information is transferred your privacy rights may change.
 
 **17\. Amendments**  
-Like our Terms of Service, we may amend this Privacy Policy at any time without notice. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Platform. If you do not agree, you must immediately cease using our Platform and notify us of your refusal to agree by e-mailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4430293469373134342b36300437342d232b3029276a2b3623).
+Like our Terms of Service, we may amend this Privacy Policy at any time without notice. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Platform. If you do not agree, you must immediately cease using our Platform and notify us of your refusal to agree by e-mailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d79607d207e787d7d627f794d7e7d646a6279606e23627f6a).
 
 **18\. Contacting Us**  
-If you have any additional questions, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f2b322f722c2a2f2f302d2b1f2c2f3638302b323c71302d38)
+If you have any additional questions, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#01756c712c727471716e737541727168666e756c622f6e7366)
 
 SpigotMC Cookie Policy
 
