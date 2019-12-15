@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unbelievable-facts.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620141834id_/https%3A//www.unbelievable-facts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbelievable-facts.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215051430id_/https%3A//unbelievable-facts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unbelievable Facts
 
@@ -19,6 +19,6 @@ Your personally identifiable information is kept secure. Only authorized staff o
  **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-[CONTACT US LINK](https://www.unbelievable-facts.com/contact-us "contact us")
+[CONTACT US LINK](https://unbelievable-facts.com/contact-us "contact us")
 
 *We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
