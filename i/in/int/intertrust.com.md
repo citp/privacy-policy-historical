@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012155255id_/https%3A//www.intertrust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215045955id_/https%3A//www.intertrust.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Intertrust Technologies
 
-**_Effective as of May 25, 2018_ **
+**_Effective as of June 24, 2019_ **
 
 Intertrust Technologies Corporation and its affiliated companies (“Intertrust”) provide this Privacy Policy in order to describe our practices regarding the information we collect, use, and share when you interact with our websites, products, and email communications (the “Services”). Intertrust offers a wide range of products and services related to computer security, digital rights management, online advertising, data aggregation and distribution, and data analytics. Please read the product-specific details in this Policy, which provide additional information about some of our products. 
 
@@ -30,16 +30,24 @@ We may receive information about you from third parties. For example, we may sup
 
 When you interact with the Services, as either a client, direct visitor to our website, or indirect user through a product employed by a third-party application, certain information about your use of our Services is automatically collected. This information includes, as applicable, the IP address or other unique identifier for any computer, mobile phone, or other device used to access our Services, the browser and operating system you are using, the URL or advertisement that referred you to our Services, any search terms you entered into a search engine that led you to our Services, the areas within our Services that you visited, and the time of day you visited our Services, among other information. 
 
+###  Our Use of Cookies 
+
 Much of this information is collected through cookies, web beacons, and other tracking technologies, as well as through your web browser or device (e.g., IP address, MAC address, browser version, etc.). The tracking technologies employed when you use our Services may be first-party or third-party. We use cookies for the following purposes: 
 
-  * **Essential operation:** These cookies are necessary to allow us to operate the Intertrust website as you have requested. For example, they let us recognize what type of customer you are and then provide you with services accordingly. 
-  * **Performance/Analytics:** We use these cookies to analyze how the Intertrust websites are accessed, used or are performing. We use this information to maintain, operate and continually improve the Intertrust websites. We may also obtain information from our e-mail newsletters, to learn whether you opened or forwarded the newsletter or clicked on any of the content. This information tells us about our newsletters’ effectiveness and helps us ensure that we’re delivering information that you find interesting. 
-  * **Functional:** These cookies let us operate certain functions of the Intertrust website in line with the choices you make 
-  * **Advertising:** Third parties, including Google, Facebook, and other social media platforms, may use tracking technologies on our website to collect or receive information from the Intertrust websites and elsewhere on the internet and use that information to provide measurement services and target ads. 
+  * **Strictly necessary cookies:** These cookies are necessary for the website to function. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. 
+  * **Performance cookies:** These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. 
+  * **Functional cookies:** These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. 
+  * **Targeting cookies:** These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. 
 
 
 
-You may refuse to accept cookies, or remove cookies, by editing the privacy and security settings of your browser. For further information, see Your Options below. 
+You can see in our [Cookie Notice](https://web.archive.org/cookie-notice/) a detailed list of the cookies we use on our website. 
+
+You can make changes to which categories of cookies we use (with the exception of strictly necessary cookies) in our privacy preference center. However, blocking some types of cookies may impact your experience of the site. 
+
+Change cookie settings in the privacy preference center
+
+As an alternative mechanism to control cookies you may also edit the privacy and security settings of your browser where you can refuse to accept cookies, or remove cookies. However, our privacy preference center uses a cookie to remember the choices you have made. Consequently if you delete all your cookies we won’t be able to remember your cookie preferences and you will have to update them with us again. 
 
 We use Google Analytics, a web analytics service provided by Google, Inc., on our Services. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Services, compile reports on the Services’ activity, and provide other services related to our Services’ activity and usage. The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Services do not use Google Analytics to gather information that personally identifies you. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s [privacy policies](https://www.google.com/policies/privacy/partners/). To learn more about Google’s partner services and to learn how to opt out of tracking of analytics by Google, [click here](https://www.google.com/policies/privacy/partners/). 
 
@@ -69,7 +77,7 @@ Intertrust may share your information about you with its subsidiaries and affili
 
 Interest-based advertising is the collection of information across different websites and/or different devices for the purpose of tailoring advertising based on preferences or interests know or inferred from the information collected. 
 
-Intertrust does not serve advertising on its website, but we partner with third parties to use the information you make available to us when you interact with our Services to provide you with advertising that is more relevant to you after you leave our Services. You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance](http://www.aboutads.info/choices), and the [European Interactive Digital Advertising Initiative](http://www.youronlinechoices.eu/). Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device. 
+Intertrust does not serve advertising on its website, but we partner with third parties to use the information you make available to us when you interact with our Services to provide you with advertising that is more relevant to you after you leave our Services. You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the [Network Advertising Initiative](https://www.networkadvertising.org/understanding-online-advertising/), the [Digital Advertising Alliance](http://www.aboutads.info/consumers/), and the [European Interactive Digital Advertising Initiative](http://www.youronlinechoices.eu/). Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device. 
 
 Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Services or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms. If you delete your cookies, you may also delete your opt-out preferences. 
 
@@ -81,7 +89,7 @@ Intertrust takes commercially reasonable steps to help protect and secure the in
 
 ##  7\. Consent to transfer 
 
-If you use our Services outside of the United States, you understand that we may collect, process, and store your personal information in the United States and other countries. The laws in the U.S. regarding personal information may be different from the laws of your state or country. Any such transfers will comply with safeguards as required by relevant law. If applicable, you may have a right to claim compensation for damages caused by a breach of relevant data protection laws. 
+If you use our Services outside of the United States, you understand that we may collect, process, and store your personal information in the United States and other countries. The laws in the U.S. regarding personal information may be different from the laws of your state or country. Any such transfers will comply with safeguards as required by relevant law. 
 
 ##  8\. Users in the European Economic Area (EEA) and Switzerland 
 
@@ -91,7 +99,7 @@ If you are a resident of the EEA or Switzerland, the following information appli
 
 **Right to lodge a complaint:** Users that reside in the EEA or Switzerland have the right to lodge a complaint about our data collection and processing actions with the supervisory authority concerned. Contact details for data protection authorities are available [here](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). 
 
-**Transfers:** Personal information we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or subcontractors maintain facilities. Upon the start of enforcement of the General Data Protection Regulation (GDPR), we will ensure that transfers of personal information to a third country or an international organization are subject to appropriate safeguards as described in Article 46 of the GDPR. 
+**Transfers:** Personal information we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or subcontractors maintain facilities. We ensure that transfers of personal information to a third country or an international organization are subject to appropriate safeguards as described in Article 46 of the GDPR. 
 
 **Individual Rights:** If you are a resident of the EEA or Switzerland, you are entitled to the following rights once the GDPR becomes effective. **Please note:** In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing information about you. 
 
@@ -113,23 +121,10 @@ Attn: Data Protection Officer
 920 Stewart Drive, Suite 100  
 Sunnyvale, CA 94085 
 
-**You can also contact our EU representative**  
-Intertrust Technologies Corporation  
-Attn: Data Protection Officer  
-405 Kings Road  
-Chelsea, London  
-SW10 0BB, United Kingdom 
-
 ##  11\. Product-Specific Details: 
 
-###  11.1 Expressplay, Kiora, and Personagraph 
+###  Expressplay, Kiora, and Personagraph 
 
 Intertrust offers a number of tools that facilitate the delivery of content such as media and advertising through mobile applications and websites operated by its clients. These tools include the ExpressPlay line, Kiora, and Personagraph. Some of these tools are used to manage digital rights and authenticate the permissions of the end-user to view copyrighted material; others are used in relation to delivering advertising while an end-user is engaged with a client’s product. 
 
 When an end-user interacts with a client product, Intertrust uses cookies and other tracking devices to automatically collect information in the same manner as outlined in this Policy in order to deliver the content. Where the content being delivered is media, the information collected includes the content being viewed, the location and time of viewing and billing information, if applicable. Where the content being delivered is advertising, Intertrust may receive automatically collected information from an advertiser and use an automated process to identify the same devices in its data population for the purpose of selection of which ad to deliver. We may combine information from the Services together and with other information we obtain from our business records or from third party sources. 
-
-Intertrust supports the Self-Regulatory Principles for Online Behavioral Advertising as managed by the [Digital Advertising Alliance (“DAA”)](http://www.aboutads.info/). We understand that you may wish to opt-out of our use of information about you or your devices to provide targeted advertising services to our clients. For more information on your options regarding interest-based advertising, please see Section 5 above. 
-
-###  11.2 Kabuto 
-
-When you use Intertrust’s Kabuto service, you may choose to allow Intertrust to collect information from your contacts files on services such as Outlook, Google, Facebook, and LinkedIn. If you access the Service on your mobile device, we may, with your permission, collect information regarding contacts stored on your device. We use this information in connection with your account to help you to email invitations to those contacts on your behalf at your request. We also allow you to provide the email addresses of other individuals for the purpose of file sharing or access. 
