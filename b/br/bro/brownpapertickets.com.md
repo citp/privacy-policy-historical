@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brownpapertickets.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411175425id_/https%3A//www.brownpapertickets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownpapertickets.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215034908id_/https%3A//brownpapertickets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Brown Paper Tickets - The fair-trade ticketing company.
 
