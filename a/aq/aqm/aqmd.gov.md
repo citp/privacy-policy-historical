@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqmd.gov privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517023411id_/http%3A//www.aqmd.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqmd.gov privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215142631id_/http%3A//www.aqmd.gov/privacy) for the most accurate reproduction.*
 
 # SCAQMD's Website Policies
 
