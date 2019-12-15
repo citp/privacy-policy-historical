@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narscosmetics.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105133922id_/https%3A//www.narscosmetics.com/USA/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narscosmetics.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215185459id_/https%3A//www.narscosmetics.com/USA/privacy.html) for the most accurate reproduction.*
 
 # NARS Cosmetics Privacy Policy | NARS Cosmetics
 
@@ -219,8 +219,8 @@ Our websites and applications may provide links to, or features from, other thir
 For any questions or concerns regarding this Privacy Policy, you can contact us at:
 
 NARS Cosmetics  
-900 Third Avenue, 16th Floor  
-New York, NY 10022
+390 Madison Ave  
+New York, NY 10017
 
 (888) 788-NARS   
 [customerservice@narscosmetics.com](mailto:customerservice@narscosmetics.com) or   
@@ -234,4 +234,4 @@ NARS does not currently recognize and process "do not track" signals from differ
 
 Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. If you are a California resident and want a copy of this notice, please submit an email request to [customerservice@narscosmetics.com](mailto:customerservice@narscosmetics.com) or to [privacy@sac.shiseido.com](mailto:privacy@sac.shiseido.com). In your request, please specify that you want a "Your NARS California Privacy Rights Notice." Please allow 30 days for a response. 
 
-If you are a minor under 18 and have a profile on bareminerals.com, you may ask us to remove reviews or other content that you posted on the site by writing to [customerservice@narscosmetics.com](mailto:customerservice@narscosmetics.com) or [privacy@sac.shiseido.com](mailto:privacy@sac.shiseido.com). We will begin to process your request within 30 days. Please note that processing your request does not ensure complete or comprehensive removal of content that you posted.
+If you are a minor under 18 and have a profile on NARSCosmetics.com, you may ask us to remove reviews or other content that you posted on the site by writing to [customerservice@narscosmetics.com](mailto:customerservice@narscosmetics.com) or [privacy@sac.shiseido.com](mailto:privacy@sac.shiseido.com). We will begin to process your request within 30 days. Please note that processing your request does not ensure complete or comprehensive removal of content that you posted.
