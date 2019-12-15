@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamrubiconusa.org privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915171951id_/https%3A//teamrubiconusa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamrubiconusa.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215140605id_/https%3A//teamrubiconusa.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Team Rubicon
 
@@ -42,6 +42,12 @@ We may use tracking technologies to collect information about your online activi
 
 #### 6\. Use of Information
 
+Team Rubicon is dedicated to ensuring the privacy and security of our donors. We use donor contact information (name, address, phone number, credit card information, email address) only to process donations and inform donors of Team Rubicon’s progress towards our stated mission. Team Rubicon does not sell, trade, or share any private donor contact information obtained in any way with other organizations. When donations are made through a third-party organization, donor information is only utilized to process the donation. Team Rubicon operates through a secure site when charging credit cards for donations.
+
+At any time, Team Rubicon donors may opt out of mailing lists the organization uses to contact them. Team Rubicon donors have the right to be informed of how the organization uses their donations, including having access to Team Rubicon’s recent audited financial statements. Team Rubicon also publicly lists their board of directors, who exercise prudent judgment in their governing responsibilities. Team Rubicon donors may ask questions when making a donation and receive truthful and prompt answers. Team Rubicon handles all donations with respect and confidentiality.
+
+If donors have questions regarding their donations they can call (310) 640-8787.
+
 We may use information collected from you in the following ways:
 
 **_Internal Operations and Recruitment._** We may use your PII to notify you about or connect you with our teams and missions so that we can deploy emergence response units and provide disaster relief to communities affected by natural disasters.
@@ -73,7 +79,7 @@ In addition to the uses identified above, from time to time we may disclose PII 
 
 #### 8\. Your California Privacy Rights
 
-California Civil Code Section § 1798.83 permits users of the Services that are California residents to request certain information regarding our disclosure of PII to third parties for their direct marketing purposes. To make such a request, please send an e-mail to: info@teamrubiconusa.org. Or write us at: Team Rubicon, Attn: Privacy Policy Inquiry, 6171 W. Century Blvd., Los Angeles, CA 90045
+California Civil Code Section § 1798.83 permits users of the Services that are California residents to request certain information regarding our disclosure of PII to third parties for their direct marketing purposes. To make such a request, please send an e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Or write us at: Team Rubicon, Attn: Privacy Policy Inquiry, 6171 W. Century Blvd., Los Angeles, CA 90045
 
 #### 9\. Transfer of PII
 
@@ -111,8 +117,8 @@ We may amend and update this Privacy Statement from time to time. All changes ar
 
 #### 17\. Contact Information
 
-If you have questions or concerns regarding this Privacy Statement, please contact us by emailing us at info@teamrubiconusa.org.
+If you have questions or concerns regarding this Privacy Statement, please contact us by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-**Copyright © 2017 Team Rubicon, InC.**
+**Copyright © 2019 Team Rubicon, InC.**
 
 **All rights reserved. Any rights not expressly granted herein are reserved.**
