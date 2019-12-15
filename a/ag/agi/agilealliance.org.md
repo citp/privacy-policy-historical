@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilealliance.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506043432id_/https%3A//www.agilealliance.org/the-alliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilealliance.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215155038id_/https%3A//www.agilealliance.org/the-alliance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Agile Alliance
 
@@ -6,9 +6,9 @@ Effective: May 25, 2018
 
 ## Introduction
 
-Agile Alliance ( **“Organization”** or **"We"** ) respect your privacy and are committed to protecting it through our compliance with this policy.
+Agile Alliance ( **“Organization”** or **“We”** ) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website www.agilealliance.org (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website www.agilealliance.org (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -45,7 +45,7 @@ If you believe we might have any information from or about a child under 13, ple
 
 We collect several types of information from and about users of our Website, including information:
 
-  * by which you may be personally identified, such as name, e-mail address, telephone number, biography, and social media profiles ("personal information");
+  * by which you may be personally identified, such as name, e-mail address, telephone number, biography, and social media profiles (“personal information”);
   * that is about you but individually does not identify you, such as country, company, and title; and/or
   * about your internet connection, the equipment you use to access our Website and usage details.
 
@@ -69,7 +69,7 @@ The information we collect on or through our Website may include:
 
 
 
-You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions").
+You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”).
 
 Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable.
 
@@ -120,6 +120,7 @@ We use information that we collect about you or that you provide to us, includin
   * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
   * To notify you about changes to our Website or any products or services we offer or provide though it.
   * To allow you to participate in interactive features on our Website.
+  * To connect you with an event sponsor when you agree to have your badge scanned during an event.
   * In any other way we may describe when you provide the information.
   * For any other purpose with your consent.
 
@@ -137,7 +138,7 @@ We may disclose personal information that we collect or you provide as described
 
   * To our affiliates.
   * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Agile Alliance's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Agile Alliance about our Website users is among the assets transferred.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Agile Alliance’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Agile Alliance about our Website users is among the assets transferred.
   * To fulfill the purpose for which you provide it.
   * For any other purpose disclosed by us when you provide the information.
   * With your consent.
@@ -157,13 +158,13 @@ We strive to provide you with choices regarding the personal information you pro
 
 ### Tracking Technologies and Advertising.
 
-You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
 
 ### Promotional Offers from Agile Alliance.
 
 We do not directly provide your personal information to third parties for the purpose of promoting their products or services. We may periodically send you promotions about our own products and services. We may also send you pomotions about third party products and services on their behalf.
 
-If you do not wish to have your email address used by Agile Alliance to promote our own or third parties' products, services, or events you can opt-out in email messages you receive with such promotions or by sending us an email stating your request to info@agilealliance.org.
+If you do not wish to have your email address used by Agile Alliance to promote our own or third parties’ products, services, or events you can opt-out in email messages you receive with such promotions or by sending us an email stating your request to info@agilealliance.org.
 
 If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions. This opt out does not apply to information provided to Agile Alliance as a result of a membership purchase or event registration.
 
@@ -200,7 +201,7 @@ We will always do our best to ensure security of your data. We aim to use US-bas
 
 ## Changes to Our Privacy Policy
 
-It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users' personal information, we will notify you by email to the email address specified in your account or through a notice on the Website home page.
+It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account or through a notice on the Website home page.
 
 The date the privacy policy was last revised is identified at the top of the page.
 
