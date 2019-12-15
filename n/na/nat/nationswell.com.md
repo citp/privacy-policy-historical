@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationswell.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505174205id_/http%3A//nationswell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationswell.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215052437id_/http%3A//nationswell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NationSwell
 
@@ -15,7 +15,7 @@ NationSwell, LLC (“NationSwell,” “we,” “us,” or “our”) understan
 
 This Privacy Policy applies to the NationSwell Services that link to it, including the emails we send and our affiliated websites and online services, regardless of how you access or use them, including through mobile devices. This Privacy Policy also applies to the information we collect when you interact with us offline, through social media, or via other websites and online services. It does not apply to non-NationSwell websites and mobile applications that may link to the Services or be linked to or from the Services; please review the privacy policies on those websites and applications directly to understand their privacy practices.
 
-We may collect additional data about you if you register to become a member, and may use that data in ways in addition to what is described below. Please see the [_NationSwell Council_ _Membership Agreement_](http://nationswell.com/wp-content/uploads/2019/02/NationSwell-Council-Membership-Agreement.pdf) for more further details.
+We may collect additional data about you if you register to become a member, and may use that data in ways in addition to what is described below. Please see the [_NationSwell Council_ _Membership Agreement_](https://nationswell.com/wp-content/uploads/2019/02/NationSwell-Council-Membership-Agreement.pdf) for more further details.
 
 By using our Services, you are accepting the terms of this Privacy Policy and our Terms of Use, and you are consenting to our collection, use, protection, and sharing of your information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you may not use our Services.
 
