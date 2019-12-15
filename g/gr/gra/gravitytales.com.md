@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gravitytales.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531224528id_/http%3A//gravitytales.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gravitytales.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215235356id_/http%3A//gravitytales.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gravity Tales
 
