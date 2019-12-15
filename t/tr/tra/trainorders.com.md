@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainorders.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507105349id_/https%3A//www.trainorders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainorders.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215190439id_/https%3A//www.trainorders.com/privacy) for the most accurate reproduction.*
 
 # About Trainorders.com
 
