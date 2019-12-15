@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royalroad.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315211258id_/https%3A//www.iubenda.com/privacy-policy/8009648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroad.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215104153id_/https%3A//www.iubenda.com/privacy-policy/8009648) for the most accurate reproduction.*
 
-# Privacy Policy of royalroadl.com
+# Privacy Policy of royalroad.com
 
 ## Personal Data collected for the following purposes and using the following services:
 
@@ -115,10 +115,10 @@ The data will only be retained in for as long as needed for the purposes it was 
     * ### Your rights concerning personal data:
 
 You can download the data collected on the site about you using the following link:  
-https://royalroadl.com/account/download
+https://royalroad.com/account/download
 
 You can request for the deletion of your collected data by deleting your account:  
-https://royalroadl.com/account/delete 
+https://royalroad.com/account/delete 
 
     * ### The Service is not directed to children under the age of 13
 
@@ -133,11 +133,11 @@ The Personal Data collected to complete the payment may include the credit card,
 
   *     * ### Owner and Data Controller
 
-6094/7  
-Nazareth, Galilee 16040  
+6094/7   
+Nazareth, Galilee 16040   
 Israel
 
-**Owner contact email:** admin@royalroadl.com
+**Owner contact email:** admin@royalroad.com
 
 
 
