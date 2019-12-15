@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627171021id_/http%3A//www.erepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215105213id_/https%3A//www.erepublic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last Updated May 1, 2018_
+_Last Updated December 5, 2019_
 
 e.Republic, Inc. is the nation’s leading publishing, research, event and new media company focused on the state and local government market. Serving both government and industry for over 30 years, e.Republic publishes the market’s leading periodicals and websites, runs the largest intergovernmental conferences in the nation and produces hundreds of targeted and custom events annually. Information about e.Republic and its products and services can be obtained at www.erepublic.com.
 
@@ -16,8 +16,8 @@ Once you have signed up for one of our products, we collect the following:
 
   * Email behavior including what emails you opened from us and which links you clicked.
   * Profile data, including username and password when you login to our services. 
-  * Transactional information including billing, invoice, and payment information for current and future orders for our goods or services.
   * Device and location information about your website visit including browser type and IP address.
+  * Transactional information including billing, invoice, and payment information for current and future orders for our goods or services.
 
 
 
@@ -69,9 +69,7 @@ You can modify your cookie settings via your internet browser (usually located w
 
 ## How can I manage my information?
 
-We store personally identifiable and aggregate anonymous data until it is no longer necessary to provide products related to that data.
-
-You may request a copy of your data by completing our contact form at [www.erepublic.com/contact](http://www.erepublic.com/contact) or emailing our Data Protection Officer at subscriptions@erepublic.com. In addition, you may request that we delete your data at any time using the same form.
+We store personally identifiable and aggregate anonymous data until it is no longer necessary to provide products related to that data. You may [request a copy of your data](https://www.erepublic.com/contact/?promo_code=request). In addition, you may [request that we delete your data](https://www.erepublic.com/contact/?promo_code=delete).
 
 Users who would rather not provide any of the user data requested by any of our registration or subscription processes do not need to register with us or to subscribe. You can still view much of the content and use many of the services offered by our sites without registering. Opting not to provide certain personal information when requested means that you may not be able to access some areas of our web site.
 
