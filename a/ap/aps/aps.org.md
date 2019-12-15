@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aps.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630204826id_/https%3A//www.aps.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215183827id_/https%3A//www.aps.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Use of this website implies that you have read and accepted this policy. If you 
 
 ## Information Collection
 
-APS collects information from its users at different points on this website. This information is used for customer service and marketing purposes. APS follows security procedures in the storage and disclosure of personal data to prevent unauthorized use.
+User data will be anonymized and reported in aggregate. APS will not share identifiable demographic information with APS members or outside parties. User information will be used only for reporting and program evaluation, and will not be used to make any decisions related to honors, appointed positions, journal submissions, or any other decisions related to your APS activities. User demographic data will only be accessible by authorized APS employees and its contractors.
 
 ## Membership, Purchases, and Donations
 
@@ -83,4 +83,4 @@ College Park, MD 20740
 [privacy@aps.org](mailto:privacy@aps.org)
 
   
-_Effective: May 25, 2018_
+_Effective: July 31, 2019_
