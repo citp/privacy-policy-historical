@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentor.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404081257id_/https%3A//www.mentor.com/terms_conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentor.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215184642id_/https%3A//www.mentor.com/terms_conditions/privacy) for the most accurate reproduction.*
 
 # Mentor Graphics Privacy Policy - Mentor Graphics
 
@@ -62,3 +62,9 @@ The European Union’s General Data Protection Regulation provides certain right
   * Object, on grounds relating to your particular situation, to processing of personal data concerning you.
 
 
+
+### Complaint or Concerns:
+
+In compliance with the EU-US Privacy Shield Principles, Mentor Graphics commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact us at [**dataprotection@siemens.com**](mailto:dataprotection@siemens.com) with "Privacy Request" in the subject line. Please provide a detailed description of your request or complaint so we can adequately respond.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request). Under certain conditions, more fully described on the Privacy Shield Website you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
