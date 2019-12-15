@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jolla.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524012126id_/https%3A//jolla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolla.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215202745id_/https%3A//jolla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jolla
 
