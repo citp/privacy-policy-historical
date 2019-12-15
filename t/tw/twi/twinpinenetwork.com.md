@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinpinenetwork.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516123923id_/http%3A//twinpinenetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinpinenetwork.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215162406id_/http%3A//twinpinenetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Twinpine
 
@@ -48,11 +48,11 @@ Twinpine may disclose both personally identifiable and automatically collected i
 
 
 
-We use reasonable efforts to: (i) see that these parties process such information in compliance with our [Privacy Policy](http://www.twinpinenetwork.com/privacy-policy/), (ii) limit their use of such information to the extent necessary to provide these services to us, and (iii) see that these parties use appropriate confidentiality and security measures.
+We use reasonable efforts to: (i) see that these parties process such information in compliance with our [Privacy Policy](https://www.twinpinenetwork.com/privacy-policy/), (ii) limit their use of such information to the extent necessary to provide these services to us, and (iii) see that these parties use appropriate confidentiality and security measures.
 
 We may also share automatically collected and other aggregated, non-personally-identifiable information with third parties to understand the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Service and the Twinpine Site.
 
-Except as otherwise noted in this [Privacy Policy](http://www.twinpinenetwork.com/privacy-policy/), Twinpine does not share personal information about Users with third parties unless doing so is appropriate to carry out a User’s request; is legally required; or Twinpine reasonably believes such disclosure is necessary to protect Twinpine’s property, other legal rights, or the rights or property of others. We do not share your personal information with other third-party organizations for their marketing or promotional use without your consent, or except as part of a specific program or feature for which you have the ability to opt-in.
+Except as otherwise noted in this [Privacy Policy](https://www.twinpinenetwork.com/privacy-policy/), Twinpine does not share personal information about Users with third parties unless doing so is appropriate to carry out a User’s request; is legally required; or Twinpine reasonably believes such disclosure is necessary to protect Twinpine’s property, other legal rights, or the rights or property of others. We do not share your personal information with other third-party organizations for their marketing or promotional use without your consent, or except as part of a specific program or feature for which you have the ability to opt-in.
 
 **User Profile and Password**
 
@@ -82,9 +82,9 @@ If Twinpine learns of a security systems breach, we may attempt to notify you v
 
 If Twinpine should ever file for bankruptcy or have its assets or stock sold to or merged with another entity, the information Twinpine receives from you through the Twinpine Site is a Twinpine asset and may be transferred to any such entity. You will be notified via email and/or a prominent notice on the Site of any change in ownership, uses of your personal information, and choices you may have regarding your personal information.
 
-**Changes and Updates to this  **[ **Privacy Policy**](http://www.twinpinenetwork.com/privacy-policy/)
+**Changes and Updates to this  **[ **Privacy Policy**](https://www.twinpinenetwork.com/privacy-policy/)
 
-We may occasionally update this [Privacy Policy](http://www.twinpinenetwork.com/privacy-policy/) to reflect changes to our privacy practices. The amended [Privacy Policy](http://www.twinpinenetwork.com/privacy-policy/) will be displayed on our Site. If we make any material changes, we will notify you by means of a notice on the Twinpine Site, prior to the changes becoming effective. Please check our [Privacy Policy](https://www.twinpinenetwork.com/privacy-policy/) regularly to ensure you have read the latest version and to stay informed of our privacy practices. Your continued use of the Twinpine Site constitutes your agreement to this [Privacy Policy](http://www.twinpinenetwork.com/privacy-policy/) and any updates.
+We may occasionally update this [Privacy Policy](https://www.twinpinenetwork.com/privacy-policy/) to reflect changes to our privacy practices. The amended [Privacy Policy](https://www.twinpinenetwork.com/privacy-policy/) will be displayed on our Site. If we make any material changes, we will notify you by means of a notice on the Twinpine Site, prior to the changes becoming effective. Please check our [Privacy Policy](https://www.twinpinenetwork.com/privacy-policy/) regularly to ensure you have read the latest version and to stay informed of our privacy practices. Your continued use of the Twinpine Site constitutes your agreement to this [Privacy Policy](https://www.twinpinenetwork.com/privacy-policy/) and any updates.
 
 **Contacting Twinpine**
 
