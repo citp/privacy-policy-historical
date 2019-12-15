@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330110545id_/https%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215081934id_/https%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-GM Holden Ltd ( **Holden** ) recognises the importance of protecting an individual's privacy. We appreciate that individuals are concerned about the security of their personal information and we are committed to protecting any personal information we hold.
+GM Holden Pty Ltd ( **Holden** ) recognises the importance of protecting an individual's privacy. We appreciate that individuals are concerned about the security of their personal information and we are committed to protecting any personal information we hold.
 
 Personal information is information or an opinion about an individual who is identified or reasonably identifiable from that information.
 
