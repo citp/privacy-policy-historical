@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620173542id_/https%3A//www.helperchoice.com/cgv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215084342id_/https%3A//www.helperchoice.com/cgv) for the most accurate reproduction.*
 
 # GENERAL TERMS AND CONDITIONS - HelperChoice
 
@@ -309,6 +309,8 @@ HelperChoice does not enter into any agreement in the name and/or on behalf of a
 Since HelperChoice is not a party to any agreements entered into between Users, it cannot be held liable in any way for any difficulties which may arise when entering into or during the implementation of these agreements entered into between Users, and nor can it be a party to any disputes whatsoever between them in relation to guarantees, declarations or obligations of any kind by which Users are bound. 
 
 More specifically, HelperChoice is therefore not liable for the quality or conformity of Assignments undertaken by Domestic Helpers. 
+
+HelperChoice is not liable in the event of money transfer outside the Platform by an Employer or a Domestic Helper. 
 
 As a result, HelperChoice cannot be considered as a Member’s employee/employer under any circumstances and the Domestic Helpers cannot be considered as subcontractors of HelperChoice. 
 
