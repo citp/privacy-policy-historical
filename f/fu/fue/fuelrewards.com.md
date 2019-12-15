@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuelrewards.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305073612id_/https%3A//www.fuelrewards.com/fuelrewards/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuelrewards.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215191008id_/https%3A//www.fuelrewards.com/fuelrewards/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fuel Rewards program
 
@@ -150,127 +150,129 @@ back to top ^ 
 
 * * *
 
-Effective as of May 5, 2017
+Last updated: October 10, 2019
 
-## **Fuel Rewards ® Dining Privacy Disclosure**
+### PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE
 
-PLEASE READ THIS PRIVACY DISCLOSURE CAREFULLY BEFORE USING THIS SITE
+Rewards Network Establishment Services Inc. and its affiliates (individually “we,” “us,” and “our,”) which collaborates with Excentus Corporation (“Rewards Partner”) to provide Fuel Rewards® Dining (the “Program”) through this website or the mobile application (collectively, the “Site”) values your privacy. We have prepared this Privacy Policy to describe how we collect, use, and share information about you via our Site and the Program. By visiting the Site, enrolling in the Program and participating in the Program, you are accepting the practices described in this Privacy Policy.
 
-Rewards Network Establishment Services Inc. and its affiliates (“we”, “us” and “our”), which collaborates with Excentus Corporation (“Rewards Issuer”) to provide Fuel Rewards® Dining (the “Program”) through this website or mobile application (collectively, the “Site”), values your privacy. We have prepared this Privacy Disclosure to describe how we collect and share information about you via our Site and the Program. By visiting the Site, enrolling in the Program and participating in the Program, you are accepting the practices described in this Privacy Disclosure.
+### **Locations of Servers**
 
-#### International Visitors
+### **What We Collect and How We Use It**
 
-#### What We Collect and How We Use It
+Identifiable Information
 
-  * Identifiable Information
-  * Information We Collect
-  * Registered Card Information and Transaction Information
-  * Survey Information
-  * Personal Information We Utilize for Contests, Giveaways, Sweepstakes, and Other Promotions
-  * Registered Card Updates
-  * IP Addresses
-  * Non-Personally Identifiable Information
-  * Geo-Location
-  * Cookies
+Information We Collect
 
+Linked Card Information and Transaction Information
 
+Survey Information
 
-#### Disclosure of Personal Information
+Personal Information We Utilize for Contests, Giveaways, Sweepstakes, and Other Promotions
 
-#### Disclosure of Anonymized Information
+Promotions
 
-#### Transfer of Personal Information
+Linked Card Updates
 
-#### Social Network Plugins
+IP Addresses
 
-#### Third Party Sites
+Usage Information and Session Data
 
-#### Choices for Email and Marketing Communications
+Geo-Location
 
-#### Do Not Track
+Cookies
 
-#### Retention and Disposal of Information
+Disclosure of Personal Information  
+Disclosure of Anonymized Information  
+Transfer of Personal Information  
+Social Network Plugins  
+Third-Party Sites  
+Choices for Email and Marketing Campaigns  
+Do Not Track  
+Retention and Disposal of Information  
+Data Security  
+Securing Your Personal Information  
+Payment Card Industry Data Security Standard  
+Reviewing or Changing Your Information  
+Information and Security Management Group  
+Cancellation and Terminating Your Account  
+Contacting Us  
+Changes to Our Privacy Policy
 
-#### Data Security
+### **Lcoation of Servers**
 
-#### Reviewing or Changing Your Information
+The Site is hosted on servers located in the United States of America and is intended for use by individuals and entities who are United States residents. YOU EXPRESSLY ACKNOWLEDGE AND CONSENT THAT YOUR DATA MAY BE TRANSFERRED TO VARIOUS LOCATIONS AND THIRD-PARTY PROVIDERS, AND MAY BE MAINTAINED AND PROCESSED ON COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY, OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION.
 
-#### Our IT Security & Privacy Office
+### **What We Collect and How We Use It**
 
-#### Cancellation and Terminating your Account
+#### **Identifiable Information**
 
-#### **International Visitors**
+You may visit our Site without expressly submitting any information that can be used to identify you (“Personal Information”). However, if you wish to register as a participant in the Program, you will be required to submit Personal Information as further set forth below.
 
-The Site is hosted on servers located in the United States of America and is intended for use by individuals and entities who are United States residents. All data collected from the Site is stored on servers within the United States that are owned and controlled by our third-party vendors or us. YOU EXPRESSLY ACKNOWLEDGE AND CONSENT THAT YOUR DATA MAY BE TRANSFERRED TO VARIOUS LOCATIONS AND THIRD-PARTY PROVIDERS, AND MAY BE MAINTAINED AND PROCESSED ON COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY, OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION.
+#### **Information We Collect**
 
-#### **What We Collect and How We Use It**
+If you register in the Program, the Personal Information we collect may include your name, email, mailing address, phone number, and other information requested on the registration page. We will also collect the primary account number for the eligible credit and/or debit card(s) that you use to enroll in the Program (“Linked Card”). We do not collect your Linked Card’s expiration date or card security code. The primary account number is the 14, 15, or 16 digit number that appears on the front of your Linked Card (“Linked Card Number”). We need the Linked Card Number to monitor your Linked Card activity for transactions with participating merchants (“Participating Merchants”) that are eligible for Program rewards. Accordingly, you are authorizing us to obtain and receive information about your Linked Card transactions with Participating Merchants from a payment card network (“Payment Card Network”) such as American Express®, Mastercard®, Visa®, Discover®, or a payment card processor.
 
-**Identifiable Information**
-
-You may visit our Site without expressly submitting any personally identifiable information about you. However, if you wish to register as a participant in the Program, you will be required to submit information that specifically identifies you as further set forth below.
-
-**Information We Collect**
-
-If you register in the Program, we will collect your Personal Information (defined in the next sentence) and your primary account number for the eligible credit or debit card(s) that you use to enroll in the Program (“Registered Card”). “Personal Information” may include your name, email, mailing address, phone number, Registered Card and any other information that you voluntarily provide us. We may also collect this information about you from Rewards Issuer or a bank issuing a credit card on Rewards Issuer’s behalf that automatically enrolls you in the Program as a benefit. If you enrolled with Rewards Network by Rewards Issuer, Rewards Network will only maintain the information Rewards Network needs to operate the Program.
+We may also collect Personal Information about you from Rewards Partner or a bank issuing a credit card on Rewards Partner’s behalf that automatically enrolls you in the Program as a benefit (collectively, “Rewards Partner Information”). If you are automatically enrolled with Rewards Network by Rewards Partner, Rewards Network will only receive, maintain and use the Rewards Partner Information that Rewards Network needs to operate the Program.
 
 You may need to create a user name and password for your Program account with us. We may assign you a unique identification number so that we may more easily identify you and your transactions.
 
-We collect the credit or debit card account number for your eligible Registered Card. We do not collect your credit or debit card expiration date or card security code. We do this to protect you as a participant in the Program. You must agree to allow us to collect this information to participate in the Program. Your transactions with your Registered Card will be monitored and you are authorizing us to obtain and receive information about those transactions from a payment card network (“Payment Card Network”) such as American Express®, MasterCard®, Visa® or Discover®, or a payment card processor.
-
 You have the option to also provide us with the month and day of special dates (e.g., birthday, anniversary), dining preferences, and information regarding your personal accounts and/or profiles on third-party social networking sites such as Facebook® and Twitter®, as further described below.
 
-We or Rewards Issuer (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Issuer) may collect Personal Information when you send us an inquiry, comment, or request, including any email or mailing address or telephone number you provide, and will use the information you have provided to respond. We will also add this information to your Program profile and use such information as contemplated in this Privacy Disclosure.
+Additionally, we or Rewards Partner (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Partner) may collect Personal Information when you send us an inquiry, comment, or request relating to the Program, including any email or mailing address or telephone number you provide, and will use the information you have provided to respond. We may also add this information to your Program profile and use such information as contemplated in this Privacy Policy.
 
-We (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Issuer) use your Personal Information to operate the Program: to send you emails, mailings or other forms of communications (that may be real-time) that relate to the Program, participating merchants (“Participating Merchants”) or other products or services that may be of interest to you. We (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Issuer) will send email confirmations when you open an email from us if your computer supports such capabilities.
+We or Rewards Partner (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Partner) use your Personal Information only to operate the Program, including to send you emails, mailings, or other forms of communications (that may be real-time) that relate to the Program, Participating Merchants.
 
-**Registered Card Information and Transaction Information**
+#### **Linked Card Information and Transaction Information**
 
-You agree that we may use your Registered Card in connection with our operation of the Program, including to determine your eligibility for rewards and applying rewards, requesting that you receive rewards, and compliance with this Privacy Disclosure and any other applicable terms and conditions. We may disclose the Registered Card to Rewards Issuer, Payment Card Networks, payment card processors, and payment card issuers, as well as non-affiliated third-party suppliers, vendors, or contractors that we have engaged to help us operate the Program.
+Program, including determining your eligibility for rewards and applying rewards, requesting that you receive rewards, and compliance with this Privacy Policy, the Program [Terms of Use](https://www.fuelrewards.com/fuelrewards/terms-conditions#dining) and any other applicable terms and conditions. We may disclose the Linked Card Number to Rewards Partner, Payment Card Networks, payment card processors, and payment card issuers, as well as non-affiliated third-party suppliers, vendors, or contractors that we have engaged to help us operate the Program.
 
-We will know when you conduct a transaction with a Participating Merchant. We will collect information about that transaction, including a unique Program identification number, the date and time of your transaction, the amount of your transaction, the name and location of the Participating Merchant, and the Registered Card used for that transaction. We receive this information from Payment Card Networks. We may provide all or a portion of the information collected to a Rewards Issuer or a Rewards Issuer’s non-affiliated third-party suppliers, vendors, or contractors so that we and/or Rewards Issuer can facilitate and administer the Program. You may receive real-time notification about the sharing of your transaction data. We may also use your transaction information to generate internal financial reporting and analysis regarding our business and for external reporting of anonymized data to market our business and the Program to third parties, including potential Participating Merchants and potential rewards Issuers.
+We will know when you conduct a transaction with a Participating Merchant. We will collect information about that transaction, including a unique Program identification number, the date and time of your transaction, the amount of your transaction, the name and location of the Participating Merchant, and the Linked Card used for that transaction. We receive this information from Payment Card Networks. We may provide all or a portion of the information collected to a Rewards Partner or a Rewards Partner’s non-affiliated third-party suppliers, vendors, or contractors so that we and/or Rewards Partner can facilitate and administer the Program. You may receive real-time notification about the sharing of your transaction data. We may also use your transaction information to generate internal financial reporting and analysis regarding our business and for external reporting of anonymized data to market our business and the Program to third parties, including potential Participating Merchants and potential rewards partners.
 
-We use the transaction data that we receive to match your transactions at Participating Merchants with available rewards and otherwise for Program rewards administration. We reserve the right to require that you provide a receipt from the Participating Merchant or documents reasonably required by us to evidence an eligible transaction in order to receive your reward.
+We use the transaction data that we receive to match your transactions at Participating Merchants with available rewards and otherwise for Program rewards administration. In some cases, a Participating Merchant’s payment card processor may experience a lag time (approximately 24 hours) between when a credit and/or debit card is linked to a Program account and when the payment card processor is able to identify and provide us with the dining transaction data associated with that Linked Card. If you believe that you are eligible for rewards for dining at a Participating Merchant, and those rewards have not registered in your Program account within 10 days of the dine, please contact the Program’s Member Services at (855) 694-3463. We reserve the right to require that you provide a receipt from the Participating Merchant or documents reasonably required by us to evidence an eligible transaction in order to receive your reward.
 
-By enrolling in and participating in the Program, you are authorizing us and Participating Merchants, Payment Card Networks, and payment card processors to obtain, provide and use transaction information related to your purchases (such as date, time and amount) at Participating Merchants in order to calculate rewards, redeem rewards and facilitate and make the Program available.
+By enrolling in and participating in the Program, you are authorizing us and Participating Merchants, Payment Card Networks, and payment card processors to obtain, provide, and use transaction information related to your purchases (such as date, time and amount) at Participating Merchants in order to calculate rewards, redeem rewards, and facilitate and make the Program available. You also authorize us to, in our reasonable discretion, collect location data using your device to provide you with recommendations based on your location and past dining activity, analyze your general dining patterns and stores that you visit, and also aggregate this data to help understand general Program member patterns and trends, which we may share with third parties with our discretion.
 
-**Survey Information**
+#### **Survey Information**
 
-Following your matched transaction and the processing of any reward, we may send you an email to complete a survey regarding your transaction. When you activate the survey link, you will be taken to a web page operated by us. We (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Issuer) may collect on an anonymized basis your computer’s IP address or use cookies to collect aggregated, anonymized data related to your survey responses. We may share the anonymized survey information with the applicable Participating Merchant. We may also aggregate your survey response with other survey responses for the applicable Participating Merchant and make those results available to other participants in our rewards programs.
+Following your matched transaction and the processing of any reward, we may send you an email to complete a survey regarding your transaction. When you activate the survey link, you will be taken to a web page operated by us. We (or a non-affiliated third-party supplier, vendor, or contractor on our behalf or on behalf of the Rewards Partner) may collect on an anonymized basis your computer's IP address or use cookies to collect aggregated, anonymized data related to your survey responses. We may share the anonymized survey information with the applicable Participating Merchant. We may also aggregate your survey response with other survey responses for the applicable Participating Merchant and make those results available to other participants in our rewards programs.
 
 For certain qualifying purchases, you may be required to complete the survey in order to earn rewards.
 
-All reviews, surveys, comments, feedback, and other information about your dining experiences, Participating Merchants, or participation in the Program that you choose to disclose, submit, or convey via the Site (which we refer to collectively as “Comments”) may be reprinted, used, displayed, redistributed, shared, transmitted, excerpted, modified, and/or disseminated (in whole or in part) by us. Your Comments must comply with our [Content Guidelines for Dining Reviews](https://dining.fuelrewards.com/guidelines.htm). We reserve the right to remove any Comments that are inappropriate.
+All reviews, surveys, comments, feedback, and other information about your dining experiences, Participating Merchants, or participation in the Program that you choose to disclose, submit, or convey via the Site (which we refer to collectively as "Comments") may be reprinted, used, displayed, redistributed, shared, transmitted, excerpted, modified, and/or disseminated (in whole or in part) by us. Your Comments must comply with our [Review Guidelines](https://dining.fuelrewards.com/guidelines.htm) We reserve the right to remove any Comments that are inappropriate.
 
-Your provision of Comments to us constitutes a nonexclusive, royalty–free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Comments throughout the world in any media.
+Your provision of Comments to us constitutes a nonexclusive, royalty-free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Comments throughout the world in any media.
 
 You warrant that: (i) any use of Comments by us will not violate any right of any third party; and (ii) any Comments are not libelous, unlawful, or obscene.
 
-**Personal Information We Utilize for Contests, Giveaways, Sweepstakes, and Other Promotions**
+#### **Personal Information We Utilize for Contests, Giveaways, Sweepstakes, and Other Promotions**
 
-You also may have the option to voluntarily provide us or Rewards Issuer, as well as non-affiliated third-party suppliers, vendors, or contractors working on our behalf, with Personal Information in connection with participating in contests, giveaways, sweepstakes, and other promotions, or in connection with completing surveys for us. This information may be added to your member profile and may use such information as contemplated by this Privacy Disclosure. Any other use of information provided in connection with such opportunities may also be used in the manner described at the time of collection. Please review the terms and conditions for such opportunities carefully.
+You also may have the option to voluntarily provide us or Rewards Partner, as well as non-affiliated third-party suppliers, vendors, or contractors working on our behalf, with Personal Information in connection with participating in contests, giveaways, sweepstakes, and other promotions, or in connection with completing surveys for us. This information may be added to your member profile, and may be used in accordance with this Privacy Policy or the notice provided at the time of collection. Please review the terms and conditions for such opportunities carefully.
 
-**Registered Card Updates**
+#### **Linked Card Updates**
 
-If your card number changes, you are responsible for updating your Registered Card. In some cases, we may receive updated credit or debit card numbers associated with your Registered Card from payment card processors or Payment Card Networks. If we receive this information, we will update the Registered Card with the new credit or debit card number that we receive, and we will use it to operate the Program as described in this Privacy Disclosure.
+If your card number changes, you are responsible for updating your Linked Card in your account profile. In some cases, we may receive updated credit and/or debit card numbers associated with your Linked Card from payment card processors or Payment Card Networks. If we receive this information, we will update the Linked Card with the new credit and/or debit card number that we receive, and we will use it to operate the Program as described in this Privacy Policy.
 
-**IP Addresses**
+#### **IP Addresses**
 
 We collect IP address information from any visitor to the Site. We log IP addresses for system administrative purposes only. IP addresses are not used for identification. This information helps us determine how often different areas of the Site are visited. We do not link IP addresses to any information that is personally identifiable.
 
-**Non-Personally Identifiable Information**
+#### **Usage Information and Session Data**
 
-When you visit the Site, we may collect usage information (“Session Data”) that is anonymous and is not linked to you as an individual. Session Data may include browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform. We may use Session Data for a variety of reasons, including to better understand things like how the Site is navigated, how many visitors arrive at specific pages, and the length and frequency of stays at our Site.
+When you visit the Site or click on a link in an e-mail from one of our Participating Merchants, we may collect usage information ("Session Data"). Session Data may include browser type and version, time zone setting, browser plug-in types and versions, operating system, platform, and what Participating Merchants you look at. We may use Session Data for a variety of reasons, including to better understand things like how the Site is navigated, how many visitors arrive at and look at specific pages, and the length and frequency of stays at our Site. We disclose such Session Data to our Participating Merchants to provide proof of attribution metrics.
 
-**Geo-Location**
+#### **Geo-Location**
 
-We may have the ability to collect location data and provide you with push notifications based on your location. We utilize location information to provide you with more relevant location-based restaurant choices, track your general dining patterns and stores that you visit, and also aggregate this data to help understand general Program member patterns and trends, which we may share with third parties with our discretion. You are agreeing that we can collect and use your location data and can continue to do so until you turn off your location settings. Your device may allow you to disable the collection of location data and push notifications by accessing your device’s application or notification settings. If you do not want us to have access to your location, you may change your location settings. We have no responsibility or liability for the functions of location settings within any device.
+We may have the ability to collect location data and provide you with push notifications based on your location and past dining activity. We utilize location information to provide you with more relevant location-based restaurant choices, track your general dining patterns and stores that you visit, and also aggregate this data to help understand general Program member patterns and trends, which we may share with third parties in our discretion. You are agreeing that we can collect and use your location data and can continue to do so until you turn off your location settings.
 
-**Cookies**
+Your device may allow you to disable the collection of location data and push notifications by accessing your device’s application or notification settings. If you do not want us to have access to your location, you may change your location settings. You are agreeing that we can continue to collect location data until you turn off data collection in your device. We have no responsibility or liability for the functions of location settings within any device.
 
-Like most sites, we use cookies on the Site to collect session data and persistent data for several purposes, such as to personalize and improve your individual viewing experiences, track and analyze non-personally identifiable usage statistical information in order to constantly improve the quality of the Site, and for other administrative purposes. We use two different types of cookies on our Site:
+#### **Cookies**
 
-  * “Session cookies” track the user's progression through the Site and session data for a single visit. These cookies enable us to follow the user as they progress from one page to another. Your session cookies expire at the end of your browser session. In addition, if you leave your browser open for a prolonged period, they are set to automatically expire.
-  * “Persistent cookies” are stored on your device between browser sessions, allowing us to remember you and your preferences on the Site. We may use a persistent cookie to remember such information as your user name, name, preferred dining area, and favorite restaurants.
+Like most sites, we use cookies on the Site to collect Session Data and persistent data for several purposes, such as to personalize and improve your individual viewing experiences, track and analyze non-personally identifiable usage statistical information in order to constantly improve the quality of the Site, and for other purposes, including to better understand things like how the Site is navigated, how many visitors arrive at and look at specific pages, and the length and frequency of stays at our Site. We use two different types of cookies on our Site:
+
+  * **Session cookies** track the user's progression through the Site and session data for a single visit. These cookies enable us to follow the user as they progress from one page to another. Your session cookies expire at the end of your browser session. In addition, if you leave your browser open for a prolonged period, they are set to automatically expire.
+  * **Persistent cookies** are stored on your device between browser sessions, allowing us to remember you and your preferences on the Site. We may use a persistent cookie to remember such information as your user name, name, preferred dining area, favorite restaurants, and Session Data.
 
 
 
@@ -280,68 +282,89 @@ We use Google Analytics in order to analyze traffic and performance related to t
 
 #### **Disclosure of Personal Information**
 
-We use your Personal Information and share it with Rewards Issuer, Payment Card Networks, and payment card processors to solely operate the Program. We do not sell Personal Information to any third party and we will not without your prior express consent disclose your Personal Information to any third party for them to market to you directly. For example, we may invite you to participate in a survey or special promotional program offered by a non-affiliated third party. Your choice to participate in such a survey or promotional program will indicate your consent for us to share your Personal Information with non-affiliated third parties in connection with the survey or promotional program. If you consent to such disclosure, any information that you provide to the third parties will be controlled by that party's privacy policy, not this Privacy Disclosure.
+We use your Personal Information and share it with Rewards Partner, Payment Card Networks, and payment card processors to solely operate the Program. We also disclose Session Data to our Participating Merchants, as discussed above. We do not sell Personal Information to any third party and we will not, without your prior express consent, disclose your Personal Information to any third party for them to market to you directly. For example, we may invite you to participate in a survey or special promotional program offered by a non-affiliated third party. Your choice to participate in such a survey or promotional program will indicate your consent for us to share your Personal Information with non-affiliated third parties in connection with the survey or promotional program. If you consent to such disclosure, any information that you provide to the third parties will be controlled by that party's privacy policy, not this Privacy Policy.
 
-We may disclose information that we may have, identifiable or not, as necessary for defending and bringing legal actions, or if required by a government authority or legal process.
+We or Rewards Partner may disclose information that we may have, identifiable or not, as necessary for defending and bringing legal actions; if required by a government authority or legal process; when we or Rewards Partner believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or in the good faith belief that disclosure is otherwise necessary or advisable.
 
-We have full rights to any information collected on the Site, and we may freely collect, use, and disclose such information unless prohibited by this Privacy Disclosure, applicable law or an applicable agreement.
+By using this Site, you agree that we may collect, use, and disclose any information collected on this Site (as described in this Privacy Policy) for any purpose not prohibited by this Privacy Policy, applicable law, or an applicable agreement.
 
 #### **Disclosure of Anonymized Information**
 
-We may share anonymized information about you that is not reasonably identifiable to you with our affiliates, rewards Issuers, merchants, and other third parties in our discretion. Such information could be used, for example, to provide us with statistical or other analysis and to market our business, the Program or both. This information is de-identified and cannot reasonably be used to identify you personally. This information is most often aggregated demographic and statistical information (such as information derived from your participation in any Program) and information submitted in connection with restaurant reviews or surveys that you submit to us.
+We may share anonymized information about you that is not reasonably identifiable to you with our affiliates, rewards partners, Participating Merchants, and other third parties in our discretion. Such information could be used, for example, to provide us with statistical or other analysis and to market our business, the Program or both. This information is de-identified and cannot reasonably be used to identify you personally. This information is most often aggregated demographic and statistical information (such as information derived from use of our Site or your participation in any Program) and information submitted in connection with restaurant reviews or surveys that you submit to us.
 
 #### **Transfer of Personal Information**
 
-We reserve the right to transfer all information and data in our possession, custody, or control to a successor organization in the event of a merger, acquisition, reorganization, bankruptcy, or other sale of all or a portion of our assets. Any acquirer will remain subject to the terms of this Privacy Disclosure.
+We reserve the right to transfer all information and data in our possession, custody, or control to a successor organization in the event of a merger, acquisition, reorganization, bankruptcy, or other sale of all or a portion of our assets. Any acquirer will remain subject to the terms of this Privacy Policy.
 
-The Site utilizes plugins from various social networking sites (such as Facebook and Twitter®) to allow you to share and post materials between your Program account with us and your social network accounts. Social networks may use cookies to collect data regarding your browsing activity.
+#### **Social Network Plugins**
+
+The Site utilizes plugins from various social networking sites (such as Facebook® and Twitter®) to allow you to share and post materials between your Program account with us and your social network accounts. Social networks may use cookies and other tools to collect data regarding your browsing activity. Please be advised that your browser-related information and personal information collected in connection with your use of the social media plug-ins will be transferred to such social networking sites and will be used in accordance with each social networking site’s privacy policy. Your browser-related information may be transferred regardless of whether or not you use the plugin.
 
 If you give us permission to use and post information about your restaurant visits, restaurant reviews, and other activities on our social networking accounts or your social networking accounts, usage of that social network site is governed by and subject to the privacy policy of that third-party social network site and any privacy settings that are available on that third-party site.
 
-#### **Third Party Sites**
+#### **Third-Party Sites**
 
 We neither own nor control any third-party sites that may be accessible through the Site, and do not control the privacy policies of such third parties. As a result, we assume no responsibility or liability for the actions of such third parties. We suggest that you review the privacy policy of any third-party site before submitting information to them.
 
 #### **Choices for Email and Marketing Communications**
 
-You may opt-out of receiving Program emails from us. However, doing so will affect your eligibility for all or some Program benefits. You may not opt-out of receiving administrative emails related to your account except by terminating your Program participation.
+You may opt out of receiving Program emails from us. However, doing so will affect your eligibility for all or some Program benefits. You may not opt out of receiving administrative emails related to your account except by terminating your Program participation.
 
-If you do not wish to receive email communications from us, you can unsubscribe from the link in the email you received, change your selections within the Account Information section, or indicate your preferences within a direct communication to us. You may also email us if you wish to unsubscribe, but for your security, please do not send credit or debit card information via email.
+If you do not wish to receive email communications from us, you can unsubscribe from the link in the email you received, change your selections within the Account Information section, or indicate your preferences within a direct communication to us. You may also email us if you wish to unsubscribe, but for your security, please do not send credit and/or debit card information via email.
 
 #### **Do Not Track**
 
-We will automatically collect cookies and other non-personally identifying information when you visit the Site and, therefore, do not respond to Do Not Track (DNT) signals.
+Because there is not an industry or legal standard for recognizing or honoring Do Not Track (“DNT”) signals, we do not respond to them at this time.
 
 #### **Retention and Disposal of Information**
 
-We retain your information as long as we determine it is required for the operation of our business and Program and to meet legal, regulatory, and other requirements.
+We retain your information as long as we determine it is required for the operation of our business and Program, and to meet legal, regulatory, and other requirements.
 
 We take reasonable steps to ensure that information is disposed of securely when we no longer require such data.
 
 #### **Data Security**
 
-We take commercially reasonable steps to maintain physical, electronic, and procedural safeguards to protect your information. These safeguards may include data encryption, access authorization, firewalls, and physical access control to our data centers. We use industry-standard encryption technologies when transferring and receiving identifiable information. We maintain PCI DSS compliance. You can find our [listing](http://www.visa.com/splisting/viewSPDetail.do?coName=Rewards%20Network&HeadCountryList=U.S.A.&pageInfo=1%253B30%253BASC%253BcoName) on the Visa Global Registry of Service Providers.
+We take commercially reasonable steps to maintain physical, electronic, and procedural safeguards to protect your information. These safeguards may include data encryption, access authorization, firewalls, and physical access control to our data centers. We use industry-standard encryption technologies when transferring and receiving identifiable information. We maintain PCI DSS compliance. You can find our [listing](https://www.visa.com/splisting/viewSPDetail.do?coName=Rewards%20Network&HeadCountryList=U.S.A.&pageInfo=106%3B30%3BASC%3BcoName) on the Visa Global Registry of Service Providers.
 
-We maintain a Service Organization Control (SOC) 3 report. This assessment of our security practices enables you and your stakeholders to validate that we have obtained independent auditor assurance, which attests to our alignment with the American Institute of Certified Public Accountants (AICPA) Security Trust Principles. We may elect in the future to assess our security practices through a standard other than SOC, and we will in any case maintain and routinely test our controls related to the security, integrity, confidentiality and privacy of the information we collect, store and process.
+We maintain a Service Organization Control (SOC) 3 report. This assessment of our security practices enables you and your stakeholders to validate that we have obtained independent auditor assurance, which attests to our alignment with the American Institute of Certified Public Accountants (AICPA) Security Trust Principles. We may elect in the future to assess our security practices through a standard other than SOC, and we will in any case maintain and routinely test our controls related to the security, integrity, confidentiality, and privacy of the information we collect, store, and process.
+
+#### **Securing Your Personal Information**
+
+Rewards Network and the Program will never ask you for personal information, including financial information, via unsolicited telephone calls, emails, postal mailers, or fax transmissions.
+
+Specifically, Rewards Network and the Program will never send you unsolicited requests for the following types of Personal Information: (i) username or password; (ii) email address; (iii) social security number; (iv) credit and/or debit card number; (v) credit card expiration date or card security code; (vi) bank account numbers; or (vii) names of your family members. This list is provided for illustrative purposes only and is not intended to include all categories of information that may be the subject of an unsolicited request for Personal Information.
+
+Any request for personal information of this nature in a conversation not initiated by you should be considered suspicious, even if the communication includes Rewards Network or the Program logos, links to websites that look “like” the Program, or a request for you to take immediate action, such as verifying your account information. Unsolicited communications of this type are often fraudulent “phishing” communications, and could be an attempt to acquire your sensitive personal information for malicious reasons.
+
+#### **Payment Card Industry Data Security Standard**
+
+In order to protect your Personal Information, Rewards Network complies with the security standards (PCI DSS) required by the [PCI Security Standards Council](https://www.pcisecuritystandards.org/).
+
+The Council was founded in 2006 by five prominent payment brands — including American Express®, Discover Financial Services®, JCB International®, Mastercard®, and Visa, Inc.®. This global forum is responsible for the development, management, education, and awareness of security standards for credit and debit cards.
+
+PCI DSS applies to all entities involved in payment card processing. This includes retailers where consumer purchases are made, payment card processors, credit card issuers, and service providers. Rewards Network continually reviews its payment card security practices to ensure that those practices satisfy the requirements of the most current version of the PCI DSS compliance standards.
+
+If you suspect that you have received a phishing or other type of fraudulent communication, you should not: (i) click on any links in the offending email; (ii) open any attachments related to the communication; (iii) call any telephone numbers provided in the communication; or (iv) follow instructions contained in the communication. If the phishing or other fraudulent communication purports to be associated with the Program, you should report the communication to Rewards Network by sending an email to [security@rewardsnetwork.com](mailto:security@rewardsnetwork.com). You should attach the unsolicited communication to your email report. If you received the communication by postal mail, rather than by email, you should photograph any mailer, letter, and envelope received and attach those materials to the email report that you send to Rewards Network.
 
 #### **Reviewing or Changing Your Information**
 
-You can contact us to access and/or modify any information that we have for you, or otherwise modify your preferences pertaining to our marketing communications (whether made by email, telephone, or postal mail). To review, change, or update your information:
+You can contact us (by email, telephone, or postal mail) to request access and/or modify any information that we have for you, or otherwise modify your preferences pertaining to our marketing communications. To review, change, or update your information:
 
-  * **Online:** When the Program Site is available, log in to your account and click on the “My Account” link at the top of the homepage. Then click on the appropriate link to change your Personal Information or modify your communication preferences.
-  * **By postal mail:** Please include your email address and mail your request to us at Rewards Network Establishment Services Inc., 300 South Park Road, Suite 300, Hollywood, FL 33021, Attn: Member Services.
-  * **By phone:** Members may contact Member Services toll-free at (855) 694-3463.
+  * **Online:** When the Program Site is available, sign in to your account to be taken to the Account Center. Click on the “Profile” link on the left side of the homepage. From here, you will be able to change your Personal Information or modify your communication preferences.
+  * **By postal mail:** Please include your email address and mail your request to us at Rewards Network Establishment Services Inc., 2 N. Riverside Plaza, Suite 200, Chicago, IL 60606, Attn: Member Services.
+  * **By phone:** Members may contact Fuel Rewards Dining Member Services toll-free at (855) 694-3463.
+  * **By email:** support@fuelrewards.com.
 
 
 
-To protect your privacy and security, we will take reasonable steps to verify your identity before making corrections or granting access to your information.
+To protect your privacy and security, we will take commercially reasonable steps to verify your identity before making corrections or granting access to your information.
 
-#### **Our IT Security & Privacy Office**
+#### **Information Security Management Group**
 
-We have appointed an IT Security & Privacy Steering Committee, which is responsible for ensuring that the protection of your Personal Information, Registered Card, or other information collected is carried out in accordance with this Privacy Disclosure.
+We have instituted the Information Security Management Group (ISMG), which is responsible for ensuring that the protection of your Personal Information, including your Linked Card, and other information collected is carried out in accordance with this Privacy Policy.
 
-The following person serves as the contact person for the Privacy Office:  
-Alice L. Geene  
+The following person serves as the contact for the ISMG:
+
 General Counsel  
 Rewards Network  
 2 N. Riverside Plaza  
@@ -350,6 +373,20 @@ Chicago, IL 60606
 (312) 521-6767  
 [legal@RewardsNetwork.com](mailto:legal@RewardsNetwork.com)
 
-#### **Cancellation and Terminating your Account**
+#### **Cancellation and Terminating Your Account**
 
-If you do not agree to have your information collected, shared and used as described in this Privacy Disclosure, you may terminate your Program account at any time by contacting us at (855) 694-3463 or visiting the “My Account” portion of the Program Site while logged in and clicking on the “Cancel Your Membership” link. If you no longer consent to this Privacy Disclosure and our collection and maintenance of this information, you must un-enroll from the Program. If you elect to un-enroll or are otherwise deactivated from the Program, we will also need to disclose that information to Rewards Issuer, non-affiliated third-party suppliers, vendors, contractors, payment card issuers, payment card processors, Payment Card Networks as necessary to allow them to remove you from the Program.
+If you do not agree to have your information collected, shared and used as described in this Privacy Policy, you may terminate your Program account at any time by contacting us at (855) 694-3463 or visiting the “Manage Cards” portion of the Account Center while logged in, and deleting all remaining credit and/or debit cards from your account.
+
+If you no longer consent to this Privacy Policy and our collection and maintenance of this information, you must un-enroll from the Program. If you elect to un-enroll or are otherwise deactivated from the Program, we will also need to disclose that information to Rewards Partner, non-affiliated third-party suppliers, vendors, contractors, payment card issuers, payment card processors, and Payment Card Networks as necessary to allow them to remove you from the Program.
+
+#### **Contact Us**
+
+For any questions, or to request further information regarding this Privacy Policy, please contact us at [legal@RewardsNetwork.com](mailto:legal@RewardsNetwork.com)
+
+#### **Changes to Our Privacy Policy**
+
+It is our policy to post any changes we make to our Privacy Policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the primary e-mail address specified in your account and/or possibly through a notice on our Site’s home page. The date the Privacy Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Site and this Privacy Policy to check for any changes.
+
+back to top ^ 
+
+* * *
