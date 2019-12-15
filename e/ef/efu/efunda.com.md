@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525112038id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215125928id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
 
 # eFunda Privacy Notice
 
-| • [Materials](https://web.archive.org/web/20190525112038id_/http%3A//www.efunda.com/materials/materials_home/materials.cfm)  
+| • [Materials](https://web.archive.org/web/20191215125928id_/http%3A//www.efunda.com/materials/materials_home/materials.cfm)  
 ---  
-• [Design Center](https://web.archive.org/web/20190525112038id_/http%3A//www.efunda.com/designstandards/design_home.cfm)  
-• [Processes](https://web.archive.org/web/20190525112038id_/http%3A//www.efunda.com/processes/processes_home/process.cfm)  
-• [Units & Constants](https://web.archive.org/web/20190525112038id_/http%3A//www.efunda.com/units/index.cfm)  
-• [Formulas](https://web.archive.org/web/20190525112038id_/http%3A//www.efunda.com/formulae/formula_index.cfm)  
-• [Mathematics](https://web.archive.org/web/20190525112038id_/http%3A//www.efunda.com/math/math_home/math.cfm)  
+• [Design Center](https://web.archive.org/web/20191215125928id_/http%3A//www.efunda.com/designstandards/design_home.cfm)  
+• [Processes](https://web.archive.org/web/20191215125928id_/http%3A//www.efunda.com/processes/processes_home/process.cfm)  
+• [Units & Constants](https://web.archive.org/web/20191215125928id_/http%3A//www.efunda.com/units/index.cfm)  
+• [Formulas](https://web.archive.org/web/20191215125928id_/http%3A//www.efunda.com/formulae/formula_index.cfm)  
+• [Mathematics](https://web.archive.org/web/20191215125928id_/http%3A//www.efunda.com/math/math_home/math.cfm)  
   
 ---  
 | [**Login**](http://www.efunda.com/members/login/login.cfm?direct=y)  
@@ -53,5 +53,6 @@ In particular:
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * To opt out from other advertisers, please use our [NAI Consumer Opt Out Form](http://optout.networkadvertising.org/?c=1). 
 
 
