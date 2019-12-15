@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111004153id_/http%3A//www.looksmart.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215160239id_/http%3A//www.looksmart.com/privacy-policy.php) for the most accurate reproduction.*
 
 # LookSmart - Web Search
 
