@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810224951id_/https%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215032015id_/https%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database tools for MySQL, SQL Server, PostgreSQL, SQLite, Oracle, DB2, Firebird by SQL Maestro Group
 
@@ -6,13 +6,13 @@ Partners
 
 Testimonials
 
-**Phillip Magger:** "A word of congratulations. I think that your Firebird Data Wizard is some of the best stuff I have ever used. I was in search of an easy-used tool, and I found it. It is a good solution".
+**Kym Harper :** "Beautifully presented tools (and web site) and great service. I will be sending links to many other individuals who should be interested. Wishing you every continued success and thank you again".
 
-**Richard Fallerman:** "The assistance we got from SQL Maestro Group played a major part in helping us to meet our objectives. The quality of software for managing Microsoft SQL data was outstanding".
+**Stephen Arrowel, Database Administrator:** "We are in the process of implementing Firebird solutions at multiple levels in our international organization. We expect that SQL Maestro Group will do nothing short of revolutionize the way we develop and maintain our Firebird databases. The continuous improvement and development means that the product is extremely flexible and will grow with us. The service and responsiveness of the Support Team has been exceptional. They have devoted countless hours to understanding our needs, so that we could get a Firebird administration tool which would be so simple and effective in use. SQL Maestro Group is helping Sytrax sail into the 21st Century".
 
-[More](http://www.sqlmaestro.com/products/testimonials/)
+[More](https://www.sqlmaestro.com/products/testimonials/)
 
-[Add your opinion](http://www.sqlmaestro.com/contacts/)
+[Add your opinion](https://www.sqlmaestro.com/contacts/)
 
 Customers
 
@@ -62,33 +62,42 @@ We also send the user site and service announcement updates. Members are not abl
 **Choice/Opt-out**  
 Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an "opt-out" mechanism so users who buy a product from us, but don't want any marketing material, can keep their E-mail address off of our lists.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://www.sqlmaestro.com/en/news/subscribe/)" form.
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](https://www.sqlmaestro.com/en/news/subscribe/)" form.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an E-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 | 
 
-Company news[](http://www.sqlmaestro.com/rss.xml)
+#### [Christmas Sale](https://www.sqlmaestro.com/purchase/)
 
-Jun 29, 2017
+| [](https://www.sqlmaestro.com/purchase/)  
+---  
+  
+SQL Maestro Group wish you a **Merry  Christmas!**  
+  
+We're happy to grant you a [**20% discount**](https://www.sqlmaestro.com/purchase/) for all our products and bundles till **December 31!**  
+  
+Company news[](https://www.sqlmaestro.com/rss.xml)
 
-New version features support for SQL Server 2017, support for row-level security policies, custom labels and colors for server nodes in Database Explorer, and some other useful things.
+Oct 18, 2019
 
-Jun 23, 2017
+New version comes with PostgreSQL 12 compatibility, introduces support for stored generated columns, using of planner support functions in functions and some other enhancements.
 
-New version comes with optimized column filter, custom password encryption, enhanced event editor, new and updated events, auto-logout after an inactivity time and other new features.
+Aug 8, 2019
 
-May 22, 2017
+New version comes with support for PSQL stored functions, external procedures and functions, DDL privileges, new user properties and a number of other Firebird 3 features, updated SSH client equipped with more secure key exchange algorithms, database profile usage statistics and other enhancements.
 
-New version features direct support for a number of MariaDB new features like roles, check constraints and virtual columns; support for roles added in MySQL 8.0, usage statistics for database profile and some other useful things.
+Apr 18, 2019
+
+New version introduces SQL Anywhere 17 compatibility, colored tabs, new encryption algorithms in data grids, updated BLOB Editor, database profile usage statistics and a lot of other useful things.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/postgresql/maestro/screenshots/getting_started/process_browser/)
+[](https://www.sqlmaestro.com/products/mssql/codefactory/screenshots/getting_started/diagram_viewer/)
 
-PostgreSQL Maestro introduces Process Browser, a tool for DBAs who want to monitor the users' activity.
+MS SQL Code Factory allows you to represent numeric data from a query result as a diagram with a possibility of customizing its appearance and export the diagram to the following formats: BMP, Windows metafile, PDF, JPEG, PNG and more. 
 
-[](http://www.sqlmaestro.com/products/sql_anywhere/maestro/help/01_04_00_object_browser/)
+[](https://www.sqlmaestro.com/products/db2/codefactory/screenshots/getting_started/blob_viewer/)
 
-ASA Mastro: along with sorting, grouping and filtering abilities Object Browser allows you to select several database objects to perform the same operation upon all of them at a time.
+Using DB2 Code Factory you can view or edit BLOB data in the following ways: hexadecimal dump, plain text, graphical image or HTML page. 
