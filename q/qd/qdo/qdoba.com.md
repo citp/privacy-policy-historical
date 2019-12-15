@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qdoba.com privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124024057id_/https%3A//www.qdoba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qdoba.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215192300id_/https%3A//www.qdoba.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | QDOBA | Mexican Restaurants & Catering
 
@@ -34,8 +34,8 @@ Our Services are not intended for children under 13 years of age. No one under a
 
 If you believe we might have any information from or about a child under 13, please contact us at www.qdoba.com/talk-to-us, or  
 QDOBA RESTAURANT CORPORATION  
-9330 Balboa Ave  
-San Diego, CA 92123
+350 Camino de la Reina, Suite 400,  
+San Diego, California, 92108
 
 ## INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
 
@@ -171,8 +171,8 @@ You can review and change your personal information by logging into your Qdoba R
 California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at Guest.Relations@qdoba.com or write us at:
 
 QDOBA RESTAURANT CORPORATION  
-9330 Balboa Ave  
-San Diego, CA 92123  
+350 Camino de la Reina, Suite 400,  
+San Diego, California, 92108  
 Please allow up to thirty (30) days for a response.
 
 ## CANADIAN RESIDENTS
@@ -183,8 +183,8 @@ Notwithstanding anything herein to the contrary, if you are a resident of Canada
   * Prior to receiving any such newsletter or email marketing communications, you will be given the opportunity to consent to receive such communications from us. If you opt-in to receive such communications, we may use the information to communicate with you regarding our products, services, and promotions, to provide you with other information that you request, and/or to improve our product and service offerings. 
   * You will always have the opportunity to “unsubscribe” from receiving the e-mail or other communication at any time. You can unsubscribe by clicking on the ‘unsubscribe’ link found at the bottom of any of our emails, or by contacting us at:  
 QDOBA RESTAURANT CORPORATION  
-9330 Balboa Ave  
-San Diego, CA 92123
+350 Camino de la Reina, Suite 400,  
+San Diego, California, 92108
 
 
 
@@ -210,5 +210,5 @@ We may amend this policy at any time. If we make any material changes in the way
 To ask questions or comment about this privacy policy and our privacy practices, contact us via Qdoba.com/talk-to-us, or write us at:
 
 QDOBA RESTAURANT CORPORATION  
-9330 Balboa Ave  
-San Diego, CA 92123
+350 Camino de la Reina, Suite 400,  
+San Diego, California, 92108
