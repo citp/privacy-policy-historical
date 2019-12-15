@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joebiden.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528131306id_/https%3A//joebiden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joebiden.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215071543id_/https%3A//joebiden.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Joe Biden for President 2020
+# Privacy Policy – Joe Biden for President
 
-_Last updated April 25, 2019_
+_Last updated December 2, 2019_
 
 This Privacy Policy explains how information about you is collected, used and disclosed by BFPCC, Inc. and any affiliates (“Biden for President,” “we,” or “us”). This Privacy Policy applies to information we collect when you use the websites, mobile sites, and other online services that link to this Privacy Policy (collectively, the “Sites”).
 
@@ -11,7 +11,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 ### Collection of Information
 
 **Information You Provide to Us**  
-We collect information you provide directly to us. For example, we may collect information when you fill out a form, send us an email, sign up to receive updates, request information, make a donation, share a story, submit content, communicate with us via third-party social media sites, or otherwise communicate with us. The types of information we collect may include your name, contact information (e.g., email, phone number, and address), payment information, and other contact or identifying information you choose to provide.
+We collect information you provide directly to us. For example, we may collect information when you fill out a form, send us an email, use our services, sign up to receive updates, request information, make a donation, share a story, submit content, communicate with us via third-party social media sites, or otherwise communicate with us. The types of information we collect may include your name, contact information (e.g., email, phone number, and address), payment information, and other contact or identifying information about yourself or others that you choose to provide or authorize to collect. You are responsible for providing a copy of this Privacy Policy to anyone whose contact or identifying information that you share with us.
 
 In addition, we may collect information as required by the Federal Election Commission (“FEC”). For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per calendar year.
 
@@ -20,7 +20,7 @@ In addition, we may collect information as required by the Federal Election Comm
 When you access or use our Sites, we automatically collect information about you, including:
 
   * **Log Information:** We log information about your use of the Sites, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Site.
-  * **Device Information:** We may collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, device identifiers and mobile network information.
+  * **Device Information:** We may collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, device identifiers and mobile network information. We also collect information from your device that you authorize us to collect, such as your contacts for purposes of providing you functionality that allows you to share messages with your contacts. Please consult your device settings for choices you may have to limit our access to this information.
   * **Transactional Information:** If you make a donation or purchase, we may collect information about the transaction, such as donation amount, purchase price, product details, and date and location of the transaction.
   * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include placing on your computer or mobile device cookies that uniquely identify your browser or device. Cookies are small data files used to store information on your device, including to help us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits. We may also collect information using web beacons (also known as “tracking pixels” or “clear GIFs”). Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see “Your Choices” below.
 
@@ -31,10 +31,10 @@ We may also obtain information from other sources and combine that with informat
 
 ### Use of Information
 
-We may use information about you for various purposes, including to:
+We may use personal information about you for various purposes, including to:
 
   * Provide, maintain and improve our Sites and send you confirmations, receipts, technical notices, updates, security alerts, and support and administrative messages;
-  * Provide and deliver the information you request, process donations and transactions, and send you related information, including confirmations;
+  * Provide and deliver the information you request or various features or functionalities, process donations and transactions, and send you related information, including confirmations;
   * Respond to your emails, submissions, comments, questions and requests, provide customer service, ask you to respond to a survey, request feedback, and otherwise contact you about your use of the Sites;
   * Send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about the campaign, various issues, events, activities, and volunteer opportunities (please see “Your Choices” below for information about how to opt out of certain communications at any time);
   * Help connect you with other supporters, and solicit volunteers, donations and support for Biden for President and for other candidates, issues and organizations that we support;
