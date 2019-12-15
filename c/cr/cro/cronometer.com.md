@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cronometer.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515121654id_/https%3A//cronometer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cronometer.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215210836id_/https%3A//cronometer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
