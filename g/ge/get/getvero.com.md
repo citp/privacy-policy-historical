@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getvero.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620025316id_/https%3A//www.getvero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getvero.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215192806id_/https%3A//www.getvero.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Vero
+# Privacy Policy | Vero
 
 **Last updated:** 16 May 2018  
  **Effective date:** 25 May 2018
@@ -37,11 +37,11 @@ However, to make it easier for you to review those parts of this Notice which ap
 
 ## Definitions
 
-  *  **“Website”** means veropublic.wpengine.com.
-  *  **“** **Services”** means the software product that Vero provides website operators and other individuals encompassing a variety of tools and resources (including some elements of our Website) to enable them to collect user and usage data and send email and other messages efficiently to consumers based on their behavior.
-  *  **“End User”** means any of our Customers’ customers.
-  *  **“End User Data”** means data relating to our customers’ customers.
-  *  **“Personal Information”** means personally identifiable information as defined by applicable data protection laws, including where applicable, EU data protection law.
+  * **“Website”** means veropublic.wpengine.com.
+  * **“** **Services”** means the software product that Vero provides website operators and other individuals encompassing a variety of tools and resources (including some elements of our Website) to enable them to collect user and usage data and send email and other messages efficiently to consumers based on their behavior.
+  * **“End User”** means any of our Customers’ customers.
+  * **“End User Data”** means data relating to our customers’ customers.
+  * **“Personal Information”** means personally identifiable information as defined by applicable data protection laws, including where applicable, EU data protection law.
 
 
 
@@ -73,7 +73,7 @@ Usage Data: When you visit the Website, whether as a Vero customer or a non-regi
 
 Cookies: “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages in our Website are visited by you. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our Website’s features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties.
 
-## 3\. Privacy for our Services
+## 3\. Privacy for our Services 
 
 This section describes how we collect and use information we receive when you use our Services.
 
