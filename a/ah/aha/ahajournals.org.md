@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628161124id_/http%3A//www.heart.org/HEARTORG/General/Privacy-Policy_UCM_300371_Article.jsp%23.V0iVXfkrJpg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216001135id_/https%3A//www.heart.org/en/about-us/statements-and-policies/privacy-statement) for the most accurate reproduction.*
 
 # American Heart Association Privacy Statement | American Heart Association
 
