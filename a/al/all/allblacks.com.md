@@ -1,64 +1,52 @@
-> *The following text is extracted and transformed from the allblacks.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620064124id_/http%3A//www.allblacks.com/News/27875) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allblacks.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215054936id_/https%3A//www.allblacks.com/privacy-policy) for the most accurate reproduction.*
 
-# News Details | allblacks.com
+# Privacy Policy - NZR websites and Mobile Apps » allblacks.com
 
-Team All Blacks is organised by New Zealand Rugby ('NZR', 'we' or 'us'). We take your privacy extremely seriously. 
+Team All Blacks is organised by New Zealand Rugby ('NZR', 'we' or 'us'). We take your privacy extremely seriously.
 
 By registering for Team All Blacks, you consent, and authorise, us to collect, hold, use, and disclose your personal information in accordance with the terms set out in this Privacy Policy (as updated from time to time).
 
- **How we collect Information about you**
+ ** _How we collect Information about you_**
 
 We collect personal information about you:
 
-• Directly from you when you:
+  * Directly from you when: 
+    * register for Team All Blacks or any NZR online services;
+    * subscribe to emails from Team All Blacks or us;
+    * make enquiries of Team All Blacks or us; or
+    * when you communicate with us directly or through social media or other third party accounts that you have linked to your Team All Blacks registration or your log on to other NZR websites;
+  * From other people or organisations when you authorise us to contact them to obtain personal information about you.
+  * Through your use of our websites.
 
-> \- register for Team All Blacks or any NZR online services;
 
-> \- subscribe to emails from Team All Blacks or us;
 
-> \- make enquiries of Team All Blacks or us; or
+**_The kind of personal information we collect_**
 
-> \- when you communicate with us directly or through social media or other third party accounts that you have linked to your Team All Blacks registration or your log on to other NZR websites;
+We only collect the personal information you give to us or authorise us to collect from other people or sources.  The information we collect may include your name, address, email address, date of birth, gender, phone number and IP address (including country IP address originates from).
 
-> \- From other people or organisations when you authorise us to contact them to obtain personal information about you.
+  * We may also collect information about: 
+    * the teams you support;
+    * your preferences for receiving email updates, marketing communications and other subscription information; and
+    * any other personal information you may choose to provide to us, or authorise other persons to provide to us.
 
-> \- Through your use of our websites.
 
- **The kind of personal information we collect**
-
-We only collect the personal information you give to us or authorise us to collect from other people or sources.  
-
-The information we collect may include your name, address, email address, date of birth, gender, phone number and IP address (including country IP address originates from).
-
-We may also collect information about:
-
-> \- the teams you support;
-
-> \- your preferences for receiving email updates, marketing communications and other subscription information; and
-
-> \- any other personal information you may choose to provide to us, or authorise other persons to provide to us.
 
 If you choose not to provide us with personal information, we’ll be unable to provide access to certain content or services.
 
- **How we use your personal information**
+ ** _How we use your personal information_**
 
 We will primarily use your personal information:
 
-• to provide you services, offers and/or communications associated with Team All Blacks or that you have requested or for which you have subscribed, which may include:
+  * to provide you services, offers and/or communications associated with Team All Blacks or that you have requested or for which you have subscribed, which may include: 
+    * News, offers and promotions about the All Blacks and/or other national teams;
+    * News, offers & promotions from selected competitions & teams;
+    * Information about ticketing, hospitality and travel packages;
+    * Offers or promotions from our commercial partners;
+    * Great offers from the All Blacks official retail stores;
+    * Training / Coaching information from NZR; and
+    * For any other purpose that we notify you of at the time your personal information is collected.
 
-> \- News, offers and promotions about the All Blacks and/or other national teams;
 
-> \- News, offers & promotions from selected competitions & teams;
-
-> \- Information about ticketing, hospitality and travel packages;
-
-> \- Offers or promotions from our commercial partners;
-
-> \- Great offers from the All Blacks official retail stores;
-
-> \- Training / Coaching information from NZR; and
-
-• for any other purpose that we notify you of at the time your personal information is collected.
 
 We may communicate with you by email or, where you provide us with your mobile number, by text/picture/video message.  
 
@@ -76,11 +64,12 @@ You can ask us to 'block' or suppress the processing of your personal informatio
 
 You can ask us to stop processing your personal information, and we will do so, if we are
 
-\- processing your personal information on the basis of the legitimate interests of us or a third party, unless we can demonstrate overriding compelling legitimate grounds for the processing, or the processing is required for the establishment, exercise or defence of legal claims; or
+  * processing your personal information on the basis of the legitimate interests of us or a third party, unless we can demonstrate overriding compelling legitimate grounds for the processing, or the processing is required for the establishment, exercise or defence of legal claims; or
+  * processing your personal information for direct marketing purposes.
 
-\- processing your personal information for direct marketing purposes.
 
- **How we may share your personal information**
+
+**_How we may share your personal information_**
 
 We may share your personal information with organisations that we may appoint to carry out administration, processing and other services on our behalf. These service providers will not be authorised by us to use or disclose your personal information except as necessary to perform services on our behalf, or to comply with legislation.
 
@@ -98,9 +87,10 @@ In addition to cookies, we may use Google Analytics and other tracking software 
 
 We and any of our third party analytics service providers may:
 
-\- use cookies to anonymously track and target advertising based on your browsing behaviour; and
+  * use cookies to anonymously track and target advertising based on your browsing behaviour; and
+  * use the cookies of that analytics service provider together with the cookies of another analytics provider to inform, optimise, and serve ads based on a user's past visits to this website.
 
-\- use the cookies of that analytics service provider together with the cookies of another analytics provider to inform, optimise, and serve ads based on a user's past visits to this website.
+
 
 NZR websites may also detect and use your IP address or domain name for internal web traffic monitoring and capacity purposes, or to otherwise administer the relevant NZR websites, but no personal information is collected.
 
@@ -109,6 +99,10 @@ Patterns of use by visitors to Team All Blacks website may be tracked for the pu
  **Turning off cookies and opting out of analytics**
 
 You do not have to accept cookies and can change your browser settings to prevent cookies being stored on your computer. But, if you do turn cookies off this will limit the service that we are able to provide to you and may affect your visitor experience.
+
+For further information on cookies and how to switch them off see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+You can opt-out of Google Analytics using the Ads Settings ([www.google.com/settings/ads](http://www.google.com/settings/ads)).
 
  **Storage and Security**
 
@@ -126,11 +120,13 @@ You are entitled to request access to, and correction of, the personal informati
 
 If the information you have requested can be readily retrieved, and subject to any lawful grounds for withholding, we will provide you with a copy of the personal information you have requested.
 
-You may update or correct your personal information online by logging into your Team All Blacks account. You can also contact us in writing or by email. If we agree with the correction requested, we will make the change.  If we do not make the correction requested, you can ask for your request to be kept with the personal information of yours that we hold.
+You may update or correct your personal information online by logging into your Team All Blacks account. You can also contact us in writing or by email. If we agree with the
+
+correction requested, we will make the change.  If we do not make the correction requested, you can ask for your request to be kept with the personal information of yours that we hold.
 
 If you no longer want to remain a member of Team All Blacks, you are able to cancel your Team All Blacks membership (see the “Cancel membership” link under Account settings on the Team All Blacks website (www.teamallblacks.com).
 
- **Requesting Erasure of Your Personal Information**
+ ** _Requesting Erasure of Your Personal Information_**
 
 You can ask us to delete or remove your personal information in some circumstances, such as where we no longer need it, if you withdraw your consent (where applicable) or you validly object to the processing.  If you are entitled to erasure we will comply with your request as soon as reasonably practicable.  Note, even after our reasonable efforts to erase, there may be some residual information that could remain within our databases and other records which is not removed. We may also need to retain certain information for recordkeeping purposes, for compliance with our legal obligations, for the establishment, exercise or defence of legal claims and/or to complete any transactions started before your request is received.  If we have shared your personal information with others, we will let them know about your request where reasonably possible.
 
@@ -154,12 +150,10 @@ We may, from time to time, amend or update this Privacy Policy. Any changes to t
 
 You can contact us at any time regarding your personal information through our Privacy Officer who can be contacted by the following means:
 
-Address:
+ **Address** :New Zealand Rugby,PO Box 2172, Wellington 6140, New Zealand
 
-New Zealand Rugby
+ **Email** : [[email protected]](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=privacyofficer@nzrugby.co.nz)
 
-PO Box 2172, Wellington 6140, New Zealand
+ **Phone** : +64 (0)4 499 4995
 
-Phone: +64 (0)4 499 4995
-
-Team All Blacks Privacy Policy last updated July 2018
+ ** _Team All Blacks Privacy Policy last updated July 2018_**
