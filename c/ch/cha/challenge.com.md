@@ -1,85 +1,81 @@
-> *The following text is extracted and transformed from the challenge.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411020818id_/http%3A//visalus.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challenge.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215211201id_/https%3A//pruvitnow.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Vi
+# Prüvit Privacy Policy
 
-Information is collected on this website by ViSalus, Inc. doing business as ViSalus Sciences ("ViSalus"). ViSalus is committed to protecting your privacy and will use your personal information responsibly. Please read below for detailed information about our privacy policy.
+Pruvit Ventures, Inc. (“Pruvit”, “we” or “us”) respects the privacy of our users (“User” or “You”). This Privacy Policy explains how Pruvit collects, uses, and discloses, and safeguards Your Information when you visit the Pruvit website [www.pruvitnow.com](https://pruvitnow.com/) including any other media form, media channel, mobile website or mobile application related or connected thereto (collectively “Site” or “Sites”). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THIS SITE.
 
-## Information Collection and Use
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Revised” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued used of the Site after the date such revised Privacy Policy is posted.
 
-ViSalus is the owner of all information collected at this site. We will not share or rent this personal information with or to anyone else in any way that is different from what is disclosed to you in this policy. We may collect information from several different points on our website or the websites of ViSalus Promotors, when you make a purchase from one of our Promotors or have other interactions where personal data is provided.
+###### **Collection of Your Information**
 
-At certain points in interactive communication with us, you might provide us with personal information such as your name, address, telephone number, and email address. Demographic personal information such as income level, gender, and other personal information of yours may be provided by you on an optional basis.
+We may collect information about you in a variety of ways. The information we collect on the Site includes:
 
-We may also gather on line information regarding your purchases and shopping activities on websites we host (such as those of ViSalus Promotors) to improve the content, ease of use and shopping experience on those websites and to improve our marketing and promotions for our company overall and the websites in particular.
+Personally identifiable information, such as your name, shipping address, email address, and telephone number, demographic information such as date of birth, gender, location at time of use, and other information that you voluntarily give to use when you register with the Site or when you choose to participate in various activities related to the Site, such as online chat and message boards. You are under no obligation to provide us with personal information of any kind; however, your refusal to do so may prevent you from using certain Site features.
 
-In addition, our web server may automatically collect the following non-personally identifiable information:
+Information our servers automatically collect when you access the Site, such as your IP address, your location at the time of access, your browser type, your operating system, your access times, and the page you have review directly before and after accessing the Site.
 
-  * your internet service provider's address,
-  * the referring URL and
-  * the information on the pages you access on our site or on the sites of the ViSalus Promotors since we host those websites.
+Financial Information, such as data related to your payment method (i.e. valid credit card number, card brand, expiration date, billing zip code) that we may collect when you purchase, order, return, exchange or request information about our products or services from the Site. We store only very limited, if any, financial information we collect. Credit card data is tokenized and held by a certified third party. Otherwise, all financial information is stored by our payment processors.
+
+This Site may by default access your Facebook basic account information, including your name, email, gender, birthday, current city, profile picture, URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, check-ins, and likes. You may choose to grant or deny us access to each of these permissions. For more information about open authorization and Facebook permissions refer to the Facebook Permissions Reference Page.
+
+Personal and other information you may provide when entering contests or giveaways and/or responding to surveys.
+
+###### **Use of Your Information**
+
+Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site to:
+
+  * Assist law enforcement and respond to subpoenas
+  * Compile anonymous statistical data and analysis for use internally or with third parties
+  * Create and manage your account
+  * Deliver targeted advertising, coupons, newsletters, and promotions, and other information regarding our website and mobile application to you
+  * Email you regarding your account or order
+  * Fulfill and manage purchases, orders, payments, and other transactions related to the Site
+  * Monitor and analyze usage and trends to improve your experience with the Site
+  * Notify you of updates to the Site
+  * Offer new products, services, and/or recommendations to you
+  * Perform other business activities as needed
+  * Prevent fraudulent transactions, monitor against theft, and protect against criminal activity
+  * Process payment and refunds
+  * Resolve disputes and troubleshoot problems
+  * Respond to product and customer service requests
+  * Send you a newsletter or announcement
 
 
 
-Personal information that you provide to ViSalus will be used by us for the purposes of enabling a ViSalus Promotor to contact you at your request for the purposes of your becoming a ViSalus Promotor. ViSalus may also use your personal information to contact you to keep you informed of developments or opportunities in relation to ViSalus, or any of its products or services.
+###### Disclosure of Your Information
 
-We may also use information collected when you make a purchase on line through a Promotor Website or at a ViSalus show in order to process your order or purchase, process credit card payments, provide warranty service or advise you of promotions and ViSalus product news. We may also send you emails with offers from marketing partners which have products or service we believe might be of interest to you.
+We may share information we have collected about you on certain situations. Your information may be disclosed as follows:
 
-We do use third party companies to gather information and provide services to us, for example in maintaining and organizing customer information and conducting promotions, upgrading our internet services, sending communications and contacting our customers. Some of those third parties will and do have access to the information which customers provide, including email addresses and credit card information and they may also use cookies on behalf of ViSalus.
+If we believe the release of information about you is necessary to respond to a legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
 
-We may also use third party providers to provide ads for ViSalus products or services throughout the internet. They may provide anonymous information regarding your visits to a ViSalus website (or that of a ViSalus Promotor) and your interaction with the goods and services which ViSalus provides. They may also use information about your visits to ViSalus and other web sites to target advertisements for goods or services. Your anonymous information is collected through a pixel tab, a standard technology used at most major consumer websites. This technology does not require the use or collection of any personally identifiable information such as your name or email address.
+We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email deliver, hosting services, customer service, and marketing assistance.
 
-If you have any concerns regarding the use of your information or wish to be removed from our e-mail list, please contact us at the address shown at the end of this Privacy Policy.
+We may share your information with advertisers and investors for the purposes of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law.
 
-## Children
+If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline to honor commitments we made in this Privacy Policy.
 
-We do not intend to collect any personal information from children under the age of eighteen. If a parent or guardian of a child who has provided us with such personal information would like the information deleted from our records, he or she should contact us at the email address or telephone number listed at the bottom of this policy statement. We will then delete the child's personal information from our files.
+###### Tracking Technologies
 
-If we become aware that personally identifiable information regarding a child under the age of 13 has been collected at the Site, we will use such information for the sole purpose of contacting a parent or guardian of the child to obtain verifiable parental consent. If we cannot obtain consent after a reasonable period of time, or if when contacted a parent or guardian requests that we do not use or maintain such information, we will make reasonable efforts to delete it from our records. Upon request by a parent or guardian, ViSalustm will provide a description of the specific types of personal information collected from a child who is under the age of 13.
+We may use cookies, web beacons, tracking pixels, and other technologies on the Site to help customize the Site and improve your experience. For more information on how to use cookies, please refer to our Cookie Policy.
 
-## Cookies and IP Addresses
+We may also partner with selected third-party vendors, such as Google Analystics, to allow tracking technologies and remarketing services on the Site through the use of first party cooked and third-party cookies, to allow us to analyze and track users’ use of the Site, determine the popularity of certain content and better understand online activity. By accessing this Site, you consent to the collection and use of this information by these third-party vendors. You are encouraged to review their privacy policy and contact them with any questions. We do not transfer personal information to these third-party vendors. For more information about opting out of interest-based advertising visit optout.networkadvertising.org.
 
-A cookie is a piece of information stored in your hard drive containing information about you. ViSalus may place cookies on your hard drive to assist in site navigation and to personalize your experience on the ViSalus site. If you want to disable those cookies, most internet browsers will allow you to delete cookies from your computer hard drive, prevent them from being stored, or signal a warning before a cookie is stored. Please refer to your browser instructions or "help" screen to learn more about these functions. If you elect to block cookies, please note that you may not be able to take full advantage of the features and functions of the Site.
+Most web browsers and some mobile operating systems include a Do-Not-Track feature or setting you can activate to signal your desire for privacy and to not have your online browsing activity monitored and collected. If you set the Do-Not-Track signal on your browser, we will honors such signals.
 
-We may use a vendor's services to help ViSalus measure the effectiveness of advertising and to learn about how visitors to our websites use them. To obtain accurate measurements we may use web beacons and cookies provided by a vendor on our websites. The type of information we would collect would include the specific website and pages visited, and information about transactions made. We may use such data to conduct targeted marketing programs or to determine the nature of our customers and the types of products which each customer finds most attractive.
+The Site may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Site, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing information to any third-party websites, you should inform yourself of the privacy policies and practices of the third-party responsible for that website. We are not responsible for the contact or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked from the Site.
 
-We may use your IP address to help diagnose problems with our servers and to administer our website. Your IP address may also be used to gather broad demographic data and to recognize customer traffic patterns and site usage.
+We use administrative, technical and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide us, please be aware that despite our efforts, no security measures are perfect or impenetrable. No method of data transmission can be guaranteed against interception and other types of misuse. Although we try to keep the information you trust us with secure, we cannot guarantee complete security of your information.
 
-## Links to other Websites
+We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under the age of 13, please notify us.
 
-From time to time ViSalus may have a link to other websites of marketing partners or for your convenience. Please check the privacy policies of such other websites which may vary from this one.
+###### Options Regarding Your Information
 
-We have no responsibility or liability whatsoever for the content, actions or policies of third party web sites. The inclusion of third party web sites on our Site in no way constitutes an endorsement of such web sites' content, actions or policies.
+You may review or change the information in your account or terminate your account by emailing customer support. Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with investigations, and enforce our Terms of Use.
 
-## Surveys and Contests
+If you no longer wish to receive correspondence, emails or other communications from us you may opt-out by: (1) noting your preferences at the time you register your account with us, or (2) contacting our support department.
 
-The ViSalus website may request personal information from you via an electronic entry form for purpose of your participation in sweepstakes, contests or surveys. If you choose to provide the personal information requested, we will use that personal information to administer your participation in the relevant sweepstake, contest or survey and in the other ways indicated in this Privacy Policy.
+California Civil Section 1798.83, permits California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the name and addresses of all third parties for direct marketing purposes in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our support department. Please be aware that although publicly facing data may be removed, the data may not be completely or comprehensively removed from our systems.
 
-## Right to access and change information
+If you are under 18 years old and reside in California, and have a registered account with this Site, you have the right to request removal of unwanted data that you publicly post on the Site. To request removal of such data, please contact the support department.
 
-You have the right to access, review and change any personal information that we might retain. To access or change personal information, please contact us by phone, post or by e-mail at the addresses set out below.
-
-## Security
-
-ViSalus has adopted reasonable technical and organizational security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction of your personal information. Not all personal information collected on this website will be retained. All personal information that is retained is encrypted and all systems linked to the internet are equipped with firewalls and tested regularly to provide a high level of security.
-
-We may retain your personal information at our headquarters in Troy, Michigan, USA or we may send it to ViSalus's Los Angeles office, but we will assure the security of your personal information in all of our facilities.
-
-If you have any concerns regarding the use of your information or wish to be removed from our email list, please contact us at the address shown at the end of this Privacy Policy.
-
-## Changes in Privacy Policy
-
-We will post any changes to our privacy policy on the relevant section of our website when our policy changes. However, your consent to provision of information under the current policy will be assumed to constitute consent to any new policy. By your continued use of this website we will make the assumption that you have consented to providing personal information under this privacy policy.
-
-## Contacting Us
-
-Please contact us with any questions about our privacy practices, this privacy policy or the protection of your personal information.
-
-## By Mail:
-
-ViSalus™  
-340 E. Big Beaver Rd Suite 400  
-Troy, MI 48084
-
-By Phone: Member Support at 1-248-764-7640
-
-By E-mail: [info@visalus.com](mailto:info@visalus.com)
+###### For Questions
