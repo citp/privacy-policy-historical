@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesedition.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330071440id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesedition.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215043151id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | JamesEdition
 
