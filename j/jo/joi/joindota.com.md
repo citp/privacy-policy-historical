@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joindota.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330152139id_/https%3A//docs.gamesports.net/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joindota.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215135418id_/https%3A//docs.gamesports.net/privacy/en) for the most accurate reproduction.*
 
 # GameSports Network Legal Documents
 
