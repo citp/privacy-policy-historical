@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wa-democrats.org privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208224758id_/https%3A//www.wa-democrats.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa-democrats.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215052451id_/https%3A//www.wa-democrats.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Washington State Democratic Party
 
