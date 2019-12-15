@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615233723id_/https%3A//www.jdrf.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215235908id_/https%3A//www.jdrf.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JDRF
 
@@ -127,8 +127,8 @@ Questions or comments regarding this Privacy Policy should be directed to JDRF u
 
 JDRF  
 Attention: Privacy Policy  
-26 Broadway, 14th Floor  
-New York, NY 10004  
+200 Vesey Street, 28th Floor  
+New York, NY 10281  
 Email: [privacy@jdrf.org](mailto:privacy@jdrf.org)  
 Telephone: 1-800-533-CURE (2873)  
 Fax: (212) 785-9595
@@ -167,8 +167,8 @@ Postal Address:
 
 JDRF  
 Attention: Privacy Policy  
-26 Broadway, 14th Floor  
-New York, NY 10004  
+200 Vesey Street, 28th Floor  
+New York, NY 10281  
 Email: [privacy@jdrf.org](mailto:privacy@jdrf.org)  
 Telephone: 1-800-533-CURE (2873)  
 Fax: (212) 785-9595
