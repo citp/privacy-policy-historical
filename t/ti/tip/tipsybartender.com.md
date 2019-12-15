@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipsybartender.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515023547id_/https%3A//tipsybartender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsybartender.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215044840id_/https%3A//tipsybartender.com/privacy-policy) for the most accurate reproduction.*
 
 # TipsyBartender.com Privacy Policy - Tipsy Bartender
 
