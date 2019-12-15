@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the avbuyer.com privacy policy that was archived on 2019-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330195835id_/https%3A//www.avbuyer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avbuyer.com privacy policy that was archived on 2019-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191215023118id_/https%3A//www.avbuyer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
     <link rel="dns-prefetch" href="https://cdn.avbuyer.com">
@@ -14,8 +14,10 @@
             <meta name="ROBOTS" content="index, follow">
         <link rel="shortcut icon" href="https://static.avbuyer.com/images/favicon.ico">
                 <link rel="canonical" href="https://www.avbuyer.com/privacy-policy">
-        <link rel="preload" href="https://www.avbuyer.com/fonts/gotham_medium_regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" href="https://www.avbuyer.com/fonts/Gotham-Book.otf" as="font" type="font/otf" crossorigin="anonymous">
+    
+    <link rel="preload" href="https://static.avbuyer.com/fonts/gotham_medium_regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="https://static.avbuyer.com/fonts/Gotham-Book.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
             <link rel="stylesheet" type="text/css" media="screen" href="https://www.avbuyer.com/faWhiteLabelMarketPlugin/css/font-awesome.min.css">
                 <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/sfJqueryReloadedPlugin/css/ui-lightness/jquery-ui-1.7.3.custom.min.css">
         
@@ -24,8 +26,8 @@
         <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/sfJqueryReloadedPlugin/css/ui-lightness/jquery-ui.min.css">
 <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/sfJqueryReloadedPlugin/css/ui-lightness/ui.all.css">
 
-                    <link rel="stylesheet" type="text/css" media="all" href="https://static.avbuyer.com/css/styles.css?v=2019033019">
-            <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/css/responsive.min.css?v=2019033019">
+                    <link rel="stylesheet" type="text/css" media="all" href="https://static.avbuyer.com/css/styles.css?v=2.7194">
+            <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/css/responsive.min.css?v=2.7194">
         
     
     <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K4DTS58"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
@@ -40,7 +42,7 @@
         <script type="text/javascript" src="https://static.avbuyer.com/sfJqueryReloadedPlugin/js/plugins/jquery.autocomplete.min.js" defer="defer"></script>
         <script type="text/javascript" src="https://static.avbuyer.com/faPlatformPlugin/js/fa_platform.min.js" defer="defer"></script>
         <script type="text/javascript" src="https://static.avbuyer.com/js/frontend.min.js" defer="defer"></script>
-        <script type="text/javascript" src="https://static.avbuyer.com/js/progressive-image.min.js?v=1.2" defer="defer"></script>
+        <script type="text/javascript" src="https://static.avbuyer.com/js/progressive-image.min.js?v=27163.2" defer="defer"></script>
     
             <script type="text/javascript">
             //<![CDATA[
@@ -72,34 +74,48 @@
                 })(window,document,'script','dataLayer','GTM-K4DTS58');</script>
             <!-- End Google Tag Manager -->
                         
-
 <script type="text/javascript">
-(function() {
-var useSSL = 'https:' == document.location.protocol;
-var src = (useSSL ? 'https:' : 'http:') +
-'//www.googletagservices.com/tag/js/gpt.js';
-document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-})();
+    (function () {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
 
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
 
+    googletag.cmd.push(function () {
+
+                var leaderboard_mapping = googletag.sizeMapping().
+        addSize([992, 0], [728, 90]).
+        addSize([768, 0], [320, 100]).
+        addSize([320, 0], [320, 100]).
+        addSize([0, 0], [320, 100]).
+        build();
+        
+        var header_banner = googletag.sizeMapping().
+        addSize([970, 0], [[970, 250]]).
+        addSize([0, 0], [320, 100]).
+        build();
+
+
+                        
+
+        googletag.pubads().enableLazyLoad();
+
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            if (event.isEmpty === true) {
+                $('#'+event.slot.getSlotElementId()).hide();
+            }
+        });
+
+        googletag.enableServices();
+
+    });
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-
-<script>
-  googletag.cmd.push(function() {
-    var leaderboard_mapping = googletag.sizeMapping().
-      addSize([992, 0], [[728, 90]]).
-      addSize([980, 0], [320, 100]).
-      addSize([320, 0], [[320, 100]]).
-      build();
-
-          googletag.pubads().enableSyncRendering();
-      googletag.enableServices();
-  });
-</script>
-            <script src="https://www.google.com/recaptcha/api.js?onload=demoCallback&amp;render=explicit" async="" defer=""> </script>
-</head>
+        
+    </head>
 <body>
     <div class="cookies_content clearfix cookie_tab hide" id="cookie_tab">
         <div class="container">
@@ -108,45 +124,227 @@ googletag.cmd = googletag.cmd || [];
             <button onclick="setCookiePolicy();$('#cookie_tab').hide();refreshParallax();return false;" id="cookieOk" class="fr agree_btn">OK</button>
         </div>
     </div>
+
+    <div id="signupbox-alert-wrapper" class="signupbox_overlay_wrapper hide"><div id="signupbox-alert" class="signupbox_overlay"></div></div>
+
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4DTS58" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
     <div id="market_indicator_div">
-  <img alt="loading" src="https://static.avbuyer.com/faWhiteLabelMarketPlugin/images/ajaxloader.gif" class="mid_align">
-  Loading please wait....</div>    <header>
+    <div>
+        <svg width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#000">
+            <g fill="none" fill-rule="evenodd">
+                <g transform="translate(1 1)" stroke-width="2">
+                    <circle stroke-opacity=".5" cx="18" cy="18" r="18"></circle>
+                    <path d="M36 18c0-9.94-8.06-18-18-18" transform="rotate(221.991 18 18)">
+                        <animateTransform attributeName="transform" type="rotate" from="0 18 18" to="360 18 18" dur="1s" repeatCount="indefinite"></animateTransform>
+                    </path>
+                </g>
+            </g>
+        </svg>
+    </div>
+  Loading please wait....</div>
+    <header>
         <div class="container">
-              <div class="top_bar clearfix">
-            <a class="login_btn" href="/login" title="Log in">Log in </a>
-    <a class="register_btn" href="/register" title="Register">Register</a>
-      <div class="postad_btn">
-      <a href="/sell-my-aircraft">Advertise</a>
-  </div>
-</div>
-</div>
+            </div>
 
-<div class="header_fix">
-  <div class="container relative">
+<div class="header_main">
+  <div class="container clearfix relative">
+      <div class="login_section">
+                  <a class="postad_btn" href="/sell-my-aircraft">Advertise</a>
+    <a class="login_btn" href="/login" title="Log in">Log in </a>
+    <a class="register_btn" href="/register" title="Register">Register</a>
+          </div>
+
     <div class="mob_menu" id="mob_menu_id"></div>
         <div id="logo" class="logo">
       <a href="/">Logo</a>
     </div>
-    <div class="print_logo"><img src="https://static.avbuyer.com/images/logo.png" alt="AvBuyer" width="220px" height="84px"></div>
-    <nav class="fl" id="main_menu_nav">
-      <ul class="mp0">
-        <li class="mob_link"><a href="/">Aircraft Search</a></li>
-        <li><a href="/buy-aircraft">Buy</a></li>
-        <li><a href="/sell-aircraft">Sell</a></li>
-        <li><a href="/dealers">Dealers</a></li>
-        <li><a href="/aircraft-wanted">Wanted</a></li>
-        <li><a href="/articles">Articles &amp; Magazines</a></li>
-        <li><a href="/services">Services</a></li>
-        <li><a href="/events">Events</a></li>
-        <li class="mob_link"><a href="/contacts">Contact Us</a></li>
-      </ul>
-    </nav>
-    <div class="clear"></div>
-  </div>
+
+        <nav class="fl" id="main_menu_nav">
+    <ul class="mp0 clearfix">
+<!--        <li class="mob_link">
+            <a href="" ></a>
+        </li>-->
+                    <li class="main_nav_item">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                <a class="main_nav_link nav_down " href="javascript:void(0);">Buy Aircraft</a>
+
+                                    <ul class="sub_nav mp0">
+                                                    <li>
+                                <a href="/aircraft/private-jets"><span>- </span> Jets</a>
+                            </li>
+                                                    <li>
+                                <a href="/aircraft/turboprops"><span>- </span> Turboprops</a>
+                            </li>
+                                                    <li>
+                                <a href="/aircraft/helicopter/turbine"><span>- </span> Turbine Helicopters</a>
+                            </li>
+                                                    <li>
+                                <a href="/aircraft/helicopter/piston"><span>- </span> Piston Helicopters</a>
+                            </li>
+                                                    <li>
+                                <a href="/aircraft/single-piston"><span>- </span> Single Piston</a>
+                            </li>
+                                                    <li>
+                                <a href="/aircraft/twin-piston"><span>- </span> Twin Piston</a>
+                            </li>
+                                                    <li>
+                                <a href="/aircraft/light"><span>- </span> Light Aircraft</a>
+                            </li>
+                                                    <li>
+                                <a href="/aircraft/military-classic-vintage"><span>- </span> Classic &amp; Vintage</a>
+                            </li>
+                                                    <li>
+                                <a href="/dealers"><span>- </span> Find a Dealer</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/jets-buyers-guides"><span>- </span> Jet Buyers Guides</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/jets-prices-guides"><span>- </span> Jet Price Guides</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/ownership"><span>- </span> Ownership Articles </a>
+                            </li>
+                                                    <li>
+                                <a href="/compare-ads-column"><span>- </span> Compare Aircraft Tool</a>
+                            </li>
+                                                    <li>
+                                <a href="/signup/alerts"><span>- </span> Sign Up for Alerts</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="main_nav_item">
+                                                                                                                                                                                                                                                                                                                                                                                        
+                <a class="main_nav_link nav_down " href="javascript:void(0);">Sell Aircraft</a>
+
+                                    <ul class="sub_nav mp0">
+                                                    <li>
+                                <a href="/sell-my-aircraft"><span>- </span> Upload Ads - SMA</a>
+                            </li>
+                                                    <li>
+                                <a href="/client-offer/pratt-and-whitney/free-aircraft"><span>- </span> Free Ad Offer - Pratt &amp; Whitney</a>
+                            </li>
+                                                    <li>
+                                <a href="/aircraft-wanted"><span>- </span> Wanted Aircraft</a>
+                            </li>
+                                                    <li>
+                                <a href="/dealers"><span>- </span> Dealer Search</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/jets-comparison"><span>- </span> Jet Comparison Articles</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/market-insight"><span>- </span> Market Insight Articles</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/jets-prices-guides"><span>- </span> Jet Price Guides</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="main_nav_item">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                <a class="main_nav_link nav_down " href="javascript:void(0);">Intelligence</a>
+
+                                    <ul class="sub_nav mp0">
+                                                    <li>
+                                <a href="/articles"><span>- </span> All Articles &amp; Videos</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/jets-comparison"><span>- </span> Jet Comparisons</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/jets-buyers-guides"><span>- </span> Jet Buyers Guides</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/jets-prices-guides"><span>- </span> Jet Price Guides</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/insiders-guides-with-rene-banglesdorf"><span>- </span> Insider's Guide Videos</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/market-insight"><span>- </span> Market Insight </a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/turboprops-compare"><span>- </span> Turboprop Comparisons</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/helicopter-comparison"><span>- </span> Helicopter Comparisons</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/jet-connectivity"><span>- </span> Connectivity</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/avionics"><span>- </span> Avionics </a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/engine-maintenance-hub"><span>- </span> Engine Maintenance Hub</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/special-missions-aircraft"><span>- </span> Multi-Mission Aircraft</a>
+                            </li>
+                                                    <li>
+                                <a href="/articles/ga-buyer-europe"><span>- </span> GA Buyer Europe </a>
+                            </li>
+                                                    <li>
+                                <a href="/signup/alerts"><span>- </span> Sign Up for Alerts</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="main_nav_item">
+                                                                                                                                                                                                        
+                <a class="main_nav_link nav_down " href="javascript:void(0);">Magazines</a>
+
+                                    <ul class="sub_nav mp0">
+                                                    <li>
+                                <a href="/magazines/avbuyer"><span>- </span> AvBuyer</a>
+                            </li>
+                                                    <li>
+                                <a href="/magazines/gabuyer"><span>- </span> GA Buyer Europe</a>
+                            </li>
+                                                    <li>
+                                <a href="/signup/alerts"><span>- </span> Free Digi Mag Sign Up</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="main_nav_item">
+                                                                                                                                                                                                                                                                                                
+                <a class="main_nav_link nav_down " href="javascript:void(0);">Services</a>
+
+                                    <ul class="sub_nav mp0">
+                                                    <li>
+                                <a href="/services"><span>- </span> Services Directory</a>
+                            </li>
+                                                    <li>
+                                <a href="/client-offer/in-house "><span>- </span> Free Services Listing Offer</a>
+                            </li>
+                                                    <li>
+                                <a href="/client-offer/pratt-and-whitney/pt6a-maintenance-program"><span>- </span> Pratt &amp; Whitney PT6A Maintenance Offer</a>
+                            </li>
+                                                    <li>
+                                <a href="/client-offer/pratt-and-whitney/helicopter-maintenance-program"><span>- </span> Pratt &amp; Whitney Helicopter Maintenance Offer</a>
+                            </li>
+                                                    <li>
+                                <a href="/client-offer/pratt-and-whitney/biz-jet-esp-incentive"><span>- </span> Pratt &amp; Whitney Jet Maintenance Offer</a>
+                            </li>
+                                            </ul>
+                            </li>
+        <!--        <li class="mob_link"><a href="" ></a></li>-->
+    </ul>
+</nav>
+<script language="javascript" type="text/javascript">
+    //<![CDATA[
+    domReadyQueue.push(function($){
+        $('#main_menu_nav .main_nav_link').click(function(event) {
+            $('.active').parent().get(0);
+            $( event.target ).toggleClass("nav_down").toggleClass("nav_up");
+            $( event.target ).next( "ul .sub_nav" ).toggle();
+        });
+    });
+    //]]>
+</script>  </div>
   <div class="back_top">
     <a href="#"><span></span> Back to top</a>
   </div>
@@ -199,7 +397,7 @@ googletag.cmd = googletag.cmd || [];
                       <div class="form_name">&nbsp;</div>
                       <div class="form_input social_connect fb_conct">
                                                     <div>
-    <a class="fb_btn" href="https://www.facebook.com/dialog/oauth?client_id=298048127700437&amp;redirect_uri=https%3A%2F%2Fwww.avbuyer.com%2FfacebookRedirect&amp;state=a46505af77d1bda0efb1b9b65db17b5b&amp;scope=email">Login with Facebook</a>
+    <a class="fb_btn" href="https://www.facebook.com/dialog/oauth?client_id=298048127700437&amp;redirect_uri=https%3A%2F%2Fwww.avbuyer.com%2FfacebookRedirect&amp;state=031121c0ebf9350a54f04e84c2d30472&amp;scope=email">Login with Facebook</a>
 </div>                      </div>
                   </div>
                                               <div class="mt5 clearfix">
@@ -221,47 +419,44 @@ googletag.cmd = googletag.cmd || [];
 </div>
 
 <script language="javascript" type="text/javascript">
-//<![CDATA[
 
-  domReadyQueue.push(function($){
-   var allFields = $([]);
+    domReadyQueue.push(function($) {
+        var allFields = $([]);
 
-    $("#divLoginForm").dialog(
-    {
-      bgiframe: false,
-      autoOpen: false,
-      width: 480,
-      height: 600,
-      modal: true,
-      buttons: {
-      },
-      close: function() {
-        allFields.val('').removeClass('ui-state-error');
-      }
+        $("#divLoginForm").dialog({
+            bgiframe: false,
+            autoOpen: false,
+            width: 480,
+            height: 600,
+            modal: true,
+            buttons: {
+            },
+            close: function() {
+                allFields.val('').removeClass('ui-state-error');
+            }
+        });
+
+        hideLoginForm();
+
+        $('#frmLoginForm').submit(function() {
+            doLogin('https://www.avbuyer.com/mlogin');
+            return false;
+        });
+
+        $('.social_connect').click(function() {
+            tinyMCE.triggerSave();
+            createCookie("register_with_adposting","");
+            var formData = $('#post_form').serialize();
+            $.ajax({
+                type: "POST",
+                async: true,
+                url: "https://www.avbuyer.com/update/current_ad_data_to_session",
+                data: formData,
+                success: function(msg){
+                }
+            });
+        });
     });
-    hideLoginForm();
-
-      $('#frmLoginForm').submit(function()
-      {
-          doLogin('https://www.avbuyer.com/mlogin');
-          return false;
-      });
-  });
-
-
-$('.social_connect').click(function() {
-    tinyMCE.triggerSave();
-    createCookie("register_with_adposting","");
-    var formData = $('#post_form').serialize();
-    $.ajax({
-        type: "POST",
-        async: true,
-        url: "https://www.avbuyer.com/update/current_ad_data_to_session",
-        data: formData,
-        success: function(msg){
-        }
-    });
-});
 
   function hideLoginForm()
   {
@@ -284,10 +479,6 @@ $('.social_connect').click(function() {
 
     $('#id_msg').hide();
   }
-
-
-
-
 
   function doLogin(url)
   {
@@ -401,8 +592,9 @@ function createCookie(name, value) {
 </script>
     </header>
 <section>
-            <div class="container">
-            
+    
+                <div class="container">
+                
 
 
 
@@ -443,14 +635,12 @@ function createCookie(name, value) {
     
 
 	<div class="inner_page_wrapper the_content">
-        <h1><span style="color: #000080;"><strong>AvBuyer.com Privacy Policy - Updated May 23rd, 2018</strong></span></h1>
+        <h1><span style="color: #003366;"><strong>AvBuyer.com Privacy Policy - Updated 29th October, 2019</strong></span></h1>
+<h4><span style="color: #003366;"><strong><em>AvBuyer.com is committed to protecting your right to privacy as a user of our website and to the principles and practices outlined in the GDPR regulations</em></strong><strong><em>.</em></strong></span></h4>
 <h4>&nbsp;</h4>
-<h4><span style="color: #000080;"><strong><em>AvBuyer.com is committed to protecting your right to privacy as a user of our website and to the principles and practices outlined in the GDPR regulations</em></strong><strong><em>.</em></strong></span></h4>
-<p>&nbsp;</p>
-<p><span style="color: #000080;"><strong>WHAT IS GDPR?</strong></span></p>
-<p>The <span style="color: #3366ff;"><a href="https://www.eugdpr.org/"><span style="color: #3366ff;">General Data Protection Regulation (GDPR)</span></a></span> is a new legal framework from the EU that takes effect on May 25, 2018. It’s an updated version of the&nbsp;Data Protection Directive. This law is designed to unify the current data protection privacy laws throughout the EU, and enhance the rights of citizens of the EU to protect their personal information</p>
-<p>&nbsp;</p>
-<p><span style="color: #000080;"><strong>AVBUYER’S PRIVACY POLICY</strong></span></p>
+<p><span style="color: #003366;"><strong>WHAT IS GDPR?</strong></span></p>
+<p>The <span style="color: #3366ff;"><a href="https://www.eugdpr.org/" target="_blank"><span style="color: #3366ff;">General Data Protection Regulation (GDPR)</span></a></span> is a new legal framework from the EU that takes effect on May 25, 2018. It’s an updated version of the&nbsp;Data Protection Directive. This law is designed to unify the current data protection privacy laws throughout the EU, and enhance the rights of citizens of the EU to protect their personal information</p>
+<p><span style="color: #003366;"><strong>AVBUYER’S PRIVACY POLICY</strong></span></p>
 <p>AvBuyer.com is part of AvBuyer, which publishes&nbsp;<span style="color: #3366ff;"><a href="https://www.avbuyer.com/magazines/avbuyer" target="_blank"><span style="color: #3366ff;">AvBuyer</span></a></span> and&nbsp;<span style="color: #3366ff;"><a href="https://www.avbuyer.com/magazines/gabuyer" target="_blank"><span style="color: #3366ff;">GA Buyer Europe</span></a></span> magazines and manages the <a href="https://www.aeroexpo.co.uk/" target="_blank"><span style="color: #3366ff;">Aero Expo</span> </a>and&nbsp;<span style="color: #3366ff;"><a href="https://www.heliukexpo.com/" target="_blank"><span style="color: #3366ff;">Heli Expo</span></a></span> Aviation events.</p>
 <p>This privacy policy explains how we use any personal information we collect about you when you use this website, AvBuyer.com or deal directly with staff employed by AvBuyer over the phone, or at events:</p>
 <ul>
@@ -460,73 +650,73 @@ function createCookie(name, value) {
 <li>Sign up for aircraft alerts by either category (Turbine, Piston or Helicopter), and/or for specific models, and/or have opted for relevant intelligence and AvBuyer Connect broadcasts.</li>
 </ul>
 <p><strong><em>This Privacy Policy applies to all users of AvBuyer services online and off-line, whether they have registered and created an account or otherwise.</em></strong><strong><em> If you do not accept this privacy policy, you must not use this site.</em></strong></p>
-<p><span style="color: #000000;"><strong>&nbsp;</strong></span></p>
-<p><span style="color: #000080;"><strong>WHY DO WE COLLECT DATA?</strong></span></p>
+<p><span style="color: #003366;"><strong>&nbsp;</strong><strong>WHY DO WE COLLECT DATA?</strong></span></p>
 <p>We collect data to help you communicate with Aircraft and Aviation Services sellers and companies in the global aviation marketplace.</p>
 <p>We use it to keep you informed about the Aviation market and AvBuyer events and products, and to manage your account, print and digital magazine subscriptions and advertising purchases.</p>
 <p>That includes:</p>
 <ul>
 <li>Informing you of aircraft models for sale that you have expressed an interest in and sending relevant articles.</li>
 <li>Updating you as to how your advertisement is progressing and to send you enquiries or statistics.</li>
-<li>&nbsp;We also use it for business, regulatory and legal purposes, like:</li>
+<li>To pass on special offers from AvBuyer partners such as Pratt and Whitney's free Aircraft Advertisement offer.&nbsp;</li>
+<li>We also use it for business, regulatory and legal purposes, like:</li>
 <li>Dealing with any requests you make or content you submit,</li>
 <li>Getting in touch if we need to tell you about something, a change to our policies or issues with a service, for example,</li>
 <li>Processing your orders for either aircraft for sale advertisements, print subscriptions or for email aircraft alerts and digital magazines,</li>
 <li>Advising you of renewal options for advertising,</li>
 <li>To help you manage your account.</li>
 </ul>
-<p><strong>&nbsp;</strong></p>
-<p><span style="color: #000080;"><strong>HOW DO WE COLLECT &amp; USE YOUR DATA?</strong></span></p>
-<p>&nbsp;</p>
-<p><span style="color: #000080;"><strong>Marketing </strong></span></p>
-<p><span style="color: #000080;"><strong>&nbsp;1.&nbsp;</strong><strong>AvBuyer User Account</strong></span></p>
+<p><span style="color: #003366;"><strong>&nbsp;</strong><strong>HOW DO WE COLLECT &amp; USE YOUR DATA?</strong></span></p>
+<p><span style="color: #003366;">&nbsp;<strong>Marketing</strong></span></p>
+<p><span style="color: #003366;"><strong>&nbsp;1.&nbsp;</strong><strong>AvBuyer User Account</strong></span></p>
 <p>When you register with AvBuyer to advertise aircraft or to receive digital magazine or aircraft alerts, you create an account with a username or email address and password.</p>
 <p>&nbsp;We store your email and username but do not store your password. If you forget your password, you will need to reset it via the site.</p>
-<p><span style="color: #000080;"><strong>&nbsp;2.&nbsp;&nbsp;Email Enquiries to Advertisers for Aircraft Sales or Aviation Services:</strong></span></p>
+<p><span style="color: #003366;"><strong>&nbsp;2.&nbsp;&nbsp;Email Enquiries to Advertisers for Aircraft Sales or Aviation Services:</strong></span></p>
 <p>When you complete an email enquiry on AvBuyer, we collect the following data and pass to the relevant advertiser: Your Name, Email Address, Location, Company Name (Optional), Phone Number, Aircraft Type/Model.</p>
 <p><strong><em>Whilst we require advertisers not to use your personal information for anything other than addressing your enquiry, we cannot control the conduct of third parties and do not accept any liability in respect of any conduct of such third party.</em></strong></p>
-<p><span style="color: #000080;"><strong>3. Email Aircraft Alerts and Digital Magazines Sign Ups:</strong></span></p>
+<p><span style="color: #003366;"><strong>3. Email Aircraft Alerts and Digital Magazines Sign Ups:</strong></span></p>
 <p>When you sign up for Alerts or Digital magazines, we collect the following data: Your Name, Email Address, Location, Aircraft Type/Model, Magazine Brand.</p>
-<p><span style="color: #000080;"><strong>4.&nbsp; Advertisements and Print Subscriptions:</strong></span></p>
+<p><span style="color: #003366;"><strong>4.&nbsp; Advertisements and Print Subscriptions:</strong></span></p>
 <p>When you book advertisements online or via AvBuyer staff, or take out print subscriptions, we collect the following data: Your Name, Company Address, Addresses, Phone Numbers, VAT number, Conversation Notes, Purchase and Payments details.</p>
-<p><span style="color: #000080;"><strong>5. Social Media</strong></span></p>
+<p><span style="color: #003366;"><strong>5. Social Media</strong></span></p>
 <p>We may promote your advertisements via our Social Media channels. Our website includes Social Media links to Facebook, Twitter and Google Plus so that you can share and comment on our content on your account. These Social Media companies may collect your IP address, which page you are visiting on AvBuyer, and may set a cookie to enable the related feature to function properly. Your interactions with these companies are governed by their privacy policies.</p>
-<p><span style="color: #000080;"><strong>6. Keeping in Touch</strong></span></p>
+<p><span style="color: #003366;"><strong>6. Keeping in Touch</strong></span></p>
 <p>AvBuyer may contact you about the service you have signed up for, e.g. to provide you with password reminders, to notify you that a particular service, activity or online content has been suspended for maintenance, to notify you of updates to our Privacy and Cookies Policy or Terms of Use, to let you know if your AvBuyer account has become dormant and to ask if you would like to use it again before we close it.</p>
-<p><span style="color: #000080;"><strong>&nbsp;7.&nbsp;</strong><strong>Google Analytics &amp; Google DFP</strong></span></p>
-<p>AvBuyer gathers information via <strong>Google Analytics</strong>, as is industry-standard practice,&nbsp;including internet protocol (IP) addresses, browser type, internet service provider (ISP), landing pages, referral sources such as Search Engines, Other Websites and Social Media, Device Use, Location, Operating System, Date/Time and more. Google Analytics includes features that can be considered profiling from the perspective of the GDPR. To read more about Google’s privacy policy, you may visit this site: <span style="color: #3366ff;"><span style="color: #3366ff;"><a href="https://privacy.google.com/">https://privacy.google.com/</a>.&nbsp;</span></span>If you wish to block the Google Analytics tool from being used to track your use of the website, you may also use this Google browser add-on to block all Google Analytics code: <span style="color: #3366ff;"><a href="https://support.google.com/analytics/answer/181881?hl=en"><span style="color: #3366ff;">https://support.google.com/analytics/answer/181881?hl=en</span></a></span></p>
+<p><span style="color: #003366;"><strong>&nbsp;7.&nbsp;</strong><strong>Google Analytics &amp; Google DFP</strong></span></p>
+<p>AvBuyer gathers information via <strong>Google Analytics</strong>, as is industry-standard practice,&nbsp;including internet protocol (IP) addresses, browser type, internet service provider (ISP), landing pages, referral sources such as Search Engines, Other Websites and Social Media, Device Use, Location, Operating System, Date/Time and more. Google Analytics includes features that can be considered profiling from the perspective of the GDPR. To read more about Google’s privacy policy, you may visit this site: <span style="color: #3366ff;"><span style="color: #3366ff;"><a href="https://privacy.google.com/" target="_blank">https://privacy.google.com/</a>.&nbsp;</span></span>If you wish to block the Google Analytics tool from being used to track your use of the website, you may also use this Google browser add-on to block all Google Analytics code: <span style="color: #3366ff;"><a href="https://support.google.com/analytics/answer/181881?hl=en" target="_blank"><span style="color: #3366ff;">https://support.google.com/analytics/answer/181881?hl=en</span></a></span></p>
 <p>We use&nbsp; Google DFP to serve display banner and MPU advertising.</p>
-<p><span style="color: #000080;">&nbsp;<strong>8. Cookies</strong></span></p>
-<p>Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity. For, further information visit <span style="color: #3366ff;"><a href="http://www.aboutcookies.org/"><span style="color: #3366ff;">http://www.aboutcookies.org</span></a></span> or <a href="http://www.allaboutcookies.org" target="_blank"><span style="color: #3366ff;">www.allaboutcookies.org</span>.</a>&nbsp;Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being updated, or to block cookies altogether. Please note that by blocking any or all these cookies you may not have access to certain features, content or personalization available through our Site. This information does not identify individual users.&nbsp; Find out more about<span style="color: #333399;"><span style="color: #3366ff;"><a href="https://www.avbuyer.com/cookie-policy" target="_blank"><span style="color: #3366ff;"> AvBuyer's cookie policy</span></a></span>.</span></p>
-<p><strong>&nbsp;</strong></p>
-<p><span style="color: #000080;"><strong>OPTING OUT OF E-MARKETING?</strong></span></p>
+<p><span style="color: #003366;">&nbsp;<strong>8. Cookies</strong></span></p>
+<p>Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity. For, further information visit <span style="color: #3366ff;"><a href="http://www.aboutcookies.org/" target="_blank"><span style="color: #3366ff;">http://www.aboutcookies.org</span></a></span> or <a href="http://www.allaboutcookies.org" target="_blank"><span style="color: #3366ff;">www.allaboutcookies.org</span>.</a>&nbsp;Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being updated, or to block cookies altogether. Please note that by blocking any or all these cookies you may not have access to certain features, content or personalization available through our Site. This information does not identify individual users.&nbsp; Find out more about<span style="color: #333399;"><span style="color: #3366ff;"><a href="https://www.avbuyer.com/cookie-policy" target="_blank"><span style="color: #3366ff;"> AvBuyer's cookie policy</span></a></span>.</span></p>
+<p><span style="color: #003366;"><strong>&nbsp;9. Partnership Offers<br></strong></span></p>
+<p>Sometimes we will make offers to&nbsp; users on behalf or our trusted partners, such as the Pratt and Whitney free aircraft advertisement offer.</p>
+<p>When a user signs up for this offer, AvBuyer will email them directly about the creation of their aircraft advertisement&nbsp;and users will need to stay subscribed for the duration of their advertisement being displayed on the site.&nbsp; After that they can unsubscribe from AvBuyer at any time via the unsubscribe link at the bottom of all our emails. Or contact us directly as outlined on this page.</p>
+<p>The users' data as outlined on the page for the offer is also shared with Pratt and Whitney who will contact them directly with more information or offers. If a user wants to unsubscribe from Pratt and Whitney, they can do so via Pratt and Whitney's unsubscribe link on their e-marketing.&nbsp;</p>
+<p>Some offers are for all users or only for new users for commercial reasons. Always check the details on the relevant offer, and if unsure contact the online team via the Contacts page.&nbsp;</p>
+<p><span style="color: #003366;"><strong>OPTING OUT OF E-MARKETING?</strong></span></p>
 <p>If you have requested, registered or signed up via AvBuyer.com or AvBuyer staff at Aviation events, we will send you emails about aircraft for sale, aviation services, editorial and intelligence. You may opt out at any time. Please contact <a href="https://www.avbuyer.com/contacts" target="_blank"><span style="color: #3366ff;">Michas Rapf</span></a> via the Contact page.</p>
-<p><strong>&nbsp;</strong></p>
-<p><span style="color: #000080;"><strong>CHECKING + CHANGING YOUR DATA </strong></span></p>
-<p><span style="color: #000080;"><strong><em>We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.</em></strong></span></p>
+<p><span style="color: #003366;"><strong>&nbsp;</strong><strong>CHECKING + CHANGING YOUR DATA</strong></span></p>
+<p><span style="color: #003366;"><strong><em>We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.</em></strong></span></p>
 <p>You can request a copy of the information that we hold about you free of charge. *</p>
 <p>We will respond to your request within one month of receiving it.</p>
 <p>You can access and make edits to the personal data we hold about you by logging into the site and accessing your account.</p>
 <p>If you would like to enquire about any additional data we hold about you, we will need to verify the identity of the person making the request, using ‘reasonable means’. This will include asking for some details to verify your identity. Please include proof of your identity and address (e.g. a copy of your driving licence or passport, and a recent utility or credit card bill) and specify the personal data you want access to.</p>
-<p>For advertisers – please contact <a href="https://www.avbuyer.com/contacts">Emma Davey</a> via the Contacts page or via the address below.</p>
-<p>For website users – please contact <a href="https://www.avbuyer.com/contacts">Michas Rapf</a>, via the Contacts page or via the address below.</p>
+<p>For advertisers – please contact <a href="https://www.avbuyer.com/contacts" target="_blank">Emma Davey</a> via the Contacts page or via the address below.</p>
+<p>For website users – please contact <a href="https://www.avbuyer.com/contacts" target="_blank">Michas Rapf</a>, via the Contacts page or via the address below.</p>
 <p><strong>Postal Address:</strong> AvBuyer House, 34 High Street, Thames Ditton, Surrey. KT7 0RY. UK</p>
 <p>Once you have received your details you also can request that we correct or delete any inaccuracies in this information free of charge.  Please follow the same process as above and specify which information is incorrect and what it should be replaced with.</p>
 <p><strong><em>*However, we may charge a ‘reasonable fee’ when a request is manifestly unfounded or excessive, particularly if it is repetitive. The fee charged will be based on the administrative cost of providing the information</em></strong>.</p>
-<p>&nbsp;</p>
-<p><span style="color: #000080;"><strong>WHO ELSE HAS ACCESS TO MY DATA?</strong></span></p>
-<p>We will never disclose your information to anyone outside the Avbuyer group of companies except where we have your consent; where we are required or permitted to do so by law, such as when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process; where other companies who provide a service to us as part of our order process require that data i.e. delivery companies, payment providers; or companies who send out email communications on our behalf; or where they are successors in title to our business.&nbsp;&nbsp;</p>
-<p><span style="color: #000080;">&nbsp;<strong>Accounts</strong></span></p>
+<p><span style="color: #003366;"><strong>WHO ELSE HAS ACCESS TO MY DATA?</strong></span></p>
+<p>We will never disclose your information to anyone outside the AvBuyer group of companies except where we have your consent, where we are required or permitted to do so by law, such as when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process; where other companies who provide a service to us as part of our order process require that data i.e. delivery companies, payment providers; or companies who send out email communications on our behalf; or where they are successors in title to our business. Where AvBuyer collects data to promote a special offer with a partner company, we will advise the user of that instance and advise them to refer to both our Privacy statement and that of the partner.&nbsp;</p>
+<p><span style="color: #003366;">&nbsp;<strong>Accounts</strong></span></p>
 <p>We use your data to manage your account, trace and recover debts, manage credit, detect and prevent fraud or money laundering, assign debts to permitted third parties and to look after any credit you may have with us. We also may look at data to review market trends and complete company progress reports.</p>
 <p>We may need to use or store some of your information to comply with our legal and regulatory obligations, or for possible legal proceedings. All financial information is stored on encrypted 3<sup>rd</sup> party financial software.</p>
-<p><span style="color: #000080;"><strong>Credit Card Payments</strong></span></p>
+<p><span style="color: #003366;"><strong>Credit Card Payments</strong></span></p>
 <p>If you choose to pay for services via a credit card, we enter and process these using third party software that is encrypted. This software is password protected.</p>
 <p>We only take credit card details over the phone.</p>
 <p><strong><em>If you decide to send them via e-mail, please remember that any communications via the internet aren’t safe unless they’ve been encrypted.&nbsp; If someone gets into your emails without your permission or the information is shared publicly, it is out of our control and we can’t accept responsibility.</em></strong></p>
-<p><span style="color: #000080;"><strong>PayPal</strong></span></p>
+<p><span style="color: #003366;"><strong>PayPal</strong></span></p>
 <p>We use PayPal for processing purchases made through this website including Sell My Aircraft Ad packages and print magazine subscriptions.</p>
 <p>The information received by us is only that needed to process your order and does not include any personal financial information such as credit card numbers or bank account details. Purchases are processed securely by PayPal and information submitted during checkout conforms to their own Privacy Policy. Please see&nbsp;<span style="color: #3366ff;"><a href="https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev" target="_blank"><span style="color: #3366ff;">PayPal’s privacy statement</span></a></span> for full details.</p>
-<p><span style="color: #000080;"><strong>CRM</strong></span></p>
+<p><span style="color: #003366;"><strong>CRM</strong></span></p>
 <p>AvBuyer uses a customer relationship management (CRM) platform. The&nbsp;CRM&nbsp;helps us manage our engagement activities with other organisations and suppliers.</p>
 <p>AvBuyer&nbsp;collects the following data for CRM:</p>
 <ul>
@@ -536,96 +726,99 @@ function createCookie(name, value) {
 <li>details of meetings, phone calls, emails, agendas, outcomes, actions, minutes and other documents</li>
 <li>questions, comments, queries or feedback from engagement activities</li>
 </ul>
-<p><span style="color: #000080;"><strong>&nbsp;</strong><strong>Where is my CRM data stored?</strong></span></p>
+<p><span style="color: #003366;"><strong>&nbsp;</strong><strong>Where is my CRM data stored?</strong></span></p>
 <ul>
 <li>AvBuyer&nbsp;stores your data on secure servers owned and operated by our CRM provider within Europe.</li>
 <li>From time to time, the technical support staff of our&nbsp;CRM&nbsp;platform supplier may access your data from outside Europe. We have strict controls over how, why and when they can do this.</li>
 </ul>
-<p><span style="color: #000080;"><strong>How long do you keep my CRM data for?</strong></span></p>
+<p><span style="color: #003366;"><strong>How long do you keep my CRM data for?</strong></span></p>
 <ul>
 <li>AvBuyer&nbsp;keeps your data for as long as we are engaged with you and your organisation.</li>
 <li>AvBuyer&nbsp;regularly reviews the data we hold to ensure that it’s accurate. Once an engagement closes, or when we no longer need that data, we will remove it from our&nbsp;CRM&nbsp;platform.</li>
 <li>Backups of our&nbsp;CRM&nbsp;platform data are automatically deleted after one month.</li>
 </ul>
-<p><span style="color: #000080;"><strong>Your permission or option to opt-out</strong></span></p>
+<p><span style="color: #003366;"><strong>Your permission or option to opt-out</strong></span></p>
 <ul>
 <li>AvBuyer needs to manage its engagement activities properly to provide an effective service. By engaging with&nbsp;AvBuyer, you agree to let us use your information as set out in this privacy policy.</li>
 <li>The data we collect will not be resold or used for commercial marketing purposes.</li>
-<li>Email<span style="color: #3366ff;">&nbsp;<a href="https://www.avbuyer.com/contacts"><span style="color: #3366ff;">Liam Robinson </span></a></span> to opt-out of the processing described in this privacy policy or find out more about how we use our&nbsp;CRM.</li>
+<li>Email<span style="color: #3366ff;">&nbsp;<a href="https://www.avbuyer.com/contacts" target="_blank">Michas Rapf</a></span> to opt-out of the processing described in this privacy policy or find out more about how we use our&nbsp;CRM.</li>
 </ul>
-<p><span style="color: #000080;"><strong>How does AvBuyer keep my personal information secure?</strong></span></p>
+<p><span style="color: #003366;"><strong>How does AvBuyer keep my personal information secure?</strong></span></p>
 <p>We follow best practice for data collection and storage and have audited all our data activities under GDPR guidelines.</p>
 <p>We have considered the issues around Data Breach and reviewed our policies to protect the personal information that we collect and process about you.</p>
 <p>Most user data have limited personal information such as name and email address, which is usually available on the front end of the site, may also be available in the public domain and is most certainly used on other sites and activities.</p>
 <p>Any client financial data is protected by third party encryption.</p>
 <p>The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information.&nbsp;</p>
-<p>&nbsp;</p>
-<p><span style="color: #000080;"><strong>THIRD PARTIES &amp; DATA MANAGEMENT </strong></span></p>
+<p><span style="color: #003366;"><strong>THIRD PARTIES &amp; DATA MANAGEMENT</strong></span></p>
 <p>1. Please do not submit your personal information to us if you do not wish us to collect, use and transfer your personal information under the terms of this policy.</p>
-<p><em>&nbsp;</em>2. All user data is stored within a secure customer management system (CMS) based in the UK. It is a bespoke content management system built/managed by <strong>Fiare.</strong> Fiare have offices in Helsinki and India.&nbsp; Personal information about users may be transferred outside the EU/EEA area to India where our Web Development team is based. The personal information is not processed in India for any commercial purposes in the interest of the controller, but the developers of this service have limited access to the service’s control panel and servers to solve technical issues. The service’s data protection and information security has been guaranteed with the standard contractual clauses provided by the EU commission.</p>
+<p><em>&nbsp;</em>2. All user data is stored within a secure customer management system (CMS) based in the UK. It is a bespoke content management system built/managed by <strong><a href="https://fiare.com/" target="_blank">Fiare</a>.</strong> Fiare have offices in Helsinki and India.&nbsp; Personal information about users may be transferred outside the EU/EEA area to India where our Web Development team is based. The personal information is not processed in India for any commercial purposes in the interest of the controller, but the developers of this service have limited access to the service’s control panel and servers to solve technical issues. The service’s data protection and information security has been guaranteed with the standard contractual clauses provided by the EU commission.</p>
 <p>&nbsp;3. Our Servers are operated by<span style="color: #3366ff;">&nbsp;<a href="https://aws.amazon.com/compliance/gdpr-center/" target="_blank">Amazon Web Services</a>.</span> They are commited to GDPR compliance and there are full details on their site.&nbsp;</p>
 <p>4. Our email marketing is powered by Mailwizz and so when you subscribe to our emails your details are held securely by them. As a respected service provider, they won’t share your information with any third parties or contact you directly at any time.</p>
 <p>5. Except where we specifically ask for information from you, AvBuyer.com does not collect your personal data.</p>
 <p>6. This privacy policy only applies to AvBuyer.com. When you visit other websites via links from AvBuyer, please read their privacy policies.</p>
-<p>&nbsp;</p>
-<p><span style="color: #000080;"><strong>DATA SECURITY</strong></span></p>
+<p><span style="color: #003366;"><strong>DATA SECURITY</strong></span></p>
 <p>No data transmission over the internet is completely secure, so we do not guarantee the security or integrity of your personal information and/or use of the site. However, we do follow best practice to protect your personal data by using encryption technology. We will use reasonable efforts to prevent accidental loss, destruction and damage. We follow industry accepted standards to protect the personal information submitted to us.</p>
 <p>We will keep your information for as long as you actively receive our newsletters or as needed to provide you services. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 <p>After an account is cancelled, copies of some information may remain viewable in some circumstances where, for example, you have posted items on social media. And due to the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancellation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all your information due to technical constraints, contractual or legal requirements.</p>
 <p>Please don’t send us any sensitive Information: such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through this Site or otherwise.</p>
 <p><strong><em>If you disagree or are unhappy with the way we handle your personal data and we are unable to resolve your issue, you have the right to lodge a complaint with the Information Commissioner’s Office (ICO),&nbsp;</em></strong></p>
-<p><span style="color: #000080;"><strong>PRIVACY POLICY UPDATED</strong></span></p>
-<p>We review our privacy policy regularly. This privacy policy was last updated on 23rd May 2018.</p>
+<p><span style="color: #003366;"><strong>PRIVACY POLICY UPDATED</strong></span></p>
+<p>We review our privacy policy regularly. This privacy policy was last updated on 29th October, 2019</p>
 <p>&nbsp;</p>    </div>
         </div>
     </section>
     <footer>
         <div class="container">
-  <div class="footer_block">
-    <ul class="clearfix mp0">
-      <li class="col1">
-        <span class="footer_logo">Logo</span>
-        <a href="/signup/alerts">Sign up</a> for free aircraft sales alerts and digital aviation magazines now        <div class="footer_social">
-            <a href="https://www.facebook.com/avbuyer" target="_blank" rel="noopener" class="fb_icon">Facebook</a>
-            <a href="https://twitter.com/avbuyer" target="_blank" rel="noopener" class="twitter_icon">Twitter</a>
-            <a href="https://www.youtube.com/user/AvBuyer" target="_blank" rel="noopener" class="utube_icon">YouTube</a>
-        </div>
-      </li>
-      
-      <li class="col2">
-        <div class="footer_head">AvBuyer Brands</div>
-        <ul class="footer_links mp0">
-          <li><a href="/magazines/avbuyer" target="" rel="">AvBuyer Magazine </a></li>
+    <div class="footer_block">
+        <ul class="clearfix mp0">
+            <li class="col1">
+                <span class="footer_logo">Logo</span>
+                <a class="signup_link" href="/signup/alerts">Sign up</a> for free aircraft sales alerts and digital aviation magazines now                <div class="footer_social">
+                    <a href="https://www.facebook.com/avbuyer" target="_blank" rel="noopener" class="fb_icon">
+                        Facebook                    </a>
+                    <a href="https://twitter.com/avbuyer" target="_blank" rel="noopener" class="twitter_icon">
+                        Twitter                    </a>
+                    <a href="https://www.youtube.com/user/AvBuyer" target="_blank" rel="noopener" class="utube_icon">
+                        YouTube                    </a>
+                </div>
+            </li>
+
+            <li class="col2">
+                <div class="footer_head">AvBuyer Brands</div>
+                <ul class="footer_links mp0">
+                    <li><a href="/magazines/avbuyer" target="" rel="">AvBuyer Magazine </a></li>
 <li><a href="/magazines/gabuyer" target="" rel="">GA Buyer Europe Magazine </a></li>
 <li><a href="/articles" target="" rel="">Aviation Articles &amp; Videos </a></li>
 <li><a href="/sell-my-aircraft" target="" rel="">Sell Your Aircraft </a></li>
-<li><a href="https://www.theeliteevents.com" target="_blank" rel="noopener">The Elite </a></li>
+<li><a href="https://www.avbuyer.com/articles/insiders-guides-with-rene-banglesdorf" target="_blank" rel="">The Insiders Guides </a></li>
 <li><a href="http://www.aeroexpo.co.uk" target="_blank" rel="noopener">AeroExpoUK </a></li>
 <li><a href="http://www.heliukexpo.com/" target="_blank" rel="noopener">HeliUKExpo </a></li>
 <li><a href="/contacts" target="_blank" rel="">Contact Us </a></li>
 <li><a href="/services" target="_blank" rel="">Services </a></li>
 <li><a href="/help-and-support" target="_blank" rel="">Help &amp; Support </a></li>
-        </ul>
-      </li>
-      <li class="col2">
-        <div class="footer_head">Aircraft Search</div>
-        <ul class="footer_links mp0">
-          <li><a href="/aircraft/private-jets" target="_blank" rel="">Private Jets </a></li>
+                </ul>
+            </li>
+
+            <li class="col2">
+                <div class="footer_head">Aircraft Search</div>
+                <ul class="footer_links mp0">
+                    <li><a href="/aircraft/private-jets" target="_blank" rel="">Private Jets </a></li>
 <li><a href="/aircraft/turboprops" target="_blank" rel="">Turboprops </a></li>
 <li><a href="/aircraft/twin-piston" target="_blank" rel="">Twin Piston </a></li>
 <li><a href="/aircraft/single-piston" target="_blank" rel="">Single Piston </a></li>
-<li><a href="/aircraft/light" target="_blank" rel="">Light Aircraft </a></li>
+<li><a href="/articles/special-missions-aircraft/" target="_blank" rel="">Special Missions Aircraft </a></li>
 <li><a href="/aircraft/" target="_blank" rel="">All Aircraft </a></li>
 <li><a href="/aircraft/helicopter" target="_blank" rel="">Helicopter </a></li>
 <li><a href="/dealers" target="_blank" rel="">Dealer Search </a></li>
 <li><a href="/buy-aircraft" target="_blank" rel="">Buy Aircraft </a></li>
 <li><a href="/sell-aircraft" target="_blank" rel="">Sell Aircraft </a></li>
-        </ul> 
-      </li>
-      <li class="col2">
-        <div class="footer_head">Trending Jets Search</div>
-        <ul class="footer_links mp0">
-          <li><a href="/aircraft/private-jets/cessna-citation/x" target="_blank" rel="">Cessna Citation X </a></li>
+                </ul>
+            </li>
+
+            <li class="col2">
+                <div class="footer_head">Trending Jets Search</div>
+                <ul class="footer_links mp0">
+                    <li><a href="/aircraft/private-jets/cessna-citation/x" target="_blank" rel="">Cessna Citation X </a></li>
 <li><a href="/aircraft/private-jets/gulfstream/g550" target="_blank" rel="">Gulfstream G550 </a></li>
 <li><a href="/aircraft/private-jets/bombardier-global" target="_blank" rel="">Bombardier Global 6000 </a></li>
 <li><a href="/aircraft/private-jets/bombardier-challenger/300" target="_blank" rel="">Bombardier Challenger 300 </a></li>
@@ -635,12 +828,13 @@ function createCookie(name, value) {
 <li><a href="/aircraft/private-jets/cessna-citation" target="_blank" rel="">Cessna Citation Jets for Sale </a></li>
 <li><a href="/aircraft/private-jets/gulfstream" target="_blank" rel="">Gulfstream Jets for Sale </a></li>
 <li><a href="/aircraft/private-jets/bombardier-global" target="_blank" rel="">Bombardier Global Jets </a></li>
-        </ul>
-      </li>
-      <li class="col2">
-        <div class="footer_head">Trending Helicopter Search</div>
-        <ul class="footer_links mp0">
-          <li><a href="/aircraft/helicopter/turbine/agusta/aw139" target="_blank" rel="">AW139 </a></li>
+                </ul>
+            </li>
+
+            <li class="col2">
+                <div class="footer_head">Trending Helicopter Search</div>
+                <ul class="footer_links mp0">
+                    <li><a href="/aircraft/helicopter/turbine/agusta/aw139" target="_blank" rel="">AW139 </a></li>
 <li><a href="/aircraft/helicopter/turbine/bell-helicopters/407" target="_blank" rel="">Bell 407 for Sale </a></li>
 <li><a href="/aircraft/helicopter/turbine/airbus-eurocopter/as-355f-2" target="_blank" rel="">Eurocopter AS-355F-2 for Sale </a></li>
 <li><a href="/aircraft/helicopter/turbine/bell-helicopters/206b-iii" target="_blank" rel="">Bell 206B111 for Sale </a></li>
@@ -650,28 +844,57 @@ function createCookie(name, value) {
 <li><a href="/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-2" target="_blank" rel="">Airbus AS-350B-2 for Sale </a></li>
 <li><a href="/aircraft/helicopter/piston/robinson/r22-beta" target="_blank" rel="">Robinson R22 for Sale </a></li>
 <li><a href="/aircraft/helicopter/turbine/agusta/a119-koala" target="_blank" rel="">Agusta A119 Koala </a></li>
+                </ul>
+            </li>
+
         </ul>
-      </li>
-      
-    </ul>
-  </div>
+    </div>
 </div>
 
 <div class="copyright">
-  <div class="container">
-    <div class="fl">
-      © 2002-2019 AvBuyer Ltd Reserved. All Rights Reserved.      |<a href="/terms-and-conditions"> Terms &amp; Conditions</a>
-      |<a href="/privacy-policy"> Privacy &amp; Cookies</a>
-      |<a href="#"> Sitemap</a>
+    <div class="container">
+        <div class="fl">
+            © 2002-2019 AvBuyer Ltd Reserved. All Rights Reserved.            | <a href="/terms-and-conditions"> Terms &amp; Conditions</a>
+            | <a href="/privacy-policy"> Privacy &amp; Cookies</a>
+        </div>
+        <span class="fr">© Powered by<b class="fiare_logo">&nbsp;</b>Ads</span>
+        <div class="clear"></div>
     </div>
-    <span class="fr">© Powered by<b class="fiare_logo">&nbsp;</b>Ads</span>
-    <div class="clear"></div>
-  </div>
 </div>    </footer>
 
 
 
 <script type="text/javascript">
+
+    function loadYoutubeJs(){
+            var div, n,
+                v = document.getElementsByClassName("youtube-player");
+            for (n = 0; n < v.length; n++) {
+                div = document.createElement("div");
+                div.setAttribute("data-id", v[n].dataset.id);
+                div.innerHTML = labnolThumb(v[n].dataset.id);
+                div.onclick = labnolIframe;
+                v[n].appendChild(div);
+            }
+    }
+
+    function labnolThumb(id) {
+        var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
+            play = '<div class="play"></div>';
+        return thumb.replace("ID", id) + play;
+    }
+
+    function labnolIframe() {
+        var iframe = document.createElement("iframe");
+        var embed = "https://www.youtube.com/embed/ID?autoplay=1&mute=1";
+        iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
+        iframe.setAttribute("frameborder", "0");
+        iframe.setAttribute("allowfullscreen", "1");
+        this.parentNode.replaceChild(iframe, this);
+    }
+
+
+
             jQuery(function(){
             while (domReadyQueue.length) {
                 domReadyQueue.shift()(jQuery);
@@ -682,6 +905,18 @@ function createCookie(name, value) {
 
 
 <script type="text/javascript">
+    function disableImageClickAndDrag(){
+        // this will disable dragging of all images
+        $("img").mousedown(function(e){
+            e.preventDefault()
+        });
+
+        // this will disable right-click on all images
+        $("img").on("contextmenu",function(e){
+            return false;
+        });
+    }
+    disableImageClickAndDrag();
     var invisible_recaptcha_jq = 'https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit';
 
     ///checks files with the SRC attribute
@@ -739,6 +974,7 @@ function createCookie(name, value) {
     }
 
         $(document).ready(function() {
+        loadYoutubeJs();
                 $('#cookie_tab').show();
             });
 
@@ -798,9 +1034,9 @@ function createCookie(name, value) {
       },
       {
           "@type":"WebPage",
-          "name": "Privacy Policy | AvBuyer",
+          "name": "    Privacy Policy | AvBuyer",
           "url": "https://www.avbuyer.com/",
-		  "description": "Our Privacy Policy lets you know what personal information our website collects and how it is managed."
+		  "description": "    Our Privacy Policy lets you know what personal information our website collects and how it is managed."
       },
       {
           "@type":"WPHeader",
