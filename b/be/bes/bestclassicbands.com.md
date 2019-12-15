@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestclassicbands.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407160428id_/https%3A//bestclassicbands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestclassicbands.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215112532id_/https%3A//bestclassicbands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Classic Rock News, Features, Reviews + More
 
