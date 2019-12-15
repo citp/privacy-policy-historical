@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swellbottle.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524024705id_/https%3A//www.swellbottle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellbottle.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215085948id_/https%3A//www.swellbottle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | S'well® Bottle Official
+# Privacy Policy | S'well® Bottle Official | Reusable Insulated Water Bottles
 
 _Last updated: May 23, 2018_
 
