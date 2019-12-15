@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intofilm.org privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924075016id_/https%3A//www.intofilm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intofilm.org privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215081341id_/https%3A//www.intofilm.org/privacy-policy) for the most accurate reproduction.*
 
 # Read our privacy policy. - Into Film
 
