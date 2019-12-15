@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendio.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129075100id_/https%3A//www.lendio.com/agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendio.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215071933id_/https%3A//www.lendio.com/agreements/privacy-policy) for the most accurate reproduction.*
 
 # Lendio Privacy Policy | Lendio
 
