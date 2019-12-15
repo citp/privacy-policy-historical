@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesixthaxis.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612123432id_/https%3A//www.thesixthaxis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesixthaxis.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215170948id_/https%3A//www.thesixthaxis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TheSixthAxis
 
@@ -111,7 +111,7 @@ The service provides an ad exchange platform that facilitates the optimization o
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: United States – [Privacy Policy](http://openx.com/legal/ad-exchange-privacy-principles/) – [Opt Out](http://openx.com/legal/).
+Place of processing: United States – [Privacy Policy](https://www.openx.com/legal/ad-exchange-privacy-principles/) – [Opt Out](https://www.openx.com/legal/).
 
 #### Rubicon Project (The Rubicon Project, Inc.)
 
