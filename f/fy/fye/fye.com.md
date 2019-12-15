@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421111302id_/https%3A//www.fye.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215074015id_/https%3A//www.fye.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # FYE.com Privacy Policy
 
