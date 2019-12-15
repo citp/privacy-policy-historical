@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nulledbb.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613010418id_/https%3A//nulledbb.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nulledbb.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215165523id_/https%3A//nulledbb.com/privacypolicy) for the most accurate reproduction.*
 
 # Nulled - Help Documents
 
@@ -28,4 +28,4 @@ Our website contains some affiliate marketing links, which means we get paid com
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.  Ban Policy If your account gets banned, because you broke our terms of services, we take the right to release your information to public viewing. 
 
 © [Nulled](https://nulledbb.com/) 2015 - 2019  
-Server time: 13.06.2019 - 1:04 AM (1624 Days Online) 
+Server time: 15.12.2019 - 4:55 PM (1809 Days Online) 
