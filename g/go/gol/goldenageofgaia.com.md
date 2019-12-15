@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenageofgaia.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214015833id_/http%3A//goldenageofgaia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenageofgaia.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215165600id_/http%3A//goldenageofgaia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ GOLDEN AGE OF GAIA AND HOPE CHEST PRIVACY POLICY
 
 Golden Age of Gaia, and its charitable division, the Hope Chest, (the “Company”) is committed to maintaining robust privacy protections for its users.  Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.
 
-For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via our website at [http://goldenageofgaia.com](http://goldenageofgaia.com/ "golden age of gaia") [or through our mobile application], in which users can: view Golden Age of Gaia original content, listen to radio programs produced for Golden Age of Gaia via InLight Universal, view news and editorial aggregated from the world wide web by Golden Age of Gaia curators, interact with other online users via a registered forum, send email to the Golden Age of Gaia “contact-us” and Hope Chest request form, and interact with users via Facebook.  The terms “we,” “us,” and “our” refer to the Company known as Golden Age of Gaia, and it’s charitable division, known as The Hope Chest. “You” refers to you, as a user of Service. By accepting our Privacy Policy and Terms of Use (please click: **[GOLDEN AGE OF GAIA TERMS OF SERVICE](http://goldenageofgaia.com/terms-of-service/ "golden age of gaia terms of service")** ), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via our website at [https://goldenageofgaia.com](https://goldenageofgaia.com/ "golden age of gaia") [or through our mobile application], in which users can: view Golden Age of Gaia original content, listen to radio programs produced for Golden Age of Gaia via InLight Universal, view news and editorial aggregated from the world wide web by Golden Age of Gaia curators, interact with other online users via a registered forum, send email to the Golden Age of Gaia “contact-us” and Hope Chest request form, and interact with users via Facebook.  The terms “we,” “us,” and “our” refer to the Company known as Golden Age of Gaia, and it’s charitable division, known as The Hope Chest. “You” refers to you, as a user of Service. By accepting our Privacy Policy and Terms of Use (please click: **[GOLDEN AGE OF GAIA TERMS OF SERVICE](https://goldenageofgaia.com/terms-of-service/ "golden age of gaia terms of service")** ), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 I. INFORMATION WE COLLECT
 
@@ -50,11 +50,11 @@ As part of the Service, we may provide links to or compatibility with other webs
 
 VI.  CHANGES TO OUR PRIVACY POLICY
 
-Golden Age of Gaia reserves the right to change this policy and our [Terms of Service](http://goldenageofgaia.com/terms-of-service/ "golden age of gaia terms of service") at any time.  We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your registered forum or newsletter subscription account or by placing a prominent notice on our site.  Significant changes will go into effect 30 days following such notification.  Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
+Golden Age of Gaia reserves the right to change this policy and our [Terms of Service](https://goldenageofgaia.com/terms-of-service/ "golden age of gaia terms of service") at any time.  We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your registered forum or newsletter subscription account or by placing a prominent notice on our site.  Significant changes will go into effect 30 days following such notification.  Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
 
 VII.     CONTACT US
 
-If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email, with PRIVACY POLICY QUESTION in the headline to our [CONTACT US mailbox](http://goldenageofgaia.com/contact-us/ "golden age of gaia contact us") or sending an email directly to:
+If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email, with PRIVACY POLICY QUESTION in the headline to our [CONTACT US mailbox](https://goldenageofgaia.com/contact-us/ "golden age of gaia contact us") or sending an email directly to:
 
 t2s0e65b-d7e8-43c2-9b28-3d98d037d3f7@live.com.
 
