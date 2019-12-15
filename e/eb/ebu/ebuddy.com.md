@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuddy.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615091004id_/http%3A//www.ebuddy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuddy.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215094134id_/https%3A//www.ebuddy.com/privacy.html) for the most accurate reproduction.*
 
 # eBuddy.lock - Secure and reliable messaging
 
