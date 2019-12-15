@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onwpthemes.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528041755id_/http%3A//www.onwpthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onwpthemes.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215203807id_/http%3A//www.onwpthemes.com/privacy) for the most accurate reproduction.*
 
 # Privacy - OnWPThemes
 
