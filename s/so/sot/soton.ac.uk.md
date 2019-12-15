@@ -1,203 +1,168 @@
-> *The following text is extracted and transformed from the soton.ac.uk privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323105734id_/https%3A//www.southampton.ac.uk/about/governance/policies/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soton.ac.uk privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215082039id_/https%3A//www.southampton.ac.uk/about/governance/policies/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Notice | University of Southampton
 
-The University of Southampton (University) values your privacy and we recognise the need to process your personal Data in a fair and lawful manner. This Privacy Notice, together with the [University Network Terms](https://www.southampton.ac.uk/about/governance/regulations-policies-guidelines.page), set out the terms relevant to the University’s processing of personal data obtained as a result of your use of our University Network.
+The University of Southampton values your privacy and recognises the need to process the personal information we hold about you (your data) in a fair and lawful manner.
+
+This privacy notice, together with the [University Network Terms and Conditions](https://www.southampton.ac.uk/about/governance/regulations-policies-guidelines.page#university_network_terms_and_conditions), sets out the terms relevant to the University’s processing of [personal data](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/what-is-personal-data/what-is-personal-data/) obtained as a result of your use of the University Network. Where relevant, it should be read in conjunction with the privacy notices for [enquirers](https://www.southampton.ac.uk/about/governance/policies/enquirers-privacy-policy.page), [staff](https://www.southampton.ac.uk/hr/services/data-protection/data-protection.page), [students](https://www.southampton.ac.uk/studentadmin/student-admin/privacy-notice.page) or [alumni](https://www.southampton.ac.uk/alumni-supporters/stay-in-touch/privacy-notice.page).
 
 The University Network means the University’s digital information network with domain name soton.ac.uk and which may be accessed by a User in several ways, including but not limited to the World Wide Web and through various devices which are used for the transmission or reception (either wholly or in part) of any data (including voice, e-mail, video, web content or any other types or formats of data).
 
-We are a "data controller". This means that we are responsible for deciding how we hold and use personal information about you. This privacy notice aims to give you information on how the University of Southampton collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our newsletter, purchase a product or service or take part in a competition. This website is not intended for children and we do not knowingly collect data relating to children.
+The University is a "Data Controller". This means that we are responsible for deciding how we hold and use your data. This privacy notice is being made available to you because, in order to operate the University website and fulfil your requests, we may collect and store personal information that you submit to the University via this website. This notice informs you about how and why your personal data will be used and how long it will usually be retained by us. It provides you with certain information that must be provided under the General Data Protection Regulation (EU 2016/679) (GDPR 2016), the UK Data Protection Act 2018 (DPA 2018), the Privacy and Electronic Communications Regulation (PECR) and any other relevant data protection legislation that may apply (together ‘Data Protection Legislation’). Our registration number with the Information Commissioner’s Office is Z6801020.
 
-It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
+“Data” refers to the information that we hold about you from which either on its own or in combination with other information you can be identified. It may include names, contact details, photographs, identification numbers, online identifiers and expressions of opinion about you or indications as to our intentions about you. Categories of data held by the University about people who interact with the website are set out below. "Processing" means doing anything with your data, such as collecting, recording or holding the data, as well as disclosing, destroying or using the data in any way.
 
-It provides you with certain information that must be provided under the General Data Protection Regulation ( (EU) 2016/679) (GDPR). Our registration number with the Information Commissioner’s Office is Z6801020.
-
-Data refers to the information that we hold about you from which either on its own or in combination with other information you can be identified and may include names, contact details, photographs, identification numbers, online identifiers, biometric information and expressions of opinion about you or indications as to our intentions about you.  A list of the data we collect is set out below.
-
-"Processing" means doing anything with your Data, such as collecting, recording or holding the Data as well as disclosing, destroying or using the Data in any way.
-
-This notice may be amended from time to time and you can obtain a current version on the [Privacy Notice web page](https://www.southampton.ac.uk/about/governance/policies/privacy-policy.page).
+This notice may be amended from time to time. The current version is available [here](https://www.southampton.ac.uk/about/governance/policies/privacy-policy.page).
 
 ### Data Protection Principles
 
-We will comply with data protection law and principles, which means that your data will be:
+We will comply with the Data Protection Legislation and its principles, which means that your data will be:
 
-  * Used lawfully, fairly and in a transparent way.
-  * Collected only for valid purposes that we have clearly explained to you and not used in any way that is incompatible with those purposes.
-  * Relevant to the purposes we have told you about and limited only to those purposes.
-  * Accurate and kept up to date.
-  * Kept only as long as necessary for the purposes we have told you about.
+  * Used lawfully, fairly and in a transparent way;
+  * Collected only for valid purposes that we have clearly explained to you and not used in any way that is incompatible with those purposes;
+  * Used in a way that is relevant to the purposes we have told you about and limited in usage only to those purposes;
+  * Accurate and kept up to date;
+  * Kept only as long as necessary for the purposes we have told you about;
   * Kept securely.
 
 
 
-### Third Party Links
-
-This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
-
 ### What information does the University collect?
 
-Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+ **We will collect and process the following categories of personal data about you:**
 
-We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
-
-  * **Identity Data** includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
-  * **Contact Data** includes billing address, delivery address, email address and telephone numbers.
-  * **Financial Data** includes bank account and payment card details.
-  * **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
-  * **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
-  * **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
-  * **Usage Data** includes information about how you use our website, products and services.
-  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
-  * **A record** of any correspondence you send to us through our website.
-  * **Data that you provide** in placing an order through the University Network, completing applications for entry into a Programme of Study at the University, application forms for accommodation, entry into Prize Draws and competitions and details of donations you make to the University;
-
-
-
-Where you are required to enter your username and password to gain access to the University Network or a University Network Service, over and above the information referred to above, we may also collect information about external networks and resources you have visited, accessed or materials downloaded.
-
-From time to time the University runs surveys about various aspects related to its Services, including but not limited to surveys about certain Users’ travelling habits to and from campus, the student experience, graduate employability and so forth. These surveys are anonymous but in certain circumstances because of the other information we hold about Users who are also members of the University community a User may be identifiable.
-
-We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature.
-
-However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice. 
-
-We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data) unless we specifically ask you for your consent for us to collect this data through our online forms. We do not collect any information about criminal convictions and offences.
-
-### What if you do not provide your personal data?
-
-Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
-
-### How is your personal data collected?
-
-We use different methods to collect data from and about you including through:
-
-**Direct interactions.** You may give us your identity, contact and financial data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
-
-  * request information about Programmes of Study which could be of interest to you in the future;
-  * apply for our products or services;
-  * create an account on our website;
-  * subscribe to our service or publications;
-  * request marketing to be sent to you;
-  * send you details of any fund-raising campaigns.
-  * request information about events, conferences, seminars, or other workshops and conferences which may be of interest to you;
-  * request information and updates about the University’s achievements in research, education and enterprise;
-  * enter a competition, promotion or survey; or
-  * give us some feedback.
+  * Biographical data including first and last name, maiden name, marital status, title, age, domicile, date of birth and gender
+  * Contact data including billing address, delivery address, email address and telephone numbers
+  * Records of all contact we have with you
+  * Financial data including bank account and payment card details
+  * Transaction data including details about payments to and from you and other details of products and services you have purchased from us
+  * Technical data including internet protocol (IP) address, cookie identifiers, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website
+  * Profile data including your username or similar identifier and password, purchases or orders made by you, your interests, preferences, feedback and survey responses
+  * Usage data including information about how you use our website, products and services
+  * Marketing and communications data including your preferences in receiving marketing from us and your communication preferences
+  * Data that you provide in the course of your interaction with the University, for example, placing an order through the University Network; completing applications for entry into a programme of study at the University; applications for accommodation; entry into prize draws and competitions, and details of donations you make to the University
+  * Where you are required to enter your username and password to gain access to the University Network or a University Network Service, over and above the information referred to above, we may also collect information about external networks and resources you have visited, accessed or materials downloaded
+  * We also collect, use and share aggregate data such as statistical or demographic data. Aggregate data may be derived from your personal data but does not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific website feature
+  * From time to time the University runs surveys about various aspects related to its services, including but not limited to travel, the student experience, graduate employability and so forth. These surveys are anonymous but in certain circumstances users who are also members of the University community may be identifiable because of other information that we hold
+  * Any other information that you provide to us to fulfil your request
 
 
 
-**Automated technologies or interactions**. As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see [our cookie policy](https://www.southampton.ac.uk/about/governance/regulations-policies-guidelines.page#university_network_terms_and_conditions)  for further details.
+**We may also process the following “special categories” of more sensitive personal data, where this is necessary and you provide it to us**
 
-**Third parties or publicly available sources**. We may receive personal data about you from various third parties as set out below:
-
-  * Technical Data from the following parties:
-
-
-
-\- analytics providers such as Google based outside the EU;
-
-\- advertising networks such as Google AdWords and Facebook based outside the EU and
-
-\- search information providers such as Google based outside the EU.
-
-  * Identity and Contact Data from data brokers or aggregators such as UCAS, WhatUni based inside the EU.
-  * Identity and Contact Data from publicly availably sources such as social media, electoral register, Companies House etc.
+  * Information about your health, including any medical condition and/or disability
+  * Ethnicity, race, nationality and country of origin
+  * Religious, philosophical or moral beliefs
+  * Gender identification, sexual life and sexual orientation
+  * Criminal convictions
 
 
+
+### How will your data be collected?
+
+We collect information directly from you during our contact with you.
+
+ We collect data from publicly available sources to support service delivery.
+
+The University also uses services from Google, Google AdWords and Facebook on this website to measure and analyse visitor information. For further information on these, please visit [Google Analytics](https://developers.google.com/analytics), [Google AdWords](https://ads.google.com/intl/en_GB/home/) and [Facebook](https://analytics.facebook.com/).
+
+### Cookies
+
+We use cookies to support your service user-experience, and to assist us with providing a better service for other users. Allowing cookies to be used will enable your user preferences to be remembered by your device. Some cookies are necessary for the functioning of our website. Others are optional and we will not use them without your consent. When you first visit our webpages, you will be asked to agree to the use of cookies. If you do not agree, only essential cookies will be enabled.
+
+You can read our cookie policy and change your cookie settings at any time using the Privacy Settings button on the footer of every webpage.
 
 ### How we use your personal data
 
-We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+We will only use your personal data in accordance with the law. Most commonly, we will use your personal data in the following circumstances:
 
-  * Where we need to perform the contract we are about to enter into or have entered into with you.
-  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
-  * Where we need to comply with a legal or regulatory obligation.
+  * Where we need to perform a contract that we are about to enter into or have entered into with you, for example, to deliver the services we have agreed to provide as part of your student enrolment registration;
+  * To perform tasks carried out in the public interest as a provider of education, research and enterprise;
+  * Where it is necessary for our legitimate interests or those of a third party provided that your interests and rights do not override those interests, including provision of administrative and management services and promoting equality and diversity;
+  * Where we need to comply with legal or regulatory obligations in areas such as health and safety and crime prevention;
+  * To protect your vital interests, for example, where we may have reason to believe that you or another person may suffer harm.
 
 
 
-Legitimate Interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests.
+We will only process your special category data with your consent or if it is necessary: for the establishment, exercise or defence of legal claims; when it is needed to protect your or another person’s vital interests and you are not capable of giving your consent, or for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes.
 
-We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email or text message or where you have consented to us collecting your personal information through one of our online forms. Where you have provided your consent you have the right to withdraw it at any time by sending an email to [infogov@southampton.ac.uk](mailto:infogov@southampton.ac.uk).
 
-Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email or text message or where you have consented to us collecting your personal information through one of our online forms.  Where you have provided your consent you have the right to withdraw it at any time by [Contacting us](mailto:gdpr@soton.ac.uk).
+We may use and analyse the information we collect so that we can manage and improve our services.
+
+Demographic and statistical information about user behaviour may be collected and used to analyse the popularity and effectiveness of the website. Any disclosure of this information will be in aggregate form and will not identify individual users.
+
+When we use your data for statistical and research purposes, we will usually anonymise your data so that you cannot be identified. If that is not possible, we use your personal data on the basis that this is necessary: in the public interest; for scientific or historical research or statistical purposes, or for the purposes of the University’s legitimate business interests.
 
 ### Processing for limited purposes
 
-We will only process your Data for the specific purpose or purposes that we tell you about, or if specifically permitted by the UK Data Protection Act 1998 or the Data Protection Act 2018 (depending on which is in force at the relevant time), and will only process your data to the extent necessary for that specific purpose or purposes.
+We will only process your data for the specific purpose or purposes that we tell you about, or if specifically permitted by the Data Protection Legislation, and will only process your data to the extent necessary for that specific purpose or purposes.
 
-### Accuracy
+None of the personal data collected about you will be used as part of any automated decision-making about you.
 
-We will keep the data we store about you accurate and up to date as relevant to the purpose or purposes for which we process it. Data that is inaccurate or out of date will be destroyed. Please notify us if your personal details change or if data we hold about you is inaccurate.
+### What if you do not provide your personal data?
 
-### How will your personal data be secured?
-
-We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so. In addition, we limit access to your personal data to those employees of the University who have a business need-to-know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
-
-### Holding and retaining your data
-
-We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. Details of retention periods for different aspects of your personal data are available in our retention policy. After this period, we will securely destroy your personal data in accordance with our [Record Retention Schedule](https://www.southampton.ac.uk/about/governance/regulations-policies-guidelines.page).
+If you do not provide certain categories of personal data when requested, or if you do not allow us to process your personal data collected through other means for specified purposes, we may not be able to successfully fulfil your request or deliver services to you.
 
 ### Who has access to your personal data?
 
-Your information will be shared internally within the University for the purposes of processing your enquiry, application, request or contract.
+Your information will be shared internally within the University for the purposes described in the section “How we use your personal data”.
 
-We may have to share your personal data externally with the following parties:
+We will never sell your data.
 
-  * Service providers acting as processors based outside the UK and the EEA who provide IT and system administration services such as Google Analytics and Data Studio, Google AdWords and DoubleClick and social media platforms.
-  * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based inside the UK and the EEA who provide consultancy, banking, legal, insurance and accounting services.
-  * HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom who require reporting of processing activities in certain circumstances.
+We only share data for purposes that are compatible with the original purpose of its collection.
 
+Contracts will be put in place with all third-party data recipients to ensure that any personal data shared will be held in accordance with the requirements of the Data Protection Legislation. Third-party data recipients are required to take appropriate security measures to protect your personal data in line with our policies. We only permit third-party data recipients to process your personal data for specific purposes and in accordance with our instructions.
 
+Exceptionally, we may disclose your data to a third party if required to do so: to protect or defend the University’s rights, interests, or property, or those of third parties; act in urgent circumstances to protect the personal safety of University constituents, or the public; or protect against legal liability.
 
-We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+### Accuracy
 
-Exceptionally, we may disclose your Data with a third party if required to do so to protect or defend the University’s rights, interests, or property, or those of third parties; act in urgent circumstances to protect the personal safety of University constituents, or the public; or protect against legal liability.
+It is important that the personal information that we hold about you is accurate and up to date. Please notify us at [infogov@southampton.ac.uk](mailto:infogov@southampton.ac.uk) if your personal details change, or if data that we hold about you is inaccurate.
 
-### International Transfers
+### Holding and retaining your data
 
- We may transfer your data outside the European Economic Area ( **EEA** ).
+We will only retain your personal data for as long as necessary to fulfil the purposes we collect it for, including for the purposes of satisfying any legal, accounting, insurance or reporting requirements. Details of retention periods for different aspects of your personal data are available in our record management policy. After this period, we will securely destroy your personal data in accordance with our record retention schedule.
 
-Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is:
+The record management policy and record retention schedule can be viewed in the section titled “Our policies and procedures” on the University’s [Publication Scheme](https://www.southampton.ac.uk/about/governance/regulations-policies-guidelines.page) webpage.
 
-  *  We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see [European Commission: Adequacy of the protection of personal data in non-EU countries](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
-  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see [European Commission: Model contracts for the transfer of personal data to third countries.](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)
-  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see [European Commission: EU-US Privacy Shield](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en).
+### How will your data be secured?
 
+We limit access to your personal data to those employees of the University and third parties who have a business need-to-know. They will only process your data on our instructions and they are subject to a duty of confidentiality. The University has [procedures](https://www.southampton.ac.uk/about/governance/freedom-of-information.page) in place to deal with any suspected data security breach and will notify you and any applicable regulator of a breach in accordance with our legal obligations.
 
+### Direct marketing
 
-Please [Contact us](mailto:gdpr@soton.ac.uk) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+We may, from time to time, contact you by email, post, SMS, telephone and social media or paid-for advertising with your consent (as required). If at any stage you are concerned about the content of these communications e.g. unwanted marketing information, or wish to change how we communicate with you, please contact us at [infogov@southampton.ac.uk](mailto:infogov@southampton.ac.uk) to unsubscribe. All electronic communication is offered in line with EU and UK electronic privacy rules.
+
+### Withdrawal of consent for direct marketing
+
+You have the right to withdraw your consent for direct marketing at any time. To do so, please contact [infogov@southampton.ac.uk](mailto:infogov@southampton.ac.uk). Once we have received notification that you have withdrawn your consent, we may not be able to fulfil some or all of your request and, subject to our record management policy and record retention schedule, we will dispose of your personal data securely.
+
+The record management policy and record retention schedule can be viewed in the section titled “Our policies and procedures” on the University’s [Publication Scheme](https://www.southampton.ac.uk/about/governance/regulations-policies-guidelines.page) webpage.
+
+### Third party links
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
 ### Your rights
 
-You have a number of rights. You can:
+You have a number of [rights](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). You can:
 
-  * access and obtain a copy of your data on request;
-  * require us to change incorrect or incomplete data;
-  * require us to delete or stop processing your data, for example where the data is no longer necessary for the purposes of processing;
-  * object to the processing of your data where we are relying on our legitimate interests as the legal ground for processing; and
-  * ask us to stop processing data for a period if data is inaccurate or there is a dispute about whether or not your interests override the organisation's legitimate grounds for processing data.
+  * Access and obtain a copy of your data on request;
+  * Require us to change incorrect or incomplete data;
+  * Require us to delete or stop processing your data, for example where the data is no longer necessary for the purposes of processing;
+  * Object to the processing of your data where we are relying on our legitimate interests as the lawful basis for processing;
+  * Ask us to stop processing data for a period if data is inaccurate or there is a dispute about whether or not your interests override the organisation's legitimate grounds for processing data, and
+  * Request the transfer of your personal data to another party.
 
 
 
 If you would like to exercise these rights please use our [online form](https://www.southampton.ac.uk/about/governance/freedom-of-information.page) or write to:
 
-The Data Protection Officer
+The Data Protection Officer  
+Legal Services  
+University of Southampton, Highfield  
+Southampton, SO17 1BJ  
+Email: data.protection@soton.ac.uk
 
-Legal Services
-
-University of Southampton, Highfield
-
-Southampton, SO17 1BJ
-
-Email: [data.protection@soton.ac.uk](mailto:data.protection@soton.ac.uk)
-
-### Unwanted communications
-
-If at any stage you are concerned about the content of any communications from the University e.g. unwanted marketing information or you wish to change how we communicate with you please contact us at: [gdpr@soton.ac.uk](mailto:gdpr@soton.ac.uk).
-
-### Further information 
-
-We also have additional policies and guidelines concerning particular activities. If you would like further information please see our [Publication Scheme](http://www.southampton.ac.uk/about/governance/regulations-policies-guidelines.page#publication_scheme.).
-
-If you are unhappy with the way that we have handled your data you can contact us at: [gdpr@soton.ac.uk](mailto:gdpr@soton.ac.uk) or contact the Information Commissioner’s Office. See their [website](https://ico.org.uk/).
+We also have additional policies and guidelines concerning particular activities. If you would like further information please see our [Publication Scheme](http://www.southampton.ac.uk/about/governance/regulations-policies-guidelines.page#publication_scheme).
