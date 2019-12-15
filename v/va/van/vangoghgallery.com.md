@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vangoghgallery.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614235011id_/https%3A//www.vangoghgallery.com/misc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vangoghgallery.com privacy policy that was archived on 2019-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191215010429id_/https%3A//www.vangoghgallery.com/misc/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Van Gogh Gallery
 
