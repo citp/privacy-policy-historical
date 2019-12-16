@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhsprogram.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617105729id_/https%3A//www.dhsprogram.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhsprogram.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216194839id_/https%3A//dhsprogram.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # The DHS Program - Privacy Policy
 
@@ -39,7 +39,7 @@ Most of our systems collect user IP information for tracking purposes as well as
 Please be aware that when you voluntarily make your personal information available for viewing by third parties online, such as on social media or a public message board, your information can be viewed, collected, and used by individuals and organizations outside of The DHS Program.
 
 **Datasets Download Accounts**  
-The DHS Program collects personal information when a user applies for a dataset download account. This information is necessary to ensure a legitimate person is requesting the data, and for communicating with you. 
+The DHS Program collects personal information when a user applies for a dataset download account. This information is necessary to ensure a legitimate person is requesting the data, and for communicating with you. [Learn more](https://web.archive.org/data/Registration-Rationale.cfm) about why we require registration.
 
 **Publications Ordering**  
 The DHS Program collects personal information when a user requests a publication to be shipped by mail. This information is necessary to fulfill the request. 
