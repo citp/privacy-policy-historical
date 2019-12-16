@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625160217id_/http%3A//www.adidas.com.au/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.com.au privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216053417id_/https%3A//www.adidas.com.au/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | adidas AU
 
