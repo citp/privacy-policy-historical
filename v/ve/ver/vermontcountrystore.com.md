@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225253id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216075054id_/https%3A//www.vermontcountrystore.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security - The Vermont Country Store
 
 ## Introduction
 
-This website, http://www.vermontcountrystore.com, is owned and operated by The Vermont Country Store. This Privacy Policy pertains to information collected online via this website, and does not apply to information collected from other sources. The Vermont Country Store may be contacted by email at customerservice@vermontcountrystore.com, by phone at 800-547-7849, or by mail at:
+This website is owned and operated by The Vermont Country Store. This Privacy Policy pertains to information collected online via this website, and does not apply to information collected from other sources.
 
-The Vermont Country Store 5650 Main Street Manchester Center, VT 05255
+The Vermont Country Store may be contacted by email at [ customerservice@vermontcountrystore.com](mailto:customerservice@vermontcountrystore.com), by phone at [1-800-547-7849](tel:18005477849), or by mail at:
+
+The Vermont Country Store   
+5650 Main Street   
+Manchester Center, VT 05255 
 
 ## Information Collected
 
@@ -25,6 +29,8 @@ Personal information collected by our site is used for transactional and/or prom
 
 We may share your name and address information with certain trusted resources unless you choose to be put on our do-not-share list. To be put on our do-not-share list, please contact our Customer Service department.
 
+We exchange our customer lists with other reputable companies whose products we think may be of interest to you. If you do not wish to receive mailings from other companies or if you currently receive unwanted or duplicated catalogs, please send your name and address as it appears on your mailing label to: The Vermont Country Store, P.O. Box 6998, Rutland, VT 05702-6998; email us at [customerservice@vermontcountrystore.com](mailto:customerservice@vermontcountrystore.com); or call us at [1-800-211-4741](tel:18002114741). We will never share your email address. 
+
 ## Cookies and Tracking Pixels
 
 A Cookie is a small data file stored by your Web browser on your computer's hard drive. Cookies allow The Vermont Country Store website to keep track of your order information, such as items placed in your Shopping Bag. Cookies also allow us to provide customers with a more personalized experience.
@@ -35,13 +41,13 @@ The Vermont Country Store may contract with third parties who may also use Cooki
 
 Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links: 
 
-<http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>. 
+<http://www.aboutads.info/choices>  or  <http://networkadvertising.org/choices>. 
 
 ## Account Registration
 
-To make online shopping easier, you may register for an account on our website. Information provided by you, such as name and billing address, will be stored securely for future use. You may access and update this information at any time. By creating an account and sharing you billing or email address, you will be added to our customer mailing list, and may receive periodic mailings from us. You may opt out of these mailings at the time of account registration, or by contacting our Customer Service department.
+To make online shopping easier, you may register for an account on our website. Information provided by you, such as name and billing address, will be stored securely for future use. You may access and update this information at any time. By creating an account and sharing your billing or email address, you will be added to our customer mailing list, and may receive periodic mailings from us. You may opt out of these mailings at the time of account registration, or by contacting our Customer Service department.
 
-## Children’s Privacy
+## Children's Privacy
 
 Our Web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
 
