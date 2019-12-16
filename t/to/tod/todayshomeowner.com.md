@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406175310id_/https%3A//www.todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216184745id_/https%3A//todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
 
 # TodaysHomeowner.com Privacy Policy | Today's Homeowner
 
-Welcome to the Today’s Homeowner with Danny Lipford website, located at www.todayshomeowner.com, and operated by Remodeling Today, Inc. 
+Welcome to the Today’s Homeowner with Danny Lipford website, located at 142.4.21.140/~todaysk5, and operated by Remodeling Today, Inc. 
 
-This Privacy Policy will inform you about how Remodeling Today collects and uses your personally identifiable information, or PII, and other information in operating the Website.
+This Privacy Policy will inform you about how Remodeling Today collects and uses your personally identifiable information, or PII, and other information in operating the Website.  
+
 
 **How does the Website Work?**
 
@@ -12,9 +13,8 @@ The Website offers anonymous visitors the ability to learn about Remodeling Toda
 
 By using the Website, you consent to the collection and use of your information by Remodeling Today as described herein. 
 
-Remodeling Today reserves the right to change how we handle the information we collect through the Website at any time. 
+Remodeling Today reserves the right to change how we handle the information we collect through the Website at any time. We will update this Privacy Policy to reflect any changes in our privacy collection and handling practices, and such changes will take effect immediately once posted to the Website.  
 
-We will update this Privacy Policy to reflect any changes in our privacy collection and handling practices, and such changes will take effect immediately once posted to the Website.
 
 **What type of personally identifiable information does Remodeling Today collect from you and how do we use it?**
 
@@ -22,15 +22,17 @@ Registrants must provide certain personally identifiable information (“PII”)
 
 Such PII includes basic biographical information, such as your name, phone number, and email address. We may also ask you for general statistical information about yourself and your interests.
 
-In addition, we use cookies that collect information about your computer and web browsing habits on todayshomeowner.com so we can understand visitors’ content and advertising preferences. 
+In addition, we use cookies that collect information about your computer and web browsing habits on 142.4.21.140/~todaysk5 so we can understand visitors’ content and advertising preferences. 
 
 **How will we use your personally identifiable information?**
 
 Remodeling Today will use your PII to: register you for contests; personalize your user experience; respond to questions and comments you send to us; send you marketing information such as emails, newsletters and other items that we believe would interest you; and help us analyze visitors’ content preferences to help us improve the website.
 
-We may provide your PII to entities who work on our behalf or with us. These entities may use your PII to help fulfill your requests in connection with the Website and to help us communicate with you about different resources offered as part of the Website. 
+We may provide your PII to entities who work on our behalf or with us. These entities may use your PII to help fulfill your requests in connection with the Website and to help us communicate with you about different resources offered as part of the Website.   
 
-For instance, we may transfer information submitted by you, including PII, to service providers and other third parties who assist us in running the Website and to third-party vendors in order to execute transactions requested by you.
+
+For instance, we may transfer information submitted by you, including PII, to service providers and other third parties who assist us in running the Website and to third-party vendors in order to execute transactions requested by you.  
+
 
 **Under what other circumstances may we release PII?**
 
@@ -38,27 +40,17 @@ We may also release your PII if we believe such release is necessary to comply w
 
 **What other information does Remodeling Today collect?**
 
-We also collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags and other methods. 
-
-Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, identify your computer’s operating system and browser, and complete transactions. 
-
-An action tag is a small, graphic image on a webpage that is designed to allow the website owner or a third party to monitor who is visiting a website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed. 
-
-Tags may be associated with cookie information. We may also use such anonymous and aggregate information for promotional purposes.
+We also collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags and other methods. Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, identify your computer’s operating system and browser, and complete transactions. An action tag is a small, graphic image on a webpage that is designed to allow the website owner or a third party to monitor who is visiting a website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed. Tags may be associated with cookie information. We may also use such anonymous and aggregate information for promotional purposes.
 
 **Do I have the ability not to be identified by Remodeling Today?**
 
-Yes. If you do not want to be identified by us, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence. You can also adjust the settings in your browser to refuse all cookies. 
+Yes. If you do not want to be identified by us, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence. You can also adjust the settings in your browser to refuse all cookies. If you do not want us to have any of your PII, do not submit any of your PII to us.
 
-If you do not want us to have any of your PII, do not submit any of your PII to us.
-
-Please read our complete [**Cookies Policy**](https://www.todayshomeowner.com/cookies-policy/) for more information.
+Please read our complete **[Cookies Policy](https://todayshomeowner.com/privacy-policy/cookies-policy/)** for more information.
 
 **How do we store information?**
 
-Remodeling Today takes steps consistent with commercially reasonable industry standards to secure any PII collected from you from loss, misuse, unauthorized access and destruction while under our control. 
-
-Please note that despite our efforts to protect information provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
+Remodeling Today takes steps consistent with commercially reasonable industry standards to secure any PII collected from you from loss, misuse, unauthorized access and destruction while under our control. Please note that despite our efforts to protect information provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
 
 **Does Remodeling Today provide links to other websites?**
 
@@ -70,7 +62,7 @@ You must be eighteen (18) years of age or older in order to purchase our product
 
 **Who is your data controller (under the General Data Protection Regulation)?**
 
-Our data controller is Today’s Homeowner Media, whose physical address is 75 Midtown Park East, Mobile, AL, 36606. You can contact the controller at 251-478-3345 or email [webmaster@dannylipford.com](mailto:webmaster@dannylipford.com).
+Our data controller is Today’s Homeowner Media, whose physical address is 75 Midtown Park East, Mobile, AL, 36606. You can contact the controller at 251-478-3345 or email [webmaster@dannylipford.com](mailto:webmaster@dannylipford.com). 
 
 **Is providing PII mandatory to use this Website?**
 
@@ -82,8 +74,6 @@ We do not use your PII to make automated decisions.
 
 **Do we have a mechanism to address the removal of PII and complaints about the handling of information that we collect?**
 
-If you wish to remove PII that you have submitted to Remodeling Today, please send us an email requesting such removal to [webmaster@dannylipford.com](mailto:webmaster@dannylipford.com). 
-
-If you have questions or concerns about any of our information collection or handling practices, please contact us at [webmaster@dannylipford.com](mailto:webmaster@dannylipford.com).
+If you wish to remove PII that you have submitted to Remodeling Today, please send us an email requesting such removal to [webmaster@dannylipford.com](mailto:webmaster@dannylipford.com). If you have questions or concerns about any of our information collection or handling practices, please contact us at [webmaster@dannylipford.com](mailto:webmaster@dannylipford.com).
 
 _Last Updated: May 2018_
