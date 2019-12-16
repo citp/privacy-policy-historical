@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exrx.net privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529194638id_/https%3A//www.exrx.net/Notes/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exrx.net privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216121234id_/https%3A//exrx.net/Notes/Privacy) for the most accurate reproduction.*
 
 # ExRx.net : Privacy
 
@@ -153,6 +153,6 @@ ExRx.net, LLC
 9 E Ottawa St  
 Paola, KS 66071
 
-Email: [[email protected]](https://exrx.net/cdn-cgi/l/email-protection)
+Email: [[email protected]](https://www.exrx.net/cdn-cgi/l/email-protection)
 
 ##### Last updated on 15 May 2019
