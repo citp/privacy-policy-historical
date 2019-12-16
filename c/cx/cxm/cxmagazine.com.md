@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cxmagazine.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229180119id_/https%3A//www.cxmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxmagazine.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216145536id_/https%3A//www.cxmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Cyclocross Magazine - Cyclocross News, Races, Bikes, Photos, Videos
+# Privacy Policy - Cyclocross Magazine - Cyclocross and Gravel News, Races, Bikes, Media
 
   
 We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/cxmagazine.com).  
