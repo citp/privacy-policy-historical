@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scientific.net privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402153036id_/https%3A//www.scientific.net/Home/ImprintAndPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientific.net privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216105347id_/https%3A//www.scientific.net/Home/ImprintAndPrivacyPolicy) for the most accurate reproduction.*
 
-# ImprintAndPrivacyPolicy
+# Imprint and Privacy Policy
 
 ### Trans Tech Publications Ltd:
 
@@ -14,16 +14,15 @@ CHE-107.913.675
 
 Telephone: 
 
-+41 44 922 10 22 
++41 44 922 10 22
 
 Address:
 
-Reinhardstrasse 18 , CH-8008 Zurich   
-Switzerland 
+Kapellweg 8, CH-8806 Baech, Switzerland 
 
 Director:
 
-Anne-Kristin Wohlbier 
+Anne-Kristin Wohlbier
 
 VAT Tax Number:
 
@@ -57,7 +56,7 @@ Scientific.Net is a registered trademark of Trans Tech Publications Ltd. (hereaf
 
 Publisher is committed to protect the privacy of your personal information as we understand and respect the rights of users for its protection and the importance of accurate and security-conscious use thereof. 
 
-Appropriate administrative and technical data protection measures are implemented to protect the users against unauthorized access, misuse, loss, theft or disclosure of personal data. Regardless of type of personal information collected and processed by Publisher, all information is processed, retained and secured under the current Swiss legislation. We have drawn up this Privacy Policy to clearly describe how we treat the personal information you leave and entrust us when using [www.scientific.net](https://www.scientific.net/)
+Appropriate administrative and technical data protection measures are implemented to protect the users against unauthorized access, misuse, loss, theft or disclosure of personal data. Regardless of type of personal information collected and processed by Publisher, all information is processed, retained and secured under the current Swiss legislation. We have drawn up this Privacy Policy to clearly describe how we treat the personal information you leave and entrust us when using [www.scientific.net](https://web.archive.org/)
 
 ### Collected Personal Information
 
@@ -140,6 +139,6 @@ We guarantee that Publisher is not using and will not use your personal data for
 
 Publisher reserves the right to update the text of this Privacy Policy without a prior notification of users. We recommend you to visit this page from time to time to be aware of all and any of state-of-the-art changes, amendments and additions to this statement. 
 
-This Privacy Policy is based on Publisher’s [Policy and Ethics](https://www.scientific.net/Home/TermsAndConditions), [Federal Act on Data Protection (FADP)](https://www.admin.ch/opc/de/classified-compilation/19920153/index.html) of 19 June 1992 (Status as of 1 January 2014) and accompanying [Swiss Federal Ordinance to the Federal Act on Data Protection](https://www.admin.ch/opc/en/classified-compilation/19930159/index.html) of 14 June 1993 (DPO) (Status as at 16 October 2012) and the [General Data Protection Regulation (GDPR) (EU) 2016/679](https://gdpr-info.eu/)
+This Privacy Policy is based on Publisher’s [Policy and Ethics](https://web.archive.org/PolicyAndEthics/TermsAndConditions), [Federal Act on Data Protection (FADP)](https://www.admin.ch/opc/de/classified-compilation/19920153/index.html) of 19 June 1992 (Status as of 1 January 2014) and accompanying [Swiss Federal Ordinance to the Federal Act on Data Protection](https://www.admin.ch/opc/en/classified-compilation/19930159/index.html) of 14 June 1993 (DPO) (Status as at 16 October 2012) and the [General Data Protection Regulation (GDPR) (EU) 2016/679](https://gdpr-info.eu/)
 
 All and any questions, complaints, requests and suggestions concerning Privacy policy should be directed to  [ info@scientific.net ](mailto:info@scientific.net)
