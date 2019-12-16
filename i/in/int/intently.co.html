@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the intently.co privacy policy that was archived on 2019-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190518151949id_/https%3A//intently.co/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intently.co privacy policy that was archived on 2019-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191216172933id_/https%3A//intently.co/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
 <!-- TrustBox script -->
-<script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-3817240698.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
+<script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-3817240698.js"></script><script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
 <!-- End Trustbox script -->
 
   
@@ -43,18 +43,15 @@
 
 
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-27654780-1"></script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-27654780-1', 'auto');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  ga('set', 'dimension1', 'No');
-
-  ga('set', 'dimension2', 'No');
-
-  ga('send', 'pageview');
+  gtag('config', 'UA-27654780-1');
 </script>
 
 <script type="text/javascript">
@@ -134,27 +131,25 @@ function scrollToAnchor(aid){
   <div id="main-menu">
     
 
+      <a href="/requests" class="nav">Buy</a>
+      <a href="/myservices" class="nav">Sell</a>
 
-    <a href="/requests" class="nav">Buy</a>
-    <a href="/myservices" class="nav">Sell</a>
+        <a href="/pages/browse" class="nav">Browse requests</a>
 
-      <a href="/pages/browse" class="nav">Browse requests</a>
-
+      <a href="/articles" class="nav">Articles</a>
+      <a href="/pages/advertise" class="nav">Advertise</a>
       <a href="/pages/backlinks" class="nav">SEO</a>
+      <a href="/pages/agency" class="nav">Agency</a>
 
-    <a href="/articles" class="nav">Articles</a>
-    <a href="/pages/advertise" class="nav">Advertise</a>
 
     <span class="login_options_outer">
 
         <a class="login_options" href="/users/sign_in">Sign in</a> |
 
-          <a class="login_options" href="/users/sign_up">Sign up</a>
+              <a class="login_options" href="/users/sign_up">Sign up</a>
 
 
-      
     </span>
-
 
   </div>
 
@@ -231,6 +226,10 @@ We are committed to ensuring that your information is secure. In order to preven
 <h3>Account administration</h3>
 
 From time to time, one of our administrators may edit your list of services to ensure that you are getting the best possible supplier alerts based on requests being raised by users.  In addition, if you are signed up and raise a request, we may occasionally raise a further request on your behalf if we feel that we can better target potential suppliers for your needs.
+
+<br><br>
+
+If we detect that your account's email address has become invalid, then we may research and assign an alternative valid email address for your account.  If we are unable to do this, then we may delete your account.  Further to this, if we determine that the website assigned to your account is no longer in service, then we may delete your account.  This helps to ensure that we maintain a system of valid email addresses and websites displayed on Intently.
 
 <h3>Cookies</h3>
 
@@ -313,7 +312,6 @@ If you no longer consent to us storing and using your personal information in th
 <a class="footer_link" href="/pages/api">API</a>
 
 
-
 | <a class="footer_link" href="javascript: void(0);" onclick="show_hide('feedback');
 
   document.getElementById('feedback_email').focus();
@@ -327,6 +325,7 @@ If you no longer consent to us storing and using your personal information in th
 
 <br>
 <br>
+
 
   Sponsored link:  <a target="_blank" class="footer_link" href="https://www.vipreformas.es">www.vipreformas.es</a>
 
@@ -361,7 +360,7 @@ Copyright Intently.co 2012-2019
     <textarea class="expand50-300" style="width:98%" id="feedback_text" name="text" rows="3"></textarea>
     <input id="feedback_other" name="other" type="hidden">
 
-    <a href="#" onclick="if (document.getElementById(&quot;feedback_text&quot;).value == &quot;&quot;) { alert(&quot;Please provide some text.&quot;); return false; }; jQuery.ajax( { type: &quot;POST&quot;, url: &quot;/feedbacks&quot;, data: { email: document.getElementById(&quot;feedback_email&quot;).value, text: document.getElementById(&quot;feedback_text&quot;).value, page: document.URL, other: document.getElementById(&quot;feedback_other&quot;).value } } ); alert(&quot;Many thanks!&quot;); show_hide(&quot;feedback&quot;);" class="button">
+    <a href="#" onclick="if (document.getElementById(&quot;feedback_text&quot;).value == &quot;&quot;) { alert(&quot;Please provide some text.&quot;); return false; }; jQuery.ajax( { type: &quot;POST&quot;, url: &quot;/feedbacks&quot;, data: { email: document.getElementById(&quot;feedback_email&quot;).value, text: document.getElementById(&quot;feedback_text&quot;).value, page: document.URL, other: document.getElementById(&quot;feedback_other&quot;).value } } ); alert(&quot;Many thanks&quot;); show_hide(&quot;feedback&quot;);" class="button">
       <b>Submit</b>
     </a>
     <br>
