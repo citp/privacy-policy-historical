@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the langara.bc.ca privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409145611id_/https%3A//langara.ca/about-langara/records-management-and-privacy/privacy/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langara.bc.ca privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216125840id_/https%3A//langara.ca/about-langara/records-management-and-privacy/privacy/privacy-statement.html) for the most accurate reproduction.*
 
 # Langara. About Langara : Records Management and Privacy: Privacy: Privacy Statement
 
+_Last updated: April 24, 2019  _
+
 This website is covered by British Columbia’s _Freedom of Information and Protection of Privacy Act_ (the Act).
 
-### **Scope**
+###  **Scope**
 
 This privacy statement describes the personal information Langara College collects via the College’s website and social media accounts and how we collect, use and disclose that information.
 
@@ -32,7 +34,7 @@ Third parties may use cookies, web beacons and similar technologies to collect o
 
 Langara College use web analytics tools on our website to collect data about site traffic to improve visitors’ online experience. These tools tag web pages to capture a limited amount of non-personal information such as the internet protocol (IP) address of the computer, device or network a visitor uses to access pages on the site. Langara College will never use this information for any reason other than to analyze site usage, or combine it with any personal information about you.
 
-This site also uses remarketing tools to allow the College to serve previous visitors to our site with advertisements on third party websites (such as Google). Third parties, including Google, use cookies (small files stored on a computer’s web browser) to serve ads based on a person’s past visits to Langara’s website. You may refuse the use of cookies by selecting the appropriate settings on your browser (please note that if you do this you may not be able to use the full functionality of this website). Some service providers also allow you to set preferences or opt out of interest-based advertising entirely, e.g., Google Ads: [Opt out of seeing personalized ads](https://support.google.com/ads/answer/2662922?hl=en).
+This site also uses remarketing tools to allow the College to serve previous visitors to our site with advertisements on third party websites (such as Google). Third parties, including Google, use cookies (small files stored on a computer’s web browser) to serve ads based on a person’s past visits to Langara’s website. You may refuse the use of cookies by selecting the appropriate settings on your browser (please note that if you do this you may not be able to use the full functionality of this website). Some service providers also allow you to set preferences or opt out of interest-based advertising entirely, e.g., Google Ads: [Opt out of seeing personalized ads](https://support.google.com/ads/answer/2662922?hl=en).
 
 ### **Use**
 
