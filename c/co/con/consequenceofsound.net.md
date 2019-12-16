@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619122413id_/https%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216143931id_/https%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consequence of Sound
 
 **Privacy Policy**  
-Effective date: May 21, 2018
+Effective date: Nov. 7th, 2019
 
-Consequence Holdings, LLC (“us”, “we”, or “our”) operates the [https://consequenceofsound.net](https://consequenceofsound.net/) website and the Consequence of Sound mobile application (the “Service”).
+Consequence Holdings, LLC (“us”, “we”, or “our”) operates the consequenceofsound.net website and the Consequence of Sound mobile application (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -17,7 +17,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
 
 
-Service means the [https://consequenceofsound.net](https://consequenceofsound.net/) website and the Consequence of Sound mobile application operated by Consequence Holdings, LLC
+Service means the consequenceofsound.net website and the Consequence of Sound mobile application operated by Consequence Holdings, LLC
 
   * Personal Data
 
@@ -246,6 +246,10 @@ You may opt out of the use of the DoubleClick Cookie for interest-based advertis
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Affiliate Links**
+
+Consequence of Sound periodically includes affiliate links to websites including StubHub and Amazon within its content. As such, Consequence of Sound may earn an affiliate commission from purchases made through these links.
 
 **Children’s Privacy**
 
