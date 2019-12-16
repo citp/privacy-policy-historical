@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sokolovelaw.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002185303id_/https%3A//www.sokolovelaw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokolovelaw.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216112300id_/https%3A//www.sokolovelaw.com/privacy) for the most accurate reproduction.*
 
 # Sokolove Law | Privacy Policy
 
 ## About Sokolove Law
 
-For nearly 40 years, Sokolove Law has worked to educate people about their rights, most frequently serving the role as a [mesothelioma law firm](https://www.sokolovelaw.com/mesothelioma/). We’ve helped people in all 50 states get the legal support they need to move personal injury claims successfully through the court system. Please find our web site’s _Privacy Policy_ below.
+For more than 40 years, Sokolove Law has worked to educate people about their rights, most frequently serving the role as a mesothelioma law firm. We’ve helped people in all 50 states get the legal support they need to move personal injury claims successfully through the court system. Please find our web site’s _Privacy Policy_ below.
 
 * * *
 
