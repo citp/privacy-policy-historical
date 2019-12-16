@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330010349id_/https%3A//www.pendleton-usa.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216010932id_/https%3A//www.pendleton-usa.com/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security | Pendleton
 
