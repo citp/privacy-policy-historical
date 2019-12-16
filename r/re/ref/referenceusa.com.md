@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referenceusa.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619075402id_/http%3A//resource.referenceusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referenceusa.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216083338id_/http%3A//resource.referenceusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ReferenceUSA™
 
