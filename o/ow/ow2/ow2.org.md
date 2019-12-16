@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ow2.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518232759id_/https%3A//www.ow2.org/view/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ow2.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216164929id_/https%3A//www.ow2.org/view/Privacy_Policy) for the most accurate reproduction.*
 
-# OW2 - OW2 Privacy Policy (Privacy_Policy.WebHome)
+# OW2 - Privacy_Policy - OW2 Privacy Policy
 
 At OW2 we take your right to privacy seriously. We have updated our privacy policy and drafted this new privacy notice to provide you with all information, as required by law, in a concise, transparent, intelligible and easily accessible way, in clear and plain language. This privacy policy describes the information we collect from you and how it may be stored and processed. It must be clear and easy for you to exercise the rights you are granted under data protection legislation, and for you to choose how you want to hear from us. Please let us know if anything is missing or unclear on this page.
 
