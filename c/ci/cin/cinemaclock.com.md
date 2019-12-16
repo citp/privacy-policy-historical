@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416175818id_/https%3A//www.cinemaclock.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216094302id_/https%3A//www.cinemaclock.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
