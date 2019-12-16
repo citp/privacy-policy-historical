@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125203802id_/https%3A//www.papajohns.co.uk/privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216055639id_/https%3A//www.papajohns.co.uk/privacy-notice.aspx) for the most accurate reproduction.*
 
-# Pizza Delivery | Order Quality Pizza Online With Papa Johns
+# Pizza Delivery | Order Quality Pizza Online With Papa John's
 
-Papa John's has created this Privacy Notice in order to demonstrate our strong commitment to protecting the privacy of all visitors to our site. If you have any questions or comments about this Privacy Notice, they can be directed to [dataprotection@papajohns.co.uk](mailto:dataprotection@papajohns.co.uk) or in writing to the address supplied at the bottom of this page.
+Papa John's (GB) Limited (trading as Papa John's) has created this Privacy Notice in order to demonstrate our strong commitment to protecting the privacy of all visitors to our site. If you have any questions or comments about this Privacy Notice, they can be directed to [dataprotection@papajohns.co.uk](mailto:dataprotection@papajohns.co.uk) or in writing to the address supplied at the bottom of this page.
 
 ### Part One: All visitors to [www.papajohns.co.uk](https://www.papajohns.co.uk/) are promised that:
 
@@ -94,3 +94,11 @@ Papa John's
 Milton Keynes   
 MK15 0DQ   
 Tel: 0203 6936800 
+
+### Changes to this notice
+
+From time to time Papa John's may need to make changes to this Privacy Notice. Recent changes are shown below:
+
+  * 22nd November 2019. Changed who created this Privacy Notice in the opening paragraph from Papa John's to Papa John’s (GB) Limited.
+
+
