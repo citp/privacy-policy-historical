@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225161119id_/https%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216172808id_/https%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## NoodleTools, Inc. Privacy Policy
 
- **Last updated: May 25, 2018**
+ **Last updated: June 17, 2019**
 
 ###  The NoodleTools Platform — An Educational Service that is Truly Private
 
@@ -31,9 +31,9 @@ This Privacy Policy applies to all parts of the NoodleTools service (“Service�
 
 
 
-By using the Service, you acknowledge that you accept and agree to this Privacy Policy.
+By using the Service, you acknowledge that you accept and agree to this Privacy Policy. We may occasionally update this Privacy Policy. You can see when it was last updated by looking at the last updated date at the top of this page.
 
-For any material changes that we may make to this Privacy Policy in the future, all subscribers will be promptly informed via notification on the NoodleTools homepage. Individual subscribers and school account administrators will also be notified of any significant change to this policy via email. Lastly, the “Last Updated” date above will updated.
+If we make any significant changes to our Privacy Policy, we’ll post a notification prominently on the NoodleTools homepage. Individual subscribers and school account administrators will also be notified of any significant changes to this policy via email. Continued use of the website after a revision to the Privacy Policy indicates your acceptance and agreement to the current Privacy Policy. We recommend that you periodically review the Privacy Policy to make sure you understand and are up-to-date on how we’re keeping your information safe.
 
 ### Guiding Principles for Student/User Privacy
 
@@ -93,7 +93,9 @@ You can control whether or not cookies are allowed through your browser. If you 
 
 No ads are served from the NoodleTools website or Service, but many NoodleTools pages do contain links to other websites. There is no exchange of personal information by NoodleTools to any external service or website.
 
-When a user asks a citation question via the “Have a Question?” link in NoodleTools or submits a ticket through our Help Desk, an email address is used on a one-time basis to respond to that query. Both “Have a Question?” and the Help Desk are facilitated through [FreshDesk](https://freshdesk.com/). In addition to FreshDesk’s standard privacy policy, NoodleTools, Inc. has entered into a separate stringent agreement with FreshDesk regarding data privacy and security of NoodleTools user data.
+When a user asks a citation question via the “Have a Question?” link in NoodleTools or submits a ticket through our Help Desk, an email address is used on a one-time basis to respond to that query. Both “Have a Question?” and the Help Desk are facilitated through [FreshDesk](https://freshdesk.com/). In addition to FreshDesk’s standard privacy policy, NoodleTools, Inc. has entered into a separate stringent agreement with FreshDesk regarding data privacy and security of NoodleTools user data, guaranteeing that they provide at least the same level of privacy protection as is required by this privacy policy and implemented by NoodleTools.
+
+In addition to FreshDesk, NoodleTools utilizes the services of other companies to perform certain business-related services. We may disclose personal information to certain types of third-party companies but only to the extent needed to enable them to provide such services. NoodleTools currently uses services such as Stripe for credit card processing, Sumo Logic for server monitoring, and Amazon Web Services (AWS) and related Amazon Cloud services for hosting, database management and backup. These and all such third parties function as our agents, performing services at our instruction and on our behalf pursuant to contracts which require they provide at least the same level of privacy protection as is required by this privacy policy and implemented by NoodleTools.
 
 NoodleTools can connect to Google Docs or Word Online through APIs, if a student wishes to export citations and notecards to those services. If the user is not already authenticating through one of those services, NoodleTools prompts for the user’s G Suite or Office 365 ID to facilitate this integration, and that ID is not used by NoodleTools for any other purpose.
 
@@ -162,3 +164,5 @@ Damon Abilock, President
 PO Box 60214  
 Palo Alto, CA 94306  
 650-561-4071
+
+  
