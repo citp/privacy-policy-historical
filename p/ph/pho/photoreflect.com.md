@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoreflect.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412172034id_/https%3A//www.photoreflect.com/mktx/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoreflect.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216164647id_/https%3A//www.photoreflect.com/mktx/privacy.html) for the most accurate reproduction.*
 
 # PhotoReflect Privacy Policy
 
