@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aatravel.co.nz privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302074312id_/https%3A//www.aa.co.nz/travel/aa-traveller-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aatravel.co.nz privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216202332id_/https%3A//www.aa.co.nz/travel/aa-traveller-privacy-policy) for the most accurate reproduction.*
 
 # AA Traveller Privacy policy | AA New Zealand
 
@@ -77,7 +77,7 @@ When you provide personal information online it is protected by encryption, so i
 
 ## Access to personal information
 
-The Privacy Act 1993 gives you the right to access and correct personal information held by us. Your information is held securely and will not be disclosed to any other person or organisation unless authorised by you. To query or access any personal information we hold, email us at [[email protected]](https://www.aa.co.nz/cdn-cgi/l/email-protection#deaeacb7a8bfbda7b1b8b8b7bdbbac9ebfbff0bdb1f0b0a4)
+The Privacy Act 1993 gives you the right to access and correct personal information held by us. Your information is held securely and will not be disclosed to any other person or organisation unless authorised by you. To query or access any personal information we hold, email us at [[email protected]](https://www.aa.co.nz/cdn-cgi/l/email-protection#e292908b9483819b8d84848b818790a28383cc818dcc8c98)
 
 When AA Members or non-Members contact us to make changes we will need to verify that you are the person authorised to obtain and update personal information. We will therefore ask you for identifying details such as your Membership number (the 16-digit number found on your AA Membership card) if appropriate, surname and date of birth.
 
@@ -124,7 +124,7 @@ In certain circumstances you may exercise the following rights in relation to yo
 
 
 
- Where you have provided your consent to processing (e.g. to receive information about products and services), you may withdraw your consent at any time by emailing [[email protected]](https://www.aa.co.nz/cdn-cgi/l/email-protection#d4a4a6bda2b5b7adbbb2b2bdb7b1a694b5b5fab7bbfabaae)
+ Where you have provided your consent to processing (e.g. to receive information about products and services), you may withdraw your consent at any time by emailing [[email protected]](https://www.aa.co.nz/cdn-cgi/l/email-protection#ea9a98839c8b8993858c8c83898f98aa8b8bc48985c48490)
 
 ## How long we keep your information
 
