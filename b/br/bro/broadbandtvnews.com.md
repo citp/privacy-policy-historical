@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandtvnews.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420115529id_/https%3A//www.broadbandtvnews.com/about/about-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandtvnews.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216175044id_/https%3A//www.broadbandtvnews.com/about/about-terms-conditions) for the most accurate reproduction.*
 
 # Our Privacy Policy – Terms and Conditions
 
