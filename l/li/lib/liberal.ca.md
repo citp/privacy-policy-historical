@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620105726id_/http%3A//www.liberal.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216180930id_/http%3A//www.liberal.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Liberal Party of Canada
 
@@ -58,7 +58,7 @@ Our security practices are continually evolving to ensure the integrity and conf
 
 For example, for information provided online, our website contains security measures in order to protect against the unauthorized disclosure, loss, misuse, or alteration of the information under our control. We also implement measures such as SSL encryption on sensitive information including passwords and credit card information. Our server is located in a locked and secure environment.
 
-Our employees are required to complete online training on the Liberal Party’s privacy policy, including policies regarding the collection and use of personal information and procedures for safeguarding this information.
+Our employees are required to familiarize themselves with the Liberal Party's privacy policy, and must complete online training on the collection and use of personal information and procedures for safeguarding this information. This training educates employees on the type of personal information the Liberal Party stores, and how it collects and uses personal information. The training also educates employees who have access to personal information on the steps they must take to ensure personal information is not misused. For example, employees must only use the data held by the Liberal Party for the purpose of communicating with voters on the Liberal Party’s behalf. Employees may only access the Liberal Party's database using a unique individual login, and are prohibited from copying or sharing the data.
 
 ## HOW CAN I UPDATE MY INFORMATION OR UNSUBSCRIBE?
 
