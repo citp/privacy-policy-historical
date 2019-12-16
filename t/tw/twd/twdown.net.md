@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twdown.net privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124115711id_/http%3A//twdown.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twdown.net privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216160803id_/https%3A//twdown.net/privacy.php) for the most accurate reproduction.*
 
-# TWDown - Contact us
+# TWDown - Privacy Policy
 
 Fair Information Practices 
 
