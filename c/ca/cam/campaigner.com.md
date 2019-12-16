@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221030id_/https%3A//www.campaigner.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216231501id_/https%3A//www.campaigner.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Campaigner
 
@@ -125,7 +125,7 @@ We may use cookies for the following purposes (either on our own or by using thi
   * Log Files: Like most websites, our servers use log files to analyze trends, administer our sites, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. The log file information consists of IP addresses, browser type, browser language, referring URL, platform type, etc., and is not linked to identifiable personal information.
   * Clear Gifs: Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and we may use them to track the online movements of our users. Clear gifs are invisible on the page and are much smaller than cookies, about the size of the period at the end of this sentence. We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
   * Profile: We may store information that we collect to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information may be tied to users’ personally identifiable information to improve the content of the Site for users, improve our Services and provide new services that are likely to be of interest to users and to direct pertinent product updates and marketing promotions to users if they have opted in to receive those promotions. We do not share personally identifiable elements of a user’s profile with other third parties. User profiles are shared in aggregate form only.
-  * Do Not Track Response: Certain web browsers may allow you to enable a “do not track” option that sends signals to the websites you visit indicating that you do not want your online activities tracked. This is different from blocking cookies as browsers with the “do not track” option selected may still accept cookies. Right now, there is no industry standard for how companies should respond to “do not track” signals, although one may be adopted in the future. We do not respond to “do not track” signals at this time. If we do so in the future, we will modify this Privacy Policy accordingly. More information about “do not track” is available at [www.allaboutdnt.org](http://www.allaboutdnt.org/?utm_source=blog).
+  * Do Not Track Response: Certain web browsers may allow you to enable a “do not track” option that sends signals to the websites you visit indicating that you do not want your online activities tracked. This is different from blocking cookies as browsers with the “do not track” option selected may still accept cookies. Right now, there is no industry standard for how companies should respond to “do not track” signals, although one may be adopted in the future. We do not respond to “do not track” signals at this time. If we do so in the future, we will modify this Privacy Policy accordingly. More information about “do not track” is available at [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
 
 
@@ -135,7 +135,7 @@ Browser settings allow you to choose whether or not to accept cookies or limit c
 
 Your mobile operating system may let you opt out from having your information collected or used for interest-based advertising on mobile devices. You should refer to the instructions provided by your mobile device’s manufacturer, but this functionality is usually available in the “Settings” section of your device. You can also stop us from collecting information through our applications by uninstalling our applications.
 
-For more information about these specialized cookies and other technologies, and to learn more about behavioral advertising or to opt out of this type of advertising for some companies, you can visit http://www.networkadvertising.org or [http://networkadvertising.org/optout_nonppii.asp](http://networkadvertising.org/optout_nonppii.asp?utm_source=blog).
+For more information about these specialized cookies and other technologies, and to learn more about behavioral advertising or to opt out of this type of advertising for some companies, you can visit http://www.networkadvertising.org or <http://networkadvertising.org/optout_nonppii.asp>.
 
 ### **(P) Terms of Use**
 
@@ -145,7 +145,7 @@ _The Terms and Conditions located on our website will govern all use of our Site
 
 All use of our Sites, our Apps, or our services is subject to our Terms and Conditions. We recommend that you review our Terms and Conditions regularly, in order to review any changes we might make from time to time.
 
-Campaigner’s [Terms and Conditions can be found here](http://campaigner.com/legal/terms.aspx?utm_source=blog) and SMTP’s [ Terms and Conditions can be found here](https://www.smtp.com/policies/?utm_source=blog)
+Campaigner’s [Terms and Conditions can be found here](http://campaigner.com/legal/terms.aspx) and SMTP’s [ Terms and Conditions can be found here](https://www.smtp.com/policies/)
 
 ### ****
 
@@ -171,7 +171,7 @@ j2 Global Canada, Inc. 
 Ottawa, Ontario   
 Canada   
 K2E 1A2   
-Email: [cpo@j2global.com](mailto:cpo@j2global.com?utm_source=blog)
+Email: [cpo@j2global.com](mailto:cpo@j2global.com)
 
 If you wish to be taken off our contact list for direct marketing, or if you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of Personal Data carried out by us, or on our behalf, please contact:
 
@@ -181,9 +181,9 @@ Ottawa, Ontario
 Canada K2E 1A2
 
 
-  * Email: [cpo@j2global.com](mailto:cpo@j2global.com?utm_source=blog)
-  * Campaigner Support: [support@campaigner.com](mailto:support@campaigner.com?utm_source=blog)
-  * SMTP Support: [support@SMTP.com](mailto:support@SMTP.com?utm_source=blog)
+  * Email: [cpo@j2global.com](mailto:cpo@j2global.com)
+  * Campaigner Support: [support@campaigner.com](mailto:support@campaigner.com)
+  * SMTP Support: [support@SMTP.com](mailto:support@SMTP.com)
 
 
 
