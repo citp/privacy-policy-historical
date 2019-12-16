@@ -1,110 +1,176 @@
-> *The following text is extracted and transformed from the docclub.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610191955id_/http%3A//www.docclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docclub.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217001449id_/https%3A//www.sundancenow.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SUNDANCE NOW
 
-**EFFECTIVE DATE: February 19, 2015**
+Effective Date: June 7, 2019
 
-## 1\. WHAT IS THE SCOPE OF THIS PRIVACY POLICY?
+This Privacy Policy (“Policy”) describes what personal information (“information”) Digital Store LLC and its affiliate and subsidiary companies (collectively, “Sundance Now,” “we,” “our,” or “us”) collect about you (referred to in this Policy as “you,” “your” or “yourself”), how we use and share that information, and the choices you have about our information collection and processing in connection with your use of the Sundance Now Services (defined below). You can find our address and other contact information in Section 12 below.
 
-This Privacy Policy (“Policy”) is incorporated into the Digital Store [Terms of Service](http://www.docclub.com/terms-of-use/), and applies to information obtained by us when you sign up for, use, access, download or otherwise interact with any Digital Store applications, mobile applications, games, sweepstakes, products, services, or websites and anywhere else where this policy is posted, including applications we make available on third party sites or platforms, if disclosed to you in connection with your use of the application (collectively, “Services”). This Policy does not apply to information that is collected outside the Services. This Policy applies regardless of whether you access the Services using a personal computer, mobile device, gaming console or other equipment or device. If you disagree with the terms of this Policy, please do not use the Services. 
+ **1\. SCOPE OF THIS POLICY**
 
-## 2\. WILL THIS POLICY EVER CHANGE?
+“Sundance Now Services” means the services provided and made available by us in connection with your browsing and viewing of Sundance Now multimedia (such as movies and television shows) (“Content”) through Sundance Now websites, applications, or other interfaces and platforms (“Sites”). The Sundance Now Services also include any other technologies, features, and content we may provide or use on the Sundance Now Sites. This Policy is incorporated into the Sundance Now Terms of Use (“Terms of Use”) which can be found here: [https://www.sundancenow.com/terms. ](https://www.sundancenow.com/terms)It is designed to inform you about how and why we collect, manage, retain, use, and share information related to you and your use of the Sundance Now Services.
 
-We may change this Policy from time to time. If we make changes, we will notify you by posting the updated policy and revising the “Effective Date” above. Use of the Services after the posted Effective Date means you accept the current version of the Policy, including any changes made prior to the posted Effective Date. If we make any material changes to this Policy, we will also notify you by email or by means of a notice on the Services. We encourage you to review the Policy whenever you use our Services to stay informed about our information practices and the choices available to you. 
+ **2\. CHANGES TO THIS POLICY**
 
-## 3\. WHAT INFORMATION IS COLLECTED FROM ME?
+We may change this Policy from time to time. If we make changes, we will post the new version here and revise the “Effective Date” above. If we make any material changes to this Policy, we will also notify you by email, by means of a notice on the Sundance Now Services, or by other reasonable means. We encourage you to review the Policy whenever you use our Sundance Now Services to stay informed about our information practices and the choices available to you.
 
-**_Information you provide to us_** : We collect information that you submit to us. For example, the process of creating or editing your user profile on a Service may require you to provide us with a name, e-mail address, phone number, physical address, including zip code, password of your choice and cable provider. When you personalize your profile and use the features of the Services, we will collect any information you voluntarily provide, and we may also request optional information to support your use of the Services, such as a profile picture and birthday. Additionally, we collect any information that you voluntarily enter into any postings, comments or forums within the Services, including private messages you send to other users of the Services. And, if you send an e-mail to us, we will collect your e-mail address and the full content of your e-mail, including attached files and other information you choose to provide to us. 
+ **3\. INFORMATION COLLECTED**
 
-**_Information We Collect Automatically From Your Devices_** : When you use our Services, we may collect information about the device you use to access the Services, including hardware model, operating system and version, Internet Protocol (“IP”) address and other unique device identifiers, mobile network information and information about the device’s interaction with our Services. We also collect information about how you use our Services, including your access times, browser types and language. We may use this data alone or in aggregate form, as a statistical measure, but not in a manner that is intended to identify you personally. This type of data enables us to understand how often individuals use parts of the Services so we can analyze and improve them. To collect this information, we use cookies and web beacons, and may in the future use other similar technologies. To learn more about how we automatically receive and record information when you interact with the Services, please review our Cookies Policy. This policy covers only our use of cookies; it does not cover the use of cookies or other technologies by third parties. However, options you have to control the use of third party cookies are explained in our [Cookies Policy](http://www.docclub.com/cookies-policy/). 
+Information you provide to us: 
 
-**_Location Information_** : We may collect different types of information about your location, including general information, such as the city, state and/or zip code associated with your IP Address, and, if you agree, more specific location information that is provided through the GPS functionality on mobile devices used to access the Services. We may use such location information to customize the Services, including advertising that is presented to you. For example, if you provide a zip code that indicates that you live in New York, the Services may be customized with New York-specific information, features, and advertisements. In order to do this, your location information may be passed along to our affiliates, agents, vendors or advertisers. Options you have to control the automatic collection of location information are explained below under “What Are My Choices.” 
+You may be required to submit information to us. For example, the process of creating or editing your user profile may require you to provide us with a name, e-mail address, phone number, physical address (including postal code), password of your choice and cable provider; if you do not provide your name or other identifying information, we may not be able to respond to your inquiries or post your content; and if you do not provide us with your username and password, you will not be able to access your online account. 
 
-**_Information from Social Media Networks and Other Third Parties_** : We may obtain information about you or your use of the Services from third parties and sources, such as our vendors, like web host providers, analytics providers or advertisers. You may also give us permission to access your information, including personally identifiable information from services offered by third parties, including social media networks. For example, to access the Services, you may need to link your Facebook account to the Services, which allows us to obtain information from your Facebook account, such as your friends or contacts, profile picture, birthdate, gender, or other profile-related information and any other information you have opted to share with “everyone” on Facebook (or similar third party platform). The information we obtain from third party services depends on your account/privacy settings with those third parties and the third parties’ privacy policies, so be sure to check those policies and to adjust your settings to meet your preferences. When you access the Services through social media networks and other third party platforms, you are authorizing Digital Store to collect, store and use such information and content in accordance with this Policy. If we combine or associate information from other sources with personal information that we collect through the Services, we will treat the combined information as personal information in accordance with this Policy. Please keep in mind that any information provided to us by a third party may also be subject to that third party’s privacy policy. 
+When you personalize your profile and use the features of the Sundance Now Services, we will collect any information you voluntarily provide, and we may also request optional information to support your use of the Sundance Now Services, such as a profile picture and birthday. When you contact us for customer support, we collect the details of our communications, including the date and time of our communications and your reason for contacting us. Additionally, we collect any information that you voluntarily enter into any postings, comments or forums within the Sundance Now Services, including private messages you send to other users of the Sundance Now Services. If you e-mail us, we will collect your e-mail address and the full content of your e-mail, including attached files and other information you choose to provide to us. 
 
-**_Payment Information_** : If you purchase a product or service through the Services, our third party payment processors will collect the billing and financial information they need to process your charges. This may include your postal address, email address and financial information. Digital Store does not collect or store your financial information, like credit card numbers. However, Digital Store’s third party payment processors may share non-financial information with us related to your purchases, like your name, shipping address and items purchased in order to fulfill your order. 
+Information We Collect Automatically From Your Devices:
 
-**_Aggregate and/or De-Identified Information_** : We may aggregate or de-identify certain information that we collect from you. Aggregate and/or de-identified information is designed so that we cannot identify you personally. 
+When you use or access Sundance Now Services, we collect certain information about your device and your use of the Sundance Now Services automatically.
 
-## 4\. HOW IS MY INFORMATION USED?
+For example, we collect information about the device you use to access the Sundance Now Services, including hardware model, operating system and version, Internet Protocol (“IP”) address and other unique device identifiers, mobile network information and information about the device’s interaction with our Sundance Now Services. We also collect information about how you use Sundance Now Services, including your access times, browser types, and language preferences. We collect information about whether you have opened or clicked on links in our HTML emails. This type of data enables us to understand how often individuals use parts of the Sundance Now Services so we can analyze and improve them.
 
-In general, the information that you submit or share with us and that we collect is used in the following ways: 
+We collect this information using cookies (i.e., small pieces of electronic information stored by your internet browser software on to your computer’s hard drive), web beacons (i.e., small pieces of data embedded in images on the Sundance Now Services), and similar technologies. We use the information collected via these tools to understand which Content, User Content (as defined in Section 10 below), marketing and advertisements, you have seen or accessed and to help us identify unique users to our Sundance Now Services. We use and access cookies to enable us to provide you with personalized Content, User Content and advertising so that we can customize areas of the Sundance Now Services based on your activities and inferred interests.
 
-  * for the purposes for which you provided such information;
-  * to enable your access to the Services;
-  * to provide, maintain, protect, develop and improve the Services, including through the use of statistical analysis;
-  * to customize the content and advertisements you receive from us and our trusted partners;
-  * to communicate with you, including via email, text messages, social media, mail and phone; and
-  * to offer you additional information, opportunities, promotions and functionality from us or on our behalf, or from our partners or our advertisers.
+Please see our Cookies and Tracking Technologies Policy (“Cookies Policy”) for more information about our use of these technologies and the choices you may have. Our Cookies Policy can be viewed here: [https://www.sundancenow.com/cookies. ](https://web.archive.org/cookies)
+
+Location Information:
+
+We collect different types of information about your location, including general information, such as the city, state and/or postal code associated with your IP address, and, if you agree, more specific location information that is provided through the GPS functionality on mobile devices used to access the Sundance Now Services.
+
+We may use such location information to customize the Sundance Now Services, including advertising that is presented to you. For example, if you provide a postal code that indicates that you live in a particular city, the Sundance Now Services may be customized with information, features, or advertisements specific to that city. In order to do this, your location information may be passed along to our affiliates, agents, vendors or advertisers as described more fully below.
+
+If you do not want your device to provide us with location-tracking information, do not agree to allow your device to share this information with us or disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. Your device manufacturer may provide instructions on how to disable GPS or other location-tracking functions. If you initially consent to the collection of location information, you can subsequently stop our collection of location information at any time by changing the preferences on your mobile device or by uninstalling the application from your mobile device by following the standard uninstall process to remove applications from your device.
+
+Payment Information:
+
+If you purchase a product or service through the Sundance Now Services, our third-party payment processors will collect the billing and financial information they need to process your charges. This may include your postal address, email address and financial information. The processing of that information will be governed by the processor’s privacy policy. We do not directly collect or store your financial information, like credit card numbers. However, our third party payment processors may share non-financial information with us related to your purchases, like your name, shipping address and items purchased in order to fulfill your order.
+
+Additional Information Collection Practices:
+
+Some parts of the Sundance Now Services contain embedded content or links to content controlled by third parties. Those third parties may collect information about you when you access their content.
+
+Should you choose to access such third-party content, you should review their privacy policies to ensure you understand and are comfortable with their practices concerning your information. We do not accept, and disclaim, any responsibility for the privacy policies and information collection, use, and sharing practices of any third party website (whether or not such site is linked on or to the Sites). These links are provided to you for convenience purposes only, and you access them at your own risk. 
+
+We obtain information about you and your use of the Sundance Now Services from third parties like web hosting providers, analytics providers, social media platforms, data suppliers, and advertising services.
+
+The information we collect in this manner includes your known or inferred age, gender, contact information, information about your demographics and interests, and information about the devices you use to access online services.
+
+We may combine the information you provide us and information we automatically collect with information that we collect from public or third-party sources. Analytics providers and advertising services may analyze the information they collect from online and other sources to provide us with inferences information about your demographics and interests, such as your age range and the types of products or services that may interest you. You may give us permission to access your information, including personally identifiable information from services offered by third parties, including social media networks. For example, to access the Sundance Now Services, you may choose to login using your social media credentials, which allows us to obtain information from your social media account, such as your friends or contacts, profile picture, birthdate, gender, or other profile-related information and any other information you have opted to share via the platform. Some of this information may be sensitive information, such as information about your ethnicity, political opinions or religious beliefs. The information we obtain from such third party services depends on your account/privacy settings with those third parties and the third parties’ privacy policies.
+
+We collect, store, use, and share the information we collect from third parties in accordance with this Policy.
+
+ **4\. HOW WE USE YOUR INFORMATION**
+
+We use the information we collect to provide you with services in accordance with the contracts we may have with you, to communicate with you, and to manage and improve our services, as permitted by applicable laws.
+
+We use your information to:
+
+  * provide you with services so that we can meet our contractual obligations to you. If the services are not governed by a contract, we use your information to meet our business interests in providing quality services to you;
+  * respond to your requests for information, on the basis that it is in our business interests to respond to your requests, and you have requested that we do this;
+  * process transactions, as necessary to meet our contractual obligations to you;
+  * improve the Sundance Now Services and learn about how visitors use the Sundance Now Services. This is necessary for us to improve the content and features we offer through the Sundance Now Services, and benefits you as it helps us make the Sundance Now Services more usable and appealing;
+  * communicate with you about our products and services, including behavioral advertising, and providing you with information about features on the Sundance Now Services and possible changes to our Policy or Terms of Use. If required by applicable law, we will only send messages on the basis that you have consented, or otherwise it will be to meet our business interests in providing information to you about new products and features. You can opt out of receiving marketing communications at any time;
+  * communicate with you about third-party products and services that may be of interest to you, including via behavioral advertising. If required by applicable law, we will only send messages on the basis that you have consented, or otherwise it will be to meet our business interests in expanding our business opportunities and providing information to you about interesting products and services. You can opt out of receiving marketing communications at any time;
+  * make inferences about your interests, as necessary to meet our business interest in expanding our business opportunities and learning how to make our services more relevant to you and other uses;
+  * comply with legal obligations; and
+  * protect our rights, your rights, and the rights of others, as this may be necessary to meet our own high standards of business practice.
 
 
 
-We may use aggregated and/or de-identified data or other data that is not personally identifiable for any purpose, including without limitation in statistical analysis to help us analyze patterns in the use of the Services. 
+We may use aggregated and/or de-identified data or other data that does not constitute personal data under applicable laws for any purpose, including, without limitation, in statistical analyses to help us analyze patterns in the use of the Sundance Now Services.
 
-By accessing and using the Services, you consent to our use of your information about you in the manner described in this Policy. If you do not agree or do not consent to the use of your information in these ways, you should not use the Services. 
+When we analyze the information we collect for advertising, marketing, security, and fraud prevention, we use automated processes to identify or predict potential risks or outcomes.
 
-## 5\. WHEN IS MY INFORMATION DISCLOSED?
+For example, we may use the information you provide us and information about your online activities to infer your interests. And we use those inferences to support automated decisions about the content, recommendations, and offers we present to you on our digital properties. We use automated tools to identify suspicious activities associated with the Sundance Now Services (e.g., multiple logins from different locations within a short period of time). These automated processing activities will not, without human intervention, have legal or similar effects for you.
 
-We do not disclose your information except in the limited circumstances described below. By accessing and using the Services, you consent to us sharing your information under the circumstances described in this Policy. 
+ **5\. HOW WE SHARE INFORMATION**
 
-**_With your consent_** : We may share or disclose your information if you ask or authorize us to do so. 
+We may disclose information when you ask us to do so or otherwise consent to the disclosure. If you would like to withdraw your consent that you may have provided, please use the mechanisms that may have been presented to you at the time we obtained your consent or contact us via the channels listed below.
 
-**_Among group companies_** : We may share your information with our affiliated and subsidiary companies and joint venture partners for the purposes of processing, analyzing or storing your information or otherwise as needed to provide the Services to you, in each case, consistent with the terms of this Policy. 
+We share information with third parties that act on our behalf in association with the operation of the Sundance Now Services or associated activities.
 
-**_To our trusted third party service providers_** : We engage third party service providers to perform a variety of services and functions for us. We may share your information with such service providers subject to confidentiality obligations consistent with this Policy and on the condition that the third parties use your information only on our behalf and pursuant to our instructions. 
+Except as otherwise disclosed in this Policy or as otherwise communicated to you, we take reasonable steps to require these companies to collect, store, use and share information about you only on our behalf and in accord with this Policy. Service providers include web hosting providers, email services, payment processors, shipping providers, advertisers and data storage providers. We share information with service providers as permitted by law, including on the basis that it is necessary to meet our legitimate interests in efficiently managing our business and for developing future business.
 
-**_Information shared via third party social buttons, widgets and other embedded content_** : Some of our Services carry embedded content controlled by third parties for services such as social sharing, commenting and displaying video or images. When you interact with these services they may collect information from and about you and your interaction with their content, including the URL of the web page you are visiting. This activity will be subject to the privacy policy of and your settings for the third party network or service. Please be aware that they may track your activity, including through the use of cookies or similar technology, without you needing to interact with them. If this concerns you, ensure you log out of their services before using ours. 
+We will share information about you with third parties when you engage in certain activities on the Sundance Now Services that are sponsored by third parties. For example, you may choose to purchase products or services offered by a third party or elect to receive information or communications from a third party. When you engage in such third-party, co-sponsored, or co-branded offerings, we may share information (e.g., your e-mail address) with third parties in association with the offerings.
 
-**_To comply with legal requirements and to protect you, us, and others_** : Notwithstanding anything to the contrary in this Policy, we reserve the right to retain and disclose your information at our discretion if we believe in good faith that such retention and disclosure is necessary to: (a) comply with relevant laws or to respond to subpoenas, warrants or similar process served on us; (b) protect and defend our rights or property, you, or third parties; or (c) ensure the safety and security of our Services, systems and of our customers and third parties. 
+We disclose this information to third parties for the purposes and on the basis described above (see Section 4), for example, to process your transactions and to respond to your requests for information or communications from third parties.
 
-**_In connection with a business transfer_** : In the event we go through a business transition such as a merger, acquisition by another company, bankruptcy, reorganization or sale of all or a portion of our assets, your information may be sold or transferred as part of that transaction. You acknowledge that such transfers may occur and are permitted by this Policy and that the new entity may continue to process your information as set forth in this Policy. 
+We engage third-party analytics providers to help us understand how users engage with the Sites. These third parties may use cookies and similar technologies to collect information about your use of the Sites as well as information about your use of other websites over time.
 
-**_If the information has been aggregated, de-identified or otherwise does not identify you personally_** : We may share or disclose information that has been aggregated, de-identified, otherwise does not identify you or information that you choose to make public, such as your public user profile information. For example, we may develop information concerning the Services’ users, using de-identification processes to help ensure that such information cannot reasonably be re-associated or connected with you as an individual. This Policy does not limit our use or disclosure of de-identified information (i.e., information from which your name and any other personally identifying information has been removed) in any way, and we reserve the right to use and disclose such information to our partners, advertisers and any other third parties at our discretion. 
+The third-party services we use include, but may not be limited to: [Google Analytics](https://support.google.com/analytics/answer/6004245)and [Adobe, ](https://www.adobe.com/privacy/opt-out.html)which may provide you with choices about how they collect and use information. We share information with analytics providers as permitted by law, including on the basis that it is necessary to meet our legitimate interests in efficiently managing our business and for developing future business. Information on how Google collects and processes data can be viewed at https://policies.google.com/technologies/partner-sites (or any other link Google may provide from time to time).
 
-If you do not agree or do not consent to the disclosure of your information in any manner described above, you should not use the Services. 
+From time to time, we share your information with our affiliates and subsidiaries, or with our other entities in connection with the purposes described in Section 4 above.
 
-## 6\. WHAT ARE MY CHOICES?
+We may disclose information when we believe in good faith that such disclosures:
 
-You may opt out of receiving interest-based advertising from us. To find out more about our advertising and how to opt out, please see our [Cookies Policy](http://www.docclub.com/cookies-policy/). You may also choose to block cookies. Learn more about cookies, how we use them and how to block them by reviewing our [Cookies Policy](http://www.docclub.com/cookies-policy/). 
+  * are required by law, including, for example, to comply with a court order or subpoena, or in response to a law enforcement agency's request;
+  * will help to protect our rights or enforce our Terms of Use;
+  * will support our detection, prevention, or response to fraud or intellectual property infringement;
+  * will help protect your safety or security, including the safety and security of property that belongs to you;
+  * are necessary to provide the Sundance Now Services to you or fulfill your requests; and
+  * will protect the safety and security of the Sundance Now Services, databases, and/or third parties, including the safety and security of tangible and/or intangible property that belongs to us or to third parties.
 
-You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at [legal@doccclub.com](mailto:legal@doccclub.com). Despite your indicated e-mail marketing preferences, we may still send you relationship and/or transactional e-mails regarding the Services, including, for example, administrative confirmations and notices of updates to our Policy, if we choose to provide such notices to you in this manner. 
 
-If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, do not agree to allow your device to share this information with us or disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. Your device manufacturer should provide instructions on how to disable GPS or other location-tracking functions. If you initially consent to the collection of location information, you can subsequently stop our collection of location information at any time by changing the preferences on your mobile device or by uninstalling the application from your mobile device by following the standard uninstall process to remove applications from your device. 
 
-## 7\. HOW LONG DO YOU KEEP MY INFORMATION?
+We may also share information about you to the extent reasonably necessary to proceed with the consideration, negotiation, or completion of a merger, reorganization, or acquisition of our business, or a sale, liquidation, or transfer of some or all of our assets.
 
-We will hold your personal information on our systems for as long as necessary to provide the relevant Service to you or for so as long as reasonably required to satisfy the purpose for which you submitted the information. 
+The above-described disclosures are provided on the basis that they are either necessary to comply with our legal obligations or they are necessary to meet our legitimate interests in managing our business efficiently and for developing future business.
 
-## 8\. WHAT ABOUT LINKS TO THIRD PARTY WEBSITES?
+Additionally, we reserve the right to share with third parties information that does not identify you (and cannot be combined with other information accessible to us to identify you) for any purpose.
 
-Links to third party websites may be made available through the Services. Clicking on such advertisements and links will direct you to the website or application of a third party. We are not responsible for the privacy practices or the content of such websites. Any information you provide via those sites is subject to the Privacy Policies on those websites and is not covered by this Policy. We encourage you to read the privacy statements of each and every website you visit or application you use. This Policy applies solely to information collected by us through the Services and does not apply to third party websites or applications. The ability to access third party information from the Services and to link to other websites and locations from the Services is for your convenience and does not signify our endorsement of such third parties, their products, their services, their websites and locations or the content they make available on the Services or on their websites and locations. 
+ **6\. RETENTION OF INFORMATION**
 
-## 9\. HOW IS MY INFORMATION PROTECTED?
+We will retain your information which identifies you as an individual for only as long as necessary to achieve the purpose for which it was collected.
 
-We are committed to protecting the security of your information. We use a variety of industry-standard security technologies and procedures to help protect your information from unauthorized access, use or disclosure. These measures vary based on the sensitivity of the information that we collect. Even though we have taken significant steps to protect your information, no company, including us, can fully eliminate security risks associated with information. We cannot guarantee that our security measures will prevent every unauthorized attempt to access, use, or disclose your information. 
+When deciding how long to keep your information, we take into account how long we need to retain the information to fulfill the purposes described above and to comply with our legal obligations, including obligations to financial services regulators. We may also retain information to investigate or defend against potential legal claims in accordance with the limitation periods of countries where legal action may be brought.
 
-## 10\. WHAT IF MY INFORMATION IS INCORRECT? 
+ **7\. SECURITY**
 
-You have the right to request a copy of the information that we hold about you that identifies you personally. If you would like a copy of some or all of this information, please contact us at [legal@doccclub.com](mailto:legal@doccclub.com). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or to remove information that you think is inaccurate. We also provide you with tools and account settings to access or modify some of the information you provided to us and associated with your account. 
+We have implemented commercially reasonable technical, administrative, and physical security safeguards to protect the information that we collect or receive against loss, and unauthorized access, use, modification and disclosure. From time to time, we review and consider updates for our security procedures. Please be aware that, despite our ongoing efforts, no security measures are perfect or impenetrable.
 
-## 11\. WHAT IS YOUR POLICY REGARDING CHILDREN?
+ **8\. IF YOU ARE UNDER 18**
 
-Digital Store does not direct its Services to children under the age of thirteen (13) and does not knowingly collect information from such children. We require all users of the Services to be at least thirteen (13) years old. If we obtain actual knowledge that a user is under the age of thirteen (13), we will promptly delete all information associated with such account. By using the Services, you are representing that you are at least thirteen (13) years old. 
+If you are under the age of 18 you are not permitted to register with or receive Sundance Now Services or provide us with any personal information. You are otherwise entitled to use the Sundance Now Services with the permission of your parent or guardian.
 
-## 12\. MY CALIFORNIA LAW RIGHTS. 
+ **9\. YOUR CHOICES AND RIGHTS**
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their “personal information” (as defined under the California Online Privacy Protection Act), if any, for their direct marketing purposes in the prior calendar year, as well as the type of “personal information” disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in 
+If you no longer wish to receive marketing materials from us, you can let us know by contacting us at privacy@sundancenow.com or by clicking the 'unsubscribe' link or using other unsubscribe features that we provide in our marketing communications.
 
-## 13\. Governing Law
+Subject to local law, you may have certain additional rights regarding your information.
 
-This Policy and all disputes arising hereunder or relating hereto shall be governed by, and will be construed under, the laws of the State of New York, U.S.A., without regard to choice of law principles. Those who choose to access the Services from locations outside the United States do so on their own initiative, and are responsible for compliance with local laws if and to the extent local laws are applicable. Digital Store may limit the website’s availability, in whole or in part, concerning any person, geographic area or jurisdiction, at any time in its sole discretion. 
+These may include the following rights to: access your information; rectify the information we hold about you; erase your information; restrict our use of your information; object to our use of your information (as described above); receive your information in a usable electronic format and transmit it to a third party (also known as the right of data portability); where practicable, deal with us on an anonymous basis, or using a pseudonym; and lodge a complaint with your local data protection authority, and withdraw any consent you have given to uses of your information. If you would like to discuss or exercise the rights you may have, feel free to contact us at privacy@sundancenow.com.
 
-## 14\. WHERE IS MY INFORMATION STORED AND PROCESSED? 
+Please see our Cookies Policy for information about choices you may have regarding the processing of information collected via Cookies and similar technologies.
 
-The information we collect from you through your use of the Services is stored and processed in the United States in compliance with New York State and United States law. If you are not a United States citizen, do not use the Services. 
+ **10\. CHATROOM, FORUMS, COMMENTS, AND OTHER USER CONTENT**
 
-## 15\. HOW CAN I CONTACT YOU?
+We remind you that chat rooms, forums, comments and areas of our Sundance Now Services that allow you to submit user content (“User Content”) on our Sundance Now Services are for public viewing and discussion. Any information supplied by you in the public areas of the Sundance Now Services is widely accessible and disclosed publicly to other users of such areas.
 
-If you have questions or concerns about our Policy, please contact us at: legal@docclub.com.
+ **11\. INFORMATION PROCESSING**
 
-© 2015 Digital Store LLC. All rights reserved.
+We process information collected via the Sundance Now Services in and subject to the laws of the United States, which may not provide the same level protection for your information as your home country. The information may be available to the United States government or its agencies under a lawful order made in the United States. In addition, we may transfer your information outside the United States to our affiliates, business partners, and service providers located in other countries.
+
+In some cases, your information may be transferred to, stored, and processed in a country that is not regarded as ensuring an adequate level of protection for information under European Union or other applicable laws. However, we have put in place appropriate safeguards (such as standard contractual clauses approved by the European Commission) in accordance with applicable legal requirements to ensure that your data is adequately protected. For more information on the appropriate safeguards in place or to obtain a copy, please contact us at privacy@sundancenow.com.
+
+ **12\. CONTACT**
+
+If you have questions or concerns about our Policy, please contact us at: [privacy@sundancenow.com.](mailto:privacy@sundancenow.com)
+
+Digital Store LLC   
+C/O Privacy  
+11 Penn Plaza  
+New York, NY 10001  
+AMC Networks International - Iberia  
+C/O AMCNI European Data Protection Officer  
+Calle Saturno 1 - Pozuelo de Alarcon  
+28224 Madrid  
+dpo@amcnetworks.com
+
+ **13\. INFORMATION ABOUT SOCIAL PLUGINS**
+
+Our Sundance Now Services may make use of social network plugins. When you use a Service that contains plugins, information may be directly transferred from you to the operator of a social network. For information about the social network operators of plugins used in our Sundance Now Services, please see below:
+
+Facebook: Data Controller: Facebook Ireland Limited, Hanover Reach, 5-7 Hanover Quay, 2 Dublin, Ireland. For more information about Facebook’s privacy practices, please review their privacy policy here: [https://www.facebook.com/policy.php ](https://www.facebook.com/policy.php)
+
+Google+: Data Controller: Google, Inc., Ampitheater Parkway, Mountain View, CA94043, USA. For more information about Google’s privacy practices, please review their privacy policy here: [https://policies.google.com/privacy?hl=en ](https://policies.google.com/privacy?hl=en)
+
+Twitter: Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. For more information about Twitter’s privacy practices, please review their privacy policy here: <https://twitter.com/en/privacy>
