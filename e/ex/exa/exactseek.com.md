@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214858id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216223456id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: ExactSeek.com
-
-## Privacy Policy Overview
 
 This Privacy Policy applies where we, Jayde Online Inc., acts as a data controller or data processor with regard to all individuals including EU individuals under the General Data Protection Regulation ("GDPR").
 
@@ -24,7 +22,7 @@ Advertisers and partners may also use their own cookies. We do not control the u
 
 Your personal information is stored in a protected directory. Access is restricted to ExactSeek staff.
 
-ExactSeek does **not** store any credit card information. Purchases made on ExactSeek are processed either by PayPal or Stripe.com.
+ExactSeek does not store any credit card information. Purchases made on ExactSeek are processed either by PayPal or Stripe.com.
 
 ## Additional Rights
 
@@ -48,13 +46,12 @@ When you voluntarily use tools or services on our website we may collect service
 
 ExactSeek offers four types of site listings - Standard, Featured, Paid Inclusion and Local Search. The information collected for each of these services, and how that information is used, is noted below:
 
-• **Standard Listings:** Email address and URL. Used in our newsletters (opt-in only). URL only provided to EntireWeb.com for inclusion in their search engine index.
+  * **Standard Listings** : Email address and URL. Used in our newsletters (opt-in only). URL only provided to EntireWeb.com for inclusion in their search engine index.
+  * **Featured Listings** : Email address, URL, Title, Description and Keyword term. Your email address is NOT shared.
+  * **Paid Inclusion Listings** : Email address and URL. Your email address is not shared, but your site URL is provided to Entireweb.com for inclusion in their search engine index. 
+  * **Traffic Listings** : Email address, URL and Category. All information is public. Your billing email address is kept private.
 
-• **Featured Listings:** Email address, URL, Title, Description and Keyword term. Your email address is NOT shared. 
 
-• **Paid Inclusion Listings:** Email address and URL. Your email address is not shared, but your site URL is provided to Entireweb.com for inclusion in their search engine index. 
-
-• **Traffic Listings:** Email address, URL and Category. All information is public. Your billing email address is kept private. 
 
 ExactSeek Standard listings are free and the information collected is not shared with third parties, except as noted above. However, we may disclose personal information collected, if we have received your permission beforehand or in very special circumstances, such as when we believe that the law requires such disclosure or other special cases described below.
 
