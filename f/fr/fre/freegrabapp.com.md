@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegrabapp.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526192838id_/https%3A//freegrabapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegrabapp.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216020121id_/https%3A//freegrabapp.com/privacy-policy) for the most accurate reproduction.*
 
 # FreeGrabApp | Privacy Policy
 
