@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10web.io privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626172403id_/https%3A//10web.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10web.io privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216194706id_/https%3A//10web.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 10Web
 
@@ -309,3 +309,5 @@ If we make any material changes to this Privacy Policy, we, at our sole discreti
 ## CONTACT US
 
 If you have any questions about this Privacy Policy, please [contact us](mailto:info@10web.io).
+
+[ Ask a question ]()
