@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukclassifieds.co.uk privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907115817id_/https%3A//www.ukclassifieds.co.uk/index.php%3Fpage%3Dextra%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukclassifieds.co.uk privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217003235id_/https%3A//www.ukclassifieds.co.uk/index.php%3Fpage%3Dextra%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ This site uses Google Analytics. Google Analytics is a web analytics tool that h
 
 Like many services, Google Analytics uses first-party cookies to track visitor interactions as in our case, where they are used to collect information about how visitors use our site. We then use the information to compile reports and to help us improve our site. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on Google Analytics privacy policy and opting out of being tracked by Google Analytics across all websites you use, visit this [Google page](https://www.google.com/intl/en/analytics/learn/privacy.html).
 
-This site uses Google AdSense and Google AdWords to deliver advertising to our customers using cookies. You can view the Google privacy policy and how to control ads [here](http://www.google.co.uk/policies/technologies/ads/).
+This site uses Google AdSense and Google AdWords to deliver advertising to our customers using cookies. You can view the Google privacy policy and how to control ads [here](https://www.google.co.uk/policies/technologies/ads/).
 
 4\. Children.
 
