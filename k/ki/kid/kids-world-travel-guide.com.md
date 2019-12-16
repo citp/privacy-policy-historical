@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kids-world-travel-guide.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425211819id_/https%3A//www.kids-world-travel-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kids-world-travel-guide.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216172525id_/https%3A//www.kids-world-travel-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Kids World Travel Guide: Latest Update
 
