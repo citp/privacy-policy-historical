@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubw.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925050601id_/https%3A//www.winc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubw.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216153432id_/https%3A//www.winc.com/privacy) for the most accurate reproduction.*
 
 # Winc - Privacy
 
@@ -101,4 +101,4 @@ Suite 105
 Los Angeles, CA 90066  
 855-282-5829  
 [Email Us](https://support.winc.com/hc/en-us/requests/new?ticket_form_id=60297)  
- **©2018 Winc. All Rights Reserved.**
+ **©2019 Winc. All Rights Reserved.**
