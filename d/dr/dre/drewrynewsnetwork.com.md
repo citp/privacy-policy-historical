@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drewrynewsnetwork.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115213646id_/https%3A//drewrynewsnetwork.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drewrynewsnetwork.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216114434id_/https%3A//drewrynewsnetwork.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Drewry News
 
@@ -72,5 +72,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 https://drewrynewsnetwork.com 
 
-drewryonline@gmail.com   
-[ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
+[[email protected]](https://www.drewrynewsnetwork.com/cdn-cgi/l/email-protection)   
+[ ](https://www.viglink.com/legal/disclosures/users?vgtag=badge)
