@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilderlehrman.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622030343id_/https%3A//www.gilderlehrman.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilderlehrman.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216030103id_/https%3A//www.gilderlehrman.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gilder Lehrman Institute of American History
 
