@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meaww.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613073348id_/https%3A//meaww.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meaww.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216213413id_/https%3A//meaww.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MEAWW
 
@@ -24,7 +24,7 @@ When you use any of the Services, we may collect certain data that does not tell
 
 We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. We may use cookies to, among other things, keep track of your choice of language and home page preference, to select which of our advertisements or offers are most likely to appeal to you and display them while you are using the Services, for purposes of tracking responses to our online advertisements, , for security purposes, to facilitate navigation, and to gather usage data that will help us generally improve the quality of the Services. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features of the Services. 
 
-We may use Flash Local Shared Objects ( “ **Flash LSOs** ” ) and other similar technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage by visiting: [( Macromedia Support )](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+We may use Flash Local Shared Objects ( “ **Flash LSOs** ” ) and other similar technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage by visiting: [( Macromedia Support )](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 ### Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
 
@@ -105,7 +105,7 @@ Our ability to provide free content and services depends on advertising. Some of
   * DistrictM - <https://districtm.net/en/page/data-and-privacy-policy/>
   * Sovrn - <https://www.sovrn.com/privacy-policy/>
   * Appnexus, Inc. - <https://www.appnexus.com/en/company/platform-privacy-policy-de#choices>
-  * OpenX - <https://www.openx.com/legal/privacy-policy/>
+  * OpenX - <https://www.openx.com/page/privacy-policy/>
   * Taboola, Inc.- <https://www.taboola.com/privacy-policy>
   * Index Exchange. - <http://www.indexexchange.com/privacy/>
   * Rhythymone - <https://www.rhythmone.com/brand-safety-policy#hvk3F2pj7KbijY9H.97>
