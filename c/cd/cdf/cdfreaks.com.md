@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdfreaks.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611095855id_/https%3A//club.myce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdfreaks.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216040018id_/https%3A//www.myce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Myce.com
 
