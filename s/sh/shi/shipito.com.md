@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipito.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629202930id_/https%3A//www.shipito.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipito.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216040750id_/https%3A//www.shipito.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Shipito Privacy Policy Statement
 
