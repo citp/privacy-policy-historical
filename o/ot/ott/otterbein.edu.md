@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the otterbein.edu privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205152046id_/http%3A//www.otterbein.edu/public/Consumer/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otterbein.edu privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216165620id_/https%3A//www.otterbein.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
-
-_Updated: February 1, 2017_
-
-Otterbein University (the “University”) considers the privacy of its web visitors a priority. To that end, the University has adopted the following policy (the “Web Privacy Policy”) to articulate the terms and conditions of the collection, use, and dissemination of any information the University may receive from the users of Otterbein University websites. This Privacy Policy covers all of the Otterbein University websites and mobile versions of these websites that expressly adopt, and display or link to, this Privacy Policy (our “websites”). By using or accessing our websites, you agree to this Privacy Policy.
-
-Please note, however, that this policy has been developed with the knowledge that web technologies continue to develop and evolve rapidly, and that such changes may require us to alter the Web Privacy Policy. Any such alterations will not affect our commitment to the protection of privacy. Your use of the website indicates your acceptance of this Web Privacy Policy
-
-The terms “Otterbein” “us,” “our” or “we” refer to Otterbein University. The terms “you” and “your” refer to a consumer user or viewer of our website(s).
+# Privacy Policy - Otterbein University
 
 ## What Information Do We Collect Online And How Is It Used?
 
@@ -16,9 +8,9 @@ The terms “Otterbein” “us,” “our” or “we” refer to Otterbein Uni
 
 We may ask you to provide personal information through our websites. For example, when you:
 
-  * register for an event, apply for admission, or sign up for a membership offering
-  * subscribe to receive our email or other communications; or
-  * contact us for other information
+  * Register for an event, apply for admission, or sign up for a membership offering
+  * Subscribe to receive our email or other communications; or
+  * Contact us for other information.
 
 
 
@@ -26,12 +18,12 @@ Types of personal information collected or provided may include your name, addre
 
 Once we receive personal information through our websites, we use it for such things as:
 
-  * processing orders and requests;
-  * improving and developing our products, services and websites;
-  * communicating with you regarding promotional offers, new products, and other information that we think may be interesting to you;
-  * analyzing your activity with us, including interaction with our websites and your event registration or purchases;
-  * personalizing our communications to you; or
-  * responding to your inquiries.
+  * Processing orders and requests;
+  * Improving and developing our products, services and websites;
+  * Communicating with you regarding promotional offers, new products, and other information that we think may be interesting to you;
+  * Analyzing your activity with us, including interaction with our websites and your event registration or purchases;
+  * Personalizing our communications to you; or
+  * Responding to your inquiries.
 
 
 
@@ -76,4 +68,17 @@ We reserve the right to modify or amend this Privacy Policy at any time and for 
 
 ### Where Should You Direct Your Questions or Concerns?
 
-If you have questions or concerns with respect to our Privacy Statement (how we collect or use your digital information), please contact us at [webmaster@otterbein.edu](mailto:webmaster@otterbein.edu).
+If you have questions or concerns with respect to our Privacy Statement (how we collect or use your digital information), please contact us at [webmaster@otterbein.edu](mailto:webmaster@otterbein.edu).
+
+#### Office of Marketing and Communications
+
+**Location:** Cellar House, 141 W. Park Street  
+**Hours:** 8:30 a.m. – 6:00 p.m. **,** Monday-Friday **  
+Phone:** 614-823-1600  
+**We** **bsite Team:**[webmaster@otterbein.edu](mailto:webmaster@otterbein.edu)
+
+**Media Inquiries**  
+Jenny Hill  
+Director of Marketing and Communications  
+**Phone:** 614-823-1284  
+**Email:**  [jhill@otterbein.edu](mailto:jhill@otterbein.edu)
