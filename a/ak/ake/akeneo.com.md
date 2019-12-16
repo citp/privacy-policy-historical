@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akeneo.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318151735id_/https%3A//www.akeneo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akeneo.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216222832id_/https%3A//www.akeneo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Akeneo - The #1 Open Source Enterprise PIM
 
