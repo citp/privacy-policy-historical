@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222603id_/https%3A//www.medicare.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216010549id_/https%3A//www.medicare.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Medicare
 
