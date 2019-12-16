@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialannex.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404125232id_/http%3A//www.socialannex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialannex.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216113854id_/https%3A//www.annexcloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Annex Cloud Privacy Policy
 
-Effective date: February 21, 2019
+Effective date: December 1, 2019
 
 Social Annex, Inc. dba Annex Cloud ("us", "we", or "our") operates the <https://www.annexcloud.com/> website (the "Service").
 
@@ -157,6 +157,17 @@ Social Annex, Inc. dba Annex Cloud may disclose your Personal Data in the good f
     * To protect the personal safety of users of the Service or the public
     * To protect against legal liability
 
+#### Information Related to Data Collected through the Social Annex, Inc. dba Annex Cloud Service
+
+##### **Information Related to Data Collected for our Clients:**
+
+    * Social Annex, Inc. dba Annex Cloud collects information under the direction of its Clients (Data Controllers), and has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients. 
+
+##### **Access and Retention of Data Controlled by our Clients:**
+
+    * Social Annex, Inc. dba Annex Cloud acknowledges that you have the right to access your personal information. Social Annex, Inc. dba Annex Cloud has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Social Annex, Inc. dba Annex Cloud Client (the data controller). 
+    * Social Annex, Inc. dba Annex Cloud will retain personal information we process on behalf of our Clients for as long as needed to provide services to our Client. Social Annex, Inc. dba Annex Cloud will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 #### Security of Data
 
 The security of your data is important to us but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security. 
@@ -226,7 +237,7 @@ You can learn more about interest-based advertising from Facebook by visiting th
 
 To opt-out from Facebook's interest-based ads follow these instructions from Facebook:<https://www.facebook.com/help/568137493302217>
 
-Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA  <https://www.aboutads.info/choices/>,the Digital Advertising Alliance of Canada in Canada [ ](http://youradchoices.ca/) or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. 
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA  <https://www.aboutads.info/choices/>,the Digital Advertising Alliance of Canada in Canada or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. 
 
 For more information on the privacy practices of Facebook, please visit Facebook's Data Policy:<https://www.facebook.com/privacy/explanation>
 
