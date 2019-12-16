@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xxxymovies.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523143308id_/https%3A//xxxymovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxymovies.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216072749id_/https%3A//xxxymovies.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy XXX Movies
+# Privacy XXXYMovies.com
 
 Privacy policy for xxxymovies.com,   
 Last Modified: February 14, 2012
