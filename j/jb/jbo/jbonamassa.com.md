@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211220636id_/https%3A//jbonamassa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216031221id_/https%3A//jbonamassa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joe Bonamassa
 
@@ -8,7 +8,7 @@ J&R Adventures, LLC (“us”, “we”, or “our”) operates the https://www.
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.JBonamassa.com
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.JBonamassa.com.
 
 ## Definitions
 
@@ -54,10 +54,8 @@ We collect several different types of information for various purposes to provid
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-  * Email address
-  * Cookies and Usage Data
-
-
+Email address  
+Cookies and Usage Data
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
 
@@ -118,9 +116,7 @@ Your consent to this Privacy Policy followed by your submission of such informat
 
 J&R Adventures, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
-## Disclosure Of Data
-
-### Legal Requirements
+## Legal Requirements
 
 J&R Adventures, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
 
@@ -166,23 +162,18 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-  * **Google Analytics**
-
+**Google Analytics**  
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
 For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
 
-
-
-
 ### Behavioral Remarketing
 
 J&R Adventures, LLC uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-  * **Google AdWords**
-
+**Google AdWords**  
 Google AdWords remarketing service is provided by Google Inc.
 
 You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
@@ -191,8 +182,7 @@ Google also recommends installing the Google Analytics Opt-out Browser Add-on �
 
 For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
 
-  * **Facebook**
-
+**Facebook**  
 Facebook remarketing service is provided by Facebook Inc.
 
 You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
@@ -203,21 +193,15 @@ Facebook adheres to the Self-Regulatory Principles for Online Behavioral Adverti
 
 For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
 
-
-
-
 ### Payments
 
-We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
-
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).  
 We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
 
 The payment processors we work with are:
 
-  * **PayPal or Braintree**
-
+  * **PayPal or Braintree**  
 Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
-
 
 
 
@@ -245,7 +229,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: customerservice@jbonamassa.com
-  * By phone number: 9544284440
+By email: customerservice@jbonamassa.com
 
-
+By phone number: 954-428-4440
