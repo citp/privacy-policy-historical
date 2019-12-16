@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unmissions.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120419id_/http%3A//www.un.org/en/aboutun/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmissions.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216192745id_/http%3A//www.un.org/en/aboutun/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | United Nations
 
-  1. [Home](https://web.archive.org/web/20181231120425id_/http://www.un.org/en/index.html)
+  1. [Home](https://web.archive.org/web/20191216192745id_/https://www.un.org/en/index.html)
   2. Privacy Notice
 
 
