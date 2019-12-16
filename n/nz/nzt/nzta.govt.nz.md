@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzta.govt.nz privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613131642id_/https%3A//www.nzta.govt.nz/about-us/about-this-site%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzta.govt.nz privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216204421id_/https%3A//www.nzta.govt.nz/about-us/about-this-site%23privacy) for the most accurate reproduction.*
 
 # About this site | NZ Transport Agency
 
@@ -23,9 +23,9 @@ For permission to reproduce information on this website for any purpose other th
 
 
 
-[Full website terms of use](https://nzta.govt.nz/about-us/about-this-site/website-terms-of-use/ "Website terms of use")
+[Full website terms of use](https://www.nzta.govt.nz/about-us/about-this-site/website-terms-of-use/ "Website terms of use")
 
-## [](https://nzta.govt.nz/about-us/about-this-site/website-terms-of-use/)Privacy
+## [](https://www.nzta.govt.nz/about-us/about-this-site/website-terms-of-use/)Privacy
 
 You may browse and access the vast majority of information contained in this website without providing any personal information.
 
@@ -70,13 +70,13 @@ Alternatively you can send an email to [privacy@nzta.govt.nz](mailto:privacy@nz
 
 The Transport Agency handles thousands of calls every day on a varied range of topics that include driver licensing, road tolling, motor vehicle registration, and the State highway network.  Call recording is an important activity that helps us to ensure that our customer service meets your expectations and identify service improvements.
 
-[More about call recording privacy](https://nzta.govt.nz/about-us/about-this-site/call-recording-privacy-statement/ "Call recording privacy statement")
+[More about call recording privacy](https://www.nzta.govt.nz/about-us/about-this-site/call-recording-privacy-statement/ "Call recording privacy statement")
 
 ### Vehicle screening and traffic analysis
 
 The Transport Agency is implementing vehicle screening cameras at some Commercial Vehicle Safety Centre (CVSC) locations to assist with the enforcement of weight restrictions for heavy vehicles.  If you are in a heavy vehicle and you drive past one of these cameras details of your vehicle will be collected to help determine whether your vehicle meets relevant weight restrictions.  You may be required to stop at the CVSC if the initial screening indicates your vehicle may not meet weight restrictions.  
 
-[More about heavy vehicle weight enforcement ](https://nzta.govt.nz/commercial-driving/trucks-and-tow-trucks/weigh-right-programme/ "What is the Weigh Right Programme")
+[More about heavy vehicle weight enforcement ](https://www.nzta.govt.nz/commercial-driving/trucks-and-tow-trucks/weigh-right-programme/ "What is the Weigh Right Programme")
 
 If you are not in a heavy vehicle and you drive past one of these cameras, the registration plate number of your vehicle will be captured and retained in secure system logs held by the Transport Agency for the purposes of system fault analysis. Access to system logs is restricted to a small number of authorised Transport Agency personnel only and will only be accessed and used for the purposes of analysing faults occurring in the vehicle screening system.  The registration plate number of your vehicle won’t be used to access any personal information held about you by the Transport Agency.  Anonymised information about your vehicle also may be collected and retained for statistical traffic analysis by the Transport Agency.  Your image won’t be captured, you won’t be identified, and no information that can be linked to you will be collected or held. 
 
@@ -84,7 +84,7 @@ If you are not in a heavy vehicle and you drive past one of these cameras, the r
 
 To assist the Transport Agency with keeping the national driver licence register up-to-date, the Registrar-General of Births, Deaths and Marriages may notify us when a driver has passed away.
 
-[More about cancelling a driver licence and the driver licence register](https://nzta.govt.nz/driver-licences/renewing-replacing-and-updating/licence-holder-has-passed-away/ "Licence holder has passed away")
+[More about cancelling a driver licence and the driver licence register](https://www.nzta.govt.nz/driver-licences/renewing-replacing-and-updating/licence-holder-has-passed-away/ "Licence holder has passed away")
 
 ### Use of your driver licence photo 
 
@@ -94,7 +94,7 @@ The photo captured for your driver licence under Part 3 of the Land Transport (D
 
 Our Transparency Statement summarises how the NZ Transport Agency complies with the State Services Commission’s Model Standards on Information Gathering and Public Trust. It describes the environment we operate in and how we gather, use and share information.
 
-[Transparency Statement](https://nzta.govt.nz/about-us/about-this-site/transparency-statement/ "Link to Transparency Statement")
+[Transparency Statement](https://www.nzta.govt.nz/about-us/about-this-site/transparency-statement/ "Link to Transparency Statement")
 
 ## Accessibility
 
