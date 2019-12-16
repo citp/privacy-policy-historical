@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odishatv.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330111522id_/https%3A//odishatv.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odishatv.in privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216133029id_/https%3A//odishatv.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OTV
 
