@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birminghammail.co.uk privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620221928id_/https%3A//www.birminghammail.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birminghammail.co.uk privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216042326id_/https%3A//www.birminghammail.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Birmingham Live - Birmingham news, features, information and sport
 
