@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the showybeauty.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614193342id_/http%3A//www.showybeauty.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showybeauty.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216154756id_/http%3A//showybeauty.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Showy Beauty - Hq Erotica, Younger Babes, Nude Girls, Erotic Movies, Erotic Pictures
 
 **Privacy**  
 
 
-We can be reached via e-mail at [support[at]moneycult.com](mailto:support\[at\]moneycult.com)
+We can be reached via Ticket to Support Department 
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
