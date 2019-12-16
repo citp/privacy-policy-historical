@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluent-forever.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504223719id_/https%3A//fluent-forever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluent-forever.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216170047id_/https%3A//fluent-forever.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fluent Forever
 
