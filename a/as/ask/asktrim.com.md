@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429122656id_/https%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216200439id_/https%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
 
 # Trim | Privacy Policy
 
