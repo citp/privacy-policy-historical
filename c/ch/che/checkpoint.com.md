@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411091601id_/https%3A//www.checkpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216114348id_/https%3A//www.checkpoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Check Point Software
 
 ### CHECK POINT PRIVACY POLICY
 
-This Privacy Policy explains how we use the personal information that Check Point collects or generates both in relation to the Check Point website ([www.checkpoint.com](https://checkpoint.com/)) and our products and services.
+This Privacy Policy explains how we use the personal information that Check Point collects or generates both in relation to the Check Point website ([www.checkpoint.com](https://www.checkpoint.com/)) and our products and services.
 
 The list below sets out what is covered in this Privacy Policy and you can click on the headings to go to a specific section.
 
@@ -23,7 +23,7 @@ The list below sets out what is covered in this Privacy Policy and you can click
 
 
   1.  **BACKGROUND**
-    1. Check Point Software Technologies Ltd. with its registered office at 5 Shlomo Kaplan Street, Tel Aviv 67897, Israel (email: [privacy_inquiries(at)checkpoint.com](mailto:privacy_inquiries\(at\)checkpoint.com)) and other companies in the Check Point group collect and use certain Personal Data. Check Point is responsible for ensuring that it uses that Personal Data in compliance with data protection laws.
+    1. Check Point Software Technologies Ltd. with its registered office at 5 Shlomo Kaplan Street, Tel Aviv 67897, Israel (email: [privacy_inquiries@checkpoint.com](mailto:privacy_inquiries\(at\)checkpoint.com)) and other companies in the Check Point group collect and use certain Personal Data. Check Point is responsible for ensuring that it uses that Personal Data in compliance with data protection laws.
     2. At Check Point we respect the privacy of our clients and we are committed to keeping all your Personal Data secure. This Privacy Policy governs the handling of Personal Data by Check Point in the course of carrying on commercial activities.
     3. We use the following definitions in this Privacy Policy: **“Check Point”, “we” or “us”** means Check Point Software Technologies Ltd. and other companies in the Check Point group. **“Personal Data”** means any data which relates to a living individual who can be identified from that data or from that data and other information which is in the possession of, or is likely to come into the possession of, Check Point (or its representatives or service providers). In addition to factual information, it includes any expression of opinion about an individual and any indication of the intentions of Check Point or any other person in respect of an individual.
   2.  **THE PRODUCTS AND SERVICES WE PROVIDE**
@@ -112,12 +112,25 @@ The list below sets out what is covered in this Privacy Policy and you can click
     2. You can exercise your rights by contacting us using the details listed in paragraph 11 below.
   10.  **DESIGNATED REPRESENTATIVE**
     1. Check Point’s registered office may be contacted using the following contact information:  
-
+ _Address:_|  Check Point Software Technologies Ltd.,  
+5 Shlomo Kaplan Street,  
+Tel Aviv 67897,  
+Israel  
+Attention: Legal Department  
+---|---  
+ _Email Address:_| [privacy_inquiries@checkpoint.com](mailto:privacy_inquiries\(at\)checkpoint.com)  
     2. Check Point’s designated representative in the EU may be contacted using the following contact information:  
 
   11.  **QUESTIONS AND CONCERNS**
-    1. If you have any questions or concerns about Check Point’s handling of your Personal Data, or about this Policy, please contact our Privacy Officer using the following contact information:
-
+    1. If you have any questions or concerns about Check Point’s handling of your Personal Data, or about this Policy, please contact our Privacy Officer using the following contact information:  
+ _Address:_|  Check Point Software Technologies Ltd.,  
+5 Shlomo Kaplan Street,  
+Tel Aviv 67897,  
+Israel  
+Attention: Legal Department  
+---|---  
+ _Email Address:_| [privacy_inquiries@checkpoint.com](mailto:privacy_inquiries\(at\)checkpoint.com)  
+  
 We are usually able to resolve privacy questions or concerns promptly and effectively. If you are not satisfied with the response you receive from our Privacy Officer, you may escalate concerns to the applicable privacy regulator in your jurisdiction. Upon request, Check Point’s Privacy Officer will provide you with the contact information for that regulator.
 
 
@@ -131,7 +144,7 @@ This Cookies Notice applies to cookies used on any Check Point website with the 
 
   * • [www.cybertalk.org](https://www.cybertalk.org/)
   * • [www.cpcheckme.com](https://www.cpcheckme.com/)
-  * • [www.zonealarm.com](https://www.zonealarm.com/)
+  * • [www.zonealarm.com](http://www.zonealarm.com/)
 
 
 
@@ -179,9 +192,9 @@ We use the following types of cookies on our Webpages:
  **‘Strictly necessary’ cookies**|  These cookies are essential to ensure performance of the Webpages and include Session Cookies.| These cookies typically expire after 3 months  
  **Targeting or advertising cookies**| 
 
-These cookies allow us to display promotions and advertisements from external websites that may be of interest to you. We have also signed a written data processing agreement with Google based on a template created by Google in association with data protection authorities. For further information on this, please contact Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland or visit [www.google.com/analytics/terms/de.html](https://www.google.com/analytics/terms/de.html) and/or [www.google.de/intl/de/policies/privacy](https://www.google.de/intl/de/policies/privacy).
+These cookies allow us to display promotions and advertisements from external websites that may be of interest to you. We have also signed a written data processing agreement with Google based on a template created by Google in association with data protection authorities. For further information on this, please contact Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland or visit [www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html) and/or [www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
 
-For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) if you are in the United States, or [youronlinechoices.eu](https://youronlinechoices.eu/) if you are outside the United States.
+For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) if you are in the United States, or [youronlinechoices.eu](http://youronlinechoices.eu/) if you are outside the United States.
 
 | These cookies typically expire after 3 months  
   
@@ -197,16 +210,16 @@ By using the Webpages and/or closing the pop-up cookie notice, you consent to th
 
 The browsers of most computers, smartphones and other web-enabled devices are typically set up to accept cookies. If you wish to amend your cookie preferences for the Webpages, you can do this at any time by changing your browser settings. Your browser’s ‘help’ function will tell you how to do this. You do not have to accept cookies, however, please note that cookies are often used to enable and improve certain functions on the Webpages. If you choose to block cookies through your browser settings, it is likely to affect how the Webpages work and you may not be able to access all or parts of the Webpages.
 
-For more information about how to disable cookies, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+For more information about how to disable cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) if you are in the United States, or [youronlinechoices.eu](https://youronlinechoices.eu/) if you are outside the United States.
+For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) if you are in the United States, or [youronlinechoices.eu](http://youronlinechoices.eu/) if you are outside the United States.
 
  **E. CONTACT US**
 
 Questions, comments and requests regarding this Cookies Notice can be sent to us using the contact details set out below:
 
 [checkpoint.com/about-us/contact-us](https://web.archive.org/about-us/contact-us/)  
-Or: [privacy_inquiries(at)checkpoint.com](mailto:privacy_inquiries\(at\)checkpoint.com)
+Or: [privacy_inquiries@checkpoint.com](mailto:privacy_inquiries\(at\)checkpoint.com)
 
  **United States**  
 Check Point Software Technologies Inc.  
@@ -216,7 +229,7 @@ San Carlos, CA 94070
  **International**  
 Check Point Software Technologies Ltd.  
 5 Shlomo Kaplan Street  
-Tel Aviv 67897, Israel
+Tel Aviv 67897, Isr
 
 ### CHECK POINT WEBSITE TERMS AND CONDITIONS
 
@@ -234,7 +247,7 @@ Tel Aviv 67897, Israel
 
  **“Services”** means all professional data security and IT security services which may be performed by Check Point including, but not limited to product support, vulnerability scanning, security consultation, system hardening, incident response, penetration testing, and consulting services.
 
- **“Site”** means all content, including the Materials, included on this website ([checkpoint.com](https://checkpoint.com/)).
+ **“Site”** means all content, including the Materials, included on this website ([checkpoint.com](https://www.checkpoint.com/)).
 
 In these Terms, the words “you” and “your” refer to all visitors and users of this Site, and the words **“we”** , **“us”** , **“our”** , and **“Check Point”** refer to Check Point (as defined above), a company registered in the State of Israel at  Check Point Software Technologies Ltd., 5 Shlomo Kaplan Street, Tel Aviv 67897, Israel.
 
