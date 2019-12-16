@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phing.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216075227id_/http%3A//www.phing.com/privacy-policy-22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phing.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216033109id_/https%3A//www.phing.com/index.php%3Fpage%3Dpage%26id%3D22) for the most accurate reproduction.*
 
 # Privacy Policy - pHing.com Classifieds
 
@@ -35,6 +35,6 @@ Our site provides registered users the opportunity to opt-out of receiving promo
 
 
 
-If you have any questions about this privacy statement or the practices of this site, feel free to [contact us](https://web.archive.org/web/20161216075227id_/http%3A//contact).
+If you have any questions about this privacy statement or the practices of this site, feel free to [contact us](https://web.archive.org/web/20191216033109id_/https%3A//contact).
 
 _Last updated on 30 July 2014._
