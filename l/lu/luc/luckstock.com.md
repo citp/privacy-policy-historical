@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckstock.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417013115id_/https%3A//luckstock.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckstock.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216025828id_/https%3A//luckstock.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # LuckStock Privacy Statement
 
