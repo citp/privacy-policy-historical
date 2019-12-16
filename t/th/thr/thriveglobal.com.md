@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriveglobal.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626014642id_/https%3A//thriveglobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriveglobal.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216220202id_/https%3A//thriveglobal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Thrive Global - Thrive Global
 
@@ -232,7 +232,7 @@ The Services and our business may change from time to time. As a result we may c
 
   * Email: [legal@thriveglobal.com](mailto:legal@thriveglobal.com)
   * Attention: Customer Support
-  * Postal Mail: 100 Crosby Street, Suite 601, New York 10012, United States of America
+  * Postal Mail: 599 Broadway, 6th Floor, New York, NY 10012, United States of America
   * Tel: 1-888-700-8474
 
 
@@ -253,8 +253,9 @@ Please feel free to contact us if you have any questions about Thrive’s Privac
 
 Thrive Global Holdings, Inc.  
 Customer Support  
-100 Crosby Street, Suite 601  
-New York 10012  
-Tel: 1-888-700-8474 
+599 Broadway  
+6th Floor  
+New York, NY 10012  
+Tel: 1-888-700-8474
 
 If you are an individual in the EU, you can also contact DPR Group, who has been appointed as Thrive’s Data Protection Representative in the EU pursuant to Article 27 of the General Data Protection Regulation. Please read the European Union (EU) Users section above to learn how to contact DPR Group.
