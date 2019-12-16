@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyinteractive.org privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414124459id_/https%3A//www.edology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinteractive.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216120202id_/https%3A//www.edology.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Edology
 
