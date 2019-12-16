@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u2tours.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509020925id_/https%3A//www.atu2.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u2tours.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216213943id_/https%3A//www.atu2.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
