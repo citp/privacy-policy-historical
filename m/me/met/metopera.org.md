@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625160640id_/https%3A//www.metopera.org/link/cfff9aa97130498a9d1d7b74e65f88ba.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216152132id_/https%3A//www.metopera.org/link/cfff9aa97130498a9d1d7b74e65f88ba.aspx) for the most accurate reproduction.*
 
 # Metropolitan Opera | Privacy Policy
 
@@ -8,7 +8,13 @@ The Metropolitan Opera Association, Inc. (“we” or “us”) wants you to be 
 
   * through metopera.org, metoperashop.org, and the other websites operated by us from which you are accessing this Privacy Policy (the “ **Websites** ”),
   * through the software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”) and in connection with which you are accessing this Privacy Policy,
-  * through our social media pages and apps located at <https://www.facebook.com/MetOpera/>, <https://twitter.com/metopera>, <http://instagram.com/metopera>, <https://www.youtube.com/user/MetropolitanOpera>, <http://lastnightatthemet.com/> (collectively, our “ **Social Media Pages** ”),
+  * through our social media pages and apps located at: 
+    * <https://www.facebook.com/MetOpera/>
+    * <https://twitter.com/metopera>
+    * <http://instagram.com/metopera>
+    * <https://www.youtube.com/user/MetropolitanOpera>
+    * <http://lastnightatthemet.com/> 
+    * (collectively, our “ **Social Media Pages** ”),
   * through the Met Opera on Demand subscription streaming service, available through the metopera.org website and applications that may be available on certain TVs, mobile devices, and other platforms, devices, and/or hardware, and
   * through HTML-formatted email messages that we send to you that link to this Privacy Policy
 
@@ -219,7 +225,7 @@ We seek to use reasonable organizational, technical, and administrative measures
 
 We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from: 
 
-  * **Receiving email marketing from us:  ** You may opt out of receiving marketing e-mail from us by following the instructions contained in each such e-mail message.  You may also change your e-mail preferences through the [My Account](https://web.archive.org/link/f155151b6c8c45f08c4b7312a2045e2b.aspx) section of the Website. 
+  * **Receiving email marketing from us:  ** You may opt out of receiving marketing e-mail from us by following the instructions contained in each such e-mail message.  You may also change your e-mail preferences through the [My Account](https://web.archive.org/link/0ac3af5cadb34953b95f52c3ce37de3e.aspx) section of the Website. 
   * **Receiving telemarketing calls from us:**   You may opt out of receiving telemarketing calls from us using the contact information in the section entitled “Contacting Us,” below. 
   * **Our sharing of your Personal Information with our affiliate for its direct marketing purposes:**   If you prefer that we discontinue sharing your Personal Information on a going-forward basis with the Metropolitan Opera Guild for its direct marketing purposes, please send your request to us at the contact information in the section entitled “Contacting Us,” below.
   * **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes:  ** If you prefer that we discontinue sharing your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, please send your request to us at the contact information in the section entitled “Contacting Us,” below.
