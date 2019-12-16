@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vuze.camera privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909032422id_/https%3A//vuze.camera/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuze.camera privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216132820id_/https%3A//vuze.camera/privacy-policy) for the most accurate reproduction.*
 
-# Vuze Camera by Humaneyes - Privacy Policy
+# Privacy and Cookie Use Policy | Vuze Camera
 
 **Effective Date:  May 24, 2018**
 
