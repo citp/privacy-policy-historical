@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bipartisanreport.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228114628id_/http%3A//bipartisanreport.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bipartisanreport.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216091022id_/https%3A//bipartisanreport.com/privacy-policy) for the most accurate reproduction.*
 
-# POLICY - Bipartisan Report
+# Privacy Policy - Bipartisan Report
 
 ## 1\. POLICY
 
@@ -74,9 +74,9 @@ The Site contains links to other websites. We are not responsible for the privac
 
 ## 4\. PRIVACY POLICIES AND DATA COLLECTION AT THIRD PARTY SITES
 
-Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other third-party companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of their cookies or other tracking technologies, which may include delivering targeted advertisements and marketing messages based upon the third party websites that you visit, or other purposes. We cannot control this collection of information and are not responsible for the privacy policies and data collection, use and disclosure practices of these third party advertisers. You should contact these third party advertisers directly if you have any questions about their use of the information that they collect from you. Google/DoubleClick DFP is our third party ad server. If you would like to know more about their information gathering practices and “opt-out” procedures, please see <http://www.google.com/policies/technologies/ads/>
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other third-party companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of their cookies or other tracking technologies, which may include delivering targeted advertisements and marketing messages based upon the third party websites that you visit, or other purposes. We cannot control this collection of information and are not responsible for the privacy policies and data collection, use and disclosure practices of these third party advertisers. You should contact these third party advertisers directly if you have any questions about their use of the information that they collect from you. Google/DoubleClick DFP is our third party ad server. If you would like to know more about their information gathering practices and “opt-out” procedures, please see [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/)
 
-Also, if you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/consumer/opt_out.asp>
+Also, if you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/consumer/opt_out.asp](https://www.networkadvertising.org/consumer/opt_out.asp)
 
 * * *
 
@@ -88,6 +88,6 @@ In compliance with Children’s Online Privacy Protection Act (“COPPA”), thi
 
 ## 6\. UPDATES AND CHANGES TO PRIVACY POLICY
 
-We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, including any [addendums](https://web.archive.org/privacy-addendum/), simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending an email to: admin(at)bipartisanreport.com
