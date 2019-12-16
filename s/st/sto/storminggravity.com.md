@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storminggravity.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115120149id_/http%3A//www.storminggravity.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storminggravity.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216122728id_/https%3A//www.storminggravity.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Storming Gravity
+# Privacy Policy ‐ Storming Gravity
 
 PRIVACY STATEMENT
 
@@ -20,8 +20,9 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?   
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at talktous@storminggravity.com or mailing us at:   
-Storming Gravity   
-Jalan 51A/241 Petaling Jaya Selangor MY 46100
+Storming Gravity 
+
+Lot 6, Level 3, Eco Sky, No. 972, Batu 6 1/2, Jalan Ipoh, 68100 Kuala Lumpur, Malaysia
 
 SECTION 3 - DISCLOSURE
 
@@ -82,4 +83,4 @@ QUESTIONS AND CONTACT INFORMATION
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at talktous@storminggravity.com or by mail at   
 Storming Gravity   
 [Re: Privacy Compliance Officer]   
-Jalan 51A/241 Petaling Jaya Selangor MY 46100
+Lot 6, Level 3, Eco Sky, No. 972, Batu 6 1/2, Jalan Ipoh, 68100 Kuala Lumpur, Malaysia
