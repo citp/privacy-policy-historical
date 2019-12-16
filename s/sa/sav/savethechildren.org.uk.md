@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620034342id_/https%3A//www.savethechildren.org.uk/misc/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216012856id_/http%3A//www.savethechildren.org.uk/misc/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Save the Children UK
 
-Save the Children is committed to protecting your personal data, whether you are a supporter, volunteer, or shopper.  Respect for your privacy is central to the commitments we have made as part of our [Supporter Promise](https://www.savethechildren.org.uk/about-us/accountability-and-transparency/supporter-promise.html). 
+Save the Children is committed to protecting your personal data, whether you are a supporter, volunteer, or shopper.  Respect for your privacy is central to the commitments we have made as part of our [Supporter Promise](https://www.savethechildren.org.uk/about-us/accountability-and-transparency/supporter-promise). 
 
 Please read this policy carefully to understand how we collect, use and store your personal data.
 
@@ -141,7 +141,7 @@ We will keep and delete your information according to our internal policies and 
 
 ### ****How can you change your marketing preferences or update the information we hold about you?
 
-In our [Supporter Promise](https://www.savethechildren.org.uk/about-us/accountability-and-transparency/supporter-promise.html), we pledge to make it clear and easy for you to choose how you hear from us. If you do not wish us to use your personal data for marketing purposes as outlined above, you can use the relevant box on the print or online form on which we collect your data or you can follow instructions provided in a print or poster advertisement or in a TV advert to indicate your preference.
+In our [Supporter Promise](https://www.savethechildren.org.uk/about-us/accountability-and-transparency/supporter-promise), we pledge to make it clear and easy for you to choose how you hear from us. If you do not wish us to use your personal data for marketing purposes as outlined above, you can use the relevant box on the print or online form on which we collect your data or you can follow instructions provided in a print or poster advertisement or in a TV advert to indicate your preference.
 
 You can also change any of your marketing preferences at any time (including telling us that you don’t want us to contact you for marketing purposes) by:
 
