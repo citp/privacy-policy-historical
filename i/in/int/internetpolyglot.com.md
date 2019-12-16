@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetpolyglot.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405123646id_/http%3A//www.internetpolyglot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetpolyglot.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216214158id_/https%3A//www.internetpolyglot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,6 @@ Your privacy is our top concern. We work hard to earn and keep your trust, so we
   * We will never rent or sell your personal information to third parties for marketing purposes 
   * We will never share your contact information with another user, unless both of you choose to contact one another 
   * Any sensitive information that you provide will be secured with all industry standard protocols and technology 
-
-
 
 By using our service, you consent and agree to the information collection and use practices described in our Privacy Policy. We may periodically make changes to our Privacy Policy. It is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it. 
 
@@ -50,6 +48,7 @@ Our service are intended solely for persons 13 years of age and older. If you ar
 
 ## Information Use
 
+  
 Internet Polyglot is an online service dedicated to helping language learners more effectively memorize new words. The information you choose to provide on this site is used to help you improve your learning experience. In addition, Internet Polyglot collects certain types of information in order to operate and improve our service to you and other users. Internet Polyglot is the sole owner of the information collected on this site. 
 
 ### Internet Polyglot Communications
@@ -68,12 +67,15 @@ Internet Polyglot may partner with other online services to give you the combine
 
 ## Links to Third Party Web Sites
 
+  
 Our service may contain links to other websites and software. We are not responsible for the privacy practices or the content of these websites or software. Please visit the privacy policies of these third party sites in order o understand their privacy and information collection practices. 
 
 ## Disclosures Required by Law
 
+  
 We reserve the right to disclose your personally identifiable information when we believe in good faith that an applicable law, regulation, or legal process requires it, or when we believe disclosure is necessary to protect or enforce our rights or the rights of other users. 
 
 ## No Error-Free Performance
 
+  
 We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our service generally. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this Privacy Policy. 
