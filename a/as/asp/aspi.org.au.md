@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspi.org.au privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619051243id_/https%3A//www.aspi.org.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspi.org.au privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216133253id_/https%3A//www.aspi.org.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Strategic Policy Institute | ASPI
 
@@ -139,7 +139,7 @@ We reserve the right to revise this Privacy Policy or any part of it from time t
 
 If you have any questions about this Privacy Policy, please contact ASPI’s Privacy Officer: 
 
-(a) by email to enquiries: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) 
+(a) by email to enquiries: enquiries@aspi.org.au 
 
 (b) by writing to: Privacy Officer, Australian Strategic Policy Institute, Level 2, 40 Macquarie Street, Barton ACT 2600. 
 
