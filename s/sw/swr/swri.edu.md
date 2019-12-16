@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swri.edu privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414144206id_/https%3A//www.swri.org/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swri.edu privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216184017id_/https%3A//www.swri.org/content/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Southwest Research Institute
 
@@ -28,10 +28,10 @@ Visitors to SwRI’s website may set their internet browser to reject or delete 
 
 ## SwRI Copyright Notice
 
-Unless otherwise noted, all materials on this site (including without limitation any software and all text, HTML markup, graphics, graphic elements, video and audio) are copyright ©1996-2018 Southwest Research Institute®, San Antonio, Texas.
+Unless otherwise noted, all materials on this site (including without limitation any software and all text, HTML markup, graphics, graphic elements, video and audio) are copyright ©1996-2019 Southwest Research Institute®, San Antonio, Texas.
 
 All materials appearing on the SwRI website or related file servers may not be reproduced or stored in any retrieval system without prior written permission of the Institute, except for attributed noncommercial educational purposes. Material available through this site may not be used for any commercial purposes without the express prior written permission of the copyright holder.
 
 ## Legal Notice
 
-©1999-2018 Southwest Research Institute. All rights reserved. Southwest Research Institute, SwRI and the SwRI logo are official trademarks of Southwest Research Institute.
+©1999-2019 Southwest Research Institute. All rights reserved. Southwest Research Institute, SwRI and the SwRI logo are official trademarks of Southwest Research Institute.
