@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelandleisure.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331093628id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_new.html%3Fdnp-source%26%23x3D%3BE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelandleisure.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216022733id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
 
-# TRAVEL + LEISURE Privacy Policy for the US
+# Travel & Leisure Privacy Policy for the US
 
 ## PRIVACY POLICY
 
@@ -21,13 +21,13 @@
 
 
 
-(NEW)[European Union Privacy Information](https://web.archive.org/web/20190331093635id_/https://www.meredith.com/legal-ti/travelleisure/generic_privacy_new_eu.html)  
+(NEW)[European Union Privacy Information](https://www.meredith.com/legal-ti/travelleisure/generic_privacy_new_eu.html)  
 For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
 
-[Canada Privacy Information](https://web.archive.org/web/20190331093635id_/https://www.meredith.com/legal-ti/travelleisure/generic_privacy_new_caneu.html)  
-This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20190331093635id_/https://www.meredith.com/legal-ti/travelleisure/generic_privacy_new_eu.html), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20190331093635id_/https://www.meredith.com/legal-ti/travelleisure/generic_privacy_new_caneu.html).
+[Canada Privacy Information](https://www.meredith.com/legal-ti/travelleisure/generic_privacy_new_caneu.html)  
+This is the Privacy Policy which applies to you if you live outside the [European Union](https://www.meredith.com/legal-ti/travelleisure/generic_privacy_new_eu.html), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://www.meredith.com/legal-ti/travelleisure/generic_privacy_new_eu.html).
 
-This Privacy Policy discloses the privacy practices for TRAVEL + LEISURE, the Meredith Corporation owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by Meredith Corporation , including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by Meredith Corporation and its subsidiaries. 
+This Privacy Policy discloses the privacy practices for this site, the Meredith Corporation owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by Meredith Corporation, including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by Meredith Corporation and its subsidiaries. 
 
 #### The Information We Collect
 
@@ -54,17 +54,17 @@ We may use the information collected under this Privacy Policy in the following 
   * The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
   * We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
   * We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
-  * Agents and contractors of Meredith Corporation that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Meredith Corporation 
-  * We may transfer your personally identifiable information to other Meredith Corporation offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Meredith Corporation offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of Meredith Corporation , our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
+  * Agents and contractors of Meredith Corporation that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Meredith Corporation
+  * We may transfer your personally identifiable information to other Meredith Corporation offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Meredith Corporation offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of Meredith Corporation, our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
   * Please note that if Meredith Corporation or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
 
 
 
 #### Privacy Options
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Meredith Corporation property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Meredith Corporation , please [click here](https://web.archive.org/offlinePrivacy.html).
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Meredith Corporation property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Meredith Corporation, please [click here](https://www.meredith.com/offlinePrivacy.html).
 
-If you prefer not to receive e-mail marketing from this or any other Meredith Corporation property, or if you want to opt-out of any sharing of your email address with third parties not owned by Meredith Corporation , please [click here](https://secure.travelandleisure.com/common/profile/member/optout/?showAllSites=true).
+If you prefer not to receive e-mail marketing from this or any other Meredith Corporation property, or if you want to opt-out of any sharing of your email address with third parties not owned by Meredith Corporation, please [click here](mailto:privacy@meredith.com).
 
 We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -72,7 +72,7 @@ back to top
 
 #### Your California Privacy Rights: Notice to California Customers
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Meredith Corporation sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/offlinePrivacy.html), or for email please [click here](https://secure.travelandleisure.com/common/profile/member/optout/?showAllSites=true). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Meredith Corporation sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://www.meredith.com/offlinePrivacy.html), or for email please [click here](mailto:privacy@meredith.com). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
 
 #### Collection of Information by Third Parties
 
@@ -98,7 +98,7 @@ Most browsers automatically accept cookies. You can set your browser option so t
 
 Some of the tracking technologies we use include: 
 
-  * Local Shared Objects: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+  * Local Shared Objects: Local shared objects, such as Flash cookies, also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
   * HTML 5: HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
   * Cache Cookies: Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
   * Web Beacons: Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
@@ -123,13 +123,15 @@ We encourage you to review, update, and correct the personal information that we
 
 We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the **"Accessing, Correcting, and Deleting Your Personal Information"** section above.
 
+####  
+
 #### Special Note for Parents
 
 The site you are visiting is one of the Meredith Corporation general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
 #### Changes to this Privacy Policy
 
-This Privacy Policy may be changed by Meredith Corporation The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+This Privacy Policy may be changed by Meredith Corporation. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
 #### How to Contact Us
 
@@ -143,4 +145,4 @@ Email: [privacy@meredith.com](mailto:privacy@meredith.com)
 
 back to top
 
-This Privacy Policy was revised September 29, 2017.
+This Privacy Policy was revised February 1, 2019.
