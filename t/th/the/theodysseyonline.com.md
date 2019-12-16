@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theodysseyonline.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401155939id_/https%3A//about.theodysseyonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theodysseyonline.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216102931id_/http%3A//theodysseyonline.com/sp/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy - The Odyssey Online
 
 Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.
 
