@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tizen.org privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606041010id_/https%3A//www.tizen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tizen.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216145546id_/https%3A//www.tizen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tizen
 
