@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestranger.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423163552id_/https%3A//www.thestranger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestranger.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216155106id_/https%3A//www.thestranger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Stranger
 
