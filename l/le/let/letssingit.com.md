@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516122823id_/https%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216022313id_/https%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
