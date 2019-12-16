@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line-of-action.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316033957id_/https%3A//line-of-action.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line-of-action.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216094405id_/https%3A//line-of-action.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy and information handling disclosure - Line of Action
 
