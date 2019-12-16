@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhd.edu privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630163103id_/http%3A//www.uhsystem.edu/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhd.edu privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216162138id_/http%3A//www.uhsystem.edu/privacy-notice) for the most accurate reproduction.*
 
 # UHS Privacy Notice - University of Houston System
 
