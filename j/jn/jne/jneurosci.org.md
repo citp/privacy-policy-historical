@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jneurosci.org privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530021300id_/http%3A//www.jneurosci.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jneurosci.org privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216200723id_/https%3A//www.jneurosci.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Journal of Neuroscience
 
 Updated May 2018
 
   1. Introduction 
-    * _The Journal of Neuroscience_ is an official journal of The Society for Neuroscience.
+    * _JNeurosci_ is an official journal of The Society for Neuroscience.
     * The Society for Neuroscience (hereafter may be referred to as "SfN," "we," "us," or "our") is committed to safeguarding the privacy of our website visitors, members, and customers.
     * By using our website and agreeing to this policy, you consent to our collection, use, and disclosure of information and use of cookies in accordance with the terms of this policy.
     * SfN has privacy controls that affect how we will process your personal data. By using the privacy controls, you can specify whether you would like to receive direct marketing communications and limit the publication of your information. This can be done within the direct marketing communications or by emailing [data@sfn.org](mailto:data@sfn.org).
@@ -40,7 +40,7 @@ Updated May 2018
   5. **Retaining and deleting personal data**
     * This section sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data. Personal data that we process for any purpose shall not be kept for longer than is necessary for that purpose. Notwithstanding the other provisions of this section, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or to protect your vital interests or the vital interests of another person.
   6. **Policy Changes**
-    * We may update this policy from time to time by publishing a new version on our website. Check this page occasionally to ensure you accept any changes to this policy. We may notify you of changes to this policy by email or via website announcement on [www.SfN.org](http://www.sfn.org/).
+    * We may update this policy from time to time by publishing a new version on our website. Check this page occasionally to ensure you accept any changes to this policy. We may notify you of changes to this policy by email or via website announcement on [www.SfN.org](https://www.sfn.org/).
   7. **Your Rights**
     * In this section, we have summarized the rights that citizens of the European Union have under data protection law. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
     * Your principal data protection rights are: 
@@ -78,12 +78,12 @@ Updated May 2018
   10. **Cookies Used by Our Service Providers**
     * Our service providers use cookies that may be stored on your computer when you visit our website.
     * We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use and performance of our website. Google's privacy policy is available at: <https://www.google.com/policies/privacy>.
-    * We may publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
+    * We may publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [https://optout.networkadvertising.org](https://optout.networkadvertising.org/).
   11. **Managing Cookies**
     * Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can obtain up-to-date information about blocking and deleting cookies via these links: 
       * <https://support.google.com/chrome/answer/95647?hl=en> (Chrome)
       * <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox)
-      * <http://www.opera.com/help/tutorials/security/cookies/> (Opera)
+      * <https://www.opera.com/help/tutorials/security/cookies/> (Opera)
       * <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer)
       * <https://support.apple.com/kb/PH21411> (Safari)
       * <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge)
