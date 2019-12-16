@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprhelpdesk.eu privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518230903id_/https%3A//www.iprhelpdesk.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprhelpdesk.eu privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216174446id_/http%3A//iprhelpdesk.eu/privacy) for the most accurate reproduction.*
 
 # Data privacy notice | European IP Helpdesk
 
@@ -12,7 +12,7 @@ This processing operation is subject to Regulation (EU) 2018/1725 of the Europe
 
 Personal data is processed for the purposes of communication/transparency to provide and make available information on the projects’ activities/initiatives/events, etc. 
 
-Based on the above, European IP Helpdeskuses your data to:
+Based on the above, European IP Helpdesk uses your data to:
 
   * Compile project statistics for project reporting purposes;
   * If you are using the Helpline service, to ask for more information about your query in the case that clarifications are needed; to send an answer to your IP question; ask your feedback about the usefulness of the answers provided; and in limited instances, to follow up on your case; use of pictures and/or audio-visual items on social media and on the project’s website;
@@ -65,7 +65,7 @@ All personal data related to the implementation of the European IP Helpdesk task
 
 You have the right to access, rectify, erase, and receive your personal data, as well as restrict its processing or object to the same, as provided in Articles 17 to 24 of Regulation (EU) 2018/1725. 
 
-European IP Helpdeskwants to make sure that your personal information is accurate and up to date. You may ask European IP Helpdeskto correct or remove information you think is inaccurate. You also have the right to have your data completely removed from European IP Helpdeskdatabase. To modify or remove your personal information completely from European IP Helpdeskwebsite and database, please send an email to:
+European IP Helpdesk wants to make sure that your personal information is accurate and up to date. You may ask European IP Helpdesk to correct or remove information you think is inaccurate. You also have the right to have your data completely removed from European IP Helpdeskdatabase. To modify or remove your personal information completely from European IP Helpdesk website and database, please send an email to:
 
 [service@iprhelpdesk.eu](mailto:service@iprhelpdesk.eu)
 
@@ -98,7 +98,7 @@ In the event of a formal appeal, all data held at the time of the appeal will be
 
 ### Third-party platforms
 
-Finally, it may be possible that the European IP Helpdesk webpage contains links to other sites whose data processing practices are different from European IP Helpdesk. Neither the European IP Helpdesk nor EASME or the European Union are responsible for the privacy practices implemented on any of these external sites. You should be aware of this when leaving the European IP Helpdeskwebsite and European IP Helpdeskencourages you to read the privacy statements on such external websites, as European IP Helpdeskhas no control over the information that is submitted to or collected by these third parties.
+Finally, it may be possible that the European IP Helpdesk webpage contains links to other sites whose data processing practices are different from European IP Helpdesk. Neither the European IP Helpdesk nor EASME or the European Union are responsible for the privacy practices implemented on any of these external sites. You should be aware of this when leaving the European IP Helpdesk website and European IP Helpdesk encourages you to read the privacy statements on such external websites, as European IP Helpdesk has no control over the information that is submitted to or collected by these third parties.
 
 European IP Helpdeskalso uses third-party platforms to carry out some of European IP Helpdesk services for you and you can find their privacy policies separately on their website, namely: 
 
