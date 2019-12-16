@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammy.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614022220id_/https%3A//www.grammy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammy.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216015449id_/https%3A//www.grammy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Recording Academy | GRAMMY.com
 
@@ -161,17 +161,11 @@ Our Platform offers integration with third-party social media platforms. These s
 
 If you post any comments, reviews, photos or other information on our Facebook, Twitter or Pinterest pages, we may display those comments, reviews, photos or information on the Site. **_In addition, your use of these social media services may result in the collection or sharing of information about you by these social media services. We have no control over, and decline all responsibility for, the use of your personal data by these third parties._** We encourage you to review the privacy policies and settings on the social media services with which you interact to make sure you understand the information that may be collected, used, and shared by those social media services.
 
-**4.12  Chatbot**
-
-If you want to use the Chatbot feature on the Site, you will need to have a Facebook account and be logged in to Facebook. By logging in to Facebook and using Chatbot, you give us permission to access, store and use any information that you permit Facebook to share with us in accordance with the privacy settings that are applicable to your account with Facebook.
-
-**_We encourage you to review, and if necessary, adjust, your privacy settings on Facebook before using Chatbot. We store and use information that we receive from Facebook in accordance with this Privacy Notice._**
-
-**4.13  Children**
+**4.12  Children**
 
 Our Platform is not directed to individuals under the age of 16. We do not solicit or knowingly collect Personal Data from such individuals. If you become aware that a child under the age of 16 has provided us with Personal Data, please contact us as indicated in the “How to Contact Us” section below. If we obtain actual knowledge that we have collected Personal Data from a child under the age of 16, we will take steps to delete such information from our database.
 
-**4.14  Other Information**
+**4.13  Other Information**
 
 Certain areas of the Platform include free text fields, where you can write messages to other users, or post content that may contain Personal Data. Some countries, including by way of example, the EEA, significantly restrict the use of certain information deemed “sensitive”.  Other countries, such as the United States try to limit the use and sharing of certain information such as Social security number or financial account information, to limit identity theft.
 
