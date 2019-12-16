@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425145942id_/https%3A//www.duke-energy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216205630id_/https%3A//www.duke-energy.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Duke Energy
 
@@ -70,6 +70,15 @@ We reserve the right to transfer any information we have about you in the event 
 
   * Some state laws, and certain state utility commissions with regulatory oversight of our utility service territories, require that certain customer information be protected from disclosure to our affiliate companies. The relevant laws and codes of conduct may be found here:
 
+    * [Florida: Rule No. 25-6.014](https://www.flrules.org/gateway/RuleNo.asp?title=ELECTRIC%20SERVICE%20BY%20ELECTRIC%20PUBLIC%20UTILITIES&ID=25-6.014) and [Rule No. 25-6.015](https://www.flrules.org/gateway/RuleNo.asp?title=ELECTRIC%20SERVICE%20BY%20ELECTRIC%20PUBLIC%20UTILITIES&ID=25-6.015)
+    * [](https://www.flrules.org/gateway/RuleNo.asp?title=ELECTRIC%20SERVICE%20BY%20ELECTRIC%20PUBLIC%20UTILITIES&ID=25-6.015)[Indiana](https://www.duke-energy.com/_/media/pdfs/legal/de-in-affiliate-standards.pdf?la=en)
+    * [Kentucky](https://apps.legislature.ky.gov/law/statutes/)
+    * [](https://apps.legislature.ky.gov/law/statutes/)[North Carolina and South Carolina](https://www.duke-energy.com/_/media/pdfs/legal/duke-piedmont-code-of-conduct.pdf?la=en)
+    * [](https://www.duke-energy.com/_/media/pdfs/legal/duke-piedmont-code-of-conduct.pdf?la=en)[Ohio](http://codes.ohio.gov/orc/4928.17)
+
+Duke Energy administers role-based training that addresses various regulatory requirements for employees and contingent workers in all regulated jurisdictions on a monthly and annual basis. Employees and contingent workers receive training on corporate separation requirements, proper handling of customer information, marketing non-regulated products and services, asset transfers, affiliate transaction restrictions, and time reporting, in addition to other subjects required by a regulated jurisdiction.  
+
+
   * We offer you certain choices in connection with the personal information we obtain about you. To update your preferences, limit the communications you receive from us or submit a request, please contact us as specified in the How to Contact Us section of this Digital Privacy Policy or adjust the privacy settings in the Digital Service, as applicable.  
 
   You will receive email communications from us in connection with your use of our Digital Services and other services, such as when you sign up for an account online, perform an online transaction (for example, paying your bill or requesting a new password) or provide your email address to a customer contact representative. You may also receive email communications from us about new products and services. To opt out of receiving marketing emails from us, use the one-click unsubscribe link at the bottom of the email you received. In some instances, Duke Energy will co-brand with another company. Please be aware that the privacy policy referenced at the bottom of the webpage governs the collection of information on that page. 
@@ -117,13 +126,13 @@ We will not disclose information collected from your child to third parties for 
     * **Other Parties in Connection with Corporate Transactions**. We may disclose information collected from your child to a third party as part of a merger or transfer, or in the event of a bankruptcy. 
 
 **DATA RETENTION AND DELETION  **  
-As a parent or guardian, you can review or have the information collected from your child deleted. You may also refuse to permit further collection or use of the information. To do so, please email our Privacy Team at [ethicsofficer@duke-energy.com](mailto:ethicsofficer@duke-energy.com) or contact us using the information below.  
+As a parent or guardian, you can review or have the information collected from your child deleted. You may also refuse to permit further collection or use of the information. To do so, please email our Data Privacy Program at [dataprivacy@duke-energy.com](mailto:dataprivacy@duke-energy.com) or contact us using the information below.  
 
 
   * This Digital Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will indicate at the top of the policy when it was most recently updated.  
 
 
-  * If you have any questions about this Digital Privacy Policy or our privacy practices, or if you would like us to update information we have about you, change your preferences or exercise other applicable privacy rights, please email our Privacy Team at ethicsofficer@duke-energy.com or contact us using the information below:
+  * If you have any questions about this Digital Privacy Policy or our privacy practices, or if you would like us to update information we have about you, change your preferences or exercise other applicable privacy rights, please email our Data Privacy Program at [dataprivacy@duke-energy.com](mailto:dataprivacy@duke-energy.com) or contact us using the information below:
 
   | Duke Energy | Duke Energy Progress  
 ---|---|---  
