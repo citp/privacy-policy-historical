@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518151949id_/https%3A//intently.co/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2019-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191216172933id_/https%3A//intently.co/pages/privacy) for the most accurate reproduction.*
 
 # Intently.co - Privacy
 
@@ -52,6 +52,8 @@ We are committed to ensuring that your information is secure. In order to preven
 ### Account administration
 
 From time to time, one of our administrators may edit your list of services to ensure that you are getting the best possible supplier alerts based on requests being raised by users. In addition, if you are signed up and raise a request, we may occasionally raise a further request on your behalf if we feel that we can better target potential suppliers for your needs. 
+
+If we detect that your account's email address has become invalid, then we may research and assign an alternative valid email address for your account. If we are unable to do this, then we may delete your account. Further to this, if we determine that the website assigned to your account is no longer in service, then we may delete your account. This helps to ensure that we maintain a system of valid email addresses and websites displayed on Intently. 
 
 ### Cookies
 
