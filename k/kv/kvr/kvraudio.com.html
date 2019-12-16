@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kvraudio.com privacy policy that was archived on 2019-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190613220854id_/https%3A//www.kvraudio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kvraudio.com privacy policy that was archived on 2019-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191217000936id_/https%3A//www.kvraudio.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -23,17 +23,25 @@
 <link type="image/png" rel="icon" href="/favicon.png">
 <link rel="apple-touch-icon" href="https://static.kvraudio.com/i/kvr-grey-144x144.png">
 <link type="text/css" rel="stylesheet" href="https://static.kvraudio.com/inc/jquery-ui-1-12-1-kvr/jquery-ui.min.css">
-<link type="text/css" rel="stylesheet" href="https://static.kvraudio.com/inc/kvr.css?v=202">
+<link type="text/css" rel="stylesheet" href="https://static.kvraudio.com/inc/kz.css?v=243">
+<link type="text/css" rel="stylesheet" href="https://static.kvraudio.com/inc/kvr.css?v=243">
 
-<script src="https://static.kvraudio.com/inc/jquery-3.4.1.min.js"></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MWNP2F9"></script><script src="https://static.kvraudio.com/inc/jquery-3.4.1.min.js"></script>
 <script src="https://static.kvraudio.com/inc/jquery-ui-1-12-1-kvr/jquery-ui.min.js"></script>
-<script src="https://static.kvraudio.com/inc/kvr-pae.js?v=174"></script>
+<script src="https://static.kvraudio.com/inc/kvr-pae.js?v=186"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MWNP2F9');</script>
+<!-- End Google Tag Manager -->
 <script>
 mykvr = {"logged":"out"};
 kvrkart = [];
 kvrspid = [];
-kvrmpv = "2019-1";
-kvr_ip_address = '207.241.232.186';
+kvrmpv = "2019-2";
+kvr_ip_address = '207.241.232.189';
 
 $(function(){
   var kvrwidth = kvr_readCookie("kvrwidth");
@@ -43,6 +51,15 @@ $(function(){
   }
   $(document).on("mousedown", "a", function(e){if(e.which == 1 || e.which == 2){$("#kvrgo").attr("src", '/static/go/?from=' + kvr_base64_encode(window.location) + '&to=' + kvr_base64_encode(this.href));}});
 });
+
+var kvfrtz = kvr_readCookie("kvrtz");
+var kvr_tz_offset_minutes = new Date().getTimezoneOffset();
+kvr_tz_offset_minutes = kvr_tz_offset_minutes == 0 ? 0 : -kvr_tz_offset_minutes;
+
+if(kvfrtz != kvr_tz_offset_minutes)
+{
+  kvr_createCookie("kvrtz", kvr_tz_offset_minutes);
+}
 
 soundManager.onready(function(){inlinePlayer = new InlinePlayer();});
 
@@ -96,24 +113,882 @@ ga('send', 'pageview');
 }
 </script>
 <style type="text/css">
-.niq {margin: 15px 0;} .kvrpointsbeta {display: none !important;}.pmaincontent h1 {margin: .67em 0;}
+.niq {margin: 15px 0;} 
+body {background-color: #eee;}
+
+#kvrblock {
+  background-color: #fff;
+  padding: 0;
+  overflow: initial;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  width: 100%;
+  z-index: 1;
+}
+
+.kvrblockdynamic {
+  position: relative;
+  min-width: 320px;
+  max-width: 1344px;
+  margin: 0 auto !important;
+}
+
+#foot {
+  margin: 0 !important;
+  padding: 10px 0;
+  background-color: transparent;
+}
+
+#foot a {color: #15a;}
+
+#hyperheader {
+  background-color: #333;
+  z-index: 1000;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+#hyperheader a {
+  border-width: 0 !important;
+  padding: 0 5px;
+  background-color: transparent;
+  color: #fff;
+}
+
+#hyperheader a#searchkvr {
+  background-image: none;
+  box-shadow: none;
+  border-width: 0 !important;
+  background-color: #eee;
+  color: #888 !important;
+}
+
+#herobar {
+  z-index: 1;
+  background-color: #222;
+  position: relative;
+  margin-top: 45px;
+  overflow: hidden;
+}
+
+#navlowerbar {
+  background-color: #222;
+  position: relative;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 45px;
+  z-index: 2;
+}
+
+#header {padding: 20px 0;}
+
+#headerlogodiv {
+  width: 135px;
+  margin-right: 30px;
+  margin-left: 15px;
+}
+
+#logotagline {
+  display: none;
+  color: #c0c0c0;
+  width: 135px;
+  overflow: hidden;
+  max-height: 30px;
+  line-height: 15px;
+}
+
+#logotagline a {color: #c0c0c0;}
+
+#header320to728,
+#kvrheader90 {
+  position: relative;
+  top: unset;
+  left: unset;
+  right: unset;
+  padding: 0;
+  margin: 0 0 0 20px;
+}
+
+#header320to728 {margin-left: auto;}
+
+#kvrbar {
+  text-shadow: none !important;
+  background-color: transparent;;
+  height: initial;
+}
+
+#kvrbar .ddseparator {
+  display: none;
+  border-left: 1px solid #ddd;
+}
+
+#kvrbar > a,
+#kvrbar .navmore > a {color: #fff;}
+
+#kvrnavline a {
+  line-height: 16px;
+  padding: 10px;
+  height: initial;
+  text-shadow: none !important;
+  color: #555 !important;
+  background-color: transparent !important;
+  margin-right: 10px;
+}
+
+#kvrbar > a.active,
+#kvrbar > a:hover,
+.hovthisblue a:hover,
+.hovthisblue a:active,
+.hovthisblue a:focus,
+#kvrnavline a:hover,
+.hovthisblue a.active,
+#kvrbar .navmore > a:hover,
+.kvrselmen1 a:hover,
+.scxp a:hover,
+.scxp a:focus,
+.scxp a:active,
+.hovthisblue a:hover .bluethistoo,
+.hovthisblue a:active .bluethistoo,
+.hovthisblue a:focus .bluethistoo,
+.hovthisblue a.active .bluethistoo {
+  color: #555 !important;
+  background-color: #ddd !important;
+  text-shadow: none !important;
+  box-shadow: none;
+  border-color: #ddd !important;
+}
+
+#scxbox a[href="/marketplace/special-offers"],
+#scxbox a[href="/marketplace/special-offers"]:hover,
+#scxbox a[href="/marketplace/special-offers"]:active,
+#scxbox a[href="/marketplace/special-offers"]:focus {
+  background-color: #777 !important;
+  color: #eee !important;
+}
+
+#kvrbar .navmore > a:hover .spdarcl,
+#kvrbar > a:hover .spdarcl {border-color: #555 !important;}
+
+#kvrnavline {
+  color: #555;
+  text-shadow: none;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex !important;
+  flex: 0 1 auto;
+  margin-bottom: 10px;
+}
+
+#kvrnavline.tabit a {
+  margin-right: 0;
+  font-weight: normal;
+}
+
+#kvrnavline.tabit {
+  padding: 0;
+  border-bottom-width: 0;
+  align-items: center;
+}
+
+#kvrnavline > a.active {
+  color: #555 !important;
+  font-weight: bold;
+}
+
+#scxtitle {
+  color: #555;
+  text-shadow: none;
+}
+
+#productstatsblock {
+  width: 300px;
+  margin: 0 0 10px 0px;
+}
+
+#pluginsblock {padding: 20px 0;}
+.prodinfoblock {margin: 0 0 20px 10px;}
+.kvrfpbox {padding: 0 0 20px 0;}
+#kvrfeaturedcol {padding: 0 0 30px 30px;}
+#kvrfeaturedcol {max-width: 330px !important;}
+
+#scxtabs a {
+  color: #555;
+  background-color: #f6f6f6;
+  box-shadow: none;
+  font-weight: normal;
+}
+
+#scxcon {
+  border-top: 1px solid #ddd;
+  background-color: #fff;
+  color: #555;
+}
+
+.scxp a {
+  background-color: #eee;
+  color: #555;
+  border-bottom: 0px solid #ddd;
+  padding: 15px;
+  margin: 5px 0;
+}
+
+.scxpinline {
+  border-bottom: 0px solid #ddd;
+  background-color: transparent;
+  padding-bottom: 5px;
+}
+
+.scxpinline a {
+  padding: 2px;
+  border-bottom: 0;
+  background-color: transparent;
+}
+
+.scxpsub {color: #666;}
+
+#scxbox .kvrtexttag {
+  background-color: #ddd;
+  color: #777;
+}
+
+#scxbox .lnk {color: #555;}
+
+.kvrfocus.newsbodycon {padding: 20px;}
+
+.niq {margin: 15px 0;}
+
+.navmoremenu {
+  background-color: #f6f6f6;
+  background-image: none;
+}
+
+.navmoremenu a {
+  color: #555 !important;
+  font-weight: normal;
+}
+
+.nhl {
+  box-sizing: border-box;
+  display: flex !important;
+  flex: 1 1 250px;
+}
+
+.nimg50 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 0;
+  top: 0;
+  margin-right: 20px;
+}
+
+#newsheadlines a.nhl,
+.nhl.kvrgrad5 {
+  padding: 20px 0;
+  margin-right: 5px;
+  border-width: 0;
+}
+
+.kvrheaddiv {
+  background-image: none;
+  background-color: #f6f6f6;
+  border-bottom: 1px solid #eee;
+  padding: 30px 20px;
+}
+
+.newsitem .tagsline {padding: 10px 0 !important;}
+
+.newsbodycon {
+  padding: 20px;
+  font-size: 1.0rem;
+}
+
+#kvrbar .spit.spdarcl.kvrhidetiny {
+  bottom: 9px !important;
+}
+
+.is-sticky #kvrbar .spit.spdarcl.kvrhidetiny {
+  bottom: 4px !important;
+}
+
+.is-sticky .showwhenstuck {
+  display: initial !important;
+}
+
+#kvrnavline .spshare25 {
+  background-position: -69px -461px;
+  opacity: 0.6;
+  margin-left: 5px;
+}
+
+.kvrheaddiv .spshare25 {
+  background-position: -69px -461px;
+  opacity: 0.6;
+}
+
+#kvrnavline .kvr_share_this {
+  width: 48px !important;
+}
+
+.fpheader, a.fpheader {
+  background-color: #f6f6f6;
+}
+
+.kvrselmen1 a {
+  background-image: none;
+  border-bottom: 1px solid #eee;
+}
+
+.kvrnavcollapsed .spdown15 {
+  background-position: -213px -154px;
+  width: 7px;
+  height: 4px;
+  bottom: 5px;
+  position: absolute;
+  right: calc(50% - 3.5px);
+  opacity: 0.4;
+}
+
+.reviewcon {
+  max-height: 300px;
+  position: relative;
+}
+
+.reviewcon.fullheight {
+  max-height: 100%;
+}
+
+.showmorrreview {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding-top: 20px;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.99) 100%);
+  font-weight: bold;
+}
+
+.newsitem {
+  overflow: initial;
+}
+
+.newsitem .kvrheaddiv {
+  padding: 0 0 0 0;
+  background-color: transparent;
+  box-sizing: border-box;
+  border-bottom-width: 0;
+}
+
+.newspreheadlabel {
+  position: relative;
+  top: initial;
+  display: block;
+}
+
+.newsitem #kvreditlink {
+  top: -16px;
+}
+
+.newsitem .newsbodycon {
+  padding: 30px 10px;
+}
+
+#kvrphd {
+  background-image: none;
+  background-color: transparent;
+  border-bottom: 1px solid #eee;
+}
+
+#kvrphd > div:first-child {
+  display: none;
+}
+
+#kvrphd2 {
+  color: #777;
+  text-shadow: none;
+}
+
+#kvrphd2 a {
+  color: #555;
+}
+
+#ptabs li a {
+  background-color: #f6f6f6;
+  color: #555;
+  text-shadow: none;
+}
+
+.kvrheaddiv .kvrshareabs {
+  background-color: transparent !important;
+}
+
+.kvrprecontentdiv {
+  background-color: #fff !important;
+  padding: 10px 0 !important;
+}
+
+.sporg {
+  filter: grayscale(100%);
+}
+
+#hyperheader .spmail {
+  display: none;
+}
+
+#hyperheader .navmore > a .mysbsum {
+  padding: 0 !important;
+  border-radius: 50% !important;
+  background-image: none;
+}
+
+#hyperheader .navmore > a .mysbsum.kvrgrad8 {
+  background-color: #f94335;
+}
+
+#hyperheader .kvrblockdynamic {
+  padding: 8px 10px;
+  z-index: 1;
+  box-sizing: border-box;
+}
+
+#hyperheader .kvrblockdynamic .sp25container > * {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+#scxcon {
+  border-bottom-width: 0 !important;
+}
+
+#sidecolx {
+  background-color: #fff;
+  border: 0 solid #ddd;
+}
+
+.max1024 {
+  max-width: 1046px !important;
+}
+
+#hyperheader div.navmore {
+  background-color: transparent !important;
+}
+
+.kartnotempty {
+  font-weight: bold;
+  text-shadow: none;
+}
+
+.margvr {
+  margin-right: 20px !important;
+}
+
+.shaditdrk {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+#column1 {
+  background-color: #fff;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#column2 {
+  padding: 30px;
+}
+
+#main {
+  max-width: 100%;
+  padding: 0;
+}
+
+#subcol {
+  float: none;
+  margin: 0 0 0 30px;
+  width: 300px !important;
+  flex 0 0 auto;
+  z-index: 1; /*fixes menu bleed through*/
+}
+
+#subcol > * {
+  margin-bottom: 30px;
+}
+
+#wrap {
+  padding: 0;
+}
+
+@media (max-width: 993px) {
+  #subcol {
+    float: none;
+    margin: 0 0 0 0;
+    width: 100% !important;
+    flex 0 0 auto;
+  }
+
+  #subcol > * {
+    margin: 0 auto 30px auto;
+  }
+}
+
+@media only screen and (max-width: 467px) {
+  /* expand to edges*/
+  #subcol {
+    margin-left: -30px;
+    margin-right: -30px;
+    flex-grow: 1;
+  }
+
+  #column2 {
+    padding: 10px;
+  }
+
+  #header {
+    padding: 20px 10px;
+  }
+
+  #kvrmp-nav-dd {
+    left: -135px !important;
+  }
+}
+
+#kvrbar > a,
+#kvrbar .navmore > a {
+  padding: 0 20px;
+  font-family: "Open Sans", Verdana, Helvetica, "Trebuchet MS";
+  text-transform: uppercase;
+  text-shadow: none !important;
+  font-size: 130%;
+}
+
+.featuredhero a.nhl, .featuredhero a {
+  font-weight: bold;
+  color: #444;
+  font-size: 1.2em;
+  line-height: 130%;
+  padding: 20px;
+  border-bottom-width: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.max1024 {
+  max-width: 1044px !important;
+}
+
+.max1024 .newsbodycon {
+  padding: 30px 0;
+}
+
+#kvrdealsblock {
+  padding: 30px 0 !important;
+}
+
+.kvrprecontentdiv {
+  margin-top: 20px;
+}
+
+#main .pmaincontent {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+#prenewshero > a {
+  display: none !important;
+}
+
+#prenewshero .svk_prod_container,
+#prenewshero .svk_prod_container a {
+  height: 250px !important;
+}
+
+#navlowerbar.is-sticky #kvrbar > a,
+#navlowerbar.is-sticky #kvrbar .navmore > a {
+  line-height: 35px !important;
+  height: 35px !important;
+  transition: 0.5s;
+}
+
+
+#kvrbar .ddarrow {
+  display: flex !important;
+  flex: 0 1 auto;
+  align-items: center;
+  padding: 0 10px !important;
+}
+
+#kvrbar .myltlnk {
+  padding: 0 10px !important;
+}
+
+#kvrbar .spdarcl {
+  background-image: none !important;
+  opacity: 1.0 !important;
+  width: 6px;
+  height: 6px;
+  transform: rotate(45deg);
+  border-color: #fff;
+  border-width: 0 2px 2px 0;
+  border-style: solid;
+}
+
+#mykvrsb2, #kvrmenuc {
+  position: fixed;
+  z-index: 1001;
+}
+
+#kvrmenuc {
+  top: 45px !important;
+}
+
+/*MP*/
+#searchresults {
+  padding: 10px 0 !important;
+  margin: 0 -10px;
+}
+
+#svk_search_filter_div {
+  background-color: #c1ceaa !important;
+  border-width: 0 !important;
+  padding: 10px;
+}
+
+#navsuperlowerbar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 80px;
+  z-index: 1;
+}
+
+#kvrstorenavholder .navmoremenu {
+  background-color: #FFF !important;
+}
+
+#navrightsection .navmoremenu {
+  right: 0;
+}
+
+.boxnotheader .svk_prod_buy .buyatkvr {
+  position: initial;
+  display: flex;
+  align-items: center;
+}
+
+.boxnotheader .svk_prod_buy .sellingprice {
+  display: flex;
+  margin-right: 10px;
+  align-items: center;
+}
+
+.boxnotheader .svk_prod_buy .sellingprice > span {
+  margin-right: 10px;
+  margin-bottom: 0 !important;
+  font-size: 100% !important;
+}
+
+.boxnotheader .svk_prod_buy .discountoff {
+  display: flex;
+  margin-bottom: 0px;
+  position: absolute;
+  top: 10px;
+  width: 80px;
+  border-radius: 40px;
+  height: 80px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 22px;
+  right: 10px;
+  flex-direction: column;
+}
+
+.latestcontainer {
+  margin: 0 -10px;
+}
+
+.latestscroller {
+
+}
+
+/* MEDIA QUERIES */
+
+@media only screen and (min-width: 1200px) {
+  .newsbodycon {
+    padding: 30px 0;
+  }
+}
+
+@media only screen and (min-width: 1023px) {
+  #header {
+    padding: 20px 0;
+  }
+
+  #kvrblock {
+    padding: 0;
+  }
+
+  #superheader, #header, #kvrbar, #foot {
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 300px) {
+  #kvrblock {
+    padding: 0;
+  }
+
+  #superheader, #kvrbar, #foot, #header {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 993px)
+{
+  #kvrfeaturedcol {display: none !important;}
+  .bl0k300250 {
+  	width: 300px;
+  	height: 250px;
+  }
+
+  .margvr {
+    margin-right: 5px !important;
+  }
+
+  #header320to728 {
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (max-width: 1025px) {
+  #kvrheaderflex1 {
+    display: none;
+  }
+}
+
+.newsbodycon p {
+  padding-bottom: 16px;
+  line-height: 26px;
+}
+
+.newsbodycon li p {
+  padding-bottom: 0;
+}
+
+#kvrheaderflex {
+  position: relative;
+  right: initial;
+  top: initial;
+  height: 90px;
+  left: initial;
+  overflow: hidden;
+  margin: 0 0 0 20px;
+  flex: 1 1 auto;
+}
+
+.spmpcircle {background-image: none !important;}
+.spmpcircle > .spcartblk {display: block !important;}
+.spmpcircle > .spcartblk {background-position: -242px -372px;}
+.pmaincontent h1 {margin: .67em 0;}
+.pmaincontent h2 {margin: .83em 0;}
+.pmaincontent h3 {margin: 1em 0;}
+
+.sticky_sentinel {
+  position: absolute;
+  left: 0;
+  right: 0;
+  visibility: hidden;
+}
+.sticky_sentinel--top {
+  height: 132px;
+  top: 0;
+}
+
+.preheadtag {
+  background-color: #fff;
+  padding: 2px 5px 0 0;
+  color: red !important;
+  margin-top: -19px !important;
+}
+
+.featuredfp .kvrcbox {
+  max-width: 100%;
+  margin: 10px;
+  overflow: hidden;
+}
+
+.featuredfp .kvrcbox div:nth-child(2) a {
+  font-size: 150%;
+  line-height: 1.4em;
+}
+
+.kvrmarketplace .featuredfp .kvrcbox {
+  flex-basis: 300px;
+}
+
+#subcol .stickythis {
+  top: 110px;
+}
+
+img, .kvrstorep100_img, .kvrcbox > div:first-child[data-kvrsrc] {
+	opacity: 1;
+	transition: opacity 0.3s;
+}
+
+img[data-kvrsrc], .kvrstorep100_img[data-kvrsrc], .kvrcbox > div:first-child[data-kvrsrc] {
+	opacity: 0;
+}
+
+.kvrstorep100_sellingprice, .kvrstorep100_specialbubble {
+  z-index: 1;
+}
+
+.title-trailing-linethru {
+  display: block;
+  z-index: 1;
+  position: relative;
+}
+
+.title-trailing-linethru *:first-child {
+  padding-right: 15px;
+  background-color: #fff;
+}
+
+.title-trailing-linethru::before {
+  border-top: 1px solid #222;
+  bottom: 0;
+  content: "";
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 100%;
+  z-index: -1;
+}
+.kvrpointsbeta {display: none !important;}.pmaincontent h1 {margin: .67em 0;}
 .pmaincontent h2 {margin: .83em 0;}
 .pmaincontent h3 {margin: 1em 0;}
 </style>
 </head>
 <body id="kvrsite">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWNP2F9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <img id="kvrgo" src="/static/go/0.gif" alt="">
 <div id="mykvrbg"></div>
 <div id="sm2-container"><!-- SM2 flash goes here --></div>
-<div id="kvrblock">
-<div id="superheader" class="sp25container hovthisblue flex flexwrap"><span class="kvrshowsmall"><a href="/" title="KVR Audio - Plugins, Hosts and Mobile Apps" style="padding: 0; margin: 0 10px 0 0; background-color: transparent !important;"><span class="spit spkvrlogo25">&nbsp;</span></a></span><a href="/forum/ucp.php?mode=login" class="kvrloginrequired" style="background-color: #404040; margin-right: 5px;">Login<span class="kvrhidetiny"> / Register</span></a><a href="/mykvr/" title="My KVR" style="padding: 0;"><span class="spit spmycircle kvrshowsmall">&nbsp;</span></a><div class="navmore margvr kvrhidesmall" style="background-color: #404040;"><a href="/mykvr/" title="My KVR" style="border-right: 1px solid #4e4e4e;">My KVR</a><a href="#" class="memdropit kvrhidesmall" data-d="9" title="My Updates" style="border-right: 1px solid #4e4e4e;"><span class="mysbsum" id="mysbupdc" style="margin-right: 4px;">0</span><span class="kvrhidesmall">Updates</span> <span class="spit spdarcl" style="height: 6px;"></span></a><a href="#" class="memdropit kvrhidesmall" data-d="10" title="My Groups" style="border-right: 1px solid #4e4e4e;"><span class="spit sporg">&nbsp;</span></a><a href="#" class="memdropit kvrhidesmall" data-d="11" title="My Favorites"><span class="spit spstar">&nbsp;</span></a></div><a href="#" data-url="/marketplace/?a=994" class="svkpopit kvrpointsbeta" style="color: rgb(102, 102, 102) ! important; padding: 0; background-color: transparent; margin-left: 5px; text-align: center;"><span class="spit spbadgegrey" title=" KVR Points available to spend!" style="display:block;"></span></a><a href="/marketplace/" title="KVR Marketplace" style="padding: 0; margin-left: 5px;"><span class="spit spmpcircle flex flexcenter flexcontentcenter"><span class="spit spcartblk" style="display: none;"></span></span></a><a class="memdropit" id="kvrcartsummary" href="#" data-d="999" title="Cart" style="margin-right: 5px; padding: 0 10px;"><span id="kvrcartsumitems" class="kvrhidemid">0 items</span><span class="kvrhidemid"> | </span>$<span id="kvrcartsumtotal">0.00</span> <span class="spit spdarc" style="height: 6px; margin-left: 5px;"></span></a><span class="kvrshow700"><a href="#" id="wnakvrlnk" style="background-color: #226d9b; position: relative; margin-right: 5px;"><b>New @ KVR</b><span class="spit spdarcl" style="bottom: 1px; left: -webkit-calc(50% - 3.5px); left: calc(50% - 3.5px); position: absolute; opacity: 0.6;"></span></a></span><div class="flex" style="margin-right: 5px;"><a href="/devs" class="kvrhidetiny" style="background-color: #404040;">Plug-in Developer?</a></div> <div class="navmore kvrddb flexflexed" style="max-width: 320px; min-width: 20px; margin-left: auto;"><a href="/inc/a.php?w=search" id="searchkvr" title="Search KVR" data-focus="searchkvrq" class="kvrgrad5hov kvrddget flex flexcenter"><span class="kvrhidemid flexflexed">&nbsp;Search </span><span class="spit spsrch">&nbsp;</span></a><div class="kvrddm kvrsearchddm"></div></div></div><div id="wnakvr"></div><div id="mykvrsb2" class="shaditdrk"></div>  <header id="header">
-    <a href="/" id="kvrheaderlogo" title="KVR Audio - Audio Plugins, Hosts and Mobile Apps" class="kvrhidesmall"><span class="spit spkvrlogo">&nbsp;</span></a>
-    <div id="header320to728" class="kvr320to728"><script>googletag.cmd.push(function(){googletag.display('header320to728')});</script></div>
-    <div id="kvrheaderflex" class="kvrhidesmall"><a style="display: block; width: 100%; height: 100%; background: url(https://static.kvraudio.com/i/b/pg-kvr_giveaway_banner.png) no-repeat scroll 0px 50% transparent;" href="https://www.kvraudio.com/kvrdeals-and-giveaways.php" title="Giveaway!"></a></div>    <div id="kvrheader90" class="kvrhidesmall"><script>googletag.cmd.push(function(){googletag.display('kvrheader90');});</script></div>
-  </header>
-  <div id="column1">
-    <div id="main" class="kvr_sm_inline">
-<nav id="kvrbar" class="hovthisblue kvrnavcollapse posrelit flex"><a href="/" class="nocollapse flex flexcenter">News</a><a href="/deals">Deals</a><a href="/plugins/instruments/effects/hosts/newest" class="nocollapse">Products</a><div class="navmore kvrddb posrelit">
+<div id="hyperheader"><div class="kvrblockdynamic "><a href="/" class="showwhennavstuck hidden" style="margin-left: -76px; position: absolute; margin-top: 5px;"><img src="https://static.kvraudio.com/i/kvr-20a-grey.png" alt="KVR"></a><div class="sp25container hovthisblue flex flexflexed flexcenter nowrap" style="z-index: 1;"><a href="https://www.kvraudio.com/forum/ucp.php?mode=login" class="kvrloginrequired" style="background-color: #404040; margin-right: 5px;">Login<span class="kvrhidetiny"> / Register</span></a><a href="/mykvr/" title="My KVR" style="padding: 0;"><span class="spit spmycircle kvrshowsmall">&nbsp;</span></a><div class="navmore margvr kvrhidesmall" style="background-color: #404040;"><a href="/mykvr/" title="My KVR" style="border-right: 1px solid #4e4e4e;">My KVR</a><a href="#" class="memdropit kvrhidesmall" data-d="9" title="My Updates" style="border-right: 1px solid #4e4e4e;"><span class="mysbsum" id="mysbupdc" style="margin-right: 4px;">0</span><span class="kvrhidesmall">Updates</span> <span class="spit spdarcl" style="height: 6px;"></span></a><a href="#" class="memdropit kvrhidesmall" data-d="10" title="My Groups" style="border-right: 1px solid #4e4e4e;"><span class="spit sporg">&nbsp;</span></a><a href="#" class="memdropit kvrhidesmall" data-d="11" title="My Favorites"><span class="spit spstar">&nbsp;</span></a></div><span class="kvrshow700"><a href="#" id="wnakvrlnk" style="position: relative; margin-left: 5px; margin-right: 5px;"><b>New@</b><span class="spit spdarcl" style="bottom: 1px; left: -webkit-calc(50% - 3.5px); left: calc(50% - 3.5px); position: absolute; opacity: 0.6;"></span></a></span><div class="flex"><a href="/devs" class="kvrhidetiny" style="margin-left: 5px;">Plug-in Developer?</a></div> <div class="flexflexed flex flexcontentend" style="margin-left: auto; margin-right: 10px;"><a href="/marketplace/kvr-points" data-url="/marketplace/?a=994" class="svkpopit kvrpointsbeta kvrhidetiny" style="color: rgb(102, 102, 102) ! important; padding: 0; background-color: transparent; margin-left: 5px; text-align: center;"><span class="spit spbadgegrey" title=" KVR Points available to spend!" style="display:block;"></span></a><a href="/marketplace/" title="KVR Marketplace" style="padding: 0; margin-left: 5px;"><span class="spit spmpcircle flex flexcenter flexcontentcenter"><span class="spit spcartblk" style="display: none;"></span></span></a><a class="memdropit" id="kvrcartsummary" href="#" data-d="999" title="Cart" style="margin-right: 5px; padding: 0 10px;"><span id="kvrcartsumitems" class="kvrhidemid">0 items</span><span class="kvrhidemid"> | </span>$<span id="kvrcartsumtotal">0.00</span> <span class="spit spdarc" style="height: 6px; margin-left: 5px;"></span></a></div> <div class="navmore kvrddb flexflexed searchkvrdivmore" style="max-width: 320px;"><a href="/inc/a.php?w=search" id="searchkvr" title="Search KVR" data-focus="searchkvrq" class="kvrgrad5hov kvrddget flex flexcenter"><span class="kvrhidemid flexflexed">&nbsp;Search </span><span class="spit spsrch">&nbsp;</span></a><div class="kvrddm kvrsearchddm"></div></div></div></div></div><div id="wnakvr"></div><div id="mykvrsb2" class="shaditdrk"></div><div id="herobar"><header id="header" class="kvrblockdynamic flex ">
+    <div id="headerlogodiv" class="kvrhidesmall flexfixed flex flexcolumn">
+      <a href="/" title="KVR Audio - Audio Plugins, Hosts and Mobile Apps" class="flexflexed flex flexcenter"><img src="https://static.kvraudio.com/i/kvr-grey-135x54.png" alt="KVR" style="width: 135px; height: 54px;"></a>
+      <span id="logotagline">Hello World!!</span>
+    </div>
+    <div id="header320to728" class="kvr320to728"><script>googletag.cmd.push(function(){googletag.display('header320to728')});</script></div><div id="kvrheaderflex" class="kvrhidesmall"><a style="display: block; width: 100%; height: 100%; background: url(https://static.kvraudio.com/i/b/kvrdeals-500x90.png) no-repeat scroll 0px 50% transparent;" href="https://www.kvraudio.com/kvrdeals-and-giveaways.php" title="#KVRDeals"></a></div><div id="kvrheader90" class="kvrhidesmall"><script>googletag.cmd.push(function(){googletag.display('kvrheader90');});</script></div></header></div><div id="navlowerbar" class="sticky"><div class="kvrblockdynamic "><nav id="kvrbar" class="hovthisblue kvrnavcollapse posrelit flex"><a href="/" class="nocollapse flex flexcenter">News</a><a href="/deals">Deals</a><a href="/plugins/instruments/effects/hosts/newest" class="nocollapse">Prod<span class="kvrhidetiny">uct</span>s</a><div class="navmore kvrddb posrelit kvrhidesmall">
           <span class="ddseparator"></span>
           <a href="#" class="ddarrow posrelit" title="More menu for Products, Search, Groups, Devs, etc."><span class="spit spdarcl">&nbsp;</span></a>
           <div class="navmoremenu shaditdrk kvrddm kvrgrad2" style="left: -100px; width: 320px;">
@@ -133,10 +1008,10 @@ ga('send', 'pageview');
             <hr style="border-color: #666;">
             <a href="/allpluginsononepage.php" style="text-align:center !important;">All Plug-ins, Hosts, Apps &amp; Soundware in the KVR Product Database on One Page</a>
           </div>
-        </div><a href="/forum/" class="nocollapse">Forum</a><a href="/forum/latest-posts/index.php?mode=mylt" class="myltlnk" title="Latest Posts in the forum"><span class="spit spfrm">&nbsp;</span> <span class="kvrhidesmall" style="display: none;">Latest Posts</span></a><div class="navmore kvrddb">
+        </div><a href="/forum/" class="nocollapse">Forum</a><a href="/forum/latest-posts/index.php?mode=mylt" class="myltlnk nocollapse" title="Latest Posts in the forum"><span class="spit spfrm">&nbsp;</span> <span class="kvrhidesmall" style="display: none;">Latest Posts</span></a><div class="navmore kvrddb kvrhidesmall">
           <a href="/inc/a.php?w=kvrforums" class="ddarrow posrelit kvrddget" title="Click for Forum List, Forum Search, Memberlist and more..."><span class="spit spdarcl">&nbsp;</span></a>
           <div class="kvrddm kvrmenugen" style="left: 0; width: 100%;"></div>
-        </div><a href="/marketplace/" title="KVR Marketplace" target="_blank">Marketplace</a><a href="/reviews">Reviews</a><a href="/video/" title="Videos">Videos</a><a href="/music.php" title="Music by KVR Members">Music</a><div class="kvrnavcollapsed navmore kvrddb" style="display: inline-block; margin-left: auto;"><a href="#"><span class="spit spmore5 kvrshowtiny">&nbsp;</span><span class="kvrhidetiny">More</span><span class="spit spdarcl kvrhidetiny" style="bottom: 11px; left: calc(50% - 3.5px); opacity: 0.4; position: absolute;">&nbsp;</span></a>
+        </div><a href="/marketplace/" title="KVR Marketplace" class="nocollapse"><span class="kvrhidesmall">Marketplace</span><span class="kvrshowsmall">Buy</span></a><div class="navmore kvrddb posrelit kvrhidesmall"><span class="ddseparator"></span><a href="/marketplace/?a=991" class="ddarrow posrelit ddarrow posrelit kvrddget" title="KVR Marketplace"><span class="spit spdarcl">&nbsp;</span></a><div class="navmoremenu shaditpopup kvrddm" id="kvrmp-nav-dd" style="left: -157px; min-width: 320px; background-color: #f6f6f6; background-image: none; text-shadow: none; color: #333; line-height: 1.5; white-space: nowrap; box-sizing: content-box; max-height: calc(100vh - 100px);"></div></div><a href="/reviews">Reviews</a><a href="/video/" title="Videos">Videos</a><a href="/music.php" title="Music by KVR Members">Music</a><div class="kvrnavcollapsed navmore kvrddb" style="display: inline-block; margin-left: auto;"><a href="#"><span class="spit spmore5 kvrshowsmall">&nbsp;</span><span class="kvrhidesmall">More</span><span class="spit spdarcl kvrhidesmall" style="bottom: 11px; left: calc(50% - 3.5px); opacity: 0.4; position: absolute;">&nbsp;</span></a>
          <div class="kvrnavcollapsed2 navmoremenu shaditdrk kvrddm kvrgrad2" style="right: 0; min-width: 250px; max-height: initial;"><a href="/banks.php" title="">Downloads</a><a href="/interviews">Interviews</a><a href="/focus" class="nowrap" title="Chris Halaby's Industry Focus Blog">Industry Focus</a>
           <a href="/blog">KVRBlog</a>
           <a href="/kvrdeals-and-giveaways.php">Giveaways</a>
@@ -144,7 +1019,8 @@ ga('send', 'pageview');
           <a href="/newsletter.php">Newsletter</a>
           <a href="/news-feed.php">RSS Feeds</a>
           <a href="/kvr-developer-challenge/">KVR Developer Challenge</a>
-          <a href="/readers-choice-awards/">KVR Readers' Choice Awards 2013</a>
+          <a href="/readers-choice-awards/">KVR Readers' Choice Awards</a>
+          <a href="/kvr-guitar-month-2019" class="flex flexcenter">KVR Guitar Month 2019</a>
           <a href="/kvr_is_10.php">KVR Celebrates 10 Years (2010)</a>
           <hr>
           <a href="https://www.facebook.com/pages/KVR-Audio-News/207641972591939" title="KVR Audio on Facebook" target="_blank" rel="noopener"><span class="spit spfacecircle" style="margin-right: 5px;">&nbsp;</span>Facebook</a>
@@ -159,7 +1035,10 @@ ga('send', 'pageview');
           <a href="/link_to_kvr.php">Link to KVR!</a>
           <a href="/privacy.php">Privacy Statement</a>
         </div>
-      </div></nav><div id="kvrmenuc" class="kvrmenugen shaditdrk kvrhideblur" style="color: #555;"></div><div id="kvrnavline" class="flex flexcenter tabit kvrnavcollapse"><a href="/privacy">Privacy</a><div class="flexflexed nomeasure"></div><div class="flexfixed kvrddb navmore flexselfend nocollapse kvr_share_this" style="width: 35px;"><a href="#" style="display: block; padding: 6px 5px 5px 5px; margin: 0;" title="Share and more..."><span class="spit spshare25">&nbsp;</span></a><div class="navmoremenu kvrddm shaditdrk" style="margin-left: -9px; z-index:100;"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kvraudio.com%2Fprivacy&amp;t=KVR%20Audio%20Privacy" title="Post to Facebook" target="_blank" class="kvrsmicon" rel="noopener"><span class="spit spfacecircle">&nbsp;</span></a><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kvraudio.com%2Fprivacy&amp;source=tweetbutton&amp;text=KVR%20Audio%20Privacy&amp;original_referer=https%3A%2F%2Fwww.kvraudio.com%2Fprivacy&amp;via=kvraudio" title="Post to Twitter" target="_blank" class="kvrsmicon" rel="noopener"><span class="spit sptwitcircle">&nbsp;</span></a><a href="https://www.reddit.com/submit?url=https%3A%2F%2Fwww.kvraudio.com%2Fprivacy" title="Submit to Reddit" target="_blank" class="kvrsmicon" rel="noopener"><span class="spit spredditcircle">&nbsp;</span></a></div></div></div><div class="pmaincontent posrelit" style="padding: 30px; line-height: 170%; font-size: 140%;"><h1>KVR Audio Privacy Policy</h1> <p>KVR Audio ("KVR", "our", "we", "us") is owned and operated by KVR Audio, Inc.</p> <p>KVR Audio, Inc.<br> PO Box 620323<br> Woodside, CA 94062.<br> USA.</p> <p>If you wish to contact KVR Audio, Inc. regarding any aspect of this Privacy Policy our data protection officer can be reached at contactus@kvraudio.com.</p> <hr> <p>KVR Audio respects individuals' right to privacy. KVR Audio will never use your personal data for any use beyond that stated or the permissions you give us or as required by law. This Privacy Policy aims to give you information on how KVR Audio collects and processes your personal data when you use <a href="https://www.kvraudio.com">www.kvraudio.com</a> ("Website"). The information that you provide us with, or that is gathered automatically, helps us and third parties to monitor our service and provide you with the services that you have subscribed to.</p> <hr> <h2><strong>1.0 Personally Identifiable Information</strong></h2> <p>Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, email address, mailing address, phone number, etc. Unless you create a <a href="https://www.kvraudio.com/register">KVR Audio User Account</a> we do not automatically collect your personally identifiable information when you visit our Website.</p> <h3><strong>1.1 General</strong></h3> <p>To perform many of the functions on this website such as posting in our forum, submitting comments below new items, product listings, etc., subscribing to newsletters, update notifications, etc., purchasing in the KVR Marketplace (online store), etc. requires that you have a KVR Audio User Account and are logged in to that account. A user account is created by the user by entering an email address and choosing a username and password at <a href="https://www.kvraudio.com/register">https://www.kvraudio.com/register</a>. The email address must be confirmed and the account activated by clicking a link in the initial email sent to the supplied email address.</p> <p>Initially, the email address is the only personally identifiable information that KVR Audio stores. The username you choose may also be classed as personally identifiable if you choose something that resembles your name, band, organisation, company, etc.</p> <p>All references to a user's email address in this document refer to that email address associated with the user's KVR Audio User Account. We do not store email addresses separate from the user's account (for example, we do not use a third party mailing list service).</p> <p>Please note that your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at KVR, so please guard it carefully and under no circumstance will anyone affiliated with KVR or another 3rd party legitimately ask you for your password. Should you forget the password for your account, you can use the "<a href="https://www.kvraudio.com/forum/ucp.php?mode=sendpassword">I forgot my password</a>" feature to generate a new one. This process will ask you to submit your e-mail address, then the software will generate a new password, send it to your email address whereupon you must click a link to activate it to reclaim your account.</p> <h3><strong>1.2 Children's Privacy</strong></h3> <p>You must be 16 years of age or older to create a KVR Audio User Account. However, we allow individuals under the age of 16 to utilise our website, but they may do so only with the involvement, supervision, and approval of a parent or legal guardian.</p> <p>We do not knowingly seek or collect personal information from or about children without the explicit consent of a parent or guardian.</p> <p>If we become aware that personal information that has been submitted to us relates to a child without the consent of a parent or guardian, we will use reasonable efforts to:</p> <ul> <li>Delete that personal information from our files as soon as possible.</li> <li>Ensure, where deletion is not possible, that this personal information is not used further for any purpose, nor disclosed further to any third-party.</li> </ul> <p>Any parent or guardian with queries and questions concerning personal data processing that may relate to their child should contact us via email to contactus@kvraudio.com.</p> <h3>1.3 KVR Audio Forum &amp; Discussion / Comments Sections</h3> <p>Should you choose to add a post in our forum or other comment / discussion sections (such as below news items, product listings, etc.), the username of your logged in KVR Audio User Account will be displayed on the post / comment and your computer's IP address and the time and date that you submitted the comment will be logged in our database (accessible only to KVR administrators and KVR Moderators where appropriate and necessary). This information is used to identify you as a contributor to the comment section of the respective page, post or forum and is not passed on to any third party data processors. Only your username will be shown on the public-facing website.</p> <p>Your comment and its associated personal data will remain on this site until we see fit to either remove the comment or remove the forum post. Should you wish to have a comment and its associated personal data deleted, please <a href="mailto:contactus@kvraudio.com?subject=KVR%20post%20comment%20removal">email us here</a> using the email address that you commented with and an explanation as to why you would like it to be removed.</p> <p>If you are under 16 years of age you <strong>MUST</strong> obtain parental consent before posting a comment or forum post on KVR Audio.</p> <p><em><strong>NOTE</strong>: You should avoid entering personally identifiable information into the actual comment / post field of any comments or forum topics that you submit on this website. You must also avoid posting the personal information about any other people. </em></p> <h3><strong>1.4 KVR Marketplace</strong></h3> <p>If you make a purchase via the <a href="https://www.kvraudio.com/marketplace/">KVR Marketplace</a> (<a href="https://www.kvraudio.com/marketplace/">www.kvraudio.com/marketplace</a>) you must also supply further personally identifiable information, such as full name and address, to facilitate the purchase process. We share appropriate details with our payment processor to process your credit or debit card or invoice your PayPal account. Your information may also be accessible to the developer or representative of the product(s) purchased if they have been given administrative access to that developer account at KVR Audio - they may use this information for after-sales contact and support. We do not share this information with any other third party. We do not store payment card numbers apart from the final 4 digits.</p> <h3><strong>1.5 Giveaways &amp; Promotions</strong></h3> <p>KVR Audio runs regular giveaways for software products in association with third parties. These opt-in promotions require the user to agree to each giveaways's Terms &amp; Conditions at the time of entry where they agree to share their name and email address with the third party (i.e. the company providing the prize for the giveaway).</p> <h3><strong>1.6 Email Newsletters</strong></h3> <p>If you choose to join any of our email newsletters, the email address from your KVR Audio User Account will be used until you specifically request removal from the list. You can do this by unsubscribing using the one-click unsubscribe links contained in any email newsletters that we send to you or by <a href="mailto:contactus@kvraudio.com?subject=KVR%20Audio%20Newsletter%20Unsubscribe">requesting removal via email</a> or by modifying your subscriptions at <a href="https://www.kvraudio.com/optin.php">https://www.kvraudio.com/optin.php</a>. When requesting removal via email, please send your email to us using the email account that is subscribed to the mailing list (i.e. the one associated with your KVR Audio User Account).</p> <p>Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer.</p> <p>If you are under 16 years of age you <strong>MUST</strong> obtain parental consent before joining our email newsletters.</p> <h3><strong>1.7 KVR Learn</strong></h3> <p>The <a href="https://www.kvraudio.com/learn/">KVR Learn</a> section (<a href="https://www.kvraudio.com/learn/">www.kvraudio.com/learn</a>) is offered in partnership with NonLinear Educating Inc. to deliver a high quality training and learning experience using their extensive range of popular video courses. KVR Learn has its own additional <a href="https://www.kvraudio.com/learn/?nleloc=terms-of-service">Terms Of Service</a> and <a href="https://www.kvraudio.com/learn/?nleloc=privacy-policy">Privacy Policy</a> which you must read and agree with before you make a purchase there.</p> <h2><strong>2.0 Non-Personal Information</strong></h2> <p>Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We and/or our third party service providers may obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We and/or our third party service providers may also automatically collect certain non-personal information from you when you access our Websites.</p> <h3><strong>2.1 Cookies</strong></h3> <p>By browsing and interacting with our Website our server software will create a number of cookies, which are small text files that are downloaded on to your computer's web browser temporary files. The primary cookie contains a user identifier and an anonymous session identifier, automatically assigned to you by the Website software, and is essential to enable the user to log in and remain logged in to the Website. Another cookie will be created once you have browsed topics within KVR and is used to store which topics have been read, thereby improving your user experience. Additional cookies may be set to remember user preferences for some site features such as interface style choices.</p> <p>You may delete all cookies set by the KVR server by clicking this link: <a href="https://www.kvraudio.com/forum/ucp.php?mode=delete_cookies">https://www.kvraudio.com/forum/ucp.php?mode=delete_cookies</a></p> <p>Additional cookies associated with website analytics and advertising may also be set on your computer - see sections 2.3 and 3.0 below.</p> <p>You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify your settings to decline cookies as well as delete existing cookies from your device if you prefer. If you choose to decline and/or delete cookies, you may not be able to use all features of the KVR Audio website that depend on cookies (including logging in).</p> <h3><strong>2.2 Server Logs</strong></h3> <p>KVR Audio may collect your IP address to produce a server log – as all web servers do. This information is used solely for monitoring the volume of traffic the site receives and measuring the number of readers. We do not use the information for tracking the activities of specific visitors to the Website.</p> <h3>2.3 Site Visitation Tracking</h3> <p>Like many websites, this site uses Google Analytics (GA) to track user interaction. We use this data to determine the number of people using our site, to better understand how they find and use our web pages and to see their journey through the website.</p> <p>Although GA records data such as your geographical location, device, Internet browser and operating system, none of this information personally identifies you to us. GA also records your computer's IP address which could be used to personally identify you but Google do not grant us access to this.</p> <p>GA makes use of cookies, details of which can be found on <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank" rel="noreferrer noopener">Google's developer guides</a>. Our website uses the analytics.js implementation of GA.</p> <p>Disabling cookies on your Internet browser will stop GA from tracking any part of your visit to pages within this website.</p> <h2><strong>3.0 Advertising &amp; Affiliates</strong></h2> <p>The KVR Audio website is free to use but it is funded by advertising. Consequently, we run adverts using third-party advertising servers. These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.</p> <p>We use <a href="https://www.google.com/dfp" target="_blank" rel="noreferrer noopener">Google Doubleclick for Publishers</a> and <a href="https://www.google.com/adsense" target="_blank" rel="noreferrer noopener">Google AdSense</a> to deliver banner advertising - they are configured to show <em>non-personalized ads</em>. Our website also contains some affiliate marketing links, which means we get paid commission on sales of those products or services we or our members write about or link to. Our editorial content is not influenced by advertisers or affiliate partnerships. We use a 3rd Party, <a href="http://skimlinks.com" target="_blank" rel="noreferrer noopener">Skimlinks</a>, to enable these affiliate partnerships automatically.</p> <p>Important links:</p> <ul> <li><a href="https://policies.google.com/privacy">Google's Privacy Policy</a></li> <li><a href="https://policies.google.com/technologies/ads">How Google uses cookies in advertising</a></li> <li><a href="https://support.google.com/dfp_premium/answer/2839090?hl=en">How DoubleClick uses cookies</a></li> <li><a href="https://support.google.com/adsense/answer/7549925">How AdSense uses cookies</a></li> <li><a href="http://skimlinks.com/privacy-policy#users" target="_blank" rel="noreferrer noopener">Skimlinks Privacy Policy</a></li> <li><a href="http://skimlinks.com/user-cookies" target="_blank" rel="noreferrer noopener">How Skimlinks uses cookies</a></li> </ul> <h2>4.0 Data</h2> <h3><strong>4.1 Data retention</strong></h3> <p>We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.</p> <p>You may, at any time, request that we correct personal data that we hold about you which you believe is incorrect or inaccurate. You may also ask us to erase personal data if you do not believe that we need to continue retaining it. We are not always obliged to erase personal data when asked to do so; if for any reason we believe that we have a good legal reason to continue processing personal data that you ask us to erase we will tell you what that reason is at the time we respond to your request.</p> <p>In some circumstances we may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.</p> <h3><strong>4.2 Data storage and security</strong></h3> <p>We use encryption (SSL) to protect your personal data when appropriate, and all the information provided to KVR Audio is stored securely once we receive it.</p> <h3><strong>4.3 Data Breaches</strong></h3> <p>We will report any unlawful data breach of this website's database or the database (s) of any of our third party data processors to any and all relevant persons and authorities within 72 hours of the breach if it is apparent that personal data stored in an identifiable manner has been stolen.</p> <h2><strong>5.0 Changes to our privacy policy</strong></h2> <p>This privacy policy may change from time to time inline with legislation or industry developments. We will not explicitly inform our clients or website users of these changes. Instead, we recommend that you check this page occasionally for any policy changes.</p> <p><em>Last updated - January, 2019</em></p></div>
+      </div></nav><div id="kvrmenuc" class="kvrmenugen shaditdrk kvrhideblur" style="color: #555;"></div></div></div><div id="kvrssgrid"><div><div></div></div><div id="kvrblock" style="margin: 0;">
+  <div id="column1">
+    <div id="main" class="kvr_sm_inline">
+<div class="pmaincontent posrelit" style="padding: 30px; line-height: 170%; font-size: 140%;"><h1>KVR Audio Privacy Policy</h1> <p>KVR Audio ("KVR", "our", "we", "us") is owned and operated by KVR Audio, Inc.</p> <p>KVR Audio, Inc.<br> PO Box 620323<br> Woodside, CA 94062.<br> USA.</p> <p>If you wish to contact KVR Audio, Inc. regarding any aspect of this Privacy Policy our data protection officer can be reached at contactus@kvraudio.com.</p> <hr> <p>KVR Audio respects individuals' right to privacy. KVR Audio will never use your personal data for any use beyond that stated or the permissions you give us or as required by law. This Privacy Policy aims to give you information on how KVR Audio collects and processes your personal data when you use <a href="https://www.kvraudio.com">www.kvraudio.com</a> ("Website"). The information that you provide us with, or that is gathered automatically, helps us and third parties to monitor our service and provide you with the services that you have subscribed to.</p> <hr> <h2><strong>1.0 Personally Identifiable Information</strong></h2> <p>Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, email address, mailing address, phone number, etc. Unless you create a <a href="https://www.kvraudio.com/register">KVR Audio User Account</a> we do not automatically collect your personally identifiable information when you visit our Website.</p> <h3><strong>1.1 General</strong></h3> <p>To perform many of the functions on this website such as posting in our forum, submitting comments below new items, product listings, etc., subscribing to newsletters, update notifications, etc., purchasing in the KVR Marketplace (online store), etc. requires that you have a KVR Audio User Account and are logged in to that account. A user account is created by the user by entering an email address and choosing a username and password at <a href="https://www.kvraudio.com/register">https://www.kvraudio.com/register</a>. The email address must be confirmed and the account activated by clicking a link in the initial email sent to the supplied email address.</p> <p>Initially, the email address is the only personally identifiable information that KVR Audio stores. The username you choose may also be classed as personally identifiable if you choose something that resembles your name, band, organisation, company, etc.</p> <p>All references to a user's email address in this document refer to that email address associated with the user's KVR Audio User Account. We do not store email addresses separate from the user's account (for example, we do not use a third party mailing list service).</p> <p>Please note that your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at KVR, so please guard it carefully and under no circumstance will anyone affiliated with KVR or another 3rd party legitimately ask you for your password. Should you forget the password for your account, you can use the "<a href="https://www.kvraudio.com/forum/ucp.php?mode=sendpassword">I forgot my password</a>" feature to generate a new one. This process will ask you to submit your e-mail address, then the software will generate a new password, send it to your email address whereupon you must click a link to activate it to reclaim your account.</p> <h3><strong>1.2 Children's Privacy</strong></h3> <p>You must be 16 years of age or older to create a KVR Audio User Account. However, we allow individuals under the age of 16 to utilise our website, but they may do so only with the involvement, supervision, and approval of a parent or legal guardian.</p> <p>We do not knowingly seek or collect personal information from or about children without the explicit consent of a parent or guardian.</p> <p>If we become aware that personal information that has been submitted to us relates to a child without the consent of a parent or guardian, we will use reasonable efforts to:</p> <ul> <li>Delete that personal information from our files as soon as possible.</li> <li>Ensure, where deletion is not possible, that this personal information is not used further for any purpose, nor disclosed further to any third-party.</li> </ul> <p>Any parent or guardian with queries and questions concerning personal data processing that may relate to their child should contact us via email to contactus@kvraudio.com.</p> <h3>1.3 KVR Audio Forum &amp; Discussion / Comments Sections</h3> <p>Should you choose to add a post in our forum or other comment / discussion sections (such as below news items, product listings, etc.), the username of your logged in KVR Audio User Account will be displayed on the post / comment and your computer's IP address and the time and date that you submitted the comment will be logged in our database (accessible only to KVR administrators and KVR Moderators where appropriate and necessary). This information is used to identify you as a contributor to the comment section of the respective page, post or forum and is not passed on to any third party data processors. Only your username will be shown on the public-facing website.</p> <p>Your comment and its associated personal data will remain on this site until we see fit to either remove the comment or remove the forum post. Should you wish to have a comment and its associated personal data deleted, please <a href="mailto:contactus@kvraudio.com?subject=KVR%20post%20comment%20removal">email us here</a> using the email address that you commented with and an explanation as to why you would like it to be removed.</p> <p>If you are under 16 years of age you <strong>MUST</strong> obtain parental consent before posting a comment or forum post on KVR Audio.</p> <p><em><strong>NOTE</strong>: You should avoid entering personally identifiable information into the actual comment / post field of any comments or forum topics that you submit on this website. You must also avoid posting the personal information about any other people. </em></p> <h3><strong>1.4 KVR Marketplace</strong></h3> <p>If you make a purchase via the <a href="https://www.kvraudio.com/marketplace/">KVR Marketplace</a> (<a href="https://www.kvraudio.com/marketplace/">www.kvraudio.com/marketplace</a>) you must also supply further personally identifiable information, such as full name and address, to facilitate the purchase process. We share appropriate details with our payment processor to process your credit or debit card or invoice your PayPal account. Your information may also be accessible to the developer or representative of the product(s) purchased if they have been given administrative access to that developer account at KVR Audio - they may use this information for after-sales contact and support. We do not share this information with any other third party. We do not store payment card numbers apart from the final 4 digits.</p> <h3><strong>1.5 Giveaways &amp; Promotions</strong></h3> <p>KVR Audio runs regular giveaways for software products in association with third parties. These opt-in promotions require the user to agree to each giveaways's Terms &amp; Conditions at the time of entry where they agree to share their name and email address with the third party (i.e. the company providing the prize for the giveaway).</p> <h3><strong>1.6 Email Newsletters</strong></h3> <p>If you choose to join any of our email newsletters, the email address from your KVR Audio User Account will be used until you specifically request removal from the list. You can do this by unsubscribing using the one-click unsubscribe links contained in any email newsletters that we send to you or by <a href="mailto:contactus@kvraudio.com?subject=KVR%20Audio%20Newsletter%20Unsubscribe">requesting removal via email</a> or by modifying your subscriptions at <a href="https://www.kvraudio.com/optin.php">https://www.kvraudio.com/optin.php</a>. When requesting removal via email, please send your email to us using the email account that is subscribed to the mailing list (i.e. the one associated with your KVR Audio User Account).</p> <p>Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer.</p> <p>If you are under 16 years of age you <strong>MUST</strong> obtain parental consent before joining our email newsletters.</p> <h3><strong>1.7 KVR Learn</strong></h3> <p>The <a href="https://www.kvraudio.com/learn/">KVR Learn</a> section (<a href="https://www.kvraudio.com/learn/">www.kvraudio.com/learn</a>) is offered in partnership with NonLinear Educating Inc. to deliver a high quality training and learning experience using their extensive range of popular video courses. KVR Learn has its own additional <a href="https://www.kvraudio.com/learn/?nleloc=terms-of-service">Terms Of Service</a> and <a href="https://www.kvraudio.com/learn/?nleloc=privacy-policy">Privacy Policy</a> which you must read and agree with before you make a purchase there.</p> <h2><strong>2.0 Non-Personal Information</strong></h2> <p>Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We and/or our third party service providers may obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We and/or our third party service providers may also automatically collect certain non-personal information from you when you access our Websites.</p> <h3><strong>2.1 Cookies</strong></h3> <p>By browsing and interacting with our Website our server software will create a number of cookies, which are small text files that are downloaded on to your computer's web browser temporary files. The primary cookie contains a user identifier and an anonymous session identifier, automatically assigned to you by the Website software, and is essential to enable the user to log in and remain logged in to the Website. Another cookie will be created once you have browsed topics within KVR and is used to store which topics have been read, thereby improving your user experience. Additional cookies may be set to remember user preferences for some site features such as interface style choices.</p> <p>You may delete all cookies set by the KVR server by clicking this link: <a href="https://www.kvraudio.com/forum/ucp.php?mode=delete_cookies">https://www.kvraudio.com/forum/ucp.php?mode=delete_cookies</a></p> <p>Additional cookies associated with website analytics and advertising may also be set on your computer - see sections 2.3 and 3.0 below.</p> <p>You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify your settings to decline cookies as well as delete existing cookies from your device if you prefer. If you choose to decline and/or delete cookies, you may not be able to use all features of the KVR Audio website that depend on cookies (including logging in).</p> <h3><strong>2.2 Server Logs</strong></h3> <p>KVR Audio may collect your IP address to produce a server log – as all web servers do. This information is used solely for monitoring the volume of traffic the site receives and measuring the number of readers. We do not use the information for tracking the activities of specific visitors to the Website.</p> <h3>2.3 Site Visitation Tracking</h3> <p>Like many websites, this site uses Google Analytics (GA) to track user interaction. We use this data to determine the number of people using our site, to better understand how they find and use our web pages and to see their journey through the website.</p> <p>Although GA records data such as your geographical location, device, Internet browser and operating system, none of this information personally identifies you to us. GA also records your computer's IP address which could be used to personally identify you but Google do not grant us access to this.</p> <p>GA makes use of cookies, details of which can be found on <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank" rel="noreferrer noopener">Google's developer guides</a>. Our website uses the analytics.js implementation of GA.</p> <p>Disabling cookies on your Internet browser will stop GA from tracking any part of your visit to pages within this website.</p> <h2><strong>3.0 Advertising &amp; Affiliates</strong></h2> <p>The KVR Audio website is free to use but it is funded by advertising. Consequently, we run adverts using third-party advertising servers. These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.</p> <p>We use <a href="https://www.google.com/dfp" target="_blank" rel="noreferrer noopener">Google Doubleclick for Publishers</a> and <a href="https://www.google.com/adsense" target="_blank" rel="noreferrer noopener">Google AdSense</a> to deliver banner advertising - they are configured to show <em>non-personalized ads</em>. Our website also contains some affiliate marketing links, which means we get paid commission on sales of those products or services we or our members write about or link to. Our editorial content is not influenced by advertisers or affiliate partnerships. We use a 3rd Party, <a href="http://skimlinks.com" target="_blank" rel="noreferrer noopener">Skimlinks</a>, to enable these affiliate partnerships automatically.</p> <p>Important links:</p> <ul> <li><a href="https://policies.google.com/privacy">Google's Privacy Policy</a></li> <li><a href="https://policies.google.com/technologies/ads">How Google uses cookies in advertising</a></li> <li><a href="https://support.google.com/dfp_premium/answer/2839090?hl=en">How DoubleClick uses cookies</a></li> <li><a href="https://support.google.com/adsense/answer/7549925">How AdSense uses cookies</a></li> <li><a href="http://skimlinks.com/privacy-policy#users" target="_blank" rel="noreferrer noopener">Skimlinks Privacy Policy</a></li> <li><a href="http://skimlinks.com/user-cookies" target="_blank" rel="noreferrer noopener">How Skimlinks uses cookies</a></li> </ul> <h2>4.0 Data</h2> <h3><strong>4.1 Data retention</strong></h3> <p>We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.</p> <p>You may, at any time, request that we correct personal data that we hold about you which you believe is incorrect or inaccurate. You may also ask us to erase personal data if you do not believe that we need to continue retaining it. We are not always obliged to erase personal data when asked to do so; if for any reason we believe that we have a good legal reason to continue processing personal data that you ask us to erase we will tell you what that reason is at the time we respond to your request.</p> <p>In some circumstances we may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.</p> <h3><strong>4.2 Data storage and security</strong></h3> <p>We use encryption (SSL) to protect your personal data when appropriate, and all the information provided to KVR Audio is stored securely once we receive it.</p> <h3><strong>4.3 Data Breaches</strong></h3> <p>We will report any unlawful data breach of this website's database or the database (s) of any of our third party data processors to any and all relevant persons and authorities within 72 hours of the breach if it is apparent that personal data stored in an identifiable manner has been stolen.</p> <h2><strong>5.0 Changes to our privacy policy</strong></h2> <p>This privacy policy may change from time to time inline with legislation or industry developments. We will not explicitly inform our clients or website users of these changes. Instead, we recommend that you check this page occasionally for any policy changes.</p> <p><em>Last updated - January, 2019</em></p></div>
 <script>
 $(function(){
   
@@ -176,60 +1055,65 @@ $(function(){
   },1000);
 });
 </script>
-<div class="hovthisblue" style="background-color: #333; font-size: 200%; margin: 20px 0;"><a href="/plugins/windows/macosx/vst-plugins/vst3-plugins/audio-units/aax-plugins/rack-extensions/effects/free/most-popular" style="display: block; text-align: center; padding: 20px;">KVR Search: Best FREE  Effect  Plugins</a></div>    <!--Main Content End-->
+<div class="hovthisblue" style="background-color: #ccc; font-size: 200%; margin: 20px 0; border-radius: 5px;"><a href="/plugins/windows/macosx/vst-plugins/vst3-plugins/audio-units/aax-plugins/rack-extensions/effects/free/most-popular" style="display: block; text-align: center; padding: 20px; color: #555; border-radius: 5px;">KVR Search: Best FREE  Effect  Plugins</a></div>    <!--Main Content End-->
     </div>
     <div id="subcol">
-<div class="flex posrelit" style="overflow: hidden;"><span class="featured-badge-lowkey" style="background-color: transparent; top: 0; left: initial; right: 0; color: #777;">FEATURED</span><div class="kvrpbox posrelit" data-s="0" data-p="hive2" data-u="" data-c="" data-i="9712" style="height: auto;"><div class="kvrpbox1 flex flexcolumn hovthisblue" style="background-color: #eee; background-image: linear-gradient(to bottom, #DDDDDD 0%, #FDFDFD 100%);"><a class="kvrpboxa kvrshopmifql posrelit flex flexcolumn" data-i="9712" href="/more/2991-1" title="Hive 2" style="background-image: none; color: #555; height: 250px;"><span class="kvrpboximg flexflexed" style="background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7); margin: 10px 10px 0 10px; position: relative;" data-kvrsrc="https://static.kvraudio.com/i/b/uhe_hive2_01_arp.jpg"></span><span class="kvrpboxt" style="color: inherit;"><strong class="kvrpboxn">Hive 2</strong><span class="kvrpboxtags">Lead Synth<br> by u-he</span><span class="kvrpboxd flex" style="padding-top: 5px;"><span class="spita2 flex flexflexed flexcenter flexwrap"><span title="macOS" class="spit sp3s">&nbsp;</span><span title="Windows" class="spit sp1s">&nbsp;</span></span><span class="flexflexed flex flexcenter flexcontentend">$149.00</span></span></span></a><div class="flex flexcenter" style="background-color: #f8f8f8; border-top: 1px solid #ddd;"><a href="/product/hive-2-by-u-he/reviews" class="flex flexcontentcenter flexflexed" style="margin: 0 5px;padding: 5px;" title="Read Reviews"><span class="flex flexcontentcenter flexflexed"><span class="spit spstar"></span><span class="spit spstar"></span><span class="spit spstar"></span><span class="spit spstar"></span><span class="spit spstar spstarg"></span></span></a><a href="#" data-url="/inc/a.php?w=review&amp;product_id=9712" class="svkpopit flexflexed" style="padding: 5px; margin: 5px; color: #15c;">Add A Review</a><span class="flexfixed" style="padding-right: 5px;"><span data-id="9712" class="mykvr pid9712 inrelblock kvrgrad5" title="My KVR Groups"><span class="spit mykvrp spstarg" data-id="9712" data-a="1" title="My KVR Favourite Product"><span>&nbsp;</span></span>My KVR<span class="spit spdarr"></span></span></span></div><div class="kvrshopboxbuybox nowrap hovthisblue flex flexcenter posrelit" style="background-color: #cfd7c0;"><div class="flex flexflexed flexselfstretch" style="z-index: 1;"><a href="/marketplace/hive-2-by-u-he" title="View in the KVR Marketplace" class="flex flexcenter flexflexed flexcontentcenter flexselfstretch"><span class="spit spmplogo" style="background-position: 2px -589px; background-color: #83a93a; padding: 5px !important;"></span></a></div><div class="flex flexflexed" style="z-index: 1;"><a href="#" class="buyatkvr flex flexcenter flexflexed flexcontentcenter" data-id="9712"><span class="mysbsum flexselfstretch flex flexcenter flexfixed" style="height: auto; margin-right: 5px; border-width: 0; background-color: #444;">$149.00</span><span class="flexselfstretch flex flexcenter" style="background-color: #fff; padding: 0 5px; color: #555; text-shadow: none;"><span class="buynowtext" style="font-weight: bold; width: 60px; text-align: center;">Buy Now</span></span></a></div><span class="inkvrshop" data-i="9712" style="position: absolute; left: 0; right: 0; top: 0; bottom: 0;"><span class="kartinmy flex flexcenter flexcontentcenter flexnoneimp" style="line-height: normal; padding: 10px; background-color: #83a93a; box-shadow: none; height: 100%;"><span class="flexflexed"><span class="spit sptick flexfixed">&nbsp;</span><span style="margin: 0 5px;">BUYING!</span><span data-id="9712" class="kvrdelfromcart flexfixed" title="Remove from cart">X</span></span><span class="flexflexed" style="margin-left: 20px; max-width: 150px;"><a href="/marketplace/checkout/" style="display: block; background-color: #fff; text-shadow: none; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color: #555; padding: 5px 0; line-height: 16px;">Checkout</a></span></span></span></div></div></div></div><div id="div-gpt-ad-1319706183506-2" class="bl0k300250"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-2');});</script></div><div><a style="background-color:#222; display: block; padding: 10px;" href="/marketplace/" title="KVR Audio Plug-in Marketplace"><img src="https://static.kvraudio.com/i/b/kvr-mp-logo-no-tag-grey.png" alt="KVR Audio Plug-in Marketplace" style="display: block; margin: 0 auto;"></a><div class="kvrmpompfmpp"><div class="kvrshinyscroller flex"><div class="svk_prod_container hovthisblue" data-p="megapack" data-b="groovemonkee" data-u="1560356720" data-c="14995" data-i="14546" data-disc="0" data-latestdisc="1559583771" data-endingdisc="1561964399" data-oswin="0" data-osmac="0" style="border: 0; margin: 0; max-height: 250px;"><div class="inkvrshop flex" style="position: relative; padding: 0; height: 100%;" data-s="0" data-p="megapack" data-u="1560356720" data-c="24995" data-i="14546"><div class="svk_prod_img flex flexflexed flexcontentcenter" style="padding: 0; overflow: hidden; min-height: 250px;"><a class="kvrshopmifql flex flexcolumn" data-i="14546" href="/more/3159-1" title="Mega Pack" style="width: 100%; background-color: transparent !important; text-shadow: none !important;" target="_blank"><span class="flexflexed" style="background: url(https://static.kvraudio.com/i/b/groove_monkee_megapack.png) 0 / cover;"></span><span class="flex flexend"><span style="background-color: rgb(164, 43, 88); padding: 10px; width: 100%; color: #fff;"><span style="font-weight: bold; font-size: 125%;">Mega Pack</span><br><span>by Groove Monkee</span><br><span style="font-size: 90%;">MIDI Drum Grooves</span></span></span></a></div><div class="kvrshopboxbuybox svk_prod_buy flex flexcontentcenter flexselfstart" style="padding: 0 0 0 10px; position: absolute; top: 20px; right: 20px;"><div><span class="roundit discountoff flex flexcenter flexcontentcenter" style="padding: 0; width: 80px; height: 80px; border-radius: 40px; line-height: 20px; box-sizing: border-box; margin: 0 auto 10px auto; font-weight: bold; font-size: 150%; box-shadow: 1px 1px 10px #000;">40%<br>Off</span><a href="#" class="buyatkvr roundit posrelit" data-id="14546" title="Buy now - Add to cart" style="min-width: 80px; display: none;"><span class="sellingprice roundit" style="padding: 5px;"><span style="display: block; font-size: 80%; font-weight: normal; margin-bottom: 0px; text-decoration: line-through;">$249.95</span>$149.95</span><span class="buynowtext" style="padding-bottom: 0;">Buy</span>
-    <span class="inkvrshop" data-i="14546" style="bottom: 9px; left: 10px; position: absolute; right: 10px;">
-      <span class="kartinmy roundit flex flexcenter flexnoneimp" style="line-height: normal; padding: 5px; position: relative; text-align: center; font-size: 11px; background-color: #83a93a;">
-        <span class="spit sptick">&nbsp;</span>
-        <span class="flexflexed">BUYING!</span>
-        <span data-id="14546" class="kvrdelfromcart" title="Remove from cart">X</span>
-      </span>
-    </span></a></div></div></div></div><div class="svk_prod_container hovthisblue" data-p="neutron3advanced" data-b="izotopeinc." data-u="1559789182" data-c="29900" data-i="16874" data-disc="0" data-latestdisc="1559750400" data-endingdisc="1562083200" data-oswin="1" data-osmac="1" style="border: 0; margin: 0; max-height: 250px;"><div class="inkvrshop flex" style="position: relative; padding: 0; height: 100%;" data-s="0" data-p="neutron3advanced" data-u="1559789182" data-c="49900" data-i="16874"><div class="svk_prod_img flex flexflexed flexcontentcenter" style="padding: 0; overflow: hidden; min-height: 250px;"><a class="kvrshopmifql flex flexcolumn" data-i="16874" href="/more/3164-1" title="Neutron 3 Advanced" style="width: 100%; background-color: transparent !important; text-shadow: none !important;" target="_blank"><span class="flexflexed" style="background: url(https://static.kvraudio.com/i/b/neutron_3_advanced_transient_shaper.jpg) 0 / cover;"></span><span class="flex flexend"><span style="background-color: rgb(164, 43, 88); padding: 10px; width: 100%; color: #fff;"><span style="font-weight: bold; font-size: 125%;">Neutron 3 Advanced</span><br><span>by iZotope, Inc.</span><br><span style="font-size: 90%;">Mixing</span></span></span></a></div><div class="kvrshopboxbuybox svk_prod_buy flex flexcontentcenter flexselfstart" style="padding: 0 0 0 10px; position: absolute; top: 20px; right: 20px;"><div><span class="roundit discountoff flex flexcenter flexcontentcenter" style="padding: 0; width: 80px; height: 80px; border-radius: 40px; line-height: 20px; box-sizing: border-box; margin: 0 auto 10px auto; font-weight: bold; font-size: 150%; box-shadow: 1px 1px 10px #000;">25%<br>Off</span><a href="#" class="buyatkvr roundit posrelit" data-id="16874" title="Buy now - Add to cart" style="min-width: 80px; display: none;"><span class="sellingprice roundit" style="padding: 5px;"><span style="display: block; font-size: 80%; font-weight: normal; margin-bottom: 0px; text-decoration: line-through;">$399.00</span>$299.00</span><span class="buynowtext" style="padding-bottom: 0;">Buy</span>
-    <span class="inkvrshop" data-i="16874" style="bottom: 9px; left: 10px; position: absolute; right: 10px;">
-      <span class="kartinmy roundit flex flexcenter flexnoneimp" style="line-height: normal; padding: 5px; position: relative; text-align: center; font-size: 11px; background-color: #83a93a;">
-        <span class="spit sptick">&nbsp;</span>
-        <span class="flexflexed">BUYING!</span>
-        <span data-id="16874" class="kvrdelfromcart" title="Remove from cart">X</span>
-      </span>
-    </span></a></div></div></div></div><div class="svk_prod_container hovthisblue" data-p="neutron3elements" data-b="izotopeinc." data-u="1559789193" data-c="9900" data-i="16854" data-disc="0" data-latestdisc="1559750400" data-endingdisc="1562083200" data-oswin="1" data-osmac="1" style="border: 0; margin: 0; max-height: 250px;"><div class="inkvrshop flex" style="position: relative; padding: 0; height: 100%;" data-s="0" data-p="neutron3elements" data-u="1559789193" data-c="12900" data-i="16854"><div class="svk_prod_img flex flexflexed flexcontentcenter" style="padding: 0; overflow: hidden; min-height: 250px;"><a class="kvrshopmifql flex flexcolumn" data-i="16854" href="/more/3166-1" title="Neutron 3 Elements" style="width: 100%; background-color: transparent !important; text-shadow: none !important;" target="_blank"><span class="flexflexed" style="background: url(https://static.kvraudio.com/i/b/neutron_elements_transient_shaper.jpg) 0 / cover;"></span><span class="flex flexend"><span style="background-color: rgb(164, 43, 88); padding: 10px; width: 100%; color: #fff;"><span style="font-weight: bold; font-size: 125%;">Neutron 3 Elements</span><br><span>by iZotope, Inc.</span><br><span style="font-size: 90%;">Mixing</span></span></span></a></div><div class="kvrshopboxbuybox svk_prod_buy flex flexcontentcenter flexselfstart" style="padding: 0 0 0 10px; position: absolute; top: 20px; right: 20px;"><div><span class="roundit discountoff flex flexcenter flexcontentcenter" style="padding: 0; width: 80px; height: 80px; border-radius: 40px; line-height: 20px; box-sizing: border-box; margin: 0 auto 10px auto; font-weight: bold; font-size: 150%; box-shadow: 1px 1px 10px #000;">23%<br>Off</span><a href="#" class="buyatkvr roundit posrelit" data-id="16854" title="Buy now - Add to cart" style="min-width: 80px; display: none;"><span class="sellingprice roundit" style="padding: 5px;"><span style="display: block; font-size: 80%; font-weight: normal; margin-bottom: 0px; text-decoration: line-through;">$129.00</span>$99.00</span><span class="buynowtext" style="padding-bottom: 0;">Buy</span>
-    <span class="inkvrshop" data-i="16854" style="bottom: 9px; left: 10px; position: absolute; right: 10px;">
-      <span class="kartinmy roundit flex flexcenter flexnoneimp" style="line-height: normal; padding: 5px; position: relative; text-align: center; font-size: 11px; background-color: #83a93a;">
-        <span class="spit sptick">&nbsp;</span>
-        <span class="flexflexed">BUYING!</span>
-        <span data-id="16854" class="kvrdelfromcart" title="Remove from cart">X</span>
-      </span>
-    </span></a></div></div></div></div><div class="svk_prod_container hovthisblue" data-p="composercloud-onemonth" data-b="eastwest" data-u="1559558187" data-c="2999" data-i="16890" data-disc="0" data-latestdisc="0" data-endingdisc="0" data-oswin="1" data-osmac="1" style="border: 0; margin: 0; max-height: 250px;"><div class="inkvrshop flex" style="position: relative; padding: 0; height: 100%;" data-s="0" data-p="composercloud-onemonth" data-u="1559558187" data-c="2999" data-i="16890"><div class="svk_prod_img flex flexflexed flexcontentcenter" style="padding: 0; overflow: hidden; min-height: 250px;"><a class="kvrshopmifql flex flexcolumn" data-i="16890" href="/more/3139-1" title="Composer Cloud - One Month" style="width: 100%; background-color: transparent !important; text-shadow: none !important;" target="_blank"><span class="flexflexed" style="background: url(https://static.kvraudio.com/i/b/eastwest_compsoer_cloud.jpg) 0 / cover;"></span><span class="flex flexend"><span style="background-color: rgb(164, 43, 88); padding: 10px; width: 100%; color: #fff;"><span style="font-weight: bold; font-size: 125%;">Composer Cloud - One Month</span><br><span>by EastWest</span><br><span style="font-size: 90%;">Subscription</span></span></span></a></div><div class="kvrshopboxbuybox svk_prod_buy flex flexcontentcenter flexselfstart" style="padding: 0 0 0 10px; position: absolute; top: 20px; right: 20px;"><div><a href="#" class="buyatkvr roundit posrelit" data-id="16890" title="Buy now - Add to cart" style="min-width: 80px; display: none;"><span class="sellingprice roundit" style="padding: 5px;">$29.99</span><span class="buynowtext" style="padding-bottom: 0;">Buy</span>
-    <span class="inkvrshop" data-i="16890" style="bottom: 9px; left: 10px; position: absolute; right: 10px;">
-      <span class="kartinmy roundit flex flexcenter flexnoneimp" style="line-height: normal; padding: 5px; position: relative; text-align: center; font-size: 11px; background-color: #83a93a;">
-        <span class="spit sptick">&nbsp;</span>
-        <span class="flexflexed">BUYING!</span>
-        <span data-id="16890" class="kvrdelfromcart" title="Remove from cart">X</span>
-      </span>
-    </span></a></div></div></div></div><div class="svk_prod_container hovthisblue" data-p="neutron3" data-b="izotopeinc." data-u="1559789166" data-c="19900" data-i="12383" data-disc="0" data-latestdisc="1559750400" data-endingdisc="1562083200" data-oswin="1" data-osmac="1" style="border: 0; margin: 0; max-height: 250px;"><div class="inkvrshop flex" style="position: relative; padding: 0; height: 100%;" data-s="0" data-p="neutron3" data-u="1559789166" data-c="19900" data-i="12383"><div class="svk_prod_img flex flexflexed flexcontentcenter" style="padding: 0; overflow: hidden; min-height: 250px;"><a class="kvrshopmifql flex flexcolumn" data-i="12383" href="/more/3165-1" title="Neutron 3" style="width: 100%; background-color: transparent !important; text-shadow: none !important;" target="_blank"><span class="flexflexed" style="background: url(https://static.kvraudio.com/i/b/neutron_3_standard_transient_shaper.jpg) 0 / cover;"></span><span class="flex flexend"><span style="background-color: rgb(164, 43, 88); padding: 10px; width: 100%; color: #fff;"><span style="font-weight: bold; font-size: 125%;">Neutron 3</span><br><span>by iZotope, Inc.</span><br><span style="font-size: 90%;">Mixing</span></span></span></a></div><div class="kvrshopboxbuybox svk_prod_buy flex flexcontentcenter flexselfstart" style="padding: 0 0 0 10px; position: absolute; top: 20px; right: 20px;"><div><span class="roundit discountoff flex flexcenter flexcontentcenter" style="padding: 0; width: 80px; height: 80px; border-radius: 40px; line-height: 20px; box-sizing: border-box; margin: 0 auto 10px auto; font-weight: bold; font-size: 150%; box-shadow: 1px 1px 10px #000;">20%<br>Off</span><a href="#" class="buyatkvr roundit posrelit" data-id="12383" title="Buy now - Add to cart" style="min-width: 80px; display: none;"><span class="sellingprice roundit" style="padding: 5px;"><span style="display: block; font-size: 80%; font-weight: normal; margin-bottom: 0px; text-decoration: line-through;">$249.00</span>$199.00</span><span class="buynowtext" style="padding-bottom: 0;">Buy</span>
-    <span class="inkvrshop" data-i="12383" style="bottom: 9px; left: 10px; position: absolute; right: 10px;">
-      <span class="kartinmy roundit flex flexcenter flexnoneimp" style="line-height: normal; padding: 5px; position: relative; text-align: center; font-size: 11px; background-color: #83a93a;">
-        <span class="spit sptick">&nbsp;</span>
-        <span class="flexflexed">BUYING!</span>
-        <span data-id="12383" class="kvrdelfromcart" title="Remove from cart">X</span>
-      </span>
-    </span></a></div></div></div></div></div></div></div><script>kvrshinyscroller({"selector" : ".kvrmpompfmpp", "interval" : 20000, "showindicators" : false});</script><div><div class="kvrfli"><div class="kvrshinyscroller flex"><a href="https://www.kvraudio.com/more/3067-1" target="_blank" style="display: block;"><img src="https://static.kvraudio.com/i/a/kvr_learn_300x250_steinberg_cubase_recording_guita.jpg" style="display: block;" alt=""></a><a href="https://www.kvraudio.com/more/3062-1" target="_blank" style="display: block;"><img src="https://static.kvraudio.com/i/a/kvr_learn_300x250_avid_pro_tools_recording_guitars.jpg" style="display: block;" alt=""></a><a href="https://www.kvraudio.com/more/3065-1" target="_blank" style="display: block;"><img src="https://static.kvraudio.com/i/a/kvr_learn_300x250_korg_prologue_video_manual.jpg" style="display: block;" alt=""></a><a href="https://www.kvraudio.com/more/3063-1" target="_blank" style="display: block;"><img src="https://static.kvraudio.com/i/a/kvr_learn_300x250_image-line_fl_studio_audio_recor.jpg" style="display: block;" alt=""></a><a href="https://www.kvraudio.com/more/3061-1" target="_blank" style="display: block;"><img src="https://static.kvraudio.com/i/a/kvr_learn_300x250_audio_concepts_audio__midi_signa.1556643628.jpg" style="display: block;" alt=""></a></div></div></div><script>kvrshinyscroller({"selector" : ".kvrfli", "interval" : 30000, "showindicators" : false});</script><div class="kvrcbox kvrmarkhideable kvrmidcen" style="order: 6;"><div class="hovthisblueop" style="background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);" data-kvrsrc="https://i.ytimg.com/vi/BYBcTXpW_-Y/hqdefault.jpg"><a href="/video/ik-multimedia-lurssen-mastering-console-expert-review---part-2-10580/1/7" title="IK Multimedia LURSSEN MASTERING CONSOLE Expert Review - Part 2"><span class="featured-badge-leftbot">Featured</span><span class="flex"><span class="kvrvideoboxplay"><span class="spit sptriangleright"></span></span></span></a></div><div class="kvrmarkable"><a href="/video/ik-multimedia-lurssen-mastering-console-expert-review---part-2-10580/1/7" title="IK Multimedia LURSSEN MASTERING CONSOLE Expert Review - Part 2">IK Multimedia LURSSEN MASTERING CONSOLE Expert Review - Part 2</a></div></div>      <div id="wnaside">
+<div class="flex posrelit" style="overflow: hidden;"><span class="featured-badge-lowkey" style="background-color: transparent; top: 0; left: initial; right: 0; color: #777;">FEATURED</span><div class="kvrpbox posrelit" data-s="0" data-p="dune3" data-u="" data-c="" data-i="8737" style="height: auto;"><div class="kvrpbox1 flex flexcolumn hovthisblue" style="background-color: #eee; background-image: linear-gradient(to bottom, #DDDDDD 0%, #FDFDFD 100%);"><a class="kvrpboxa kvrshopmifql posrelit flex flexcolumn" data-i="8737" href="/more/3467-1" title="DUNE 3" style="background-image: none; color: #555; height: 250px;"><span class="kvrpboximg flexflexed" style="background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7); margin: 10px 10px 0 10px; position: relative;" data-kvrsrc="https://static.kvraudio.com/i/b/dune3_large_overview_oscva.jpg"></span><span class="kvrpboxt" style="color: inherit;"><strong class="kvrpboxn">DUNE 3</strong><span class="kvrpboxtags">Synth (Analogue / Subtractive)<br> by Synapse Audio</span><span class="kvrpboxd flex" style="padding-top: 5px;"><span class="spita2 flex flexflexed flexcenter flexwrap"><span title="macOS" class="spit sp3s">&nbsp;</span><span title="Windows" class="spit sp1s">&nbsp;</span></span><span class="flexflexed flex flexcenter flexcontentend">$179.00</span></span></span></a><div class="flex flexcenter" style="background-color: #f8f8f8; border-top: 1px solid #ddd;"><a href="/product/dune-3-by-synapse-audio/reviews" class="flex flexcontentcenter flexflexed" style="margin: 0 5px;padding: 5px;" title="Read Reviews"><span class="flex flexcontentcenter flexflexed"><span class="spit spstar"></span><span class="spit spstar"></span><span class="spit spstar"></span><span class="spit spstar"></span><span class="spit spstar spstarg"></span></span></a><a href="#" data-url="/inc/a.php?w=review&amp;product_id=8737" class="svkpopit flexflexed" style="padding: 5px; margin: 5px; color: #15c;">Add A Review</a><span class="flexfixed" style="padding-right: 5px;"><span data-id="8737" class="mykvr pid8737 inrelblock kvrgrad5" title="My KVR Groups"><span class="spit mykvrp spstarg" data-id="8737" data-a="1" title="My KVR Favourite Product"><span>&nbsp;</span></span>My KVR<span class="spit spdarr"></span></span></span></div><div class="kvrshopboxbuybox nowrap hovthisblue flex flexcenter posrelit" style="background-color: #cfd7c0;"><div class="flex flexflexed flexselfstretch" style="z-index: 1;"><a href="/marketplace/dune-3-by-synapse-audio" title="View in the KVR Marketplace" class="flex flexcenter flexflexed flexcontentcenter flexselfstretch"><span class="spit spmplogo" style="background-position: 2px -589px; background-color: #83a93a; padding: 5px !important;"></span></a></div><div class="flex flexflexed" style="z-index: 1;"><a href="#" class="buyatkvr flex flexcenter flexflexed flexcontentcenter" data-id="8737" data-spid="1900"><span class="mysbsum flexselfstretch flex flexcenter flexfixed" style="height: auto; margin-right: 5px; border-width: 0; background-color: #444;">$179.00</span><span class="flexselfstretch flex flexcenter" style="background-color: #fff; padding: 0 5px; color: #555; text-shadow: none;"><span class="buynowtext" style="font-weight: bold; width: 60px; text-align: center;">Buy Now</span></span></a></div><span class="inkvrshop" data-i="8737" data-spid="1900" style="position: absolute; left: 0; right: 0; top: 0; bottom: 0;"><span class="kartinmy flex flexcenter flexcontentcenter flexnoneimp" style="line-height: normal; padding: 10px; background-color: #83a93a; box-shadow: none; height: 100%;"><span class="flexflexed"><span class="spit sptick flexfixed">&nbsp;</span><span style="margin: 0 5px;">BUYING!</span><span data-id="8737" data-spid="1900" class="kvrdelfromcart flexfixed" title="Remove from cart">X</span></span><span class="flexflexed" style="margin-left: 20px; max-width: 150px;"><a href="/marketplace/checkout/" style="display: block; background-color: #fff; text-shadow: none; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color: #555; padding: 5px 0; line-height: 16px;">Checkout</a></span></span></span></div></div></div></div><div id="div-gpt-ad-1319706183506-2" class="bl0k300250"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-2');});</script></div><div><a href="/marketplace/" title="KVR Audio Plug-in Marketplace" class="kvrmp-overlay-logo-green-nokvr shaditpopup"></a><div class="kvrmpompfmpp overlayindicators closerindicators"><div class="kvrshinyscroller flex"><a href="/more/3631-1" title="" class="block-300250-rel" style="background: url(https://static.kvraudio.com/i/a/kvr_marketplace_banners_191213_300x250_steinberg.jpg) center center / cover;"></a><a href="/more/3621-1" title="Sektor" class="block-300250-rel" style="text-align: center; background: url(https://static.kvraudio.com/i/b/front_50_jpg.jpg) center center / cover;"><span class="bottom-overlay-darkbg"><span style="font-weight: bold; font-size: 125%;">Sektor</span><br>Synth (Wavetable)<br>by Initial Audio</span><span class="kvrmp-discount-circle">79%<br>Off</span></a><a href="/more/3628-1" title="" class="block-300250-rel" style="background: url(https://static.kvraudio.com/i/a/kvr_marketplace_banners_191213_300x250_eastwest.jpg) center center / cover;"></a><a href="/more/3629-1" title="" class="block-300250-rel" style="background: url(https://static.kvraudio.com/i/a/kvr_marketplace_banners_191213_300x250_bitwig.jpg) center center / cover;"></a><a href="/more/3630-1" title="" class="block-300250-rel" style="background: url(https://static.kvraudio.com/i/a/kvr_marketplace_banners_191213_300x250_fxpansion.jpg) center center / cover;"></a></div></div></div><script>kvrshinyscroller({"selector" : ".kvrmpompfmpp", "interval" : 15000, "showindicators" : true});</script><div><div class="kvrfli overlayindicators closerindicators"><div class="kvrshinyscroller flex"><a href="/more2/17-1-1-3416" target="_blank" class="block-300250-rel"><img src="https://d154hy2b5aa41t.cloudfront.net/course_covers/3f1b3499-2660-4420-9e7b-7daa357f0cef/9e2a91880b822281499bb423c0da9050.jpg" class="block-300250-rel" alt="Studio Series - Recording Drums - Logic Pro X 503"></a><a href="/more2/17-1-1-3405" target="_blank" class="block-300250-rel"><img src="https://d154hy2b5aa41t.cloudfront.net/course_covers/b480ec5b-e81c-4bd2-ac30-691dc61dd15c/6219e063215610927aaf7c2c9ef797cd.jpg" class="block-300250-rel" alt="The Grid Explained and Explored - Bitwig Studio 302"></a><a href="/more2/17-1-1-3435" target="_blank" class="block-300250-rel"><img src="https://d154hy2b5aa41t.cloudfront.net/course_covers/06e29ea5-b37e-4a8b-9496-d9ab475f71d1/03699f83c4748ce45d9747ce640cb5bc.jpg" class="block-300250-rel" alt="Pigments - The Video Manual - Pigments 101"></a><a href="/more2/17-1-1-3408" target="_blank" class="block-300250-rel"><img src="https://d154hy2b5aa41t.cloudfront.net/course_covers/74899c7a-d0c7-47fe-aae5-cf6382456053/9a96c202828f4a4f640518b3e269e4bb.jpg" class="block-300250-rel" alt="EDM Production Tips - Logic Pro X 402"></a><a href="/more2/17-1-1-3417" target="_blank" class="block-300250-rel"><img src="https://d154hy2b5aa41t.cloudfront.net/course_covers/0d0dd420-6aea-40c9-9448-05f0ba7afbe3/02e49db4086242fac924f97a21f797c3.jpg" class="block-300250-rel" alt="Mastering Essentials - FL Studio 105"></a></div></div></div><script>kvrshinyscroller({"selector" : ".kvrfli", "interval" : 30000, "showindicators" : true});</script><div class="kvrcbox kvrmarkhideable kvrmidcen" style="order: 6;"><div class="hovthisblueop" style="background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);" data-kvrsrc="https://i.ytimg.com/vi/q00qbn4pUMU/hqdefault.jpg"><a href="/video/kvr-marketplace-presents---cherry-audio-advanced-modular-synthesis-techniques-11830/1/7" title="KVR Marketplace Presents - Cherry Audio Advanced Modular Synthesis Techniques"><span class="featured-badge-leftbot">Featured</span><span class="flex"><span class="kvrvideoboxplay"><span class="spit sptriangleright"></span></span></span></a></div><div class="kvrmarkable"><a href="/video/kvr-marketplace-presents---cherry-audio-advanced-modular-synthesis-techniques-11830/1/7" title="KVR Marketplace Presents - Cherry Audio Advanced Modular Synthesis Techniques">KVR Marketplace Presents - Cherry Audio Advanced Modular Synthesis Techniques</a></div></div><div class="kvriib overlayindicators closerindicators"><div class="kvrshinyscroller flex"><a href="/interviews/robert-godins-lifetime-building-guitars-with-bonus-factory-tour-46047" title="Robert Godin's lifetime building guitars with BONUS factory tour" class="block-300250-rel"><img src="https://static.kvraudio.com/i/b/robert_godin_factory_tour-300x250.jpg" alt="Robert Godin's lifetime building guitars with BONUS factory tour" class="block-300250-rel"></a><a href="/interviews/20-years-and-counting-an-interview-with-arturias-frederic-brun-45317" title="20 Years and counting: An interview with Arturia's Frederic Brun" class="block-300250-rel"><img src="https://static.kvraudio.com/i/b/arturia-interview-300.jpg" alt="20 Years and counting: An interview with Arturia's Frederic Brun" class="block-300250-rel"></a><a href="/interviews/the-scoop-about-spark-an-interview-with-positive-grid-47083" title="The Scoop About Spark: An Interview with Positive Grid" class="block-300250-rel"><img src="https://static.kvraudio.com/i/b/spark_on_red-300x250.jpg" alt="The Scoop About Spark: An Interview with Positive Grid" class="block-300250-rel"></a><a href="/interviews/andrew-huang-interview-launching-a-music-career-on-social-media-44512" title="Andrew Huang Interview: Launching a music career on social media" class="block-300250-rel"><img src="https://static.kvraudio.com/i/b/andrew_huang_300x250.jpg" alt="Andrew Huang Interview: Launching a music career on social media" class="block-300250-rel"></a><a href="/interviews/creativity-craft-and-career-an-interview-with-steve-vai-45885" title="Creativity, craft, and career: An interview with Steve Vai" class="block-300250-rel"><img src="https://static.kvraudio.com/i/b/sv-300x250.jpg" alt="Creativity, craft, and career: An interview with Steve Vai" class="block-300250-rel"></a></div></div><script>kvrshinyscroller({"selector" : ".kvriib", "interval" : 12000, "showindicators" : true});</script>      <div id="wnaside">
         <div id="sidecolx">
           <div>
             <div id="scxtitle"><strong>What's New @ KVR Audio</strong></div>
             <div id="scxtabs" class="hovthisblue">
               <ul>
-<li><a href="/inc/sidebar.php?s=2"><span class="kvr6to9show"><span class="spit spbox">&nbsp;</span></span><span class="kvr6to9hide">Plugins</span></a></li><li><a href="/inc/sidebar.php?s=1"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">News</span></a></li><li><a href="/inc/sidebar.php?s=7"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">Deals</span></a></li><li><a href="/inc/sidebar.php?s=3" class="active"><span class="kvr6to9show"><span class="spit sprevpad">&nbsp;</span></span><span class="kvr6to9hide">Reviews</span></a></li><li><a href="/inc/sidebar.php?s=4"><span class="spit spfrm" title="Latest Forum Posts">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=5"><span class="spit spplm16o" title="Latest Music">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=6"><span class="spit sptv" title="Latest Videos">&nbsp;</span></a></li>              </ul>
+<li><a href="/inc/sidebar.php?s=2"><span class="kvr6to9show"><span class="spit spbox">&nbsp;</span></span><span class="kvr6to9hide">Plugins</span></a></li><li><a href="/inc/sidebar.php?s=1"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">News</span></a></li><li><a href="/inc/sidebar.php?s=7"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">Deals</span></a></li><li><a href="/inc/sidebar.php?s=3"><span class="kvr6to9show"><span class="spit sprevpad">&nbsp;</span></span><span class="kvr6to9hide">Reviews</span></a></li><li><a href="/inc/sidebar.php?s=4"><span class="spit spfrm" title="Latest Forum Posts">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=5"><span class="spit spplm16o" title="Latest Music">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=6" class="active"><span class="spit sptv" title="Latest Videos">&nbsp;</span></a></li>              </ul>
             </div>
           </div>
           <div id="scxcon" class="spitb2">
-            <div id="scxbox" class="scxp"><div class="scxpinline flex flexcenter" style="padding: 5px 7px 5px 10px;"><a href="https://www.kvraudio.com/reviews"><b>Latest User Reviews</b></a> <a href="/rss/kvr_user_reviews.rss" title="Latest User Reviews RSS Feed" style="padding: 0; margin-left: auto;"><span class="spit sprss2">&nbsp;</span></a></div><a href="/product/ascension-by-dance-midi-samples/reviews/5847" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/asc-new-for-kvr.png" alt=""></span><span class="flexflexed">Ascension<br><span class="scxpsub">Rated 4 out of 5 by ZeptoBST_Official<br><em>11th June</em></span></span></a><a href="/product/gband-by-gvst/reviews/5845" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/gband_ui.png" alt=""></span><span class="flexflexed">GBand<br><span class="scxpsub">Rated 5 out of 5 by golden_Dragon<br><em>10th June</em></span></span></a><a href="/product/fathom-synth-by-seaweed-audio/reviews/5844" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/fathom_bright.jpg" alt=""></span><span class="flexflexed">Fathom Synth<br><span class="scxpsub">Rated 5 out of 5 by AmbieticA<br><em>10th June</em></span></span></a><a href="/product/bluearp-by-oleg-mikheev-aka-graywolf/reviews/5843" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/bluearp_213.jpg" alt=""></span><span class="flexflexed">BlueARP<br><span class="scxpsub">Rated 5 out of 5 by KokalOn<br><em>10th June</em></span></span></a><a href="/product/perfect-drums-by-naughty-seal-audio/reviews/5842" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/pd_drums.jpg" alt=""></span><span class="flexflexed">Perfect Drums<br><span class="scxpsub">Rated 2 out of 5 by IanPB<br><em>9th June</em></span></span></a><a href="/product/fathom-synth-by-seaweed-audio/reviews/5841" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/fathom_bright.jpg" alt=""></span><span class="flexflexed">Fathom Synth<br><span class="scxpsub">Rated 5 out of 5 by irism<br><em>9th June</em></span></span></a><a href="/product/fathom-synth-by-seaweed-audio/reviews/5840" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/fathom_bright.jpg" alt=""></span><span class="flexflexed">Fathom Synth<br><span class="scxpsub">Rated 4 out of 5 by glokraw<br><em>9th June</em></span></span></a><a href="/product/fathom-synth-by-seaweed-audio/reviews/5839" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/fathom_bright.jpg" alt=""></span><span class="flexflexed">Fathom Synth<br><span class="scxpsub">Rated 5 out of 5 by tony10000<br><em>8th June</em></span></span></a><a href="/product/pitchproof-by-aegean-music/reviews/5838" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/pitchproof-screen2.png" alt=""></span><span class="flexflexed">Pitchproof<br><span class="scxpsub">Rated 5 out of 5 by golden_Dragon<br><em>7th June</em></span></span></a><a href="/product/na-lofi-vintage-clipper-by-nembrini-audio/reviews/5837" class="flex"><span class="flexfixed" style="margin-right: 10px;"><img src="//static.kvraudio.com/i/t/lofi_1024x1024.png" alt=""></span><span class="flexflexed">NA LoFi Vintage Clipper<br><span class="scxpsub">Rated 5 out of 5 by alienimplant<br><em>6th June</em></span></span></a><a href="/reviews.php" class="cleanlnk">Read More</a></div>
+            <div id="scxbox" class="scxp">
+    <a class="flex" title="Arabic Oud - Screencast Bayati G | Best Service" href="/video/arabic-oud---screencast-bayati-g-best-service-12108" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/bFwo8IGiOgk/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">Arabic Oud - Screencast Bayati G | Best Service</span>
+    </a>
+    <a class="flex" title="Arabic Oud - Original vs Virtual Part 1 | Best Service" href="/video/arabic-oud---original-vs-virtual-part-1-best-service-12107" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/7-ShMP38kt8/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">Arabic Oud - Original vs Virtual Part 1 | Best Service</span>
+    </a>
+    <a class="flex" title="Arabic Oud - Trailer | Best Service" href="/video/arabic-oud---trailer-best-service-12106" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/0upWlvfLc7c/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">Arabic Oud - Trailer | Best Service</span>
+    </a>
+    <a class="flex" title="Arabic Oud - Trailer (Arabic Version) عرض مختصر للعود العربي" href="/video/arabic-oud---trailer-arabic-version-12105" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/brCyfaSsvPY/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">Arabic Oud - Trailer (Arabic Version) عرض مختصر للعود العربي</span>
+    </a>
+    <a class="flex" title="RAUM Walkthrough – Free Reverb Holiday Gift From NI | Native Instruments" href="/video/raum-walkthrough-free-reverb-holiday-gift-from-ni-native-instruments-12104" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/A8Ry94NDve0/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">RAUM Walkthrough – Free Reverb Holiday Gift From NI | Native Instruments</span>
+    </a>
+    <a class="flex" title="LUXUS VST Sound Demo" href="/video/luxus-vst-sound-demo-12103" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/Gqxc7W11QyY/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">LUXUS VST Sound Demo</span>
+    </a>
+    <a class="flex" title="Connelly Chapel Grand, in the chapel" href="/video/connelly-chapel-grand-in-the-chapel-12102" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/C-leYECeuj8/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">Connelly Chapel Grand, in the chapel</span>
+    </a>
+    <a class="flex" title="KX77FREE - Electronic Music Transfert - Wendy and me" href="/video/kx77free---electronic-music-transfert---wendy-and-me-12101" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/-HTRiYiAtFw/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">KX77FREE - Electronic Music Transfert - Wendy and me</span>
+    </a>
+    <a class="flex" title="Luxas Rompler VST Sound Demo" href="/video/luxas-rompler-vst-sound-demo-12100" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/P92Fv88sHgk/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">Luxas Rompler VST Sound Demo</span>
+    </a>
+    <a class="flex" title="GUITAR RIG 5 PRO | Native Instruments" href="/video/guitar-rig-5-pro-native-instruments-12099" style="padding: 5px;">
+      <span class="flexfixed flex flexcenter" style="width: 100px; background: url(https://i.ytimg.com/vi/bWXjRj3AUWg/default.jpg) 0 50% no-repeat;"><span class="spit spplay25" style="margin: 0 auto;">&nbsp;</span></span>
+      <span class="flex flexcenter flexflexed" style="padding: 15px;">GUITAR RIG 5 PRO | Native Instruments</span>
+    </a><a href="/video/" class="cleanlnk">Watch More Videos</a></div>
           </div>
         </div>
       </div>
-<div><div class="kvrhidesmall hovthisblue flex" style="font-weight: bold; text-align: center; background-color: #444;"><a href="/focus" class="flexflexed" style="padding: 10px;">Industry Focus</a><a href="/interviews/" class="flexflexed active" style="padding: 10px;">Interviews</a><a href="/blog/" class="flexflexed" style="padding: 10px;">Blog</a></div><a href="/interviews/no-pre-conceived-notions---an-interview-with-izotope-founder-mark-ethier-44880" title="No pre-conceived notions - An interview with iZotope founder Mark Ethier" style="min-width: 300px; min-height: 250px; display: block;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-kvrsrc="https://static.kvraudio.com/i/b/mark-ethier-300.jpg" alt="No pre-conceived notions - An interview with iZotope founder Mark Ethier" style="display: block; margin: 0 auto; z-index: 1; width: 100%;"></a></div><div style="text-align: center; color: #eee; margin-bottom: 5px;">Advertisements</div><div id="kvr300600" style="width: 300px; height: 600px;">      <div class="bl0k300600" style="width: 300px; height: 600px;" id="div-gpt-ad-1406729622787-0"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1406729622787-0');});</script></div>
-</div><div class="stickythis"></div>    </div>
+<div id="kvr300600" style="width: 300px; height: 600px;">      <div class="bl0k300600" style="width: 300px; height: 600px;" id="div-gpt-ad-1406729622787-0"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1406729622787-0');});</script></div>
+</div>    </div>
     <div class="clearit"></div>
   </div>
   <div id="foot">
@@ -237,84 +1121,64 @@ $(function(){
     <p class="flex flexcenter flexcontentcenter" style="margin: 20px 0; padding: 0;">
       <a href="https://www.facebook.com/pages/KVR-Audio-News/207641972591939" title="KVR Audio on Facebook" target="_blank" rel="noopener"><span class="spit spfacecircle">&nbsp;</span></a>
       <a href="https://twitter.com/kvraudio" title="@kvraudio on Twitter" target="_blank" rel="noopener" style="margin: 0 10px;"><span class="spit sptwitcircle">&nbsp;</span></a>
-      <a href="https://www.instagram.com/kvraudio/" target="_blank" rel="noopener" title="KVR Audio on Instagram"><span class="spit spinstacircle" style="margin-right: 5px;">&nbsp;</span></a>
+      <a href="https://www.instagram.com/kvraudio/" target="_blank" rel="noopener" title="KVR Audio on Instagram" style="margin-right: 10px;"><span class="spit spinstacircle">&nbsp;</span></a>
+      <a href="https://www.youtube.com/channel/UCQsO0JbhjXmVh1eV3JKG2zQ/" target="_blank" rel="noopener"><span class="spit sptube">&nbsp;</span></a>
     </p>
     <p style="padding: 0 20px;"><a href="/submissions.php">Submit: News, Plug-ins, Hosts &amp; Apps</a> | <a href="/advertise">Advertise @ KVR</a> | <a href="/devs">Developer Account</a> | <a href="/aboutkvr.php">About KVR / Contact Us</a> | <a href="/privacy">Privacy Statement</a></p>
     <p style="margin-top: 10px;">© KVR Audio, Inc. 2000-2019</p>
   </div>
 </div>
 
-<script>
-
-function kvr_login_fit()
-{
-  var h = $(".blockPage").height();
-  var w = $(window).height();
-  if(w < h)
-  {
-    $(".blockPage .kvrstoreheader").hide();
-    if($(".blockPage").position().top < 0)
-    {
-      $(".blockPage").css("top","0px");
-    }
-  }
-}
-
-function kvr_prefixed_calc()
-{
-  var prefixes = ["","-webkit-","-moz-","-o-"], el;
-  for(var i = 0; i < prefixes.length; i++)
-  {
-    el = document.createElement("div");
-    el.style.cssText = "width:" + prefixes[i] + "calc(9px)";
-    if (el.style.length) return prefixes[i] + "calc";
-  }
-  return false;
-}
-
+<div><div></div></div></div><script>
 
 function kvr_log_in(loginbox)
 {
   if(!loginbox)
   {
-    loginbox = ' <p class=\"kvrstoreheader\" style=\"margin-bottom: 10px;\"><b>Please Log In</b></p> <a href=\"#\" class=\"unblockui\" style=\"position: absolute; top: 5px; right: 5px;\"><span class=\"spit spclose\">&nbsp;</span></a> <div style=\"padding: 30px 50px;\"> <form action=\"/forum/ucp.php?mode=login\" method=\"post\" style=\"font-size: 70%;\"> <input type=\"hidden\" name=\"redirect\" value=\"https://www.kvraudio.com/privacy\"> <input type=\"hidden\" value=\"e201fb6530affc9f4d1a5135fb149188\" name=\"sid\"> <p>Username:<br> <input type=\"text\" name=\"username\" size=\"12\" maxlength=\"40\" value=\"\" id=\"kvruserpop\" style=\"width: 100%; border: 1px solid #ddd; padding: 5px;\"></p> <p>Password:<br> <input type=\"password\" name=\"password\" size=\"12\" maxlength=\"32\" value=\"\" style=\"width: 100%; border: 1px solid #ddd; padding: 5px;\"></p> <p><input type=\"submit\" name=\"login\" value=\"Log In\"></p> <p style=\"text-align: center;\"><label><input type=\"checkbox\" name=\"autologin\" style=\"vertical-align: bottom;\"> Keep Me Logged In (AutoLogin)</label></p> <hr> <div style=\"text-align: center;\"> <a href=\"https://www.kvraudio.com/forum/ucp.php?mode=sendpassword\" style=\"color: #666;\">Forgotten Your Password?</a><br> <a href=\"https://www.kvraudio.com/forum/ucp.php?mode=resend_act\" style=\"color: #666;\">Resend Activation E-mail</a><br> <a href=\"https://www.kvraudio.com/forum/ucp.php?mode=register\" style=\"color: #666;\">Join / Register (FREE!)</a> </div> </form> </div>';
+    loginbox = ' <p class=\"kvrstoreheader\"><b>Please Log In</b></p> <a href=\"#\" id=\"kvrloginboxclose\" style=\"position: absolute; top: 5px; right: 5px;\"><span class=\"spit spclose\">&nbsp;</span></a> <div style=\"padding: 30px 50px; font-size: 15px;\"> <form action=\"https://www.kvraudio.com/forum/ucp.php?mode=login\" method=\"post\"> <input type=\"hidden\" name=\"redirect\" value=\"https://www.kvraudio.com/privacy\"> <input type=\"hidden\" value=\"7d9bb32edb7be1cc585dd499266faca9\" name=\"sid\"> <p>Username:<br> <input type=\"text\" name=\"username\" size=\"12\" maxlength=\"40\" value=\"\" id=\"kvruserpop\" style=\"width: 100%; border: 1px solid #ddd; padding: 5px;\"></p> <p>Password:<br> <input type=\"password\" name=\"password\" size=\"12\" maxlength=\"32\" value=\"\" style=\"width: 100%; border: 1px solid #ddd; padding: 5px;\"></p> <p><input type=\"submit\" name=\"login\" value=\"Log In\"></p> <p><label class=\"flex flexcenter\" style=\"line-height: 20px; font-size: 12px;\"><input type=\"checkbox\" name=\"autologin\" style=\"margin-right: 10px;\"> Keep Me Logged In</label></p> <hr> <div style=\"text-align: center; font-size: 0.8em; line-height: 150%;\"> <a href=\"https://www.kvraudio.com/forum/ucp.php?mode=sendpassword\" style=\"color: #666;\">Forgotten Your Password?</a><br> <a href=\"https://www.kvraudio.com/forum/ucp.php?mode=resend_act\" style=\"color: #666;\">Resend Activation E-mail</a><br> <a href=\"https://www.kvraudio.com/forum/ucp.php?mode=register\" style=\"color: #666;\">Join / Register (FREE!)</a> </div> </form> </div>';
   }
-  $("#mykvrsb2,#kvrmenuc,.kvrddm").hide();
-  var cancalc = kvr_prefixed_calc();
-  var ua = navigator.userAgent;
-  var onios = (ua.match(/iPhone/i) || ua.match(/iPod/i) || ua.match(/iPad/i)) ? true : false;
 
-  $.blockUI({
-      message: loginbox,
-      css: {
-        cursor: "default",
-        padding: "0",
-        borderWidth: "0",
-        width: "320px",
-        fontSize: "150%",
-        left: (!cancalc ? 0 : cancalc+"(50% - 160px)"),
-        top: (onios || !cancalc ? 0 : cancalc+"(50% - 180px)"),
-        textAlign: "left",
-      },
-      onBlock: function(){
-        $("#kvruserpop").focus();
-        kvr_login_fit();
-        $(".blockOverlay,.unblockui").css("cursor","pointer").click(function(){
-          $.unblockUI();
-          $(".kvrcartsummaryblock").unblock();
-          return false;
-        });
-      }
-  });
+  var kvrloginbg = document.getElementById("kvrloginbg");
+  if(kvrloginbg)
+  {
+    kvrloginbg.classList.remove("hideflex");
+  }else{
+    el = document.createElement("div");
+    el.id = "kvrloginbg";
+    document.body.appendChild(el);
+  }
+
+  var kvrloginbox = document.getElementById("kvrloginbox");
+  if(kvrloginbox)
+  {
+    kvrloginbox.classList.remove("hideflex");
+  }else{
+    el = document.createElement("div");
+    el.id = "kvrloginbox";
+    el.innerHTML = loginbox;
+    document.body.appendChild(el);
+  }
 }
 
-$(window).resize(function(){kvr_login_fit();});
+document.addEventListener("click", function(e){
+  if(!document.getElementById("kvrloginbox"))
+  {
+    return;
+  }
+  if(e.target.id != "kvrloginbg" && !e.target.matches(".kvrloginboxclose") && !document.getElementById("kvrloginboxclose").contains(e.target))
+  return;
+
+  document.getElementById("kvrloginbg").classList.add("hideflex");
+  document.getElementById("kvrloginbox").classList.add("hideflex");
+  e.preventDefault();
+}, false);
+
 kvrkart = [];
 kvrspid = [];
 if(typeof document.querySelector('body').style.grid !== 'string'){document.querySelector('body').classList.add('kvrnogrid');}
 </script>
 <noscript><img src="/static/noscript/" alt=""></noscript>
-<script src="https://static.kvraudio.com/inc/kvr-foot.js?v=174"></script>
+<script src="https://static.kvraudio.com/inc/kvr-foot.js?v=186"></script>
 <script src="//s.skimresources.com/js/25446X847199.skimlinks.js"></script>
 
 </body></html>
