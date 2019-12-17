@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtgarena.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519022343id_/https%3A//company.wizards.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgarena.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217194652id_/https%3A//company.wizards.com/policy) for the most accurate reproduction.*
 
 # Wizards of the Coast’s Privacy Policy | Wizards Corporate
 
