@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolfunnyquotes.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114221024id_/http%3A//coolfunnyquotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolfunnyquotes.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217193258id_/https%3A//www.coolfunnyquotes.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy for CoolFunnyQuotes.com
 
