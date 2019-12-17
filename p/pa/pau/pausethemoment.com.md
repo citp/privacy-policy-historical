@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pausethemoment.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210183942id_/http%3A//www.pausethemoment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pausethemoment.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217090042id_/https%3A//www.pausethemoment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Pause The Moment collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.pausethemoment.com](http://www.pausethemoment.com/ "Pause The Moment") website (“Site”). This privacy policy applies to the Site and all products and services offered by Pause The Moment.
+This Privacy Policy governs the manner in which Pause The Moment collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.pausethemoment.com](https://www.pausethemoment.com/ "Pause The Moment") website (“Site”). This privacy policy applies to the Site and all products and services offered by Pause The Moment.
 
 **Personal identification information**
 
@@ -43,7 +43,7 @@ Pause The Moment has the discretion to update this privacy policy at any time. 
 
 Pause The Moment is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
 
-For more information about affiliate earnings, please see my [Affiliate Disclaimer](http://www.pausethemoment.com/affiliate-disclaimer/).
+For more information about affiliate earnings, please see my [Affiliate Disclaimer](https://www.pausethemoment.com/affiliate-disclaimer/).
 
 **Your acceptance of these terms**
 
@@ -51,6 +51,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [Pause The Moment](http://www.pausethemoment.com/contact/ "Pause The Moment") | admin[at]pausethemoment[dot]com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [Pause The Moment](https://www.pausethemoment.com/contact/ "Pause The Moment") | admin[at]pausethemoment[dot]com
 
 _This document was last updated on Sept 2, 2016_
