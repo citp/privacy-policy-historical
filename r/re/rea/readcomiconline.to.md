@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readcomiconline.to privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530150547id_/https%3A//readcomiconline.to/Message/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readcomiconline.to privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217125430id_/https%3A//readcomiconline.to/Message/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
