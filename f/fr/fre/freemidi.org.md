@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemidi.org privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908202423id_/https%3A//freemidi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemidi.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217140041id_/https%3A//freemidi.org/privacy) for the most accurate reproduction.*
 
 # privacy
 
