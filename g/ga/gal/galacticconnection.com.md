@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galacticconnection.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503070043id_/https%3A//galacticconnection.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galacticconnection.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217021013id_/https%3A//galacticconnection.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Galactic Connection
 
@@ -99,6 +99,6 @@ We use Google Analytics, a web analytics service offered by Google that tracks a
 
 You can opt-out of having made your activity on the site available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately by sending an email to admin@galacticconnection.com**
+ **If you feel that we are not abiding by this privacy policy, you should contact us immediately by sending an email to admin@galacticconnection.com**
 
-_Effective 25 May 2018_
+ _Effective 25 May 2018_
