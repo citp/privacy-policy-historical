@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the officesnapshots.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614211801id_/https%3A//officesnapshots.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officesnapshots.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217145937id_/https%3A//officesnapshots.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Office Snapshots
 
 Privacy Policy  
 Effective Date: March 1, 2017
 
-This Privacy Policy covers the officesnapshots.com website (hereinafter “Website”), which is owned and operated by Office Snapshots LLC (“Office Snapshots”). Office Snapshots is committed to protecting the privacy of its users and wishes to maintain a safe and secure environment for all users of the Website. Please read the following Privacy Policy to understand how your personal information is treated. From time to time, Office Snapshots may offer new services and/or products that may require Office Snapshots to update this Privacy Policy. Please check back with us periodically. If you have questions or concerns regarding this policy, you should contact Office Snapshots’ Privacy Administrator by email at privacy@officesnapshots.com.
+This Privacy Policy covers the officesnapshots.com website (hereinafter “Website”), which is owned and operated by Office Snapshots LLC (“Office Snapshots”). Office Snapshots is committed to protecting the privacy of its users and wishes to maintain a safe and secure environment for all users of the Website. Please read the following Privacy Policy to understand how your personal information is treated. From time to time, Office Snapshots may offer new services and/or products that may require Office Snapshots to update this Privacy Policy. Please check back with us periodically. If you have questions or concerns regarding this policy, you should contact Office Snapshots’ Privacy Administrator by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This Privacy Policy answers the following questions for you regarding your privacy protection:
 
@@ -69,7 +69,7 @@ The Website is general audience website and does not direct any of its content s
 
  **NOTICE TO CALIFORNIA RESIDENTS**
 
-Office Snapshots does not disclose your information to third parties for marketing purposes. If you are a California resident, you have the right to receive (a) information identifying all third-party companies to which we may have disclosed, within the past year, personal information pertaining to you and your family for those companies’ direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information, please email privacy@officesnapshots.com.
+Office Snapshots does not disclose your information to third parties for marketing purposes. If you are a California resident, you have the right to receive (a) information identifying all third-party companies to which we may have disclosed, within the past year, personal information pertaining to you and your family for those companies’ direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **CALIFORNIA DO NOT TRACK DISCLOSURE**
 
@@ -85,4 +85,4 @@ Office Snapshots may disclose personal information when required by law or in th
 
  **HOW DO I CONTACT OFFICE SNAPSHOTS ABOUT PRIVACY CONCERNS?**
 
-If you have any further questions or comments regarding this Privacy Policy, you may contact us at privacy@officesnapshots.com.
+If you have any further questions or comments regarding this Privacy Policy, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
