@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activistpost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630062226id_/https%3A//www.activistpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activistpost.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217190028id_/https%3A//www.activistpost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Activist Post
 
 Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us (such as an email address when subscribing to our mailing list). Users can always refuse to supply personally identification information. Activistpost.com uses a hit service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc… but in no way does this reveal the name, email address, or any specific information whatsoever about the site’s visitors.
 
@@ -13,7 +13,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit 
 
 [aboutads.info](http://www.aboutads.info/)  
-[networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp)  
+[networkadvertising.org](https://www.networkadvertising.org/managing/opt_out.asp)  
 [youronlinechoices.eu](http://www.youronlinechoices.eu/) (EU users)
 
 ### Will Activistpost.com disclose collected information to outside parties?
