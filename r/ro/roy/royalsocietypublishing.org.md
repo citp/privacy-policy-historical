@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalsocietypublishing.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210944id_/https%3A//royalsociety.org/about-us/terms-conditions-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalsocietypublishing.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217031129id_/https%3A//royalsociety.org/about-us/terms-conditions-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal Society
 
@@ -210,6 +210,8 @@ When someone visits our websites we use a third party service, Google Analytics,
 We also use a number of other third party analytics services to assess how people use our websites so that we can make improvements to the sites. Again, those do not identify visitors personally. These include Hotjar and Mixpanel. On our blogs we sometimes use a third party data processor acting on our behalf and under our instructions to display and process comments that you make using your chosen username.
 
 You have a right to object to this tracking at any time or can protect your privacy by installing a tracking-blocker or by clearing your cookies at the end of every browsing session. For more information on how analysed data is collected and used by these companies, please follow the links to the privacy policies of [Google](https://policies.google.com/privacy), [Hotjar](https://www.hotjar.com/legal/policies/privacy) and [Mixpanel](https://mixpanel.com/legal/privacy-policy/). We hold such data for the periods of: up to 26 months for Google Analytics from the date of your last visit, which resets on new visits to our website; up to 12 months for Hotjar; and a maximum of 60 days for Mixpanel. 
+
+To protect user submissions to forms on royalsociety.org, we have implemented invisible reCAPTCHA on forms. Please note use of the invisible reCAPTCHA is subject to the Google [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Use](https://policies.google.com/terms?hl=en).
 
 Back to top
 
