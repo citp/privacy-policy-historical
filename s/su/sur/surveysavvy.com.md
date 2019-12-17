@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331022521id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217050748id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
 
 # Privacy Policy | SurveySavvy
 
@@ -68,4 +68,4 @@ Notwithstanding anything to the contrary in this Privacy Policy or controls we m
 
 ### Contact Us
 
-If you have any questions, concerns, or comments about our privacy policies or practices, we would like to know what they are so we can address them. Please contact us at (888) 588-4258 or email using the Contact Us form. Effective Date: April 27, 2012
+If you have any questions, concerns, or comments about our privacy policies or practices, we would like to know what they are so we can address them. Please contact us at (888) 588-4258 or email using the Contact Us form. Effective Date: June 1, 2018
