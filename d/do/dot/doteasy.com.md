@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910225436id_/https%3A//www.doteasy.com/terms/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217072111id_/https%3A//www.doteasy.com/terms/privacy-policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Doteasy.com
+# Privacy Policy | Doteasy
 
 Last Revised: May 25, 2018
 
