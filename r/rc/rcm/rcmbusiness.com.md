@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcmbusiness.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209124411id_/https%3A//rcmbusiness.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcmbusiness.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217214207id_/https%3A//rcmbusiness.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - RCM Business
 
