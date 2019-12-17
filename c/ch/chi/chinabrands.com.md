@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the chinabrands.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611182424id_/https%3A//www.chinabrands.com/article/get-by-id.html%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinabrands.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217170242id_/https%3A//www.chinabrands.com/article/get-by-id.html%3Fid%3D2) for the most accurate reproduction.*
 
 # Privacy Policies
-
-Privacy Policy
-
-This Privacy Statement explains how Shenzhen Yashige Trading Co.,Ltd. (“Chinabrands” “we,” “us,” or “our”) collects, uses, and discloses your personal information in connection with its operation of the Chinabrands ecommerce platform.
 
 What information do we collect?
 
