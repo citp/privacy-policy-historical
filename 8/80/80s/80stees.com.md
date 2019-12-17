@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408231639id_/https%3A//www.80stees.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217233901id_/http%3A//www.80stees.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # 80sTees.com Privacy Policy
 
