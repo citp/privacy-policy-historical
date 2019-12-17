@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402120343id_/https%3A//www.iie.org/en/Learn/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217041938id_/https%3A//www.iie.org/en/Learn/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
