@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the anonhq.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630081544id_/https%3A//anonhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonhq.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217212026id_/https%3A//anonhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where potentially personally identifiable information may be requested.
 
-**Third Party: Google Adsense, Google Analytics, Amazon, Media.net, MadAdsMedia**  
+ **Third Party: Google Adsense, Google Analytics, Amazon, Media.net, MadAdsMedia**  
 Google and the parties mentioned above as a third party advertisement vendors, use cookies to either serve ads or collect demographic data.
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
@@ -14,28 +14,24 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 http://anonhq.com has no access or control over these cookies that may be used by third party advertisers.
 
-**Collection of Personal Information  **  
+ **Collection of Personal Information  **  
 When visiting http://anonhq.com the IP address used to access the site will not be logged.
 
-**Cookie Policy**
+ **Cookie Policy**
 
 AnonHQ.com does not store any cookies.
 
-**Copyrighted Materials**
+ **Copyrighted Materials**
 
 We are acknowledging copyrighted material, i.e. photos, videos and documents to the best of our knowledge. In case of copyright infringement, please contact us at
 
 and we will delete it immediately.
 
-**Links to third party Websites**  
+ **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-**Author’s Opinions**
+ **Author’s Opinions**
 
 Author’s opinions on AnonHQ.com may differ from website administration.
 
 If you have any questions regarding the privacy policy of http://anonhq.com then you may contact us at:
-
-[ ](http://coolcatapproves.com/smartwatch/the-invincible-military-inspired-smartwatch-everyone-is-talking-about-its-super-tough/)
-
-catch (error) {} 
