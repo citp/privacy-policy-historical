@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newspunch.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630084214id_/https%3A//newspunch.com/website-terms-of-use/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspunch.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217224441id_/https%3A//newspunch.com/website-terms-of-use/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - News Punch
 
