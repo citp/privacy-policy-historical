@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vsb.bc.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626203824id_/http%3A//www.vsb.bc.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsb.bc.ca privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217205941id_/https%3A//www.vsb.bc.ca/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Vancouver School Board
+# Vancouver School Board
 
 **Privacy Statement**
 
 Vancouver School Board does not automatically gather any personal information from you, such as your name, phone number, e-mail or street address during your visit to its Web sites. This information is only obtained if you supply it voluntarily, usually through contacting us via e-mail, or registering in a secure portion of the site.
 
-All personal information you do provide is protected under the British Columbia _Freedom of Information and Protection of Privacy Act_. This means that, at the point of collection, you will be informed that your personal information is being collected, the purpose for which it is being collected and that you have a right of access to the information.
+All personal information you do provide is protected under the British Columbia Freedom of Information and Protection of Privacy Act. This means that, at the point of collection, you will be informed that your personal information is being collected, the purpose for which it is being collected and that you have a right of access to the information.
 
 Vancouver School Board uses per-session cookies. The per-session cookies do not collect personal information about you. Per-session cookies are used to store information within a session (or visit to our web site). These cookies are deposited on a user's computer only while the user is visiting the site and are deleted when the user closes the session. Here is the list of information that we are collecting by using per-session cookies:
 
@@ -21,8 +21,5 @@ Vancouver School Board uses per-session cookies. The per-session cookies do not 
 
 The Vancouver School Board makes no attempt to link these addresses with the identity of individuals visiting its site(s).
 
-**Links to Other Web Sites**
-
+  **Links to Other Web Sites**  
 This web site contains links to other sites. The Vancouver School Board is not responsible for the content or the privacy practices of other web sites or organizations. You are encouraged to examine each site’s privacy policy and disclaimers and make your own decisions regarding the accuracy, reliability and correctness of material and information found.
-
-[](https://www.addthis.com/bookmark.php?v=250&username=xa-4bc5e9916822082f)
