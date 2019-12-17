@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipreantivirus.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528180608id_/https%3A//www.vipre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipreantivirus.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217054128id_/https%3A//www.vipre.com/privacy) for the most accurate reproduction.*
 
 # Privacy - VIPRE
 
@@ -26,7 +26,7 @@
 
 (K) Data accuracy
 
-(L) Data minimisation
+(L) Data minimization
 
 (M) Data retention
 
@@ -59,6 +59,8 @@ This Policy explains how we may Process your Personal Data. This Policy may be a
 This Policy is issued by ThreatTrack Security, Inc. on behalf of itself, its subsidiaries and its affiliates (including any entity lawfully doing business under the FuseMail, WeCloud, or VIPRE brand as set out in Section R below) (together, “ **Company** ”, “ **we** ”, “ **us** ” and “ **our** ”) and is addressed to individuals outside our organization with whom we interact, including customers, visitors to our Sites, users of our Apps, and other users of our services (together, “ **you** ”). Defined terms used in this Policy are explained in Section (S) below.
 
 For the purposes of this Policy, Company is the Controller. This Policy covers the information practices relating to Company websites for the VIPRE, FuseMail or WeCloud services offered now or in the future. Contact details are provided in Section (R) below.
+
+Notwithstanding anything to the contrary in this Policy, and to the extent allowed by applicable law, VIPRE does not collect or log any traffic on Internet Shield, its VPN service.
 
 This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Policy.
 
@@ -106,7 +108,7 @@ We may Process the following categories of Personal Data about you:
   *  _Contact details:_ correspondence address; telephone number; email address; and details of your public social media profile(s).
   *  _Consent records:_ records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent).
   *  _Purchase details:_ records of purchases and prices.
-  *  _Payment details:_ invoice records; payment records; billing address; payment method; bank account number or credit card number; cardholder or accountholder name; card or account security details; card ‘valid from’ date; and card expiry date; BACS details; SWIFT details; IBAN details; payment amount; payment date; and records of cheques.
+  *  _Payment details:_ invoice records; payment records; billing address; payment method; bank account number or credit card number; cardholder or accountholder name; card or account security details; card ‘valid from’ date; and card expiry date; BACS details; SWIFT details; IBAN details; payment amount; payment date; and records of checks.
   *  _Data relating to our Sites and Apps:_ device type; operating system; browser type; browser settings; IP address; language settings; dates and times of connecting to a Site; App usage statistics; App settings; dates and times of connecting to an App; location data, and other technical communications information (some of which may constitute Personal Data); username; password; security login details; usage data; aggregate statistical information.
   *  _Employer details:_ where you interact with us in your capacity as an employee, the contact information of your employer (including name, address, telephone number and email address) to the extent relevant.
   *  _Content and advertising data:_ records of your interactions with our online advertising and content, records of advertising and content displayed on pages or App screens displayed to you, and any interaction you may have had with such content or advertising (including mouse hover, mouse clicks, any forms you complete (including incomplete forms not submitted) and any touchscreen interactions).
@@ -148,7 +150,7 @@ We do not seek to collect or otherwise Process your Sensitive Personal Data in t
 
   *  _Compliance with applicable law:_ We may Process your Sensitive Personal Data where the Processing is required or permitted by applicable law (e.g., to comply with our diversity reporting obligations);
   *  _Detection and prevention of crime:_ We may Process your Sensitive Personal Data where the Processing is necessary for the detection or prevention of crime (including the prevention of fraud);
-  *  _Establishment, exercise or defence of legal rights:_ We may Process your Sensitive Personal Data where the Processing is necessary for the establishment, exercise or defence of legal rights; or
+  *  _Establishment, exercise or defense of legal rights:_ We may Process your Sensitive Personal Data where the Processing is necessary for the establishment, exercise or defense of legal rights; or
   *  _Consent:_ We may Process your Sensitive Personal Data where we have, in accordance with applicable law, obtained your prior, express consent prior to Processing your Sensitive Personal Data (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
 
 
@@ -194,7 +196,7 @@ We may disclose your Personal Data to other entities within the Company group, f
   * legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
   * outside professional advisors (such as accountants, auditors, or lawyers), subject to binding contractual obligations of confidentiality;
   * third party Processors (such as payment services providers; data centers; etc.), located anywhere in the world, subject to the requirements noted below in this Section (H);
-  * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defence of legal rights;
+  * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defense of legal rights;
   * any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security;
   * any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); and
   * any relevant third party provider, where our Sites and our Apps use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, your Personal Data may be shared with the relevant third party provider. We recommend that you review that third party’s privacy policy before interacting with its advertising, plugins or content.
@@ -225,11 +227,11 @@ Please note that when you transfer any Personal Data directly to a Company entit
 
 ###  **Summary – Data security**
 
-We implement appropriate technical and organisational security measures to protect your Personal Data. Please ensure that any Personal Data that you send to us is sent securely.
+We implement appropriate technical and organizational security measures to protect your Personal Data. Please ensure that any Personal Data that you send to us is sent securely.
 
 * * *
 
-We have implemented appropriate technical and organisational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law.
+We have implemented appropriate technical and organizational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, unauthorized access, and other unlawful or unauthorized forms of Processing, in accordance with applicable law.
 
 Because the internet is an open system, the transmission of information _via_ the internet is not completely secure. Although we will implement all reasonable measures to protect your personal data, we cannot guarantee the security of your data transmitted to us using the internet – any such transmission is at your own risk and you are responsible for ensuring that any Personal Data that you send to us are sent securely.
 
@@ -250,11 +252,11 @@ We take every reasonable step to ensure that:
 
 
 
-##  **(L) Data minimisation**
+##  **(L) Data minimization**
 
 * * *
 
-###  **Summary – Data minimisation**
+###  **Summary – Data minimization**
 
 We take every reasonable step to limit the volume of your Personal Data that we Process to what is necessary.
 
@@ -479,7 +481,7 @@ The Company has appointed a Data Protection Officer who can also be contacted at
   * “ **Data Protection Authority** ” means an independent public authority that is legally tasked with overseeing compliance with applicable data protection laws.
   * “ **EEA** ” means the European Economic Area.
   * “ **Personal Data** ” means information that is about any individual, or from which any individual is directly or indirectly identifiable, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that individual.
-  * “ **Process** ”, “ **Processing** ” or “ **Processed** ” means anything that is done with any Personal Data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+  * “ **Process** ”, “ **Processing** ” or “ **Processed** ” means anything that is done with any Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
   * “ **Processor** ” means any person or entity that Processes Personal Data on behalf of the Controller (other than employees of the Controller).
   * “ **Relevant Personal Data** ” means Personal Data in respect of which we are the Controller. It expressly does not include Personal Data of which we are not the Controller.
   * “ **Sensitive Personal Data** ” means Personal Data about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, national identification number, or any other information that may be deemed to be sensitive under applicable law.
