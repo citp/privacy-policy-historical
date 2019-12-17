@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exidelife.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185346id_/http%3A//www.exidelife.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exidelife.in privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217142224id_/https%3A//www.exidelife.in/privacy-policy) for the most accurate reproduction.*
 
 # Exide Life Insurance - Privacy Policy
 
