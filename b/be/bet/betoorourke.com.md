@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betoorourke.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627051807id_/https%3A//betoorourke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betoorourke.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217210425id_/https%3A//betoorourke.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Beto For America
 
