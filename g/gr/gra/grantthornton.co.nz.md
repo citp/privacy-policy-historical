@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520055304id_/https%3A//www.grantthornton.co.nz/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217235706id_/https%3A//www.grantthornton.co.nz/privacy-policy1) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Grant Thornton
 
 However, you can reset your browser so as to refuse any cookie or to alert you to when a cookie is being sent. Web browsers allow you to control cookies stored on your hard drive through the web browser settings. To find out more about cookies, including what cookies have been set and how to manage and delete them, visit http://www.allaboutcookies.org.
 
