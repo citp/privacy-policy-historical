@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the caregiverstress.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401083138id_/https%3A//www.homeinstead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caregiverstress.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217233435id_/https%3A//www.homeinstead.com/privacy-policy) for the most accurate reproduction.*
 
 # Home Instead Senior Care - Privacy Policy
 
-​​​For the U.S. Privacy Policy, click here.  
 For the Canadian Privacy Policy, click here.
 
-##  **U.S. Privacy Policy**   
+##  **U.S. Privacy Policy**  
 ​(updated February 25, 2019)
 
 We at Home Instead, Inc. ("Home Instead" or "we" or "us" or "our") appreciate your interest in this website and other websites operated by us on which this Privacy Policy is linked (this website and each other Home Instead website on which this Privacy Policy is linked are each and collectively hereinafter in this Privacy Policy referred to as the "Site").
 
 Your privacy is important and we are committed to protecting the personally identifiable information ("Personal Information") that you disclose to us. We want you to understand our practices with respect to how we gather and use the information we collect from visitors to the Site. This Privacy Policy covers our collection, use and disclosure of information we collect through our Site and our Social Media Properties (as more fully described below) and how that information may be used or shared by us, our affiliates, independently owned and operated franchises/master franchises, and third parties.
 
-Home Instead Senior Care franchise and master franchise businesses are independently owned and operated.  This privacy policy does not apply to any sites independently operated by such franchise businesses or to such franchisee’s use of the franchisee’s own data for purposes, including communication, provision of services, administration, or payment.  If you are receiving communications from a Home Instead Senior Care franchise, you must contact that franchise directly in order to opt out from their communications.   
-
+Home Instead Senior Care franchise and master franchise businesses are independently owned and operated.  This privacy policy does not apply to any sites independently operated by such franchise businesses or to such franchisee’s use of the franchisee’s own data for purposes, including communication, provision of services, administration, or payment.  If you are receiving communications from a Home Instead Senior Care franchise, you must contact that franchise directly in order to opt out from their communications.
 
 **This Privacy Policy is subject to change.** If we make any material changes we will notify you by means of a notice on the Site prior to the change becoming effective. **We encourage you to review this Privacy Policy periodically and to make note of the date of the most recent revision. If you disagree with the manner in which we intend to use the Personal Information you provide to us, you may opt out of these uses by following the instructions below. By using our Site, you agree to the terms of the Privacy Policy in effect at that time and as may be updated from time to time.**
 
@@ -25,16 +23,15 @@ We collect both Personal Information and non-personally identifiable information
 
 ## Collection of Non-Personally Identifiable Information
 
-**1\. Non-Personally Identifiable Information  
-**
+### 1\. Non-Personally Identifiable Information
 
 Personal Information is information that is about an identifiable individual. Generally speaking, Personal Information does not include: a) anonymous or aggregated information that does not allow an individual to be identified; or b) information regarding companies and other "legal persons."
 
-**2\. General Tracking Information**
+### 2\. General Tracking Information
 
 We keep track of the pages visited by each user. Our web server automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our Site by making it more responsive to the needs and preferences of our users. This information does not identify you personally.
 
-**3\. Click Path Tracking**
+### 3\. Click Path Tracking
 
 Technologies such as cookies, beacons, tags and scripts are used by Home Instead and our affiliates, our marketing, testing and quality assurance partners, and/or our analytics, information technology and web monitoring service providers. These technologies are used in analyzing trends, administering the Site, tracking users' movements around the Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
@@ -44,7 +41,7 @@ We use local storage ("LS") also referred to as HTML5 to store content informati
 
 At any given time, we may partner with one or more third party advertisers, search providers and/or ad networks to either display advertising on our Site or to manage our advertising on other sites. Each such third party advertiser, search provider and ad network partner may use cookies and web beacons to collect non-personally identifiable information about your activities on the Site and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by contacting us at 13323 California Street, Omaha, NE 68154, [dataprivacy@homeinsteadinc.com](mailto:dataprivacy@homeinsteadinc.com), or 1.888.484.5759. Please note that this does not opt you out of being served generic, non-targeted advertising. You will continue to receive generic, non-targeted ads.
 
-**4\. Use of Non-Personally Identifiable Information.**
+### 4\. Use of Non-Personally Identifiable Information.
 
 We may share non-personally identifiable information in the aggregated form with third parties who are providing research services that, in turn, will help to enhance the experiences of the Network's clients or CAREGiversSM. These third parties may publish the results of these research findings (e.g., in academic environments).
 
@@ -52,23 +49,23 @@ We may share non-personally identifiable information in the aggregated form with
 
 If you choose to register on our Site, you will be asked to provide Personal Information which may include your name, mailing address, e-mail address, and phone number. Except as otherwise provided in this Privacy Policy, we do not actively share Personal Information gathered from our web servers. When you register, we will place your name in our mailing list and will send you an e-mail to the address you have provided to confirm your registration on our Site.
 
-**1\. What we do with the Personal Information We Collect**
+### 1\. What we do with the Personal Information We Collect
 
 We collect Personal Information from you in order to learn more about how you use the Site; to measure areas of interest in our Network and the services we and/or the Network provide(s); to understand the needs of our and our Network's customers; to provide you with better service; and to help us with internal record keeping. If you register or use the "chat" feature on our Site, the information you provide through your registration, or as part of the chat feature, may be used by Home Instead, our independently owned and operated Franchisees and Master Franchisees, our affiliates and our third-party service providers or other partners for gathering business intelligence about our Network or performing data analytics and may be compiled as part of our internal database system. In addition, both we and our independently owned and operated Franchisees and Master Franchisees, affiliates, third-party service providers and other business partners may send correspondence to or contact you using the e-mail, street address and/or phone number you provide to us when registering on our Site or which you provide to us through the Site. These communications may include, but are not limited to, newsletters, promotional offers, information on new features and services that we and/or our Network provide(s), franchise opportunities, employment opportunities with us at our corporate office, Site updates, responses to your e-mails, inquiries, comments and opinions, surveys, and technical support. In certain instances you will have an opportunity to limit these uses at the time your Personal Information is collected. You also may limit the contacts you receive by following the instructions in the "Opt-Out" Section below.
 
 We and/or our Network will retain and use your information for as necessary to fulfill the purposes for which it was collected or as necessary to comply with legal obligations, resolve disputes, and enforce agreements.
 
-**2\. Sharing of Personal Information**
+### 2\. Sharing of Personal Information
 
 We will share your Personal Information with third parties only in the ways that are described in this Privacy Policy. We currently do not provide or sell any Personal Information to marketing research or bulk advertising sales companies or to any other third parties. We will share your Personal Information with our independently owned and operated Franchisees and Master Franchisees and affiliates who are bound to protect such information from disclosure or misuse. We, or our affiliates, may use your Personal Information to follow up on your interest in receiving our Network's services and/or if you express interest in potential employment with our Home Office. Our Franchisees, Master Franchisees and affiliates may use your Personal Information to follow-up on your interest in receiving Network services and/or if you express interest in potential employment by our Franchisees or Master Franchisees. We may share your Personal Information with third-party businesses who offer services that we determine may be helpful to people who are or may be interested in the Network's services or resources. As described above, you may limit this sharing by following the instructions in the "Opt-Out" Section below. We may also disclose Personal Information in special cases when we have reason to believe that disclosing this Personal Information is necessary to identify, contact or bring legal action against someone who may have breached our Terms of Use or who may be causing (whether intentionally or unintentionally) injury to or interference with our rights or property, other website users, or anyone else who could be harmed by such activities. We reserve the right to disclose your Personal Information to law-enforcement personnel and agencies when requested to do so, as required by law such as to comply with a subpoena, or if Home Instead is involved in a merger, acquisition, or sale of all or a portion of its assets.
 
 We may also provide your Personal Information to or allow access to your Personal Information by companies that provide services to help us or the Network with our/its business activities, such as offering customer service, assessing quality and customer satisfaction, enabling website features, or assisting with hiring of employees. These companies are authorized to use your Personal Information only as necessary to provide these services.
 
-**3\. Click-to-Chat Conversations**
+### 3\. Click-to-Chat Conversations
 
 Any personal information that you share during any click-to-chat conversation will be considered Personal Information that may be used and retained in accordance with this Privacy Policy. As a click-to-chat conversation may not be a secure form of communication, please do not provide any social security numbers, credit card numbers, or other sensitive information during any click-to-chat conversation in which you elect to participate.
 
-**4\. Hilarity for Charity® Respite Care Grant Applications**
+### 4\. Hilarity for Charity® Respite Care Grant Applications
 
 If you apply for a Hilarity for Charity® respite care grant via our Help for Alzheimer's Families Site, any personal information that is include in the application that your submit via the Site will be considered Personal Information that may be used and retained in accordance with this Privacy Policy. In addition, we will share this Personal Information with the Hilarity for Charity® review board for its consideration of your application and, if you are awarded a respite care grant, the Franchisee that may provide such respite care. We will also store this Personal Information for purposes of responding to any inquiries you may have about your application after it is submitted.
 
@@ -80,12 +77,14 @@ We are not responsible for the content, accuracy, or opinions expressed on any F
 
 ## Social Media
 
- **Any information, including personal information, that you choose to share in any online message board, forum, or via social medial is by design open to the public and not private.**   You should think carefully before posting any personal information via social media.  What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes.  As with any social media or public forum, the information you post may show up in third-party search engines.
+**Any information, including personal information, that you choose to share in any online message board, forum, or via social medial is by design open to the public and not private.**   You should think carefully before posting any personal information via social media.  What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes.  As with any social media or public forum, the information you post may show up in third-party search engines.
 
- **1.   Social Media Sharing**    
-Our Site includes social media sharing tools and features, such as Facebook Like, YouTube, Twitter and “share” buttons and widgets, and interactive mini-programs that run on our Site (each a “Feature” and, collectively, the “Features”). These Features may collect your IP address and which page you are visiting on our Site, and set a cookie to enable the Feature to function properly. Features and widgets are either hosted by a third party or hosted directly on our Site. 
+### 1\. Social Media Sharing
 
-**2\. Social Media Message Boards and Public Forums**  
+Our Site includes social media sharing tools and features, such as Facebook Like, YouTube, Twitter and “share” buttons and widgets, and interactive mini-programs that run on our Site (each a “Feature” and, collectively, the “Features”). These Features may collect your IP address and which page you are visiting on our Site, and set a cookie to enable the Feature to function properly. Features and widgets are either hosted by a third party or hosted directly on our Site.
+
+### 2\. Social Media Message Boards and Public Forums 
+
 Social medial message boards and public forums provide users with similar interests and concerns a place to share information and support one another, post questions, or enter into moderated online discussions.  We maintain profiles or accounts with various third-party social media providers, including, Facebook, Twitter, Instagram, LinkedIn, YouTube, and Google+ and may also provide our own message boards and forums utilizing the services of a third-party, including the Your Caregiver Guide public forum.  (each individually and collectively referred to as “Social Media Properties.”)
 
 Your interactions with these Social Media Properties and/or the Features are governed by multiple privacy policies. While our collection, use, and disclosure of information obtained through the Social Media Properties and/or the Features is governed by this Privacy Policy to the same extent as information gathered through the Site, the information third-party social media providers collect or access through your use of the Social Media Properties is governed by such third-party’s privacy policy.  We encourage you to review the social media provider’s privacy policy before interacting with a Social Media Property and/or Feature.
@@ -164,7 +163,7 @@ If you are accessing the Site as an independently owned and operated Franchisee 
 
 ## Contact Information
 
-If ​​​​​you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact:
+If you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact:
 
 **Home Instead, Inc.**  
  **13323 California Street**  
@@ -177,6 +176,8 @@ If you have any questions regarding a Home Instead Senior Care franchisee busine
 
  _Each Home Instead Senior Care franchise office is independently owned and operated._  
 
+
+​​​​​ 
 
 ## ​ **Canadian Privacy Policy**   
 (updated February 25, 2019)
@@ -198,15 +199,15 @@ We collect both Personal Information and non-personally identifiable information
 
 ## Collection of Non-Personally Identifiable Information
 
-**1\. Non-Personally Identifiable Information**
+### 1\. Non-Personally Identifiable Information
 
 Personal Information is information that is about an identifiable individual. Generally speaking, Personal Information does not include: a) anonymous or aggregated information that does not allow an individual to be identified; or b) information regarding companies and other "legal persons." Business contact information such as your name, title or position, business address, telephone number or fax number is Personal Information but under applicable privacy laws, however, your consent is not required to use this information to contact you in your employment, business or professional capacity. All information that is not Personal Information is Non-Personally Identifiable Information.
 
-**2\. General Tracking Information**
+### 2\. General Tracking Information
 
 We keep track of the pages visited by each user. Our web server automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our Site by making it more responsive to the needs and preferences of our users. This information does not identify you personally.
 
-**3\. Click Path Tracking**
+### 3\. Click Path Tracking
 
 Technologies such as cookies, beacons, tags and scripts are used by Home Instead and our affiliates, our marketing, testing and quality assurance partners, and/or our analytics, information technology and web monitoring service providers. These technologies are used in analyzing trends, administering the Site, tracking users' movements around the Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
@@ -216,7 +217,7 @@ We use local storage ("LS") also referred to as HTML5 to store content informati
 
 At any given time, we may partner with one or more third party advertisers, search providers and/or ad networks to either display advertising on our Site or to manage our advertising on other sites. Each such third party advertiser, search provider and ad network partner may use cookies and web beacons to collect non-personally identifiable information about your activities on the Site and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by contacting us at 13323 California Street, Omaha, NE 68154, [dataprivacy@homeinsteadinc.com](mailto:dataprivacy@homeinsteadinc.com), or 1.888.484.5759. Please note that this does not opt you out of being served generic, non-targeted advertising. You will continue to receive generic ads.
 
-**4\. Use of Non-Personally Identifiable Information**
+### 4\. Use of Non-Personally Identifiable Information
 
 We may share non-personally identifiable information in the aggregated form with third parties who are providing research services that, in turn, will help to enhance the experiences of the Network's clients or CAREGiversSM. These third parties may publish the results of these research findings (e.g., in academic environments).
 
@@ -224,23 +225,23 @@ We may share non-personally identifiable information in the aggregated form with
 
 If you choose to register on our Site, you will be asked to provide Personal Information which may include your name, mailing address, e-mail address, and phone number. Except as otherwise provided in this Privacy Policy, we do not share Personal Information gathered from our web servers. When you register, we will place your name in our mailing list and will send you an e-mail to the address you have provided to confirm your registration on our Site.
 
-**1\. What we do with the Personal Information We Collect**
+### 1\. What we do with the Personal Information We Collect
 
 We collect Personal Information from you in order to learn more about how you use the Site; to measure areas of interest in our Network and the services we and/or the Network provide(s); to understand the needs of our and our Network's customers; and to provide you with better service. If you register or use the "chat" feature on our Site, the information you provide through registration or as part of the chat feature may be used by Home Instead, our Franchisees and Master Franchisees, our affiliates and our third-party service providers or other partners for gathering business intelligence about our Network or performing data analytics and may be compiled as part of our internal database system. In addition, we (including our Franchisees, Master Franchisees, affiliates, third-party service providers and other business partners) may send correspondence to or contact you using the e-mail, street address and/or phone number you provide to us when registering on our Site or using the chat feature on our Site. We may contact you to provide newsletters, promotional offers, information on new features and services that we and/or our Network provide(s), franchise opportunities, employment opportunities with us at our corporate office, Site updates, responses to your e-mails, inquiries, comments and opinions, surveys, and technical support. For any electronic marketing messages that we may send to you, we will, at the time of collecting your electronic address, seek your express, opt-in consent to send you these messages. You will always have the right to opt out of receiving electronic marketing messages from us. Please see our Opt-Out section below.
 
 We and/or our Network will retain and use your information for as long as necessary to fulfil the purposes for which it was collected, or as permitted or required by law. 
 
-**2\. Sharing of Personal Information**
+### 2\. Sharing of Personal Information
 
 We will share your Personal Information with third parties only in the ways that are described in this Privacy Policy. We currently do not provide or sell any Personal Information to marketing research or bulk advertising sales companies or to any other third parties. We will share your Personal Information with our Franchisees, Master Franchisees and affiliates who are bound to protect such information from disclosure or misuse. Our Franchisees, Master Franchisees and affiliates may use your Personal Information to follow-up on your interest in receiving Network services and/or if you express interest in potential employment by our Franchisees or Master Franchisees. We may also provide your information to our affiliates who may use your Personal Information to follow-up if you express interest in potential employment with our Home Office. We may also share your Personal Information with third-party businesses who offer services that may be helpful to people who are or may be interested in the Network's services or resources. As described above, you may limit this sharing by following the instructions in the "Opt-Out" Section below. We may also disclose Personal Information in special cases when we have reason to believe that disclosing this Personal Information is necessary to identify, contact or bring legal action against someone who may have breached our Terms of Use or who may be causing (whether intentionally or unintentionally) injury to or interference with our rights or property, other website users, or anyone else who could be harmed by such activities. We reserve the right to disclose your Personal Information to law-enforcement personnel and agencies when requested to do so, as required by law such as to comply with a subpoena, or if Home Instead is involved in a merger, acquisition, or sale of all or a portion of its assets.
 
 We may also provide your Personal Information to companies that provide services to help us or the Network with our/its business activities, such as offering customer service. These companies are authorized to use your Personal Information only as necessary to provide these services. Some of these service providers are located outside of Canada and your Personal Information may be stored and/or processed outside of Canada. If you would like more information about our policies concerning our use of service providers outside of Canada, please contact our Privacy Officer at the address listed under "Contact Information" below.
 
-**3\. Maintenance of Personal Information**
+### 3\. Maintenance of Personal Information
 
 We will update Personal Information as and when necessary to fulfill the purposes for which the information was collected or upon notification from you. Home Instead will not routinely update Personal Information, unless such process is necessary to fulfill the purposes for which the information was collected. If ever your contact and/or other Personal Information changes, please feel free to contact us so that we can update our records.
 
-**4\. Hilarity for Charity® Respite Care Grant Applications**
+### 4\. Hilarity for Charity® Respite Care Grant Applications
 
 If you apply for a Hilarity for Charity respite care grant via our Help for Alzheimer's Families Site, any personal information that is included in the application that you submit via the Site will be considered Personal Information that may be used and retained in accordance with this Privacy Policy. In addition, we will share this Personal Information with the Hilarity for Charity review board for its consideration of your application and, if you are awarded a respite care grant, the Franchisee that may provide such respite care. We will also store this Personal Information for purposes of responding to any inquiries you may have about your application after it is submitted.
 
@@ -340,8 +341,5 @@ If ​​​​​you have any questions about this Privacy Policy, the practice
 
 If you have any questions regarding a Home Instead Senior Care franchisee business’ privacy practices or wish to opt-out of its communications, please contact the franchise office directly.
 
-Find Home Care Near You
+  
 
-To discuss your needs and pricing options, contact your local Home Instead office:
-
-Enter Zip/Postal Code or City & State
