@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618163950id_/https%3A//www.thenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217195901id_/https%3A//www.thenation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Nation
 
@@ -6,7 +6,7 @@ By using this website, you consent to our use of cookies. For more information, 
 
 ## Information About Us
 
-www.thenation.com is a site operated by The Nation Company, LLC. The Nation Company, LLC is a company registered in New York, NY. We are located at 520 Eighth Avenue, New York, NY 10018. 
+www.thenation.com is a site operated by The Nation Company, LLC. The Nation Company, LLC is a company registered in New York, NY. We are located at 520 Eighth Avenue, New York, NY 10018.
 
 We are committed to maintaining the privacy of your personal information. The following policy explains our information collection practices, privacy policies and the choices available to you with regard to how your information is collected and utilized.
 
@@ -18,18 +18,19 @@ Our nominated person for data protection is Josh Leeman and their contact detail
 
 ## The Information We Collect and How We Collect It
 
-  * Personal information you provide to us, including, but not limited to, your name, age, address, e-mail address, credit card number and facts about your background, profession, and similar information.
+  * Personal information that you provide to us, including, but not limited to, your name, age, address, e-mail address, phone number, credit card number, scanned copies of checks and facts about your background, profession, veteran status, political affiliation, gender, and similar information.
   * Information regarding your interaction with our Sites, including, but not limited to, your IP address, device type, geographic location information, computer and connection information, statistics on page views, traffic to and from our Sites, and web log information.
   * Information you provide to us through community discussions, member information pages, e-mails, chats, dispute resolution, or information you share with us through other social applications or websites.
+  * Commercial information, including purchasing habits, marital status. and records of personal property.
   * Like most commercial website owners, we collect information using “cookies,” which are small data elements that we place in your computer or device to store your preferences. Cookies help us to deliver advertisements, identify unique browsers that visit us and track usage throughout our Sites. Cookies do not extract personal data about you, like your name or e-mail address. You may block the installation of our cookies by changing the setting on your browser. However, if your browser does not accept cookies, certain areas of the website may not function properly. Some of our third-party merchants and advertisers also use cookies to obtain information about your visits to our Sites, such as the number of times you have viewed an ad (but not your name, address or other personal information), and use this information to serve ads to you on our Sites. Because we do not control the privacy policies of third-party merchants, advertisers or any other sites to which we may provide hyperlinks, you should check the privacy policy of the site you are visiting to learn about that site’s practices regarding the use of your information and how to opt out of the use of these cookies.
 
 
 
 ## Why We Collect this Information
 
-We collect this information for the purposes set out in the section How We Use the Information We Collect. The lawful basis for which we process your information is: 
+We collect this information for the purposes set out in the section How We Use the Information We Collect. The lawful basis for which we process your information is:
 
-  * your consent; 
+  * your consent;
   * processing is necessary for the performance of a contract to which you are a party. If you fail to provide this information we may be unable to perform the contract; and
   * processing is necessary for the purpose of the legitimate interest pursued by us or a third party, except where your rights as a data subject override our legitimate interest or the legitimate interest of that third party.
 
@@ -67,7 +68,7 @@ Although we take measures to safeguard against unauthorized disclosures of infor
 
 _E-mail Addresses:_ Except as may be required by law, or to comply with a judicial proceeding, court order or legal process, we will not share your e-mail address with third parties, although we reserve the right to present you with advertisements on their behalf.
 
-_Subscription Lists:_ In accordance with standard industry practice, we may rent, exchange or sell to third parties mailing address information you provide us when ordering a subscription to our print publication, _The Nation_. If you based in the USA, we adhere strictly to the Direct Marketing Association’s Ethical Business Practices. For information about these practices, visit the Direct Marketing Association’s site at [www.dmaresponsibility.org](http://www.dmaresponsibility.org/). If you are based in the EU, we adhere to the following procedures whenever we buy marketing lists: 
+_Subscription Lists:_ In accordance with standard industry practice, we may rent, exchange or sell to third parties mailing address information you provide us when ordering a subscription to our print publication, _The Nation_. If you based in the USA, we adhere strictly to the Direct Marketing Association’s Ethical Business Practices. For information about these practices, visit the Direct Marketing Association’s site at [www.dmaresponsibility.org](http://www.dmaresponsibility.org/). If you are based in the EU, we adhere to the following procedures whenever we buy marketing lists:
 
   * we do not use bought-in lists for texts or emails unless we have proof of opt-in consent within the last six months that specifically named us;
   * the products or services we are marketing are the same or similar to those that you originally consented to receiving marketing for;
@@ -77,11 +78,11 @@ _Subscription Lists:_ In accordance with standard industry practice, we may rent
 
 
 
-We will not sell a marketing list to a third party unless we can verify that the people on the list: 
+We will not sell a marketing list to a third party unless we can verify that the people on the list:
 
   * gave specific consent to receive marketing from the third party;
   * were provided with readily accessible, clear and intelligible information about how their contact details would be used;
-  * were offered a clear and genuine choice whether or not to have their details used for marketing purposes; 
+  * were offered a clear and genuine choice whether or not to have their details used for marketing purposes;
   * took positive action to indicate their consent;
   * gave their consent reasonably recently (within six months of selling the list);
   * in the case of texts or emails, gave specific consent to receive marketing by those means.
@@ -93,6 +94,8 @@ _Agents:_ We employ other companies and individuals to perform functions on our 
 _Third-Party Providers:_ We also make some content, products and services available through cooperative relationships with third parties. For example, from time to time we may collect personally identifiable information from customers on behalf of third parties affiliated with political or other advocacy groups. We may share with third parties any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with such third parties. In some cases, a third party may collect information from you directly, in which cases the privacy policy of such third party may apply to its use of your information. The privacy policy of third parties may differ from ours. If you have any questions regarding the privacy policy of a third party, you should contact the third party directly for more information.
 
 _Major Business Transactions:_ In the event of a major business transaction, our customer information may be one of the transferred business assets.
+
+_How to Opt-Out:_ For all subscribers, including Nevada residents: if you would like to opt-out of any data exchange, rental, or sale, you may do so by contacting us via email at: Subscriber_Service@thenation-magazine.com or by clicking [here](https://www.thenation.com/contact-us/). You may also call: 800-350-6944 and ask to speak to an operator.
 
 ## Other Information
 
@@ -110,7 +113,7 @@ Our Sites are intended for adults and are not intended for children under the ag
 
 California law provides that we are required to disclose to our California customers, upon request, the identity of any third parties to whom we have disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties’ direct marketing purposes.
 
-If you are a California resident and would like to make such a request, please submit your request in writing to: Erin O’Mara, _The Nation_ , 520 Eighth Avenue, New York, NY 10018.
+If you are a California resident and would like to make such a request, please submit your request in writing to: Erin O’Mara, _The Nation_ , 520 Eighth Avenue, New York, NY 10018.You may also call: 800-350-6944 and ask to speak to an operator.
 
 ## Do-Not-Track Signals and Similar Mechanisms
 
@@ -132,6 +135,7 @@ In order to, among other things, better understand how visitors interact with th
   * Google Display Network Impression Reporting
   * DoubleClick Platform Integrations
   * Google Analytics Demographics and Interest Reporting
+  * Users may learn more about data privacy and security safeguards associated with these services, including available means of opting-out of such services, [here](https://adssettings.google.com/authenticated).
 
 
 
@@ -159,7 +163,7 @@ You may ask us, or we may ask you, to rectify information you or we think is ina
 
 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided us with changes, for example if you change your email address, name, payment details, or if you wish to cancel your registration, please let us know using the contact details at the end of this policy.
 
-You have a right to obtain your personal data from us and reuse it for your own purposes, perhaps for another service, without hindering the usability of the data (‘right of portability’). This right does not apply where processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in us. 
+You have a right to obtain your personal data from us and reuse it for your own purposes, perhaps for another service, without hindering the usability of the data (‘right of portability’). This right does not apply where processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in us.
 
 You have a right to seek the erasure of your data (often referred to as the ‘right to be forgotten’). You may wish to exercise this right for any reason, for example where it is no longer necessary for us to continue holding or processing your personal data you may withdraw your consent. You should note that we are entitled to and reserve the right to retain your data for statistical purposes. This right is not absolute, as we may need to continue processing this information, for example, to comply with our legal obligations, or for reasons of public interest.
 
@@ -183,4 +187,4 @@ You have a right to report any of your concerns about our use of your data to th
 
 If you have any questions about this privacy policy or about our treatment of your personal information, [click here](https://www.thenation.com/contact-us/) or contact us by mail at the following address: Erin O’Mara, _The Nation_ , 520 Eighth Avenue, New York, NY 10018.
 
-Last updated in May 2018.
+Last updated in September 2019.
