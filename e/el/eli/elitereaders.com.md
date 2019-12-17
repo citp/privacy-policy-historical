@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitereaders.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630101358id_/https%3A//www.elitereaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitereaders.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218004450id_/https%3A//www.elitereaders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
