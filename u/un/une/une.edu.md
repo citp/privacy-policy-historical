@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the une.edu privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424093211id_/https%3A//www.une.edu/communications/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the une.edu privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217031041id_/https%3A//www.une.edu/communications/privacy-policy) for the most accurate reproduction.*
 
 # University of New England Privacy Notice | Office of Communications | University of New England in Maine, Tangier and Online
 
