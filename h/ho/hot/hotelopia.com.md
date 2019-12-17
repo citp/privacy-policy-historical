@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609090951id_/https%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217102010id_/https%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Hotelopia Privacy Policy
 
-## 1\. Privacy Policy
-
-At Hotelbeds Group, we are concerned about your privacy. This policy describes what, why and how we collect and use your personal data, how we protect it and how you can get in touch with us. 
+At Hotelbeds, we are concerned about your privacy. This policy describes what, why and how we collect and use your personal data, how we protect it and how you can get in touch with us. 
 
 More to the point, this policy regulates the processing of data carried out by HOTELOPIA, S.L.U., a legally constituted Spanish company registered in Palma de Mallorca, Complex Mirall Balear, Camí de Son Fangos, 100; Torre A, 5na planta, C.P. 07007, which operates as a wholesale-retail travel agency, with tax identification number (C.I.F.) B-57218356, under license BAL-481 M/D, inscribed in the Commercial Registry office of Palma de Mallorca (page PM-44857, volume 2007, folio 148) (hereinafter “ **HOTELOPIA** ”), as a controller of your data and a company of Hotelbeds Group, through this website (hereinafter, the “ **Website** ”). 
 
-### What are the purposes and lawful basis of the processing of your data carried out by HOTELOPIA?
+## 1\. What are the purposes and lawful basis of the processing of your data carried out by HOTELOPIA?
 
 The data that HOTELOPIA requests or may request from you is necessary for the purposes described in this policy and failure to provide it may lead HOTELOPIA to be unable to contact you or manage your requests. 
 
@@ -97,9 +95,5 @@ Back to top
 If you have questions or comments in relation to data protection matters, you may contact our Data Protection Officer, which contact details are as follows: Dataprotection@hotelbeds.com. 
 
 Last update: 21-05-2018 
-
-Back to top
-
-## 7\. 
 
 Back to top
