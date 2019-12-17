@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmg.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615093939id_/http%3A//www.wmg.com/privacy/wmg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmg.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217023334id_/https%3A//www.wmg.com/privacy/wmg) for the most accurate reproduction.*
 
 # Privacy Policy | Warner Music Group
 
