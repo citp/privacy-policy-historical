@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6dollarshirts.com privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712221956id_/https%3A//6dollarshirts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6dollarshirts.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217163507id_/https%3A//6dollarshirts.com/privacy) for the most accurate reproduction.*
 
 # 6 Dollar Shirts Privacy Policy | 6 Dollar Shirts
 
@@ -15,7 +15,7 @@ WHAT THE DATA WILL BE USED FOR?
 This data will enable us to print your order, fulfill your order, to notify you of changes and for statistical or survey purposes to improve our services and this website, and in the detection and prevention of fraud on our website. We may also send you information about products and services and details of promotions and special offers from 6 Dollar Shirts. If you do not wish to be contacted for these purposes, we offer a range of ways in which you can inform us about your marketing preferences:
 
   * All email messages and email newsletters will contain information on how you can unsubscribe; or
-  * Send an email to our customer services division on [[email protected]](http://6dollarshirts.com/cdn-cgi/l/email-protection) writing "unsubscribe" in the subject heading. 6 Dollar Shirts complies with the standards, procedures and requirements laid down in the Data Protection Act 1998 to ensure that the personal information you give us is kept secure and processed lawfully.  
+  * Send an email to our customer services division on [[email protected]](https://6dollarshirts.com/cdn-cgi/l/email-protection) writing "unsubscribe" in the subject heading. 6 Dollar Shirts complies with the standards, procedures and requirements laid down in the Data Protection Act 1998 to ensure that the personal information you give us is kept secure and processed lawfully.  
 
 
 
