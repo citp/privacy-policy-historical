@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledger.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331192622id_/https%3A//www.ledger.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledger.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217032925id_/https%3A//shop.ledger.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, privacy & terms | Ledger
 
