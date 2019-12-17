@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivisa.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195733id_/https%3A//www.ivisa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivisa.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217110550id_/https%3A//www.ivisa.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Terms in iVisa
 
@@ -25,7 +25,7 @@
 
 #### Our Policy
 
-Welcome to the website (the “Site”) of Ivisa.com by Document Advisor LLC (“Company”, “we”, “us” and/or “our”). This Site is operated by Company and has been created to provide information about our company and to provide help, guidance and the option to process online travel visas for any country (the “Company Services”) to our Site visitors (“you”, “your”). This Privacy Policy sets forth the Company’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors.
+Welcome to the website (the “Site”) of Ivisa.com by Document Advisor LLC (“Company”, “we”, “us” and/or “our”). This Site is operated by iVisa and has been created to provide information about our company, and to provide help, guidance, and the option to process online travel visas for any country (the “Company Services”) to our Site visitors (“you”, “your”). This Privacy Policy sets forth the Company’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors.
 
 #### Information We Collect:
 
@@ -43,14 +43,14 @@ When you interact with us through the Site, we may collect Personal Data and oth
 
   * Cookies: In operating this Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features. 
 
-  * Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Company Services, Company often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Company may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Company may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+  * Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Company Services, Company often conducts research on its customer demographics, interests, and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Company may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Company may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
 
 
 
 #### Our Use of Your Personal Data and Other Information:
 
-Company uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Company Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Company and its subsidiaries and affiliates (the “Company Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Company Services. Company and its affiliates may use this information to understand personal travel patterns and contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+Company uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Company Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Company and its subsidiaries and affiliates (the “Company Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Company Services. Company and its affiliates may use this information to understand personal travel patterns and contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
 If Company intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
@@ -62,7 +62,7 @@ Company is not in the business of selling your information. We consider this inf
 
   * _Related Companies:_ We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-  * _Agents, Consultants and Related Third Parties:_ Company, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information (Fedex or UPS), using visa agents to visit embassies, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+  * _Agents, Consultants and Related Third Parties:_ Company, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information (FedEx or UPS), using visa agents to visit embassies, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
   * _Legal Requirements:_ Company may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Company, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
 
@@ -77,7 +77,7 @@ You can use the Site without providing any Personal Data. If you choose not to p
 
 #### Online Advertising We Use:
 
-We use Google AdWords and Google Adwords Remarketing to advertise our Company across the Internet. AdWords remarketing will display relevant ads tailored to you based on what parts of the Ivisa.com website you have viewed by placing a cookie on your machine. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER. The cookie is used to say "This person visited this page, so show them ads relating to that page." Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
+We use Google AdWords and Google Adwords Remarketing to advertise our Company across the Internet. AdWords Remarketing will display relevant ads tailored to you based on what parts of the Ivisa.com website you have viewed by placing a cookie on your machine. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER. The cookie is used to say "This person visited this page, so show them ads relating to that page." Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
 
 How to Opt Out of Remarketing and Advertising If you do not wish to participate in our Google AdWords Remarketing, you can opt out by visiting Google's Ads Preferences Manager You can also opt out of any third-party vendor's use of cookies by visiting www.networkadvertising.org/choices/
 
@@ -99,7 +99,7 @@ Through the Site, you can choose to access certain social media websites and ser
 
 #### Security:
 
-Company takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to Company via the Internet. Company provides a 24x7 phone line if you prefer to share sensitive data via phone.
+Company takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Company via the Internet. Company provides a 24/7 phone line if you prefer to share sensitive data via phone.
 
 #### Other Terms and Conditions:
 
