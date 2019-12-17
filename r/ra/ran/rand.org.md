@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624034906id_/https%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217141634id_/https%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | RAND
+
+  * Skip to page content
+
+
+
+  1. [RAND](https://web.archive.org/)
+  2. [About This Site](https://web.archive.org/site_info.html)
+  3. [>Privacy Policy](https://web.archive.org/site_info/privacy.html)
+
+
 
 _Effective July 13, 2004; last revised date August 6, 2018_
 
