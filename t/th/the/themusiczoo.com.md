@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the themusiczoo.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423125305id_/https%3A//www.themusiczoo.com/9160836/policies/11172163.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusiczoo.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217034816id_/https%3A//www.themusiczoo.com/9160836/policies/11172163.html) for the most accurate reproduction.*
 
 # Privacy policy
+
+[Return to Homepage](https://web.archive.org/)
 
 Thank you for visiting our site. This privacy policy tells you how we use personal information collected at www.themusiczoo.com. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
@@ -43,4 +45,8 @@ This Privacy Policy provides you with all information necessary (in an easily ac
 
 Privacy Contact Information If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: sales@themusiczoo.com By Phone: 516-626-9292 We reserve the right to make changes to this policy. Any changes to this policy will be posted here. 
+By e-mail: sales@themusiczoo.com By Phone: 516-626-9292 We reserve the right to make changes to this policy. Any changes to this policy will be posted here.
+
+[Return to Homepage](https://web.archive.org/)
+
+Opens external website in a new window.  Opens in a new window.  Opens external website.  Customer information - The Music Zoo - Checkout 
