@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictinginfo.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231520id_/http%3A//addictinginfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinginfo.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217103938id_/http%3A//addictinginfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Addicting Info | The Knowledge You Crave
 
