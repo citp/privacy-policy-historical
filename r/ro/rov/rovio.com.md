@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the rovio.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630084011id_/http%3A//www.rovio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rovio.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217031040id_/https%3A//www.rovio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Rovio.com
 
-English | [Deutsch](http://www.rovio.com/privacy-gr) | [Español](http://www.rovio.com/privacy-sp) | [Português](http://www.rovio.com/privacy-pr) | [Français](http://www.rovio.com/privacy-fr) | [Italiano](http://www.rovio.com/privacy-it)  
-[Русский](http://www.rovio.com/privacy-rs) | [Türk](http://www.rovio.com/privacy-tur) | [日本語](http://www.rovio.com/privacy-jp) | [한국어](http://www.rovio.com/privacy-kr) | [简体中文](http://www.rovio.com/privacy-zho-cn) | [繁體中文](http://www.rovio.com/privacy-zho-tw)
+English | [Deutsch](https://www.rovio.com/privacy-gr) | [Español](https://www.rovio.com/privacy-sp) | [Português](https://www.rovio.com/privacy-pr) | [Français](https://www.rovio.com/privacy-fr) | [Italiano](https://www.rovio.com/privacy-it)  
+[Русский](https://www.rovio.com/privacy-rs) | [Türk](https://www.rovio.com/privacy-tur) | [日本語](https://www.rovio.com/privacy-jp) | [한국어](https://www.rovio.com/privacy-kr) | [简体中文](https://www.rovio.com/privacy-zho-cn) | [繁體中文](https://www.rovio.com/privacy-zho-tw)
 
 ## Last updated: May 16, 2018
 
-This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. The Services are also governed by the [Terms of Service](http://www.rovio.com/terms-of-service).
+This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. The Services are also governed by the [Terms of Service](https://www.rovio.com/terms-of-service).
 
 We are Rovio Entertainment Corporation, maker of Angry Birds, Bad Piggies, Battle Bay and many more. For details about how to contact us, see the "How To Contact Us" section below.
 
@@ -184,7 +184,7 @@ If you have questions about, or require, further information concerning the lega
 
 We may share your personal information with the following types of recipients:
 
-(a) With companies in our business group, **third-party service providers and partners** who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help enhance the security of our Services), or parties that otherwise process personal information for the purposes described in this Privacy Notice or communicated to you when we collect your personal information. A list of current companies in our business group is available [here](http://www.rovio.com/third-party-data-controllers-and-processors), and a list of our current service providers and partners is available [here](http://www.rovio.com/third-party-data-controllers-and-processors).
+(a) With companies in our business group, **third-party service providers and partners** who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help enhance the security of our Services), or parties that otherwise process personal information for the purposes described in this Privacy Notice or communicated to you when we collect your personal information. A list of current companies in our business group is available [here](https://www.rovio.com/third-party-data-controllers-and-processors), and a list of our current service providers and partners is available [here](https://www.rovio.com/third-party-data-controllers-and-processors).
 
 (b) With any **competent law enforcement body, regulatory authority, government agency, court of law or other third party** where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person
 
@@ -251,4 +251,4 @@ To do so,
 
 This is our preferred contact method, as we can more accurately validate a request received directly from a device and application.
 
-Please note that other third parties (our data partners) may be data controllers of your information. More information regarding the third parties we work can be found in the [Third party data controllers and processors](http://www.rovio.com/third-party-data-controllers-and-processors).
+Please note that other third parties (our data partners) may be data controllers of your information. More information regarding the third parties we work can be found in the [Third party data controllers and processors](https://www.rovio.com/third-party-data-controllers-and-processors).
