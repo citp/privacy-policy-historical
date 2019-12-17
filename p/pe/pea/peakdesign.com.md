@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakdesign.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407090727id_/https%3A//www.peakdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakdesign.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217195303id_/https%3A//www.peakdesign.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Peak Design Official Site
 
@@ -24,11 +24,11 @@ We use Google Analytics to track the volume and type of traffic that comes to ou
 
 ## DIGITAL MARKETING & RETARGETING
 
-We use a few different digital marketing services to create and display online ads for our products. As you browse peakdesign.com, these services use cookies to remember what products you viewed and clicked on. Our advertising partners then enable us us to present you with advertising based on your previous interaction with peakdesign.com. You might see Peak Design ads on other websites, on Facebook and Instagram, or while watching videos on Youtube or other platforms. This practice is called “retargeting.” We don’t collect any personally identifiable information about you (like name or email) until you make a purchase. We also don’t directly retain your digital marketing information—instead, that data is retained by our third party marketing services. You can opt out of having your data retained by these services [here](https://goo.gl/forms/iEO75utYQGHsRTP03) (make sure you check the “forget me” box).
+We use a few different digital marketing services to create and display online ads for our products. As you browse peakdesign.com, these services use cookies to remember what products you viewed and clicked on. Our advertising partners then enable us us to present you with advertising based on your previous interaction with peakdesign.com. You might see Peak Design ads on other websites, on Facebook and Instagram, or while watching videos on Youtube or other platforms. This practice is called “retargeting.” We don’t collect any personally identifiable information about you (like name or email) until you make a purchase. We also don’t directly retain your digital marketing information—instead, that data is retained by our third party marketing services. You can opt out of having your data retained by these services [here](https://peakdesign.typeform.com/to/KO8hVm).
 
 ## CART ABANDONMENT EMAILS
 
-We work with a third party cart abandonment marketing service. After you've added products to your cart and started the checkout process, we allow that service to collect some of the information that you type into those checkout fields. They collect and retain your email address and what was in your cart. They do not collect any of your payment information. The information collected is used to send an automated email if you do not complete the checkout process. This email contains a link for you to contact us in case there is anything we can help you with. You can opt out of having your data collected and retained by our cart abandonment service [here](https://goo.gl/forms/iEO75utYQGHsRTP03) (make sure you check the “forget me” box).
+We work with a third party cart abandonment marketing service. After you've added products to your cart and started the checkout process, we allow that service to collect some of the information that you type into those checkout fields. They collect and retain your email address and what was in your cart. They do not collect any of your payment information. The information collected is used to send an automated email if you do not complete the checkout process. This email contains a link for you to contact us in case there is anything we can help you with. You can opt out of having your data collected and retained by our cart abandonment service [here](https://peakdesign.typeform.com/to/KO8hVm).
 
 ## CUSTOMER SUPPORT
 
@@ -40,7 +40,7 @@ If you sign up or opt in to the [Peak Design Newsletter](http://eepurl.com/pq-oL
 
 ## WEBSITE A/B TESTING
 
-We’re always trying to make our website a better experience for customers. To do this, we use third party tools to run A/B tests. During an A/B test, we split our website visitors into 2 groups and show each group a different page design. We then analytical tools to determine which group of customers was best able to accomplish their goals on our site. The winning page design is then implemented for 100% of website visitors. Our A/B testing and analytical tools do not collect or retain personally identifiable information. Instead, they collect and retain pages you visit on our website, things you click on, mouse movements, and how far down you scroll. You can opt out of having your data collected and retained by these services [here](https://goo.gl/forms/iEO75utYQGHsRTP03) (make sure you check the “forget me” box).
+We’re always trying to make our website a better experience for customers. To do this, we use third party tools to run A/B tests. During an A/B test, we split our website visitors into 2 groups and show each group a different page design. We then analytical tools to determine which group of customers was best able to accomplish their goals on our site. The winning page design is then implemented for 100% of website visitors. Our A/B testing and analytical tools do not collect or retain personally identifiable information. Instead, they collect and retain pages you visit on our website, things you click on, mouse movements, and how far down you scroll. You can opt out of having your data collected and retained by these services [here](https://peakdesign.typeform.com/to/KO8hVm).
 
 ## How does Google Analytics work?
 
@@ -83,3 +83,6 @@ This policy was last modified on 5/24/2018
 ## CONTACTING US
 
 If there are any questions regarding this privacy policy you may contact us at security@peakdesign.com.
+
+  
+
