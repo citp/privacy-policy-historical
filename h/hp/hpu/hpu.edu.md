@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpu.edu privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528191937id_/https%3A//www.hpu.edu/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpu.edu privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218004557id_/https%3A//www.hpu.edu/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE.   This Privacy Policy covers the HPU.edu website and all other ‘mini-sites’ within the HPU.edu website (collectively the “Website”), unless otherwise indicated on a specific website.**
 
-The contents of this Website are owned and operated by Hawai‘i Pacific University (HPU), whose business address is 1164 Bishop Street Honolulu, HI 96813. You may contact us by email at [help@hpu.edu](mailto:help@hpu.edu).  HPU is very concerned about the protection of online privacy for all our Website visitors and especially children. HPU’s policy is to respect and protect the privacy of our users. This statement tells you if and how we collect personally-identifying information from you and how we use it. Using the Internet should be a fun and safe experience and we want to help you make it so.
+The contents of this Website are owned and operated by Hawai‘i Pacific University (HPU), whose business address is 1 Aloha Tower Drive, HI 96813. You may contact us by email at [help@hpu.edu](mailto:help@hpu.edu).  HPU is very concerned about the protection of online privacy for all our Website visitors and especially children. HPU’s policy is to respect and protect the privacy of our users. This statement tells you if and how we collect personally-identifying information from you and how we use it. Using the Internet should be a fun and safe experience and we want to help you make it so.
 
 ### **WHAT INFORMATION IS COLLECTED**
 
