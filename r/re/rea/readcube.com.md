@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readcube.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606215739id_/http%3A//readcube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readcube.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217105620id_/http%3A//readcube.com/privacy) for the most accurate reproduction.*
 
 # ReadCube's Privacy Policy
 
