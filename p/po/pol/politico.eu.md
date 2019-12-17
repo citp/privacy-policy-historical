@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politico.eu privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630185410id_/https%3A//www.politico.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politico.eu privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217032316id_/https%3A//www.politico.eu/privacy-policy) for the most accurate reproduction.*
 
 # POLITICO Privacy Policy – POLITICO
 
@@ -150,7 +150,7 @@ Belgian business registry (BCE) number: BE 0526 900 436
 
   * identifying data, such as the first name and surname, e-mail address and company delivery address, country;
   * invoicing information;
-  * communications between the User and POLITICO];
+  * communications between the User and POLITICO;
   * The User also authorizes POLITICO to record and store the following data for the purposes mentioned in point 4:
   * information voluntarily provided by the User for a purpose specified in the Policy, the general terms and conditions of sale (hereinafter the “ **GTC** “), the Terms, the Cookie Policy, on the Website or on any other medium of communication used by POLITICO;
   * additional information requested by POLITICO to the User in order to identify him or to prevent him from violating any of the provisions of the Policy;
