@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentwatchblog.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630045541id_/https%3A//www.investmentwatchblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentwatchblog.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217183114id_/https%3A//www.investmentwatchblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Investment Watch
 
@@ -55,7 +55,7 @@ The Site contains links to other websites. We are not responsible for the privac
 4\. PRIVACY POLICIES AND DATA COLLECTION AT THIRD PARTY SITES  
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other third-party companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of their cookies or other tracking technologies, which may include delivering targeted advertisements and marketing messages based upon the third party websites that you visit, or other purposes. We cannot control this collection of information and are not responsible for the privacy policies and data collection, use and disclosure practices of these third party advertisers. You should contact these third party advertisers directly if you have any questions about their use of the information that they collect from you. Google/DoubleClick DFP is our third party ad server. If you would like to know more about their information gathering practices and “opt-out” procedures, please see [](https://www.google.com/policies/technologies/ads/)[www.google.com/](https://www.google.com/)policies/technologies/ads/
 
-Also, if you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [](https://www.networkadvertising.org/consumer/opt_out.asp)[www](http://www/).[networkadvertising.org/](https://networkadvertising.org/)consumer/opt_out.asp
+Also, if you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [](https://www.networkadvertising.org/consumer/opt_out.asp)[www](http://www/).networkadvertising.org/consumer/opt_out.asp
 
 5\. CHILDREN UNDER THE AGE OF 13  
 In compliance with Children’s Online Privacy Protection Act (“COPPA”), this Site is not directed at children under the age of 13 and we do not intend to collect any personal identifiable information, such as name, home address, e-mail address, telephone number, or social security number, from children under the age of 13. If you are under the age of 13, please do not provide us with your personal identifiable information. If you have any reason to believe that a child under the age of 13 has provided us with his or her personal identifiable information, please contact us immediately for removal of that information from our databases.
@@ -71,4 +71,4 @@ We reserve the right, at any time and without notice, to add to, change, update,
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter or email to:
 
-[admin@investmentwatchblog.com](mailto:admin@investmentwatchblog.com)
+admin@investmentwatchblog.com
