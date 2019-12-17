@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616143057id_/https%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217185620id_/https%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Designing Digitally, Inc.
 
 Privacy Policy - Designing Digitally, Inc.
-
-Custom eLearning, Serious Games, Training Simulations & Mobile Learning Development
 
 Privacy Policy
 
@@ -16,6 +14,8 @@ Designing Digitally, Inc. is committed to ensuring that your privacy is protecte
 
 Designing Digitally, Inc. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 05-25-2018.
 
+### What we collect at Designing Digitally, Inc.
+
 We may collect the following information:
 
   * Name and company/business name
@@ -26,6 +26,8 @@ We may collect the following information:
 
 
 Providing personal information is not mandatory to use our site; however, it is mandatory if you choose to contact us through our forms.
+
+### What we do with the information we gather
 
 We require this information to understand your needs and to provide you with better service, and in particular for the following reasons:
 
@@ -46,7 +48,11 @@ We retain your personal information in the United States for as long as is neces
 
 We do not use personal information to make automated decisions.
 
+### Security
+
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in-place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For more information, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
@@ -69,7 +75,11 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+### Links to other websites
+
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
 
 For the purposes of applicable EU data protection law (including the General Data Protection Regulation 2016/679 (the " **GDPR** "), we are a ‘data controller’ of your personal information.
 
