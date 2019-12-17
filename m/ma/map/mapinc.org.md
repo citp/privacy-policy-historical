@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapinc.org privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429135717id_/http%3A//www.drugsense.org/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapinc.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217185658id_/http%3A//www.drugsense.org/cms/privacy) for the most accurate reproduction.*
 
 # DrugSense/Media Awareness Project Inc. Privacy Policy | DrugSense
 
