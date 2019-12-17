@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the thegrovela.com privacy policy that was archived on 2019-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190416101519id_/https%3A//thegrovela.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegrovela.com privacy policy that was archived on 2019-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191217191533id_/https%3A//thegrovela.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N2JLD48"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"e993bce76a",applicationID:"298155213"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Privacy Policy • The Grove LA</title>
 
@@ -17,33 +17,35 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="THEGROVELA.COM Effective Date: May 25, 2018 INTRODUCTION TheGroveLA.com (“Company” or “We”) respects your privacy and is committed to protecting it through our compliance with this...">
 <meta name="twitter:title" content="Privacy Policy • The Grove LA">
-<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N2JLD48"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/thegrovela.com\/","sameAs":[],"@id":"https:\/\/thegrovela.com\/#organization","name":"The Grove LA","logo":"https:\/\/thegrovela.com\/wp-content\/uploads\/2017\/05\/grove-la-logo.svg"}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/thegrovela.com\/","sameAs":[],"@id":"https:\/\/thegrovela.com\/#organization","name":"The Grove LA","logo":"http:\/\/live-grove-la.pantheonsite.io\/wp-content\/uploads\/2017\/05\/grove-la-logo.svg"}</script>
 <!-- / Yoast SEO Premium plugin. -->
 
+<link rel="dns-prefetch" href="//thegrovela.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="caruso-retail-css" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/css/main.min.css?ver=2ee8fb" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://thegrovela.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="caruso-retail-css" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/css/main.min.css?ver=9f3934" type="text/css" media="all">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://thegrovela.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://thegrovela.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="https://thegrovela.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thegrovela.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thegrovela.com/wp-includes/wlwmanifest.xml"> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thegrovela.com/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="https://thegrovela.com/?p=344">
 <link rel="alternate" type="application/json+oembed" href="https://thegrovela.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthegrovela.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://thegrovela.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthegrovela.com%2Fprivacy-policy%2F&amp;format=xml">
-		<link rel="apple-touch-icon" sizes="144x144" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/apple-touch-icon.png">
-		<link rel="icon" type="image/png" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/favicon-16x16.png" sizes="16x16">
-		<link rel="icon" type="image/png" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/favicon-32x32.png" sizes="32x32">
-		<link rel="icon" type="image/png" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/android-chrome-192x192.png" sizes="192x192">
-		<link rel="icon" type="image/png" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/android-chrome-512x512.png" sizes="512x512">
-		<link rel="manifest" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/manifest.json">
-		<link rel="mask-icon" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/safari-pinned-tab.svg" color="#482b11">
-		<link rel="shortcut icon" href="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/favicon.ico">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/apple-touch-icon.png">
+		<link rel="icon" type="image/png" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/favicon-16x16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/android-chrome-512x512.png" sizes="512x512">
+		<link rel="manifest" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/manifest.json">
+		<link rel="mask-icon" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/safari-pinned-tab.svg" color="#482b11">
+		<link rel="shortcut icon" href="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/favicon.ico">
 		<meta name="apple-mobile-web-app-title" content="The Grove LA">
 		<meta name="application-name" content="The Grove LA">
 		<meta name="msapplication-TileColor" content="#da532c">
-		<meta name="msapplication-TileImage" content="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/mstile-150x150.png">
+		<meta name="msapplication-TileImage" content="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/mstile-150x150.png">
 		<meta name="theme-color" content="#482b11">
-		<meta name="msapplication-config" content="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/browserconfig.xml">
+		<meta name="msapplication-config" content="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/favicons/grovela/browserconfig.xml">
 	  			<!-- Google Tag Manager -->
 			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -58,7 +60,8 @@
 											height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 	    <div class="wrapper">
-      
+      <a class="skip-main" href="#main">Skip to main content</a>
+
 <header class="header" data-module-init="header">
   <div class="container header__container">
     <div class="header__inner">
@@ -66,19 +69,19 @@
         <div class="header__left">
           <div class="header__date">
 												<a href="https://thegrovela.com/visit/#visit-us" class="header__link-open">
-							<p class="text-small header__open-status">Closed Now</p>
-																<p class="text-large header__open-time"><span>10am-9pm</span></p>
+							<p class="text-small header__open-status">Open Today</p>
+																<p class="text-large header__open-time"><span>8am-11pm</span></p>
 													</a>
           </div>
-          <button class="nav-trigger header__nav-trigger js-nav-trigger" id="menu">
+          <button class="nav-trigger header__nav-trigger js-nav-trigger" id="menu" aria-label="Menu">
 	<span class="nav-trigger__bar"></span>
 	<span class="nav-trigger__bar"></span>
 	<span class="nav-trigger__bar"></span>
 </button>
         </div>
         <div class="header__right">
-                      <a href="https://thegrovela.com/reservation/" class="header__link" target="_blank">Visit the Easter Bunny</a>
-                    <button class="header__search-button js-search-enable">
+                      <a href="/reservation/" class="header__link" target="_blank">Santa Reservation</a>
+                    <button class="header__search-button js-search-enable" aria-label="Open search">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.67 16.41">
 	<g>
 		<circle fill="none" class="cls-1" cx="6.81" cy="6.81" r="6.31" stroke="#9e7e50" stroke-miterlimit="10"></circle>
@@ -89,7 +92,7 @@
         </div>
       </div>
 			<div class="header__logo">
-				<a class="header__logo-link" href="https://thegrovela.com">
+				<a class="header__logo-link" href="https://thegrovela.com" aria-label="Homepage">
 											<img src="https://thegrovela.com/wp-content/uploads/2017/05/grove-la-logo.svg" alt="The Grove LA" class="header__logo-image">
 									</a>
 			</div>
@@ -99,7 +102,7 @@
 <li id="menu-item-639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-639"><a href="https://thegrovela.com/dining/">Dining</a></li>
 <li id="menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638"><a href="https://thegrovela.com/movies/">Movies</a></li>
 <li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-636"><a href="https://thegrovela.com/events/">Events</a></li>
-<li id="menu-item-634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-634"><a href="https://thegrovela.com/visit/">Visit</a>
+<li id="menu-item-634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-634"><a href="https://thegrovela.com/visit/" aria-haspopup="true" aria-expanded="false">Visit</a>
 <ul class="sub-menu">
 	<li id="menu-item-828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828"><a href="https://thegrovela.com/visit/#directory">Directory</a></li>
 	<li id="menu-item-829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-829"><a href="https://thegrovela.com/visit/#visit_us">Visit Us</a></li>
@@ -107,7 +110,7 @@
 	<li id="menu-item-831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831"><a href="https://thegrovela.com/visit/#highlights">Highlights</a></li>
 </ul>
 </li>
-<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-827"><a href="https://thegrovela.com/services/">Services</a>
+<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-827"><a href="https://thegrovela.com/services/" aria-haspopup="true" aria-expanded="false">Services</a>
 <ul class="sub-menu">
 	<li id="menu-item-821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-821"><a href="https://thegrovela.com/services/#concierge">Concierge</a></li>
 	<li id="menu-item-822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-822"><a href="https://thegrovela.com/services/#gift-cards">Gift Cards</a></li>
@@ -128,12 +131,12 @@
         </h1>
               </div>
       </div>
-</section><div class="basic-page"><div class="container basic-page__container wysiwyg"><p>THEGROVELA.COM<br>
+</section><a id="main" class="anchor-main"></a><div class="basic-page"><div class="container basic-page__container wysiwyg"><p>THEGROVELA.COM<br>
 Effective Date: May 25, 2018</p>
 <div class="main-heading intro-text h6 c-secondary-brand">INTRODUCTION</div>
 <p>TheGroveLA.com (“Company” or “We”) respects your privacy and is committed to protecting it through our compliance with this policy.</p>
 <div class="main-heading intro-text h6 c-secondary-brand">PERSONAL INFORMATION</div>
-<p>This Privacy Policy explains our practices with regard to how we collect, use, and share the “Personal Information” of clients and visitors to our mobile website or website <a href="http://www.thegrovela.com">http://www.thegrovela.com</a> (collectively, “Website”), and in email, text, and other electronic or social media messages between you and this website, as well as our practices for collecting, using, maintaining, protecting and disclosing that information.</p>
+<p>This Privacy Policy explains our practices with regard to how we collect, use, and share the “Personal Information” of clients and visitors to our mobile website or website <a href="https://thegrovela.com">https://thegrovela.com</a> (collectively, “Website”), and in email, text, and other electronic or social media messages between you and this website, as well as our practices for collecting, using, maintaining, protecting and disclosing that information.</p>
 <p>Personal Information is any information that can be used to identify, locate or contact you. It also includes other information that may be associated with your Personal Information, such as your internet connection, the equipment&nbsp;you use to access our Website and usage details.</p>
 <p>This Privacy Policy does not apply to information collected by:</p>
 <ul>
@@ -149,7 +152,7 @@ Effective Date: May 25, 2018</p>
 <p>Please read this Privacy Policy carefully to understand our policies and practices regarding your&nbsp;Personal Information and how we will treat and use it. If you do not agree with the Privacy Policy, your choice is not to use our Website. By accessing or using this Website, you agree to this Privacy Policy. This Privacy Policy may change from time to time. Your continued use of this Website after we&nbsp;make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>
 <div class="main-heading intro-text h6 c-secondary-brand">INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT</div>
 <p><em>Information You Provide To Us</em></p>
-<p>At&nbsp;<a href="http://www.thegrovela.com"><u>http://www.thegrovela.com</u></a>, we only collect Personal Information directly from you and only when you consent for us to do so. For example, you may give us your contact information via our web forms or you may sign up to receive material about our products and services.</p>
+<p>At&nbsp;<a href="https://thegrovela.com"><u>https://thegrovela.com</u></a>, we only collect Personal Information directly from you and only when you consent for us to do so. For example, you may give us your contact information via our web forms or you may sign up to receive material about our products and services.</p>
 <p>The Personal Information we collect on or through our Website may include:</p>
 <ul>
 <li>Information that you provide by filling in forms on our Website. This includes&nbsp;information provided at the time of registering for any product or service, posting material or requesting further services or information. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report&nbsp;a problem with our Website.</li>
@@ -262,7 +265,7 @@ or security measures contained on the Website.</p>
 	<div class="bg-secondary subscribe__inner">
 					<h2 class="subscribe__headline">Get the Latest News and Offers</h2>
 				<form action="//caruso.us14.list-manage.com/subscribe/post?u=f0ee0cddc7611d16dcf321888&amp;id=4d5456084c" method="post" class="subscribe__form">
-			<input name="EMAIL" type="email" required="" placeholder="Email" class="subscribe__form-input">
+			<input name="EMAIL" type="email" required="" placeholder="Email" class="subscribe__form-input" aria-label="Email">
 			<input type="hidden" value="" name="FNAME">
 			<input type="hidden" value="" name="LNAME">
 			<input type="hidden" value="" name="MMERGE4">
@@ -274,23 +277,13 @@ or security measures contained on the Website.</p>
 			<div style="display:none" class="mc-field-group input-group">
 				<strong>Property Preference </strong>
 				<input type="checkbox" value="2" name="group[3689][2]" checked="">			</div>
-			<button class="button-subscribe subscribe__form-button">Subscribe</button>
+			<button class="button-subscribe subscribe__form-button" aria-label="Subscribe">Subscribe</button>
 		</form>
 	</div>
 </section>
 	<div class="footer__wrapper">
 		<div class="footer__inner">
-			<div class="footer__column footer__column--map">
-									<div class="footer__widget footer__widget--menu">
-						<h3 class="footer__widget-title footer__widget-title--last">Get to know all of caruso’s properties</h3>
-													<a class="footer__link" href="https://thegrovela.com/visit/#map">
-													<figure class="footer__figure">
-								<img class="footer__image" src="https://thegrovela.com/wp-content/uploads/2018/10/CAR_Caruso-Website_100517_Properties-Map-4.0_526x270_Thumbnail2.jpg" alt="">
-							</figure>
-						                </a>
-											</div>
-							</div>
-			<div class="footer__column">
+			<div class="footer__column footer__column--about">
 									<div class="footer__widget">
 						<h3 class="footer__widget-title">The Grove LA</h3>
 						<div class="textwidget footer__widget-content">
@@ -299,27 +292,7 @@ or security measures contained on the Website.</p>
 															<p><a class="c-primary footer__mobile footer__link" href="/contact/">Contact Us</a></p>
 													</div>
 					</div>
-												<ul class="social-links">    <li class="social-links__item">
-      <a href="https://www.facebook.com/thegrovela" class="social-links__link" target="_blank">
-        <img src="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/facebook.png" alt="facebook">
-      </a>
-    </li>
-      <li class="social-links__item">
-      <a href="https://twitter.com/thegrovela" class="social-links__link" target="_blank">
-        <img src="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/twitter.png" alt="twitter">
-      </a>
-    </li>
-      <li class="social-links__item">
-      <a href="https://www.instagram.com/thegrovela/" class="social-links__link" target="_blank">
-        <img src="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/instagram.png" alt="instagram">
-      </a>
-    </li>
-      <li class="social-links__item">
-      <a href="https://www.snapchat.com/add/thegrovela" class="social-links__link" target="_blank">
-        <img src="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/snapchat.png" alt="snapchat">
-      </a>
-    </li>
-  </ul>			</div>
+											</div>
 			<div class="footer__column">
 									<div class="footer__widget footer__widget--menu">
 						<h3 class="footer__widget-title">Opportunity</h3>
@@ -331,24 +304,54 @@ or security measures contained on the Website.</p>
 					<div class="footer__widget footer__widget--copyright">
 													<p class="footer__copyright">
 								© 2019 Caruso | All rights reserved.							</p>
-												<ul id="menu-copyright" class="footer__links"><li id="menu-item-657" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-344 current_page_item menu-item-657"><a href="https://thegrovela.com/privacy-policy/">Privacy Policy</a></li>
+												<ul id="menu-copyright" class="footer__links"><li id="menu-item-657" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-344 current_page_item menu-item-657"><a href="https://thegrovela.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
 <li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="https://thegrovela.com/terms/">Terms &amp; Conditions</a></li>
+<li id="menu-item-6596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6596"><a target="_blank" href="https://thegrovela.com/alpr/">License Plate Reader Policy</a></li>
 </ul>					</div>
 							</div>
+			<div class="footer__column footer__column--map">
+									<div class="footer__widget footer__widget--menu">
+						<h3 class="footer__widget-title footer__widget-title--last">Get to know all of caruso’s properties</h3>
+												<a class="footer__link" href="https://thegrovela.com/visit/#map" aria-label="Caruso's properties">
+														<figure class="footer__figure">
+								<img class="footer__image" src="https://thegrovela.com/wp-content/uploads/2018/10/CAR_Caruso-Website_100517_Properties-Map-4.0_526x270_Thumbnail2.jpg" alt="">
+							</figure>
+													</a>
+										</div>
+							</div>
+			<div class="footer__column footer__column--socials">
+				<ul class="social-links">    <li class="social-links__item">
+      <a href="https://www.facebook.com/thegrovela" class="social-links__link" target="_blank">
+        <img src="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/facebook.png" alt="facebook">
+      </a>
+    </li>
+      <li class="social-links__item">
+      <a href="https://twitter.com/thegrovela" class="social-links__link" target="_blank">
+        <img src="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/twitter.png" alt="twitter">
+      </a>
+    </li>
+      <li class="social-links__item">
+      <a href="https://www.instagram.com/thegrovela/" class="social-links__link" target="_blank">
+        <img src="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/instagram.png" alt="instagram">
+      </a>
+    </li>
+      <li class="social-links__item">
+      <a href="https://www.snapchat.com/add/thegrovela" class="social-links__link" target="_blank">
+        <img src="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/snapchat.png" alt="snapchat">
+      </a>
+    </li>
+  </ul>			</div>
 		</div>
 	</div>
 	<div class="footer__logo">
 		<a href="http://caruso.com" class="footer__logo-link">
-			<img src="http://thegrovela.com/wp-content/themes/caruso-retail/assets/img/logo.svg" width="109" alt="The Grove LA">
+			<img src="https://thegrovela.com/wp-content/themes/caruso-retail/assets/img/logo.svg" width="109" alt="The Grove LA">
 		</a>
 	</div>
 </footer>
   </div>
-  <div class="search-form bg-tertiary search-form--global">
+  <div role="dialog" aria-modal="true" class="search-form bg-tertiary search-form--global" data-module-init="search-form">
 	<div class="search-form__overlay">
-		<div class="search-form__icon js-search-disable">
-			<span class="search-form__icon-close"></span>
-		</div>
 		<form role="search" method="get" class="search-form__form" action="https://thegrovela.com/">
 			<div class="search-form__inner">
 				<div class="search-form__icon-inline">
@@ -359,20 +362,23 @@ or security measures contained on the Website.</p>
 	</g>
 </svg>
 				</div>
-				<input type="search" class="search-form__input" placeholder="How can we help you?" value="" name="s">
+				<input type="search" class="search-form__input js-search-form-input" placeholder="How can we help you?" value="" name="s" aria-label="Search">
 			</div>
 			<button type="submit" class="button button--outline search-form__button"><span class="screen-reader-text">Search</span></button>
 		</form>
+		<div class="search-form__icon js-search-disable">
+			<button class="search-form__icon-close" aria-label="Close"></button>
+		</div>
 	</div>
 </div>
   <script type="text/javascript">
 /* <![CDATA[ */
-var wpVars = {"ajaxUrl":"https:\/\/thegrovela.com\/wp-admin\/admin-ajax.php","templateUrl":"http:\/\/thegrovela.com\/wp-content\/themes\/caruso-retail"};
+var wpVars = {"ajaxUrl":"https:\/\/thegrovela.com\/wp-admin\/admin-ajax.php","templateUrl":"https:\/\/thegrovela.com\/wp-content\/themes\/caruso-retail"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://thegrovela.com/wp-content/themes/caruso-retail/assets/js/main.min.js?ver=2ee8fb"></script>
-<script type="text/javascript" src="http://thegrovela.com/wp-content/themes/caruso-retail/assets/js/vendor.min.js?ver=2ee8fb"></script>
-<script type="text/javascript" src="http://thegrovela.com/wp-includes/js/wp-embed.min.js?ver=4.9.5"></script>
-  
+<script type="text/javascript" src="https://thegrovela.com/wp-content/themes/caruso-retail/assets/js/main.min.js?ver=9f3934"></script>
+<script type="text/javascript" src="https://thegrovela.com/wp-content/themes/caruso-retail/assets/js/vendor.min.js?ver=9f3934"></script>
+<script type="text/javascript" src="https://thegrovela.com/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e993bce76a","applicationID":"298155213","transactionName":"b1FVbBRSW0BTVEEMW1YbdlsSWlpdHUdUAlE=","queueTime":0,"applicationTime":356,"atts":"QxZWGlxISE4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
