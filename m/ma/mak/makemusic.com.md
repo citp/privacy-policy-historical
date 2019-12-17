@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemusic.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422183955id_/http%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemusic.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217104258id_/http%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for MakeMusic
 
@@ -25,8 +25,8 @@ Except as expressly identified below, we do not disclose a user’s personal dat
 
   * [Finale](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
   * [Garritan](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781)
-  * [Classic SmartMusic](https://staging.makemusic.com/wp-content/uploads/2018/12/SmartMusic_Classic_LicenseAgreement.pdf)
-  * [New SmartMusic ](https://wpmedia.makemusic.com/wp-content/uploads/2018/12/smartmusic-web-terms-service-use.pdf)
+  * [Classic SmartMusic](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/SmartMusic_Classic_LicenseAgreement1.pdf)
+  * [New SmartMusic ](https://terms.makemusic.com/)
 
 
 
@@ -118,8 +118,8 @@ To ensure that your Personal Data receives an adequate level of protection, we h
 
   * [Finale](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
   * [Garritan](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781)
-  * [Classic SmartMusic](https://staging.makemusic.com/wp-content/uploads/2018/11/SmartMusic_Classic_LicenseAgreement.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
-  * [New SmartMusic ](https://wpmedia.makemusic.com/wp-content/uploads/2018/11/smartmusic-web-terms-service-use.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [Classic SmartMusic](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/SmartMusic_Classic_LicenseAgreement1.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [New SmartMusic ](https://terms.makemusic.com/)
 
 
 
@@ -176,8 +176,8 @@ For a detailed description of the cookies we use and your ability to control the
 
   * [Finale](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
   * [Garritan](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781)
-  * [Classic SmartMusic](https://staging.makemusic.com/wp-content/uploads/2018/11/SmartMusic_Classic_LicenseAgreement.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
-  * [New SmartMusic ](https://wpmedia.makemusic.com/wp-content/uploads/2018/11/smartmusic-web-terms-service-use.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [Classic SmartMusic](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/SmartMusic_Classic_LicenseAgreement1.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [New SmartMusic ](https://terms.makemusic.com/)
 
 
 
