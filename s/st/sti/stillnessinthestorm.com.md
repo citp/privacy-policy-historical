@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stillnessinthestorm.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506103912id_/https%3A//stillnessinthestorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stillnessinthestorm.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217202444id_/https%3A//stillnessinthestorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stillness in the Storm
 
@@ -31,7 +31,3 @@ All visitors to this site are required to agree to these terms and conditions. I
 These sites are provided by StillnessintheStorm.Com on an “as is” basis. StillnessintheStorm.Com makes no representations or warranties express or implied, to the information, services, products, and materials included on this site. StillnessintheStorm.Com disclaims all warranties, to the full extent permissible by applicable law, express or implied, including but not limited to, implied warranties of merchantability and fitness for a particular purpose. StillnessintheStorm.Com will not be liable for any damages arising from the use of this site, including but not limited to direct, indirect, incidental punitive and consequential damages.
 
 Make sure that you keep this link in the policy statement:  [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
-
-[Enter to Win – CBD Oil Giveaway](https://gleam.io/Ilpdp/enter-to-win-cbd-oil-giveaway)
-
-**Unlock the Full Power of CBD Oil with Calm Premium Hemp Oil**
