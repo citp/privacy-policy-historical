@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427101219id_/https%3A//utshob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217230913id_/https%3A//www.utshob.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Utshob.com - Send Gift to Bangladesh - Privacy Policy
-
-##  Privacy Policy 
-
-Privacy Policy
+# Privacy Policy - Utshob.com
 
 WWW.UTSHOB.COM, recognizes and respects the importance of maintaining the privacy of our customers, registered members (Members) and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:  
 the personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail,  
@@ -34,9 +30,9 @@ Message and gift recipients names, addresses, telephone numbers and email addres
 other information you provide to us, including User Submissions (defined in the Terms of Use).  
 Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Only Members have the right to view and edit their Address Book entries.
 
-How we use "Cookies".
+How we use “Cookies”.
 
-A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the WWW.UTSHOB.COM Web Site, such as the shopping basket, may not function properly.
+A “cookie” is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the WWW.UTSHOB.COM Web Site, such as the shopping basket, may not function properly.
 
 We have relationships with third parties who may receive non-personal information directly from the cookies placed by our Web Site on your computer to assist in analyzing our business and customers.
 
@@ -64,8 +60,8 @@ Links to Other Web Sites
 
 WWW.UTSHOB.COM wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party web sites, you will be subject to the privacy policies and terms of use of those web sites, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other web site.
 
-Security and Passwords   
-If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft's Internet Explorer or Netscape Navigator. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
+Security and Passwords  
+If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft’s Internet Explorer or Netscape Navigator. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
 
 Portions of the Web Site (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the Password). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Web Site (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts.
 
@@ -81,4 +77,4 @@ Members can modify and update their membership information (including name, mail
 
 Your Consent and Changes to this Policy
 
-Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified.
+Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date – unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified.
