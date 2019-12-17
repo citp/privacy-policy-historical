@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327065949id_/http%3A//nootropicsdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217083158id_/https%3A//nootropicsdepot.com/privacy-policy) for the most accurate reproduction.*
 
 # Nootropics Depot Privacy Policy
+
+## **Privacy Policy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected from or submitted to NootropicsDepot.com web site. Our web site may contain links to other web sites operated by third parties. NootropicsDepot.com is not responsible for the privacy practices or policies of such third party web sites.
 
@@ -23,9 +25,11 @@ For example, we may request information from you when you:
 
 In each of the instances above, we typically ask for your name, e-mail address, phone number, address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar personal information that is needed to register, purchase or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of mailed materials, you will be able to "unsubscribe" to these mailings at any time.
 
-**Advertising**
+**Interest-Based Advertising**
 
 Nootropics Depot and its affiliated websites may display interest-based ads to you when you are using Facebook or Instagram through a tool offered by Facebook called the Custom Audience Tool. This tool allows us to personalize our ads based on your shopping experience with us.
+
+You may unsubscribe / opt-out from the Nootropics Depot newsletter by [clicking here](https://www.nootropicsdepot.com/unsubscribe/).
 
 Nootropics Depot and its affiliated websites may display interest-based ads to you when you are using Google or via the Google Display Network through tools offered by Google AdWords. These tools allows us to personalize our ads based on your shopping experience with us.
 
@@ -33,29 +37,6 @@ Nootropics Depot and its affiliated websites may display interest-based ads to y
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-#### In-House Purity Testing
+[](https://nootropicsdepot.com/adaptogens/ "Buy Adaptogen Supplements")[](https://nootropicsdepot.com/cholinergics/ "Buy Choline Supplements")[](https://nootropicsdepot.com/energy/ "Buy Nootropics for Energy")[](https://nootropicsdepot.com/fish-oil-capsules/ "Buy Fish Oil Supplements")[](https://nootropicsdepot.com/mitochondrial-support/ "Buy Mitochondrial Supplements")[](https://nootropicsdepot.com/buy-mushroom-extract-supplements/ "Buy Mushroom Extract Supplements")[](https://nootropicsdepot.com/nootropics/ "Buy Nootropics")[](https://nootropicsdepot.com/encapsulated-products/ "Buy Nootropic Capsules")[](https://nootropicsdepot.com/nootropic-samples/ "Buy Nootropic Samples")
 
-Did you know we have an in-house testing lab with equipment from Thermo Scientific and Agilent Technologies to ensure product purity and identity?
-
-[ **Click here**](http://nootropicsdepot.com/articles/nootropics-depot-purity-testing) to learn more about our In-House Lab Testing. 
-
-
-
-
-#### Join Newsletter
-
-Be the first to learn about new product releases, exclusive sales and special promotions. [**Click here**](http://nootropicsdepot.com/join-newsletter/) to subscribe to our newsletter and receive **10% off** your first order! 
-
-#### Free Shipping
-
-**FREE** USPS Priority Mail Shipping on Domestic Orders Over $50* or **FREE** Standard Mail on International Orders over $200.
-
-[ **Click here**](http://nootropicsdepot.com/shipping-returns/) to view more info about Shipping and Returns. _*Excludes US Territories  
-**Standard Worldwide Mail is shipped via UPS Mail Innovations_
-
-  
-
-
-  
-All prices are in USD. © 2019 Nootropics Depot   
-
+******[Ayurveda](https://nootropicsdepot.com/ayurveda/ "Buy Ayurveda Supplements")  |  [Adaptogens](https://nootropicsdepot.com/adaptogens/ "Buy Adaptogen Supplements")  |  [Amino Acids](https://nootropicsdepot.com/amino-acid-supplements/ "Buy Amino Acid Supplements")  |  [CBD Oil](https://nootropicsdepot.com/nextcbd-cbd-oil-softgels/ "Buy CBD Oil")  |  [Choline Supplements](https://nootropicsdepot.com/cholinergics/ "Buy Choline Supplements")  |  [Fitness Supplements](https://nootropicsdepot.com/fitness/ "Buy Fitness Supplements")  |  [Immune Support](https://nootropicsdepot.com/health-immunity/ "Buy Immune Support Supplements")  |  [Metabolism Supplements](https://nootropicsdepot.com/metabolism/ "Buy Metabolic Support Supplements")  |  [Mushroom Extracts](https://nootropicsdepot.com/buy-mushroom-extract-supplements/ "Buy Mushroom Extract Supplements") |  [Natural Plant Extracts](https://nootropicsdepot.com/natural-extracts/ "Buy Natural Plant Extract Supplements")  |  [Natural Nootropic Capsules](https://nootropicsdepot.com/natural-capsules/ "Buy Natural Nootropic Capsules")  |  [Natural Pain Support](https://nootropicsdepot.com/pain-management/ "Buy Natural Pain Support Supplements")  | **   **[Patented Nootropic Extracts](https://nootropicsdepot.com/brands/ "Buy Patented, Clinically Tested Natural Plant Extracts")  |  [Sleep Support Supplements](https://nootropicsdepot.com/sleep-supplements/ "Buy Sleep Support Supplements")  |  [Softgels](https://nootropicsdepot.com/softgel-capsules/ "Buy Softgel Supplements")  |  [Solutions + Sublinguals](https://nootropicsdepot.com/solutions-and-sublinguals/ "Buy Natural Nootropic Solutions and Sublinguals")  |  [Enteric Coated Tablets](https://nootropicsdepot.com/enteric-coated-tablets/ "Buy Enteric Coated Tablets")  |  [Nootropic Samples](https://nootropicsdepot.com/nootropic-samples/ "Buy Nootropic Samples")******
