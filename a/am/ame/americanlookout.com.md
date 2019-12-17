@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanlookout.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630082045id_/https%3A//americanlookout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanlookout.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217184528id_/https%3A//americanlookout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - American Lookout
 
@@ -211,9 +211,3 @@
 
 
 14.1 You can contact us emailing us at info@americanlookout.com.
-
-### We Noticed You Have An Ad Blocker On
-
-Advertising helps fund American Lookout journalism. We understand and respect your decision to block ads, but if you enjoy American Lookout please consider supporting us and allowing our ads.
-
-Takes only 1 click and it won't affect your ad blocker. You can always change your mind.
