@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nber.org privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522211003id_/https%3A//www.nber.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nber.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217034923id_/https%3A//nber.org/privacy.html) for the most accurate reproduction.*
 
 # NBER Website Privacy Policy
 
@@ -57,7 +57,7 @@ No part of our website is structured to attract anyone under 13.
 
 **Changes to this privacy policy**
 
-NBER website has the discretion to update this privacy policy at any time. When we do, we will post a notification at the [privacy](https://web.archive.org/web/20190522211003id_/https%3A//www.nber.org/privacy.html) page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+NBER website has the discretion to update this privacy policy at any time. When we do, we will post a notification at the [privacy](https://web.archive.org/web/20191217034923id_/https%3A//nber.org/privacy.html) page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
