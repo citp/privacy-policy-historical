@@ -1,0 +1,48 @@
+> *The following text is extracted and transformed from the wisetechlabs.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217213040id_/https%3A//wisetechlabs.com/appstore/privacypolicy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**Privacy Policy**
+
+This document explains the privacy policy and practices of Wisetechlabs.com, a web-based PC Utilities company operated by Wise Tech Labs Private Limited ("WiseTechLabs" or the "Service"). This Policy is part of the Terms of Service for using WiseTechLabs. At WiseTechLabs, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it. If you have questions or complaints regarding our privacy policy or practices, please contact us, at info@wisetechlabs.com. 
+
+**What Personal Information Do We Collect?**
+
+Personal information is any information that can be used to identify an individual, such as your name, physical address, contact information (e.g., email address, phone number), title, and occupation. We do not collect any personal information for using our applications. Subscribing to our blog or newsletter In order to subscribe to our blog or newsletter you need to provide your email address, we use this information for the sole purpose of notifying you when we have posted a new blog or when someone has commented on a blog that you have commented on or to send you a periodic newsletter. Ordering our service We do not have any access to the credit card information you submitted to our payment processor. The payment processors privacy policy governs the collection and use of the information collected during the check out process. 
+
+**Why do we collect Your Personal Information?**
+
+We collect the personal information: • Newsletter subscriptions • To notify you of our new services or changes to our existing Services 
+
+**How Do We Use Your Personal Information?**
+
+We will only use your personal information in the way that we described at the time of collection. We will not subsequently change the way your personal information is used without your consent. Accessing and Updating Your Personal Information You may access, change or delete your personal information by emailing us at info@wisetechlabs.com. You may delete your account or unsubscribe from certain features (e.g., online newsletters) at any time by using the email address provided above. You may also unsubscribe from certain features such as emails or newsletters by using the "unsubscribe" function provided within each email notification or newsletter. Personal information relating to deleted accounts may be archived by the Service according to its normal backup procedures. The Service may retain your Inventory Description File and use it for research and system improvement purposes described in the Terms of Service. Certain information (e.g., online discussion forum postings) may continue to be displayed publicly even if you delete your account. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+**Sharing Your Personal Information**
+
+We do not share, sell, rent or trade your personal information with third parties other than as disclosed within this privacy policy. We may share certain personal information with trusted vendors to carry out a transaction you have requested (e.g., sharing card payment information with our credit card processor to obtain payment of fees and to activate your subscription to the Service). These third parties are prohibited from using your personally identifiable information for promotional purposes. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. If WiseTechLabs is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+
+**Security of Your Personal Information**
+
+WiseTechLabs uses a combination of security features and techniques to safeguard and protect your personal information. We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at info@wisetechlabs.com. 
+
+**Third Party Websites**
+
+Our Service may contain links to third party sites. We have no control over the privacy practices of these sites, so you should read their privacy policies to understand their practices. We do not endorse any third party sites. Public Forum If you participate in the blog offered on this site, remember that postings are public communications. Keep this in mind before posting a public message. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. To request removal of your personal information from our blog or community forum, contact us at info@wisetechlabs.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Customer Testimonials/Review We post customer testimonials/reviews on our web site which may contain personally identifiable information. We do not use any identifying information such as email or user ID on these testimonials, and the name is fabricated in order to protect the identity of our customers. Testimonials and user feedback are used sporadically in marketing materials, and are identified as a WiseTechLabs Customer. If you want WiseTechLabs to remove your testimonial, or don't want WiseTechLabs to use your testimonial in any marketing materials, then please write to: info@wisetechlabs.com 
+
+**Social Media Features and Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. Children's Privacy Our Service is not intended to be used by children. We do not knowingly collect personal information from children under the age of 13. 
+
+**Policy Updates**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. Last update: 4/10/2018. 
+
+**Questions or Comments?**
+
+Please send your question or comments to us at: info@wisetechlabs.com Or to: 
+
+Wise Tech Labs Private Limited B-70, Bhan Nagar,  
+Queens Road,  
+Jaipur - 302021  
+India 
