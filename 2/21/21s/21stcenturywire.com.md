@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21stcenturywire.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630204729id_/https%3A//21stcenturywire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21stcenturywire.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217175607id_/https%3A//21stcenturywire.com/privacy) for the most accurate reproduction.*
 
 # 21st Century Wire Privacy Policy - 21st Century Wire
 
