@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630181533id_/https%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217193347id_/https%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
 
 # The Inquisitr
 
-Inquisitr.com owners of the Inquisitr and Inquisitr.com, values the privacy of our readers. We recognize your right to privacy and work hard to protect your private information at all turns.
+Inquisitr Ltd. and the owners of The Inquisitr and Inquisitr.com, value the privacy of our readers. We recognize your right to privacy and work hard to protect your private information at all turns.
 
 Please note that this privacy policy may be updated at any time and will be time stamped periodically to show the newest update time. Inquisitr.com will only provide your data to law enforcement and other agencies when presented with a court order or subpoena and in response to law enforcement agency requests. Inquisitr.com takes illegal activities, suspected fraud and other forms on online mischief seriously and will provide data to the proper authorities when that type of mischief appears on our website.
 
@@ -167,3 +167,9 @@ and such processing is carried out by automated means, you have the right to rec
 9.2 Blocking all cookies will have a negative impact upon the usability of many websites.
 
 9.3 If you block cookies, you will not be able to use all the features on our website.
+
+  10. **Amazon**
+
+
+
+As an Amazon Associate, Inquisitr Ltd. earns money from qualifying purchases.
