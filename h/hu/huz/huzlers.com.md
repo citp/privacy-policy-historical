@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the huzlers.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230400id_/https%3A//www.huzlers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huzlers.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217103652id_/https%3A//www.huzlers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Updated June 8, 2019
 
-Please take a moment to read this Privacy Policy carefully before you use huzlers.com by using our website, you indicate that you accept the Privacy Policy and that you agree to abide by it.
+Please take a moment to read this Privacy Policy carefully before you use huzlersmedia.mystagingwebsite.com by using our website, you indicate that you accept the Privacy Policy and that you agree to abide by it.
 
-Huzlers policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to [huzlers.com](https://huzlers.com/) (hereinafter, “us”, “we”, or “https://huzlers.com”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the huzlers.com. As a multinational company with primary offices in the United States, we conform our data use to the European Union’s (“EU”) General Data Protection Regulation (“GDPR”), with effect from 25 May 2018.  Therefore, in this Privacy Policy, we would like you to know what kind of personal data we collect from you or that you provide to us, how we process it, on what legal bases, whether we transfer or disclose it, and how long we retain it, in accordance with relevant laws.
+Huzlers policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to [huzlersmedia.mystagingwebsite.com](https://www.huzlers.com/) (hereinafter, “us”, “we”, or “https://www.huzlers.com”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the huzlersmedia.mystagingwebsite.com. As a multinational company with primary offices in the United States, we conform our data use to the European Union’s (“EU”) General Data Protection Regulation (“GDPR”), with effect from 25 May 2018.  Therefore, in this Privacy Policy, we would like you to know what kind of personal data we collect from you or that you provide to us, how we process it, on what legal bases, whether we transfer or disclose it, and how long we retain it, in accordance with relevant laws.
 
 **Website Visitors**
 
 Like most website operators, Huzlers collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Huzlers purpose in collecting non-personally identifying information is to better understand how Huzlers visitors use its website. From time to time, Huzlers may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Huzlers also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://huzlers.mystagingwebsite.com blog posts. Huzlers only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+Huzlers also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://www.huzlers.com blog posts. Huzlers only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
 **Gathering of Personally-Identifying Information**
 
@@ -34,7 +34,7 @@ Huzlers may collect statistics about the behavior of visitors to its website. Hu
 
 To enrich and perfect your online experience, Huzlers uses “Cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising, and store your preferences on your computer.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Huzlers uses cookies to help Huzlers identify and track visitors, their usage of https://huzlers.mystagingwebsite.com, and their website access preferences. Huzlers visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Huzlers websites, with the drawback that certain features of Huzlers websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Huzlers uses cookies to help Huzlers identify and track visitors, their usage of https://www.huzlers.com, and their website access preferences. Huzlers visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Huzlers websites, with the drawback that certain features of Huzlers websites may not function properly without the aid of cookies.
 
 By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to Huzlers use of cookies.
 
@@ -74,10 +74,10 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our footer menu. Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on every page located on the bottom footer.
 
 You will be notified of any Privacy Policy changes:  
-**•** [On our Privacy Policy Page](https://huzlers.mystagingwebsite.com/privacy-policy/)
+**•** [On our Privacy Policy Page](https://www.huzlers.com/privacy-policy/)
 
 Can change your personal information:  
-**•** By emailing us at admin@huzlers.mystagingwebsite.com
+**•** By emailing us at admin@huzlersmedia.mystagingwebsite.com
 
 **How does our site handle Do Not Track signals?**
 
