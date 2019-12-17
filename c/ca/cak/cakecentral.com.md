@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727093713id_/https%3A//www.cakecentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217051228id_/https%3A//www.cakecentral.com/privacy) for the most accurate reproduction.*
 
 # CakeCentral.com
 
@@ -69,7 +69,7 @@ _We use third-party advertising companies to serve ads when you visit our Websit
 
 ## **Contact Information**
 
-Our homepage on the Internet is located at [_http://www.cakecentral.com_](http://www.cakecentral.com/). 
+Our homepage on the Internet is located at [_http://www.cakecentral.com_](https://www.cakecentral.com/). 
 
 **Cake Central Media Corp.**  
 20701 N Scottsdale Rd STE 107-476   
