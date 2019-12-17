@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apkaward.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416095047id_/https%3A//apkaward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkaward.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217212315id_/https%3A//apkaward.com/privacy-policy) for the most accurate reproduction.*
 
-# APK Award
+# Privacy Policy APK Award
 
 Last updated: September 15, 2017
 
