@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appstorm.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627220326id_/https%3A//appstorm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appstorm.net privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217083548id_/https%3A//appstorm.net/privacy) for the most accurate reproduction.*
 
 # NUBERA EBUSINESS PRIVACY POLICY « AppStorm – App Review Network
 
