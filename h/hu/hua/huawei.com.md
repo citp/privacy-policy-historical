@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403153527id_/https%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218001718id_/https%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Huawei
 
@@ -95,7 +95,7 @@ To comply with applicable laws or respond to valid legal procedures, Huawei may 
 
 It is your responsibility to ensure that all personal data submitted to Huawei is correct. Huawei is dedicated to maintaining the accuracy and completeness of personal data and keeping the data up-to-date.
 
-To the extent required by applicable law, you may (i) have the right to access certain personal data we maintain about you, (ii) request that we update or correct inaccuracies in that data, (iii) object or restrict to our use of your personal data, and (iv) ask us to delete your personal data from our database. To exercise these rights, please [click here](http://www.huawei.com/en/personal-data-request) to give your feedback online. Your written request may be required for security. We may decline the request if we have reasonable grounds to believe that the request is a fraudulent, unfeasible or may jeopardize the privacy of others.
+To the extent required by applicable law, you may (i) have the right to access certain personal data we maintain about you, (ii) request that we update or correct inaccuracies in that data, (iii) object or restrict to our use of your personal data, and (iv) ask us to delete your personal data from our database. To exercise these rights, please [click here](https://web.archive.org/en/personal-data-request) to give your feedback online. Your written request may be required for security. We may decline the request if we have reasonable grounds to believe that the request is a fraudulent, unfeasible or may jeopardize the privacy of others.
 
 If allowed by applicable laws, you have the right to withdraw your consent at any time when Huawei processes your personal data based on your consent. However, withdrawal does not affect the legitimacy and effectiveness of how we process your personal data based on your consent before the withdrawal is made; nor does it affect any data processing based on another justification other than your consent.
 
@@ -127,8 +127,8 @@ Huawei reserves the right to update or change this Policy at any time. We will r
 
 ## 10\. How to Contact Us
 
-If you have any questions or suggestions, please contact [website@huawei.com](mailto:website@huawei.com). If you have any privacy complaints or issues, and want to contact Huawei Data Protection Officer (DPO), please [click here](http://www.huawei.com/en/personal-data-request).
+If you have any privacy complaints or issues, and want to contact Huawei Data Protection Officer (DPO), please [click here](https://web.archive.org/en/personal-data-request).
 
-Where your personal data is processed by Huawei in accordance with this Privacy Policy, the Huawei entity that responds to your request, contacts you, provides you with products or services, or has signed or is about to sign a contract with you is the controller of the related personal data. You can [click here](http://www.huawei.com/en/contact-us?tab=Offices) to obtain the contacts of Huawei entities.
+Where your personal data is processed by Huawei in accordance with this Privacy Policy, the Huawei entity that responds to your request, contacts you, provides you with products or services, or has signed or is about to sign a contract with you is the controller of the related personal data. You can [click here](https://web.archive.org/en/contact-us) to obtain the contacts of Huawei entities.
 
 Last updated: May 2018
