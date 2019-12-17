@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegrin.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331021347id_/https%3A//www.gamegrin.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegrin.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217232424id_/https%3A//www.gamegrin.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | GameGrin
 
@@ -185,3 +185,9 @@
   * (a) by email, using this email address press@gamegrin.com
 
 
+
+We use third party advertisements to support our site. Some of these advertisers may be served from our third party advertiser, who have their own [cookie](https://www.network-n.com/network-cookie-policy/) and [privacy](https://www.network-n.com/network-privacy-policy/) policies.
+
+You can manage your cookie consent on this site at any time.
+
+We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy/. Comscore’s privacy policy is available at https://www.comscore.com/About-comScore/Privacy-Policy.
