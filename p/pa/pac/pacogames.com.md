@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pacogames.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407191353id_/https%3A//www.pacogames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacogames.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217172449id_/https%3A//www.pacogames.com/privacy-policy) for the most accurate reproduction.*
 
-# PacoGames.com - Play only the best free online games
+# Privacy Policy
 
 Takes effect: 26th April 2018
 
