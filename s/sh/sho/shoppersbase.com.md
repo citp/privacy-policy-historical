@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shoppersbase.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018155449id_/http%3A//www.shoppersbase.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersbase.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217022851id_/https%3A//www.shoppersbase.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - ShoppersBase
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
-When accessing our Website, Joloh Ltd will learn certain information about you during your visit.
+When accessing our Website, LohSam Ltd will learn certain information about you during your visit.
 
 Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
@@ -28,7 +28,7 @@ If you choose to correspond with us through email, we may retain the content of 
 
 Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
-Joloh Ltd will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+LohSam Ltd will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
@@ -40,9 +40,9 @@ Children are not eligible to use our web site and services and we ask that minor
 
 Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
 
-Joloh Ltd may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+LohSam Ltd may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-For site security purposes and to ensure that this service remains available to all users, Joloh Ltd uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+For site security purposes and to ensure that this service remains available to all users, LohSam Ltd uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 ###  **Policy Changes**
 
@@ -54,8 +54,8 @@ We are committed to conducting our business in accordance with these principles 
 
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
 
-> Joloh Ltd  
->  Romford  
->  London, United Kingdom RM3  
->  07930341117  
->  Info@Shoppersbase.com
+> LohSam Ltd  
+>  Heaton Way  
+>  Romford, Essex RM3 7HA  
+>  7930341117  
+>  joseph.akintaju@gmail.com
