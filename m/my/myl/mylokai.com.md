@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mylokai.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318043232id_/https%3A//lokai.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylokai.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217040909id_/https%3A//lokai.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – Lokai
+# Privacy–Lokai
 
 Welcome to this website (the “Site”), which is operated by Lokai Holdings LLC (“Lokai,” “we,” or “us”).
 
