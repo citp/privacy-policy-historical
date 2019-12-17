@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gentlemansride.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112011949id_/https%3A//www.gentlemansride.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentlemansride.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217075150id_/https%3A//www.gentlemansride.com/privacy-policy) for the most accurate reproduction.*
 
-# The Distinguished Gentleman's Ride : Privacy Policy
+# The Distinguished Gentleman's Ride
 
-**Last Updated: 24th July 2018**
+**Last Updated: 10th July 2019**
+
+**This page is in English Only.**
 
 The Distinguished Gentleman’s Ride is committed to safeguarding your privacy. If you have any questions or problems regarding the use of your Personal Data please contact us at privacy@gentlemansride.com
 
@@ -15,7 +17,7 @@ We collect your personal data in the following ways:
   * When you pre-register on the website for the next event
   * When you register to ride and fundraise on our website
   * Purchase of merchandise and products
-  * When you interact with us through our partners including Movember Foundation, Triumph Motorcycles, Zenith Watches, REV’IT! Sport, Hedon Helmets, and have provided your consent for your contact details to be shared with us.
+  * When you interact with us through our partners including Movember Foundation, Triumph Motorcycles, ELF Lubricants, REV’IT! Sport, Hedon Helmets, and have provided your consent for your contact details to be shared with us.
   * When you provide a donation on our website all information is collected on behalf of Movember Foundation as they are sole beneficiary and all donations are processed through the payment gateway facilitated by Movember Foundation.
 
 
@@ -50,8 +52,7 @@ All donations made on The Distinguished Gentleman’s Ride website are facilitat
 
 These are facilitated by the following payment gateways:
 
-  * Adyen - [https://www.adyen.com/](https://www.adyen.com/) for all donations made in EUR, GBP, USD, AUD
-  * Braintree - [https://www.braintreepayments.com/](https://www.braintreepayments.com/) for all donations made in NZD, CAD
+  * Adyen - [https://www.adyen.com/](https://www.adyen.com/) for all donations made in EUR, GBP, USD, AUD, CAD, NZD
 
 
 
@@ -69,11 +70,11 @@ If you wish to opt out of having your details provided to Facebook or other soci
 
 To provide our supporters with fundraising packs, fulfill orders and facilitate prizes
 
-We will require your postal address to provide you with a fundraising pack, fulfill orders purchased on the website or to help in ensuring eligible prize winners receive their items.  We may also occasionally use your postal address to say thank you for your fundraising efforts.
+We will require your postal address to provide you with a fundraising pack, fulfill orders purchased on the website or to help in ensuring eligible prize winners receive their items. We may also occasionally use your postal address to say thank you for your fundraising efforts.
 
 ### **Communication preferences**
 
-Where you have agreed to receive The Distinguished Gentleman's Ride emails, The Distinguished Gentleman's Ride may use your personal information to send you emails (including marketing emails) about the The Distinguished Gentleman's Ride campaign. 
+Where you have agreed to receive The Distinguished Gentleman's Ride emails, The Distinguished Gentleman's Ride may use your personal information to send you emails (including marketing emails) about The Distinguished Gentleman's Ride campaign. 
 
 This also extends to our partners The Distinguished Gentleman's Ride Foundation, whereby if you have agreed to receive The Distinguished Gentleman's Ride Foundation emails, The Distinguished Gentleman's Ride may use your personal information to send you email (including marketing emails) about the The Distinguished Gentleman's Ride Foundation.
 
@@ -85,11 +86,11 @@ Emails that are ride critical including postponement, safety information and als
 
 We may disclose your personal information to our suppliers or other external third parties for analytics and data analysis, for outsourcing some of the functions and services relating to the purposes for which your personal information may be processed by The Distinguished Gentleman's Ride, for storage and otherwise to enhance our Services. When we contract external services providers, we may provide them with your personal information, but only to the extent required for them to fulfil that contract, or where you would reasonably expect The Distinguished Gentleman's Ride to disclose it to a third party for a particular purpose.
 
-Partners of The Distinguished Gentleman’s Ride that may have access to your personal information to the extent required for them to complete prize delivery obligations, fulfilment of products or to thank riders in their respective teams include:
+Partners of The Distinguished Gentleman’s Ride that may have access to your personal information to the extent required for them to complete prize delivery obligations, the fulfilment of products or to thank riders in their respective teams include:
 
   * The Distinguished Gentleman's Ride Foundation
   * Triumph Motorcycles
-  * Zenith Watches
+  * ELF Lubricants
   * REV’IT! Sport
   * Hedon Helmets
 
@@ -131,13 +132,13 @@ If you believe any of your personal information held by The Distinguished Gentle
 
 
 
-Also known as ‘the right to be forgotten’, you can now request for your personal data processed and held by us to be erased, unless there is another legal requirement for us to continue to process that data, in which case this will be explained to you in response to your request. You can request for us to erase your data either verbally or in writing. We will respond to your request within one calendar month.
+Also known as ‘the right to be forgotten’, you can now request for your personal data processed and held by us to be erased unless there is another legal requirement for us to continue to process that data, in which case this will be explained to you in response to your request. You can request for us to erase your data either verbally or in writing. We will respond to your request within one calendar month.
 
   5.  The right to restrict processing
 
 
 
-Similar to your right to request erasure of your personal data, you can request we restrict processing where you have issues with the content of the information we hold or with how we have processed your data. In these cases we would only apply the restriction for a certain period of time while we consider your request for doing so. You can request us to restrict processing either verbally or in writing. We will respond to your request within one calendar month
+Similar to your right to request the erasure of your personal data, you can request we restrict processing where you have issues with the content of the information we hold or with how we have processed your data. In these cases, we would only apply the restriction for a certain period of time while we consider your request for doing so. You can request us to restrict processing either verbally or in writing. We will respond to your request within one calendar month
 
   6.  The right to data portability
 
