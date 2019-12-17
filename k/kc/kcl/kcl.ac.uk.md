@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kcl.ac.uk privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125054916id_/https%3A//www.kcl.ac.uk/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcl.ac.uk privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217140031id_/https%3A//www.kcl.ac.uk/terms/privacy.aspx) for the most accurate reproduction.*
 
-# King's College London Core Privacy Notice | King’s College London
+# King's College London Core Privacy Notice | Terms & conditions | King’s College London
 
 ## **What is this page?**
 
@@ -37,7 +37,7 @@ Individual university services may have their own privacy notices with further i
 
   * Students:  [Student Data Collection Notice](https://www.kcl.ac.uk/aboutkings/orgstructure/ps/audit/compliance/data-protection/Student-Data-Collection-Notice.aspx)
   * Alumni and supporters:  [Alumni and Supporters Privacy Notice](https://alumni.kcl.ac.uk/privacy-statement--kings-college-london-alumni)
-  * Staff:  [HR Privacy Notice](https://internal.kcl.ac.uk/hr/gdpr/privacy/staffdata.aspx) (internal only)
+  * Staff:  [HR Privacy Notice](https://internal.kcl.ac.uk/hr/working/privacy-notice) (internal only)
   * Job applicants:  [Job Applicants Privacy Notice](https://internal.kcl.ac.uk/hr/gdpr/privacy/applicants.aspx)
 
 
@@ -60,6 +60,10 @@ To make a request for any of the above, please see our  [Data Subject Rights](h
 ## **Do we carry out marketing?  **
 
 If you register an interest with the university or through one of our service providers, you may be asked to opt-in to receive marketing communications. This is done at the point where your personal information is first collected. Within any marketing communications, you will be provided with a simple and transparent way to unsubscribe. Any changes you request to how your personal information is processed for the purposes of marketing and/or the provision of service updates will be acted on promptly.
+
+If you proceed to enrol as a student at King's College London, the email address that you registered an interest with will be overwritten by your new King's email address for the duration of your study. This means that all internal communications from King's will be sent to that email address and enables you to utilise King's self-service student enquiry centre. 
+
+If you do not wish for the above to happen, please [contact us](mailto:asking@kcl.ac.uk) to opt out.
 
 ## **Do we use 'cookies'?**
 
