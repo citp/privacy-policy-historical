@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohhappyday.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618162502id_/http%3A//ohhappyday.com/terms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohhappyday.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217011121id_/http%3A//ohhappyday.com/terms-privacy-policy) for the most accurate reproduction.*
 
 # Terms & Privacy Policy
 
