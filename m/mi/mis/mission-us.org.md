@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mission-us.org privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320134720id_/http%3A//www.wnet.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mission-us.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217193649id_/http%3A//www.wnet.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WNET
 
@@ -14,7 +14,7 @@ To reinforce our commitment to the privacy of our constituents, we have partnere
 
 ## Sites Covered
 
-This Privacy Policy and our Terms of Service govern the websites, email communications, mobile applications and social media platforms of WNET, including but not limited to: [www.wnet.org](http://www.wnet.org/), [www.thirteen.org](http://www.thirteen.org/), [www.wliw.org](http://www.wliw.org/), [www.njtvonline.org](http://www.njtvonline.org/), [www.wavelengthpublicmedia.org](http://www.wavelengthpublicmedia.org/), [www.nyc-arts.org](http://www.nyc-arts.org/) and [allarts.wliw.org](http://allarts.wliw.org/) web properties (collectively the WNET “Sites”), as well as THIRTEEN explore, MetroFocus, NJTV News and NYC-ARTS mobile applications. WNET, THIRTEEN Productions LLC, WLIW LLC, Public Media NJ Inc, Creative News Group LLC, and Interactive Engagement Group LLC (Collectively, “WNET”) are strongly committed to protecting the privacy of the WNET Sites’ users, visitors, members, donors, followers and friends.
+This Privacy Policy and our Terms of Service govern the websites, email communications, mobile applications and social media platforms of WNET, including but not limited to: [wnet.org](https://www.wnet.org/), [thirteen.org](https://www.thirteen.org/), [wliw.org](https://www.wliw.org/), [njtvonline.org](https://www.njtvonline.org/), [wavelengthpublicmedia.org](http://www.wavelengthpublicmedia.org/), [nyc-arts.org](https://www.nyc-arts.org/), [allarts.org](https://allarts.org/), and [njspotlight.com](https://www.njspotlight.com/) web properties (collectively the WNET “Sites”), as well as THIRTEEN explore, MetroFocus, NJTV News and NYC-ARTS mobile applications. WNET, THIRTEEN Productions LLC, WLIW LLC, Public Media NJ Inc, Creative News Group LLC, and Interactive Engagement Group LLC (Collectively, “WNET”) are strongly committed to protecting the privacy of the WNET Sites’ users, visitors, members, donors, followers and friends.
 
 Please note that the WNET Sites often link to third party sites or services, including social media and sites or services owned or controlled by PBS and other public media entities and production partners. This Privacy Policy does not cover any third party sites or services, or use thereof, and we suggest you review those sites’ policies to learn more about their privacy practices.
 
@@ -84,7 +84,7 @@ WNET offers a streaming content service for our programming, referred to as Pass
 
 If you are viewing on-demand video on the WNET Sites through the PBS Passport service or player, you have agreed that PBS may collect your viewing and usage information and that PBS may share this information with WNET. Your individual and usage viewing information will only be shared with WNET, but PBS may share aggregate de-identified viewing and usage information with its member stations and service providers, as well as WNET. PBS’s collection, storage, and use of Passport information is subject to PBS’s Terms and Conditions.
 
-If you are viewing on-demand video through the Passport program offered via THIRTEEN Explore, you have agreed that WNET may collect your viewing and usage information. Your individual and usage viewing information will only be shared with WNET. WNET’s collection, storage and use of Passport information are covered in this Privacy Policy and through these [Terms of Service](https://www.wnet.org/about/terms-of-service/).
+If you are viewing on-demand video through the Passport program offered via THIRTEEN Explore, you have agreed that WNET may collect your viewing and usage information. Your individual and usage viewing information will only be shared with WNET. WNET’s collection, storage and use of Passport information are covered in this Privacy Policy and through these [Terms of Service](https://web.archive.org/about/terms-of-service/).
 
 ## Third Party Intermediaries
 
@@ -160,4 +160,4 @@ This Privacy Policy is personal between you and us, and no one else shall be dee
 
 This Privacy Policy was last updated on September 12, 2018.
 
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY POLICY. 
+USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY POLICY.
