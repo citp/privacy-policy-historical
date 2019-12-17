@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flinnsci.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126075649id_/https%3A//www.flinnsci.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinnsci.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217025330id_/https%3A//www.flinnsci.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
