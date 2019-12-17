@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glomex.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418051903id_/https%3A//www.glomex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glomex.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217040726id_/https%3A//www.glomex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | glomex
 
