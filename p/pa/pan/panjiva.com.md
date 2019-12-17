@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panjiva.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331121726id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panjiva.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217212007id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy — Panjiva
 
@@ -88,11 +88,11 @@ In general, we will use the personal information we collect from you or from thi
 
 ### Our group companies, product content providers and partners;
 
-We provide personal information to group companies, S&P Global divisions, and business partners who process personal information for purposes in line to those described in this Customer Privacy Policy or notified to you when we collect your personal information. Content providers will process your personal data for billing purposes only. A list of our current group companies is available [here](http://media.spglobal.com/documents/SP+Global+Inc's+Group+Companies.pdf) and a list of our content providers and partners is available [here](http://media.spglobal.com/documents/Third+Party+Services+and+Content+Provider+Categories.pdf). We do not sell your usage data to third parties for the purposes of their marketing third party products or services to you;
+We provide personal information to group companies, S&P Global divisions, and business partners who process personal information for purposes in line to those described in this Customer Privacy Policy or notified to you when we collect your personal information. Content providers will process your personal data for billing purposes only. A list of our current group companies is available [here](https://www.spglobal.com/_media/documents/SP-Global-Incs-Group-Companies.pdf) and a list of our content providers and partners is available [here](https://www.spglobal.com/_media/documents/Third-Party-Services-and-Content-Provider-Categories.pdf). We do not sell your usage data to third parties for the purposes of their marketing third party products or services to you;
 
 ### Third party service providers;
 
-We provide personal information to third party service providers who provide data processing services to us. A list of our current service providers is available [here](http://media.spglobal.com/documents/Third+Party+Services+and+Content+Provider+Categories.pdf);
+We provide personal information to third party service providers who provide data processing services to us. A list of our current service providers is available [here](https://www.spglobal.com/_media/documents/Third-Party-Services-and-Content-Provider-Categories.pdf);
 
 ### Your employer;
 
