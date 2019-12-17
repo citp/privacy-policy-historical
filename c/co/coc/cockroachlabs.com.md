@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockroachlabs.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626050028id_/https%3A//www.cockroachlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockroachlabs.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217032120id_/https%3A//www.cockroachlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
