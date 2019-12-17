@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524053936id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217054829id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPVanish VPN
 
-Your privacy is our priority, but your trust in us is equally important. **That's why we want to be as transparent as possible in our policies.** IPVanish is a zero-logs VPN service provider, which means that we do not keep a record of any connection, traffic, or activity data in regards to our Services. In general, however, we monitor our Site activity to measure its performance and improve functionality. We want you to understand the type of information we collect, why we collect that data, and exactly how we use the information we collect.
+Your privacy is our priority, but your trust in us is equally important. **That's why we want to be as transparent as possible in our policies.** . IPVanish is a zero-logs VPN service provider, which means that we do not keep a record of any connection, traffic, or activity data in regards to our Services. In general, however, we monitor our Site activity to measure its performance and improve functionality. We want you to understand the type of information we collect, why we collect that data, and exactly how we use the information we collect.
 
 ### In Brief
 
-  * We care deeply about your privacy rights, and we will never log any traffic or usage of our VPN.
+  * We care deeply about your privacy rights, and we do not log any traffic or usage of our VPN.
   * We do not sell or rent personal information to others, under any circumstance.
   * Your data is secured and rendered anonymous whenever you are connected to our Services.
   * In order to provide you with our Services, we need to collect an email address and payment method to process transactions. 
 
 
 
-**Effective Date: January 18, 2019**
+**Last updated: December 2019**
 
 This Privacy Policy (the "Policy”) applies to the information we collect about visitors to [www.ipvanish.com](https://web.archive.org/) (the "Site") and subscribers to the IPVanish VPN service (the "Services"), which are owned and operated by IPVanish (contact information below). Our Terms of Use, including their limitation on liability, apply to the Privacy Policy. You can read them at [www.ipvanish.com/tos.php](https://web.archive.org/tos.php). 
 
@@ -41,13 +41,14 @@ This Privacy Policy (the "Policy”) applies to the information we collect about
   * [GDPR Compliance](https://web.archive.org/privacy-policy.php#gdpr-compliance)
   * [Privacy Settings and Requests](https://web.archive.org/privacy-policy.php#privacy-settings)
   * [How To Contact Us](https://web.archive.org/privacy-policy.php#contact-us)
+  * [California Consumer Privacy Act Addendum](https://web.archive.org/privacy-policy.php#addendum)
 
   
 
 
 ### Information We Collect
 
-**IPVanish does not collect, monitor, or log any traffic or use of its Virtual Private Network service, under any circumstances, on any platform.**
+**IPVanish does not collect, monitor, or log any traffic or use of its Virtual Private Network service on any platform.**
 
 While you are not required to provide any identifiable ("personal") information to browse our Site, in order to subscribe to our Services, you must first create an account and register with us. This is solely to maintain an active subscription to our service. 
 
@@ -112,13 +113,13 @@ The information we collect through our Services is used for the following genera
 
 
 
-**As previously outlined IPVanish does not collect or log any traffic of its Services, under any circumstances. We may, however, compile some statistical information related to app crashes.**
+**As previously outlined IPVanish does not collect or log any traffic of its Services. We closely review any requests we receive for customer information by a third party. We cannot provide information that we do not have, and we do not provide information that we do have unless we are legally required to. We may also compile some statistical information related to app crashes.**
 
 In addition, your information is used by third-party service providers who provide services on our behalf, such as processing payments ([Stripe](https://stripe.com/)), fraud detection ([Sift Science](https://sift.com/)) ([MaxMind](https://www.maxmind.com/en/home)), app crash information ([Firebase](https://firebase.google.com/)), and sending email messages ([SendGrid](https://sendgrid.com/)) for us. Our service providers receive only the information they need to perform their designated functions, and are not permitted to use or disclose this information. We do not share your personal information with third parties for their own marketing, advertising or research purposes, under any circumstance. This data does not link back to any personal identifiable information on our VPN. 
 
 ### How To Modify Your Personal Information
 
-Personal information can be modified by you at any time via the [Account Control Panel](https://account.ipvanish.com/). Additional inquiries and technical requests should be sent to: [support@ipvanish.com](mailto:support@ipvanish.com). We do our best to answer all requests in a timely manner. 
+Personal information can be modified by you at any time via the [Account Control Panel](https://account.ipvanish.com/). Additional inquiries and technical requests should be sent to: [privacy@ipvanish.com](mailto:privacy@ipvanish.com). We do our best to answer all requests in a timely manner. 
 
 ### Security Measures We Have In Place
 
@@ -189,4 +190,53 @@ IPVanish provides information about our data privacy policies, including how we 
 
 ### How to Contact Us
 
-For questions about this Site, IPVanish Services, or for more information about the matters discussed in this Privacy Policy, please contact us at: [support@ipvanish.com](mailto:support@ipvanish.com)
+For questions about this Site, IPVanish Services, or for more information about the matters discussed in this Privacy Policy, please contact us at: [privacy@ipvanish.com](mailto:privacy@ipvanish.com)
+
+### California Consumer Privacy Act Addendum
+
+In accordance with the California Consumer Privacy Act, if you are a consumer residing in California the following addition terms apply to you. 
+
+  1. Right to Know About Information Collected, Disclosed or Sold
+
+You have the right to request that we disclose what personal information we collect, use, disclose, and sell. To submit a verifiable request, please email [privacy@ipvanish.com](mailto:privacy@ipvanish.com) or visit [https://dsar.ipvanish.com](https://dsar.ipvanish.com/)
+
+If you have an account with us, we will verify the request by confirming the email address used to make the request is the same as the email address on file for the account. If you do not have an account with us, we will verify the request by sending an email to the email address used to make the request.
+
+The categories of California consumers’ personal information we may collect are listed above in the section titled "Information We Collect." We collect this data from our customers and website visitors.
+
+We confirm we have not sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. We confirm we do not sell personal information of minors under 16 years of age without authorization. We may disclose the categories of Personal Information listed in the section "Information We Collect" to our vendors and service providers for a business purpose, as explained further in the section above titled "How We Use Your Information."
+
+  2. Right to Request Deletion of Personal Information
+
+You have the right to request deletion of Personal Information collected or maintained by us. To do so, please submit a request by emailing [privacy@ipvanish.com](mailto:privacy@ipvanish.com), by calling 1-800-591-5241, or by visiting [https://dsar.ipvanish.com](https://dsar.ipvanish.com/).
+
+If you are a current or former customer submitting a request by web form or email, please provide sufficient information to identify your account, including your email address on file with us. You may be asked to verify your identity by responding to us with the email address on file for the account.
+
+If you are not a current or former customer, we may ask for proof of identity sufficient to show you are the same consumer about whom we have collected personal information that you are requesting to be deleted.
+
+  3. Right to Opt-Out of the Sale of Personal Information
+
+You have the right to opt-out of the sale of your personal information by a business. Pursuant to California law, because we do not and will not sell your personal information, we do not offer such an opt-out at this time.
+
+  4. Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
+
+You have the right not to receive discriminatory treatment by the business for the exercise of the privacy rights conferred by the California Consumer Privacy Act.
+
+  5. Authorized Agent
+
+If you would like to make a request under the California Consumer Privacy Act on behalf of a California consumer who is a current or former customer, please provide an email from the email address we have on file for the customer authorizing the request.
+
+You may also make a request under the California Consumer Privacy Act on behalf of a California consumer if you provide (1) a signed, written permission from the consumer to act on your behalf, and the consumer verifies their own identity directly with us; or (2) proof that the consumer has provided you with power of attorney pursuant to Probate Code sections 4000 to 4465.
+
+We may deny a request from an agent that does not submit proof that they have been authorized by the consumer to act on their behalf.
+
+  6. Contact for More Information
+
+If you have any questions or concerns about our privacy policies and practices, you may contact us via [privacy@ipvanish.com](mailto:privacy@ipvanish.com), 1-800-591-5241 or [https://dsar.ipvanish.com](https://dsar.ipvanish.com/).
+
+  7. Date Privacy Policy Last Updated
+
+Our Privacy Policy was lasted updated as of the date indicated at the beginning of the policy.
+
+
+
