@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the particle.io privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531224650id_/https%3A//www.particle.io/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the particle.io privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217035908id_/https%3A//www.particle.io/legal/privacy) for the most accurate reproduction.*
 
 # Particle | Privacy Policy
 
