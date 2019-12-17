@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borisfx.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113062417id_/https%3A//borisfx.com/company/privacy/%23e-newsletter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borisfx.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217090932id_/https%3A//borisfx.com/company/privacy/%23e-newsletter) for the most accurate reproduction.*
 
 # Boris FX | Privacy Policy
 
@@ -20,7 +20,7 @@ This Privacy Policy sets out how we, Boris FX, collect, store and use informatio
   * Your right to object to the processing of your information for certain purposes
   * Sensitive Personal Information
   * Changes to our Privacy Policy
-  * Children’s Privacy
+  * Children's Privacy
   * California Do Not Track Disclosures
 
 
@@ -56,7 +56,7 @@ This section summarises how we obtain, store and use information about you. It i
 
 The data controller in respect of our website is Boris FX, Inc. of 65 Franklin Street, Suite 400, Boston MA 02110, USA. You can contact the data controller by writing to this address or sending an e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com).
 
-The data controller’s representative in the European Union is Imagineer Systems Ltd. You can contact the data controller’s representative by writing to Surrey Technology Centre, 40 Occam Road, Guildford GU2 7YG, UK or sending an e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com).
+The data controller's representative in the European Union is Imagineer Systems Ltd. You can contact the data controller's representative by writing to Surrey Technology Centre, 40 Occam Road, Guildford GU2 7YG, UK or sending an e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com).
 
 If you have any questions about this Privacy Policy, please contact the data controller.
 
@@ -74,9 +74,11 @@ We and our third party hosting providers collect and store server logs to ensure
 
 Unless we are investigating suspicious or potential criminal activity, we do not make, nor do we allow our hosting provider to make, any attempt to identify you from the information collected via server logs.
 
-**Legal basis for processing** : compliance with a legal obligation to which we are subject (Article 6(1)(c) of the General Data Protection Regulation). **Legal obligation** : we have a legal obligation to implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk of our processing of information about individuals. Recording access to our website using server log files is such a measure.
+**Legal basis for processing** : compliance with a legal obligation to which we are subject (Article 6(1)(c) of the General Data Protection Regulation).  
+**Legal obligation** : we have a legal obligation to implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk of our processing of information about individuals. Recording access to our website using server log files is such a measure.
 
-**Legal basis for processing** : our and a third party’s legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests** : we and our third party hosting provider have a legitimate interest in using your information for the purposes of ensuring network and information security.
+**Legal basis for processing** : our and a third party's legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests** : we and our third party hosting provider have a legitimate interest in using your information for the purposes of ensuring network and information security.
 
 ### Use of website server log information to analyse website use and improve our website
 
@@ -84,7 +86,8 @@ We use the information collected by our website server logs to analyse how our w
 
 We use the information gathered from the analysis of this information to improve our website. For example, we use the information gathered to change the information, content and structure of our website and individual pages based according to what users are engaging most with and the duration of time spent on particular pages on our website.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest** : improving our website for our website users and getting to know our website users’ preferences so our website can better meet their needs and desires.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest** : improving our website for our website users and getting to know our website users’ preferences so our website can better meet their needs and desires.
 
 ## Cookies and similar technologies
 
@@ -100,29 +103,33 @@ We collect and use information from individuals who contact us in accordance wit
 
 When you send an e-mail to the e-mail address displayed on our website we collect your e-mail address and any other information you provide in that e-mail (such as your name, telephone number and the information contained in any signature block in your e-mail).
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests** : responding to enquiries and messages we receive and keeping records of correspondence.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests** : responding to enquiries and messages we receive and keeping records of correspondence.
 
-**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 
 ### Transfer and storage of your information
 
 We use a third party e-mail provider to store e-mails you send us. Our third party e-mail provider is Google. Please see their privacy policy for more information.
 
-E-Mails you send us will be stored outside the European Economic Area on our third party e-mail provider’s servers in the USA. For further information please see the section of this privacy policy entitled Transfers of your information outside the European Economic Area.
+E-Mails you send us will be stored outside the European Economic Area on our third party e-mail provider's servers in the USA. For further information please see the section of this privacy policy entitled Transfers of your information outside the European Economic Area.
 
-When you contact us using our contact form, we collect your name and e-mail address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as your computer’s machine ID. For sales queries, we also collect your company name, city, country, state and phone number.
+When you contact us using our contact form, we collect your name and e-mail address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as your computer's machine ID. For sales queries, we also collect your company name, city, country, state and phone number.
 
 If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your enquiry.
 
 If you do not supply the optional information required by our contact form, we might not be able to fully respond to your query.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests** : responding to enquiries and messages we receive and keeping records of correspondence.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests** : responding to enquiries and messages we receive and keeping records of correspondence.
 
-**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services or providing technical support), we will process your information in order to do so).
+**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services or providing technical support), we will process your information in order to do so).
 
 ### Transfer and storage of your information
 
-Messages you send us via our contact form will be stored within the European Economic Area on our third party CRM provider’s servers in Germany and the UK. Our third party CRM provider is Salesforce.com. For further information see their privacy policy.
+Messages you send us via our contact form will be stored within the European Economic Area on our third party CRM provider's servers in Germany and the UK. Our third party CRM provider is Salesforce.com. For further information see their privacy policy.
 
 ## Phone
 
@@ -132,9 +139,11 @@ For further information about the safeguards used when your information is trans
 
 We record some phone calls for training purposes and to monitor call quality.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation) **Legitimate interests** : responding to enquiries and messages we receive, keeping records of correspondence, training our staff and ensuring a consistent level of service.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation)  
+**Legitimate interests** : responding to enquiries and messages we receive, keeping records of correspondence, training our staff and ensuring a consistent level of service.
 
-**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 
 ### Transfer and storage of your information
 
@@ -146,9 +155,11 @@ Information about your phone call may be stored by our third party telephone ser
 
 If you contact us by post, we will collect any information you provide to us in any postal communications you send us.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation) **Legitimate interests** : responding to enquiries and messages we receive and keeping records of correspondence.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation)  
+**Legitimate interests** : responding to enquiries and messages we receive and keeping records of correspondence.
 
-**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 
 We collect and use information from individuals who interact with particular features of our website in accordance with this section and the section entitled Disclosure and additional uses of your information.
 
@@ -156,13 +167,14 @@ We collect and use information from individuals who interact with particular fea
 
 When you sign up for our e-newsletter on our website or opt to receive news, offers, events and training from us by entering your e-mail address and clicking subscribe or ticking a box at checkout indicating that you would like to receive our e-newsletter, we collect your e-mail address.
 
-**Legal basis for processing** : your consent (Article 6(1)(a) of the General Data Protection Regulation). **Consent** : you give your consent to us sending you our e-newsletter by signing up to receive it using the steps described above.
+**Legal basis for processing** : your consent (Article 6(1)(a) of the General Data Protection Regulation).  
+**Consent** : you give your consent to us sending you our e-newsletter by signing up to receive it using the steps described above.
 
 ### Transfer and storage of your information
 
 We use a third party service to send out our e-newsletter and administer our mailing list, Salesforce Pardot. For further information see their privacy policy.
 
-Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider’s servers in the USA. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
+Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider's servers in the USA. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
 
 ## Use of web beacons and similar technologies in e-mails
 
@@ -178,13 +190,15 @@ When you register and create an account on our website, we collect the following
 
 If you do not provide the mandatory information required by the registration form, you will not be able to register or create an account on our website.
 
-**Legal basis for processing** : necessary to perform a contract or to take steps at your request prior to entering into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : creating an account on our website is necessary to allow you to make a purchase and to access the goods and services you have purchased from us and to request technical support.
+**Legal basis for processing** : necessary to perform a contract or to take steps at your request prior to entering into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : creating an account on our website is necessary to allow you to make a purchase and to access the goods and services you have purchased from us and to request technical support.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest** : registering and administering accounts on our website is necessary to access evaluation versions of our products and services.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest** : registering and administering accounts on our website is necessary to access evaluation versions of our products and services.
 
 ### Transfer and storage of your information
 
-Information you submit to us via the registration form on our website will be stored within the European Economic Area on our third party CRM provider’s servers in Germany and the UK. Our third party CRM provider is Salesforce.com. For further information see their privacy policy.
+Information you submit to us via the registration form on our website will be stored within the European Economic Area on our third party CRM provider's servers in Germany and the UK. Our third party CRM provider is Salesforce.com. For further information see their privacy policy.
 
 We collect and use information from individuals who place an order on our website in accordance with this section and the section entitled Disclosure and additional uses of your information.
 
@@ -196,9 +210,11 @@ When you place an order for goods or services on our website, we collect your na
 
 If you do not provide this information, you will not be able to purchase goods or services from us on our website or enter into a contract with us.
 
-**Legal basis for processing** : necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : we need the mandatory information collected by our checkout form to establish who the contract is with and to contact you to fulfil our obligations under the contract, including sending you receipts and order confirmations.
+**Legal basis for processing** : necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : we need the mandatory information collected by our checkout form to establish who the contract is with and to contact you to fulfil our obligations under the contract, including sending you receipts and order confirmations.
 
-**Legal basis for processing** : compliance with a legal obligation (Article 6(1)(c) of the General Data Protection Regulation). **Legal obligation** : We have a legal obligation to keep accounting records, including records of transactions
+**Legal basis for processing** : compliance with a legal obligation (Article 6(1)(c) of the General Data Protection Regulation).  
+**Legal obligation** : We have a legal obligation to keep accounting records, including records of transactions
 
 ### Processing your payment
 
@@ -208,11 +224,12 @@ The third party payment processor you choose to process your payment collects, u
 
 ### Transfer and storage of your information
 
-Shopify, PayPal and Amazon Payments are located in the USA. Information relating to the processing of your payment is stored outside the European Economic Area on our third party payment processor’s servers in various locations globally.
+Shopify, PayPal and Amazon Payments are located in the USA. Information relating to the processing of your payment is stored outside the European Economic Area on our third party payment processor's servers in various locations globally.
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
 
-**Legal basis for processing** : necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : to fulfil your contractual obligation to pay for the goods or services you have ordered from us.
+**Legal basis for processing** : necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : to fulfil your contractual obligation to pay for the goods or services you have ordered from us.
 
 ## Marketing communications
 
@@ -224,13 +241,14 @@ You can opt-out from receiving marketing communications in relation to our goods
 
 We will send you marketing communications in relation to similar goods and services if you do not opt out from receiving them.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests** : direct marketing and advertising our products and services.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests** : direct marketing and advertising our products and services.
 
 #### Transfer and storage of your information
 
 We use a third party service to administer our mailing list, Salesforce Pardot.
 
-Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider’s servers in the USA. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
+Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider's servers in the USA. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
 
 #### Use of web beacons and similar technologies in e-mails
 
@@ -246,13 +264,14 @@ You can opt in to receiving marketing communications from us in relation to our 
 
 We will send you marketing communications in relation to our goods and services only if you opt-in to receive them.
 
-**Legal basis for processing** : consent (Article 6(1)(a) of the General Data Protection Regulation). **Consent** : you give your consent to us sending you information about our goods and services by signing up to receive such information in accordance with the steps described above.
+**Legal basis for processing** : consent (Article 6(1)(a) of the General Data Protection Regulation).  
+**Consent** : you give your consent to us sending you information about our goods and services by signing up to receive such information in accordance with the steps described above.
 
 #### Transfer and storage of your information
 
 We use a third party service to administer our mailing list, Salesforce Pardot.
 
-Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider’s servers in the USA. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
+Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider's servers in the USA. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
 
 #### Use of web beacons and similar technologies in e-mails
 
@@ -266,13 +285,14 @@ For more information about our third party mailing list provider and they use we
 
 In addition to receiving information about our products and services you can opt in to receiving marketing communications from us in relation third party goods and services by e-mail.
 
-**Legal basis for processing** : consent (Article 6(1)(a) of the General Data Protection Regulation). **Consent** : you give your consent to us sending you information about third party goods and services by signing up to receive such information in accordance with the steps described above.
+**Legal basis for processing** : consent (Article 6(1)(a) of the General Data Protection Regulation).  
+**Consent** : you give your consent to us sending you information about third party goods and services by signing up to receive such information in accordance with the steps described above.
 
 #### Transfer and storage of your information
 
 We use a third party service to administer our mailing list, Salesforce Pardot.
 
-Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider’s servers in the USA. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
+Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider's servers in the USA. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
 
 #### Use of web beacons and similar technologies in e-mails
 
@@ -292,11 +312,14 @@ It is also possible that third parties with whom we have had no prior contact ma
 
 Information we obtain from third parties will generally be your name and contact details, but will include any additional information about you which they provide to us.
 
-**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : where a third party has passed on information about you to us (such as your name and e-mail address) in order for us to provide services to you, we will process your information in order to take steps at your request to enter into a contract with you and perform a contract with you (as the case may be).
+**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : where a third party has passed on information about you to us (such as your name and e-mail address) in order for us to provide services to you, we will process your information in order to take steps at your request to enter into a contract with you and perform a contract with you (as the case may be).
 
-**Legal basis for processing** : consent (Article 6(1)(a) of the General Data Protection Regulation). **Consent** : where you have asked that a third party to share information about you with us and the purpose of sharing that information is not related to the performance of a contract or services by us to you, we will process your information on the basis of your consent, which you give by asking the third party in question to pass on your information to us.
+**Legal basis for processing** : consent (Article 6(1)(a) of the General Data Protection Regulation).  
+**Consent** : where you have asked that a third party to share information about you with us and the purpose of sharing that information is not related to the performance of a contract or services by us to you, we will process your information on the basis of your consent, which you give by asking the third party in question to pass on your information to us.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests** : where a third party has shared information about you with us and you have not consented to the sharing of that information, we will have a legitimate interest in processing that information in certain circumstances.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests** : where a third party has shared information about you with us and you have not consented to the sharing of that information, we will have a legitimate interest in processing that information in certain circumstances.
 
 For example, we would have a legitimate interest in processing your information to perform our obligations under a sub-contract with the third party, where the third party has the main contract with you. Our legitimate interest is the performance of our obligations under our sub-contract.
 
@@ -312,11 +335,13 @@ In certain circumstances (for example, to verify the information we hold about y
 
 In certain circumstances will also obtain information about you from private sources, both EU and non-EU, such as data brokers.
 
-**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : where you have entered into a contract or requested that we enter into a contract with you, in certain circumstances, we will obtain information about you from public sources in order to enable us to understand your business and provide services to you or services to a sufficient standard.
+**Legal basis for processing** : necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : where you have entered into a contract or requested that we enter into a contract with you, in certain circumstances, we will obtain information about you from public sources in order to enable us to understand your business and provide services to you or services to a sufficient standard.
 
 For example, we would obtain and/or verify your e-mail address from your website or from a directory where you ask us to send you information by e-mail but we do not possess the information or we need to confirm that we have recorded your e-mail address correctly.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests** : in certain circumstances, we will have a legitimate interest in obtaining information about you from public and private sources. For example, if you have infringed or we suspect that you have infringed any of our legal rights, we will have a legitimate interest in obtaining and processing information about you from such sources in order to investigate and pursue any suspected or potential infringement.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests** : in certain circumstances, we will have a legitimate interest in obtaining information about you from public and private sources. For example, if you have infringed or we suspect that you have infringed any of our legal rights, we will have a legitimate interest in obtaining and processing information about you from such sources in order to investigate and pursue any suspected or potential infringement.
 
 We use automated decision making and profiling on our website. We do not consider that this has any legal effect on you or similarly significantly affects you.
 
@@ -350,7 +375,8 @@ Our web analytics service, Google Analytics uses collects information such as yo
 
 **Significance and envisaged consequences** : cookies will be used to track and store information about your behaviour and device on our website (unless you have opted out from receiving such cookies by blocking third party cookies using browser settings and your location will be analysed based on your IP address. We may target advertisements based on the level of interest we receive from certain visitors and their behaviour on our website.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest** : improving our website for our website users and getting to know our website users’ preferences so our website can better meet their needs and desires.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest** : improving our website for our website users and getting to know our website users’ preferences so our website can better meet their needs and desires.
 
 ### Use of profiling in marketing e-mails
 
@@ -362,7 +388,8 @@ We use web beacons and similar technologies in our marketing e-mails to analyse 
 
 **How to object** : contact us via our contact form or by e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com).
 
-**Legal basis for processing** : legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest** : analysing the level of engagement and effectiveness of our marketing e-mails and content.
+**Legal basis for processing** : legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest** : analysing the level of engagement and effectiveness of our marketing e-mails and content.
 
 This section sets out the circumstances in which will disclose information about you to third parties and any additional purposes for which we use your information.
 
@@ -372,65 +399,108 @@ We use a number of third parties to provide us with services which are necessary
 
 ### Google
 
-Type of service: E-mail, web analytics Location: USA Privacy Policy: [Google Privacy Policy](https://policies.google.com/privacy) Transfer out of EEA Safeguard: [EU-US Privacy Shield and model contract clauses](https://policies.google.com/privacy/frameworks)
+Type of service: E-mail, web analytics  
+Location: USA  
+Privacy Policy: [Google Privacy Policy](https://policies.google.com/privacy)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield and model contract clauses](https://policies.google.com/privacy/frameworks)
 
 ### Salesforce.com
 
-Type of service: Business automation, customer relationship management, marketing automation Location: USA Privacy Policy: [Salesforce.com Privacy Policy](https://www.salesforce.com/company/privacy) Transfer out of EEA Safeguard: [EU-approved binding corporate rules](https://a.sfdcstatic.com/content/dam/www/ocms-backup/assets/pdf/misc/Salesforce-Processor-BCR.pdf), and [EU-US Privacy Shield](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Privacy/privacy-shield-notice.pdf)
+Type of service: Business automation, customer relationship management, marketing automation  
+Location: USA  
+Privacy Policy: [Salesforce.com Privacy Policy](https://www.salesforce.com/company/privacy)  
+Transfer out of EEA Safeguard: [EU-approved binding corporate rules](https://a.sfdcstatic.com/content/dam/www/ocms-backup/assets/pdf/misc/Salesforce-Processor-BCR.pdf), and [EU-US Privacy Shield](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Privacy/privacy-shield-notice.pdf)
 
 ### Intercom
 
-Type of service: Website live chat Location: USA Privacy Policy: [Intercom Privacy Policy](https://www.intercom.com/terms-and-policies#privacy) Transfer out of EEA Safeguard: [EU-approved binding corporate rules](https://a.sfdcstatic.com/content/dam/www/ocms-backup/assets/pdf/misc/Salesforce-Processor-BCR.pdf), and [EU-US Privacy Shield](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Privacy/privacy-shield-notice.pdf)
+Type of service: Website live chat  
+Location: USA  
+Privacy Policy: [Intercom Privacy Policy](https://www.intercom.com/terms-and-policies#privacy)  
+Transfer out of EEA Safeguard: [EU-approved binding corporate rules](https://a.sfdcstatic.com/content/dam/www/ocms-backup/assets/pdf/misc/Salesforce-Processor-BCR.pdf), and [EU-US Privacy Shield](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Privacy/privacy-shield-notice.pdf)
 
 ### Revulytics
 
-Type of service: Intellectual property compliance Location: USA Privacy Policy: [Revulytics Privacy Policy](https://www.revulytics.com/privacy-policy) Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnuGAAS)
+Type of service: Intellectual property compliance  
+Location: USA  
+Privacy Policy: [Revulytics Privacy Policy](https://www.revulytics.com/privacy-policy)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnuGAAS)
 
 ### Shopify
 
-Type of service: Webshop Location: USA Privacy Policy: [Shopify Privacy Policy](https://www.shopify.com/legal/privacy) Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4)
+Type of service: Webshop  
+Location: USA  
+Privacy Policy: [Shopify Privacy Policy](https://www.shopify.com/legal/privacy)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4)
 
 ### Amazon Web Services
 
-Type of service: IT services Location: USA Privacy Policy: [AWS Privacy Policy](https://aws.amazon.com/privacy) Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4)
+Type of service: IT services  
+Location: USA  
+Privacy Policy: [AWS Privacy Policy](https://aws.amazon.com/privacy)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4)
 
 ### Digital Ocean
 
-Type of service: IT services Location: USA Privacy Policy: [Digital Ocean Privacy Policy](https://www.digitalocean.com/legal/privacy) Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.digitalocean.com/security/privacy-shield)
+Type of service: IT services  
+Location: USA  
+Privacy Policy: [Digital Ocean Privacy Policy](https://www.digitalocean.com/legal/privacy)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.digitalocean.com/security/privacy-shield)
 
 ### Slack
 
-Type of service: Internal messaging Location: USA Privacy Policy: [Slack Privacy Policy](https://slack.com/privacy-policy) Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://slack.com/privacy-shield-notice)
+Type of service: Internal messaging  
+Location: USA  
+Privacy Policy: [Slack Privacy Policy](https://slack.com/privacy-policy)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://slack.com/privacy-shield-notice)
 
 ### SendGrid
 
-Type of service: Non-marketing e-mail delivery Location: USA Privacy Policy: [SendGrid Privacy Policy](https://sendgrid.com/policies/privacy) Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://sendgrid.com/policies/privacy/privacy-shield-certification)
+Type of service: Non-marketing e-mail delivery  
+Location: USA  
+Privacy Policy: [SendGrid Privacy Policy](https://sendgrid.com/policies/privacy)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://sendgrid.com/policies/privacy/privacy-shield-certification)
 
 ### SurveyMonkey
 
-Type of service: On-line surveys Location: USA Privacy Policy: [SurveyMonkey Privacy Policy](https://www.surveymonkey.com/mp/legal/privacy-policy) Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000Gn7zAAC)
+Type of service: On-line surveys  
+Location: USA  
+Privacy Policy: [SurveyMonkey Privacy Policy](https://www.surveymonkey.com/mp/legal/privacy-policy)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000Gn7zAAC)
 
 ### PayPal
 
-Type of service: Online payments Location: Headquarters in USA, local presence in many other countries Privacy Policy: PayPal has separate privacy policies depending on your location, they are listed on the [PayPal Legal Agreements](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev) page. Transfer out of EEA Safeguard: [EU-approved Binding Corporate Rules](https://www.paypal.com/uk/webapps/mpp/ua/bcr)
+Type of service: Online payments  
+Location: Headquarters in USA, local presence in many other countries  
+Privacy Policy: PayPal has separate privacy policies depending on your location, they are listed on the [PayPal Legal Agreements](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev) page.  
+Transfer out of EEA Safeguard: [EU-approved Binding Corporate Rules](https://www.paypal.com/uk/webapps/mpp/ua/bcr)
 
 ### Amazon Payments
 
-Type of service: Online payments Location: USA Privacy Policy: [Amazon Payments Privacy Policy](https://pay.amazon.com/us/help/201491260) Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4)
+Type of service: Online payments  
+Location: USA  
+Privacy Policy: [Amazon Payments Privacy Policy](https://pay.amazon.com/us/help/201491260)  
+Transfer out of EEA Safeguard: [EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4)
 
 ### Netlify
 
-Type of service: Website hosting Location: Headquarters in the USA, content delivered from local nodes in the EEA Privacy Policy: [Netlify Privacy Policy](https://www.netlify.com/privacy) Transfer out of EEA Safeguard: Personal data from EEA residents is only processed inside the EEA
+Type of service: Website hosting  
+Location: Headquarters in the USA, content delivered from local nodes in the EEA  
+Privacy Policy: [Netlify Privacy Policy](https://www.netlify.com/privacy)  
+Transfer out of EEA Safeguard: Personal data from EEA residents is only processed inside the EEA
 
 ### Xero
 
-Type of service: Accounting services Location: UK Privacy Policy: [Xero UK Privacy Policy](https://www.xero.com/uk/about/terms/privacy)
+Type of service: Accounting services  
+Location: UK  
+Privacy Policy: [Xero UK Privacy Policy](https://www.xero.com/uk/about/terms/privacy)
 
 Your information will be shared with these service providers where necessary to provide you with the service you have requested, whether that is accessing our website or ordering goods and services from us.
 
-**Legal basis for processing** : legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest relied on** : where we share your information with these third parties in a context other than where is necessary to perform a contract (or take steps at your request to do so), we will share your information with such third parties in order to allow us to run and manage our business efficiently.
+**Legal basis for processing** : legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest relied on** : where we share your information with these third parties in a context other than where is necessary to perform a contract (or take steps at your request to do so), we will share your information with such third parties in order to allow us to run and manage our business efficiently.
 
-**Legal basis for processing** : necessary to perform a contract and/or to take steps at your request prior to entering into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : we may need to share information with our service providers to enable us to perform our obligations under that contract or to take the steps you have requested before we enter into a contract with you.
+**Legal basis for processing** : necessary to perform a contract and/or to take steps at your request prior to entering into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : we may need to share information with our service providers to enable us to perform our obligations under that contract or to take the steps you have requested before we enter into a contract with you.
 
 ## Disclosure of your information to other third parties
 
@@ -440,13 +510,14 @@ We disclose your information to other third parties in specific circumstances, a
 
 Google collects information through our use of Google Analytics on our website. Google uses this information, including IP addresses and information from cookies, for a number of purposes, such as improving its Google Analytics service. Information is shared with Google on an aggregated and anonymised basis. To find out more about what information Google collects, how it uses this information and how to control the information sent to Google, please see the following page: <https://www.google.com/policies/privacy/partners/>
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest** : meeting our contractual obligations to Google under our Google Analytics Terms of Service (<https://www.google.com/analytics/terms/us.html>)
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest** : meeting our contractual obligations to Google under our Google Analytics Terms of Service (<https://www.google.com/analytics/terms/us.html>)
 
 You can opt out of Google Analytics by installing the browser plugin here: <https://tools.google.com/dlpage/gaoptout>
 
 ### Transfer and storage of your information
 
-Information collected by Google Analytics is stored outside the European Economic Area on Google’s servers in the USA.
+Information collected by Google Analytics is stored outside the European Economic Area on Google's servers in the USA.
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
 
@@ -454,7 +525,8 @@ For further information about the safeguards used when your information is trans
 
 These third parties are either related to or associated with the running of our business, where it is necessary for us to do so. These third parties include our accountants, advisors, affiliates, business partners, independent contractors, and insurers. Further information on each of these third parties is set out below.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest** : running and managing our business efficiently.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest** : running and managing our business efficiently.
 
 ####Accountants
 
@@ -494,9 +566,11 @@ Our insurers are located in the USA and UK.
 
 The Boris FX group includes two legal entites, Artel Software, Inc and Imagineer Systems Ltd. We share data for internal administrative purposes, including client, customer and employee information.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest** : running and managing our business effectively.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest** : running and managing our business effectively.
 
-**Legal basis for processing** : necessary to perform a contract or to take steps at your request prior to entering into a contract (Article 6(1)(b) of the General Data Protection Regulation). **Reason why necessary to perform a contract** : we need to share your information with other companies in order to be able to meet our contractual obligations to you or to take steps at your request prior to entering a contract, for example because of the services or information you have requested.
+**Legal basis for processing** : necessary to perform a contract or to take steps at your request prior to entering into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract** : we need to share your information with other companies in order to be able to meet our contractual obligations to you or to take steps at your request prior to entering a contract, for example because of the services or information you have requested.
 
 We do not display the identities all of the other third parties we may share information with by name for security and competitive reasons. If you would like further information about the identities of such third parties, however, please contact us directly via our contact form or by e-mail and we will provide you with such information where you have a legitimate reason for requesting it (where we have shared your information with such third parties, for example).
 
@@ -504,7 +578,8 @@ We do not display the identities all of the other third parties we may share inf
 
 Sharing your information with a prospective or actual purchaser or seller in the context of a business or asset sale or acquisition by us, a merger or similar business combination event, whether actual or potential.
 
-**Legal basis for processing** : legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests** : sharing your information with a prospective purchaser, seller or similar person in order to allow such a transaction to take place.
+**Legal basis for processing** : legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests** : sharing your information with a prospective purchaser, seller or similar person in order to allow such a transaction to take place.
 
 ## Disclosure and use of your information for legal reasons
 
@@ -512,27 +587,32 @@ If we suspect that criminal or potential criminal conduct has been occurred, we 
 
 We will generally only need to process your information for this purpose if you were involved or affected by such an incident in some way.
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests** : preventing crime or suspected criminal activity (such as fraud).
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests** : preventing crime or suspected criminal activity (such as fraud).
 
 ### In connection with the enforcement or potential enforcement our legal rights
 
 We will use your information in connection with the enforcement or potential enforcement of our legal rights, including, for example, sharing information with debt collection agencies if you do not pay amounts owed to us when you are contractually obliged to do so. Our legal rights may be contractual (where we have entered into a contract with you) or non-contractual (such as legal rights that we have under copyright law or tort law).
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest:** enforcing our legal rights and taking steps to enforce our legal rights.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest:** enforcing our legal rights and taking steps to enforce our legal rights.
 
 ### In connection with a legal or potential legal dispute or proceedings
 
 We may need to use your information if we are involved in a dispute with you or a third party for example, either to resolve the dispute or as part of any mediation, arbitration or court resolution or similar process.
 
-**Legal basis for processing:** our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interests:** resolving disputes and potential disputes.
+**Legal basis for processing:** our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interests:** resolving disputes and potential disputes.
 
 ### For ongoing compliance with laws, regulations and other legal requirements
 
 We will use and process your information in order to comply with legal obligations to which we are subject. For example, we may need to disclose your information pursuant to a court order or subpoena if we receive one.
 
-**Legal basis for processing** : compliance with a legal obligation (Article 6(1)(c) of the General Data Protection Regulation). **Legal obligations** : legal obligations to disclose information which are part of the laws of the Commonwealth of Massachusetts, United States federal law or the laws of England and Walesm, or if they have been integrated into the legal frameworks of one of those jurisdictions (for example in the form of an international agreement which the United Kingdom has signed).
+**Legal basis for processing** : compliance with a legal obligation (Article 6(1)(c) of the General Data Protection Regulation).  
+**Legal obligations** : legal obligations to disclose information which are part of the laws of the Commonwealth of Massachusetts, United States federal law or the laws of England and Walesm, or if they have been integrated into the legal frameworks of one of those jurisdictions (for example in the form of an international agreement which the United Kingdom has signed).
 
-**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation). **Legitimate interest** : where the legal obligations are part of the laws of another country and have not been integrated into the legal framework of our local jurisdiction, we have a legitimate interest in complying with these obligations.
+**Legal basis for processing** : our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest** : where the legal obligations are part of the laws of another country and have not been integrated into the legal framework of our local jurisdiction, we have a legitimate interest in complying with these obligations.
 
 This section sets out how long we retain your information. We have set out specific retention periods where possible. Where that has not been possible, we have set out the criteria we use to determine the retention period.
 
@@ -582,13 +662,18 @@ Your information will be transferred and stored outside the European Economic Ar
 
 ## Google Analytics
 
-Information collected by Google Analytics (your IP address and actions you take in relation to our website) is transferred outside the EEA and stored on Google’s servers. You can access Google’s privacy policy here: <https://www.google.com/policies/privacy/> \- **Country of storage** : United States of America. This country is not subject to an adequacy decision by the European Commission. \- **Safeguards used** : Google has self-certified its compliance with the EU-U.S. Privacy Shield which is available here: <https://www.privacyshield.gov/welcome>. The EU-U.S. Privacy Shield is an approved certification mechanism under Article 42 of the General Data Protection Regulation, which is permitted under Article 46(2)(f) of the General Data Protection Regulation. You can access the European Commission decision on the adequacy of the EU-U.S. Privacy Shield here: <http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm>
+Information collected by Google Analytics (your IP address and actions you take in relation to our website) is transferred outside the EEA and stored on Google's servers. You can access Google's privacy policy here: <https://www.google.com/policies/privacy/>
+
+  * **Country of storage** : United States of America. This country is not subject to an adequacy decision by the European Commission.
+  * **Safeguards used** : Google has self-certified its compliance with the EU-U.S. Privacy Shield which is available here: <https://www.privacyshield.gov/welcome>. The EU-U.S. Privacy Shield is an approved certification mechanism under Article 42 of the General Data Protection Regulation, which is permitted under Article 46(2)(f) of the General Data Protection Regulation. You can access the European Commission decision on the adequacy of the EU-U.S. Privacy Shield here: <https://ec.europa.eu/info/law/law-topic/data-protection_en>
+
+
 
 ## Other Transfers
 
-For other transfers outside the EEA, see the list of third party providers in the Disclosure of your information to service providers section. All non-EEA providers have self-certified compliance with the EU-US Privacy Shield or put in place EU-approved binding corporate rules. You can access the European Commission decision on the adequacy of the EU-U.S. Privacy Shield here: <http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm>.
+For other transfers outside the EEA, see the list of third party providers in the Disclosure of your information to service providers section. All non-EEA providers have self-certified compliance with the EU-US Privacy Shield or put in place EU-approved binding corporate rules. You can access the European Commission decision on the adequacy of the EU-U.S. Privacy Shield here: <https://ec.europa.eu/info/law/law-topic/data-protection_en>.
 
-Subject to certain limitations on certain rights, you have the following rights in relation to your information, which you can exercise by writing to Boris FX’s representative in the EU, Imagineer Systems Ltd, Surrey Technology Centre, 40 Occam Road, Guildford GU2 7YG, United Kingdom or sending an e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com):
+Subject to certain limitations on certain rights, you have the following rights in relation to your information, which you can exercise by writing to Boris FX's representative in the EU, Imagineer Systems Ltd, Surrey Technology Centre, 40 Occam Road, Guildford GU2 7YG, United Kingdom or sending an e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com):
 
   * **to request access to your information** and information related to our use and processing of your information;
   * **to request the correction or deletion** of your information;
@@ -601,11 +686,11 @@ Subject to certain limitations on certain rights, you have the following rights 
 
 In accordance with Article 77 of the General Data Protection Regulation, you also have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or of an alleged infringement of the General Data Protection Regulation.
 
-For the purposes of the UK, the supervisory authority is the Information Commissioner’s Office (ICO), the contact details of which are available here: <https://ico.org.uk/global/contact-us/>
+For the purposes of the UK, the supervisory authority is the Information Commissioner's Office (ICO), the contact details of which are available here: <https://ico.org.uk/global/contact-us/>
 
 ## Further information on your rights in relation to your personal data as an individual
 
-The above rights are provided in summary form only and certain limitations apply to many of these rights. For further information about your rights in relation to your information, including any limitations which apply, please visit the following pages on the ICO’s website:
+The above rights are provided in summary form only and certain limitations apply to many of these rights. For further information about your rights in relation to your information, including any limitations which apply, please visit the following pages on the ICO's website:
 
   * <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>; and
   * <https://ico.org.uk/for-the-public/is-my-information-being-handled-correctly/>
@@ -628,7 +713,7 @@ If it is not possible to identity you from such information, or if we have insuf
 
 We will be able to confirm the precise information we require to verify your identity in your specific circumstances if and when you make such a request.
 
-If you are an EU resident, you have the following rights in relation to your information, which you may exercise by writing to Boris FX’s representative in the EU, Imagineer Systems Ltd, Surrey Technology Centre, 40 Occam Road, Guildford GU2 7YG, United Kingdom or sending an e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com):
+If you are an EU resident, you have the following rights in relation to your information, which you may exercise by writing to Boris FX's representative in the EU, Imagineer Systems Ltd, Surrey Technology Centre, 40 Occam Road, Guildford GU2 7YG, United Kingdom or sending an e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com):
 
   * to object to us using or processing your information where we use or process it in order to for our legitimate interests, including ‘profiling’ (i.e. analysing or predicting your behaviour based on your information) based on any of these purposes; and
   * to object to us using or processing your information for direct marketing purposes (including any profiling we engage in that is related to such direct marketing).
@@ -639,11 +724,12 @@ You may also exercise your right to object to us using or processing your inform
 
 For more information on how to object to our use of information collected from cookies and similar technologies, please see the section entitled **How to accept or reject cookies** in our [cookies policy](https://web.archive.org/company/cookies/).
 
-‘Sensitive personal information’ is information about an individual that reveals their racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic information, biometric information for the purpose of uniquely identifying an individual, information concerning health or information concerning a natural person’s sex life or sexual orientation.
+‘Sensitive personal information’ is information about an individual that reveals their racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic information, biometric information for the purpose of uniquely identifying an individual, information concerning health or information concerning a natural person's sex life or sexual orientation.
 
 We collect and process sensitive personal information in the form of academic photo ID, for the purposes of verifying eligibility for academic pricing. This information will be deleted as soon as eligibility has been confirmed, and access is restricted to members of staff carrying out this function.
 
-**Legal basis for processing** : your explicit consent (Article 9(2)(a) of the General Data Protection Regulation). **Consent** : you give us consent to verify your eligibility for academic discounted pricing using the academic ID you have provided
+**Legal basis for processing** : your explicit consent (Article 9(2)(a) of the General Data Protection Regulation).  
+**Consent** : you give us consent to verify your eligibility for academic discounted pricing using the academic ID you have provided
 
 Aside from this we do not knowingly or intentionally collect sensitive personal information from individuals, and you must not submit sensitive personal information to us. The one exception to this is academic eligibility verification which is detailed below.
 
@@ -663,7 +749,7 @@ We will provide you with the information about the change in question and the pu
 
 Wherever required, we will obtain your prior consent before using your information for a purpose that is different from the purposes for which we originally collected it.
 
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations protect the privacy of children using the internet. We do not knowingly contact or collect information from persons under the age of 16. The website is not intended to solicit information of any kind from persons under the age of 16.
+Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations protect the privacy of children using the internet. We do not knowingly contact or collect information from persons under the age of 16. The website is not intended to solicit information of any kind from persons under the age of 16.
 
 It is possible that we could receive information pertaining to persons under the age of 16 by the fraud or deception of a third party. If we are notified of this, as soon as we verify the information, we will, where required by law to do so, immediately obtain the appropriate parental consent to use that information or, if we are unable to obtain such parental consent, we will delete the information from our servers. If you would like to notify us of our receipt of information about persons under the age of 16, please do so by sending an e-mail to [privacy@borisfx.com](mailto:privacy@borisfx.com).
 
