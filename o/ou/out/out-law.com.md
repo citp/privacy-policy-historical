@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626181024id_/https%3A//www.pinsentmasons.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218001818id_/https%3A//www.pinsentmasons.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
