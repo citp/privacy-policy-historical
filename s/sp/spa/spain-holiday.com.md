@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spain-holiday.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609010040id_/http%3A//www.spain-holiday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spain-holiday.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217075501id_/https%3A//www.spain-holiday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Spain-holiday.com
 
@@ -32,37 +32,37 @@ In case that in the compliance of the commercial relationship, third parties per
 
 #### **Responsible for the treatment of data**
 
-In accordance with provisions outlined by EU Regulation (2016/679) from the European Parliament and from the Council (27th of April 2016), concerning the protection of natural persons with regard to the processing of personal data and the free movement of this data as well as any other applicable regulations on data protection (hereinafter GDPR). We inform you that all personal data provided by users through the domain www.spain-holiday.com and its subdomains (hereinafter, "the Website"), are treated under the responsibility of Spain Holiday Online Rentals (hereinafter, the PLATFORM), CIF B92802479 with the registered office at Paseo de Cerrado de Calderón, 13, Local 41, 29018 Malaga (Spain), telephone: + 34 951 234 435, email:[support@spain-holiday.com ](mailto:support@spain-holiday.com) as the owner and legal representative of the Website. 
+In accordance with provisions outlined by EU Regulation (2016/679) from the European Parliament and from the Council (27th of April 2016), concerning the protection of natural persons with regard to the processing of personal data and the free movement of this data as well as any other applicable regulations on data protection (hereinafter GDPR). We inform you that all personal data provided by users through the domain www.spain-holiday.com and its subdomains are treated under the responsibility of Spain Holiday Online Rentals (hereinafter, Spain-Holiday), CIF B92802479 at registered office in Paseo de Cerrado de Calderón, 13, Local 41, 29018 Malaga (Spain), telephone: + 34 951 234 435, email:support@spain-holiday.com as the owner and legal representative of the Website. 
 
 #### **Purpose of data processing**
 
-The personal data provided by users through the website are used in accordance with the purpose for which the data has been collected.
+The personal data provided by users through the website are only used in accordance with the purpose for which the data has been collected.
 
-\- User account: The legal basis for the processing of your data is the execution from the provision of the corresponding service: Ad management and registration of your data to facilitate management and contact with the user. This data is kept as long as the commercial relationship continues as well as during the years it is necessary to comply with any legal obligation.
+\- User account: The legal basis for the processing of this data is for the execution and provision of the corresponding services: Ad management and registration of your data to facilitate management and contact with the user. This data is kept for the duration of the commercial relationship and for the time that is necessary to comply with any legal obligation.
 
-\- Contact form: Response to communications initiated by the interested parties. Treatment that is legitimised by consent from the interested party. In this case, we preserve the data alongside the purpose for which it has been collected for a maximum of 2 years, unless the party concerned withdraws their consent beforehand.
+\- Contact form: Response to communications initiated by an interested party. The treatment of this data is legitimised by the consent from the interested party. In this case, the data is kept according to the purpose for which it has been collected for, and for a maximum of 2 years, unless the party concerned withdraws their consent before this.
 
-\- Subscription to our newsletter: Sending advertising about our products and services; information about promotions and distribution of activities and events organised by the PLATFORM. This treatment is legitimised by the consent of the interested party and his / her data will be kept while he / she does not request the cessation of the activity.
+\- Subscription to our newsletter: Sending advertising about our products and services; information about promotions, distribution of activities and events organised by Spain-Holiday. The treatment of this data is legitimised by the consent of the interested party. This data will be kept as long as the interested party does not request the cessation of activity.
 
-\- Sending of request: Sending and managing reservation requests to the owners or managers from the holiday homes advertised on the PLATFORM. The legal basis for this is the initial communication necessary for future rental contracts or pre-contractual measures carried out by the interested party. This data is kept as long as the commercial relationship persists or during the years necessary to comply with legal obligations of a fiscal and commercial nature.
+\- Sending of request: Sending and managing reservation requests to the owners or managers from the holiday homes advertised on Spain-Holiday. The legal basis for this data collection is that it is required for the initial communication, necessary for future rental contracts or pre-contractual measures carried out by the interested party. This data is kept for as long as the commercial relationship continues and during the years necessary to comply with any legal obligations.
 
-\- Subscription to our promotion "Win a Gift Check": Sending information of our promotions, distribution of activities and events organised by the PLATFORM. This treatment is legitimised by the consent of the interested party and his / her data will be kept while he / she does not request the cessation of the activity. 
+\- Subscription to our promotion "Win a Gift Check": Sending information of our promotions, distribution of activities and events organised by Spain-Holiday.com. This data treatment is legitimised by the consent of the interested party and the data will be kept as long as the party interested does not request the cessation of the activity. 
 
 #### **Recipients**
 
 No personal data will be transferred to third parties.
 
-Depending on the purpose in question, the personal data collected can be categorised as identifying data such as - name, surname, nationality, identity document number or passport, as well as personal characteristics such as - date of birth, sex, contact information, address, telephone, postal mail and electronic. Also data related to the touristic properties - cadastral reference, address, number of tourist license, and economic-banking data; all of this data will be treated with strict confidentiality, applying technical and organisational security measures, required by the current data protection regulations. The PLATFORM will not communicate this personal data to third parties, except for legal or jurisdictional purposes or when the communication of this data is necessary in relation to the purpose of the treatment itself.
+Depending on the purpose in question, any personal data collected is categorised as a form of personal identification. This data can be in the form of your name, surname, nationality, identity document number or passport, as well as personal characteristics such as - date of birth, sex, contact information, telephone number, postal address and email address. Furthermore, this data can also relate to tourist properties - cadastral reference, address, tourist license number, and economic-banking data; all of this data will be treated with strict confidentiality, applying technical and organisational security measures, required by the current data protection regulations. Spain-Holiday will not communicate this personal data to third parties, unless it is required to do so for legal or jurisdictional purposes or if the communication of this data is necessary in relation to the purpose of the treatment itself.
 
 #### **Rights of the person in which the personal data belongs to**
 
-Regarding personal data, the user can exercise their rights of access, rectification, deletion, opposition, limitation, portability and withdrawal of consent, among others provided under the regulations of GDPR. This can be done by sending an email to the following address support@spain-holiday.com, Postal Code (29018), attaching a photocopy of a valid ID document, a request in which the application is specified and indicating in the subject "data protection." If you do not agree with the treatment we perform on your personal data, you can file a claim with the Spanish Agency for Data Protection AEPD (www.aepd.es).
+In regards to the treatment of personal data, the owner of this data can exercise their rights to access, rectify, request deletion, oppose, limit, or withdraw consent, among others options provided under the regulations of GDPR. This can be done by sending an email to the following address, support@spain-holiday.com, or by writing to Spain-Holiday and attaching a photocopy of a valid ID document along with what you request regarding the treatment of your personal data. If you do not agree with the treatment of your personal data, you can file a claim with the Spanish Agency for Data Protection AEPD (www.aepd.es).
 
 #### **Modification of the Privacy Policy and Treatment of Personal Data**
 
-The PLATFORM reserves the right to modify and update the content of this privacy policy and the processing of personal data at any time, either partially or in its entirety. Therefore, the user must carefully read the cookies policies every time they access the website or periodically in order to know the latest and most updated version of these policies. 
+Spain-Holiday reserves the right to modify and/or update the content of this privacy policy and the processing of personal data at any time, either partially or in its entirety. Therefore, the user is advised to read the cookie policy carefully every time they access the website or periodically in order to be fully informed on the latest and most updated version of these policies. 
 
-#### **Changes to company status >**
+#### **Changes to company status**
 
  **
 
