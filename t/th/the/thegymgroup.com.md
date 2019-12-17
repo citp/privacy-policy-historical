@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330152518id_/https%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217192114id_/https%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy | Privacy Policy | The Gym Group
 
@@ -288,7 +288,7 @@ We will also ensure that the personal data captured by our CCTV Systems is only 
 
 The Gym Limited’s CCTV Officer has the legal responsibility for the day-to-day compliance with the requirements of this policy.
 
-The purpose of the use of the CCTV Systems and the collection and processing of CCTV images is for the prevention or detection of crime or disorder, apprehension and prosecution of offenders (including use of images as evidence in criminal proceedings), interest of public and employee Health and Safety, protection of public health and the protection of the Our property and assets.
+The purpose of the use of the CCTV Systems and the collection and processing of CCTV images is for the prevention or detection of crime or disorder, apprehension and prosecution of offenders (including use of images as evidence in criminal proceedings), interest of public and employee Health and Safety, protection of public health and the protection of our property and assets and to ensure compliance with our policies and procedures.
 
 Prior to any camera installation the CCTV Officer will ensure that the installation complies with this policy and that the use of any camera is justified, necessary and proportionate. The CCTV Officer will regularly assess whether the use of any camera and the CCTV System as a whole continues to be justified, necessary and proportionate.
 
@@ -306,7 +306,7 @@ _**Processing the images**_
 
 Images which are not required for the purpose(s) for which the equipment is being used will not be retained for longer than is necessary. While images are retained, it is essential that their integrity be maintained, whether it is to ensure their evidential value or to protect the rights of people whose images may have been recorded. Access to and security of the images is controlled in accordance with the requirements of the Regulation.
 
-All images are digitally recorded and stored securely within the system’s hard drives. Images are stored for a minimum of 14 days and stored for no more than 31 days. 
+All images are digitally recorded and stored securely within the system’s hard drives. Images are stored for a minimum of 14 days and typical for no more than 31 days. In exceptional circumstances some specific footage may be stored for longer periods.
 
 Where the images are required for evidential purposes or disciplinary proceedings, a copy file will be moved to an access controlled confidential location on the network and held until completion of the investigation. Viewing of images within the system is controlled by the CCTV Officer or a person nominated to act on their behalf. Only persons trained in the use of the equipment and authorised by the CCTV Officer can access data.
 
