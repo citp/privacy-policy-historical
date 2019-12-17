@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the wizkids.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517095430id_/https%3A//wizkids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizkids.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217213629id_/https%3A//wizkids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WizKids
+
+Skip to content
+
+Privacy Policy[WizKids](https://wizkids.com/author/sjenkins/ "Posts by WizKids")2017-10-26T08:51:54-04:00
+
+## Privacy Policy
 
 We take your privacy very seriously and we work hard to earn and keep your trust. As such, we adhere to the following basic principles to protect your privacy. We may collect certain information from you on or through this website (the *Site*). We use this information to deliver the services offered on the Site, to inform you of changes to the Site or your account, to enhance the Site, to prevent illegal or potentially prohibited conduct, and to enforce our Terms of Use (the *Terms*), which incorporate this Privacy Policy by reference.
 
