@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the forrester.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320143959id_/https%3A//www.forrester.com/marketing/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrester.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217044603id_/https%3A//go.forrester.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy · Forrester
 
-### Privacy Policy
+## Privacy Policy
 
 Forrester respects your privacy. The type of information and ways we collect and use the information you provide while on our website (“Website”), Forrester mobile applications (“Apps”) or our Tap Application (“Tap”, and collectively with our Website and Apps, the “Site”) and during certain other interactions are listed below:
 
-## When does Forrester collect information?
+###  When does Forrester collect information? 
 
 Forrester may collect certain information when an individual:
 
@@ -19,7 +19,9 @@ Forrester may collect certain information when an individual:
 
 
 
-## What information does Forrester collect?
+To the press: Forrester obtains contact details and other personal information regarding media contacts and influencers from a variety of sources. If you wish to know more about how such information is collected and used, please contact [press@forrester.com](mailto:press@forrester.com) for more information.
+
+###  What information does Forrester collect? 
 
   * Personal contact information you may choose to provide while visiting or registering on our Site, including registrations to attend Forrester events. This information may include your: name, address, company name, job title, telephone number, email address, and the name and email of third parties you may provide to us. 
   * If you register to participate in Forrester online communities or other shared areas of the Site, you may be asked to create a profile. Your profile may be made available to other members of the shared site(s) and may include the registration information you provide as well as other information you choose to add such as work history and education.
@@ -29,14 +31,14 @@ Forrester may collect certain information when an individual:
 
 
 
-## How does Forrester use the information?
+###  How does Forrester use the information? 
 
 **To fulfill our obligations.** Forrester uses personal contact information you share with us to fulfill contractual obligations that may include providing products or services that you or your employer purchased, answer your contract administration related inquiries or communicate with you about your account or transactions with us, and send you information about features on the Site, or changes to our policies or events for which you registered.
 
 **To provide Tap.** If you are using Tap, Your Taps are publicly available on the application. We may use Your Taps in a number of different ways, including displaying them, reformatting them, incorporating them into other works, creating derivative works from them, promoting them and distributing them.
 
   * We may also share Your Taps with third party businesses so that they can improve their products and services and provide responses to Your Taps.
-  * If you use Tap, we may also send you communications about Your Taps, your account and the Tap application to facilitate your use of the application. 
+  * If you use Tap, we may also send you communications about Your Taps, your account and the Tap application to facilitate your use of the application.
   * If you choose to connect to your Facebook account on Tap, your name or user ID that you use with Facebook will be publicly displayed along with Your Taps and such information may be viewed by and shared with third party businesses.
 
 
@@ -49,12 +51,12 @@ Forrester may collect certain information when an individual:
 
 **To improve our performance by using third party vendors.** We may also disclose certain data to third party contractors or vendors in connection with their performance of services to us. Contractual agreements between us and such third parties provide that your information will be kept confidential and secure.
 
-**To conduct Forrester Events.** When registering for an event you may choose to have your name, title, company and/or country be available to event attendees during the event. Forrester transfers certain information of event registrants and attendees to its event sponsors. Use by Sponsors of the information you choose to share with them is subject to each sponsor's Privacy Policy. Please click the link found in the Registration Terms and Conditions of the specific Event for further information. For details on how Forrester shares your information with sponsors please see below:
+**To conduct Forrester Events.** When registering for an event you may choose to have your name, title, company and/or country be available to event attendees during the event. Forrester transfers certain information of event registrants and attendees to its event sponsors. Use by Sponsors of the information you choose to share with them is subject to each sponsor’s Privacy Policy. Please click the link found in the Registration Terms and Conditions of the specific Event for further information. For details on how Forrester shares your information with sponsors please see below:
 
-  * **Pre-Event Lists.** Sponsors of a Forrester event are provided a “Pre-Event List” for event staffing purposes. The list may contain the Company name, title, industry and country of individuals that have registered for the event. 
-  * **Post-Event Lists** \- When registering for an event you may choose to have your contact details (name, title, company, and/or country) added to a “Post-Event List” that is transferred to sponsors of the event for marketing purposes. Once the information is transferred to the sponsors, 
-  * **Event Sponsor Booth Lists.** Forum event attendees are provided with badges having bar codes that may be scanned at sponsored activities or sponsor booths. Attendee contact information is transferred to any sponsor that scans the badge. 
-  * **Sponsored Event Lists and RFID badge scanning.** When attending an event session sponsored by a third party, your badge may be scanned. Attendee contact information is transferred to any sponsor that scans the badge. Radio frequency identification **(RFID)** technology may be used to scan a badge when attending certain sponsored sessions at events held in the United States. Please note that signage outside such sponsored sessions will alert an attendee if the **RFID** functionality of a badge is being used at that session. If so, by walking into these sessions you agree to have your badge automatically scanned and your contact information shared with the session sponsor. 
+  * **Pre-Event Lists.** Sponsors of a Forrester event are provided a “Pre-Event List” for event staffing purposes. The list may contain the Company name, title, industry and country of individuals that have registered for the event.
+  * **Post-Event Lists** – When registering for an event you may choose to have your contact details (name, title, company, and/or country) added to a “Post-Event List” that is transferred to sponsors of the event for marketing purposes.
+  * **Event Sponsor Booth Lists.** Forum event attendees are provided with badges having bar codes that may be scanned at sponsored activities or sponsor booths. Attendee contact information is transferred to any sponsor that scans the badge.
+  * **Sponsored Event Lists and RFID badge scanning.** When attending an event session sponsored by a third party, your badge may be scanned. Attendee contact information is transferred to any sponsor that scans the badge. Radio frequency identification **(RFID)** technology may be used to scan a badge when attending certain sponsored sessions at events held in the United States. Please note that signage outside such sponsored sessions will alert an attendee if the **RFID** functionality of a badge is being used at that session. If so, by walking into these sessions you agree to have your badge automatically scanned and your contact information shared with the session sponsor.
 
 
 
@@ -62,7 +64,7 @@ Forrester may collect certain information when an individual:
 
 **To enable Forrester online communities.** If you participate in Forrester online communities or other shared services, your profile information may be shared with other members to enable collaboration.
 
-## Pursuant To What Legal Bases Do We Process Your Information?
+###  Pursuant To What Legal Bases Do We Process Your Information? 
 
 We rely on a number of legal bases to use your information in the ways indicated above. These legal bases include where:
 
@@ -82,7 +84,7 @@ Forrester has a legitimate interest in customizing your on-site experience to he
 
 Forrester may also process and share your personal information with a third party in response to lawful requests by public authorities, including to meet legitimate national security or law enforcement requirements; defend against legal claims, to comply with a subpoena, court order, legal process, or other legal requirement; or when we believe in good faith that such disclosure is reasonably necessary to comply with the law.
 
-## Cookies
+###  Cookies 
 
   * What are cookies?   
 A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another. 
@@ -99,7 +101,7 @@ You may choose to control and/or delete all cookies from your hard drive. If you
 
 
 
-## Transfer Of Data
+###  Transfer Of Data 
 
   * We operate globally and may transfer your personal information to our affiliate companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored, or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent.
 
@@ -129,15 +131,15 @@ You may choose to control and/or delete all cookies from your hard drive. If you
 
 
 
-## Additional Information That May Be Of Interest
+###  Additional Information That May Be Of Interest 
 
-  * Forrester account managers, analysts, and other members of the research staff can place research documents into a client's Research Bookmarks. To prevent duplicate placement of research, research and account management employees can review the contents in this area.
+  * Forrester account managers, analysts, and other members of the research staff can place research documents into a client’s Research Bookmarks. To prevent duplicate placement of research, research and account management employees can review the contents in this area.
   * We have implemented technical, administrative, and physical security measures that are designed to protect your information from unauthorized access, disclosure, use, and modification. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
   * Forrester does not knowingly collect any personal information from children and does not market or offer services to children. You must be at least 13 years of age to access the Site.
 
 
 
-## Changes
+###  Changes 
 
 Changes to this policy may be posted from time to time. All versions will reflect a posting date. We encourage you to visit this page periodically for changes.
 
