@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welivesecurity.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326105223id_/https%3A//www.welivesecurity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welivesecurity.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217043642id_/https%3A//www.welivesecurity.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | WeLiveSecurity
 
