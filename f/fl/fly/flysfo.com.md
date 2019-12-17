@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flysfo.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414215055id_/https%3A//www.flysfo.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flysfo.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217201630id_/https%3A//www.flysfo.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # San Francisco International Airport
 
