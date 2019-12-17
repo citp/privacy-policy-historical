@@ -1,146 +1,244 @@
-> *The following text is extracted and transformed from the bouxavenue.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121094621id_/http%3A//www.bouxavenue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouxavenue.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217144659id_/https%3A//www.bouxavenue.com/everything-else/privacy.html) for the most accurate reproduction.*
 
-# Privacy and cookies | Boux Avenue
+# Privacy Policy | Boux Avenue
 
-  
+information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, and any phone number used to call our customer service number.
 
+With regard to newsletter emails you sign up to receive from us, each email collects:
 
-## Privacy & Cookies
+  * Information about you, using industry standard technologies including pixels which will track email opens (if you have images enabled in your email client/mailbox). This is the standard approach for measuring open and click rates, and is used by all email platforms in the market. 
 
-We use cookies on bouxavenue.com to enable various types of functionality (including buying online, saving your size preferences and signing in to your account). These help us to better understand how people use our website so that we can work on offering you the best possible experience. Website usage statistics are always anonymous, a cookie can be read only by the website that sets it and cookies cannot contain viruses or access any personal information on your computer.
-
-Read on for further information about the cookies we may use, how to manage cookies on your computer or mobile device and our privacy policy.
-
-## What are cookies?
-
-Cookies are tiny text files stored on your computer when you visit certain web pages. If your web browser settings allow it, any website may set its own cookies on your computer, but to protect your privacy your browser will only let a website read a cookie that it has set. A cookie will usually contain the domain of the website that has set it (e.g. bouxavenue.com, google.co.uk, bbc.co.uk etc.), the ‘lifetime’ of the cookie (how long it will be stored for), and the cookie’s value which is often a randomly generated unique string of letters and/or numbers. Because cookies are just text files, they cannot contain viruses or be used to access any personal information on your computer.
-
-## First-party and third-party cookies
-
-A first-party cookie is one that is set by the website you are visiting, whereas a third-party cookie is one that is set by a website that may be providing content to the website you are visiting (for example, if you watch an embedded YouTube video on a website you are visiting, you may find that YouTube sets its own cookie). Remember that a website can only read its own cookies, so any third party websites cannot read the cookies set by the website you are visiting. Equally, the website you are visiting cannot read any cookies set by third party websites.
-
-## How does bouxavenue.com use cookies?
-
-We use cookies on bouxavenue.com to enable various types of functionality and to better understand how people use our website. This enables us to offer you the best possible experience:
-
-### First-party cookies
-
-These cookies are set by bouxavenue.com and can be read only by bouxavenue.com.
-
-Cookie name(s)| Purpose  
----|---  
-ASP.NET_SessionId| This cookie allows our web servers to respond to your actions on the website such as "Add to bag" or browsing the website. Without it, the website wouldn’t know if one person or lots of different people were clicking through pages of the site meaning no one would be able to login or buy anything.  
-PHPSESSID| This cookie is very similar to ASP.NET_SessionId cookie above but is set if you browse certain pages on bouxavenue.com that are powered by Wordpress (e.g. Miss B’s blog).  
-size| This cookie is used to remember your size preferences. When you choose your size to add an item to your bag or when you save your size preferences in your VIP account, the sizes are saved in the cookie. The website then pre-selects your size when you view other products so you don’t have to keep doing it.   
-viewedproducts| This cookie is used to show you your recently viewed items when you’re browsing our range so it’s easier for you to get back to something you’ve already looked at. You can always use the cross on each item (or the clear all button) to hide these.  
-Login| This cookie is set only if you select ‘Keep me signed in’ when you sign in to your VIP account. The cookie stores your VIP account email address and a securely encrypted version of your password (i.e. if anyone did get hold of your computer and found this cookie, they would not be able to get your password). To keep your account secure, you should never select ‘Keep me signed in’ on a public or shared computer.  
-__utma, __utmb, __utmc, __utmz| These cookies are set by a website analytics package we use called Google Analytics. Any data passed to the Google Analytics platform is anonymous and used by us to understand trends in visitor behaviour. This helps us make better decisions about our marketing activity and website.  
-_#env, _#sess, _#srchist, _#uid, _#vdf, _#slid, _#clickid, _#lps, _#tsa| These cookies are set by a website analytics package we use called DC Storm. Any data passed to the DC Storm platform is anonymous and used by us to understand trends in visitor behaviour. This helps us make better decisions about our marketing activity.  
-Cookies beginning with comment_author, comment_author_email, comment_author_url| These cookies are set by our Wordpress blogging platform when you leave a comment on Miss B’s blog. This is for your convenience so that you won’t have to retype your information again when you want to leave another comment.  
-_aw_m_3454| This cookie is set only if you visit bouxavenue.com via one of our affiliate partners. It lets us identify when we need to pay commission on sales.  
-  
-
-
-### Third-party cookies
-
-We will endeavour to keep the below list updated, however it may become out of date if the third parties alter the cookies they use.
-
-Cookie set by| Cookie name(s)| Purpose  
----|---|---  
-awin1.com (Affiliate Window)| aw3454| Boux Avenue works with a number of affiliate websites on a commission basis to attract a wider audience than we otherwise might. This cookie is set only if you visit bouxavenue.com via one of these affiliate websites (or their email/social activity). It is used to record that the affiliate sent us a visitor so that we can identify when we need to pay commission on sales.  
-www.googleadservices.com (Google)| Conversion| This cookie is set only if you visit bouxavenue.com via an advert or sponsored link on Google’s search results. If you decide to buy something, this cookie is used to tell our Google AdWords advertising account that the click on the advert resulted in a sale. This helps us make better decisions about our marketing activity and display more relevant adverts.  
-Facebook| c_user, datr, locale, lu, s, xs| If you choose to use the Facebook ‘like’ or ‘share’ buttons that can be found on some pages of bouxavenue.com, Facebook may set some or all of these cookies.  
-Twitter| k, guest_id, _twitter_sess, original_referer, external_referer| If you choose to use the Twitter ‘tweet’ button that can be found on some pages of bouxavenue.com, Twitter may set some or all of these cookies.  
-PayPal| s_vi, DH4puLeRqX6BpunfdurQO8Swi28, HaC80bwXscjqZ7KM6VOxULOB534, INSIDE_SEARCH_PARAMS, KHcl0EuY7AKSMgfvHl7J5E7hPtK, LANG, PUuuwWB0yFt3AzV9ACftsAxz2fO, SEGM, cookie_check, cwrClyrK4LoCV1fydGbAxiNL6iG, flow_back_cookie, login_email, navcmd, navlns, pNTcMTtQfrJuaJiwEnWXQ6yNxfq, s_pers, s_sess, Apache, TS6a0e62| If you choose to pay for your order using PayPal, you will be temporarily redirected to the PayPal website to login and confirm the payment. The PayPal website may set some or all of these cookies. As a PayPal user, you are advised to read PayPal’s cookie policy to understand where PayPal and/or its third- party partners may be setting additional cookies.  
-  
-
-
-## How to manage cookies on your computer or mobile device
-
-If cookies aren't enabled on your computer you will still be able to browse www.bouxavenue.com and blog.bouxavenue.com, but your experience will be limited and you will not be able to add items to your bag and buy them.
-
-Using your web browser’s settings you can view the cookies on your computer, remove all or some cookies and set rules on when to allow and not allow cookies to be set. For instructions on how to manage cookies in your particular web browser we recommend you visit [www.aboutcookies.org](http://www.aboutcookies.org/) (opens in a new window – please note that we cannot be held responsible for the content of external websites).
-
-If you would like to know how to manage the cookies on your mobile phone, tablet or other mobile device we recommend that you check your device’s manual.
-
-## Privacy & Security
-
-At Boux Avenue we absolutely recognise how important it is to keep your personal information safe and secure.
-
-We take your personal privacy very seriously and are committed to ensuring that your details are kept confidential. When you kindly provide us with your name, address, credit card, contact details or any other personal details we promise to keep them safe and secure and other than as explained in this policy, will not share them with anyone outside Boux Avenue Limited.
-
- **Shopping with Boux Avenue is guaranteed to be safe, secure and of course, stylish.**
-
-### Site security
-
-The bouxavenue.com website is highly secure
-
-Our website uses 128 bit SSL (Secure Sockets Layer) encryption technology which is the most advanced level of security currently available for online shopping.
-
-When you are in a secure area of the website, such as the checkout, you should see a solid padlock in your browser status bar which indicates that the encryption is taking place, and therefore safe to continue.
-
-You will also see that the Boux Avenue address in the browser has changed and the http has been replaced with https in front of the www.bouxavenue.com address - another sure sign of tip top security.
-
-### Privacy promise
-
-We take your personal privacy very seriously and are committed to ensuring that your details are kept confidential and are only used to provide you with our fabulous customer service.
-
-We promise that: 
-
-  * We will never sell your personal details to any outside company 
-  * Unless specifically authorised by you, we will not pass on your details to any third party company for mailing or marketing purposes 
+  * All links in emails are proxied through a link redirection service that records data for each link clicked. This leads to a set of events which includes:  
+1\. Event type (delivery, bounce, open, click, spam complaint, unsubscribe)  
+2\. Email address of the recipient (which you will have provided)  
+3\. IP address of the recipient (in the case of open and click)  
+4\. GEO location based on IP address (city level) (in the case of open and click)  
+5\. Device type (mobile/computer/tablet) and browser (i.e/firefox/chrome/safari). 
 
 
 
-When you shop on the Boux Avenue website we collect some personal information from you. All this information is held on secure servers and Boux Avenue fully complies with all obligations required of the data protection act and current consumer legislation.
 
-Some of this information is used to process your order and to keep you informed of its progress. We use some third party institutions to perform services on our behalf, including to handle the processing and fulfillment of your order. They receive the information needed to do this and all such institutions are under strict contractual obligations to keep your personal information secure and private, so no need to worry.
+Other Information
 
-Additionally, should you give us your permission, we will include you on our regular VIP marketing emails to keep you informed of new products, promotions, special events, store openings and other useful or exciting information about Boux Avenue. You may opt out at any time either by updating your subscription within your account on the website or by clicking the unsubscribe link at the bottom of every email we send.
+We may also collect information about you when you visit our stores via CCTV. Any CCTV recording and use is governed by our separate CCTV policy. We will not collect any other information about you when you are in-store or when you correspond with us apart from the information that you provide to us.
 
-For more details on our Privacy Policy, please see the section incorporated into our [terms and conditions](http://www.bouxavenue.com/terms-and-conditions) of use.
+**  1.3. Information we receive from other sources. **
 
-### What information we collect
+This is information we receive about you from sources other than directly from yourself, which may include social media such as Linked In, Facebook, Twitter and Instagram. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers). 
 
-We may collect the following information:
+* * *
 
-  * First name, surname, title & birth date 
-  * Contact information such as telephone number & email address 
-  * Demographic information such as address, IP address, preferences & postcode 
-  * Loyalty information such as loyalty transactions, order channel & points information 
+ 
+
+### 2. Cookies
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [ here](https://www.bouxavenue.com/everything-else/cookies.html)
+
+* * *
+
+### 3. Purposes for which we may process the information
+
+We use information held about you in the following ways:
+
+**3.1. Information you give to us. **
+
+  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+
+  * to update you with regard to the progress of orders that you have placed;
+
+  * to resolve any queries you may have regarding orders that you have placed;
+
+  * to administer any loyalty, discount or other such cards or initiatives that we may operate from time to time;
+
+  * to initiate any product recalls or provide any important information to you relating to products that we supply;
+
+  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+
+  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing consumer customer, we will only contact you by electronic means (e.g. e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you unless you have consented to receive wider communications. If you are a consumer and are not an existing customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick as applicable the relevant boxes situated on the form on which we collect your data or notify our in-store staff accordingly when they attempt to collect your information;
+
+  * to notify you about changes to our products or services;
+
+  * or fraud prevention;
+
+  * to ensure that content from our site is presented in the most effective manner for you and for your computer;
+
+  * to make decisions as to whether and on what terms to offer credit;
+
+  * if you have submitted a job application, in order to evaluate and manage that application, and to manage your employment if you are successful.
 
 
 
-### What we do with the information we gather
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Please note that, where you are asked to provide information to us which is of a sort that is necessary to enable us to perform a contract or fulfil a request that you make (e.g. contact, delivery or payment information) it is a requirement for us to enter and perform such a contract or fulfil your request that you provide that information – if you do not do so, we may not be able to perform your contract or fulfil your request.
 
-  * Placing, processing and dispatching your order(s). 
-  * Internal record keeping 
-  * Analyse demographic and geographical location data via Google Analytics using cookies. 
-  * Provide you with website sharing services and social network connectors 
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails about new products & special offers 
-  * From time to time, we may also use your information to contact you for market research purposes. 
-  * We may use the information to customise the website according to your interests and to present you with advertisements about our products and services when you visit other websites. 
-  * It is possible that personal information you provide to us may be transferred to, and processed in a destination outside the European Economic Area ("EEA"). We will take all steps reasonably neccessary to ensure your data is treated securely and in accordance with this privacy policy.
+**3.2. Information we collect about you. **
+
+We will use this information:
+
+  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+
+  * to improve our site to ensure that content is presented in the most effective manner for you and for your computer; 
+
+  * to allow you to participate in interactive features of our service, when you choose to do so;
+
+  * as part of our efforts to keep our site safe and secure;
+
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+
+  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
 
 
 
-### Email Marketing service
 
-Additionally, should you give us your permission, we will include you on our regular VIP marketing emails to keep you informed of new products, promotions, special events, store openings and other useful or exciting information about Boux Avenue. These emails may be personalised to contain your name for promotional reasons.
+* * *
 
-To unsubscribe from our mailings, please click the link found at the bottom of each email or update your account preferences. If you have any questions or need our help, please contact our customer service team (Contact details mentioned below).
+### 4. Disclosure of your information
 
-Our emails are sent by: Boux Avenue, 22-24 Worple Road, Wimbledon, London, SW19 4DD, United Kingdom.
+**4.1. You agree that we have the right to share your personal information:**
 
-For more details on our Privacy Policy, please see the section incorporated into our [terms and conditions](http://www.bouxavenue.com/terms-and-conditions) of use.
+4.1.1. For administrative purposes, any of our group undertakings, as defined in s1161(5) of the UK Companies Act 2006 and also including any undertaking which is under 50% or more ultimate common ownership with Boux Avenue Ltd, provided that they either: 
 
-### Phishing emails or calls - do not share your personal information
+(a) are within the European Economic Area;
 
-Phishing is the process of tricking someone into passing over personal or sensitive information. This can be done in an email format or through a phone call from someone pretending to be from an official and legitimate source.
+(b) are in a country that the European Union has decided has adequate data protection laws in place; or
 
-Do not share your personal information with anyone claiming to be from Boux Avenue. If we need to take an alternative payment method or other personal information from you, we will ask you to call us back on our main customer services number.
+(c) have provided appropriate data protection safeguards of the sort approved by the European Union and provide effective rights and remedies for you. 
 
-If you think someone is attempting to deceive you into passing over your details, please let one of our customer service team know immediately by giving us a call on 0800 054 6550 (Monday - Friday 8am-8pm, Saturday and Sunday 9am-5pm), or email us at [hello@bouxavenue.com](mailto:hello@bouxavenue.com).
+Any use by other group members of one group member’s personal data beyond administration will be subject to all the requirements of Data Protection Law. In particular, we may only pass such data to them for their marketing purposes if you have consented to that.
+
+4.1.2. With selected third parties including:
+
+  * advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we will provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience
+
+  * analytics and search engine providers that assist us in the improvement and optimisation of our site
+
+  * Referral marketing services: We operate a refer-a-friend programme to enable our customers to recommend Boux Avenue to their friends and family. Our refer-a-friend programme is operated on our behalf by Mention Me Limited as our data processor. Mention Me Limited is a UK company whose registered office is at 20-22 Wenlock Road, London, N1 7GU. We will share some of your data (including email address and name) with Mention Me to enable you to participate in our refer-a-friend programme when you sign up with Boux Avenue. Mention Me does not use this data for any purpose other than operating our refer-a-friend programme. You can find more details of the data Mention Me processes for us in their privacy policy which can be viewed [here](https://mention-me.com/help/privacy_policy_s#referrers).
+
+
+
+
+**4.2. Additionally, we may disclose your personal information to third parties:**
+
+4.2.1. If we outsource any aspect of our business or systems, then we may disclose your personal data to our service provider(s).
+
+4.2.2. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+
+4.2.3. If we or a substantial part of our assets are acquired by a third party, in which case personal data held by us about our customers may be one of the transferred assets.
+
+4.2.4. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply the terms of any agreement or policy to which we are a party, or to protect the rights, property, or safety of our business, our customers, or others. This may include exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+* * *
+
+### 5. Legal basis of processing
+
+**5.1. Data Protection Law requires us to meet at least one “legal ground“ for processing, currently set out in Article 6 of the General Data Protection Regulation.** The grounds applicable to the personal data to which this notice relates are:
+
+5.1.1. Where the processing is necessary for us to perform a contract that you are party to, or to take steps at your request prior to entering a contract, that is the ground on which we are processing that data;
+
+5.1.2. Where the processing is necessary for compliance with a legal obligation to which we are subject, that is the ground on which we are processing that data;
+
+5.1.3. Where processing is necessary for the purposes of our legitimate interests or the legitimate interests of a third party, that is the ground on which we are processing that data, provided that your fundamental rights and freedoms which require protection of your data override those legitimate interests (our legitimate interests comprise the management, marketing and promotion of our business, products and services, and the supply of our products and services, and the recruitment and management of staff);
+
+5.1.4. If you have given your consent to our processing the data, that is the basis on which we are processing that data.
+
+If more than one of the above grounds apply to the processing of data in question, the applicable ground will be the one that is set out first above.
+
+**5.2. Special categories of personal data**
+
+If you provide us with any special categories of personal data (that is to say information as to racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sex life or sexual orientation or genetic or biometric data) or personal data relating to criminal convictions and offences, then unless you provide that information to us in a recruitment or employment context (in which case please see below) it is a condition of us receiving that information that you expressly consent (and you hereby do) to us processing that personal data for the purposes set out in clause 3. Accordingly, if you do not want us to process any such categories of personal data, please do not provide it to us.
+
+If you provide us with any of the above types of data in relation to a job application or in the context of your work with us, the information will only be used so that we can monitor our compliance with the law and best practice in terms of equal opportunities and non-discrimination and, where applicable to review and keep under review your ability and suitability to carry out the work for which you may be employed and any health and safety issues.
+
+* * *
+
+### 6. Where we store your personal data
+
+**6.1. The data that we collect from you will be stored on our servers or those of our service providers.** It will not be transferred to, and stored at, a destination outside the UK or the European Economic Area **("EEA")** unless:
+
+6.1.1. to one of our group undertakings to which section 4.1.1 above applies; or
+
+6.1.2. to a processor acting on our behalf which is either (i) within the EEA, or (ii) in a country that the European Union has decided has adequate data protection laws in place, or (iii) has provided appropriate data protection safeguards of the sort approved by the European Union and provide effective rights and remedies for you.
+
+**6.2. All information you provide to us is stored on our secure servers.** Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential, and for all use made of your account with such password. We ask you not to share a password with anyone.
+
+**6.3. Unfortunately, the transmission of information via the internet is not completely secure.** Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted via the internet; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+* * *
+
+### 7. Length of data storage
+
+Our policy is to ensure that personal data is only stored for as long as is necessary for the purposes set out at section 3 above. This may vary according to the type of information and the specific applicable purpose(s). We have a detailed data retention and destruction policy which governs the length of time for which we hold your data in personally identifiable form. The timing of our retention, anonymisation and/or destruction of your personal data is determined according to the criteria set out in that policy. We can provide you with relevant details applicable to your data on request – please see section 8.2 below as to how to request this information.
+
+* * *
+
+### 8. Your rights
+
+**8.1. You have various rights under Data Protection Law. These include:**
+
+8.1.1. The right to ask us not to process your personal data for direct marketing purposes, even if you have given consent;
+
+8.1.2. If our processing is based on your consent, the right to withdraw any consent you may have given for our processing of your data – if you exercise this right, we will be required to stop such processing if consent is the sole lawful ground on which we are processing that data;
+
+8.1.3. The right to ask us for access to the data we hold about you (see section 9 below for further details);
+
+8.1.4. The right to ask us to rectify any data that we hold about you that is inaccurate or incomplete;
+
+8.1.5. The right to ask us to delete your data in certain circumstances;
+
+8.1.6. The right to ask us to restrict our processing of your data in certain circumstances;
+
+8.1.7. The right to object to our processing of your data in certain circumstances;
+
+8.1.8. In certain circumstances, the right to require us to give you the data we hold about you in a structured, commonly used and machine-readable format so that you can provide the data to another data controller.
+
+**8.2. You can exercise any of the rights set out above, free of charge, by using any applicable methods set out in our communications with you, or by contacting us [here.](https://www.bouxavenue.com/gdpr-request)**
+
+**8.3. In respect of certain of the rights referred to above, your right may be qualified by the GDPR (which we will discuss with you following your request) or we may need more information from you, which we will ask you for following your request. **We may ask you to provide further information in order to confirm your identity. Please also note that if you submit unfounded or excessive (for example repetitive) requests to exercise any of these rights, we reserve the right to make a reasonable charge for providing the requested information or taking the requested action, or to decline your request.
+
+**8.4. You also have the right to lodge a complaint with the Information Commissioner’s Office ( **www.ico.org.uk** ) if you are concerned that we are not respecting your rights under Data Protection Law.** The Information Commissioner’s Office is the authority in the UK which is responsible for overseeing the application of, and enforcing, Data Protection Law.
+
+* * *
+
+### 9. Accessing your data
+
+You have the right to obtain from us:
+
+**9.1. Confirmation as to whether we are processing (including holding) personal data about you; and**
+
+**9.2. If we are processing personal data about you, you are entitled to be provided with:**
+
+9.2.1. Information as to the purposes for which we process the data;
+
+9.2.2. Information as to the categories of the data that we are processing;
+
+9.2.3. Information as to the recipients or categories of recipients to whom the data has or will be disclosed;
+
+9.2.4. Information as to the envisaged period for which we will store the data, or the basis on which that period will be determined;
+
+9.2.5. A copy of the data (further copies are available at a reasonable charge, which we will inform you of should you request further copies). Please note that this right is subject to the rights of others in relation to their own personal data, meaning that we cannot disclose data to you if it would involve disclosing data about someone else.
+
+**9.3. Please see section 8.2 above as to how to exercise your rights under this section 9. Section 8.2 applies in full to the exercise of these rights.**
+
+* * *
+
+### 10. Automated decisions
+
+We may, based on information that you provide or that we collect about you, make certain decisions on an automated basis. For example, we may send higher volume customers a periodic discount code. In certain circumstances, you have the right to object to such decisions being made on an automated basis, for example by having human intervention on our part in the decision-making process, by being able to express your point of view in relation to the decision or being able to contest the decision. If you do not want us to take such decisions on an automated basis, please see section 8.2 above. Section 8.2 applies in full to the exercise of these rights.
+
+* * *
+
+### 11. Other websites
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+* * *
+
+### 12. Changes to this privacy notice
+
+Any changes we make to our privacy notice in the future will be posted on this page. Please check back frequently to see any updates or changes to our privacy notice.
+
+* * *
+
+### 13. Contact
+
+Questions, comments and requests regarding this privacy notice are welcomed and should be addressed to [GDPRenquiries@bouxavenue.com](mailto:%20GDPRenquiries@bouxavenue.com)
