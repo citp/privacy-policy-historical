@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woot.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506043445id_/https%3A//www.woot.com/privacy%3Fref%3Dw_ft_bs_pp%23ref%3Dwww.woot.com/footer/link%404.4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woot.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217102306id_/https%3A//www.woot.com/privacy%3Fref%3Dw_ft_bs_pp%23ref%3Dwww.woot.com/footer/link%404.4) for the most accurate reproduction.*
 
 # Privacy Policy - Woot
 
