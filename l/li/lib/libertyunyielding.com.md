@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyunyielding.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230149id_/https%3A//libertyunyielding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyunyielding.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217112821id_/https%3A//libertyunyielding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions - Liberty Unyielding
 
@@ -82,4 +82,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please feel free to [contact us](https://libertyunyielding.com/contact/).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please feel free to [contact us](https://libertyunyielding.com/contact/).
