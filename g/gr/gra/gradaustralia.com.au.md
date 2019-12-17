@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gradaustralia.com.au privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308070554id_/https%3A//gradaustralia.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradaustralia.com.au privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217201752id_/https%3A//gradaustralia.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GradAustralia
+# GradAustralia Privacy Policy | GradAustralia
 
 ### **1\. We respect privacy**
 
-1.1 GradAustralia Pty Ltd ABN 43 168 218 782 ("GradAustralia", "we" or "us") respects the right to privacy and is committed to safeguarding the privacy of our customers and our website visitors.  We adhere to the Australian Privacy Principles and other obligations contained in the _Privacy Act 1988_ (Cth). The Australian Privacy Principles may be accessed at:<http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles>. This policy sets out how we collect and treat personal information.
+1.1 GradAustralia Pty Ltd ABN 43 168 218 782 ("GradAustralia", "we" or "us") respects the right to privacy and is committed to safeguarding the privacy of our customers and our website visitors.  We adhere to the Australian Privacy Principles and other obligations contained in the  _Privacy Act 1988_  (Cth). The Australian Privacy Principles may be accessed at: <https://www.oaic.gov.au/privacy/australian-privacy-principles/> This policy sets out how we collect and treat personal information.
 
 1.2 "Personal information" is information we hold which is identifiable as being about an individual.
 
@@ -20,7 +20,7 @@
 
 ### **3.    What kind of personal information do we collect?**
 
-           3.1 The types of personal information we may collect include:
+3.1 The types of personal information we may collect include:
 
 (a) identifying information such as name, gender, image and date of birth;
 
@@ -80,9 +80,9 @@ We are committed to ensuring that personal information provided to us is secure.
 
 ### **8.    Access to personal information**
 
-8.1 You may request details of personal information that we hold about you in accordance with the provisions of the _Privacy Act 1988_ (Cth). A small administrative fee may be payable for the provision of information. If you are seeking a copy of the information that we hold about you or you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, you may email us at contact@gradaustralia.com.au
+8.1 You may request details of personal information that we hold about you in accordance with the provisions of the  _Privacy Act 1988_  (Cth). A small administrative fee may be payable for the provision of information. If you are seeking a copy of the information that we hold about you or you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, you may email us at contact@gradaustralia.com.au
 
-8.2 We reserve the right to refuse to provide you with information that we hold about them, in certain circumstances set out in the _Privacy Act_.
+8.2 We reserve the right to refuse to provide you with information that we hold about them, in certain circumstances set out in the  _Privacy Act_.
 
 ### **9.   Direct marketing**
 
@@ -90,7 +90,7 @@ We are committed to ensuring that personal information provided to us is secure.
 
 9.2 By agreeing to our General Terms & Conditions you give express consent to receive these types of communications.
 
-9.3 We will only send you direct marketing communications that are consistent with our obligations under Australian Privacy Principle 7 and the _Spam Act 2003_ (Cth).
+9.3 We will only send you direct marketing communications that are consistent with our obligations under Australian Privacy Principle 7 and the  _Spam Act 2003_  (Cth).
 
 9.4 We will always make it clear and simple to opt out of these communications and will respond to an opt-out request within a reasonable period.
 
@@ -116,4 +116,4 @@ We are committed to ensuring that personal information provided to us is secure.
 
 12.4  When you access our Services via your mobile device or computer, we may automatically collect information about your device or computer, including unique device identifiers (e.g., IMEI number, serial number, etc.), operating system, hardware model, etc.
 
-12.5   Our website may from time to time have links to other websites not owned or controlled by us. These links are meant for users’ convenience only. Links to third party websites do not constitute sponsorship, endorsement or approval of these websites. Please be aware that We are not responsible for the privacy practises of other such websites. We encourage users to be aware, when they leave our website, to read the privacy statements of each and every website that collects personal identifiable information.  
+12.5   Our website may from time to time have links to other websites not owned or controlled by us. These links are meant for users’ convenience only. Links to third party websites do not constitute sponsorship, endorsement or approval of these websites. Please be aware that We are not responsible for the privacy practises of other such websites. We encourage users to be aware, when they leave our website, to read the privacy statements of each and every website that collects personal identifiable information.
