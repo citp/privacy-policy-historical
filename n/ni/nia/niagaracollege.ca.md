@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404131552id_/https%3A//www.niagaracollege.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217091942id_/https%3A//www.niagaracollege.ca/privacy) for the most accurate reproduction.*
 
 # Niagara College Privacy Statement for Visitors to NiagaraCollege.ca
 
@@ -7,6 +7,12 @@ Niagara College is committed to protecting the privacy of our online visitors an
 In these situations, the collection, use, disclosure, and retention of your personal information will be in compliance with **Ontario’s Freedom of Information and Protection of Privacy Act (FIPPA)** and with the [**Niagara College Practice for the Freedom of Information and the Protection of Privacy**](https://web.archive.org/fippa/).
 
 Additional Niagara College Practices can be found [**here**](https://web.archive.org/practices/).
+
+* * *
+
+### Student Privacy
+
+Student privacy information can be found [here](https://www.niagaracollege.ca/privacy/student/).
 
 * * *
 
