@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629033618id_/https%3A//www.irex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217041238id_/https%3A//www.irex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IREX
 
