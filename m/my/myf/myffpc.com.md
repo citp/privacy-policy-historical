@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myffpc.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305212001id_/http%3A//myffpc.com/ffpccontent/trust/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myffpc.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217175428id_/https%3A//myffpc.com/ffpccontent/trust/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FFPC
 
 FFPC recognizes that individuals who play in FFPC leagues and contests value their privacy. This Privacy Policy details important information regarding the collection, use and disclosure of user information collected on FFPC league management platform, located at [www.myffpc.com](http://www.myffpc.com/).
 
-This Privacy Policy should be read in conjunction with our [Terms and Conditions](http://myffpc.com/ffpccontent/trust/terms-conditions/). By registering for a FFPC player account, or participating in any FFPC leagues and contests, or using the FFPC league management platform in any manner, you accept this Privacy Policy and the policies described herein.
+This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://myffpc.com/ffpccontent/trust/terms-conditions/). By registering for a FFPC player account, or participating in any FFPC leagues and contests, or using the FFPC league management platform in any manner, you accept this Privacy Policy and the policies described herein.
 
 Any questions, comments or complaints that you might have should be emailed to [info@myffpc.com](mailto:info@myffpc.com). You may also send it by mail to:
 
