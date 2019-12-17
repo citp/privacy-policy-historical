@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154123id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217204903id_/http%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
 
 # Your privacy - WhatDoTheyKnow
 
@@ -86,7 +86,7 @@ You do not need to supply a postal address in order to make an FOI request. If a
 
   * The Ministry of Justice has guidance on this– _“As well as hard copy written correspondence, requests that are transmitted electronically (for example, in emails) are acceptable ... If a request is received by email and no postal address is given, the email address should be treated as the return address.”_
   * The Information Commissioner’s [ Hints for Practitioners](http://www.ico.org.uk/for_organisations/freedom_of_information/guide/receiving_a_request) say _“A request must ... include an address for correspondence. This need not be the person’s residential or work address - it can be **any address at which you can write to them** , including a postal address or **email address** ;”_
-  * Paragraph 107 of the [Information Commissioner’s Guidance on recognising a request](http://ico.org.uk/~/media/documents/library/Freedom_of_Information/Research_and_reports/recognising-a-request-made-under-the-foia.pdf "Recognising a request made under the FOIA") under the Freedom of Information Act now contains a section specifically on [WhatDoTheyKnow](https://web.archive.org/) which states: 
+  * Paragraph 107 of the [Information Commissioner’s Guidance on recognising a request](https://ico.org.uk/media/for-organisations/documents/1164/recognising-a-request-made-under-the-foia.pdf#page=22 "Recognising a request made under the FOIA") under the Freedom of Information Act now contains a section specifically on [WhatDoTheyKnow](https://web.archive.org/) which states: 
 
 > With respect to the address for correspondence, we consider the `@whatdotheyknow.com` email address provided to authorities when requests are made through the site to be a valid contact address for the purposes of Section 8(1)(b). 
 
@@ -206,9 +206,13 @@ We retain emails sent to and from this central mailbox for two years — corresp
 
 ##  Legal basis for processing #
 
-In using WhatDoTheyKnow to make your FOI request, you are consenting to your data being processed as described on this page. In most cases the legal basis for this processing is Legitimate Interests (this is as laid out in [6(1)(f)](https://gdpr-info.eu/art-6-gdpr/) – of the GDPR, in force from 25 May 2018). We believe that we are pursuing a legitimate interest in processing your personal data to provide the service to your benefit and the benefit of society. There is a benefit to you in that we offer an easy way to make and track Freedom of Information requests. The service also has a benefit to the public as any information released in response to the request is publicly available in a historic archive for anyone to use. There is also a benefit to authorities responding to requests, in that the automatic publication of the requests reduces duplicate requesting. We believe that our processing of your data is as you would expect when you use the service. 
+In most cases our legal basis for processing personal information is "legitimate interest" (this is as laid out in [6(1)(f)](https://gdpr-info.eu/art-6-gdpr/) – of the GDPR, in force from 25 May 2018). We believe that we are pursuing a legitimate interest in processing personal data to provide our service to benefit of our users and the benefit of society. There is a benefit to our users in that we offer an easy way to make, track and publish Freedom of Information requests. The service also has a benefit to the public as any information released in response to the request is publicly available in a historic archive for anyone to use. There is also a benefit to authorities responding to requests, in that the automatic publication of the requests reduces duplicate requesting. 
 
-On rare occasions the legal basis of Compliance With a Legal Obligation will apply when we are legally obliged to hold material, for example where a court order has been issued [(6(1)(c)](https://gdpr-info.eu/art-6-gdpr/) of the GDPR). 
+We believe that our processing of our users' data is as they would expect when they use our service. If you use WhatDoTheyKnow to make a FOI request, you are consenting to your data being processed as described on this page. We make clear how we handle users' data, and link to this page, at appropriate places within our service, including during the process of signing up, and making a request. 
+
+On rare occasions the legal basis of "compliance with a legal obligation" will apply when we are legally obliged to hold material, for example where a court order has been issued ([6(1)(c)](https://gdpr-info.eu/art-6-gdpr/) of the GDPR). 
+
+In almost all cases our processing of personal information will be lawful under Article 6 of the GDPR but we may also rely on [the "special purposes" derogations in the Data Protection Act 2018](http://www.legislation.gov.uk/ukpga/2018/12/part/6/crossheading/the-special-purposes/enacted), especially those applying to academic and journalistic purposes. Often use of our service is academic or journalistic in nature, and the provision of our service as a whole may be considered a journalistic endeavour. 
 
 ##  Your rights #
 
@@ -319,7 +323,7 @@ Sample data about database queries, individual requests for pages is stored by N
 
 [ Further information from New Relic on privacy and security](https://newrelic.com/security)
 
-[More general information on how third party services work](https://www.mysociety.org/privacy/)
+[More general information on how third party services work](https://www.mysociety.org/privacy/?utm_source=whatdotheyknow.com&utm_medium=link)
 
 **Credits**
 
