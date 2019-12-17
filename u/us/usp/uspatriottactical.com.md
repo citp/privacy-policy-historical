@@ -1,74 +1,84 @@
-> *The following text is extracted and transformed from the uspatriottactical.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803212323id_/http%3A//uspatriottactical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspatriottactical.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217045535id_/https%3A//uspatriottactical.com/privacy-policy) for the most accurate reproduction.*
 
 # US Patriot Privacy Policy
 
-This Privacy Policy governs the manner in which USPatriottactical.com and PatriotSurplus.com collect, use, maintain and disclose information collected from users (each, a "User") of the http://www.USPatriottactical.com and PatriotSurplus.com websites ("Sites").
+## Privacy Policy
 
-## Personal identification information
+This Privacy Policy (“Policy”) explains how information about you is collected, used, and disclosed by U.S. Patriot, LLC and our subsidiaries (collectively, “US Patriot,” “we” or “us”) when you access or use our websites or mobile services (“Site”), shop in our stores, or otherwise interact with us.
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+## What We Collect
 
-## Non-personal identification information
+_Information you provide to us   _
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect personal data or personally identifiable information (collectively, “Personal Data”) from Users in a variety of ways, including, but not limited to, when Users visit our Site, register on the Site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.  Users may be asked for, as appropriate, name, email address, mailing address, phone number, and/or credit card information.  All of this information is considered “Personal Data.”  Users may, however, visit our Site anonymously.  We will collect Personal Data personal identification information from Users only if they voluntarily submit such information to us.  Users can always refuse to supply Personal Data personally identification information, except that it may prevent them from engaging in certain Site- related activities. 
 
-## Web browser cookies
+_Information collected automatically online_
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.  We also capture some information about your device, such as your IP address, and information related to your visit to our Site, such as the time-stamp, the page(s) or product(s) you viewed, and your log-in. 
 
 ## How we use collected information
 
-US Patriot (USPatriottactical.com,PatriotSurplus.com) collects and uses Users personal information for the following purposes:
+_To personalize user experience_
 
-  * _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _To process transactions_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. We may also use your specific Personal Data to remember you when you log in again, so that you do not need to re-authenticate yourself, to let you browse between products and pages more easily, to remember if you put something in your shopping cart before you decide to checkout or leave the Site, and to administer content, promotions, surveys or other Site features.
+
+_To improve our Site_
+
+We continually strive to improve our website offerings based on the information and feedback we receive from Users.
+
+_To improve customer service_
+
+User information helps us to respond more effectively to customer service requests and support needs.
+
+_To process transactions_
+
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _To administer a content, promotion, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _To send periodic emails_  
+
+_To send periodic emails_
+
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
+Personal Data will be stored by us for as long as you maintain an account with us or as needed to provide you services, resolve disputes, and comply with our legal obligations. 
 
+We are based in the United States and the information we collect is governed by U.S. law.  Your use or access to our site constitutes your consent to the processing and transfer of information in and to the U.S. and other countries.  
 
 ## How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, user name, password, transaction information and data stored on our Site.
+We use multiple information-security measures to protect your transactions with us.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+We adopt reasonable security measures to protect the confidentiality of Personal Data under our control and appropriately limit access to it. 
 
-## Sharing your personal information
+Our Site uses SSL secured communication channel with digital signatures to encrypt and protect Personal Data exchanged between the Site and its Users.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+## How we share your information
 
-## Third party websites
+We do not sell, trade, or rent Personal Data to others. We may share generic aggregated demographic information not linked to any Personal Data regarding visitors and Users with our business partners, trusted affiliates, and advertisers for the purposes outlined above.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+We use an external provider to run our store, BigCommerce.  BigCommerce is based in the United States and is a participant in the EU-US Privacy Shield Framework and committed to providing best-in-class service and data protection.  You can check BigCommerce’s participation in the Privacy Shield on the official site of The International Trade Administration (ITA), U.S. Department of Commerce (www.privacyshield.gov).
 
-## Advertising
+## Advertising, Analytics and Services
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We may allow third-party service providers to serve advertisements or provide analytical services.  Users may find advertising or other content on our Site that links to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on those sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. Those sites and services may have their own privacy policies and customer service policies. Browsing on and interacting with any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
 
-## Changes to this privacy policy
+Ads appearing on our Site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This policy does not cover the use of cookies by any advertisers.
 
-US Patriot (USPatriottactical.com, PatriotSurplus.com) has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+## Your Choices
 
-## Your acceptance of these terms
+Users may elect to stop receiving marketing or promotional e-mails, mobile marketing communications, phone or direct mail.  Users may also request that we delete their Personal Data, which may result in a User’s inability to continue to engage in certain Site-related activities.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Users may update and their correct your personal information at any time.   
 
-## Contacting us
+## Changes to this Policy
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+U.S. Patriot, LLC has the discretion to update this policy at any time. When we do, we will  notify you by revising the Effective Date below, or in some cases we may provide an e-mail or  post a notice on this website prior to the change becoming effective. We encourage Users to check this page frequently for any changes to stay informed about how we are helping to protect the Personal Data we collect. You acknowledge and agree that it is your responsibility to review this policy periodically and become aware of modifications.
 
-US Patriot LLC  
+## Contact Us
+
+If you have any questions, comments or concerns about this policy, or our privacy practices please contact us.
+
+Phone: (800) 805-5294.  
+Email: [admin@uspglobal.com](mailto:admin@uspglobal.com)  
+Address:  
+U.S. Patriot, LLC  
 212 Candi Lane  
-Columbia, SC 29210  
-8008055294  
-[admin@uspglobal.com](mailto:admin@uspglobal.com)
-
-This document was last updated on May 9, 2016
+Columbia, SC 29210
