@@ -1,146 +1,349 @@
-> *The following text is extracted and transformed from the wizardingworld.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929204841id_/https%3A//www.warnerbros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizardingworld.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217131902id_/https%3A//www.wizardingworld.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Warner Bros. - The Studio
+# Wizarding World Logo
 
-Privacy Policy
+_Effective date: October 14th, 2019_
 
-Updated: March 14, 2017
+This policy explains how we collect, use, and disclose your data, and how we use cookies.
 
-Thank you for visiting a [Warner Bros. Entertainment Group](https://web.archive.org/affiliates) ("we" or "us") offering. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
+It covers all the data collection activities (online and offline) of two Wizarding World Digital entities, Wizarding World Digital LLC and Wizarding World Digital Limited (“ **we** ”, “ **us** ” or “ **our** ”). It includes information that we collect through our various Wizarding World digital channels, such as websites, mobile apps, streaming services and third-party social networks, as well as through customer care centres, points of sale and events that link directly to this policy (together, the “ **sites** ”).
 
-**TABLE OF CONTENTS**
+This policy tells you how you can access and update your personal information and make certain choices about how it is used. It also explains the rights you have to object to processing for direct marketing purposes and to object to processing that is not required by law or necessary for us to provide the sites, and how you can exercise those rights.
 
-  * THE INFORMATION WE COLLECT
-  * HOW WE USE THE INFORMATION
-  * INFORMATION SHARING AND DISCLOSURE
-  * YOUR CHOICES
-  * COOKIES AND OTHER TECHNICAL INFORMATION
-  * INFORMATION SECURITY
-  * HOW YOU CAN ACCESS OR CORRECT INFORMATION
-  * ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY
-  * INTERNATIONAL TRANSFER
-  * NOTIFICATION REGARDING UPDATES
-  * HOW TO CONTACT US
-  * [AFFILIATES](https://web.archive.org/affiliates)
+For certain offerings on our sites, there may be additional notices about our privacy practices and choices, each of which will be considered to form part of this policy.
+
+### TABLE OF CONTENTS
+
+  1. DATA CONTROLLERS
+  2. CHILDREN'S PRIVACY
+  3. THE INFORMATION WE COLLECT
+  4. HOW WE USE THE INFORMATION
+  5. INFORMATION SHARING AND DISCLOSURE
+  6. YOUR MARKETING AND ADVERTISING CHOICES
+  7. COOKIES AND OTHER TECHNOLOGIES
+  8. DATA RETENTION AND SECURITY
+  9. YOUR PERSONAL DATA RIGHTS
+  10. INTERNATIONAL TRANSFERS
+  11. CHANGES TO THIS POLICY
+  12. CONTACT US
+  13. AFFILIATES
 
 
 
-**INFORMATION WE COLLECT**
+### DATA CONTROLLERS
 
-We may collect different types of information during your interactions with our Sites. This information may include personal information (e.g., name, phone number, postal address, email address, and certain payment information), technical information (e.g., technical information, including device identifier, IP address, browser type, operating system) and usage information (e.g., how you use and navigate to and from our Sites, and information about content or advertisements you have been shown or have clicked on). We may combine these types of information together, and collectively refer to all of this information in this Privacy Policy as “Information.” Information may be collected as described below and through the use of cookies, web beacons, pixels, and other similar technologies. Below we describe the types of Information we may collect:
+This privacy policy is provided by Wizarding World Digital LLC and its subsidiary Wizarding World Digital Limited, which jointly control how your personal information is used. The Contact us section later in this policy explains how you can contact us.
 
-**Registration, account, and sign-up information.** We may collect Information in the course of your use of, or registration with, our Sites. For example, when you create an account, register for or download an application, or sign-up for a product or service, you may provide us with certain personal information. This type of personal information may include: name, phone number, postal address, fax number, email address, or certain payment information (e.g., credit card and billing information). We may also receive Information about your interest in and use of various products, programs, services, and content available on or through our Sites.
+In some cases, third parties may act as independent controllers of your personal information, as explained further below.
 
-**Information about others/inviting friends.** On some of our Sites, we may collect Information you submit about other people. For example, you might submit Information to invite a friend to participate in an offering, make recommendations, or share content. By processing these requests, we may receive the other person’s Information, including a recipient's name, postal address, email address, telephone number, or information about the recipient’s interest in and use of various products, programs, services, and content. Some of our Sites also allow you to invite your friends to participate in activities by providing their contact details or importing contacts from your address book or from other sites.
+### CHILDREN'S PRIVACY
 
- **Information from other sources.** We may, on occasion, combine Information we receive online with other Information, including usage Information from our other Sites. We may also supplement or combine Information with Information from other sources or outside records, such as demographic information, and use that combined Information in accordance with this Privacy Policy.
+In various countries, local data protection laws treat individuals under a certain age as children whose personal information requires additional protection under such laws (“ **children** ”). For example, the relevant age of a child for the purposes of obtaining valid consent from individuals to collect their personal information by online means is 13 in the UK and 16 in Ireland.
 
-**Social media.** You can engage with some of our content and offerings, such as videos, games, applications, and other offerings on or through third party communities, forums, and social media sites, services, plug-ins, and applications (“Social Media Sites”). When you link to or interact with our Sites or content through Social Media Sites, you may allow us to receive certain Information from your social media account (e.g., name, user ID, email address, profile photo, photos and videos, gender, birthday, location, your list of friends and their contact details, people you follow and/or who follow you, the posts or the 'likes' you make). We may also receive Information from your interaction with our content (e.g., content viewed, game performance, high scores, and information about advertisements you have been shown or have clicked on). By providing this Information or otherwise interacting with our Sites through Social Media Sites, you consent to our use of Information from the Social Media Site in accordance with this Privacy Policy.
+For data collected about children, please read our [Children’s Privacy Policy](https://www.wizardingworld.com/childrens-privacy-policy), which sets out information about our privacy practices and choices for children. Please read that policy carefully, whether you are a child, parent or guardian.  
+If you believe your child has provided us with personal information without your authorisation and you would like to have the personal information deleted, please contact us as described below.
 
- **Public forums.** If you post or share Information or content, such as photos, letters, videos, or comments, while participating in online forums on our Sites, or when you interact with our Sites through Social Media Sites, depending on your privacy settings this Information and your username may become public on the Internet or within a community of users. We cannot prevent further use of this Information once it is made public. For information about how you can customize your privacy settings on Social Media Sites, and how those Social Media Sites handle your personal information and content, please refer to their privacy help guides, privacy policies, and terms of use.
+### THE INFORMATION WE COLLECT
 
-**Location information.** We may have access to certain Information about your location, such as your country or address, when you provide it or via device information (such as an IP address). If you access our Sites on your mobile device we may collect Information about your device’s precise location.
+**Personal data and other personal information**. When you interact with our sites, we may collect and combine different types of personal information. We refer to this as “ **information** ” for short. The information may include:
 
- **Technical and usage information.** We also collect certain technical and usage information when you use our Sites, such as the type of device, browser, and operating system you are using, your Internet service provider or mobile carrier, unique device identifier, IDFA or IDFV, MAC address, IP address, device and browser settings, the webpages and mobile apps you use, advertisements you see and interact with, and certain Site usage information. See our Cookies and Other Technical Information section for more information on how we may use these technologies to collect this Information.
+  * **Registration, account and sign-up information**. We collect information about you in the course of your use of the site(s) or registration with us. For example, when you create or update an account, register for or download an app, or sign up for one of our offerings, you provide us with certain information, which includes your name and email address, and may include your photo or social-media profile. We may also receive information about your interest in and use of various products, services, programs, virtual items, content and activities (which we refer to below as “products” for short) that are available on or through our sites. You may also provide or be allocated certain details, such as a nickname, user name, password, Wizarding World attributes and/or other profile information.
 
-**HOW WE USE THE INFORMATION**
+  * **Product purchase**. If you make a purchase on one of our sites, our payment providers or the entity handling the sale will also collect certain payment information (e.g. payment method, billing information and delivery address).
 
-We use Information for the purposes described in this policy or disclosed at the time of collection or with your consent.
+  * **Information about others / inviting friends**. In certain situations, we collect information submitted by people you know. For example, a friend might submit information to invite you to take part in an offering, send you a gift, make recommendations or share content. They also may provide your details through an “invite your friends” function or by importing contacts from their address book or from social media sites. By processing those requests, we will receive your information, including details such as your name, email address, social-media profile, postal address and/or telephone number, and/or information about your interests in and use of various products.
 
-**Providing and marketing products and services.** We use the Information we collect about you on our Sites, to fulfill your requests for, and otherwise provide or analyze your use of our products, programs, services and content, to facilitate sharing and other interactions with Social Media Sites, and to provide, develop, maintain, personalize, protect, and improve your experience and our offerings. For example, we use Information collected on our Sites to enable you to do things like (i) watch trailers and video clips, (ii) get entertainment news and updates, (iii) get information about our products, services, and content, (iv) locate and access personalized information or functionality based on your location (e.g., find stores, theaters, or show times), (v) buy digital content or movie tickets, (vi) play games, (vii) engage with interactive features, activities, and Social Media Sites, (viii) read and post comments, content, and reviews, or (ix) enter promotions, contests, and sweepstakes. We may also use Information to offer, market, and advertise products, programs, and services from us and our affiliates, business partners, and select third parties that we believe may be of interest to you.
+  * **Information from affiliates and third parties**. We combine the information we process about you with information we receive from other organisations. This includes information from Warner Bros. and Pottermore affiliates, organisations sponsoring or co-branding our or our affiliates’ content, as well as demographic and other information from other business partners, advertising companies and research services.
 
-**Communicating with you and others.** We use Information about you to communicate with you, such as (i) to notify you when you win one of our contests or sweepstakes or when we make changes to our policies or user agreements, (ii) to respond to your inquiries, (iii) to communicate with you about your purchases or transactions, (iv) to contact you about your account, or (v) to send you information about promotions, offerings, and Site features. You may also choose to receive push notifications from us on your mobile device. If you choose to submit content for publication online or in other forums, we may publish your screen name and other Information you have provided to us on our Sites, the Internet, or elsewhere. We use Information that you provide about others to enable us to send them invitations, promotions, or other content on your behalf or through our Sites. From time to time, we also may use this Information to offer, market, or advertise products, programs, or services to them from us and our affiliates, business partners, and select third parties.
+  * **Wizarding Passport™**. You may choose to register for one or more of our sites through a Wizarding Passport, which refers to both your account and certain of the information you provide or are allocated in connection with your account (such as your Hogwarts house, wand, patronus, pet etc.). Your Wizarding Passport will identify you as a “member” of the Wizarding World sites and services and will serve as your credentials for logging into and using the sites and services and for other purposes. If you use a Wizarding Passport to connect your Wizarding World Digital account to an account maintained by one of our business partners, then we will share certain information from your profile with that partner. We will tell you what information will be shared before you connect with another organisation via the Wizarding Passport. When you do connect with that organisation, we may receive certain information in return (e.g. achievements in a game).
 
-**Use of** **technical and usage information.** We use technical and usage information to improve the design, functionality and content of our Sites and to enable us to personalize your experience with our Sites and offerings. We use this Information (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, and (iv) for us and our affiliates, business partners, and select third parties to target, offer, market, or advertise products, programs, or services.
+  * **Social media**. You can engage with some of our content and offerings, such as videos, apps and other offerings on or through third-party communities, forums and other social media sites, services, plug-ins and apps (“ **social media sites** ”). When you link to our sites or interact with us or our content through social media sites, you may choose for us to receive certain information from your social media account (e.g. name, user ID, email address, social-media profile, photos and videos, gender, birthday, your list of friends and their contact details, people you follow and/or who follow you, the posts or the “likes” you make). We may also receive information from your interaction with our content (e.g. content viewed and information about advertisements you have been shown or have clicked on).
 
-**Compliance.** We may use Information we collect to detect, investigate, and prevent activities on our Sites that may violate our terms of use, could be fraudulent, violate copyright, or other rules or that may be otherwise illegal, to comply with legal requirements, and to protect our rights and the rights and safety of our users and others.
+  * **Location information**. We may have access to certain information about your general location, such as your country or address, when you provide it or via information (such as an IP address or device settings) relating to your computer, mobile phone or other device. With consent (where required by law), we may also collect information about your device’s precise location (e.g. geolocation via mobile devices).
 
- 
+  * **Camera access**. For some services or features, we will ask for permission to access your device’s camera. If you grant permission, you may be able to take pictures or video within the app experience or to access certain augmented reality (“AR”) features. Some of these features may rely on camera systems to track movements of your eyes and other facial features or your immediate surroundings to apply AR effects. Information gathered from facial scanning technology, e.g., TrueDepth API, is only used to make these services and features available to you and is only persistent on the device during use of the AR features. Facial data is not stored on our systems nor shared with any third party.
 
-**INFORMATION SHARING AND DISCLOSURE**
+  * **Technical and usage information**. We also collect certain technical and usage information such as the type of device, browser and operating system you are using, your internet service provider or mobile carrier, unique device identifier, IDFA or IDFV, MAC address, IP address, device and browser settings, the webpages and apps you use, advertisements you see and interact with, and certain site usage information across our sites and other sites and apps. Please see our Cookies and other technologies section below for more information on how we may use those technologies to collect that information.
 
-We may share and disclose Information in the following ways or for any other purpose disclosed at the time of collection:
+  * **Customer enquiries**. Where you contact us through one of our customer help desks or customer call centres or where you get in touch with us by email or using an online form, we will ask you for some information, including why you are getting in touch. We may have access to any relevant product that you have purchased, your purchase history, your previous correspondence with us and/or your contact details.
 
-**With your consent.** We may disclose Information when you provide us with your consent to do so.
 
-**Legal and law enforcement purposes.** We may disclose Information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We also may disclose such Information to third parties: (i) in connection with fraud prevention activities, (ii) where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, (iii) in situations that may involve violations of our terms of use or other rules, (iv) to protect our rights and the rights and safety of others, and (v) as otherwise required by law.
 
-**Change of control.** We may transfer Information in the event of a business transaction, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company or as part of a bankruptcy proceeding or a business reorganization.
 
- **Service providers.** Our agents and contractors may have access to Information to help carry out the services they are performing for us, such as, but not limited to, creation, maintenance, hosting, and delivery of our Sites, products, and services, conduct marketing, handle payments, email and order fulfillment, administer contests, conduct research and analytics, or customer service.
+We may combine information that we collect from the Wizarding World websites with data collected from the Wizarding World mobile apps and other services.
 
-**Affiliates and other third parties.** We may disclose Information to companies whose practices are not covered by this Privacy Policy. For example, we may share Information we collect with our [affiliates](https://web.archive.org/affiliates) to provide, improve, offer, market, and otherwise communicate with you about their own products and services.
+**Non-personal information**. In addition, we may collect certain information that is not personal information, such as anonymous analytics data.
 
-We may also share Information with business partners and third parties (e.g., other companies, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, participatory databases, publishers, and non-profit organizations) that may want to market products or services to you. If we share personal information with such unaffiliated third parties for their own marketing purposes, we provide you with an opportunity to opt out of such uses either at the point of collection or through the choice mechanisms set forth in this Privacy Policy. To learn more about your choices, please see Your Choices below.
+If you fail to provide information. Where we need to collect personal information by law, or under the terms of a contract that we have with you, and you fail to provide that information when requested, we may not be able to perform the contract that we have or are trying to enter into with you (for example, to provide you with products).
 
-**Linked sites.** Some of our Sites contain links to other sites, including Social Media Sites, whose information practices may be different from ours. Visitors should consult the other sites' privacy policies and terms before submitting any Information, as we have no control over Information that is submitted to, or collected by, these third parties.
+### HOW WE USE THE INFORMATION
 
- **Sponsors and co-promotions.** We may sometimes offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or Social Media Site integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may collect or obtain Information from visitors that participate in the activity. We have no control over these third parties' use of this Information. We encourage you to visit the privacy policy of any such third party to learn about their data practices.
+We use your personal information for the processing purposes and related lawful bases described below (or disclosed at the time of collection):
 
-**Advertising networks.** We may share certain information with third parties to provide advertising to you based on your interests. For more information, please see Ad Choices below.
+**(1) Basis: where necessary to perform a contract with you (or to take steps at your request before entering into a contract)**
 
- 
+Purposes of processing:
 
-**YOUR CHOICES**
+a. To provide you with access to content, products, services and other features on or via the sites.
 
- **Marketing communications and sharing with third parties.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with unaffiliated third parties for their direct marketing purposes. If you ever decide in the future that you would like to update these preferences, you may (i) log in to an account you have created with us at one of our Sites to adjust your settings, or (ii) send us an email at [privacy@wb.com](mailto:privacy@wb.com). To opt out of receiving our email marketing communications, you can also follow the "unsubscribe" instructions provided in any marketing email you receive from us. If you previously chose to receive push notifications on your mobile device from us, but no longer wish to receive them, you can manage your preferences through your device or app settings, depending on the type of device. For California residents, please see below for additional information on the choices we provide to you.
+b. To process your registration for a site, competition, prize draw or contest, and to administer your account or entry in accordance with any related contractual terms.
 
-**Ad Choices.  **At some of our Sites we may work with reputable third parties to present advertisements, and engage in data collection, reporting, ad delivery and response measurement, and site analytics on our Sites and on third party websites across the Internet and applications over time. These third parties may use cookies, web beacons, pixels, or similar technologies to perform this activity. They may also obtain information about applications you use, websites you visit, and other information from across your devices and browsers in order to help serve advertising that may be more relevant to your interests on and off our Sites and across your devices and browsers. This type of advertising is known as interest-based advertising. They may also use this information to associate various browsers and devices together for the purpose of interest-based advertising and other purposes like analytics.
+c. To send you information about changes to our terms or policies.
 
-For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising by third parties that participate in self-regulatory programs, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) and/or the DAA [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices). To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third parties that participate in the DAA’s AppChoices tool, please download the version of [AppChoices](http://youradchoices.com/appchoices) for your device [here](http://youradchoices.com/appchoices). Please note that any opt-out choice you exercise through these programs will apply to interest-based advertising by the third parties you select, but will still allow the collection of data for other purposes, including research, analytics, and internal operations. You may continue to receive advertising, but that advertising may be less relevant to your interests.
+d. To process your payment and to fulfil your purchase or other transaction, including related communications about those.
 
-You may have more options depending on your mobile device and operating system. For example, most device operating systems (e.g., iOS for Apple phones, Android for Android devices, and Windows for Microsoft devices) provide their own instructions on how to limit or prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems to learn more about these features and how they apply to tailored in-app advertisements.
+**(2) Basis: where necessary for purposes of our or third parties’ legitimate interests**
+
+Purposes of processing (and related legitimate interests):
+
+a. To respond to your enquiries, e.g. to send you information you have requested, and to offer customer/user support services (fulfilling your request and providing you with such assistance).
+
+b. To assist with the security and safety of our sites and users, e.g. by trying to prevent unauthorised or malicious activities (making our sites safe for users).
+
+c. To enforce compliance with our terms and policies and to help other organisations, such as copyright owners, to enforce their rights, including by sharing your information with relevant third parties to assist us or them in pursuing available remedies and/or limiting any loss or damage sustained (protecting our and others’ rights).
+
+d. To detect and prevent fraud (tackling fraudulent activity).
+
+e. To analyse and understand how our sites are used, including by aggregating data about categories of users and by informing surveys, so that we can develop, maintain, personalise, protect and improve our sites (researching site usage and compiling usage statistics with a view to operating our sites more effectively and enhancing them to improve your experience).
+
+f. To process your log-in to our sites using social media or other credentials or to facilitate your interaction within our sites and with social media or other third parties through our sites, where we do not need your consent to do so (authenticating users, facilitating your movement to, through and from our sites and other third parties and otherwise improving your experience of our sites and linked social media).
+
+g. To send direct marketing to you and to tailor content, advertisements, offers and surveys for you, where we do not need consent to do so (promoting content, products and services from us and/or our affiliates, direct or via our or their advertising partners, that we believe may be of interest to you).
+
+**(3) Basis: where you give us consent**
+
+Purposes of processing:
+
+a. To send direct marketing communications to you at your request, where we need your consent (for example, marketing emails or push notifications).
+
+b. To place cookies and to use similar technologies with your consent (where we need your consent to do so).
+
+c. To collect your precise location with your consent (where we need your consent to do so).
+
+d. To process your log-in to our sites using social media or other credentials or to facilitate your interaction within our sites and with social media or other third parties through our sites, where we need your consent to do so.
+
+e. On other occasions where we ask you for consent, for a purpose which we explain at that time.
+
+**(4) Basis: where necessary for complying with our legal obligations**
+
+Purposes of processing:
+
+a. In response to requests by government or law enforcement authorities conducting an investigation.
+
+b. To comply with any other legal requirements.
+
+### INFORMATION SHARING AND DISCLOSURE
+
+We share and disclose your information in the ways described below or for other purposes that we explain when we collect your personal information. We may share your information with the organisations below, their personnel, or people providing services to them (e.g. professional advisers who are connected with the activity described). When we share personal information with service providers, they usually only process personal data in accordance with our instructions, as data processors. The other third parties listed below are independent controllers of the information, unless otherwise specified.
+
+  * **Law enforcement bodies and courts**. We may disclose your information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement body's request. We may also disclose your information to third parties (including, but not limited to, the police, the courts, governmental departments and/or any other bodies of competent authority): (i) in connection with fraud prevention activities; (ii) where we believe it is necessary to investigate, prevent or take action regarding illegal activities; (iii) in situations that may involve violations of our terms of use or other rules; (iv) to protect our rights and the rights and safety of others; and/or (v) as otherwise required by law.
+
+  * **Change of control**. We may transfer your information in the event of a business transaction to another person, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company or as part of a bankruptcy or insolvency proceeding or a business reorganisation.
+
+  * **Service providers**. Our agents and contractors may have access to your information to help carry out the services they are performing for us (e.g. fulfilment, creation, maintenance, hosting and delivery of our sites and/or products; conduct of marketing; account registration; handling payments; email and order fulfilment; administering competitions; conducting research and analytics; customer service; data processing; IT and communication services; public relations; and/or professional advice).
+
+  * **Wizarding World Digital entities and affiliates**. If one of us, i.e. Wizarding World Digital LLC or Wizarding World Digital Limited, separately collects any of your information in the first instance, then the collecting entity will share such information with the other (acting as a joint controller). If we establish any subsidiaries, we may share your information with them for use in accordance with this policy (e.g. as processors acting on our instructions). We also share information with our Warner Bros. and Pottermore affiliates to use in accordance with their own privacy policies, including (with permission, where required) to provide, improve, offer, market and otherwise communicate with you about their own products.
+
+  * **Linked sites**. Some of our sites contain links to other sites, including social media sites, whose privacy practices may be different from ours. You should consult the other sites' privacy policies and terms before submitting any of your information, as we have no control over information that is submitted to, or collected by, those third parties.
+
+  * **Sponsors, co-promoters and other third parties relating to the promotion of the Wizarding World**. We sometimes offer content or programs (e.g. competitions, promotions, games, apps or social media site integrations) that are sponsored by, co-branded with or otherwise promoted by identified third parties. By virtue of those relationships, the third parties collect or obtain information from you when participating in the activity. The third parties will use the data they collect in accordance with their own privacy policies. We encourage you to look at the privacy policies and terms of any such third party to learn about their privacy practices. If you use the Wizarding World Passport to connect with other organisations that accept the Passport, then we may share information with those organisations. We will tell you what information we will share with each organisation at the time you choose to link your accounts.
+
+  * **Advertising networks**. We may share certain information with reputable third parties to provide advertising to you based on your interests. For more information, please see the next two sections, Your marketing and advertising choices and Cookies and other technologies.
+
+  * **Authorities**. Our local tax authorities and regulators sometimes require us to report our processing activities.
+
+  * **With permission**. We may also share certain information with third parties where you give us permission to do this.
+
+
+
+
+We use or disclose your information in anonymised form at our discretion, such as to help us improve our sites and products.
+
+### YOUR MARKETING AND ADVERTISING CHOICES
+
+**Marketing communications and sharing with third parties**. You can tell us if and how you would like to receive direct marketing from us, our affiliates and our or their advertising partners. To do this, or to find out more about this (i) log into an account you have created with us to adjust your settings or (ii) send us an email at [privacy@wizardingworld.com](mailto:privacy@wizardingworld.com). To opt out of receiving direct marketing communications via email, you can also follow the "unsubscribe" instructions provided in any marketing email you receive from us. If you previously chose to receive alerts in the form of push notifications on your mobile device from us, but no longer wish to receive them, you can manage your preferences through your device settings, depending on the type of device.
+
+**Advertising choices**. We work with reputable third parties to present advertisements to you on our sites and on third-party websites and applications. Those third parties collect information in order to confirm if ads have been delivered and viewed. They may also obtain information about applications you use, websites you visit and information about your devices and browsers in order to help serve advertising that is more relevant to your interests. These ads could be served on our sites or on third-party sites and applications. This is known as interest-based advertising. Third parties use cookies, web beacons, pixels and/or similar technologies to perform this activity. They also use information to associate various browsers and devices together for the purpose of interest-based advertising and other purposes like analytics.
+
+For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising on your browser by third parties that participate in self-regulatory programs, please visit:
+
+  * if you are based in the USA, the [Network Advertising Initiative](https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) and/or the DAA’s [consumer choice tool](http://optout.aboutads.info/?c=2&lang=EN);
+
+  * if you are based in Canada, the DAAC’s [consumer opt-out tool](http://youradchoices.ca/choices/);
+
+  * if you are based in Europe, the EDAA’s [Your Online Choices](http://www.youronlinechoices.eu/);
+
+  * if you are based in Australia, the ADAA's [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/); or
+
+
+
+
+if you are based elsewhere, any equivalent website that might be run by a local body that co-ordinates online advertising choices.To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third parties that participate in the DAA’s AppChoices tool, please download the version of AppChoices for your device [here](http://youradchoices.com/appchoices).
+
+To opt out of interest-based advertising in your apps, you may have more options depending on your mobile device and operating system. For example, most device operating systems (e.g. iOS for Apple phones, Android for Android devices, and Windows for Microsoft devices) provide their own instructions on how to limit or prevent the delivery of tailored in-app advertisements. You can review the support materials and/or the privacy settings for the respective operating systems to learn more about those features and how they apply to tailored in-app advertisements.
+
+Please note if you opt out through the self-regulatory programs above, this will only apply to interest-based advertising by the third parties you select. You will continue to receive advertising, but that advertising may be less relevant to your interests. If you use a different device or browser or delete your cookies, you may need to renew your opt-out choice or, where consent is required for cookies, to opt in.
 
 **Precise location information**. To disable the collection of precise location information from your mobile device through our mobile apps, you can access your mobile device settings and choose to limit that collection.
 
-See also Cookies and Other Technical Information for more choices about managing other technical and usage information.
+**Camera**. You can disable access to your camera for use in connection with photos or augmented reality features in your mobile device settings.
 
- 
+Please also see the next section, Cookies and other technologies, for more choices about managing other technical and usage information.
 
-**California residents** \- your California privacy rights.  If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, email address, postal address, and the subject line labeled “Your California Privacy Rights”) by email at [privacy@wb.com](mailto:privacy@wb.com).
+### COOKIES AND OTHER TECHNOLOGIES
 
-**COOKIES AND OTHER TECHNICAL INFORMATION**
+**How we use cookies and other technologies**. We use cookies, web beacons and/or similar technologies to understand and enhance your online experience at our sites and through our advertising and media across the internet, including social media sites and mobile apps as further described below. Our affiliates, as well as our and their advertising partners and other third-party service providers, also use such technologies for this purpose.
 
- **Cookies and other technologies.** We, and our affiliates, third party service providers, and business partners may send "cookies" to your computer or use similar technologies to understand and enhance your online experience at our Sites.
+Cookies are small text files placed in your browser. Web beacons are small strings of code that provide a method for delivering a graphic image on a webpage for the purpose of transferring data, such as the IP address of the device that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser that fetched the web beacon, and the identification number of any cookie on the device previously placed by that server.
 
-Cookies are small text files placed in your browser. We may also use pixels or "web beacons" that monitor your use of our Sites. Web beacons are small strings of code that provide a method for delivering a graphic image on a webpage for the purpose of transferring data, such as the IP address of the computer that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser that fetched the web beacon, and the identification number of any cookie on the computer previously placed by that server. We may also integrate “Software Development Kits” (“SDKs”) into our applications to perform similar functions as cookies and web beacons. For example, SDKs may collect technical and usage information such as mobile device identifiers and your interactions with the Site and other mobile apps.
+We also use “Software Development Kits” (“ **SDKs** ”), java script and portions of code in our mobile apps to perform similar functions to cookies and web beacons. For example, SDKs collect technical and usage information such as mobile device identifiers and your interactions with our mobile app. Some of our sites use locally stored objects (“ **LSOs** ”) to provide content, such as video on demand, video clips or animation, and a better user experience.
 
-We may use cookies and other technologies to help recognize your browser or device, maintain your preferences, provide certain Site features, and collect Information about interactions with our Sites, our content, and our communications. For example, when corresponding with you via HTML capable email, web beacons and other technologies let us know about your activity, including whether you received and opened our email, clicked through a link, or otherwise interacted with our content, and this information may be associated with Information previously collected.
+We use cookies and similar technologies to help recognise your browser or device, maintain your preferences, provide certain site features, synchronise users across devices, collect information about your online interactions with our sites, our content and our communications and protect against, identify and prevent fraud and other unlawful activity.
 
-We may also use cookies and other technologies (i) to provide, develop, maintain, personalize, protect, and improve our Sites, products, programs, and services and to operate our business, (ii) to perform analytics, including to analyze and report on usage and performance of our Sites and marketing materials, (iii) to protect against, identify, and prevent fraud and other unlawful activity, (iv) to create aggregate data about groups or categories of our users, (v) to synchronize users across devices, affiliates, business partners, and select third parties, and (vi) for us and our affiliates, business partners, and select third parties to target, offer, market, or advertise products, programs, or services. Cookies and other technologies also facilitate, manage, and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. By visiting the Site, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Site through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
+**Types of cookies and other technologies**. We use the following types of cookies and similar technologies via our sites for the following purposes:
 
-**Managing cookies and** **other technologies** **.** Cookies can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Check your browser settings to learn how to delete cookies.
+  * **Necessary** : enabling core site functionality.
 
-You may adjust your browser to reject cookies from us or from any other website. Controlling cookies via browser controls may not limit our use of other technologies. Please consult your browser’s settings for more information. However, blocking cookies or similar technology might prevent you from accessing some of our content or Site features.
 
-Some of our Sites may use locally stored objects (“LSOs”) to provide certain content, such as video on demand, video clips, or animation, and a better user experience. Adobe's Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from [Adobe's web site](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Your browser may also offer other tools to delete or reject other LSOs; please check your browser’s settings or help menu for more information.
 
-Some of our sites may use Google Analytics to analyze traffic. You can find out more information about Google Analytics cookies here: <https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage>. To opt-out of Google Analytics relating to your use of our Sites, you can download and install the Browser Plugin available via this link: <https://tools.google.com/dlpage/gaoptout?hl=en>.
+Strictly necessary cookies or similar technologies are essential in order to enable you to move around our sites or apps and use our features, such as accessing secure areas. Without them, services like enabling appropriate content based on your type of device cannot be provided.
 
-We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+  * **Analytics** : allowing us to analyse site usage.
 
-See the Your Choices section to learn how to control data collection for certain purposes.
 
-**INFORMATION SECURITY**
 
-We have put in place reasonable controls designed to help safeguard the personal information we collect via the Sites. However, no security measures are perfect and we cannot assure you that personal information that we collect will never be accessed or used in in an unauthorized way.
+Analytics cookies or similar technologies collect information about how you use our sites or apps, so that we can analyse traffic and understand users' interactions to perform analytics, including to analyse, measure and report on usage and performance of our sites and marketing materials. For this purpose, we may use third-party service providers such as Google Analytics, who may use their own cookies or similar technologies. The information is used to improve our sites or products.
 
-**HOW YOU CAN ACCESS OR CORRECT INFORMATION**
+You can find out more information about Google Analytics cookies here: [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage.](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
-To access the personal information that we have collected about you online from Sites on which this Privacy Policy is posted or to update your user profile, please log into your account if you have created one with us or send an email to [privacy@wb.com](mailto:privacy@wb.com).
+To opt out of Google Analytics relating to your use of our sites, you can download and install the Google Analytics Opt-out Browser Add-on available via this link: [https://tools.google.com/dlpage/gaoptout?hl=en.](https://tools.google.com/dlpage/gaoptout?hl=en)
 
-**ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY**
+  * **Functional** : allowing us to personalise your experience of our sites.
 
-Visitors to this Site may participate in many activities without providing any personal information. However, in some cases if a user wants to participate in certain of our interactive features, we may ask the user to register and/or provide us with the user's age information and, in some cases, email address. If the person who registers indicates that he or she is under 13 years old, as permitted by law we will (i) collect no or limited personal information (e.g. email address only) from that individual, (ii) inform the child that a parent's verifiable consent is required, and/or (iii) collect the email address of the user's parent in addition to the user's email address. We use the parent's email address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. Once a parent provides consent, we may use any information from the child consistent with the rest of this Privacy Policy and/or the terms of the consent provided by the parent. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more personal information than is reasonably necessary to participate in the activity. If you would like to review any personal information that we have collected online from your child, have this personal information deleted from our active servers, and/or request that there be no further collection or use of your child's personal information, or if you have questions about these information practices, you may contact us at [privacy@wb.com](mailto:privacy@wb.com), or at Warner Bros. Privacy Office, 4000 Warner Blvd., Bldg. 3, Burbank, CA 91522.
 
-**INTERNATIONAL TRANSFER**
 
-We operate internationally, and many of our computer systems are currently based in the United States, this means Information we collect will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you use or visit our Sites from outside the United States, you consent to the collection and/or processing in the United States of Information we collect from you.
+Functional cookies or similar technologies allow our sites or apps to remember choices you make (such as your user name, or the region you are in) and to provide enhanced, more personal features. They can also be used to remember changes you have made to text size, fonts and other parts of webpages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog.
 
-**NOTIFICATION REGARDING UPDATES**
+  * **Advertising** : enabling advertising partners to serve interest-based advertisements.
 
-From time to time, we may update this Privacy Policy. We will notify you about changes to this Privacy Policy by placing a notice on our Sites. We encourage you to periodically check back and review this policy so that you always know our current privacy practices.
 
-**HOW TO CONTACT US**
 
-If you have any questions about this Privacy Policy you may contact us at: [privacy@wb.com](mailto:privacy@wb.com) or at Warner Bros. Privacy Office, 4000 Warner Blvd., Bldg. 3, Burbank, CA 91522.
+Advertising cookies or similar technologies allow us and our affiliates and our and their advertising partners to target, offer, market or advertise products. These cookies and other technologies also facilitate, manage and measure the performance of advertisements displayed on or delivered by or through our sites. These advertising partners may also have the capability to track your browsing across sites, apps and social media sites. See the Advertising choices section above for more information.
+
+  * **Social media** : used when you share content with, or link to or from, social media sites.
+
+
+
+Social media cookies or similar technologies are used when you share content using a social media sharing button or “like” button on our sites or apps, or when you link your account or engage with our content on or through a social media site such as Facebook, Twitter or Instagram. The social network will record that you have done that. The information may be linked to targeting/advertising activities.
+
+**Managing cookies and other technologies**.
+
+If you are in the UK or EEA, you can use the cookie consent platform on our site to give or withdraw consent to our use of cookies. In other countries, you may be able to manage your consents for cookies and tracking technologies on our websites through settings.
+
+On a mobile app, please go to “Privacy settings” or your device settings. You can adjust your browser to reject cookies from us or from any other site operator. Controlling cookies via browser controls may not limit our use of other technologies. Please consult your browser’s settings for more information. Blocking cookies or similar technology might, however, prevent you from accessing some of our content or site features. You can also check your browser settings to learn how to delete cookies.
+
+Adobe's Flash player and similar applications use Local Shared Object (“LSO”) technology to remember settings, preferences and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from [Adobe's website](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Your browser may also offer other tools to delete or reject other LSOs; please check your browser’s settings or help menu for more information.
+
+We do not currently respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+Please see the Your marketing and advertising choices section above to learn about other ways to control data collection for advertising purposes.
+
+### DATA RETENTION AND SECURITY
+
+In broad terms, we will only retain your personal information for as long as necessary for the purposes described in this policy. This means that the retention periods will vary according to the type of personal information and the reason that we have the personal information in the first place. For example, some personal information related to the provision of services to you or by you will be kept for a number of years in order to comply with various finance and tax-related legal obligations. Other service-related personal information may be kept for a different period because it is in our legitimate interests to do so in order to provide or receive an appropriate follow-up service.
+
+After a retention period has elapsed, the personal information is securely deleted. We may, however, retain copies of your information in anonymised form, which we may use or disclose at our discretion, such as to help us improve our sites and products.
+
+We have put in place reasonable controls (including physical, technological and administrative measures) designed to help safeguard the personal information that we collect via the sites. No security measures are perfect, however, and so we cannot assure you that personal information that we collect will never be accessed or used in an unauthorised way, which may happen due to circumstances beyond our reasonable control. We have put in place procedures to deal with a suspected personal data breach, and we shall notify you and any applicable regulator of a breach where we are legally required to do so.
+
+### YOUR PERSONAL DATA RIGHTS
+
+**Your legal rights**. Under certain circumstances, you may have the following rights under data protection laws in relation to your personal information (which may be limited to personal data):
+
+  * right of access to your personal information;
+
+  * right to rectification of your personal information;
+
+  * right to erasure of your personal information;
+
+  * right to restriction of processing of your personal information;
+
+  * right to portability of your personal information;
+
+  * right to object to processing of your personal information;
+
+  * right not to be subject to significant automated decision-making (including when based on profiling); and/or
+
+  * right to withdraw consent to processing of your personal information.
+
+
+
+
+Some of those rights may only apply to you if you are resident in the EEA or a country with similar data protection laws. To find out more about those specific rights, please see the last paragraph of this section and your local data protection authority’s website, such as the ICO’s website ([www.ico.org.uk](https://www.ico.org.uk/)), if you are located in the UK, or the Irish Data Protection Commission’s website ([www.dataprotection.ie](https://www.dataprotection.ie/)), if you are located in Ireland.
+
+**Exercising your rights**. If you wish to exercise any of those rights, please send an email to [privacy@wizardingworld.com](mailto:privacy@wizardingworld.com).
+
+**Your legal rights in more detail (for UK and other EEA residents)**. In certain circumstances, you have the following legal rights in relation to your personal information (to the extent consisting of “personal data” in the EEA and countries with similar data protection laws, and so we use that term in the rest of this section). We may ask you for additional information, so that we take reasonable steps to check that – for example – we only provide personal data to the person to whom the data relate.
+
+  * **Right of access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data that we hold about you and to check that we are lawfully processing such data.
+
+  * **Right of rectification** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, although we may need to verify the accuracy of the new data that you provide to us.
+
+  * **Right to erasure** of your personal data. This enables you to ask us to delete or remove personal data in certain circumstances. Please note, however, that we may retain your data in certain circumstances in accordance with law, which will be notified to you, if applicable, at the time of your request.
+
+  * **Right to restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you would like us to establish the accuracy of such data; (b) where our use of the data is unlawful, but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data, but we need to verify whether we have overriding legitimate grounds to use it.
+
+  * **Right to portability** of your personal data to you or to a third party. If you so request, we shall provide you, or a third party that you have chosen, with a copy of your personal data in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information that you initially provided consent for us to use or where we used the information to perform our contract with you.
+
+  * **Right to object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation that makes you want to object to processing on this ground, in which case we will consider whether we have compelling reasons to continue to process your data.
+
+  * **Right to object to direct marketing**. You also have the right to object where we are processing your personal data for purposes of direct marketing. Please see the section above Your marketing and advertising choices for how to exercise the right.
+
+  * **Right to withdraw consent at any time** where we are relying on consent to process your personal data. If you withdraw your consent, we may not be able to provide certain products, content or services to you.
+
+  * **Right to complain in the UK or elsewhere in the EEA**. If you would like to complain, please contact us using the details below. This does not override your right to complain to the relevant supervisory authority at any time.
+
+
+
+
+### INTERNATIONAL TRANSFERS
+
+Wizarding World Digital LLC is a company located in the USA, and Wizarding World Digital Limited is a company located in the UK. When you use our sites and services, Wizarding World Digital LLC and Wizarding World Digital Limited collect or receive your data in the USA and UK respectively. This means that personal information we collect will be processed by us or on our behalf in the UK and the USA. Data protection and privacy regulations in the USA may not offer the same level of protection as in other parts of the world, such as the EEA.
+
+If you are located in the UK or elsewhere in the EEA or if Wizarding World Digital Limited has collected your information, then, when we transfer your information to our affiliates outside the EEA, we make use of standard contractual clauses that have been approved by the European Commission for data transfers. We also use those clauses when we transfer your information to third parties outside the EEA, or we may adopt other means to ensure that adequate safeguards are applied to your information (such as the EU-US Privacy Shield or binding corporate rules). You can obtain further information on the methods that we use to protect your information when it is transferred outside the EEA by contacting us by email at [privacy@wizardingworld.com](mailto:privacy@wizardingworld.com).
+
+### CHANGES TO THIS POLICY
+
+From time to time, we may make changes to this policy. We will notify you about such changes by placing a notice on our sites and/or sending an email to you. We encourage you to check back and review this policy periodically so that you always know our current privacy practices.
+
+### CONTACT US
+
+Wizarding World Digital LLC, a limited liability company registered in the United States, and Wizarding World Digital Limited, a private company limited by shares registered in England and Wales, jointly control how your information is used. We work together to make decisions about use of information and to respond to queries, or to respond to requests to exercise personal data rights.
+
+In respect of UK or other EEA-located users, Wizarding World Digital Limited has been appointed as the representative in the EEA of Wizarding World Digital LLC.
+
+If you have any questions about this policy or any concerns about our privacy practices, you can contact our data privacy team:
+
+  * by email at [privacy@wizardingworld.com](mailto:privacy@wizardingworld.com); or
+
+  * by post (marked for the attention of the Wizarding World Digital Data Privacy Team) at:
+
+  * Warner Bros. Privacy Office, 4000 Warner Blvd., Bldg. 3, Burbank, CA 91522, USA; or
+
+  * Warner House, 98 Theobalds Road, London WC1X 8WB, UK.
+
+
+
+
+We will respond to your question or concern as soon as practicable.
+
+### AFFILIATES
+
+Our affiliates are:
+
+  * Warner Bros. Entertainment Inc. and its other affiliates from time to time, as listed at [https://policies.warnerbros.com/privacy/en-us/affiliates](https://policies.warnerbros.com/privacy/en-us/affiliates/html/affiliates_en-us_2.1.0.html) (which may be updated periodically); and
+
+  * Pottermore Limited and its subsidiary Pottermore Inc.
+
+
+
