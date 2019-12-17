@@ -1,148 +1,491 @@
-> *The following text is extracted and transformed from the sunbeltsoftware.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710222448id_/https%3A//www.threattrack.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbeltsoftware.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217054128id_/https%3A//www.vipre.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ThreatTrack
+# Privacy - VIPRE
 
-**Introduction**  
-ThreatTrack Security, Inc. ("we / us") respects your privacy and are committed to protecting it through our compliance with this policy.
+## Contents
 
-This policy (together with our terms of use and any other documents referred to in it) describes the personal information that we collect from you, or that you provide on this website www.ThreatTrackSecurity.com (our "Website") and how that information may be used or disclosed by us.
+(A) This Policy
 
-This policy does not apply to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website.
+(B) Collection of Personal Data
 
-Please read the following carefully to understand our policies and practices regarding your personal information and how we will treat it. By using or accessing our Website, you agree to this privacy policy. This policy may change from time to time and your continued use of the Website is deemed to be acceptance of such changes, so please check the policy periodically for updates.
+(C) Creation of Personal Data
 
-**Children under the age of 13**  
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at [Legal@ThreatTrackSecurity.com.](mailto:legal@threattrack.com)
+(D) Categories of Personal Data we may Process
 
-**Information we collect about you**  
-We collect several types of information from and about users of our Website, including: information you provide to us, that we collect as you navigate through the Website, – traffic and location data, IP addresses, usage details through the use of certain technologies, including cookies and web beacons, as well as information we receive from third parties, for example, our business partners - whether this is required for our own billing purposes or otherwise and the resources that you access.
+(E) Lawful basis for Processing Personal Data
 
-**Information you provide to us**  
-We may collect and use the following information that you provide to us: 
+(F) Sensitive Personal Data
 
-  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our services, posting material or requesting further services or information. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
-  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
-  * Your responses to surveys that we might ask you to complete for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
+(G) Purposes for which we may Process your Personal Data
 
+(H) Disclosure of Personal Data to third parties
 
+(I) International transfer of Personal Data
 
-**Uses made of the information**
+(J) Data security
 
-  * We use information that we collect about you or that you provide to us, including any personal information, in the following ways:
-  * To present our Website and its contents in a suitable and effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us.
-  * To carry out our obligations, process and enforce our rights arising from any contracts entered into between you and us.
-  * To notify you about changes to our service.
-  * To allow you to participate in interactive features of our services, when you choose to do so.
-  * For marketing and promotional purposes so as to provide you with information about services we think you might like.
+(K) Data accuracy
 
+(L) Data minimization
 
+(M) Data retention
 
-We may also use your information, or permit carefully selected third parties to use your information, to contact you about goods and services that may be of interest to you where you have consented to be contacted for such purposes. If you do not want us to use your information in this way, or to provide your information to third parties for marketing purposes, please check the relevant box located on the form on which we collect your data and / or adjust your user preferences accordingly in your account profile.
+(N) Your legal rights
 
-Depending on whether you have provided your consent, we may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+(O) Cookies and similar technologies (Cookie Policy)
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+(P) Terms of Use
 
-**Technology usage**  
-**IP Addresses**  
-Like the vast majority of website providers, we collect details of your visits to our Website.  We only collect aggregate information, such as, for example, traffic data, logs and other communication data, whether this is required for our own contractual purposes or otherwise. The information we collect concerns the resources that you access, information about your computer and internet connection, including your IP address, operating system and browser type, for system administration, marketing purposes and to report aggregate information to our advertisers.
+(Q) Direct marketing
 
-Where, according to local law, IP addresses and the like are considered personal information, then we treat it as such.
+(R) Contact details
 
-The information we collect is merely statistical data about our users' equipment, browsing actions and patterns and does not and cannot identify any individual.
+(S) Definitions
 
-Cookies are small files stored on the browser or the hard drive of your computer. Use of cookies help us to improve our Website and to deliver a better and more personalized service by enabling us to: estimate our audience size and usage patterns, store information about your preferences, allowing us to customize our Website according to your individual interests, speed up your searches and recognize you when you return to our Website.
+ **Introduction**
 
-**If you register with us or if you continue to use our website, you agree to our use of cookies.**
+As a maker of security software, the protection of our customers’ privacy is very important. That said, part of our mission is to keep you informed about security and privacy threats and to ensure that your protection options are known and understood by you, and this goal necessarily requires that we know who you are and how to reach you. As with most things, protecting your privacy is a balancing act. Our privacy policy explains how we work to protect your privacy and your rights. If you have any questions, however, you can reach out to us at any time and ask for clarification.
 
-You can refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+##  **(A) This Policy**
 
-**Web Beacons** , also known as pixel tags are electronic images, contained on a website  that permit us to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.
+* * *
 
-**Third-Party Advertisers Use Technologies.**  
-Some advertisements on the Website are served by third-party advertising companies. Please note that our advertisers may also use cookies and / or web beacons to collect aggregate and non identifying information about our users. We do not have control over third-party advertisers' technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly.
+###  **Summary – This Policy**
 
-**User Contributions**  
-You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Terms of Use and known or suspected violations should be reported to [Privacy@ThreatTrack.com](mailto:privacy@threattrack.com).
+This Policy explains how we may Process your Personal Data. This Policy may be amended or updated from time to time, so please check it regularly for updates.
 
-**Disclosure of your information**  
-We may disclose personal information that you provide via this Website to the following third parties:
+* * *
 
-  * To a member of our group – holding company and its subsidiaries and affiliates.
-  * Direct contractors and service providers we use to support our business.
-  * In the event (whether perspective or actual) of a merger, acquisition, or any form of sale of some or all of ThreatTrack Security’s assets, in which case personal information held by ThreatTrack Security about its customers will be among the assets transferred to the (prospective) buyer.
+This Policy is issued by ThreatTrack Security, Inc. on behalf of itself, its subsidiaries and its affiliates (including any entity lawfully doing business under the FuseMail, WeCloud, or VIPRE brand as set out in Section R below) (together, “ **Company** ”, “ **we** ”, “ **us** ” and “ **our** ”) and is addressed to individuals outside our organization with whom we interact, including customers, visitors to our Sites, users of our Apps, and other users of our services (together, “ **you** ”). Defined terms used in this Policy are explained in Section (S) below.
 
+For the purposes of this Policy, Company is the Controller. This Policy covers the information practices relating to Company websites for the VIPRE, FuseMail or WeCloud services offered now or in the future. Contact details are provided in Section (R) below.
 
+Notwithstanding anything to the contrary in this Policy, and to the extent allowed by applicable law, VIPRE does not collect or log any traffic on Internet Shield, its VPN service.
 
-We may also disclose your personal information to third parties to:
+This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Policy.
 
-  * Comply with any court order or other legal obligation.
-  * Enforce or apply our terms of use or terms of sale and other agreements.
-  * Protect the rights, property, or safety of ThreatTrack Security, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+##  **(B) Collection of Personal Data**
 
+* * *
 
+###  Summary – Collection of Personal Data
 
-**Your choices about how we use and disclose your information**  
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+We may collect or obtain Personal Data about you: directly from you (e.g., where you contact us); in the course of our relationship with you (e.g., if you make a purchase); when you make your Personal Data public (e.g., if you make a public post about us on social media); when you download, install, or use any of our Apps; when you visit our Sites; when you register to use any of our Sites, Apps, or services; or when you interact with any third party content or advertising on a Site or in an App. We may also receive Personal Data about you from third parties (e.g., law enforcement authorities).
 
-  * **Cookies** \- We use a trusted third party to provide you with the ability to opt – out from collecting cookies, if you do not wish to have cookies, please click here: <http://www.omniture.com/en/privacy/2o7#optout>. In addition, you may also set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this site may then be inaccessible or not function properly.
-  * **Promotional Offers from Third Parties** \- If you do not wish us to share your personal information with affiliated third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data; the registration form. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [Privacy@ThreatTrack.com](mailto:privacy@threattrack.com).
-  * **Promotional Offers from ThreatTrack Security.** If you do not wish to have your e-mail address used for promotional purposes by ThreatTrack Security, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out of receiving e-mail information from us other than the e-mail informing you of the completion of user registration, correction of user data, or change of password by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [Privacy@ThreatTrack.com](mailto:privacy@threattrack.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to ThreatTrack Security as a result of a product downloads or purchase, warranty registration, product service experience or other transactions.
-  * **Personalized Advertising.** If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always adjust your user advertising preferences accordingly in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [Privacy@ThreatTrack.com](mailto:privacy@threattrack.com).
+* * *
+
+ **Collection of Personal Data:** We may collect Personal Data about you from the following sources:
+
+  *  _Data you provide:_ We may obtain your Personal Data when you provide it to us (e.g., where you contact us _via_ email or telephone, or by any other means, or when you provide us with your business card).
+  *  _Relationship data:_ We may collect or obtain your Personal Data in the ordinary course of our relationship with you (e.g., if you purchase a service from us).
+  *  _Data you make public:_ We may collect or obtain your Personal Data that you manifestly choose to make public, including _via_ social media (e.g., we may collect information from your social media profile(s), if you make a public post about us).
+  *  _App data:_ We may collect or obtain your Personal Data when you download or use any of our Apps.
+  *  _Site data:_ We may collect or obtain your Personal Data when you visit any of our Sites or use any features or resources available on or through a Site.
+  *  _Registration details:_ We may collect or obtain your Personal Data when you use, or register to use, any of our Sites, Apps, or services.
+  *  _Content and advertising information:_ If you choose to interact with any third party content or advertising on a Site or in an App, we may receive Personal Data about you from the relevant third party.
+  *  _Third party information:_ We may collect or obtain your Personal Data from third parties who provide it to us (e.g., credit reference agencies; law enforcement authorities; etc.).
 
 
 
-You should review this privacy policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Website. Remember, by using any part of the Website, you accept and agree to our privacy practices. If we update this privacy policy, your continued use of the Website (following the posting of the revised privacy policy) means that you accept and agree to the terms of the revised privacy policy.
+##  **(C) Creation of Personal Data**
 
-**Accessing and correcting your personal information**  
-You can review and update your personal information by logging into the Website and visiting your account profile page and making changes. If you have forgotten your password, once you have tried to register and failed, you can click on the "Forgot your password?" link to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you.
+We may also create Personal Data about you, such as records of your interactions with us, and details of your purchase history for internal administration purposes and analysis.
 
-**Unsubscribing**  
-In each and every email that we send to you, there is an ‘unsubscribe’ hyperlink, which you may you use if you wish to ‘opt out’ of and stop receiving email communications from us.  The hyperlink will direct you to our website, where upon entering the email address that you no longer wish to receive ThreatTrack Security emails, one last confirmation email shall then be sent to the email address you designate.  Merely confirm that you do indeed wish to stop ThreatTrack Security email’s being sent to you and that email address shall automatically be unsubscribed.
+##  **(D) Categories of Personal Data we may Process**
 
-Alternatively, you may email ThreatTrack Security at [Unsubscribe@ThreatTrack.com](mailto:unsubscribe@threattrack.com) with your request, stating ‘Unsubscribe’ in the header and what email addresses you wish not to receive ThreatTrack Security emails and within a reasonable period, we shall ensure that such email addresses are unsubscribed and shall no longer receive any communications from us.
+* * *
 
-**Where we store your personal data**  
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+###  **Summary – Categories of Personal Data we may Process**
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+We may Process: your personal details (e.g., your name); demographic data (e.g., your age); your contact details (e.g., your address); records of your consents; purchase details; payment details (e.g., your billing address); information about our Sites and Apps (e.g., the type of device you are using); details of your employer (where relevant); information about your interactions with our content or advertising; and any views or opinions you provide to us.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+* * *
 
-**Data security**  
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on secure servers behind firewalls. Any payment transactions and is encrypted using SSL technology.
+We may Process the following categories of Personal Data about you:
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.
+  *  _Personal details:_ given name(s); preferred name; and photograph.
+  *  _Demographic information:_ gender; date of birth/age; nationality; salutation; job title/industry; and language preferences.
+  *  _Contact details:_ correspondence address; telephone number; email address; and details of your public social media profile(s).
+  *  _Consent records:_ records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent).
+  *  _Purchase details:_ records of purchases and prices.
+  *  _Payment details:_ invoice records; payment records; billing address; payment method; bank account number or credit card number; cardholder or accountholder name; card or account security details; card ‘valid from’ date; and card expiry date; BACS details; SWIFT details; IBAN details; payment amount; payment date; and records of checks.
+  *  _Data relating to our Sites and Apps:_ device type; operating system; browser type; browser settings; IP address; language settings; dates and times of connecting to a Site; App usage statistics; App settings; dates and times of connecting to an App; location data, and other technical communications information (some of which may constitute Personal Data); username; password; security login details; usage data; aggregate statistical information.
+  *  _Employer details:_ where you interact with us in your capacity as an employee, the contact information of your employer (including name, address, telephone number and email address) to the extent relevant.
+  *  _Content and advertising data:_ records of your interactions with our online advertising and content, records of advertising and content displayed on pages or App screens displayed to you, and any interaction you may have had with such content or advertising (including mouse hover, mouse clicks, any forms you complete (including incomplete forms not submitted) and any touchscreen interactions).
+  *  _Views and opinions:_ any views and opinions that you choose to send to us, or publicly post about us on social media platforms.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
-**Your rights**  
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [Privacy@ThreatTrack.com](mailto:privacy@threattrack.com).
 
-Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+##  **(E) Lawful basis for Processing Personal Data**
 
-**Your California privacy rights**  
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [Privacy@ThreatTrack.com](mailto:privacy@threattrack.com).
+* * *
 
-**Access to information**  
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee as applicable and in accordance with the laws of the country from which you are accessing the Website, to meet our costs in providing you with details of the information we hold about you.
+###  **Summary – Lawful basis for Processing Personal Data**
 
-**Changes to our privacy policy**  
-It is our policy to post any changes we make to our privacy policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our services shall be deemed to be your consent to such changes.
+We may Process your Personal Data where: you have given your prior, express consent; the Processing is necessary for a contract between you and us; the Processing is required by applicable law; the Processing is necessary to protect the vital interests of any individual; or where we have a valid legitimate interest in the Processing.
 
-The date the privacy policy was last revised is identified at the top of the page.
+* * *
 
-**Contact information**  
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [Privacy@ThreatTrack.com](mailto:privacy@ThreatTrack.com)
+In Processing your Personal Data in connection with the purposes set out in this Policy, we may rely on one or more of the following legal bases, depending on the circumstances:
 
-**Corporate address**  
-ThreatTrack Security, Inc.  
-311 Park Place Blvd.  
-Suite #300  
-Clearwater, FL 33759  
-USA
+  *  _Consent:_ We may Process your Personal Data where we have obtained your prior, express consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way);
+  *  _Contractual necessity:_ We may Process your Personal Data where the Processing is necessary in connection with any contract that you may enter into with us;
+  *  _Compliance with applicable law:_ We may Process your Personal Data where the Processing is required by applicable law;
+  *  _Vital interests:_ We may Process your Personal Data where the Processing is necessary to protect the vital interests of any individual; or
+  *  _Legitimate interests:_ We may Process your Personal Data where we have a legitimate interest in carrying out the Processing for the purpose of managing, operating or promoting our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.
 
-Email: [Legal@ThreatTrack.com](mailto:legal@threattrack.com)  
-Telephone: +813.367.9906 
+
+
+##  **(F) Sensitive Personal Data**
+
+* * *
+
+ **Summary – Sensitive Personal Data**
+
+We do not seek to collect or otherwise Process your Sensitive Personal Data. Where we need to Process your Sensitive Personal Data for a legitimate purpose, we do so in accordance with applicable law.
+
+* * *
+
+We do not seek to collect or otherwise Process your Sensitive Personal Data in the ordinary course of our business. Where it becomes necessary to process your Sensitive Personal Data for any reason, we rely on one of the following legal bases:
+
+  *  _Compliance with applicable law:_ We may Process your Sensitive Personal Data where the Processing is required or permitted by applicable law (e.g., to comply with our diversity reporting obligations);
+  *  _Detection and prevention of crime:_ We may Process your Sensitive Personal Data where the Processing is necessary for the detection or prevention of crime (including the prevention of fraud);
+  *  _Establishment, exercise or defense of legal rights:_ We may Process your Sensitive Personal Data where the Processing is necessary for the establishment, exercise or defense of legal rights; or
+  *  _Consent:_ We may Process your Sensitive Personal Data where we have, in accordance with applicable law, obtained your prior, express consent prior to Processing your Sensitive Personal Data (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+
+
+##  **(G) Purposes for which we may Process your Personal Data**
+
+* * *
+
+###  **Summary – Purposes for which we may Process your Personal Data**
+
+We may Process your Personal Data for the following purposes: providing services to you; operating our Sites and Apps; communicating with you; managing our IT systems; health and safety; financial management; conducting surveys; ensuring the security of our premises and systems; conducting investigations where necessary; compliance with applicable law; and improving our Sites, Apps, and services. 
+
+* * *
+
+The purposes for which we may Process Personal Data, subject to applicable law, include:
+
+  *  _Provision of services to you:_ providing our Sites, Apps, and services to you; communicating with you in relation to those services, and providing you with promotional items at your request or in connection with those services or similar services.
+  *  _Our Sites and Apps:_ operating and managing our Sites and our Apps; providing content to you; displaying advertising and other information to you; communicating and interacting with you _via_ our Sites and our Apps; identifying issues with our Sites and Apps and planning improvements to or creating new Sites and Apps; and notifying you of changes to any of our Sites, our Apps, or our services.
+  *  _Communications:_ communicating with you _via_ any means (including _via_ email, telephone, text message, social media, post or in person) news items and other information in which you may be interested, subject to ensuring that such communications are provided to you in compliance with applicable law; maintaining and updating your contact information where appropriate; and obtaining your prior, opt-in consent where required.
+  *  _Communications and IT operations:_ management of our communications systems; operation of IT security systems; and IT security audits.
+  *  _Financial management:_ sales; finance; corporate audit; and vendor management.
+  *  _Surveys:_ engaging with you for the purposes of obtaining your views on our services.
+  *  _Security:_ physical security of our premises (including records of visits to our premises; and CCTV recordings); and electronic security (including login records and access details).
+  *  _Investigations:_ detecting, investigating and preventing breaches of policy, and criminal offences, in accordance with applicable law.
+  *  _Legal proceedings:_ establishing, exercising and defending legal rights.
+  *  _Legal compliance:_ compliance with our legal and regulatory obligations under applicable law.
+  *  _Improving our Sites, Apps, services:_ identifying issues with our Sites, our Apps, or our services; planning improvements to our Sites, our Apps, or our services; and creating new Sites, Apps, or services.
+
+
+
+##  **(H) Disclosure of Personal Data to third parties**
+
+* * *
+
+###  **Summary – Disclosure of Personal Data to third parties**
+
+We may disclose your Personal Data to: legal and regulatory authorities; our external advisors; our Processors; any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on our Sites or our Apps.
+
+* * *
+
+We may disclose your Personal Data to other entities within the Company group, for legitimate business purposes (including operating our Sites and our Apps, and providing services to you), in accordance with applicable law. In addition, we may disclose your Personal Data to:
+
+  * legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
+  * outside professional advisors (such as accountants, auditors, or lawyers), subject to binding contractual obligations of confidentiality;
+  * third party Processors (such as payment services providers; data centers; etc.), located anywhere in the world, subject to the requirements noted below in this Section (H);
+  * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defense of legal rights;
+  * any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security;
+  * any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); and
+  * any relevant third party provider, where our Sites and our Apps use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, your Personal Data may be shared with the relevant third party provider. We recommend that you review that third party’s privacy policy before interacting with its advertising, plugins or content.
+
+
+
+If we engage a third-party Processor to Process your Personal Data, the Processor will be subject to binding contractual obligations to: (i) only Process the Personal Data in accordance with our prior written instructions; and (ii) use measures to protect the confidentiality and security of the Personal Data; together with any additional requirements under applicable law.
+
+##  **(I) International transfer of Personal Data**
+
+* * *
+
+###  **Summary – International transfer of Personal Data**
+
+We may transfer your Personal Data to recipients in other countries. Where we transfer Personal Data from the EEA to a recipient outside the EEA that is not in an Adequate Jurisdiction, we do so on the basis of Standard Contractual Clauses.
+
+* * *
+
+Because of the international nature of our business, we may need to transfer your Personal Data within the Company group, and to third parties as noted in Section (H) above, in connection with the purposes set out in this Policy. For this reason, we may transfer your Personal Data to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
+
+Where we transfer your Personal Data from the EEA to recipients located outside the EEA who are not in Adequate Jurisdictions, we do so on the basis of Standard Contractual Clauses. You may request a copy of our Standard Contractual Clauses using the contact details provided in Section (R) below.
+
+Please note that when you transfer any Personal Data directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Data. We will nevertheless Process your Personal Data, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
+
+##  **(J) Data security**
+
+* * *
+
+###  **Summary – Data security**
+
+We implement appropriate technical and organizational security measures to protect your Personal Data. Please ensure that any Personal Data that you send to us is sent securely.
+
+* * *
+
+We have implemented appropriate technical and organizational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, unauthorized access, and other unlawful or unauthorized forms of Processing, in accordance with applicable law.
+
+Because the internet is an open system, the transmission of information _via_ the internet is not completely secure. Although we will implement all reasonable measures to protect your personal data, we cannot guarantee the security of your data transmitted to us using the internet – any such transmission is at your own risk and you are responsible for ensuring that any Personal Data that you send to us are sent securely.
+
+##  **(K) Data accuracy**
+
+* * *
+
+###  **Summary – Data accuracy**
+
+We take every reasonable step to ensure that your Personal Data are kept accurate and up-to-date and are erased or rectified if we become aware of inaccuracies.
+
+* * *
+
+We take every reasonable step to ensure that:
+
+  * your Personal Data that we Process are accurate and, where necessary, kept up to date; and
+  * any of your Personal Data that we Process that you inform us is inaccurate (having regard to the purposes for which they are Processed) are erased or rectified.
+
+
+
+##  **(L) Data minimization**
+
+* * *
+
+###  **Summary – Data minimization**
+
+We take every reasonable step to limit the volume of your Personal Data that we Process to what is necessary.
+
+* * *
+
+We take every reasonable step to ensure that your Personal Data that we Process are limited to the Personal Data reasonably necessary in connection with the purposes set out in this Policy or as required to provide you services or access to our Apps and Sites.
+
+##  **(M) Data retention**
+
+* * *
+
+###  **Summary – Data retention**
+
+We take every reasonable step to ensure that your Personal Data are only retained for as long as they are needed.
+
+* * *
+
+We take every reasonable step to ensure that your Personal Data are only Processed for the minimum period necessary for the purposes set out in this Policy.
+
+The criteria for determining the duration for which we will keep your Personal Data are as follows: we will retain copies of your Personal Data in a form that permits identification only for as long as is necessary in connection with the purposes set out in this Policy, unless applicable law requires a longer retention period. In particular, we may retain your Personal Data for the duration of any period necessary to establish, exercise or defend any legal rights.
+
+##  **(N) Your legal rights**
+
+* * *
+
+###  **Summary – Your legal rights**
+
+Under applicable law, you may have a number of rights, including: the right not to provide your Personal Data to us; the right of access to your Personal Data; the right to request rectification of inaccuracies; the right to request the erasure, or restriction of Processing, of your Personal Data; the right to object to the Processing of your Personal Data; the right to have your Personal Data transferred to another Controller; the right to withdraw consent; and the right to lodge complaints with Data Protection Authorities. We may require proof of your identity before we can give effect to these rights.
+
+* * *
+
+Subject to applicable law, you may have a number of rights regarding the Processing of your Relevant Personal Data, including:
+
+  * the right not to provide your Personal Data to us (however, please note that we may be unable to provide you with the full benefit of our Sites, our Apps, or our services, if you do not provide us with your Personal Data – e.g., we may not be able to process your orders without the necessary details);
+  * the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data;
+  * the right to request rectification of any inaccuracies in your Relevant Personal Data;
+  * the right to request, on legitimate grounds:
+    * erasure of your Relevant Personal Data; or
+    * restriction of Processing of your Relevant Personal Data;
+  * the right to object, on legitimate grounds, to the Processing of your Relevant Personal Data by us or on our behalf;
+  * the right to have certain Relevant Personal Data transferred to another Controller, in a structured, commonly used and machine-readable format, to the extent applicable;
+  * where we Process your Relevant Personal Data on the basis of your consent, the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Data in reliance upon any other available legal bases); and
+  * the right to lodge complaints with a Data Protection Authority regarding the Processing of your Relevant Personal Data by us or on our behalf.
+
+
+
+This does not affect your statutory rights.
+
+To exercise one or more of these rights, or to ask a question about these rights or any other provision of this Policy, or about our Processing of your Personal Data, please use the contact details provided in Section (R) below. Please note that:
+
+  * we may require proof of your identity before we can give effect to these rights; and
+
+
+
+where your request requires the establishment of additional facts (e.g., a determination of whether any Processing is non-compliant with applicable law) we will investigate your request reasonably promptly, before deciding what action to take.
+
+##  **(O) Cookies and similar technologies (Cookie Policy)**
+
+* * *
+
+###  **Summary – Cookies and similar technologies**
+
+We may Process your Personal Data by placing or reading Cookies and similar technologies in accordance our cookie policy set out below
+
+* * *
+
+ **Cookie Policy**
+
+ **What is a cookie?**
+
+A cookie is a piece of data stored on your computer and tied to information about you. By using and browsing our Sites, you consent to the use by us and third parties of cookies and other technologies in accordance with this Policy.
+
+ **What are the different types of cookies?**
+
+First party cookies are our own cookies set by our Site, controlled by us, and used to provide information about the usage of our Site.
+
+Third party cookies are cookies from any other domain. Some of our business partners (for example, third-party advertisers) may use cookies on the Site, in emails or in our advertisements on other websites to allow them to deliver the services they are providing. In order to create a user-friendly experience, some of our third-party promotions and advertisements are designed to automatically transmit users’ information onto the third party’s landing page when you choose to “click” upon a third party’s advertisement or promotion. We do not control these third parties or their use of cookies. As such, this Policy covers the use of cookies by the Company and does not cover the use of cookies by any third-party advertisers. Please check the websites of those third parties for details on how they use cookies.
+
+ **How long do cookies stay on your computer?**
+
+Two types of cookies may be used on the Site, session cookies and persistent cookies.
+
+Session cookies are temporary cookies that remain in your browser or device until you leave the site; they are deleted from your device once you leave the Service **.**
+
+Persistent cookies are small files stored on your hard drive until you delete them or until they reach their expiry date. These may, for example, be used to remember your preferences when you use the Site, recognize you on your return, and enhance your experience on the Site (see more about profiles below). Use of a persistent cookie is not linked to any personally identifiable information while on the Site except if you choose to store your user names and PINs so that you do not have to enter them each time you access your accounts. Then, a persistent cookie will be stored on your computer, which is linked to your account information. If you reject the persistent cookie, you may still use the Site but you will be limited in some areas of it.
+
+ **How do we use cookies?**
+
+We may use cookies for the following purposes (either on our own or by using third party services):
+
+  * Authentication and Preferences: Cookies can be used to recognize you when you visit our Sites, remember your preferences (such as languages and communication preferences), and customize your experience with using our Sites and Services.
+  * Security: Cookies may enable and support our security features and to help us detect malicious activity.
+  * Advertising: Cookies allow us to bring you advertising both on and off our Sites. We may also use a cookie to learn whether someone who saw an ad later visited and took an action on the advertiser’s site. Similarly, our partners may use a cookie to determine whether we’ve shown an ad and how it performed, or provide us with information about how you interact with ads. We may also work with a partner to show you an ad on or off our Sites, such as after you have visited a partner’s site or application.
+  * Analytics: We use cookies to understand, improve, and research products, features, and services, including when you access our Sites from other websites, applications, or devices such as your mobile device.
+  * Geo-Location Information: Some devices allow applications to access real-time location-based information (for example, GPS). Some photos or other contact you place within our Service may contain recorded location information. We may use this information to optimize your experience. Also, some of the information we collect from a device, for example IP address, can sometimes be used to approximate a device’s location.
+  * Flash Cookies: We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. Flash cookies are stored on your device, but they are managed through an interface that is different from the one provided by your web browser. This means that it is not possible to manage Flash cookies at the browser level in the same way you would manage other types of cookies. Instead, you can access your Flash management tools from Adobe’s website directly.
+
+
+
+Our [_List of Cookies_](http://vipre.com/cookie-declaration/) may provide you with more information on the cookies used on our Sites. Note, the names of cookies, pixels and other technologies may change over time.
+
+ **What other technologies do we use?**
+
+ **Log Files**  
+Like most websites, our servers use log files to analyze trends, administer our sites, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. The log file information consists of IP addresses, browser type, browser language, referring URL, platform type, etc., and is not linked to identifiable personal information.
+
+ **Clear Gifs**
+
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and we may use them to track the online movements of our users. Clear gifs are invisible on the page and are much smaller than cookies, about the size of the period at the end of this sentence. We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+
+ **Profile**  
+We may store information that we collect to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information may be tied to users’ personally identifiable information to improve the content of the Site for users, improve our Services and provide new services that are likely to be of interest to users and to direct pertinent product updates and marketing promotions to users if they have opted in to receive those promotions. We do not share personally identifiable elements of a user’s profile with other third parties. User profiles are shared in aggregate form only.
+
+ **Do Not Track Response**
+
+Certain web browsers may allow you to enable a “do not track” option that sends signals to the websites you visit indicating that you do not want your online activities tracked. This is different from blocking cookies as browsers with the “do not track” option selected may still accept cookies. Right now, there is no industry standard for how companies should respond to “do not track” signals, although one may be adopted in the future. We do not respond to “do not track” signals at this time. If we do so in the future, we will modify this Privacy Policy accordingly. More information about “do not track” is available at [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+
+ **Can I Change** **My** **Cookie** **Preferences** **?**
+
+Browser settings allow you to choose whether or not to accept cookies or limit certain cookies. Most browsers also provide functionality that lets you review and erase cookies. If you use our Sites without changing your browser settings, we will assume that you are happy to receive all cookies on our Sites. Please be aware that if cookies are disabled, not all features of the Site may operate as intended.
+
+Your mobile operating system may let you opt out from having your information collected or used for interest-based advertising on mobile devices. You should refer to the instructions provided by your mobile device’s manufacturer, but this functionality is usually available in the “Settings” section of your device. You can also stop us from collecting information through our applications by uninstalling our applications.
+
+For more information about these specialized cookies and other technologies, and to learn more about behavioral advertising or to opt out of this type of advertising for some companies, you can visit http://www.networkadvertising.org or <http://networkadvertising.org/optout_nonppii.asp>.
+
+##  **(P) Terms of** **Service**
+
+* * *
+
+###  **Summary – Terms of** **Service**
+
+The relevant Terms of Service located on our websites will govern use of our Sites and our Apps.
+
+* * *
+
+All use of our Sites, our Apps, or our services is subject to applicable Terms and Conditions which are available on our websites. We recommend that you review our terms of service regularly, in order to review any changes we might make from time to time.
+
+##  **(Q) Direct marketing**
+
+* * *
+
+###  **Summary – Direct marketing**
+
+We may Process your Personal Data to contact you with information regarding services that may be of interest to you. You may unsubscribe for free at any time.
+
+* * *
+
+We may Process your Personal Data to contact you via email, telephone, direct mail or other communication formats to provide you with information regarding services that may be of interest to you. If we provide services to you, we may send information to you regarding our services, upcoming promotions and other information that may be of interest to you, using the contact details that you have provided to us and always in compliance with applicable law.
+
+You may unsubscribe from our promotional email list at any time by following the unsubscribe instructions included in every promotional email we send. We will not send you promotional emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any services you have requested or from additional lists you have signed up under
+
+##  **(R) Contact details** **and Data Protection Officer**
+
+* * *
+
+###  **Summary – A**
+
+You may contact us at the addresses set out below or by emailing: [vipreunsubscribe@j2.com](mailto:vipreunsubscribe@j2.com).
+
+You may contact our Data Protection Officer at [dpo@j2.com](mailto:dpo@j2.com).  
+
+
+* * *
+
+If you wish to be taken off our contact list for direct marketing, or if you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of Personal Data carried out by us, or on our behalf, you can email us at [vipreunsubscribe@j2.com](mailto:vipreunsubscribe@j2.com).
+
+You can also contact us at any of the following addresses, please address your query **FAO: Legal**
+
+ThreatTrack Security, Inc. (dba VIPRE)
+
+311 Park Place Blvd.Suite #300
+
+Clearwater, FL 33759 USA
+
+Telephone: +813.367.9906
+
+| The Electric Mail Company  
+300-3999 Henning Drive,  
+Burnaby, BC, Canada,  
+V5C 6P9  
+---|---  
+FuseMail UK Limited
+
+Ground & 1st Floor Mezzanine
+
+The Battleship Building
+
+179 Harrow Road, London, W2 6NB
+
+| Excel Micro, LLC.  
+401 Pilgrim Lane, Suite 200, Drexel Hill, PA 19026  
+j2 Global UK Limited  
+Ground & 1st Floor Mezzanine The Battleship Building, 179 Harrow Road, London, W2 6NB| j2 Global Ireland Limited,  
+Unit 3.1, Woodford Business Park  
+Santry, Dublin 17  
+Ireland  
+j2 Global Norway AS  
+Drammensveien 123 N,  
+NO-0277 Oslo, Norway| j2 Global Netherlands BV Transistorstraat 71c  
+1322 CK Almere  
+The Netherlands  
+WeCloud AB  
+c/o Stay Secure Sweden AB Lumaparksvägen 9, 8tr  
+120 31 Stockholm, Sweden| Simitu Aps  
+c/o j2 Global Denmark A/S  
+Spotorno allé 12  
+2630 Høje Taastrup, Denmark  
+Stay Secure Sweden AB  
+Lumaparksvägen 9, 8tr  
+120 31 Stockholm, Sweden| WeCloud AB  
+c/o Stay Secure Sweden AB Lumaparksvägen 9, 8tr  
+120 31 Stockholm, Sweden  
+  
+The Company has appointed a Data Protection Officer who can also be contacted at the addresses above or by emailing: [dpo@j2.com](mailto:dpo@j2.com)
+
+##  **(S) Defin** **itions**
+
+  * “ **App** ” means any application made available by us (including where we make such applications available _via_ third party stores or marketplaces, or by any other means).
+  * “ **Adequate Jurisdiction** ” a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Data.
+  * “ **Cookie** ” means a small file that is placed on your device when you visit a website (including our Sites). In this Policy, a reference to a “Cookie” includes analogous technologies such as web beacons and clear GIFs.
+  * “ **Controller** ” means the entity that decides how and why Personal Data are Processed. In many jurisdictions, the Controller has primary responsibility for complying with applicable data protection laws.
+  * “ **Data Protection Authority** ” means an independent public authority that is legally tasked with overseeing compliance with applicable data protection laws.
+  * “ **EEA** ” means the European Economic Area.
+  * “ **Personal Data** ” means information that is about any individual, or from which any individual is directly or indirectly identifiable, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that individual.
+  * “ **Process** ”, “ **Processing** ” or “ **Processed** ” means anything that is done with any Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+  * “ **Processor** ” means any person or entity that Processes Personal Data on behalf of the Controller (other than employees of the Controller).
+  * “ **Relevant Personal Data** ” means Personal Data in respect of which we are the Controller. It expressly does not include Personal Data of which we are not the Controller.
+  * “ **Sensitive Personal Data** ” means Personal Data about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, national identification number, or any other information that may be deemed to be sensitive under applicable law.
+  * “ **Standard Contractual Clauses** ” means template transfer clauses adopted by the European Commission or adopted by a Data Protection Authority and approved by the European Commission.
+  * “ **Site** ” means any website operated, or maintained, by us or on our behalf.
+
+
