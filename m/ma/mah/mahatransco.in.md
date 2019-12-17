@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mahatransco.in privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820180005id_/https%3A//mahatransco.in/information/details/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahatransco.in privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217171219id_/https%3A//mahatransco.in/information/details/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maharashtra State Electricity Transmission Company Ltd | Maharashtra | India
 
-  1. [Home](https://mahatransco.in/)
-  2. [Privacy Policy](https://mahatransco.in/information/details/privacy_policy)
+  1. [Home](https://www.mahatransco.in/)
+  2. [Privacy Policy](https://www.mahatransco.in/information/details/privacy_policy)
 
 
 
