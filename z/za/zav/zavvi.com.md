@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zavvi.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503195250id_/https%3A//www.zavvi.com/articles/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavvi.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217032734id_/https%3A//www.zavvi.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
 # Zavvi Privacy Policy | Zavvi
 
