@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuelx.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629135559id_/https%3A//fuelx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuelx.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217231158id_/https%3A//fuelx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FuelX, Inc.
 
@@ -89,7 +89,7 @@ Without regard to the foregoing, you may object to any processing of your person
 
 #### 5\. Children’s Privacy Statement.
 
->Our Services are not intended for children under the age of 16, and we do not knowingly collect personal information from children under the age of 16. If we learn that we have collected the personal information from a child under the age of 16, we will take steps to delete the information. If you are aware that a child under 16 has provided us with personal information, please contact us at legal@fuelx.com.
+Our Services are not intended for children under the age of 16, and we do not knowingly collect personal information from children under the age of 16. If we learn that we have collected the personal information from a child under the age of 16, we will take steps to delete the information. If you are aware that a child under 16 has provided us with personal information, please contact us at legal@fuelx.com.
 
 #### 6\. Do Not Track.
 
@@ -109,14 +109,15 @@ If you have questions or concerns regarding this Privacy Policy or our privacy p
 
 **FuelX Inc.**  
 Attn: Legal Affairs – Privacy  
-1400 Fashion Island Blvd, Suite 180  
-San Mateo, CA  94404  
+63 Bovet Road #209  
+San Mateo, CA 94402
+
 [legal@fuelx.com](mailto:legal@fuelx.com)
 
 You can also contact our Data Protection Officer (DPO) with any questions concerning use of your Personal Data at:
 
 **FuelX Inc.**  
-Attn: Dan Haarmann, DPO  
-1400 Fashion Island Blvd, Suite 180  
-San Mateo, CA  94404  
+Attn: Data Protection Officer  
+63 Bovet Road #209  
+San Mateo, CA 94402  
 [DPO@fuelx.com](mailto:DPO@fuelx.com)
