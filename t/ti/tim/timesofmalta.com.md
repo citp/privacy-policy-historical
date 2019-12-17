@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesofmalta.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627043731id_/https%3A//www.timesofmalta.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofmalta.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217174212id_/https%3A//timesofmalta.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacypolicy
+# News, sport, opinion, jobs and events from Malta and the world – Times of Malta
 
   1. ## Introduction
 
@@ -272,7 +272,7 @@ You have various rights in relation to your personal data. In particular, you ha
 
 To exercise any of your rights, or if you have any other questions about our use of your personal data, please e-mail our Data Protection Officer on [dpo@timesofmalta.com](mailto:dpo@timesofmalta.com) or write to us at the address below:
 
-Allied Newspapers Limited  
+Allied Newspapers Ltd  
 Times Of Malta,  
 Triq l-Intornjatur,  
 Mrieħel BKR 3000,  
