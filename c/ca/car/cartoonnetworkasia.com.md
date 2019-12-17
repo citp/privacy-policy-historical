@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611223456id_/https%3A//www.cartoonnetworkasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217175308id_/http%3A//www.cartoonnetworkasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
