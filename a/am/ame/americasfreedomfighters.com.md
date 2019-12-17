@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasfreedomfighters.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630010629id_/https%3A//americasfreedomfighters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasfreedomfighters.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217154834id_/https%3A//americasfreedomfighters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AFF
 
