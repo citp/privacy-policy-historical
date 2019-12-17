@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423081534id_/https%3A//www.samaritanspurse.org/our-ministry/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217192219id_/https%3A//www.samaritanspurse.org/our-ministry/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### 1\. Introduction
 
-**1.1** Samaritan’s Purse is committed to protecting your privacy and will only use the information that we collect about you lawfully. This policy is designed to provide transparency into our privacy practices and principles and to inform you of the way your information is collected and used. 
+**1.1** Samaritan’s Purse (“the Ministry”) is committed to protecting your privacy and will only use the information that we collect about you lawfully. This policy is designed to provide transparency into our privacy practices and principles and to inform you of the way your information is collected and used. 
 
 **1.2** If you have questions about this policy, please contact by writing to Samaritan’s Purse, PO Box 3000, Boone, NC 28607, or calling (828) 262-1980.
 
@@ -16,12 +16,12 @@
 
 **2.1** We may collect information from you in the following ways:
 
-  * (a) Our use of cookies (please see our policies regarding cookies in section 8);
-  * (b) You make a donation to us (which may be financial or non-financial/in-kind), or respond to our mailings and appeals;
-  * (c) You request information or materials from our organization;
-  * (d) You contact us in relation to volunteering or fundraising on our behalf;
-  * (e) You apply for a job with us, become an employee, or provide consultancy services directly to us; or
-  * (f) You contact us with inquiries or other correspondence (including via social media) or become involved with us in another way.
+  * (a) You make a donation to us (which may be financial or non-financial/in-kind), or respond to our mailings and appeals;
+  * (b) You request information or materials from our organization;
+  * (c) You contact us in relation to volunteering or fundraising on our behalf;
+  * (d) You apply for a job with us, become an employee, or provide consultancy services directly to us; or
+  * (e) You contact us with inquiries or other correspondence (including via social media) or become involved with us in another way.
+  * (f) Our use of cookies (please see our policies regarding cookies in section 8);
 
 
 
@@ -56,15 +56,14 @@
   * (d) To comply with applicable laws and regulations, and requests from statutory agencies;
   * (e) For our own internal administrative purposes and to keep a record of your relationship with us;
   * (f) For the purposes of research such as support satisfaction research;
-  * (g) For marketing purposes, to provide you with information about us, our fundraising campaigns, the opportunity to leave a gift in a will, our events, our services, and any other information, products, activities or services that we provide;
-  * (h) Where you have provided your consent to publish your personal data;
-  * (i) To provide you with information about volunteering opportunities;
-  * (j) To provide you with details about our campaigns;
-  * (k) To provide essential event information where you have signed up to attend;
-  * (l) To manage your communication preferences with us generally;
-  * (m) To provide you with information about goods and services we feel may interest you;
-  * (n) To notify you about changes to our services and/or donor opportunities;
-  * (o) To ensure that content from our website is presented in the most effective manner for you and for your compute/mobile device.
+  * (g) Where you have provided your consent to publish your personal data;
+  * (h) To provide you with information about volunteering opportunities;
+  * (i) To provide you with details about our campaigns;
+  * (j) To provide essential event information where you have signed up to attend;
+  * (k) To manage your communication preferences with us generally;
+  * (l) To provide you with information about goods and services we feel may interest you;
+  * (m) To notify you about changes to our services and/or donor opportunities;
+  * (n) To ensure that content from our website is presented in the most effective manner for you and for your compute/mobile device.
 
 
 
@@ -76,7 +75,7 @@
 
 ### 4\. Where we store your information
 
-**4.1** The information we collect from you will be stored in the U.S. However, there may be times when we need to transfer your data to a destination outside the U.S. to provide you with requested services (e.g. You request information from one of our worldwide office). If we send your personal data outside the U.S. or other areas outside the European Economic Area (EEA), we will take reasonable steps to ensure that the recipient implements appropriate measures to protect your information. By submitting your details, you agree to this use of your data.
+**4.1** The information we collect from you will be stored in the U.S. However, there may be times when we need to transfer your data to a destination outside the U.S. to provide you with requested services (e.g. You request information from one of our worldwide offices). If we send your personal data outside the U.S. or other areas outside the European Economic Area (EEA), we will take reasonable steps to ensure that the recipient implements appropriate measures to protect your information. By submitting your details, you agree to this use of your data.
 
 **4.2** Online payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping the password confidential. We will not ask you to share your password with anyone.
 
@@ -86,7 +85,7 @@
 
 **5.1** Samaritan’s Purse may allow our staff, consultants and/or external providers acting on our behalf to access and use your information for the purposes for which you have provided it to us (e.g. to deliver mailings, for research, to analyze data and to process payments) or for the purposes set out in this privacy policy. We only provide them with the information they need to deliver the relevant service or it is relevant to their work, and we make sure your information is transferred securely and treated with the same level of care as if we were handling it directly.
 
-**5.2** We do not sell rent or lease your personal data to third parties for the purposes of marketing. However, we may share information with our Ministry Partners, such as the Billy Graham Evangelistic Association (BGEA), and other parties to assist us with establishing, maintaining, and managing our relationship with you and providing ministry products and services.
+**5.2** We will not trade, share or sell your personal information with anyone else, nor send donor mailings on behalf of other organizations.
 
 **5.3** We may disclose your information to other organizations and agencies if we are under a duty to disclose or share it in order to comply with any legal obligation, or in order to enforce or apply any agreement; or to protect the rights, property, or safety of us or others.
 
@@ -94,16 +93,17 @@
 
 ### 6\. Samaritan’s Purse worldwide offices
 
-**6.1** We may need to disclose your information to other offices in some circumstances with your consent. Samaritan’s Purse has its international headquarters in the U.S, but works in over 100 countries. Samaritan’s Purse offices in other countries may be best placed to manage your relationship and provide you with any necessary support.
+**6.1** We may need to disclose your information to other offices in some circumstances with your consent. Samaritan’s Purse has its international headquarters in the U.S, but works in over 100 countries. Our offices in other countries may be the best place to manage the relationship and provide you with any necessary support.
 
-**6.2** For example, if you provide support or are involved in a Samaritan’s Purse project or activity in one of our international locations, elements of your personal data (e.g. your name and address) may be shared with the relevant Samaritan’s Purse office in that country in accordance with this policy. We will only share your details with another office in accordance with data protection laws and regulations and where we have your consent to do so.
+**6.2** For example, if you provide support or are involved in an SP project or activity in one of our international locations, elements of your personal data (e.g. your name and address) may be shared with the relevant SP office in that country in accordance with this policy. We will only share your details with another office in accordance with data protection laws and regulations and where we have your consent to do so.
 
-**6.3** Other Samaritan’s Purse offices may legally be required to share data in accordance with their relevant domestic legislation and potential law enforcement requirements.
+**6.3** Other SP offices may legally be required to share data in accordance with their relevant domestic legislation and potential law enforcement requirements.
 
 ### 7\. Your rights
 
 **7.1** To request details of the information we hold about you, to request that we no longer contact you or that you no longer wish to receive information from us, to update us on your contact details, or to change your preferences, simply let us know by:
 
+  * (a) sending an email to dataprivacy@samaritan.org;
   * (b) writing to Data Privacy, c/o Legal Department, Samaritan’s Purse, P.O. Box 3000, Boone, North Carolina 28607; or
   * (c) calling our representatives at (828) 262-1980 between 8am-4:30pm (Monday through Friday).
 
@@ -111,7 +111,7 @@
 
 **7.2** Instructions for unsubscribing from emails will also be included in each email communication we send.
 
-**7.3** Under the General Data Protection Regulations (GDPR), which is expected to become law in the countries within the European Union (EU) in May 2018, EU citizens are granted a number of additional rights. These include:
+**7.3** Under the General Data Protection Regulations (GDPR), EU citizens are granted a number of additional rights. These include:
 
   * (a) The right to correction;
   * (b) The right to erasure;
@@ -122,7 +122,7 @@
 
 
 
-**7.4** If you not satisfied with the way we have processed your personal data, please contact our data privacy representative(s) using the contact information set out in the introduction and section 7.1 of this policy. For those in the EU, if you are remain dissatisfied with how your complaint is handled, you can contact the Information Commissioner’s Office (ICO) at [https://ico.org.uk](https://ico.org.uk/). Alternatively, if you are located within the EU, you are entitled to make a complaint directly to the ICO without first referring your complaint to us.
+**7.4** If you not satisfied with the way we have processed your personal data, please contact our Data Protection Officer using the contact information set out in the introduction and section 7.1 of this policy. For those in the EU, if you remain dissatisfied with how your complaint is handled, you can contact your local supervisory authority. Alternatively, if you are located within the EU, you are entitled to make a complaint directly to your local supervisory authority without first referring your complaint to us.
 
 ### 8\. Cookies and how we use them
 
@@ -130,9 +130,9 @@
 
 **8.2** We use the following types of cookies and online tracking technologies:
 
-  * (a) Flash Cookies We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our website to personalize your visit. Third-party service providers with whom we contract also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. If you disable Flash cookies, you may not have access to many features that make your guest experience more engaging and some of our services may not function properly.
-  * (b) Persistent Cookies These types of cookies allow us to provide you with a smoother browsing experience while you navigate our websites. Persistent cookies also help our websites remember your information and settings whenever you visit them. These cookies remain on your hard drive until you manually erase them or they expire.
-  * (c) Web Beacons Web beacons are small pieces of data that are embedded in images on the pages of websites and emails. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
+  * (a) **Flash Cookies** We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our website to personalize your visit. Third-party service providers with whom we contract also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. If you disable Flash cookies, you may not have access to many features that make your guest experience more engaging and some of our services may not function properly.
+  * (b) **Persistent Cookies** These types of cookies allow us to provide you with a smoother browsing experience while you navigate our websites. Persistent cookies also help our websites remember your information and settings whenever you visit them. These cookies remain on your hard drive until you manually erase them or they expire.
+  * (c) **Web Beacons** Web beacons are small pieces of data that are embedded in images on the pages of websites and emails. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
 
 
 
@@ -152,10 +152,10 @@
 
 ### 9\. Children’s online privacy
 
-**9.1** We are concerned about the privacy of young children, and we do not collect any more personal information than is reasonably necessary to enable them to participate in the activities we offer on out sites. We encourage you to become involved with your child’s access to the Internet and to our site in order to ensure that his or her privacy is well protected. To read more about online safety and how to become more involved with your child’s online experience, visit OnGuardOnline.gov.
+**9.1** We are concerned about the privacy of young children, and we do not collect any more personal information than is reasonably necessary to enable them to participate in the activities we offer on our sites. We encourage you to become involved with your child’s access to the Internet and to our site in order to ensure that his or her privacy is well protected. To read more about online safety and how to become more involved with your child’s online experience, visit OnGuardOnline.gov.
 
 ### 10\. How long do we keep your personal data
 
 **10.1** We retain personal information for as long as we reasonably require it for legal or business purposes. In determining data retention periods, Samaritan’s Purse takes into consideration data protection regulations, local laws, contractual obligations and the expectations and requirements based on the nature of the relationship with Samaritan’s Purse.
 
-(Last updated: May 25, 2018)
+(Last updated: November 15, 2019)
