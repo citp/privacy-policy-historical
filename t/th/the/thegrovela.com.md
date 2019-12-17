@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrovela.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416101519id_/https%3A//thegrovela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrovela.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217191533id_/https%3A//thegrovela.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Grove LA
 
@@ -11,7 +11,7 @@ TheGroveLA.com (“Company” or “We”) respects your privacy and is committe
 
 PERSONAL INFORMATION
 
-This Privacy Policy explains our practices with regard to how we collect, use, and share the “Personal Information” of clients and visitors to our mobile website or website [http://www.thegrovela.com](http://www.thegrovela.com/) (collectively, “Website”), and in email, text, and other electronic or social media messages between you and this website, as well as our practices for collecting, using, maintaining, protecting and disclosing that information.
+This Privacy Policy explains our practices with regard to how we collect, use, and share the “Personal Information” of clients and visitors to our mobile website or website [https://thegrovela.com](https://thegrovela.com/) (collectively, “Website”), and in email, text, and other electronic or social media messages between you and this website, as well as our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 Personal Information is any information that can be used to identify, locate or contact you. It also includes other information that may be associated with your Personal Information, such as your internet connection, the equipment you use to access our Website and usage details.
 
@@ -36,7 +36,7 @@ INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
 
 _Information You Provide To Us_
 
-At [ _http://www.thegrovela.com_](http://www.thegrovela.com/), we only collect Personal Information directly from you and only when you consent for us to do so. For example, you may give us your contact information via our web forms or you may sign up to receive material about our products and services.
+At [ _https://thegrovela.com_](https://thegrovela.com/), we only collect Personal Information directly from you and only when you consent for us to do so. For example, you may give us your contact information via our web forms or you may sign up to receive material about our products and services.
 
 The Personal Information we collect on or through our Website may include:
 
