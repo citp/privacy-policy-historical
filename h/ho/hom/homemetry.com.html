@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homemetry.com privacy policy that was archived on 2019-02-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190217033156id_/https%3A//homemetry.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homemetry.com privacy policy that was archived on 2019-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191217212103id_/https%3A//homemetry.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="fb: http://www.facebook.com/2008/fbml" lang="en"><head>
 
@@ -12,12 +12,13 @@
 <link rel="manifest" href="/img/favicons/manifest.json">
 
 <link href="/css/main.css?caa9a9" rel="stylesheet">
-<link href="/css/homemetry.css?11c15b" rel="stylesheet">
+<link href="/css/homemetry.css?cd6340" rel="stylesheet">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
 ga('create', 'UA-22616707-12', 'homemetry.com');
 ga('require', 'displayfeatures');
 ga('send', 'pageview');
@@ -26,6 +27,7 @@ ga('send', 'pageview');
 </head>
 <body>
     
+
 
 <script>
     function jsLoad(name, onload){
@@ -42,28 +44,18 @@ ga('send', 'pageview');
         l.href = name;
         document.getElementsByTagName('head')[0].appendChild(l);
     }
+    
+    function onLoad() {
+    }
 
-
-    function jqueryOnLoad() {
-        jsLoad("/js/bundle.js?30c24c", function(){
-            $(document).ready(function(){ rdfLoadEvents(); } );
-        });
-            }
-
-    var rdfLoadEvents = function(){
-        // jsLoad('/js/jquery.placeholder.min.js', function(){$(':input[placeholder]').placeholder()});
-        //jsLoad('/js/jquery.clearInput.js', function(){$("[data-clear]").clearInput()});
-        $("[rel='tooltip'],[data-toggle='tooltip']").tooltip({html: true});
-        $("[data-clear]").clearInput()
-
-                    };
+    
         function _$_(func) {
         if ("complete" == document.readyState && "function" == typeof(jQuery) && "function" == typeof(Rdf)) {
                         func();
         } else {
 
-            var oldonload = rdfLoadEvents;
-            rdfLoadEvents = function() {
+            var oldonload = onLoad;
+            onLoad = function() {
                 if (oldonload) {
                     oldonload();
                 }
@@ -78,7 +70,15 @@ ga('send', 'pageview');
 
 </script>
 
-<script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" onload="jqueryOnLoad()"></script>
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script defer="" src="/js/bundle.js?271e93" onload="onLoad()"></script>
+<script>
+    _$_(function(){
+        $("[rel='tooltip'],[data-toggle='tooltip']").tooltip({html: true});
+        $("[data-clear]").clearInput()
+    });
+</script>
+
 
 
 <script>
@@ -111,7 +111,7 @@ ga('send', 'pageview');
         <li><a href="https://homemetry.com/page/contact">Contact</a></li>
 
         <!-- login links -->
-                <li><a href="https://homemetry.com/login">Login</a></li>
+                <li><a href="https://homemetry.com/login/login">Login</a></li>
             </ul>
     </div><!--/.nav-collapse -->
   </div>
@@ -136,7 +136,7 @@ ga('send', 'pageview');
 
 
 
-                                        <li class="b-global-header-nav-loginlink"><a href="https://homemetry.com/login">Login</a></li>
+                                        <li class="b-global-header-nav-loginlink"><a href="https://homemetry.com/login/login">Login</a></li>
                     
             </ul>
             
@@ -274,20 +274,24 @@ Except as otherwise described in this privacy statement, Homemetry will NOT disc
 
 
 
-<footer class="l-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-18">
-                    <ul class="b-footer-menu">
-                        <li><a href="https://homemetry.com/page/about" title="About">About</a></li><li><a href="https://homemetry.com/page/terms" title="Terms of Service">Terms of Service</a></li><li><a href="https://homemetry.com/page/privacy" class="active" title="Privacy Policy">Privacy Policy</a></li><li><a href="https://homemetry.com/page/contact" title="Contact">Contact</a></li>                    </ul>
-                </div>
-                <div class="col-sm-6">
-                    <p class="b-footer-copy">© 2019 HomeMetry.com</p>
-                </div>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="info-wrap">
+                <!--<div class="logo">HOME<span>METRY</span></div>-->
+                <div class="logo"></div>
+                <div class="footer-copy">© 2019 HomeMetry.com</div>
             </div>
-        </div>
-</footer>
 
+            <nav class="footer-nav">
+                <a href="/page/about">About</a>
+                <a href="/page/contact">Contact</a>
+                <a href="/page/terms">Terms of Use</a>
+                <a href="/page/privacy">Privacy Policy</a>
+            </nav>
+        </div>
+    </div>
+</footer>
 
 
 
