@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgallery.org.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154051id_/https%3A//www.nationalgallery.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgallery.org.uk privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217015420id_/https%3A//www.nationalgallery.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | National Gallery, London
 
