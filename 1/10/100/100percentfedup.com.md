@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100percentfedup.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630091830id_/https%3A//100percentfedup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentfedup.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217184053id_/https%3A//100percentfedup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
