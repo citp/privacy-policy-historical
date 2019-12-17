@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livejapan.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413115522id_/https%3A//corporate.gnavi.co.jp/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejapan.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217010233id_/https%3A//corporate.gnavi.co.jp/en/policy) for the most accurate reproduction.*
 
 # Privacy Policy｜Gurunavi, Inc.
 
@@ -218,9 +218,7 @@ The Company Group uses advertisement delivery services provided by third parties
 Cookies and other information acquired by such third party will be handled in accordance with its privacy policy.  
 Customers may discontinue advertisement delivery performed by such third party using cookies by accessing an opt out page created on its website.
 
-Opt out page：（The link will jump to the Japanese page）  
-[Rakuten, Inc.](https://grp12.ias.rakuten.co.jp/optout/)  
-[Yahoo Japan Corporation](https://btoptout.yahoo.co.jp/optout/index.html)
+[List of cookies used for activity history, attribute information, and advertisement delivery services provided by third parties](https://web.archive.org/en/policy/cookie.html)
 
 
 
@@ -285,7 +283,7 @@ After filling out the relevant items in the form, and signing and sealing the fo
 
     1. **1)Request form designated by the Company Group**
 
-[Request for disclosure, correction or deletion of personal information](https://c-corporate.gnst.jp/policy/pdf/sakujyo.pdf?201811131010) __  
+[Request for disclosure, correction or deletion of personal information](https://c-corporate.gnst.jp/policy/pdf/sakujyo.pdf?201911261138) __  
 [201KB, in Japanese]
 
 * If we are not able to proceed with the procedures because the request form leaves out necessary items or includes misprints or other imperfections, the Company Group will notify you thereof at the address indicated in the written request. Please understand that if we do not receive resubmission of the documents (including undelivered mail) within 2 weeks from such notification, we will deem that you have not requested any disclosure, etc.
@@ -341,7 +339,7 @@ Personal information will only be used for purposes stipulated by Japan's laws, 
 
 ## Name of the Personal Information Manager (specific personal information)
 
-Executive Vice President, Corporate security management
+Senior Managing Executive Officer Administration, Corporate Planning, Legal
 
 ## Complaints, Opinions, and Other Enquiries about Personal Information
 
@@ -378,12 +376,12 @@ In this Policy, the "Company Group" means the following companies.
 
 
 Gurunavi, Inc.  
-Seiichiro Kubo, President, Representative Director
+Akio Sugihara, President, Representative Director
 
 Personal information protection policy  
 Established：July 1, 2004  
-Last updated: October 19, 2018
+Last updated: August 1, 2019
 
 Specific personal information protection policy  
 Established：November 17, 2015  
-Last updated: October 19, 2018 
+Last updated: August 1, 2019
