@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornhat.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331012923id_/https%3A//www.pornhat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhat.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217222203id_/https%3A//www.pornhat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PornHat
+# 🎩 Privacy Policy - PornHat
 
 _Last Updated: July 16th, 2018_
 
@@ -24,10 +24,6 @@ This privacy policy explains how we collect, use, share and transfer your person
 \- information about your device (such as the IP address, which is a numerical code to identify your device that can provide information about the country, region or city where you are based); and  
 \- information relating to your personal circumstances and how you use our sites, apps and services.  
 Sometimes our sites and apps may contain links to third party sites and services. These sites and services have their own privacy policies. If you follow a link to a third party, you should read the privacy policy shown on their site.
-
-## Who we are and how to contact us
-
-The data controller for our sites and apps is Deltratraf Ltd. 3rd Floor, C & H Towers, Corner of Great Marlborough and Great George Streets, Roseau, Dominica. This means that we are responsible for deciding how and why we hold and use your personal data. If you want to contact us, you can find our contact details in the “How to contact us” section below.
 
 ## What personal data we collect and how we use it
 
