@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blackle.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619145527id_/http%3A//www.blackle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackle.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217070337id_/http%3A//www.blackle.com/privacy) for the most accurate reproduction.*
 
 # Blackle - Privacy Policy
 
-[](https://web.archive.org/web/20190619145527id_/http%3A//)
+[](https://web.archive.org/web/20191217070337id_/http://blackle.com/)
 
 ## Blackle Privacy Policy
 
@@ -44,7 +44,7 @@ A cookie is a small text file containing a string of characters that a website s
 
 A cookie will not allow us or any third-party to learn any personally identifiable information that you have not otherwise disclosed.
 
-The use of cookies is an industry standard, and they are currently used on most major websites. Most browsers are initially set up to accept cookies, but you [change your browser's cookie settings](http://www.heapmedia.com/privacy/cookies/) to refuse all cookies or to indicate when a cookie is being sent. Some features and services may not function properly if your cookies are disabled.
+The use of cookies is an industry standard, and they are currently used on most major websites. Most browsers are initially set up to accept cookies, but you [change your browser's cookie settings](http://www.blackle.com/cookie-settings/) to refuse all cookies or to indicate when a cookie is being sent. Some features and services may not function properly if your cookies are disabled.
 
 Google, a third-party advertising vendor, uses the DART cookie to serve ads based on your visits to Blackle and other sites on the internet. You may opt out of the use of the DART cookie by visiting [Google Advertising Policies](http://www.google.com/policies/technologies/ads/).
 
@@ -64,11 +64,11 @@ Each version of this Policy will be identified at the top of the page by its eff
 
 ### More information
 
-If you have additional questions regarding your privacy and Blackle, please contact [The Privacy Officer](http://www.heapmedia.com/contact/blackle/privacy) electronically or send correspondence to The Privacy Officer, Heap Media, PO Box 4078 Castlecrag, NSW Australia 2068. Please note that we will not respond to inquiries not related to Blackle's Privacy Policy.
+If you have additional questions regarding your privacy and Blackle, please contact [The Privacy Officer](mailto:team@heapmedia.com) electronically or send correspondence to The Privacy Officer, Heap Media, PO Box 4078 Castlecrag, NSW Australia 2068. Please note that we will not respond to inquiries not related to Blackle's Privacy Policy.
 
-[About Blackle](http://www.blackle.com/about/) \- [Contact Blackle](http://www.heapmedia.com/contact/blackle/team) \- [Privacy Policy](http://www.blackle.com/privacy/) \- [Blackle FAQ](http://www.blackle.com/faq/)
+[About Blackle](http://www.blackle.com/about/) \- [Contact Blackle](mailto:team@heapmedia.com) \- [Privacy Policy](http://www.blackle.com/privacy/) \- [Blackle FAQ](http://www.blackle.com/faq/)
 
-[© 2019 Heap Media](http://www.heapmedia.com/)
+© 2007-2019 Heap Media
 
   
 
