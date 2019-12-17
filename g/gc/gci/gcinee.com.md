@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gcinee.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026010341id_/http%3A//gcinee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcinee.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217205724id_/http%3A//gcinee.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | gcinee
+# PRIVACY POLICY - gcinee
 
 **Privacy Policy Disclosure**
 
-This Privacy Policy governs the manner in which GCinee collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.gcinee.com website (“Site”). This privacy policy applies to the Site and all products and services offered by the Site.
+This Privacy Policy governs the manner in which GCinee collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.gcinee.com website (“Site”). This privacy policy applies to the Site and all products and services offered by the Site.
 
 **Personal identification information**
 
