@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citylab.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621202936id_/https%3A//www.citylab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citylab.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217200052id_/https%3A//www.citylab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CityLab
 
