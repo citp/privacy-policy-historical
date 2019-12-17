@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lidblog.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630023548id_/https%3A//lidblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lidblog.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217102446id_/https%3A//lidblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Lid
 
