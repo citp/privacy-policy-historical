@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613175946id_/https%3A//www.ewu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217112627id_/https%3A//www.ewu.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Eastern Washington University
+# Privacy Policy - Eastern Washington University
 
 If you do nothing during your visit to our website but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit:
 
-1\. The Internet Protocol Address and domain name used. The I.P. address is a numerical identifier assigned either to your internet service provider or directly to your computer. We use the Internet Protocol Address to direct internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or your school.edu);
+  1. The Internet Protocol Address and domain name used. The I.P. address is a numerical identifier assigned either to your internet service provider or directly to your computer. We use the Internet Protocol Address to direct internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or your school.edu);
+  2. The date and time you visited this site;
+  3. The web pages or services you accessed at this site.
 
-2\. The date and time you visited this site;
 
-3\. The web pages or services you accessed at this site.
 
 The information we automatically collect or store is logged and used by Eastern Washington University to improve the content of our web services and to help us understand how people are using our services. Eastern Washington University analyzes this information to determine how our website is being used, so that we may continually improve the site’s usefulness to the public.
 
 If during your visit to our website you participate in a survey, send an email, or perform some other transaction online, the following additional information will be collected:
 
-1\. The email address, and contents of email, for those who communicate with us via email.
+  1. The email address, and contents of email, for those who communicate with us via email.
+  2. Information volunteered in response to a survey.
+  3. Information volunteered through an online form for any other purpose.
 
-2\. Information volunteered in response to a survey.
 
-3\. Information volunteered through an online form for any other purpose.
 
 The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
 
@@ -46,37 +46,35 @@ Eastern Washington University may request certain personal information in order 
 
 You can review any personally identifiable information we collect about you by using the information in the Contact Information section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting an email request that credibly shows the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections. (RCW 43.105.310)
 
-To better serve our users we are now using “cookies” to customize your browsing experience with Eastern Washington University. Cookies are simple text files stored on your computer by your web browser.
+To better serve our users we use “cookies” to customize your browsing experience with Eastern Washington University. Cookies are simple text files stored on your computer by your web browser.
 
 Eastern Washington University, as developer and manager of this website, has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by Eastern Washington University. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.
 
 This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via EWU’s websites.
 
-The Eastern Washington University website has many links to other websites. These include links to websites operated by other government agencies, nonprofit organizations, and private businesses. When you link to another site, you are no longer on the EWUs website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site.
+The Eastern Washington University website has many links to other websites. These include links to websites operated by other government agencies, nonprofit organizations, and private businesses. When you link to another site, you are no longer on the EWU website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site.
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
 Thank you for visiting the Eastern Washington University website and reviewing our Privacy Notice. This statement addresses collection, use, and security of and access to information that may be obtained through use of Eastern Washington University’s website. This notice covers the following topics:
 
-• Information Collected and How it is Used  
-• Personal Information and Choice  
-• Public Access to Information  
-• Nondisclosure of Certain Personal/Private Information  
-• Review and Correction of Personally Identifiable Information  
-• Cookies  
-• Security  
-• Disclaimer  
-• Contact Information
+  * Information Collected and How it is Used
+  * Personal Information and Choice
+  * Public Access to Information
+  * Nondisclosure of Certain Personal/Private Information
+  * Review and Correction of Personally Identifiable Information
+  * Cookies
+  * Security
+  * Disclaimer
+  * Contact Information
+
+
 
 ### Questions Regarding the EWU Website
-
-* * *
 
 To offer comments about Eastern Washington University’s websites, or about the information presented in this Privacy Notice, please contact the Digital Communication Team via the form below.
 
 ### Questions Regarding Your Personal Information
-
-* * *
 
 To review your personal information, or request correction of your personal information:
 
