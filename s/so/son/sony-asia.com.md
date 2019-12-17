@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony-asia.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530093616id_/https%3A//www.sony-asia.com/microsite/privacypolicy/%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony-asia.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217022240id_/https%3A//www.sony-asia.com/microsite/privacypolicy/%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Sony Asia Pacific
 
@@ -114,7 +114,7 @@ b. would like to withdraw your consent to any use of your Personal Data as set o
 
 c. would like to make access or corrections to your Personal Data records, please fill up the Request Form and contact Sony as follows:
 
-Request Form: [Click Here](http://www.sony-asia.com/microsite/privacypolicy/Sony_Data_Request_Form_12Oct2017.pdf)  
+Request Form: [Click Here](http://www.sony-asia.com/microsite/privacypolicy/Sony_Data_Request_Form_23Aug2019.pdf)  
 
 
 Email: [PDPI.SEAP@sony.com](mailto:PDPI.SEAP@sony.com) (Note: Not for Product inquiry)  
