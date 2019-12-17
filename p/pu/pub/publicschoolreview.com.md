@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicschoolreview.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329011657id_/https%3A//www.publicschoolreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicschoolreview.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217025508id_/https%3A//www.publicschoolreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PublicSchoolReview.com
 
@@ -96,7 +96,7 @@ California Online Privacy Protection Act
     
 
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at:   
-<http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+<https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
 **According to CalOPPA, we agree to the following:**  
 Users can visit our site anonymously.  
