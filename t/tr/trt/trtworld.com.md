@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trtworld.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401122900id_/https%3A//www.trtworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trtworld.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217074802id_/https%3A//www.trtworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TRT World
 
