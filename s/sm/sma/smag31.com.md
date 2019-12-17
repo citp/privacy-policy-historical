@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smag31.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624073217id_/https%3A//smag31.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smag31.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217190900id_/https%3A//smag31.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Smag31
+# Privacy Policy – Smag31
 
 This privacy policy sets out how Smag31.com uses and protects any information that you give us when you use this website.
 
@@ -34,7 +34,7 @@ Third party vendors, including Google, use cookies to serve ads based on a your 
 
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Smag31.com and/or other sites on the Internet.
 
-You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
 
 ## Links to other websites
 
