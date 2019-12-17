@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628104415id_/https%3A//www.educationcity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217185254id_/https%3A//www.educationcity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EducationCity
 
@@ -12,7 +12,9 @@ We recommend that you do not disclose your password to anyone to keep your data 
 
 EducationCity enables teachers and administrators to create and set up their own account. This allows teachers to upload and manage their own classes, set work and monitor progress with added security. To create an account on EducationCity the following information is required.
 
-**Teachers and Administrators** We ask teachers and administrators to input the following in order to create an account: 
+**Teachers and Administrators**
+
+We ask teachers and administrators to input the following in order to create an account:
 
   * Title
   * First Name
@@ -63,7 +65,7 @@ EducationCity uses sub-processors to facilitate communications and support of yo
 
   * **Marketo (www.marketo.com)** – provide marketing services that allow us to manage teachers’ and administrators’ communication preferences, including delivery and tracking of email campaigns.
   * **Click4Assistance (www.click4assistance.co.uk)** – provide our in-product instant messaging/assistance service to teachers and administrators. Information regarding how the data is processed and stored when you use the Live Chat service can be viewed [here](https://www.click4assistance.co.uk/click4assistance-web-chat-software-cookie-policy) _._
-  * **Whatfix (www.whatfix.com)** – provide our in-product help and support services to teachers and administrators. We use cookies and anonymised user IDs, no identifiable account information is shared.  
+  * **Whatfix (www.whatfix.com)** – provide our in-product help and support services to teachers and administrators. We use cookies and anonymised user IDs, no identifiable account information is shared.
 
 
 
@@ -137,7 +139,7 @@ Visiting EducationCity could result in one or several of the following types of 
   * **Session Cookies** – ** ** Session cookies allow users to be recognised by our website and securely store authentication and subscription information so that you maintain continued access to content and records that are correct for and relevant to you.
   * **Google Analytics and Hotjar** – Each and every time a user navigates around the EducationCity website, Google Analytics and Hotjar set anonymous analytics cookies to record information about the pages he/she has viewed. These cookies give us an insight into how the website is being used, give us information about whether a visitor is a first-time user or not, tell us where they found us from and where they spent their time on the website, all of which can help us improve our site over time.
   * **Marketo’s Munchkin Cookie** – Every time a user visits the EducationCity website from an email, Marketo sets a cookie to record information about the pages that have been viewed. This information gives us an insight into which pages are being accessed and allows us to react with tailored automated marketing campaigns, which meet the information needs of that specific user.
-  * **Whatfix** – Every time a teacher or administrator is presented with a Whatfix pop-up, a cookie is set to ensure the appropriate messages are only presented the prescribed amount of times. 
+  * **Whatfix** – Every time a teacher or administrator is presented with a Whatfix pop-up, a cookie is set to ensure the appropriate messages are only presented the prescribed amount of times.
   * **Local Shared Objects (Flash Cookies)** – Local Shared Objects, commonly known as Flash cookies, are pieces of data that websites and online products like EducationCity, which use Adobe Flash, may store on a user’s computer. To improve the user experience, Local Shared Objects can be stored or retrieved whenever a user accesses a page containing a Flash application and store their user preferences. Flash cookies are stored on a user’s device much the same as cookies are, however, it is not possible to manage them at browser level in the same way.
 
 
@@ -162,6 +164,25 @@ All the latest browsers allow you to change your cookie settings. This is usuall
 For information on how to manage or disable Flash cookies, click **[here](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) **to access Adobe’s website.
 
 To find out more about cookies and their various uses on the Internet, click [**here**](https://ico.org.uk/your-data-matters/online/cookies/).
+
+**Your rights in connection with personal information**
+
+Under certain circumstances, by law you have the right to:
+
+  * **Request access** to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
+  * **Request correction** of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+  * **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below).
+  * **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.
+  * **Request the restriction of processing** of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+  * **Request the transfer  **of your personal information to another party.
+
+
+
+If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact the Data Protection Officer in writing.
+
+**No fee usually required**
+
+You will not have to pay a fee to access your personal information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
 
 **Contact Us**
 
