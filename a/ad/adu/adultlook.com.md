@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultlook.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405222642id_/https%3A//www.adultlook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultlook.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217184452id_/https%3A//www.adultlook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AdultLook
 
