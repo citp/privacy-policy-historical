@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the phptravels.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205183039id_/https%3A//phptravels.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phptravels.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217183520id_/https%3A//www.phptravels.com/privacy-statement) for the most accurate reproduction.*
 
-# PHPTRAVELS | Privacy And Policy Statement
+# Privacy And Policy Statement - PHPTRAVELS
+
+Please take your time and read our terms before order any package.
 
 This Privacy Policy governs the manner in which phptravels collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.phptravels.com](http://phptravels.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by phptravels.
 
