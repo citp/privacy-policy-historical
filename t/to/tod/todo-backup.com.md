@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todo-backup.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616083811id_/https%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todo-backup.com privacy policy that was archived on 2019-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191217215251id_/https%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
 
 # EaseUS Privacy Policy
 
@@ -75,6 +75,6 @@ We provide links to third party sites. Since we do not control these websites, w
 
 All updates to this policy will be posted here. Last update: May, 2018.
 
-## Questions
+## Questions 
 
 Please send any questions or comments on our privacy practices to [corp@easeus.com](mailto:corp@easeus.com). EaseUS is committed to user privacy in our products and services.
