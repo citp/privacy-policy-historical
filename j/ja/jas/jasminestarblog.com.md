@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasminestarblog.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410171151id_/https%3A//jasminestar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasminestarblog.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218005659id_/https%3A//jasminestar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
