@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the trafficshop.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215121id_/https%3A//www.trafficshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficshop.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218100611id_/https%3A//trafficshop.com/privacy) for the most accurate reproduction.*
 
 # TrafficShop | Privacy policy & Security
 
-_Updated July 27, 2018._
+Updated July 27, 2018.
 
-This privacy policy applies to [www.trafficshop.com](http://www.trafficshop.com/) and the services associated with the site owned and operated by  (“TrafficShop”, “We”, “Us”).
+This privacy policy applies to [www.trafficshop.com](http://www.trafficshop.com/ "Main | TrafficShop") and the services associated with the site owned and operated by TrafficShop (“TrafficShop”, “We”, “Us”).
 
 We respect your privacy. Pursuant to our Terms of Service, this document describes how we treat personal information related to your use of the Service on our site, including information you provide when using the service. It also describes the options available to you regarding our use of your personal information and how you can access, update and delete this information. TrafficShop protects our customer privacy and takes responsibility regarding the security of customer privacy information very seriously. In this policy we will be clear and transparent about the information we are collecting and why.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us as support@trafficshop.com.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 We expressly and strictly limit use of the Service to adults over 18 years. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
@@ -59,8 +59,8 @@ Name | Purpose
 ts_session | Stores information about the current user data and profile settings.  
 ts_lang | Stores information about the current user language.  
 OptanonConsent | Stores information that the current user agreed on to placement cookies.  
-aff | If the current user has come by the referral link, stores information about an affiliate program.  
-areferer | If the current user has come by the referral link, stores referrer of an affiliate program page.  
+aff | If the current user has come by the referral link, stores information about an affiliate program.   
+areferer | If the current user has come by the referral link, stores referrer of an affiliate program page.   
   
 The use of tracking technologies by our service providers, technology partners or other 3rd party assets (companies, such as [Google](https://policies.google.com/privacy), [Yandex](https://metrica.yandex.com/about/info/privacy-policy), [Adroll](https://www.adrollgroup.com/privacy)) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to our Customers’ or Users’ personal information.
 
@@ -84,7 +84,7 @@ You can correct, update, amend, remove, or ask to have it removed by making the 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@trafficshop.com](mailto:support@trafficshop.com).
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@trafficshop.com](mailto:support@trafficshop.com). 
 
 **Security**
 
@@ -107,5 +107,7 @@ We may update this privacy policy to reflect changes to our information practice
 **Contact Us**
 
 [support@trafficshop.com](mailto:support@trafficshop.com)
+
+Authorized Agent & Payment Agent: MediaSterre Ltd : 79 Spyrou Kyprianou, off 201, 3076, Limassol, Cyprus
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=a47b129d-b9e7-4581-bdbc-cd2d1ebe07c7)
