@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426214402id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218162832id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
 
 # About Voxy | Voxy.co.nz
 
@@ -15,7 +15,7 @@ Voxy is owned by Hawke's Bay based online publisher Digital Advance Limited, whi
 
 ## **Contact Voxy and Submit News**
 
-To submit news tips please email  **news@fuseworksmedia.com** (NB: **corrections** sent to this address _will not reach_ Voxy editors). For all corrections or suggested changes to content on this site please email **corrections@digitaladvance.co.nz**. 
+To submit news tips please email  **news@fuseworksmedia.com** (NB: **corrections** sent to this address _will not reach_ Voxy editors). For all corrections or suggested changes to content on this site please email **corrections@digitaladvance.co.nz**
 
 For broader distribution of news to New Zealand media, we recommend the [news distribution service](https://fuseworksmedia.com/nz/news-distribution) powered by Fuseworks.
 
