@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifehopeandtruth.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330033853id_/https%3A//lifehopeandtruth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehopeandtruth.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218023127id_/https%3A//lifehopeandtruth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life, Hope & Truth
 
