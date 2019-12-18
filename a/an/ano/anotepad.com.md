@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330230439id_/https%3A//anotepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218230950id_/https%3A//anotepad.com/privacy) for the most accurate reproduction.*
 
 # Online Notepad - Privacy Policy
 
