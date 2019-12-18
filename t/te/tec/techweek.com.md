@@ -1,36 +1,80 @@
-> *The following text is extracted and transformed from the techweek.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419123933id_/https%3A//techweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techweek.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218225852id_/https%3A//techweek.com/privacy-policy) for the most accurate reproduction.*
 
 # Techweek | Privacy Policy
 
-This privacy policy describes the practices of Techweek, Inc., a Delaware corporation, for collecting, using, storing and sharing personal information. Please review this policy carefully. We reserve the right to modify this policy from time to time. Any changes to this policy will be posted on our website without prior notice to any users.
+This Privacy Policy is applicable to Techweek’s Website, Techweek.com (the “Site”). This Privacy Policy explains how Techweek, Inc. (“Company”,“we”, or “us”) collects information from users of the Site and how it uses such information. 
 
-**What information do you collect?**  
-We collect the following types of information from visitors to our website: – Name – Email – Company
+We regularly review our privacy policy and will place any updates to our policy on this web page. This privacy policy was last updated on 2/12/2019.
 
-**How is the registration form information used?**  
-Demographic and profile data such as [….] is collected during registration. We use this data to tailor the user’s experience within our advertising offer portion of the site, displaying content that we think they might be interested in, and displaying the content according to their preferences. This information is occasionally shared with advertisers on an aggregate basis. Users may opt-out of receiving future mailings (see the Choice/Opt-out section below).
+**Information we collect  **
 
-**Do you ever share my personal information?**  
-From time to time, we share aggregated data regarding the users of our services (for example, information such as demographics). Some of this data may include the data obtained as described in the “cookies” section, but no personally identifiable information is included in these types of statistics.
+_Non-personally identifiable information_
 
-**Other Uses of Information  **We may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating the site’s Terms of Use. The same policy applies in cases where we believe an individual may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of Techweek, other site users, or anyone else that could be harmed by such activities. We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. We may also display entity names as part of the registration process to facilitate an individual registrant’s affiliation with the correct entity.
+We may collect and use non-personally identifiable data and information from you when you visit the Site through the standard operation of our Internet servers. The information we collect is only accessed by Techweek’s personnel through third-party services such as Google Analytics. This information (browser types, time on page, etc.) is only accessed in an aggregate and anonymized format. 
 
-**Choice/Opt-Out**  
-You have the opportunity to opt-out of receiving communications from us at any time by contacting us. [Opt out here.](mailto:info@techweek.com)
+_Personally Identifiable Information_
 
-**How are cookies and IP address information used?**  
-We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies for application functions, login purposes and to deliver content on our Web site that is specific to your interests, but we do not make that information available to third parties. We use information from cookies for marketing purposes. The cookie does not track any personal information about you, provide us with any way to contact you, or extract any information from your computer. We hope you will want the better service that cookies provide, but you may set your browser to refuse cookies. However, by doing so, you will not be able to successfully use all of the features this service.
+We collect personally identifiable information about you when you specifically and voluntarily provide such information on the Site. This is inclusive but not limited to the following situations: 
 
-**How does Techweek work with other companies and how do these relationships affect user privacy?**  
-Within the advertising offer sections of our websites, you may find links to the websites of our clients or partners. We are not responsible for the privacy practices or the content of such websites. Certain products and services marketed through Techweek properties are made available by partner companies with which Techweek has a strategic alliance. To obtain these products and services you may be required to visit another company’s website or a site they share with Techweek. When ordering, registering for, or purchasing products or services from these partners, you will be entering into an agreement with that partner, and not with Techweek. In these cases, this privacy policy does not apply; instead, the privacy policy of the partner providing the goods or services will apply. It is your responsibility to read and understand the policies of any third party website (including, but not limited to, our third party payment processor) to which you may be linked from our website. We cannot control the way these parties collect or use information. If you have questions about our third party privacy policies or practices, you will need to contact them directly. Occasionally we may share information with our sponsors and partners. We share such information on an aggregate basis without revealing any personally identifiable information of any individual user.
+  * When you ask to be added to our mailing lists; 
+  * When you communicate with us via the online forms for general inquiries, or to contribute content, or 
+  * When you communicate with our generic or specific e-mail addresses to initiate or continue an ongoing conversation. 
 
-**A Note to Parents on our Privacy Policy Regarding Children**  
-Techweek’s website and services are not intended for children. We do not collect personal information from children 12 and under and do not make sales to minors 18 or under.
 
-**Sale/Merger**  
-We reserve the right to license, assign or transfer our rights in the information that we collect via our website or services to any successor entity pursuant to any business sale, merger or other similar transaction involving Techweek.
 
-**Changes to this Privacy Policy**  
-Techweek may amend this policy from time to time without notice. Thank you very much for reviewing our Privacy Policy!
+When such personally identifiable information is voluntarily submitted, with consent of the user, Techweek reserves the right to promote our content or notify you about articles through the use of such information. 
 
-Enjoy Techweek
+We commit that we will not process, sell, communicate, or convey your personally identifiable information without prior consent to any third parties with or without consideration; with the exception that if the Site or company’s ownership is transferred, this information will be conveyed to the new entity operating the Site.
+
+**Use of Information  **
+
+We may use the information collected for the following purposes: 
+
+  * To tailor content and offerings;
+  * To notify you about offerings, services and events that you may be of interest to you, including those of our business partners or affiliates; 
+  * To respond to questions, comments and other requests;
+  * To provide services to you;
+
+
+
+**Information Access**
+
+If you wish to access, correct, erase or port the information collected by the Company, you may do so by contacting our Information Privacy Manager by mailing us at editor@techweek.com with the term “For the Privacy Manager” in the subject line. 
+
+**Opt-out**
+
+You may at any time opt-out of receiving particular marketing communication or unsubscribe to all marketing communication from Techweek. If you wish to opt out, provide a separate consent by contacting our Information Privacy Manager at the address below, and we will remove all of your personally identifiable information from our records.
+
+**Policy on Children’s Privacy**
+
+Our services are intended for a general audience. We do not knowingly collect, use, or share information from children under the age of 13 without prior parental consent or in a manner that is not consistent with applicable law. 
+
+**Privacy Policies of other websites**
+
+The Techweek website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, then please read the privacy policy applicable to the linked website. 
+
+**Cookies**
+
+The Company uses cookies to improve your experience of the Site. To know more about this visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). You can set your browser to not accept cookies and the website provides you details on how to remove cookies. However, in a few cases, certain features of the Site may not be available. 
+
+**California Privacy Rights  **
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year as well as the type of personal information disclosed to those parties. The Company does not share personal information with third parties for their own marketing purposes. 
+
+**Consent**
+
+By using this Site and the services, you consent to the terms of this Privacy Policy and to our use and management of personal information for the purposes and in the manner herein stated. 
+
+**How to Contact Us**
+
+If you would like to contact Techweek for any reason regarding our privacy practices, please write or e-mail us at the following address:
+
+**Mailing Address:**
+
+3315, Collins Ave, 
+
+Miami Avenue, 
+
+Florida 33140
+
+**E-mail:**[ info@techweek.com](mailto:info@techweek.com)
