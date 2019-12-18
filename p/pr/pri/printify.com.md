@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the printify.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623103907id_/https%3A//printify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printify.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218063926id_/https%3A//printify.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Printify
+# Privacy Policy – Printify
 
 Printify, Inc.  
 108 West 13th Street,  
@@ -21,7 +21,7 @@ Thank you for using Printify (or as we are legally known, Printify, inc).  Befo
 
 **Our responsibilities**
 
-If you are a registered Printify customer or a visitor to our website we act as the  “[data controller](https://gdpr-info.eu/art-4-gdpr/)“ of personal data. This means we determine how and why your data are processed.
+If you are a registered Printify customer or a visitor to our website we act as the  “[data controller](https://gdpr-info.eu/art-4-gdpr/)” of personal data. This means we determine how and why your data are processed.
 
 **Your responsibilities**
 
@@ -98,25 +98,25 @@ Printify is a business-to-business service directed to and intended for use only
 
 Managing your requests (like creating products, integrating sales channels, completing transactions and fulfilling orders), login and authentication, remembering your settings, processing payments, hosting and back-end infrastructure.
 
-_Legal basis for processing data : contract, legitimate interests_
+_Legal basis for processing data: contract, legitimate interests_
 
 **Improving Printify**
 
 Testing features, interacting with feedback platforms and questionnaires, managing landing pages, heat mapping our site, traffic optimization and data analysis and research, including profiling and the use of machine learning and other techniques over your data and in some cases using third parties to do this.
 
-_Legal basis for processing data : contract, legitimate interests_
+_Legal basis for processing data: contract, legitimate interests_
 
 **Customer support**
 
 Notifying you of any changes to our service, solving issues via live chat support, phone or email including any bug fixing.
 
-_Legal basis for for processing data : contract_
+_Legal basis for for processing data: contract_
 
 **Marketing purposes (with your consent)**
 
 Sending you emails and messages about new features, products and services, and content.
 
-_Legal basis for processing data : consent_
+_Legal basis for processing data: consent_
 
 ### E. What these legal bases mean
 
@@ -498,9 +498,9 @@ This service processes payments for us.
 
 ### Our Print Partners
 
-Printify partners with a wide and constantly expanding network of print providers all over the world. Current partners can be seen at [https://app.printify.com/print-providers](https://app.printify.com/print-providers). 
+Printify partners with a wide and constantly expanding network of print providers all over the world. Current partners can be seen at <https://app.printify.com/print-providers>. 
 
-These print providers offer various products and print on demand services to our users. Each of our print partners operates as a “[data processor](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/)“ when an order is submitted and they sign a Data Processing Agreement with Printify outlining how they handle and protect our users’ data. 
+These print providers offer various products and print on demand services to our users. Each of our print partners operates as a “[data processor](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/)” when an order is submitted and they sign a Data Processing Agreement with Printify outlining how they handle and protect our users’ data. 
 
 **This Data Processing Agreement outlines:**
 
@@ -525,7 +525,7 @@ You can block cookies by activating a setting on your browser allowing you to re
 
 Google Analytics uses cookies allows us to see information on the activities of visitors to our website and users of our service, including page views, source and time spent on Printify. The information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy.
 
-To opt out of being tracked by Google Analytics across all websites click [here.](http://tools.google.com/dlpage/gaoptout)
+To opt out of being tracked by Google Analytics across all websites click [here.](https://tools.google.com/dlpage/gaoptout)
 
 **Intercom, Inc.**
 
