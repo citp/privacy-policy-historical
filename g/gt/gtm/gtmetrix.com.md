@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtmetrix.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619153332id_/https%3A//gtmetrix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtmetrix.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218201635id_/https%3A//gtmetrix.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GTmetrix
 
@@ -125,8 +125,8 @@ We may make minor changes to our Privacy Policy from time to time without notice
 If you have any questions or comments regarding this Privacy Policy, please contact us via our [Contact form](https://web.archive.org/contact.html) or by mail: 
 
 GTmetrix  
-500 - 455 Granville St  
-Vancouver, BC V6C 1T1  
+300 - 2233 Columbia St  
+Vancouver, BC V5Y 0M6  
 Canada  
 
 
