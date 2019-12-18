@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinmarkets.net privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517145808id_/http%3A//www.coinmarkets.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinmarkets.net privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218084501id_/http%3A//coinmarkets.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CoinMarkets
 
@@ -54,7 +54,7 @@ CoinMarkets uses Cookies to set user preferences, gather basic tracking informat
 
 Please note that advertisers on the Service may also deploy cookies and other technology to gather users' basic Service usage information (such as pages visited or frequency of visits) for such things as to measure and improve the effectiveness of their advertising. For more information regarding advertisers' practices, including how to opt-out of their cookie tracking, please review the relevant advertisers' privacy policies. 
 
-For more information regarding ad serving network practices, including how to opt-out of their cookie tracking, please visit the ad server's privacy policy at: <http://www.google.com/intl/en/privacy.html>
+For more information regarding ad serving network practices, including how to opt-out of their cookie tracking, please visit the ad server's privacy policy at: [http://www.google.com/intl/en/privacy.html](https://www.google.com/intl/en/privacy.html)
 
 ### ACCURACY OF YOUR PERSONAL INFORMATION
 
