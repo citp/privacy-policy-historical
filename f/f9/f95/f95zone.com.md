@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the f95zone.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301043924id_/https%3A//f95zone.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f95zone.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218190936id_/https%3A//f95zone.to/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | F95zone
 
-We are F95zone ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://f95zone.com/pages/contact/).
+We are F95zone ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://f95zone.to/pages/contact/).
 
 ## Privacy
 
@@ -50,7 +50,7 @@ When using forums provided by F95zone.com, we may require some or all of the fol
 
 A cookie is a small text file that a website stores on your computer. This file contains information that your browser provides to the website each time you return. Cookies are used for record keeping purposes. A web beacon is a transparent graphical image that serves to monitor your interaction with a website. This, along with cookies and log files, provides us with analytical information that we can use to improve website performance and user experience in general. We do not link this information to personally identifying information nor do we give this information to outside third parties. This privacy statement regarding the use of cookies and web beacons is only applicable to the F95zone.com website. 
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://f95zone.com/help/cookies). 
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/help/cookies). 
 
 ##  Third Party Ads 
 
@@ -76,9 +76,9 @@ F95zone.com will not sell, distribute or lease your personal information to thir
 
 ## Rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://f95zone.com/pages/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://f95zone.com/pages/contact/) to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://f95zone.to/pages/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://f95zone.to/pages/contact/) to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://f95zone.com/pages/contact/) if you would like us to remove your personal data.
+You also have the right to request the erasure of your personal data. Please [contact us](https://f95zone.to/pages/contact/) if you would like us to remove your personal data.
 
 ## Acceptance of this policy
 
