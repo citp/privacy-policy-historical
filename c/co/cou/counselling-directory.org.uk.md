@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the counselling-directory.org.uk privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312214733id_/https%3A//www.counselling-directory.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counselling-directory.org.uk privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219003856id_/https%3A//www.counselling-directory.org.uk/privacy.html) for the most accurate reproduction.*
 
-# Counselling Directory Privacy Notice - Counselling Directory
+# Privacy Notice - Counselling Directory
 
 When you trust us with your personal data, we take our responsibility to protect it very seriously. We respect privacy, and your rights to control your personal data. With that in mind, we want to be clear about the data we collect and why. 
 
@@ -27,7 +27,6 @@ Life Coach Directory
 Nutritionist Resource  
 Therapy Directory  
 Beauty Resource  
-Accountant Directory  
 Happiful 
 
 We're registered in the United Kingdom under company number 05489185, and our registered office and main trading address is situated at Building 3, Riverside Way, Camberley, Surrey GU15 3YL. 
