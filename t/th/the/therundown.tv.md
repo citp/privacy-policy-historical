@@ -1,33 +1,60 @@
-> *The following text is extracted and transformed from the therundown.tv privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506021411id_/http%3A//therundown.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therundown.tv privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218111941id_/https%3A//therundown.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Rundown
 
-The privacy of visitors to this site is very important to us. This Privacy Policy gives you information on what types of personal information we collect when you use this site, and our practices with respect to the use and disclose of such information. By visiting http://therundown.tv , you agree to this Privacy Policy and to the Terms of Service (TOS) which is located HERE.
+**Cookie policy**
 
-### Information You Give Us:
+This website will store some information about your preferences on your own computer inside a tiny file called a cookie.  A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to remember your actions or preferences over time.
 
-We receive and may store any personal information you enter on our Website or may give us in any other way. This information may include your name or email address, content you submit to the website, and other information.
+You can delete all cookies that are already on your computer, and you can set most browsers to prevent them from being placed. However, if you do this, you may have to manually adjust some preferences every time you visit a site, and some services and functionalities may not work.
 
-### Information We Automatically Collect:
+Most browsers support cookies, but you can set your browser to decline them and can delete them whenever you like. You can find instructions [here](https://www.aboutcookies.org/) for how you can do that on various browsers.
 
-We may automatically receive and store certain types of information whenever you interact with us. For example, The Rundown allows guest commenting. When you make a guest comment, we may publish the content of your comment and may collect your IP (internet protocol) address, the time and the date you made the comment. We do not use cookies to collect or store information about you.
+**This website uses cookies to**
 
-### How We Use Information About You:
+1) Identify you as a returning user and to count your visits in traffic statistics analysis
 
-When we disclose information about you:
+2) Remember your custom display preferences (such as whether you prefer comments to display all-collapsed or not)
 
-We never disclose your personal information to third parties.
+3) Suggest any recent searches you’ve made on our site
 
-For information you give us, or information we automatically collect, certain records may be produced to law enforcement or private litigants in response to valid legal process. The Rundown reserves the right to cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We reserve the right to disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of The Rundown or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
+4) Provide other usability features, including tracking whether you’ve already given your consent to cookies
 
-The Rundown also reserves the right to, but is not obligated to, refuse to disclose confidential sources or unpublished information we collect as part of our journalistic and/or news gathering and reporting under federal and/or state law.
+Enabling cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience.
 
-### Information Our Advertising Partners Automatically Collect:
+The cookie-related information is not used to identify you personally and is not used for any purpose other than those described here.
 
-We use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. The Rundown has no control over these ad providers’ practices and you should review their privacy policies and steps for managing cookies.
+There may also be other types of cookies created after you’ve visited this website. This site uses Google Analytics, a popular web analytics service that uses cookies to help to analyze how users use the site. The information generated by the cookie about your use of this website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of another website, compiling reports on website activity, and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+**Third Party Advertising**
 
-GDPR Disclaimer: Our advertising demand partners, supported advertising mediation partners, data partners, and fraud and measurement partners have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints.
+This site has third-party advertising companies serving ads to you when you visit. These companies may store information about your visits here and to other websites in order to provide you with relevant advertisements about goods and services. For example, if they know what ads you are shown while visiting this site, they can be careful not to show you the same ones repeatedly.
 
-(Visited 37 times, 1 visits today)
+These companies may employ cookies and other identifiers to gather information which measures advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an email message.
+
+They do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
+
+This site does not provide any personal information to advertisers or to third party sites. Advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalized ad or content are part of the group that the ad or content is directed towards (for example, readers in the Pacific Northwest who read certain types of articles). Also, some third-party cookies may provide them with information about you (such as the sites where you have been shown ads or demographic information) from offline and online sources that they may use to provide you more relevant and useful advertising.
+
+To learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](http://optout.networkadvertising.org/).
+
+You can opt out of participating in interest-based advertising networks, but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
+
+**Sharing Information**
+
+This site does not sell, rent, or disclose to outside parties the information collected here, except as follows:
+
+(a) Affiliated Service Providers: This site has agreements with various affiliated service providers to facilitate the functioning of the site. For example, the site may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that this site uses are required to have the same level of privacy protection as this site does, and therefore your information will be handled with the same level of care. Additionally, for example, this site may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
+
+(b) Where required by law: This site may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+
+(c) Statistical Analysis: This site may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+
+(d) Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as a business asset.
+
+**How To Opt Out Of Interest-Based Advertising**
+
+**  
+**_Opting Out of Interest-Based Advertising Services_ : This website is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/)(NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://digitaladvertisingalliance.org/).
+
+_Opting Out of Interest-Based Advertising by Third Parties_ : To find out more about interest-based advertising on the internet and how to opt out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://optout.networkadvertising.org/) or [DAA’s Consumer Choice Page](http://optout.aboutads.info/).
