@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416143421id_/https%3A//www.virginia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218212919id_/https%3A//www.virginia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virginia Is For Lovers
 
