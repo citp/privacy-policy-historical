@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630102352id_/https%3A//www.phila.gov/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218090635id_/https%3A//www.phila.gov/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | City of Philadelphia
 
@@ -26,7 +26,7 @@ The City of Philadelphia is committed to data security and the data quality of p
 
 ## HIPAA
 
-The City of Philadelphia has designated itself as a Hybrid Entity and the following parts of the City as Covered Units that must comply with the Health Information Portability and Accountability Act (“HIPAA”):
+The City of Philadelphia has designated itself as a Hybrid Entity and the following parts of the City as Covered Units that must comply with the Health Insurance Portability and Accountability Act (“HIPAA”):
 
   * Ambulatory Health Services, a division of the Philadelphia Department of Public Health (“PDPH”);
   * Philadelphia Public Health Laboratory, a division of PDPH;
