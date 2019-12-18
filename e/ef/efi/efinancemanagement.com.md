@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the efinancemanagement.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507011359id_/https%3A//efinancemanagement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancemanagement.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218180310id_/https%3A//efinancemanagement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eFinanceManagement.com
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/efinancemanagement.com).  
+
 
 PRIVACY POLICY
 
