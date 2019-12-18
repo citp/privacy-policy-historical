@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823174131id_/https%3A//www.execunet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218131310id_/https%3A//www.execunet.com/privacy-policy) for the most accurate reproduction.*
 
-# ExecuNet| ExecuNet
+# ExecuNet | ExecuNet
+
+_Updated May 25, 2018_
 
 All personal information given to ExecuNet is kept in strictest confidence.
 
@@ -10,7 +12,7 @@ We are strongly committed to protecting your privacy online and have taken steps
 
 **ExecuNet’s Privacy Commitment**
 
-ExecuNet is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein.
+ExecuNet is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private and is used only for the purposes as set forth herein.
 
 **What This Privacy Policy Covers**
 
@@ -63,11 +65,11 @@ ExecuNet allows you to change or correct your personal information at any time. 
 
 When you place an order online, your personal details and credit card information are scrambled using SSL encryption technology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details and credit card information, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
 
-Our credit card transactions are processed by Verisign (http://www.verisign.com). All information sent to Verisign is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about Verisign’s privacy statement, please [click here](http://www.litle.com/about-us/terms-of-use).
+Our credit card transactions are processed by Merchant e-Solutions (https://www.merchante-solutions.com/). All information sent to Merchant e-Solutions is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about Merchant e-Solutions’ privacy statement, please [click here](https://www.merchante-solutions.com/privacy-policy/).
 
 **Cookies**
 
-To enhance your experience at ExecuNet, we use a feature on your Internet browser called a “cookie.” Cookies are small files that your web browser places on your computer’s hard drive. We use cookies to enable our systems to recognize your browser, remember your preferences, track visits to understand visitor usage and behavior, and plan for increased loads. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Our goal is to make your experience with ExecuNet more convenient and personal. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and could negatively impact your experience on our site. We also work with a company which enables a third party cookie to help us measure audience demographics and trends. Quantcast does not collect any personally identifiable information; that is, information that could be used to uniquely identify or locate an individual. For further information please review the [Quantcast privacy policy](http://www.quantcast.com/info/privacy-policy).
+To enhance your experience at ExecuNet, we use a feature on your Internet browser called a “cookie.” Cookies are small files that your web browser places on your computer’s hard drive. We use cookies to enable our systems to recognize your browser, remember your preferences, track visits to understand visitor usage and behavior, and plan for increased loads. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Our goal is to make your experience with ExecuNet more convenient and personal. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and could negatively impact your experience on our site. We use tools and applications to evaluate usage of our Site. We use these tools to help us improve our services, performance and user experiences. We do not share your personal information with these third parties. However, these third parties may combine the information that we provide about you with other information that they have collected. This Privacy Policy does not cover such third parties’ use of the data.
 
 **Feedback**
 
@@ -75,7 +77,7 @@ ExecuNet has an area on the site where you can submit [feedback](https://web.arc
 
 **Privacy Commitment Changes**
 
-If we decide to change our privacy commitment for ExecuNet, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about ExecuNet’s privacy commitment, please feel free to e-mail us at [privacy@ExecuNet.com](mailto:privacy@ExecuNet.com) or call **800-637-3126** and speak to one of our representatives.
+If we decide to change our privacy commitment for ExecuNet, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about ExecuNet’s privacy commitment, please feel free to e-mail us at [member.services@execunet.com](mailto:member.services@execunet.com) or call **800-637-3126** and speak to one of our representatives.
 
 ExecuNet uses reasonable precautions to keep the personal information disclosed to us secure. However, we are not responsible for any breach of security.
 
