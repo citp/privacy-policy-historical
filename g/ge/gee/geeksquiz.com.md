@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksquiz.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629170543id_/http%3A//www.geeksforgeeks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksquiz.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218133854id_/http%3A//www.geeksforgeeks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GeeksforGeeks
 
@@ -13,6 +13,9 @@ Like many other Web sites, GeeksforGeeks may receive and store any information y
 
 **Cookies and Web Beacons**  
 GeeksforGeeks uses cookies and browser’s local storage to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser. 
+
+  
+
 
 **DoubleClick DART Cookie**
 
