@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencekids.co.nz privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604233421id_/http%3A//www.sciencekids.co.nz/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencekids.co.nz privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218235805id_/http%3A//www.sciencekids.co.nz/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
