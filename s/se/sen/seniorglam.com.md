@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniorglam.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602223049id_/http%3A//www.seniorglam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorglam.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218103322id_/http%3A//seniorglam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Senior Glam
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a13141c153a15171d090e0f1e13150954191517)
+  * If you have any questions about this Privacy Policy, please contact us: [info@SeniorGlam.com](mailto:info@omgstudios.com)
 
 
 
