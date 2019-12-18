@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiger-sat.net privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310024032id_/https%3A//www.sling.com/offer-details/disclaimers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiger-sat.net privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218160118id_/https%3A//www.sling.com/offer-details/disclaimers/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sling TV
 
@@ -132,11 +132,15 @@ Please be aware that Sling Television Group is not responsible for the data coll
 
 #### How Can I Access or Correct My Personal Information?
 
-We endeavor to provide you with access to, and the ability to update, add to, correct, or otherwise modify, a variety of information associated with your Membership Account, including your preferred contact information. You must be signed in to your Membership Account on our Website to access, update, add to, correct, or otherwise modify the information associated with your Membership Account. Please be aware that in most cases, we will retain the previously entered information for some period of time as necessary for our business purposes and/or to comply with legal requirements. If you have trouble accessing or correcting personal information or are experiencing issues related to our billing service provider, please contact us by calling us at: [1 (888)-309-0838](https://web.archive.org/web/20190310024032id_/https%3A//www.sling.com/offer-details/disclaimers/_tel_1-888-309-0838 "call 1 \(888\)-309-0838").
+We endeavor to provide you with access to, and the ability to update, add to, correct, or otherwise modify, a variety of information associated with your Membership Account, including your preferred contact information. You must be signed in to your Membership Account on our Website to access, update, add to, correct, or otherwise modify the information associated with your Membership Account. Please be aware that in most cases, we will retain the previously entered information for some period of time as necessary for our business purposes and/or to comply with legal requirements. If you have trouble accessing or correcting personal information or are experiencing issues related to our billing service provider, please contact us by calling us at: [1 (888)-309-0838](https://web.archive.org/web/20191218160118id_/https%3A//www.sling.com/offer-details/disclaimers/_tel_1-888-309-0838 "call 1 \(888\)-309-0838").
 
 #### What Are My Privacy Rights if I'm a Resident of the State of California?
 
 If you are a resident of the State of California and a User of our Services, then California Civil Code Section 1798.83, known as the "Shine the Light" law, permits you to submit a written request to opt-out from the sharing of your personal information with third parties for direct marketing purposes. To opt-out in accordance with the "Shine the Light" laws (a "Request") write to us at the following address: Sling TV L.L.C., 9601 South Meridian Boulevard, Englewood, Colorado 80112, U.S.A. Attn: Office of the General Counsel – Sling Television Privacy Matters – California Shine the Light Request to Opt-Out. In order to ensure that we have the information necessary to fulfill your Request, at minimum, the Request must include your name, your complete physical address, email address(es), and a telephone number to reach you for questions related to the Request. If you do not provide all of the aforementioned information necessary to identify the address(es) for which you are requesting to opt-out of third-party direct marketing efforts, then we may not be able to fulfill your request unless and until you provide such information. Please allow up to thirty (30) days for any Request to be processed by us. Please be aware that you may still receive direct marketing from other parties to whom you have provided personal information even if you opt-out as provided in this Privacy Policy.
+
+#### What Are My Privacy Rights if I'm a Resident of the State of Nevada?
+
+Nevada law permits Nevada residents to make certain requests about how their PII is shared with third parties or affiliated companies. To make such a request, please visit our [Privacy Portal](http://privacy.dish.com/).
 
 #### Do We Enable Social Sharing?
 
@@ -218,6 +222,6 @@ The Internet is a global environment used by Sling Television Group and others t
 
 #### Who Do I Contact Regarding My Membership Account, Services, or this Privacy Policy?
 
-For any questions concerning your account, please contact us by calling us at: [1 (888)-309-0838](https://web.archive.org/web/20190310024032id_/https%3A//www.sling.com/offer-details/disclaimers/_tel_1-888-309-0838 "call 1 \(888\)-309-0838"). Alternatively, if you have any questions specifically regarding this Privacy Policy and the practices described herein, please contact us via email at: [privacy@sling.com](mailto:privacy@sling.com); or you may write to us at the following address: Sling TV L.L.C., 9601 South Meridian Boulevard, Englewood, Colorado 80112, U.S.A. Attn: Office of the General Counsel – Sling Television Privacy Matters.
+For any questions concerning your account, please contact us by calling us at: [1 (888)-309-0838](https://web.archive.org/web/20191218160118id_/https%3A//www.sling.com/offer-details/disclaimers/_tel_1-888-309-0838 "call 1 \(888\)-309-0838"). Alternatively, if you have any questions specifically regarding this Privacy Policy and the practices described herein, please contact us via email at: [privacy@sling.com](mailto:privacy@sling.com); or you may write to us at the following address: Sling TV L.L.C., 9601 South Meridian Boulevard, Englewood, Colorado 80112, U.S.A. Attn: Office of the General Counsel – Sling Television Privacy Matters.
 
 Version 1.12.29.2014A
