@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the host-tracker.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421012504id_/https%3A//www.host-tracker.com/Privacy/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the host-tracker.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218185337id_/https%3A//www.host-tracker.com/Privacy/PrivacyPolicy) for the most accurate reproduction.*
 
 # Remote server monitoring - Is my site down or up? - Host-track - en
 
