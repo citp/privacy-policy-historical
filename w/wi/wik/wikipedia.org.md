@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikipedia.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629215517id_/https%3A//meta.wikimedia.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikipedia.org privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218084934id_/https%3A//meta.wikimedia.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Meta
 
