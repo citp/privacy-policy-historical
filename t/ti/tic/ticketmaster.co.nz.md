@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ticketmaster.co.nz privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629222112id_/http%3A//www.ticketmaster.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.co.nz privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218190148id_/http%3A//www.ticketmaster.co.nz/privacy) for the most accurate reproduction.*
 
 # Ticketmaster - Privacy Policy
 
-## Privacy. Your data. Your trust.
-
-### Our Commitment To You
+## Our Commitment To You
 
 You are at the heart of everything we do. Our goal is to maintain your trust and confidence by handling your personal information with respect and putting you in control.
 
@@ -14,11 +12,11 @@ We’ve done our best to make our explanations short and easy to understand. But
 
 If we ever make any major changes to our privacy practices, we’ll let you know. If necessary, we’ll also ask for your permission.
 
-### Our Privacy Promise
+## Our Privacy Promise
 
 Watch our video to find out more about our commitment to maintaining your trust.
 
-### Privacy Notice
+## Privacy Notice
 
 Our Privacy Notice has been designed with you in mind. How the notice applies to you will depend on the way in which you interact with us. For example, if you:
 
@@ -65,7 +63,7 @@ If you have any questions or feedback about this notice, or how we handle your i
 
 Learn More
 
-### What Information We Have & Where We Get It
+## What Information We Have & Where We Get It
 
   * When you create an account, buy a ticket or have a ticket transferred to you by a friend, we will collect your information which depending on service we are providing, may include your contact and billing information.
   * When you use our websites or apps, we collect information such as the browser and device you're using, your IP address, your location, the site you came from, what you did and didn't use our site/app for, or the site you visit when you leave us. For more information on how we collect this information, see our [Cookies Policy](http://www.ticketmaster.co.nz/h/cookies.html).
@@ -76,7 +74,7 @@ Learn More
 
 
 
-### How We Use Your Information & Why
+## How We Use Your Information & Why
 
   1. For the performance of our contract with you 
 
@@ -93,7 +91,7 @@ We use your information when you enter into a contract with us (for example to b
     * To ensure the security of our and our Event Partners’ operations.
     * To create a profile about you to help us personalise our services to you. For example, if you purchase tickets to pop events and you have consented to our marketing, we will inform you about other pop events we think you might be interested in. For further information, see section below:
 
-#### About your personalisation settings
+### About your personalisation settings
 
 We can give you more of what you want when we know you better. To make sure our messages and website are relevant to you, we create a user profile with the information we know about you and how you use our services.
 
@@ -109,9 +107,9 @@ We can give you more of what you want when we know you better. To make sure our 
 
 
 
-### Your Choices & Rights
+## Your Choices & Rights
 
-#### Your choices
+### Your choices
 
 Where you have given us your consent, you can withdraw it by doing the following.
 
@@ -120,17 +118,15 @@ Where you have given us your consent, you can withdraw it by doing the following
 
 
 
-#### Your rights
+### Your rights
 
 You also have rights over how your personal information is used including the right to request access to your data, and to correct it. To exercise your rights, you can [Contact Us](mailto:privacy@ticketmaster.co.nz). at any time.
 
-### Looking After Your Information
+## Looking After Your Information
 
 We have security measures in place to protect your information. The security measures we use will depend on the type of information collected.
 
 We only keep your information for as long as required to provide you with the services you request, for the purposes outlined in this policy and for any legal purposes for which we are obliged to keep the information. We will securely delete your information when it is no longer required for these purposes, in line with our company policies.
-
-### Contact Us
 
 If you have any questions about the above, or our approach to privacy, our dedicated Privacy Office, including our Data Protection Officer, is here to help: fan.help@ticketmaster.co.nz
 
