@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asoftmurmur.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313022250id_/https%3A//asoftmurmur.com/docs/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asoftmurmur.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218232937id_/https%3A//asoftmurmur.com/docs/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,10 @@ Our site uses certain cookies. A cookie is a small file of letters and numbers t
 All information you provide to us is stored on secure third party servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, or to use our App, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site or through our App; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### Merchant of record for purchases
+
+Our upgrade order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns.
 
 ### Uses made of the information
 
