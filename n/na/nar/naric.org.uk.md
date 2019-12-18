@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naric.org.uk privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411223651id_/https%3A//www.naric.org.uk/naric/documents/code%2520of%2520practice/Ecctis%2520Ltd%2520-%2520Privacy%2520Notice%2520-%2520V18.9.1.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naric.org.uk privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218125739id_/https%3A//www.naric.org.uk/naric/documents/code%2520of%2520practice/Ecctis%2520Ltd%2520-%2520Privacy%2520Notice%2520-%2520V18.9.1.pdf) for the most accurate reproduction.*
 
 # 
 
