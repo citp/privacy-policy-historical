@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530000440id_/https%3A//www.d2l.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218091834id_/https%3A//www.d2l.com/legal/privacy) for the most accurate reproduction.*
 
 # D2L Privacy Statement | D2L
 
