@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612192127id_/https%3A//www.drugabuse.gov/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218164243id_/https%3A//www.drugabuse.gov/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | National Institute on Drug Abuse (NIDA)
 
@@ -55,7 +55,7 @@ You do not have to give us personal information to visit the NIDA Web sites. How
 
 If you choose to provide us with personally identifiable information, that is, information that is personal in nature and which may be used to identify you, through an e-mail message, request for information, paper or electronic form, questionnaire, customer satisfaction survey, epidemiology research study, etc., we will maintain the information you provide only as long as needed to respond to your question or to fulfill the stated purpose of the communication. 
 
-The NIDA Privacy policy is adapted from the NIH Privacy Policy. For further information about the NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426 or visit <http://oma.od.nih.gov/public/MS/privacy/Pages/default.aspx>
+The NIDA Privacy policy is adapted from the NIH Privacy Policy. For further information about the NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426 or visit <https://oma.od.nih.gov/DMS/Pages/Privacy-Program.aspx>
 
 ##  Intrusion Detection 
 
