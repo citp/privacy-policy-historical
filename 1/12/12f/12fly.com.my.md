@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726085038id_/https%3A//www.12fly.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218160839id_/https%3A//www.12fly.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,9 +26,9 @@ The Services may include links or otherwise allow you to access and submit infor
 
 **Use of Information**
 
-We may track usage data and user traffic patterns throughout our Site to improve the content of our Site and the quality of our service. We may use your information (a) to deliver the Services and features desired by you, (b) to improve our services to you, (c) to personalize content and offers that may be of interest to you, (d) to respond to your inquiries, and (e) to fulfill your request for products or services. 
+We may track usage data and user traffic patterns throughout our Site to improve the content of our Site and the quality of our service. We may use your information (a) to deliver the Services and features desired by you, (b) to improve our services to you, (c) to personalise content and offers that may be of interest to you, (d) to respond to your inquiries, and (e) to fullfil your request for products or services. 
 
-We do not share personal identifying information collected on the Services, including email addresses, with third parties for their direct marketing or solicitation. We will use your contact information to contact your from time to time to provide you with important information or required notices. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect our rights and property or the rights and property of the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.
+We do not share personal identifying information collected on the Services, including email addresses, with third parties for their direct marketing or solicitation. We will use your contact information to contact you from time to time to provide you with important information or required notices. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect our rights and property or the rights and property of the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.
 
 **Cookies**
 
@@ -40,7 +40,7 @@ Advertisements that appear on the Services are delivered to users by our adverti
 
 **Children**
 
-We do not use the Services to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [app@12fly.com.my](mailto:app@12fly.com.my). We will delete such information from our files.
+We do not use the Services to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [enquiry@12fly.com.my](mailto:enquiry@12fly.com.my). We will delete such information from our files.
 
 **Acquisition**
 
@@ -48,18 +48,18 @@ We reserve the right to transfer your personal information in the event of a tra
 
 Managing Your Personal Data
 
-In the event you desire to discontinue the Services and have your information removed from our systems, please send your request to [app@12fly.com.my](mailto:app@12fly.com.my).
+In the event you desire to discontinue the Services and have your information removed from our systems, please send your request to [enquiry@12fly.com.my](mailto:enquiry@12fly.com.my).
 
 **Security**
 
-12fly is very concerned about safeguarding the confidentiality of your personally identifiable information. We require physical, electronic, and procedural safeguards to protect personal information about you. We limit access to personal information about you to authorized employees who need to know that information in order to operate, develop or improve our services. Please be aware that, although we endeavor to provide reasonable security for information in our possession and control, no security system can prevent against all potential security breaches, and we bear no liability for uses or disclosures of personal data or non-personal data arising in connection with the theft thereof. Likewise, you are responsible for safeguarding the confidentiality of any usernames and passwords to the Services, and we bear no liability for access to, or use or disclosure of personal data if such access, use or disclosure arises in connection with the theft or disclosure (whether intentional or negligent) of such user's password.
+12fly is very concerned about safeguarding the confidentiality of your personally identifiable information. We require physical, electronic, and procedural safeguards to protect personal information about you. We limit access to personal information about you to authorised employees who need to know that information in order to operate, develop or improve our services. Please be aware that, although we endeavour to provide reasonable security for information in our possession and control, no security system can prevent against all potential security breaches, and we bear no liability for uses or disclosures of personal data or non-personal data arising in connection with the theft thereof. Likewise, you are responsible for safeguarding the confidentiality of any usernames and passwords to the Services, and we bear no liability for access to, or use or disclosure of personal data if such access, use or disclosure arises in connection with the theft or disclosure (whether intentional or negligent) of such user's password.
 
 **How to Contact 12FLY**
 
 If you have any questions or concerns about this Privacy Policy or its implementation, or if you believe there are inaccuracies in your account information you may contact us as follows:
 
-12FLY
+12FLY.COM.MY (Malaysian Harmony Tour & Travel Sdn Bhd)
 
-21 Jalan Tung Shin, 50200 Kuala Lumpur, Malaysia
+Address: 21 Jalan Tung Shin, 50200 Kuala Lumpur, Malaysia
 
-Email: [app@12fly.com.my](mailto:app@12fly.com.my)
+Email: [enquiry@12fly.com.my](mailto:enquiry@12fly.com.my)
