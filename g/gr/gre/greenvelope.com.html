@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greenvelope.com privacy policy that was archived on 2019-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190319103655id_/https%3A//www.greenvelope.com/terms%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greenvelope.com privacy policy that was archived on 2019-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191218055056id_/https%3A//www.greenvelope.com/terms%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head><meta charset="utf-8"><title>
 	Terms and Privacy | Greenvelope.com
@@ -11,26 +11,27 @@
   <link href="https://www.greenvelope.com/user/_images/iconsV5/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://www.greenvelope.com/user/_images/iconsV5/css/v4-shims.min.css" rel="stylesheet" type="text/css">
   <link href="https://cdnserver.greenvelope.com/_js/lib/owl-carousel/2.0/owl.carousel.combined.css" rel="stylesheet" type="text/css">
-  <link href="https://css.greenvelope.com/user/_css/pub.css?v=20190318152217" rel="stylesheet" type="text/css">
+  <link href="https://css.greenvelope.com/user/_css/pub.css?v=20191217114801" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://use.typekit.net/ixj5xdv.css">      
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcTrKoUAAAAAFLKFLeAEER6n1vXEembn59d7wAS"></script>
   <script src="https://js.greenvelope.com/_js/publib.js" type="text/javascript"></script>  
   <!--[if lt IE 9]>
     <script src="https://cdnjs.greenvelope.com/_js/lib/bs/js/html5shiv.js" type="text/javascript"></script>
     <script src="https://cdnjs.greenvelope.com/_js/lib/bs/js/respond.min.js" type="text/javascript"></script>
   <![endif]-->  
-  <script src="https://js.greenvelope.com/_js/global.js?v=20190308113206" type="text/javascript"></script>
+  <script src="https://js.greenvelope.com/_js/global.js?v=20191126151412" type="text/javascript"></script>
   
-  <script src="https://js.greenvelope.com/user/_js/models/app.min.js?v=20190318152215" type="text/javascript"></script>
-  <script src="https://js.greenvelope.com/pub/_js/vm/vm.min.js?v=20190318152215" type="text/javascript"></script>
-  <script src="https://js.greenvelope.com/_js/knockout/ko-custom.min.js?v=20190318152214" type="text/javascript"></script>
+  <script src="https://js.greenvelope.com/user/_js/models/app.min.js?v=20191217114800" type="text/javascript"></script>
+  <script src="https://js.greenvelope.com/pub/_js/vm/vm.min.js?v=20191217114759" type="text/javascript"></script>
+  <script src="https://js.greenvelope.com/_js/knockout/ko-custom.min.js?v=20191217114758" type="text/javascript"></script>
   
-  <script src="https://js.greenvelope.com/_js/mixpanelV4.js?v=20190304231427" type="text/javascript"></script>  
+  <script src="https://js.greenvelope.com/_js/mixpanelV4.js?v=20191024134025" type="text/javascript"></script>  
   <script language="javascript" type="text/javascript">
     mixpanel.init("db196898200383f6592b80c907d4c4bf");
     try { 
       mixpanel.register_once({'Initial Browser Version': '0.0', 'Initial Browser': 'Mozilla' });
 
-      mixpanel.register_once({'Source URL': 'https://www.greenvelope.com/blog/glamorous-chicago-wedding-jessica-stephen'});
+      mixpanel.register_once({'Source URL': 'https://www.greenvelope.com/blog/holiday-spirit-with-shelby'});
       mixpanel.register({'Source First': 'Greenvelope Blog'});
 
       mixpanel.people.set_once({'Initial Language': 'en'});
@@ -43,9 +44,13 @@
     mixpanel.people.set_once({'Test - Signup - Popup': 'show-3'}); mixpanel.register_once({'Test - Signup - Popup': 'show-3'});    var apiURL = 'api/v1/';
     var rootURL = 'https://www.greenvelope.com/';
     var cdnURL = 'https://cdn.greenvelope.com/';
+    var relativeURL = "/terms";
  var consentShow = false; 
+ var fbAppID = 184142495069852;
   
     var vmMaster;
+    var dropdownLanguages;
+    var ct;
 
     $("document").ready(function () {
       ko.validation.configure({
@@ -59,6 +64,14 @@
       highRes();  
       bindTooltips();
       altTextFromName();
+      mpEmailClick();
+    });
+
+    grecaptcha.ready(function () {
+      grecaptcha.execute('6LcTrKoUAAAAAFLKFLeAEER6n1vXEembn59d7wAS', { action: 'pageload' }).then(function (token) {
+        setCookie('ct', token);
+        ct = token;
+      });
     });
   </script>
   <script type="text/javascript">
@@ -72,8 +85,8 @@ var supportedLanguages = [ { Code: 'en', Description: 'English' }, { Code: 'es',
       //Set language name in dropdown.
       $('.langDropdown').find('.language-name').text(getLanguageFullName(lang));
       
-      $('#translationLoadingPopup').modal()
-      location.reload()
+      Greenvelope.UI.Modal('#translationLoadingPopup');
+      location.reload();
     };
 
     function getLanguageFullName(code) {
@@ -97,16 +110,39 @@ var supportedLanguages = [ { Code: 'en', Description: 'English' }, { Code: 'es',
 
       //Set available languages.
       var dd = $('.langDropdown').find(".dropdown-menu");
-      //supportedLanguages variable is writter on master page.
-      $(supportedLanguages).each(function () {
-        var lang = this;        
-        dd.append('<li><a href="javascript: setLanguage(\'' + lang.Code + '\')">' + lang.Description + '</a></li>');
-      });
+      if (!isEmpty(dropdownLanguages)) {
+        // Product landing page with different url per language
+        $(dropdownLanguages).each(function () {
+          var lang = this;
+          if (lang.Code != 'en') {
+            dd.append('<li><a href="/' + lang.Code + '/' + lang.URL + '">' + lang.Description + '</a></li>');
+          } else {
+            dd.append('<li><a href="' + lang.URL + '?ljs=en">' + lang.Description + '</a></li>');
+          }
+        });
+      } else {
+        // Non product landing page with same URL for each language
+        //supportedLanguages variable is writter on master page.
+        $(supportedLanguages).each(function () {
+          var lang = this;
+          if (lang.Code != 'en') {
+            dd.append('<li><a href="/' + lang.Code + relativeURL + '">' + lang.Description + '</a></li>');
+          } else {
+            dd.append('<li><a href="' + relativeURL + '?ljs=en">' + lang.Description + '</a></li>');
+          }
+        });
+      }
+
+      // Hide Zendesk chat for non-english viewers
+      if (lang != 'en') {
+        zE('webWidget', 'hide');
+      }      
     });
   </script>
 
   <style type="text/css">
     .modal-backdrop.in { opacity: .8; }
+    .grecaptcha-badge { visibility: hidden; }
   </style>
     
   <script>
@@ -146,10 +182,10 @@ var supportedLanguages = [ { Code: 'en', Description: 'English' }, { Code: 'es',
     h4 {margin-top: 20px;}
   </style>
 <meta name="description" content="Please read the Greenvelope Terms of Service and Privacy Policy Carefully."><script async="" src="https://static.hotjar.com/c/hotjar-908800.js?sv=6"></script></head>
-<body data-spy="scroll" data-target="#navbar" data-offset="80"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<body data-spy="scroll" data-target="#navbar" data-offset="80">
   <form method="post" action="./terms" id="aspnetForm" class="localizejs">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 </div>
 
 <div class="aspNetHidden">
@@ -389,7 +425,7 @@ var supportedLanguages = [ { Code: 'en', Description: 'English' }, { Code: 'es',
         <p>If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at <a href="mailto:info@greenvelope.com">info@greenvelope.com</a>.</p>
         <p>If you wish to unsubscribe from receiving marketing emails from Greenvelope, LLC, please click the unsubscribe link included in the footer of all of our emails.</p>
         <p>If you believe that any information we are holding on you is incorrect or incomplete, please email at <a href="mailto:info@greenvelope.com">info@greenvelope.com</a>. We will promptly correct any information found to be incorrect. You may also request that we delete the information we have collected about you at any time by emailing us at <a href="mailto:info@greenvelope.com">info@greenvelope.com</a>. Please note that in certain circumstances, we may not be able to completely remove your information from our systems. For example, we may retain your information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in our data backup systems or cached or archived pages, or where the burden or expense of accommodating your request would, in our good faith judgment, be disproportionate to the risks to your privacy, or where the rights of others may be violated. All retained personal information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. Personal data will be retained only for as long as necessary for Greenvelope to be able to response to inquiries about prior account activity and audits related to prior purchases.</p>
-        <p>Finally, you may request access to the information we have collected about you by sending a request to <a href="mailto:info@greenvelope.com">info@greenvelope.com</a>. </p>
+        <p>Finally, you may request access to the personal information we have collected about you by sending a request to <a href="mailto:info@greenvelope.com">info@greenvelope.com</a>. </p>
         <p><br><b>EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield</b></p>
         <p>Greenvelope participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-US Privacy Shield Framework. Greenvelope is committed to subjecting all personal information received from European Union (EU) member countries, and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <a href="https://www.privacyshield.gov/list">https://www.privacyshield.gov/list</a>.</p>
         <p>Greenvelope is responsible for the processing of personal information it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Greenvelope complies with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions.</p>
@@ -432,11 +468,11 @@ var countryCode = 'US';
           <table class="width-100p mobile-hide v2">
             <tbody><tr>
               <td class="">
-                POWERED BY <a href="https://www.greenvelope.com" class="margin-l-10"><img class="hires margin-r-20" src="https://cdnpng.greenvelope.com/user/_images/logo_menu.png" width="141" height="18" alt="logo menu"></a>
+                <a href="https://www.greenvelope.com" class="margin-r-20 margin-b-10"><img class="hires" src="https://cdnpng.greenvelope.com/pub/_images/greenvelope_textlogo.png" width="141" height="18" alt="logo menu"></a>
                 
                 <div class="dropdown dropup langDropdown langFooter ie89Hide">
                   <div data-toggle="dropdown" class="whitelink white-text-shadow">
-                    <i class="fa fa-globe pointer"></i><span class="language-name">Language</span>        
+                    <i class="fal fa-globe pointer"></i><span class="language-name">Language</span><i class="fal fa-angle-down margin-l-10"></i>  
                   </div>
                   <ul class="dropdown-menu">
                     
@@ -445,18 +481,18 @@ var countryCode = 'US';
                 
               </td>
               <td class="text-right">
-                <a href="/about">ABOUT</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="/designs">DESIGNS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="https://www.greenvelope.com/blog/" target="_blank">BLOG</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="/careers">CAREER</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="/terms#privacy">PRIVACY</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="/terms">TERMS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-                <a href="/about#contact" class="margin-r-20">CONTACT US</a>&nbsp;
+                <a href="/about">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="/designs">Designs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="https://www.greenvelope.com/blog/" target="_blank">Blog</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="/careers">Career</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="/affiliate">Affiliate</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="/terms#privacy">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="/terms">Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="/about#contact" class="margin-r-20">Contact us</a>&nbsp;
                 <a href="http://facebook.com/greenvelope" rel="nofollow" target="_blank"><i class="fa fa-facebook-square"></i></a>&nbsp;
                 <a href="http://www.pinterest.com/greenvelope/" rel="nofollow" target="_blank"><i class="fa fa-pinterest-square"></i></a>&nbsp;
                 <a href="http://instagram.com/greenvelope" rel="nofollow" target="_blank"><i class="fa fa-instagram"></i></a>&nbsp;
-                <a href="http://twitter.com/greenvelope" rel="nofollow" target="_blank"><i class="fa fa-twitter-square"></i></a>&nbsp;
-                <a href="https://www.greenvelope.com/blog/" target="_blank"><i class="fa fa-rss-square"></i></a>
+                <a href="http://twitter.com/greenvelope" rel="nofollow" target="_blank"><i class="fa fa-twitter-square"></i></a>
               </td>
             </tr>
           </tbody></table>
@@ -466,7 +502,7 @@ var countryCode = 'US';
           <div class="col-md-4 mobile-only text-center margin-b-15 padding-l-0 padding-r-0 v2">
             <div class="dropdown dropup langDropdown langFooter ie89Hide">
               <div data-toggle="dropdown" class="whitelink white-text-shadow">
-                <i class="fa fa-globe pointer"></i><span class="language-name">Language</span>        
+                <i class="fal fa-globe pointer"></i><span class="language-name">Language</span><i class="fal fa-angle-down margin-l-10"></i>       
               </div>
               <ul class="dropdown-menu">
                 
@@ -481,12 +517,12 @@ var countryCode = 'US';
             <a href="https://www.greenvelope.com/blog/" target="_blank"><i class="fa fa-rss-square"></i></a>
           </div>
           <div class="col-md-4 mobile-only text-center margin-b-10 padding-l-0 padding-r-0">
-            <a href="/about">ABOUT</a>
-            <a href="/designs" class="margin-l-10">DESIGNS</a>
-            <a href="https://www.greenvelope.com/blog/" class="margin-l-10" target="_blank">BLOG</a>
-            <a href="/careers" class="margin-l-10">CAREER</a><br>
-            <a href="/terms" class="">TERMS OF SERVICE</a>
-            <a href="/about#contact" class="margin-l-10">CONTACT US</a>
+            <a href="/about">About</a>
+            <a href="/designs" class="margin-l-10">Designs</a>
+            <a href="https://www.greenvelope.com/blog/" class="margin-l-10" target="_blank">Blog</a>
+            <a href="/careers" class="margin-l-10">Career</a><br>
+            <a href="/terms" class="">Terms</a>
+            <a href="/about#contact" class="margin-l-10">Contact Us</a>
           </div>
         </div>
       </div>   
@@ -511,6 +547,8 @@ var countryCode = 'US';
     
 
     
+      <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=780442ea-206b-4dbf-bbcb-fd78b32a476d"> </script>
+        
   </form>
 
 <script type="text/javascript">
@@ -520,48 +558,6 @@ var countryCode = 'US';
     a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 <!--<script type="text/javascript" src=//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/920c5b947db69d3d32931c4b419618a1c9820e7d6e526598a618449fa29f4f12.js></script> -->
-      <!-- begin olark code -->
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark || (function (c) {
-  var f = window, d = document, l = f.location.protocol == "https:" ? "https:" : "http:", z = c.name, r = "load"; var nt = function () {
-    f[z] = function () {
-      (a.s = a.s || []).push(arguments)
-    }; var a = f[z]._ = {
-    }, q = c.methods.length; while (q--) {
-      (function (n) {
-        f[z][n] = function () {
-          f[z]("call", n, arguments)
-        }
-      })(c.methods[q])
-    } a.l = c.loader; a.i = nt; a.p = {
-      0: +new Date
-    }; a.P = function (u) {
-      a.p[u] = new Date - a.p[0]
-    }; function s() {
-      a.P(r); f[z](r)
-    } f.addEventListener ? f.addEventListener(r, s, false) : f.attachEvent("on" + r, s); var ld = function () {
-      function p(hd) {
-        hd = "head"; return ["<", hd, "></", hd, "><", i, ' onl' + 'oad="var d=', g, ";d.getElementsByTagName('head')[0].", j, "(d.", h, "('script')).", k, "='", l, "//", a.l, "'", '"', "></", i, ">"].join("")
-      } var i = "body", m = d[i]; if (!m) {
-        return setTimeout(ld, 100)
-      } a.P(1); var j = "appendChild", h = "createElement", k = "src", n = d[h]("div"), v = n[j](d[h](z)), b = d[h]("iframe"), g = "document", e = "domain", o; n.style.display = "none"; m.insertBefore(n, m.firstChild).id = z; b.frameBorder = "0"; b.id = z + "-loader"; if (/MSIE[ ]+6/.test(navigator.userAgent)) {
-        b.src = "javascript:false"
-      } b.allowTransparency = "true"; v[j](b); try {
-        b.contentWindow[g].open()
-      } catch (w) {
-        c[e] = d[e]; o = "javascript:var d=" + g + ".open();d.domain='" + d.domain + "';"; b[k] = o + "void(0);"
-      } try {
-        var t = b.contentWindow[g]; t.write(p()); t.close()
-      } catch (x) {
-        b[k] = o + 'd.write("' + p().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();'
-      } a.P(2)
-    }; ld()
-  }; nt()
-})({
-  loader: "static.olark.com/jsclient/loader0.js", name: "olark", methods: ["configure", "extend", "declare", "identify"]
-});
-      /* custom configuration goes here (www.olark.com/documentation) */
-      olark.identify('8155-654-10-3162');/*]]>*/</script><noscript><a href="https://www.olark.com/site/8155-654-10-3162/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-    <!-- end olark code -->
 
   <script>
     (function (i, s, o, g, r, a, m) {
@@ -573,23 +569,6 @@ var countryCode = 'US';
 
     ga('create', 'UA-7668421-1', 'auto');
     ga('send', 'pageview');
-
-    if (getLanguage() != 'en'){ olark('api.box.hide'); } // Hide olark for foreign languages
-   /*
-    if (getLanguage() != 'en' && getLanguage() != 'fr'){ olark('api.box.hide'); }
-    if (getLanguage() == 'fr'){ 
-      olark.configure('system.group', '487daf4dae5348d7ec5ea3efaf7e624e'); 
-      olark.configure("locale.welcome_title", "Chatter avec nous !");
-      olark.configure("locale.chatting_title", "Discussion en cours");
-      olark.configure("locale.welcome_message", "Des questions ? Nous serions ravis de chatter avec vous !");
-      olark.configure("locale.chat_input_text", "Écrivez ici et appuyez sur entrée pour chatter");
-      olark.configure("locale.offline_note_sending_text", " Envoi en cours...");
-      olark.configure("locale.operator_is_typing_text", "est en train d'écrire...");
-      olark.configure("locale.operator_has_stopped_typing_text", "a cessé d'écrire");
-      olark.configure("locale.disabled_input_text_when_convo_has_ended", "Cette conversation est terminée, écrivez ci-dessous si vous avez besoin d'autre chose !");
-      olark.configure("locale.disabled_panel_text_when_convo_has_ended", "Cette conversation est terminée, écrivez ci-dessous si vous avez besoin d'autre chose !");
-    }
-    */
   </script>
 
     
