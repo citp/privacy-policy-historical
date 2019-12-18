@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the text-symbols.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221752id_/https%3A//fsymbols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the text-symbols.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218123737id_/https%3A//fsymbols.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - fsymbols
+# Privacy Policy
 
 This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a "User") of this website website ("Site"). This privacy policy applies to the Site and all products and services offered by this website.
 
