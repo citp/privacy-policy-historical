@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babestation.tv privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503180202id_/https%3A//www.babestation.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babestation.tv privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218050304id_/https%3A//www.babestation.tv/privacy-policy) for the most accurate reproduction.*
 
 # Babestation TV - Privacy Policy
 
@@ -8,7 +8,7 @@ Welcome to the Game Network B.V. privacy notice. Whose registered office is at T
 
 Game Network B.V. respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
 
-This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively you can download a pdf version of the policy [here.](https://web.archive.org/private-policy.pdf) Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice. 
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively you can download a pdf version of the policy [here.](https://web.archive.org/privacy-policy.pdf) Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice. 
 
 ### 1\. IMPORTANT INFORMATION AND WHO WE ARE
 
@@ -122,7 +122,7 @@ We use different methods to collect data from and about you including through:
 
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances: 
 
-  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where we need to perform the contract we are about to enter into or have entered into with you. 
   * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
   * Where we need to comply with a legal or regulatory obligation.
 
@@ -180,7 +180,7 @@ To make suggestions and recommendations to you about goods or services that may 
 (b) Contact   
 (c) Technical   
 (d) Usage   
-(e) Profile  | Necessary for our legitimate interests (to develop our products/services and grow our business)  
+(e) Profile  | Necessary for our legitimate interests (to develop our products/services and grow our business)   
   
 #### Marketing
 
