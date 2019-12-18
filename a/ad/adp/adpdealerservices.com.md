@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adpdealerservices.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508022157id_/https%3A//www.cdkglobal.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpdealerservices.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218032758id_/https%3A//www.cdkglobal.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CDK Global
+# Privacy Policy - | CDK Global - USA - EN
 
-This website (this "Site") owned and operated by CDK Global, LLC (together with its affiliates, individually or collectively, "CDK"). Your privacy is important to CDK. We want you to understand how we collect, use, share and store your information when you use this Site. By using this Site, you accept and agree to the practices this Privacy Statement describes. IF YOU DO NOT AGREE, PLEASE DO NOT USE THIS SITE.
+This website (this "Site") owned and operated by CDK Global, Inc. (together with its affiliates, individually or collectively, "CDK"). Your privacy is important to CDK. We want you to understand how we collect, use, share and store your information when you use this Site. By using this Site, you accept and agree to the practices this Privacy Statement describes. IF YOU DO NOT AGREE, PLEASE DO NOT USE THIS SITE.
 
 ### Information We Collect
 
@@ -73,7 +73,7 @@ We will update this Privacy Statement from time to time, and any changes will ta
 
 If you have any questions, comments, or complaints regarding CDK's privacy practices or this Privacy Statement please do not hesitate to contact us by email at [privacy@cdk.com](mailto:mailto:privacy@cdk.com) or by writing to:
 
-CDK Global Holdings, Inc.  
+CDK Global, Inc.  
 Legal Department  
 1950 Hassell Rd.  
 Hoffman Estates, IL 60169
