@@ -1,172 +1,106 @@
-> *The following text is extracted and transformed from the nursingtimes.net privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021235715id_/http%3A//www.nursingtimes.net/section1.aspx%3FnavCode%3D272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingtimes.net privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218123612id_/https%3A//www.nursingtimes.net/consents/privacy-policy) for the most accurate reproduction.*
 
-# Nursing Times Privacy Policy
+# Privacy Policy Archives - Nursing Times
 
-EMAP Publishing Limited ( **We** ) are committed to protecting and respecting your privacy. We gather/use and keep information in line with the Data Protection Act 1998 and all relevant regulations.
+Metropolis Group (Metropolis Group Holdings Ltd) is a media group with a number of media brands which are shown on its website [www.metropolis.co.uk](http://www.metropolis.co.uk/).  Our principal business activities involve the creation and delivery of information to businesses and consumers through organising events, conferences, exhibitions, publishing magazines, delivering content digitally through our websites and by email and the provision of ad hoc marketing services to our customers.
 
-This policy (together with our [terms of use](http://www.nursingtimes.net/terms-and-conditions/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+The following companies in our group (with company registration number) are data controllers:
 
-For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is EMAP Publishing Limited of c/o Top Right Group Limited, The Prow, 1 Wider Walk London W1B 5AP.
-
-### INFORMATION WE MAY COLLECT FROM YOU
-
-We may collect and process the following data about you:
-
-* **Information you give us.** You may give us information about you by filling in data on our site www.nursingtimes.net ( **our site** ) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, carry out training, enter information in connection with or otherwise deal with or alter your training record and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph, training record and/or details of your employer or employees.
-  
-
-* **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:
-
-  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
-
-
-* **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
-  
-
-
-### COOKIES
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy (below).
-
-**USES MADE OF THE INFORMATION**
-
-We use information held about you in the following ways:
-
-* **Information you give to us.** We will use this information: 
-
-  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
-  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the setting page [http://www.nursingtimes.net/account/my-newsletters](http://www.nursingtimes.net/account/my-newsletters/));
-  * to notify you about changes to our service;
-  * to ensure that content from our site is presented in the most effective manner for you and for your computer; and/or
-  * If someone pays for your subscription on your behalf, to advise and update them or their nominees of your log in records, your training records, and performance in training courses, any feedback you have given about the training modules and any and all other information in connection with your training or the use of the site.
-
-
-* **Information we collect about you.** We will use this information: 
-
-  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
-  * to allow you to participate in interactive features of our service, when you choose to do so;
-  * as part of our efforts to keep our site safe and secure;
-  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
-  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them;
-  * if your employer pays for your subscription, to advise and update them of your training records and performance in training courses and all other information in connection with your training.
-
-
-* **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
-  
-
-
-### DISCLOSURE OF YOUR INFORMATION
-
-We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may share your information with selected third parties including:
-
-  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you and other third parties subject to them being under an obligation of confidentiality in respect of the information they receive.
-  * Advertisers and advertising networks that require the data to select and serve relevant adverts and marketing to you and others.
-  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+  * Metropolis International Group Limited – 02916515
+  * Innovare Media Limited - 0781637
+  * MPI Media Limited - 486758
+  * Diamond Publishing Limited - 04611236
+  * EMAP Publishing Limited - 07880758
+  * Centaur Financial Platforms Ltd - 06439194
 
 
 
-We may disclose your personal information to third parties:
+The registered address of all of these companies is 7th Floor, Vantage London, Great West Road, London TW8 9AG except MPI Media which is Merchants Hall, 25/26 Merchants Quay, Dublin 8
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Emap Publishing Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](http://www.nursingtimes.net/terms-and-conditions/) and other agreements; or to protect the rights, property, or safety of EMAP Publishing Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+Metropolis Group respects the privacy of every person for whom we have personal data [“data”]. We comply with data protection legislation such as the Data Protection Act 1998 and the General Data Protection Regulation which regulates the processing of data and ensures that your data is processed fairly and lawfully, is kept secure and only that data necessary for any processing is kept.
 
+This policy summarises the information we may collect about you and how we may use that data. We primarily collect data to provide you with services you have requested, to provide services likely to meet your needs, to improve services provided to you and to sell advertising space to help us provide many services free of charge. The policy tells you how we ensure the information we have is kept accurate and how you can request access, deletion, rectification, restriction, transfer and withdraw consent (where applicable) and make a complaint.
 
+We have a number of businesses within the group and each may collect and use data about you in different ways.  _In the event that one of those businesses does use data other than detailed in this policy, it will publish its own policy on its own web site and you should refer to the privacy policy of that business and not this group policy._  Both at a business and group level we may update the privacy policy at any time without notice so please check back regularly so you are aware of any changes. This privacy policy is subject to our terms and conditions which are found on each business’s website.
 
-### WHERE WE STORE YOUR PERSONAL DATA
+**_1\. What Information do we collect and how is this collected?_**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+We only collect personal information if we have your permission, or we have reasonable commercial reasons for doing this, such as collecting information to process event registrations or to supply you with services. We will only collect the minimum amount of information we need to do these things.
 
-All information you provide to us is stored on secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+We may collect some of the following data such as name, job title, company that employs you, home post code, email address, birthdate, telephone number, gender, purchasing preferences and history, content you post on our websites, and content you read on our websites plus various other data. This data may be collected when you order a service or product, use our websites (or a third-party website e.g. to pay for a subscription), post content to our websites, sign up for a newsletter or subscription, on completion of a survey, questionnaire or entry to a competition, or by communication to us by email, phone and by other means.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+When you pay us, we will record details of the financial transaction but do not directly store your debit or credit card information. Online payments are made through our websites but are processed securely by a third-party payment provider: we only store the last 4 digits of your credit card number.
 
-### YOUR RIGHTS
+If you use our website we may record your IP address, registration details and your browsing history such as the pages you have visited within our sites.  If you sign up for a newsletter we may track your response e.g. open a newsletter or click on a link in a newsletter or the pages you visit.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at customerservices@nursingtimes.net.
+For employees we keep personal data needed to recruit you, pay you, provide company benefits and to fulfil our legal obligations.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+We do not share personal data with third parties for marketing purposes, other than with the direct consent of the individual(s) which may be withdrawn at any time.
 
-### ACCESS TO INFORMATION
+**_2\. Cookies_**
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+We use cookies to monitor web usage. Cookies are written to the hard drive of a web user, they contain no personal information about the website user and only keep a record of the sites visited and actions on the web site.  Some cookies expire after your browser is closed whilst others stay on your hard drive. They are of standard use across many websites. We use them on an aggregated information basis and to assess your areas of interest – they are used to identify the number of unique visitors to a site, to improve further web visits (store preferences, user name and your email address so you don’t need to reinput every time you visit) and to improve the user experience for you by, amongst other things, providing content based on your preferences.
 
-### CHANGES TO OUR PRIVACY POLICY
+Most browsers offer you ways to control or block cookies should you wish to. These browser controls will usually be found in the “options” or “preferences” menu in your toolbar. The “help” portion of the toolbar on most browsers will tell you how to stop or manage cookies. Note that should all cookies be rejected we are unable to match site content appropriate to the preferences given to us by previous visits and you will not be able to fully utilise all of the web site features.  For further information on cookies visit [aboutcookies.org](http://aboutcookies.org/) or the Information Commissioner's webpage on cookies [ico.org.uk/for-the-public/online/cookies/](http://ico.org.uk/for-the-public/online/cookies/)
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
+**_3\. Legal basis for processing data_**
 
-### CONTACT
+Different legal bases are used which depend upon the purpose for processing your data.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customerservices@nursingtimes.net.
-
-## 5\. Cookies
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
-
-A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your mobile device, tablet or computer's hard drive.
-
-We use the following cookies:
-
-  * **Strictly necessary cookies.** These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services. 
-  * **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
-  * **Functionality cookies.** These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-  * **Targeting cookies.** These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+  * When data is provided when purchasing a product or service under a contract with you we process your data under contract necessity with the data being needed to fulfil the contract.
+  * When you sign up for a newsletter, an event or magazine subscription we process your data under consent
+  * Any additional processing i.e. sharing data with third parties, marketing to you on behalf of third parties is done through either consent or legitimate interest (you are provided with useful information by us in exchange for supplying your information (including personal data) and the relationship between us is balanced in your favour. You have the choice to opt out of processing under this basis).
+  * When you pay us, or we pay you, we only keep data as long as it is necessary to comply with the law.
 
 
 
-You can find more information about the individual cookies we use and the purposes for which we use them in the table below: 
+**_4\. Use of personal data_**
 
-Cookie name | Purpose  
----|---  
-ARPT | This is a technical session cookie set by our website to share the number of visitors we get on our site between web servers. This is so the site does not get overloaded and can perform at its optimum potential  
-ASP.NET_SESSIONId | This session cookie tells us that you are actively using our site. This way we can always know, at any given time, how many users we have visiting.  
-SSOEX_[ID] | This tells us whether you are logged into our site  
-emapauth | This cookie supports the linking of subscriptions between our different products  
-tempid | Similar to the emapauth cookie, this supports the linking of subscriptions between our different products  
-.ASPXAUTH | This cookie is used to store an encryption key of the users authentication after login so that they remain authenticated during their session on the website  
-MoodleSession | This cookie is used to track user session must be allowed to allow moodle/totara to work  
-MOODLEID: | This cookie holds your userid if you select remember username on login (not required)  
-  
-Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website. In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest. 
+We will only use personal information for the purpose it was collected.  Should we ever wish to use it for another purpose we will contact you first asking you for your consent. We primarily use data to communicate with you, deliver the service you have requested, or services that might interest you (subject to your right to opt out with the details on how to do this found on each business website), to renew a subscription, improve our service, to verify your identity when taking payment or to meet legal, regulatory and compliance requirements.
 
-Cookie name | Purpose | More Information  
----|---|---  
-Adtech | Adtech is EMAP's online ad server used for serving and tracking advertisements across the EMAP websites | [Adtech Cookie opt-out](http://www.adtech.com/cookie_opt-out)  
-Webtrends   
-WT.FPC | WebTrends uses a cookie to track the number of unique users of this website. It basically tells us whether the website has a small number of regular visitors or a large number of infrequent visitors. The cookie only relates to what goes on in this website | [WebTrends Privacy Policy](http://webtrends.com/privacy-statement/)  
-Google Analytics   
-_utma   
-_utmb   
-_utmc   
-_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Google Analytics Privacy Policy](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
-comScore | Comscore help us to provide online surveys and video content through our Site. Comscore use cookies so that they can provide anonymous statistics on the interaction of users with these online surveys or video content. | [comScore Privacy Policy](http://www.comscore.com/About_comScore/Privacy_Policy)  
-AddThis | AddThis helps us to integrate social media sharing tools into our website such as facebook or twitter and to measure the effectiveness of these sharing tools | [AddThis opt-out](http://www.addthis.com/privacy/opt-out#.T3FyoHmx2Sp)  
-DoubleClick (Google) | Doubleclick use a cookie when they serve advertisements in order that they can deliver reports on the effectiveness of these advertisements on our Site. The cookie records what advertisements the user has seen and how often | [Google Privacy Policy](http://www.google.co.uk/privacy/ads/)  
-Optify   
-_opt_gvi | Optify collects information about End User activity on the Site, including a unique Optify Customer ID, the End User’s IP address, the URL of the “referring” Web page (i.e., the page viewed by the End User prior to visiting the tracked page on your Site), the title and URL of tracked pages on the Site, and information about pages visited and actions taken. The Javascript code makes a “call” to our Software Services where, relying on third party service providers, we use the IP address to identify company name and approximate geographical location for the End User. | [Optify Privacy Policy](http://www.optify.net/about-our-b2b-inbound-marketing-solutions/privacy)  
-__utma:   
-_utmb &   
-_utmc:   
-_utmv:   
-_utmz: | The following 4 cookies are used by Google analytics to check the sites performance | <https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage>  
-dle_support (not required) | Stores the results of all the browser checks |   
-  
-## 6\. Third Party Websites
+Profiling – from time to time we may use some elements of the data you supply to target the messages we send you.  For example, we may use your location to send you information about an event which is happening in the same country, or we may use your company type or job title to send you a relevant news story.  We do not use this information to make automated decisions.
 
-Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+**_5\. How long do we keep your data for?_**
 
-You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. 
+Data is not kept any longer than is required for the purposes of the processing or to comply with the law. As we collect data for many different purposes there is not a single retention period for all data. We instead carefully assess the length of time to retain data according to the processing purpose and to comply with our legal obligations. When data is no longer required for the purposes of the processing it is securely removed from our systems.
 
-## 7\. Registration
+**_6\. Security & Confidentiality_**
 
-  1. To access certain parts of the Emap websites, Emap may require you to register and provide certain information about yourself.
-  2. You are reminded that in addition to the provisions of this Privacy and Cookies Policy, where you register you also agree to:   
-a. provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and   
-b. maintain and promptly update the Registration Data to keep it fully up to date.
+Metropolis takes commercially reasonable physical, technical and administrative measures to protect personal information from theft, misuse or accidental destruction and to keep it confidential. We aim to protect personal information but cannot provide a 100% guarantee of security.  All employees and data processors (third parties who process data on our behalf) who access your data are obliged to keep the information confidential and secure and not to use it for any other purpose other than that they are contracted to carry out for us.
 
+**_7\. Transfer of data to third parties_**
 
+We may use third party providers e.g. for web site hosting, web maintenance, email alerting, subscription fulfilment and taking payment. We share information with these third party to provide these services.  We collect broad statistical anonymised information on an aggregate basis, which doesn’t identify you personally, which we may provide to third parties to sell advertising. This allows us to provide content free of charge.  We will also share data with public or regulatory authorities where required by law or to enforce our terms of service.     We take reasonable commercial steps to ensure that your data is kept secure and confidential by any third party, is deleted when not needed for the purpose it was given, that their data privacy policies protect your data and that they only process your data on our instruction. We do not sell or rent your personal data, although we may transfer, sell or assign your data outside of our group to a third party if we merged, sold or reorganised all, of part, of the group. Your data will be processed fairly, lawfully and securely in the UK and will only be transferred outside of the European Union when there is protection in place for your rights and when the data will be kept secure.
+
+**_8\. Withdrawal of consent_**
+
+When you have provided consent, if you should wish to withdraw that consent, you can let us know by sending an email (details provided on the business website) or by emailing [dataprivacy@metropolis.co.uk](mailto:dataprivacy@metropolis.co.uki) including the email address and brand associated with your account and we will remove your data from our systems.
+
+**_9\. Restriction of liability_**
+
+Our websites link to other websites. Metropolis is not responsible for the privacy policies of those websites nor does it have or accept any liability for their content.
+
+**_10\. Legal information and how to contact us_**
+
+You have the right to see, erase and correct data we hold, the right to restrict the processing we do, and the right to object to it and to have your data transferred to a third party. If you wish to do any of these things or have any questions about how we use your data, or wish to make a complaint about any privacy issues, please contact the Group Data Privacy Lead – Richard Hutchinson at [richard.hutchinson@metropolis.co.uk](mailto:richard.hutchinson@metropolis.co.uk) or write to him at :
+
+Richard Hutchinson
+
+Group Data Privacy Lead
+
+Metropolis International Group Limited
+
+7th Floor
+
+Vantage London
+
+Great West Road
+
+London TW8 9AG
+
+Requests will be dealt with and responded to within a reasonable period, and no longer than 30 days. If you are not satisfied with the way your request was handled you have the right to lodge a complaint with the supervisory authority – details of which are given below:
+
+Information Commissioner’s Office
+
+<https://ico.org.uk/concerns/>  
+Telephone: +44 303 123 1113
