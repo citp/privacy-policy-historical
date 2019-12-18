@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desertsun.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520213300id_/https%3A//cm.desertsun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertsun.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218020124id_/https%3A//cm.desertsun.com/privacy) for the most accurate reproduction.*
 
-# static.desertsun.com
+# The Desert Sun
 
 Last Updated: May 14, 2018
 
