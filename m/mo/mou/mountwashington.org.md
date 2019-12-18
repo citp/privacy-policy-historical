@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountwashington.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330072240id_/https%3A//www.mountwashington.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountwashington.org privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218161646id_/https%3A//www.mountwashington.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Mount Washington Observatory | Privacy Policy | Mount Washington Observatory
 
