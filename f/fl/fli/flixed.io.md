@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flixed.io privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407221114id_/https%3A//flixed.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixed.io privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218161915id_/https%3A//flixed.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Become a Cord-Cutter Today! All the Tips and Resources You Need.
+# Privacy Policy | Flixed
 
 **Last revised on: June 13, 2018**
 
