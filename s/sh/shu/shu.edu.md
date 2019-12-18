@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shu.edu privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330115512id_/https%3A//www.shu.edu/web/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.edu privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218123645id_/https%3A//www.shu.edu/web/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statements - Seton Hall University
 
