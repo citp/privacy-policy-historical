@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513020726id_/http%3A//filefactory.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218215524id_/https%3A//www.filefactory.com/legal/privacy.php) for the most accurate reproduction.*
 
 # FileFactory
 
