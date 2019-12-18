@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313140400id_/https%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218130249id_/https%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - isubscribe.com.au
 
@@ -8,7 +8,7 @@ Any questions regarding this policy or enquiries regarding privacy should be sen
 
 **What type of information is collected by isubscribe?**
 
-isubscribe collects most information directly from the users of it's website(s) and from customers who order via our direct Corporate Services. We collect this information so you can subscribe to products or services available for purchase via the isubscribe group of websites, subscribe to the isubscribe Newsletter, advertise in our publishing partners publications, request a product or service from isubscribe, complete a survey or questionnaire, enter a competition or an event, or communicate with isubscribe by e-mail or telephone.
+isubscribe collects most information directly from the users of its website(s) and from customers who order via our direct Corporate Services. We collect this information so you can subscribe to products or services available for purchase via the isubscribe group of websites, subscribe to the isubscribe Newsletter, advertise in our publishing partners publications, request a product or service from isubscribe, complete a survey or questionnaire, enter a competition or an event, or communicate with isubscribe by e-mail or telephone.
 
 isubscribe may also be provided with personal information about an individual from a third party, for example from third parties who give gift subscriptions.
 
@@ -16,13 +16,13 @@ The type of personal information collected includes (but is not limited to) name
 
 **How is this information used by isubscribe?**
 
-isubscribe uses personal information primarily for the purpose to facilitate orders for subscriptions via it's website(s).
+isubscribe uses personal information primarily for the purpose to facilitate orders for subscriptions via its website(s).
 
 isubscribe may also use this information to enhance the shopping experience, resulting in a more personalised service for you.
 
-isubscribe may also use this information to communicate with it's customers and to provide updated information on products and services via email and the isubscribe Newsletter. If you want to stop receiving the isubscribe Newsletter you can follow the unsubscribe information at the bottom of each Newsletter.
+isubscribe may also use this information to communicate with its customers and to provide updated information on products and services via email and the isubscribe Newsletter. If you want to stop receiving the isubscribe Newsletter you can follow the unsubscribe information at the bottom of each Newsletter.
 
-isubscribe may also use this information to communicate with it's customers and to provide updated information on products and services.
+isubscribe may also use this information to communicate with its customers and to provide updated information on products and services.
 
 From time to time, we may provide statistical information about sales, trading patterns and navigation techniques to our publishing partners. This will simply comprise data collected about you and other users to form aggregate results.
 
@@ -33,7 +33,7 @@ or call us on 1300 303 619
 
 **To whom might isubscribe disclose Personal Information?**
 
-isubscribe will provide your information to Australian and International Publishers of the magazines / newspapers / Books / Travel and Product Brochures you have subscribed to or ordered so that the subscriptions and orders can be fulfilled. The International publishers are mostly based in the UK and Singapore.
+isubscribe will provide your information to Australian and International Publishers of the magazines, newspapers, Books and other products you have subscribed to or ordered so that the subscriptions and orders can be fulfilled. The International publishers are mostly based in the UK, NZ and Singapore.
 
 isubscribe may also provide your information to other organizations who are sponsoring or otherwise involved with or participating in a promotion, competition or survey; including registered companies that are involved with the drawing of the prize and database management entities.
 
@@ -51,4 +51,4 @@ If you think we have breached the Privacy Act or other applicable privacy laws, 
 
 **How to contact isubscribe**
 
-If you would like to make an access request or wish to provide feedback about this policy, please contact isubscribe by writing to the General Manager isubscribe Pty Ltd, Suite 405, 35 Lime Street, Sydney NSW Australia 2000 or via e-mail [privacy@isubscribe.com.au](mailto:privacy@isubscribe.com.au?subject=isubscribe%20Privacy%20Policy)
+If you would like to make an access request or wish to provide feedback about this policy, please contact isubscribe by writing to the Managing Director isubscribe Pty Ltd, Suite 405, 35 Lime Street, Sydney NSW Australia 2000 or via e-mail [privacy@isubscribe.com.au](mailto:privacy@isubscribe.com.au?subject=isubscribe%20Privacy%20Policy)
