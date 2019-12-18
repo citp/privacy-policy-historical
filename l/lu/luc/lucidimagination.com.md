@@ -1,94 +1,178 @@
-> *The following text is extracted and transformed from the lucidimagination.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526182250id_/http%3A//lucidworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidimagination.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218123238id_/https%3A//lucidworks.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lucidworks
 
-This privacy policy describes Lucidworks, Inc.’s (“Lucidworks”) practices regarding how information we collect on the Lucidworks web sites www.Lucidworks.com, www.bigdata.Lucidworks.com and https://support.Lucidworks.com is used and shared with third parties. By visiting the Lucidworks web sites, you accept the practices described in this privacy policy. This privacy policy applies to anonymous data and personal information collected at our web sites, and to personal information collected in connection with the sale, support and use of our products and services. This privacy policy also applies where you are a customer or user of any of our hosted service offerings, for example, our services Lucidworks.io. and Lucidworks Search. The use of information collected through our service shall be limited to the purpose of providing the service for which the customer has engaged Lucidworks.
+We take the privacy of your personal information very seriously. We understand how important your privacy and the protection of your personal data is to you. The following Privacy Policy explains how we protect personal data that we collect, store, use, transfer, and otherwise process.
 
-## Part I. Information Collection
+If you have any questions regarding this Privacy Policy or do not feel that your concerns have been addressed, please direct your questions through the  **“How to Contact Us”**  section at the end of this Privacy Policy.
 
-We may collect personal information through our web sites. This information is used in e-commerce transactions and to provide customer service and support.
+### Definitions
 
-Lucidworks web sites collect personal information at several points, including processes associated with e-commerce, product registration, account creation and e-mail opt-in. Visitors may voluntarily provide (and we will collect) information including: name, email address, billing and shipping information, product purchase information, and product registration information.
+**Personal Data  **means any data that relates to an identified or identifiable natural person.
 
-We also collect the personal information that is provided by visitors who submit it through our web sites.
+**Processing** ** ** means any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
 
-We may collect information related to the use of our web sites – through, for example, the use of cookies – in order to better understand our customers’ needs. A cookie is a small text file that our web server places on your computer hard drive that includes a unique identifier. Cookies enable us to track usage patterns and deliver customized content to users. We may also use web bugs, clear gifs and similar technologies that collect data similar to that collected by a cookie. You may disable cookies by following instructions provided in your Internet browser. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
+**You** ** ** means any individual person identified or identifiable by personal data, as relevant for the context in which it is used in this Privacy Policy.
 
-Our service providers use both session ID and persistent cookies to make it easier for you to navigate our site. The use of cookies by our service providers is covered by our privacy policy. We do not have access or control over these cookies.
+### Responsibility for Your Personal Data
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do tie the information gathered to our Customers’ or Users’ personally identifiable information.
+Lucidworks is responsible for the processing of your personal data under this Privacy Policy. Lucidworks consists of the following legal entities:
 
-If you do not wish Lucidworks to use your personal information as described in this section, please follow the procedure in Part III (Access to Your Information) below.
+  * Lucidworks, Inc., 235 Montgomery St., Suite 500 , San Francisco, CA 94103, United States
+  * Twigkit Limited, 73 Tenison Road, Cambridge, CB1 2DG, United Kingdom
 
-In order to protect the privacy interests of younger Internet users, we do not actively market our web sites or products to children under 13. We do not knowingly collect information from children under 13 for marketing purposes.
 
-## Part II. Information Usage
 
-The information collected by us is used to understand how customers are using our products and services in order to make them better.
+You may contact the company regarding any questions or complaints as specified in the  **“How to Contact Us”  **section below.
 
-Anonymous, aggregated data is analyzed on a regular basis to understand product use and quality, feature popularity, quality, and to assist in the design of future products and services.
+### Categories of Individuals About Whom We Process Personal Data
 
-Personal information is used to fulfill orders, provide customer support, and for marketing purposes such as email announcements of new products or offers. We provide an option for you to choose not to receive marketing communications and you may always contact us at info@Lucidworks.com to opt-out of marketing communications (however, we reserve the right to use your contact information if we consider it necessary to send you crucial information about the product or services you have purchased from us.)
+We process personal data from or about the following categories of individuals:
 
-We may also share information with companies integral to the use of the product or service. In those cases, the use of that information is subject to the privacy policies of the receiving party. If you do not want us to share your personal information with these companies, contact us at info@Lucidworks.com.
+  * Job applicants to Lucidworks, whether as an employee, contractor, or consultant ( **Job Applicant Data** );
+  * Users of Lucidworks’ websites ( **Website Data** );
+  * Individuals who are, or are associated with, Lucidworks’ clients, vendors, or other business contacts with whom we interact or seek to establish a relationship with ( **Contact Data** );
+  * Individuals identified in data provided by or on behalf of clients in connection with services provided by Lucidworks  **(Client Sourced Data** ).
 
-We may use third parties (including contractors and service providers) to help with certain aspects of our operations, which may require disclosure of your personal information to them. For example, we may use a third party to communicate with you (via telephone, email, or letter) about our products or services, to send information to you, to process and collect payment via your credit card (if applicable), and to perform other work that we may need to outsource. We require these contractors and third parties to use your personal information only as necessary to perform the services they are asked to perform.
 
-We may share some or all of your personal information with our current or future “affiliates” (which means a parent company, any subsidiaries, joint ventures, or other companies under a common control), in which case we will require our affiliates to honor this privacy policy. If another company acquires Lucidworks (or a business unit of Lucidworks that uses your personal information), that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this privacy policy. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-We offer links to other web sites. Please note: those other web sites may observe privacy standards different from ours and the collection and use of your personal information will be governed by the privacy policies on those other sites.
+### Categories and Sources of Personal Data Processed
 
-Our Web site includes Social Media Features, such as the Facebook button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We may collect and store various types of personal data about you, depending on the category in which you fall and the reason for which the personal data is processed. The following is a general summary of the personal data about you that we may process in each category, the sources of such personal data, and the purposes for processing:
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+#### Job Applicant Data
 
-Our web sites offer a space for postings and submissions. Please be advised that any information posted in these venues will be publicly available. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our community forum, contact us at info@Lucidworks.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+When you apply for employment with Lucidworks (whether as an employee, contractor, or consultant) and when we evaluate your employment application and related materials (e.g., the results of pre-employment screenings), we obtain Job Applicant Data about you.
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. Finally, please be assured that we do not sell information collected from customers.
+Categories of Job Applicant Data: The Job Applicant Data we collect and process varies by the roles and responsibilities for the position you are applying for with Lucidworks, and our needs. Such personal data may include:
 
-## Part III. Access to Your Information
+  * Individual Data: Your name, address, telephone and/or mobile telephone number, e-mail address, gender, marital status, date of birth/age, citizenship, relevant tax identification number(s), passport number, prior employers, education, prior employment history, including salary information, results of criminal background screening, visa information, emergency contact information, name change information, CVs, etc.; and
+  * Other Data About You: Any additional personal data that may be included on documents you submit or we obtain as part of your employment application, such as information contained on any employment application or cover letter, curriculum vitae or resume, diploma, transcript, license, statement of good behaviour, background screening, employment contract, any related documents, reference check, identification card, request for leave, benefits, etc., and information collected from publicly available resources, professional license databases, and credit agencies, where applicable, or data that you voluntarily submit concerning your sexual orientation.
 
-If you wish to correct or delete of any of your personal information held by us or a change in the way we use your information, please contact support at info@Lucidworks.com. We will use commercially reasonable efforts to fulfill your request in a timely manner, but not more than 30 days. However, even if we delete such personal information from our ‘live’ database, it may still be stored on other databases (including those kept for archival purposes). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Blogs
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+Sources of Job Applicant Data: We obtain Job Applicant Data about you (i) directly from you, (ii) from our other employees (e.g., employees that refer you to Lucidworks or who have worked with you at your prior employer), and (iii) from third parties, such as government agencies, recruiters, employment agencies, screening companies, and references that you provide to us, as well as from publicly available sources, such as websites.
 
-To request removal of your personal information from our blog or community forum, contact us at [email or direct the user to contact information]. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Purposes and Legal Basis for the Processing: Your Job Applicant Data is processed for the purpose of establishing and maintaining your employment relationship with us (whether as an employee, contractor or consultant). The legal basis for such processing is that it is: (i) necessary for entering into and/or performing your employment relationship with Lucidworks, (ii) necessary for compliance with one or more legal obligations to which Lucidworks is subject (e.g., reporting to governmental or taxing authorities), and/or (iii) necessary for the purposes of the legitimate business interests pursued by Lucidworks.
 
-### Tell-A-Friend
+#### Website Data
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. [Lucidworks] stores this information for the sole purpose of sending this one-time email.
+You do not have to submit any personal data in order to use our Website.
 
-Your friend may contact us at info@Lucidworks.com to request that we remove this information from our database.
+  * Categories of Website Data: When you visit Lucidworks’ Websites, we may collect two types of data: (1) personal data about you that you voluntarily choose to provide to us, and (2) information related to your activities on Lucidworks’ Website that we automatically collect as you interact with the Website ( **Website Usage Information** ).
+  * Information You Voluntarily Provide: We collect personal data that you voluntarily provide in response to requests we may make at various places and through various mechanisms on Lucidworks’ Websites. The personal data we collect is business-oriented data and is usually limited to contact information necessary for the relationship, such as name, company name, job title, and email address. We may collect such information, for example, when you fill out and submit a form, such as if you register for an event, register to receive a newsletter or email communications, when you submit an inquiry or request to us using a form or e-mail address link on the Websites, and when you send an email to a Lucidworks’ address or Lucidworks’ mail list that is listed on our Websites. In such case, we will collect whatever personal data you voluntarily provide in response to our request.
+  * Special Categories of Personal Data: In connection with the registration for and provision of access to an event or to test our software, we may ask for specific information. Any use of such information is based on your consent. If you do not provide any such consent we may be able to give you access to our software or services.
+  * Website Usage Information and Cookies: Our Websites uses cookies for analytical and functionality purposes that allow us to improve our website based on visitor experience. Cookies are small text files placed on a computer hard drive to record a visitor’s information such as user ID and browsing behaviour. Our cookies do not collect any personal data such as your name or email address.
 
-## Part IV. Data Storage and Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We use industry-standard methods of securing electronic databases of personal information. Except as provided elsewhere in this privacy policy, we limit access to personal information in electronic databases to those persons in our organization who have a business need for such access. However, you should know that no web site operator, including Lucidworks, can fully eliminate security risks associated with personal information.
 
-Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your personal information will not be disclosed to third parties other than those mentioned above. For example, we may be legally required to disclose information to the government or third parties under certain circumstances as required by law such as to comply with a subpoena, or third parties may unlawfully intercept or access transmissions or private communications.
+We use the following types of cookies:
 
-### Information Related to Data Collected through the Lucidworks Search service
+(a) Necessary cookies. These are cookies that are required for the operation of our Websites. They include, for example, cookies that enable the website to perform as intended and to access secure areas of our Websites.
 
-Lucidworks’ hosted service offerings, for example, the Lucidworks Search service, may store electronic data, text, queries and other information provided by our customers, some of which may be personal information. Lucidworks collects information under the direction of our customers, and has no direct relationship with the individuals whose personal data we process. We do not own or control any of the information we process on behalf of our customers. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the responsible Lucidworks customer (the data controller). If the responsible customer requests Lucidworks to remove the data, we will respond to their request within 30 business days. We receive information transferred from our customers merely as a data processor, and typically do not collect, access, transfer or use any of this information ourselves. At the direction of our customers, we may perform query operations or transfer data to third parties for hosting purposes or integration with third party software products or services. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our customers. Any access to or use of personal information by us is incidental to performing our contractual obligations to our customers as a data processor. We rely on our customers to ensure that personal information is relevant for the purposes for which it is used, reliable for its intended use, accurate, complete and current, and is collected, accessed, transferred and used in a manner that does not infringe the rights or privacy of any individual and does not violate any applicable law, regulation or directive. If you are an individual who has a relationship with one of our customers and would no longer like to be contacted by that customer, please contact that customer directly.
+(b) Analytical/performance cookies. They allow us to recognize and count the number of visitors and repeat visitors, to see how visitors move around our Websites when they are using it, to see which search engine is being used to access our website, the region a visitor is browsing from, and the type of device a user is visiting from. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily. We may use third-party services to collect standard internet log information and details of visitor behaviour patterns. This information is only processed in a way that does not identify anyone.
 
-### Data Retention
+If you do not wish to receive cookies, most browsers allow you to change your cookie settings. Please note that if you choose to change cookie settings you may not be able to use the full functionality of our website. These settings will typically be found in the “options” or “preferences” menu of your browser. Further, most browsers permit individuals to decline cookies. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](https://www.aboutcookies.org/) or [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
-Lucidworks will retain personal data we process on behalf of our customers for as long as needed to provide services to our customers. Lucidworks will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Links to Third Party Websites. The Websites may contain links to other third party websites (including but not limited to publications containing articles written about Lucidworks or its products and services), all of which are separate legal entities whose information practices may be different from ours. This Privacy Policy does not cover any such third party websites. If you provide personal data to such third party websites all information you disclose will be subject to the Privacy Policy and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review the specific privacy policies posted on those websites prior to submitting personal data to them.
 
-## Part V. Modifications
+Information about Children. Neither our Websites nor any of our products or services are directed to children younger than age sixteen (16). We do not knowingly collect personal data from children under the age of sixteen (16) via the Websites and we will delete any such information later determined to be from a person younger than age sixteen (16).
 
-We may amend this privacy policy at any time by posting the amended version on our web sites. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+Sources of Website Data: We obtain Website Data about you (i) directly from you if you voluntarily choose to enter personal data on our Websites, and (ii) from the data analytics software, cookies, and web beacons that we may use on our Websites.
 
-## Part VI. Contact Information
+Purposes and Legal Basis for the Processing: We process Website Data for the purposes of building relationships with existing and potential clients and other interested parties, communicating with such parties, and analyzing and improving our Websites. This includes keeping such people informed of the latest updates of our products and services. Such processing is done in furtherance of and is necessary for the legitimate business interests pursued by Lucidworks.
 
-If you have any questions regarding this privacy policy, please contact support. We will use commercially reasonable efforts to resolve disputes within 90 days.
+Contact Data: As any business, we collect, receive, and process Contact Data regarding our clients, potential clients, and other third parties (e.g., vendors and other business and professional contacts) with whom we may interact from time to time.
 
-Lucidworks, Inc.
+Categories of Contact Data: The Contact Data that we collect and process typically consists of information such as name, title, position, employer, email address, other business contact data (e.g., business card data), and similar relationship type data. Such Contact Data may also include details of your visits to our offices.
 
-340 Brannan Street, Suite 400  
-San Francisco, CA 94107
+Sources of Contact Data: We obtain Contact Data about you (i) directly from you, such as when you seek services from us, attend a seminar or another event or sign up to receive newsletters, emails, or other information from us, or when you or your organization offer to provide or provide services to us. (ii) from others (iii) from third parties, such as government agencies, and (iv) from publicly available sources, such as websites (e.g., LinkedIn, your business’ website, etc.).
 
-info@Lucidworks.com 
+Purposes and Legal Basis for the Processing: We process Contact Data for the purposes of providing services to clients, building and managing relationships with existing and potential clients and other interested parties, communicating with such parties, and generally operating our business. Such processing is done in furtherance of and is necessary for the legitimate business interests pursued by Lucidworks. It may also be done to comply with our legal obligations (such as record-keeping obligations), compliance screening or recording obligations, and financial and credit check and fraud crime prevention and detection purposes.
 
-Last updated on February 1, 2013
+### Client Sourced Data
+
+In the course of representing our clients, and providing services to them, we may receive certain Client Sourced Data from such clients or from third parties providing such data on their behalf, as necessary or relevant to the services we are providing.
+
+Categories of Client Sourced Data: The scope and extent of the Client Sourced Data that we collect and process is typically determined by the client and/or the nature and scope of the relationship and services involved.
+
+Sources of Client Sourced Data: We obtain Client Sourced Data directly from our clients, and from third parties that provide such information on behalf of our clients.
+
+Purposes and Legal Basis for the Processing: We process Client Sourced Data for the purposes of providing services to our clients. Such processing is done in furtherance of and is necessary for the legitimate business interests pursued by Lucidworks, and in some cases because it is necessary for the performance of a contract to which the data subject is party.
+
+As a matter of policy, our employees or contractors may use or disseminate Client Sourced Data only for the purpose of providing services to our clients. Lucidworks believes in transparency with the client as to the collection, use, and dissemination of Client Sourced Data, and the reasons therefor.
+
+### Sharing of Personal Data
+
+We may share selected personal data about you with the following parties or in the following circumstances.
+
+Intra-Company. Lucidworks may share personal data about you amongst its international subsidiaries such as Twigkit as necessary for the conduct of our business.
+
+Third Party Service Providers. We may share personal data about you with third parties who perform services for us or on our or our clients’ behalf, for the limited purpose of carrying out such services. This includes, without limitation, third parties that assist in managing our organization, hosting or administering our Websites or other systems, sending communications on our or our clients’ behalf, maintaining or analyzing our or our clients’ data, providing marketing assistance, or in providing other services to us or our clients. It also includes third parties providing services for money laundering checks, credit risk reduction and other fraud and crime prevention purposes and companies providing similar services, including financial institutions, credit reference agencies and regulatory bodies with whom such personal data is shared.
+
+Clients and Other Parties. We may share selected personal data about you with clients, experts, consultants and other persons or entities to the extent reasonably necessary or appropriate in the context of providing the services to our clients.
+
+Corporate Change. We reserve the right to disclose and transfer personal data about you in connection with a merger, consolidation, restructuring, financing, sale of substantially all assets, or other organizational change.
+
+Legal Requirements and Law Enforcement. We may disclose personal data about you when we believe in good faith that the law requires it; at the request of governmental authorities conducting an audit or investigation; pursuant to a court order, subpoena, or discovery request in litigation; to verify or enforce compliance with our agreements or policies and applicable laws, rules, and regulations; or whenever we believe disclosure is necessary to limit our legal liability or to protect or enforce the rights, interests, or safety of our Websites, its users, or other third parties. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful.
+
+Consent. We may also share personal data about you in accordance with any express consent you or your authorized agent give us which is specific to the purposes of the processing which you will be informed about at the time we request such consent. You do not have to give such consent. If you do give consent, you may withdraw it at any time by contacting us (see “ **How to Contact Us”**  section below), however please be aware that such withdrawal will not affect the lawfulness of personal data collected and processed prior to the date of your withdrawal of consent.
+
+### Cross-Border Transfers of Personal Data
+
+Some of our offices are located in different countries. Whenever we transfer personal data from one country to another, we will do so in compliance with applicable privacy and data protection law. For purposes of facilitating transfers of personal data from the EU to the US Lucidworks have entered into EU Standard Contractual Clauses. You may request a copy of the EU Standard Contractual Clauses from the us at any time.
+
+### Data Retention Period
+
+All personal data retained by us will be deleted when such personal data are no longer necessary for the purposes for which it was processed, unless applicable law requires a longer retention period.
+
+### Your Rights as a Data Subject
+
+To the extent provided by applicable law, you have the following rights:
+
+  * To request access to the personal data that we hold about you and to request that we rectify or erase it;
+  * To request a copy of the personal data that we hold about you;
+  * To request a transfer of your personal data from us to another data controller; and
+  * To request restriction of processing of your personal data or object to its processing.
+
+
+
+We do not impose any charge for these requests. For any such request, you can contact us by e-mail, postal mail, or phone as specified in the  **“How to Contact Us”**  section below.
+
+We will endeavour to respond to all reasonable requests in a timely manner, but in no event longer than the amount of time required by applicable law.
+
+To the extent we not the controller of your data, we will notify the controller of your request if required by applicable law.
+
+### Updating Personal Data About You
+
+If any of the personal data that you have provided to us changes, for example if you change your email address or if you wish to cancel any request you have made of us, or if you become aware we have any inaccurate personal data about you, please contact us as specified in the “How to Contact Us” section below. We will not be responsible for any losses arising from any inaccurate, inauthentic, deficient or incomplete personal data that you provide to us.
+
+### Withdrawing Consent
+
+Where the lawful basis of our processing under the EU General Data Protection Regulation (GDPR) is that you have consented to it for a particular identified purpose, you have the right to withdraw that consent at any time. To do so, please contact us as specified in the “ **How to Contact Us** ” section below. If you do withdraw consent, this will not affect the lawfulness of any processing that was based on your consent before its withdrawal.
+
+### Filing a Complaint
+
+In addition to the foregoing, you have the right to lodge a complaint in respect of your data protection rights with the applicable supervisory authority for data protection in your jurisdiction. If you are in the United Kingdom, that supervisory authority is the UK’s Information Commissioner’s Office: <https://ico.org.uk/>.
+
+### Security of Personal Data
+
+We have implemented appropriate technical and organizational measures (i) to ensure a level of security appropriate to the risks that are presented by Lucidworks’ processing of personal data, in particular from accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to personal data transmitted, stored or otherwise processed, and (ii) to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services for the personal data.
+
+### Personal Data About Others That You Provide to Us
+
+If you provide personal data to us about someone else (such as one of your directors or employees, or someone with whom you have business dealings) you must ensure that you are entitled to disclose that personal data to us and that, without our taking any further steps, we may collect, use and disclose that personal data as described in this Privacy Policy. In particular, you must ensure the individual concerned is aware of the various matters detailed in this Privacy Policy, as those matters relate to that individual, including our identity, how to contact us, our purposes for collection, our personal data disclosure practices (including disclosure to overseas recipients), the individual’s right to obtain access to their personal data and make complaints about the handling of their personal data, and the consequences if the personal data is not provided (such as our inability to provide services).
+
+### Changes to this Privacy Policy
+
+We reserve the right to modify or amend this Privacy Policy at any time. The current version of this Privacy Policy will be published on our website.
+
+### How to Contact Us
+
+For any questions about this Privacy Policy, to exercise any of your rights listed above, or for any questions or complaints regarding the manner in which we handle or protect personal data, we can be contacted as follows:
+
+Via email at [privacy@lucidworks.com](mailto:privacy@lucidworks.com).
+
+* * *
+
+Manage your subscriptions and preferences at our [Contact Preference Center.](https://programs.lucidworks.com/SubscriptionManagement.html)
