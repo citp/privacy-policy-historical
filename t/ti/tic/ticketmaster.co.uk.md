@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ticketmaster.co.uk privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629222203id_/https%3A//www.ticketmaster.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.co.uk privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218102914id_/https%3A//www.ticketmaster.co.uk/privacy) for the most accurate reproduction.*
 
 # Ticketmaster - Privacy Policy
 
-## Privacy. Your data. Your trust.
-
-### Our Commitment To You
+## Our Commitment To You
 
 You are at the heart of everything we do. Our goal is to maintain your trust and confidence by handling your personal information with respect and putting you in control.
 
@@ -14,11 +12,11 @@ We’ve done our best to make our explanations short and easy to understand. But
 
 If we ever make any major changes to our privacy practices, we’ll let you know. If necessary, we’ll also ask for your permission.
 
-### Our Privacy Promise
+## Our Privacy Promise
 
 Watch our video to find out more about our commitment to maintaining your trust.
 
-### Privacy Notice
+## Privacy Notice
 
 Our Privacy Notice has been designed with you in mind. How the notice applies to you will depend on the way in which you interact with us. For example, if you:
 
@@ -27,7 +25,7 @@ Our Privacy Notice has been designed with you in mind. How the notice applies to
 
 
 
-Your choices and rights under each scenario are explained in more detail below. Click on each icon for more information, or scroll down to read the full policy.
+Your choices and rights under each scenario are explained in more detail below. Click on each item for more information, or scroll down to read the full policy.
 
 #### What Information We Have & Where We Get It
 
@@ -65,7 +63,7 @@ If you have any questions or feedback about this notice, or how we handle your i
 
 Learn More
 
-### What Information We Have & Where We Get It
+## What Information We Have & Where We Get It
 
   * When you create an account, buy a ticket or have a ticket transferred to you by a friend, we will collect your information which depending on service we are providing, may include your contact and billing information.
   * When you use our websites or apps, we collect information such as the browser and device you're using, your IP address, your location, the site you came from, what you did and didn't use our site/app for, or the site you visit when you leave us. For more information on how we collect this information, see our [Cookies Policy](https://www.ticketmaster.co.uk/h/cookies.html).
@@ -76,7 +74,7 @@ Learn More
 
 
 
-### How We Use Your Information & Why
+## How We Use Your Information & Why
 
   1. For the performance of our contract with you 
 
@@ -93,19 +91,19 @@ We use your information when you enter into a contract with us (for example to b
     * To ensure the security of our and our Event Partners’ operations.
     * To create a profile about you to help us personalise our services to you. For example, if you purchase tickets to pop events and you have consented to our marketing, we will inform you about other pop events we think you might be interested in. For further information, see section below:
 
-#### About your personalisation settings
+### About your personalisation settings
 
 We can give you more of what you want when we know you better. To make sure our messages and website are relevant to you, we create a user profile with the information we know about you and how you use our services.
 
-#### How to turn off personalisation
+### How to turn off personalisation
 
 Simply turn off “Allow personalisation” in your account settings. We’ll stop any personalisation and only use your data for essential services, such as screening for fraud or unfair attempts to secure tickets - and for any Verified Fan presales. If you do not have an account, you can contact us to turn this off.
 
-#### What happens if you turn off personalisation?
+### What happens if you turn off personalisation?
 
 We will no longer use your data to determine what you might be interested in. This means you won’t get any personal recommendations and any newsletters you’ve subscribed to will be generic (although if you’ve asked to receive alerts about specific artists or venues, you’ll still receive these). We will still perform profiling activities where we need to do so to deliver our services to you, for example for fraud screening purposes and where you specifically request we do so such as for a Verified Fan Presale.
 
-#### Is turning off personalisation the same as turning off cookies?
+### Is turning off personalisation the same as turning off cookies?
 
 No, they’re separate. To control your cookies settings, you can use our cookies consent tool. See our [Cookies Policy](https://www.ticketmaster.co.uk/h/cookies.html) for more information.
 
@@ -126,9 +124,9 @@ No, they’re separate. To control your cookies settings, you can use our cookie
 
 
 
-### Your Choices & Rights
+## Your Choices & Rights
 
-#### Your choices
+### Your choices
 
 Where you have given us your consent, you can withdraw it by doing the following.
 
@@ -139,7 +137,7 @@ Where you have given us your consent, you can withdraw it by doing the following
 
 
 
-#### Your rights
+### Your rights
 
 You also have rights over how your personal information is used including: 
 
@@ -153,7 +151,7 @@ You also have rights over how your personal information is used including:
 
 To exercise any of the above rights please contact us. Please note that whilst we will carefully assess every request we receive we may not always have to comply. When this happens, we will explain why.
 
-### Looking After Your Information
+## Looking After Your Information
 
 We have security measures in place to protect your information. The security measures we use will depend on the type of information collected.
 
@@ -171,8 +169,6 @@ When transferring information in this way, there are strict rules in place to en
 
 
 For more information, or to get a copy of the relevant documentation please contact us.
-
-### Contact Us
 
 If you have any questions about the above, or our approach to privacy, our dedicated Privacy Office, including our Data Protection Officer, is here to help: [privacy@ticketmaster.co.uk](mailto:privacy@ticketmaster.co.uk)
 
