@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnj.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608022527id_/https%3A//cm.dnj.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnj.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218125044id_/https%3A//cm.dnj.com/privacy) for the most accurate reproduction.*
 
-# static.dnj.com
+# The Daily News Journal
 
 Last Updated: May 14, 2018
 
