@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themefuse.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624182610id_/https%3A//themefuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themefuse.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218141650id_/https%3A//themefuse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ThemeFuse
 
@@ -8,14 +8,7 @@ ThemeFuse LTD, (“us”, “we”, or “our”) operates the https://themefuse
 
 At ThemeFuse, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. We may change our privacy policy at any time without giving you notice, so please check it each time you visit our website.
 
-This Privacy Policy (“Policy”) is incorporated into ThemeFuse’s Terms of Service located at [](https://themefuse.com/terms-conditions/)
-
-> [](https://themefuse.com/terms-conditions/)
-> 
-> [](https://themefuse.com/terms-conditions/)[Terms & Conditions](https://themefuse.com/terms-conditions/)
-
-  
- (the “Terms of Service”) and applies to the information obtained by us through your use of our Service as described in this Policy. By using the Service, you agree to the collection and use of information in accordance with this Policy. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
+This Privacy Policy (“Policy”) is incorporated into ThemeFuse’s Terms of Service located at <https://themefuse.com/terms-conditions/> (the “Terms of Service”) and applies to the information obtained by us through your use of our Service as described in this Policy. By using the Service, you agree to the collection and use of information in accordance with this Policy. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
 
 In this Policy, personal information means information relating to an identified or identifiable natural person. An identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, and online identifier or to one or more factors specific to his/her physical, physiological, genetic, mental, economic, cultural or social identity. The use of information collected through our website and service shall be limited to the purpose of providing the services for which the Customers has engaged.
 
@@ -37,29 +30,15 @@ The Site includes third-party social media features, such as the Facebook Like b
 
 You can generally activate or later deactivate the use of cookies through a functionality built into your web browser. To learn more about how to control cookie settings through your browser:
 
-  * Click [  
-here  
-](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) to learn more about managing cookie settings in Mozilla Firefox;
-  * Click [  
-here  
-](https://support.google.com/chrome/answer/95647) to learn more about managing cookie settings in Google Chrome;
-  * Click [  
-here  
-](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies) to learn more about managing cookie settings in Microsoft Internet Explorer;
-  * Click [  
-here  
-](https://support.apple.com/kb/ph21411) to learn more about managing cookie settings in Safari;
-  * Click [  
-here  
-](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) to learn more about managing cookie settings in Microsoft Edge.
+  * Click [here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) to learn more about managing cookie settings in Mozilla Firefox;
+  * Click [here](https://support.google.com/chrome/answer/95647) to learn more about managing cookie settings in Google Chrome;
+  * Click [here](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies) to learn more about managing cookie settings in Microsoft Internet Explorer;
+  * Click [here](https://support.apple.com/kb/ph21411) to learn more about managing cookie settings in Safari;
+  * Click [here](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) to learn more about managing cookie settings in Microsoft Edge.
 
 
 
-If you want to learn more about cookies or how to control, disable, or delete them, please visit [  
-www.allaboutcookies.org  
-](http://www.allaboutcookies.org/) for detailed guidance. In addition, certain third-party advertising networks, including Google, permit users to opt out of or customize preferences associated with your Internet browsing. To learn more about this feature from Google, click [  
-here  
-](https://adssettings.google.com/).
+If you want to learn more about cookies or how to control, disable, or delete them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) for detailed guidance. In addition, certain third-party advertising networks, including Google, permit users to opt out of or customize preferences associated with your Internet browsing. To learn more about this feature from Google, click [here](https://adssettings.google.com/).
 
 ThemeFuse LTD. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
