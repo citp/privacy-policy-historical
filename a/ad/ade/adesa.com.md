@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adesa.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613154856id_/https%3A//www.adesa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adesa.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218174025id_/https%3A//www.adesa.com/privacy-policy) for the most accurate reproduction.*
 
 # ADESA - Privacy Policy
 
