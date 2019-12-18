@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatvnews.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630213213id_/https%3A//www.indiatvnews.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatvnews.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218214544id_/https%3A//www.indiatvnews.com/cms/privacy-policy) for the most accurate reproduction.*
 
 # IndiaTV news privacy policy
 
