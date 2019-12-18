@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rcpsych.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214515id_/https%3A//www.cambridge.org/about-us/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcpsych.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219000903id_/https%3A//www.cambridge.org/about-us/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Cambridge University Press
 
 Cambridge University Press ( **we, us, our** ) are committed to protecting and respecting your privacy.
 
-This privacy notice (together with our [Website Terms of Use](https://www.cambridge.org/about-us/legal-notices/terms-use/) and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.cambridge.org](https://www.cambridge.org/) (our  **Site** ) you are accepting and consenting to the practices described in this notice.
+This privacy notice (together with our [Website Terms of Use](https://www.cambridge.org/us/about-us/legal-notices/terms-use) and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.cambridge.org](https://www.cambridge.org/) (our  **Site** ) you are accepting and consenting to the practices described in this notice.
 
 #### 1\. Important information and who we are
 
@@ -257,7 +257,7 @@ Where you opt out of receiving these marketing messages, this will not apply to 
 
 ##### Cookies
 
-Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of our Site may become inaccessible or not function properly. 
+Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of our Site may become inaccessible or not function properly.
 
 A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
 
@@ -277,9 +277,9 @@ We use the following cookies:
 
 Where a visitor has posted one of our links onto a third party platform in order to share the content with other users, we may also use cookies (likely to be analytical/performance cookies) to help us track the type of engagement and interaction the content is receiving.
 
-##### Change of purpose 
+##### Change of purpose
 
-We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us. 
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](x-webdoc://3325C301-111F-41F3-B89D-D545033BEFF7#a599551).
 
 If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
@@ -312,23 +312,23 @@ All information you provide to us is stored on our secure servers or those of ou
 
 #### 7\. Data security
 
-We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal information to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal information on our instructions and they are subject to a duty of confidentiality. 
+We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal information to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal information on our instructions and they are subject to a duty of confidentiality.
 
 We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
 #### 8\. Data retention
 
-##### How long will you use my personal information for?
+How long will you use my personal information for?
 
-We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. 
+We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
 We will normally store your information for at least one year following the last recorded transaction or interaction between us.
 
 #### 9\. Your legal rights
 
-You have the right to ask us to correct any incorrect personal information we store about you, to delete personal information, or otherwise restrict our processing, or to receive an electronic copy of the personal information you provided to us. 
+You have the right to ask us to correct any incorrect personal information we store about you, to delete personal information, or otherwise restrict our processing, or to receive an electronic copy of the personal information you provided to us.
 
-To ask for a copy of the information we hold, or to ask us to correct or otherwise alter our current processing, please email us at [privacy@cambridge.org](mailto:privacy@cambridge.org). 
+To ask for a copy of the information we hold, or to ask us to correct or otherwise alter our current processing, please email us at [privacy@cambridge.org](mailto:privacy@cambridge.org).
 
 ##### No fee usually required
 
@@ -340,7 +340,7 @@ We may need to request specific information from you to help us confirm your ide
 
 ##### Time limit to respond
 
-We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
 #### 10\. Data Protection Officer
 
@@ -348,6 +348,6 @@ The University of Cambridge has a statutory Data Protection Officer – Trilater
 
 #### 11\. Complaints
 
-If you are not happy with the way your information is being handled, or with the response received from us, you have the right to lodge a complaint with the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)) at Wycliffe House, Water Lane, Wilmslow, SK9 5AF.
+If you are not happy with the way your information is being handled, or with the response received from us, you have the right to lodge a complaint with the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)) at Wycliffe House, Water Lane, Wilmslow, SK9 5AF.
 
 July 2018
