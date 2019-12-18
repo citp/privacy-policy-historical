@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123123637id_/https%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218110944id_/https%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,19 @@ Cookie technology can save you time by eliminating the need to re-enter frequent
 
 We use both session ID and persistent cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. If you choose to tick the box indicating you would like to be remembered, a persistent cookie is set so you dont have to reenter your login information more than once. If you later decide that you would no longer like to be remembered, the cookie will be removed when you log off. You can also remove persistent cookies by following directions provided in your Internet browser help file.
 
+Please review your browser’s documentation, including the links below:
+
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+  * [Internet Explorer](https://support.microsoft.com/en-us/kb/260971)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+  * [Safari (Desktop)](https://support.apple.com/kb/PH5042?locale=en_US)
+  * [Safari (Mobile)](https://support.apple.com/en-us/HT201265)
+  * [Android Browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
+  * [Opera](http://www.opera.com/help)
+  * [Opera Mobile](http://www.opera.com/help/mobile/android#privacy)
+
+
+
 RateSupermarket.ca and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ## Log files
@@ -36,7 +49,7 @@ We use this information, to analyze trends, to administer the site, to track use
 
 ## Advertising
 
-We partner with a third party to display advertising on our website or to manage our advertising on other sites, including ads pertaining to our clients' products. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here.](http://preferences-mgr.truste.com/) Kanetix Ltd adheres to the Digital Advertising Alliance of Canada’s (the DAAC) self-regulatory principles for online behavioral advertising. You may also visit the[ Adchoices consumer opt out ](http://youradchoices.ca/Choices)page to learn more about interest based advertising and manage your ad preferences. Please note you will continue to receive generic ads.
+We partner with a third party to display advertising on our website or to manage our advertising on other sites, including ads pertaining to our clients' products. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here.](https://preferences-mgr.truste.com/) Kanetix Ltd adheres to the Digital Advertising Alliance of Canada’s (the DAAC) self-regulatory principles for online behavioral advertising. You may also visit the[ Adchoices consumer opt out ](https://youradchoices.ca/Choices)page to learn more about interest based advertising and manage your ad preferences. Please note you will continue to receive generic ads.
 
 ## Collecting information
 
