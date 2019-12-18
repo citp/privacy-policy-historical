@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616173227id_/https%3A//www.famousfootwear.com/c/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218121214id_/https%3A//www.famousfootwear.com/c/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -84,6 +84,7 @@ You can make the following choices regarding your personal information:
   7. **Access To Your Personal Information.** If required by law, upon request, we will grant reasonable access to the personal information that we have about you. 
   8. **Online Tracking. .** We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions. 
   9. **California Residents.** California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing. If you are a California resident and would like a copy of such notice, please submit a written request to us using the information in the “Contact Information” section below.
+  10. **Nevada Residents.  **Nevada law allows Nevada residents to opt-out of the sale of certain types of personal information. We do not currently sell personal information as defined in the Nevada law. However, if you are a Nevada resident, you still may submit a verified request to opt-out of sales and we will record your instructions and incorporate them in the future if our policy changes. Opt-out requests may be sent [here.](http://famousfootwear.custhelp.com/app/ask)
 
 
 
@@ -133,4 +134,4 @@ If you have any questions, comments, or complaints concerning our privacy practi
 
 If you are not satisfied with our response, and are in the European Union, you may have a right to file a complaint with your local supervisory authority.
 
-**Last Revised:** 5/23/19 
+**Last Revised:**  10/01/19 
