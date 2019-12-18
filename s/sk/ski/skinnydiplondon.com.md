@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnydiplondon.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907142357id_/https%3A//www.skinnydiplondon.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnydiplondon.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218175952id_/https%3A//www.skinnydiplondon.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Skinnydip London
 
@@ -131,13 +131,29 @@ Salonized - <https://www.salonized.com/en/privacy-statement>
 
 Yotpo - <https://www.yotpo.com/privacy-policy/>
 
+Loyalty Lion - <https://loyaltylion.com/privacy>
+
+Doddle - <https://doodle.com/privacy-policy>
+
+Torque - <https://www.torque.eu/privacy-and-cookies-policy/>
+
+Hermes – <https://www.myhermes.co.uk/privacy-policy.html>
+
+OCS – <https://www.ocsworldwide.co.uk/GDPR/OCS_Privacy_Notice.pdf>
+
+Okendo - <https://www.okendo.io/privacy-policy/>
+
+Nosto - <https://www.nosto.com/terms/dpa/>
+
+HubBox - <https://www.hub-box.com/privacy-policy/>
+
 **Social Media**
 
 Skinnydip was built on social media.  We love to see what our Skinnydip customers are wearing and keep in contact with you guys! We recognise that social media offers a platform for our company to perform marketing, stay connected with customers and build our profile online.
 
 If you interact with us on social media, you are consenting and allowing us to interact with you.  An interaction can be defined as liking or following our SM accounts, commenting or tagging us in photos or post and sharing our content via liking or retweeting.  From this interaction, we may collect data that will help enhance your experience with us in the future.
 
-If you tag us in a photograph that we rate, you may be lucky enough for us to share it across our SM accounts.  By interacting with us, you are consenting that we can use images or comments royalty free without limitation.  If you are unhappy with us sharing your comments or images, please do let us know and we will stop.
+If you tag us in a photograph that we rate, you may be lucky enough for us to share it across our SM accounts - organic or paid.  By interacting with us, you are consenting that we can use images or comments royalty free without limitation.  If you are unhappy with us sharing your comments or images, please do let us know and we will stop.
 
 **Security**  
 We are committed to ensuring that your information is secure.  We take reasonable precautions and follow industry best practices to make sure it is not appropriately lost, misused, accessed, disclosed, altered or destroyed.
