@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirraw.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621113359id_/https%3A//www.mirraw.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirraw.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218090841id_/https%3A//www.mirraw.com/pages/privacy) for the most accurate reproduction.*
 
 # Mirraw's privacy policy
 
@@ -10,7 +10,7 @@ We may change this Privacy Policy at any time by posting the revised Privacy Pol
 
 ## Data Controller
 
-The data controller in respect of our portal is Mirraw Online Services Private Limited, registered in India. If you have any questions about this Privacy Policy you can contact the data controller by writing to Mirraw Online Services Private Limited, Kumtha Street, Ballard Estate, Mumbai or sending an email to _team@mirraw.com_
+The data controller in respect of our portal is Mirraw Online Services Private Limited, registered in India. If you have any questions about this Privacy Policy you can contact the data controller by writing to Mirraw Online Services Private Limited, 101 to 110 First floor, Building Number 75, Indian Corporation complex, Mankoli Naka, Dapode, (Near Gajanan Petrol Pump), Bhiwandi, Maharashtra, India or sending an email to _team@mirraw.com_
 
 ## Web Server Log Information
 
@@ -181,7 +181,7 @@ Mirraw uses remarketing with google to advertise online. Third party vendors inc
 
 ## Your rights in relation to your information
 
-Subject to certain limitations on certain rights, you have the following rights in relation to your information, which you can exercise by writing to Mirraw Online Services Private Limited, Kumtha Street, Ballard Estate, Mumbai or sending an email to _team@mirraw.com_
+Subject to certain limitations on certain rights, you have the following rights in relation to your information, which you can exercise by writing to Mirraw Online Services Private Limited, 101 to 110 First floor, Building Number 75, Indian Corporation complex, Mankoli Naka, Dapode, (Near Gajanan Petrol Pump), Bhiwandi, Maharashtra, India or sending an email to _team@mirraw.com_
 
   * to request access to your information and information related to our use and processing of your information;
   * to request the correction or deletion of your information;
