@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331203040id_/https%3A//www.staradvertiser.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218012234id_/https%3A//www.staradvertiser.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oahu Publications
 
