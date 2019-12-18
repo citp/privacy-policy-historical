@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the op.gg privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630165213id_/https%3A//www.op.gg/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the op.gg privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218221455id_/https%3A//www.op.gg/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: League of Legends (LOL) Search Summoner Stats
 
