@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320105626id_/https%3A//www.sandals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218065448id_/https%3A//www.sandals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sandals Resorts
 
