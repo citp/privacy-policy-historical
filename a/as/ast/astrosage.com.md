@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrosage.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508162443id_/http%3A//www.astrosage.com/privacy-policy.asp%3Fref%3Dfooter_des) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrosage.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218131000id_/http%3A//astrosage.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy of AstroSage: Read this information very carefully!
 
 We at AstroSage ("we" or "AstroSage") we take the privacy of the information you provide us very seriously. We created this privacy policy to demonstrate our commitment to privacy. Please read this carefully to understand how we use any information you provide us at AstroSage.com
 
