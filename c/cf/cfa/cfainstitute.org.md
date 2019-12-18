@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525094257id_/https%3A//www.cfainstitute.org/about/governance/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218192535id_/https%3A//www.cfainstitute.org/en/about/governance/policies/privacy-policy) for the most accurate reproduction.*
 
 # CFA Institute Privacy Policy
 
@@ -326,7 +326,3 @@ If we make any changes, to this Policy that materially and adversely impacts pre
 Change privacy settings
 
 ## Contact Us
-
-For further information about CFA Institute's privacy practices, please [contact us](https://web.archive.org/utility/contact-us).
-
-Back to top
