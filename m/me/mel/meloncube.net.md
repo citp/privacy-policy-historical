@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meloncube.net privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514135553id_/https%3A//www.meloncube.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meloncube.net privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218040110id_/https%3A//www.meloncube.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MelonCube Hosting
 
