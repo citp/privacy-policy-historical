@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618214325id_/https%3A//www.redcross.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218214708id_/https%3A//www.redcross.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | American Red Cross
 
@@ -8,7 +8,7 @@ The American Red Cross respects the privacy of every visitor to our websites and
 
 This Policy may be changed or updated from time to time. By visiting the Red Cross at one of our websites or using one of our mobile apps, you accept the practices described in this Policy.
 
-[See privacy information for financial and in-kind donors](https://www.redcross.org/privacy-policy/donor-privacy-policy.html).
+[See privacy information for financial and in-kind donors](https://web.archive.org/privacy-policy/donor-privacy-policy.html).
 
 ##### **The Data We Collect**
 
@@ -40,7 +40,7 @@ On occasion, the Red Cross may share your information with our vendors and other
 
 The Red Cross is committed to accuracy and precision in processing your information. We have procedures to check for errors, and our systems are periodically audited to make sure we process your information securely and accurately.
 
-If you need to contact us to review your information or make corrections, please use [this form](https://www.redcross.org/contact-us/general-inquiry.html).
+If you need to contact us to review your information or make corrections, please use [this form](https://web.archive.org/contact-us/general-inquiry.html).
 
 ##### **Note to Parents About Our Privacy Policy**
 
@@ -50,13 +50,13 @@ The Red Cross has a variety of programs for children. We hope that children and 
 
 To let us know how you would like us to contact you, or to opt-out of receiving phone calls, e-mails, texts or mail from the Red Cross, go to the following links:
 
-  * [Financial Donors](https://www.redcross.org/contact-us/financial-donation-inquiry.html)
+  * [Financial Donors](https://web.archive.org/contact-us/financial-donation-inquiry.html)
 
 
-  * [Blood Donors](https://www.redcross.org/contact-us/general-inquiry.html)
+  * [Blood Donors](https://web.archive.org/contact-us/general-inquiry.html)
 
 
-  * [Others](https://www.redcross.org/contact-us/general-inquiry.html)
+  * [Others](https://web.archive.org/contact-us/general-inquiry.html)
 
 
 
