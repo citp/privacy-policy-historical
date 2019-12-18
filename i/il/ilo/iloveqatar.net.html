@@ -1,20 +1,19 @@
-<!--The following is the downloaded HTML source of the iloveqatar.net privacy policy that was archived on 2019-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190417154744id_/https%3A//www.iloveqatar.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iloveqatar.net privacy policy that was archived on 2019-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191218030247id_/https%3A//www.iloveqatar.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" itemscope="" itemtype="https://schema.org/Article"><head>
                     <meta charset="utf-8">
             <meta http-equiv="x-ua-compatible" content="ie=edge">
             
-            <meta content="ILoveQatar.net (ILQ)" name="description">
-            <meta content="" name="keywords">
-            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+                        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
             <meta content="telephone=no" name="format-detection">
             <meta name="HandheldFriendly" content="true">
             <script src="/cdn-cgi/apps/head/ZZQYyMVS38VfruWJ4LJ7xKDK_d4.js"></script><script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
             <!--[if (gt IE 9)|!(IE)]><!-->
-            <link href="/static/css/main.min.css?ver=1.9.4" rel="stylesheet" type="text/css">
+            <link href="/static/css/main.min.css?ver=1.9.5" rel="stylesheet" type="text/css">
             <!--<![endif]-->
             <link href="/static/css/addon.css" rel="stylesheet" type="text/css">
+            <link href="/static/css/separate-css/custom-style-20191202.css?v=20191202" rel="stylesheet" type="text/css">
             
             
             
@@ -76,14 +75,11 @@
 
                 googletag.cmd.push(function() {
                     var mappingUnderMenu = googletag.sizeMapping().
-                    // Allows you to display both main formats of mobile banner
-                    addSize([320, 400], [[320, 50], [320, 50]]). 
-                    // Tablet, landscape orientation 
-                    addSize([750, 900], [970, 90]). 
-                    // Comp 1440 size
-                    addSize([1440, 800], [468, 60]).
-                    // Normal computer
-                    addSize([1600, 760], [970, 90]).build();
+                    addSize([980, 0], [970, 90]).
+                    addSize([750, 0], [728, 90]).
+                    addSize([500, 0], [468,60]).
+                    addSize([0, 0], [320, 50]).
+                    build();
 
                     var mappingListArticles = googletag.sizeMapping().
                     // Allows you to display both main formats of mobile banner
@@ -106,14 +102,19 @@
                     addSize([1600, 760], [970, 90]).build();
 
                     var mappingTabletTop = googletag.sizeMapping().
-                    // Allows you to display both main formats of mobile banner
-                    addSize([320, 400], [[320, 50], [320, 50]]). 
-                    // Tablet, portrait orientation
-                    addSize([800, 200], [468, 60]). 
-                    // Tablet, landscape orientation 
-                    addSize([900, 200], [970, 90]). 
-                    // Comp 1440 size
-                    addSize([1440, 760], [970, 90]).build();
+                    addSize([980, 0], [970, 90]).
+                    addSize([750, 0], [728, 90]).
+                    addSize([500, 0], [468,60]).
+                    addSize([0, 0], [320, 50]).
+                    build();
+                    
+                    var mappingTabletBottom = googletag.sizeMapping().
+                    addSize([980, 0], [970, 90]).
+                    addSize([750, 0], [728, 90]).
+                    addSize([500, 0], [468,60]).
+                    addSize([0, 0], [320, 50]).
+                    build();
+
 
                     // Determine GPT ad slot
                     gptAdSlots[0] = googletag.defineSlot('/1026731/CMS_970x90_top', [320, 50], 'div-gpt-ad-1510902662075-0').
@@ -133,7 +134,7 @@
                        addService(googletag.pubads());
 
                     gptAdSlots[1] = googletag.defineSlot('/1026731/CMS_tablet_970x90_bot', [320, 50], 'div-gpt-ad-1512315544817-0').
-                       defineSizeMapping(mappingTabletTop).
+                       defineSizeMapping(mappingTabletBottom).
                        addService(googletag.pubads());
 
                     // Get Ads
@@ -167,8 +168,8 @@
             <div class="header__wrapper">
                 <div class="header__row _top">
                     <div class="top-menu__mobile"></div>
-                    <a href="/" title="" class="logo">
-                                            <img src="/public/images/logo/ILQ_Autism_April_1.png" alt="">
+                    <a href="/" title="ILQ" class="logo">
+                                            <img src="/public/images/logo/logo_ilq.svg" alt="ILQ">
                         
                         <!--<img src="/static/images/content/logo_ilq.svg" alt="">-->
                     </a>
@@ -206,7 +207,7 @@
         <div class="top-menu _home">
                             <div class="top-menu-user">
                     <div class="top-menu-user__logo">
-                                            <img src="/public/images/logo/logo_ilq_small.svg" alt="">
+                                            <img src="/public/images/logo/logo_ilq_small.svg" alt="ILQ">
                         <!--<img src="/static/images/content/logo_ilq_small.svg" alt="">-->
                     </div>
                     <div class="top-menu-user-links">
@@ -217,7 +218,7 @@
                         <div class="top-menu__list">
                 <div class="top-menu__logo">
                     <a href="/" title="ILQ">
-                                            <img src="/public/images/logo/logo_ilq_small.svg" alt="">
+                                            <img src="/public/images/logo/logo_ilq_small.svg" alt="ILQ">
                         <!--<img src="/static/images/content/logo_ilq_small.svg" alt="">-->
                     </a>
                 </div>
@@ -426,43 +427,77 @@
 
   <div class="recommend-content tabs-content jsTabsContent">
     
-    <div data-tabcontent="" class="recommend-content__item _active">
-              <div class="recommend-block">
-          <div class="recommend-block__image">
-                                  </div>
-          <div class="recommend-block__content">
-            <a href="https://www.iloveqatar.net/news/general/more-experts-to-attend-third-wise-event-in-nov" title="" class="recommend-block__title">More experts to attend third WISE event in Nov...</a>
-            <div class="recommend-block__date">6 September 2011</div>
-          </div>
-        </div>
-          </div>
-
+        
     
-    <div data-tabcontent="" class="recommend-content__item">
+    
+    <div data-tabcontent="" class="recommend-controls__item _active">
               <div class="recommend-block">
           <div class="recommend-block__image">
-                                      <img src="https://www.iloveqatar.net/public/images/events/_articleRecommendPreview/mawasem family brunch2-01.jpg" alt="mawasem family brunch2-01">
+                                      <img src="https://www.iloveqatar.net/public/images/local/_articleRecommendPreview/khk.jpg" alt="Khk">
                       </div>
           <div class="recommend-block__content">
-            <a href="https://www.iloveqatar.net/events/entertainment/christmas-eve-dinner-at-mawasem-in-hilton-hotel" title="" class="recommend-block__title">Christmas Eve Dinner At Mawasem in Hilton Hotel...</a>
-            <div class="recommend-block__date">8 December 2015</div>
+            <a href="https://www.iloveqatar.net/news/sports/sheikh-khalifa-bin-hamad-president-duhail-sports-club" title="" class="recommend-block__title">H.E. Sheikh Khalifa bin Hamad elected President of...</a>
+            <div class="recommend-block__date">11 December 2019</div>
           </div>
         </div>
-          </div>
-
-    
-    <div data-tabcontent="" class="recommend-content__item">
               <div class="recommend-block">
           <div class="recommend-block__image">
-                                      <img src="https://www.iloveqatar.net/public/videos/thumbs/_articleRecommendPreview/maxresdefault-32_170826_122441.jpg" alt="Maxresdefault-32">
+                                      <img src="https://www.iloveqatar.net/public/images/local/_articleRecommendPreview/katara_190825_091528.jpg" alt="Katara">
                       </div>
           <div class="recommend-block__content">
-            <a href="https://www.iloveqatar.net/videos/qtips/qtip-5-arabic-phrases-that-sound-funny-in-english" title="" class="recommend-block__title">#QTip: 5 Arabic Phrases that sound funny in Englis...</a>
-              <div class="recommend-block__date">1 September 2014</div>
+            <a href="https://www.iloveqatar.net/news/thingsToDo/katara-to-host-multiple-shows-for-qatar-national-day" title="" class="recommend-block__title">Katara to host multiple shows for Qatar National D...</a>
+            <div class="recommend-block__date">17 December 2019</div>
           </div>
         </div>
           </div>
-  </div>
+    
+
+        
+        
+    <div data-tabcontent="" class="recommend-controls__item">
+              <div class="recommend-block">
+          <div class="recommend-block__image">
+                                      <img src="https://www.iloveqatar.net/public/images/local/_articleRecommendPreview/Sel-Miel-New-Years-Eve-760-x-500-1.jpg" alt="Sel-Miel-New-Years-Eve-760-x-500-1">
+                      </div>
+          <div class="recommend-block__content">
+            <a href="https://www.iloveqatar.net/events/foodDining/sel-miel-new-years-eve-at-the-ritz-carlton-1" title="" class="recommend-block__title">Sel &amp; Miel New Years Eve at The Ritz Carlton...</a>
+            <div class="recommend-block__date">7 December 2019</div>
+          </div>
+        </div>
+              <div class="recommend-block">
+          <div class="recommend-block__image">
+                                      <img src="https://www.iloveqatar.net/public/images/local/_articleRecommendPreview/al-messila-doha-and-hotel.jpg" alt="Al-messila-doha-and-hotel">
+                      </div>
+          <div class="recommend-block__content">
+            <a href="https://www.iloveqatar.net/events/foodDining/qatar-national-day-2019-at-al-messila-resort-spa" title="" class="recommend-block__title">Qatar National Day 2019 at Al Messila Resort &amp; Spa...</a>
+            <div class="recommend-block__date">10 December 2019</div>
+          </div>
+        </div>
+          </div>
+    
+        
+        
+    <div data-tabcontent="" class="recommend-controls__item">
+              <div class="recommend-block">
+          <div class="recommend-block__image">
+                                      <img src="https://www.iloveqatar.net/public/videos/thumbs/_articleRecommendPreview/qtip-throwback-qatar-national-day-videos.jpeg" alt="Qtip-throwback-qatar-national-day-videos">
+                      </div>
+          <div class="recommend-block__content">
+            <a href="https://www.iloveqatar.net/videos/qtips/qtip-qatar-national-day-videos" title="" class="recommend-block__title">#QTip: Excited about Qatar National Day? Here are ...</a>
+              <div class="recommend-block__date">15 December 2019</div>
+          </div>
+        </div>
+              <div class="recommend-block">
+          <div class="recommend-block__image">
+                                      <img src="https://www.iloveqatar.net/public/videos/thumbs/_articleRecommendPreview/website-freiha.jpg" alt="Website-freiha">
+                      </div>
+          <div class="recommend-block__content">
+            <a href="https://www.iloveqatar.net/videos/general/freiha-beach-cleanup-with-sheikha-al-mayassa" title="" class="recommend-block__title">Freiha Beach Cleanup with Sheikha Al Mayassa...</a>
+              <div class="recommend-block__date">10 December 2019</div>
+          </div>
+        </div>
+          </div>
+      </div>
 </div>
                                     </div>
 
@@ -521,12 +556,12 @@
                         <a href="#" title="" class="footer-menu__item jsModalCall" data-modal="#tip">Send a tip</a>
                     </div>
                     <div class="footer-social">
-                        <div class="footer-social__item _fb">272K</div>
-                            <div class="footer-social__item _tw">30.1K</div>
-                            <div class="footer-social__item _yt">38.2</div>
-                        <div class="footer-social__item _in">14.5K</div>
+                        <div class="footer-social__item _fb">277K</div>
+                            <div class="footer-social__item _tw">31.4K</div>
+                            <div class="footer-social__item _yt">42K</div>
+                        <div class="footer-social__item _in">20.9K</div>
                     </div>
-                    <div class="footer__copyright">2006-2018 All Right Reserved</div>
+                    <div class="footer__copyright">2006-2019 All Right Reserved</div>
                 </div>
             </div>
         </footer>
@@ -536,7 +571,7 @@
         <div class="fullpage-menu__close"></div>
         <div class="fullpage-menu__left">
             <a href="/" title="" class="logo">
-                                                 <img src="/public/images/logo/ILQ_Autism_April_1.png" alt="">
+                                                 <img src="/public/images/logo/logo_ilq.svg" alt="">
                                     <!--<img src="/static/images/content/logo_ilq.svg" alt="">-->
             </a>
             <div class="fullpage-menu-user">
@@ -582,6 +617,7 @@
                                     <a href="/events/social-responsibility" title="SOCIAL RESPONSIBILITY" class="fullpage-menu-block__item">SOCIAL RESPONSIBILITY</a>
                                     <a href="/events/education" title="EDUCATION" class="fullpage-menu-block__item">EDUCATION</a>
                                     <a href="/events/other" title="OTHER" class="fullpage-menu-block__item">OTHER</a>
+                                    <a href="/events/volunteer" title="VOLUNTEER" class="fullpage-menu-block__item">VOLUNTEER</a>
                             </div>
             <div class="fullpage-menu-block">
                 <a href="/videos" title="" class="fullpage-menu-block__top _videos">VIDEOS</a>
@@ -619,11 +655,17 @@
             <div class="fullpage-menu-block">
                 <a href="#" title="" class="fullpage-menu-block__top _qatar-guide">QATAR GUIDE</a>
 
-                <a href="/guide/about" title="ABOUT QATAR" class="fullpage-menu-block__item">ABOUT QATAR</a>
-                <a href="/guide/coming-to-qatar" title="COMING TO QATAR" class="fullpage-menu-block__item">COMING TO QATAR</a>
-                <a href="/guide/things-to-do" title="THINGS TO DO IN QATAR" class="fullpage-menu-block__item">THINGS TO DO IN QATAR</a>
-                <a href="/guide/getting-around" title="GETTING AROUND QATAR" class="fullpage-menu-block__item">GETTING AROUND QATAR</a>
-            </div>
+                                    <a href="/guide/general" title="GENERAL" class="fullpage-menu-block__item">GENERAL</a>
+                                    <a href="/guide/culture" title="CULTURE" class="fullpage-menu-block__item">CULTURE</a>
+                                    <a href="/guide/laws" title="LAWS" class="fullpage-menu-block__item">LAWS</a>
+                                    <a href="/guide/living" title="LIVING IN QATAR" class="fullpage-menu-block__item">LIVING IN QATAR</a>
+                                    <a href="/guide/places" title="PLACES TO SEE" class="fullpage-menu-block__item">PLACES TO SEE</a>
+                                    <a href="/guide/transportation" title="TRANSPORTATION " class="fullpage-menu-block__item">TRANSPORTATION </a>
+                                    <a href="/guide/visiting" title="VISITING QATAR" class="fullpage-menu-block__item">VISITING QATAR</a>
+                                    <a href="/guide/work" title="WORK &amp; BUSINESS" class="fullpage-menu-block__item">WORK &amp; BUSINESS</a>
+                                    <a href="/guide/whos-who" title="WHO'S WHO" class="fullpage-menu-block__item">WHO'S WHO</a>
+                                    <a href="/guide/qatar2022" title="QATAR 2022" class="fullpage-menu-block__item">QATAR 2022</a>
+                            </div>
             <div class="fullpage-menu-block">
                 <a href="http://store.iloveqatar.net" title="MERCH STORE" class="fullpage-menu-block__top _merch-store">MERCH STORE</a>
             </div>
@@ -639,6 +681,9 @@
         
         <input type="hidden" name="action" value="users/save-user">
         <input type="hidden" name="redirect" value="/">
+
+        <input type="hidden" name="fields[ip]" value="207.241.233.208">
+
 
         <div class="form-field _modal-iconed _modal-username">
             <input type="text" name="username" placeholder="Username" class="_modal-iconed _modal-username form-field__item">
@@ -667,7 +712,7 @@
         </div>
         <div class="form-field _modal-iconed _modal-recaptcha">
             <input type="hidden" name="recaptcha" placeholder="Email" class="_modal-iconed _modal-email form-field__item">
-            <!--<div class="g-recaptcha" data-sitekey="6LdE_VMUAAAAAEYR1RJCmw7cujkHKwfAZxRxgMwy"></div>-->
+            <div class="g-recaptcha" data-sitekey="6LcLt0AUAAAAAERTkuNYTai6O7hCo7vDSxMaT3e7"></div>
             <div class="form-field__error"></div>
         </div>
         <div class="form-privacy">By pressing the "Join" button you are agreeing to out company's <a href="#" title="">Privacy policy</a> and <a href="#" title="">Terms of use</a>
@@ -712,7 +757,7 @@
 <div id="advertise" class="modal _sign">
     <div class="modal__title">Advertising</div>
     <div class="modal__close jsModalClose"></div>
-                <img src="/public/images/logo/ILQ_Autism_April_1.png" alt="" style="max-width: 320px; display: block; margin: 0 auto 20px;">
+                <img src="/public/images/logo/logo_ilq.svg" alt="" style="max-width: 320px; display: block; margin: 0 auto 20px;">
                     
     <p style="font-size: 18px; line-height: 30px; text-align: center;">There are multiple advertising possibilities with the ILQ network, drop us an e-mail at <a href="mailto:advertise@iloveqatar.net" style="color: #c4094a;">advertise@iloveqatar.net</a> for inquiries!</p>
 </div>
@@ -722,7 +767,7 @@
 <div id="contact" class="modal _sign">
     <div class="modal__title">Contact us</div>
     <div class="modal__close jsModalClose"></div>
-                <img src="/public/images/logo/ILQ_Autism_April_1.png" alt="" style="max-width: 320px; display: block; margin: 0 auto 20px;">
+                <img src="/public/images/logo/logo_ilq.svg" alt="" style="max-width: 320px; display: block; margin: 0 auto 20px;">
                         <p style="font-size: 18px; line-height: 30px; text-align: center;">If you have anything you want to share with us, send us an e-mail at <a href="mailto:contact@iloveqatar.net" style="color: #c4094a;">contact@iloveqatar.net</a>!</p>
 </div>
 <!-- Contact us end -->
@@ -731,7 +776,7 @@
 <div id="tip" class="modal _sign">
     <div class="modal__title">Send a tip</div>
     <div class="modal__close jsModalClose"></div>
-                <img src="/public/images/logo/ILQ_Autism_April_1.png" alt="" style="max-width: 320px; display: block; margin: 0 auto 20px;">
+                <img src="/public/images/logo/logo_ilq.svg" alt="" style="max-width: 320px; display: block; margin: 0 auto 20px;">
                         <p style="font-size: 18px; line-height: 30px; text-align: center;">Want to send a tip? Drop us an e-mail at <a href="mailto:contact@iloveqatar.net" style="color: #c4094a;">contact@iloveqatar.net</a>, anonymity is guaranteed!</p>
 </div>
 <!-- Send a tip -->
@@ -741,7 +786,7 @@
     <div class="modal__title">Welcome to</div>
     <div class="modal__close jsModalClose"></div>
     <div class="modal-welcome__inside">
-                        <img src="/public/images/logo/ILQ_Autism_April_1.png" alt="">
+                        <img src="/public/images/logo/logo_ilq.svg" alt="">
                             <!--<img src="/static/images/content/logo_ilq.svg" alt="">-->
         <p>You have successfully registered your account!</p><span>Please confirm your e-mail address by clicking on the URL sent to you.</span><em>The e-mail usually arrives in 5-10 minutes. <br> If you still haven't received the e-mail, press <a href="/" title="">here</a> to re-send.</em>
     </div>
@@ -753,7 +798,7 @@
     <div class="modal__title">Welcome to</div>
     <div class="modal__close jsModalClose"></div>
     <div class="modal-welcome__inside">
-                        <img src="/public/images/logo/ILQ_Autism_April_1.png" alt="">
+                        <img src="/public/images/logo/logo_ilq.svg" alt="">
                             <!--<img src="/static/images/content/logo_ilq.svg" alt="">-->
         <p>Salam! Welcome to our brand new site! Looking good huh? </p>
         <p>We’ve got loads of cool new features and to help make sure your account is secure, you’ll need to reset your password the first time you log in.</p>
@@ -772,7 +817,7 @@
     <div class="modal__title">Submit successful!</div>
     <div class="modal__close jsModalClose"></div>
     <div class="modal-welcome__inside">
-                       <img src="/public/images/logo/ILQ_Autism_April_1.png" alt="">
+                       <img src="/public/images/logo/logo_ilq.svg" alt="">
                             <!--<img src="/static/images/content/logo_ilq.svg" alt="">-->
         <p>How ajeeb was that!? Thanks for contributing to our community! Your post will appear after we take a quick look!</p>
     </div>
@@ -787,7 +832,8 @@
 <script src="/static/js/main.js"></script>
 <script src="/static/js/moment.js"></script>
 <script src="/static/js/moment-timezone-with-data-2012-2022.js"></script>
-<script src="/static/js/addon.js"></script>
+<script src="/static/js/addon.js?v=10"></script>
+<script src="/static/js/custom-20191010.js?v=20191216V1"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1975219-2"></script>
 <script>
@@ -796,7 +842,7 @@
   gtag('js', new Date());
   gtag('config', 'UA-1975219-2');
 </script>
-<script src="https://www.iloveqatar.net/cpresources/deb5db4c/jquery.js?v=1550340727"></script>
+<script src="https://www.iloveqatar.net/cpresources/deb5db4c/jquery.js?v=1575168594"></script>
 <script>jQuery(function ($) {
 https://www.google.com/recaptcha/api.js;
 });</script>
