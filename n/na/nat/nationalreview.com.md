@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalreview.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627220113id_/https%3A//www.nationalreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalreview.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218192757id_/https%3A//www.nationalreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Review
 
-_Effective: May 25, 2018_
+_Updated: August 27, 2019_
 
 At National Review we believe you should know what data we collect from you and how we use it. We also believe you should be able to make the best decisions about the information you share with National Review. That is the spirit behind this privacy policy.
 
@@ -151,7 +151,18 @@ Please remember that we do not have access to, or control over, advertiser or se
 
 We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.
 
-Please note that no data transmission or storage can be guaranteed to be 100 percent secure. We want you to feel confident using the National Review website, but we cannot ensure or warrant the security of any information you transmit to us.
+Please note that no data transmission or storage can be guaranteed to be 100 percent secure. We want you to feel confident using the National Review website, but we cannot ensure or warrant the security of any information you transmit to us.  
+
+
+* * *
+
+**ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS**
+
+**Subscriptions and Memberships** : By clicking “Join Now” or “Subscribe” or “Renew” for any National Review subscription or membership, you agree to our [Terms of Service](https://www.nationalreview.com/terms-of-service/), [Privacy Policy](https://www.nationalreview.com/privacy), and your California Privacy Rights (listed below). You also agree that we may share your information with third parties for marketing purposes. For instructions on how to opt out of such sharing, please review opt-out details in this Privacy Policy above.
+
+**Your California Privacy Rights** : Residents of California may request a list of third parties to which certain personal information (as defined by applicable California law) obtained through a Digital Service was disclosed by National Review during the preceding year for those third parties’ direct-marketing purposes. If you are a California resident and want such a list, please contact us at National Review, Attn: Privacy, 19W 44th Street, Suite 1701, New York, NY 10036. For all requests, you must state “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In your request, you must attest to the fact that you are a California resident and you must provide a current California address for our response. Please also indicate in your request the name of the Digital Service to which your request applies. Please note that we will not accept requests via telephone, e-mail, or by facsimile, and that we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+**Do Not Track** : At this time National Review does not take steps to respond to browsers “Do Not Track” signals as no uniform standard to respond to such signals has been developed at this time.
 
 * * *
 
