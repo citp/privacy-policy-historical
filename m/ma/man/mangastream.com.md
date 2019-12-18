@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangastream.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232809id_/https%3A//readms.net/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangastream.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218194403id_/https%3A//readms.net/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Manga Stream
 
@@ -7,7 +7,7 @@ You need to confirm your email by clicking the link in the message we sent. Only
 
 We recognize that privacy of your personal information is important. We will never sell your personal information to third parties without your solicitation. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp). 
 
 ## Log Files
 
