@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totango.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405054508id_/https%3A//www.totango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totango.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218222203id_/https%3A//www.totango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Totango
 
