@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.com.au privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621063544id_/https%3A//www.amazon.com.au/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496%26ref_%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.com.au privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219002204id_/https%3A//www.amazon.com.au/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496%26ref_%3Dfooter_privacy) for the most accurate reproduction.*
 
 # Amazon.com.au Help: Amazon.com.au Privacy Notice
 
