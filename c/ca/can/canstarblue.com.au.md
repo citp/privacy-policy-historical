@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512120237id_/https%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218062420id_/https%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Canstar Blue Privacy Policy | Canstar Blue
 
-Version: 2 June 2017
+Version:  8 August 2019
 
-**Canstar Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”) recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.**  
+#### Canstar Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”) recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.
+
 This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record.
 
 This privacy policy does not apply to parties that may be linked or associated with our website and to whom you disclose personal information. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.
 
-**What information do we collect?**
+### What information do we collect?
 
 Because we strive to provide our website users with personalised services showing the information most relevant to them, from time to time we request and store some private information about you.  We will only use that information in accordance with this policy.
 
@@ -18,6 +19,7 @@ The types of information we keep on record will depend on the type of product or
 Generally, we keep a record of the following types of information about you:
 
   * personal information that you give us when you use the website or interact on our social media pages, such as your name, address and postcode;
+  * personal information that you give to us when you enter our competitions or apply for our scholarships;
   * if you use a forum, feedback/rating tool, calculator, online survey or other tool (“Website Tool”) on our website, the information that you enter into the Website Tool;
   * your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet;
   * other information voluntarily provided by you;
@@ -45,12 +47,13 @@ As you browse Canstar Blue’s website, advertising cookies will be placed on yo
 
 You need not give us any of the personal information about you or any other person which may be requested in our communications with you. However, without that information, we may not be able to fulfill your request or provide you with an appropriate level of service.
 
-**How do we use your personal information?**
+### How do we use your personal information?
 
 We use your personal information to:
 
   * respond to your requests and directions;
   * provide products and services to you;
+  * administer competitions and scholarships, and provide competition and scholarship prizes;
   * deal with complaints or issues you may have in relation to our services;
   * review your dealings with us, including the products and services you use, your potential needs, and new products that might be of interest to you or other customers;
   * ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing; and
@@ -58,17 +61,19 @@ We use your personal information to:
 
 
 
-**How do we store personal information?**
+### How do we store personal information?
 
 We provide a robust level of security when you use our online products and services. We have physical, electronic and procedural safeguards to protect your information which is held by us.
 
 Access to information stored electronically is restricted to staff whose job purpose requires access. We use secure methods to destroy or de-identify any personal information as soon as the law permits, provided the information is no longer needed by us for any purpose.
 
-**Can we disclose personal information?**
+### Can we disclose personal information?
 
 We must get your consent before we disclose your personal information. You can give us your consent expressly or it may be implied by your conduct.
 
 By using our services you are deemed to have consented to our use, disclosure and other matters in relation to your personal information, as set out in this policy.
+
+We may publish the names of competition or scholarship winners as set out in the terms and conditions of the relevant competition or scholarship.
 
 We may disclose your personal information:
 
@@ -88,7 +93,7 @@ We may disclose your personal information:
 
 We take reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or disclosure.
 
-**Cross Border disclosure of personal information**
+### Cross Border disclosure of personal information
 
   * From time to time Canstar may store (disclose) your personal information on servers in overseas web hosting facilities
   * The Australian Privacy Principles require that we take reasonable steps, dependent on the circumstances of that personal information, to ensure that the overseas service provider to whom personal information is disclosed does not breach Australian privacy laws (the “Requirement”).
@@ -98,23 +103,23 @@ We take reasonable steps to protect your personal information from misuse, loss,
 
 
 
-**Amendment of this policy**
+### Amendment of this policy
 
 We may amend this policy from time to time. Not all changes to our privacy policy will require your consent, for example where office security procedures are changed. We will notify you of any change to our information handling policy that requires your consent before being implemented.
 
 If you do not wish to receive information about our products and services then please tell us. You can do this at any time by writing to us or telephoning us at the contact details listed below.
 
-**Access to your information**
+### Access to your information
 
-You can request access at any time to personal information we hold about you by using the contact details below. We will process your request within a reasonable time, usually 14 days for a straightforward request. More time may be needed, depending on the nature of the request. There is no fee for requesting access to your information; however we may charge you the reasonable cost of processing your request. Sometimes we are not required to provide you with access – for example, if the law says we can deny access. If we refuse you access to your personal information, we will tell you the reason why.
+You can request access at any time to personal information we hold about you by using the contact details below. We will process your request within a reasonable time, usually 14 days for a straightforward request. More time may be needed, depending on the nature of the request. There is no fee for requesting access to your information; however, we may charge you the reasonable cost of processing your request. Sometimes we are not required to provide you with access – for example, if the law says we can deny access. If we refuse you access to your personal information, we will tell you the reason why.
 
-**Correction of information**
+### Correction of information
 
 We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time.
 
 In this policy, reference to “we/us” means CANSTAR Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”).
 
-**Fraud warning**
+### Fraud warning
 
 Canstar Blue will never send you emails requesting bank account details.
 
@@ -126,7 +131,7 @@ Please do not provide any information in response to unsolicited phone calls or 
 
 If in doubt, do not provide any details.
 
-**Contact Details and Complaints**
+### Contact Details and Complaints
 
 If you have any questions, concerns or complaints about our privacy policy or practices please contact our Privacy Officer
 
