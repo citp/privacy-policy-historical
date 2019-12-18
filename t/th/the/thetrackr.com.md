@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrackr.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515004105id_/https%3A//www.thetrackr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrackr.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218182816id_/https%3A//www.thetrackr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TrackR
 
