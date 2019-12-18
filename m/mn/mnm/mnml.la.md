@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnml.la privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422022003id_/https%3A//mnml-4.myshopify.com/pages/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnml.la privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218174848id_/https%3A//mnml-4.myshopify.com/pages/terms%23privacy) for the most accurate reproduction.*
 
 # Terms — mnml
 
@@ -16,6 +16,10 @@ A tracking number is provided once an order is verified, processed and submitted
 
 We reserve the right to change or update our shipping policies and procedures at any time without notification.
 
+**Buyer is Importer of Record**
+
+The goods will be imported on behalf of the consignee/buyer. The consignee authorizes mnml to import the goods on his behalf. Further, the consignee/buyer agrees mnml may delegate the obligation to import the goods on his behalf to a subcontractor (e.g. customs broker). The consignee will pay the taxes & duties in addition with the purchase price of the goods.
+
 #### RETURNS // REFUNDS // EXCHANGES
 
 We want you to be 100% satisfied with your purchase from mnml.  If for any reason you are not satisfied, we would be happy to issue a store credit for any returned merchandise. Returns/Exchanges are NOT accepted for sales items.
@@ -30,10 +34,9 @@ We reserve the right to correct, update or change our returns/refund/exchange po
 
 Please visit [mnml.loopreturns.com](http://mnml.loopreturns.com/) to process a return. All returns and exchanges should be shipped via insured traceable mail in a secure package to the following address:
 
-**mnml returns / DHL Supply Chain**  
-2849 Rohr Rd.  
-Dock Door #50  
-Groveport, OH 43125
+**mnml returns /  Quiet Logistics**
+
+422 Hazelwood Logistics Center D
 
   
 
