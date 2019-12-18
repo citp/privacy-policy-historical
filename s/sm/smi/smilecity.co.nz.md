@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117001327id_/https%3A//www.smilecity.co.nz/en-NZ/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218022622id_/https%3A//www.smilecity.co.nz/en-NZ/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
