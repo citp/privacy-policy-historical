@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the shipt.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211626id_/https%3A//www.shipt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipt.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218230538id_/https%3A//www.shipt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shipt Same Day Delivery
-
-[ ](https://web.archive.org/?noredirect)
-
-  * [Get Paid to Shop](https://web.archive.org/be-a-shopper/)
-  * [Help](http://help.shipt.com/)
-  * [Gift](https://web.archive.org/gift/)
-
-
-  * [Log In](https://shop.shipt.com/#/app/home)
-  * [Sign up](https://signup.shipt.com/?referrerUrl=https%3A%2F%2Fwww.shipt.com%2Fprivacy-policy) [Sign up](https://signup.shipt.com/?referrerUrl=https%3A%2F%2Fwww.shipt.com%2Fprivacy-policy&param=trialfour)
-
-
 
 Shipt, Inc. maintains two separate privacy policies, applicable to its Members and Shoppers.  Shipt’s Services are used by members, whom have subscribed to the Shipt membership service and are enabled to order and receive product delivery through use of the Shipt platform (“Members”), and shoppers, to whom Shipt provides Shipt Technology Services (as defined in the applicable agreement between Shipt and each shopper) and are enabled to accept Member orders, shop for and deliver products to Members (“Shoppers”). To the extent an individual is both a Member and a Shopper, the Services being utilized will determine the applicable privacy policy. 
 
@@ -140,6 +128,10 @@ The Services are not intended for use by children.  We do not intentionally gat
 #### **California Privacy Rights**
 
 Under the California “Shine the Light” law, California residents are entitled to contact us to opt-out of disclosure of personal information to third parties for their direct marketing purposes. You may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request to [privacy@shipt.com](about:blank). California users may request further information about our compliance with this law by contacting us at [privacy@shipt.com](mailto:privacy@shipt.com) or by writing to us at the address listed in the “How to Contact Us” section.
+
+#### **Nevada Residents**
+
+Nevada law gives Nevada consumers the right to request that a company not sell their personal information. This right applies even if their personal information is not currently being sold. If you are a Nevada resident and wish to exercise this right, please submit your request by emailing [privacy@shipt.com](about:blank). Please allow up to 60 days for a response.
 
 #### **How to Contact Us**
 
