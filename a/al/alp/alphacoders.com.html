@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2019-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190506015753id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2019-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191218200612id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" itemscope="" itemtype="http://schema.org/WebPage"><head>
     <meta charset="utf-8">
@@ -308,9 +308,6 @@
         }
         .panel-art {
             background-color: rgba(193,27,23, 0.4) !important;
-        }
-        .panel-photo {
-            background-color: rgba(52,124,23, 0.4) !important;
         }
         .panel-image {
             background-color: rgba(232,163,23, 0.4) !important;
@@ -970,15 +967,6 @@
     </style>
 
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-281956-21', 'alphacoders.com');
-        ga('send', 'pageview');
-    </script>
 
 </head>
 <body class="main">
@@ -1307,7 +1295,7 @@
         });
     });
 
-    $('.close-notice').on('click', function() {
+    $('body').on('click', '.close-notice', function() {
         $(this).parent().fadeOut(600, function(){$(this).remove();});
     });
 
@@ -1322,6 +1310,20 @@
                 }
             );
         }
+    }
+
+    function handleApiError(error_message) {
+        if(!$('.notice-error').length) {
+            $('#page_container').prepend("<div class='notice notice-error'>" +
+                    "<span class='close-notice pull-right' title=\"Close This Notification!\">" +
+                        "<span class=\"glyphicon glyphicon-remove\"></span>" +
+                    "</span>" +
+                    "<b></b>" +
+                "</div>")
+        }
+
+        $('.notice-error b').html(error_message);
+        $('html,body').animate({scrollTop: $('.notice-error').offset().top - 15});
     }
 
     //Manage the quick jump button
