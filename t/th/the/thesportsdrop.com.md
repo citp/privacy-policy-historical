@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the thesportsdrop.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721012704id_/https%3A//thesportsdrop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportsdrop.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218090626id_/https%3A//thesportsdrop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.
+
+##  **Opt Out Link**
+
+Before reading the information below, please note, we offer all users the opportunity to opt out of receiving personalized ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp). These opt outs do not mean you will no longer receive any advertising – the advertisements will just not be tailored to you. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective.
 
 ##  **Log Files**
 
