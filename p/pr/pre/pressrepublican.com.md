@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628231631id_/https%3A//www.pressrepublican.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218163902id_/https%3A//www.pressrepublican.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | pressrepublican.com
 
@@ -78,10 +78,6 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-92, passed away June 27, 2019, at UVHN-CVPH Medical Center. A Mass of Christian burial will be held at 11 a.m., July 2, 2019, at the Holy Name Catholic Church in Au Sable Forks. 
-
-STOCKTON, CALIF. [mdash] Joseph Vernon Baker, 60, of Stockton, Calif., and formerly of Plattsburgh, N.Y., died Monday, June 17, 2019, at his home. He was born Jan. 24, 1959, to Juanita Aiken Baker and Roger Joseph Baker in Ticonderoga, N.Y. Joseph graduated from Plattsburgh High School in 19…
-
-[](http://my.textcaster.com/asa/Default.aspx?ID=aac988d1-6b0b-4622-9aa1-2be7ee922387)
+[ ](http://my.textcaster.com/asa/Default.aspx?ID=aac988d1-6b0b-4622-9aa1-2be7ee922387)
 
 Get text messages on your mobile phone with news, weather and more from the Press-Republican.
