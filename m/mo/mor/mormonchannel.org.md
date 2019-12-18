@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mormonchannel.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509065835id_/https%3A//www.lds.org/services/platform/v3/resources/privacy-policy%3Flang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormonchannel.org privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218012304id_/https%3A//www.churchofjesuschrist.org/services/platform/v3/resources/privacy-policy%3Flang%3Deng) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -20,7 +20,7 @@ a.   _Actively submitted data_. You submit personal data to us when you join t
 
 b.  _Data we obtain from third parties and passively submitted data_. When local law permits, you may submit personal data, including contact information about someone other than yourself (in other words, a third party) to allow us to make contact with that person, make a delivery, or otherwise meet your request. When providing personal data about anyone other than yourself, you must first obtain the other person’s informed consent if his or her consent is legally required.
 
-If you or someone else has provided us with your personal contact information and you would like to request that we do not contact you further, please follow the unsubscribe or opt-out procedures provided on the specific site, newsletter, email notification, or please contact us at [DataPrivacyOfficer@churchofjesuschrist.org](mailto:DataPrivacyOfficer@churchofjesuschrist.org).
+If you or someone else has provided us with your personal contact information and you would like to request that we do not contact you further, please follow the unsubscribe or opt-out procedures provided on the specific site, newsletter, email notification, or please contact us at [DataPrivacyOfficer@ChurchofJesusChrist.org](mailto:DataPrivacyOfficer@ChurchofJesusChrist.org).
 
 We may process and make publicly available personal data obtained from published sources. We may process and publish living information in compliance with applicable local laws.
 
@@ -46,7 +46,7 @@ _a.  Third-party providers._ We may provide personal data to third parties for
 
 _b.  Church entities._ We may transfer personal data to any Church entity to accomplish Church purposes.
 
-If you are a member of the Church, your general membership information and any optional information you may choose to provide (for example, email address and photo) may be shared with Church members in your ward or branch and stake or district as necessary for the Church purposes listed above. Some of your information may also be viewable on a limited and restricted basis on our internet resources, including LDS.org. You may opt out of sharing information or limit the optional information you share by modifying your profile preferences on individual resources.
+If you are a member of the Church, your general membership information and any optional information you may choose to provide (for example, email address and photo) may be shared with Church members in your ward or branch and stake or district as necessary for the Church purposes listed above. Some of your information may also be viewable on a limited and restricted basis on our internet resources, including ChurchofJesusChrist.org. You may opt out of sharing information or limit the optional information you share by modifying your profile preferences on individual resources.
 
 _c.  Legal requirements._ We may access and disclose your personal data, posts, journal entries, online chats, personal notes, content, or other submissions to any resource if we have a good-faith belief that doing so is required by a subpoena, by a judicial or administrative order, or is otherwise required by law. Additionally, we may disclose your personal information and other information: as required by law or to exercise or defend legal rights; to take precautions against liability; to protect the rights, property, or safety of the resource of any individual or of the general public; to maintain and protect the security and integrity of our services or infrastructure; to protect ourselves and our services from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; or to assist government law enforcement agencies.
 
@@ -64,7 +64,7 @@ We retain collected personal data, including information collected via mobile ap
 
 **8.  How can you access and correct your personal data?**
 
-We endeavor to maintain the accuracy of personal data and rely on you to ensure your personal data is complete and accurate. You may request access to your personal data and verify, correct, or rectify (including update) it, and block your personal data through your website-specific registration, through your profile, or through your LDS Account, as applicable.
+We endeavor to maintain the accuracy of personal data and rely on you to ensure your personal data is complete and accurate. You may request access to your personal data and verify, correct, or rectify (including update) it, and block your personal data through your website-specific registration, through your profile, or through your Church Account, as applicable.
 
 If you are a Church member, some of your personal data may be updated only by making changes to your Church membership record. Such changes must be made by contacting the clerk in your Church unit and requesting the change.
 
@@ -80,9 +80,11 @@ This Notice is effective September 1, 2018 and may be amended from time to time.
 
 We have a global chief data protection officer who can answer questions about data privacy or security issues. Inquiries concerning this Notice or the security of personal data that we process may be sent through email, fax, or mail:
 
-Email:             [DataPrivacyOfficer@churchofjesuschrist.org](mailto:DataPrivacyOfficer@churchofjesuschrist.org)  
+Email:             [DataPrivacyOfficer@ChurchofJesusChrist.org](mailto:DataPrivacyOfficer@ChurchofJesusChrist.org)  
 Fax:                 +1-801-240-1187  
 Address:         Data Privacy Office  
                         50 E. North Temple Street  
-                        Salt Lake City, UT 84150-0013  
-                        USA
+                        Salt Lake City, UT 84150-0005  
+                        USA     
+
+/a
