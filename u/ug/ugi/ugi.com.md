@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugi.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425190819id_/https%3A//www.ugi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugi.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218224532id_/https%3A//www.ugi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UGI Utilities
 
@@ -26,8 +26,8 @@ UGI Utilities may provide third parties, such as business partners, service prov
 Additionally, certain links on the Website will lead you to third party sites, pages or services that are not operated by UGI Utilities. UGI Utilities is not responsible for the content, links or updates on these sites. UGI Utilities solely provides these links for convenience and the inclusion of a link does not imply endorsement of the Website. We encourage you to review the sites’ own privacy policies before interacting with them.
 
 UGI Utilities uses Google Analytics to monitor activity on the Website and may assist with advertising. To learn how Google Analytics collects and processes data, please visit: “How Google uses data when you use our partners’ sites or apps” located at [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners).  
-**  
-_Targeted Advertising_**  
+ **  
+ _Targeted Advertising_**  
 On occasion, we use third-party advertising companies to serve UGI Utilities ads on other websites. Some of these companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to UGI Utilities and other websites in order to provide advertisements about goods and services that may be of interest to you.
 
 To learn more about this practice, its benefits, or how to opt-out, see <http://www.networkadvertising.org/managing/opt_out.asp> or [www.aboutads.info/choices](http://www.aboutads.info/choices).
@@ -47,8 +47,8 @@ UGI Utilities uses reasonable precautions to keep the personal information you d
 
  ** _Do Not Track_**  
 Do Not Track (DNT) is a privacy preference that users may be able to set in some web browsers. It allows users to opt out of tracking by websites and online services. Currently, the World Wide Web Consortium (W3C) does not have established universal standards regarding DNT signals, and therefore, the Website does not recognize DNT privacy preferences.  
-**  
-_Information Provided by Children_**  
+ **  
+ _Information Provided by Children_**  
 UGI Utilities Website is intended to provide general information about UGI Utilities and its services. The Website is intended for adults and not children under the age of 18. UGI Utilities will not knowingly collect personal information from children under 13 years of age or allow children under the age of 13 to use certain features of our Website without the consent of a child’s parent or guardian. UGI Utilities will not knowingly disclose personal information collected from children. If UGI Utilities learns that a child under the age of 13 has submitted personally identifiable information without parental consent on or to the Website or UGI Social Media sites, UGI will take all reasonable measures to delete the information from records and refrain from using it for any purpose, except where necessary to protect the safety of the child or others as required or allowed by applicable law.
 
 ###### Your Acceptance of These Terms and Changes to our Privacy Policy:
@@ -62,6 +62,6 @@ Please note that you are responsible for any material you submit. You, and not U
 To ask questions or comment on this Privacy Policy, please contact us at:  
 Attn: Marketing Department  
 UGI Utilities, Inc.  
-P.O. Box 12677  
-Reading, PA 19612-2677  
+P.O. Box 13009  
+Reading, PA 19612-3009  
 [marketingnews@ugi.com](mailto:marketingnews@ugi.com)
