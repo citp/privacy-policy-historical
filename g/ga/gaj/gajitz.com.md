@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gajitz.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503043238id_/https%3A//gajitz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gajitz.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219002948id_/https%3A//gajitz.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gadgets, Science & Technology
 
