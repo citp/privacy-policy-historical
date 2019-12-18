@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416104644id_/https%3A//www.gitex.com/__media/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218081723id_/https%3A//www.gitex.com/__media/Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
