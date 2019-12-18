@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the triathlete.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618133828id_/https%3A//pocketoutdoormedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlete.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218042929id_/https%3A//pocketoutdoormedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Pocket Outdoor MediaPrivacy Policy |
 
 **Privacy Policy**
 
-Protecting your private information is our priority. This Statement of Privacy applies to competitor.com, pocketoutdoormedia.com, triathlete.com, velonews.com, velopress.com, veloswap.com, womensrunning.com, and any other affiliated websites of Pocket Outdoor Media, LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Pocket Outdoor Media, LLC or “POM” include competitor.com, pocketoutdoormedia.com, triathlete.com, velonews.com, velopress.com, veloswap.com, and womensrunning.com. The POM websites are news and information sites. By using the POM websites, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to podiumrunner.com, pocketoutdoormedia.com, triathlete.com, velonews.com, velopress.com, veloswap.com, womensrunning.com, and any other affiliated websites of Pocket Outdoor Media and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Pocket Outdoor Media or “POM” include podiumrunner.com, pocketoutdoormedia.com, triathlete.com, velonews.com, velopress.com, veloswap.com, and womensrunning.com. The POM websites are news and information sites. By using the POM websites, you consent to the data practices described in this statement.
 
 **Collection of your Personal Information**
 
@@ -48,7 +48,7 @@ POM may share data with trusted partners to help perform statistical analysis, s
 
 All such third parties are prohibited from using your personal information except to provide these services to POM, and they are required to maintain the confidentiality of your information. At the termination of a contract with a third-party business partner or vendor and subject to the terms of the contract, the partner or vendor will delete user information. POM is not responsible for third-party vendor non-compliance.
 
-The only way to completely stop all sharing of your personal information is to terminate your relationship with POM and its brands, which will cause us to delete all your personal information from our databases and request deletion of your information from our third-party partner databases. After you terminate your relationship with us, you will no longer receive products or services that you have requested or purchased from us. We do not offer refunds for products or services not completely fulfilled at the time we receive your relationship termination request. To request deletion from our system, please contact Greg Thomas using the contact information below.
+The only way to completely stop all sharing of your personal information is to terminate your relationship with POM and its brands, which will cause us to delete all your personal information from our databases and request deletion of your information from our third-party partner databases. After you terminate your relationship with us, you will no longer receive products or services that you have requested or purchased from us. We do not offer refunds for products or services not completely fulfilled at the time we receive your relationship termination request. To request deletion from our system, please contact our data privacy staff person using the contact information below.
 
 POM may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on POM or the sites; (b) protect and defend the rights or property of POM; and/or (c) act under exigent circumstances to protect the personal safety of users of POM, or the public.
 
@@ -106,16 +106,16 @@ Your information may be required in order for us to deliver the good or service 
 
 We keep your information for as long as is necessary to continue providing you with our goods or services or for as long as we believe that you may wish to receive our goods or services in the future. We may delete your information at any time at our discretion and without notice.
 
-Our data protection officer is Andrew Pemberton. Through our data protection officer, EU citizens may request a record of their information, change or update their information, or request the deletion of their information. We will respond to your request within one month of receiving your request.
+Our data protection officer is Ilana Coenen. Through our data protection officer, EU citizens may request a record of their information, change or update their information, or request the deletion of their information. We will respond to your request within one month of receiving your request.
 
 **Contact Information**
 
 POM welcomes your questions or comments regarding this Statement of Privacy. If you believe that POM has not adhered to this Statement, please contact POM at:
 
-Pocket Outdoor Media, LLC  
-3002 Sterling Circle, Suite 100  
+Pocket Outdoor Media  
+4745 Walnut St., Unit A  
 Boulder, Colorado 80301
 
-Email Address: apemberton@pocketoutdoormedia.com
+Email Address: icoenen@pocketoutdoormedia.com
 
-Effective as of October 26, 2017. Updated on January 23, 2019.
+First published October 26, 2017. Updated to comply with GDPR in May, 2018. Updated on July 2, 2019 and December 16, 2019.
