@@ -1,67 +1,169 @@
-> *The following text is extracted and transformed from the fullscript.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904061950id_/https%3A//fullscript.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullscript.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218134319id_/https%3A//fullscript.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fullscript
+# Privacy Statement | Fullscript
 
-Customer privacy and confidentiality is extremely important to all of Us at Fullscript. We understand that our reputation is directly related to how We protect Our customer information. Throughout the Privacy Policy (“Policy”), We may use certain words or phrases, and it is important that You understand their meanings. Definitions may be found in the Fullscript’s [Terms of Service](https://fullscript.com/terms-of-service). Also, note that the headings contained in this Policy are for reference only.
+**Privacy Statement:**
 
-The term “Personal Information” as used is defined as any information that identifies or can be used to identify, contact or locate the person to whom such information pertains. The Personal Information that We collect will be subject to this Policy, as amended from time to time.
+Natural Partners, Inc. (referred to as “Natural Partners Fullscript”, “NPFS”, “We” , “Us” or “Our”) is committed to protecting your (referred to as “You” or “Your”) privacy and providing You with a positive experience on our websites and in using our products and services (“Service” or “Services”).
 
-### Fullscript Collection and Use of Your Information
+This Privacy Statement applies to NPFS websites and Services that link to or reference this Statement and describes how We handle Your information and the choices available to You regarding the collection, use, access, and how to update and correct Your information. Capitalized terms not otherwise defined in this Privacy Statement shall have the same meanings ascribed to them in the [Terms of Service](https://fullscript.com/terms-of-service).
 
-In the course of using Fullscript, We may ask users for Personal Information such as name, email address, postal address, care provider’s name, and payment information, as well as other relevant information. Health care providers will be asked to provide information specific to their practices, such as practice or clinic name, address, telephone number, and Website URL. Fullscript may also collect account registration information, including usernames, passwords, and answers to security questions. In most cases, users choose the amount of information they supply. However, some information may be required in order for Us to provide Our services to You.
+### **Collection of Your Personal Information**
 
-Fullscript also may collect certain information that is not Personal Information when You visit many of our Web pages, such as the type of browser You are using, the type of operating system You are using, the domain name of Your Internet service provider, aggregate data about the number of visits to the Website, and/or aggregate data about the pages visited. Additionally, We also may aggregate Personal Information where that information becomes de-identified or not personally identifiable after aggregation, (“Aggregate Data”).
+“Personal information” is any information that can be used to identify an individual, such as name, address, email address, phone number, login information (account number, password), practitioners’ recommendations, health information, online orders, marketing preferences, social media account information, or payment card number. We may collect data, including Personal Information, about you as you use our websites and Services and interact with Us. If We link other data with your Personal Information, We will treat that linked data as Personal Information.
 
-### What We Do With Information
+We collect Personal Information for a variety of reasons, such as:
 
-Fullscript uses Personal Information You provide about Yourself: (a) to process and fulfill Your order(s) for Products; (b) to respond to any of Your inquiries or questions about our Products and/or Services; (c) for internal marketing purposes; (d) to provide You with additional and updated information, materials, and other advertisements regarding Fullscript Products and/or Services; (e) to offer You other materials and/or information that Fullscript believes may be of interest to You; (f) to cooperate with government officials or parties in litigation under process of law, to prevent a crime, or as otherwise required by law; (g) to protect the security or integrity of the Website; (h) to protect against fraud, identity theft, or a threat of safety or destruction of property; (i) to protect against legal liability; (j) to create and manage user accounts; (k) to process payment; (l) to communicate with the User’s Health Professional; and/or (m) to perform data analyses and/or research (including de-identification and aggregation of Personal Information).
+  * Processing your order, including payment transactions.
+  * Sending marketing communications.
+  * Creating an account.
+  * Enabling the use of certain features of Our Services.
+  * Personalizing your experience.
+  * Providing customer service.
 
-Fullscript will share User Product order information, including the items and quantities ordered, with the User’s Health Professional who recommended the product(s). Fullscript may employ third party unaffiliated companies to perform tasks on our behalf such as credit card processors and distributors and We may share Personal Information with such service providers. We require any company with which We share Personal Information to protect data in a manner consistent with this Policy and to limit the use of such Personal Information to the performance of services for Fullscript. Fullscript may also share Your information to provide products or services You’ve requested or when We have Your permission. Except as provided above, Fullscript does not share or sell any Personal Information to any other third parties or permit third parties to use Personal Information to market their own products or services.
 
-Fullscript uses the information that is not Personal Information (including Aggregate Data) to (a) improve the design and content of the Website ; (b) enable Fullscript to personalize Your online experience; (c) analyze Website usage; (d) create services and/or products to fit Your needs; (e) and for other commercial purposes as determined by Fullscript. Also, Fullscript may share non-Personal Information including Aggregate Data with related entities, advertisers, partners, other third-party vendors, or any other third party. Fullscript owns such non-Personal Information including Aggregate Data and may maintain copies of such as part of Our records.
 
-### California Online Privacy Protection Act Compliance
+We and the third parties We engage may combine the information We collect from You over time and across Our websites and Services with information obtained from other sources. This helps Us improve its overall accuracy and completeness, and also helps Us better tailor Our interactions with You.
 
-If You are a California resident and use our Website or app, You are entitled to request certain information regarding our disclosure of certain “personal information” (as defined in California Civil Code Section 1798.83) to third parties for their direct marketing purposes. If You are a California resident and have provided us with personal information within the last year, You may make such a request by emailing us at [support@Fullscript.com](mailto:support@healthwave.co) and typing “California Privacy Rights” in the subject line of the email. Within 30 days of receiving such a request, We will provide a list of the categories of personal information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. A request may be made no more than once per calendar year and We are not required to respond to requests made by means other than through the email address above.
+If You choose to provide NPFS with a third party’s Personal Information (such as name, email, and phone number), You represent that You have the third party’s permission to do so. Examples include forwarding reference or marketing material to a friend or sending job referrals. Third parties may unsubscribe from any continued communication of this type by following the link provided in the initial message, or contacting [privacy@fullscript.com](mailto:privacy@fullscript.com). In some instances, NPFS and the third parties We engage may automatically collect data through cookies, web logs, web beacons, and other similar applications. This information is used to better understand and improve the usability, performance, and effectiveness of the website and to help tailor content or offers for You. Please read the “Cookies and Other Web Technologies” section below for more information.
 
-### Security and No Liability
+### **Uses of Your Personal Information**
 
-The security of Your Personal Information is important to us. When You enter Personal Information, We encrypt the transmission of that information using secure socket layer technology (SSL). Credit card details are stored encrypted using AES-256 encryption. As a level 1 PCI-DSS compliant service provider We follow all PCI-DSS requirements and implement additional generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once We receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while We strive to use commercially acceptable means to protect Your personal information, We cannot guarantee its absolute security. Except as required by law,Fullscript is not responsible for any damages or liabilities relating to any such security failures. Transmission of Personal Information is at your own risk. Our Website contains links to other Websites that do not belong to Fullscript. Fullscript is not responsible for, nor can Fullscript ensure the privacy practices or content of such other sites, and this Policy does not apply to those other Websites. If You have any questions about security on our Web site, You can email us at [support@Fullscript.com](mailto:support@healthwave.co).
+We may use Your Personal Information for the purposes of operating Our business, delivering, improving, and customizing Our websites and Services, sending marketing and other communications related to Our business, and for other legitimate purposes permitted by applicable law. Some of the ways We may use Personal Information include:
 
-### Patient/Client Data Storage for Health Professional
+  * Delivering a Service you have requested.
+  * Analyzing, supporting, and improving our Services and your online experience.
+  * Personalizing websites, newsletters, and other communications.
+  * Sending communications to you, including for marketing or customer satisfaction purposes
+  * Protecting the security or integrity of the Website
+  * Protecting against fraud, identity theft, or a threat of safety
+  * Protecting against legal liability
+  * Monitoring violations of our Terms and Use (and taking appropriate actions as prescribed therein for such violations)
+  * Maintaining your account or login information
+  * Complying with applicable laws and regulations.
 
-If you are a Patient or Consumer, You acknowledge that your use of Our service is solely through Your Health Professional and that Fullscript may share Personal Information with Your Health Professional for the purposes of facilitating the Product transaction on behalf of Your Practitioner. If You are a Health Professional, as part of the process of using Fullscript, You may obtain the email address and/or shipping address of Your patients/clients. By using Fullscript, You agree that, with respect to other users’ Personal Information that You obtain through Fullscript or through a Fullscript-related communication or Fullscript-facilitated transaction, Fullscript hereby grants to You a license to use such information only for Fullscript-related communications that are not unsolicited commercial messages. Fullscript does not permit spam. Therefore, without limiting the foregoing, You are not licensed to add the name of someone who has purchased an item from You, to Your mail list (email or physical mail) without their express consent.
 
-Fullscript owns the data storage, databases and all rights to the Fullscript application. If you are a Health Professional, We make no claim to the rights of Your data. You retain all rights to Your data and We will not contact Your patients/clients directly, or use Your data for our own business advantage or to compete with You or market to Your clients.
 
-### Cookies and Re-marketing
+### **Access to and Accuracy of Your Personal Information**
 
-Like other Websites, Fullscript uses Your IP address to help diagnose problems with Fullscript servers, to administer the Website, and for security purposes. “Cookies” are pieces of data sent from a Web server through a Web browser, which writes a file on Your computer. This file enables a Web server to identify users that visit a site hosted by that server. Fullscript may send a Cookie to Your browser. Every computer that accesses our Website is assigned a different Cookie by Us. We use Cookies in order to identify You to the Website so that Fullscript can provide more customized information and services to You. In general, if You choose, You can disable the use of Cookies by reviewing Your browser’s preferences and options. Disabling the use of Cookies may make some portions of the Website inoperable.
+We need Your help in keeping your Personal Information accurate and up to date. We provide a number of options to access and correct Your Personal Information:
 
-### Re-Marketing and Opt Out
+  * You can view or edit your fullscript.com Personal Information and preferences online by logging into Your Fullscript account.
+  * You can request that We delete certain Personal Information or, at Our option, make it non-identifiable and We will make every reasonable effort to accommodate that request, unless We have a legitimate reason to refuse to do so.
+  * If You need additional assistance or help with accessing or correcting Your Personal Information, please feel free to [contact Us directly](https://fullscript.com/support). We make good faith efforts to honor reasonable requests to access, update, or correct Your data. We will respond to Your request in a timely manner. If We are unable to honor Your request, We will provide You with an explanation.
 
-We use a service provided by both Google and Facebook called “remarketing”. This permits us to reach people who have previously visited our site, and show them relevant advertisements when they visit other sites across the Internet in the Google Display Network and Facebook Ads platform.
 
-Cookies can be used to track Your session on our Website, to serve customized ads from Google, Facebook, and other third party vendors. When You visit this Website, You may view advertisements posted on the site by Google or other third parties. Through first-party and third party cookies, these third parties may collect information about You while You are visiting this Website and other Websites. They may use this data to show You advertisements on this Website and across the Internet based on Your prior visits to this Website and elsewhere on the Internet. We do not collect this information or control the content of the advertisements that You will see.
 
-You may be able to opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](http://www.google.com/ads/preferences/), and the [Google Analytics Opt-out Browser Add-on](http://www.google.ca/ads/preferences/plugin/).  
-Your use of this Website without opting out means that You understand and agree to data collection to provide You with remarketing ads using Google/Faceook and cookies from other third party vendors based on Your prior visits to this Website and elsewhere on the Internet.
+### **Sharing Your Personal Information**
 
-### PCI-DSS
+We may share your Personal Information with third parties for the purposes of operating Our business, delivering, improving, providing and customizing our Services, sending marketing and other communications related to Our business, and for other legitimate purposes permitted by applicable law or otherwise with Your consent.
 
-The Payment Card Industry Data Security Standard (PCI-DSS) is a set of security requirements managed by the PCI Security Standards Council, a joint effort of the payment brands, including Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by merchants and service providers.
+We may share Personal Information in the following ways:
 
-### Changes to this Privacy Policy
+  * Amongst NPFS affiliated entities for purposes of data processing or storage.
+  * With business partners, service vendors, authorized third-party agents, or contractors to provide a requested Service, service or transaction. Examples include, but are not limited to: processing of orders and credit card transactions, hosting websites, assisting with sales-related efforts or post-sales support, and providing customer support.
+  * In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of Our business by or to another company.
+  * In response to a request for information by a competent authority if We believe disclosure is in accordance with or is otherwise required by, any applicable law, regulation or legal process.
+  * With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of NPFS, its business partners, You, or others; or as otherwise required by applicable law.
+  * In aggregated, anonymized, and/or de-identified form which cannot reasonably be used to identify You.
+  * If We otherwise notify You and You consent to the sharing.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If We make material changes to this Policy, We will notify You here or by means of a notice on our homepage so that You are aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. Your continued viewing of or use of the Website following the posting of any changes to this Privacy Policy will signify Your assent to any such changes or amendments.
 
-### How to Contact Fullscript
 
-Any questions including questions about this Privacy Policy should be addressed to [support@fullscript.com](mailto:support@healthwave.co) or by mail to:
+### **Security of Your Personal Information**
 
-Healthy Web Inc.  
-126 York Street, Suite 300  
-Ottawa, Ontario, K1N 5T5  
-Canada
+We endeavor to protect the Personal Information You entrusted to Us and treat it securely by placing appropriate technical and organizational measures to protect the confidentiality of this Personal Information and to protect the Personal Information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, and which provide a level of security appropriate to the risk represented by the processing and the nature of the data to be protected.
 
-Last Modified: March 31st, 2016
+We also contractually require that our suppliers protect such Personal Information from unauthorized access, use, and disclosure. The Internet and mobile networks, however, cannot be guaranteed to be 100% secure, and We cannot ensure or warrant the security of any Personal Information You provide to us through such means.
+
+Except as required by law, NPFS is not responsible for any damages or liabilities relating to any such security failures. Transmission of Personal Information is at Your own risk. Our Website contains links to other websites that do not belong to NPFS. NPFS is not responsible for, nor can NPFS ensure the privacy practices or content of such other sites, and this Policy does not apply to those other websites. If You have any questions about security on our website, You can email us at [privacy@fullscript.com](mailto:privacy@fullscript.com).
+
+### **Consent to Transfer, Processing, and Storage of Personal Information**
+
+As NPFS is a global organization, we may transfer your Personal Information between NPFS offices in Canada and the United States of America, or to third parties and business partners as described above that are located in various countries around the world. By using Our websites and Services or providing any Personal Information to Us, where applicable law permits, You consent to the transfer, processing, and storage of such information outside of Your country of residence where data protection standards may be different.
+
+### **Retention of Personal Information**
+
+We will retain your Personal Information as needed to fulfill the purposes for which it was collected. We will retain and use Your Personal Information as necessary to comply with Our business requirements, legal obligations, resolve disputes, protect our assets, and enforce Our agreements.
+
+**Patient/Client Data Storage for Health Professional**
+
+**_If you are a Patient or Consumer,_** You acknowledge that Your use of Our Service is solely through Your Health Professional and that NPFS may share Personal Information with Your Health Professional for the purposes of facilitating the Product transaction on behalf of Your Practitioner.
+
+**_If You are a Health Professional,_** by using NPFS, You agree that, with respect to other users’ Personal Information that You obtain through NPFS or through a NPFS-related communication or NPFS-facilitated transaction, NPFS hereby grants to You a license to use such information only for NPFS-related communications that are not unsolicited commercial messages. NPFS does not permit spam. Therefore, without limiting the foregoing, You are not licensed to add the name of someone who has purchased an item from You to Your mail list (email or physical mail) without their explicit consent. NPFS owns the data storage, databases and all rights to the NPFS application.
+
+### **Use of Cookies and other Web Technologies**
+
+Like many websites, NPFS uses automatic data collection tools, such as cookies, embedded web links, and web beacons. These tools collect certain standard information that your browser sends to our website. Examples include your browser type and the address of the website from which you arrived at our website. We automatically receive and record information on our server logs from Your browser including IP addresses, cookie information, browsing history and the NPFS website pages requested. We only use this data in aggregate form, for statistical purposes, and not in a manner that would give Us sufficient information to identify You personally. This type of aggregate data enables Us to figure out how often users access parts of the NPFS website, what types of Products they are interested in, where they are generally located and what are their general online behavior patterns. We utilize this information so that we can improve the NPFS website, our product selection and the Service. This information may be shared with advertisers and other third parties on an aggregated basis, but it does not include the Personal Information of individual Users.
+
+They may also collect information about:
+
+  * Your Internet Protocol (IP) address. This is a number automatically assigned to Your computer or device whenever You connect to the Internet. Among other things, the IP address allows web servers to locate and identify Your device for the purpose of facilitating online communications between You and other parties you engage with on the Internet.
+  * Clickstream behavior. This includes, for example, the pages You view and the links you click. These tools help make your visit to Our website easier, more efficient, and more valuable by providing You with a customized experience and recognizing You when You return.
+
+
+
+Our website includes widgets. Widgets are interactive mini-programs that run on Our site to provide specific services from other companies. Information collected by a widget is governed by the privacy policy of the company that created the widget.
+
+Some web browsers may give You the ability to enable a “do not track” feature that sends signals to the websites You visit, indicating that You do not want your online activities tracked. This is different from blocking or deleting cookies, as browsers with a “do not track” feature enabled may still accept cookies.
+
+No industry standard currently exists on how companies should respond to “do not track” signals, although one may develop in the future. NPFS websites functionality is not currently able to recognize and respond to “do not track” signals. If We do in the future, We will describe how in this Privacy Statement.
+
+We partner with third parties to display advertising on our website or to manage Our advertising on other sites. Our third-party partners may use cookies or similar technologies in order to provide You with Fullscript’s advertising based on Your browsing activities and interests.
+
+As part of these efforts to improve your online experience, We use a service provided by both Google and Facebook called “remarketing”. This permits Us to reach people who have previously visited our site, and show them relevant advertisements when they visit other sites across the Internet in the Google Display Network and Facebook Ads platform.
+
+You may be able to opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/), and the [Google Analytics Opt-out Browser Add-on](https://www.google.ca/ads/preferences/plugin/).
+
+### **Linked Websites**
+
+We may provide links to other third-party websites and services that are outside Our control and not covered by this Privacy Statement. We encourage You to review the privacy statements posted on those websites (and all websites) You visit.
+
+### **Your Choices and Selecting Your Communication Preferences**
+
+We give You the choice of receiving a variety of information related to Our Services. You can manage Your communication preferences through the following methods:
+
+  * By following the instructions included in each promotional email from Us to unsubscribe from that particular mailing.
+  * By calling Our Customer Success team, at 1-866-807-3828
+
+
+
+These choices do not apply to service notifications or other required communications that are considered part of certain Services, which You may receive periodically unless You stop using or cancel the Service in accordance with our [Terms of Service](https://fullscript.com/terms-of-service).
+
+By using Our websites, Services, or otherwise providing Personal Information to Us, You agree that We may communicate with You electronically regarding security, privacy, and administrative issues relating to Your use. For example, if We learn of a security system breach, We may attempt to notify you electronically by posting a notice on Our websites, by sending an email, or otherwise contacting You.
+
+### **Children’s Privacy**
+
+NPFS encourages parents and guardians to take an active role in their children’s online activities. NPFS does not knowingly collect Personal Information from children without appropriate parental or guardian consent. If You believe that we may have collected Personal Information from someone under the applicable age of consent in Your country without proper consent, please let Us know using the methods described in the ‘Contact Us’ section of this Privacy Statement and We will take appropriate measures to investigate and address the issue promptly.
+
+**Your California Privacy Rights**
+
+If You are a California resident and use Our Services, You are entitled to request certain information regarding our disclosure of certain ‘personal information’ (as defined in California Civil Code Section 1798.83) to third parties for their direct marketing purposes.
+
+If You are a California resident and have provided us with personal information within the last year, You may make such a request by emailing us at [privacy@fullscript.com ](mailto:privacy@fullscript.com)and typing “California Privacy Rights” in the subject line of the email. Within 30 days of receiving such a request, We will provide a list of the categories of Personal Information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. California residents may also request that We do not share Your Personal Information with third parties for use in direct marketing by them to You. To make such an opt-out request, please email us at [privacy@fullscript.com](mailto:privacy@fullscript.com) and type “California Opt Out” in the subject line of the email.
+
+A request may be made no more than once per calendar year and We are not required to respond to requests made by means other than through the email address above.
+
+### **How to Contact Us**
+
+We value your opinions. Should you have questions or comments directly pertaining to this Privacy Statement, please contact Us at:
+
+Email: privacy@fullscript.com
+
+Phone: 1-866-807-3828
+
+Mail: Data Privacy Officer
+
+Natural Partners, Inc.
+
+245 Cooper Street, Suite 501
+
+Ottawa, ON, K2P0G2, Canada
+
+### **Updates to this Privacy Statement**
+
+We may update this Privacy Statement from time to time. If We modify Our Privacy Statement, We will post the revised version here, with an updated revision date. You agree to visit these pages periodically to be aware of and review any such revisions.
+
+If We make material changes to our Privacy Statement, We may also notify you by other means prior to the changes taking effect, such as by posting a notice on Our websites or sending You a notification. By continuing to use Our website after such revisions are in effect, You accept and agree to the revisions and to abide by them.
+
+#### The NPFS Privacy Statement was revised and posted as of December 21st, 2018.
