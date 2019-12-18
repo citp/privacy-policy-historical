@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305111736id_/https%3A//www.industry.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218044730id_/https%3A//www.industry.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Department of Industry, Innovation and Science
 
