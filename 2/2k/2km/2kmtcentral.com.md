@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2kmtcentral.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527001655id_/https%3A//2kmtcentral.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2kmtcentral.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218163553id_/https%3A//2kmtcentral.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 2KMTCentral
 
