@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mywot.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617050443id_/https%3A//www.mywot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywot.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218113309id_/https%3A//www.mywot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WoT (Web of Trust)
 
 ## Web of Trust
 
-### (Last updated March 30, 2019)
+### (Last updated Aug 25, 2019)
 
 Web of Trust, operated by WOT Services LP (“WOT”), is a world-wide community of millions of users dedicated to creating and maintaining a safe and trustworthy web experience. The WOT services, offered through our website [https://www.mywot.com/](https://web.archive.org/) as well as our desktop and mobile browser extensions and apps (the “WOT Products”) and our online forum and community platform (collectively, the “WOT Services”), involve the collection and analysis of data necessary for the supply of the WOT Services.
 
@@ -119,9 +119,15 @@ Personal Information. We do not share your Personal Information or Non-Personal 
 
 ### Cookies & Third-Party Tools
 
-When you use the WOT website [www.mywot.com](https://web.archive.org/) or our WOT extension, we may use Cookies that enable us to identify you. A "Cookie" is a small text file located in a browser directory, that a website assigns and stores on your computer while you are viewing a website. The use of Cookies is a standard practice, and they are used for various purposes including allowing you to navigate between pages efficiently, enabling automatic activation of certain features, remembering your preferences and making the interaction between you and services such as ours quicker and easier. Cookies are also used to help customize your experience. You can find more information about cookies at [www.allaboutcookies.org](https://web.archive.org/web/20190617050443id_/https%3A//www.mywot.com/ww.allaboutcookies.org) .
+When you use the WOT website [www.mywot.com](https://web.archive.org/) or our WOT extension, we may use Cookies that enable us to identify you. A "Cookie" is a small text file located in a browser directory, that a website assigns and stores on your computer while you are viewing a website. The use of Cookies is a standard practice, and they are used for various purposes including allowing you to navigate between pages efficiently, enabling automatic activation of certain features, remembering your preferences and making the interaction between you and services such as ours quicker and easier. Cookies are also used to help customize your experience. You can find more information about cookies at [www.allaboutcookies.org](https://web.archive.org/web/20191218113309id_/https%3A//www.mywot.com/ww.allaboutcookies.org) .
 
-Our website may use third party content (e.g. [www.youtube.com](http://www.youtube.com/) ), third party tools (e.g. [www.google.com/analytics/](http://www.google.com/analytics/) ), or embedded badges from social networks (e.g. [www.facebook.com](http://www.facebook.com/) ). These third parties may use and store their own Cookies on your device, which may collect information about you, including Personal Information, subject to their own privacy practices. These Cookies may collect information such as how often users access the WOT website, what pages users visit and when. For more information on third party Cookies, check with the relevant third party. For more information about the third party tools we use at any given time, please contact us at [support@mywot.com](mailto:support@mywot.com).
+Our website may use third party content (e.g. [www.youtube.com](http://www.youtube.com/) ), third party tools (e.g. [www.google.com/analytics/](http://www.google.com/analytics/) ), or embedded badges from social networks (e.g. [www.facebook.com](http://www.facebook.com/) ). These third parties may use and store their own Cookies on your device, which may collect information about you, including Personal Information, subject to their own privacy practices. These Cookies may collect information such as how often users access the WOT website, what pages users visit and when. 
+
+We use Hotjar in order to better understand our users’ needs and to optimize our service. Hotjar is a technology service that helps us better understand our users’ experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and do not like) which enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
+
+You can opt out of the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites, by following this opt-out [link](https://www.hotjar.com/legal/compliance/opt-out).
+
+For more information on third party Cookies, check with the relevant third party. For more information about the third party tools we use at any given time, please contact us at [support@mywot.com](mailto:support@mywot.com).
 
 We use the information we receive from third parties such as Google Analytics to improve the WOT Services. We do not combine the information collected through the use of Google Analytics with any Personal Information that we collect from you. You may remove Cookies by following the instructions on your device for setting your preferences. Our Cookies do not enable any access to or inspection of other information on your computer. If you wish to be notified of when they are placed, you may set your web browser to provide such notices.
 
@@ -159,7 +165,7 @@ We may send periodic promotional and informational emails to you, about the WOT 
 
 ### Minors
 
-If you are under 18, please be sure to read this Privacy Policy with your parents or legal guardian and ask questions about things you do not understand. In addition, children under age 13 are prohibited from using the WOT Services. In the event we become aware that a user under the age of 13 has shared any personal information, we will discard such information. If you have any reason to believe that a child under the age of 13 has shared any personal information with us, please contact our Data Protection Officer at: [dpo@mywot.com](https://web.archive.org/web/20190617050443id_/https%3A//www.mywot.com/dpo@mywot.com)
+If you are under 18, please be sure to read this Privacy Policy with your parents or legal guardian and ask questions about things you do not understand. In addition, children under age 13 are prohibited from using the WOT Services. In the event we become aware that a user under the age of 13 has shared any personal information, we will discard such information. If you have any reason to believe that a child under the age of 13 has shared any personal information with us, please contact our Data Protection Officer at: [dpo@mywot.com](https://web.archive.org/web/20191218113309id_/https%3A//www.mywot.com/dpo@mywot.com)
 
 ### Third-Party Links
 
