@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenvelope.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319103655id_/https%3A//www.greenvelope.com/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenvelope.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218055056id_/https%3A//www.greenvelope.com/terms%23privacy) for the most accurate reproduction.*
 
 # Terms and Privacy | Greenvelope.com
 
@@ -284,7 +284,7 @@ If you wish to unsubscribe from receiving marketing emails from Greenvelope, LLC
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email at [info@greenvelope.com](mailto:info@greenvelope.com). We will promptly correct any information found to be incorrect. You may also request that we delete the information we have collected about you at any time by emailing us at [info@greenvelope.com](mailto:info@greenvelope.com). Please note that in certain circumstances, we may not be able to completely remove your information from our systems. For example, we may retain your information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in our data backup systems or cached or archived pages, or where the burden or expense of accommodating your request would, in our good faith judgment, be disproportionate to the risks to your privacy, or where the rights of others may be violated. All retained personal information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. Personal data will be retained only for as long as necessary for Greenvelope to be able to response to inquiries about prior account activity and audits related to prior purchases.
 
-Finally, you may request access to the information we have collected about you by sending a request to [info@greenvelope.com](mailto:info@greenvelope.com). 
+Finally, you may request access to the personal information we have collected about you by sending a request to [info@greenvelope.com](mailto:info@greenvelope.com). 
 
   
 **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
