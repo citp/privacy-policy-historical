@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidercarnews.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623155641id_/http%3A//www.insidercarnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidercarnews.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218115126id_/https%3A//www.insidercarnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Insider Car News
 
@@ -61,7 +61,7 @@ If you no longer wish to receive newsletter or promotional communications from u
 
 ### 9\. ACCESS/ACCURACY
 
-To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will make reasonable efforts to comply as soon as possible.
+To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to Privacy@InsiderCarNews.com and we will make reasonable efforts to comply as soon as possible.
 
 ### 10\. SECURITY OF INFORMATION
 
@@ -83,7 +83,7 @@ When you use or provide data on our website, we will maintain your data for our 
 
 ### 14\. CALIFORNIA PRIVACY RIGHTS
 
-Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either: (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties going forward, simply email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the words “Opt-Out” in the subject header.
+Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either: (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties going forward, simply email us at Privacy@InsiderCarNews.com with the words “Opt-Out” in the subject header.
 
 ### 15\. CHILDREN
 
@@ -91,7 +91,7 @@ If you are under 18, you may not access or use the Site. BY ACCESSING OR USING T
 
 ### 16\. CONTACT INFORMATION
 
-For more information, or if you have questions or concerns regarding our Privacy Policy or wish to opt-out as provided above, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or send us correspondence at the following address:
+For more information, or if you have questions or concerns regarding our Privacy Policy or wish to opt-out as provided above, you may email us at Privacy@InsiderCarNews.com or send us correspondence at the following address:
 
 InsiderCarNews.com  
 5254 Station Way  
