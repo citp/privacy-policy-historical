@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowtcg.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622170802id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowtcg.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218061445id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
 
-# Blizzard Entertainment® Online Privacy Policy Blizzard Legal
+# Blizzard Entertainment Online Privacy Policy - Blizzard Legal
 
 [](http://www.esrb.org/confirm/blizzard-confirmation.aspx)
 
