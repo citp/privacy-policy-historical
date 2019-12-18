@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.com.au privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412161424id_/https%3A//www.panasonic.com/au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.com.au privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218034314id_/https%3A//www.panasonic.com/au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Panasonic Australia
 
@@ -123,5 +123,3 @@ If you believe that your complaint has not been satisfactorily addressed by Pana
 For more information about making a complaint, contact Panasonic at privacyofficer@au.panasonic.com.
 
 Panasonic may amend this Privacy Policy at any time. Amendments to this Privacy Policy will be posted on our websites and will be effective when posted. Please check our Privacy Policy regularly for updates and amendments.
-
-*As amended 12 March 2014.
