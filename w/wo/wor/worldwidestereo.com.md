@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the worldwidestereo.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309041113id_/https%3A//www.worldwidestereo.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidestereo.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218070818id_/https%3A//www.worldwidestereo.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Wide Stereo
 
 ## Privacy Policy  
 
 
-Updated: 5/25/18  
+Updated: 11/14/19  
 We've updated our Privacy Policy in accordance with the EU General Data Protection Regulation (GDPR).
 
   
