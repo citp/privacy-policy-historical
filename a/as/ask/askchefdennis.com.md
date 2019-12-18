@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askchefdennis.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211022316id_/https%3A//www.askchefdennis.com/about-chef-dennis/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askchefdennis.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218192844id_/https%3A//www.askchefdennis.com/about-chef-dennis/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chef Dennis
 
