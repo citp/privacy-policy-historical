@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617181143id_/https%3A//www.airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218195951id_/https%3A//www.airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
 
 # AirDroid | Delight Your Multi-Screen Life
 
@@ -6,7 +6,7 @@
 
 We collect information from you when you register on our site or software, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-When ordering or registering on our site or software, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card or debit card information. You may, however, visit our site or software anonymously.
+When ordering or registering on our site or software, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number or credit card or debit card information. You may, however, visit our site or software anonymously.
 
 ## What information can AirDroid access?
 
