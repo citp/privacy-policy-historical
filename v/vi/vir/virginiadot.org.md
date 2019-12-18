@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginiadot.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618010756id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiadot.org privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218011520id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
 
 # Legal - Info | Virginia Department of Transportation
 
@@ -77,4 +77,4 @@ In general, you can tell if you are on a secure page by looking at the symbol at
 
 If you have questions about this privacy statement, the practices of this site, or your interaction with this Web site, please contact us.
 
-Page last modified: Jan. 26, 2018
+Page last modified: Oct. 18, 2019
