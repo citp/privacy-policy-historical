@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the best-sites.co.uk privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919170959id_/http%3A//best-sites.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-sites.co.uk privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218134955id_/https%3A//best-sites.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Best Sites
+
+## Privacy Policy:
 
 Adam Herrera (" **Adam** ") operates Best-Sites.co.uk and may operate other websites. It is Adam's policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -12,7 +14,7 @@ Adam also collects potentially personally-identifying information like Internet 
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Adam's websites choose to interact with Adam in ways that require Adam to gather personally-identifying information. The amount and type of information that Adam gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Best-Sites.co.uk](http://best-sites.co.uk/) to provide a username and email address. Those who engage in transactions with Adam are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Adam collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Adam. Adam does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Adam's websites choose to interact with Adam in ways that require Adam to gather personally-identifying information. The amount and type of information that Adam gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Best-Sites.co.uk](https://best-sites.co.uk/) to provide a username and email address. Those who engage in transactions with Adam are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Adam collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Adam. Adam does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
