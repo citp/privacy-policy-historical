@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the uq.edu.au privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519104457id_/https%3A//www.uq.edu.au/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uq.edu.au privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218063241id_/https%3A//www.uq.edu.au/terms-of-use) for the most accurate reproduction.*
 
 # Website Terms of Use - The University of Queensland, Australia
 
-  * [Copyright](https://web.archive.org/web/20190519104457id_/http://www.uq.edu.au/terms-of-use/index.html#copyright)
-  * [Privacy](https://web.archive.org/web/20190519104457id_/http://www.uq.edu.au/terms-of-use/index.html#privacy)
-  * [Disclaimer](https://web.archive.org/web/20190519104457id_/http://www.uq.edu.au/terms-of-use/index.html#disclaimer)
-  * [Additional Information](https://web.archive.org/web/20190519104457id_/http://www.uq.edu.au/terms-of-use/index.html#additional_information)
+  * [Copyright](https://web.archive.org/web/20191218063241id_/https://www.uq.edu.au/terms-of-use/index.html#copyright)
+  * [Privacy](https://web.archive.org/web/20191218063241id_/https://www.uq.edu.au/terms-of-use/index.html#privacy)
+  * [Disclaimer](https://web.archive.org/web/20191218063241id_/https://www.uq.edu.au/terms-of-use/index.html#disclaimer)
+  * [Additional Information](https://web.archive.org/web/20191218063241id_/https://www.uq.edu.au/terms-of-use/index.html#additional_information)
 
 
 
