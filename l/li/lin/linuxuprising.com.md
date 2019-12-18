@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxuprising.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413220507id_/https%3A//www.linuxuprising.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxuprising.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218151547id_/https%3A//www.linuxuprising.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Linux Uprising Blog
 
@@ -24,7 +24,7 @@ In addition to this, some blog posts or comments may include personal data such 
 
 Linux Uprising respects your personal data and takes care to maintain its confidentiality.
 
-If you would like any personal data which is included in blog posts or comments to be removed or have any questions about the Linux Uprising website data privacy policy, please email Linux Uprising through the [Contact Page](https://www.linuxuprising.com/p/contact.html).
+If you would like any personal data which is included in blog posts or comments to be removed or have any questions about the Linux Uprising website data privacy policy, please email Linux Uprising at contact [at] linuxuprising [dot] com.
 
 **Cookies** – Linux Uprising or third parties may use cookies, web beacons, HTML5 local storage, JavaScript, and other similar technologies to help us understand how you use the Services and help us provide the Services and advertising to you.  
 A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once the user closes the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following the user’s internet browser help file directions.  
@@ -43,13 +43,13 @@ We store a cookie on each user’s machine that contains user specific informati
  **Ad Serving** – The ads appearing on these websites are delivered to you by a web advertising vendor and/or by Linux Uprising's own proprietary advertising delivery software. In order to serve ads to you, we may use information collected during your searches or visits to our websites and information that we specifically acquire from third parties.
 
 **Advertising and Cookies** – Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us. Linux Uprising has no access to or control over these cookies once we have received the advertisements. Some of these advertisers and services we use to deliver advertising may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.  
-Linux Uprising currently uses Google Adsense to serve ads. You may read about how Google uses information from sites or apps that use their services here: <https://policies.google.com/technologies/partner-sites>
+Linux Uprising currently uses Google Adsense and Ezoic to serve ads. You may read about how Google uses information from sites or apps that use their services here: <https://policies.google.com/technologies/partner-sites> and Ezoic here: <https://www.linuxuprising.com/privacy.html>
 
 **Affiliate Advertising** – We participate in affiliate advertising and allow affiliate links to be encoded on some of our pages. This means that we may earn a commission when you click on or make purchases via affiliate links and affiliate partners may use cookies to understand your use of the Services.  
 Linux Uprising does not provide any Personally Identifiable Information to third-party advertising companies. 
 
 **Opt-out** – We provide the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising:  
-First Party Opt-out – Please visit this link to opt-out of cookies from our first party ad serving vendor, Google: <https://www.google.com/privacy/ads/>; Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: <https://www.aboutads.info/choices/>.
+First Party Opt-out – Please visit this link to opt-out of cookies from our first party ad serving vendor, Google: <https://www.google.com/privacy/ads/>; Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: <https://www.aboutads.info/choices/>. You may also change the cookie settings for Linux Uprising by clicking here.
 
 ## 3\. Notification of Changes
 
