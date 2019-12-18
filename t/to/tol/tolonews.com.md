@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolonews.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092656id_/https%3A//www.tolonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolonews.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218051020id_/https%3A//www.tolonews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TOLOnews
 
