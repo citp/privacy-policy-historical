@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524180726id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218055207id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Qualys Privacy Statement
 
