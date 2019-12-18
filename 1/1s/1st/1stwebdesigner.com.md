@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stwebdesigner.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214536id_/https%3A//1stwebdesigner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stwebdesigner.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218204412id_/https%3A//1stwebdesigner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • 1stWebDesigner
 
