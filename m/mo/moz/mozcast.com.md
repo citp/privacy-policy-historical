@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozcast.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625213935id_/https%3A//moz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozcast.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219005738id_/https%3A//moz.com/privacy-policy) for the most accurate reproduction.*
 
 # Moz - Moz Privacy Policy
 
@@ -134,7 +134,7 @@ We may collect and disclose anonymous and aggregated information about our users
   * We share your personal information with trusted third parties who are our technology suppliers and partners where we have agreements to provide services with or in conjunction with Moz Services that our marketing research indicates you have sought if not actually requested, such as Google Analytics, worldwide business location map and other location-specific software as a service offerings, and reliable keyword data services for SEO. Moz is committed to working with suppliers and partners who comply with similar and equally protective undertakings of privacy and confidentiality.
   * We share your personal information with third parties who perform functions on our behalf and who also provide services to us, such as professional advisors, IT consultants carrying out testing and development work on our business technology systems, research and mailing houses and function coordinators, including software systems for customer relationship management (customer relationship management/sales force automation, e.g. Salesforce.com), customer service and support solutions (e.g. Intercom), email campaign marketing (e.g. Marketo and HubSpot). These third parties comply with similar and equally protective undertakings of privacy and confidentiality.
   * We do not currently have very limited affiliated companies. However, as we grow our business, we will likely share your personal information with our other affiliated (“Group”) companies for internal reasons, primarily for business and operational purposes. As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or merges with us, your personal information will be disclosed to such entity. Also, should any bankruptcy or reorganization proceeding ever be brought by or against us, all such information will be considered an asset of ours and as such it is possible they will be sold or transferred to third parties.
-  * Where required, we share your personal information with third parties to comply with a legal obligation; when we believe in good faith that an applicable law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our Terms of Use (<https://moz.com/terms-of-use>) or other applicable policies; to detect and protect against fraud, or any technical or security vulnerabilities; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our website, our business, or the public.
+  * Where required, we share your personal information with third parties to comply with a legal obligation; when we believe in good faith that an applicable law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our Terms of Use ([https://moz.com/terms-of-use](https://web.archive.org/terms-of-use)) or other applicable policies; to detect and protect against fraud, or any technical or security vulnerabilities; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our website, our business, or the public.
   * To fulfill the purpose for which you provide it. For example, if you give us an email address to use the "email a friend" feature of our Sites, we will transmit the contents of that email and your email address to the recipients.
   * For any other purpose disclosed by us when you provide the information.
   * With your consent.
@@ -274,7 +274,7 @@ When determining the relevant period in which we retain or establish/revise peri
 
 Otherwise, pursuant to GDPR, we will securely erase your personal information/Personal Data once there is no lawful basis or legal obligation to store or process it.
 
- **Other helpful information about Moz, the Sites and the Services, and GDPR is available from Moz’s GDPR FAQ located**[ **here**](https://moz.com/gdpr) **.**
+ **Other helpful information about Moz, the Sites and the Services, and GDPR is available from Moz’s GDPR FAQ located**[ **here**](https://web.archive.org/gdpr) **.**
 
 #####  **Your Rights Under California Privacy Statutes**
 
@@ -298,12 +298,15 @@ To ask any other questions or comment about this privacy policy and our privacy 
 
 In accordance with GDPR Article 27, we have appointed the following company as our official EU Representative:
 
-Chaucer Group Ltd  
-Northern & Shell Building  
-10 Lower Thames St  
-London  
-EC3R 6EN  
-Tel: +44 (0) 203 141 8400  
-Email: [compliance@chaucer.com](mailto:compliance@chaucer.com) 
+VeraSafe Ireland Ltd.   
+Unit 3D North Point House   
+North Point Business Park   
+New Mallow Road   
+Cork T23AT2P   
+Ireland
 
-Updated October 19, 2018
+Tel: ++42 (0) 228 881 031  
+VeraSafe [Online Inquiry Contact Form](https://www.verasafe.com/privacy-services/contact-article-27-representative/)  
+
+
+Updated July 1, 2019
