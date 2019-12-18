@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623221256id_/https%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218183946id_/https%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RedFlagDeals.com
 
-If you are from a GDPR-compliant country, please see [the European version of our Privacy Policy](https://web.archive.org/web/20190623221256id_/https://www.redflagdeals.com/info/privacy/eu)
+If you are from a GDPR-compliant country, please see [the European version of our Privacy Policy](https://web.archive.org/web/20191218183946id_/https://www.redflagdeals.com/info/privacy/eu)
 
 Last updated: January 29, 2019 
 
