@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the suffolk.edu privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412145739id_/https%3A//www.suffolk.edu/about/mission-history/policies-procedures/internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suffolk.edu privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218072626id_/https%3A//www.suffolk.edu/about/mission-history/policies-procedures/internet-privacy-policy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Suffolk University
-
-## Internet Privacy Policy
-
-## Privacy Statement
 
 Suffolk University is committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information from those visiting and using the University web site. By using the University website you consent to the collection, retention and use of your personal information in accordance with the terms of this policy. If you do not agree with the use of personal information as described in this Privacy Policy or any changes to it, you should not use or access the website or any features of the website. The types of information we collect may vary depending on the specific site you visit or application you use. Accordingly, this Privacy Statement is intended to be a general statement and may be supplemented by more specific privacy policies that pertain to personal information exclusively associated with a specific department, unit or function.
 
