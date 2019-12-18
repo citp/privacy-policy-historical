@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the lifx.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325190817id_/https%3A//www.lifx.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifx.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218130718id_/http%3A//www.lifx.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – LIFX.com
+# Privacy Policy – LIFX US
 
-**LAST UPDATED: MAY 28, 2018**
+**LAST UPDATED: AUGUST 20, 2019**
 
 Lifi Labs, Inc. dba LIFX, a Delaware corporation, and its affiliates and subsidiaries (“ **LIFX** ”, “ **we** ”, “ **us** ”, or “ **our** ”) are committed to protecting your privacy.  Please read this Privacy Policy (the “ **Privacy Policy** ”) carefully to understand our policies and practices regarding your information and how we will treat it. This Privacy Policy is intended to inform you about the kind of information, including personally identifiable information, that we may collect from you in connection with your use of the Services and how, and for what purpose, we use that information.
 
-This Privacy Policy is a part of and incorporated into the [LIFX Terms of Service](https://www.lifx.com/pages/terms-of-service) (the “ **Terms** ”). If any provision of this Privacy Policy is inconsistent or conflicts with any provision in the Terms, this Privacy Policy will control with respect to the subject matter hereof.  Capitalized terms used in this Privacy Policy but not defined in this Privacy Policy have the meanings given to them in the Terms.
+This Privacy Policy is a part of and incorporated into the [LIFX Terms of Service](https://www.lifx.com/pages/terms-of-service) (the “ **Terms** ”). If any provision of this Privacy Policy is inconsistent or conflicts with any provision in the Terms, this Privacy Policy will control with respect to the subject matter hereof.  Capitalized terms used in this Privacy Policy but not defined in this Privacy Policy have the meanings given to them in the Terms.
 
 **WHO WE (LIFX) ARE**
 
 When we refer to or use “ **LIFX** ”, “ **we** ”, “ **us** ”, or “ **our** ” throughout this Privacy Policy it means the LIFX entity who is the controller of your data under this Privacy Policy, namely the LIFX entity with which you had, have, or will have a business relationship or that otherwise decides what data of yours is collected and how it is used. You may obtain
 
-Please note that the LIFX subsidiaries and affiliates include companies in which Lifi Labs, Inc. dba LIFX has control, either through direct or indirect ownership. You may obtain a list of the LIFX subsidiaries and affiliates by contacting [privacy@lifx.com](mailto:privacy@lifx.com).
+Please note that the LIFX subsidiaries and affiliates include companies in which Lifi Labs, Inc. dba LIFX has control, either through direct or indirect ownership. You may obtain a list of the LIFX subsidiaries and affiliates by contacting [privacy@lifx.com](mailto:privacy@lifx.com).
 
 **HOW TO CONTACT US**
 
-Please feel free to contact us if you have any questions about this Privacy Policy or LIFX’s information collection and security practices or to exercise any of your rights set out in this Privacy Policy by email: at [privacy@lifx.com](mailto:privacy@lifx.com) or by mail at: LIFX, 585 Broadway, Redwood City, 94063, attention: Privacy Team.
+Please feel free to contact us if you have any questions about this Privacy Policy or LIFX’s information collection and security practices or to exercise any of your rights set out in this Privacy Policy by email: at [privacy@lifx.com](mailto:privacy@lifx.com) or by mail at: LIFX,350 Townsend Street #830 San Francisco, 94107, attention: Privacy Team.
 
 **WHEN THIS PRIVACY POLICY APPLIES (AND WHEN IT DOESN’T)**
 
@@ -28,14 +28,16 @@ Please feel free to contact us if you have any questions about this Privacy Poli
 
   * Subscribe to our newsletters, marketing campaigns or participate in our surveys or giveaways;
 
-  * Contact our customer support; or
+  * Contact our customer support
+
+  * Collaborate with us in a paid or unpaid partnership; or
 
   * Otherwise interact with us in your capacity as a customer.
 
 
 
 
-**Unless otherwise stated in this Privacy Policy, this Privacy Policy does _not_ apply**:
+**Unless otherwise stated in this Privacy Policy, this Privacy Policy does   _not_  apply**:
 
   * When you visit or use third party links and websites.
   * To information you share when you connect, integrate or use the LIFX Products with third party applications, integrations, or services.
@@ -46,7 +48,7 @@ Please feel free to contact us if you have any questions about this Privacy Poli
 
 By accessing or using the Services, or submitting information through the Services, you acknowledge and agree that by providing us Personal Information you (1) understand that you allow us to identify you; and (2) have read, understand, and agree to the terms of this Privacy Policy and you expressly consent to the collection, use, and disclosure of your Personal Information and Anonymous Information (as each term is defined below) in accordance with this Privacy Policy.
 
-Some of the services we provide may be obstructed if you do not provide us the necessary Personal Information.  **﻿IF YOU DO NOT AGREE WITH OUR POLICIES AND PRACTICES, UNLESS OTHERWISE STATED, YOUR CHOICE IS NOT TO USE OR ACCESS THE SERVICES.**
+Some of the services we provide may be obstructed if you do not provide us the necessary Personal Information.  **IF YOU DO NOT AGREE WITH OUR POLICIES AND PRACTICES, UNLESS OTHERWISE STATED, YOUR CHOICE IS NOT TO USE OR ACCESS THE SERVICES.**
 
 **DEFINING “PERSONAL INFORMATION”**
 
@@ -137,7 +139,7 @@ Log file information, which may include your internet protocol (IP) address, URL
 
 A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your computer or device in order to remember information about you, such as your language and/or currency preference or login information. LIFX may use similar techniques, such as pixels, web beacons etc., which we will refer to collectively as “cookies”. Where required by applicable law, we will obtain your consent prior to setting cookies (except for strictly necessary cookies).
 
-Please refer to our [Cookie Policy](https://www.lifx.com/pages/cookie-policy) for more information about the types of cookies and tracking technologies that we use, and why, on and through the Services, and how to accept and reject them.
+Please refer to our [Cookie Policy](https://www.lifx.com/pages/cookie-policy) for more information about the types of cookies and tracking technologies that we use, and why, on and through the Services, and how to accept and reject them.
 
 **_Google Analytics_**
 
@@ -147,13 +149,13 @@ Google may use the data collected on or through the Services to contextualize an
 
 Google offers an opt-out mechanism for the web available [here](https://tools.google.com/dlpage/gaoptout/).
 
-Please refer to our [Cookie Policy](https://www.lifx.com/pages/cookie-policy) for more information about the types of cookies and tracking technologies that we use, and why, on and through the Services, and how to accept and reject them.
+Please refer to our [Cookie Policy](https://www.lifx.com/pages/cookie-policy) for more information about the types of cookies and tracking technologies that we use, and why, on and through the Services, and how to accept and reject them.
 
-**_Web Beacons   _**
+**_Web Beacons  _**
 
 Pages within the LIFX Website, LIFX App, and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain content and verifying system and server integrity). This information is used to enable more accurate reporting, improve the effectiveness of our marketing, and improve the Services. 
 
-We do not use web beacons to store or link to Personal Information. For more information on LIFX’s use of web beacons please refer to our [Cookie Policy](https://www.lifx.com/pages/cookie-policy).
+We do not use web beacons to store or link to Personal Information. For more information on LIFX’s use of web beacons please refer to our [Cookie Policy](https://www.lifx.com/pages/cookie-policy).
 
 **_Services usage information_**
 
@@ -213,7 +215,7 @@ To the extent we provide you with access to and control of your information (for
 
 In certain jurisdictions you have the right to request access and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, to restrict or object to the processing of your Personal Information, to have the information blocked, anonymized or deleted, as appropriate, or to exercise your right to data portability to transfer your Personal Information to another company. Those rights may be limited in some circumstances by local law requirements. In addition to the above-mentioned rights, you also have the right to lodge a complaint with a competent supervisory authority subject to applicable law.
 
-If you would like to access, review, update, rectify, and delete any Personal Information we hold about you, or exercise any other data subject right available to you under applicable data protection laws and regulation, you can do so by submitting your request in writing by email: at [privacy@lifx.com](mailto:privacy@lifx.com) or by mail at: LIFX, 585 Broadway, Redwood City, 94063, attention: Privacy Team.
+If you would like to access, review, update, rectify, and delete any Personal Information we hold about you, or exercise any other data subject right available to you under applicable data protection laws and regulation, you can do so by submitting your request in writing by email: at [privacy@lifx.com](mailto:privacy@lifx.com) or by mail at: LIFX, 585 Broadway, Redwood City, 94063, attention: Privacy Team.
 
 We will do our best to address your request in time and free of charge, except where it would require a disproportionate effort. In certain cases, we may ask you to verify your identity before we can act on your request. If you are unsatisfied with the reply received, you may then refer your complaint to the relevant regulator in your jurisdiction.
 
@@ -221,11 +223,11 @@ Please note that we may still use Anonymous Information that does not identify a
 
 **_Cookies_**
 
-You can accept or reject cookies by adjusting your web browser controls. Please consult our [Cookie Policy](https://www.lifx.com/pages/cookie-policy) for more information about our use of cookies and how to accept and reject them.
+You can accept or reject cookies by adjusting your web browser controls. Please consult our [Cookie Policy](https://www.lifx.com/pages/cookie-policy) for more information about our use of cookies and how to accept and reject them.
 
 **_Marketing Communications_**
 
-If you decide at any time that you no longer wish to receive such marketing communications from us, please follow the unsubscribe instructions provided in any of the communications. You may also opt out from receiving commercial email from us by sending your request to us by email at [privacy@lifx.com](mailto:privacy@lifx.com). Please be aware that, even after you opt out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Services.
+If you decide at any time that you no longer wish to receive such marketing communications from us, please follow the unsubscribe instructions provided in any of the communications. You may also opt out from receiving commercial email from us by sending your request to us by email at [privacy@lifx.com](mailto:privacy@lifx.com). Please be aware that, even after you opt out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Services.
 
 Where required by law, we obtain your consent for the processing of certain Personal Information collected by cookies or similar technologies, or used to send you direct marketing communications, or when we carry out other processing activities for which consent may be required. If we rely on consent for the processing of your Personal Information, you have the right to withdraw it at any time and free of charge. When you do so, this will not affect the lawfulness of the processing before your consent withdrawal.
 
@@ -235,19 +237,23 @@ If you have registered an account for the LIFX App or if you have contacted us 
 
 **_California Residents – Shine the Light Law_**
 
-Residents of California are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [privacy@lifx.com](mailto:privacy@lifx.com).
+Residents of California are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [privacy@lifx.com](mailto:privacy@lifx.com).
 
 **INTERNATIONAL TRANSFERS**
 
 LIFX is based in the United States. Personal Information that we collect may be transferred to, and stored at, any of our affiliates, partners or service providers which may be inside or outside the European Economic Area (“ **EEA** ”) and Switzerland, including the United States and Australia. By submitting your information to us, you agree to such transfers. Your Personal Information may be transferred to countries that do not have the same data protection laws as the country in which you initially provided the information. When we transfer or disclose your Personal Information to other countries, we will protect that information as described in this Privacy Policy.
 
-With regard to transfers from the EEA to other countries that are not are recognized by the European Commission as providing an adequate level of protection, we have put in place adequate measures to protect your data, such as organizational and legal measures (e.g. standard contractual clauses approved by the European Commission). You may obtain a copy of these measures by contacting us at [privacy@lifx.com](mailto:privacy@lifx.com).
+With regard to transfers from the EEA to other countries that are not are recognized by the European Commission as providing an adequate level of protection, we have put in place adequate measures to protect your data, such as organizational and legal measures (e.g. standard contractual clauses approved by the European Commission). You may obtain a copy of these measures by contacting us at [privacy@lifx.com](mailto:privacy@lifx.com).
 
 **DATA DELETION AND RETENTION**
 
 We keep your data for the period necessary to fulfill the purposes for which it has been collected (for details on these purposes, see section titled “ _Information We Collect and How We Use It_ ” above). We also take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period.
 
 When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrollment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law and the statute of limitations.  In any event, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+If you wish to delete your cloud account data, and revoke access to LIFX applications and devices you can do so at  <https://cloud.lifx.com/> 
+
+When you delete your Customer Data, LIFX will confirm the deletion request and will commence removing the data iteratively from application and cloud storage, from both active and backup storage systems.  Deletion from application and cloud storage may occur immediately depending on how storage of the data has been configured and the timing of ongoing deletion cycles in the relevant data centers.
 
 **SECURITY**
 
@@ -257,7 +263,7 @@ Please be aware that no security measures are perfect or impenetrable. We cannot
 
 We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored Personal Information to you via email or conspicuous posting on our Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system , and any other disclosures that may be required under applicable law.
 
-If you have any questions regarding our security measures please contact [privacy@lifx.com](mailto:privacy@lifx.com).
+If you have any questions regarding our security measures please contact [privacy@lifx.com](mailto:privacy@lifx.com).
 
 **CALIFORNIA AND DELAWARE "DO NOT TRACK" DISCLOSURES**
 
@@ -265,7 +271,7 @@ California and Delaware law require LIFX to indicate whether it honors “Do Not
 
 **CHILDREN**
 
-LIFX does not knowingly collect or maintain Personal Information from or about children under the age of thirteen (13) and the Services are not intended to be used by persons under thirteen (13). If you are under the age of thirteen (13), please do not use any of our Services at any time nor in any manner   If we learn that Personal Information of persons under thirteen (13) years of age has been collected on or through the Services, then we may deactivate the account and/or make the user content inaccessible. If you find that we have Personal Information about anyone below thirteen (13) years of age, please inform us at [privacy@lifx.com](mailto:privacy@lifx.com).
+LIFX does not knowingly collect or maintain Personal Information from or about children under the age of thirteen (13) and the Services are not intended to be used by persons under thirteen (13). If you are under the age of thirteen (13), please do not use any of our Services at any time nor in any manner   If we learn that Personal Information of persons under thirteen (13) years of age has been collected on or through the Services, then we may deactivate the account and/or make the user content inaccessible. If you find that we have Personal Information about anyone below thirteen (13) years of age, please inform us at [privacy@lifx.com](mailto:privacy@lifx.com).
 
 **CHANGES TO THIS PRIVACY POLICY**
 
@@ -273,6 +279,6 @@ This Privacy Policy may be amended by us from time to time.  If we make materia
 
 **QUESTIONS AND ADDITIONAL INFORMATION**
 
-Please feel free to contact us at [privacy@lifx.com](mailto:privacy@lifx.com) if you have any questions about this Privacy Policy or LIFX’s information collection and security practices.
+Please feel free to contact us at [privacy@lifx.com](mailto:privacy@lifx.com) if you have any questions about this Privacy Policy or LIFX’s information collection and security practices.
 
-**© 2018 Lifi Labs, Inc. All rights reserved.**
+**©  2018 Lifi Labs, Inc. All rights reserved.**
