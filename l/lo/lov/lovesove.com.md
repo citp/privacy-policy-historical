@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovesove.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921001622id_/http%3A//www.lovesove.com/cards/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesove.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219005258id_/https%3A//www.lovesove.com/cards/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy/Disclaimer | LoveSove.com
+# Privacy Policy/Disclaimer | -LoveSove.com ©2019
 
 Privacy Policy/Disclaimer
 
