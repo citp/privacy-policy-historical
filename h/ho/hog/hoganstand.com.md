@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoganstand.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221333id_/http%3A//www.hoganstand.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoganstand.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218055436id_/http%3A//hoganstand.com/Home/Privacy) for the most accurate reproduction.*
 
 # HoganStand GAA Football and Hurling
 
