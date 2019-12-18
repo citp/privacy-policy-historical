@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayhealth.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617114300id_/https%3A//www.everydayhealth.com/privacyterms/%23everyday_health_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayhealth.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218193611id_/https%3A//www.everydayhealth.com/privacyterms/%23everyday_health_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everyday Health
 
@@ -43,7 +43,7 @@ Everyday Health, Inc., with its parents, affiliates and its subsidiaries (collec
 
 Except as otherwise noted in this Privacy Policy, Everyday Health is a data controller (as that term is used under the  **[EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) **(“ **GDPR** ”)), which means that we decide how and why the information you provide to us is processed. Please contact us using our [**DSAR Portal**](https://dsar.everydayhealth.com/). This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
 
- **This Privacy Policy covers information collected through the website[ **Everyday Health**](https://www.everydayhealth.com/) and the applications Everyday Health, Calorie Counter and Diabetes in Check. **
+ **This Privacy Policy covers information collected through the websites  [ **Everyday Health**](https://www.everydayhealth.com/) and [Castle Connolly](https://castleconnolly.com/) and the applications Everyday Health, Calorie Counter and Diabetes in Check. **
 
 ### 2\. What Categories of Information We May Process
 
