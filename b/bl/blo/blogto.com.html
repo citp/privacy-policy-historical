@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blogto.com privacy policy that was archived on 2019-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603155151id_/https%3A//www.blogto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogto.com privacy policy that was archived on 2019-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191218153245id_/https%3A//www.blogto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: https://ogp.me/ns#"><head>
 
@@ -7,6 +7,7 @@
     
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="msapplication-config" content="https://static.blogto.com/static/img/favicon/browserconfig.xml">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
     <link rel="alternate" type="application/atom+xml" title="blogTO RSS Feed" href="http://feeds.feedburner.com/blogto">
     <meta name="format-detection" content="telephone=no">
 
@@ -31,7 +32,9 @@
     <title>Privacy</title>
     <meta name="google-site-verification" content="OnajU0JqaR7GbNn36tIGLItHoCVGBMuABazvl0YTfjY">
     <meta name="description" content="">
+    
     <meta name="keywords" content="Toronto, Arts, Music, Film, Politics, Restaurants, Bars, Food, Fashion, Blog, Podcasts, Video, Sports, Theatre, Events">
+    
     <link rel="canonical" href="https://www.blogto.com/privacy/">
     <meta property="fb:app_id" content="">
     <meta property="og:site_name" content="blogTO">
@@ -53,12 +56,12 @@
 
 
     
-    <link type="text/css" href="https://static.blogto.com/static/dist/blogto-app-72e38d68737fbe684e08d14f199c26ba.css" rel="stylesheet">
+    <link type="text/css" href="https://static.blogto.com/static/dist/blogto-app-75018e888db74dae8a6de3d56acca544.css" rel="stylesheet">
 
     
 
 
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     
 <!--[if lt IE 9]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -153,8 +156,69 @@
         };
     </script>
 
+    <script>
+        function onRelatedVideoPlay(videoId, youtubeCode) {
+            const previouslyOpenedVideos = Array.from(document.querySelectorAll(".related-video"));
+
+            previouslyOpenedVideos.map(video => {
+              const youtubeIframe = video.querySelectorAll("iframe");
+
+              if (youtubeIframe) {
+                video.querySelectorAll(".related-video-wrapper")[0].innerHTML = "";
+                video.className = "related-video";
+              }
+            });
+
+            if (youtubeCode) {
+                const customPlayVideoEvent = new CustomEvent("playButtonClick");
+
+                window.dispatchEvent(customPlayVideoEvent);
+
+                document.querySelectorAll(`.related-video[data-video-id="${videoId}"]`)[0].className += " video-active";
+                document.querySelectorAll(`.related-video[data-video-id="${videoId}"] .related-video-wrapper`)[0].innerHTML =
+                    `<iframe width="337"
+                             height="337"
+                             src="https://www.youtube.com/embed/${youtubeCode}?autoplay=1&rel=0"
+                             frameBorder="0"
+                             controls="0"
+                             allow="autoplay"
+                             allowFullScreen/>`;
+            }
+        }
+    </script>
+
+    <script>
+      function sleep(ms) {
+          return new Promise(resolve => setTimeout(resolve, ms));
+      }
+    </script>
+
+    <script>
+        function kebabCaseToCamelCase(string) {
+          return string.replace(/-([a-z])/g, function (g) { return g[1].toUpperCase(); });
+        }
+    </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '1129511487248605');
+      fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1"
+             src="https://www.facebook.com/tr?id=1129511487248605&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
 </head>
-<body class="site flat-page nav-bar-body sticky-banner-body" style="
+<body class="site blogto flat-page nav-bar-body sticky-banner-body" style="
 ">
 
 
@@ -177,8 +241,8 @@
                         </li>
                         
                         
-                        <li class="nav-bar-menu-item nav-bar-menu-neighbourhoods-item">
-                            <a class="nav-bar-menu-item-link" href="/neighbourhoods">Neighbourhoods</a>
+                        <li class="nav-bar-menu-item nav-bar-menu-videos-item">
+                            <a class="nav-bar-menu-item-link" href="/videos">Videos</a>
                         </li>
                         
                         
@@ -322,6 +386,11 @@
             </a>
             
             
+            <a class="footer-social-link youtube-link" href="https://www.youtube.com/blogto">
+                <img class="footer-social-icon" src="https://static.blogto.com/static/img/icons/social/youtube-darkgrey-36.svg">
+            </a>
+            
+            
             <a class="footer-social-link we-chat-link" href="https://mp.weixin.qq.com/s/-G8OJWANII6G3aQXNhrkVw">
                 <img class="footer-social-icon" src="https://static.blogto.com/static/img/icons/social/wechat-darkgrey-36.svg">
             </a>
@@ -342,35 +411,76 @@
             </a>
             
         </div>
+
         <ul class="footer-nav-container footernav">
-            <li class="footer-nav-item"><a href="/contact/">Contact Us</a></li>
-            <li class="footer-nav-item"><a href="/contact/?advertise">Advertise</a></li>
-            <li class="footer-nav-item archives"><a href="/archives/">Archives</a></li>
+            <li class="footer-nav-item">
+                <a href="/contact/">Contact Us</a>
+            </li>
+
+            <li class="footer-nav-item advertise">
+                <a href="/contact/?advertise">Advertise</a>
+            </li>
+
+            <li class="footer-nav-item archives">
+                <a href="/archives/">Archives</a>
+            </li>
+
             
-            <li class="footer-nav-item iphone-app"><a href="https://itunes.apple.com/ca/app/blogto/id435310228?mt=8">iPhone App</a></li>
+            <li class="footer-nav-item podcast">
+                <a href="https://itunes.apple.com/ca/podcast/only-in-toronto/id1393143157">Podcast</a>
+            </li>
             
+
             
-            <li class="footer-nav-item android-app"><a href="https://play.google.com/store/apps/details?id=freshdaily.blogto">Android App</a></li>
+            <li class="footer-nav-item iphone-app">
+                <a href="https://itunes.apple.com/ca/app/blogto/id435310228?mt=8">iPhone App</a>
+            </li>
             
-            <li class="footer-nav-item terms-of-service"><a href="/termsofservice/">Terms of Service</a></li>
-            <li class="footer-nav-item privacy-policy"><a href="/privacy/">Privacy Policy</a></li>
+
+            
+
+            <li class="footer-nav-item terms-of-service">
+                <a href="/termsofservice/">Terms of Service</a>
+            </li>
+
+            <li class="footer-nav-item privacy-policy">
+                <a href="/privacy/">Privacy Policy</a>
+            </li>
+
+            
+            <li class="footer-nav-item mobile-podcast mobile-view">
+                <a href="https://itunes.apple.com/ca/podcast/only-in-toronto/id1393143157">Podcast</a>
+            </li>
+            
+
+            
+            <li class="footer-nav-item mobile-iphone-app mobile-view">
+                <a href="https://itunes.apple.com/ca/app/blogto/id435310228?mt=8">iPhone App</a>
+            </li>
+            
+
+            
         </ul>
+
         <ul class="footer-nav-container footersubnav">
             <li class="footersubnav-item">
                 <a class="footersubnav-item-link" href="http://www.freshdaily.ca/">
                     ©2019 Freshdaily Inc.
                 </a>
             </li>
+
             <li class="footersubnav-item terms-of-service">
                 <a class="footersubnav-item-link" href="/termsofservice/">
                     Terms of Service
                 </a>
             </li>
+
             <li class="footersubnav-item privacy-policy">
                 <a class="footersubnav-item-link" href="/privacy/">
                     Privacy Policy
                 </a>
             </li>
+
             <li class="footersubnav-item designcredit">
                 <a class="footersubnav-item-link" href="http://studiofunction.com" target="_blank">
                     Design by Studio Function
@@ -415,9 +525,9 @@
     
 
 
-<script type="text/javascript" src="https://static.blogto.com/static/dist/commons-chunk-bootstrap-f8a4fc12e5b28571c7ff.js"></script>
-<script type="text/javascript" src="https://static.blogto.com/static/dist/blogto-lib-4305f861d4aeaa1079ef.js"></script>
-<script type="text/javascript" src="https://static.blogto.com/static/dist/blogto-app-cbbcfa74fd31791fa5c1.js"></script>
+<script type="text/javascript" src="https://static.blogto.com/static/dist/commons-chunk-bootstrap-4ef7e421a603916945ab.js"></script>
+<script type="text/javascript" src="https://static.blogto.com/static/dist/blogto-lib-85e2cd73cc04c0b95793.js"></script>
+<script type="text/javascript" src="https://static.blogto.com/static/dist/blogto-app-30236cee50ad5beeef0d.js"></script>
 
 
 
@@ -448,7 +558,7 @@
 
 <script type="text/javascript">
     (function(){
-        var navBarData = {"restaurants": [{"id": 593, "name": "Mildred's Temple Kitchen", "share_url": "https://www.blogto.com/restaurants/mildredstemplekitchen/", "image_url": "https://media.blogto.com/listings/20190523-MildredsTempleKitchen13.jpg", "date_published": "2019-05-27T14:28:27", "is_reviewed": true, "date_reviewed": "2019-05-27T14:29:23"}, {"id": 14818, "name": "Colombian Street Food", "share_url": "https://www.blogto.com/restaurants/colombian-street-food-toronto/", "image_url": "https://media.blogto.com/listings/20190522-ColombianStreetFood13.jpg", "date_published": "2019-05-24T16:19:47", "is_reviewed": true, "date_reviewed": "2019-05-24T16:19:46"}, {"id": 5012, "name": "Brock Sandwich", "share_url": "https://www.blogto.com/restaurants/brock-sandwich-toronto/", "image_url": "https://media.blogto.com/listings/20191705-BrockSandwich-10.jpg", "date_published": "2019-05-23T11:49:29", "is_reviewed": true, "date_reviewed": "2019-05-23T11:49:26"}, {"id": 14811, "name": "Kabob Guys", "share_url": "https://www.blogto.com/restaurants/kabob-guys-toronto/", "image_url": "https://media.blogto.com/listings/20191605-KabobGuys-2.jpg", "date_published": "2019-05-22T16:15:29", "is_reviewed": true, "date_reviewed": "2019-05-22T16:15:33"}, {"id": 14808, "name": "Score on King", "share_url": "https://www.blogto.com/restaurants/score-king-toronto/", "image_url": "https://media.blogto.com/listings/20191705-Score-12.jpg", "date_published": "2019-05-21T10:47:35", "is_reviewed": true, "date_reviewed": "2019-05-21T10:47:32"}, {"id": 14776, "name": "Udon Kitanoya", "share_url": "https://www.blogto.com/restaurants/udon-kitanoya-toronto/", "image_url": "https://media.blogto.com/listings/20191505-UdonKitanoya-14.jpg", "date_published": "2019-05-19T09:12:29", "is_reviewed": true, "date_reviewed": "2019-05-19T09:12:32"}], "places": [{"id": 14830, "name": "Mother Cocktail Bar", "share_url": "https://www.blogto.com/bars/mother-cocktail-bar-toronto/", "image_url": "https://media.blogto.com/listings/20190530-Mother5.jpg", "date_published": "2019-06-02T10:44:19", "is_reviewed": true, "date_reviewed": "2019-06-02T10:44:20"}, {"id": 14455, "name": "Mejuri", "share_url": "https://www.blogto.com/fashion/mejuri-toronto/", "image_url": "https://media.blogto.com/listings/20192805-Mejuri-7.jpg", "date_published": "2019-06-01T01:00:49", "is_reviewed": true, "date_reviewed": "2019-06-01T01:00:49"}, {"id": 14829, "name": "Bellwoods Coffee and Gelato", "share_url": "https://www.blogto.com/cafes/bellwoods-coffee-and-gelato-toronto/", "image_url": "https://media.blogto.com/listings/20190531-BellwoodsCoffeeGelato1.jpg", "date_published": "2019-05-31T16:21:03", "is_reviewed": true, "date_reviewed": "2019-05-31T16:21:04"}, {"id": 593, "name": "Mildred's Temple Kitchen", "share_url": "https://www.blogto.com/restaurants/mildredstemplekitchen/", "image_url": "https://media.blogto.com/listings/20190523-MildredsTempleKitchen13.jpg", "date_published": "2019-05-27T14:28:27", "is_reviewed": true, "date_reviewed": "2019-05-27T14:29:23"}], "articles": [{"id": 96196, "name": "Doug Ford will not attend this year's Pride parade in Toronto", "image_url": "https://media.blogto.com/articles/20190603-fordpride.jpg", "share_url": "https://www.blogto.com/city/2019/06/doug-ford-will-not-attend-years-toronto-pride-parade/", "date_published": "2019-06-03T11:38:54", "is_slideshow": false}, {"id": 96192, "name": "There are now 37 cities in Canada with their own versions of Jurassic Park", "image_url": "https://media.blogto.com/articles/20190526-RapsEasternFinal33.jpg", "share_url": "https://www.blogto.com/sports_play/2019/06/jurassic-park-raptors-cities-canada/", "date_published": "2019-06-03T11:18:58", "is_slideshow": false}, {"id": 96193, "name": "Toronto is the fastest growing city in the U.S. and Canada", "image_url": "https://media.blogto.com/articles/201963-toronto-growth-2.jpg", "share_url": "https://www.blogto.com/city/2019/06/toronto-found-be-fastest-growing-city-us-and-canada/", "date_published": "2019-06-03T10:18:28", "is_slideshow": false}, {"id": 96187, "name": "Win tickets to Power Ball", "image_url": "https://media.blogto.com/articles/Henry_Chan_-_Power_Ball_XX_Carousal__170.jpg", "share_url": "https://www.blogto.com/arts/2019/06/toronto-power-ball-2019/", "date_published": "2019-06-03T09:00:00", "is_slideshow": false}], "listing_types": [{"id": 1, "name": "Restaurants", "sentence_name_plural": "Restaurants", "share_url": "https://www.blogto.com/restaurants/"}, {"id": 2, "name": "Bars", "sentence_name_plural": "bars", "share_url": "https://www.blogto.com/bars/"}, {"id": 3, "name": "Cafes", "sentence_name_plural": "Cafes", "share_url": "https://www.blogto.com/cafes/"}, {"id": 9, "name": "Bakeries", "sentence_name_plural": "Bakeries", "share_url": "https://www.blogto.com/bakery/"}, {"id": 6, "name": "Grocery", "sentence_name_plural": "Grocery", "share_url": "https://www.blogto.com/grocery/"}, {"id": 5, "name": "Fashion", "sentence_name_plural": "Fashion", "share_url": "https://www.blogto.com/fashion/"}, {"id": 4, "name": "Design", "sentence_name_plural": "Design", "share_url": "https://www.blogto.com/design/"}, {"id": 8, "name": "Bookstores", "sentence_name_plural": "Bookstores", "share_url": "https://www.blogto.com/bookstores/"}, {"id": 7, "name": "Galleries", "sentence_name_plural": "Galleries", "share_url": "https://www.blogto.com/gallery/"}, {"id": 10, "name": "Fitness", "sentence_name_plural": "Fitness", "share_url": "https://www.blogto.com/fitness/"}, {"id": 12, "name": "Services", "sentence_name_plural": "Services", "share_url": "https://www.blogto.com/services/"}, {"id": 11, "name": "Hotels", "sentence_name_plural": "Hotels", "share_url": "https://www.blogto.com/hotels/"}], "article_type_bundles": [{"id": 3, "name": "Arts", "share_url": "https://www.blogto.com/arts/"}, {"id": 7, "name": "City", "share_url": "https://www.blogto.com/city/"}, {"id": 9, "name": "Eat & Drink", "share_url": "https://www.blogto.com/eat_drink/"}, {"id": 11, "name": "Fashion & Style", "share_url": "https://www.blogto.com/fashion_style/"}, {"id": 12, "name": "Film", "share_url": "https://www.blogto.com/film/"}, {"id": 16, "name": "Music", "share_url": "https://www.blogto.com/music/"}, {"id": 20, "name": "Radar", "share_url": "https://www.blogto.com/radar/"}, {"id": 25, "name": "Real Estate", "share_url": "https://www.blogto.com/real-estate-toronto/"}, {"id": 21, "name": "Sports & Play", "share_url": "https://www.blogto.com/sports_play/"}, {"id": 22, "name": "Tech", "share_url": "https://www.blogto.com/tech/"}]}
+        var navBarData = {"restaurants": [{"id": 15251, "name": "Hui Lau Shan", "share_url": "https://www.blogto.com/restaurants/hui-lau-shan-toronto/", "image_url": "https://media.blogto.com/listings/20191205-HuiLauShan10.jpg", "date_published": "2019-12-17T08:52:18", "is_reviewed": true, "date_reviewed": "2019-12-17T08:52:21"}, {"id": 15252, "name": "Ronin Izakaya", "share_url": "https://www.blogto.com/restaurants/ronin-izakaya-toronto/", "image_url": "https://media.blogto.com/listings/20191207-RoninIzakaya17.jpg", "date_published": "2019-12-16T09:33:39", "is_reviewed": true, "date_reviewed": "2019-12-16T09:33:42"}, {"id": 15239, "name": "Ten Miles BBQ", "share_url": "https://www.blogto.com/restaurants/ten-miles-bbq-toronto/", "image_url": "https://media.blogto.com/listings/20191122-TenMilesBBQ6.jpg", "date_published": "2019-12-14T09:30:16", "is_reviewed": true, "date_reviewed": "2019-12-14T09:30:18"}, {"id": 15263, "name": "Sansotei Ramen", "share_url": "https://www.blogto.com/restaurants/sansotei-ramen-adelaide-toronto/", "image_url": "https://media.blogto.com/listings/20191012-SansoteiRamen-8.jpg", "date_published": "2019-12-14T09:19:51", "is_reviewed": true, "date_reviewed": "2019-12-14T09:19:55"}, {"id": 15065, "name": "Mogouyan Hand-Pulled Noodles", "share_url": "https://www.blogto.com/restaurants/mogouyan-toronto/", "image_url": "https://media.blogto.com/listings/20190412-Mogouyan-14.jpg", "date_published": "2019-12-13T09:54:23", "is_reviewed": true, "date_reviewed": "2019-12-13T09:54:43"}, {"id": 15249, "name": "Nodo Restaurant", "share_url": "https://www.blogto.com/restaurants/nodo-leslieville-toronto/", "image_url": "https://media.blogto.com/listings/20190512-Nodo-13.jpg", "date_published": "2019-12-12T09:26:46", "is_reviewed": true, "date_reviewed": "2019-12-12T09:26:51"}], "places": [{"id": 15267, "name": "Hush Hush", "share_url": "https://www.blogto.com/bars/hush-hush-toronto/", "image_url": "https://media.blogto.com/listings/20191216-HushHush15.jpg", "date_published": "2019-12-18T09:17:29", "is_reviewed": true, "date_reviewed": "2019-12-18T09:17:27"}, {"id": 15251, "name": "Hui Lau Shan", "share_url": "https://www.blogto.com/restaurants/hui-lau-shan-toronto/", "image_url": "https://media.blogto.com/listings/20191205-HuiLauShan10.jpg", "date_published": "2019-12-17T08:52:18", "is_reviewed": true, "date_reviewed": "2019-12-17T08:52:21"}, {"id": 15252, "name": "Ronin Izakaya", "share_url": "https://www.blogto.com/restaurants/ronin-izakaya-toronto/", "image_url": "https://media.blogto.com/listings/20191207-RoninIzakaya17.jpg", "date_published": "2019-12-16T09:33:39", "is_reviewed": true, "date_reviewed": "2019-12-16T09:33:42"}, {"id": 15243, "name": "Summerhill Market Annex", "share_url": "https://www.blogto.com/grocery/summerhill-market-bathurst-toronto/", "image_url": "https://media.blogto.com/listings/20191130-SummerhillMarket9.jpg", "date_published": "2019-12-15T08:30:00", "is_reviewed": true, "date_reviewed": "2019-12-15T08:30:00"}], "articles": [{"id": 98969, "name": "Extreme cold weather alert and snow squall warnings issued for Toronto", "image_url": "https://media.blogto.com/articles/20191218-torontosnow.jpg", "share_url": "https://www.blogto.com/city/2019/12/extreme-cold-weather-alert-and-snow-squall-warning-issued-toronto/", "date_published": "2019-12-18T09:53:10", "is_slideshow": false}, {"id": 98892, "name": "Rental of the week: 1068 Dovercourt Road", "image_url": "https://media.blogto.com/articles/20191211-dovercourt-1.jpg", "share_url": "https://www.blogto.com/real-estate-toronto/2019/12/1068-dovercourt-road/", "date_published": "2019-12-18T08:33:55", "is_slideshow": false}, {"id": 98967, "name": "10 things to do in Toronto today", "image_url": "https://media.blogto.com/articles/20180209-2048-TheDrink18.jpg", "share_url": "https://www.blogto.com/radar/2019/12/things-to-do-toronto-december-18-2019/", "date_published": "2019-12-18T01:54:38", "is_slideshow": false}, {"id": 98843, "name": "The essential guide to New Year's Eve parties in Toronto for 2020", "image_url": "https://media.blogto.com/articles/20190701-SimonSays5.jpg", "share_url": "https://www.blogto.com/radar/2019/12/toronto-new-years-eve-parties-2020/", "date_published": "2019-12-17T21:02:02", "is_slideshow": false}], "listing_types": [{"id": 1, "name": "Restaurants", "sentence_name_plural": "Restaurants", "share_url": "https://www.blogto.com/restaurants/"}, {"id": 2, "name": "Bars", "sentence_name_plural": "bars", "share_url": "https://www.blogto.com/bars/"}, {"id": 3, "name": "Cafes", "sentence_name_plural": "Cafes", "share_url": "https://www.blogto.com/cafes/"}, {"id": 9, "name": "Bakeries", "sentence_name_plural": "Bakeries", "share_url": "https://www.blogto.com/bakery/"}, {"id": 6, "name": "Grocery", "sentence_name_plural": "Grocery", "share_url": "https://www.blogto.com/grocery/"}, {"id": 5, "name": "Fashion", "sentence_name_plural": "Fashion", "share_url": "https://www.blogto.com/fashion/"}, {"id": 4, "name": "Design", "sentence_name_plural": "Design", "share_url": "https://www.blogto.com/design/"}, {"id": 8, "name": "Bookstores", "sentence_name_plural": "Bookstores", "share_url": "https://www.blogto.com/bookstores/"}, {"id": 7, "name": "Galleries", "sentence_name_plural": "Galleries", "share_url": "https://www.blogto.com/gallery/"}, {"id": 10, "name": "Fitness", "sentence_name_plural": "Fitness", "share_url": "https://www.blogto.com/fitness/"}, {"id": 12, "name": "Services", "sentence_name_plural": "Services", "share_url": "https://www.blogto.com/services/"}, {"id": 11, "name": "Hotels", "sentence_name_plural": "Hotels", "share_url": "https://www.blogto.com/hotels/"}], "article_type_bundles": [{"id": 3, "name": "Arts", "share_url": "https://www.blogto.com/arts/"}, {"id": 7, "name": "City", "share_url": "https://www.blogto.com/city/"}, {"id": 9, "name": "Eat & Drink", "share_url": "https://www.blogto.com/eat_drink/"}, {"id": 11, "name": "Fashion & Style", "share_url": "https://www.blogto.com/fashion_style/"}, {"id": 12, "name": "Film", "share_url": "https://www.blogto.com/film/"}, {"id": 16, "name": "Music", "share_url": "https://www.blogto.com/music/"}, {"id": 20, "name": "Radar", "share_url": "https://www.blogto.com/radar/"}, {"id": 25, "name": "Real Estate", "share_url": "https://www.blogto.com/real-estate-toronto/"}, {"id": 21, "name": "Sports & Play", "share_url": "https://www.blogto.com/sports_play/"}, {"id": 22, "name": "Tech", "share_url": "https://www.blogto.com/tech/"}]}
         window.freshDaily.navBarData = navBarData;
     })();
 </script>
