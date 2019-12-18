@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530112236id_/http%3A//allinoneprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2019-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191218150729id_/http%3A//allinoneprofits.com/privacy.php) for the most accurate reproduction.*
 
 # All In One Profits
 
-| [**Get 10 free**](https://www.suc300.com/?ref=n2pc)  
-Add 10 of your own  
-Start 2 earn passive  
-Thousands are earned| [ **Global Team Build**](http://trckapp.com/05vbpf40)  
-Free travel and   
-daily pay!   
-| [**NowLifeStyle**](http://nowlifestyle.com/page/CoachVSLSM/?id=wallee)  
-STOP Struggling To   
-Make Money Online!!!  
-| [ **Traffic Authority**](http://www.trafficauthority.net/rfutch)  
-Make Big Money  
-As A Reseller of   
-Traffic Authority.| [ **Get 1000 Leads A Day**](http://promotemybizpro.com/page1.php?user=prosperityoasis)  
-Get Paid Daily  
-Every Marketer Needs  
-Leads Go Now  
+| [**ORU Marketplace**](http://trackr.leadsleap.com/w553xn2s)  
+Buying and selling   
+Is Changing. Protect  
+Yourself NOW| [ **Massive Advertising**](http://aioptk.com/18ig)  
+1 click join,   
+1 click send.   
+NO Return Emails| [ **Build your list**](https://www.instantcashpromocodes.com/splashpage.php?aff=jwjulian)  
+ORU & Promo codes  
+Earn more money  
+Advertising your Biz| [ **230K In 16 weeks!**](http://digisoftpayline.com/230k.php?alexpto)  
+the FREE Tour!  
+Instant Commissions!  
+100% Payout!| [ **Immediate Income**](http://joinbyinvitation.com/)  
+Without selling but  
+Giving Away Gifts  
+200 Dollar Payments  
 ---|---|---|---|---  
   
 
