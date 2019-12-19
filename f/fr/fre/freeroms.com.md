@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeroms.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403060129id_/http%3A//www.freeroms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeroms.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219074345id_/https%3A//www.freeroms.com/privacy.htm) for the most accurate reproduction.*
 
 # Sapphire Creations Privacy Policy for FreeROMS.com
 
