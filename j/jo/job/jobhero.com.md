@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobhero.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416024201id_/https%3A//www.jobhero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhero.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219180551id_/https%3A//www.jobhero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JobHero
 
@@ -63,7 +63,7 @@ Provider complies with the General Data Protection Regulation (“GDPR”). As s
 
 [ **Contact**](https://www.myperfectresume.com/privacy-policy#policySection16)
 
-  * Questions about our Privacy Policy or about our handling of your information can be sent to [ **privacy@bold.com**](mailto:privacy@bold.com)or as otherwise set forth in the [ **Privacy Policy**](https://web.archive.org/privacy-policy).
+  * Questions about our Privacy Policy or about our handling of your information can be sent to [ **privacy@bold.com**](mailto:privacy@bold.com)or as otherwise set forth in the [ **Privacy Policy**](https://web.archive.org/privacy-policy/).
 
 
 
@@ -99,11 +99,11 @@ f)  **Technical Usage Information:** When you visit our Site, we collect usage 
 
 **Operationally-Necessary**. We can use tracking technologies required for system administration, to prevent fraudulent activity, improve security or allow you to make use of shopping cart functionality. We are not required to obtain your consent to tracking technologies that are operationally necessary.
 
-**Performance-Related**. We can use cookies or other tracking technologies to assess the performance of the online services, including as part of our analytic practices to improve the content offered through the online services. For example, as set forth in detail in our [ **Cookies and Trackings Technology Policy**](https://web.archive.org/cookies-tracking-technologies-policy), we use [ **Google Analytics**](https://web.archive.org/cookies-tracking-technologies-policy/) and [ **Inspectlet**](https://www.inspectlet.com/) to perform site analytics.
+**Performance-Related**. We can use cookies or other tracking technologies to assess the performance of the online services, including as part of our analytic practices to improve the content offered through the online services. For example, as set forth in detail in our [ **Cookies and Trackings Technology Policy**](https://web.archive.org/cookies-tracking-technologies-policy/), we use [ **Google Analytics**](https://web.archive.org/cookies-tracking-technologies-policy/) and [ **Inspectlet**](https://www.inspectlet.com/) to perform site analytics.
 
 **Functionality-Related**. We can use tracking technologies to tell us, for example, whether you have visited the Site before or if you are a new visitor and to help us identify the features in which you have the greatest interest.
 
-**Targeting-Related**. We can use tracking technologies to deliver content, including ads, relevant to your interests on our online service and third-party sites based on how you interact with our advertisements or content as well as track the content you access (including video viewing). Further information on this, and your [ **opt-out choices**](https://web.archive.org/cookies-tracking-technologies-policy), is below.
+**Targeting-Related**. We can use tracking technologies to deliver content, including ads, relevant to your interests on our online service and third-party sites based on how you interact with our advertisements or content as well as track the content you access (including video viewing). Further information on this, and your [ **opt-out choices**](https://web.archive.org/cookies-tracking-technologies-policy/), is below.
 
 We can also collect password information from you when you log in, as well as computer and/or connection information. During some visits we can use software tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information.
 
@@ -135,7 +135,7 @@ Information we collect can be shared with:
 
 a)  **The Provider Corporate Family and Other Third Parties:** We can share the information we collect about you with the Provider corporate family (our affiliates as well as with third party suppliers. The information can be disclosed (i) to provide joint content and our products and services (e.g., registration, transactions, employment or education opportunities, analytics and customer support); (ii) to help detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches; and (iii) to guide decisions about our Provider or third party’s products, sites, applications, services, tools, and communications. Members of our corporate family will use this information to send you marketing communications and you will have the opportunity to opt-out of e-mail communications.
 
-b)  **Service Providers and Other Third Parties:** We can disclose your information to service providers under contract who help with our business operations (such as, but not limited to, fraud investigations, bill collection, payment processing, and site [ **analytics and operations**](https://web.archive.org/cookies-tracking-technologies-policy)). Also, we share information with our third-party payment processors. With your authorization, we can also share your information with potential employers, career/job-posting websites.
+b)  **Service Providers and Other Third Parties:** We can disclose your information to service providers under contract who help with our business operations (such as, but not limited to, fraud investigations, bill collection, payment processing, and site [ **analytics and operations**](https://web.archive.org/cookies-tracking-technologies-policy/)). Also, we share information with our third-party payment processors. With your authorization, we can also share your information with potential employers, career/job-posting websites.
 
 c)  **Other Entities with your Consent:** We can share your Personal Information with third parties to whom you explicitly ask us to send your information (such as resume editors, employers, recruiters or job posting third party websites or others about whom you are otherwise explicitly notified and consent to when using a specific service). These third party’s services are governed by their own terms of service and privacy policies as set forth by the third parties that provide them. We do not necessarily endorse nor are we responsible or liable, directly or indirectly, for those services. On the Site, you have opportunities to express interest in or register for other products and services. If you do, we will provide information about you to those third parties, or parties working on their behalf, to implement your request.
 
@@ -187,7 +187,7 @@ When you visit the Site, we and our business partners can use tracking technolog
 
 
 
-For more information about the use of cookies and similar technology on our Site please review this Privacy Policy and our [ **Tracking Technologies Policy**](https://web.archive.org/cookies-tracking-technologies-policy).
+For more information about the use of cookies and similar technology on our Site please review this Privacy Policy and our [ **Tracking Technologies Policy**](https://web.archive.org/cookies-tracking-technologies-policy/).
 
   8. **Accessing, Reviewing, and Changing Your Personal Information**
 
