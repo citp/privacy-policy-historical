@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the nationalmeritscholarships.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201030732id_/https%3A//www.nationalmeritscholarships.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmeritscholarships.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219194907id_/https%3A//www.nationalmeritscholarships.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy • National Merit Scholarships 2020 | Apply Online
+
+Skip to content
+
+Privacy Policy[Dr. Alex Derm](https://www.nationalmeritscholarships.com/author/nationalmeritscholarships2018 "Posts by Dr. Alex Derm")
 
 At National Merit Scholarship, accessible from https://www.nationalmeritscholarships.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by National Merit Scholarship and how we use it.
 
