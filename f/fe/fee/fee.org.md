@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529122610id_/https%3A//fee.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219160054id_/https%3A//fee.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Foundation for Economic Education
 
@@ -66,11 +66,11 @@ Our products and services are generally not directed to children under 13. We do
 
 ## Controlling your personal information
 
-If you have previously agreed to allow your personal information to be used for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8cfdddad5d9cbccddcaf8fefdfd96d7cadf).
+If you have previously agreed to allow your personal information to be used for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#483f2d2a25293b3c2d3a080e0d0d66273a2f).
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#087f6d6a65697b7c6d7a484e4d4d26677a6f). We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#730416111e1200071601333536365d1c0114). We will promptly correct any information found to be incorrect.
 
 If you receive an SMS message and would like to stop all further SMS communication, reply to the message with "STOP".
 
