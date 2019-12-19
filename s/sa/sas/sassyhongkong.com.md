@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sassyhongkong.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416220147id_/https%3A//www.sassyhongkong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sassyhongkong.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219145745id_/https%3A//www.sassyhongkong.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sassy Hong Kong
 
@@ -124,3 +124,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 Questions, comments, and requests regarding this privacy policy are welcomed. You may contact us using the information below:
 
 **Sassy Media Group** , 25/F Arion Commercial Centre, 2-12 Queens Road West, Sheung Wan, Hong Kong, [privacy@sassymediagroup.com](mailto:privacy@sassymediagroup.com)
+
+_Email subscription image credits: image 1 courtesy of[Chris Ralston](https://unsplash.com/@thisisralston) via [Unsplash](https://unsplash.com/photos/09HGdZzkP-Q), image 2 courtesy of [From This Position](https://www.instagram.com/from_this_position/) via [Instagram](https://www.instagram.com/p/BsCpWhOgLv4/), image 3 courtesy of [Sergey Nazarov](https://www.gettyimages.com/search/photographer?family=creative&photographer=Sergey+Nazarov) via [Getty](https://www.gettyimages.com/detail/photo/young-people-with-glasses-of-champagne-at-christmas-royalty-free-image/879298768), image 4 courtesy of [Marion Michele](https://unsplash.com/@marion_michele) via [Unsplash](https://unsplash.com/photos/xwQojkzmsHM)_
