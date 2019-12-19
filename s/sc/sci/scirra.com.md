@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scirra.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607033940id_/https%3A//www.scirra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scirra.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219094436id_/https%3A//www.scirra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -178,4 +178,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ## Who can I contact with questions or concerns?
 
-If you have a privacy question, concern, or request, please email Scirra's Data Protection Officer at ten.tcurtsnocejt@troppus.
+If you have a privacy question, concern, or request, please email Scirra's Data Protection Officer at supportxtg@construct.net.
