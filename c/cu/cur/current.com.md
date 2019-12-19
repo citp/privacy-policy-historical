@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the current.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523092252id_/https%3A//current.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the current.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219231541id_/https%3A//current.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Current
 
