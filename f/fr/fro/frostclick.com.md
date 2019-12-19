@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406071713id_/http%3A//www.frostwire.com/privacy%23frostclick) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219011530id_/http%3A//www.frostwire.com/privacy%23frostclick) for the most accurate reproduction.*
 
 # Privacy Policy - FrostWire - BitTorrent Client, Cloud Downloader, Media Player. 100% Free Download, No subscriptions required.
 
 ##### **1.0 What personally identifiable information does FrostWire collect from me, when and why?**
 
-FrostWire endeavors to collect as little personally identifiable information as possible. The FrostWire Software and the sections of the FrostWire Websites that do not require a log in do not collect any personally identifiable information, however, the use of the FrostWire online forum ([forum.frostwire.com](https://web.archive.org/web/20190406071713id_/http%3A//www.frostwire.com/forums)) an the support pages ([support.frostwire.com](https://web.archive.org/web/20190406071713id_/http%3A//www.frostwire.com/support)) requires a disclosure of some personal information.
+FrostWire endeavors to collect as little personally identifiable information as possible. The FrostWire Software and the sections of the FrostWire Websites that do not require a log in do not collect any personally identifiable information, however, the use of the FrostWire online forum ([forum.frostwire.com](https://web.archive.org/web/20191219011530id_/http%3A//www.frostwire.com/forums)) an the support pages ([support.frostwire.com](https://web.archive.org/web/20191219011530id_/http%3A//www.frostwire.com/support)) requires a disclosure of some personal information.
 
   
 
 
-##### **1.1 FrostWire Online Forum ([forum.frostwire.com](https://web.archive.org/web/20190406071713id_/http%3A//www.frostwire.com/forums))**
+##### **1.1 FrostWire Online Forum ([forum.frostwire.com](https://web.archive.org/web/20191219011530id_/http%3A//www.frostwire.com/forums))**
 
 FrostWire does not collect any personally identifiable information while you browse the forum, but if you would like to post to the forum, you need to register. During registration, FrostWire asks for your email address, whether you have attained the age of thirteen years, and other communication methods which you may provide at your election. This information is only used to identify you as a contributor to the forum, allow you to get notifications on the forum’s activity that is relevant to you and for the forum administrators to contact you if needed.
 
@@ -18,7 +18,7 @@ You may edit your FrostWire Forum Information at any time by using your FrostWir
   
 
 
-##### **1.2 FrostWire Support Page ([support.frostwire.com](https://web.archive.org/web/20190406071713id_/http%3A//www.frostwire.com/support))**
+##### **1.2 FrostWire Support Page ([support.frostwire.com](https://web.archive.org/web/20191219011530id_/http%3A//www.frostwire.com/support))**
 
 FrostWire does not collect any personally identifiable information while you browse the support articles. Nonetheless, the support section is administered by a third party, which might collect some analytical data and will ask for your email address and name if you will want to submit a support request. That information is available to us to view and edit, but is stored at the third party service’s servers. This information is only used to provide you with the requested customer service. Zendesk is the current support pages technology provider. 
 
@@ -27,18 +27,18 @@ You may edit your FrostWire Support Information at any time by logging into your
   
 
 
-##### **1.3 Our Blog ([https://frostwire.wordpress.com/](https://web.archive.org/web/20190406071713id_/http%3A//www.frostwire.com/blog))**
+##### **1.3 Our Blog ([https://frostwire.wordpress.com/](https://web.archive.org/web/20191219011530id_/http%3A//www.frostwire.com/blog))**
 
 FrostWire does not collect any personally identifiable information while you browse the articles on the blog, nonetheless the blog itself is hosted on Wordpress servers and Wordpress can collect some personal data in accordance with their Privacy Policy. Wordpress is an Automatic Project and you can find their privacy policy here: <https://automattic.com/privacy/>
 
-Should you choose to add a comment to any post that we have published on [our blog](https://web.archive.org/web/20190406071713id_/http%3A//www.frostwire.com/blog), the name and email address you enter with your comment will be saved to Wordpress’ database, along with your computer’s IP address and the time and date that you submitted the comment. This information is only used to identify you as a contributor to the comment section of the specific blog post. Only your name will be shown on the public-facing website although if the supplied email address is linked to a Gravatar account, your [Gravatar](http://en.gravatar.com/) photo will also be displayed.
+Should you choose to add a comment to any post that we have published on [our blog](https://web.archive.org/web/20191219011530id_/http%3A//www.frostwire.com/blog), the name and email address you enter with your comment will be saved to Wordpress’ database, along with your computer’s IP address and the time and date that you submitted the comment. This information is only used to identify you as a contributor to the comment section of the specific blog post. Only your name will be shown on the public-facing website although if the supplied email address is linked to a Gravatar account, your [Gravatar](http://en.gravatar.com/) photo will also be displayed.
 
 Your comment and the personal data associated with it will remain on published until we remove the comment or the entire blog post. Should you wish to have the comment and it’s associated personal data deleted, please [email us here](mailto:support@frostwire.com?subject=Blog%20post%20comment%20removal) using the email address that you commented with.
 
   
 
 
-##### **1.6 Frostclick.com ([http://www.FrostClick.com](https://web.archive.org/web/20190406071713id_/http%3A//www.frostwire.com/frostclick))**
+##### **1.6 Frostclick.com ([http://www.FrostClick.com](https://web.archive.org/web/20191219011530id_/http%3A//www.frostwire.com/frostclick))**
 
 FrostWire does not collect any personally identifiable information while you browse the articles on FrostClick.com. The website uses Google Analytics to obtain analytical data and AdSense advertising service by Google to display ads.
 
