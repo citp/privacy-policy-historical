@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624100450id_/https%3A//home.38degrees.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219142642id_/http%3A//home.38degrees.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 38 Degrees
+# Privacy Policy 07.01.19 - 38 Degrees
 
 38 Degrees Ltd. (Company No. 6642193) is committed to safeguarding your privacy. At all times we aim to respect any personal data you share with us, or that we receive from other organisations, and keep it safe. This Privacy Policy (“Policy”) sets out our data collection and processing practices and your options regarding the ways in which your personal information is used.
 
 _**This Policy contains important information about your personal rights to privacy. Please read it carefully to understand how we use your personal data. We may update this Policy from time to time without notice to you, so please check it regularly.**_
 
-_**The provision of your personal data to us is voluntary. However, without providing us with your personal data, you will be unable to (as appropriate) sign a petition, start a petition, make a donation or purchase items via our online shop, apply for employment with us or apply to volunteer with us.**_
+_**The provision of your personal data to us is voluntary. However, without providing us with your personal data, you will be unable to (as appropriate) sign a campaign, start a campaign, make a donation or purchase items via our online shop, apply for employment with us or apply to volunteer with us.**_
 
 **1\. We collect information about you:**
 
 (1) When you give it to us DIRECTLY  
-You may give us your personal data in order to start a petition, sign a petition, when you share information about a petition from our website on Facebook, Twitter and/or via email, when you apply for employment with us, when you apply to volunteer with us, when you contact us by phone, email or post, when you buy anything from our online shop and/or when you donate money to us.
+You may give us your personal data in order to start a campaign, sign a campaign, when you share information about a campaign from our website on Facebook, Twitter and/or via email, when you answer one of our surveys or questionnaires, when you apply for employment with us, when you apply to volunteer with us, when you contact us by phone, email or post, when you buy anything from our online shop and/or when you donate money to us.
 
 (2) When you give it to us INDIRECTLY  
-Your information may be shared with us by, others including users of our services, independent event organisers, other fundraising entities, sponsors and supporters of our organisation and services. Your information will also be provided to us when you follow us or otherwise interact with on or via Twitter, when you like and/or join our page on Facebook or interact with us in other ways on or via Facebook.
+Your information may be shared with us by others including users of our services, independent event organisers, other fundraising entities, sponsors and supporters of our organisation and services. Your information will also be provided to us when you follow us or otherwise interact with on or via Twitter, when you like and/or join our page on Facebook or interact with us in other ways on or via Facebook.
 
 (3) When you give permission to OTHER ORGANISATIONS to share it or it is AVAILABLE PUBLICLY  
 We may combine information you provide to us with information available from external publicly available sources. Depending on your privacy settings for social media services, we may also access information from those accounts or services. We use this information to gain a better understanding of you and to improve our communications and fundraising activities.
@@ -26,11 +26,12 @@ We use cookies to identify you when you visit our website and to enable us to pe
 
 We may collect, store and use the following kinds of personal data:
 
-(1) We will typically hold your name and contact details, including physical address, telephone number and e-mail address, and social media identity. However, we may request other information where it is appropriate and relevant, for example
+(1) We will typically hold your name and contact details, including physical address, telephone number, e-mail address, and social media identity. However, we may request other information where it is appropriate and relevant, for example
 
-  * Details of why you have decided to contact us/start/support a petition, or
-  * Your bank details or debit/credit card details;
-  * Details of campaigns you have supported, details of topics/areas of interest to you, responses to surveys you have completed
+  * Details of why you have decided to contact us/start/support a campaign;
+  * Details of your opinion on a particular issue or campaign;
+  * Your bank details or debit/credit card details; or
+  * Details of campaigns you have supported, details of topics/areas of interest to you, responses to surveys you have completed;
 
 
 
@@ -42,7 +43,7 @@ We may collect, store and use the following kinds of personal data:
 
 Do we process sensitive personal information?
 
-Applicable law recognises certain categories of personal information as sensitive and therefore requiring more protection, including health information, ethnicity and political opinions. In limited cases, we may collect sensitive personal data about you. We would only collect sensitive personal data if there is a clear reason for doing so; and will only do so with your explicit consent.
+Applicable law recognises certain categories of personal information as sensitive and therefore requiring more protection, including health information, ethnicity and political opinions. In limited cases, we may collect sensitive personal data about you (for example, when you sign a campaign about a particular political issue or fill in a survey or questionnaire giving your opinion on a particular political issue). We would only collect sensitive personal data if there is a clear reason for doing so; and will only do so where applicable law allows.
 
 **3\. How and why will we use your personal data?**
 
@@ -50,7 +51,7 @@ Personal data, however provided to us, will be used for the purposes specified i
 
 We may use your personal information to:
 
-(1) Enable you to use and/or learn about all of the services we offer”;
+(1) Enable you to use and/or learn about all of the services we offer;
 
 (2) Send you information about our work, campaigns, organisations and any other information, products or services that we provide (this will not be done without your consent);
 
@@ -68,43 +69,59 @@ We may use your personal information to:
 
 (9) Deal with enquiries and complaints made by or about you relating to the website or us in general;
 
-(10) Make petition submissions to third parties, where you have signed the petition and the third party is a target of the campaign to which the petition relates; and/or
+(10) Make campaign submissions to third parties, where you have signed the campaign and the third party is a target of the campaign; and/or
 
 (11) Audit and/or administer our accounts.
 
-**4\. Supporter research/profiling**
+**4.**   **Signing a campaign**
 
-We may use your personal information to undertake research to gather further information about you from publicly accessible sources (as per clause 1 above). This helps us to get a better understanding of your background, interests and preferences in order to improve our communications and/or interactions with you, to help ensure they are targeted to be relevant and appropriate, and to provide information (sometimes through third parties) about petitions and other aspects of our services which we consider may be of interest to you.
+4.1 If you would like to sign any campaign on our website, you must provide us with personal information. We will take reasonable steps thereafter to ensure that your personal information remains accurate and up to date. You do not need to set up an account with us to sign a campaign.
 
-Facebook marketing  
+4.2 Please be aware that when you sign a campaign on Campaigns by You:
+
+4.2.1 your name, post code and (if you have supplied it) your mobile phone number will be made available to the creator of the campaign;
+
+4.2.2 the creator of the campaign may export the campaign, together with any information you have posted on our website in connection with the campaign (which could include your name, post code, phone number and comments), and provide the campaign to the individual or organisation being petitioned and/or otherwise publish, broadcast, communicate and display publicly your involvement in the campaign.
+
+**5\. Supporter research/profiling**
+
+We may use your personal information to undertake research to gather further information about you from publicly accessible sources (as per clause 1 above). This helps us to get a better understanding of your background, interests and preferences in order to improve our communications and/or interactions with you, to help ensure they are targeted to be relevant and appropriate, and to provide information (sometimes through third parties) about campaigns and other aspects of our services which we consider may be of interest to you.
+
+Facebook marketing
+
 We may use some of your personal information to participate in Facebook’s Custom Audience and Lookalike Audience programs, which enable us to display adverts to both existing and prospective supporters when they visit Facebook. We may provide your email address to Facebook so they can determine whether you are a registered account holder with them. Our adverts may then appear when you access Facebook. Some of your data is sent in an encrypted format that is deleted by Facebook (a) if it does not match with a Facebook account or (b) after they confirm you are a registered account holder.
 
 For more detailed information please see <https://www.facebook.com/business/help/744354708981227> and Facebook’s data policy at <https://en-gb.facebook.com/policy.php>.
 
-Google Analytics  
+Google Analytics
+
 We may use some of your personal information to analyse our digital performance, for example to see how our website can be improved to help us achieve the purposes set out in section 11 below, to record how you are using our website or to assess the popularity of marketing campaigns.
 
-For more information on how we use your personal information in relation to Google Analytics, please view our cookie policy by clicking this link <https://home.38degrees.org.uk/cookies-policy-24-01-18/>.
+For more information on how we use your personal information in relation to Google Analytics, please view our cookie policy by clicking this link <https://home.38degrees.org.uk/cookies-policy-24-01-18/>.
 
-You can opt-out of the collection of information for such purposes here: <http://www.aboutads.info/choices>
+You can opt-out of the collection of information for such purposes here: <http://www.aboutads.info/choices>.
 
-**5\. Communications, fundraising and marketing**
+**6\. Communications, fundraising and marketing**
 
-Where you have provided us with your physical address, we will contact you by post; and where you have provided appropriate consent, also by telephone and e-mail, with targeted communications to let you know about our events and/or activities that we consider may be of particular interest; about the work of 38 Degrees; and to ask for donations or other support.
+Where you have provided us with your physical address, we may contact you by post; and where you have provided appropriate consent, also by telephone and e-mail, with targeted communications to let you know about our events and/or activities that we consider may be of particular interest; about the work of 38 Degrees; and to ask for donations or other support.
 
-**6\. Donations and other payments**
+In particular, where you have provided appropriate consent after signing a campaign, we will send you messages from the creator of the campaign you have signed and from us in relation to other campaigns which are being run by 38 Degrees.
+
+You can choose to stop receiving such communications from us and our trusted partners at any time by clicking the “unsubscribe” link at the bottom of our emails.
+
+**7\. Donations and other payments**
 
 All financial transactions carried out on our website are handled through Stripe, Inc. (“Stripe”), a third party payment services provider. We recommend that you read Stripe’s privacy policy (available at <https://stripe.com/gb/privacy>) prior to effecting any transactions with us. We will provide your personal data to Stripe only to the extent necessary for the purposes of processing payments for transactions you enter into with us. We do not store your financial details.
 
-**7\. Children’s data**
+**8\. Children’s data**
 
 We do not knowingly process data of any person under the age of 16. If we come to discover, or have reason to believe, that you are 15 and under and we are holding your personal information, we will delete that information within a reasonable period and withhold our services accordingly.
 
-**8\. Other disclosures**
+**9\. Other disclosures**
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we will disclose your information to regulatory and/or government bodies and/or law enforcement agencies upon request only when required to do so in order to satisfy legal obligations which are binding on us.
 
-**9\. Security of and access to your personal data**
+**10\. Security of and access to your personal data**
 
 We endeavour to ensure that there are appropriate and proportionate technical and organisational measures to prevent the loss, destruction, misuse, alteration, unauthorised disclosure or of access to your personal information.
 
@@ -116,13 +133,13 @@ Please note that some countries outside of the EEA have a lower standard of prot
 
 Otherwise than as set out in this Privacy Policy, we will only ever share your data with your informed consent.
 
-**10\. Your rights**
+**11\. Your rights**
 
 Where we rely on your consent to use your personal information, you have the right to withdraw that consent at any time. This includes the right to ask us to stop using your personal information for direct marketing purposes or to be unsubscribed from our email list at any time. You also have the following rights:
 
 (1) Right to be informed – you have the right to be told how your personal information will be used. This Policy and other policies and statements used on our website and in our communications are intended to provide you with a clear and transparent description of how your personal information may be used.
 
-(2) Right of access – you can write to us to ask for confirmation of what information we hold on you and to request a copy of that information. Provided we are satisfied that you are entitled to see the information requested and we have successfully confirmed your identity, we have 40 days to comply. As from 25 May 2018, we will have 30 days to comply.
+(2) Right of access – you can write to us to ask for confirmation of what information we hold on you and to request a copy of that information. Provided we are satisfied that you are entitled to see the information requested and we have successfully confirmed your identity, we will have 30 days to comply.
 
 (3) Right of erasure – as from 25 May 2018, you can ask us for your personal information to be deleted from our records. In many cases we would propose to suppress further communications with you, rather than delete it.
 
@@ -136,29 +153,33 @@ To exercise these rights, please send a description of the personal information 
 
 Please note that some of these rights only apply in limited circumstances. For more information, we suggest that you consult ICO guidance – <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/> – or please contact us using the details in section 16 below.
 
-You are further entitled to make a complaint about us or the way we have processed your data to the Information Commissioner’s Office (“ICO”). For further information on how to exercise this right, please see the guidance at <https://ico.org.uk/for-the-public/personal-information>. The contact details of the ICO can be found here:[ https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/).
+You are further entitled to make a complaint about us or the way we have processed your data to the Information Commissioner’s Office (“ICO”). For further information on how to exercise this right, please see the guidance at <https://ico.org.uk/for-the-public/personal-information>. The contact details of the ICO can be found here: <https://ico.org.uk/global/contact-us/>.
 
-**11\. Lawful processing**
+**12\. Lawful processing**
 
 We are required to have one or more lawful grounds to process your personal information. Only 4 of these are relevant to us:
 
-  1. Personal information is processed on the basis of a **person’s consent**
-  2. Personal information is processed on the basis of a **contractual relationship**
-  3. Personal information is processed on the basis of **legal obligations**
-  4. Personal information is processed on the basis of **legitimate interests**
+  1. Personal information is processed on the basis of a person’s consent
+  2. Personal information is processed on the basis of a contractual relationship
+  3. Personal information is processed on the basis of legal obligations
+  4. Personal information is processed on the basis of legitimate interests
 
 
 
-(1) Consent  
+(1) Consent
+
 We will ask for your consent to use your information to send you electronic communications such as newsletters and marketing and fundraising emails, for targeted advertising and profiling, and if you ever share sensitive personal information with us.
 
-(2) Contractual relationships  
+(2) Contractual relationships
+
 Most of our interactions with subscribers and website users are voluntary and not contractual. However, sometimes it will be necessary to process personal information so that we can enter contractual relationships with people. For example, if you apply for employment or to volunteer with us, or if you purchase something via our online shop.
 
-(3) Legal obligations  
+(3) Legal obligations
+
 Sometimes we will be obliged to process your personal information due to legal obligations which are binding on us. We will only ever do so when strictly necessary.
 
-(4) Legitimate interests  
+(4) Legitimate interests
+
 Applicable law allows personal information to be collected and used if it is reasonably necessary for our legitimate activities (as long as its use is fair, balanced and does not unduly impact individuals’ rights).
 
 We will rely on this ground to process your personal data when it is not practical or appropriate to ask for consent.
@@ -197,7 +218,7 @@ These include (but are not limited to) promoting any philanthropic or benevolent
 
   * Responding to enquiries
   * Delivery of requested products or information
-  * Communications designed to administer existing services including administration of petitions and financial transactions
+  * Communications designed to administer existing services including administration of campaigns and financial transactions
   * Thank you communications and receipts
   * Maintaining a supporter database and suppression lists
 
@@ -214,24 +235,25 @@ These include (but are not limited to) promoting any philanthropic or benevolent
 
 When we use your personal information, we will consider if it is fair and balanced to do so and if it is within your reasonable expectations. We will balance your rights and our legitimate interests to ensure that we use your personal information in ways that are not unduly intrusive or unfair in other ways.
 
-**12\. Data retention**
+**13\. Data retention**
 
 In general, unless still required in connection with the purpose(s) for which it was collected and/or is processed, we remove your personal information from our records six years after the date it was collected. However, if before that date (i) your personal information is no longer required in connection with such purpose(s), (ii) we are no longer lawfully entitled to process it or (iii) you validly exercise your right of erasure, we will remove it from our records at the relevant time.
 
 In the event that you ask us to stop sending you direct marketing/fundraising/other electronic communications, we will keep your name on our internal suppression list to ensure that you are not contacted again.
 
-**13\. Policy amendments**
+**14\. Policy amendments**
 
 We keep this Privacy Policy under regular review and reserve the right to update from time-to-time by posting an updated version on our website, not least because of changes in applicable law. We recommend that you check this Privacy Policy occasionally to ensure you remain happy with it. We may also notify you of changes to our privacy policy by email.
 
-**14\. Third party websites**
+**15\. Third party websites**
 
 We link our website directly to other sites. This Privacy Policy **does not** cover external websites and **we are not responsible** for the privacy practices or content of those sites. We encourage you to read the privacy policies of any external websites you visit via links on our website.
 
-**15\. Updating information**  
+**16\. Updating information**
+
 You can check the personal data we hold about you, and ask us to update it where necessary, by emailing us at [emailtheteam@38degrees.org.uk](mailto:emailtheteam@38degrees.org.uk).
 
-**16\. Contact**
+**17\. Contact**
 
 We are not required by law to have a “Data Protection Officer” – however we have a Data Protection Manager.
 
@@ -244,4 +266,4 @@ _40 Bowling Green Lane_
 _London_  
 _EC1R 0NE_
 
-Last updated: 22.12.17
+Last updated: 07.01.19
