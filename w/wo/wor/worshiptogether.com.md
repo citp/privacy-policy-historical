@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the worshiptogether.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202014900id_/http%3A//www.worshiptogether.com/modals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worshiptogether.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219185340id_/https%3A//www.worshiptogether.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Worship Together | Privacy Policy
+
+## Capitol Christian Music Group Privacy Policy
 
 This is the Privacy Policy of Capitol Group Limited and its subsidiary companies (collectively "Capitol", "we", "us"), which applies to this website (WorshipTogether.com). A full list of the Capitol group companies that may jointly use personal data about you pursuant to this policy is available at http://www.Capitolgroup.com/Capitol/list.pdf. Capitol Group Limited is the entity responsible for the management of jointly used personal data.
 
 In conjunction with any applicable Terms and Conditions of Use, this policy sets out the basis on which any personal data you provide will be collected, processed, used and stored by us. Please read it carefully. By visiting this Website you are accepting and consenting to the practices described in this Privacy Policy which may be amended from time to time. If you use the Website after we have published such changes, you will be agreeing to be bound by those changes. If you do not agree to be bound by this policy at any time, you should not use the Website.
 
-## Children
+### Children
 
 You must be at least 13 years old to register with us. Please do not provide any of your details to us if you are under 13 years old. If you are between the ages of 13 and 16 please ensure that you have your parent's or guardian's consent to register and/or before you provide any personal data to the Website. Users without this consent are not allowed to provide us with personal data. If we become aware that you are under 13 and are attempting to or have submitted personal data via the Website, or that you are between the ages of 13 and 16 and are attempting to or have submitted personal data via the Website without your parent's/guardian's permission, we will not accept such information and we will take steps to remove such information from our records. This may involve us having to access and verify your age and other relevant details.
 
-## Introduction
+### Introduction
 
 This Privacy Policy explains the following:
 
@@ -26,7 +28,7 @@ How you can opt-out from our sharing personal data about you;
 How long we may keep personal data about you; and  
 How to contact us.
 
-## What data we collect about you and why
+### What data we collect about you and why
 
 When you use the Website, there are different ways we and any service providers who assist us in managing the Website gather information about you. When you register with us, we ask for information such as your name, email address, postal address and contact details. We keep a record of the information we collect on your initial and subsequent visits to the Website and any other information relating to you that we may obtain from our suppliers or other third parties. This record will be stored and processed in the United Kingdom and other countries (see further below under "How we store data about you" and "How we use personal data about you"). All this is necessary for us to recognise you, provide you with the services or information you have requested from us and, where appropriate, to maintain your account with us. In addition to the uses described below, we may also use this information to improve our platform and prevent or detect abuses of our Website. You may also be required to provide personal data to order products or participate in one of our online forums or communities. You are under no obligation to provide such data. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
 
@@ -36,7 +38,7 @@ If retail opportunities are provided, when you place an order, a third-party pay
 
 Please note that sometimes on particular web pages on the Website we will require you to provide additional personal data. When we do this we will specify further on these web pages why we are collecting this data and how we will use it.
 
-## Analysis Tools and our use of cookies
+### Analysis Tools and our use of cookies
 
 We currently use Google Analytics and other third party analytics companies to analyse how visitors use our Website and to find ways of improving it. To do this, we use Web beacons, pixel tags, clear GIFs and cookies on the Website; these are text files that collect and log site user behaviour information including domain names, IP addresses (the number automatically assigned to your computer by your Internet Service Provider), along with usage statistics (e.g., the type of web browser and operating system you use) and browsing history in an anonymous form. The information collected is transmitted to Google and other third party analytics companies and used to compile statistical reports for us. The information concerned is not used to track or collect any information which may be used to identify a particular individual. All information is used and held anonymously.
 
@@ -46,15 +48,15 @@ We control how the data collected from our cookies and other technologies may an
 
 Third-party advertisers on the Website may use cookies and other technologies in their advertisements for statistical purposes; we have no control over cookies placed on the Website by third parties.
 
-## How we store and process data about you
+### How we store and process data about you
 
 In order to communicate with you about local events, offers and opportunities and other news, the data that we collect from you may be transferred to, stored, used and processed by Capitol or one of our service providers based in Europe, North America, South East Asia, Asia Pacific or Latin America. Such entities may be engaged in, among other things: (i) preparing and sending newsletters to which you subscribe; (ii) the fulfilment of your orders; (iii) the processing of payment details; and (iv) the provision of support services. The laws of some countries may not provide the same levels of protection of personal data as your home country, particularly if you are resident in the EEA. By submitting data, you agree to the collection, transfer, storage, use and processing of data about you for the purposes described in this policy. We will take reasonable steps to ensure that data about you is treated securely in accordance with this Privacy Policy, and that all information you provide to us is stored on our secure servers or those of our service providers.
 
-## Passwords
+### Passwords
 
 Where we have given you (or you have chosen) a password to access the Website, you are responsible for keeping this password confidential. Please do not share the password with anyone. We will never contact you and ask for your password.
 
-## How we use personal data about you
+### How we use personal data about you
 
 All the information we collect via our Website, or through correspondence with you, is used to provide you with any information, products or services you have requested, to operate Capitol’s business and to improve the services and products that we offer you. We will use personal data about you for purposes such as:
 
@@ -82,16 +84,16 @@ So far as practicable we will seek to ensure that each disclosure of personal da
 
 We may also use and share anonymised, aggregated data, such as access statistics, within Capitol and with third parties such as advertisers. This information will not involve the identification of individuals.
 
-## When and how we communicate with you and how you can opt-out from receiving future communications or from our sharing personal data about you 
+### When and how we communicate with you and how you can opt-out from receiving future communications or from our sharing personal data about you
 
 We may use the information we collect to contact you by post, email and telephone (including automated calls, and by SMS text messages and other multimedia electronic messages such as picture messaging) so as to contact you:
 
-  * in relation to the functioning of any services you have signed up for in order to ensure that we can deliver the services to you; 
-  * to provide you with further information; 
-  * in relation to any contribution you have made to the Website, e.g. on our message boards; 
-  * to invite you to participate in surveys about our services (participation is always voluntary); 
-  * for marketing purposes subject to any elections that you have made in this respect; 
-  * about a submission you have made to the Website, including any content you provide. 
+  * in relation to the functioning of any services you have signed up for in order to ensure that we can deliver the services to you;
+  * to provide you with further information;
+  * in relation to any contribution you have made to the Website, e.g. on our message boards;
+  * to invite you to participate in surveys about our services (participation is always voluntary);
+  * for marketing purposes subject to any elections that you have made in this respect;
+  * about a submission you have made to the Website, including any content you provide.
 
 
 
@@ -103,7 +105,7 @@ You can tell us not to contact you or share the information with a third party e
 
 Please note that if you opt-out as described above, we will not be able to remove personal data about you from the databases of joint venture partners or any artists with which we have already shared personal data about you (i.e., to which we have already provided personal data about you as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related messages from such joint venture partners or any artists, please contact such joint venture partners or any artists directly or utilize any opt-out mechanisms set out in their respective privacy policies or marketing-related messages.
 
-## Data over the Internet and other websites
+### Data over the Internet and other websites
 
 The Internet is a global network and, therefore, there are times when data about you travels globally and may not always be completely secure. If you provide us with data over the Internet, this will be at your own risk. By using the Website, you agree and authorise us to process data in this way. However, please be assured that we use commercially reasonable procedures and security features to prevent unauthorised access to data about you.
 
@@ -113,20 +115,20 @@ We sometimes may offer content (e.g., competitions, sweepstakes, or promotions) 
 
 We may use third parties to present or serve the advertisements that you may see on the Website. This Privacy Policy does not cover any use of data that a third party ad server may have collected from you.
 
-## Offensive or inappropriate content
+### Offensive or inappropriate content
 
 If you post or send offensive, inappropriate or objectionable content anywhere on or to the Website, or otherwise engage in any disruptive behaviour on the Website, we may use the personal data we hold about you to stop such behaviour. Where we reasonably believe that you are or may be in breach of any applicable laws (for example, but without limitation, content you have posted may be defamatory), we may use the personal data we hold to inform relevant third parties such as your employer, school email/Internet provider or law enforcement agencies about the content and your behaviour.
 
-## Legal disclaimer
+### Legal disclaimer
 
 We are not responsible nor will be liable to you in any way for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that our performance will be error free, and to the maximum extent permitted by law we will not be liable for any direct, indirect, incidental, consequential or punitive damages or other loss suffered by you and relating to the use or release of your personal data.
 
-## How long we will hold personal data about you
+### How long we will hold personal data about you
 
 We will hold personal data about you on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Capitol, subject to any applicable laws and/or regulations. In the case that you wish to cancel your registration as a member of the Website once an account is deleted, people cannot use the personal data about you other than for administrative purposes, but it stays on the system for a period of one year for administration purposes before being deleted.
 
 Where you contribute to the Website, we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
 
-## Further Information; How to contact us
+### Further Information; How to contact us
 
 If you have questions about personal data relating to you, or our privacy policy, or wish to change or update data we hold about you, please contact us at [privacy@Capitolmusic.com.](mailto:privacy@Capitolmusic.com) To see all of the information we have about you, and to correct any inaccuracies, change your options in relation to the information you wish to receive or to cancel your registration, please write to The Data Controller, Capitol Group Limited, 27 Wrights Lane, London W8 5SW. Any access request may be subject to a fee of £10 to meet our costs in providing these details. Residents of the United States may send questions and communications regarding personal data and our privacy policy to Capitol Music North America, Digital Marketing, 150 Fifth Avenue, New York, New York 10011.
