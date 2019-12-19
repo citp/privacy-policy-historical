@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empire.kred privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426163435id_/https%3A//www.empire.kred/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empire.kred privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219215831id_/https%3A//www.empire.kred/legal/privacy) for the most accurate reproduction.*
 
 # Empire.Kred - Grow your Social Audience
 
