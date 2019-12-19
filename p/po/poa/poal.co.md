@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poal.co privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615180412id_/https%3A//poal.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poal.co privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219134317id_/https%3A//poal.co/privacy) for the most accurate reproduction.*
 
 # Poal: Say what you want.
 
