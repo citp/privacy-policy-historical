@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kenyon.edu privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428064430id_/https%3A//www.kenyon.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenyon.edu privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219183040id_/https%3A//www.kenyon.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement · Kenyon College
 
-Revised March 26, 2018
+Revised December 2, 2019
 
 ## Policy
 
@@ -93,7 +93,7 @@ California residents under the age of 18 who register to use the Site are able t
 
 #### International Compliance
 
-We comply with the EU General Data Protection Regulation (GDPR) and you have certain rights available to you under this regulation. We will comply with your requests to: (1) give you access to Personal Information we hold about you, (2) have inaccurate Personal Information rectified or deleted, or (3) stop using your Personal Information in a certain way. For specific requests please [contact Kenyon’s privacy officer](https://www.kenyon.edu/contact-us/information-request/). Please allow 15 business days for your request to be processed.
+Data subjects located in the European Union have certain rights pursuant to the General Data Protection Regulation (GDPR). These include the right to: (1) access to Personal Information we hold about you, (2) have inaccurate Personal Information rectified or deleted, and (3) to instruct us to stop using your Personal Information in a certain way. For specific requests please [contact Kenyon’s privacy officer](https://www.kenyon.edu/contact-us/information-request/). Please allow 15 business days for your request to be processed.
 
 ### Changes to this Statement
 
