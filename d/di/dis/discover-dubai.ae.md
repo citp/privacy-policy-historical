@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discover-dubai.ae privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502204720id_/http%3A//www.discover-dubai.ae/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discover-dubai.ae privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219033615id_/http%3A//www.discover-dubai.ae/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Discover Dubai
 
