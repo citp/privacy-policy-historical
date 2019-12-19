@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asm.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628212402id_/https%3A//www.asm.org/Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asm.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219195948id_/https%3A//www.asm.org/Cookie-Policy) for the most accurate reproduction.*
 
-# Data Usage and Cookie Policy
+# Data Usage and Cookie Policy | ASM.org
 
 American Society for Microbiology ("ASM") is committed to maintaining your confidence and trust with respect to the information we collect from you on websites owned and operated by ASM ("ASM Web Sites") and other sources. This Privacy Policy sets forth the information we collect about you, how we use this information and the choices you have about how we use such information. 
 
