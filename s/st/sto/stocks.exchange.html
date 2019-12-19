@@ -1,0 +1,649 @@
+<!--The following is the downloaded HTML source of the stocks.exchange privacy policy that was archived on 2019-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191219230224id_/https%3A//app.stex.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script type="text/javascript" async="" src="https://certify-js.alexametrics.com/atrk.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-53NMWVT"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"66c005357e",applicationID:"312120583"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Privacy policy</title>
+<meta name="description" content="STEX">
+<meta name="keywords" content="STEX">
+<meta name="csrf-token" content="djr1j9wCr1CtLMICzfiEzx9NMcPgvHtwUCvqdDPu">
+<meta name="google-site-verification" content="VY-Tx7Cyfd3kXwMSqAnK9gg73aK-E2TeNvOt0oP8f_E">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-itunes-app" content="app-id=1200812360">
+<meta name="push-token" content="">
+<meta name="application-name" content="STEX Exchange">
+<meta property="fb:app_id" content="353441551897286">
+<meta property="og:url" content="https://app.stex.com/en/privacy-policy">
+<meta property="og:title" content="Privacy policy">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://app.stex.com/Logo_250x250.png">
+<meta property="og:image:width" content="250">
+<meta property="og:image:height" content="250">
+<meta property="og:image:alt" content="Stex Logo">
+<meta property="og:description" content="STEX">
+<meta property="og:site_name" content="stex">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@StexExchangeR">
+<meta name="twitter:creator" content="@StexExchangeR">
+<meta name="twitter:url" content="https://app.stex.com/en/privacy-policy">
+<meta name="twitter:title" content="Privacy policy">
+<meta name="twitter:description" content="STEX">
+<meta name="twitter:image" content="https://app.stex.com/Logo_160x160_White.png">
+<meta name="twitter:image:alt" content="Stex Logo">
+<link href="/css/_social-links.css?id=0660352c040d05a665d3" rel="stylesheet" type="text/css">
+<link rel="icon" sizes="16x16" href="https://app.stex.com/images/favicon_new/16х16.png">
+<link rel="icon" sizes="32x32" href="https://app.stex.com/images/favicon_new/32х32.png">
+<link rel="apple-touch-icon-precomposed" href="https://app.stex.com/images/favicon_new/180x180.png">
+<link rel="apple-touch-icon" sizes="57x57" href="https://app.stex.com/images/favicon_new/57х57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://app.stex.com/images/favicon_new/60х60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://app.stex.com/images/favicon_new/72х72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://app.stex.com/images/favicon_new/76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://app.stex.com/images/favicon_new/114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://app.stex.com/images/favicon_new/120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://app.stex.com/images/favicon_new/144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://app.stex.com/images/favicon_new/152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://app.stex.com/images/favicon_new/180x180.png">
+<meta name="msapplication-square310x310logo" content="https://app.stex.com/images/favicon_new/310x310.png">
+<meta name="msapplication-square150x150logo" content="https://app.stex.com/images/favicon_new/150x150.png">
+<meta name="msapplication-square144x144logo" content="https://app.stex.com/images/favicon_new/144x144.png">
+<meta name="msapplication-square72x72logo" content="https://app.stex.com/images/favicon_new/72х72.png">
+<link rel="stylesheet" type="text/css" href="/css/app.css?id=4d49ff0caf9f99ddb993">
+<link rel="manifest" href="https://app.stex.com/manifest.json">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer',"GTM-53NMWVT");</script>
+
+<script>
+        dataLayer = [];
+    </script>
+<script>
+                    window.analytics_param = {
+            'cookie_expires': 86400
+        };
+            </script>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '', window.analytics_param);
+    </script>
+
+<script type="text/javascript">
+        _atrk_opts = { atrk_acct:"jalss1Fx9f207i", domain:"stex.com",dynamic: true};
+        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=jalss1Fx9f207i" style="display:none" height="1" width="1" alt="" /></noscript>
+
+<style>@-webkit-keyframes swal2-show{0%{-webkit-transform:scale(.7);transform:scale(.7)}45%{-webkit-transform:scale(1.05);transform:scale(1.05)}80%{-webkit-transform:scale(.95);transform:scale(.95)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes swal2-show{0%{-webkit-transform:scale(.7);transform:scale(.7)}45%{-webkit-transform:scale(1.05);transform:scale(1.05)}80%{-webkit-transform:scale(.95);transform:scale(.95)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes swal2-hide{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}100%{-webkit-transform:scale(.5);transform:scale(.5);opacity:0}}@keyframes swal2-hide{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}100%{-webkit-transform:scale(.5);transform:scale(.5);opacity:0}}@-webkit-keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.875em;width:1.5625em}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.875em;width:1.5625em}}@-webkit-keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@-webkit-keyframes swal2-rotate-success-circular-line{0%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}5%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}12%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}100%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}}@keyframes swal2-rotate-success-circular-line{0%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}5%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}12%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}100%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}}@-webkit-keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;-webkit-transform:scale(.4);transform:scale(.4);opacity:0}50%{margin-top:1.625em;-webkit-transform:scale(.4);transform:scale(.4);opacity:0}80%{margin-top:-.375em;-webkit-transform:scale(1.15);transform:scale(1.15)}100%{margin-top:0;-webkit-transform:scale(1);transform:scale(1);opacity:1}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;-webkit-transform:scale(.4);transform:scale(.4);opacity:0}50%{margin-top:1.625em;-webkit-transform:scale(.4);transform:scale(.4);opacity:0}80%{margin-top:-.375em;-webkit-transform:scale(1.15);transform:scale(1.15)}100%{margin-top:0;-webkit-transform:scale(1);transform:scale(1);opacity:1}}@-webkit-keyframes swal2-animate-error-icon{0%{-webkit-transform:rotateX(100deg);transform:rotateX(100deg);opacity:0}100%{-webkit-transform:rotateX(0);transform:rotateX(0);opacity:1}}@keyframes swal2-animate-error-icon{0%{-webkit-transform:rotateX(100deg);transform:rotateX(100deg);opacity:0}100%{-webkit-transform:rotateX(0);transform:rotateX(0);opacity:1}}body.swal2-toast-shown.swal2-has-input>.swal2-container>.swal2-toast{flex-direction:column;align-items:stretch}body.swal2-toast-shown.swal2-has-input>.swal2-container>.swal2-toast .swal2-actions{flex:1;align-self:stretch;justify-content:flex-end;height:2.2em}body.swal2-toast-shown.swal2-has-input>.swal2-container>.swal2-toast .swal2-loading{justify-content:center}body.swal2-toast-shown.swal2-has-input>.swal2-container>.swal2-toast .swal2-input{height:2em;margin:.3125em auto;font-size:1em}body.swal2-toast-shown.swal2-has-input>.swal2-container>.swal2-toast .swal2-validationerror{font-size:1em}body.swal2-toast-shown>.swal2-container{position:fixed;background-color:transparent}body.swal2-toast-shown>.swal2-container.swal2-shown{background-color:transparent}body.swal2-toast-shown>.swal2-container.swal2-top{top:0;right:auto;bottom:auto;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}body.swal2-toast-shown>.swal2-container.swal2-top-end,body.swal2-toast-shown>.swal2-container.swal2-top-right{top:0;right:0;bottom:auto;left:auto}body.swal2-toast-shown>.swal2-container.swal2-top-left,body.swal2-toast-shown>.swal2-container.swal2-top-start{top:0;right:auto;bottom:auto;left:0}body.swal2-toast-shown>.swal2-container.swal2-center-left,body.swal2-toast-shown>.swal2-container.swal2-center-start{top:50%;right:auto;bottom:auto;left:0;-webkit-transform:translateY(-50%);transform:translateY(-50%)}body.swal2-toast-shown>.swal2-container.swal2-center{top:50%;right:auto;bottom:auto;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}body.swal2-toast-shown>.swal2-container.swal2-center-end,body.swal2-toast-shown>.swal2-container.swal2-center-right{top:50%;right:0;bottom:auto;left:auto;-webkit-transform:translateY(-50%);transform:translateY(-50%)}body.swal2-toast-shown>.swal2-container.swal2-bottom-left,body.swal2-toast-shown>.swal2-container.swal2-bottom-start{top:auto;right:auto;bottom:0;left:0}body.swal2-toast-shown>.swal2-container.swal2-bottom{top:auto;right:auto;bottom:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}body.swal2-toast-shown>.swal2-container.swal2-bottom-end,body.swal2-toast-shown>.swal2-container.swal2-bottom-right{top:auto;right:0;bottom:0;left:auto}.swal2-popup.swal2-toast{flex-direction:row;align-items:center;width:auto;padding:.625em;box-shadow:0 0 .625em #d9d9d9;overflow-y:hidden}.swal2-popup.swal2-toast .swal2-header{flex-direction:row}.swal2-popup.swal2-toast .swal2-title{justify-content:flex-start;margin:0 .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-close{position:initial}.swal2-popup.swal2-toast .swal2-content{justify-content:flex-start;font-size:1em}.swal2-popup.swal2-toast .swal2-icon{width:2em;min-width:2em;height:2em;margin:0}.swal2-popup.swal2-toast .swal2-icon-text{font-size:2em;font-weight:700;line-height:1em}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{height:auto;margin:0 .3125em}.swal2-popup.swal2-toast .swal2-styled{margin:0 .3125em;padding:.3125em .625em;font-size:1em}.swal2-popup.swal2-toast .swal2-styled:focus{box-shadow:0 0 0 .0625em #fff,0 0 0 .125em rgba(50,100,150,.4)}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:2em;height:2.8125em;-webkit-transform:rotate(45deg);transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.25em;left:-.9375em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:2em 2em;transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.25em;left:.9375em;-webkit-transform-origin:0 2em;transform-origin:0 2em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast.swal2-show{-webkit-animation:showSweetToast .5s;animation:showSweetToast .5s}.swal2-popup.swal2-toast.swal2-hide{-webkit-animation:hideSweetToast .2s forwards;animation:hideSweetToast .2s forwards}.swal2-popup.swal2-toast .swal2-animate-success-icon .swal2-success-line-tip{-webkit-animation:animate-toast-success-tip .75s;animation:animate-toast-success-tip .75s}.swal2-popup.swal2-toast .swal2-animate-success-icon .swal2-success-line-long{-webkit-animation:animate-toast-success-long .75s;animation:animate-toast-success-long .75s}@-webkit-keyframes showSweetToast{0%{-webkit-transform:translateY(-.625em) rotateZ(2deg);transform:translateY(-.625em) rotateZ(2deg);opacity:0}33%{-webkit-transform:translateY(0) rotateZ(-2deg);transform:translateY(0) rotateZ(-2deg);opacity:.5}66%{-webkit-transform:translateY(.3125em) rotateZ(2deg);transform:translateY(.3125em) rotateZ(2deg);opacity:.7}100%{-webkit-transform:translateY(0) rotateZ(0);transform:translateY(0) rotateZ(0);opacity:1}}@keyframes showSweetToast{0%{-webkit-transform:translateY(-.625em) rotateZ(2deg);transform:translateY(-.625em) rotateZ(2deg);opacity:0}33%{-webkit-transform:translateY(0) rotateZ(-2deg);transform:translateY(0) rotateZ(-2deg);opacity:.5}66%{-webkit-transform:translateY(.3125em) rotateZ(2deg);transform:translateY(.3125em) rotateZ(2deg);opacity:.7}100%{-webkit-transform:translateY(0) rotateZ(0);transform:translateY(0) rotateZ(0);opacity:1}}@-webkit-keyframes hideSweetToast{0%{opacity:1}33%{opacity:.5}100%{-webkit-transform:rotateZ(1deg);transform:rotateZ(1deg);opacity:0}}@keyframes hideSweetToast{0%{opacity:1}33%{opacity:.5}100%{-webkit-transform:rotateZ(1deg);transform:rotateZ(1deg);opacity:0}}@-webkit-keyframes animate-toast-success-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes animate-toast-success-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@-webkit-keyframes animate-toast-success-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes animate-toast-success-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown),html.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){height:auto;overflow-y:hidden}body.swal2-no-backdrop .swal2-shown{top:auto;right:auto;bottom:auto;left:auto;background-color:transparent}body.swal2-no-backdrop .swal2-shown>.swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}body.swal2-no-backdrop .swal2-shown.swal2-top{top:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}body.swal2-no-backdrop .swal2-shown.swal2-top-left,body.swal2-no-backdrop .swal2-shown.swal2-top-start{top:0;left:0}body.swal2-no-backdrop .swal2-shown.swal2-top-end,body.swal2-no-backdrop .swal2-shown.swal2-top-right{top:0;right:0}body.swal2-no-backdrop .swal2-shown.swal2-center{top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}body.swal2-no-backdrop .swal2-shown.swal2-center-left,body.swal2-no-backdrop .swal2-shown.swal2-center-start{top:50%;left:0;-webkit-transform:translateY(-50%);transform:translateY(-50%)}body.swal2-no-backdrop .swal2-shown.swal2-center-end,body.swal2-no-backdrop .swal2-shown.swal2-center-right{top:50%;right:0;-webkit-transform:translateY(-50%);transform:translateY(-50%)}body.swal2-no-backdrop .swal2-shown.swal2-bottom{bottom:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}body.swal2-no-backdrop .swal2-shown.swal2-bottom-left,body.swal2-no-backdrop .swal2-shown.swal2-bottom-start{bottom:0;left:0}body.swal2-no-backdrop .swal2-shown.swal2-bottom-end,body.swal2-no-backdrop .swal2-shown.swal2-bottom-right{right:0;bottom:0}.swal2-container{display:flex;position:fixed;top:0;right:0;bottom:0;left:0;flex-direction:row;align-items:center;justify-content:center;padding:10px;background-color:transparent;z-index:1060;overflow-x:hidden;-webkit-overflow-scrolling:touch}.swal2-container.swal2-top{align-items:flex-start}.swal2-container.swal2-top-left,.swal2-container.swal2-top-start{align-items:flex-start;justify-content:flex-start}.swal2-container.swal2-top-end,.swal2-container.swal2-top-right{align-items:flex-start;justify-content:flex-end}.swal2-container.swal2-center{align-items:center}.swal2-container.swal2-center-left,.swal2-container.swal2-center-start{align-items:center;justify-content:flex-start}.swal2-container.swal2-center-end,.swal2-container.swal2-center-right{align-items:center;justify-content:flex-end}.swal2-container.swal2-bottom{align-items:flex-end}.swal2-container.swal2-bottom-left,.swal2-container.swal2-bottom-start{align-items:flex-end;justify-content:flex-start}.swal2-container.swal2-bottom-end,.swal2-container.swal2-bottom-right{align-items:flex-end;justify-content:flex-end}.swal2-container.swal2-grow-fullscreen>.swal2-modal{display:flex!important;flex:1;align-self:stretch;justify-content:center}.swal2-container.swal2-grow-row>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-grow-column{flex:1;flex-direction:column}.swal2-container.swal2-grow-column.swal2-bottom,.swal2-container.swal2-grow-column.swal2-center,.swal2-container.swal2-grow-column.swal2-top{align-items:center}.swal2-container.swal2-grow-column.swal2-bottom-left,.swal2-container.swal2-grow-column.swal2-bottom-start,.swal2-container.swal2-grow-column.swal2-center-left,.swal2-container.swal2-grow-column.swal2-center-start,.swal2-container.swal2-grow-column.swal2-top-left,.swal2-container.swal2-grow-column.swal2-top-start{align-items:flex-start}.swal2-container.swal2-grow-column.swal2-bottom-end,.swal2-container.swal2-grow-column.swal2-bottom-right,.swal2-container.swal2-grow-column.swal2-center-end,.swal2-container.swal2-grow-column.swal2-center-right,.swal2-container.swal2-grow-column.swal2-top-end,.swal2-container.swal2-grow-column.swal2-top-right{align-items:flex-end}.swal2-container.swal2-grow-column>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right)>.swal2-modal{margin:auto}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-container .swal2-modal{margin:0!important}}.swal2-container.swal2-fade{transition:background-color .1s}.swal2-container.swal2-shown{background-color:rgba(0,0,0,.4)}.swal2-popup{display:none;position:relative;flex-direction:column;justify-content:center;width:32em;max-width:100%;padding:1.25em;border-radius:.3125em;background:#fff;font-family:inherit;font-size:1rem;box-sizing:border-box}.swal2-popup:focus{outline:0}.swal2-popup.swal2-loading{overflow-y:hidden}.swal2-popup .swal2-header{display:flex;flex-direction:column;align-items:center}.swal2-popup .swal2-title{display:block;position:relative;max-width:100%;margin:0 0 .4em;padding:0;color:#595959;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}.swal2-popup .swal2-actions{align-items:center;justify-content:center;margin:1.25em auto 0}.swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}.swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1))}.swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2))}.swal2-popup .swal2-actions.swal2-loading .swal2-styled.swal2-confirm{width:2.5em;height:2.5em;margin:.46875em;padding:0;border:.25em solid transparent;border-radius:100%;border-color:transparent;background-color:transparent!important;color:transparent;cursor:default;box-sizing:border-box;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-popup .swal2-actions.swal2-loading .swal2-styled.swal2-cancel{margin-right:30px;margin-left:30px}.swal2-popup .swal2-actions.swal2-loading :not(.swal2-styled).swal2-confirm::after{display:inline-block;width:15px;height:15px;margin-left:5px;border:3px solid #999;border-radius:50%;border-right-color:transparent;box-shadow:1px 1px 1px #fff;content:'';-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal}.swal2-popup .swal2-styled{margin:0 .3125em;padding:.625em 2em;font-weight:500;box-shadow:none}.swal2-popup .swal2-styled:not([disabled]){cursor:pointer}.swal2-popup .swal2-styled.swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#3085d6;color:#fff;font-size:1.0625em}.swal2-popup .swal2-styled.swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#aaa;color:#fff;font-size:1.0625em}.swal2-popup .swal2-styled:focus{outline:0;box-shadow:0 0 0 2px #fff,0 0 0 4px rgba(50,100,150,.4)}.swal2-popup .swal2-styled::-moz-focus-inner{border:0}.swal2-popup .swal2-footer{justify-content:center;margin:1.25em 0 0;padding-top:1em;border-top:1px solid #eee;color:#545454;font-size:1em}.swal2-popup .swal2-image{max-width:100%;margin:1.25em auto}.swal2-popup .swal2-close{position:absolute;top:0;right:0;justify-content:center;width:1.2em;height:1.2em;padding:0;transition:color .1s ease-out;border:none;border-radius:0;background:0 0;color:#ccc;font-family:serif;font-size:2.5em;line-height:1.2;cursor:pointer;overflow:hidden}.swal2-popup .swal2-close:hover{-webkit-transform:none;transform:none;color:#f27474}.swal2-popup>.swal2-checkbox,.swal2-popup>.swal2-file,.swal2-popup>.swal2-input,.swal2-popup>.swal2-radio,.swal2-popup>.swal2-select,.swal2-popup>.swal2-textarea{display:none}.swal2-popup .swal2-content{justify-content:center;margin:0;padding:0;color:#545454;font-size:1.125em;font-weight:300;line-height:normal;word-wrap:break-word}.swal2-popup #swal2-content{text-align:center}.swal2-popup .swal2-checkbox,.swal2-popup .swal2-file,.swal2-popup .swal2-input,.swal2-popup .swal2-radio,.swal2-popup .swal2-select,.swal2-popup .swal2-textarea{margin:1em auto}.swal2-popup .swal2-file,.swal2-popup .swal2-input,.swal2-popup .swal2-textarea{width:100%;transition:border-color .3s,box-shadow .3s;border:1px solid #d9d9d9;border-radius:.1875em;font-size:1.125em;box-shadow:inset 0 1px 1px rgba(0,0,0,.06);box-sizing:border-box}.swal2-popup .swal2-file.swal2-inputerror,.swal2-popup .swal2-input.swal2-inputerror,.swal2-popup .swal2-textarea.swal2-inputerror{border-color:#f27474!important;box-shadow:0 0 2px #f27474!important}.swal2-popup .swal2-file:focus,.swal2-popup .swal2-input:focus,.swal2-popup .swal2-textarea:focus{border:1px solid #b4dbed;outline:0;box-shadow:0 0 3px #c4e6f5}.swal2-popup .swal2-file::-webkit-input-placeholder,.swal2-popup .swal2-input::-webkit-input-placeholder,.swal2-popup .swal2-textarea::-webkit-input-placeholder{color:#ccc}.swal2-popup .swal2-file:-ms-input-placeholder,.swal2-popup .swal2-input:-ms-input-placeholder,.swal2-popup .swal2-textarea:-ms-input-placeholder{color:#ccc}.swal2-popup .swal2-file::-ms-input-placeholder,.swal2-popup .swal2-input::-ms-input-placeholder,.swal2-popup .swal2-textarea::-ms-input-placeholder{color:#ccc}.swal2-popup .swal2-file::placeholder,.swal2-popup .swal2-input::placeholder,.swal2-popup .swal2-textarea::placeholder{color:#ccc}.swal2-popup .swal2-range input{width:80%}.swal2-popup .swal2-range output{width:20%;font-weight:600;text-align:center}.swal2-popup .swal2-range input,.swal2-popup .swal2-range output{height:2.625em;margin:1em auto;padding:0;font-size:1.125em;line-height:2.625em}.swal2-popup .swal2-input{height:2.625em;padding:.75em}.swal2-popup .swal2-input[type=number]{max-width:10em}.swal2-popup .swal2-file{font-size:1.125em}.swal2-popup .swal2-textarea{height:6.75em;padding:.75em}.swal2-popup .swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;color:#545454;font-size:1.125em}.swal2-popup .swal2-checkbox,.swal2-popup .swal2-radio{align-items:center;justify-content:center}.swal2-popup .swal2-checkbox label,.swal2-popup .swal2-radio label{margin:0 .6em;font-size:1.125em}.swal2-popup .swal2-checkbox input,.swal2-popup .swal2-radio input{margin:0 .4em}.swal2-popup .swal2-validationerror{display:none;align-items:center;justify-content:center;padding:.625em;background:#f0f0f0;color:#666;font-size:1em;font-weight:300;overflow:hidden}.swal2-popup .swal2-validationerror::before{display:inline-block;width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center;content:'!';zoom:normal}@supports (-ms-accelerator:true){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@-moz-document url-prefix(){.swal2-close:focus{outline:2px solid rgba(50,100,150,.4)}}.swal2-icon{position:relative;justify-content:center;width:5em;height:5em;margin:1.25em auto 1.875em;border:.25em solid transparent;border-radius:50%;line-height:5em;cursor:default;box-sizing:content-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;zoom:normal}.swal2-icon-text{font-size:3.75em}.swal2-icon.swal2-error{border-color:#f27474}.swal2-icon.swal2-error .swal2-x-mark{position:relative;flex-grow:1}.swal2-icon.swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;-webkit-transform:rotate(45deg);transform:rotate(45deg)}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.swal2-icon.swal2-warning{border-color:#facea8;color:#f8bb86}.swal2-icon.swal2-info{border-color:#9de0f6;color:#3fc3ee}.swal2-icon.swal2-question{border-color:#c9dae1;color:#87adbd}.swal2-icon.swal2-success{border-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;-webkit-transform:rotate(45deg);transform:rotate(45deg);border-radius:50%}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.4375em;left:-2.0635em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:3.75em 3.75em;transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.6875em;left:1.875em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:0 3.75em;transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}.swal2-icon.swal2-success .swal2-success-ring{position:absolute;top:-.25em;left:-.25em;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%;z-index:2;box-sizing:content-box}.swal2-icon.swal2-success .swal2-success-fix{position:absolute;top:.5em;left:1.625em;width:.4375em;height:5.625em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);z-index:1}.swal2-icon.swal2-success [class^=swal2-success-line]{display:block;position:absolute;height:.3125em;border-radius:.125em;background-color:#a5dc86;z-index:2}.swal2-icon.swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.875em;width:1.5625em;-webkit-transform:rotate(45deg);transform:rotate(45deg)}.swal2-icon.swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.swal2-progresssteps{align-items:center;margin:0 0 1.25em;padding:0;font-weight:600}.swal2-progresssteps li{display:inline-block;position:relative}.swal2-progresssteps .swal2-progresscircle{width:2em;height:2em;border-radius:2em;background:#3085d6;color:#fff;line-height:2em;text-align:center;z-index:20}.swal2-progresssteps .swal2-progresscircle:first-child{margin-left:0}.swal2-progresssteps .swal2-progresscircle:last-child{margin-right:0}.swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep{background:#3085d6}.swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep~.swal2-progresscircle{background:#add8e6}.swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep~.swal2-progressline{background:#add8e6}.swal2-progresssteps .swal2-progressline{width:2.5em;height:.4em;margin:0 -1px;background:#3085d6;z-index:10}[class^=swal2]{-webkit-tap-highlight-color:transparent}.swal2-show{-webkit-animation:swal2-show .3s;animation:swal2-show .3s}.swal2-show.swal2-noanimation{-webkit-animation:none;animation:none}.swal2-hide{-webkit-animation:swal2-hide .15s forwards;animation:swal2-hide .15s forwards}.swal2-hide.swal2-noanimation{-webkit-animation:none;animation:none}[dir=rtl] .swal2-close{right:auto;left:0}.swal2-animate-success-icon .swal2-success-line-tip{-webkit-animation:swal2-animate-success-line-tip .75s;animation:swal2-animate-success-line-tip .75s}.swal2-animate-success-icon .swal2-success-line-long{-webkit-animation:swal2-animate-success-line-long .75s;animation:swal2-animate-success-line-long .75s}.swal2-animate-success-icon .swal2-success-circular-line-right{-webkit-animation:swal2-rotate-success-circular-line 4.25s ease-in;animation:swal2-rotate-success-circular-line 4.25s ease-in}.swal2-animate-error-icon{-webkit-animation:swal2-animate-error-icon .5s;animation:swal2-animate-error-icon .5s}.swal2-animate-error-icon .swal2-x-mark{-webkit-animation:swal2-animate-error-x-mark .5s;animation:swal2-animate-error-x-mark .5s}@-webkit-keyframes swal2-rotate-loading{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes swal2-rotate-loading{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}</style></head>
+<body class="dark-2 en  page-article" style="">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53NMWVT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="content-holder no-footer block">
+<div class="bg-wrapper">
+
+<header>
+<div class="container-fluid">
+<div class="header-wrapper">
+<a href="https://www.stex.com/" class="header-logo">
+<img src="https://app.stex.com/images/svg/Logo_christmas.svg" alt="STEX">
+</a>
+<a href="javascript:void(0)" class="mobile-menu d-lg-none sprite"></a>
+<div class="header-menu">
+<div class="header-menu-wrapper">
+<div class="nav-menu">
+<ul>
+<li>
+<a id="adv_trade_link" href="https://app.stex.com/en/trade">Trade</a>
+</li>
+<li>
+<a id="trade_link" href="https://app.stex.com/en/basic-trade">Simplified mode</a>
+</li>
+<li>
+<a href="http://help.stex.com/technical-support-and-troubleshooting">Support Center</a>
+</li>
+<li class="dropdown market-cap">
+<a href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+MarketCap
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item external-link" target="_blank" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://coinmarketcap.com/exchanges/stex">CoinMarketCap</a>
+<a class="dropdown-item external-link" target="_blank" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://www.coingecko.com/en/exchanges/stex">CoinGecko</a>
+<a class="dropdown-item external-link" target="_blank" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://coinpricetoday.com/exchanges/stex/">CoinPriceToday</a>
+</div>
+</li>
+<li class="market-cap-mobile">
+<a target="_blank" rel="noopener noreferrer" class="external-link" href="javascript:void(0)" data-ref="https://coinmarketcap.com/exchanges/stex">CoinMarketCap</a>
+</li>
+<li class="market-cap-mobile">
+<a target="_blank" class="external-link" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://www.coingecko.com/en/exchanges/stex">CoinGecko</a>
+</li>
+<li class="market-cap-mobile">
+<a target="_blank" class="external-link" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://coinpricetoday.com/exchanges/stex/">CoinPriceToday</a>
+</li>
+<li class="dropdown market-cap">
+<a href="javascript:void(0)" id="eioDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Launchpad (IEO)
+</a>
+<div class="dropdown-menu" aria-labelledby="eioDropdown">
+<a class="dropdown-item" href="https://app.stex.com/en/ieo/az_fundchain_btc_sale" title="AZT_BTC Launchpad">AZ FundChain BTC session (Finished)</a>
+<a class="dropdown-item" href="https://app.stex.com/en/ieo/az_fundchain_eth_sale" title="AZT_ETH Launchpad">AZ FundChain ETH session (Finished)</a>
+<a class="dropdown-item" href="https://app.stex.com/en/ieo/az_fundchain_btc_sale_2" title="AZT_BTC Launchpad">AZ FundChain BTC session_2 (Finished)</a>
+<a class="dropdown-item" href="https://app.stex.com/en/ieo/az_fundchain_btc_sale_3" title="AZT_BTC Launchpad">AZ FundChain BTC session_3 (Finished)</a>
+</div>
+</li>
+<li class="market-cap-mobile">
+<a href="https://app.stex.com/en/ieo/az_fundchain_btc_sale" title="AZT_BTC Launchpad">AZ FundChain BTC session (Finished)</a>
+</li>
+<li class="market-cap-mobile">
+<a href="https://app.stex.com/en/ieo/az_fundchain_eth_sale" title="AZT_ETH Launchpad">AZ FundChain ETH session (Finished)</a>
+</li>
+<li class="market-cap-mobile">
+<a href="https://app.stex.com/en/ieo/az_fundchain_btc_sale_2" title="AZT_BTC Launchpad">AZ FundChain BTC session_2 (Finished)</a>
+</li>
+<li class="market-cap-mobile">
+<a href="https://app.stex.com/en/ieo/az_fundchain_btc_sale_3" title="AZT_BTC Launchpad">AZ FundChain BTC session_3 (Finished)</a>
+</li>
+<li>
+<a href="https://app.stex.com/en/xeuro-online">xEURO</a>
+</li>
+</ul>
+</div>
+<div class="nav-auth">
+<ul>
+<li><a href="https://app.stex.com/en/login">Sign in</a></li>
+<li><a href="https://app.stex.com/en/register">Sign up</a></li>
+</ul>
+<div class="nav-language">
+<div class="language sprite">
+<img title="English" src="https://app.stex.com/images/flags/svg/260-united-kingdom.svg" alt="EN">
+<span title="English">English</span>
+</div>
+<div class="list-language">
+<div class="list-language-wrapper list-right-decor sprite">
+<ul>
+<li>
+<a rel="alternate" hreflang="ru" href="https://app.stex.com/ru/privacy-policy">
+<img title="Русский" src="https://app.stex.com/images/flags/svg/248-russia.svg" alt="ru">
+<span>Русский</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="en" href="https://app.stex.com/en/privacy-policy">
+<img title="English" src="https://app.stex.com/images/flags/svg/260-united-kingdom.svg" alt="en">
+<span>English</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="id" href="https://app.stex.com/id/privacy-policy">
+<img title="Indonesian" src="https://app.stex.com/images/flags/svg/209-indonesia.svg" alt="id">
+<span>Indonesian</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="pt" href="https://app.stex.com/pt/privacy-policy">
+<img title="Português" src="https://app.stex.com/images/flags/svg/224-portugal.svg" alt="pt">
+<span>Português</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="zh" href="https://app.stex.com/zh/privacy-policy">
+<img title="简体中文" src="https://app.stex.com/images/flags/svg/034-china.svg" alt="zh">
+<span>简体中文</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="es" href="https://app.stex.com/es/privacy-policy">
+<img title="Español" src="https://app.stex.com/images/flags/svg/128-spain.svg" alt="es">
+<span>Español</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="ko" href="https://app.stex.com/ko/privacy-policy">
+<img title="한국어" src="https://app.stex.com/images/flags/svg/094-south-korea.svg" alt="ko">
+<span>한국어</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="de" href="https://app.stex.com/de/privacy-policy">
+<img title="Deutsch" src="https://app.stex.com/images/flags/svg/162-germany.svg" alt="de">
+<span>Deutsch</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="ja" href="https://app.stex.com/ja/privacy-policy">
+<img title="日本語" src="https://app.stex.com/images/flags/svg/063-japan.svg" alt="ja">
+<span>日本語</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="vi" href="https://app.stex.com/vi/privacy-policy">
+<img title="Tiếng Việt" src="https://app.stex.com/images/flags/svg/220-vietnam.svg" alt="vi">
+<span>Tiếng Việt</span>
+</a>
+</li>
+<li>
+<a rel="alternate" hreflang="uk" href="https://app.stex.com/uk/privacy-policy">
+<img title="Українська" src="https://app.stex.com/images/flags/svg/145-ukraine.svg" alt="uk">
+<span>Українська</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+<div class="content">
+<div class="container-fluid">
+<div class="content-wrapper">
+<div class="article">
+<div class="article-wrapper col-lg-10">
+<div class="content-header">
+<div class="title d-lg-none">
+<h1>Cookie and Privacy Policy</h1>
+</div>
+<div class="datatitle">
+<div class="pairs-specification-title d-none d-lg-block">
+<h1>Cookie and Privacy Policy</h1>
+</div>
+<div class="article-revised">Last Revised: July 27, 2018</div>
+</div>
+</div>
+<div class="article-body">
+<p>
+This cookie and privacy policy is for website <a href="https://app.stex.com/en">STEX</a> (hereinafter “website”) and
+served by <a href="#">Etna Development OÜ</a> (hereinafter “Company”, “we” or “us”) and
+governs the privacy
+of its users who choose to use it (hereinafter ‘User’ or ‘you’).
+</p>
+<p>
+Company's activities are conducted in accordance with legislation of the Republic of Estonia
+and European Union law, and their provisions have to be taken into account.
+</p>
+<p>
+The Company encourage You to read this Cookie and Privacy Policy carefully when using our
+website or services or transacting business with us. By using website, you are accepting the
+practices described in this Cookie and Privacy Policy.
+</p>
+<p>
+If you have any questions about our privacy practices, please refer to the end of this
+Cookie and Privacy Policy for information on how to contact us.
+</p>
+<h5>Information We Collect About You</h5>
+<p>We are legally obliged to collect personal information that can identify you such as your
+name and email address and other information that identify you. When you provide personal
+information through our website, the information will be sent to our servers.</p>
+<p>We may collect and store any personal information you enter on our website or provide to us
+in some other manner. This includes identifying information, such as your name, address,
+e-mail address, birth data and telephone number, financial information such as your payment
+method (valid credit card number, type, expiration date or other financial information). We
+also may request information about your interests and activities, your gender and age, other
+demographic information and other information like this;</p>
+<p>We can keep all files you upload to our website, including images.</p>
+<p>We may also periodically obtain both personal and non-personal information about you from
+other sources like networks business partners, contractors and other third parties and add
+it to our account information or other information we have collected. Examples of
+information that we may receive include: updated delivery and address information, purchase
+history, and additional demographic information.</p>
+<h5>Cookies</h5>
+<p>A cookie is a small text file that is stored on a user's computer for record keeping
+purposes. Cookies can be either session cookies or persistent cookies. A session cookie
+expires when you close your browser and is used to make it easier for you to navigate our
+website. A persistent cookie remains on your hard drive for an extended period of time.</p>
+<p>When you visit our website, we may assign your computer one or more cookies to facilitate
+access to our site and to personalize your online experience.</p>
+<p>Through the use of a cookie, we also may automatically collect information about your online
+activity on our website, such as the web pages you visit, the links you click, and the
+searches you conduct on our site.</p>
+<p>Most browsers automatically accept cookies, but you can usually modify your browser setting
+to decline cookies. If you choose to decline cookies please note that you may not be able to
+sign in or use some of the interactive features offered on our website.</p>
+<p>We may allow our authorized service providers to serve cookies from our website to allow them
+to assist us in various activities, such as doing analysis and research on the effectiveness
+of our site, content and advertising.</p>
+<p>You may delete or decline cookies by changing your browser settings. (Click "Help" in the
+toolbar of most browsers for instructions.) If you do so, some of the features and services
+of our website may not function properly;</p>
+<h5>Other technologies</h5>
+<p>We may use standard Internet technology, such as web beacons and other similar technologies,
+to track your use of our site. We also may include web beacons in promotional e-mail
+messages or newsletters to determine whether messages have been opened and acted upon.</p>
+<p>The information we obtain in this manner enables us to customize the services we offer our
+website visitors to deliver targeted advertisements and to measure the overall effectiveness
+of our online advertising, content, programming or other activities.</p>
+<p>Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a
+unique identifier, similar in function to cookies, and are used to track the online
+movements of web users or to access cookies. Unlike cookies, which are stored on the user's
+computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and
+are about the size of the period at the end of this sentence.</p>
+<p>Web beacons may be used to deliver or communicate with cookies, to count users who have
+visited certain pages and to understand usage patterns. We also may receive an anonymous
+identification number if you come to our site from an online advertisement displayed on a
+third-party website.</p>
+<h5>How We Use the Information We Collect</h5>
+<p>We do the best according to the law and best practice in this area. We may use information
+that we collect about you to:</p>
+<ul>
+<li>deliver the products and services that you have requested;</li>
+<li>manage your account and provide you with customer support;</li>
+<li>perform research and analysis about your use of, or interest in, our products, services,
+or content, or products, services or content offered by others;
+</li>
+<li>communicate with you by e-mail, postal mail, telephone and/or mobile devices about
+products or services that may be of interest to you either from us or other third
+parties;
+</li>
+<li>enforce our terms and conditions;</li>
+<li>manage our business and perform functions as otherwise described to you at the time of
+collection.
+</li>
+</ul>
+<p>We may use financial information or payment method to protect against or identify possible
+fraudulent transactions, and otherwise as needed to manage our business.</p>
+<p>We may share your personal information with our authorized service providers that perform
+certain services on our behalf. These services may include fulfilling orders, processing
+credit card payments, delivering packages, providing customer service and marketing
+assistance, performing business and sales analysis, supporting our website functionality,
+and supporting contests, sweepstakes, surveys and other features offered through our
+website. These service providers may have access to personal information needed to perform
+their functions but are not permitted to share or use such information for any other
+purposes;</p>
+<p>We also may disclose your information:</p>
+<ul>
+<li>
+in response to a subpoena or similar investigative demand, a court order, or a request
+for cooperation from a law enforcement or other government agency;
+to establish or exercise our legal rights;
+</li>
+<li>
+to defend against legal claims;
+</li>
+<li>
+when we believe disclosure is appropriate in connection with efforts to investigate,
+prevent, or take other action regarding illegal activity, suspected fraud or other
+wrongdoing;
+</li>
+<li>
+to protect and defend the rights, property or safety of our company, our users, our
+employees, or others;
+</li>
+<li>
+to comply with applicable law or cooperate with law enforcement;
+</li>
+<li>
+to enforce our website terms and conditions or other agreements or policies;
+</li>
+<li>
+in connection with a substantial corporate transaction, such as the sale of our
+business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event
+of bankruptcy;
+</li>
+ <li>
+or as otherwise required by law.
+</li>
+</ul>
+<p>
+<a href="#">The user must take into account that, given the legal obligations of the company
+under the Money Laundering and Terrorist Financing Prevention Act and other relevant
+laws Company should keep personal information of the users, and such information cannot
+be removed or deleted by user’s request.</a>
+</p>
+<h5>Your Choices About Collection and Use of Your Information</h5>
+<p>You can choose not to provide us with certain information, but that may result in you being
+unable to use certain features of our website because such information may be required in
+order for you to register as a member; purchase products or services; participate in a
+contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions
+on our website;</p>
+<h5>How We Protect Your Personal Information</h5>
+<p>
+We take appropriate security measures (including physical, electronic and procedural
+measures) to help safeguard your personal information from unauthorized access and
+disclosure. For example, only authorized employees are permitted to access personal
+information, and they may do so only for permitted business functions. In addition, we use
+encryption in the transmission of your sensitive personal information between your system
+and ours, and we use firewalls to help prevent unauthorized persons from gaining access to
+your personal information.
+</p>
+<p>
+We want you to feel confident using our website to transact business. However, no system can
+be completely secure. Therefore, although we take steps to secure your information, we do
+not promise, and you should not expect, that your personal information, searches, or other
+communications will always remain secure. Users should also take care with how they handle
+and disclose their personal information and should avoid sending personal information
+through insecure email.
+</p>
+<h5>Changes to this Privacy Policy</h5>
+<p>We will occasionally update this Privacy Policy to reflect changes in our practices and
+services.</p>
+<h5>Contacts</h5>
+<p>You can contact us by email <a href="mailto:support@stex.com">support@stex.com</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<footer>
+<div class="container-fluid">
+<div class="footer-wrapper">
+<div class="col-lg-3">
+<a class="foote-logo d-none d-lg-block" href="https://www.stex.com/">
+<img src="https://app.stex.com/images/svg/Logo_W_1.svg" alt="Logo" style="display: none;">
+<img src="https://app.stex.com/images/svg/Logo_11.svg" alt="Logo">
+</a>
+<div class="social">
+<a target="_blank" rel="noopener noreferrer" class="twitter sprite external-link" href="javascript:void(0)" data-ref="https://twitter.com/StexExchangeR"></a>
+<a target="_blank" rel="noopener noreferrer" class="telegram sprite external-link" href="javascript:void(0)" data-ref="https://t.me/joinchat/AAAAAELA-2puemW2u6QryQ"></a>
+<a target="_blank" rel="noopener noreferrer" class="facebook sprite external-link" href="javascript:void(0)" data-ref="https://www.facebook.com/stex.exchanger/"></a>
+<a target="_blank" rel="noopener noreferrer" class="medium sprite external-link" href="javascript:void(0)" data-ref="https://medium.com/@stex"></a>
+</div> <p class="address_company">Pärnu mnt 158, Tallinn, 11317, Estonia</p>
+<div class="candy">
+<a href="https://candylink.com/" class="img-holder" target="_blank">
+<img src="https://app.stex.com/images/svg/il_candy.svg" class="candy-img" alt="Candy">
+</a>
+<div class="candy-desc-wrap">
+<div class="">Trusted affiliate VPN service</div>
+<a href="https://candylink.com/" target="_blank" class="link">CandyLink</a>
+</div>
+</div> <div class="d-block d-lg-none store_mobile">
+<a class="external-link" href="javascript:void(0)" data-ref="https://play.google.com/store/apps/details?id=com.stocksexchange.android" target="_blank" rel="noopener noreferrer">
+<img src="https://app.stex.com/images/svg/button_playstore.svg" class="icon-google-play">
+</a>
+<a class="external-link" href="javascript:void(0)" data-ref="https://itunes.apple.com/ua/app/stex-com/id1200812360?l=ru&amp;mt=8" target="_blank" rel="noopener noreferrer">
+<img src="https://app.stex.com/images/svg/button_appstore_mobile.svg" class="icon-apple-play">
+</a>
+<a class="external-link" href="javascript:void(0)" data-ref="http://bit.ly/2PWj43K" target="_blank" rel="noopener noreferrer">
+<img style="margin-top: 15px" src="/images/button_direct.svg" class="icon-apple-play">
+</a>
+<a class="external-link" href="javascript:void(0)" data-ref="https://candylink.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://app.stex.com/images/svg/button_candy_link.svg" class="candy-link" alt="Candy">
+</a>
+</div>
+<div class="d-lg-none d-block mob-bottom-menu">
+<ul>
+<li>
+<a href="https://app.stex.com/en/contacts-us">Contact us</a>
+</li>
+<li>
+<a href="https://app.stex.com/en/listing-form">Listing form</a>
+</li>
+<li>
+<a href="https://app.stex.com/en/pairs-specification">Trading Fees and limits</a>
+</li>
+<li>
+<a href="https://app.stex.com/en/terms-of-use">Terms of use</a>
+</li>
+<li>
+<a href="https://app.stex.com/en/privacy-policy">Privacy policy</a>
+</li>
+<li><a href="https://www.stex.com/brand-kit">STEX branding Kit</a></li>
+</ul>
+</div>
+</div>
+<div class="d-none d-lg-block col-lg-9">
+<div class="row">
+<div class="footer-menu col-md-3">
+<ul>
+<li>
+<a href="https://app.stex.com/en/contacts-us">Contact us</a>
+</li>
+<li>
+<a href="https://app.stex.com/en/listing-form">Listing form</a>
+</li>
+<li>
+<a href="https://app.stex.com/en/pairs-specification">Trading Fees and limits</a>
+</li>
+<li>
+<a href="https://stex.com/blog">Blog</a>
+</li>
+</ul>
+</div>
+<div class="footer-menu col-md-3">
+<ul>
+<li>
+<a href="https://app.stex.com/en/terms-of-use">Terms of use</a>
+</li>
+<li>
+<a href="https://app.stex.com/en/privacy-policy">Privacy policy</a>
+</li>
+<li><a href="https://www.stex.com/brand-kit">STEX branding Kit</a></li>
+</ul>
+</div>
+<div class="footer-menu col-md-3">
+<ul>
+<li>
+<a target="_blank" rel="noopener noreferrer" href="https://help.stex.com/api-v3-documentation">API Integration</a>
+</li>
+<li>
+<a target="_blank" rel="noopener noreferrer" href="https://apidocs.stex.com/">API Sandbox</a>
+</li>
+<li>
+<a target="_blank" rel="noopener noreferrer" class="external-link" href="javascript:void(0)" data-ref="https://packagist.org/packages/stocks_exchange/php-client">PHP API Client</a>
+</li>
+<li>
+<a target="_blank" rel="noopener noreferrer" class="external-link" href="javascript:void(0)" data-ref="https://www.npmjs.com/package/stocks-exchange-client">Node JS API Client</a>
+</li>
+<li>
+<a target="_blank" rel="noopener noreferrer" class="external-link" href="javascript:void(0)" data-ref="https://rubygems.org/gems/stocks_exchange_api_client">Ruby API Client</a>
+</li>
+<li>
+<a target="_blank" rel="noopener noreferrer" class="external-link" href="javascript:void(0)" data-ref="https://cocoapods.org/pods/StexSDK">Swift API client</a>
+</li>
+</ul>
+</div>
+<div class="footer-menu col-md-3 text-center">
+<ul>
+<a class="external-link" href="javascript:void(0)" data-ref="https://play.google.com/store/apps/details?id=com.stocksexchange.android" target="_blank" rel="noopener noreferrer">
+<img src="/images/svg/button_playstore.svg" class="icon-google-play">
+</a>
+<a class="external-link" href="javascript:void(0)" data-ref="https://itunes.apple.com/ua/app/stex-com/id1200812360?l=ru&amp;mt=8" target="_blank" rel="noopener noreferrer">
+<img style="margin-top: 15px" src="/images/svg/button_appstore_mobile.svg" class="icon-apple-play">
+</a>
+<a class="external-link" href="javascript:void(0)" data-ref="http://bit.ly/2PWj43K" target="_blank" rel="noopener noreferrer">
+<img style="margin-top: 15px" src="/images/button_direct.svg" class="icon-apple-play">
+</a>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="socialLinksBlock">
+<ul class="socialLinksList">
+<li class="socialLinksListItem">
+<a class="external-link" target="_blank" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://t.me/joinchat/AAAAAELA-2puemW2u6QryQ">
+<img class="greyIco" src="https://app.stex.com/images/svg/telegram.svg" alt="Telegram">
+<img class="greenIco" src="https://app.stex.com/images/svg/telegram_green.svg" alt="Telegram">
+</a>
+</li>
+<li class="socialLinksListItem">
+<a class="external-link" target="_blank" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://twitter.com/StexExchangeR">
+<img class="greyIco" src="https://app.stex.com/images/svg/twitter.svg" alt="Twitter">
+<img class="greenIco" src="https://app.stex.com/images/svg/twitter_green.svg" alt="Twitter">
+</a>
+</li>
+<li class="socialLinksListItem">
+<a class="external-link" target="_blank" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://www.facebook.com/stex.exchanger">
+<img class="greyIco" src="https://app.stex.com/images/svg/icoFbGrey.svg" alt="Facebook">
+<img class="greenIco" src="https://app.stex.com/images/svg/icoFbGreen.svg" alt="Facebook">
+</a>
+</li>
+<li class="socialLinksListItem">
+<a class="external-link" target="_blank" rel="noopener noreferrer" href="javascript:void(0)" data-ref="https://medium.com/@stex">
+<img class="greyIco" src="https://app.stex.com/images/svg/medium-01.svg" alt="Medium">
+<img class="greenIco" src="https://app.stex.com/images/svg/medium_green-01.svg" alt="Medium">
+</a>
+</li>
+</ul>
+</div>
+
+
+<div id="mobile-overlay" class="d-md-none"></div>
+</div>
+<div class="cookies-popup" style="display: flex;">
+<div class="text">
+<img src="https://app.stex.com/images/svg/exclamation-mark.svg" alt="">
+<p>
+This website uses cookies to ensure you get the best experience on our website. <a href="https://app.stex.com/en/privacy-policy">Learn more</a>
+</p>
+</div>
+<a id="cookies-popup-close" onclick="event.preventDefault(); setCookieAgree()" href="javascript:void(0)" class="btn-green">Got it</a>
+</div>
+
+
+<div id="basic-trade-all-pairs-overlay" class="d-lg-none"></div>
+
+<script>window.service = {"current_language":"en","enable_intercom":true,"enable_firebase":true,"makeWebAuthnUrl":"https:\/\/app.stex.com\/en\/profile\/settings\/web-authn\/make-authn","api3_url":"https:\/\/api3.stex.com","showVerifyPopupNewUser":false,"showVerifyPopupOldUser":false,"routeAgreeMandatory":"https:\/\/app.stex.com\/agreeMandatory","logoutUrl":"https:\/\/app.stex.com\/en\/logout","enableExchangeDeposit":false,"intercomSettings":{"app_id":"qr8nd1jy"},"firebase":{"apiKey":"AIzaSyAbjUavE8kexWAhvBMjVIp2f-jv4d9wwWs","authDomain":"zinc-ellipse-210414.firebaseapp.com","databaseURL":"https:\/\/zinc-ellipse-210414.firebaseio.com","projectId":null,"storageBucket":"zinc-ellipse-210414.appspot.com","messagingSenderId":"654708325231"},"cu":0};</script>
+<script type="text/javascript" src="/js/avoid_console.js?id=67e2585240ae61ac6647"></script>
+<script type="text/javascript" src="/js/app.js?id=ef7e81c83ee7b8d725dd"></script>
+<script type="text/javascript" src="/js/sweetalert2.all.min.js?id=79f9f48a2ac4897eccea"></script>
+<script type="text/javascript" src="/js/qrcode.js?id=6e6189e2b177b3d01432"></script>
+<script type="text/javascript" src="/js/moment.js?id=1b1c80b617bfcaf8c076"></script>
+<script type="text/javascript" src="/js/js-cookie.js?id=b7c3e9e96f28754abad6"></script>
+<script type="text/javascript" src="/js/main.js?id=30978b76a6900faac0e8"></script>
+<script src="https://app.stex.com/vendor/sweetalert/sweetalert.all.js"></script>
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+            navigator.serviceWorker.register('https://app.stex.com/sw.js').catch(function (err) {
+                console.log('ServiceWorker registration failed: ', err);
+            });
+        });
+    }
+</script> <script type="text/javascript" src="/js/cookie_agree.js?id=46068d1cd37a45a9af5d"></script>
+<div class="modal fade window-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal" autofocus="">Close</button>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"66c005357e","applicationID":"312120583","transactionName":"ZVxbZhdZDEpXAU0MDFwWeFERUQ1XGRJWCQpRQA==","queueTime":0,"applicationTime":90,"atts":"SRtYEF9DH0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
