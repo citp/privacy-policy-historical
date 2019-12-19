@@ -1,754 +1,1799 @@
-<!--The following is the downloaded HTML source of the crowdcube.com privacy policy that was archived on 2019-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190522181017id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdcube.com privacy policy that was archived on 2019-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191219091202id_/https%3A//www.crowdcube.com/explore/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-                                            <title>    Privacy and cookie policy
-</title>
-                                
-                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1">
-                <meta http-equiv="x-dns-prefetch-control" content="on">
+<!DOCTYPE html><html lang="en-GB"><head><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"ad79849bc7",applicationID:"302643751"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script><meta name="viewport" content="width=device-width, initial-scale=1"><!-- This site is optimized with the Sprout SEO plugin - https://sprout.barrelstrengthdesign.com/craft-plugins/seo --><title>Crowdcube Privacy and cookie policy | Crowdcube</title><meta name="description" content="Crowdcube Limited (“Crowdcube” &quot;we&quot;, “us”) are committed to protecting and respecting your privacy."><meta name="keywords" content="crowdcube,privacy policy"><link rel="canonical" href="https://www.crowdcube.com/explore/privacy-policy"><meta property="og:type" content="article"><meta property="og:site_name" content="Crowdcube | Funding the wonderful"><meta property="og:url" content="https://www.crowdcube.com/explore/privacy-policy"><meta property="og:title" content="Crowdcube Privacy and cookie policy"><meta property="og:description" content="Crowdcube Limited (“Crowdcube” &quot;we&quot;, “us”) are committed to protecting and respecting your privacy."><meta property="og:image" content="https://cdn-content-hub.crowdcube.com/files/cover-images/_1200x630_crop_center-center_82_none/Funding-the-wonderful.png"><meta property="og:image:secure_url" content="https://cdn-content-hub.crowdcube.com/files/cover-images/_1200x630_crop_center-center_82_none/Funding-the-wonderful.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:type" content="image/png"><meta property="og:locale" content="en-GB"><meta property="article:modified_time" content="2019-11-08T10:59:21+0000"><meta property="article:published_time" content="2019-06-07T13:16:14+0100"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@Crowdcube"><meta name="twitter:creator" content="@Crowdcube"><meta name="twitter:url" content="https://www.crowdcube.com/explore/privacy-policy"><meta name="twitter:title" content="Crowdcube Privacy and cookie policy"><meta name="twitter:description" content="Crowdcube Limited (“Crowdcube” &quot;we&quot;, “us”) are committed to protecting and respecting your privacy."><meta name="twitter:image" content="https://cdn-content-hub.crowdcube.com/files/cover-images/_1024x512_crop_center-center_82_none/Funding-the-wonderful.png"><script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "Organization",
+    "name": "Crowdcube | Funding the wonderful",
+    "description": "We love ambitious entrepreneurs who are on a mission to leave a mark on the world. Join us and help their businesses grow through equity crowdfunding.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn-content-hub.crowdcube.com/files/cover-images/_1200x630_crop_center-center_82_none/Funding-the-wonderful.png",
+        "height": 630,
+        "width": 1200
+    },
+    "sameAs": [
+        "http://twitter.com/Crowdcube"
+    ]
+}
+</script><script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "Website",
+    "name": "Crowdcube | Funding the wonderful",
+    "description": "We love ambitious entrepreneurs who are on a mission to leave a mark on the world. Join us and help their businesses grow through equity crowdfunding.",
+    "keywords": "crowdfunding,investment,entrepreneurs,startups,investors,funding,seed investment,growth stage investment,venture capital investment,equity crowdfunding,finance,business finance,raising finance",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn-content-hub.crowdcube.com/files/cover-images/_1200x630_crop_center-center_82_none/Funding-the-wonderful.png",
+        "height": 630,
+        "width": 1200
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "Crowdcube | Funding the wonderful",
+        "description": "We love ambitious entrepreneurs who are on a mission to leave a mark on the world. Join us and help their businesses grow through equity crowdfunding.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://cdn-content-hub.crowdcube.com/files/cover-images/_1200x630_crop_center-center_82_none/Funding-the-wonderful.png",
+            "height": 630,
+            "width": 1200
+        },
+        "sameAs": [
+            "http://twitter.com/Crowdcube"
+        ]
+    },
+    "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crowdcube | Funding the wonderful",
+        "description": "We love ambitious entrepreneurs who are on a mission to leave a mark on the world. Join us and help their businesses grow through equity crowdfunding.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://cdn-content-hub.crowdcube.com/files/cover-images/_1200x630_crop_center-center_82_none/Funding-the-wonderful.png",
+            "height": 630,
+            "width": 1200
+        },
+        "sameAs": [
+            "http://twitter.com/Crowdcube"
+        ]
+    },
+    "creator": {
+        "@type": "Organization",
+        "name": "Crowdcube | Funding the wonderful",
+        "description": "We love ambitious entrepreneurs who are on a mission to leave a mark on the world. Join us and help their businesses grow through equity crowdfunding.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://cdn-content-hub.crowdcube.com/files/cover-images/_1200x630_crop_center-center_82_none/Funding-the-wonderful.png",
+            "height": 630,
+            "width": 1200
+        },
+        "sameAs": [
+            "http://twitter.com/Crowdcube"
+        ]
+    },
+    "sameAs": [
+        "http://twitter.com/Crowdcube"
+    ]
+}
+</script><script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "FinancialService",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.crowdcube.com/explore/privacy-policy"
+    },
+    "name": "Crowdcube Privacy and cookie policy",
+    "description": "Crowdcube Limited (\u201cCrowdcube\u201d \"we\", \u201cus\u201d) are committed to protecting and respecting your privacy.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn-content-hub.crowdcube.com/files/cover-images/_1200x630_crop_center-center_82_none/Funding-the-wonderful.png",
+        "height": 630,
+        "width": 1200
+    },
+    "url": "https://www.crowdcube.com/explore/privacy-policy"
+}
+</script><link rel="shortcut icon" href="https://www.crowdcube.com/favicon.ico"><link rel="manifest" href="https://www.crowdcube.com/explore/manifest.json"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="Crowdcube Explore"><link rel="icon" sizes="196x196" href="/explore/assets/app-icons/196.png"><link rel="apple-touch-icon" href="/explore/assets/app-icons/57.png" sizes="57x57"><link rel="apple-touch-icon" href="/explore/assets/app-icons/6.png" sizes="76x76"><link rel="apple-touch-icon" href="/explore/assets/app-icons/120.png" sizes="120x120"><link rel="apple-touch-icon" href="/explore/assets/app-icons/152.png" sizes="152x152"><link rel="apple-touch-icon" href="/explore/assets/app-icons/180.png" sizes="180x180"><link rel="apple-touch-icon" href="/explore/assets/app-icons/180.png" sizes="180x180"><link rel="apple-touch-icon" href="/explore/assets/app-icons/196.png" sizes="196x196"><meta name="msapplication-TileImage" content="/explore/assets/app-icons/152.png"><meta name="msapplication-TileColor" content="#F08F00"><meta name="theme-color" content="#F08F00"><meta name="csrf-token" content="Ypoz4OYLI4Z_cncW55EEmNctdlyRB_CC9MBKtr762IS-plT7ev-aSBPVB4-xPVfiCBQmf9Dka9aBHU4l9TeS85-pe4aLuZ7Q0uALggyGywA="><link rel="stylesheet" href="https://d1cpbgasjii6b6.cloudfront.net/dist/bundles/basic.94cfcc4a3cd8c100cffa.css" media="all"><style rel="stylesheet" lang="css">
+            *, ::after, ::before {
+  box-sizing: border-box; }
 
-                
-                <!--[if IE]>
-                <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-                <![endif]-->
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
 
-                <meta name="apple-itunes-app" content="app-id=1130987804, app-argument=https://www.crowdcube.com/pg/privacy-and-cookie-policy-17">
+body {
+  margin: 0; }
 
-                <link rel="dns-prefetch" href="https://images.crowdcube.com">
-                <link rel="dns-prefetch" href="//privacy-policy.truste.com">
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block; }
 
-                <link rel="shortcut icon" href="https://d37kyofbevv0u9.cloudfront.net/favicon.ico">
-                <link rel="manifest" href="/manifest.webmanifest">
+audio, canvas, progress, video {
+  display: inline-block;
+  vertical-align: baseline; }
+
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+[hidden], template {
+  display: none; }
+
+a {
+  background-color: transparent; }
+
+a:active, a:hover {
+  outline: 0; }
+
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+b, strong {
+  font-weight: 700; }
+
+dfn {
+  font-style: italic; }
+
+h1 {
+  font-size: 2em;
+  margin: .67em 0; }
+
+mark {
+  background: #ff0;
+  color: #000; }
+
+small {
+  font-size: 80%; }
+
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -.5em; }
+
+sub {
+  bottom: -.25em; }
+
+img {
+  border: 0; }
+
+svg:not(:root) {
+  overflow: hidden; }
+
+figure {
+  margin: 1em 40px; }
+
+hr {
+  box-sizing: content-box;
+  height: 0; }
+
+pre {
+  overflow: auto; }
+
+code, kbd, pre, samp {
+  font-family: monospace;
+  font-size: 1em; }
+
+input {
+  line-height: normal; }
+
+input[type=checkbox], input[type=radio] {
+  box-sizing: border-box;
+  padding: 0; }
+
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
+  height: auto; }
+
+input[type=search] {
+  -webkit-appearance: textfield;
+  box-sizing: content-box; }
+
+input[type=search]::-webkit-search-cancel-button, input[type=search]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+fieldset {
+  border: 1px solid silver;
+  margin: 0 2px;
+  padding: .35em .625em .75em; }
+
+legend {
+  border: 0;
+  padding: 0; }
+
+textarea {
+  overflow: auto; }
+
+optgroup {
+  font-weight: 700; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+td, th {
+  padding: 0; }
+
+body, html {
+  font-size: 100%;
+  height: 100%; }
+
+body {
+  color: #29383c;
+  cursor: auto;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  position: relative; }
+
+a:hover {
+  cursor: pointer; }
+
+img {
+  height: auto;
+  -ms-interpolation-mode: bicubic;
+  max-width: 100%; }
+
+.left {
+  float: left !important; }
+
+.right {
+  float: right !important; }
+
+.clearfix::after, .clearfix::before {
+  content: " ";
+  display: table; }
+
+.clearfix::after {
+  clear: both; }
+
+.hide {
+  display: none; }
+
+.invisible {
+  visibility: hidden; }
+
+img {
+  display: inline-block;
+  vertical-align: middle; }
+
+textarea {
+  height: auto;
+  min-height: 50px; }
+
+.row, select {
+  width: 100%; }
+
+.row {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 76.5rem; }
+
+.column, .columns {
+  float: left;
+  padding-left: .9375rem;
+  padding-right: .9375rem;
+  width: 100%; }
+
+@media only screen {
+  .column, .columns {
+    float: left;
+    padding-left: .9375rem;
+    padding-right: .9375rem;
+    position: relative; }
+  .small-1 {
+    width: 8.33333%; }
+  .small-2 {
+    width: 16.66667%; }
+  .small-3 {
+    width: 25%; }
+  .small-4 {
+    width: 33.33333%; }
+  .small-5 {
+    width: 41.66667%; }
+  .small-6 {
+    width: 50%; }
+  .small-7 {
+    width: 58.33333%; }
+  .small-8 {
+    width: 66.66667%; }
+  .small-9 {
+    width: 75%; }
+  .small-10 {
+    width: 83.33333%; }
+  .small-11 {
+    width: 91.66667%; }
+  .small-12 {
+    width: 100%; } }
+
+@media only screen and (min-width: 40.0625em) {
+  .column {
+    margin-bottom: 2em; }
+  .column, .columns {
+    float: left;
+    padding-left: .9375rem;
+    padding-right: .9375rem;
+    position: relative; }
+  .medium-1 {
+    width: 8.33333%; }
+  .medium-2 {
+    width: 16.66667%; }
+  .medium-3 {
+    width: 25%; }
+  .medium-4 {
+    width: 33.33333%; }
+  .medium-5 {
+    width: 41.66667%; }
+  .medium-6 {
+    width: 49.55%; }
+  .medium-7 {
+    width: 58.33333%; }
+  .medium-8 {
+    width: 66.66667%; }
+  .medium-9 {
+    width: 75%; }
+  .medium-10 {
+    width: 83.33333%; }
+  .medium-11 {
+    width: 91.66667%; }
+  .medium-12 {
+    width: 100%; } }
+
+@media only screen and (min-width: 64.0625em) {
+  .column, .columns {
+    float: left;
+    padding-left: .9375rem;
+    padding-right: .9375rem;
+    position: relative; }
+  .large-1 {
+    width: 8.33333%; }
+  .large-2 {
+    width: 16.66667%; }
+  .large-3 {
+    width: 25%; }
+  .large-4 {
+    width: 33.33333%; }
+  .large-5 {
+    width: 41.66667%; }
+  .large-6 {
+    width: 49.55%; }
+  .large-7 {
+    width: 58.33333%; }
+  .large-8 {
+    width: 66.66667%; }
+  .large-9 {
+    width: 75%; }
+  .large-10 {
+    width: 83.33333%; }
+  .large-11 {
+    width: 91.66667%; }
+  .large-12 {
+    width: 100%; } }
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  -webkit-clip-path: inset(50%);
+          clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px; }
+  .sr-only-focusable:active, .sr-only-focusable:focus {
+    clip: auto;
+    -webkit-clip-path: none;
+            clip-path: none;
+    height: auto;
+    overflow: visible;
+    position: static;
+    white-space: normal;
+    width: auto; }
+
+.cc-component {
+  height: 100%;
+  width: 100%; }
+
+.img-cover {
+  height: inherit;
+  left: 50%;
+  max-width: none;
+  min-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
+  position: relative;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  width: auto; }
+
+a {
+  color: #ff5100; }
+
+blockquote, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, li, ol, p, pre, td, th, ul {
+  margin: 0;
+  padding: 0; }
+
+a {
+  color: #ff5100;
+  line-height: inherit;
+  text-decoration: none; }
+
+a:focus, a:hover {
+  color: #cc4100; }
+
+a img {
+  border: none; }
+
+p {
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+  text-rendering: optimizeLegibility; }
+
+p aside {
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.35; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #030352;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 1.25rem;
+  margin-top: 0;
+  text-rendering: optimizeLegibility; }
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+  color: #030352;
+  font-size: 80%;
+  line-height: 0; }
+
+h1 {
+  font-size: 1.75rem; }
+
+h2 {
+  font-size: 1.4rem; }
+
+h3 {
+  font-size: 1.2rem; }
+
+h4 {
+  font-size: 1.1rem; }
+
+h5 {
+  font-size: 1rem; }
+
+h6 {
+  font-size: 1rem; }
+
+hr {
+  border: solid #ddd;
+  border-width: 1px 0 0;
+  clear: both;
+  height: 0;
+  margin: 1.875rem 0 1.8125rem; }
+
+em, i {
+  font-style: italic; }
+
+b, em, i, strong {
+  line-height: inherit; }
+
+b, strong {
+  font-weight: 700; }
+
+small {
+  font-size: 80%;
+  line-height: inherit; }
+
+code {
+  background-color: #d2f4aa;
+  border: 1px solid #beef86;
+  color: #333;
+  font-family: Consolas, Liberation Mono, Courier, monospace;
+  font-weight: 400;
+  padding: .125rem .3125rem .0625rem; }
+
+dl, ol, ul {
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.5;
+  list-style-position: outside;
+  margin-bottom: 1.25rem; }
+
+ul {
+  margin-left: 1.1rem; }
+
+ul li ol, ul li ul {
+  margin-bottom: 0;
+  margin-left: 1.25rem; }
+
+ol {
+  margin-left: 1.4rem; }
+
+ol li ol, ol li ul {
+  margin-bottom: 0;
+  margin-left: 1.25rem; }
+
+dl dt {
+  font-weight: 700;
+  margin-bottom: .3rem; }
+
+dl dd {
+  margin-bottom: .75rem; }
+
+abbr, acronym {
+  color: #030352;
+  cursor: help;
+  font-size: 90%;
+  text-transform: uppercase; }
+
+abbr {
+  text-transform: none; }
+
+abbr[title] {
+  border-bottom: 1px dotted #ddd; }
+
+blockquote {
+  border-left: 0;
+  margin: 0 0 1.25rem;
+  padding: 0; }
+
+blockquote cite {
+  color: #030352;
+  display: block;
+  font-size: 1em; }
+
+blockquote cite::before {
+  content: "\2014    "; }
+
+blockquote cite a, blockquote cite a:visited {
+  color: #030352; }
+
+blockquote, blockquote p {
+  color: #030352;
+  line-height: 1.5; }
+
+@media only screen and (min-width: 40.0625em) {
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.15; }
+  h1 {
+    font-size: 2.375rem; }
+  h2 {
+    font-size: 2rem; }
+  h3 {
+    font-size: 1.5rem; }
+  h4 {
+    font-size: 1.25rem; }
+  h5 {
+    font-size: 1.3rem; }
+  h6 {
+    font-size: 1rem; } }
+
+@-webkit-keyframes flipInY {
+  0% {
+    -webkit-transform: perspective(400px) rotateY(90deg);
+            transform: perspective(400px) rotateY(90deg); }
+  40% {
+    -webkit-transform: perspective(400px) rotateY(-10deg);
+            transform: perspective(400px) rotateY(-10deg); }
+  70% {
+    -webkit-transform: perspective(400px) rotateY(10deg);
+            transform: perspective(400px) rotateY(10deg); }
+  to {
+    -webkit-transform: perspective(400px) rotateY(0deg);
+            transform: perspective(400px) rotateY(0deg); } }
+
+@keyframes flipInY {
+  0% {
+    -webkit-transform: perspective(400px) rotateY(90deg);
+            transform: perspective(400px) rotateY(90deg); }
+  40% {
+    -webkit-transform: perspective(400px) rotateY(-10deg);
+            transform: perspective(400px) rotateY(-10deg); }
+  70% {
+    -webkit-transform: perspective(400px) rotateY(10deg);
+            transform: perspective(400px) rotateY(10deg); }
+  to {
+    -webkit-transform: perspective(400px) rotateY(0deg);
+            transform: perspective(400px) rotateY(0deg); } }
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1); }
+  50% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1); }
+  to {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+
+@keyframes pulse {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1); }
+  50% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1); }
+  to {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+
+@-webkit-keyframes spin {
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+@keyframes spin {
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+.cc-container {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 3.125rem;
+  padding-top: 4.375rem; }
+
+td, th {
+  border: 0; }
+
+.cc-pageContainer {
+  overflow: hidden;
+  position: relative;
+  z-index: 97; }
+  @media screen and (min-width: 768px) {
+    .cc-pageContainer {
+      padding-top: 6.1em; } }
+
+.cc-pageContainerSmall {
+  margin: 0 auto;
+  max-width: 23rem;
+  padding-left: 0;
+  padding-right: 0; }
+
+@media all and (max-width: 24rem) {
+  .cc-pageContainerSmall {
+    padding-left: .875rem;
+    padding-right: .875rem; } }
+
+.cc-pageContainerMedium {
+  margin: 0 auto;
+  max-width: 48rem;
+  padding-left: 0;
+  padding-right: 0; }
+
+@media all and (max-width: 49rem) {
+  .cc-pageContainerMedium {
+    padding-left: .875rem;
+    padding-right: .875rem; } }
+
+.cc-pageContainerLarge {
+  margin: 0 auto;
+  max-width: 75rem;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
+  z-index: 1070; }
+
+@media all and (max-width: 76rem) {
+  .cc-pageContainerLarge {
+    padding-left: .875rem;
+    padding-right: .875rem; } }
+
+.cc-viewContainer {
+  background-color: #fff;
+  overflow: hidden; }
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.cc-mainNavigation__container {
+  position: relative;
+  z-index: 100; }
+  .cc-mainNavigation__container .cc-mainNavigation__navigationUser .cc-popout__panel {
+    position: absolute;
+    right: 10px;
+    top: 70px; }
+    @media screen and (min-width: 1217px) {
+      .cc-mainNavigation__container .cc-mainNavigation__navigationUser .cc-popout__panel {
+        right: -5px; } }
+  .cc-mainNavigation__container .cc-mainNavigation__navigationUser .cc-icon > svg {
+    height: 1em;
+    margin: .25em;
+    width: 1em; }
+  .cc-mainNavigation__container .cc-mainNavigation__navigationItem a.active {
+    color: #0024ec; }
+  @media screen and (min-width: 768px) {
+    .cc-mainNavigation__container {
+      left: 0;
+      position: fixed;
+      right: 0; }
+      .sticky-PageNavigation .cc-mainNavigation__container .cc-mainNavigation,
+      .sticky-CategoryNavigation .cc-mainNavigation__container .cc-mainNavigation {
+        height: 80px; } }
+
+@media screen and (min-width: 768px) {
+  .cc-container__home {
+    padding: 3.75em 0; } }
+
+.cc-container__home > .cc-block:last-of-type {
+  margin-bottom: 0; }
+
+.cc-container__category {
+  padding: 0 0 3.75em; }
+
+.cc-container__article {
+  margin: 1em auto;
+  max-width: 37.5em; }
+  .cc-container__article header h2 {
+    margin-bottom: .25em; }
+  .cc-container__article header p {
+    color: #747474;
+    font-size: .9em; }
+  .cc-container__article figure {
+    margin: 0 auto 1.5em; }
+    .cc-container__article figure img {
+      border-radius: 20px;
+      box-shadow: rgba(0, 0, 0, 0.3) 0 10px 10px -10px;
+      display: block;
+      overflow: hidden;
+      width: 100%; }
+
+.cc-container__caseStudy .cc-caseStudy__info {
+  background-color: #fbfbfb;
+  font-size: 1.125em;
+  font-weight: 900;
+  padding: 1.875em 0;
+  text-align: center; }
+
+.cc-page > .cc-block:last-of-type {
+  margin-bottom: 0; }
+
+.cc-simplePage {
+  padding: 4em 0; }
+  .cc-simplePage__intro {
+    margin-bottom: 3em; }
+    .cc-simplePage__intro p {
+      font-size: 1.1em; }
+
+[data-react-app="AlgoliaSearchForm"] {
+  width: 100%; }
+
+.cc-searchForm {
+  position: relative;
+  width: 296px; }
+  @media screen and (max-width: 1023px) {
+    .cc-searchForm {
+      margin: auto;
+      width: 90vw; } }
+  .cc-searchForm__Widget {
+    background-color: #fafafa;
+    border: 1px solid #e4e4e4;
+    border-radius: 20px;
+    display: -webkit-box;
+    display: flex;
+    height: 40px;
+    margin: 0;
+    z-index: 1040; }
+    .cc-searchForm__Widget > div:nth-of-type(2) {
+      -webkit-box-flex: 1;
+              flex-grow: 1; }
+  .cc-searchForm .algolia-autocomplete {
+    display: block !important;
+    height: 100%;
+    position: static !important; }
+    .cc-searchForm .algolia-autocomplete pre {
+      display: none !important; }
+    .cc-searchForm .algolia-autocomplete .aa-dropdown-menu {
+      background-color: #fafafa;
+      border-radius: 0 0 20px 20px;
+      box-shadow: rgba(0, 0, 0, 0.3) 0 10px 10px -10px;
+      padding: 1em;
+      padding-top: 2em;
+      -webkit-transform: translateY(-1em);
+              transform: translateY(-1em);
+      z-index: -1 !important; }
+    .cc-searchForm .algolia-autocomplete .aa-suggestion {
+      font-size: 0.8rem; }
+      .cc-searchForm .algolia-autocomplete .aa-suggestion a {
+        color: #29383c; }
+        .cc-searchForm .algolia-autocomplete .aa-suggestion a:hover {
+          color: #ff5100; }
+  .cc-searchForm__searchInput {
+    background-color: transparent;
+    border: 0;
+    display: block;
+    height: 40px;
+    left: 100px;
+    margin: 0 auto;
+    padding: 0 1em;
+    position: absolute !important;
+    top: 0;
+    width: 158px; }
+    .cc-searchForm__searchInput:focus {
+      border: 0;
+      box-shadow: none;
+      outline: 0; }
+  .cc-searchForm__searchButton {
+    background-color: transparent;
+    border: 0;
+    border-radius: 50%;
+    display: block;
+    height: 32px;
+    margin: 3px 3px 3px auto;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    width: 32px; }
+    .cc-searchForm__searchButton:focus {
+      outline: 0; }
+  .cc-searchForm:hover .cc-searchForm__searchButton {
+    background-color: #ff5100; }
+    .cc-searchForm:hover .cc-searchForm__searchButton svg {
+      fill: #fff;
+      -webkit-transition: 0.3s;
+      transition: 0.3s; }
+  .cc-searchForm__sectionButton {
+    color: #030352 !important;
+    display: block;
+    font-size: .8em;
+    font-weight: bold;
+    padding: .75em .5em;
+    text-align: center;
+    white-space: nowrap; }
+    .cc-searchForm__sectionButton .cc-icon {
+      height: 19px; }
+      .cc-searchForm__sectionButton .cc-icon svg {
+        margin: 0 .25em; }
+  .cc-searchForm__sectionFilter {
+    background-color: #fff;
+    border: 1px solid #e4e4e4;
+    border-radius: 20px;
+    margin: -1px 0 0 -1px;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    width: 100px; }
+    .cc-searchForm__sectionFilter.active, .cc-searchForm__sectionFilter:hover {
+      background-color: #e4e4e4;
+      box-shadow: rgba(0, 0, 0, 0.3) 0 10px 10px -10px; }
+  .cc-searchForm__sectionList {
+    padding: 0 .5em .5em; }
+    .cc-searchForm__sectionList .cc-button {
+      background-color: #fff;
+      border-color: #fff;
+      display: block;
+      margin: 1em auto; }
+      .cc-searchForm__sectionList .cc-button.active, .cc-searchForm__sectionList .cc-button:hover {
+        background-color: #747474;
+        border-color: #747474;
+        color: #fff; }
+
+[data-react-app="Button"] {
+  display: inline-block;
+  margin: 0 .5em .5em; }
+
+.cc-button,
+.button {
+  background-color: #e4e4e4;
+  border: 2px solid;
+  border-color: #e4e4e4;
+  border-radius: 21px;
+  box-sizing: border-box;
+  color: #747474;
+  cursor: pointer;
+  display: inline-block;
+  font-family: akkurat, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 1.25rem;
+  overflow: hidden;
+  padding: .55rem 1rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  -webkit-transition-property: background-color, border-color, color, opacity;
+  transition-property: background-color, border-color, color, opacity; }
+  @media screen and (min-width: 480px) {
+    .cc-button,
+    .button {
+      padding: .55rem 2rem; } }
+  .cc-button.active, .cc-button:hover, .cc-button:focus,
+  .button.active,
+  .button:hover,
+  .button:focus {
+    background-color: #747474;
+    border-color: #747474;
+    color: #fff; }
+  .cc-button.simple,
+  .button.simple {
+    border-color: transparent !important; }
+  .cc-button.tiny,
+  .button.tiny {
+    font-size: .7em;
+    margin-right: .5em;
+    padding: .25em 1em; }
+  .cc-button.primary,
+  .button.primary {
+    background-color: transparent;
+    border-color: #030352;
+    color: #030352; }
+    .cc-button.primary.active, .cc-button.primary:hover, .cc-button.primary:focus,
+    .button.primary.active,
+    .button.primary:hover,
+    .button.primary:focus {
+      background-color: #030352;
+      border-color: #030352;
+      color: #fff; }
+    .cc-button.primary.alternative,
+    .button.primary.alternative {
+      background-color: #030352;
+      border-color: #030352;
+      color: #fff; }
+      .cc-button.primary.alternative.active, .cc-button.primary.alternative:hover, .cc-button.primary.alternative:focus,
+      .button.primary.alternative.active,
+      .button.primary.alternative:hover,
+      .button.primary.alternative:focus {
+        background-color: transparent;
+        border-color: #030352;
+        color: #030352; }
+  .cc-button.secondary,
+  .button.secondary {
+    background-color: #ff5100;
+    border-color: #ff5100;
+    color: #fff; }
+    .cc-button.secondary.active, .cc-button.secondary:hover, .cc-button.secondary:focus,
+    .button.secondary.active,
+    .button.secondary:hover,
+    .button.secondary:focus {
+      background-color: #dd4600;
+      border-color: #dd4600;
+      color: #fff; }
+    .cc-button.secondary.alternative,
+    .button.secondary.alternative {
+      background-color: transparent;
+      border-color: #ff5100;
+      color: #ff5100; }
+      .cc-button.secondary.alternative.active, .cc-button.secondary.alternative:hover, .cc-button.secondary.alternative:focus,
+      .button.secondary.alternative.active,
+      .button.secondary.alternative:hover,
+      .button.secondary.alternative:focus {
+        background-color: #ff5100;
+        border-color: #ff5100;
+        color: #fff; }
+  .cc-button:focus,
+  .button:focus {
+    outline: 0; }
+  @media screen and (max-width: 479px) {
+    .cc-button,
+    .button {
+      display: block; } }
+
+.cc-masthead {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  margin: 4em 0;
+  position: relative; }
+  .cc-masthead__bgMask {
+    background-color: rgba(0, 0, 0, 0.33);
+    border-radius: 20px;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1; }
+  .cc-masthead__heading {
+    margin-bottom: 1em;
+    position: relative;
+    z-index: 2; }
+    .cc-masthead__heading.small {
+      font-size: 2.75em; }
+    .cc-masthead__heading.large {
+      font-size: 3.25rem; }
+      @media screen and (max-width: 479px) {
+        .cc-masthead__heading.large {
+          font-size: 2.25rem; } }
+  .cc-masthead__content {
+    position: relative;
+    z-index: 2; }
+  .cc-masthead__introtext {
+    margin-bottom: 1em; }
+    .cc-masthead__introtext p {
+      font-size: 1.2em;
+      margin-bottom: 1.75em; }
+  .cc-masthead__cover {
+    display: none;
+    position: relative;
+    z-index: 2; }
+  .cc-masthead__video {
+    display: none; }
+  .cc-masthead__image {
+    display: none; }
+  .cc-masthead__buttons.text-white .cc-button.primary {
+    border-color: #fff;
+    color: #fff; }
+    .cc-masthead__buttons.text-white .cc-button.primary:hover, .cc-masthead__buttons.text-white .cc-button.primary:focus {
+      background-color: #fff;
+      color: #030352; }
+  .cc-masthead__buttons.text-white .cc-button.secondary:hover, .cc-masthead__buttons.text-white .cc-button.secondary:focus {
+    background-color: #cc4100;
+    border-color: #cc4100;
+    color: #fff; }
+  .cc-masthead--with-bg-color {
+    border-radius: 20px;
+    padding: 3em; }
+  .cc-masthead--with-bg-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    padding: 3em; }
+  .cc-masthead--with-cover {
+    min-height: 465px; }
+  .cc-masthead--with-cover .cc-masthead__heading {
+    -webkit-box-ordinal-group: 2;
+            order: 1;
+    width: 100%; }
+    @media screen and (min-width: 768px) {
+      .cc-masthead--with-cover .cc-masthead__heading {
+        -webkit-box-ordinal-group: 3;
+                order: 2;
+        width: 50%; } }
+  .cc-masthead--with-cover .cc-masthead__content {
+    -webkit-box-ordinal-group: 4;
+            order: 3;
+    width: 100%; }
+    @media screen and (min-width: 768px) {
+      .cc-masthead--with-cover .cc-masthead__content {
+        padding-right: 2em;
+        width: 50%; } }
+  .cc-masthead--with-cover .cc-masthead__cover {
+    display: block;
+    height: 100%;
+    -webkit-box-ordinal-group: 3;
+            order: 2;
+    width: 100%; }
+    @media screen and (min-width: 768px) {
+      .cc-masthead--with-cover .cc-masthead__cover {
+        bottom: -1em;
+        height: auto;
+        -webkit-box-ordinal-group: 2;
+                order: 1;
+        position: absolute;
+        right: 0;
+        top: -3em;
+        width: 50%; } }
+  .cc-masthead--with-cover .cc-masthead__video {
+    display: block;
+    height: 100%;
+    position: relative; }
+    @media screen and (min-width: 1200px) {
+      .cc-masthead--with-cover .cc-masthead__video {
+        margin-right: -30px;
+        right: -10px; } }
+    .cc-masthead--with-cover .cc-masthead__video [data-react-app="VideoButton"] {
+      left: 50%;
+      position: absolute;
+      top: 50%;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+              transform: translateX(-50%) translateY(-50%);
+      z-index: 1; }
+      .cc-masthead--with-cover .cc-masthead__video [data-react-app="VideoButton"] > img {
+        width: 100%; }
+      .cc-masthead--with-cover .cc-masthead__video [data-react-app="VideoButton"] .cc-icon {
+        width: 60px; }
+        .cc-masthead--with-cover .cc-masthead__video [data-react-app="VideoButton"] .cc-icon__symbol {
+          width: 70px; }
+        @media screen and (min-width: 768px) {
+          .cc-masthead--with-cover .cc-masthead__video [data-react-app="VideoButton"] .cc-icon {
+            width: 65px; } }
+  .cc-masthead--with-cover .cc-masthead__image {
+    display: block;
+    height: 100%;
+    position: relative; }
+    @media screen and (min-width: 768px) {
+      .cc-masthead--with-cover .cc-masthead__image {
+        -webkit-box-align: end;
+                align-items: flex-end;
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-flex: 1;
+                flex: 1 1;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+        -webkit-box-ordinal-group: 3;
+                order: 2; } }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-1 .cc-masthead__heading {
+      width: 45%; } }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-1 .cc-masthead__content {
+      width: 45%; } }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-1 .cc-masthead__cover {
+      width: 55%; } }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-2-3 .cc-masthead__heading {
+      width: 52%; } }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-2-3 .cc-masthead__content {
+      width: 52%; } }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-2-3 .cc-masthead__cover {
+      width: 48%; } }
+  .cc-masthead--with-mask-4 {
+    min-height: 390px; }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-6-2 .cc-masthead__heading {
+      width: 45%; } }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-6-2 .cc-masthead__content {
+      width: 45%; } }
+  @media screen and (min-width: 768px) {
+    .cc-masthead--with-mask-6-2 .cc-masthead__cover {
+      width: 55%; } }
+
+.cc-mask {
+  width: 100%; }
+
+.cc-image-mask {
+  -webkit-filter: drop-shadow(0 13px 8px rgba(0, 0, 0, 0.2));
+          filter: drop-shadow(0 13px 8px rgba(0, 0, 0, 0.2)); }
+  .cc-image-mask-1 {
+    -webkit-transition: top 300ms ease, left 300ms ease;
+    transition: top 300ms ease, left 300ms ease;
+    width: 100%; }
+    @media screen and (max-width: 767px) {
+      .cc-image-mask-1 {
+        margin-bottom: 20px; } }
+    @media screen and (min-width: 768px) {
+      .cc-image-mask-1 {
+        max-width: 662px; } }
+  .cc-image-mask-2 {
+    -webkit-transition: top 300ms ease, left 300ms ease;
+    transition: top 300ms ease, left 300ms ease;
+    width: 100%; }
+    @media screen and (max-width: 767px) {
+      .cc-image-mask-2 {
+        margin-bottom: 20px; } }
+    @media screen and (min-width: 768px) {
+      .cc-image-mask-2 {
+        float: left;
+        left: 9%;
+        position: absolute;
+        top: 200px;
+        width: 280px; } }
+  .cc-image-mask-3 {
+    -webkit-transition: top 300ms ease, left 300ms ease;
+    transition: top 300ms ease, left 300ms ease;
+    width: 100%; }
+    @media screen and (max-width: 767px) {
+      .cc-image-mask-3 {
+        margin-bottom: 20px; } }
+    @media screen and (min-width: 768px) {
+      .cc-image-mask-3 {
+        display: inline-block;
+        float: left;
+        height: 487px;
+        margin-top: -179px;
+        width: 298px; } }
+  .cc-image-mask-4 {
+    -webkit-transition: top 300ms ease, left 300ms ease;
+    transition: top 300ms ease, left 300ms ease;
+    width: 100%; }
+  .cc-image-mask-5 {
+    -webkit-transition: top 300ms ease, left 300ms ease;
+    transition: top 300ms ease, left 300ms ease;
+    width: 100%; }
+    @media screen and (max-width: 767px) {
+      .cc-image-mask-5 {
+        margin-bottom: 20px; } }
+    @media screen and (min-width: 768px) {
+      .cc-image-mask-5 {
+        margin-left: 10%;
+        margin-top: 20px;
+        max-height: 262px;
+        width: 90%; } }
+    @media screen and (min-width: 1024px) {
+      .cc-image-mask-5 {
+        max-width: 380px;
+        position: absolute;
+        right: 10%;
+        top: 17%; } }
+    @media screen and (min-width: 1200px) {
+      .cc-image-mask-5 {
+        right: 22%; } }
+  .cc-image-mask-6 {
+    -webkit-transition: top 300ms ease, left 300ms ease;
+    transition: top 300ms ease, left 300ms ease;
+    width: 100%; }
+    @media screen and (max-width: 767px) {
+      .cc-image-mask-6 {
+        margin-bottom: 20px; } }
+    @media screen and (min-width: 768px) {
+      .cc-image-mask-6 {
+        position: absolute;
+        right: -100px; } }
+  .cc-image-mask-2-3 {
+    -webkit-transition: top 300ms ease, left 300ms ease;
+    transition: top 300ms ease, left 300ms ease;
+    width: 100%; }
+    @media screen and (max-width: 767px) {
+      .cc-image-mask-2-3 svg rect {
+        -webkit-clip-path: url("#mask3");
+                clip-path: url("#mask3"); } }
+
+.cc-shape {
+  mix-blend-mode: normal;
+  overflow: visible;
+  position: absolute;
+  z-index: -1000; }
+
+icon-sprite svg {
+  fill: transparent;
+  stroke: #ff5100;
+  stroke-width: .75; }
+
+icon-sprite[type="idea-bulb"] svg {
+  margin: 0 -5px; }
+
+h1 icon-sprite[type="robot"] svg {
+  position: absolute;
+  right: -220px;
+  stroke-width: .3;
+  top: -80px;
+  -webkit-transform: rotate(0deg) scale(1.5) rotate(5deg);
+          transform: rotate(0deg) scale(1.5) rotate(5deg); }
+
+h1 icon-sprite[type="ai"] svg {
+  position: absolute;
+  right: -285px;
+  stroke-width: .3;
+  top: -90px;
+  -webkit-transform: rotate(0deg) scale(1.3) rotate(20deg);
+          transform: rotate(0deg) scale(1.3) rotate(20deg); }
+
+h1 icon-sprite[type="ai-and-robot"] svg {
+  position: absolute;
+  right: -285px;
+  stroke-width: .3;
+  top: -90px;
+  -webkit-transform: rotate(0deg) scale(1.3) rotate(20deg);
+          transform: rotate(0deg) scale(1.3) rotate(20deg); }
+
+h1 icon-sprite[type="about-us-idea-dream"] svg {
+  left: -42px;
+  position: absolute;
+  stroke-width: .3;
+  top: -74px;
+  -webkit-transform: rotate(0deg) scale(1.5);
+          transform: rotate(0deg) scale(1.5); }
+  @media screen and (max-width: 479px) {
+    h1 icon-sprite[type="about-us-idea-dream"] svg {
+      left: -75px;
+      top: -85px;
+      -webkit-transform: rotate(0deg) scale(1);
+              transform: rotate(0deg) scale(1); } }
+
+h1 icon-sprite[type="underline-2"] svg {
+  left: -92px;
+  position: absolute;
+  stroke-width: .3;
+  top: -19px;
+  -webkit-transform: rotate(4deg) scale(1.1);
+          transform: rotate(4deg) scale(1.1); }
+
+h1 icon-sprite[type="fuel-future-hero"] svg {
+  left: -80px;
+  position: absolute;
+  stroke-width: .5;
+  top: -58px;
+  -webkit-transform: rotate(45deg) scale(1.3);
+          transform: rotate(45deg) scale(1.3); }
+
+h1 icon-sprite[type="food-and-drink"] svg {
+  left: 850px;
+  position: absolute;
+  stroke-width: .4;
+  top: 802px;
+  -webkit-transform: rotate(19deg) scale(8);
+  transform: rotate(19deg) scale(8); }
+
+h1 icon-sprite[type="consumer-internet"] svg {
+  left: 303px;
+  position: absolute;
+  stroke-width: .5;
+  top: 363px;
+  -webkit-transform: rotate(29deg) scale(3.8);
+  transform: rotate(29deg) scale(3.8); }
+
+h1 icon-sprite[type="consumer-internet"] svg {
+  left: 303px;
+  position: absolute;
+  stroke-width: .5;
+  top: 363px;
+  -webkit-transform: rotate(29deg) scale(3.8);
+  transform: rotate(29deg) scale(3.8); }
+
+h1 icon-sprite[type="fintech"] svg {
+  left: -50px;
+  position: absolute;
+  stroke-width: .3;
+  top: -72px;
+  -webkit-transform: rotate(7deg) scale(1.4);
+  transform: rotate(7deg) scale(1.4); }
+
+h1 icon-sprite[type="underline"] svg {
+  height: 400px;
+  stroke-linecap: round;
+  stroke-width: .65;
+  -webkit-transform: translate(-15px, -125px);
+          transform: translate(-15px, -125px); }
+
+h1 icon-sprite[type="passion-love-heart"] svg {
+  height: 140px;
+  position: absolute;
+  stroke-linecap: round;
+  stroke-width: .5;
+  -webkit-transform: translate(-92px, -30px) rotate(30deg);
+          transform: translate(-92px, -30px) rotate(30deg); }
+
+@media screen and (max-width: 479px) {
+  h1 icon-sprite[type="passion-love-heart"] {
+    display: none; } }
+
+h3 icon-sprite[type="question-mark"] {
+  display: inline-block;
+  line-height: initial;
+  vertical-align: middle; }
+  h3 icon-sprite[type="question-mark"] svg {
+    height: 110px;
+    position: absolute;
+    stroke-width: .6;
+    -webkit-transform: translate(-25%, -50%);
+            transform: translate(-25%, -50%);
+    width: 85px; }
+
+h5 icon-sprite,
+p icon-sprite {
+  display: inline-block;
+  line-height: initial;
+  vertical-align: middle; }
+  h5 icon-sprite[type="arrow"],
+  p icon-sprite[type="arrow"] {
+    vertical-align: initial; }
+    h5 icon-sprite[type="arrow"] svg,
+    p icon-sprite[type="arrow"] svg {
+      height: 330%;
+      stroke-width: .4;
+      -webkit-transform: translate(-20%, -22%);
+              transform: translate(-20%, -22%);
+      width: 300%; }
+  h5 icon-sprite[type="underline-2"],
+  p icon-sprite[type="underline-2"] {
+    vertical-align: initial; }
+    h5 icon-sprite[type="underline-2"] svg,
+    p icon-sprite[type="underline-2"] svg {
+      height: 400%;
+      stroke-width: .6px;
+      -webkit-transform: translate(-38%, -20%);
+              transform: translate(-38%, -20%);
+      width: 400%; }
+  h5 icon-sprite[type="burst-mark"],
+  p icon-sprite[type="burst-mark"] {
+    vertical-align: initial; }
+    h5 icon-sprite[type="burst-mark"] svg,
+    p icon-sprite[type="burst-mark"] svg {
+      height: 500%;
+      stroke-width: .3;
+      -webkit-transform: translate(-38%, -41%) scale(1.4);
+              transform: translate(-38%, -41%) scale(1.4);
+      width: 500%; }
+  h5 icon-sprite[type="cloud"], h5 icon-sprite[type="outline-mark"], h5 icon-sprite[type="bubble-mark"],
+  p icon-sprite[type="cloud"],
+  p icon-sprite[type="outline-mark"],
+  p icon-sprite[type="bubble-mark"] {
+    vertical-align: initial; }
+    h5 icon-sprite[type="cloud"] svg, h5 icon-sprite[type="outline-mark"] svg, h5 icon-sprite[type="bubble-mark"] svg,
+    p icon-sprite[type="cloud"] svg,
+    p icon-sprite[type="outline-mark"] svg,
+    p icon-sprite[type="bubble-mark"] svg {
+      height: 330%;
+      stroke-width: .4;
+      -webkit-transform: translate(-33.3%, -33.33%);
+              transform: translate(-33.3%, -33.33%);
+      width: 300%; }
+  h5 icon-sprite svg,
+  p icon-sprite svg {
+    height: 32px;
+    stroke-width: .85;
+    width: 32px; }
+
+h5 br + icon-sprite[type="underline-2"] svg,
+p br + icon-sprite[type="underline-2"] svg {
+  -webkit-transform: translate(-28%, -20%);
+          transform: translate(-28%, -20%); }
+
+.cc-categoryNavigation {
+  box-shadow: rgba(0, 0, 0, 0.3) 0 21px 10px -31px;
+  min-height: 80px;
+  padding: 0 1em;
+  position: relative;
+  -webkit-transition: 0.3s;
+  transition: 0.3s; }
+  @media screen and (max-width: 767px) {
+    .cc-categoryNavigation {
+      padding: 0 1em 1em; } }
+  .cc-categoryNavigation__container {
+    margin: 0 auto;
+    max-width: 75rem;
+    position: relative;
+    z-index: 1090; }
+    @media screen and (max-width: 1023px) {
+      .cc-categoryNavigation__container {
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+                flex-direction: column-reverse; } }
+  .cc-categoryNavigation__row {
+    -webkit-box-align: center;
+            align-items: center;
+    display: -webkit-box;
+    display: flex;
+    padding: 0; }
+    @media screen and (max-width: 1023px) {
+      .cc-categoryNavigation__row {
+        -webkit-box-align: start;
+                align-items: flex-start;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column; } }
+  @media screen and (max-width: 1023px) {
+    .cc-categoryNavigation .cc-breadcrumbs__items {
+      margin: 1em 0 0; } }
+  .cc-categoryNavigation__heading {
+    margin-bottom: 0; }
+    @media screen and (max-width: 1023px) {
+      .cc-categoryNavigation__heading {
+        margin-bottom: .5em;
+        -webkit-box-ordinal-group: 3;
+                order: 2; } }
+  .cc-categoryNavigation__navigation {
+    display: -webkit-box;
+    display: flex;
+    margin: 0;
+    padding: 0 2em;
+    width: 100%; }
+    @media screen and (max-width: 1023px) {
+      .cc-categoryNavigation__navigation {
+        -webkit-box-ordinal-group: 4;
+                order: 3;
+        padding: 0; } }
+    @media screen and (max-width: 767px) {
+      .cc-categoryNavigation__navigation {
+        flex-wrap: wrap; } }
+    .cc-categoryNavigation__navigationItem {
+      -webkit-box-align: center;
+              align-items: center;
+      display: -webkit-box;
+      display: flex;
+      height: 80px;
+      list-style: none;
+      margin: 0 1em 0 0; }
+      @media screen and (max-width: 767px) {
+        .cc-categoryNavigation__navigationItem {
+          margin-bottom: 1em; } }
+      .cc-categoryNavigation__navigationItem:first-of-type {
+        padding-left: 0; }
+      .cc-categoryNavigation__navigationItem a {
+        background-color: #f4f4f4;
+        border-radius: 30px;
+        color: #000;
+        display: block;
+        font-size: 0.875rem;
+        font-weight: 700;
+        padding: .25em 1.25em;
+        -webkit-transition: 0.3s;
+        transition: 0.3s; }
+        .cc-categoryNavigation__navigationItem a.active {
+          background-color: #747474;
+          color: #fff; }
+      @media screen and (max-width: 767px) {
+        .cc-categoryNavigation__navigationItem {
+          height: auto;
+          white-space: nowrap; } }
+      .cc-categoryNavigation__navigationItem a:hover,
+      .cc-categoryNavigation__navigationItem a:focus {
+        background-color: #747474;
+        color: #fff; }
+  .cc-categoryNavigation__search {
+    -webkit-box-align: center;
+            align-items: center;
+    display: -webkit-box;
+    display: flex; }
+    @media screen and (min-width: 1024px) {
+      .cc-categoryNavigation__search {
+        margin-left: auto; } }
+    @media screen and (max-width: 1023px) {
+      .cc-categoryNavigation__search {
+        margin: 1em auto;
+        -webkit-box-ordinal-group: 2;
+                order: 1; } }
+
+.cc-pageNavigation {
+  box-shadow: rgba(0, 0, 0, 0.3) 0 21px 10px -31px;
+  margin-bottom: 6em;
+  min-height: 80px;
+  padding: 0 1em;
+  position: relative;
+  -webkit-transition: 0.3s;
+  transition: 0.3s; }
+  @media screen and (max-width: 767px) {
+    .cc-pageNavigation {
+      margin-bottom: 2em;
+      padding: 0 1em 1em; } }
+  .cc-pageNavigation__container {
+    display: -webkit-box;
+    display: flex;
+    margin: 0 auto;
+    max-width: 75rem;
+    padding: 0;
+    position: relative;
+    z-index: 1090; }
+    @media screen and (max-width: 1023px) {
+      .cc-pageNavigation__container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column; } }
+    @media screen and (max-width: 767px) {
+      .cc-pageNavigation__container::after {
+        background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), color-stop(50%, white));
+        background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, white 50%);
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, white 50%);
+        content: " ";
+        display: block;
+        height: 49px;
+        pointer-events: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 30px; } }
+  .cc-pageNavigation__navigation {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: justify;
+            justify-content: space-between;
+    margin: 0;
+    padding-right: 1em;
+    width: 100%; }
+    @media screen and (max-width: 1023px) {
+      .cc-pageNavigation__navigation {
+        padding-right: 0; } }
+    @media screen and (max-width: 767px) {
+      .cc-pageNavigation__navigation {
+        -ms-overflow-style: none;
+        overflow-y: scroll;
+        position: relative;
+        scrollbar-width: none;
+        /* Optional: show position indicator in red */ }
+        .cc-pageNavigation__navigation::-webkit-scrollbar {
+          background: transparent;
+          /* Optional: just make scrollbar invisible */
+          height: 0;
+          /* Remove scrollbar space */ }
+        .cc-pageNavigation__navigation::-webkit-scrollbar-thumb {
+          background: transparent; } }
+    .cc-pageNavigation__navigationItem {
+      -webkit-box-align: center;
+              align-items: center;
+      display: -webkit-box;
+      display: flex;
+      height: 80px;
+      list-style: none;
+      padding: 0 .5em; }
+      .cc-pageNavigation__navigationItem:first-of-type {
+        padding-left: 0; }
+      .cc-pageNavigation__navigationItem a {
+        color: #030352;
+        display: block;
+        font-size: 0.875rem;
+        font-weight: 700;
+        padding: 0;
+        -webkit-transition: 0.3s;
+        transition: 0.3s; }
+      @media screen and (max-width: 767px) {
+        .cc-pageNavigation__navigationItem {
+          height: auto;
+          white-space: nowrap; }
+          .cc-pageNavigation__navigationItem a {
+            padding: 1em 0; } }
+      .cc-pageNavigation__navigationItem a:hover,
+      .cc-pageNavigation__navigationItem a:focus {
+        color: #0024ec; }
+  .cc-pageNavigation__search {
+    -webkit-box-align: center;
+            align-items: center;
+    display: -webkit-box;
+    display: flex; }
+    @media screen and (min-width: 1024px) {
+      .cc-pageNavigation__search {
+        margin-left: auto; } }
+  .cc-pageNavigation[data-sticky="true"] .cc-pageNavigation__wrapper {
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 21px 30px -31px;
+    left: 0;
+    padding: 0 1em;
+    position: fixed;
+    right: 0;
+    top: 80px;
+    -webkit-transition: box-shadow .3s;
+    transition: box-shadow .3s;
+    z-index: 1000; }
+    @media screen and (max-width: 1023px) {
+      .cc-pageNavigation[data-sticky="true"] .cc-pageNavigation__wrapper {
+        padding: 0 1em 1em; } }
+    @media screen and (max-width: 767px) {
+      .cc-pageNavigation[data-sticky="true"] .cc-pageNavigation__wrapper {
+        top: 0; } }
+  @media screen and (min-width: 768px) {
+    .cc-pageNavigation[data-sticky="true"] .cc-pageNavigation__navigationItem {
+      height: 70px; } }
+  .cc-pageNavigation:not([data-sticky="true"]) {
+    -webkit-transition: unset;
+    transition: unset; }
+    @media screen and (max-width: 767px) {
+      .cc-pageNavigation:not([data-sticky="true"]) {
+        border-bottom: solid 1px #e4e4e4;
+        box-shadow: 0 11px 12px rgba(214, 214, 214, 0.41); } }
+
+
+        </style><link rel="preload" href="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/main.61cfd96fd89a529a461e.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/main.61cfd96fd89a529a461e.css"></noscript><link rel="preload" href="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/components.155bf6eb585db41fae70.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/components.155bf6eb585db41fae70.css"></noscript><link rel="preload" href="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/blocks.0ecca0c465d40357b9ca.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/blocks.0ecca0c465d40357b9ca.css"></noscript><link rel="preload" href="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/ui.b83ad775f9e361f41aaf.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/ui.b83ad775f9e361f41aaf.css"></noscript><script>
+/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+</script><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+		    (function(){var g=function(e,h,f,g){
+			    this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+			    this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+			    this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+			    this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+			    this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+			    try{(new g(100,"r","QSI_S_ZN_72rc21gpwkzoVDf","https://zn72rc21gpwkzovdf-crowdcubeuk.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_72rc21gpwkzoVDf")).start()}catch(i){}})();
+        </script></head><body><div id="ZN_72rc21gpwkzoVDf"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div><!--END WEBSITE FEEDBACK SNIPPET-->
+    <div class="cc-viewContainer">
+        <a name="home" id="home"> </a>
+                <div class="cc-mainNavigation__container" data-sticky="false" data-type="mainNavigation">
             
-            <meta name="theme-color" content="#f08f00">
-            <link rel="icon" sizes="192x192" href="https://d37kyofbevv0u9.cloudfront.net/favicon-hi-res.png">
 
-                                                            <link media="all" type="text/css" rel="stylesheet" href="https://d37kyofbevv0u9.cloudfront.net/dist/bundles/commonLegacy.802c6ac6ae9015e864d8.css">
-                                                            <link media="all" type="text/css" rel="stylesheet" href="https://d37kyofbevv0u9.cloudfront.net/dist/bundles/patterns.802c6ac6ae9015e864d8.css">
-                    
-                    
-                
-
-            
-                            <script id="webtracker" src="https://crowdcube.emsecure.net/optiext/webtracker.dll"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/havvrhpoum/analytics.min.js"></script><script>
-    window.cc = window.cc || {};
-    window.cc.environment = {
-        user : {
-            public_id : '',
-                        notifications_count : null,
-            proxy_login : false        },
-        segment : {
-            key : 'havvrhpoum'
-        }
-    };
-    window.dataLayer = window.dataLayer || [];
-</script>
-                <!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<script>
-    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
-        analytics.load('havvrhpoum');
-        analytics.page();
-    }}();
-</script>
-            
-            
-        </head>
-    
-            <body id="top" class="">
-
-            <div class="cc-pagewrap">
-
-                            <!--[if lt IE 9]>
-                <div class="cc-browser-warning">
-                    <p><strong>Your browser is out-of-date and may not display our site correctly.</strong></p>
-                    <p><a href="http://browsehappy.com/" target="_blank">Find out how to update your browser.</a></p>
-                </div>
-                <![endif]-->
-            
-            
-
-            
-                                    <div class="cc-viewContainer">
+            <div class="cc-pageContainerLarge ">
+                <nav aria-label="Main menu" id="mainNavigation" class="cc-mainNavigation" role="navigation">
+                    <div class="cc-mainNavigation__smallViewport">
                         
-    
 
+<nav role="navigation" data-static-app="SmallViewportNavigation">
+    <div class="menu__toggle">
+        <!-- This input toggles if the menu is open or not -->
+        <input type="checkbox" id="mainNavigationToggle">
+        <!-- Hamburger menu -->
+        <label class="menu__toggle-label" for="mainNavigationToggle">
+            <span></span> <span></span> <span></span>
+        </label>
+        <div class="menu">
+            <ul>
+                                            <li>
+        <a href="/investments" class="">Investment Opportunities</a>
+    </li>
 
+                                            <li>
+        <a href="/explore/investing" class="">Investing</a>
+    </li>
 
+                                            <li>
+        <a href="/explore/raising" class="">Raising</a>
+    </li>
 
+                                            <li>
+        <a href="/explore/about-us" class="">About us</a>
+    </li>
 
-
-
-
-
-
-<div class="cc-mainNavigation__container">
-  <div class="cc-pageContainerLarge ">
-            <nav aria-label="Main menu" id="mainNavigation" class="cc-mainNavigation" role="navigation">
-
-              <div class="cc-mainNavigation__smallViewport">
-                  
-<div class="cc-popout" data-align="right" data-active="FALSE" data-size="medium">
-
-    <a id="popout__trigger1215749120" class="cc-popout__trigger" tabindex="0" aria-expanded="false" aria-controls="popout__panel647946343" aria-haspopup="true">    <div class="smallViewport__menuIcon">
-        <span>Menu</span>
-    </div>
-</a>
-
-    <div id="popout__panel647946343" class="cc-popout__panel" aria-labelledby="popout__trigger1215749120" aria-hidden="true">
-
-        <div class="cc-popout__inner">
-
-            <div class="cc-popout__content">
-
-                    <div class="cc-mainNavigation__smallViewportContent">
-        <ul class="cc-mainNavigation__navigationList cc-mainNavigation__navigationList--primary">
-                            <li><a href="/investments">Investment Opportunities</a></li>
-                            <li><a href="/how-to-invest">How to invest</a></li>
-                            <li><a href="/explore/raising-finance">Raising finance</a></li>
-                            <li><a href="http://www.crowdcube.com/explore">Explore</a></li>
-                    </ul>
-        <ul class="cc-mainNavigation__navigationList">
-                            <li><a href="/help">Help Centre</a></li>
-                            <li><a href="/pg/eis-seis-tax-relief-overview-43">Tax relief</a></li>
-                            <li><a href="/contact">Contact us</a></li>
-                            <li><a href="/companies">Funded companies</a></li>
-                            <li><a href="/partnerships">Partnerships</a></li>
-                            <li><a href="/pg/terms-16">Terms of use</a></li>
-                            <li><a href="/pg/privacy-and-cookie-policy-17">Privacy policy</a></li>
-                            <li><a href="/pg/risk-36">Risk warning</a></li>
-                            <li><a href="/pg/crowdcube-inc-about-us-1">About us</a></li>
-                            <li><a href="/pg/jobs-37">Careers</a></li>
-                    </ul>
-    </div>
-
-
-            </div>
-
-        <button class="cc-popout__close-button" tabindex="-1" aria-label="Close"><span class="cc-icon cc-icon__close cc-icon--noSpace  close-reveal-modal">
-    <svg role="img" class="close-reveal-modal">
-                            <use class="cc-icon__symbol close-reveal-modal" xlink:href="/dist/icons/icons-88df7931.svg#close"></use>
-            </svg>
-</span></button>
-
+                            </ul>
+            <div class="menu__overlay--pink"></div>
+            <div class="menu__overlay--turquoise"></div>
         </div>
-
     </div>
+</nav>
 
-    <div class="cc-popout__bg--overlay cc-js-popout-overlay"></div>
 
-</div>
-              </div>
-
-              <div class="cc-mainNavigation__logoContainer">
-
-                  <div class="cc-mainNavigation__logo">
-                          <a href="/">Crowdcube</a>
-                  </div>
-
-              </div>
-
-              <div class="cc-mainNavigation__group">
-
-                  <div class="cc-mainNavigation__navigationPrimary">
-                      <ul>
-                                                        <li class="cc-mainNavigation__navigationItem"><a href="/investments">Investment Opportunities</a></li>
-                                                        <li class="cc-mainNavigation__navigationItem"><a href="/how-to-invest">How to invest</a></li>
-                                                        <li class="cc-mainNavigation__navigationItem"><a href="/explore/raising-finance">Raising finance</a></li>
-                                                        <li class="cc-mainNavigation__navigationItem"><a href="http://www.crowdcube.com/explore">Explore</a></li>
-                                                </ul>
-                  </div>
-                  <div class="cc-mainNavigation__navigationUser">
-                                                      <div class="cc-mainNavigation__loggedOut">
-                    <a href="https://www.crowdcube.com/login?redirect_to=L3BnL3ByaXZhY3ktYW5kLWNvb2tpZS1wb2xpY3ktMTc%3D">Log in</a>
-                    <a href="/register">Join</a>
-            </div>
-
-                                        </div>
-
-            </div>
-
-        </nav>
-      </div></div>
-                        
                     </div>
-                
-                                    <article id="cookieBar" class="cc-cookiebar">
-    <div class="row">
-        <div class="cc-cookiebar__info columns">
+                    <div class="cc-mainNavigation__logoContainer">
+                        <div class="cc-mainNavigation__logo">
+                            <a href="/" title="Crowdcube">
+                                <img src="/explore/dist/assets/img/crowdcube-logo.svg" alt="The crowdcube logo">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="cc-mainNavigation__group">
+                        
 
-                <div class="cc-cookiebar__notice small-12">
-                    <a href="#" class="cc-cookiebar__close" aria-label="Close">
-                            <span class="cc-icon cc-icon__close  cc-icon--fill close-reveal-modal">
-    <svg role="img" class="close-reveal-modal">
-                            <use class="cc-icon__symbol close-reveal-modal" xlink:href="/dist/icons/icons-88df7931.svg#close"></use>
-            </svg>
-</span>                    </a>
 
-                    <p>
-                        This site uses cookies. By using this site you agree to receiving cookies.
-                        <a href="/pg/privacy-policy-17">View Policy</a>.
-                    </p>
 
-                </div>
+<div class="cc-mainNavigation__navigationPrimary" data-static-app="PrimaryNavigation">
+    <ul>
+                            <li class="cc-mainNavigation__navigationItem">
+        <a href="/investments" class="">Investment Opportunities</a>
+    </li>
 
+                            <li class="cc-mainNavigation__navigationItem">
+        <a href="/explore/investing" class="">Investing</a>
+    </li>
+
+                            <li class="cc-mainNavigation__navigationItem">
+        <a href="/explore/raising" class="">Raising</a>
+    </li>
+
+                            <li class="cc-mainNavigation__navigationItem">
+        <a href="/explore/about-us" class="">About us</a>
+    </li>
+
+            </ul>
+</div>
+
+                        
+            <div class="cc-mainNavigation__navigationUser" data-static-app="UserNavigation">
+                    <div class="cc-mainNavigation__loggedOut">
+                <a href="/login">Log in</a>
+                <a href="/register">Join</a>
+            </div>
+            </div>
+
+                    </div>
+                </nav>
+            </div>
         </div>
+        <div class="cc-pageContainer">
+            <div data-react-app="CookieNotice"></div>
+                <div class="cc-simplePage cc-simplePage--privacy-policy"><div class="row"><div class="column large-12"><h1>Privacy and cookie policy</h1><div class="cc-simplePage__intro"></div></div></div><div class="row"><div class="column large-12"><div class="cc-simplePage__body"><p><strong>Crowdcube Limited</strong> (“Crowdcube” "we", “us”) are committed to protecting and respecting your privacy.<br><br><strong>Last Update Effective Date:</strong> 8 November 2019<br><br>This privacy policy applies to the website <a href="http://www.crowdcube.com/">Crowdcube.com</a> owned and operated by Crowdcube Limited (acting as data controller). This privacy policy describes how Crowdcube collects and uses the personal data you provide on <a href="http://www.crowdcube.com/">Crowdcube.com</a>. It also describes the choices available to you regarding our use of your personal data and how you can access and update this information (see "Your rights" section for more details).</p><h3>Information we may collect from you</h3><p>We may collect and process the following data about you provided at the time of requesting goods, services or information from us:</p><ul><li>Information that you provide to us by filling in forms on our site CROWDCUBE.COM and mobile applications ("Our Site"). This includes contact information such as name, email address, mailing address, phone number, financial information such as bank or brokerage account numbers, unique identifiers such as user name, account number, password, date of birth and preferences information such as favourites lists, transaction history, marketing preferences. If you chose to list your company with us, we may ask for information about your business such as company name, company size, business type and personal data such as a professional profile.</li><li>Information that you provide to us when you write to us (including by email).</li><li>Information that you provide to us when we speak to you by telephone. We may make and keep a record of the information you share with us.</li><li>Information that you provide to us by completing surveys.</li><li>Details of transactions you carry out through Our Site and of the fulfilment of your orders.</li><li>Information obtained by us from third parties in accordance with this Privacy Policy. For example, if you chose to list your business with us, we may</li><li>obtain additional information from credit reference agencies as a supplementary source.</li></ul><p>As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, to analyse trends, to administer Our Site, to track users’ movements around Our Site and to gather demographic information about our user base as a whole.</p><h3>Uses made of the information</h3><p>We use information held about you in the following ways:</p><ul><li>To ensure that content from Our Site is presented in the most effective manner for you and for your computer. This is in our legitimate business interests.</li><li>To provide you with information, products or services that may be of interest to you, where you have consented to be contacted for such purposes.</li><li>To carry out our obligations arising from (i) legal obligations and/or (ii) any contracts entered into between you and us to provide information, products or services that you have requested and notify you about changes to our goods and services.</li></ul><p>If you are an existing customer/member, we may contact you by electronic means (fax, email or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. We will not otherwise contact you by electronic means to provide you with information about goods and services which may be of interest to you, unless you have consented to this. If you do not want us to use your data in one or more of the ways mentioned above, please let us know by contacting us at <a href="mailto:support@crowdcube.com">support@crowdcube.com</a> or refer to additional instructions in the “Your rights” portion of this policy.</p><h3>Disclosure of your information</h3><p>We will share your personal data with third parties only in the ways that are described in this privacy policy. We do not sell your personal data to third parties. We may disclose your personal data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. In addition to the above, we may disclose your personal data to third parties:</p><ul><li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. You will be notified via email and/or prominent notice on Our Site of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal data.</li><li>If Crowdcube or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li><li>If we are, or believe in good faith that we are, under a duty to disclose or share your personal data in order to comply with any legal obligation; or permitted by law in order to enforce or apply our Terms and Conditions of Website Use and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li><li>If you have made an investment or applied to invest in a company via <a href="http://www.crowdcube.com/">Crowdcube.com</a>, your personal data may be disclosed to the company (or the company's professional representatives) that you have invested or applied to invest in. If you request a business plan, Follow a pitch or contact a business or entrepreneur via a pitch page your contact details may also be shared with that business or entrepreneur.</li></ul><p>We may provide your personal data to companies that provide services to help us with our business activities such as shipping your order, processing payments, offering customer services or to improve our business operations. These companies are authorised to use your personal data only as necessary to provide these services to us. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisements to that target audience.</p><h3><strong>Your rights</strong></h3><p>You have the right to access information that is held about you. To protect your privacy and security, we’ll take reasonable steps to verify your identity before providing copies of any relevant materials. You may be entitled to ask us:</p><ul><li>for a copy of your information;</li><li>to correct or erase your information;</li><li>to restrict or stop the processing information;</li><li>to transfer some of this information to other organisations; and</li><li>where we have asked for your consent to process your data, to withdraw this consent.</li></ul><p>These rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your data. In some instances, this may mean that we are able to retain data even if you withdraw your consent. Where we require information to comply with legal or contractual obligations, then provision of such data is mandatory: if such information is not provided, then we will not be able to meet obligations placed on us or manage your transactions on Our Site. In all other cases, provision of requested information is optional. We hope that we can satisfy queries you may have about the way we process your information and resolve any complaints you may have. We encourage you to come to us in the first instance but you are entitled to complain directly to the relevant data protection authority.</p><h4>How to exercise your rights</h4><p>You can correct, change or delete your information in your member account setting page. You can stop receiving our newsletters or marketing emails by following the unsubscribe instructions included in these emails or accessing the email preferences in your account settings page. Alternatively, or to access any of the other above rights, you can email our Customer Support at <a href="mailto:support@crowdcube.com">support@crowdcube.com</a> or by contacting us by telephone or postal mail at the contact information listed below.</p><h3><strong>How long we retain your information</strong></h3><p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, which in some cases involving the collection and processing of financial data may require a retention period of 7 years (or longer if required by law).</p><h4>Cookies and tracking technologies</h4><p>Technologies such as: cookies, beacons, tags and scripts are used by Crowdcube Limited and our partners, including marketing partners affiliates, or analytics service providers and business process service providers. These technologies are used in analysing trends, administering Our Site, tracking users’ movements around Our Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for to estimate our audience size and usage pattern; to store information about your preferences, and so allow us to customise Our Site according to your individual interests; to speed up your searches, and to recognise you when you return to Our Site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use Our Site, but your ability to use some features or areas of Our Site may be limited. We partner with third-party ad networks to either display advertising on Our Site or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personal data about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" target="_blank" rel="noreferrer noopener">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. You can find more information, <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>.<br>Additionally, we use an ad-publishing service to display 3rd party ads on Our Site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting the above tracking preference managers. Local Storage Objects (Flash/HTML5): Third parties with whom we partner to provide certain features on Our Site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">click here</a>.</p><h3>How we store, process and secure your information</h3><p>The data that we collect from you may be transferred to and stored at, a destination inside or outside the European Economic Area ("EEA"). It may also be processed by staff operating inside or outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your orders, the processing of your payment details and the provision of support services. Access to your information is limited to those who have a need to manage it. Where your information is transferred from the EEA to a country that is not subject to an adequacy decision by the EU Commission, we will seek to ensure that it is adequately protected by (i) ensuring that EU Commission approved standard contractual clauses, an appropriate Privacy Shield certification or a vendor's Processor Binding Corporate Rules are in place or (ii) relying on derogations (e.g. contractual necessity). A copy of the relevant mechanism can be provided for your review on request, using the contact details provided below.</p><h3><strong>Security</strong></h3><p><strong></strong>All information you provide to us via email or Our Site is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of Our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. The security of your personal data is important to us. When you enter sensitive information (such as bank account information) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on Our Site, you can contact us at <a href="mailto:support@crowdcube.com">support@crowdcube.com</a>.</p><h4><strong>1. Payment security</strong></h4><p>All payments made to Crowdcube are processed by Stripe. Stripe conforms to the highest level of security - please see <a href="https://stripe.com/docs/security/stripe">here</a> for more details. Stripe has been audited by a PCI-certified auditor and is certified to <a href="http://www.visa.com/splisting/searchGrsp.do?companyNameCriteria=stripe">PCI Service Provider Level 1</a>. This is the most stringent level of certification available in the payments industry. </p><h4><strong>2. Security audits</strong></h4><p>We use recognised and accredited third parties to perform regular penetration tests of our platform and also internal networks across our offices. Any output is reviewed and prioritised with high importance. </p><h4><strong>3. Third party security</strong></h4><p>Like many businesses, we use certain third‑parties to support the services we provide to our users. We constantly review the security and suitability of any third parties as part of our ongoing processes. </p><h4><strong>4. Staff training </strong></h4><p>Crowdcube employees are required to undertake cybersecurity awareness training and also acknowledge and be compliant with internal security processes across hardware and software. These are reviewed and updated regularly. </p><h3>Additional privacy information</h3><h4>Blog / Discussions</h4><p>Our Site offers a publicly accessible blog and community discussions. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community discussions, contact us at <a href="mailto:support@crowdcube.com">support@crowdcube.com</a>. In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.</p><h4>Referrals</h4><p>If you choose to use our referral service to tell a contact about Our Site, we will ask you for your contacts' name and email address. You must have consent from your contact to provide this information to us. We will automatically send your contact a one-time email inviting him or her to visit the site. Crowdcube store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your contact may contact us at <a href="mailto:support@crowdcube.com">support@crowdcube.com</a> to request that we remove this information from our database.</p><h4>Links to 3rd party sites</h4><p>Our Site may, from time to time, contain links to and from the websites of our suppliers, partner networks, advertisers, affiliates and other third parties. If you follow a link to any of these websites, please note that these websites should have their own privacy policies and we do not accept any responsibility or liability for these policies or the content or operation of these websites. Please check these policies and the terms of the websites before you submit any personal data to these websites.</p><h4>Member directory</h4><p>We will list you in our publicly accessible member directory. If you wish to request removal of your information or the deletion of an unauthorised profile from our directory, you can contact us at <a href="mailto:support@crowdcube.com">support@crowdcube.com</a>.</p><h4>Profiles</h4><p>The profile you create on Our Site will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.</p><h4>Social Media widgets</h4><p>Our Site includes Social Media features, such as the Facebook 'Like' button. These features may collect your IP address, which page you are visiting on Our Site, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on Our Site. Your interactions with these features are governed by the privacy policy of the company providing it.</p><h4>Single sign-on</h4><p>You can log in to Our Site using the sign-in service such as LinkedIn, Facebook and Google. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. Services like LinkedIn, Facebook and Google may give you the option to post information about your activities on Our Site to your profile page to share with others within your network.</p><h3>Changes to our privacy policy</h3><p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on Our Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p><h3><strong>Contact</strong></h3><p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:<br><br><strong>Address:  <br></strong>Crowdcube Limited<br> South Entrance <br>Fourth Floor,  Broadwalk House<br> Southernhay<br> Exeter<br> EX1 1TS<br><br><strong>Data Protection Officer: <br></strong>Mark Tyler (contact via <a href="mailto:support@crowdcube.com">support@crowdcube.com</a>).<br><br><strong>Office opening times: </strong> <br>Mon to Fri - 09:00 to 17:30  <br>Saturday - Closed  <br>Sunday - Closed <br><br>Tel. 01392 241319<br> Email: <a href="mailto:support@crowdcube.com">support@crowdcube.com</a></p></div></div></div></div>                <div class="cc-container__risk"><div class="cc-footnote"><div class="cc-footnote__content"><h4 class="cc-footnote__header">Risk warning</h4><p>Investing in start-ups and early stage businesses involves risks, including illiquidity, lack of dividends, loss of investment and dilution, and it should be done only as part of a diversified portfolio. Crowdcube is targeted exclusively at investors who are sufficiently sophisticated to understand these risks and make their own investment decisions. You will only be able to invest via Crowdcube once you are registered as sufficiently sophisticated. <a href="/explore/risk-warning">Please click here to read the full Risk Warning</a>.</p><p>This page is approved as a financial promotion by Crowdcube Capital Limited, which is authorised and regulated by the Financial Conduct Authority. Pitches for investment are not offers to the public and investments can only be made by members of crowdcube.com on the basis of information provided in the pitches by the companies concerned. </p></div></div></div>            <a href="#home" class="cc-scrollTop" data-scroll-to="#home" title="Scroll to top">
+    <svg version="1.2" preserveAspectRatio="none" viewBox="0 0 24 24">
+        <g>
+            <path xmlns:default="http://www.w3.org/2000/svg" d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"></path>
+        </g>
+    </svg>
+</a>
+                <div class="footer"><div class="wondermark"><div class="wondermark__angle"></div><div class="wondermark__main"><div class="footer__content"><div class="footer__site-links" data-static-app="FooterNavigation"><div class="footer__link-group footer__link-group--unimportant"><h5 class="footer__heading"><a href="/explore/investing">Investing</a></h5><ul class="footer__list"><li class="footer__list-item"><a href="/investments" class="">Investment opportunities</a></li><li class="footer__list-item"><a href="/companies" class="">Funded companies</a></li><li class="footer__list-item"><a href="/explore/investing/tax-relief" class="">Tax relief</a></li></ul></div><div class="footer__link-group footer__link-group--unimportant"><h5 class="footer__heading"><a href="/explore/raising">Raising</a></h5><ul class="footer__list"><li class="footer__list-item"><a href="/explore/raising/success-stories" class="">Success stories</a></li><li class="footer__list-item"><a href="/explore/raising/knowledge-hub" class="">Knowledge hub</a></li><li class="footer__list-item"><a href="https://www.crowdcube.com/explore/raising/sectors" class="">Sector focus</a></li></ul></div><div class="footer__link-group footer__link-group--unimportant"><h5 class="footer__heading"><a href="/explore/about-us">About us</a></h5><ul class="footer__list"><li class="footer__list-item"><a href="/explore/about-us/partnerships" class="">Partnerships</a></li><li class="footer__list-item"><a href="/explore/about-us/careers" class="">Careers</a></li><li class="footer__list-item"><a href="/explore/blog" class="">Blog</a></li><li class="footer__list-item"><a href="https://help.crowdcube.com/hc/en-us" class="">Help centre</a></li></ul></div><div class="footer__link-group footer__link-group--unimportant"><h5 class="footer__heading">Legal</h5><ul class="footer__list"><li class="footer__list-item"><a href="/explore/terms-of-use" class="">Terms of use</a></li><li class="footer__list-item"><a href="/explore/privacy-policy" class="active">Privacy</a></li></ul></div></div><div class="footer__external-links"><div class="footer__external-link-group"><ul class="footer__app-list"><li class="footer__app-list-item"><a href="https://itunes.apple.com/gb/app/crowdcube/id1130987804?mt=8"><img src="https://static-crowdcube-com.s3.amazonaws.com/footer/app-store-badge_en-97afa199bcc7ca71bbd549d70fca69e5.svg" alt="Download on the App Store" title="Download on the App Store"></a></li><li class="footer__app-list-item"><a href="https://play.google.com/store/apps/details?id=com.crowdcube.android"><img src="https://static-crowdcube-com.s3.amazonaws.com/footer/google-play-badge.png" alt="Get it on Google Play" title="Get it on Google Play"></a></li></ul></div><div class="footer__external-link-group"><ul class="footer__social-list"><li class="footer__social-list-item"><a href="https://facebook.com/crowdcube/"><span class="cc-icon cc-icon__facebook cc-icon--noSpace cc-icon--fill"><svg role="img" class=""><use class="cc-icon__symbol" xlink:href="/explore/dist/assets/img/sprites.v1.4.svg#facebook"></use></svg></span><span class="footer__social-label">Facebook</span></a></li><li class="footer__social-list-item"><a href="https://twitter.com/Crowdcube"><span class="cc-icon cc-icon__twitter cc-icon--noSpace cc-icon--fill"><svg role="img" class=""><use class="cc-icon__symbol" xlink:href="/explore/dist/assets/img/sprites.v1.4.svg#twitter"></use></svg></span><span class="footer__social-label">Twitter</span></a></li><li class="footer__social-list-item"><a href="https://www.linkedin.com/company/crowdcube-limited/"><span class="cc-icon cc-icon__linkedin cc-icon--noSpace cc-icon--fill"><svg role="img" class=""><use class="cc-icon__symbol" xlink:href="/explore/dist/assets/img/sprites.v1.4.svg#linkedin"></use></svg></span><span class="footer__social-label">LinkedIn</span></a></li><li class="footer__social-list-item"><a href="https://www.instagram.com/crowdcube/"><span class="cc-icon cc-icon__instagram cc-icon--noSpace cc-icon--fill"><svg role="img" class=""><use class="cc-icon__symbol" xlink:href="/explore/dist/assets/img/sprites.v1.4.svg#instagram"></use></svg></span><span class="footer__social-label">Instagram</span></a></li></ul></div></div></div></div></div><div class="footer__addendum"><div class="footer__logo"><a href="/" title="Crowdcube"><img src="/explore/dist/assets/img/crowdcube-logo.svg" alt="The crowdcube logo"></a></div><div class="footer__legal">
+    Crowdcube Capital Ltd is authorised and regulated by the Financial Conduct Authority (No. 650205).
+</div></div></div>        </div>
     </div>
-</article>
-                
-                <main>
-                        <header class="cc-hero">
-
-        <div class="row">
-
-            <h1 class="column cc-heading--branded">Privacy and cookie policy</h1>
-
-        </div>
-
-    </header>
-
-    <section class="cc-page cc-page--centered">
-
-        <article class="cc-page__content cc-page__content--full">
-
-            <div><strong>Privacy and cookie policy</strong></div>
-
-<div>&nbsp;</div>
-
-<div><strong>CROWDCUBE LIMITED</strong> (“Crowdcube” "we", “us”) are committed to protecting and respecting your privacy.</div>
-
-<div>&nbsp;</div>
-
-<div>Last Update Effective Date 5 September 2018</div>
-
-<div>&nbsp;</div>
-
-<div>This privacy policy applies to the website www.crowdcube.com owned and operated by Crowdcube Limited (acting as data controller). This privacy policy describes how Crowdcube collects and uses the personal data you provide on www.crowdcube.com. It also describes the choices available to you regarding our use of your personal data and how you can access and update this information (see "Your rights" section for more details).</div>
-
-<div>&nbsp;</div>
-
-<div><strong>INFORMATION WE MAY COLLECT FROM YOU</strong></div>
-
-<div>&nbsp;</div>
-
-<div>We may collect and process the following data about you provided at the time of requesting goods, services or information from us:</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>Information that you provide to us by filling in forms on our site CROWDCUBE.COM and mobile applications ("Our Site"). This includes contact information such as name, email address, mailing address, phone number, financial information such as bank or brokerage account numbers, unique identifiers such as user name, account number, password, date of birth and preferences information such as favourites lists, transaction history, marketing preferences. If you chose to list your company with us, we may ask for information about your business such as company name, company size, business type and personal datadata such as a professional profile.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>Information that you provide to us when you write to us (including by email).</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>Information that you provide to us when we speak to you by telephone. We may make and keep a record of the information you share with us.</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>Information that you provide to us by completing surveys.</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>Details of transactions you carry out through Our Site and of the fulfillment of your orders.</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>Information obtained by us from third parties in accordance with this Privacy Policy. For example, if you chose to list your business with us, we may</div>
-
-<div>obtain additional information from credit reference agencies as a supplementary source.</div>
-
-<div>&nbsp;</div>
-
-<div>As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, to analyze trends, to administer Our Site, to track users’ movements around Our Site and to gather demographic information about our user base as a whole.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div><strong>USES MADE OF THE INFORMATION</strong></div>
-
-<div>&nbsp;</div>
-
-<div>We use information held about you in the following ways:</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>To ensure that content from Our Site is presented in the most effective manner for you and for your computer. This is in our legitimate business interests.</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>To provide you with information, products or services that may be of interest to you, where you have consented to be contacted for such purposes.</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>To carry out our obligations arising from (i) legal obligations and/or (ii) any contracts entered into between you and us to provide information, products or services that you have requested and notify you about changes to our goods and services.</div>
-
-<div>&nbsp;</div>
-
-<div>If you are an existing customer/member, we may contact you by electronic means (fax, email or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. We will not otherwise contact you by electronic means to provide you with information about goods and services which may be of interest to you, unless you have consented to this.</div>
-
-<div>&nbsp;</div>
-
-<div>If you do not want us to use your data in one or more of the ways mentioned above, please let us know by contacting us at support@crowdcube.com or refer to additional instructions in the “Your rights” portion of this policy.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>DISCLOSURE OF YOUR INFORMATION</strong></div>
-
-<div>&nbsp;</div>
-
-<div>We will share your personal data with third parties only in the ways that are described in this privacy policy. We do not sell your personal data to third parties.</div>
-
-<div>&nbsp;</div>
-
-<div>We may disclose your personal data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.</div>
-
-<div>In addition to the above, we may disclose your personal data to third parties:</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. You will be notified via email and/or prominent notice on Our Site of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal data.</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>If Crowdcube or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>If we are, or believe in good faith that we are, under a duty to disclose or share your personal data in order to comply with any legal obligation,; or permitted by law in order to enforce or apply our Terms and Conditions of Website Use and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>If you have made an investment or applied to invest in a company via www.crowdcube.com, your personal data may be disclosed to the company (or the company's professional representatives) that you have invested or applied to invest in. If you request a business plan, Follow a pitch&nbsp;or contact a business or entrepreneur via a pitch page your contact details may also be shared with that business or entrepreneur.</div>
-
-<div>&nbsp;</div>
-
-<div>We may provide your personal data to companies that provide services to help us with our business activities such as shipping your order, processing payments, offering customer services or to improve our business operations. These companies are authorized to use your personal data only as necessary to provide these services to us.&nbsp;&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisements to that target audience.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>YOUR RIGHTS&nbsp;</strong></div>
-
-<div>&nbsp;</div>
-
-<div>You have the right to access information that is held about you. To protect your privacy and security, we’ll take reasonable steps to verify your identity before providing copies of any relevant materials.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>You may be entitled to ask us:</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>for a copy of your information;</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>to correct or erase your information;</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>to restrict or stop the processing information;&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>to transfer some of this information to other organisations; and</div>
-
-<div>&nbsp;</div>
-
-<div>•<span style="white-space:pre"> </span>where we have asked for your consent to process your data, to withdraw this consent.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>These rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your data. In some instances, this may mean that we are able to retain data even if you withdraw your consent.&nbsp;</div>
-
-<div>Where we require information to comply with legal or contractual obligations, then provision of such data is mandatory: if such information is not provided, then we will not be able to meet obligations placed on us or manage your transactions on Our Site.&nbsp; In all other cases, provision of requested information is optional.</div>
-
-<div>&nbsp;</div>
-
-<div>We hope that we can satisfy queries you may have about the way we process your information and resolve any complaints you may have. We encourage you to come to us in the first instance but you are entitled to complain directly to the relevant data protection authority.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>How to exercise your rights</strong></div>
-
-<div>&nbsp;</div>
-
-<div>You can correct, change or delete your information in your member account setting page. You can stop receiving our newsletters or marketing emails by following the unsubscribe instructions included in these emails or accessing the email preferences in your account settings page. Alternatively, or to access any of the other above rights, you can email our Customer Support at support@crowdcube.com or by contacting us by telephone or postal mail at the contact information listed below.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div><strong>HOW LONG WE RETAIN YOUR INFORMATION</strong></div>
-
-<div>&nbsp;</div>
-
-<div>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, which in some cases involving the collection and processing of financial data may require a retention period of 7 years (or longer if required by law).</div>
-
-<div>&nbsp;</div>
-
-<div><strong>COOKIES and Tracking Technologies</strong></div>
-
-<div>&nbsp;</div>
-
-<div>Technologies such as: cookies, beacons, tags and scripts are used by Crowdcube Limited and our partners, including marketing partners affiliates, or analytics service providers and business process service providers. These technologies are used in analyzing trends, administering Our Site, tracking users’ movements around Our Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</div>
-
-<div>&nbsp;</div>
-
-<div>We use cookies for to estimate our audience size and usage pattern; to store information about your preferences, and so allow us to customize Our Site according to your individual interests; to speed up your searches; and to recognize you when you return to Our Site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use Our Site, but your ability to use some features or areas of Our Site may be limited.</div>
-
-<div>&nbsp;</div>
-
-<div>We partner with third party ad networks to either display advertising on Our Site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal data about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" target="_blank">Here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</div>
-
-<div>http://www.networkadvertising.org/managing/opt_out.asp</div>
-
-<div>&nbsp;</div>
-
-<div>Additionally, we use an ad-publishing service to display 3rd party ads on Our Site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting the above tracking preference managers.</div>
-
-<div>&nbsp;</div>
-
-<div>Local Storage Objects (Flash/HTML5): Third parties with whom we partner to provide certain features on Our Site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.</div>
-
-<div>Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</div>
-
-<div>&nbsp;</div>
-
-<div><strong>HOW WE STORE, PROCESS AND SECURE YOUR INFORMATION</strong></div>
-
-<div>&nbsp;</div>
-
-<div>The data that we collect from you may be transferred to, and stored at, a destination inside or outside the European Economic Area ("EEA"). It may also be processed by staff operating inside or outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your orders, the processing of your payment details and the provision of support services. Access to your information is limited to those who have a need to manage it. Where your information is transferred from the EEA to a country that is not subject to an adequacy decision by the EU Commission, we will seek to ensure that it is adequately protected by (i) ensuring that EU Commission approved standard contractual clauses, an appropriate Privacy Shield certification or a vendor's Processor Binding Corporate Rules are in place or (ii) relying on derogations (e.g. contractual necessity).&nbsp; A copy of the relevant mechanism can be provided for your review on request, using the contact details provided below.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Security</strong></div>
-
-<div>&nbsp;</div>
-
-<div>All information you provide to us via email or Our Site is stored on our secure servers.</div>
-
-<div>Where we have given you (or where you have chosen) a password which enables you to access certain parts of Our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</div>
-
-<div>&nbsp;</div>
-
-<div>The security of your personal data is important to us. When you enter sensitive information (such as bank account information) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).</div>
-
-<div>We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on Our Site, you can contact us at support@crowdcube.com</div>
-
-<div>&nbsp;</div>
-
-<div><strong>ADDITIONAL PRIVACY INFORMATION</strong></div>
-
-<div>&nbsp;</div>
-
-<div><strong>Blog / Discussions</strong></div>
-
-<div>&nbsp;</div>
-
-<div>Our Site offers a publicly accessible blog and community discussions. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community discussions, contact us at support@crowdcube.com. In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Referrals</strong></div>
-
-<div>&nbsp;</div>
-
-<div>If you choose to use our referral service to tell a contact about Our Site, we will ask you for your contacts’s name and email address. You must have consent from your contact to provide this information to us. We will automatically send your contact a one-time email inviting him or her to visit the site. Crowdcube store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.</div>
-
-<div>Your contact may contact us at support@crowdcube.com to request that we remove this information from our database.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Links to 3rd Party Sites</strong></div>
-
-<div>&nbsp;</div>
-
-<div>Our Site may, from time to time, contain links to and from the websites of our suppliers, partner networks, advertisers, affiliates and other third parties. If you follow a link to any of these websites, please note that these websites should have their own privacy policies and we do not accept any responsibility or liability for these policies or the content or operation of these websites. Please check these policies and the terms of the websites before you submit any personal data to these websites.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Member Directory</strong></div>
-
-<div>&nbsp;</div>
-
-<div>We will list you in our publicly accessible member directory. If you wish to request removal of your information or the deletion of an unauthorized profile from our directory, you can contact us at support@crowdcube.com.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Profiles</strong></div>
-
-<div>&nbsp;</div>
-
-<div>The profile you create on Our Site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Social Media Widgets</strong></div>
-
-<div>&nbsp;</div>
-
-<div>Our Site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on Our Site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on Our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Single Sign-On</strong></div>
-
-<div>&nbsp;</div>
-
-<div>You can log in to Our Site using the sign-in service such as LinkedIn, Facebook and Google. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. Services like LinkedIn, Facebook and Google may give you the option to post information about your activities on Our Site to your profile page to share with others within your network.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>CHANGES TO OUR PRIVACY POLICY</strong></div>
-
-<div>&nbsp;</div>
-
-<div>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on Our Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>CONTACT</strong></div>
-
-<div>&nbsp;</div>
-
-<div>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Address: </strong></div>
-
-<div>Crowdcube Limited </div>
-
-<div>South Entrance </div>
-
-<div>Fourth Floor  Broadwalk House </div>
-
-<div>Southernhay</div>
-
-<div> Exeter</div>
-
-<div> EX1 1TS</div>
-
-<div>&nbsp;</div>
-
-<div>Data Protection Officer; Mark Tyler (contact at support address below).</div>
-
-<div>&nbsp;</div>
-
-<div>Office Opening Times:</div>
-
-<div>&nbsp;</div>
-
-<div> Mon to Fri - 0900 to 1700</div>
-
-<div> Saturday - CLOSED</div>
-
-<div> Sunday - CLOSED</div>
-
-<div>&nbsp;</div>
-
-<div>Tel. 01392 241319</div>
-
-<div> Email: support@crowdcube.com</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<p>&nbsp;</p>
-
-
-        </article>
-
-        
-    </section>
-                </main>
-
-                                    
-
-
-
-
-
-
-<div class="cc-mainFooter">
-    <div class="cc-pageContainerLarge ">
-                <div class="cc-mainFooter__promotion">
-                <div class="cc-mainFooter__appstore cc-mainFooter__storeBadge">
-                    <a href="https://itunes.apple.com/app/apple-store/id1130987804?pt=2225342&amp;ct=crowdcube_footer&amp;mt=8"><img src="https://static-crowdcube-com.s3.amazonaws.com/footer/app-store-badge_en-97afa199bcc7ca71bbd549d70fca69e5.svg" alt="Download on the App Store" title="Download on the App Store"></a>
-                </div>
-                <div class="cc-mainFooter__googlePlay cc-mainFooter__storeBadge">
-                    <a href="https://play.google.com/store/apps/details?id=com.crowdcube.android"><img src="https://static-crowdcube-com.s3.amazonaws.com/footer/google-play-badge.png" alt="Get it on Google Play" title="Get it on Google Play"></a>
-                </div>
-                <div>
-                    <ul>
-                                                    <li>
-                                <a href="https://www.facebook.com/crowdcube">
-                                    <span class="cc-icon cc-icon__facebook cc-icon--noSpace cc-icon--fill ">
-    <svg role="img" class="">
-                            <use class="cc-icon__symbol " xlink:href="/dist/icons/icons-88df7931.svg#facebook"></use>
-            </svg>
-</span>                                    <span class="cc-mainFooter__socialLabel">Facebook</span>
-                                </a>
-                            </li>
-                                                    <li>
-                                <a href="https://twitter.com/Crowdcube">
-                                    <span class="cc-icon cc-icon__twitter cc-icon--noSpace cc-icon--fill ">
-    <svg role="img" class="">
-                            <use class="cc-icon__symbol " xlink:href="/dist/icons/icons-88df7931.svg#twitter"></use>
-            </svg>
-</span>                                    <span class="cc-mainFooter__socialLabel">twitter</span>
-                                </a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.linkedin.com/company/crowdcube-limited">
-                                    <span class="cc-icon cc-icon__linkedin cc-icon--noSpace cc-icon--fill ">
-    <svg role="img" class="">
-                            <use class="cc-icon__symbol " xlink:href="/dist/icons/icons-88df7931.svg#linkedin"></use>
-            </svg>
-</span>                                    <span class="cc-mainFooter__socialLabel">linkedin</span>
-                                </a>
-                            </li>
-                                                    <li>
-                                <a href="https://plus.google.com/+crowdcube">
-                                    <span class="cc-icon cc-icon__google-g cc-icon--noSpace cc-icon--fill ">
-    <svg role="img" class="">
-                            <use class="cc-icon__symbol " xlink:href="/dist/icons/icons-88df7931.svg#google-g"></use>
-            </svg>
-</span>                                    <span class="cc-mainFooter__socialLabel">Google plus</span>
-                                </a>
-                            </li>
-                                                    <li>
-                                <a href="https://www.instagram.com/crowdcube/">
-                                    <span class="cc-icon cc-icon__instagram cc-icon--noSpace cc-icon--fill ">
-    <svg role="img" class="">
-                            <use class="cc-icon__symbol " xlink:href="/dist/icons/icons-88df7931.svg#instagram"></use>
-            </svg>
-</span>                                    <span class="cc-mainFooter__socialLabel">Instagram</span>
-                                </a>
-                            </li>
-                                            </ul>
-                </div>
-            </div>
-            <div class="cc-mainFooter__navigation">
-                <div class="cc-mainFooter__navigationBlock">
-                    <h5 class="cc-mainFooter__navigationBlockTitle">Support</h5>
-                    <ul class="cc-mainFooter__navigationBlockList">
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="https://www.crowdcube.com/help" class="cc-mainFooter__navigationBlockLink">Help Centre</a>
-                            </li>
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/pg/eis-seis-tax-relief-overview-43" class="cc-mainFooter__navigationBlockLink">Tax relief</a>
-                            </li>
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="https://www.crowdcube.com/contact" class="cc-mainFooter__navigationBlockLink">Contact us</a>
-                            </li>
-                                            </ul>
-                </div>
-                <div class="cc-mainFooter__navigationBlock">
-                    <h5 class="cc-mainFooter__navigationBlockTitle">Learn more</h5>
-                    <ul class="cc-mainFooter__navigationBlockList">
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/explore/raising-finance" class="cc-mainFooter__navigationBlockLink">Raising finance</a>
-                            </li>
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/companies" class="cc-mainFooter__navigationBlockLink">Funded companies</a>
-                            </li>
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/partnerships" class="cc-mainFooter__navigationBlockLink">Partnerships</a>
-                            </li>
-                                            </ul>
-                </div>
-                <div class="cc-mainFooter__navigationBlock">
-                    <h5 class="cc-mainFooter__navigationBlockTitle">Legal</h5>
-                    <ul class="cc-mainFooter__navigationBlockList">
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/pg/terms-16" class="cc-mainFooter__navigationBlockLink">Terms of use</a>
-                            </li>
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/pg/privacy-and-cookie-policy-17" class="cc-mainFooter__navigationBlockLink">Privacy policy</a>
-                            </li>
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/pg/risk-36" class="cc-mainFooter__navigationBlockLink">Risk warning</a>
-                            </li>
-                                            </ul>
-                </div>
-                <div class="cc-mainFooter__navigationBlock">
-                    <h5 class="cc-mainFooter__navigationBlockTitle">Team</h5>
-                    <ul class="cc-mainFooter__navigationBlockList">
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/pg/crowdcube-inc-about-us-1" class="cc-mainFooter__navigationBlockLink">About us</a>
-                            </li>
-                                                    <li class="cc-mainFooter__navigationBlockListItem">
-                                <a href="/pg/jobs-37" class="cc-mainFooter__navigationBlockLink">Careers</a>
-                            </li>
-                                            </ul>
-                </div>
-            </div>
-            <div class="cc-mainFooter__legal">
-                <p>Crowdcube Capital Ltd is authorised and regulated by the Financial Conduct Authority (No. 650205).</p>
-            </div>
-            <div class="cc-mainFooter__branding">
-                <a href="">crowdcube</a>
-            </div>
-        </div></div>
-                
-            
-            
-            
-                <script type="text/javascript">
-function setCookie(name, value, days){
-    var date = new Date();
-    date.setTime(date.getTime() + (days*24*60*60*1000)); 
-    var expires = "; expires=" + date.toGMTString();
-    var path = "; path=/;"
-    document.cookie = name + "=" + value + expires + path;
-}
-function getParam(p){
-    var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
-    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
-}
-var gclid = getParam('gclid');
-if(gclid){
-    var gclsrc = getParam('gclsrc');
-    if(!gclsrc || gclsrc.indexOf('aw') !== -1){
-        setCookie('gclid', gclid, 90);
-    }
-}
-</script>
-
-                                                        <script src="https://d37kyofbevv0u9.cloudfront.net/dist/bundles/pages.base.6d3936ab.js"></script>
-                                <script src="https://d37kyofbevv0u9.cloudfront.net/dist/bundles/commonLegacy.802c6ac6ae9015e864d8.js"></script>
-                <script src="https://d37kyofbevv0u9.cloudfront.net/dist/bundles/cookieBar.802c6ac6ae9015e864d8.js"></script>
-
-                <script>
-    </script>
-
-                <!-- Selligent tracking -->
-<script>
-    var trackdata = trackdata || [];
-
-    (function (d, s, id) {
-        var js, sjs = d.getElementsByTagName(s)[0];
-
-        if (d.getElementById(id)) return;
-
-        js = d.createElement(s);
-        js.id = id;
-        js.src = "https://crowdcube.emsecure.net/optiext/webtracker.dll";
-        sjs.parentNode.insertBefore(js, sjs);
-    }(document, 'script', 'webtracker'));
-</script>
-                <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=47070&amp;conversionId=141995&amp;fmt=gif">
-            
-        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ad79849bc7","applicationID":"17060594","transactionName":"NVQENxBRDUFZBhVeCgweJRYRRAxfFxUGGBUQWBACAUlOU1YBTFQKDVoPBk9ADF5RBhgaVFU=","queueTime":0,"applicationTime":42,"atts":"GRMHQVhLHk8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-    
-
-</div></body></html>
+        <div data-react-app="Modal"></div>
+    <div data-react-app="VideoModal"></div>
+    <script src="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/runtime.f7603c774be3770b1ca9.js"></script>
+    <script src="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/react.ca90985c8e426506066e.bundle.js"></script>
+    <script src="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/apollo.7a4ae0f0c8749473436b.bundle.js"></script>
+    <script src="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/vendor.58e65b769878697cf629.bundle.js"></script>
+    <script src="https://cdn-content-hub.crowdcube.com/static/c3/explore/dist/main.f975df77694a6bd9be65.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ad79849bc7","applicationID":"302643751","transactionName":"NVQENxBRDUFZBhVeCgweMxELHxBATkoJQxESHgURA1YXUVUWTkUADlQHEAdDTFYVLCNhMzhkJVpTHVECCVxQBVRVAVFSVB8AR0oXBFkRTUYDAU1ZDVZdHU9HDRI=","queueTime":0,"applicationTime":434,"atts":"GRMHQVhLHk8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="https://zn72rc21gpwkzovdf-crowdcubeuk.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_72rc21gpwkzoVDf&amp;t=1580446829818"></script></body></html>
