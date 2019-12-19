@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicylingerie.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110193838id_/https%3A//www.spicylingerie.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicylingerie.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219123408id_/https%3A//www.spicylingerie.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy,
 
