@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtinla.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423194224id_/https%3A//www.builtinla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtinla.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219084714id_/https%3A//www.builtinla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Built In Los Angeles
 
@@ -100,7 +100,7 @@ Built In, Inc.
 
 Chicago, Illinois 60654
 
-Telephone: 312-476-8478
+Telephone: [(312) 210-9126](tel://\(312\) 210-9126)
 
 Email: support@builtin.com
 
