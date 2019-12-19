@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurock.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313214700id_/https%3A//www.gurock.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurock.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219091214id_/https%3A//www.gurock.com/about/privacy) for the most accurate reproduction.*
 
 # Gurock Software's Privacy Policy
 
