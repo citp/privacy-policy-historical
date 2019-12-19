@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anthonysfla.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513080322id_/https%3A//www.anthonysfla.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthonysfla.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219015936id_/https%3A//www.anthonysfla.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Anthony's Ladies Apparel
+# Privacy Policy
 
 ## OUR COMMITMENT TO PRIVACY
 
