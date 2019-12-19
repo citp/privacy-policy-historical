@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigtitsboss.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401153520id_/https%3A//www.realitykings.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitsboss.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219201141id_/https%3A//www.realitykings.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last Modified: May 21st, 2018_**
+**_Last Modified: July 9th, 2019_**
 
 ## Introduction
 
@@ -203,6 +203,22 @@ You may, at any time, send us an e-mail at [rksupport@probiller.com](mailto:rksu
 
 Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information ( _e.g._ , your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request.
 
+## California Consumer Privacy Act Notice
+
+As of January 1, 2020, the California Consumer Privacy Act of 2018 (“ **CCPA** ”) provides California residents (“ **Consumer(s)** ”) certain rights with respect to their personal information, as this term is defined under the CCPA. In addition to the rights we state under this policy and subject to the exceptions found under the CCPA, Consumers have the right to:
+
+  * Opt-out of the sale of their personal information, should we sell their personal information;
+  * Be informed of certain information concerning our collection and use of their personal information;
+  * Request that we delete certain personal information we collected from them;
+  * Appoint an agent to exercise their rights provided for by the CCPA, provided that a duly executed notarized power of attorney is presented and provided that the agent has information deemed sufficient to allow us to verify the identity of the Consumer in question and to locate his/her information in our systems;
+  * Not be subjected to discrimination for the exercise of these rights. We will not deny California residents the use of our service, neither will we provide a different level or quality or services for exercising any of their CCPA rights, unless as permitted under the CCPA.
+
+
+
+This Website does not sell nor has it sold in the past 12 months personal information to third parties for monetary or other valuable considerations. We may however disclose certain personal information with third parties, service providers and entities within our corporate group in order to enable them to perform certain services on our behalf and namely to make the Website work properly. Regardless, we respect the California residents’ right to exclude personal information from such sharing arrangements and to thereby opt-out of any future sale of their personal information.
+
+If the CCPA is applicable to you and you would like to record such preference, please click on the following link for “[Do Not Sell My Personal Information](mailto:privacy@managemydata.eu?subject=Do%20Not%20Sell%20My%20Personal%20Information)“.
+
 ## Changes to Our Privacy Policy
 
 We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <http://service.adultprovide.com/docs/terms.htm> so you are aware of any changes, as they are binding on you.
@@ -233,7 +249,7 @@ You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Indus
 
 ## Manage Your Private Data
 
-  * [ Request a Copy of my Data](https://www.managemydata.eu/requestDataCopy?productId=10138)
-  * [Request Deletion of my Data](https://www.managemydata.eu/requestDataDeletion?productId=10138)
+  * [ Request a Copy of my Data](https://www.managemydata.eu/requestDataCopy?productId=10178)
+  * [Request Deletion of my Data](https://www.managemydata.eu/requestDataDeletion?productId=10178)
 
 
