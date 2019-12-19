@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whoson.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627155150id_/https%3A//www.whoson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoson.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219223921id_/https%3A//www.whoson.com/privacy) for the most accurate reproduction.*
 
-# Privacy - WhosOn
+# Privacy | WhosOn
 
 > ### You’ve hit the policy area of the WhosOn website.
 > 
@@ -120,6 +120,8 @@ In the event that we cannot provide you with access to your personal information
 We adhere to the EU-U.S. Privacy Shield Framework (collectively the “Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from the EEA. Parker Software Inc. (“Parker Software”, “Us”, “Our” or “We”) commits to apply the Privacy Shield Principles to all personal information received in the United States from the EEA in reliance on the Privacy Shield.
 
 For purposes of enforcing compliance with the Privacy Shield, We are subject to the investigatory and enforcement authority of the Federal Trade Commission (FTC).
+
+Under certain conditions detailed in the Privacy Shield, Data Subjects may be able to invoke binding arbitration before the Privacy Shield Arbitration Panel to be created by the U.S. Department of Commerce and the European Commission.
 
 For more information about the Privacy Shield, and to view Our certification on the Privacy Shield List, please see the U.S. Department of Commerce’s Privacy Shield website at: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
