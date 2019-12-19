@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the skytv.co.nz privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402053624id_/https%3A//www.sky.co.nz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skytv.co.nz privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219092553id_/https%3A//www.sky.co.nz/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | SKY
 
 ## SKY PRIVACY POLICY
 
-**1\. Your privacy:** SKY Network Television Limited ("we", "us", "our") is committed to ensuring the privacy of your information, and meeting the requirements of the Privacy Act 1993.  The way we collect and treat personal information is explained in this Privacy Policy.
+**1\. Your privacy:** Sky Network Television Limited ("we", "us", "our") is committed to ensuring the privacy of your information, and meeting the requirements of the Privacy Act 1993.  The way we collect and treat personal information is explained in this Privacy Policy.
 
 **2\. What this Privacy Policy applies to:** This Privacy Policy applies to:
 
-(a) personal information submitted to us on or through our websites, apps, when becoming a SKY customer, and otherwise in the course of using or applying for any products or services we provide ("SKY Services"); 
+(a) personal information submitted to us on or through our websites, apps, when becoming a Sky customer, and otherwise in the course of using or applying for any products or services we provide ("Sky Services"); 
 
-(b) personal information we collect that otherwise relates or is connected to the SKY Services (eg in relation to a competition or promotion run in association with SKY, or on social media); 
+(b) personal information we collect that otherwise relates or is connected to the Sky Services (eg in relation to a competition or promotion run in association with Sky, or on social media); 
 
 (c) where we have arrangements with a third party (eg a reseller, or your internet or mobile service provider) to provide and or promote any of our services ("Third Party Supplier"), the information we receive from such Third Party Suppliers; and
 
-(d) any information automatically retrieved during visits to our website or on or through our apps, and other SKY Services.
+(d) any information automatically retrieved during visits to our website or on or through our apps, and other Sky Services.
 
-**3\. What this Privacy Policy does not apply to:**   This Privacy Policy does not apply to personal information collected in relation to the NEON service, the FAN PASS Service, or any stand-alone service provided by a subsidiary of SKY (eg FATSO).
+**3\. What this Privacy Policy does not apply to:**   This Privacy Policy does not apply to personal information collected in relation to the NEON service, the FAN PASS Service, or any stand-alone service provided by a subsidiary of Sky (eg FATSO).
 
 **4\. Your consent:  **By accessing and browsing our websites, downloading or using our apps, using or subscribing to our services, or otherwise submitting personal information to us, you consent to the collection, use, disclosure, storage and processing of personal information in accordance with this Privacy Policy.
 
 **5\. Changes to Privacy Policy:** We may modify, alter or otherwise update this Privacy Policy from time to time by posting a new version of this Privacy Policy on the www.skytv.co.nz website. You should check this Privacy Policy regularly to make sure you have read and understand the latest version.   
 
-**6\. When we collect information:  **When you provide personal information to us (eg by contacting or corresponding with us, or you enter one of our promotions or competitions), or you subscribe to or use a SKY Service, or you download or use a SKY App, we may (either directly, via our service providers or otherwise) collect personal information about you, your household and the way you and your household use our websites, apps and the other products and services that we provide.
+**6\. When we collect information:  **When you provide personal information to us (eg by contacting or corresponding with us, or you enter one of our promotions or competitions), or you subscribe to or use a Sky Service, or you download or use a Sky App, we may (either directly, via our service providers or otherwise) collect personal information about you, your household and the way you and your household use our websites, apps and the other products and services that we provide.
 
 **7\. Information we collect:** The kinds of information we collect may include:
 
-(a) any information actively provided to us, such as your name and contact details, any discounts or special offers that apply to you, and if you subscribe to a SKY Service, whether you subscribe directly or via a reseller or Third Party Supplier;
+(a) any information actively provided to us, such as your name and contact details, any discounts or special offers that apply to you, and if you subscribe to a Sky Service, whether you subscribe directly or via a reseller or Third Party Supplier;
 
 (b) details of your subscription(s) and the devices used to access our services (such as IP address and type of device and connection);
 
@@ -35,7 +35,7 @@
 (d) information about what services are being used by you or on your account and when and how they are being used (including how you interact with the various features and functionality of our websites, apps, products and services);
 
 (e) information about how you interact and communicate with us and others about our products and services (including via direct feedback, social media, and customer service).    
-If you do not provide personal information when we request, it may mean that we cannot provide you with certain products or services. For example, if you do not provide us with your address, we cannot subscribe you to our SKY Starter Service.  
+If you do not provide personal information when we request, it may mean that we cannot provide you with certain products or services. For example, if you do not provide us with your address, we cannot subscribe you to our Sky Starter Service.  
 
 **8\. Purpose:** The information we collect is held and used by us for the purpose of:
 
@@ -45,7 +45,7 @@ If you do not provide personal information when we request, it may mean that we 
 
 (c) cooperating with Government, regulatory or industry authorities; 
 
-(d) providing you with SKY Services and any other products or services that you receive from us, including by cooperating and sharing information with our resellers and providers of services that are bundled with ours;
+(d) providing you with Sky Services and any other products or services that you receive from us, including by cooperating and sharing information with our resellers and providers of services that are bundled with ours;
 
 (e) running and administering promotions and competitions;
 
@@ -69,7 +69,7 @@ If you do not provide personal information when we request, it may mean that we 
 
 (d) where required, or permitted, by law.
 
-**10\. Opt outs:** You may opt out of receiving commercial electronic messages from us by using the unsubscribe facility we provide in the message.  As the database we operate for the SKY Services can be separate to the databases we operate for other (stand-alone) services, you agree that in some cases you may need to opt out of our individual databases separately (and in order to stop receiving commercial electronic messages from us altogether, you may need to opt out more than once).  Subject to the previous sentence, we will handle opt-out requests in accordance with the Unsolicited Electronic Messages Act 2007.  
+**10\. Opt outs:** You may opt out of receiving commercial electronic messages from us by using the unsubscribe facility we provide in the message.  As the database we operate for the Sky Services can be separate to the databases we operate for other (stand-alone) services, you agree that in some cases you may need to opt out of our individual databases separately (and in order to stop receiving commercial electronic messages from us altogether, you may need to opt out more than once).  Subject to the previous sentence, we will handle opt-out requests in accordance with the Unsolicited Electronic Messages Act 2007.  
 
 **11\. Access and correction:**  You may request access to or correction of your personal information at any time by writing to us at PO Box 9059, Newmarket, Auckland or [here](https://skytv.custhelp.com/app/answers/detail/a_id/1229).  If you set up MY ACCOUNT, you also have the ability to access and update many of your account details online. 
 
@@ -89,7 +89,7 @@ If you do not provide personal information when we request, it may mean that we 
 
 (d) your device, and the browser and search engine (if any) that your device uses.
 
-The information automatically retrieved is used in statistical and aggregate formats to assess the effectiveness of and improve our services, and to determine our visitors' preferences and interests (including to provide you with more relevant advertising).  Although this information may not identify you personally, we may later match it with other identifiable data (eg your SKY account details) to make it identifiable, and use it as described in this Policy.  
+The information automatically retrieved is used in statistical and aggregate formats to assess the effectiveness of and improve our services, and to determine our visitors' preferences and interests (including to provide you with more relevant advertising).  Although this information may not identify you personally, we may later match it with other identifiable data (eg your Sky account details) to make it identifiable, and use it as described in this Policy.  
 
 **16\. Security:** To prevent unauthorised access, maintain data accuracy and ensure the appropriate use of any information supplied by you, we have put in place physical, electronic and managerial processes to protect your information. However, it is your responsibility to keep any login, password or account information relating to your use of our websites, apps and other services secure at all times.
 
