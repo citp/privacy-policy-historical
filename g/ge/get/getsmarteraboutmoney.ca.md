@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsmarteraboutmoney.ca privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323193412id_/https%3A//www.getsmarteraboutmoney.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsmarteraboutmoney.ca privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219052820id_/https%3A//www.getsmarteraboutmoney.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GetSmarterAboutMoney.ca
 
