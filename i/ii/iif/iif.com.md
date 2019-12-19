@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iif.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605070507id_/https%3A//www.iif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iif.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220002614id_/https%3A//www.iif.com/privacy-policy) for the most accurate reproduction.*
 
 # The Institute of International Finance > Privacy Policy
 
