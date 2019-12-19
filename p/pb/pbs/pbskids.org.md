@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233855id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219195318id_/https%3A//pbskids.org/privacy) for the most accurate reproduction.*
 
 # PBS KIDS . Privacy Policy
 
@@ -51,7 +51,7 @@ Please note that we only use rough geolocation information, such as zip code, as
   * Analyze use of the Services to understand, develop and improve our Services, such as determining which pages are most popular, which browsers are most used, how long users spend on the Services, and from which websites they come; 
   * Otherwise support the internal operations of the Services; 
   * Provide you with notifications pursuant to our legal obligations, including in the case of a data incident; 
-  * Prevent potentially prohibited or illegal activities and enforce the [Terms of Use](https://web.archive.org/web/20190630233855id_/https://pbskids.org/privacy/termsofuse.html); and 
+  * Prevent potentially prohibited or illegal activities and enforce the [Terms of Use](https://web.archive.org/web/20191219195318id_/https://pbskids.org/privacy/termsofuse.html); and 
   * For any other purposes disclosed to you or your child at the time we collect the information or pursuant to your consent. 
 
 
