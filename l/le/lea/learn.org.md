@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn.org privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121194808id_/https%3A//learn.org/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219220304id_/https%3A//learn.org/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Learn.org -
 
