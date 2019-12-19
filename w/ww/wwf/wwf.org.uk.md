@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwf.org.uk privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404170623id_/https%3A//www.wwf.org.uk/privacy-and-data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwf.org.uk privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219232158id_/https%3A//www.wwf.org.uk/privacy-and-data-protection) for the most accurate reproduction.*
 
 # Privacy and Data Protection | WWF
 
