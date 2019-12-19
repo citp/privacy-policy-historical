@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the culturemap.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215064703id_/http%3A//www.culturemap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturemap.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219112344id_/http%3A//austin.culturemap.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CultureMap Houston
+# Privacy Policy - CultureMap Austin
 
 We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the culturemap.com website ("Website") produced and maintained by Culture Map LLC (collectively "Company" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
@@ -28,7 +28,7 @@ We never use or install spyware on your computer, nor do we use spyware to retri
 
 Also, like many Websites, we use "cookies", which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of the Culture Map service. We may also use cookies to monitor traffic, improve the Website and make it easier and/or relevant for your use. You may occasionally get cookies from companies advertising on our behalf. We do not control these cookies, and these cookies are not subject to this cookie policy.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org
 
 Like some Websites, we may use web beacons. A web beacon is an invisible graphic on a web page that is programmed to collect non-personally identifiable information about your use of a given website. Like cookies, web beacons allow Culture Map and its technology providers to summarize overall usage patterns for our analysis and provide personalized services. We do not share or provide personally identifiable information we may collect through such web beacons, such as names, e-mail addresses and phone numbers with our advertisers without your express permission.
 
@@ -93,6 +93,6 @@ We are committed to maintaining its position as a premier Website on the Interne
 **Opt-Out and Correction Procedures**
 
 You may always opt-out of receiving future e-mail messages and newsletters from Culture Map. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. We also permit you to correct or update Personal Information that you have previously provided to us. To do so, you can send us a message at info@culturemap.com.  
-**Your California Privacy Rights**
+Your California Privacy Rights
 
 California Civil Code Section 1798.83 permits customers of Culture Map who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to info@culturemap.com.
