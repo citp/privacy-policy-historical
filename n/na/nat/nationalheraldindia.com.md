@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalheraldindia.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330103824id_/https%3A//www.nationalheraldindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalheraldindia.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219145727id_/https%3A//www.nationalheraldindia.com/privacy-policy) for the most accurate reproduction.*
 
-# National Herald: Live News Today, Election 2019 News, India News
+# Privacy Policy | National Herald
 
 Thank you for visiting the website of www.nationalheraldindia.com (Site) The Privacy Policy is applicable to the website of www.nationalheraldindia.com which is developed, managed and operated by Associated Journals Limited (“Owner”). This privacy statement also does not apply to the website of our partners, affiliates, agents or to any other third parties, even if their websites are linked to the Site. We recommend you review the privacy statements of the other parties with whom you interact. The following terms govern the collection, use and protection of your personal Information by the Site. This Privacy Policy shall be applicable to users who visit the Site. By visiting and/or using the Site you have agreed to the following Privacy Policy.
 
