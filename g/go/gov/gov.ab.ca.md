@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615180449id_/https%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219161207id_/https%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy | Alberta.ca
 
@@ -18,7 +18,7 @@ The information that's collected identifies the following:
 
 
 
-The FOIP Act provides access to information held by public bodies which is not available by other means, and allows individuals to request correction of their own personal information that a public body holds, this is called a FOIP request. The [FOIP request form](https://eservices.alberta.ca/foip-request.html) is available through the MyAlberta eServices page. For more information see the [Protection of Privacy](https://www.alberta.ca/protection-privacy.aspx) to locate a FOIP office to determine if the ministry you are interested in has any public records are available.
+The FOIP Act provides access to information held by public bodies which is not available by other means, and allows individuals to request correction of their own personal information that a public body holds, this is called a FOIP request. The [FOIP request form](https://eservices.alberta.ca/foip-request.html) is available through the MyAlberta eServices page. For more information see the [Protection of Privacy](https://web.archive.org/protection-privacy.aspx) to locate a FOIP office to determine if the ministry you are interested in has any public records are available.
 
 ## Personal information
 
@@ -59,3 +59,4 @@ This site uses a number of third party products. Read their privacy statements t
 ## Security
 
 The Government of Alberta's computer system uses software to monitor unauthorized attempts to upload or change information, or damage the service we provide. No attempt is made to identify users or their usage patterns except during law enforcement investigations.
+  *[FOIP]: Freedom of Information and Protection of Privacy
