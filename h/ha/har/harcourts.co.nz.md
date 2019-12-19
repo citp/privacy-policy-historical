@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harcourts.co.nz privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409092704id_/https%3A//content.harcourts.co.nz/popup/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harcourts.co.nz privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219145928id_/https%3A//content.harcourts.co.nz/popup/privacypolicy) for the most accurate reproduction.*
 
 # Real Estate NZ, Houses for Sale, Rentals, Homes for Sale, Commercial Leasing
 
