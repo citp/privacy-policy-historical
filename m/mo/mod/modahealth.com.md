@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modahealth.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812192345id_/https%3A//www.modahealth.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modahealth.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219045656id_/https%3A//www.modahealth.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # Moda Health Web Privacy
 
@@ -73,6 +73,6 @@ Return to top
 
 Why can't I access any secure pages on the Moda Health website with Internet Explorer?
 
-Internet Explorer has security settings that may need to be updated. The common error message you may see is â€œThe page cannot be displayed. Cannot find server or DNS Error.â€ Please visit Microsoft's [support page](http://support.microsoft.com/support/kb/articles/Q181/1/47.asp) for more information.
+Internet Explorer has security settings that may need to be updated. The common error message you may see is “The page cannot be displayed. Cannot find server or DNS Error.” Please visit Microsoft's [support page](http://support.microsoft.com/support/kb/articles/Q181/1/47.asp) for more information.
 
 Return to top
