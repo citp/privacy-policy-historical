@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkvidya.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425091509id_/https%3A//www.urbanpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkvidya.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219223409id_/https%3A//www.urbanpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UrbanPro.com
 
