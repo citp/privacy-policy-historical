@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelscombined.ae privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903131842id_/https%3A//www.hotelscombined.ae/AboutUs/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.ae privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219083526id_/https%3A//www.hotelscombined.ae/AboutUs/Privacy) for the most accurate reproduction.*
 
 # HotelsCombined.ae Privacy Statement
 
@@ -168,6 +168,60 @@ By using our services and providing your personal information to us, you consent
 
 * * *
 
+## Additional Disclosures for California Consumers
+
+These disclosures describe how we collect, use, process, and disclose personal information of California consumers and the rights you may have under California law. These disclosures are intended to supplement this Privacy Policy with information required by the California Consumer Privacy Act.
+
+California law requires that we describe the personal information we collect about California consumers, including by identifying specific categories of information. As we describe in more detail in the “What Kind of Information We Collect” section of the Privacy Policy, we have collected the following categories of personal information in the past 12 months:
+
+  * Identifiers such as contact information, name, email, IP address, or payment information
+  * Commercial information such as transaction history
+  * Device, usage and internet or other electronic network activity information such as information about your device type, browser settings or interactions with our sites
+  * Geolocation data, where legally permitted
+  * Audio recordings such as when you contact our customer service team
+  * Inferences about your preferences and interests from data we collect in order to provide and personalize our services and tailor the offers we and our partners provide to you
+
+
+
+For information about the categories of sources from which we obtain personal information, or for additional details about the specific types of personal information we collect, please refer to the “What Kind of Information We Collect” section of the Privacy Policy. For information about our purpose(s) for collecting, or possibly sharing your personal information, please refer to the “How We Use Your Information” section of the Privacy Policy.
+
+We may share your personal information with third parties as described in the “Share Your Data With a Third Party” section of the Privacy Policy. California law also requires that we provide you with information about certain disclosures of personal information to third parties, where the disclosure involves monetary or other consideration. California treats these disclosures as “sales” of information, even if no money changes hands. Some of the disclosures we make constitute “sales” under California law and involve the disclosure of the following types of personal information:
+
+  * Identifiers
+  * Commercial information
+  * Internet activity
+  * Geolocation data, where legally permitted
+  * Inferences
+
+
+
+We also disclose certain personal information for “business purposes,” such as disclosures to service providers who assist us with securing our Services or delivering marketing messages and advertisements. We disclose the following types of personal information for our business purposes:
+
+  * Identifiers
+  * Commercial information
+  * Internet activity
+  * Geolocation data, where legally permitted
+  * Audio recordings
+  * Inferences
+
+
+
+California law grants certain rights to California consumers. These include the rights to:
+
+  * Access specific pieces of personal information
+  * Learn about how we process and share personal information
+  * Request deletion of personal information
+  * Opt out of “sales,” as that term is defined under California law
+  * Not to be denied goods or services for exercising these rights
+
+
+
+If you are an authorised agent wishing to exercise rights on behalf of a California consumer, please contact us using our [feedback form](http://support.ar.hotelscombined.com/) along with a copy of the consumer’s written authorisation designating you as their agent.
+
+Please note that we may need to verify your identity before completing your rights request.
+
+* * *
+
 ## Changes To This Privacy Policy
 
 We may change or modify this Privacy Policy in the future. We will note the date that revisions were last made to this Privacy Policy at the bottom of this page, and any revisions will take effect on the third business day upon this policy being published. We advise you to check this Privacy Policy to review the most current version.
@@ -180,7 +234,7 @@ For data review or erasure requests – [click here](https://web.archive.org/Abo
 
 If your matter is complex, our Data Protection Officer is committed to addressing any concerns you may have such as our handling, use, disclosure or management of your personal information.
 
-You can contact our Data Protection Officer using by email or post using the details below.
+You can contact our Data Protection Officer electronically or by post using the details below.
 
 We will take reasonable endeavours to investigate your concern, remedy any issues resulting from our failure to comply with our privacy obligations, and we will notify you of the outcome as quickly as possible.
 
@@ -190,4 +244,4 @@ We will take reasonable endeavours to investigate your concern, remedy any issue
 
 In this policy 'we', 'us' and 'our' refers to any website, or application (including mobile) that is owned or operated by Hotels Combined Pty Ltd (ABN 61 122 130 554), a company incorporated in Australia, acting as either Agent, or Principal, or under Authority on behalf of another party, as the case may be.
 
-**This policy was last updated on 17th May 2018**
+**This policy was last updated on 25th October 2019**
