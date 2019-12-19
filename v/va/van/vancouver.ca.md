@@ -1,84 +1,70 @@
-> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523182826id_/https%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219052020id_/https%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy | City of Vancouver
+# Privacy Policy | City of Vancouver
 
 ## Your personal information
 
-The City of Vancouver is committed to protecting your privacy. Any personal information you provide to us is collected, used and disclosed in accordance with the Freedom of Information and Protection of Privacy Act.
+When we collect your personal information, it's to run services for you and we protect it according to privacy law.
 
-The City does not automatically gather any personal information from you, such as your name, phone number, street or email address.
+The City of Vancouver is committed to protecting your privacy. Any personal information you provide to us is collected, used, and disclosed in accordance with the Freedom of Information and Protection of Privacy Act and other applicable legislation.
 
-This information is only obtained if you supply it voluntarily, usually through contacting us via email or feedback form, or registering in a secure portion of the site.
+We don't automatically gather your personal information, such as your name, phone number, street, or email address.
 
-Any personal information we ask you to provide is collected under the authority of the Freedom of Information and Protection of Privacy Act. The information will only be used for the purpose of administering City services, informing you of our services and benefits, and for statistical purposes.
+We only obtain your personal information if you agree to provide it, usually through contacting us via email or feedback form, or registering in a secure portion of the site.
 
-If you have questions about how we collect and use your personal information, contact the director of Access to Information at 604-873-7999.
+Any personal information that we do collect from you will only be used for the purpose of administering City services, informing you of our services and benefits, and for statistical purposes.
+
+For your protection, we strongly recommend that you don't provide your account information, user name, or password to anyone. If you become aware of any suspicious activity relating to your account, it's your responsibility to contact us immediately.​
 
 ## Tracking your website visit
 
-We constantly improve this website to make it as useful to you as possible. To do this, we gather statistics about what pages you visit when you visit the site.
+We record your visit so we can make your future visits better, not so we can identify or harm you.
 
-These statistics help us decide where to put information so it is easier to find and how to design tasks so they are faster to complete.
+We constantly improve our website to make it as useful to you as possible. To do so, we gather anonymous data about how people use our website using cookies.
 
-We gather this information about your visit by placing a small file, called a "cookie", into your web browser's memory.
+The data from cookies helps us determine how to make information easier to find and transactions simpler to do.
 
-This cookie does not collect any information we could use to identify you, such as your name, address, email address or phone number.
-
-The cookie does collect:
-
-  * Your IP address (a series of numbers that are automatically assigned to your computer when you go online).
-  * The type of web browser and operating system you use.
-  * The date and time you visited the site.
-  * Which pages you visited.
-  * The order you visited the pages.
-  * How long you spent on each page.
-  * The page you entered the site on.
-  * The last page you looked at before you left.
-
-
-
-As soon as you leave the vancouver.ca site, the cookie stops gathering information.
+[Find out what information our cookies collect and how to manage cookies](https://web.archive.org/your-government/cookies.aspx)
 
 ## Volunteering your personal information online
 
-The only time we collect your personal information on this website is when you volunteer to give it to us.
+If you share your personal information with us, we'll only use it to further assist you. We won't give it to anyone. (Not even volcano insurance salespeople.)
 
-This includes when you:
+The only time we collect your personal information on this website is when you volunteer to give it to us, including when you:
 
-  * Participate in an online forum or poll.
-  * Fill in a feedback or contact form.
-  * Click the "share this" button on any page.
-  * Request further information about a specific topic.
-  * Send us an email.
-
+  * Take a survey or questionnaire
+  * Fill in a form
+  * Ask for more information about a topic
+  * Send us an email
 
 
-In these instances, we only keep your information so we can follow up with you, if necessary.
 
-We keep your information completely confidential. We will not rent, share, or trade it with anyone else. We will not use it to send you information that you did not specifically request.
+When we do collect your personal information, we only do so to follow up with you, if necessary.
 
-## Email newsletters
+We keep your personal information confidential. We won't rent, share, or trade it with anyone else. We won't use it to send you information that you didn't specifically request.
 
-We comply with Canada's anti-spam law when you to subscribe to our email newsletters.
+## Subscribing to email newsletters
 
-When you subscribe, you authorize us to collect information about yourself solely to send you an email newsletter from time to time. You can unsubscribe at any time by clicking the unsubscribe link at the bottom of the email newsletter.
+We won’t send you anything if you don’t want us to. If you decide that you want us to send you something, you can always change your mind and tell us not to anymore.
 
-If you have questions about how we collect and use your personal information, contact the director of Access to Information at 604-873-7999.
+We comply with Canada's Anti-Spam Law when you to subscribe to our email newsletters.
 
-## Online transactions
+When you subscribe, you authorize us to collect your personal information only to send you an email newsletter from time to time. You can unsubscribe at any time by clicking the unsubscribe link at the bottom of the email newsletter.
 
-You can pay for some City services \- such as dog license renewals and parking tickets \- on this website.
+## Paying online
 
-These transactions are done through SSL-encrypted technology. This means that your credit card and other payment information is transmitted to us securely. After your transaction is complete, we do not store your credit card or other payment information.
+We make sure your online payments are secure.
 
-## Registering for a recreation program
+You can pay for some City services and fees – such as dog licence renewals and parking tickets – on our website.
 
-Before you can register for a recreation program, you need to set up an account. Your account is protected by password so only you can access it. Your personal information, including credit card information, will be stored with your account. The storage and handling of your credit card information is in compliance with all applicable Payment Card Industry security standards.
+Transactions are completed through SSL-encrypted technology. This means that your credit card and other payment information is transmitted to us securely. After your transaction is complete, we don't store your credit card or other payment information.
 
-## What you can do
+## Registering for recreation programs
 
-For your protection, we strongly recommend that you do not provide your account information, user name, or password to anyone. If you become aware of any suspicious activity relating to your account, it is your responsibility to contact us immediately.
+Your recreation account keeps your payment card information secure based on industry standards.
 
-## We'll keep you informed
+Before you can register for a recreation program, you need to create an account.
 
-As required by law, we will notify you of our privacy policy annually. We reserve the right to modify this policy at any time, but rest assured that if we do change it, we will tell you promptly.
+Your account is protected by password so only you can access it. Your personal information, including credit card information, will be stored with your account.
+
+The storage and handling of your credit card information is in compliance with all applicable Payment Card Industry security standards.
