@@ -1,102 +1,318 @@
-> *The following text is extracted and transformed from the eventcinemas.co.nz privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408073533id_/https%3A//www.eventcinemas.co.nz/terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventcinemas.co.nz privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219063657id_/https%3A//www.eventcinemas.co.nz/terms/Privacy) for the most accurate reproduction.*
 
 # Privacy - Event Cinemas
 
-**Event Cinemas Privacy Policy**
+## EVENT CINEMAS PRIVACY POLICY
 
-**The EVENT Group**
+## 1               Summary of key points
 
-  
-Event Hospitality & Entertainment Ltd and its related bodies corporate (the “EVENT Group”) own, operate and/or manage the cinemas listed on this website and the Cinebuzz loyalty program. The EVENT Group is committed to ensuring your personal information is protected. The EVENT Group understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This Privacy Policy will explain how we manage your personal information.
+This Privacy Policy applies to all EVENT Group businesses in Australia and New Zealand, including our cinemas, hotels, resorts, the State Theatre, the Thredbo Alpine Resort, and our Cinebuzz and Priority Guest Rewards loyalty programs.
 
-In addition to this Privacy Policy, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when participating in a promotion, entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy and those specific and additional provisions, the specific and additional provisions will prevail.  
- 
+We believe in being transparent about how we handle your Personal Information, so have summarised the key features of our Privacy Policy in this section.  Our full policy is set out in detail below.
 
-**The personal information we collect about you**  
-The types of personal information we collect about you will depend on what services you use or products you acquire. This may include collecting your name and address, gender, your date of birth, your email address, mobile number, your contact address, credit card details, payment and transaction details/history, cinema preferences, and where you have the option to comment on our services or products whatever other information you choose to supply to allow us to provide products and services to you. If you become a Cinebuzz member we may collect other personal information about you depending on what services or program benefits you use.   
- 
+### Consent and opting-out
 
-**How personal information is collected and held**  
-We may collect your personal information in relation to your interactions and transactions with us and as part of providing benefits to Cinebuzz members. This includes: making a purchase in a cinema or online, participating in a promotion, competition or survey, using your number or associated identifiers such as payment cards, registering for services and using related digital services. We hold personal information electronically and in hard copy form, both at our own premises and with the assistance of our third party service providers. We implement a range of measures to protect the security of that personal information.  
- 
+When you provide us with and consent to our use of your Personal Information (for example, by agreeing to our terms and conditions), you consent to our collection and use of your Personal Information (which is information about you which identifies you, or which can be used to reasonably identify you) in accordance with this Privacy Policy. You can withdraw your consent at any time by [contacting us](https://web.archive.org/cdn-cgi/l/email-protection#3444465d4255574d745142401a575b59). You can also opt-out from receiving any marketing communications from us or from our marketing partners, and from our use or disclosure of your Personal Information for marketing purposes.
 
-**Cookies**  
-We also collect non-personal  information and data when you visit our website using cookies, web beacons, tags, pixels and other similar technologies (“Cookie Information”). Cookie Information includes pieces of information that a website can transfer to an individual’s computer hard drive for record keeping, such as the IP address of a user’s computer, the URL of a page visited and the time the page was visited by the user. The collection and use of Cookie Information is an industry standard and many websites collect this information. Cookie Information is useful for facilitating a user’s access to and use of a site. They allow us to track usage patterns and compile data that can help us improve our services to you. We  do not use Cookie Information to identify you as an individual. However, if you do not wish any information to be collected through the use of cookies you can change the functions in most web browsers to deny the cookie feature. You can also delete cookies from your hard drive at any time. 
+If you do not provide your consent, or if you withdraw your consent to our use of your Personal Information, it may mean we are unable to provide you with the same services, offers, or discounts that we would otherwise be able to provide.
 
-We may use Cookie Information, or engage third parties who collect similar information and data from publicly available sources, to deliver advertising (including re-marketing) that is customised or more relevant to your interests, characteristics or general location. This doesn't necessarily mean you'll get more advertising. It just means that the advertising that you see will hopefully be more relevant to you.  
- 
+### What Personal Information we collect
 
-In order to carry out targeted advertising to your aggregated segment using Cookie Information we may build a user and/or device profile by:
+The Personal Information we collect about you may include your name, contact details, and billing information, but may also include information about the goods and services you buy from us, and how you interact with us (for example, how you access and use our websites or mobile applications).
 
-? - Using Cookie Information and de-identified system information that we hold;
+### How we collect your Personal Information
 
-? - Collecting Cookie Information through cookies or digital identifiers. This includes publically available advertising identifiers provided by mobile operating systems like iOS and Android, which you can reset by using the setting on your device; and
+We collect Personal Information about you directly from you or by your use of our websites or mobile applications, from public sources, and in some cases from third party ticketing and event organisations.
 
-? - Engaging third parties who provide the Event Group with information about you collected from publicly available sources or from their own databases.  
- 
+### How we use your Personal Information
 
-We may enhance our user and/or device profiles by working with third parties, and using device matching technologies. This technology uses your mobile device advertising identifier, as well as Cookie Information to try and match you with devices that you may be using.
+Our policy is to use your Personal Information to deliver our products and services to you, to improve our services, and to market products and services to you. In some cases, we share your Personal Information with third parties who perform these activities or do so on our behalf.
 
-We may also work with third parties and use technologies that rely on Cookie Information, to recognise visitors to our website, and better deliver targeted advertising.  
- 
+### How and where we store your Personal Information
 
-We may also work with other companies to advertise their products and services online using Cookie Information. We don't give them access to your personal information when we do this, rather only Cookie Information and other de-identified system information. We work with them to understand the type of audience they want to advertise to, and deliver the ad for them using Cookie Information. Examples of third parties that we may work with and disclose Cookie Information to include external companies and agencies that provide programmatic advertising services, specialist data companies, ad platform providers, ad servers, data partners, specialist data providers and social media operators such as Facebook.  
- 
+We take commercially reasonable steps to secure your Personal Information from unauthorised access, and to ensure the people we share your data with do the same.  Third parties to whom we send your data may be located in or operate data centres located in Australia, the European Union, Hong Kong, India, Japan, The Philippines, New Zealand, Singapore, Sri Lanka, United Kingdom, or United States of America.
 
-You can always control our use of cookies and other similar technologies by clearing your cookies, or by using the do not track function on your browser. You can also reset your mobile device advertising identifier by using the settings in your device.
+### Accessing, correcting, or deleting your Personal Information
 
-We'll make sure that any marketing emails, texts and letters that we send you clearly tell you how to opt out.  
- 
+You can request access to, correction, or deletion of your Personal Information or withdraw your consent to our use of your Personal Information by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d2d2f342b3c3e241d382b29733e3230).
 
-**How we use your personal information and who we may disclose it to**  
-The personal information that we collect from you is strictly confidential. We do not sell, rent, loan, trade or lease the personal information  stored in our database to any unrelated third parties. The EVENT Group uses the personal information you provide to us to help you access the services or acquire the goods that the EVENT Group provides more easily including services and benefits for Cinebuzz members. We also use personal information to administer, improve our products and services and tailor them to your interests. We may also send you marketing material about products and services we believe are suited to you and your interests and communicate with you using social media channels and platforms. If you do not wish to receive any of this material you may simply choose “unsubscribe” from our mailing list or contact us using the details below, and no further material or communications will be sent to you.
+## 2               The EVENT Group
 
-The EVENT Group engages certain trusted third parties (including data hosting and processing companies and information technology providers and operators of social media channels and platforms) to help us provide, improve and promote our services and communicate with our customers. We will only disclose your personal information to these third parties to perform tasks on our behalf and in compliance with this Privacy Policy.  These third parties may be located in Australia and New Zealand. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information and use it only for the purpose for which it is disclosed.   
- 
+Event Hospitality & Entertainment Ltd and its related bodies corporate (the **EVENT Group)** own, operate and/or manage a range of premier entertainment, hospitality, and leisure businesses, including:
 
-In providing us with your personal information, you consent to this disclosure. The EVENT Group will not disclose your personal information for purposes or to parties other than those outlined above without your consent.  
- 
+(a)             EVENT cinemas, Moonlight cinemas, Greater Union cinemas, BCC Cinemas, GU Film House and the State Theatre;
 
-**User generated content**  
-If you post reviews or comments on this website or provide other written feedback to the EVENT Group (“Response”), you grant the EVENT Group a non-exclusive, royalty free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display the Response throughout the world in any media. You also grant the EVENT Group and sub licensees the right to use the name that you submit with any Response if any, in connection with the Response.    
- 
+(b)             Rydges Hotels and Resorts, QT Hotels and Resorts, Atura Hotels, and the Thredbo Alpine Resort; and
 
-**Competitions**  
-From time to time, the EVENT Group will promote or conduct competitions on its website. When these competitions are run, you may also be given the choice of being on a mailing list to receive further contact from us. Unless you choose to receive further communications from the EVENT Group, the information we collect from your entry in the competition is not used for any purposes other than the competition.  
- 
+(c)             loyalty programs, including Cinebuzz Rewards and Priority Guest Rewards.
 
-**Links to other websites**  
-The EVENT Group’s website provides links to websites outside of the EVENT Group’s services. These linked sites are not under our control, and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the privacy policy and terms and conditions of that website. 
+The EVENT Group understands and appreciates that you are concerned about your privacy and about the confidentiality and security of your Personal Information, and is committed to ensuring your Personal Information is protected.
 
-**Storage and security of your personal information**  
-Any personal information that we collect about customers, including email addresses, will be kept in the EVENT Group’s database. The database will be accessible only by those authorised to perform normal daily tasks such as updating addresses and renewing Cinebuzz memberships. The EVENT Group will take all reasonable precautions to protect the personal information it holds from any misuse, loss, unauthorised access, modification or disclosure.  
-The internet is not a secure environment. If you use the internet to send us any personal information, the EVENT Group will not be liable for events arising from unauthorised access to your information.
+## 3               This Privacy Policy and your consent
 
-**Access to your information**  
-You have a right to access and correct most of the personal information we hold about you. If you wish to have access to or correct your information, please send us an email or letter at the addresses provided below. If the EVENT Group does not allow you to access or correct your personal information we will provide you with the reasons for our decision.
+This Privacy Policy explains how we collect and handle your Personal Information in Australia and New Zealand.  Personal Information is information about you which identifies you or which can be used to reasonably identify you. When you consent to us using your Personal Information, you agree that we may use your Personal Information in accordance with this policy.  You can withdraw your consent at any time by contacting us.
 
-Cinebuzz members can also update their membership profile online at [www.eventcinemas.com.au/Cinebuzz/](http://www.eventcinemas.com.au/Cinebuzz/) (Australia) or [www.eventcinemas.co.nz/Cinebuzz/](http://www.eventcinemas.co.nz/Cinebuzz/) (New Zealand).  
- 
+If you do not provide consent, or if you withdraw your consent to our use of your Personal Information, it may mean we are unable to provide you with the same services or the same level of service that we would otherwise be able to provide. For example, we may not be able to provide you with personalised recommendations, or with exclusive or discounted offers.
 
-**Accuracy of your information**  
-Once we receive personal information from you, we take all reasonable steps to ensure that all the information we collect, use or disclose us accurate and up to date. If you think that any of your personal information held by us in inaccurate, please send us an email or letter at the addresses provided below and we will take reasonable steps to ensure that it is corrected.  
- 
+From time to time, there may be specific and additional privacy provisions that apply to our collection and use of your Personal Information.  For example, Personal Information provided when participating in a promotion, entering a competition, subscribing to a newsletter, or participating in a survey may be subject to a different privacy policy or contractual terms. If there is any inconsistency between this Privacy Policy and those specific and additional provisions, the specific and additional provisions will prevail.
 
-**Contact us**  
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy, if you wish to access or correct your personal information, or if you wish to make a complaint about a privacy matter, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97e7e5fee1f6f4eed7f2e1e3b9f4f8fa), or by mail addressed to:
+## 4               Personal Information we collect
 
-Privacy Officer  
+The types of Personal Information we collect depend on what services you use and products you acquire. It may include:
+
+(a)             identifying information, such as your name, gender and date of birth;
+
+(b)             contact information, such as your postal address, email address and telephone numbers;
+
+(c)             social media handles and other social media profile information that you make available to us or to the public;
+
+(d)             billing and financial information, such as credit card, bank account or other payment details;
+
+(e)             details of any products or services that you purchase from us or that we provide to you;
+
+(f)              information about how you use the products and services we provide, such as:
+
+(i)              your cinema or movie preferences; or
+
+(ii)             your accommodation, travel, and meal preferences;
+
+(g)             records of our communications with you, including any messages or enquiries you send us (either through the website or through other means);
+
+(h)             information about how you access and use our websites or mobile applications, such as your IP address and internet service provider, the web page you visit us from, web browser, navigation patterns on our websites, device identity and location, operating system, or device configuration; and
+
+(i)              additional information, including your image, collected via Closed Circuit Television (CCTV) systems used at venues we operate.
+
+## 5               How Personal Information is collected and held
+
+## 5.1           Personal Information
+
+We collect Personal Information about you:
+
+(a)             when you purchase products or services from us at one of our venues or  through our websites or mobile applications (such as when you purchase movie or theatre tickets, book accommodation, or purchase Thredbo lift tickets online);
+
+(b)             when you sign up to become a member of one of our loyalty programs;
+
+(c)             when you submit feedback, a query or request to us;
+
+(d)             when you participate in a promotion, competition, or survey that we run;
+
+(e)             when you fill in forms on our website or at one of our venues;
+
+(f)              when you check-in at one of our hotels or resorts;
+
+(g)             when you sign-up to receive our emails, newsletters, information about our special offers, and/or any other promotional material;
+
+(h)             by tracking your use of our websites or mobile applications;
+
+(i)              through our CCTV systems at our venues;
+
+(j)              when you access or use Wi-Fi portals owned or operated by us;
+
+(k)             from public sources;
+
+(l)              from third parties who are entitled to disclose that information to us (including third party ticketing and events organisations such as Ticketmaster Australasia Pty Ltd); and
+
+(m)           when you apply for a job with us.
+
+## 5.2           Sensitive information
+
+Generally, we do not collect sensitive information. In rare circumstances, however, we may collect sensitive information about you, for example:
+
+(a)             if you engage in a high-risk leisure activity at a venue we operate and complete a medical release form; and
+
+(b)             in the event you are involved in an accident, injury, or incident at one of our venues.
+
+Any use of sensitive information we collect from you will be subject to additional restrictions outside this policy and additional express consent that you may choose to provide at the time you provide that information to us.
+
+## 5.3           CCTV and Live Snow WebCams
+
+You may be recorded on CCTV cameras at Event Group venues (including Live Snow WebCams at the Thredbo Alpine Resort). Footage from CCTV cameras and from Live Snow WebCams may be recorded and used if required for safety and / or security purposes, for research purposes, and for optimising the delivery of our products and services. Footage from the Live Snow WebCams is publicly available on the Thredbo website at [www.thredbo.com.au](http://www.thredbo.com.au/), as well as a number of websites operated by third parties.
+
+## 6              Purposes for which we use or disclose Personal Information
+
+We use Personal Information that you provide to us: ****
+
+(a)             to help you access the services or acquire the goods the EVENT Group provides;
+
+(b)             to provide you with information and offers in relation to goods and services offered by the EVENT Group that may be of interest to you (including information and offers in relation to the EVENT Group’s hotel, resort, cinema, theatre and ski resort businesses);
+
+(c)             to improve our products and services and tailor them to your interests;
+
+(d)             to determine your eligibility or suitability for any of our products or services;
+
+(e)             when you purchase a product through or view a product on our websites, to display to you offers of goods and services from third parties that may be appropriate to your interests;
+
+(f)              to modify advertising (including re-marketing) shown on our websites so that it is customised or more relevant to your interests, characteristics or general location;
+
+(g)             to answer your feedback, queries and requests;
+
+(h)             to comply with our legal and regulatory obligations;
+
+(i)              to develop and improve our existing products and services and create new products and services (including by carrying out market analysis and research);
+
+(j)              to monitor use of our products and services (including our websites);
+
+(k)             to improve customer service and our customer relationships;
+
+(l)              to assess, maintain, upgrade and improve our products and services;
+
+(m)           to carry out education and training programs for our staff;
+
+(n)             to manage and resolve any legal or commercial complaints or issues;
+
+(o)             to carry out planning and forecasting activities and other internal business processes; and
+
+(p)             for marketing purposes in accordance with part 8 below, and to keep you informed about our activities and promotional offers, including by sending out newsletters and emails.
+
+We may also use your Personal Information for other purposes as authorised by you, or in accordance with your requests or instructions.
+
+## 7               People to whom we disclose Personal Information
+
+We will only disclose your Personal Information to third parties in compliance with this Privacy Policy. __
+
+We may share Personal Information about you with:
+
+(a)             your representatives, advisers and others you have authorised to interact with us on your behalf;
+
+(b)             our staff who need the information to discharge their duties;
+
+(c)             EVENT Group companies including our cinema, hotel, resort and ski resort operating companies;
+
+(d)             the owners (and their employees and representatives) of hotels and resorts that EVENT Group companies manage, grant a licence to or provide services to;
+
+(e)             our business partners, agents and service providers (including information technology service providers, data hosting and processing companies, loyalty, data and research companies, fraud detection, prevention and security service providers and social media channel operators);
+
+(f)              our Marketing Partners, as outlined in part 8 below;
+
+(g)             if you are or become a Priority Guest Rewards Member, the Global Hotel Alliance (based in the United Arab Emirates);
+
+(h)             payment system operators, banks and financial institutions;
+
+(i)              prospective purchasers of all or part of our business assets or shares in our company or a related entity;
+
+(j)              professional advisers who we engage to provide advice on our business; and
+
+(k)             government authorities who ask us to disclose that information, or to other people as required by law.
+
+## 8               Marketing __
+
+## 8.1           How the EVENT Group markets its services to you
+
+We may from time to time use your Personal Information in order to send you marketing materials about products or services that you may be interested in (including in some cases products and services that are provided by third parties).  You can opt-out of receiving marketing communications from us by contacting us using the details in the “contact us” section below, or by following the “unsubscribe” or “opt-out” link in the communication you receive from us.
+
+## 8.2           Our Marketing Partners
+
+The EVENT Group will from time to time engage trusted third-party marketing and media partners and programmatic or display vendors (collectively **Marketing Partners** ) to:
+
+(a)             send you marketing or promotional content and offers that you may be interested in;
+
+(b)             deliver to you personalised advertisements or targeted promotional content via email, online, or via social media platforms.
+
+Promotional content and personalised advertisements may be for goods or services provided by businesses outside the EVENT Group.
+
+The Marketing Partners we work with include but are not limited to:
+
+(a)             **ROKT:** Some advertisements or offers for goods and services displayed on our websites and through our mobile apps are provided by our specialist Marketing Partner ROKT Pte Ltd, a Singapore company. When you purchase goods and services from us online, we may provide limited information about you to ROKT so that you can choose to opt-in to personalised opportunities offered by ROKT. If you choose to opt-in, your name, email address and other limited information about your transaction with us will be provided by ROKT to the relevant advertiser or their agent to enable fulfilment of the opportunities you have elected to opt-in to.  Any information collected by ROKT is subject to its privacy policy available at <http://rokt.com/blog/privacy-policy/>.
+
+(b)             **Movio:** To enable delivery of personalised advertisements or targeted promotional content, we share your Personal Information with Movio Limited, a New Zealand company that provides marketing services to the EVENT Group and to other businesses in the cinema industry.  Movio combines de-identified Personal Information with other data shared by other service providers such as LiveRamp Holdings, Inc., Google, and Facebook, to deliver content that is relevant to you. Any information collected by Movio is subject to its privacy policy available at https://movio.co/privacy-policy/
+
+_(c)              _**Facebook:**  To enable delivery of targeted advertising messages we share hashed email addresses of our customers with Facebook and utilise the Facebook pixel on our website. Facebook uses this hashed email and cookie information to match profiles within their platform to create targeted audiences to deliver content that is relevant to you. Any information collected by Facebook is subject to its privacy policy available at https://www.facebook.com/privacy/explanation __
+
+## 9               Overseas disclosure
+
+Third parties to whom we may disclose Personal Information may be located outside Australia. The EVENT Group, its affiliates, service providers, and related entities use data storage facilities in Australia, New Zealand, Hong Kong, Singapore, the United Kingdom and the United States of America.
+
+Our Marketing Partners are located and/or use data storage facilities located outside Australia, in the following countries/jurisdictions: the European Union, Hong Kong, India, Japan, The Philippines, New Zealand, Singapore, Sri Lanka, United Kingdom and the United States of America.
+
+We take commercially reasonable steps to ensure that any overseas recipient of Personal Information has appropriate safeguards in place to ensure a level of protection of your Personal Information that does not breach Australian or New Zealand privacy law or this Privacy Policy.
+
+## 10           Cookies
+
+## 10.1        What is Cookie Information?
+
+We may collect information and data when you visit our website using cookies, tags, pixels and other similar technologies ( **Cookie Information** ). Cookie Information includes pieces of information that a website can transfer to an individual’s computer hard drive for record keeping, such as the IP address of a user’s computer, the URL of a page visited and the time the page was visited by the user. The collection and use of Cookie Information is an industry standard and many websites collect this information.
+
+Cookie Information is useful for facilitating a user’s access to and use of a website. It allows us to track usage patterns and compile data that can help us improve our services.
+
+Cookie Information is useful to advertisers because it helps them understand their advertising audience, and to deliver advertising.
+
+## 10.2        How do we use Cookie Information?
+
+We may use Cookie Information, or engage third parties who collect similar information and data from publicly available sources, to deliver or modify advertising (including re-marketing) that is customised or more relevant to your interests, characteristics or general location ( **Targeted Advertising** ).
+
+In order to carry out Targeted Advertising we may build a user and/or device profile by:
+
+(a)             using Cookie Information and de-identified system information that we hold;
+
+(b)             using device-matching technologies that utilise mobile device advertising identifiers as well as Cookie Information; and
+
+(c)             engaging or working with third parties who provide the EVENT Group with information about you collected from publicly available sources or from their own databases.
+
+We may also work with other companies to advertise their products and services online using Cookie Information. When we provide Cookie Information to third parties, we take commercially reasonable steps to ensure that that information is de-identified.
+
+## 10.3        To whom do we disclose Cookie Information?
+
+Examples of third parties that we may work with and disclose Cookie Information to include external companies and agencies that provide programmatic advertising services, specialist data companies, advertising platform providers, advertising servers, data partners, specialist data providers and social media operators such as Facebook.
+
+## 10.4        How can you control Cookie Information?
+
+The settings of most web browsers can be modified to prevent the collection of Cookie Information. You can also delete Cookie Information from your device.
+
+Most mobile devices operating common operating systems such as Android or iOS record a unique advertising identifier. This identifier may be part of the Cookie Information we collect, and can be reset in the device settings.
+
+## 11           Storage and security of your Personal Information
+
+We generally store the Personal Information that we collect in electronic databases, some of which may be held on our behalf by third party data storage providers located in the countries identified in section 9 of this policy.
+
+We may also, at times, keep hard copy records of Personal Information in physical storage facilities.  We use a range of physical and technical security processes and procedures to protect the confidentiality and security of the Personal Information that we hold, and we update these from time to time to address new and emerging security threats.
+
+## 12           Access to and correction of Personal Information
+
+You have a right to access and correct most of the Personal Information we hold about you.  If you wish to access or correct your Personal Information, please contact us via the details provided in the “contact us” section below.
+
+To protect the integrity and security of the Personal Information we hold, we may ask that you follow a defined access procedure, which may include steps to verify your identity.  In certain cases we may charge you an administration fee for providing you with access to the information you have asked for, but we will inform you of this before proceeding.  There may be cases where we are unable to provide the information you request, such as where it would interfere with the privacy of others or result in a breach of confidentiality.  In these cases we will let you know why we cannot comply with your request.
+
+If you have an account with any of our businesses, receive newsletters or marketing materials or if you are a member of any loyalty program we operate, you can also contact us or update your profile online:
+
+(a)             **Cinebuzz (Australia)** : <https://www.eventcinemas.com.au/cinebuzz/landing>
+
+(b)             **Cinebuzz (New Zealand)** : <https://www.eventcinemas.co.nz/cinebuzz/landing>
+
+(c)             **Priority Guest Rewards** : <https://www.priorityguestrewards.com/>
+
+(d)             **Rydges Hotels & Resorts**: <https://www.rydges.com/>
+
+(e)             **Atura Hotels** : <https://www.aturahotels.com/>
+
+(f)              **QT Hotels & Resorts:** https://www.qthotelsandresorts.com/
+
+(g)             **Thredbo** : [https://www.thredbo.com.au](https://www.thredbo.com.au/)
+
+(h)             **State Theatre** :  <https://www.statetheatre.com.au/>
+
+(i)              **Edge Content & Technology**: https://www.edgect.com.au/
+
+## 13           Changes to this policy
+
+We may make changes to this policy from time to time, to take into account changes to our standard practices and procedures or where necessary to comply with new laws and regulations.  The latest version of this policy will always be available on our website.
+
+## 14           Complaints
+
+We try to meet the highest standards in order to protect your privacy.  However, if you are concerned about the way in which we are managing your Personal Information and think we may have breached the Australian Privacy Principles, the Information Privacy Principles (NZ), or any other relevant obligation, please contact us using the contact details set out below.  Complaints must be lodged in writing.  We will deal with the matter within a reasonable time, and will keep you informed of the progress of our investigation.
+
+If we have not responded to you within a reasonable time or if you feel that your complaint has not been resolved satisfactorily, you can contact us to discuss your concerns. 
+
+In respect of Personal Information we collect in Australia, you are also entitled to make a complaint to the Office of the Australian Information Commissioner ( **OAIC** ). Contact details can be found at the OAIC website: [www.oaic.gov.au](http://www.oaic.gov.au/).
+
+In respect of Personal Information we collect in New Zealand, you are also entitled to make a complaint to the Office of the Privacy Commissioner ( **OPC** ). Contact details can be found at the OPC website: [www.privacy.org.nz](http://www.privacy.org.nz/).
+
+## 15           Contact us
+
+We take the privacy of your Personal Information seriously. If you have any questions, comments, or complaints in relation to this Privacy Policy or our handling of your Personal Information, or if you wish to access or correct your Personal Information, please contact us:
+
+By email:         [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4d4d6cdd2c5c7dde4c1d2d08ac7cbc9); or
+
+By mail:           Privacy Officer  
 Event Hospitality & Entertainment Ltd  
 478 George Street  
 Sydney NSW 2000
-
-You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged.
-
-  
-If you wish to make a complaint about a privacy matter, we will examine the complaint and endeavour to respond within 14 days. If you are dissatisfied with our response, you may refer the matter to the Australian Information (Privacy) Commissioner (see [www.oaic.gov.au](https://www.oaic.gov.au/)).  
- 
-
-The EVENT Group reserves the right to change this privacy policy at any time. The EVENT Group will notify any changes by posting an updated version of the policy on this website.  
- 
-
-Updated 27 October 2017
