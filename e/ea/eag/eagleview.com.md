@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the eagleview.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212220807id_/https%3A//www.eagleview.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagleview.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219011033id_/https%3A//www.eagleview.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - EagleView US
+# Privacy Statement | EagleView US
+
+[If you are in the U.K., click here for our privacy policy as it pertains to you.](https://web.archive.org/web/20191219011033id_/https://www.eagleview.com/privacy-statement/privacy-policy-uk/)
+
+**Effective Date:** 11/02/2010
 
 EagleView is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the EagleView Web site and governs data collection and usage. By using the EagleView website, you consent to the data practices described in this statement.
 
@@ -53,6 +57,6 @@ EagleView welcomes your comments regarding this Statement of Privacy. If you bel
 Our postal address is:
 
 EagleView Technologies, Inc.  
-3700 Monte Villa Parkway  
-Suite 200  
-Bothell, WA 98021
+10900 NE 4th St  
+Suite 800  
+Bellevue, WA 98004-5873
