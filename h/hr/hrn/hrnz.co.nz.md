@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the hrnz.co.nz privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401114457id_/https%3A//www.hrnz.co.nz/industry-information/hrnz-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrnz.co.nz privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219065022id_/https%3A//www.hrnz.co.nz/official-information/hrnz-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harness Racing New Zealand
 
-## HRNZ Privacy Policy
+### HRNZ Privacy Policy
 
   * This policy is about the way we look after your personal information.
   * We want to make sure we comply with the Privacy Act 1993.
 
 
 
-## Procedure
+### Procedure
 
-**Collection**
+ **Collection**
 
 HRNZ is the administrative body for Harness Racing. Its purposes are:
 
@@ -34,7 +34,7 @@ HRNZ’s functions include:
 
 
 
-We will only collect personal information from you for the abovementioned purposes and functions. 
+We will only collect personal information from you for the abovementioned purposes and functions.
 
 When collecting personal information, we will let you know:
 
@@ -59,7 +59,7 @@ HRNZ’s website uses cookies for the purpose of analysing the website usage and
 
 You may choose to control or remove cookies through the settings in your web browser. However, please note that, if you choose to disable all cookies, this may affect your ability to use some features on our website.
 
-**Storage and Security of Personal Information**
+ **Storage and Security of Personal Information**
 
 We will take reasonable steps:
 
@@ -78,7 +78,7 @@ It is unacceptable for any of us to intentionally breach the Privacy Act, read o
 
 If we have a security breach, we will follow the Privacy Commissioner’s guidelines.
 
-**Access to and Correction of Personal Information by you**
+ **Access to and Correction of Personal Information by you**
 
 You or your authorised agent (in writing) may ask us whether personal information is held about you and have access to such information if it exists subject to the exceptions contained in the Privacy Act. Access is not limited to “the file” and may include diary notes and/or other material in separate files.
 
@@ -98,13 +98,13 @@ If you say that information held is incorrect (and we agree) or a staff member i
 
 If we do not agree with a request for correction, then you will be given an opportunity to have a statement of correction held with the information. The information and correction will be held in such a way so that anyone accessing the file will see both the information and the correction.
 
-**Retention and Disposal of Personal Information**
+ **Retention and Disposal of Personal Information**
 
 We do not keep personal information for longer than is necessary without consent from you, unless required by law.
 
 If your personal information is to be destroyed then documents will be destroyed in a confidential and secure manner; and with expert assistance if disposing of computer based material.
 
-**Disclosure of Personal Information to Third Parties**
+ **Disclosure of Personal Information to Third Parties**
 
 We do not disclose personal information to third parties except that we may do so in the following circumstances:
 
@@ -124,4 +124,4 @@ If we receive an enquiry from the Police, process servers, bailiffs or other Gov
 
 ### Privacy Officer
 
-If you wish to contact our privacy officer, please email: [admin@hrnz.co.nz](mailto:admin@hrnz.co.nz)
+If you wish to contact our privacy officer, please email: [[email protected]](https://www.hrnz.co.nz/cdn-cgi/l/email-protection#5233363f3b3c123a203c287c313d7c3c28)
