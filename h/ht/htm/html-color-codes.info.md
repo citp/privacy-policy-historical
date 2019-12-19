@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html-color-codes.info privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106172346id_/http%3A//html-color-codes.info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html-color-codes.info privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219060823id_/https%3A//html-color-codes.info/privacypolicy) for the most accurate reproduction.*
 
 # Contact
 
