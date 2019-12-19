@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the pupperish.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208202749id_/https%3A//www.pupperish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pupperish.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219214700id_/https%3A//www.pupperish.com/privacy) for the most accurate reproduction.*
 
-# Pupperish - The most engaging content on the internet today.
+# Pupperish - Privacy Policy
 
-This is the privacy notice of Methodize Media Pty. Ltd.
+This is the privacy notice of Pupperish
 
-In this document, "we", "our", or "us" refer to Methodize Media Pty. Ltd.
-
-We are registered in Australia.
-
-Our registered office is at Suite 3, Level 27, Governor Macqaurie Tower, 1 Farrer Place, Sydney, 2000, New South Wales, Australia
+In this document, "we", "our", or "us" refer to settings('APP_NAME')
 
 #### Introduction
 
@@ -308,6 +304,12 @@ Cookies and Web Beacons www.pupperish.com does use cookies to store information 
 
 DoubleClick DART Cookie .:: Google, as a third party vendor, uses cookies to serve ads on www.pupperish.com. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.pupperish.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
+#### 23\. Service Provider - Ezoic
+
+Our Website uses a third party technology called Ezoic.
+
+Please read the privacy policy for Ezoic here: <https://g.ezoic.net/privacy/pupperish.com>
+
 #### Review of this privacy policy
 
 We may update this privacy notice from time to time as necessary. The terms that apply to you are those posted here on our website on the day you use our website. We advise you to print a copy for your records.
@@ -325,4 +327,4 @@ https://www.pupperish.com/
 admin@methodizemedia.com   
 
 
-This document was last updated on May 23rd, 2018 
+This document was last updated on May 23rd, 2019 
