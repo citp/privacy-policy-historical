@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masschallenge.org privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612065644id_/https%3A//masschallenge.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masschallenge.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219140754id_/https%3A//masschallenge.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | MassChallenge
 
