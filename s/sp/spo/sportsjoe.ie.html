@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportsjoe.ie privacy policy that was archived on 2019-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190402184551id_/https%3A//www.sportsjoe.ie/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsjoe.ie privacy policy that was archived on 2019-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191219023847id_/https%3A//www.sportsjoe.ie/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="noscroll"><head>
 <title>Privacy Statement | SportsJOE.ie</title>
@@ -11,8 +11,7 @@
 <meta name="news_keywords" content="Irish Sport, Sports News, Football, GAA, Rubgy, MMA, Boxing, Golf, Motorsports, Horse Racing, Ireland, Irish">
 <meta property="fb:pages" content="734989616564617">
 <meta name="theme-color" content="#000">
-<link rel="icon" sizes="192x192" href="https://www.sportsjoe.ie/assets/images/sportsjoe/icon-highres.png?v=20">
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://quantcast.mgr.consensu.org/v2/cmp.js"></script>
+<link rel="icon" sizes="192x192" href="/assets/images/sportsjoe/icon-highres.png?id=db1ec84b26ea907a8dbf"> <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://quantcast.mgr.consensu.org/v2/cmp.js"></script>
 <script>
 var consentManager = {
     publisherCookieName: 'pubconsent',
@@ -202,15 +201,9 @@ var consentManager = {
         return document.referrer.match(regex);
     },
     isSocialMediaReferrer: function(referrer) {
-        var facebook = new RegExp('(.*?)facebook(.*?)');
-        var instagram = new RegExp('(.*?)instagram(.*?)');
         var twitter = new RegExp('(.*?)twitter(.*?)');
 
-        if (facebook.exec(referrer) != null) {
-            return true;
-        } else if (instagram.exec(referrer) != null) {
-            return true;
-        } else if (twitter.exec(referrer) != null) {
+        if (twitter.exec(referrer) != null) {
             return true;
         } else if (referrer == 't.co') {
             return true;
@@ -222,7 +215,16 @@ var consentManager = {
         if (window.cmp_processed) {
             return;
         }
-        if (typeof(googletag.pubads()) === "undefined") {
+        if (typeof(window.dfpManager) !== 'undefined') {
+            //request has staging, adtest
+            const urlParams = new URLSearchParams(window.location.search);
+            const adtest = urlParams.get('adtest');
+            let staging = null;
+                        window.dfpManager.start(consentManager.isServingNonPersonalisedAds(), adtest, staging);
+            window.cmp_processed = true;
+        }
+
+        if (typeof(googletag.pubads) === 'undefined') {
             setTimeout(self.renderAds, 250);
             return;
         }
@@ -408,11 +410,11 @@ window.consentManager = consentManager;
         },
         "dateCreated": "2014-11-05T11:44:03+00:00",
         "datePublished": "2014-11-05T11:44:03+00:00",
-        "dateModified": "2018-08-14T15:30:19+00:00",
-                    "thumbnailUrl": "https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6NjQ3LFwiaGVpZ2h0XCI6MzQwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjUzOWQ1NGFlNzQxZGNhYWI5YzJjNjJiOTlkMWNiOGQxNjVlMGVmYWEifQ==/no-image.png?v=22",
+        "dateModified": "2018-08-14T15:30:19+01:00",
+                    "thumbnailUrl": "https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYWE3ZmNmMjYwZjMyMWYzNzU2YjRiNGU1NDk1M2NkYTYwN2VkMmZkZSJ9/no-image.png?id=65cd32e25c5307f65aed",
             "image": {
                 "@type": "ImageObject",
-                "url": "https://www.sportsjoe.ie/assets/images/sportsjoe/no-image.png?v=22",
+                "url": "/assets/images/sportsjoe/no-image.png?id=65cd32e25c5307f65aed",
                 "width": 700,
                 "height": 370
             },
@@ -427,12 +429,12 @@ window.consentManager = consentManager;
             "name" : "SportsJOE.ie",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://www.sportsjoe.ie/assets/images/sportsjoe/new-wide-logo.png?v=3",
+                "url": "https://www.sportsjoe.ie/assets/images/sportsjoe/new-wide-logo.png?id=fd4f0c19a95de6fe463c",
                 "width": 600,
                 "height": 60
             }
         }
-    }
+            }
 </script> <script>
 !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"8f5753e7-35e9-4185-92d3-34cc76541d45","a8706dfe-856a-483f-8d0f-1f45efb24d33",{});
 if (consentManager.isAllowed('permutive')) {
@@ -443,7 +445,7 @@ if (consentManager.isAllowed('permutive')) {
             context: {
                 day_of_week: dayOfWeek
             }
-                            ,trending_bar:         [ "Manchester United",  "UFC",  "Premier League",  "Conor McGregor",  "Football",  "Champions Cup",  "Liverpool",  "Sport",  "Jacob Stockdale",  "Galway GAA", ]
+                            ,trending_bar:         [ "Manchester United",  "UFC",  "Juventus",  "Conor McGregor",  "Ireland",  "Football",  "Premier League",  "Real Madrid",  "Chelsea",  "Liverpool", ]
             
             
             ,watson_categories:        "$alchemy_taxonomy_labels"
@@ -452,9 +454,9 @@ if (consentManager.isAllowed('permutive')) {
 }
 </script>
 <script async="" src="https://cdn.permutive.com/8f5753e7-35e9-4185-92d3-34cc76541d45-web.js"></script>
-<link rel="canonical" href="https://www.sportsjoe.ie/privacy-statement"> <link rel="shortcut icon" type="image/x-icon" href="https://www.sportsjoe.ie/assets/sportsjoe.favicon.ico?v=20">
-<link rel="apple-touch-icon" href="https://www.sportsjoe.ie/assets/sportsjoe.appletouchicon.png?v=20">
-<link media="all" type="text/css" rel="stylesheet" href="https://www.sportsjoe.ie/assets/css/sportsjoe/main.min-2412b9f8.css">
+<link rel="canonical" href="https://www.sportsjoe.ie/privacy-statement"> <link rel="shortcut icon" type="image/x-icon" href="/assets/sportsjoe.favicon.ico?id=09c1f59da86087fdcc48">
+<link rel="apple-touch-icon" href="/assets/sportsjoe.appletouchicon.png?id=33917194390bd9a5363e">
+<link media="all" type="text/css" rel="stylesheet" href="https://www.sportsjoe.ie/assets/css/sportsjoe/main.min-ac55e30d.css">
 <script>
 
     var _maximummedia = _maximummedia || [];
@@ -466,6 +468,9 @@ if (consentManager.isAllowed('permutive')) {
     _maximummedia.fb_pixel = '103562106721202';
     _maximummedia.track_tw_pixel_on_grant = 'false';
     _maximummedia.tw_pixel = '';
+    _maximummedia.adform = [];
+    _maximummedia.triggerPtsbAdForm = false;
+    _maximummedia.hide_ads = 0;
 
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "9608406" });
@@ -484,7 +489,8 @@ if (consentManager.isAllowed('permutive')) {
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-55189690-1', 'auto');
-ga('create', 'UA-59690484-5', 'auto', 'groupTracker');
+
+    ga('create', 'UA-59690484-5', 'auto', 'groupTracker');
 
 ga('require', 'displayfeatures');
 ga('groupTracker.require', 'displayfeatures');
@@ -494,13 +500,13 @@ ga('groupTracker.require', 'displayfeatures');
     ga('joeTracker.require', 'displayfeatures');
 
             ga('set', 'dimension4', 'web');
-        ga('groupTracker.set', 'dimension4', 'web');
-                    ga('joeTracker.set', 'dimension4', 'web');
+                    ga('groupTracker.set', 'dimension4', 'web');
+                            ga('joeTracker.set', 'dimension4', 'web');
                 ga('joeTracker.set', 'dimension5', 'sportsjoe');
 ga('set', 'anonymizeIp', true);
-ga('groupTracker.set', 'anonymizeIp', true);
 ga('send', 'pageview');
-ga('groupTracker.send', 'pageview');
+    ga('groupTracker.set', 'anonymizeIp', true);
+    ga('groupTracker.send', 'pageview');
 
     ga('joeTracker.set', 'anonymizeIp', true);
     ga('joeTracker.send', 'pageview');
@@ -529,7 +535,6 @@ ga('groupTracker.send', 'pageview');
         var node = document.getElementsByTagName('script')[0];
         node.parentNode.insertBefore(gads, node);
     })();
-
     var dfp_targets = new Object();
     var dfp_mappings = new Object();
     var dfp_placements = new Object();
@@ -553,43 +558,42 @@ ga('groupTracker.send', 'pageview');
 
     
     googletag.cmd.push(function () {
-
-        //Skin Mapping
-        var mapBackgroundSkin = googletag.sizeMapping()
-            .addSize([1200, 200], [[1680, 1058], 'fluid'])
-            .build();
-
+                    //Skin Mapping
+            var mapBackgroundSkin = googletag.sizeMapping()
+                .addSize([1200, 200], [[1680, 1058], 'fluid'])
+                .build();
+        
         //Top Mapping
         var mapTopPage = googletag.sizeMapping()
             .addSize([758, 200], [[728, 90], 'fluid'])
             .addSize([1200, 200], [[728, 90], [970, 250], [970, 90], 'fluid'])
             .build();
 
-            // If we're on an article page, different set of targeting - ignore mobile
-    var mapTopPage = googletag.sizeMapping()
-        .addSize([758, 200], [[728, 90], 'fluid'])
-        .addSize([1200, 200], [[728, 90], [970, 250], [970, 90], 'fluid'])
-        .build();
-
-
-    if (window.matchMedia("only screen and (min-width: 990px)").matches) {
-        //Post Top Mapping
-        var mapPostTop = googletag.sizeMapping()
-            .addSize([980, 200], [[300, 250], 'fluid'])
+                    // If we're on an article page, different set of targeting - ignore mobile
+        var mapTopPage = googletag.sizeMapping()
+            .addSize([758, 200], [[728, 90], 'fluid'])
+            .addSize([1200, 200], [[728, 90], [970, 250], [970, 90], 'fluid'])
             .build();
 
-        googletag.placement.article_top = googletag.defineSlot('/247211819/sportsjoe_article_top', [1, 1], 'div-gpt-article_top')
-            .defineSizeMapping(mapPostTop)
-            .addService(googletag.pubads());
-    }
 
-    
-    
-            googletag.placement.article_inline_video = googletag.defineOutOfPageSlot('/247211819/sportsjoe_article_inline_video', 'div-gpt-article_inline_video')
-            .addService(googletag.pubads());
-    
-    
-    
+        if (window.matchMedia("only screen and (min-width: 990px)").matches) {
+            //Post Top Mapping
+            var mapPostTop = googletag.sizeMapping()
+                .addSize([980, 200], [[300, 250], 'fluid'])
+                .build();
+
+            googletag.placement.article_top = googletag.defineSlot('/247211819/sportsjoe_article_top', [1, 1], 'div-gpt-article_top')
+                .defineSizeMapping(mapPostTop)
+                .addService(googletag.pubads());
+        }
+
+        
+        
+                    googletag.placement.article_inline_video = googletag.defineOutOfPageSlot('/247211819/sportsjoe_article_inline_video', 'div-gpt-article_inline_video')
+                .addService(googletag.pubads());
+        
+        
+            
                     // If >= 768 AND < 992
             // Top sidebar only fired on initial load for desktop
             if (window.matchMedia("only screen and (min-width: 768px) and (max-width: 1199px)").matches) {
@@ -602,24 +606,23 @@ ga('groupTracker.send', 'pageview');
                     .defineSizeMapping(mapTopPage)
                     .addService(googletag.pubads());
             }
-        
-        googletag.defineOutOfPageSlot('/247211819/sportsjoe_oop', 'div-gpt-oop')
-            .addService(googletag.pubads());
-
-        if (window.matchMedia("only screen and (max-width: 768px)").matches) {
+                            googletag.defineOutOfPageSlot('/247211819/sportsjoe_oop', 'div-gpt-oop')
+                .addService(googletag.pubads());
+                if (window.matchMedia("only screen and (max-width: 768px)").matches) {
             googletag.defineSlot('/247211819/sportsjoe_out_of_page', [1, 1], 'div-gpt-out_of_page')
                 .addService(googletag.pubads());
         }
 
-        googletag.placement.background_skin = googletag.defineSlot('/247211819/sportsjoe_background_skin', [1, 1], 'div-gpt-background_skin')
-            .defineSizeMapping(mapBackgroundSkin)
-            .addService(googletag.pubads());
-
-        if (window.matchMedia("only screen and (min-width: 1200px)").matches) {
-            googletag.defineSlot('/247211819/SportsJOE.ie_Desktop_Widget', [310, 140], 'div-gpt-sportsjoe-desktop_widget')
+                    googletag.placement.background_skin = googletag.defineSlot('/247211819/sportsjoe_background_skin', [1, 1], 'div-gpt-background_skin')
+                .defineSizeMapping(mapBackgroundSkin)
                 .addService(googletag.pubads());
-        }
+        
 
+                    if (window.matchMedia("only screen and (min-width: 1200px)").matches) {
+                googletag.defineSlot('/247211819/SportsJOE.ie_Desktop_Widget', [310, 140], 'div-gpt-sportsjoe-desktop_widget')
+                    .addService(googletag.pubads());
+            }
+        
         
         
                                                         dfp_targets.page = "article";
@@ -667,6 +670,9 @@ ga('groupTracker.send', 'pageview');
                     MM_STICKY_ADS.setStickyTopAd();
                 }
             }
+            if (event.slot.getAdUnitPath().includes('moble_top_banner') && event.isEmpty) {
+                $('#top-mobile_sticky_ad_container').removeClass('visible-xs').addClass('hidden');
+            }
         }
     });
 </script>
@@ -687,9 +693,9 @@ fbq('track', 'ViewContent');
     }
     </script>
 
-</head>
+<script type="application/javascript" async="" src="//cdn.mookie1.com/containr.js"></script></head>
 <body class=" article-page  noscroll
-     maximummedia ">
+     maximummedia  ">
 <div class="search-block">
 <div class="container">
 <form action="https://www.sportsjoe.ie/search" method="POST" class="search-form">
@@ -706,7 +712,8 @@ fbq('track', 'ViewContent');
 <div class="logo">
 <a href="https://www.sportsjoe.ie?ref=logo">
 <figure>
-<img src="https://www.sportsjoe.ie/assets/images/sportsjoe/main-logo.svg?v=21" alt="sportsjoe"> </figure>
+<img src="/assets/images/sportsjoe/main-logo.svg?id=265c7886d8c4531f15c6&#10;                                " alt="sportsjoe">
+</figure>
 </a>
 </div>
 <a class="nav-opener"><span></span></a>
@@ -778,28 +785,28 @@ fbq('track', 'ViewContent');
 <li class="visible-xs ">
 <a href="https://www.sportsjoe.ie/contact">Contact Us</a>
 </li>
-<li class="hidden-xs ">
+<li class="hidden-xs  ">
 <a href="https://www.sportsjoe.ie?ref=link">Home</a>
 </li>
-<li class="hidden-xs ">
+<li class="hidden-xs  ">
 <a href="https://www.sportsjoe.ie/football">Football</a>
 </li>
-<li class="hidden-xs ">
+<li class="hidden-xs  ">
 <a href="https://www.sportsjoe.ie/gaa">GAA</a>
 </li>
-<li class="hidden-xs ">
+<li class="hidden-xs  ">
 <a href="https://www.sportsjoe.ie/mma">MMA</a>
 </li>
-<li class="hidden-xs ">
+<li class="hidden-xs  ">
 <a href="https://www.sportsjoe.ie/quiz">Quiz</a>
 </li>
-<li class="hidden-xs ">
+<li class="hidden-xs  ">
 <a href="https://www.sportsjoe.ie/horse-racing">Horse Racing</a>
 </li>
-<li class="hidden-md hidden-xs ">
+<li class="hidden-md hidden-xs  ">
 <a href="https://www.sportsjoe.ie/rugby">Rugby</a>
 </li>
-<li class="hidden-md hidden-xs ">
+<li class="hidden-md hidden-xs  ">
 <a href="https://www.sportsjoe.ie/boxing">Boxing</a>
 </li>
 <li class="hidden-xs">
@@ -843,9 +850,9 @@ UFC
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-premier-league"></span>
-<a href="https://www.sportsjoe.ie/sports/premier-league" class="analytics tag-premier-league" data-category="Nav clicks" data-label="Trending Tags" data-value="Premier League">
-Premier League
+<span class="tag-icon tag-icon-juventus"></span>
+<a href="https://www.sportsjoe.ie/sports/juventus" class="analytics tag-juventus" data-category="Nav clicks" data-label="Trending Tags" data-value="Juventus">
+Juventus
 </a>
 </li>
 <li class="text-capitalize">
@@ -855,15 +862,33 @@ Conor McGregor
 </a>
 </li>
 <li class="text-capitalize">
+<span class="tag-icon tag-icon-ireland"></span>
+<a href="https://www.sportsjoe.ie/sports/ireland" class="analytics tag-ireland" data-category="Nav clicks" data-label="Trending Tags" data-value="Ireland">
+Ireland
+</a>
+</li>
+<li class="text-capitalize">
 <span class="tag-icon tag-icon-football"></span>
 <a href="https://www.sportsjoe.ie/sports/football" class="analytics tag-football" data-category="Nav clicks" data-label="Trending Tags" data-value="Football">
 Football
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-champions-cup"></span>
-<a href="https://www.sportsjoe.ie/sports/champions-cup" class="analytics tag-champions-cup" data-category="Nav clicks" data-label="Trending Tags" data-value="Champions Cup">
-Champions Cup
+<span class="tag-icon tag-icon-premier-league"></span>
+<a href="https://www.sportsjoe.ie/sports/premier-league" class="analytics tag-premier-league" data-category="Nav clicks" data-label="Trending Tags" data-value="Premier League">
+Premier League
+</a>
+</li>
+<li class="text-capitalize">
+<span class="tag-icon tag-icon-real-madrid"></span>
+<a href="https://www.sportsjoe.ie/sports/real-madrid" class="analytics tag-real-madrid" data-category="Nav clicks" data-label="Trending Tags" data-value="Real Madrid">
+Real Madrid
+</a>
+</li>
+<li class="text-capitalize">
+<span class="tag-icon tag-icon-chelsea"></span>
+<a href="https://www.sportsjoe.ie/sports/chelsea" class="analytics tag-chelsea" data-category="Nav clicks" data-label="Trending Tags" data-value="Chelsea">
+Chelsea
 </a>
 </li>
 <li class="text-capitalize">
@@ -872,41 +897,21 @@ Champions Cup
 Liverpool
 </a>
 </li>
-<li class="text-capitalize">
-<span class="tag-icon tag-icon-sport"></span>
-<a href="https://www.sportsjoe.ie/sports/sport" class="analytics tag-sport" data-category="Nav clicks" data-label="Trending Tags" data-value="Sport">
-Sport
-</a>
-</li>
-<li class="text-capitalize">
-<span class="tag-icon tag-icon-jacob-stockdale"></span>
-<a href="https://www.sportsjoe.ie/sports/jacob-stockdale" class="analytics tag-jacob-stockdale" data-category="Nav clicks" data-label="Trending Tags" data-value="Jacob Stockdale">
-Jacob Stockdale
-</a>
-</li>
-<li class="text-capitalize">
-<span class="tag-icon tag-icon-galway-gaa"></span>
-<a href="https://www.sportsjoe.ie/sports/galway-gaa" class="analytics tag-galway-gaa" data-category="Nav clicks" data-label="Trending Tags" data-value="Galway GAA">
-Galway GAA
-</a>
-</li>
- </ul>
+</ul>
 </div> <ul class="social-networks">
 <li class="fb"><a href="http://www.facebook.com/sportsJOEdotie" rel="external" class="icon-facebook-logo"></a></li>
 <li class="tw"><a href="http://twitter.com/sportsjoedotie" rel="external" class="icon-twitter-logo-silhouette"></a></li>
-<li class="yt"><a href="http://www.youtube.com/user/SportsJOEdotie" rel="external"><img src="https://www.sportsjoe.ie/assets/images/youtube.png?v=1"></a></li>
-<li class="ins"><a href="http://www.instagram.com/sportsjoedotie" rel="external"><img src="https://www.sportsjoe.ie/assets/images/instagram.png"></a></li>
-</ul>
-</nav> </div>
+<li class="yt"><a href="http://www.youtube.com/user/SportsJOEdotie" rel="external"><img src="/assets/images/youtube.png?id=777c0126377f95c815e6"></a></li>
+<li class="ins"><a href="http://www.instagram.com/sportsjoedotie" rel="external"><img src="/assets/images/instagram.png?id=817ba616cce7f1de5ba2"></a></li>
+</ul></nav> </div>
 </div>
-</header>
-<div class="skin-wrapper hidden-sm hidden-xs ">
+</header> <div class="skin-wrapper hidden-sm hidden-xs  ">
 <div id="div-gpt-background_skin">
 <script type="text/javascript">
-                googletag.cmd.push(function () {
-                        googletag.display('div-gpt-background_skin');
-                                            });
-            </script>
+                    googletag.cmd.push(function () {
+                            googletag.display('div-gpt-background_skin');
+                                                    });
+                </script>
 </div>
 </div>
 <div class="modal fade modal-large" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -946,7 +951,7 @@ Search
                         });
                     }
                 </script>
-</div>
+ </div>
 <div id="div-gpt-top_page_tablet" class="text-center visible-sm visible-md" data-article="702" data-route="" data-tag="" data-section="" data-search="" data-page="river">
 <script type="text/javascript">
                     if (window.matchMedia("only screen and (min-width: 768px) and (max-width: 1199px)").matches) {
@@ -961,13 +966,36 @@ Search
 </div>
 <section class="preview-section intend content-container">
 <div class="container article-container main-content">
-<div class="col-lg-8 col-sm-12">
+<div class=" col-lg-8  col-sm-12">
 <article class="post">
+<div>
+<script>
+    googletag.cmd.push(function() {
+        googletag
+            .defineSlot('247211819/sportsjoe_moble_top_banner', [[320, 50], [320, 100], [320, 120]], 'div-gpt-ad-mobile-takeover')
+            .addService(googletag.pubads());
+        googletag
+            .pubads()
+            .enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+<div class="visible-xs" id="top-mobile_sticky_ad_container" style="padding: 15px 0; z-index: 1;">
+<div id="div-gpt-ad-mobile-takeover" style="width:320px; display:table; margin: 0 auto;">
+<script>
+            (function () {
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-mobile-takeover');
+                });
+            })();
+        </script>
+</div>
+</div> </div>
 <div class="title-section">
 <h1 class="h1">Privacy Statement</h1>
 </div>
 <div class="meta">
- </div>
+</div>
 <div class="article-content p402_premium ">
 <p><strong>Section 1. Introduction</strong></p>
 <p>At SportsJOE.ie we respect the right to personal privacy and our obligations under the General Data Protection Regulation&nbsp;(GDPR) which comes into force across the EU on 25 May 2018. This Privacy Policy outlines how we deal with any personal data you provide to us while visiting this website, or as a registered user. If you are not happy with this Website Privacy Statement you should not use this website.</p>
@@ -1017,7 +1045,7 @@ We will process any Personal Data you provide to us for the following purposes:<
 <li>Share article
 <ul class="social-networks">
 <li class="fb"><a href="http://facebook.com/sharer.php?app_id=1732290117031678&amp;u=https%3A%2F%2Fwww.sportsjoe.ie%2Funcategorized%2Fprivacy-statement-702%3Futm_source%3Dfacebook%26utm_medium%3Dweb%26utm_campaign%3Donsite_share&amp;amp;t=Privacy+Statement" rel="external" class="icon-facebook-logo analytics" data-category="Sharing Article" data-label="Facebook" data-value="/uncategorized/privacy-statement-702"></a></li>
-<li class="tw"><a href="https://twitter.com/intent/tweet?via=sportsjoedotie&amp;amp;text=Privacy+Statement&amp;amp;url=https%3A%2F%2Fwww.sportsjoe.ie%2Funcategorized%2Fprivacy-statement-702%3Futm_source%3Dtwitter%26utm_medium%3Dweb%26utm_campaign%3Donsite_share" rel="external" class="icon-twitter-logo-silhouette analytics" data-category="Sharing Article" data-label="Twitter" data-value="/uncategorized/privacy-statement-702"></a></li>
+<li class="tw"><a href="https://twitter.com/intent/tweet?via=sportsjoedotie&amp;text=Privacy+Statement&amp;url=https%3A%2F%2Fwww.sportsjoe.ie%2Funcategorized%2Fprivacy-statement-702%3Futm_source%3Dtwitter%26utm_medium%3Dweb%26utm_campaign%3Donsite_share" rel="external" class="icon-twitter-logo-silhouette analytics" data-category="Sharing Article" data-label="Twitter" data-value="/uncategorized/privacy-statement-702"></a></li>
 <li class="re"><a href="http://reddit.com/submit?url=https%3A%2F%2Fwww.sportsjoe.ie%2Funcategorized%2Fprivacy-statement-702&amp;amp;title=Privacy+Statement?utm_source=reddit&amp;utm_medium=web&amp;utm_campaign=onsite_share" rel="external" class="icon-reddit-square analytics" data-category="Sharing Article" data-label="Reddit" data-value="/uncategorized/privacy-statement-702"></a></li>
 <li class="in"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;source=sportsjoe.ie&amp;summary=&amp;title=Privacy+Statement&amp;url=https%3A%2F%2Fwww.sportsjoe.ie%2Funcategorized%2Fprivacy-statement-702" rel="external" class="icon-linkedin-logo analytics" data-category="Sharing Article" data-label="Linkedin" data-value="/uncategorized/privacy-statement-702"></a></li>
 <li class="wa hidden-desktop"><a href="whatsapp://send?text=Privacy%20Statement%20-%20https%3A%2F%2Fwww.sportsjoe.ie%2Funcategorized%2Fprivacy-statement-702%3Futm_source%3Dwhatsapp%26utm_medium%3Dweb%26utm_campaign%3Donsite_share" rel="external" class="icon-whatsapp analytics" data-category="Sharing Article" data-label="Whatsapp" data-value="/uncategorized/privacy-statement-702"></a></li>
@@ -1030,183 +1058,171 @@ We will process any Personal Data you provide to us for the following purposes:<
 </div>
 <div id="article-aside" class="col-sm-12 col-lg-4 article-sidebar">
 <div class="visible-lg">
-<div class=" hidden-sm">
-<div class="dark-stripe-background competition-body">
-<div class="col-md-3 col-sm-3 col-xs-3">
-<a href="https://www.sportsjoe.ie/rugby/competition-strong-roots-food-truck-visit-rugby-club-wales-v-ireland-193810">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzAyXFxcLzI3MTA1NzQxXFxcL2lTdG9jay04NDYxMjM4MDAtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjk2LFwiaGVpZ2h0XCI6OTYsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMzk2Njk3MjViM2EwMjk4MmFlZDkyZTY3NDA1NTBlYTBiZGQ1MjYzZSJ9/istock-846123800-1024x683.jpg" media="(min-width: 970px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzAyXFxcLzI3MTA1NzQxXFxcL2lTdG9jay04NDYxMjM4MDAtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjg0LFwiaGVpZ2h0XCI6ODQsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMGFmNThhYzg4NjdjNjFlNzZhNDJjMWY3YmZjYzFlMDJmNjJjNGZlMyJ9/istock-846123800-1024x683.jpg" media="(min-width: 640px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzAyXFxcLzI3MTA1NzQxXFxcL2lTdG9jay04NDYxMjM4MDAtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjcwLFwiaGVpZ2h0XCI6NzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZWZiZGJiNTU5ODJjNTM5MTNkNWM1ZjQxMDdjNDFhZjAzMWUwNTk4MSJ9/istock-846123800-1024x683.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6OTYsXCJoZWlnaHRcIjo5NixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJlMDAwMGY2Y2Y2YjQ5Yjc3OWY5ODUxMDMyNDI5NWM3ZjFmNDMzNDI2In0=/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzAyXFxcLzI3MTA1NzQxXFxcL2lTdG9jay04NDYxMjM4MDAtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjk2LFwiaGVpZ2h0XCI6OTYsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMzk2Njk3MjViM2EwMjk4MmFlZDkyZTY3NDA1NTBlYTBiZGQ1MjYzZSJ9/istock-846123800-1024x683.jpg" alt="COMPETITION: Have the STRONG ROOTS food truck visit your rugby club for Wales v Ireland" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="col-md-9 col-sm-9 col-xs-9 headline">
-<a href="https://www.sportsjoe.ie/rugby/competition-strong-roots-food-truck-visit-rugby-club-wales-v-ireland-193810">COMPETITION: Have the STRONG ROOTS food truck visit your rugby club for Wales v Ireland</a>
-</div>
-<div class="clearfix"></div>
-</div>
+<div id="div-gpt-sportsjoe-desktop_widget" class="visible-lg" style="height:140px; width:310px; margin: 0 auto;">
+<script>
+        if (window.matchMedia("only screen and (min-width: 1200px)").matches) {
+            googletag.cmd.push(function () { googletag.display('div-gpt-sportsjoe-desktop_widget'); });
+        }
+    </script>
 </div> </div>
+<br>
 <div class="banner hidden-mobile top-space sticky-breakpoint">
 <div id="div-gpt-article_top" class="text-center">
 <script type="text/javascript">
-                if (window.matchMedia("only screen and (min-width: 990px)").matches) {
-                    googletag.cmd.push(function () { googletag.display('div-gpt-article_top'); });
-                }
-            </script>
+                    if (window.matchMedia("only screen and (min-width: 990px)").matches) {
+                        googletag.cmd.push(function () { googletag.display('div-gpt-article_top'); });
+                    }
+                </script>
 </div>
 </div>
 <div class="popular hidden-mobile">
 <div class="section-header">
 <div class="h1">popular</div>
 </div>
-<a href="/gaa/need-diarmuid-connolly-back-playing-sky-blue-mugsy-runs-rule-championship-contenders-197651" class="small-video news-item">
+<a href="/rugby/lions-2021-irish-players-garry-ringrose-208600" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTczODM0XFxcL0dhdnZ2aW4uanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjE0NGI0NDQ2OWE2NWYzNTM1ZGMyNWU2NTgyNTg4ZGUyYTM1MGNiYzMifQ==/gavvvin.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTczODM0XFxcL0dhdnZ2aW4uanBnXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJlOWM3ZDkwNjJiYWNiYWM0NzA0NTBlOGNjYzQyMTA4NDk5NWU3MzEzIn0=/gavvvin.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTEyMDEwXFxcL1Jpbmdyb3NlLTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZGY1NjM3ODlhNGI3ODlhZDUxZjZkYTBlZmRhOTY3NzA2MWU2OGNmMiJ9/ringrose-1024x576.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTEyMDEwXFxcL1Jpbmdyb3NlLTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjlmYWQ3MWFmNWYzN2U2OTk1YWQ3ZTExN2M0MGU3NDVmNmM2YTI4MTEifQ==/ringrose-1024x576.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTNhNmIxZTA2ZDU2ZjQzZTU2MmU4NDE5YWE1MjZmYzNhOTcxNzRlYyJ9/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTczODM0XFxcL0dhdnZ2aW4uanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjE0NGI0NDQ2OWE2NWYzNTM1ZGMyNWU2NTgyNTg4ZGUyYTM1MGNiYzMifQ==/gavvvin.jpg" alt="&quot;They need Diarmuid Connolly back playing in sky blue&quot; - Mugsy runs rule over championship contenders" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmZjY0NjNhMDI4YzlkYjI4OGY1ZDk5OWYzMjdkNWE2MzE3YTU1NTdjIn0=/no-image.png?id=65cd32e25c5307f65aed" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTEyMDEwXFxcL1Jpbmdyb3NlLTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZGY1NjM3ODlhNGI3ODlhZDUxZjZkYTBlZmRhOTY3NzA2MWU2OGNmMiJ9/ringrose-1024x576.jpg" alt="Garry Ringrose makes starting Lions XVs of Mike Tindall and Ben Ryan" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">"They need Diarmuid Connolly back playing in sky blue" - Mugsy runs rule over championship contenders</div>
+<div class="h3">Garry Ringrose makes starting Lions XVs of Mike Tindall and Ben Ryan</div>
 </div>
 <ul class="meta">
-<li class="share">55 shares</li>
+<li class="share">76 shares</li>
 </ul>
 </div>
 </a>
-<a href="/gaa/meath-barry-dardis-197628" class="small-video news-item">
+<a href="/world-of-sport/keane-barry-proud-biggest-stage-brilliant-things-come-208562" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTUyNjA0XFxcL0JhcnJ5LURhcmRpcy1mZWF0dXJlLnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2ZGIwNmEyZjIyYjc2YmM4ZGUyNDkxYTFiZjJkNWYyYTAxN2IwNTE2In0=/barry-dardis-feature.png" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTUyNjA0XFxcL0JhcnJ5LURhcmRpcy1mZWF0dXJlLnBuZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNmViYmQyNGJhNmQxYzRmNmZlMzAzN2UzZGFlMjIwYTM3OWI2MzNiNSJ9/barry-dardis-feature.png" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE2MjIxMTIyXFxcL0tlYW5vLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmI2YmIzN2E1NWExYjUyMmZjNGNjZjQ5ZDFkM2NmNDc1MmMxNGEwNCJ9/keano.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE2MjIxMTIyXFxcL0tlYW5vLmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjM3YTNlOGRkODJmYTE1OWUyZTEyMzM0ZDZmNDFkNmUzNjMzN2FhM2UifQ==/keano.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTNhNmIxZTA2ZDU2ZjQzZTU2MmU4NDE5YWE1MjZmYzNhOTcxNzRlYyJ9/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTUyNjA0XFxcL0JhcnJ5LURhcmRpcy1mZWF0dXJlLnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2ZGIwNmEyZjIyYjc2YmM4ZGUyNDkxYTFiZjJkNWYyYTAxN2IwNTE2In0=/barry-dardis-feature.png" alt="Meath's find of 2019 pings over straightest free you'll see" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmZjY0NjNhMDI4YzlkYjI4OGY1ZDk5OWYzMjdkNWE2MzE3YTU1NTdjIn0=/no-image.png?id=65cd32e25c5307f65aed" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE2MjIxMTIyXFxcL0tlYW5vLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmI2YmIzN2E1NWExYjUyMmZjNGNjZjQ5ZDFkM2NmNDc1MmMxNGEwNCJ9/keano.jpg" alt="Keane Barry does himself proud on biggest stage and there are brilliant things to come" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">Meath's find of 2019 pings over straightest free you'll see</div>
+<div class="h3">Keane Barry does himself proud on biggest stage and there are brilliant things to come</div>
 </div>
 <ul class="meta">
-<li class="share">46 shares</li>
+<li class="share">2.1k shares</li>
 </ul>
 </div>
 </a>
-<a href="/gaa/david-cliffords-evolved-soloing-technique-example-taller-players-197606" class="small-video news-item">
+<a href="/gaa/tg4-gaa-fixtures-2020-208644" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTEyNzQwXFxcL0NsaWZmeS5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYWRmNzIzM2RlZWQzZTUwNTVmZDRlMjMzOTYxZDRlNWIzYTVhMzY5MiJ9/cliffy.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTEyNzQwXFxcL0NsaWZmeS5qcGdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImM0N2UzODc5NzJmYTljMTdmMTAyYjA4MGNhNzlmMjBkMDIxMzlmODAifQ==/cliffy.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTY1MTEzXFxcL0FPUy1DbGlmZm9yZC0xMDI0eDU3Ni5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImEzNThlNjNhYWQ4NjE2NjkxZmQxY2MzNjgwNzYyYmRmODIzMTRiMmMifQ==/aos-clifford-1024x576.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTY1MTEzXFxcL0FPUy1DbGlmZm9yZC0xMDI0eDU3Ni5qcGdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1NmQzYzAyYjVmMDVjOWRhMTEzNzQxOTAzMDM3OGM1NjA5ZDQ3NjA4In0=/aos-clifford-1024x576.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTNhNmIxZTA2ZDU2ZjQzZTU2MmU4NDE5YWE1MjZmYzNhOTcxNzRlYyJ9/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTEyNzQwXFxcL0NsaWZmeS5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYWRmNzIzM2RlZWQzZTUwNTVmZDRlMjMzOTYxZDRlNWIzYTVhMzY5MiJ9/cliffy.jpg" alt="David Clifford's evolved soloing technique an example to all taller players" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmZjY0NjNhMDI4YzlkYjI4OGY1ZDk5OWYzMjdkNWE2MzE3YTU1NTdjIn0=/no-image.png?id=65cd32e25c5307f65aed" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTY1MTEzXFxcL0FPUy1DbGlmZm9yZC0xMDI0eDU3Ni5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImEzNThlNjNhYWQ4NjE2NjkxZmQxY2MzNjgwNzYyYmRmODIzMTRiMmMifQ==/aos-clifford-1024x576.jpg" alt="TG4 announce clatter of fantastic GAA fixtures for 2020" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">David Clifford's evolved soloing technique an example to all taller players</div>
+<div class="h3">TG4 announce clatter of fantastic GAA fixtures for 2020</div>
 </div>
-<ul class="meta">
-<li class="share">340 shares</li>
+ <ul class="meta">
+<li class="share">63 shares</li>
 </ul>
 </div>
 </a>
-<a href="/gaa/theres-reason-theyre-recognisable-players-teams-197631" class="small-video news-item">
+<a href="/world-of-sport/wouldnt-win-game-local-pub-oconnor-sounds-price-warning-208560" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTQ1MTUxXFxcL0dBQS1Ib3VyLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJiMmJhNDYwZTdjMGU5NzllZDQyZjBmMzExYmI3NGRhNjQ5YTIzMWZmIn0=/gaa-hour.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTQ1MTUxXFxcL0dBQS1Ib3VyLmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNzlkZTg2ZjAxNjEzMjk1OWNhZWRlYWNiNTdiNmY3MDU2ZWNlNWIxNCJ9/gaa-hour.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE2MjExNjU2XFxcL1dpbGxsYWgucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIxOWRiMDUyMmVhN2FhMDc4OTIyZjdiOTg5MTUxMDU2NGRkZTY3MTk3In0=/willlah.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE2MjExNjU2XFxcL1dpbGxsYWgucG5nXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiOGUxMDZhNTlmYWIxNTg2NTU3ZmUyYzEyNmE5NGEzOWJmZWQ1ZjcxNSJ9/willlah.png" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTNhNmIxZTA2ZDU2ZjQzZTU2MmU4NDE5YWE1MjZmYzNhOTcxNzRlYyJ9/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTQ1MTUxXFxcL0dBQS1Ib3VyLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJiMmJhNDYwZTdjMGU5NzllZDQyZjBmMzExYmI3NGRhNjQ5YTIzMWZmIn0=/gaa-hour.jpg" alt="'There's a reason they're the most recognisable players on their teams'" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmZjY0NjNhMDI4YzlkYjI4OGY1ZDk5OWYzMjdkNWE2MzE3YTU1NTdjIn0=/no-image.png?id=65cd32e25c5307f65aed" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE2MjExNjU2XFxcL1dpbGxsYWgucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIxOWRiMDUyMmVhN2FhMDc4OTIyZjdiOTg5MTUxMDU2NGRkZTY3MTk3In0=/willlah.png" alt="&quot;That wouldn't win a game in your local pub&quot; - O'Connor sounds Price warning" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">'There's a reason they're the most recognisable players on their teams'</div>
+<div class="h3">"That wouldn't win a game in your local pub" - O'Connor sounds Price warning</div>
 </div>
 <ul class="meta">
-<li class="share">266 shares</li>
+<li class="share">522 shares</li>
 </ul>
 </div>
 </a>
-<a href="/rugby/jacob-stockdale-video-try-197574" class="small-video news-item">
+<a href="/rugby/john-cooney-conor-murray-ireland-six-nations-208626" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMDc0NzI2XFxcL1N0b2NrZGFsZS1mb290YWdlLnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI3ZDkxNTEwOTY1NjQ0ODdhZjNkMzA0MTQ0ODhmYzljZjMwODRkNWRkIn0=/stockdale-footage.png" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMDc0NzI2XFxcL1N0b2NrZGFsZS1mb290YWdlLnBuZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZjZiOTcxYzAwN2RiMjE5YTRiZWJhZTRiYzYyNTAyYjVjZjNhZGI1OCJ9/stockdale-footage.png" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTI0NzE2XFxcL0Nvb25leS1NdXJyYXktMTAyNHg1NzYuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyZDk0MmFhMDkxYWJhOGFiODRhYjZjN2FhM2NmNTE0YTUyYWI1YzYyIn0=/cooney-murray-1024x576.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTI0NzE2XFxcL0Nvb25leS1NdXJyYXktMTAyNHg1NzYuanBnXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjUxNmRiNWVhZDgyODg0MGE4ZGIxY2FiMmY0MzRmMTU2YzMzYzRlMiJ9/cooney-murray-1024x576.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTNhNmIxZTA2ZDU2ZjQzZTU2MmU4NDE5YWE1MjZmYzNhOTcxNzRlYyJ9/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMDc0NzI2XFxcL1N0b2NrZGFsZS1mb290YWdlLnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI3ZDkxNTEwOTY1NjQ0ODdhZjNkMzA0MTQ0ODhmYzljZjMwODRkNWRkIn0=/stockdale-footage.png" alt="Footage from new angle has everyone talking about Jacob Stockdale again" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmZjY0NjNhMDI4YzlkYjI4OGY1ZDk5OWYzMjdkNWE2MzE3YTU1NTdjIn0=/no-image.png?id=65cd32e25c5307f65aed" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE4MTI0NzE2XFxcL0Nvb25leS1NdXJyYXktMTAyNHg1NzYuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyZDk0MmFhMDkxYWJhOGFiODRhYjZjN2FhM2NmNTE0YTUyYWI1YzYyIn0=/cooney-murray-1024x576.jpg" alt="&quot;Cooney is playing out of this world right now... but it's still Conor Murray&quot;" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">Footage from new angle has everyone talking about Jacob Stockdale again</div>
+<div class="h3">"Cooney is playing out of this world right now... but it's still Conor Murray"</div>
 </div>
 <ul class="meta">
-<li class="share">12 shares</li>
+<li class="share">59 shares</li>
 </ul>
 </div>
 </a>
-<a href="/gaa/oppositions-pressure-tactics-just-playing-cian-lynchs-hands-197583" class="small-video news-item">
+<a href="/football/worst-team-league-poses-big-problem-solskjaer-mourinho-set-finest-victory-208570" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTAxMzAwXFxcL0NpYW5vLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkZjM3MDJmZjdiMDFlMmNlZmRjYjlmZGQwYzQ1MmE4OWVkMzQ0NDIzIn0=/ciano.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTAxMzAwXFxcL0NpYW5vLmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiOTE5NGVjNjI0OTIyMjMwMzkzMjI4YjNkODNlMTgxNzlkYTgzYTFkNyJ9/ciano.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE3MTA0NzU2XFxcL2NvbGxhZ2U0LTEwMjR4NTc2LnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYjlhMDUyNmI2YmY5MGFhOWZkNDg4YTkxZGFmZWRiNWM2Y2RmY2VjZSJ9/collage4-1024x576.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE3MTA0NzU2XFxcL2NvbGxhZ2U0LTEwMjR4NTc2LnBuZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjhhNGI2NTM2MjRhMmUzYzM0ZDcxYmZiZjVmNzE2MGUzZTI2NTdkMDQifQ==/collage4-1024x576.png" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTNhNmIxZTA2ZDU2ZjQzZTU2MmU4NDE5YWE1MjZmYzNhOTcxNzRlYyJ9/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA0XFxcLzAyMTAxMzAwXFxcL0NpYW5vLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkZjM3MDJmZjdiMDFlMmNlZmRjYjlmZGQwYzQ1MmE4OWVkMzQ0NDIzIn0=/ciano.jpg" alt="Opposition's pressure tactics just playing into Cian Lynch's hands" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmZjY0NjNhMDI4YzlkYjI4OGY1ZDk5OWYzMjdkNWE2MzE3YTU1NTdjIn0=/no-image.png?id=65cd32e25c5307f65aed" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE3MTA0NzU2XFxcL2NvbGxhZ2U0LTEwMjR4NTc2LnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYjlhMDUyNmI2YmY5MGFhOWZkNDg4YTkxZGFmZWRiNWM2Y2RmY2VjZSJ9/collage4-1024x576.png" alt="Worst team in league poses big problem for Solskjaer but Mourinho set for finest victory" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">Opposition's pressure tactics just playing into Cian Lynch's hands</div>
+<div class="h3">Worst team in league poses big problem for Solskjaer but Mourinho set for finest victory</div>
 </div>
 <ul class="meta">
-<li class="share">33 shares</li>
+<li class="share">19 shares</li>
 </ul>
 </div>
 </a>
-<a href="/rugby/watch-jacob-stockdale-burns-leinster-defence-dropping-ball-line-197388" class="small-video news-item">
+<a href="/football/nicky-butt-adnan-januzaj-208537" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzAzXFxcLzMwMTkyMjQxXFxcL2phY29ic3RvY2tkYWxlMi5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMWRkNGU5NDQ0MjU3YmFmODc1MTE5YzBhMjRlYzViODZkYjQwYTY5ZSJ9/jacobstockdale2.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzAzXFxcLzMwMTkyMjQxXFxcL2phY29ic3RvY2tkYWxlMi5qcGdcIixcIndpZHRoXCI6MjA4LFwiaGVpZ2h0XCI6MTIwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImNiYmUwY2VkZDA2ZDYxMGQwZGI4OGU1MzkzYzg5ODBhZjY3Nzg3ZGIifQ==/jacobstockdale2.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE1MTQ1MzU2XFxcL0phbnV6YWotMTAyNHg1NzYuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2MTkxZTYyYWQ2MmE0MjUzYmUwZDczOTRlNWM1MGRkNDRhZThiOTUxIn0=/januzaj-1024x576.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE1MTQ1MzU2XFxcL0phbnV6YWotMTAyNHg1NzYuanBnXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnNwb3J0c2pvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL3Nwb3J0c2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9NjVjZDMyZTI1YzUzMDdmNjVhZWRcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYzJmNTNjODFhMjJlMTc3NDBjMDM1NTc0MWZkZjM3NGExOTg4ZDViZiJ9/januzaj-1024x576.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTNhNmIxZTA2ZDU2ZjQzZTU2MmU4NDE5YWE1MjZmYzNhOTcxNzRlYyJ9/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzAzXFxcLzMwMTkyMjQxXFxcL2phY29ic3RvY2tkYWxlMi5qcGdcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMWRkNGU5NDQ0MjU3YmFmODc1MTE5YzBhMjRlYzViODZkYjQwYTY5ZSJ9/jacobstockdale2.jpg" alt="Watch: Jacob Stockdale burns Leinster defence before dropping the ball over the line" class="river-post-image lazyload">
+ <img src="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcG9ydHNqb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9zcG9ydHNqb2VcXFwvbm8taW1hZ2UucG5nP2lkPTY1Y2QzMmUyNWM1MzA3ZjY1YWVkXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmZjY0NjNhMDI4YzlkYjI4OGY1ZDk5OWYzMjdkNWE2MzE3YTU1NTdjIn0=/no-image.png?id=65cd32e25c5307f65aed" data-srcset="https://img.maximummedia.ie/sportsjoe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzEyXFxcLzE1MTQ1MzU2XFxcL0phbnV6YWotMTAyNHg1NzYuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuc3BvcnRzam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvc3BvcnRzam9lXFxcL25vLWltYWdlLnBuZz9pZD02NWNkMzJlMjVjNTMwN2Y2NWFlZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2MTkxZTYyYWQ2MmE0MjUzYmUwZDczOTRlNWM1MGRkNDRhZThiOTUxIn0=/januzaj-1024x576.jpg" alt="'I'm sure Adnan Januzaj is a millionaire... but he should have been a superstar'" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">Watch: Jacob Stockdale burns Leinster defence before dropping the ball over the line</div>
+<div class="h3">'I'm sure Adnan Januzaj is a millionaire... but he should have been a superstar'</div>
 </div>
 <ul class="meta">
-<li class="share">116 shares</li>
+<li class="share">100 shares</li>
 </ul>
 </div>
 </a>
@@ -1243,5 +1259,12 @@ We will process any Personal Data you provide to us for the following purposes:<
         googletag.cmd.push(function () { googletag.display('div-gpt-oop'); });
     </script>
 </div>
-<script src="https://www.sportsjoe.ie/assets/js/app-c162f418.js"></script> 
+<script src="https://www.sportsjoe.ie/assets/js/app-dccafef2.js"></script> 
+<script type="application/javascript">!function(n,t,a,i){n.mpfContainr||(n.mpfContainr=function(){a.push(arguments)},mpfContainr.q=a,(i=t.createElement('script')).type='application/javascript',i.async=!0,i.src='//cdn.mookie1.com/containr.js',t.head.appendChild(i))}(window,document,[]);
+mpfContainr('V2_773092',{'host': 'ie-gmtdmp.mookie1.com', 'tagType': 'learn','src.rand':'SN1vUskakV2gkKua5vbO8pR9TiCMTTyPFCDGh5BD', 'src.id' : 'sportsjoe' });
+</script>
+<noscript>
+<iframe src='//ie-gmtdmp.mookie1.com/t/v2?tagid=V2_773092&isNoScript&src.rand=SN1vUskakV2gkKua5vbO8pR9TiCMTTyPFCDGh5BD&src.id=sportsjoe' height='0' width='0' style='display:none;visibility:hidden'></iframe>
+</noscript>
+ 
 </div><iframe name="__cmpLocator" style="display: none;"></iframe></body></html>
