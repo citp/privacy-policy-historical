@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideclimatenews.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616224418id_/https%3A//insideclimatenews.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideclimatenews.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220002703id_/https%3A//insideclimatenews.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Legal Policies | InsideClimate News
 
