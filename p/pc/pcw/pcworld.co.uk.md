@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629115202id_/https%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219014028id_/https%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
-# Cookie Guide & Privacy Information | PC World
-
-[ Home ](https://www.pcworld.co.uk/gbuk/index.html)
-
-›  privacy on pc world
+# Cookie Guide & Privacy Information | Currys
 
 ## Privacy & Cookies
 
-##### If you want to opt-out of marketing please submit your request [here](https://adobefrontend-http-01.live.retail.cpwplc.com/webApp/dixAPP274?product=DIX_0001&chain=DIX) .
+**If you want to opt-out of marketing please submit your request[here](https://adobefrontend-http-01.live.retail.cpwplc.com/webApp/dixAPP274?product=DIX_0001&chain=DIX) .**
 
 ### Privacy
 
@@ -28,31 +24,31 @@ When you shop with us or use our services, you trust us with your data. We're a 
 
 Information we collect
 
-We collect personal information about you when you visit one of our stores, use our Websites ("Websites"), or use our web or mobile device applications ("Mobile Apps") or if you communicate with us by phone, e-mail and social media. We refer to our Websites and Apps collectively as "Online Services".
+We collect personal information about you when you visit one of our stores, use our Websites ("Websites"), or use our web or mobile device applications ("Mobile Apps") or if you communicate with us by phone, e-mail and social media. We refer to our Websites and Mobile device Apps collectively as "Online Services".
 
 The types of personal information we collect includes:
 
-  * Personal details such as your name, address, date of birth, email address, phone number and other contact information Transaction information, such as the product you purchased, its price, your method of payment and your payment details.
-  * Information about you like your employment details, financial position and information taken from identification documents like your passport or driving licence when we review your application for insurance or loans offered by selected third parties partners
+  * Personal details such as your name, address, date of birth, email address, phone number and other contact information, transaction information, such as the product you purchased, its price, your method of payment and your payment details which are anonymised as per PCI DSS recommended standards.
+  * Information about you like your employment details, financial position and information taken from identification documents like your passport or driving licence when we review your application for insurance or loans offered by selected third parties’ partners
   * Your account information – such as dates of payments owed and received, the subscription services you use or any other information related to your account
   * The phone numbers that you call/send messages to or the phone numbers that you receive calls/messages from.
   * The date and time of the calls and messages you send or receive through our network, and your location at the time these communications take place.
 
 
 
-When you're online the information we collect includes:
+When you're using our Online Services, the information we collect includes:
 
   * Account information, like your username, password, and other identifiers or credentials you use to access our online services or to buy our products and services, details of your shopping preferences, such as your favourite brands and products, as well as which of our stores you prefer to shop in
-  * Details of your visits to the Website, in-store WIFI or App and the resources that you access. Examples include ads that you click, device information and your location
-  * IP address and cookie data
   * Information that you provide in your dealings with us. This includes when you register to use our online services, or when you subscribe to our services or request further services and/or information from us.
+  * Details of your visits to the Website, in-store WIFI or App and the resources that you access. Examples include ads that you click, device information and location
+  * IP address and cookie data
 
 
 
 The situations when you provide personal information could include when you:
 
   * Purchase products at our stores or through our contact centre
-  * Register or use our Online Services
+  * Register or use our Online Services including mobile device applications
   * Request to receive marketing or other communications
   * Use our Wi-Fi networks or other in-store tech
   * Enter one of our competitions or when you complete one of our customer surveys
@@ -255,14 +251,16 @@ How can you stop the use of your personal data for direct marketing
 We won't send you marketing messages if you tell us not to.
 
   * You can click onto the "unsubscribe" link in any communication that we send to you by email which will automatically unsubscribe you from that type of communication. Each "unsubscribe" link only relates to that specific type of communication. Please also note that you may continue to receive Service communications in relation to the product and services we have sold to you
-  * In relation to our App(s), you can manage your preferences in the App(s)
   * Alternatively, you can unsubscribe by submitting your request [here](https://dixonsregistration.co.uk/permoptout/?referrer=4) __.
 
 
 
 Please note that it may take up to 28 days to process your request.
 
-You can also find further information within our [Direct Marketing Charter](https://currys-ssl.cdn.dixons.com/css/themes/pdf/currys-direct-marketing-charter.pdf) __.
+  * In relation to our App(s), you can manage your preferences in the App(s). For Mobile Apps, your consent for marketing notifications is collected individually for each device that you use to access our application from. So if you access the App from multiple devices, you will have to independently manage your preferences for each device which is by default switched off
+  * Changing your preferences through the Mobile App(s) will not change your marketing preferences for other channels of marketing like SMS, Email etc. To manage those preferences, you can use the ‘Unsubscribe’ link from that type of communication You can also find further information within our [Direct Marketing Charter](https://currys-ssl.cdn.dixons.com/css/themes/pdf/currys-direct-marketing-charter.pdf) __
+
+
 
 Security measures
 
@@ -280,21 +278,21 @@ After activation of a button, the social network can retrieve data, independentl
 
 If you're a member of a social network and don’t want that network to combine data retrieved from your visit to our websites with data they hold on you, you must log out from the social network concerned before activating the buttons.
 
-### Website cookies
+### Cookies
 
 The purpose of our Cookies Policy is to help explain what they are, why you are collecting them, and what information cookies store.
 
 What are cookies?
 
-Like most websites, Dixons Carphone PLC websites use cookies to collect information. Cookies are small data files which are placed on your computer or other devices (such as smart 'phones or 'tablets') as you browse this website. They are used to ‘remember’ when your computer or device accesses our websites. Cookies are essential for the effective operation of our websites and to help you shop with us online. They are also used to tailor the products and services offered and advertised to you, both on our websites and elsewhere.
+Like most websites and Mobile Apps, Dixons Carphone PLC websites use cookies to collect information. Cookies are small data files which are placed on your computer or other devices (such as smart 'phones or 'tablets') as you browse this website or the Mobile App. They are used to ‘remember’ when your computer or device accesses our websites or Mobile App. Cookies are essential for the effective operation of our websites and to help you shop with us online. They are also used to tailor the products and services offered and advertised to you, both on our websites and elsewhere.
 
 Information collected
 
-Some cookies collect information about browsing and purchasing behaviour when you access this website with the same computer or device. This includes information about pages viewed, products purchased and your journey around a website. We don't use cookies to collect or record information on your name, address or other contact details. Dixons Carphone PLC can use cookies to monitor your browsing and purchasing behaviour.
+Some cookies collect information about browsing and purchasing behaviour when you access this website or the Mobile App with the same computer or device. This includes information about pages viewed, products purchased and your journey. We don't use cookies to collect or record information on your name, address or other contact details. Dixons Carphone PLC can use cookies to monitor your browsing and purchasing behaviour.
 
 How are cookies managed?
 
-The cookies stored on your computer or other devices when you access our websites are designed by:
+The cookies stored on your computer or other devices when you access our websites or Mobile App are designed by:
 
   * Dixons Carphone PLC, or on behalf of and subsidiaries of Dixons Carphone PLC, and are necessary to let you make purchases on our website;
   * third parties who participate with us in marketing programmes; and
@@ -308,7 +306,7 @@ The main purposes for which cookies are used are: -
 
   1. For technical purposes essential to effective operation of our websites, particularly in relation to on-line transactions and site navigation.
   2. For Dixons Carphone PLC to market to you, particularly web banner advertisements and targeted updates.
-  3. To let Dixons Carphone PLC to collect information about your browsing and shopping patterns, including to monitor the success of campaigns, competitions etc. 
+  3. To let Dixons Carphone PLC to collect information about your browsing and shopping patterns, including to monitor the success of campaigns, competitions etc.
   4. To let Dixons Carphone PLC meet its contractual obligations to make payments to third parties when you purchase a product visiting our website from a site operated by those parties.
 
 
@@ -321,15 +319,16 @@ If you want to disable cookies you need to change your website browser settings 
 
   1. Choose the menu "tools" then "Internet Options"
   2. Click on the “privacy” tab
-  3. Select the setting the appropriate setting
+  3. Select the appropriate setting
 
 
 
 #### For Google Chrome:
 
   1. Choose Settings > Advanced
-  2. Under "Privacy and security," click “Content settings”.
-  3. Click “Cookies”
+  2. Under "Privacy and security," click “Site settings”.
+  3. Click “Cookies and Site data”
+  4. Select the appropriate setting
 
 
 
@@ -357,7 +356,7 @@ If you want to disable cookies you need to change your website browser settings 
 
 What happens if I disable cookies?
 
-This depends on which cookies you disable, but in general the website may not operate properly if cookies are switched off. If you only disable third party cookies, you will not be prevented from making purchases on our sites. If you disable all cookies, you won’t be able to complete a purchase on our sites.
+This depends on which cookies you disable, but in general the website may not operate properly if cookies are switched off. If you only disable third party cookies, you will not be prevented from making purchases on our sites and mobile apps. If you disable all cookies, you won’t be able to complete a purchase on our sites and mobile apps.
 
   
 
@@ -376,11 +375,12 @@ PO Box 689
 SALFORD  
 M5 OPD
 
+  
+
+
 #### Complaining to the Data Protection Regulator
 
-You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO's website for further details at: [https://ico.org.uk](https://ico.org.uk/) __
-
-#### Changes to this Policy
+You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO's website for further details at: [https://ico.org.uk](https://ico.org.uk/) __ Alternatively our Data Protection Officer can be contacted via [dpo@dixonscarphone.com](mailto:dpo@dixonscarphone.com)
 
 We may review this policy from time to time and any changes will be notified to you by posting an updated version on our website and/or by contacting you by email.
 
