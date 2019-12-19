@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the fifarenderz.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330203349id_/https%3A//fifarenderz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifarenderz.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219092530id_/https%3A//fifarenderz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FIFA Mobile Database
-
-## Privacy Policy
-
-_Version 1.0.1_
+# Privacy Policy | FIFA Mobile 20 | FIFARenderZ
 
 * * *
 
@@ -28,7 +24,7 @@ You can opt-out of Google Adsense in your own Google account. This site or the o
 
 Yes. Every user has the right to delete their data. This includes everything that is saved on the site. If you would like to get in contact, you can send an email to 
 
-_fifarenderz@gmail.com_
+_info@fifarenderz.com_
 
 . The message must be written in English, you will not get a response if the message is written in any other language. The maximum response time is 7 business days. 
 
@@ -41,6 +37,6 @@ APPLE, GOOGLE AND AMAZON ARE NOT A SPONSOR NOR ARE INVOLVED IN ANY WAY IN THIS C
 
 You can contact the site's owner via email (
 
- _fifarenderz@gmail.com_
+ _info@fifarenderz.com_
 
 ) for any further information. The message must be written in English, you will not get a response if the message is written in any other language. The maximum response time is 7 business days. 
