@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artuk.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331083537id_/https%3A//artuk.org/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artuk.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219143751id_/https%3A//artuk.org/footer/privacy-policy) for the most accurate reproduction.*
 
 # Art UK | Privacy policy
 
@@ -132,7 +132,7 @@ If you have any questions or concerns regarding our use of your personal data or
 
 **Art UK Shop Privacy Policy**
 
-The Art UK Shop, [www.artuk.org/shop](https://artuk.org/shop/), ( **Art UK  Shop**) is independently operated by Heritage Digital Ltd. of Sherwood House, 7 Gregory Boulevard, Nottingham, NG76LB (company number 09940667).
+The Art UK Shop, [www.artuk.org/shop](http://www.artuk.org/shop), (Art UK Shop) is independently operated by Heritage Digital Ltd. of Cromford Mills, Mill Lane, Cromford, Derbyshire DE4 3RQ (company number 09940667).
 
 Heritage Digital Ltd is committed to complying with the General Data Protection Regulation (GDPR) and the Data Protection Act 2018. Heritage Digital Ltd. is committed to maintaining the privacy and security of your personal information. To comply with UK and European Law we are registered with the Information Commissioner's Office (ICO). Our UK registration number is ZA348989.
 
