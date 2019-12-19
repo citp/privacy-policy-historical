@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixbook.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323224019id_/https%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixbook.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219192914id_/https%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
 
 # Mixbook Privacy Policy - Mixbook
 
@@ -90,27 +90,6 @@ We collect information necessary for 3rd party social media integrations (e.g. F
 ### Collaboration
 
 At your request, we collect the email addresses of other people you wish to share your projects with. We use those emails to send them an invitation to view and edit your project.
-
-### WedPics Website And Mobile Application (“WedPics”)
-
-Name and Profile Picture. Our mobile application WedPics and its associated website are designed to make it easy for you to find and connect with others. For this reason, your name and profile picture do not have privacy settings. If you are uncomfortable with sharing your profile picture, you should delete it (or not add one).
-
-Contact Information. Your contact information settings control who can contact you on WedPics, and who can see your contact information such as your media. Remember that none of this information is required except for your email address, and you do not have to share your email address with anyone.
-
-User Content. When uploading a photo, you can control exactly who can see it by selecting the event in which it will be stored. The specified event will determine who will be able to see your media.
-
-Other. Here are some other things to remember:
-
-  * Some of the content you share and the actions you take will be displayed on WedPics and be visible to your contacts or other WedPics users and third-party partners.
-
-  * Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users.
-
-  * You understand that information might be reshared or copied by other users and displayed by third-party partners of the Website.
-
-  * If you use an external source to publish information to WedPics (such as a mobile application or another website), you should check the privacy setting for that post, as it is set by that external source.
-
-
-
 
 ## Sharing Your Information With Third Parties
 
