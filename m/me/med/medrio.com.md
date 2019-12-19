@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the medrio.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123172150id_/https%3A//medrio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medrio.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219081811id_/https%3A//medrio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Medrio
+# Medrio Privacy Policy | Medrio eClinical Solutions
+
+## Privacy Policy
 
 ### Effective as of May 30, 2017
 
