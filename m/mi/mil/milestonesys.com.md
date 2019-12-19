@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milestonesys.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630115914id_/https%3A//www.milestonesys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milestonesys.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219045542id_/https%3A//www.milestonesys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ Milestone has outsourced certain functions to our service provides and we may sh
 **Consent**  
 We may ask for your consent to allow Milestone to contact you, or to keep you posted on Milestone’s latest announcements, or to receive our free newsletter or other marketing activities, online surveys and competitions. You will find consent forms when using Milestone’s website, including when you open a My Milestone account. We will use your email address and other personal data you provide for these marketing activities and for uses as stated in this Privacy Policy.
 
-If you do not want to be on our mailing list for one or more marketing activities, you can opt out anytime by updating your preferences or withdraw you consents by contacting us using this link <http://pardot.milestonesys.com/preferences> or by accessing your My Milestone account at [https://www.milestonesys.com/my-milestone/](https://web.archive.org/link/1f4422c27c1b4523874d95aac3e17e9f.aspx).
+If you do not want to be on our mailing list for one or more marketing activities, you can opt out anytime by updating your preferences or withdraw you consents by contacting us using [this link](https://pardot.milestonesys.com/preferences?epc_hash=FHmZ_64RVPy5bNsGooMMwzaJbwHXRSUV_Qu1b1rElEo) or by accessing your My Milestone account at [https://www.milestonesys.com/my-milestone/](https://web.archive.org/link/1f4422c27c1b4523874d95aac3e17e9f.aspx).
 
 We will store your personal data while you receive our marketing material and up to six (6) months after you have ceased to be a potential customer for our marketing purposes.
 
