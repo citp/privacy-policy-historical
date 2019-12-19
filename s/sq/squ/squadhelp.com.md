@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331174555id_/https%3A//www.squadhelp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219040511id_/https%3A//www.squadhelp.com/privacy-policy) for the most accurate reproduction.*
 
 # Business Name Ideas| Naming & Logo Contests| Brand Name Ideas
 
