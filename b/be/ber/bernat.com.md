@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bernat.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628022355id_/http%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bernat.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219024856id_/https%3A//www.yarnspirations.com/row-en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Yarnspirations
 
@@ -8,7 +8,7 @@
 
 Spinrite LP (“Spinrite”, “we”, “us” or “our”) respects your privacy and pledges to earn and keep your trust. All personal information that we collect from you is maintained in accordance with this Privacy Policy (the “Policy”) and will not be used in ways that are contrary to this Policy. “Personal information” is any information that identifies you, or by which your identity could be deduced. **(Business contact information is a category of personal information (e.g., an individual’s name, business title, business address or business telephone number), which is defined as any information used for the purpose of communicating or facilitating communication with an individual in relation to their employment, business or profession. Organizations can collect, use and disclose business contact information without consent as long as it is used solely for the purpose of communicating or facilitating communication with someone with respect to his/her job.**
 
-This policy is incorporated by reference to our [Terms of Use](http://www.yarnspirations.com/terms.html).
+This policy is incorporated by reference to our [Terms of Use](https://www.yarnspirations.com/row-en/terms.html).
 
 #### Your Consent
 
@@ -24,7 +24,7 @@ Like many other websites, we also use passive tracking technologies and third-pa
 
 **Cookies**
 
-At times we send your computer a "cookie," a small piece of data that is stored in a file on your hard drive. The use of cookies is standard procedure for websites, and those from our website are secure and do not carry viruses. We use cookies to give you better, more personalized service once you've become a member of our website. This information is for internal use only; we don't share it with others. You're always free to decline our cookies if your browser permits, but some parts of our website may not work properly for you if you do. You can read our complete Cookies Policy [here](http://www.yarnspirations.com/cookies.html).
+At times we send your computer a "cookie," a small piece of data that is stored in a file on your hard drive. The use of cookies is standard procedure for websites, and those from our website are secure and do not carry viruses. We use cookies to give you better, more personalized service once you've become a member of our website. This information is for internal use only; we don't share it with others. You're always free to decline our cookies if your browser permits, but some parts of our website may not work properly for you if you do. You can read our complete Cookies Policy [here](https://www.yarnspirations.com/row-en/cookies.html).
 
 **IP Address Tracking**
 
@@ -34,7 +34,7 @@ All computers and servers on the Internet use IP addresses to recognize and comm
 
 We may also collect information if you engage with our website through a third-party social media platform. For example, if you interact with us by using a hashtag on Twitter or Instagram, we and other users of the social media platform may be able to view your profile, depending on your privacy settings on that platform. Your use of third party platforms remains subject to the terms and conditions and privacy policies that you have agreed to with such platforms.
 
-#### Use of Personal Information
+#### How we use your Personal Information
 
 Personal information collected by us is used internally by our authorized employees for three main purposes: First, we collect personal information to figure out which areas, features, and products are liked the most and found most helpful by our visitors, so we can continue to improve the website. Second, we collect personal information in order to customize the website for our users (for example, it allows us to know if you're a member or not). Finally, we collect personal information to enable our users to participate in sweepstakes, contests, services, and other activities on our website.
 
@@ -51,7 +51,7 @@ Specifically, we collect your personal information as in order to:
 
 
 
-#### Disclosure of Personal Information
+#### Sharing of Personal Information
 
 We will never sell or rent your information to third parties. However, we may share your information with other parties in certain situations, such as service providers acting on our behalf to provide services to you.
 
@@ -65,6 +65,10 @@ Your personal information will only be disclosed to third parties in the followi
   * if the personal information is already publicly known.
 
 
+
+**Our Partners**
+
+We may share your personal information with our business partners when you grant us permission to share the personal data, e.g. by opting-in to email communications from a business partner on the Yarnspirations website. Please be aware that these partners are governed by separate privacy policies. 
 
 **Service Providers**
 
@@ -95,7 +99,7 @@ You have some choices when it comes to online behavioural advertising: [We adher
 
 
 
-For more information, including how to opt out of having your online behavior collected for advertising purposes or to exercise choice for companies participating in the DAA tool, please see [www.aboutads.info](https://web.archive.org/web/20180628022355id_/http%3A//www.yarnspirations.com/www.aboutads.info). Choices you make are both browser and device-specific.
+For more information, including how to opt out of having your online behavior collected for advertising purposes or to exercise choice for companies participating in the DAA tool, please see [www.aboutads.info](https://web.archive.org/web/20191219024856id_/https%3A//www.yarnspirations.com/row-en/www.aboutads.info). Choices you make are both browser and device-specific.
 
 #### Do Not Track
 
@@ -159,4 +163,4 @@ Like many other websites, our website contains links to other third party websit
 
 We may modify this Policy at any time, and such modifications shall be effective as soon as the modified Policy is posted. Accordingly, you agree to review the Policy periodically, and your continued access or use of this website shall be deemed your acceptance of the modified Policy.
 
-If you have any questions or comments about our Privacy Policy, please contact Department at inquire@yarnspirations.com or by submitting an inquiry on our [Contact Us page](https://www.yarnspirations.com/contactus "Go to Contact Us") of this website.
+If you have any questions or comments about our Privacy Policy, please contact Department at inquire@yarnspirations.com or by submitting an inquiry on our [Contact Us page](https://www.yarnspirations.com/row-en/contactus "Go to Contact Us") of this website.
