@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slingshot.co.nz privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123001341id_/https%3A//www.slingshot.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingshot.co.nz privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219053451id_/https%3A//www.slingshot.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Slingshot Broadband
 
@@ -6,7 +6,7 @@ Slingshot ( **we, us, our** ) complies with the New Zealand Privacy Act 1993 (th
 
 This policy sets out how we will collect, use, disclose and protect your personal information. 
 
-This policy does not limit or exclude any of your rights under the Act. If you wish to seek further information on the Act, see [www.privacy.org.nz](https://web.archive.org/web/20190123001341id_/https%3A//www.slingshot.co.nz/www.privacy.org.nz). 
+This policy does not limit or exclude any of your rights under the Act. If you wish to seek further information on the Act, see [www.privacy.org.nz](https://web.archive.org/web/20191219053451id_/https%3A//www.slingshot.co.nz/www.privacy.org.nz). 
 
 ### Changes to this policy
 
