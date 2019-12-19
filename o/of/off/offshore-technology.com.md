@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offshore-technology.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401152509id_/https%3A//www.verdict.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offshore-technology.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219230955id_/https%3A//www.verdict.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Verdict
+# Privacy Policy - Verdict
 
 This Privacy Policy sets out how Verdict Media Limited collects and uses information from users (“User” or “you”) of our website and/or any website which is operated by Verdict Media Limited (“Verdict Media Limited”, “our”, “we” or “us”). This Privacy Policy applies to the Website and all products and services offered by Verdict Media Limited.
 
