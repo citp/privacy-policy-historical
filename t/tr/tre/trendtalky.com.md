@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendtalky.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130033827id_/http%3A//www.trendtalky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendtalky.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219033051id_/https%3A//trendtalky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trend Talky
 
