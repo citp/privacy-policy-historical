@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elgoog.im privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418174647id_/https%3A//elgoog.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elgoog.im privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219225447id_/https%3A//elgoog.im/privacy) for the most accurate reproduction.*
 
 # Terms of Service and Privacy Policy
 
