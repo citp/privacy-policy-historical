@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330234747id_/https%3A//www.ansys.com/footer/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219210533id_/https%3A//www.ansys.com/footer/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy | ANSYS
 
