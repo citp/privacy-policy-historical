@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newairplane.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623121546id_/http%3A//www.boeing.com/privacy-and-cookie-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newairplane.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219212840id_/http%3A//www.boeing.com/privacy-and-cookie-policy.page) for the most accurate reproduction.*
 
 # Boeing: Privacy and Cookie Policy
 
@@ -24,10 +24,11 @@ Children’s privacy
 Exercise of rights per the European Union General Data Protection Regulation  
 Corporate changes  
 Contact us  
+Jeppesen EU-U.S. and Swiss-U.S. Privacy Shield Statement  
 Statement revision
 
-**Collection and use of personal information  
-**Boeing Services collect personal information from and about individuals for a variety of purposes. In some cases, Boeing requests personal information from you, or from your employer in the case of organizational Services. In other cases, we obtain personal information by noting how you and the devices you use interact with our Services. Examples of personal information include:
+**Collection and use of personal information**  
+Boeing Services collect personal information from and about individuals for a variety of purposes. In some cases, Boeing requests personal information from you, or from your employer in the case of organizational Services. In other cases, we obtain personal information by noting how you and the devices you use interact with our Services. Examples of personal information include:
 
   * first and last names
   * job titles or roles
@@ -66,7 +67,7 @@ You can choose to follow our brands and companies on social media, or log in to 
 
 We acquire data from third-party sources that are either publicly or commercially available. This information includes personal data such as your name, address, email address, preferences, interests, and demographic data. We combine personal information collected through our Services with other information that we or third parties collect about you in other contexts, such as our communications with you via email or phone, or your customer service records. We treat such combined information as personal information and protect it in accordance with this Statement.
 
-**Collection and use of location data**   
+**Collection and use of location data**  
 Boeing applications use geolocation features (GPS or network-based) to support your use of location-based tools such as airport/map views, city code searches and other features, as well as to improve Boeing applications. When you use Boeing Services, we collect and process information about your pinpointed location, after obtaining consent as required by local law. We use various technologies to determine location, including IP address, GPS, and other sensors that, for example, provide us with information on nearby devices, Wi-Fi access points, and cell towers. Location data is used in accordance with Collection and use of personal information, and disclosed in accordance with Disclosure of personal information.You are able to withdraw your permission for Boeing to acquire pinpointed location information from your device through your device settings, although Boeing does not control this process. If your device is owned by your organization, your ability to withdraw your permission for pinpointing location information will depend on your organization’s policies.
 
 **Information collected automatically  
@@ -107,25 +108,25 @@ Service Improvement
 
 | 
 
-These cookies help us improve our Services and your browsing experience. Blocking or deleting these cookies will not impact Service functionality. For details and to opt out, see [Cookies and tracers](http://www.boeing.com/privacy-and-cookie-policy.page#cookiesandtracers).  
+These cookies help us improve our Services and your browsing experience. Blocking or deleting these cookies will not impact Service functionality. For details and to opt out, see Cookies and tracers.  
   
 Analytics
 
 | 
 
-These cookies help us understand how visitors engage with our Services through collection of usage statistics. Examples of the types of data collected include IP addresses, referral pages, date and time of Service access, and Service visited. Some of these cookies are placed on your device by a third party with which we contract to provide certain services. Blocking or deleting these cookies will not impact Service functionality. For details and to opt out, see [Third-party cookies and tracers](http://www.boeing.com/privacy-and-cookie-policy.page#thirdpartycookiesandtracers).  
+These cookies help us understand how visitors engage with our Services through collection of usage statistics. Examples of the types of data collected include IP addresses, referral pages, date and time of Service access, and Service visited. Some of these cookies are placed on your device by a third party with which we contract to provide certain services. Blocking or deleting these cookies will not impact Service functionality. For details and to opt out, see Third-party cookies and tracers.  
   
 Advertising and Remarketing
 
 | 
 
-These cookies are used to understand and deliver ads, make them more relevant to you, and analyze the effectiveness of our advertising programs. They use the fact that you visited our Services to target online ads for Boeing Services to you on non-Boeing websites. Some of these cookies are placed on your device by a third party with which we contract to provide certain services. Blocking or deleting these cookies will not impact Service functionality. For details and to opt out, see [Interest-based advertising](http://www.boeing.com/privacy-and-cookie-policy.page#interestbasedadvertising).  
+These cookies are used to understand and deliver ads, make them more relevant to you, and analyze the effectiveness of our advertising programs. They use the fact that you visited our Services to target online ads for Boeing Services to you on non-Boeing websites. Some of these cookies are placed on your device by a third party with which we contract to provide certain services. Blocking or deleting these cookies will not impact Service functionality. For details and to opt out, see Interest-based advertising.  
   
 Social Features
 
 | 
 
-These cookies allow you to more easily share our Service content on social networks, or share your comments with other Service visitors. Some of these cookies are placed on your device by a third party with which we contract to provide certain services. Blocking or deleting these cookies will not impact Service functionality. For details and to opt out, see [Third-party cookies and tracers](http://www.boeing.com/privacy-and-cookie-policy.page#thirdpartycookiesandtracers).  
+These cookies allow you to more easily share our Service content on social networks, or share your comments with other Service visitors. Some of these cookies are placed on your device by a third party with which we contract to provide certain services. Blocking or deleting these cookies will not impact Service functionality. For details and to opt out, see Third-party cookies and tracers.  
   
 Security and   
 Authentication
@@ -160,7 +161,7 @@ For more information on opting out of mobile interest-based advertising, please 
 
 
 **Cross-device tracking**  
-Data collected from a particular browser, app, or device can be used with a linked computer or device. For example, we or our third-party service providers display ads to you on your laptop or other device based on the fact that you visited Boeing Services on your smartphone. You can opt out of cross-device tracking on each of your browsers and devices by using the links provided above (see [Interest-based advertising](http://www.boeing.com/privacy-and-cookie-policy.page#interestbasedadvertising)). Please note that the opt-out will apply only to the specific browser or device from which you opt out, and you need to opt out separately on all of your browsers and devices.
+Data collected from a particular browser, app, or device can be used with a linked computer or device. For example, we or our third-party service providers display ads to you on your laptop or other device based on the fact that you visited Boeing Services on your smartphone. You can opt out of cross-device tracking on each of your browsers and devices by using the links provided above (see Interest-based advertising). Please note that the opt-out will apply only to the specific browser or device from which you opt out, and you need to opt out separately on all of your browsers and devices.
 
 **Organizational Services Data  
 **Many Boeing Services are intended for use by organizations. If you interact with our Services through an account provided by your organization, the organization typically administers your Services account, and controls and accesses your data, including the contents of files stored on our Services. Boeing is not responsible for the privacy or security practices of organizational customers, which differ from those set forth in this Statement, as they are administered by these organizations. The types of data processed by our Services include the following:
@@ -234,7 +235,7 @@ In general, Boeing does not knowingly collect, use or disclose personal informat
 However, some Services may collect, use or disclose personal information from children (as defined by local law) where it is necessary to do so; for example, a child member of a group using International Trip Planning Services (ITPS). This information is necessary to fulfil travel arrangements, ensure safety, to meet legal and regulatory requirements, and to provide, or arrange for appropriate assistance or facilities where necessary. This information will be collected with the consent of a responsible adult or guardian where possible. The personal information will be appropriately designated for extra protections and review and removal at the earliest opportunity. This personal information from children will be flagged to avoid direct marketing.
 
 **Exercise of rights per the European Union General Data Protection Regulation**  
-The following table is provided to facilitate the rights of individuals under Chapter III of REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) also known as the GDPR. We hope that the following questions and answers concerning Services and this web site are as concise, transparent, and intelligible as possible.  We welcome [suggestions for improvement](mailto:chiefprivacyofficer@exchange.boeing.com?subject=Suggestion%20concerning%20Privacy%20Notice%207013&body=https://globalprivacy.web.boeing.com/privacy_statement.asp?ID=7013) of the content presented below:
+The following table is provided to facilitate the rights of individuals under Chapter III of REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) also known as the GDPR. We hope that the following questions and answers concerning Services and this web site are as concise, transparent, and intelligible as possible. We welcome [suggestions for improvement](mailto:chiefprivacyofficer@exchange.boeing.com?subject=Suggestion%20concerning%20Privacy%20Notice%207013&body=https://globalprivacy.web.boeing.com/privacy_statement.asp?ID=7013) of the content presented below:
 
 **   Question** | **Answer**  
 ---|---  
@@ -298,7 +299,7 @@ Is the data subject required to provide personal information to Boeing Services,
 
 | 
 
-Provision of personal information for this processing activity is not required.  Failure to provide information can have a wide variety of impacts, depending on what information is not provided: services may not be available, access may be withdrawn, and system functionality may be impaired.  
+Provision of personal information for this processing activity is not required. Failure to provide information can have a wide variety of impacts, depending on what information is not provided: services may not be available, access may be withdrawn, and system functionality may be impaired.  
   
 What specific privacy rights may the individuals whose personal data is processed by Boeing Services have, and how can they be exercised?
 
@@ -333,7 +334,7 @@ How long will the personal data be retained by Boeing Services?
 
 | 
 
-Data will be retained only as long as it continues to be needed for one of the purposes for which it is originally collected.  Generally this is as long as a Boeing has a business relationship with a person, plus a period after that where there is a legal or regulatory reason to retain a records about the relationship.  The company maintains a records management system to identify the retention schedule for all records, including records that contain personal data.  
+Data will be retained only as long as it continues to be needed for one of the purposes for which it is originally collected. Generally this is as long as a Boeing has a business relationship with a person, plus a period after that where there is a legal or regulatory reason to retain a records about the relationship. The company maintains a records management system to identify the retention schedule for all records, including records that contain personal data.  
   
 What categories of personal data are processed by Boeing Services?
 
@@ -353,13 +354,17 @@ If you interact with our Services through an account provided by your organizati
 
 If you have an access, correction, or deletion request, or questions or comments about Boeing privacy practices, please contact the Boeing Global Privacy Office using this [form](https://web.archive.org/privacy/rightsexerciseportal) or one of the following methods:
 
+**Jeppesen EU-U.S. and Swiss-U.S. Privacy Shield Statement**  
+Jeppesen participates in and has certified compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom to the United States, and from Switzerland to the United States, respectively. If there is any conflict between the terms in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [privacyshield.gov](https://www.privacyshield.gov/welcome). Read the [Jeppesen EU-U.S. and Swiss-U.S. Privacy Shield Notice](https://ww2.jeppesen.com/legal/eu-u-s-and-swiss-u-s-privacy-shield-notice/).
+
 **Statement revision**  
 When we modify our Privacy Statement, we will post the updated statement here, with an updated effective date, as indicated below. If we change the Statement in a material way, we will provide appropriate notice to you.
 
-Effective Date: May 22, 2019
+Effective Date: June 25, 2019
 
 View previous versions:
 
+  * [Boeing Privacy and Cookie Statement (May 22, 2019)](https://web.archive.org/specialty/noindex/privacy-and-cookie-policy/privacy-cookies-policy-05-22-19.page)
   * [Boeing Privacy and Cookie Statement (March 7, 2019)](https://web.archive.org/specialty/noindex/privacy-and-cookie-policy/privacy-cookies-policy-03-07-19.page)
   * [Boeing Privacy and Cookie Statement (May 22, 2018)](https://web.archive.org/specialty/noindex/privacy-and-cookie-policy/privacy-cookies-policy-05-22-18.page)
   * [Boeing Privacy and Cookie Statement (May 1, 2018)](https://web.archive.org/specialty/noindex/privacy-and-cookie-policy/privacy-cookies-policy-05-01-18.page)
