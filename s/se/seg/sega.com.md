@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609222218id_/https%3A//www.sega.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219152023id_/https%3A//www.sega.com/Privacy) for the most accurate reproduction.*
 
 # SEGA US - Privacy Policy | SEGA
 
