@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418135408id_/https%3A//www.torrid.com/torrid/customer-service/about-torrid/td-customerservice-abouttorrid-privacyresponsibility.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219202749id_/https%3A//www.torrid.com/torrid/customer-service/about-torrid/td-customerservice-abouttorrid-privacyresponsibility.html) for the most accurate reproduction.*
 
 # Privacy & Responsibility | Torrid
 
 ## Torrid PRIVACY POLICY
 
-Effective Date: January 23, 2003; Last Updated: May 24, 2018 
+Effective Date: January 23, 2003; Last Updated: October 10, 2019 
 
 * * *
 
@@ -24,7 +24,7 @@ We collect contact information. We collect your name and email address. We also 
 
 We collect demographic information. We may collect your date of birth. We may also collect your age, gender and zip code.
 
-We collect information you provide us. We collect photos you upload to our site. We collect other information you may post on our sites and apps. 
+We collect information you provide us. We collect photos you upload to our site. We collect other information you may post on our sites and apps. This includes information you provide us on your social networking sites, such as social media account ID, profile photo and other data publicly available, or data made available by linking your social media and loyalty accounts.
 
 We collect payment information. If you make purchases with us we collect your payment card number and billing address.
 
@@ -38,11 +38,25 @@ We Collect Information In a Variety of Ways.
 
 * * *
 
-We collect information directly from you. We collect information when you place an order or register for an account. We also collect information when you become a member of our loyalty program. We collect information if you maintain a “wish list” or enter contest. We also collect information if you sign up to receive our newsletter. We collect information if you contact us through our sites or apps.
+We collect information directly from you. We collect information when you place an order or register for an account. We also collect information when you become a member of our loyalty program. We collect information if you maintain a “wish list” or enter contest. We also collect information if you sign up to receive our newsletter. We collect information if you contact us through our sites or apps. We collect information when you connect your social media accounts to your Torrid account or post to social media pages.
 
 We collect information about you passively . We use tracking tools like browser cookies, web beacons and pixels. We do this on our website and in emails we send to you. We collect information about users over time when they use our websites. This includes usage and browser information. We may have third parties collect information this way.
 
-We get information about you from third parties. Third parties who give us information include social media sites and third party apps. We may also collect information from users of third party sites who give us access to their profiles. We also get information from business partners. You may also give us information about third parties. This would include as part of our “tell a friend” type features. 
+We get information about you from third parties. Third parties who give us information include social media sites and third party apps. Social media platforms may give us information associated with your social media account (such as your name, username, email address, phone number, profile picture, profile URL, follows/followers, or gender). We may also collect information from users of third party sites who give us access to their profiles. We also get information from business partners. You may also give us information about third parties. This would include as part of our “tell a friend” type features. 
+
+We collect information from your social media accounts if you give us permission. To create an account on our sites or apps, you may link your social media accounts and use your log-in credentials from social media sites such as Facebook, Twitter, Pinterest, Instagram, and other similar sites ("Social Media Account"). If you choose to link your Social Media Account, you allow us to access and collect your information from that Social Media Account. Depending on the terms of the social media site, this information could include: your name, email address, profile picture, profile URL, gender, networks, user ID, list of friends, information related to friends and followers, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and location, posted messages and content and other data publicly available or data made available by linking your social media and loyalty accounts. Once you grant this permission, we will continue to be linked to the permitted Social Media Account and collect information without a further request for permission, which could include later revisions to existing information or new types of information that you add. This privacy policy does not cover the privacy and security practices for the sites where you have Social Media Accounts. You must comply with the social media sites’ own terms of service and privacy policies. Please review the terms of service and privacy policies on the social media sites where you have Social Media Accounts if you have any questions about appropriate use of their sites, as well as their privacy and security practices.
+
+If you no longer want your Social Media Account(s) linked to our sites or apps, log into your Torrid account and click on ”edit” below the social media site icons to edit your connection to the particular site.
+
+We are also available to directly assist you in unlinking your Social Media Accounts. Please email us your request at internetadministrator@torrid.com.
+
+You may also submit a written request by contacting us at:  
+Internet Administrator   
+Internet Department   
+Social media Opt-Outs   
+18501 East San Jose Avenue   
+City of Industry, CA 91748   
+(626)-709-1194 Fax 
 
 * * *
 
@@ -146,6 +160,8 @@ We May Link to Other Sites or Have Third Party Services We Don’t Control.
 * * *
 
 We may link to third-party sites. Our sites and apps may also include third party content that collects information. We do not control these third parties. This Policy does not apply to the privacy practices of that website. Please read the privacy policy of other websites carefully. We are not responsible for the practices of these third-party sites.
+
+We may also offer you the ability to interact with social plugins from social media sites, which may allow us and/or the social media site to receive data from or about you. Similarly, if you have previously provided personal information to a third-party operating a plug-in on this Site, then such third-party may recognize you on this Site. Your use of social network plugins is subject to each social media site’s terms of use and/or privacy policy, which may be different from ours, so please read these policies carefully to understand their policies and your options. As with linked sites, we have no control over the information that is collected, stored, or used by social network plugins, and are not responsible for the practices of such sites.
 
 * * *
 
