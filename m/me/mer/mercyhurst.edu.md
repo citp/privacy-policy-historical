@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercyhurst.edu privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422140543id_/https%3A//www.mercyhurst.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercyhurst.edu privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219200501id_/https%3A//www.mercyhurst.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercyhurst University
 
