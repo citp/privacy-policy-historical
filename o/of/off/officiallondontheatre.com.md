@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officiallondontheatre.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322031341id_/https%3A//officiallondontheatre.com/privacy/%23official-london-theatre) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officiallondontheatre.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219021639id_/https%3A//officiallondontheatre.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Official London Theatre
 
@@ -86,6 +86,8 @@ If you are a child, please read our privacy notice for children which sets out h
 
 We have set out in the table below a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate. Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data:
 
+<!— TKTS – Added 7-9-18 —><!— TKTS – Added 7-9-18 —>
+
 **Data used and purpose** | **Lawful basis for processing including basis of legitimate interest**  
 ---|---  
 To register you as a user of our website we use your Identity and Contact, Profile & Marketing & Communications Data | Performance of a contract with you  
@@ -112,9 +114,9 @@ To administer and protect our business and this website (including troubleshooti
 To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you we use your Identity, Contact, Profile, Usage, Marketing and Communications and Technical Data | Necessary for our legitimate interests (to study how members use our services, to develop them, to grow our business and to inform our marketing strategy)  
 To use data analytics to improve our website, products/services, marketing, customer relationships and experiences we use your Technical and Usage Data | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
 To make suggestions and recommendations to you about goods or services that may be of interest to you we would use your Identity, Contact, Technical, Usage and Profile Data | Necessary for our legitimate interests (to develop our products/services and grow our business)  
-To promote and publicise Kids Week (where you have consented to our recording your image) we use your Identity Data Data | Consent / Necessary for our legitimate interests to promote our events and our work and grow our business  
+To promote and publicise Kids Week (where you have consented to our recording your image) we use your Identity Data | Consent  
 To administer Kids Week activities we use your Identity Data | Necessary for our legitimate interests to run our events and activities  
-In case we need to contact you about your booking after you purchase a ticket at TKTS, we will use your Identity and Contact Data   | Performance of a contract with you   
+In case we need to contact you about your booking after you purchase a ticket at TKTS, we will use your Identity and Contact Data | Performance of a contract with you  
 To process your transaction when you purchase a ticket at TKTS we will use your Transaction Data | Performance of a contract with you  
   
   7. **Disclosure of your personal data**
