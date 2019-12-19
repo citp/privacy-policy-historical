@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inthesetimes.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602025015id_/http%3A//inthesetimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthesetimes.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219123745id_/http%3A//inthesetimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - In These Times
 
