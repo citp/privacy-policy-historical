@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armstrong.edu privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423142910id_/https%3A//www.georgiasouthern.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrong.edu privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219103139id_/https%3A//www.georgiasouthern.edu/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Georgia Southern University
 
@@ -17,6 +17,8 @@ This policy may be changed from time to time and without further notice. Continu
 ### 1\. Information We Gather
 
 Georgia Southern University may collect certain information that is automatically generated when a user visits a site, including, but not limited to, the Internet Protocol address of the originating Internet Service Provider, and information provided by “cookies” stored on your hard drive. We may also collect aggregate information about the use of the sites, including, but not limited to, which pages are most frequently visited, how many visitors we receive daily, and how long visitors stay on each page. A visitor may be prompted or required to provide certain personal information in order to access various features and information on the sites. Such information may include, among other things, name, address, and phone number. If a visitor does not want to provide such information, he or she may choose not to access those features of the sites. Any personal information provided through the sites will be protected in accordance with the provisions of this Policy.
+
+Georgia Southern University also uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example completing a form/application. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. By continuing to use this site, you are agreeing to the use of cookies. You can opt out of this at any time by [updating the ad settings](http://www.google.com/settings/ads) within your browser or by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### 2\. Use of Information
 
