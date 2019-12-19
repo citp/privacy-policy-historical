@@ -1,131 +1,217 @@
-> *The following text is extracted and transformed from the flowcontrolnetwork.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216034157id_/http%3A//grandviewmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowcontrolnetwork.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220002104id_/http%3A//endeavorbusinessmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Grand View Media
+# Privacy Policy | ENDEAVOR BUSINESS MEDIA
 
-#### PRIVACY POLICY
+Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however, if you reject cookies, you will not be able to sign in to the Web Sites or take full advantage of our Web Sites and services. Additionally, if you clear all cookies on your browser at any point after setting your browser to refuse all cookies or indicate when a cookie is being sent, you will have to again reset your browser to refuse all cookies or indicate when a cookie is being sent. If you wish, you may disable pixel tags by setting your browser to omit images and disable JavaScript.
 
-LAST UPDATED: April 3, 2017
+You can find more information about cookies and how they work, what cookies have been set on your computer or mobile device and how to manage and delete them at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and <http://www.youronlinechoices.com/uk>.
 
-Grand View Media Group, Inc. (“Grand View Media” or “we”) respects your privacy and is committed to protecting it through our compliance with this policy.
+When is personally identifiable information collected? How is your
 
-Grand View Media wants you to have a positive experience at the websites we operate. We want you to know that we respect the privacy and security of our users. Our goal is to provide you with an experience that delivers the information, resources and services that are helpful to you. In order to achieve this goal, we may collect information from you. We discuss our information collection practices below. This Privacy Policy sets forth the privacy principles we follow, in accordance with our operations.
+information used?  
+ 
 
-This Privacy Policy sets forth the privacy practices in effect at Grand View Media’s websites (the “Websites”) and for information collected through the purchase of our products. If you do not agree to these terms, do not access these Websites.
+Endeavor Business Media collects information by which someone could identify you as a specific, identifiable individual (we refer to this type of information in this Privacy Policy collectively as “Personal Data”) that you choose to provide us when you subscribe to our magazines, sign up for e-newsletters, enter a contest, participate in surveys, login into our Web Sites using a third party login system (including, but not limited to, Facebook Connect, Twitter, etc.), register for a Web Site, webcast, or trade show, or otherwise communicate with us. When you provide this information to us, you are no longer anonymous.
 
-Contact Information:  Attn: Customer Service Dept. 200 Croft Street, Suite 1, Birmingham, AL 35242; Telephone: 1-888-431-2877; email us by visiting <http://grandviewmedia.com/contact/>
+We refer collectively to all information we collect that is not Personal Data, including usage data collected from cookies, pixels and similar technologies discussed in this Privacy Policy, demographic data and de-identified Personal Data, as "Non-Personal Data". If we combine Non-Personal Data with Personal Data, we will treat the combined information as Personal Data under this Privacy Policy.
 
-##### What Information Is Collected and How is it Used?
+​
 
-A. What Information Do We Collect?
+We may use your contact information to send notices for subscription renewal or provide you with information about products or services you have ordered with us. We may also use your contact information to send you e-newsletters or other promotional e-mails that contain targeted, relevant content that may be useful to your business. All promotional e-mails you receive from us will include an option to opt out of similar e-mail communications in the future.
 
-  1. **Personal Information:** information that identifies you as an individual or relates to an identifiable individual, including: name, title, company name, job function, expertise, postal address, telephone number, or email address. If you submit any Personal Information relating to other people to us or to our service providers in connection with the Sites, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
-  2. **Non-Personal Information:** any information that does not reveal your specific identity or does not directly relate to an identifiable individual. This might include IP addresses and web server log files to track trends, administer the Websites, track user movement, and gather demographic information, and information collected through cookies.
+We may include Personal Data, such as your name, address, telephone and fax numbers, and e-mail address, as well as “demographic” information such as the type of business you work for, your job responsibilities and certain information about your company. We will tell you at the time we collect information whether the information requested is necessary for you to participate in a particular feature. The information we collect is used to respond to your specific requests, to send you periodic information and special offers from Endeavor Business Media and our sponsors, to provide you with updates on Endeavor Business Media offerings and features, to provide you with product information from manufacturers in our database, and to provide our sponsors and business partners with data about our users.
 
-
-
-It is not our regular practice to collect “Sensitive Information,” such as Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual. If we collect Sensitive Information from you, we commit that we will not disclose it to any third parties, including our affiliates or Contractors, or use that information for purposes that you believe may be incompatible with the purpose for which it originally was collected (as permitted by this policy) unless you expressly tell us that we can disclose that information or use it for those different purposes. In order for us to disclose it or use it for those purposes, you must contact us to inform us that you do will permit these uses of your Sensitive Information. To do so, please contact us by mail or email at the address or email address provided above.
-
-B. How Do We Collect the Information?
-
-We will only collect and use Personal Information when a user voluntarily provides it to us or when an institution provides it to us in connection with its method of authenticating users for access to our products. In order to use some portions of our Websites, or in order to undertake certain actions (such as setting up an account to make a purchase of an article), a user must first complete a registration form or provide an e-mail address that will require disclosure of Personal Information. Such disclosure is strictly voluntary. In order to contact us by e-mail, however, you must provide an e-mail address.
-
-We collect and use non-Personal Information, including IP addresses and web server log files to track trends, administer the Websites, track user movement, and gather demographic information. We use this non-Personal Information in the aggregate. We do not combine these types of non-Personal Information with Personal Information. We may also share aggregated demographic information with our business partners, sponsors, advertisers, and companies that control, are controlled by, or are under common control with Grand View Media.
-
-Cookies:  We may place a “cookie” or other tracking or information gathering device used in the industry in the browser files of a user’s computer. A cookie is a piece of data stored on the user’s hard drive containing information about the user.  We use cookies to collect information about your use of our Websites, which enable us to track and target the interests of our users to enhance the experience on our website.  We also use cookies from third party for marketing purposes (such as interest-based online advertising) that allow us to display Grand View Media promotional material to you on other sites you visit across the internet partners based on your visit to our Websites (e.g. Remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting).  Third party cookies are covered by the third party’s privacy policy.
-
-Users can set their browsers or third party software to reject cookies. If a user rejects the cookie, the user may be unable to use portions of our Websites. Some of the Websites provide links to also may use cookies. We have no control over these linked websites or access to or control over cookies or other technology used by linked websites.
-
-The following is a list of the cookies that may be used across the Websites:
-
-**Type** | **Name** | **Purpose**  
----|---|---  
-Analytics Cookie | Google Analytics | A third-party cookie provided by Google, Inc. that collects aggregate statistical data about how visitors use the site (i.e., what pages users visit, how long they are on the website, how they got there and what they click on) so that we can improve the user experience and serve up the content our visitors find most useful.  They do not collect or store Personal Information. 
-
-You can find out more about Google’s privacy policy concerning its analytics service at [Google privacy policy](http://www.google.com/intl/en/policies/privacy/).
-
-Google also offers a tool that allows you to opt-out of being tracked by Google Analytics across all websites and can be found [here](http://tools.google.com/dlpage/gaoptout).  
   
-Analytics Cookie | Marketing automation webtracking cookie (Munchkin, RTP) | A third-party cookie provided by Marketo Inc. that recognize you as a unique user when you return to our website, and to track various data related to your website usage in order to provide custom content or services related to your specific interests.  The Marketo Munchkin and RTP cookies collect information about your computer and your visits to our marketing web pages such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. 
+We may disclose aggregated information about users and information that does not identify any individual, without restriction. We also reserve the right to disclose your Personal Data if we are required to do so by law, or in the good faith belief that disclosure of the information is reasonably necessary to comply with legal process, to respond to claims, or to protect or advance the rights, property, safety, or well-being of our company, our employees, customers, or the public. In the unlikely event that all of Endeavor Business Media’s assets or substantially all of its assets are acquired, then user and customer information, which may include Personal Information, may be one of the transferred assets.
 
-The cookies placed by the Marketo server are readable only by Marketo. For more information on Marketo cookies and what they are used for, visit Marketo’s [Cookie policy page](http://www.marketo.com/trust/legal/cookies/) and [privacy page](http://www.marketo.com/trust/legal/privacy/) for more information.  
+​
+
+We use the information we collect, including Personal Data and Web Site usage data:
+
+​
+
+  * to enable you to use our Web Sites, to create an account or profile, to process information you provide via our Web Sites (including verifying that your email address is active and valid) and to process your transactions;
+
+  * to provide related customer service and care, including responding to your questions, complaints, or comments and sending surveys (with your consent) and processing survey responses;​
+
+  * to provide you with information, products, or services that you have requested;
+
+  * to receive and process job applications for jobs with us;
+
+  * with your consent, to provide you with information, products, or services that we otherwise believe will interest you, including special opportunities from us and our third-party partners;
+
+  * to tailor content, recommendations, and advertisements we and third parties display to you, both on the Web Sites and elsewhere online;
+
+  * for internal business purposes, such as to improve our Web Sites and services;
+
+  * to administer and process contests, sweepstakes, and promotions;
+
+  * to contact you with administrative communications and, in our discretion, changes to our Privacy Policy, Terms and Conditions of Use, or any of our other policies;
+
+  * to comply with regulatory and legal obligations; and
+
+  * for purposes as disclosed at the time you provide your information, with your consent, and as further described in this Privacy Policy.  
+ 
+
+
+
+
+How does Endeavor Business Media secure and store your information?
+
+We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to try to protect collected Personal Data from loss, misuse, or alteration.
+
+Many of our Web Sites contain links to Web Sites owned and operated by unaffiliated third parties. These links are provided as a service to you, and do not constitute Endeavor Business Media's endorsement or support of those third parties or their Web Sites. Each third party Web Site has its own information collection and use practices, and we advise you to review their policies.
+
+Endeavor Business Media is not responsible or liable for third party privacy practices or the content of third party sites. We are not responsible or liable for any breach of security or for the actions of these parties.
+
+Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. Any information you provide may be stored and maintained in an Endeavor Business Media database, either housed at Endeavor Business Media or with a third party vendor. In the case of a sale, change of ownership or merger involving Endeavor Business Media or any parent, subsidiary or affiliated company, your information may be transferred to a third party.
+
+Passwords may be used by a Site to protect your personal data. We recommend that you do not share your passwords with anyone, and notify us promptly if you believe your password security has been breached. Endeavor Business Media will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also, if you are using a computer that others have access to, such as one in a computer lab, Internet cafe or public library, always remember to log out and close your browser window when leaving any of our Sites.
+
+In addition, any personally identifiable information or sensitive data that you choose to disclose through any discussion boards or other public online forums hosted on the Web Sites may be collected and used by others. We recommend caution when giving out personal information to others in these public online forums. When you provide information on these forums, you do so at your own risk. Endeavor Business Media does not take any steps to protect the privacy of information you volunteer about yourself in public forums or other publicly accessible sections of our Web Sites. The information you share may be viewed by any other user of the Web Sites.
+
+We will retain your Personal Data and any information collected from your use of our Web Sites for as long as you are a Subscriber or otherwise maintain a user account on our Web Sites and for a reasonable time thereafter.
+
+What options do you have about how Endeavor Business Media uses or shares your information?
+
+​
+
+We strive to provide you with choices regarding the Personal Data you provide us. To exercise control over your information, we have provided you with the following mechanisms:
+
+If you no longer wish for us to share your mailing address or other contact information with our sponsors or other third parties, you may adjust your account preferences or you can send us an e-mail at [donotdisclose@endeavorb2b.com](mailto:donotdisclose@endeavorb2b.com). For us to be able to locate your record, your e-mail must include your name, mailing address, e-mail address, and must identify the Endeavor Business Media product, event, or service for which you are registered. We will strive to process your request within 10 days, and thereafter we will no longer share your contact information with third parties. Please note that we will not be able to stop third parties from sending you information about their products or services if your information was shared with them before we received your request.
+
+Regarding e-mail specifically, you have the opportunity to elect to stop receiving advertising messages from Endeavor Business Media about our products or services each time you receive such a communication from us. To unsubscribe from such advertising e-mail messages, please follow the directions included in that e-mail message. We will endeavor to process your request within 10 days. Please note that during that time, you may continue to receive e-mail messages from Endeavor Business Media about its products or services.
+
+Additionally, regardless of whether you have unsubscribed from receiving advertising and promotional material from Endeavor Business Media, you will continue to receive transactional information from us, such as information relating to your account or payment or bill information. If you receive broadcast e-mail messages that we may send about third party manufacturers in whose products or services we believe you may be interested, and no longer wish to receive such messages, you can do so by following the directions included in the e-mail message you receive. If you have further questions regarding your options with respect to your account information, please contact us at the e-mail or mailing address included at the beginning of this Privacy Policy.
+
   
-Advertising Cookie | DoubleClick by Google (Ad Platform) | A third-party cookie provided by Google, Inc. that collects data about your activities on Grand View Media Websites and other websites to provide you targeted advertising, but does not personally or directly identify you.   This information may be used in combination with the data collected through the other cookies listed above. 
+Your Consent
 
-You can find out more about Google’s privacy policy concerning its advertising features at [Google privacy policy](http://www.google.com/intl/en/policies/privacy/).
+​
 
-You can opt-out of being tracked by Google Analytics across all websites [here](http://tools.google.com/dlpage/gaoptout). You can also opt out with [Ad Settings](https://www.google.com/settings/ads/anonymous?sig=ACi0TCjR4sMQxSJOzB_v8TNsRdxQm9IOWavuDzrTGX3ANa8kqL6ITAuvJTz80Gcsh_l-z6OoMveMxAUAhfjoO1OxDTVkXfwPgey3tRsdJsgMeZ6oDRf0Wb8&hl=en) or the [NAI’s consumer opt-out](http://www.networkadvertising.org/choices/#completed).  
+By using our Web Sites, you are consenting to our processing of your information as set forth in this Privacy Policy. “Processing” means using cookies on a computer or hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards.
+
+​
+
+How Can I Access, Correct, or Amend Information About Me?​
+
+​
+
+We want to assure you that you have access to your Personal Data that we collect and store. Customers may correct or amend information that is inaccurate by reviewing and updating your account preferences or by contacting us by email at [DPO@Endeavorb2b.com](mailto:DPO@Endeavorb2b.com) or by mail at Endeavor Business Media, Attention: Data Privacy Officer, 1233 Janesville Avenue, Fort Atkinson, Wisconsin 53538.
+
+​
+
+Collection and Use of Information from Children?​
+
+​
+
+Our Web Sites are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please send an email to: [DPO@Endeavorb2b.com](mailto:DPO@Endeavorb2b.com). You may also call 800-547-7377 and ask for the Data Privacy Officer, or mail your request to the attention of the Data Privacy Officer at 1233 Janesville Ave, Fort Atkinson, WI 53538.
+
   
-Advertising Cookie | Live Intent | Live Intent may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services.    No personally identifiable information is placed into these cookies.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://www.networkadvertising.org/managing/opt_out.asp>.  
-Advertising Cookie | AdDaptive Intelligence | Collect, anonymous, Non-Personally Identifiable Information (“Non-PII”). Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer’s operating system. We collect this Non-PII data in order to deliver more relevant advertising to internet users. http://www.addaptive.com/privacy/  
+Regarding SSL
+
+​
+
+Our Site uses ‘SSL’ to protect Personal Data. By using a browser that supports security functions, when you access to our Web Sites and enter Personal Data, including your name and e-mail address, this information is transferred to our server and the information is automatically encrypted when transmitted and received by servers. Therefore if the transmitted data is intercepted by a third party, there is no need to worry about the content being stolen.
+
+If you use a browser that does not support SSL, you may not be able to access our Web Site or input information.
+
+Do Not Track Signals
+
+​
+
+Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of Web Sites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different Web Sites. Our Web Sites do not support Do Not Track requests at this time, which means that we collect information about your online activity while you are using our Web Sites.
+
+​
+
+California Privacy Rights
+
+​
+
+California Civil Code Section § 1798.83 allows California residents to request certain information regarding disclosure of information to our affiliates and third parties for direct marketing purposes and providing contact information for any such affiliates and third parties. As outlined in this Privacy Policy, we do not share personally identifiable information with any affiliate or third party for direct marketing purposes without your prior approval. If you are a California resident and would like us to confirm in writing that we have not provided any of your Personal Information (as that term is defined in the California Civil Code Sections referenced immediately above) during your use of the Web Sites to any affiliate or third parties for direct marketing purposes, please submit a written request to us at Endeavor Business Media, Attention: Data Privacy Officer, 1233 Janesville Avenue, Fort Atkinson, Wisconsin 53538.
+
+​
+
+Users Outside of the United States and Consent to Transfer
+
+​
+
+The Web Sites and services provided by Endeavor Business Media are operated in the United States. If you are located in another jurisdiction, please be aware that information you provide to us will be transferred to, stored and processed in the United States. By using the Web Sites or providing us with any information, you consent to this transfer, processing, and storage of your information in the United States, a jurisdiction in which the privacy laws are not as comprehensive as those in the country where you reside or are a citizen, such as the European Union. You understand that the U.S. government can obtain access to the Personal Data you submit if necessary for investigative purposes (e.g., terrorism investigation). We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. We use appropriate and suitable safeguards for transferring your Personal Data to the U.S.
+
+​
+
+Your EU Data Subject Rights
+
+​
+
+If you are a resident of the European Economic Area (EEA), we collect and process Personal Data about you only where we have a legal basis for doing so under applicable data protection law, including under the  European General Data Protection Regulation (GDPR). The legal bases will depend on the purpose for which we process your Personal Data. This means we collect and use your Personal Data only where:
+
+​
+
+  * We need it to provide the services including to operate the Web Site
+
+  * provide customer support and personalized features and to protect the safety and security of the Web Site
+
+  * It satisfies a legitimate interest (which is not overridden by your rights and interests), such as for research and development, to market and promote the Web Site and to protect our legal rights and interests
+
+  * You give us consent to do so for a specific purpose
+
+  * We need to process your Personal Data to comply with a legal obligation.
+
+
+
+
+​
+
+If you have consented to our use of Personal Data about you for a specific purpose, you have the right to change your preferences at any time.
+
+​
+
+We may use your email address to send you newsletters or marketing emails. We will ask for your consent consistent with the applicable law when you first provide your Personal Data. You can opt out by following the unsubscribe instructions included in these emails, or you can contact us at [DPO@Endeavorb2b.com](mailto:DPO@Endeavorb2b.com) or in writing to Endeavor Business Media, Attention: Data Privacy Officer, 1233 Janesville Avenue, Fort Atkinson, Wisconsin 53538.
+
+​
+
+Requesting access to your Personal Data.
+
+​
+
+You have the right to request access to any Personal Data we hold about you as well as related information, including the purposes for processing the Personal Data, the recipients or categories of recipients with whom the Personal Data has been shared, where possible, the period for which the Personal Data will be stored, the source of the personal information, and the existence of any automated decision making.
+
+​
+
+Requesting correction of your Personal Data.
+
   
-* * *
+You have the right to obtain without undue delay the rectification of any inaccurate Personal Data we hold about you.  
+ 
 
-Grand View Media’s Websites may use social media features, such as the Facebook ‘like’ button (“Social Media Features”). These features may collect your IP address and which page you are visiting on our Websites, and may set a cookie to enable the feature to function properly. You may be given the option by such Social Media Features to post information about your activities on our Websites to a profile page of yours that is provided by a third party Social Media network in order to share with others within your network. Social Media Features are either hosted by a third party or hosted directly on the Company’s Web site. Your interactions with these features are governed by the privacy policy of the company providing the relevant Social Media Features.
+Requesting erasure of your Personal Data.
 
-Web Beacons:  Grand View Media uses web beacons alone or in conjunction with cookies to compile information about customers’ and visitors’ usage of our Websites and interaction with emails from Grand View Media. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular websites tied to the web beacon, and a description of a websites tied to the web beacon.  As with cookies, you can use your browser or app settings to control web beacons.
+​
 
-C. How Do We Use the Information?
+You have the right to request that Personal Data held about you is deleted.
 
-We use information that we collect about you or you provide to us, including personal information, to:
+Requesting restriction of processing your Personal Data.
 
-  * Present our Websites and its contents to you and notify you of any changes
-  * Provide you with requested information, products, or services
-  * Provide you with notices related to your account or transactions
-  * Carry out obligations and enforce our rights arising from any contracts entered into between you and us, including billing and collection
-  * Provide interactive features for your participation
-  * Fulfill any and all other purposes for which you provide it or to which you consent
+You have the right to prevent or restrict processing of your Personal Data.
 
+Requesting transfer of your Personal Data.
 
+​
 
-We may also use this information to contact you about our own and third party goods or services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data or adjust your user account preferences. For more information, see Section F of this Policy (What Choices Do I Have?).
+You have the right to request transfer of Personal Data directly to a third party where this is technically feasible.  
+ 
 
-We may also use this information to display advertisements to our advertisers’ target audiences. While we do not disclose your personal information for these purposes without your consent, clicking on or otherwise interacting with an advertisement may indicate to the advertiser that you meet its target criteria.
+Where you believe that we have not complied with our obligation under this privacy policy or European data protection law, you have the right to make a complaint to an EU Data Protection Authority, such as the UK Information Commissioner’s Office.
 
-We may disclose aggregated information about users and information that does not identify any individual, without restriction.
+Document History.
 
-We may disclose personal information collected as described in this Privacy Policy to: our affiliates; contractors, service providers, and other third parties used to support our business; third parties contractually bound to obligations of confidentiality and use, to market their products or services if you have consented to/not opted out of these disclosures. (For more information, see Section F of this Policy (What Choices Do I Have?)); fulfill the purpose for which you provide it, such as an “email a friend” feature; or any other purpose disclosed by us when you provide information; or with your consent.
+​
 
-We also reserve the right to disclose your Personal Information if we are required to do so by law, or in the good faith belief that disclosure of the information is reasonably necessary to comply with legal process, to respond to claims, or to protect or advance the rights, property, safety, or well-being of our company, our employees, customers, or the public.
+March 4, 2011 Enacted
 
-In the unlikely event that all of Grand View Media Group’s assets or substantially all of its assets are acquired, customer information, which may include Personal Information, may be one of the transferred assets.
+May 25th, 2018 Amended
 
-D. How Do We Secure Personal Information?
+August 5, 2019 Amended
 
-To secure your personal information from accidental loss or unauthorized access, use, alteration, or disclosure, all information you provide to us is stored on secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.  Grand View Media provides links to third-party websites. These websites may not have the same privacy policies as Grand View Media. We take reasonable care in recommending these websites but we are not responsible for their content or privacy policies. We urge users to read the privacy statement of a third-party website when leaving our site and linking to a third-party website.
-
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-E. How Can I Access, Correct, Amend or Remove Information About Me?
-
-We want to assure you that you have access to your Personal Information that we collect and store. Customers may correct or amend information, or delete information that is inaccurate, or prevent their information from being used for purposes other than those for which it was originally collected. To do so, please contact us by written request or e-mail at the contact information stated above.
-
-F. What Choices Do I Have?
-
-We strive to provide you with choices regarding the personal information you provide us. To exercise control over your information, we have provided you with the following mechanisms:
-
-  * **Tracking Technologies and Advertising.** You can adjust your browser settings to manage cookies. To manage Flash cookie settings, visit the Flash player settings page on [Adobe’s website](http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html#WS6aa5ec234ff3f285139dc56112e3786b68c-7ffe) (See Section B of this Privacy Policy for more information)
-  * **Disclosure of Your Information for Third-Party Advertising.** You can opt-out of information sharing by adjusting your account preferences or contacting us requesting that we not share personal information for promotional purposes by mail or email at the address or email address provided above.
-  * **Promotional Offers from Grand View Media.** If you do not want to receive promotions from us or third parties, you can opt out by adjusting your account preferences or contacting us requesting that we not contact you by mail or email at the address or email address provided above.
-  * **Targeted Advertising.** If you do not want us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by adjusting your account preferences or contact us by mail or email at the address or email address provided above. You can also adjust your Google [Ads Settings.](https://support.google.com/ads/answer/2662922?hl=en)
-
-
-
-We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these parties may provide opt-out options, such as the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/#completed).
-
-G. Collection and Use of Information from Children
-
-Our Websites are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us using the information listed above.
-
-##### Questions
-
-If you have any questions, comments, or concerns regarding this Privacy Policy or our practices, please send us an e-mail or write to us at the addresses listed above.
-
-##### Changes to Privacy Policy
-
-We will notify you of changes to this Privacy Policy by posting an updated policy on this page. You agree that continued use of the Websites is an acknowledgment and consent to any terms contained in this Privacy Policy, current at the time of use.
-
-##### Miscellaneous
-
-_Do Not Track Signals_ : Grand View Media does not recognize automated browser signals regarding tracking mechanisms, which may include ‘do not track’ instructions.
-
-_California Privacy Rights_ :  California Civil Code Section § 1798.83 allows California residents to request certain information regarding disclosure of information to third parties for direct marketing purposes. To do so, please write us at Grand View Media, 200 Croft Street, Suite 1, Birmingham, AL 35242.
+For any questions about this policy, please direct to our data privacy officer at [DPO@Endeavorb2b.com](mailto:DPO@Endeavorb2b.com) or in writing to Endeavor Business Media, Attention: Data Privacy Officer, 1233 Janesville Avenue, Fort Atkinson, Wisconsin 53538.
