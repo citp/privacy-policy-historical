@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeforces.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618070813id_/https%3A//codeforces.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeforces.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219054823id_/https%3A//codeforces.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Codeforces
 
@@ -14,7 +14,7 @@ Codeforces - Saratov, Russia
 
 ### Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies, Usage data, geographic position, email address, first name, last name, username, date of birth, country, city, password and company name.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies, Usage data, geographic position, email address, first name, last name, date of birth, country, city, delivery address, password and company name.
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
@@ -46,7 +46,7 @@ Personal Data is collected for the following purposes and using the following se
 
 #### Analytics
 
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior. At times we may share this information in aggregated anonymous form with third parties.
 
 ##### Google Analytics (Google Inc.)
 
@@ -55,6 +55,10 @@ Google Analytics is a web analysis service provided by Google Inc. (“Google”
 Personal Data collected: Cookies and Usage data.
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+##### Google Tag Manager
+
+This website uses Google Tag Manager. Google Tag Manager is a solution operated by Google LLC. 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”) that allows marketed website tags to be managed using an interface. The Tag Manager tool itself (which implements the tags) is a cookie-less domain and does not register personal data. The tool causes other tags to be activated which may, for their part, register data under certain circumstances. Google Tag Manager does not access this information. If recording has been deactivated on domain or cookie level, this setting will remain in place for all tracking tags implemented with Google Tag Manager.
 
 #### Displaying content from external platforms
 
@@ -120,7 +124,7 @@ Place of processing: US – [Privacy Policy](https://developers.google.com/accou
 
 The User registers by filling out the registration form and providing the Personal Data directly to this Application.
 
-Personal Data collected: company name, email address, first name, last name, city, country, date of birth, password and username.
+Personal Data collected: company name, email address, first name, last name, city, country, date of birth, password and delivery address.
 
 ### Additional information about Data collection and processing
 
