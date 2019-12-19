@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwarebattle.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614134520id_/https%3A//www.softwarebattle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarebattle.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219110631id_/https%3A//www.softwarebattle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SOFTWARE BATTLE
+# Privacy Policy - SoftwareBattle
 
 ## [softwarebattle.com](http://35.231.82.176/) Privacy Policy
 
