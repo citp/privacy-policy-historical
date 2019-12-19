@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustreas.gov privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612203235id_/https%3A//home.treasury.gov/subfooter/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustreas.gov privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220001014id_/https%3A//home.treasury.gov/subfooter/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Department of the Treasury
 
