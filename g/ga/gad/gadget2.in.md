@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadget2.in privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210034518id_/http%3A//gadget2.in/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadget2.in privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219183700id_/https%3A//gadget2.in/PrivacyPolicy) for the most accurate reproduction.*
 
 # Gadget News, Latest Technology News, Tech News, Gadgets Reviews, Mobile, Tablet, Laptop, Science, Social Media, Apps, Device News, Tech Reviews
 
