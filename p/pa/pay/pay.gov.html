@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pay.gov privacy policy that was archived on 2019-02-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190212042317id_/https%3A//pay.gov/public/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pay.gov privacy policy that was archived on 2019-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191219034035id_/https%3A//pay.gov/public/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -14,7 +14,7 @@
 
 
 
-<!-- 38 -->
+<!-- 37 -->
 
 <meta charset="utf-8">
 <meta name="viewport" content="user-scalable=yes, width=device-width">
@@ -26,7 +26,7 @@
 <meta http-equiv="Expires" content="-1">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
 
-<meta name="_csrf" content="bc23083f-7395-4a7a-8e12-8e5310568229">
+<meta name="_csrf" content="f0e01329-0915-4529-86c5-737d400ca93d">
 <meta name="_csrf_header" content="X-CSRF-TOKEN">
 
 <title>Pay.gov - Privacy and Security Policy</title>
@@ -44,7 +44,7 @@
 
 
 <link href="/public/resources/images/favicon.ico" rel="shortcut icon">
-<link href="/public/resources/css/vendor/smoothness/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css">
+<link href="/public/resources/css/vendor/smoothness/jquery-ui.1.12.1.min.css" rel="stylesheet" type="text/css">
 <link href="/public/resources/css/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 
@@ -53,8 +53,8 @@
 
 
 
-<script type="text/javascript" charset="UTF-8" src="/public/resources/js/generated/vendor-final.min.js?rev=v7.7.0.77357_2019_01_31_1426"></script>
-<script type="text/javascript" charset="UTF-8" src="/public/resources/js/generated/paygov-final.min.js?rev=v7.7.0.77357_2019_01_31_1426"></script>
+<script type="text/javascript" charset="UTF-8" src="/public/resources/js/generated/vendor-final.min.js?rev=v7.10.0.710070_2019_10_15_1848"></script>
+<script type="text/javascript" charset="UTF-8" src="/public/resources/js/generated/paygov-final.min.js?rev=v7.10.0.710070_2019_10_15_1848"></script>
 <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
 
 <script async="" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=FRBCLE&amp;sp=searchString,query,formSearchCategory" id="_fed_an_ua_tag"></script>
@@ -66,7 +66,7 @@
     pgMessages['session.timeout.seconds'] = 'seconds';
     pgMessages['session.timeout.minutes'] = 'minutes';
     
-    $(document).ready(function() {
+    $(function() {
         paygovSubmitOnEnter();
         
         if (true) {
@@ -76,7 +76,7 @@
         }
 
         // bind a click event to the 'skip' link
-        $(".skip").click(function(event) {
+        $(".skip").on('click', function(event) {
             // strip the leading hash and declare
             // the content we're skipping to
             var skipTo = "#" + this.href.split('#')[1];
@@ -96,6 +96,8 @@
         if( typeof IE_VERSION != "undefined" && IE_VERSION < 9 ) {
             $("#unsupportedBrowser").show();
         }
+
+		
     });
 </script>
 
@@ -109,6 +111,7 @@
 	
 	
     
+
 
 
 
@@ -236,7 +239,7 @@
                     
                 </div>
             <div>
-<input type="hidden" name="formToken" value="bc23083f-7395-4a7a-8e12-8e5310568229">
+<input type="hidden" name="formToken" value="f0e01329-0915-4529-86c5-737d400ca93d">
 </div></form>
             <ul class="usa-nav-primary">
                 <li>
@@ -297,17 +300,24 @@
 
 
 
-<div id="unsupportedBrowser" class="usa-alert usa-alert-warning hidden">
-    <div class="usa-alert-body">
-        <h4 class="usa-alert-heading">Warning</h4>
-        <p class="usa-alert-text">We noticed your internet browser is not supported. Please update your browser to ensure your payment is secure.</p>
+<div class="frb-uswds usa-grid">
+    <div class="usa-width-one-whole">
+        <div id="unsupportedBrowser" class="usa-alert usa-alert-warning hidden">
+            <div class="usa-alert-body">
+                <h4 class="usa-alert-heading">Warning</h4>
+                <p class="usa-alert-text">We noticed your internet browser is not supported. Please update your browser to ensure your payment is secure.</p>
+            </div>
+        </div>
     </div>
 </div>
-
-<div id="cookiesRequiredError" class="usa-alert usa-alert-warning hidden">
-    <div class="usa-alert-body">
-        <h4 class="usa-alert-heading">Warning</h4>
-        <p class="usa-alert-text">Pay.gov requires the use of cookies. Please enable cookies before continuing.</p>
+<div class="frb-uswds usa-grid">
+    <div class="usa-width-one-whole">
+        <div id="cookiesRequiredError" class="usa-alert usa-alert-warning hidden">
+            <div class="usa-alert-body">
+                <h4 class="usa-alert-heading">Warning</h4>
+                <p class="usa-alert-text">Pay.gov requires the use of cookies. Please enable cookies before continuing.</p>
+            </div>
+        </div>
     </div>
 </div>
 	
@@ -342,7 +352,7 @@
 <form id="linkPostForm" action="/public/home" method="POST">
     
 <div>
-<input type="hidden" name="formToken" value="bc23083f-7395-4a7a-8e12-8e5310568229">
+<input type="hidden" name="formToken" value="f0e01329-0915-4529-86c5-737d400ca93d">
 </div></form>
 <div id="mainContent" class="mainContent" role="main">
     
@@ -511,6 +521,7 @@
                     <span id="customerServiceStatus" class="bold textLayoutRed">Closed</span>
                 </span>
 
+                
                 <span class="icon"><img src="/public/resources/images/pg-contact-us-Form.png" alt="Send A Message" height="25" width="25"></span>
                 <span class="text">
                     <span>
@@ -524,6 +535,7 @@
                     <span>by the end of the next </span>
                     <span>business day.</span>
                 </span>
+                
 
                 <span class="icon"><img src="/public/resources/images/pg-contact-us-Phone.png" alt="Toll Free Number" height="25" width="25"></span>
                 <span class="text">
@@ -554,7 +566,7 @@
 
 
 
- 
+
     
 
 
@@ -653,7 +665,7 @@
     
 
 
-<div class="usa-footer-secondary_section subfooter-legal">
+<div id="subfooter-legal" class="usa-footer-secondary_section subfooter-legal">
     <div class="usa-grid ">
             <p>WARNING     WARNING     WARNING</p>
             You have accessed a United States Government computer. Unauthorized use of this computer is a violation of federal law and may subject you to civil and criminal penalties. This computer and the automated systems which run on it are monitored. Individuals are not guaranteed privacy while using government computers and should, therefore, not expect it. Communications made using this system may be disclosed as allowed by federal law.<br><br>
@@ -706,7 +718,7 @@
                 </tr>
                 <tr>
                     <td>Current Server Date</td>
-                    <td>02/11/2019 11:23:17 EST</td>
+                    <td>12/18/2019 10:40:35 EST</td>
                 </tr>
                 <tr>
                     <td>User Sign In Name</td>
@@ -714,7 +726,7 @@
                 </tr>
                 <tr>
                     <td>Tracker</td>
-                    <td>r33f8d_ZwiWHFwEVrs3S</td>
+                    <td>OlwcPjArWTQ9geTSK7Zc</td>
                 </tr>
                 <tr>
                     <td>Paygov Tracking ID</td>
@@ -740,7 +752,8 @@
 var troubleShootingDialog;
 var troubleshootingForm;
 
-$(document).ready(function() {
+$(function() {
+    // jquery-ui dialog
     troubleShootingDialog = $("#dialogReportIssue").dialog({
         autoOpen: false,
         modal: true,
@@ -768,8 +781,10 @@ $(document).ready(function() {
     $("#reportIssue").on("click", function() {
         troubleShootingDialog.dialog("open");
     });
-    
-    $('.ui-button').attr('tabindex','2')
+
+    // top right x close button
+    $('.ui-button').attr('tabindex','2');
+    $('.ui-icon-closethick').css("background-color", "#f9f9f9");
 });
 
 function sendTroubleShootingInformation() {
@@ -823,7 +838,7 @@ function resetDialog(d) {
 var validationRegex = /^[a-zA-Z0-9.\s-(),:@_#$'\/&]*$/;
 var validationAlphaSafe = /^[a-zA-Z\s\-]+$/;
 var validationPhoneNumber = /^[0-9\s\-\(\)\+\/]+(?:[\.][0-9\s\-]+){0,2}(?:(?:ext|x)\s?[0-9]+)?$/;
-var validationEmail = /^[a-zA-Z0-9'_-]+(?:\.[a-zA-Z0-9'_-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/;
+var validationEmail = /^[a-zA-Z0-9&'_-]+(?:\.[a-zA-Z0-9&'_-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/;
 
 function validateUserName() {
     var name = $("#troubleShootUserName");
@@ -898,6 +913,18 @@ function updateTips(t) {
     }, 500);
 }
 </script>
+
+    
+
+
+
+
+
+
+
+
+
+
 
 
 </body></html>
