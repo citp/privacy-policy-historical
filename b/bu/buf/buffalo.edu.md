@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612095307id_/https%3A//www.buffalo.edu/administrative-services/policy1/ub-policy-lib/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219165501id_/https%3A//www.buffalo.edu/administrative-services/policy1/ub-policy-lib/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Administrative Services Gateway - University at Buffalo
 
