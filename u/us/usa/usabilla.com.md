@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624092200id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219051546id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
 
 # Usabilla Privacy Statement
 
 [ ](https://web.archive.org/) [ ](https://web.archive.org/)
 
-This privacy statement concerns the processing of personal data by usabilla.com, support.usabilla.com, blog.usabilla.com, jobs.usabilla.com, developers.usabilla.com, academy.usabilla.com, and go.usabilla.com (“Public Websites”). It does not address the processing of personal data by Usabilla's products (Usabilla for Websites, Usabilla for Apps, Usabilla for Email), which is addressed in our [Terms and Conditions](https://web.archive.org/terms/).
+To increase transparency and ease of access, from 1 January, 2020 the [SurveyMonkey privacy policy](https://www.surveymonkey.com/mp/legal/privacy-policy/) will apply to our Usabilla customers (new and existing) and we will be sun-setting the Usabilla privacy notice. This does not change how we handle your personal information. 
+
+Beginning January 1, 2020, for our users who are California residents, we included certain disclosures in connection with the California Consumer Privacy Act ([See here](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/)). 
+
+We’ve added a [new online form](https://help.surveymonkey.com/contact?form=GDPR) making it even easier for our users to submit a personal data rights request. 
+
+This privacy statement concerns the processing of personal data by usabilla.com, support.usabilla.com, jobs.usabilla.com, developers.usabilla.com, academy.usabilla.com, and go.usabilla.com (“Public Websites”). It does not address the processing of personal data by Usabilla's products (Usabilla for Websites, Usabilla for Apps, Usabilla for Email), which is addressed in our [Terms and Conditions](https://web.archive.org/terms/).
+
+From 06 August 2019, any new customers with Usabilla will operate under this privacy statement and the [SurveyMonkey privacy policy](https://www.surveymonkey.com/mp/legal/privacy-policy/) (which is incorporated by reference into this privacy statement from this date). Where there is a conflict between the SurveyMonkey privacy policy and this privacy statement, this privacy statement takes precedence. This change does not impact Usabilla customers with active agreements dated prior to the date of this change.
 
 The Public Websites are owned and operated by Usabilla BV. Usabilla is responsible for processing personal data in accordance with the Dutch Data Protection Act and General Data Protection Regulation (GDPR).
 
@@ -56,6 +64,6 @@ You have the right to correct, update, amend, or completely remove your personal
 
 The Public Websites are fully compliant to the recent privacy developments according to the General Data Protection Regulation (GDPR), and our efforts towards achieving this can be found on our [GDPR page](https://web.archive.org/gdpr/). 
 
-If you wish to raise a complaint on how we have handled your personal data, you can contact us at [privacy@usabilla.com](mailto:privacy@usabilla.com%3E) and we will investigate the matter. If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law, you can file a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens). 
+If you wish to raise a complaint on how we have handled your personal data, you can contact us at [privacy@usabilla.com](mailto:privacy@usabilla.com) and we will investigate the matter. If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law, you can file a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens). 
 
-This privacy statement was created in May 2017 and edited in May 2018. When we change the policy on how collected data on this website is treated, we will announce this through an alteration of our privacy statement. 
+This privacy statement was created in May 2017 and edited on November 21st, 2019. When we change the policy on how collected data on this website is treated, we will announce this through an alteration of our privacy statement. 
