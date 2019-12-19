@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222230758id_/https%3A//www.glassons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219020838id_/https%3A//www.glassons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glassons
 
