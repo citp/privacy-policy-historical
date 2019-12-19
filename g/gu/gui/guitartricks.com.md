@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131110512id_/https%3A//www.guitartricks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219123823id_/http%3A//www.guitartricks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@
 
 
 
-  1. 5\. COMPLIANCE WITH PRIVACY SHIELD FRAMEWORK. In addition to its efforts to comply with the European Union’s GDPR, Company complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Company has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Company’s participation in Privacy Shield subjects it so the investigatory powers of the FTC. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/ 
+  1. 5\. COMPLIANCE WITH PRIVACY SHIELD FRAMEWORK. In addition to its efforts to comply with the European Union’s GDPR, Company complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom to the United States. Company has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Company’s participation in Privacy Shield subjects it so the investigatory powers of the FTC. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/ 
 
 
 
