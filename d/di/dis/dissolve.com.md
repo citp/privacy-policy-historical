@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dissolve.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529050553id_/https%3A//legal.dissolve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dissolve.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219075929id_/https%3A//legal.dissolve.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
