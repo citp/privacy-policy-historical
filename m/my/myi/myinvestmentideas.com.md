@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myinvestmentideas.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130023445id_/https%3A//myinvestmentideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinvestmentideas.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219170309id_/https%3A//myinvestmentideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Myinvestmentideas.com
 
-**Updated Privacy Policy (From May-2018)**
+**Updated Privacy Policy (August-2019)**
 
 * * *
 
@@ -15,8 +15,7 @@ Our website address is: [https://myinvestmentideas.com](https://myinvestmentidea
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: [https://automattic.com/privacy/](https://automattic.com/privacy/). After approval of your comment, your profile picture is visible to the public in the context of your comment.  
- 
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: [https://automattic.com/privacy/](https://automattic.com/privacy/). After approval of your comment, your profile picture is visible to the public in the context of your comment
 
 **Media**
 
@@ -26,8 +25,9 @@ If you upload images to the website, you should avoid uploading images with embe
 
 Cookies: If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.  
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.  
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.  
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
 **Embedded content from other websites**
@@ -40,9 +40,9 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 **Who we share your data with?**
 
-This is used only to share latest posts on this blog and any emails related to promotional activiites. We do not share this informatoin with 3rd parties. We respective your privacy.
+This is used only to share latest posts on this blog and any emails related to promotional activities. We do not share this information with 3rd parties. We respective your privacy.
 
-**How long we retain your data?**  
+ **How long we retain your data?**  
 If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
 For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). 
@@ -59,10 +59,10 @@ Visitor comments may be checked through an automated spam detection service.
 **Additional information**
 
 **Our contact information:** For any specific queries, you can reach out to suresh@myinvestmetideas.com.  
-**How we protect your data:** We don't share your data with 3rd parties.  
+**How we protect your data:** We don’t share your data with 3rd parties.  
 **What automated decision making and/or profiling we do with user data:** We analyse visitors choice about various investment products
 
-**Privacy Policy Updated earlier till May-2018**
+**Privacy Policy Updated Prior to May-2018 and still valid in some cases**
 
 * * *
 
@@ -77,8 +77,8 @@ Like many other Web sites, [myinvestmentideas.com](https://myinvestmentideas.com
 **DoubleClick DART Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on [myinvestmentideas.com](https://myinvestmentideas.com/).
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to [myinvestmentideas.com](https://myinvestmentideas.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [https://policies.google.com/privacy/update](https://policies.google.com/privacy/update)
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [myinvestmentideas.com](https://myinvestmentideas.com/) and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [https://policies.google.com/privacy](https://policies.google.com/privacy/update)
 
 
 
@@ -86,6 +86,6 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 [myinvestmentideas.com](https://myinvestmentideas.com/) has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [myinvestmentideas.com's](https://myinvestmentideas.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [myinvestmentideas.com’s](https://myinvestmentideas.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
