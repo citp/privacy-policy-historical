@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leakreality.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326084926id_/https%3A//leakreality.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakreality.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219113103id_/https%3A//leakreality.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Leaked Reality
 
-Join the Leaked Reality Community, -> Have Your Say! 100% Uncensored Media 
+Support Leaked Reality, Defend the Freedom of Speech -> Your donations are appreciated. 
 
 ## Privacy Policy
 
