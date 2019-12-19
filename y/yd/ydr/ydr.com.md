@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ydr.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621002633id_/https%3A//cm.ydr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ydr.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219045418id_/https%3A//cm.ydr.com/privacy) for the most accurate reproduction.*
 
-# static.ydr.com
+# York Daily Record
 
 Last Updated: May 14, 2018
 
