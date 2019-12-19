@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutwomen.in privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827013852id_/https%3A//www.allaboutwomen.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutwomen.in privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219095205id_/https%3A//www.allaboutwomen.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All About Women
 
