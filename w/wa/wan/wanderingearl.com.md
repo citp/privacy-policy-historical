@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderingearl.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417184044id_/https%3A//www.wanderingearl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingearl.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219154233id_/https%3A//www.wanderingearl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wandering Earl
 
@@ -72,4 +72,4 @@ Visitor comments may be checked through an automated spam detection service.
 
 ## Your contact information
 
-If you have any concerns, you can reach us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any concerns, you can reach us at: hello [@] wanderingearl.com
