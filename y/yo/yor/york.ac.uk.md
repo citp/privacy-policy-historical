@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the york.ac.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403055100id_/https%3A//www.york.ac.uk/about/legal-statements/%23tab-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the york.ac.uk privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219110910id_/https%3A//www.york.ac.uk/about/legal-statements/%23tab-4) for the most accurate reproduction.*
 
 # Legal statements - About the University, The University of York
 
@@ -48,7 +48,7 @@ This privacy notice is for Unibuddy enquirers who are interested in applying to 
 
 It sets out the ways in which the University of York gathers, uses, stores and shares your data. It also sets out how long we keep your data and what rights you have in relation to your data under the General Data Protection Regulation (GDPR).
 
-For the purposes of this privacy notice, University of York is the Data Controller as defined in the General Data Protection Regulation. We are registered with the Information Commissioner’s Office and our entry can be found _[here](https://ico.org.uk/ESDWebPages/Entry/Z4855807)_. Our registration number is: Z4855807.   
+For the purposes of this privacy notice, University of York is the Data Controller as defined in the General Data Protection Regulation. We are registered with the Information Commissioner’s Office and our entry can be found [here](https://ico.org.uk/ESDWebPages/Entry/Z4855807). Our registration number is: Z4855807.   
 
 **[Where do we get your data from?](https://web.archive.org/records-management/dp/your-info/students/)**
 
@@ -56,14 +56,14 @@ Data is provided directly by you to the University of York through the Unibuddy 
 
 **[What data do we](https://web.archive.org/records-management/dp/your-info/students/)[have](https://web.archive.org/records-management/dp/your-info/students/)[?](https://web.archive.org/records-management/dp/your-info/students/)**
 
-_[Personal data](https://www.york.ac.uk/records-management/dp/introduction/#tab-4)_ including:
+[Personal data](https://www.york.ac.uk/records-management/dp/introduction/#tab-4) including:
 
   * your first name, country of residence;
   * any information you may choose to disclose to us via the Unibuddy app including; email address, phone number, date of birth, area of academic interest.
 
 
 
-_[Special category data](https://www.york.ac.uk/records-management/dp/introduction/#tab-4)_ including information about disability, health, gender identity, ethnicity and racial origin.
+[Special category data](https://www.york.ac.uk/records-management/dp/introduction/#tab-4) including information about disability, health, gender identity, ethnicity and racial origin.
 
 **[What is our legal basis for processing your data?](https://web.archive.org/records-management/dp/your-info/students/)**
 
@@ -85,13 +85,13 @@ The University may process your personal data for the following purposes:
 
 **[Who do we share your data with?](https://web.archive.org/records-management/dp/your-info/students/)**
 
-Data will be accessed by relevant University of York employees (e.g. admissions team staff) and student ambassadors. In addition, Unibuddy, the 3rd party app provider, will have access to your data. For further information about how Unibuddy uses your data please see, _<https://unibuddy.co/terms-and-conditions#Privacy%20Policy>_
+Data will be accessed by relevant University of York employees (e.g. admissions team staff) and student ambassadors. In addition, Unibuddy, the 3rd party app provider, will have access to your data. For further information about how Unibuddy uses your data please see, <https://unibuddy.co/terms-and-conditions#Privacy%20Policy>
 
 **[How do we keep your data secure?](https://web.archive.org/records-management/dp/your-info/students/)**
 
-The University takes information security extremely seriously and has implemented appropriate technical and organisational measures to protect personal data and special category data. Access to information is restricted on a need-to-know basis and security arrangements are regularly reviewed to ensure their continued suitability. For further information please see, _[https://www.york.ac.uk/it-services/](https://www.york.ac.uk/it-services/security/)[security](https://www.york.ac.uk/it-services/security/)[/](https://www.york.ac.uk/it-services/security/)_.  
+The University takes information security extremely seriously and has implemented appropriate technical and organisational measures to protect personal data and special category data. Access to information is restricted on a need-to-know basis and security arrangements are regularly reviewed to ensure their continued suitability. For further information please see, [https://www.york.ac.uk/it-services/](https://www.york.ac.uk/it-services/security/)[security](https://www.york.ac.uk/it-services/security/)[/](https://www.york.ac.uk/it-services/security/).  
 
-In addition, the University has put in place an appropriate contract with Unibuddy to ensure data is handled appropriately and in full compliance with relevant data protection law. For further information on Unibuddy's security arrangements see, _<https://unibuddy.co/terms-and-conditions#Privacy%20Policy>_.
+In addition, the University has put in place an appropriate contract with Unibuddy to ensure data is handled appropriately and in full compliance with relevant data protection law. For further information on Unibuddy's security arrangements see, <https://unibuddy.co/terms-and-conditions#Privacy%20Policy>.
 
 **[How long will we keep your data?](https://web.archive.org/records-management/dp/your-info/students/)**
 
@@ -99,12 +99,12 @@ The University will retain your data in line with legal requirements or where th
 
 **[What rights do you have in relation to your data?](https://web.archive.org/records-management/dp/your-info/students/)**
 
-Under the General Data Protection Regulation, you have a right of access to your data, a right to rectification, erasure (in certain circumstances), restriction, objection or portability (in certain circumstances). You also have a right to withdraw consent. If you would like to exercise any of these rights please contact _[international@york.ac.uk](mailto:international@york.ac.uk)_. For all other requests, please see _<https://www.york.ac.uk/records-management/dp/individualsrights/>_. 
+Under the General Data Protection Regulation, you have a right of access to your data, a right to rectification, erasure (in certain circumstances), restriction, objection or portability (in certain circumstances). You also have a right to withdraw consent. If you would like to exercise any of these rights please contact [international@york.ac.uk](mailto:international@york.ac.uk). For all other requests, please see <https://www.york.ac.uk/records-management/dp/individualsrights/>. 
 
 **[Questions or concerns](https://web.archive.org/records-management/dp/your-info/students/)**
 
-If you have any questions about this privacy notice or concerns about how your data is being processed, please contact the University’s Data Protection Officer at _[dataprotection@york.ac.uk](mailto:dataprotection@york.ac.uk)_.
+If you have any questions about this privacy notice or concerns about how your data is being processed, please contact the University’s Data Protection Officer at [dataprotection@york.ac.uk](mailto:dataprotection@york.ac.uk).
 
 **[Right to complain](https://web.archive.org/records-management/dp/your-info/students/)**
 
-If you are unhappy with the way in which the University has handled your personal data, you have a right to complain to the Information Commissioner’s Office. For information on reporting a concern to the Information Commissioner’s Office, please see _[www.ico.org.uk/concerns](http://www.ico.org.uk/concerns)_.  
+If you are unhappy with the way in which the University has handled your personal data, you have a right to complain to the Information Commissioner’s Office. For information on reporting a concern to the Information Commissioner’s Office, please see [www.ico.org.uk/concerns](http://www.ico.org.uk/concerns).  
