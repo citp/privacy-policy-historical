@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhv.de privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504055355id_/https%3A//www.hhv.de/shop/en/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhv.de privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219164851id_/https%3A//www.hhv.de/shop/en/help/privacy) for the most accurate reproduction.*
 
 # Data Privacy Policy | HHV
 
@@ -67,7 +67,7 @@ You can revoke your consent to the storage of the data, the email addresses as w
 
 ### 3.4 Product recommendations via email
 
-As a customer of HHV, you will receive product recommendations via email at random intervals. You will receive these irrespective of whether or not you subscribed to a newsletter. By sending you these emails, we would like to provide you with information on our products, which you may be interested in based on your last purchases and your wish list in our shop. In the process, we strictly observe the legal provisions.
+At random intervals after a purchase with HHV you will receive product recommendations via email. You will receive these irrespective of whether or not you subscribed to a newsletter. By sending you these emails, we would like to provide you with information on our products, which you may be interested in based on your last purchases and your wish list in our shop. In the process, we strictly observe the legal provisions.
 
 Insofar as you no longer want to receive any product recommendations or any kind of promotional content, you can object to this at any time without any costs arising for this other than the transmission costs in accordance with the basic rates. A written notification addressed to the contact details stated in Chapter 1 (via letter or email) suffices for this purpose. Of course you can also find an unsubscribe link in every email.
 
@@ -192,13 +192,15 @@ Furthermore, we store your IP address and the date as well as time of your regis
 
 ### 3.14 Guest orders
 
-You have the option of placing orders as a guest. If you decide to use this type of ordering, you do not have to register before placing an order. Please observe, that you have to re-enter your data for every additional order. We collect, process and use the information you submit for a guest order for the purpose of implementing the contract.
+You have the option of placing orders as a guest. If you decide to use this type of ordering, you do not have to create a customer account before placing an order. Please note, that you have to re-enter your data for every additional order and that some of our website features are not available when ordering as a guest (e.g. wishlist features).
 
 ### 3.15 Customer / contract data
 
 We only process your personal data, insofar as this is required for substantiation, content design or change in legal relationships (master data). We only process personal data pertaining to the usage of our website (usage data), insofar as this is required to enable or bill the use of the service.
 
-### 3.16 Trusted Shops seal of approval
+### 3.16 Trusted Shops
+
+#### Seal of approaval
 
 The “Trusted Shops Trustbadge” is integrated on hhv.de to display the Trusted Shops seal of approval and if applicable, the collected feedback as well as for the offer of the Trusted Shops products to buyers after an order.
 
@@ -208,7 +210,15 @@ When accessing the Trustbadge, the web server automatically stores a so-called s
 
 Other personal data is merely transferred to Trusted Shops if you have decided to use Trusted Shops products after completing an order or if you have already registered to use Trusted Shops. In this case, the contractual agreement you made with Trusted Shops applies.
 
-### 3.17 Employment ads
+#### Evaluation requests via email
+
+In order to improve, we rely on feedback from our customers. A few days after receiving your HHV parcel, you will receive an evaluation request via email. The data that we pass on to Trusted Shops are email address as well as order number and date. If you do not want to receive such emails from Trusted Shops, you will find an unsubscribe link the evaluation request.
+
+### 3.17. Trustami
+
+In order to display our collected reviews and social media feedback, the Trustami badge is incorporated into this web page. Whenever a Trustami badge is displayed, the web server automatically stores a server log file (access data) which contains, the name of the visited website, the file, date and time of display, your reduced IP address, the transmitted data volume, the status of your request, the browser type, the operating system of the user, the referring URL (from the previous webpage) and the requesting provider. This access data will not be evaluated and will be automatically overwritten seven days after your visit to the page. The Trustami badge and connected services advertised are an offer of Trustami GmbH, Schröderstraße 5, 10115 Berlin. For the processing of the data collected by Trustami, the privacy policy of Trustami is valid (www.trustami.com/privacy).
+
+### 3.18 Employment ads
 
 If you apply for a job at HHV, we process your application information for the purpose of carrying out the application process, among other things electronically. In particular, processing is done electronically if the application documents are submitted to us electronically, for instance via email.
 
