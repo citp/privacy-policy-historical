@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the ysearches.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121105450id_/http%3A//ysearches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysearches.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219115149id_/https%3A//ysearches.com/privacy.php) for the most accurate reproduction.*
 
 # YSEARCHES
 
 ## Privacy Policy
 
-### Welcome to Ysearches!
+### Welcome to YSEARCHES!
 
-Ysearches.com values your privacy, and this privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Ysearches values your privacy, and this privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 You will be notified of any Privacy Policy changes on our Privacy Policy Page. Please check this page frequently for updates or changes before using the site. 
 
-**What personal information does Ysearches.com collect from the people that visit our website?**
+**What personal information does Ysearches collect from the people that visit our website?**
 
 When registering on or contacting us through our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience. This information is not required in order to browse our site, and will only be asked for on a voluntary basis when contacting us with questions or feedback.
 
-**When does Ysearches.com collect information?**
+**When does Ysearches collect information?**
 
 We collect information from you when you register on our site or fill out a form on our site, such as through the Contact Us page for general inquires and feedback.
 
