@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growweedeasy.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227092639id_/https%3A//www.growweedeasy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growweedeasy.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219141410id_/https%3A//www.growweedeasy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grow Weed Easy
 
