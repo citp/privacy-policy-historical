@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veehd.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819054754id_/http%3A//veehd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veehd.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219050911id_/http%3A//veehd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ We also may collect other types of information in the following ways when you vi
 
 
 
-We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the [Children’s Online Privacy Protection Act](http://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act). 
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the [Children’s Online Privacy Protection Act](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act). 
 
   
 
