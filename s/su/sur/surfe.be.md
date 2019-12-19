@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfe.be privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904120356id_/https%3A//surfe.be/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfe.be privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219215333id_/https%3A//surfe.be/site/privacy-policy%3Flanguage%3Den-US) for the most accurate reproduction.*
 
 # Privacy Policy - Surfe.be
 
@@ -45,21 +45,6 @@ We implement a variety of security measures when a user places an order enters, 
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-**Do we use 'cookies'?**
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-**•** Understand and save user's preferences for future visits.
-
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.  
-
-
-**If users disable cookies in their browser:**
-
-If you turn cookies off it will turn off some of the features of the site.
-
 **Third-party disclosure**
 
   
@@ -72,20 +57,6 @@ However, non-personally identifiable visitor information may be provided to othe
 **Third-party links**
 
 Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Google**
-
-  
-
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-
-We use Google AdSense Advertising on our website.
-
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.  
-
-
-**We have implemented the following:**
 
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
 
@@ -190,4 +161,18 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **•** Follow the instructions at the bottom of each email.
 
-and we will promptly remove you from **ALL** correspondence. 
+and we will promptly remove you from **ALL** correspondence.   
+
+
+**Contacting Us**
+
+  
+
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+surfe.be
+
+info@surfe.be
+
+Last Edited on 2018-06-18
