@@ -1,98 +1,191 @@
-> *The following text is extracted and transformed from the clarins.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021071514id_/https%3A//www.clarinsusa.com/en/customer-service-privacy-security/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarins.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219183934id_/https%3A//www.clarins.ca/en/help-privacy-security/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - CLARINS
+# Privacy Policy - Clarins
 
-This Privacy Policy was updated on February 25, 2016 to include terms relative to our Facebook app.
+Updated November 2018
 
-#### 1 - Introduction
+## Introduction
 
-This Privacy Policy is applicable to all the services offered by, and the website www.clarinsusa.com operated by, the company Clarins USA, Inc., (“Clarins”), whose registered offices are located at 1 Park Avenue, 19th Floor, New York, NY 10016. Personal Information gathered about you and processed in accordance with this Privacy Policy is controlled by Clarins. 
+This Privacy Policy is applicable to all the services offered by, and the website [www.clarins.ca](https://www.clarins.ca/on/demandware.store/Sites-clarinsca-Site/en_CA/Home-Show) (“the Site”) operated by, the company Clarins Canada, Inc., (“Clarins”, “us” or “our”), whose registered offices are located at 815 Desserte Est, Autoroute 13, Laval, QC H7W 5N4. Personal information gathered about you and processed in accordance with this Privacy Policy is controlled by Clarins. 
 
-Please read the following Privacy Policy to understand how we use your Personal Information (as defined under section 2 hereto) after it has been collected by us. Please read through this Privacy Policy before submitting any of your Personal Information to us.
+Before submitting any of your Personal Information to us, please read the following Privacy Policy to understand how we use your Personal Information.
 
-If you have any questions about this Privacy Policy at any time, please send us an [email](mailto:help@clarinsusa.com).
+This Privacy Policy contains important information on our commitment to the protection of your Personal Information, including:
 
-This Privacy Policy may be updated from time to time. The date of the most recent revisions will appear on this page. In case of such an update we will post a prominent notice on our Web site notifying you of the change. You will also be notified via email of the changes to the processing activities and asked for your consent. Your consent to the changes will be implied if you do not oppose to them within 30 days after you have been given notice.
-
-#### 2 - When do we collect Personal Information?
-
-“Personal Information” that we shall collect and process about you will consist of any information which refers to you personally and that may be generated though the above services or websites such as but not limited to your name, email address and postal address (as further developed under section 3 hereto). We collect Personal Information from you when you do the following through our website:
-
-  * visit the website;
-  * register on the website;
-  * install our Facebook app;
-  * order goods or services;
-  * submit any other queries online.
-
-
-
-#### 3 - What Personal Information do we collect from you?
-
-We collect Personal Information from you including your:
-
-  * name;
-  * postal address;
-  * phone number;
-  * email address;
-  * Facebook photos;
-  * Credit card, debit card, or checking account information (including credit card number and expiration date);
-  * transaction information (history and record of your purchases, payment information, invoices, after-sale services, etc.);
-  * any other Personal Information provided by you;
-  * your IP address, information about the websites you visit and your trends as a user as explained in section 7 and 9 of this Privacy Policy.
+  * What we mean by “Personal Information”?
+  * When do we collect your Personal Information? 
+  * What Personal Information we collect from you?
+  * The purposes for which we collect and use your Personal Information.
+  * The Internet technologies we may use to collect and process your Personal Information.
+  * To whom we may disclose your Personal Information, and the location in which your Personal Information may be stored.
+  * The manner and location in which we may retain your Personal Information.
+  * The ways that we protect your Personal Information. 
+  * How to access, correct or update your Personal Information?
+  * How to contact us about privacy issues?
 
 
 
-#### 4 - What do we do with your Personal Information?
+Please note that by using the Site, or otherwise submitting information to us, you are authorizing Clarins to collect, store, transfer and use your Personal Information in accordance with this Privacy Policy.
 
-When you give us any Personal Information as indicated above, we use your Personal Information to:
+This Privacy Policy and the Site are intended for the use of Canadian residents only. If you are not a Canadian resident, please consult the Clarins website and Privacy Policy for your country of residence.
 
-  * administer this website;
-  * improve your browsing experience;
-  * enable the use of the services made available on this website;
-  * Facebook photos will be used for the sole purpose of creating your #worththewrinkle video;
-  * confirm, process and track your orders for goods and services;
-  * correspond with you about your orders;
-  * deliver goods and services that you purchase online;
-  * provide after sales services, handle goods returns, recalls;
-  * send statements and invoices to you, and collect payments from you;
-  * administer billing and payment for your purchases;
-  * provide you, with your consent where required by law, with information by email, sms, mms, faxes, phone calls (automated or not), post, or any other communications means, about the latest news or special offers from Clarins which may be of interest to you unless you have opted to be excluded from these communications. This information will relate to the same products or similar products to those that you have purchased. You can inform us at any time and for free if you no longer wish to receive such information by sending us an [email](mailto:help@clarinsusa.com).
-  * respond to your submitted queries.
+If you have any questions about this Privacy Policy at any time, please contact us at [privacy@clarins.ca](mailto:privacy@clarins.ca). This Privacy Policy may be updated from time to time. The date of the most recent revisions will appear on this page. In case of such an update we will post a prominent notice on our Site notifying you of the change. Your consent to the changes will be implied if you do not oppose to them within 30 days after you have been given notice.
+
+## What is Personal Information?
+
+For the purposes of this Privacy Policy, and in accordance with applicable privacy laws, the term “Personal Information” refers to any information that may be used to identify you, including information that may be generated through the use of websites Examples of Personal Information include, but not limited to your name, e-mail address, postal address and purchase history (as further described below).
+
+## When do we collect Personal Information?
+
+We may collect Personal Information in a number of circumstances. For example, we collect Personal Information from you when you do the following through our Site:
+
+  * Visit the Site;
+  * Register on the Site or subscribe to newsletters and other information;
+  * Order goods or services; and
+  * Submit any other queries online.
 
 
 
-#### 5 - Who do we pass your Personal Information to?
+## What Personal Information do we collect from you?
 
-We may share Personal Information collected via the website with third party service providers who perform services on our behalf based on our instructions in order to help us to operate the website, process your orders and queries or otherwise manage the customer relationship between you and us. These third parties may be located in or out of the European Economic Area (“EEA”), including in countries that do not provide the same level of data protection as in your country of residence. In such a case, we will ensure either (i) to obtain your unambiguous consent to share your Personal Information with these third providers, (ii) to use third providers self-certified under the Safe Harbour Program, or (iii) to enter into appropriate data transfer agreements conforming to the Standard Model Clauses established by the European Commission, to the extent required by the applicable law. 
+The Personal Information that we may collect about you includes:
 
-The Personal Information you submitted when you register on this website, when you buy a product from Clarins and the information concerning your use of the website will be shared with Clarins and any of its affiliated companies so that they can send you information about their products if you have consented by ticking the relevant box. These organisations belong to Clarins and the information that you will be sent will relate to their products only.
+  * Name;
+  * Postal address;
+  * Phone number;
+  * E-mail address;
+  * Credit card, debit card, or checking account information (including credit card number and expiration date);
+  * Any other Personal Information provided by you; and
+  * Your Internet Protocol (IP) address, information about the websites you visit and your trends as a user as explained further below, under Cookies, Web Beacons and Log Files.
 
-Otherwise, we will only disclose Personal Information to government bodies and law enforcement agencies, successors in title to our business, or in connection with any legal proceedings or prospective legal proceedings, or to establish, exercise or defend our legal rights (including providing information to third parties for the purposes of fraud prevention and reducing credit risk as permitted by law). In this case we will inform you about the disclosure and the entity we disclosed your Personal Information to.
 
-#### 6 - Cookies and Web Beacons
 
-When you view our websites we may store information on the hard drive of your computer in the form of a "cookie" (essentially a small text file or single GIF). Cookies allow us to tailor the websites to your interests and preferences. For example, a cookie might contain information about the web pages you have visited on the website, which could allow us to customise your next visit to the websites. However, cookies do not allow us access to the rest of your computer.
+## For what purpose is my Personal Information collected and how is it used?
 
-In order to analyze the success of our marketing campaigns, we also implement other technologies such as web beacons. We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! please send us an [Email](mailto:help@clarinsusa.com).
+We collect and use your Personal Information for a range of purposes relating to operating our business and providing services to you , as well as for certain secondary purposes.
 
-Most Internet browsers enable you to delete cookies or to receive a warning before a cookie is stored on your hard drive. Please refer to your browser instructions or help screen to learn more about how to do this. However, should you decide to disable any cookies we place on your computer you may not be able to use certain services or facilities on the website.
+  1. Primary purposes 
 
-#### 7 - Linking to other websites
+Your Personal Information is generally collected in order for Clarins to carry out its business and provide you with services, including to  do the following:
 
-The website contains hyperlinks to websites owned and operated by third parties. These websites have their own privacy policies and we urge you to review them. They will govern the use of Personal Information you submit whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+    * Administer this Site;
+    * Improve your browsing experience;
+    * Enable the use of the services made available on this Site;
+    * Confirm, process and track your orders for goods and services;
+    * Deliver goods and services that you purchase online;
+    * Provide after sales services, handle goods returns, recalls;
+    * Send statements and invoices to you;
+    * Administer billing, payment and collection for your purchases;
+    * To monitor and analyze usage of our site and identify trends;
+    * To customize, measure and improve our services, content and advertising;
+    * Respond to your submitted comments or queries;
+    * As otherwise required or permitted by law.
+  2. Potential Secondary Uses 
 
-#### 8 - IP Addresses
+As permitted by law, we may also use some of your Personal Information for purposes not directly connected to your use of the Services, as set out below. In some cases, you may choose not to participate in such activities, or to refrain from providing us with your Personal Information. In other cases, you may opt-out of the use of your Personal Information for secondary purposes by contacting us, as set out below under Contact. For completeness, we also note below a number of practices that involve only the collection and use of aggregated information.
 
-We study visitor trends since we are interested in the successful dissemination of information through the websites. Our server creates log files of information such as the Internet Protocol (IP) address from your network, what pages were explored and the length of your visit.  Analysis software is used to generate reports which help us to learn more about how we can enhance your experience with the websites. This information is not used to develop a personal profile of you. The log files are regularly purged. An IP address is a number designated for your computer by your Internet service provider to provide access to the Internet.  Generally, an IP address will change every time your computer connects to the Internet.  However, if you have a broadband connection, it is possible that the IP address that we may gather may contain information that may be deemed Personal Information.  This could occur due to the fact that by using certain broadband connections, your IP address would not change and could be associated with your personal computer. We may use your IP address to gather aggregate information on use. But we will only be able to identify you individually if we have the means of linking the IP address to you as a particular user. This usually requires access to additional information which we do not seek.
+_a) Marketing Communications_
 
-#### 9 - Your rights concerning your Personal Information
+Where permitted by law, we may communicate with you by postal mail, telephone (including through automatic dialing-announcing devices), fax, e-mail, SMS, MMS, or any other communications means about the latest news or special offers from Clarins and our selected partners which may be of interest to you, unless you have opted to be excluded from these communications. You can inform us at any time, by any of the following mean, if you no longer wish to receive such information or to specify your communication preferences:
 
-In accordance with applicable law, you have the right to request access to the Personal Information that we hold on you, to have any errors in that information corrected, to request that the Personal Information is deleted as well as to object, on request and free of charge, to the processing of your Personal Information for direct marketing purposes.  
+    * by sending us an e-mail message at: [privacy@clarins.ca](mailto:privacy@clarins.ca),
+    * by telling us, on a marketing telephone call, that you prefer not to be called again
+    * by calling the number provided for the purpose on any automated telephone calls
+    * by clicking the unsubscribe link on any marketing email communication
+    * by texting “stop” in response to any sms or mms messages
 
-Please address your request to the data protection manager by [email ](mailto:help@clarinsusa.com)or to: Clarins Consumer Relations, 1 Park Avenue, 19th Floor, New York, NY 10016. We will address your queries in accordance with the regime established by the applicable legislation. 
+_b) Online Advertising_
 
-#### 10 - Advertising features
+Clarins licenses technology to serve advertisements on its own Sites and within its content as that content is served across the Internet. In addition, Clarins may use third party network advertisers to serve advertisements based on your use of the Site and viewing of our content. We do not share Personal Information with these third parties; however, ad network providers, advertisers and/or sponsors may set and access their own cookies, pixel tags and similar technologies on your device and they may otherwise collect or have access to information about you, including information about your web usage. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other web sites. We may use a variety of companies to serve advertisements.
 
-Clarins licenses technology to serve advertisements on its own Sites and within its content as that content is served across the Internet. In addition, CLARINS may use third party network advertisers to serve advertisements and third party analytics vendors to evaluate and provide us with information about the use of the Sites and viewing of our content. We do not share Personal Information with these third parties, but ad network providers, the advertisers, the sponsors, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including Usage Information. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other web sites. We may use a variety of companies to serve advertisements.
+If you prefer to not receive online interest-based advertising, you can opt out of certain network advertising programs through the Digital Advertising Alliance of Canada (DAAC) Opt-Out Page: <https://youradchoices.ca/fr/retrait/>. Please note that even if you choose to remove opt out of the receipt of interest-based ads, you will still see advertisements while you're browsing online; however, the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The DACC Opt-Out Page provides a tool that identifies its participating companies and their advertising and privacy practices.
 
-If you prefer to not receive targeted advertising, you can opt out of certain network advertising programs through the Network Advertising Initiative (NAI) Opt-Out Page: <http://www.networkadvertising.org/managing/opt_out.asp>. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
+As described further below, you may also prevent the tracking of your web usage by disabling cookies in your browser.
+
+_c) Website Usage and Analytics_
+
+Clarins collects certain information about visitors to the Site through various Internet technologies, such as through log files, and through cookies, web beacons and similar technologies. We use this information to better understand the way our Site is used, such as to identify repeat visitors and to track the number of unique visits to our Site, the number of views to particular pages, and time of day patterns.
+
+Clarins may use third party analytics vendors to evaluate and provide us with information about the use of the Site and viewing of our content. We do not share Personal Information with these third parties, but analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including information about your web usage. 
+
+As described further below, you may also prevent the tracking of your web usage by disabling cookies in your browser.
+
+_d) User-Submitted Content_
+
+From time to time, users of the Site may submit testimonials, photographs or other writings. By providing such submissions, users consent to Clarins using such submissions together with the user’s name and location in any and all media. 
+
+_e) Contests and Surveys_
+
+To participate in certain services-related promotions, including, but not limited to, contests, sweepstakes and surveys, there may be a separate registration process which may require the submission of Personal Information (including your name, email address, mailing address, telephone number, etc.). We will use the information you provide for the purpose of conducting the promotion (for example, to contact you if you have won), and for the purposes stated in the registration form. 
+
+You may also have the opportunity to opt-in to receive special promotions or offers from our advertisers as a result of your use of the Site and/or Services. . In some cases, users may also be given the choice of providing their name and location when responding to customer satisfaction surveys. 
+
+
+
+
+## With whom may we share your Personal Information and why?
+
+We may share Personal Information collected via the Site with third party service providers who perform services on our behalf, based on our instructions, such as to help us to operate the Site, process your orders and queries or otherwise manage the customer relationship between you and Clarins. We will limit our disclosure of your Personal Information to such third parties to that which is reasonably necessary for the purpose or service for which the third-party service provider has been engaged. We will use contractual and other means to provide a comparable level of protection while the information is being processed by such third parties, including limiting such providers to using your Personal Information solely to provide Clarins with the specific service for which they were engaged, and for no other purpose. You can obtain more information about our policies and practices with respect to the use of Personal Information by third party service providers by contacting the Data Protection Manager at [privacy@clarins.ca](mailto:privacy@clarins.ca).
+
+When you register on our Site and provide your consent by ticking the relevant box, the Personal Information you submitted and the information concerning your use of the Site will be shared with Clarins and any of its affiliated companies so that they can send you information about their products. . These organisations are in the cosmetics industry and the information that you will be sent will relate to their products only. You may opt-out at any time from our sharing of your Personal Information with these companies by contacting the Data Protection Manager at [privacy@clarins.ca](mailto:privacy@clarins.ca).
+
+We may share or transfer your Personal Information where reasonably required in the context of a sale, merger or amalgamation of all or part of our business or the insurance of securitization of our assets. In any such case, the recipient parties will be contractually required to keep the information confidential and use it only for the purposes of the transaction, or proposed transaction, in question. I In the event a business transaction is affected, assignees or successors of Clarins or our business or assets, or those of our affiliated entities, may use and disclose Personal Information only for the purposes as set out this Privacy Policy, unless further consent is obtained.Otherwise, we will only disclose Personal Information, as required or permitted by law, including:
+
+  * to government bodies and law enforcement agencies
+  * in connection with any legal proceedings or prospective legal proceedings involving Clarins
+  * to otherwise establish, exercise or defend our legal rights (including providing information to third parties for the purposes of fraud prevention and reducing credit risk as permitted by law)
+
+
+
+Upon request, we will inform you about the disclosure and the entity to which we disclosed your Personal Information, unless prohibited by law. 
+
+Clarins may also share with third parties aggregated or de-identified information, which cannot reasonably be used to identify a particular individual.
+
+## Cookies, Web Beacons and Log Files
+
+An IP address is a number designated for your computer by your Internet service provider to provide access to the Internet. Generally, an IP address will change every time your computer connects to the Internet. However, with some broadband connections, it is possible that the IP address assigned to your service may be static. In some cases, when combined with other information linked to an IP address, from across the Internet or that is held by other organizations with which a user might deal, that an Internet service account holder could be identified through their IP address – particularly if it is a static address. Clarins may use your IP address to gather aggregate information respecting your use of the Site; however, we will only be able to identify you individually if we have the means of linking your IP address to you as a particular user. This usually requires access to additional information which we do not seek.
+
+When you view our Site we, or advertising and analytics companies that we may retain, may store information on the hard drive of your computer, tablet or mobile device in the form of a "cookie" Cookies are small text files stored on your device that identify your browser/IP address – but not you as a named individual – to our computers each time you visit our Site or other sites on the web. Cookies do not allow us access to the rest of your computer. More information about cookies can be found at <https://en.wikipedia.org/wiki/HTTP_cookie>.
+
+Cookies allow us to tailor our Site to your interests and preferences. For example, a cookie might contain information about the web pages you have visited on the Site, which could allow us to customise your next visit to the websites. We may also use cookies to collect aggregated statistical information. Most Internet browsers enable you to delete cookies or to receive a warning before a cookie is stored on your hard drive. Please refer to your browser instructions or help screen to learn more about how to do this. However, should you decide to disable any cookies we place on your computer you may not be able to use certain services or facilities on the Site.
+
+In order to analyse the success of our marketing campaigns, we also implement other technologies such as web beacons. A [web beacon](https://en.wikipedia.org/wiki/Web_beacon) is a small transparent graphic image that allows us to record simple user actions related to our Site and to email communications received from us, which assist us in determining the usage and effectiveness of our Site and communications. These “images” are automatically loaded to your browser/device when you visit the Site or open an html format email message from us, thereby letting us know if a certain page was visited or an email message was opened.
+
+Log files are records of all visits to our Site, which are automatically generated by our servers or Site hosts. Our server creates log files of information such as the IP address from your network, what pages were explored and the length of your visit. This information is not used to develop a personal profile of you; rather, we study visitor trends since we are interested in the successful dissemination of information through the Site. Analysis software is used to generate reports, consisting of aggregated information, which help us to learn more about how we can enhance your experience with the Site. The log files are regularly purged. 
+
+## Linking to other websites
+
+The Site contains hyperlinks to websites owned and operated by third parties. These websites have their own privacy policies and we urge you to review them. They will govern the use of Personal Information you submit whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+
+## Retention and Storage
+
+We will retain your Personal Information for only so long as is necessary to fulfil the purposes for which it was collected, and for such periods of time as may be required to comply with applicable law.
+
+When your Personal Information is no longer required, we will make all reasonable efforts to ensure all electronic and hard copies of such information are securely destroyed and irreversibly deleted from our systems. 
+
+Your Personal Information may be stored or processed by Clarins or its third party service providers outside of your home country, where it may be subject to the legal requirements of the country in which it is stored or processed.
+
+## How do we keep your information secure? 
+
+Clarins takes commercially reasonable security measures to protect against unauthorized access to, or unauthorized use, alteration or disclosure of, Personal Information that you share and that we collect and store. 
+
+These security measures may include practices such as keeping your Personal Information on a secured server behind a firewall, transmitting sensitive information (such as a credit card number) entered on our site using secure socket layer technology (SSL), internal reviews of our data collection practices and policies, as well as physical security measures to guard against unauthorized access to systems where we store your information. Other safeguards include physical measures (such as locked filing cabinets and restricted access to offices), organizational measures (such as security clearances and limiting access to a “need-to-know” basis) and technological measures (such as the use of passwords and encryption).
+
+## Your rights concerning your Personal Information 
+
+In accordance with applicable law, you have the right to request access to the Personal Information that we hold on you and to have any errors in that information corrected. You may also request that the Personal Information be deleted as well as object, free of charge, to the processing of your Personal Information for direct marketing purposes. Please address your written request to the Data Protection Manager at the contact address provided in the following section of this policy.
+
+We will address your queries in accordance with the regime established by the applicable legislation.
+
+## Who to contact for any questions? 
+
+Please contact our Data Protection Manager should you have any questions, complaints or comments in connection with this Privacy Policy and/or the collection, storing, transfer and use of your Personal Information by Clarins. You may also contact our Data Protection Manager to obtain more information about our policies and practices relating to the collection, storing, transfer and use of Personal Information, or to access your Personal Information.
+
+Clarins Data Protection Manager  
+815 Desserte Est  
+Autoroute 13  
+Laval, QC   
+H7W 5N4.   
+[confidentialite@clarins.ca](mailto:confidentialite@clarins.ca)
+
+Note that only privacy-related inquiries or requests may be sent to the above address. For other matters, please direct your communications to Clarins Consumer Relations at [contact@clarins.ca](mailto:contact@clarins.ca).
