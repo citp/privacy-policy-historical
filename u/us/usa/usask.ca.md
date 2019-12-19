@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usask.ca privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603194607id_/https%3A//privacy.usask.ca/statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usask.ca privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219010350id_/https%3A//privacy.usask.ca/statement.php) for the most accurate reproduction.*
 
 # Website Privacy Statement - Access to Information and Privacy - University of Saskatchewan
 
