@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spin.ph privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330103243id_/https%3A//www.spin.ph/privacy-policy%3Fref%3Dmenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.ph privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219084610id_/https%3A//www.spin.ph/privacy-policy%3Fref%3Dmenu) for the most accurate reproduction.*
 
 # Privacy Policy | SPIN.ph: Sports Interactive Network Philippines
 
