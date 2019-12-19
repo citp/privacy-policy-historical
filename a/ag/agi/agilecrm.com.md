@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilecrm.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406201511id_/https%3A//www.agilecrm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilecrm.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219225939id_/https%3A//www.agilecrm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Agile CRM
 
