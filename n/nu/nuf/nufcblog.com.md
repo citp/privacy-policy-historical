@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nufcblog.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614213037id_/http%3A//www.nufcblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nufcblog.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219033110id_/http%3A//www.nufcblog.com/privacy) for the most accurate reproduction.*
 
 # The Newcastle United Blog | » Privacy
 
@@ -65,4 +65,4 @@ The Newcastle United Blog may amend this Privacy Policy from time to time, at it
 
 If you decide to visit The Newcastle United Blog website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
-Effective Date of this Privacy Policy – **  This Privacy Policy is effective as of September, 2010** and last updated September 10th, 2010.
+Effective Date of this Privacy Policy – **  This Privacy Policy is effective as of September, 2010.**
