@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627052309id_/https%3A//www.biblio.com/pages/Privacy_and_Security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219234940id_/https%3A//www.biblio.com/pages/Privacy_and_Security.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
