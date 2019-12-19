@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cambridgescholars.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821062924id_/https%3A//www.cambridgescholars.com/t/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgescholars.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219090925id_/http%3A//www.cambridgescholars.com/t/PrivacyPolicy) for the most accurate reproduction.*
 
 # Cambridge Scholars Publishing. Privacy Policy
 
 Cambridge Scholars Publishing are committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms and Conditions of Sale](http://www.cambridgescholars.com/t/privacyinfo) and any other documents that it refers to) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website, and recognise the importance of keeping that information secure and letting you know what we will do with it.
+This policy (together with our [Terms and Conditions of Sale](https://www.cambridgescholars.com/t/privacyinfo) and any other documents that it refers to) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website, and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
 For the purpose of the Data Protection Act 1998 (the  **Act** ), the data controller is Cambridge Scholars Publishing of Lady Stephenson Library, Welbeck Road, Newcastle upon Tyne, NE6 2PA (registration number 4333775).
 
@@ -14,7 +14,7 @@ This policy only applies to our site. If you leave our site, via a link or other
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site [www.cambridgescholars.com](http://www.cambridgescholars.com/). This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site [www.cambridgescholars.com](https://www.cambridgescholars.com/). This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to these.
   * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access.
