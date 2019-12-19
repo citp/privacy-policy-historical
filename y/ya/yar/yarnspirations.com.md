@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarnspirations.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409143455id_/https%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarnspirations.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219021231id_/https%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Yarnspirations
 
@@ -34,7 +34,7 @@ All computers and servers on the Internet use IP addresses to recognize and comm
 
 We may also collect information if you engage with our website through a third-party social media platform. For example, if you interact with us by using a hashtag on Twitter or Instagram, we and other users of the social media platform may be able to view your profile, depending on your privacy settings on that platform. Your use of third party platforms remains subject to the terms and conditions and privacy policies that you have agreed to with such platforms.
 
-#### Use of Personal Information
+#### How we use your Personal Information
 
 Personal information collected by us is used internally by our authorized employees for three main purposes: First, we collect personal information to figure out which areas, features, and products are liked the most and found most helpful by our visitors, so we can continue to improve the website. Second, we collect personal information in order to customize the website for our users (for example, it allows us to know if you're a member or not). Finally, we collect personal information to enable our users to participate in sweepstakes, contests, services, and other activities on our website.
 
@@ -51,7 +51,7 @@ Specifically, we collect your personal information as in order to:
 
 
 
-#### Disclosure of Personal Information
+#### Sharing of Personal Information
 
 We will never sell or rent your information to third parties. However, we may share your information with other parties in certain situations, such as service providers acting on our behalf to provide services to you.
 
@@ -65,6 +65,10 @@ Your personal information will only be disclosed to third parties in the followi
   * if the personal information is already publicly known.
 
 
+
+**Our Partners**
+
+We may share your personal information with our business partners when you grant us permission to share the personal data, e.g. by opting-in to email communications from a business partner on the Yarnspirations website. Please be aware that these partners are governed by separate privacy policies. 
 
 **Service Providers**
 
@@ -95,7 +99,7 @@ You have some choices when it comes to online behavioural advertising: [We adher
 
 
 
-For more information, including how to opt out of having your online behavior collected for advertising purposes or to exercise choice for companies participating in the DAA tool, please see [www.aboutads.info](https://web.archive.org/web/20190409143455id_/https%3A//www.yarnspirations.com/www.aboutads.info). Choices you make are both browser and device-specific.
+For more information, including how to opt out of having your online behavior collected for advertising purposes or to exercise choice for companies participating in the DAA tool, please see [www.aboutads.info](https://web.archive.org/web/20191219021231id_/https%3A//www.yarnspirations.com/www.aboutads.info). Choices you make are both browser and device-specific.
 
 #### Do Not Track
 
