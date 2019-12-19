@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prebid.org privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601003609id_/http%3A//prebid.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prebid.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219051542id_/http%3A//prebid.org/privacy.html) for the most accurate reproduction.*
 
 # Prebid.org Privacy Policy for Header Bidding
 
