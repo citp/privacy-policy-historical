@@ -1,28 +1,159 @@
-> *The following text is extracted and transformed from the forloveandlemons.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214232252id_/http%3A//www.forloveandlemons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forloveandlemons.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219163056id_/https%3A//forloveandlemons.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — For Love & Lemons
+# Privacy Policy – For Love & Lemons
 
-### What information do we collect?
+This Privacy Policy applies to information that For Love & Lemons and its parent, subsidiary and affiliate entities worldwide (“ **For Love & Lemons**”, the “ **Company** ”, “ **we** ”, “ **us** ”, or “ **our** ”) collects about you on or through forloveandlemons.com, or one of our other websites, applications or other services from which you are accessing this Privacy Policy (each referred to herein as a “ **Site** ” and collectively, the “ **Sites** ”).
 
-We collect information from you when you register on our site or place an order.   
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
-
-### What do we use your information for?
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-  * • To personalize your experience: Your information helps us to better respond to your individual needs.
-  * • To improve our website: We continually strive to improve our website offerings based on the information and feedback we receive from you. 
-  * • To improve customer service: Your information helps us to more effectively respond to your customer service requests and support needs. 
-  * • To process transactions: Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  1. ******Personal Information**
 
 
 
-### How do we protect your information?
+This Privacy Policy describes how we collect such information, how we use it and to whom and under what circumstances we may disclose it. Personal Information includes, but is not limited to, your name, postal address, zip or postal code, email address, telephone number, date of birth, payment information, demographic information, details on items purchased, and other information you choose to provide us (“ **Personal Information** ”). The Personal Information we collect is stored and/or controlled by For Love & Lemons, LLC in Los Angeles, CA, USA and/or the relevant local corporate affiliate(s).
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.   
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+We may share and use your Personal Information with our parent, subsidiary and affiliate entities for use in connection with their websites and their services. We may share your Personal Information with third parties for their direct marketing purposes as further described in our Information Disclosure and Your Choices/Your Privacy Rights sections below. By accessing any of our Sites, you signify your consent to the collection, use, and disclosure of your Personal Information, Site Usage Information, and any other information mentioned herein, in the manner provided in this Privacy Policy.
 
-### Do we disclose any information to outside parties?
+If you are subject to the jurisdiction of the European Union, please see our  **General Data Protection Regulation (GDPR) Personal Data Notice**[here](https://forloveandlemons.com/pages/gdpr) .
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  2. ******California Privacy Rights**
+
+
+
+Section 1798.83 of the California Civil Code provides that residents of California can obtain certain information about their personal information (as defined under Section 1798.83(e)(6) of the California Civil Code) that companies have shared with third parties for direct marketing purposes during the preceding calendar year, as well as the identity of those third parties. Personal information, as defined under the California Civil Code, includes, but is not limited to, data relating to a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in, or is likely to come into, the possession of the data controller. To request a copy of your personal information maintained by us, please contact us at info@forloveandlemons.com.
+
+  3. ******Information You Provide To Us**
+
+
+
+We (or our service providers) collect information from you when you: (1) purchase products from us on our Sites; (2) create an account with us (the “ **Account** ”), or otherwise sign up for a service or feature; (3) complete a survey; (4) participate in a sweepstakes, contest or other promotion; (5) communicate with us via third-party social media sites; (6) apply for a job with us; or (7) contact us, or otherwise communicate with us or provide information to us in any way.
+
+In some cases, you may provide information to us about another person, such as when you purchase a gift card for someone and request that we deliver it to that person, when you share Site content or send a message to a friend through a Site or otherwise, or when you decide to ship products you purchase to someone else. In such cases, you represent that you have the authorization of such person to provide us with such information.
+
+We may combine your (and others’) information that we’ve collected from you (or others) with information we may receive from other sources, such as third-party social media platforms (e.g., when you choose to log in to our Sites through a third-party social media platform, subject to your actions and settings thereon), address update services and co-promotion partners. By accessing any of our Sites, you signify your consent to the above collection of your Personal Information.
+
+When you are creating an Account for the first time on a Site with an email address that you have previously provided to us in another circumstance (e.g., when signing up for our emails, by entering one of our sweepstakes or other promotions), we may recognize that email address and, once you have completed the account set-up process, you may be able to see your contact information already included in your new online Account. This happens because we have recognized your email address and, for your convenience, have added your information to your Account.
+
+If you do not want us to collect your Personal Information, please do not provide it to us. You can update your information or change marketing and subscription settings by accessing your Account via the Sites.
+
+  4. ******Third-Party Service Provider Ads**
+
+
+
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this Site. They may collect anonymous information about your visits to our Site, and your interaction with our products and services. They may also use information about your visits to this and other Sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
+
+  5. ******Site Information & Other Information Collected Automatically**
+
+
+
+As part of the standard operation of the Sites, certain information is collected automatically or passively from or about you in connection with your visit to the Sites. Our servers may automatically gather some of the Site Usage Information (as defined below), or we (or our service providers) may use cookies and other tracking technologies to collect and track such information.
+
+Site Usage Information includes, but is not limited to: (i) your browser type, device type, carrier (if applicable), device address, operating system, operating system address, IP address and the domain name from which you accessed a Site; (ii) information about your region, continent, country, city, zip code, time zone, and general location; and (iii) information about your browsing activities on and through a Site (also known as “ **Click Stream** ” data), such as (a) the date and time you visit one of the Sites, (b) the areas or pages of a Site that you visit, (c) the amount of time you spend viewing a Site or specific areas of a Site, (d) the number of times you return to a Site or a specific area of a Site, (e) the web sites or pages you visited prior to visiting a Site, (f) the websites or pages you visit after you leave a Site; (g) searches you have performed on a Site and on other websites that led you to our Sites; (h) social plug-ins with which you have interacted on our Sites; and (j) other similar Site usage data (collectively, the “ **Site Usage Information** ”).
+
+We consider this Site Usage Information, on its own, to be non-personal in nature, unless determined otherwise by applicable law. However, we may combine Site Usage Information about you with Personal Information about you, and we would consider the combined information to be “personally identifiable” or Personal Information for the purposes of this Privacy Policy.
+
+  6. ******Browser Do-Not Track Signals**
+
+
+
+Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time, we do not modify your experience based on whether such a signal is broadcast. To learn more about browser tracking signals and “Do Not Track,” please visit http://allaboutdnt.og.
+
+  7. ******Cookies and Other Tracking Technologies**
+
+
+
+We and our service providers may use cookies, pixel tags, web beacons, Adobe Flash Technology and other similar technologies, which allow us to, among other things, optimize our Sites and to understand traffic and usage patterns. Additionally, if the settings on your location-aware devise allow us to receive geo-location data or information, we may collect that information automatically.
+
+A Cookie is a small data file that is sent to your web browser and placed on your computer or device when you access a website. Cookies allow parties (including us, our service providers and others) to: (i) track your activities on the Sites, (ii) track clicks, purchases and conversion; (iii) recognize your computer or device so that you are able to save your preference and stay logged in to the Sites without having to re-enter your Account credentials; (iv) deliver customized content, messages and advertising to you; (v) preserve the contents of your shopping cart; (vi) and otherwise enhance and personalize your experience on the Sites. If you do not want information collected through the use of cookies, most devices allow you to decline the use of cookies. We recommend that you leave cookies turned on because if you elect not to allow them, you may not be able to use or to enjoy all of the services and features of the Sites.
+
+We may use Flash cookies and other similar technologies, which allow a website to store certain information locally on an individual’s computer or device and then access and use that information to enhance and facilitate certain Site experiences, processes and functionality. Flash cookies are different from other cookies and may not be removed in the same manner. More information about both kinds of cookies is available at www.allaboutcookies.org.
+
+We also use web beacons (also known as “clear GIFs” or “pixel tags”) for similar purposes as cookies. These beacons are typically one-pixel images that are embedded in the Site or in a communication, such as an email message. These technologies help us to verify when a certain page of a Site is viewed, when a message is opened and when links or other content in a message are clicked or viewed.
+
+We may use third party web analytics services, such as Google Analytics and Adobe services, to help us track and analyze the use of our Site and to measure the effectiveness of our advertising, Site content, and communications. These service providers’ tools, including, for example, cookies, tags and web beacons, help us to gain this understanding.
+
+  8. ******Information Use**
+
+
+
+We may use the information we collect from and about you (including both Personal Information and Site Usage Information) for a variety of purposes, including but not limited to the following:
+
+(i) To fulfill your requests for products and services and to keep you informed about your orders; (ii) to provide you with targeted offers and advertising on and at the Sites; (iii) subject to your communications preferences and, where required by applicable law, subject to your consent, to contact you (via postal mail, email and the like) with promotional materials about us, our products, our services and our events, as well as about select partners; (iv) to contact you when necessary or appropriate; where appropriate, for market research and to review and improve our merchandise selections, customer service, online and offline operations and overall shopping experience; (v) to protect the security or integrity of the Sites and our business; (vi) and otherwise, with your permission or as permitted by law.
+
+If you provide us with information about another person (as described above in the “ _Information You Provide To Us_ ” section), where permitted by applicable law, we use that information to fulfill your requests and treat such information in accordance with this Privacy Policy.
+
+We (and our service providers) also analyze and use Site Usage Information and information collected through cookies, web beacons and other tracking technologies, alone and in combination with Personal Information, to assess the behavior of our users, to measure the interest in and use of the Sites and communications, and to customize the Sites and our communications with you. We do this both on an individual basis and in the aggregate.
+
+  9. ******Information Disclosure**
+
+
+
+We may disclose information we collect (including Site Usage Information and Personal Information) in the following ways, to the extent permitted by law:
+
+  * To our service providers and suppliers, who collect or use such information for us or on our behalf (such as website or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, and other similar entities that help us to operate the Site and/or provide functionality, content and services);
+  * As necessary, if we believe that there has been a violation of the Sites’ [Terms of Use](https://shop.forloveandlemons.com/pages/terms-conditions) or any other policy of the Sites, or if we have reason to believe that our rights or property, or the rights or property of any third party, may be or have been harmed;
+  * To respond to subpoenas or other judicial processes, or to provide information as requested by law;
+  * In the event that For Love & Lemons or substantially all of its assets are acquired by one or more third parties as a result of an acquisition, merger, sale, consolidation, bankruptcy, liquidation or other similar corporate reorganization, where your information may be one of the transferred assets;
+  * To third party marketers, as permitted by law;
+  * When you contribute to a social, community or other publicly available area or feature of the Sites, the information and content that you post may be made available to the general public, depending on your settings (which is why we recommend that you do not submit or post any sensitive Personal Information, such as your full name, home address, phone number or other information that would enable others to contact or locate you); and
+  * As otherwise, with your permission or as permitted by law.
+
+
+
+Content and information that you submit on or through Facebook, Twitter, Instagram, Tumblr and other third-party platforms may appear on the Site through feeds from and other interfaces with those platforms. We are not responsible for the information, content and/or privacy practices of any such third-party platforms. Your activity with these platforms is governed by the privacy policies of the companies that provide them.
+
+  10. ******Your Choices/ Your Privacy Rights**
+
+
+
+If you would like to opt out of receiving direct mail from us, please contact us at [info@forloveandlemons.com](mailto:info@forloveandlemons.com). Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your Account, relationship, activities, transactions and communications with us.
+
+If you would like to opt out of receiving promotional emails from us, please follow the unsubscribe instructions located in each such email or contact us at [info@forloveandlemons.com](mailto:info@forloveandlemons.com). Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your Account, relationship, activities, transactions and communications with us.
+
+If you would prefer that we not share your Personal Information with third-party marketers, please contact us at [info@forloveandlemons.com](mailto:info@forloveandlemons.com). Please understand that if you do request that we stop sharing your Personal Information with third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from third parties that received your Personal Information prior to that request. In these cases, please opt out from or contact the third party directly.
+
+  11. ******Access to Your Personal Information**
+
+
+
+You may access any Personal Information you provide to us, correct or modify any such Personal Information, or direct us to delete or make no further use of your Personal Information. You can access or make certain adjustments to your Account directly through your online Account.
+
+  12. ******S. & Other Countries**
+
+
+
+Our Websites are hosted in the United States and are intended for visitors from United States and to the 15 locations we currently ship to worldwide. 
+
+This Privacy Policy applies to customer relationships established in the United States and to the 15 locations we currently ship to worldwide. Parts of this Privacy Policy may not apply to visitors outside the United States. Like almost every website, our Sites may be accessed by an international audience. If you are a non-U.S. visitor to our Site, by visiting our Site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this Privacy Policy. In addition, such data may be stored on servers located in the United States, which may have less stringent privacy practices than those your own resident jurisdiction. By providing us with your data, you consent to transfer of such data.
+
+  13. ******Security**
+
+
+
+We have implemented measures in an effort to safeguard the Personal Information in our custody and control. Such measures include, for example, limiting access to Personal Information only to employees and authorized service providers who need to know such information for the purposes described in this Privacy Policy, as well as other administrative, technical and physical safeguards. Additionally, our service providers are not authorized to use or disclose your Personal Information for any purpose other than providing the services to us or on our behalf, or as otherwise may be required by applicable law. While we endeavor to always protect our systems, due to the inherent nature of the Internet as an open global communications vehicle and other risk factors, we cannot guarantee that any information, during transmission or while stored on our systems, will be absolutely safe from intrusion by others, such as hackers.
+
+To provide you with increased security, access to certain Personal Information stored in your Account is protected with your username and password. You are responsible for maintaining the confidentiality of your Account credentials, and we strongly recommend that you do not disclose your account username or password to anyone. We will never ask you for your password in any unsolicited communication. Please notify us immediately of any unauthorized use of your Account credentials or any other suspected breach of security.
+
+  14. ******Sites Not Intended For Children**
+
+
+
+We ask that minors (under the age of 18) only use our Sites in conjunction with your parents or guardians. Children under 13 years of age should not send any information about themselves to the Company. If a child under 13 submits information through any part of our Sites, and the Company becomes aware that the person submitting the information is a child, we will attempt to delete this information as soon as possible. We do not knowingly collect any personal information about children under 13.
+
+  15. ******Third-Party Websites**
+
+
+
+The Sites may contain links (which may take the form of hyperlinks, widgets, clickable logos, plug-ins, images or banners) to websites and services operated by entities other than us. This Privacy Policy does not apply to such websites or services and we are not responsible for any information (including Personal Information) that is collected about you through your use of such websites, so we recommend that you review their posted privacy policies so that you understand the relevant information collection, use and disclosure practices.
+
+  16. ******Changes to This Privacy Policy**
+
+
+
+We may change this Privacy Policy from time to time and the amended policy will be posted to the Sites. We reserve the right to update, change, amend or modify this Policy at any time and from time to time without prior notice. When we post changes to this Privacy Policy, we will revise the “Last Updated” date below. Your continued use of the Sites after any changes or revisions to this Privacy Policy become effective shall indicate your agreement with the terms of such revised and then-current Privacy Policy.
+
+  17. ******Contact Us**
+
+
+
+If you have any questions regarding our Privacy Policy, please contact us at [info@forloveandlemons.com](mailto:info@forloveandlemons.com).
+
+Last Updated: May 24, 2018
