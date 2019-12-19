@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edcentretralee.ie privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405024158id_/https%3A//edcentretralee.ie/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcentretralee.ie privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219154332id_/https%3A//www.edcentretralee.ie/privacy-policy.html) for the most accurate reproduction.*
 
 # Education Centre Tralee | Teacher CPD - Privacy Policy
 
