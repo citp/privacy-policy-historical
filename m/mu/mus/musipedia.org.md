@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musipedia.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205182512id_/http%3A//www.musipedia.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musipedia.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219140315id_/http%3A//www.musipedia.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy: Musipedia Melody Search Engine
 
@@ -6,25 +6,25 @@
 
 ### General
 
-The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
+[here]() The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
 
 ### Data collection on our website
 
-**Who is responsible for the data collection on this website?**
+[]() **﻿[]() Who is responsible for the data collection on this website?**
 
-The data collected on this website are processed by the website operator. The operator's contact details can be found in the website's required legal notice.
+[]() The data collected on this website are processed by the website operator. The operator's contact details can be found in the website's required legal notice.
 
-**How do we collect your data?**
+[]() **[]() How do we collect your data?**
 
 Some data are collected when you provide it to us. This could, for example, be data you enter on a contact form, or contributions to the collection of melodies. If you enter a new item into the collection, you can pick a license for this item (you can donate it to the public domain or pick one of the creative commons licenses). Search queries are stored and used for scientific purposes and for improving the search engine. Search queries are stored without a link to a user's name or login, even if they are performed while the user is logged in. 
 
 Other data are collected automatically by our IT systems when you visit the website. These data are primarily technical data such as the browser and operating system you are using or when you accessed the page. These data are collected automatically as soon as you enter our website.
 
-**What do we use your data for?**
+**[]() What do we use your data for?**
 
 Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site.
 
-**What rights do you have regarding your data?**
+**[]() What rights do you have regarding your data?**
 
 You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities.
 
@@ -126,19 +126,19 @@ We will continue to store the data collected during registration for as long as 
 
 If you use the comment function on this site, the time at which you created the comment and your email address will be stored along with your comment, as well as your username, unless you are posting anonymously.
 
-**Storage of the IP address**
+**[]() Storage of the IP address**
 
 Our comment function stores the IP addresses of those users who post comments. Since we do not check comments on our site before they go live, we need this information to be able to pursue action for illegal or slanderous content.
 
-**Subscribing to the comment feed**
+**[click]() Subscribing to the comment feed**
 
 As a user of this site, you can sign up to receive the comment feed after registering. Your email address will be checked with a confirmation email. You can unsubscribe from this function at any time by clicking the link in the emails. The data provided when you subscribed to the comments feed will then be deleted, but if you have submitted this data to us for other purposes or elsewhere (such as subscribing to a newsletter), it will be retained.
 
-**How long comments are stored**
+**[]() How long comments are stored**
 
 The comments and the associated data (e.g. IP address) are stored and remain on our website until the content commented upon has been completely deleted or the comments are required to be removed for legal reasons (slander, etc.).
 
-**Legal basis**
+**[]() Legal basis**
 
 The comments are stored based on your consent per Art. 6 (1) (a) DSGVO. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
@@ -191,3 +191,8 @@ The site operators participating in the Amazon EU partner program. Our pages con
 The storage of Amazon cookies is based on Art. 6 (f) DSGVO. The website operator has a legitimate interest in this service since it only receives credit for referral fees if these cookies are set.
 
 To obtain more information about how Amazon uses your data, see the Amazon privacy policy at [https://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401](https://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401).
+
+### NAI
+
+Please find out NAI Consumer Opt Out Form below:  
+<http://optout.networkadvertising.org/?c=1>
