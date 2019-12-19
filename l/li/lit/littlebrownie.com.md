@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlebrownie.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410182541id_/http%3A//www.kelloggcompany.com/en_US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebrownie.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219104558id_/http%3A//www.kelloggcompany.com/en_US/privacy-policy.html) for the most accurate reproduction.*
 
 # Kellogg Company | Privacy Policy |
 
@@ -129,15 +129,19 @@ Battle Creek, MI 49016
 
 Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former users of the site for important administrative purposes. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
 
-**VI. UPDATES TO THIS PRIVACY POLICY**
+**VI. YOUR NEVADA PRIVACY RIGHTS**
+
+Nevada consumers have the right to instruct us not to sell covered information. We do not currently sell covered information of Nevada consumers as those terms are defined under that law. In the event we choose to do so in the future, we will update this online privacy policy to provide an opportunity for Nevada consumers to be verified and exercise their opt-out rights under that law.
+
+**VII. UPDATES TO THIS PRIVACY POLICY**
 
 Kellogg Company reserves the right to make changes in this Privacy Policy. These changes will take effect immediately upon posting. For your convenience, the last revised date of the current policy will be posted at the top of this page. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, please do not continue using the Site.
 
-**VII. GOVERNING LAW**
+**VIII. GOVERNING LAW**
 
 This Privacy Policy is governed by the laws of the State of Michigan, USA, without regard to its choice of law provisions.
 
-**VIII. CONTACTING KELLOGG COMPANY**
+**IX. CONTACTING KELLOGG COMPANY**
 
 If you have any questions about this Privacy Policy or the practices of this Site, you may contact:
 
