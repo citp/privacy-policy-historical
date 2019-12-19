@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quill.org privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414023632id_/https%3A//www.quill.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quill.org privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219213525id_/https%3A//www.quill.org/privacy) for the most accurate reproduction.*
 
 # Quill.org — Interactive Writing and Grammar
 
@@ -72,7 +72,7 @@ In response to court orders, warrants, or subpoenas, and other situations where 
 
   *  **Change of business**
 
-If we acquire, merge with, or are acquired by another organization, in whole or in part, the information we have collected may be transferred to and/or shared with the other organization and its affiliates.
+If we acquire, merge with, or are acquired by another organization, in whole or in part, the information we have collected may be transferred to and/or shared with the other organization and its affiliates. In such case, the organization receiving the personal information will be obligated to follow the terms of this privacy policy.
 
   *  **When appropriate or necessary to protect our interests**
 
@@ -95,12 +95,20 @@ We may share information about aggregated and/or anonymized data with our partne
 
 You may use the Website anonymously without providing any Personal Information. If you choose to do this, you will still have access to all of our lessons and content, but some Website features may not work and your progress will not be saved.
 
+  *  **You can view your Personal Information**
+
+You can view certain personal information by logging into our website, and can request to view any other personal information by contacting us at hello@quill.org, or sending a request in writing to the address listed below.
+
   *  **Your Personal Information can be corrected, edited, or deleted**
 
-To ensure that you have control over your information, we will respond as quickly as possible to any request to correct, edit or delete Personal Information. If you would like this information changed or removed, please contact us at hello@quill.org.
+To ensure that you have control over your information, we will respond as quickly as possible to any request to correct, edit or delete Personal Information. If you would like this information changed or removed, please contact us at hello@quill.org, or send a request in writing to the address listed below.
 
 
 
+
+## Data Retention
+
+We will retain your or your student's personal information, including after the school term in which you or your student uses the Services, for only as long as is reasonably necessary to fulfill the purpose for which the information was collected. Generally, Quill will delete a user's personal information 4 years after the user's last login to the Services.
 
 ## Children Users
 
@@ -139,15 +147,17 @@ In some cases, the Website may link to third party websites. These links may inc
 
 ## Changes and updates to this Privacy Policy
 
-We may revise this Privacy Policy from time to time. We will notify users of any change to our Privacy Notice by posting the revised Privacy Policy with an updated date of revision on our Website. The revised Privacy Policy will become effective upon such posting.
+We may revise this Privacy Policy from time to time. If we make any changes, we will change the last revised date listed below. The revised Privacy Policy will become effective upon such posting.
+
+If we make any material changes to this policy, we will provide notice to the email address we have on record for each account holder. For material changes regarding use or collection of data, we will provide choices and additional information regarding the collection of such data before it is used in any manner inconsistent with the terms initially provided to users. You are responsible at all times for keeping that email address up to date.
 
 ## Contacting Us
 
 If you have any questions regarding this Privacy Policy, comments, or would like to know what Personal Information has been collected about you, please contact us by emailing hello@quill.org or writing to:
 
 Empirical Resolution Inc.   
-55 Exchange Pl.   
-Suite #603   
-New York, NY 10005
+41 E 11th St   
+11th Floor   
+New York, NY 10003
 
- _updated 12/07/15_
+ _updated 9/26/18_
