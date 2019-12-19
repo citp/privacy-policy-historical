@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyotreat.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619025759id_/https%3A//tokyotreat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyotreat.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219223448id_/https%3A//tokyotreat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TokyoTreat: Japanese Candy & Snacks Subscription Box
 
