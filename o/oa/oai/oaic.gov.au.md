@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330110418id_/https%3A//www.oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy-summary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219032856id_/https%3A//www.oaic.gov.au/about-us/our-corporate-information/key-documents/privacy-policy-summary) for the most accurate reproduction.*
 
-# Privacy policy summary| Office of the Australian Information Commissioner - OAIC
+# Privacy policy summary — OAIC
 
 ## Scope
 
 This summary sets out the key points about how the Office of the Australian Information Commissioner (OAIC) handles personal information.
 
-We collect, hold, use and disclose personal information to carry out our functions or activities under the [_Australian Information Commissioner Act 2010_](https://www.legislation.gov.au/Details/C2014C00382) (AIC Act), the [_Privacy Act 1988_](https://www.legislation.gov.au/Details/C2016C00838) (Privacy Act) and the [_Freedom of Information Act 1982_](https://www.legislation.gov.au/Details/C2016C00745) __ (FOI Act).
+We collect, hold, use and disclose personal information to carry out our functions or activities under the [Australian Information Commissioner Act 2010](https://www.legislation.gov.au/Details/C2014C00382) (AIC Act), the [Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00838) (Privacy Act) and the [Freedom of Information Act 1982](https://www.legislation.gov.au/Details/C2016C00745) (FOI Act).
 
-More information can be found in our main [privacy policy](https://www.oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy) and our [human resources privacy policy](https://www.oaic.gov.au/about-us/corporate-information/key-documents/human-resources-privacy-policy).
+More information can be found in our main [privacy policy](https://web.archive.org/about-us/our-corporate-information/key-documents/privacy-policy/) and our [human resources privacy policy](https://web.archive.org/about-us/our-corporate-information/key-documents/human-resources-privacy-policy/).
 
 ## Collection of your personal information
 
@@ -31,7 +31,7 @@ We may also disclose personal information:
   * to another review body if a complainant, applicant or respondent seeks an external review of the OAIC’s decision
   * to the My Health Records Systems Operator if you notify the OAIC about a data breach that relates to the My Health Records Act.
   * to other regulators or external dispute resolution schemes (generally only if you agree and where the information will assist investigation of a matter)
-  * to service providers (like those that host our website servers, manage our IT and manage our human resources information).
+  * to service providers (like those that host our website servers, manage our IT and manage our human resources information)
 
 
 
@@ -47,16 +47,20 @@ If you ask, in most cases we must give you access to the personal information th
 
 You can complain to us in writing about how we have handled your personal information. We will respond to the complaint within 30 days.
 
-You can find more information on our [‘How do I make a privacy complaint?’](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint) web page.
+You can find more information on our [Privacy complaints](https://web.archive.org/privacy/privacy-complaints/) web page.
 
-## How to contact us
+You can:
 
-You can [contact us](https://web.archive.org/about-us/contact-us) at:
-
-  * [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
-  * 1300 363 992
-  * GPO Box 5218, Sydney NSW 2001, Australia.
+  * email us at [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+  * phone our Enquiry Line on [1300 363 992](tel:1300363992), or
+  * send a letter to: GPO Box 5218, Sydney NSW 2001, Australia
 
 
 
-[Assisted contact](https://web.archive.org/about-us/contact-us) options are also available.
+[Assisted contact](https://web.archive.org/about-us/contact-us/#AssistedContact) options are also available.
+
+## Was this page helpful?
+
+Thank you.
+
+If you would like to provide more feedback, please email us at [websitefeedback@oaic.gov.au](mailto:websitefeedback@oaic.gov.au?subject=Feedback%20on%20/about-us/our-corporate-information/key-documents/privacy-policy-summary/)
