@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommyish.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921052541id_/https%3A//www.mommyish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyish.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219043225id_/https%3A//www.mommyish.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Mommyish
 
@@ -114,7 +114,7 @@ The Site has chosen to provide you with a cost-free means to opt-out of such sha
 
 Zabby, LLC  
 Attn: California Privacy  
-E-mail: [privacy@mommyish.com](mailto:privacy@mommyish.com)
+E-mail: [privacy@mommyish.com](https://mailto:privacy@mommyish.com/)
 
 The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to “Do Not Track” browser settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created.
 
@@ -150,4 +150,4 @@ Zabby, LLC
 Suite 605  
 Beverly Hills, CA 90212  
 Attn: Privacy  
-E-mail: [privacy@mommyish.com](mailto:privacy@mommyish.com)
+E-mail: [privacy@mommyish.com](https://mailto:privacy@mommyish.com/)
