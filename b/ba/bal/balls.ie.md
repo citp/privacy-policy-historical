@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balls.ie privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330085737id_/https%3A//www.balls.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balls.ie privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219023429id_/https%3A//www.balls.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Balls.ie
 
@@ -28,7 +28,7 @@ These are cookies that are set by this website directly.
 
 **Google Analytics and **Comscore  **:** We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information.We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
 
-You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>
+You can find out more about Google’s position on privacy as regards its analytics service at [http://www.google.com/intl/en_uk/analytics/privacyoverview.html](https://www.google.com/intl/en_uk/analytics/privacyoverview.html)
 
 **WordPress:**  Our websites runs the popular WordPress CMS and cookies are used to store basic data on your interactions with WordPress, and whether you have logged into WordPress. We use a  **session cookie**  to remember your log-in for you if you are a registered user and we deem these as being strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.
 
