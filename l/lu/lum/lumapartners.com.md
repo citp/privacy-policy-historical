@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lumapartners.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115102721id_/https%3A//lumapartners.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumapartners.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219111259id_/https%3A//lumapartners.com/privacy) for the most accurate reproduction.*
 
-# Privacy | LUMA Partners
+# Privacy & Cookies Policy | LUMA Partners
 
 **Privacy Policy**
 
@@ -17,3 +17,5 @@ LUMA Partners may disclose such information to its affiliates and to service pro
 LUMA Partners will require such third-party service providers and financial institutions to protect the confidentiality of clients’ nonpublic personal information and to use the information only for purposes for which it is disclosed to them. LUMA Partners maintains physical, electronic and procedural safeguards that comply with federal standards to safeguard clients’ nonpublic personal information and which LUMA Partners believes are adequate to prevent unauthorized disclosure of such information.
 
 If you have any questions concerning this privacy policy, please contact Susan Marshall (646) 786-8423 at the office of LUMA Partners.
+
+To give you the best possible experience, this site uses cookies. By viewing this site, you agree to our use of cookies. Should you need to find out more about the cookies we use, view our [Cookies & Privacy Policy](https://web.archive.org/privacy).Accept
