@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712000420id_/https%3A//www.sbicard.com/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219021022id_/https%3A//www.sbicard.com/en/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy | SBI Card
+
+Manage your account on the go with the SBI Card Mobile App 
+
+[Install](http://bit.ly/SBICApp)
 
   * ### STATEMENT OF PRACTICE & POLICY
 
@@ -96,23 +100,23 @@ To further ensure enforcement of these Standards, Privacy Leader in consultation
 
 Have doubts? See Frequently Asked Questions.
 
-[Learn More](https://www.sbicard.com/en/faqs.page)
+[Learn More](https://www.sbicard.com/en/faq.page)
 
 [
 
 ### FAQs
 
-](https://www.sbicard.com/en/faqs.page)
+](https://www.sbicard.com/en/faq.page)
 
 ### Contact Us 
 
-SBI Cards and Payment Services Private Limited   
+SBI Cards and Payment Services Limited  
 Unit 401 & 402, 04th Floor, Aggarwal Millennium Tower,   
-E-1,2,3 Netaji Subhash Place, Wazirpur, New Delhi -110034  
-CIN:U65999DL1998PTC093849   
-Tel: 0124-4589803,  
-Fax: 0124-3987306   
-Email:[feedback@sbicard.com](https://web.archive.org/web/20170712000420id_/https%3A//www.sbicard.com/en/feedback@sbicard.com)
+E-1,2,3 Netaji Subhash Place,   
+Wazirpur, New Delhi 110034  
+CIN:U65999DL1998PTC093849  
+Tel: 91-124-4589803,  
+Fax: 91-124-3987306
 
 [Learn More](https://www.sbicard.com/en/contact-us/personal.page)
 
@@ -146,21 +150,19 @@ Get instant information. Send an SMS to 5676791 from your registered mobile numb
 
 ](https://www.sbicard.com/en/personal/benefits/easy-access-channels/simply-sms.page)
 
-Download from
+Download Mobile App
 
   * Mobile Icon
 
   * [Apple's App Store](https://itunes.apple.com/in/app/sbi-card/id694549848?mt=8)
   * [Google's Play Store](https://play.google.com/store/apps/details?id=com.ge.capital.konysbiapp&hl=en)
-  * [ Window's Store](http://www.windowsphone.com/en-in/store/app/sbi-card/78ad6f7f-6fae-4565-bd8d-81e7a986e301)
+  * Window's Store
 
-Send the link to your phone  ►
+
 
 abb ccd dc dc dfv
 
 x
-
-## 
 
 You are being re-directed to a third party site. Please acknowledge the disclaimer before proceeding further.
 
