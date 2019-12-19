@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slugbooks.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220172204id_/https%3A//www.slugbooks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slugbooks.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219130342id_/https%3A//www.slugbooks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SlugBooks
 
