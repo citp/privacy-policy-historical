@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the snowflake.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331215937id_/https%3A//www.snowflake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowflake.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219160053id_/https%3A//www.snowflake.com/privacy-policy) for the most accurate reproduction.*
 
 # Snowflake Privacy Notice | Snowflake
 
-**Last Updated:** **October 26, 2018**
+**Last Updated: October 15, 2019**
 
-This Notice explains how Snowflake Computing, Inc. and its affiliates and subsidiaries (“ **Snowflake** “, “ **we** “, “ **our** ” or “ **us** “) collect, store, use, disclose, and otherwise process information about you in the course of our business, including through our websites that link to this Notice (such as,  **[www.snowflake.com](http://www.snowflake.com/)** ) (the “ **Sites** “), our SaaS-based data-warehousing service (the “ **Service** ”) and through other means such as our and our partner’s events, sales and marketing activities.  It also sets out more information about your privacy rights.
+This Notice explains how Snowflake, Inc. and its affiliates and subsidiaries (“ **Snowflake** “, “ **we** “, “ **our** ” or “ **us** “) collect, store, use, disclose, and otherwise process information about you in the course of our business, including through our websites that link to this Notice (such as, [ **www.snowflake.com**](http://www.snowflake.com/)) (the “ **Sites** “), our SaaS-based data-warehousing service (the “ **Service** ”) and through other means such as our and our partner’s events, sales and marketing activities.  It also sets out more information about your privacy rights.
 
-**_ABOUT OUR SERVICE_** **.**  We provide the Service to our customers under an agreement with the customer and solely for the benefit of their personnel and other personnel authorized by the customer as users of the Service (“ **Authorized Users** “). Our customers can efficiently store and analyze all their data in the Service.  Because the Service is SaaS, Authorized Users may access and use the Service from all over the world, subject to Snowflake’s contract with the customer and any applicable laws.
+**ABOUT OUR SERVICE.**  We provide the Service to our customers under an agreement with the customer and solely for the benefit of their personnel and other personnel authorized by the customer as users of the Service (“ **Authorized Users** “). Our customers can efficiently store and analyze all their data in the Service.  Because the Service is SaaS, Authorized Users may access and use the Service from all over the world, subject to Snowflake’s contract with the customer and any applicable laws.
 
 This Notice does not apply to the content that our customers and their Authorized Users upload and store in the Service (“ **Customer Content** ”).  In those circumstances:
 
@@ -16,7 +16,7 @@ This Notice does not apply to the content that our customers and their Authorize
 
 In such circumstances you should refer to their privacy notice and direct any queries to the relevant Snowflake customer. The provisions of the customer’s agreement with Snowflake govern our use of and processing of Customer Content in these circumstances. For more information about our data collection and use in connection with our Service see the “Information when using the Service” Section below.
 
-**_QUICK LINKS_** :
+**QUICK LINKS** :
 
 We recommend that you read this Privacy Notice to ensure you are fully informed. However, if you only want to access a particular section of this Privacy Notice, then you can click on the relevant link below to jump to that section.
 
@@ -102,7 +102,7 @@ Snowflake may store and process personal information in the United States and ot
 
 
 
-**_LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA AND SWITZERLAND VISITORS AND USERS ONLY)_** **:**  If you are a visitor or user based in the European Economic Area (“ **EEA** “), Snowflake Computing, Inc., is the data controller of your personal information unless the data is collected in circumstances where one of our affiliates is running a local event, training session or survey, for example, and they collect and control that information.  In such circumstances, we will endeavor to make this clear to you in a context specific notification at the point we collect your personal information.
+**_LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA AND SWITZERLAND VISITORS AND USERS ONLY)_** **:**  If you are a visitor or user based in the European Economic Area (“ **EEA** “), Snowflake, Inc., is the data controller of your personal information unless the data is collected in circumstances where one of our affiliates is running a local event, training session or survey, for example, and they collect and control that information.  In such circumstances, we will endeavor to make this clear to you in a context specific notification at the point we collect your personal information.
 
 Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. However, we will normally collect personal information only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms.  In some cases, we may also have a legal obligation to collect personal information from you.
 
@@ -120,7 +120,7 @@ However, we have taken appropriate safeguards to require that your personal info
 
 Our Standard Contractual Clauses can be provided on request. We implement similar appropriate safeguards with our third-party service providers and further details can be provided upon request.
 
-Please note we have additionally certified to comply with the Privacy Shield Principles for limited international data transfers from the EEA and Switzerland, **where we act as a processor on behalf of business customers based in the EEA and Switzerland** For more information please see our Privacy Shield Statement [here](https://www.snowflake.com/legal/snowflake-privacy-shield-statement/).
+Please note we have additionally certified to comply with the Privacy Shield Principles for limited international data transfers from the EEA and Switzerland, **where we act as a processor on behalf of business customers based in the EEA and Switzerland and where we act as a controller regarding Snowflake human resources and internal business operations data from the EEA and Switzerland.** For more information, please see our Privacy Shield Statement [here](https://www.snowflake.com/legal/snowflake-privacy-shield-statement/).
 
 **_YOUR INFORMATION CHOICES AND CHANGES_** : You may opt out of receiving promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences and changes to your information including requests to opt-out of sharing your personal information with third parties by emailing  **[privacy@snowflake.com](mailto:privacy@snowflake.com)** **.**
 
@@ -147,6 +147,6 @@ When acting as processor (see Section “About our Services” above), we will r
 
 **_CHANGES TO THIS NOTICE_** **:**  We may change this Notice from time to time. If we make any changes to this Notice, we will change the “Last Updated” date above. If such changes are material in nature we will provide you with additional notice (such as adding a statement to the main website page or sending you an email notification).
 
-**_QUESTIONS_** **:**  If you have any questions about this Notice, please contact us at **[privacy@snowflake.com](mailto:privacy@snowflake.com)**  or Snowflake Computing, Inc., 100 South Ellsworth Avenue, Suite 100, San Mateo CA, 94401.
+**_QUESTIONS_** **:**  If you have any questions about this Notice, please contact us at **[privacy@snowflake.com](mailto:privacy@snowflake.com)**  or Snowflake, Inc., 450 Concar Drive, San Mateo, CA, 94402.
 
-**_FOR EEA AND SWITZERLAND USERS_** **:  **The best way to reach us regarding questions about this Notice is to contact us at  **[privacy@snowflake.com](mailto:privacy@snowflake.com)** or Snowflake Computing, Inc., 100 South Ellsworth Avenue, Suite 100, San Mateo CA, 94401.
+**_FOR EEA AND SWITZERLAND USERS_** **:  **The best way to reach us regarding questions about this Notice is to contact us at  **[privacy@snowflake.com](mailto:privacy@snowflake.com)** or Snowflake, Inc., 450 Concar Drive, San Mateo, CA, 94402.
