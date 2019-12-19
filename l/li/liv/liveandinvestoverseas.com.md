@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveandinvestoverseas.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410210025id_/https%3A//www.liveandinvestoverseas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveandinvestoverseas.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219222326id_/https%3A//www.liveandinvestoverseas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Live and Invest Overseas
 
@@ -14,11 +14,11 @@ You can remove your address from our emailing list by clicking the respective li
 
 We will not add your name to our email list without your permission.
 
-#### **Spam**
+####  **Spam**
 
 If you believe that Live and Invest Overseas has sent you unsolicited commercial email (spam), please send an email to our [Customer Service department](mailto:customerservice@liveandinvestoverseas.com).
 
-#### **Personal Information**
+####  **Personal Information**
 
 We will never ask you for personal information–your credit card number, for example–except when you place an order. At that time, we will provide a secure (SSL, encrypted) connection and require you to submit only the information needed to complete and fulfill your order. This information will be used to process your order, providing compliance with proper and safe data processing by Authorize.net and PayPal.
 
@@ -32,29 +32,29 @@ Live and Invest Overseas follows all legal requirements to protect your privacy.
 
 All information you’ve provided can be provided to you at your request (under GDPR guidelines).
 
-#### **Cookies**
+####  **Cookies**
 
 Our website(s) use “cookies” to identify the pages and articles that visitors have read. 
 
-**What is a cookie?  **– A cookie is a tiny data file that is stored on your web browser and typically includes non personal information about your visit. This non personal information is not personally identifiable to you.
+ **What is a cookie?  **– A cookie is a tiny data file that is stored on your web browser and typically includes non personal information about your visit. This non personal information is not personally identifiable to you.
 
-**Why do we use cookies?** – As is common practice with almost all professional websites this site uses cookies. We use them to make sure our users are having their interests and needs met by our content. Cookies help to tell us if, in general, our readers enjoyed a piece of content and stayed to read it or if the content wasn’t good or out of date and visitors are not enjoying what they’re reading. Cookies are overall used in an effort to improve the user experience of our website. 
+ **Why do we use cookies?** – As is common practice with almost all professional websites this site uses cookies. We use them to make sure our users are having their interests and needs met by our content. Cookies help to tell us if, in general, our readers enjoyed a piece of content and stayed to read it or if the content wasn’t good or out of date and visitors are not enjoying what they’re reading. Cookies are overall used in an effort to improve the user experience of our website. 
 
 We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
 
-**Disabling Cookies –  **You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.
+ **Disabling Cookies –  **You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.
 
-**The Cookies We Set**
+ **The Cookies We Set**
 
-  * **Account related cookies**. If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out.
-  * **Login related cookies**. We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
-  * **Email newsletters related cookies**. This site offers newsletter or email subscription services and cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users.
-  * **Orders processing related cookies**. This site offers e-commerce or payment facilities and some cookies are essential to ensure that your order is remembered between pages so that we can process it properly.
-  * **Forms related cookies**. When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.
+  *  **Account related cookies**. If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out.
+  *  **Login related cookies**. We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
+  *  **Email newsletters related cookies**. This site offers newsletter or email subscription services and cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users.
+  *  **Orders processing related cookies**. This site offers e-commerce or payment facilities and some cookies are essential to ensure that your order is remembered between pages so that we can process it properly.
+  *  **Forms related cookies**. When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.
 
 
 
-**Third Party Cookies**
+ **Third Party Cookies**
 
 In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
 
@@ -66,19 +66,19 @@ In some special cases we also use cookies provided by trusted third parties. The
 
 
 
-#### **Use Of Information From This Website**
+####  **Use Of Information From This Website**
 
 Unless you have entered into an express written contract with this website to the contrary, visitors have no right to use this information in a commercial or public setting; they have no right to broadcast it, copy it, save it, print it, sell it, or publish any portions of the content of this website. By viewing the contents of this website you agree this condition of viewing and you acknowledge that any unauthorized use is unlawful and may subject you to civil or criminal penalties.
 
-#### **Right To Use, Sell, Publish Contents Of This Website**
+####  **Right To Use, Sell, Publish Contents Of This Website**
 
 The website and its contents are owned or licensed by the website. Material contained on the website must be presumed to be proprietary and copyrighted. Visitors have no rights whatsoever in the site content. Use of website content for any reason is unlawful unless it is done with express contract or permission of the publisher.
 
-#### **Submissions**
+####  **Submissions**
 
 Visitor agrees as a condition of viewing, that any communication between visitor and website is deemed a submission. All submissions, including portions thereof, graphics contained thereon, or any of the content of the submission, shall become the exclusive property of the website and may be used, without further permission, for commercial use without additional consideration of any kind.
 
-#### **Discussion Board And  Forums**
+####  **Discussion Board And  Forums**
 
 If you choose to participate on any public forum of Live and Invest Overseas, including but not limited to message boards, teleconferences, and social media sites, you do so at your own risk. If you must submit a name to post a message on a public forum, it does not have to be your real name. Using your real name or email address when you post is entirely voluntary.
 
