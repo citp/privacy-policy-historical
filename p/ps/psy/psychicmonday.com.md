@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychicmonday.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420133132id_/http%3A//psychicmonday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychicmonday.com privacy policy that was archived on 2019-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191219022718id_/http%3A//psychicmonday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Psychic Monday
 
@@ -35,7 +35,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 **DoubleClick Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7aea9a1a887a8aaa0b4b3b2a3aea8b4e9a4a8aa)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#335a5d555c735c5e54404746575a5c401d505c5e)
 
 
 
