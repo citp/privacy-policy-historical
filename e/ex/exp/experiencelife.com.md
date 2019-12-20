@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182356id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220170128id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Experience Life
 
@@ -18,7 +18,7 @@ _Experience Life_ Magazine
 2145 Ford Parkway, Suite 302  
 St. Paul, MN 55116
 
-This privacy policy covers [www.experiencelife.com](https://www.experiencelife.com/), [www.experiencelifemag.com](https://www.experiencelife.com/), [elmag.com](http://elmag.com/), [revolutionaryact.com](http://www.revolutionaryact.com/ "Revolutionary Act") and the “[101 Revolutionary Ways to Be Healthy](https://experiencelife.com/app/ "“101 Revolutionary Ways to Be Healthy” App")” mobile application (for iPhone, iPad, Kindle Fire and Android devices). By visiting our site, you agree that your visit and any dispute over privacy are governed by this Privacy Policy, as well as our [Terms of Service](https://experiencelife.com/terms-of-service).
+This privacy policy covers [www.experiencelife.com](https://www.experiencelife.com/), [www.experiencelifemag.com](https://www.experiencelife.com/), [elmag.com](https://elmag.com/), [revolutionaryact.com](https://www.revolutionaryact.com/ "Revolutionary Act") and the “[101 Revolutionary Ways to Be Healthy](https://experiencelife.com/app/ "“101 Revolutionary Ways to Be Healthy” App")” mobile application (for iPhone, iPad, Kindle Fire and Android devices). By visiting our site, you agree that your visit and any dispute over privacy are governed by this Privacy Policy, as well as our [Terms of Service](https://experiencelife.com/terms-of-service).
 
 ## Anonymous Access
 
@@ -85,7 +85,7 @@ All e-newsletters sent by _Experience Life_ are in compliance with the CAN-SPAM 
 
 ## Postings and Privacy
 
-The information you post in any comment board, forum or blog at our site is available to anyone with Internet access. Submit information at your own risk and please take the necessary precautions to protect yourself. For more information on the content posted by other users on our site, please see our [Terms of Service](http://experiencelife.com/terms-of-service). For more information on commenting specifically, please see our [Comment Policy](http://experiencelife.com/comment-policy/ "Comment Policy").
+The information you post in any comment board, forum or blog at our site is available to anyone with Internet access. Submit information at your own risk and please take the necessary precautions to protect yourself. For more information on the content posted by other users on our site, please see our [Terms of Service](https://experiencelife.com/terms-of-service). For more information on commenting specifically, please see our [Comment Policy](https://experiencelife.com/comment-policy/ "Comment Policy").
 
 ## Accessing Your Personal Data
 
@@ -99,7 +99,7 @@ We do not reserve the right to refuse to provide you with a copy of your persona
 
 ## Policy Changes
 
-[ExperienceLife.com](https://www.experiencelife.com/) reserves the right to change any or all of the Privacy Policy at any time without notice or liability to users. Additions or changes to this policy will be posted here, and the most recent version will always be available at [www.experiencelife.com](http://www.experiencelife.com/). Changes to this policy will be considered accepted by you upon continued use of the site.
+[ExperienceLife.com](https://www.experiencelife.com/) reserves the right to change any or all of the Privacy Policy at any time without notice or liability to users. Additions or changes to this policy will be posted here, and the most recent version will always be available at [www.experiencelife.com](https://www.experiencelife.com/). Changes to this policy will be considered accepted by you upon continued use of the site.
 
 This policy was last updated on November 12, 2012.
 
