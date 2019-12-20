@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stmed.net privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211232306id_/https%3A//stmed.net/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stmed.net privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220144140id_/https%3A//stmed.net/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | stmed.net
 
@@ -17,7 +17,7 @@ While browsing Stmed.com, a small number of text files referred to as “cookies
 **Third-Party Advertisers**  
 Stmed.net serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by Stmed.net’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-– [Google AdSense](http://www.google.com/intl/en/policies/privacy/)
+– [Google AdSense](https://www.google.com/intl/en/policies/privacy/)
 
 **Sharing/Selling of Data**  
 Stmed.net does NOT share or sell personally identifiable data to third parties such as direct marketers. We respect your privacy.
