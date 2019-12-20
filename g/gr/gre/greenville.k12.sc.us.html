@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greenville.k12.sc.us privacy policy that was archived on 2019-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190329124226id_/https%3A//www.greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greenville.k12.sc.us privacy policy that was archived on 2019-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191220055156id_/https%3A//greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+<script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_6005800.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2813711-1']);
@@ -31,110 +31,147 @@
 <style>
 /* Side Menu */
 
-#sidebar-wrapper {
-    z-index: 1000;
-    position: fixed;
-    right: 0;
-    width: 250px;
-    border: 1px solid #dedede;
-    height: 100%;
-	vertical-align: top;
-    margin-right: -250px;
-    overflow-y: auto;
+.nav-side {
+	position: fixed;
+	right: 0;
+	top: 110px;
+	width: 100%;
+	max-width: 250px;
 	background-color: #C75000;
     background: rgba(199,80,0,0.9);
-	color:#fff;
-    -webkit-transition: all 0.4s ease 0s;
-    -moz-transition: all 0.4s ease 0s;
-    -ms-transition: all 0.4s ease 0s;
-    -o-transition: all 0.4s ease 0s;
-    transition: all 0.4s ease 0s;
+	box-sizing: border-box;
+	padding: 20px;
+	color: white;
+	margin-right: -250px;
+	transition: margin 200ms ease-in-out;
+	z-index: 1;
+    border-bottom-right-radius: .5em;
+}
+.nav-side a {
+	text-decoration: none!important;
+		}
+.nav-side.nav-open {
+  margin-right: 0;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+.nav-toggle1, .nav-toggle2, .nav-toggle3, .nav-toggle4, .nav-toggle5, .nav-toggle6, .nav-toggle7, .nav-toggle8, .nav-toggle9, .nav-toggle10, .nav-toggle11 {
+  position: absolute;
+  left: -200px;
+  top: 0;
+  width: 200px;
+  height: 40px;
+  background-color: #C75000;
+  background: rgba(199,80,0,0.9);
+  text-decoration: none;
+  text-align: center;
+  border-top-left-radius: .5em;
+  border-bottom-left-radius: .5em;
+  box-shadow: 1px 0 3px rgba(0, 0, 0, 0.1);
+}
+.nav-toggle1:before, .nav-toggle2:before, .nav-toggle3:before, .nav-toggle4:before, .nav-toggle5:before, .nav-toggle6:before, .nav-toggle7:before, .nav-toggle8:before, .nav-toggle9:before, .nav-toggle10:before, .nav-toggle11:before {
+  font-weight: 600;
+  color: white;
+  line-height: 40px;
+}
+.nav-toggle1:before {
+	content: "\25B7 " " Board of Trustees" ;
+}
+.nav-toggle2:before {
+	content: "\25B7 " " Administration" ;
+}
+.nav-toggle3:before {
+	content: "\25B7 " " Academics" ;
+}
+.nav-toggle4:before {
+	content: "\25B7 " " Academics" ;
+}
+.nav-toggle5:before {
+	content: "\25B7 " " Communications" ;
+}
+.nav-toggle6:before {
+	content: "\25B7 " " Education Technology" ;
+}
+.nav-toggle7:before {
+	content: "\25B7 " " Energy Management" ;
+}
+.nav-toggle8:before {
+	content: "\25B7 " " Finance" ;
+}
+.nav-toggle9:before {
+	content: "\25B7 " " Operations" ;
+}
+.nav-toggle10:before {
+	content: "\25B7 " " Student Services" ;
+}
+.nav-toggle11:before {
+	content: "\25B7 " " Transportation" ;
+}
+.nav-side.nav-open .nav-toggle1:before, .nav-side.nav-open .nav-toggle2:before, .nav-side.nav-open .nav-toggle3:before, .nav-side.nav-open .nav-toggle4:before, .nav-side.nav-open .nav-toggle5:before, .nav-side.nav-open .nav-toggle6:before, .nav-side.nav-open .nav-toggle7:before, .nav-side.nav-open .nav-toggle8:before, .nav-side.nav-open .nav-toggle9:before, .nav-side.nav-open .nav-toggle10:before, .nav-side.nav-open .nav-toggle11:before {
+	content: "\2573";
+	font-weight: bold;
+	width:100px;
+}
+.nav-side.nav-open .nav-toggle1, .nav-side.nav-open .nav-toggle2, .nav-side.nav-open .nav-toggle3, .nav-side.nav-open .nav-toggle4, .nav-side.nav-open .nav-toggle5, .nav-side.nav-open .nav-toggle6, .nav-side.nav-open .nav-toggle7, .nav-side.nav-open .nav-toggle8, .nav-side.nav-open .nav-toggle9, .nav-side.nav-open .nav-toggle10, .nav-side.nav-open .nav-toggle11 {
+	width:100px;
+	left:-100px;
+	padding-left:-30px;
+}
+.nav-side.nav-open .dot {
+	display:none;
+}
+.dot {
+  position: relative;
+  height: 16px;
+  width: 16px;
+  /*background: #34FF4A;*/
+  background:#ffffff;
+  border-radius: 50%;
+  float:left;
+  margin-top:10px;
+  margin-left:10px;
+}
+.dot:after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+ /* background: #34FF4A;*/
+  background:#ffffff;
+  animation: pulse 2s infinite;
+  transform-origin: center center;
 }
 
-.sidebar-nav {
-    position: absolute;
-    top: 0;
-    width: 250px;
-    margin: 0;
-    padding: 0;
-    list-style: none;
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  25% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(4.5);
+    opacity: 0;
+  }
 }
-	.sidebar-nav ul{
-		margin:5px;
-	}
-.sidebar-nav li {
-    padding: 5px 0 5px 5px;
-}
-	.sidebar-nav li:hover {
-		background-color:#dedede;
-	}
-.sidebar-nav li a {
-    display: block;
-    text-decoration: none;
-}
-
-.sidebar-nav li a:hover {
-    text-decoration: none;
-	color:#000;
-    /*background: rgba(255,255,255,0.2);*/
-}
-
-.sidebar-nav li a:active,
-.sidebar-nav li a:focus {
-    text-decoration: none;
-}
-
-.sidebar-nav > .sidebar-brand {
-    font-size: 18px;
-    line-height: 55px;
-	font-family: 'Nunito', sans-serif;
-	text-transform: uppercase;
-}
-
-.sidebar-nav > .sidebar-brand a {
-    color: #ff6633;
-}
-
-.sidebar-nav > .sidebar-brand a:hover {
-    color: #fff;
-    background: none;
-}
-
-#menu-toggle {
-    z-index: 1;
-    position: fixed;
-    top: 150px;
-    right: 0;
-}
-
-#sidebar-wrapper.active {
-    right: 250px;
-    width: 250px;
-    -webkit-transition: all 0.4s ease 0s;
-    -moz-transition: all 0.4s ease 0s;
-    -ms-transition: all 0.4s ease 0s;
-    -o-transition: all 0.4s ease 0s;
-    transition: all 0.4s ease 0s;
-}
-
-.toggle {
-    margin: 5px 5px 0 0;
-}	
 </style>
  
 <meta name="keywords" content="Privacy Policy">
 <title>Privacy Policy</title>
 <meta name="viewport" content="width=device-width">
-<link href="/css/accessibility.css?v=1801" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css" integrity="sha384-PmY9l28YgO4JwMKbTvgaS7XNZJ30MK9FAZjjzXtlqyZCqBY6X6bXIkM++IkyinN+" crossorigin="anonymous">
- <!-- <link rel="stylesheet" href="/css/bootstrap-accessibility.css">-->
- <link rel="stylesheet" href="/css/bscustom.css?v=1902">
+<link href="/css/accessibility.css?v=1906" rel="stylesheet" type="text/css"><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+<!-- <link rel="stylesheet" href="/css/bootstrap-accessibility.css">-->
+ <link rel="stylesheet" href="/css/bscustom.css?v=1909">
 	<link href="https://fonts.googleapis.com/css?family=Kameron:400,700" rel="stylesheet">
   <link rel="alternate" type="application/rss+xml" title="Greenville County Schools RSS Feed" href="/rss.asp">
 	</head>
 <body>
-<a id="skip" href="#deepcontent">Skip to main content</a>
 <nav class="navbar navbar-default navbar-fixed-top">
+<a id="skip" href="#deepcontent">Skip to main content</a>
 <div class="container-fluid" style="background-color:#ccc;padding:3px;">
 		<form style="width:350px;float:right;" role="search" action="/results.asp">
 <div class="input-group">
@@ -144,7 +181,7 @@
 	</div>
 <div class="container" style="position:relative;">
 		 <div class="navbar-header">
-      <a class="navbar-brand" href="/"><img class="gcslogo" src="/images/logo1812.svg" alt="Greenville County Schools Logo - navigate to home page"></a> 
+      <a class="navbar-brand" href="/"><img class="gcslogo" src="/images/GCSLogo2019.svg" alt="Greenville County Schools Logo - navigate to home page"></a> 
         <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
@@ -176,7 +213,7 @@
 <ul>
 <li class="dropdown-header">Special Focus</li>
 <li><a href="/Schools/special.asp">Career Centers</a></li>
-<li><a rel="noopener" href="/fac/" target="_blank">Fine Arts Center</a></li>
+<li><a rel="noopener" href="https://fac.greenvilleschools.us/" target="_blank">Fine Arts Center</a></li>
 <li><a href="/Schools/main.asp?titleid=ib">International Baccalaureate</a></li>
 <li><a href="/Schools/main.asp?titleid=newtech">New Tech Schools</a></li>
 <li><a rel="noopener" href="https://ropermountain.org/" target="_blank">Roper Mountain Science Center</a></li>
@@ -189,7 +226,7 @@
 <ul>
 <li class="dropdown-header">Non-Traditional Schools</li>
 <li><a href="/Schools/main.asp?titleid=alted">Alternative School Programs</a></li>
-<li><a rel="noopener" href="https://gcsvirtual.com" target="_blank">Greenville County Virtual Program</a></li>
+<li><a rel="noopener" href="http://gcsvirtual.com" target="_blank">Greenville County Virtual Program</a></li>
 <li><a rel="noopener" href="/ec/" target="_blank">Greenville Early College</a></li>
 <li><a rel="noopener" href="/grouphomes/" target="_blank">Group Homes</a></li>
 <li><a href="/Parents/main.asp?titleid=counselhs">Home School</a></li>
@@ -208,14 +245,16 @@
 		 <li class="divider"></li>
 		 <li class="dropdown-header">Portals</li>
                  <li style="font-style:italic;">Login to find grades and other information.</li>
-                 <li><p><a class="btn btn-primary btn-md" target="_blank" href="https://ps.greenville.k12.sc.us/public/"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Parent Portal Log In</a></p></li>
-		<li><p><a class="btn btn-primary btn-md" target="_blank" href="https://gcsbackpack.com/"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Backpack Log In</a></p></li>	 
+                 <li><p><a class="btn btn-primary btn-md" target="_blank" href="https://powerschool.greenville.k12.sc.us" rel="noopener"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Parent Portal Log In</a></p></li>
+		<li><p><a class="btn btn-primary btn-md" target="_blank" href="https://gcsbackpack.com/" rel="noopener"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Student Backpack Log In</a></p></li>
+                <li><p><a class="btn btn-primary btn-md" target="_blank" href="https://parents.gcsbackpack.com/signin.aspx" rel="noopener"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Backpack for Parents</a></p></li>		 
             </ul>
 		</li>
 	<li class="col-sm-3">
 		<ul>
 			<li class="dropdown-header">Academics</li>
 			<li><a href="/Parents/main.asp?titleid=academics">Academics/Curriculum</a></li>
+                       <li><a href="https://drive.google.com/file/d/1QVkf348CVQLKDJn63C0yvi7NlHhIdyCD/view?usp=sharing" target="_blank">Foreign Exchange Student Guidelines</a></li>
 			<li><a href="/Parents/main.asp?titleid=graduation">Graduation</a></li>
 			<li><a href="/Parents/main.asp?titleid=gradschedule">Graduation Schedules</a></li>
 			<li><a href="/Parents/main.asp?titleid=magnet">Magnet Academies</a></li>
@@ -231,14 +270,17 @@
 	<li class="col-sm-3">
 		<ul>
 			<li class="dropdown-header">Resources</li>
-			<li><a href="/Parents/main.asp?titleid=sped">Special Education</a></li>
+                        <li><a href="https://indd.adobe.com/view/8a66e75a-ae95-40d1-93c5-1a6d8280b53a" target="_blank">Connected Back-to-School Newsletter</a></li>
+			<li><a href="/Parents/main.asp?titleid=backpack">Backpack for Parents</a></li>
+                        <li><a href="/Parents/main.asp?titleid=sped">Special Education</a></li>
 			<li><a href="/Parents/main.asp?titleid=faq">FAQs</a></li>
 			<li><a href="/athletics/" target="_blank">Athletics</a></li>
-                        <li><a href="/Parents/main.asp?titleid=bullying">Bullying and Threat Reporting</a></li>
+                        <li><a href="/Parents/main.asp?titleid=coppa2">Children's Online Privacy Protection Act</a></li>
 			<li><a href="/Parents/main.asp?titleid=calendar">Calendars</a></li>
+                        <li><a href="/Parents/main.asp?titleid=bullying">Bullying and Threat Reporting</a></li>
 			<li><a href="/Calendar/docs/delays1601.pdf" target="_blank">Inclement Weather</a></li>
-			<li><a href="https://sites.google.com/a/greenvilleschools.us/rlfloyd/" target="_blank">Internet Safety Information</a></li>
-			<li><a href="http://gcsfans.com/index.php?sid=0511081654589176" target="_blank">Meals and More</a></li>
+			<li><a href="https://sites.google.com/a/greenvilleschools.us/rlfloyd/" target="_blank" rel="noopener">Internet Safety Information</a></li>
+			<li><a href="http://gcsfans.com/index.php?sid=0511081654589176" target="_blank" rel="noopener">Meals and More</a></li>
 			<li><a href="/Parents/main.asp?titleid=gcspolicies">Policies</a></li>
 			<li><a href="/Parents/main.asp?titleid=ptahome">PTA</a></li>
 			<li><a href="/Parents/main.asp?titleid=accommodation">Request Accommodation</a></li>
@@ -253,14 +295,16 @@
 			<li><a href="/Parents/main.asp?titleid=counseling">Counseling Services</a></li>
 			<li><a href="https://public.greenville.k12.sc.us/" target="_blank">Find Your School</a></li>
 			<li><a href="/Parents/main.asp?titleid=forms">Forms</a></li>
+                       <li><a href="https://sites.google.com/greenvilleschools.us/gifted-talented/home" target="_blank">Gifted &amp; Talented</a></li>
 			<li><a href="/Parents/main.asp?titleid=goldencircle">Golden Circle Club</a></li>
 			<li><a href="/Parents/main.asp?titleid=health">Health Services</a></li>
 			<li><a href="/Parents/main.asp?titleid=counselhb">Homebound</a></li>
 			<li><a href="/Parents/main.asp?titleid=counselhs">Home School</a></li>
-			<li><a href="https://ps.greenville.k12.sc.us/public/" target="_blank">Parent Portal</a></li>
+                       <li><a href="https://drive.google.com/file/d/1wSxnD8k-EDFy_iCiW3_OdT47noOaz-81/view?usp=sharing" target="_blank">School District Governance and Support</a></li>
 			<li><a href="/Departments/main.asp?titleid=acad_sped">Special Education Services</a></li>
 			<li><a href="/Departments/main.asp?titleid=pershome">Student Services</a></li>
 			<li><a href="/Departments/main.asp?titleid=perssws">Social Work Services</a></li>
+			<li><a href="/Departments/main.asp?titleid=acad_techt1">Title I</a></li>
 			<li><a href="/Parents/main.asp?titleid=volunteers">Volunteer Guidelines</a></li>
 		</ul>
 	</li>
@@ -285,6 +329,9 @@
 <li class="divider">&nbsp;</li>
 <li class="dropdown-header">Administration</li>
 <li><a href="/Departments/main.asp?titleid=adminmain">Administration Page</a></li>
+<li class="divider">&nbsp;</li>
+<li class="dropdown-header">Structure</li>
+<li><a href="https://drive.google.com/file/d/1wSxnD8k-EDFy_iCiW3_OdT47noOaz-81/view?usp=sharing" target="_blank">School District Governance and Support</a></li>
 </ul>
 </li>
 <li class="col-sm-4">
@@ -292,7 +339,7 @@
 <li class="dropdown-header">Departments</li>
 <li><a href="/Departments/main.asp?titleid=deptshome">All Departments</a></li>
 <li><a href="/Departments/main.asp?titleid=academics"> Academics</a></li>
-<li><a href="/Departments/main.asp?titleid=adminmain">Administration</a></li>
+<li><a href="/About/main.asp?titleid=adminmain">Administration</a></li>
 <li><a rel="noopener" href="/athletics/" target="_blank">Athletics</a></li>
 <li><a href="/Departments/main.asp?titleid=etshome">Ed Technology Services (ETS)</a></li>
 <li><a href="/Departments/main.asp?titleid=em">Energy Management</a></li>
@@ -323,6 +370,7 @@
 <li class="dropdown-header">Essentials</li>
 <li><a href="/About/main.asp?titleid=aboutus">About Us</a></li>
 <li><a href="/About/main.asp?titleid=statistics">Stats, Plans and Reports</a></li>
+<li><a href="https://www.screportcards.com/" target="_blank">South Carolina Report Cards</a></li>
 </ul>
 </li>
 </ul>
@@ -340,25 +388,21 @@
 <!--
 breadcrumbs();
  -->
-</script><ol class="breadcrumb"><li><a href="/">HOME</a></li>  <li><a href="../../../../../../web/">web</a></li>  <li><a href="../../../../../20190329124226id_/">20190329124226id_</a></li>  <li><a href="../../../../https%3A/">https%3A</a></li>  <li><a href="../../..//"></a></li>  <li><a href="../../www.greenville.k12.sc.us/">www.greenville.k12.sc.us</a></li>  <li><a href="../Departments/">Departments</a></li>  <li class="active">Privacy Policy
+</script><ol class="breadcrumb"><li><a href="/">HOME</a></li>  <li><a href="../../../../../../web/">web</a></li>  <li><a href="../../../../../20191220055156id_/">20191220055156id_</a></li>  <li><a href="../../../../https%3A/">https%3A</a></li>  <li><a href="../../..//"></a></li>  <li><a href="../../greenville.k12.sc.us/">greenville.k12.sc.us</a></li>  <li><a href="../Departments/">Departments</a></li>  <li class="active">Privacy Policy
   </li></ol></nav><!--end of crumbs div-->
 	</div>
 <div class="row">
 <div id="deepcontent" role="main" style="position:relative;">
-	<a id="menu-toggle" href="#" class="btn btn-gcsd" style="opacity: .9;">ETS Menu <span class="glyphicon glyphicon-align-justify" aria-hidden="true"></span></a>
-<nav id="sidebar-wrapper" class="">
-<div class="sidebar-nav">
-<a id="menu-close" href="#" class="btn btn-default pull-left toggle"><span style="font-size:20px;">X</span></a>
-<span class="sidebar-brand">ETS Pages</span>
-<ul class="list-group">
-<li class="list-group-item"><a href="main.asp?titleid=etshome">ETS Home</a></li>
-<li class="list-group-item"><a href="main.asp?titleid=etsstaff">ETS Staff</a></li>
-<li class="list-group-item"><a href="main.asp?titleid=etsresources">Resources and Information</a></li>
-<li class="list-group-item"><a href="main.asp?titleid=ets_admincomp">Administrative Computing</a></li>
-<li class="list-group-item"><a href="main.asp?titleid=etsaup">Technology Policies</a></li>
-<li class="list-group-item"><a href="https://sites.google.com/greenvilleschools.us/systemssupp/telecom-information?authuser=0" target="_blank">Telecom Information</a></li>
-<li class="list-group-item"><a href="/News/Upload/uploads/InfoSecMaterial_FERPA_OES.mp4" target="_blank">Protecting Student Data</a></li>
-</ul>
+	<nav class="nav-side"><a href="#" class="nav-toggle6" style="color:#fff;"><div class="dot" aria-hidden="true"></div>
+<span class="sr-only">trigger for side navigation</span></a>
+<div class="list-group">
+<a href="main.asp?titleid=etshome" class="list-group-item">ETS Home</a>
+<a href="main.asp?titleid=etsstaff" class="list-group-item">ETS Staff</a>
+<a href="main.asp?titleid=etsresources" class="list-group-item">Resources and Information</a>
+<a href="main.asp?titleid=ets_admincomp" class="list-group-item">Administrative Computing</a>
+<a href="main.asp?titleid=etsaup" class="list-group-item">Technology Policies</a>
+<a href="https://sites.google.com/greenvilleschools.us/systemssupp/telecom-information?authuser=0" target="_blank" class="list-group-item">Telecom Information</a>
+<a href="/News/Upload/uploads/InfoSecMaterial_FERPA_OES.mp4" target="_blank" class="list-group-item">Protecting Student Data</a>
 </div>
 </nav><div class="list-group pull-right" style="clear:right;margin:10px;">
 <a class="list-group-item" href="main.asp?titleid=etsaup">Acceptable Use Policy</a>
@@ -433,19 +477,17 @@ breadcrumbs();
 <li><a href="/Parents/main.asp?titleid=bullying">Bullying and Threat Reporting</a></li>
 <li><a href="/Parents/main.asp?titleid=calendar">District Calendars</a></li>
 <li><a href="/Departments/main.asp?titleid=accessibility">Trouble accessing this page?</a></li>
-<li><a href="/Parents/main.asp?titleid=accommodation">Request Accomodation</a></li>
+<li><a href="/Parents/main.asp?titleid=accommodation">Request Accommodation</a></li>
 </ul>
-<div style="background-color: #fff;padding:4px;border-radius: 5px;">
+
 <div id="google_translate_element"></div>
-<p>
-<script>// <![CDATA[
-	function googleTranslateElementInit() {
-	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-	}
-	// ]]></script>
-	<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-</p>
-</div>
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 </div>
 <div class="col-sm-3">
 <h2>Employees</h2>
@@ -455,19 +497,19 @@ breadcrumbs();
 </div>
 <div class="col-sm-3">
 <h2>Connections</h2>
-<div class="fblogo"><a onclick="return warning(this)" rel="noopener" href="https://www.facebook.com/gcschools" target="_blank" title="Greenville County Schools Facebook Page"><span class="sr-only">Greenville County Schools Facebook Page</span></a></div>
-<div class="twlogo"><a onclick="return warning(this)" rel="noopener" href="https://www.twitter.com/gcschools" target="_blank" title="Greenville County Schools Twitter Page"><span class="sr-only">Greenville County Schools Twitter Page</span></a></div>
-<div class="ytlogo"><a onclick="return warning(this)" rel="noopener" href="https://www.youtube.com/user/GCSVideoProduction/videos" target="_blank" title="Greenville County Schools YouTube Page"><span class="sr-only">Greenville County Schools YouTube Page</span></a></div>
-<div class="iglogo"><a onclick="return warning(this)" rel="noopener" href="https://www.instagram.com/gcschools" target="_blank" title="Greenville County Schools Instagram Page"><span class="sr-only">Greenville County Schools Instagram Page</span></a></div>
-<div class="emlogo"><a rel="noopener" href="https://email.greenville.k12.sc.us" target="_blank" title="Greenville County Schools Email Login"><span class="sr-only">Greenville County Schools Email Login</span></a></div>
-<div class="plogo"><a rel="noopener" href="/Departments/main.asp?titleid=portal" title="Greenville County Portals"><span class="sr-only">Greenville County Portals</span></a></div>
-<div class="lnlogo"><a onclick="return warning(this)" rel="noopener" href="https://www.linkedin.com/company/14786/" target="_blank" title="Greenville County LinkedIn Page"><span class="sr-only">Greenville County LinkedIn Page</span></a></div>
+<div class="fblogo"><a onclick="return warning(this)" rel="noopener" href="https://www.facebook.com/gcschools" target="_blank"><span class="sr-only">Greenville County Schools Facebook Page</span></a></div>
+<div class="twlogo"><a onclick="return warning(this)" rel="noopener" href="https://www.twitter.com/gcschools" target="_blank"><span class="sr-only">Greenville County Schools Twitter Page</span></a></div>
+<div class="ytlogo"><a onclick="return warning(this)" rel="noopener" href="https://www.youtube.com/user/GCSVideoProduction/videos" target="_blank"><span class="sr-only">Greenville County Schools YouTube Page</span></a></div>
+<div class="iglogo"><a onclick="return warning(this)" rel="noopener" href="https://www.instagram.com/gcschools" target="_blank"><span class="sr-only">Greenville County Schools Instagram Page</span></a></div>
+<div class="emlogo"><a rel="noopener" href="https://email.greenville.k12.sc.us" target="_blank"><span class="sr-only">Greenville County Schools Email Login</span></a></div>
+<div class="plogo"><a rel="noopener" href="/Departments/main.asp?titleid=portal"><span class="sr-only">Greenville County Portals</span></a></div>
+<div class="lnlogo"><a onclick="return warning(this)" rel="noopener" href="https://www.linkedin.com/company/14786/" target="_blank"><span class="sr-only">Greenville County LinkedIn Page</span></a></div>
 </div>
 </div>
 </div>
 <hr></footer>
 </div>
-	<div id="bottomfooter" class="container-fluid bottom-footer"> 
+	<div id="bottomfooter" class="container-fluid bottom-footer" role="contentinfo"> 
         © Greenville County Schools | <span style="font-size:12px;" class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>  864-355-3100 | <span style="font-size:12px;" class="glyphicon glyphicon-envelope" aria-hidden="true"></span> 
 <a href="mailto:infoline@greenville.k12.sc.us">InfoLine@greenville.k12.sc.us</a>
 <span style="float:right;"><a href="/Departments/main.asp?titleid=etscopyright">Copyright Policy</a> | 
@@ -477,7 +519,7 @@ breadcrumbs();
 </span>
 	</div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js" integrity="sha384-vhJnz1OVIdLktyixHY4Uk3OHEwdQqPppqYR8+5mjsauETgLOcEynD9oPHhhz18Nw" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 <script src="/js/lightbox2.js"></script>
 <script src="/Scripts/ldisc.js"></script>
 <script src="/Scripts/ldisc2.js"></script>
@@ -507,16 +549,60 @@ if (!supportsSVG()) {
 }
 </script>
 <script>
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_6005800.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+<script>
 // Opens the sidebar menu
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
-    });
-    // Closes the sidebar menu
-    $("#menu-close").click(function(e) {
-        e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
-    });	
+$(".nav-side .nav-toggle1").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle2").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle3").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle4").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle5").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle6").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle7").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle8").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle9").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle10").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
+$(".nav-side .nav-toggle11").on("click", function(e) {
+  e.preventDefault();
+  $(this).parent().toggleClass("nav-open");
+});
 </script>
 
 </body></html>
