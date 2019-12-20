@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409113312id_/https%3A//www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220133443id_/http%3A//www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
 
 # CPSC Privacy and Security Notice | CPSC.gov
 
@@ -101,6 +101,8 @@ From time to time, CPSC may decide on its own, not based on any request, to out-
   * It is clearly determined that the link would not contain information that contradicts CPSC policies or regulations.
 
 
+
+CPSC does not control links to other government or business websites or their privacy policies and cannot attest to the accuracy of the information they contain. You may wish to review the privacy policies of any external sites linked to via the CPSC site as their information collection practices may differ from ours. Linking to external sites does not constitute an endorsement of the sites or the information they contain by CPSC or any of its employees.
 
 Such a link may be short- or long-term, at the discretion of the Commission.
 
