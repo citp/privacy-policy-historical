@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngadultmoney.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620021253id_/https%3A//www.youngadultmoney.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngadultmoney.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220141606id_/https%3A//www.youngadultmoney.com/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | Young Adult Money
 
