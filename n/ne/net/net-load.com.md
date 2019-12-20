@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the net-load.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527140034id_/http%3A//net-load.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-load.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221002546id_/http%3A//net-load.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NET-LOAD
 
-Privacy Policy
-
+Privacy Policy  
+[cookies_revoke]  
 This privacy policy (“Policy”) explains how personally identifiable information is collected, used and disclosed by net-load.com. 
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
