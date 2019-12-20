@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the facecrooks.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213101801id_/https%3A//facecrooks.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facecrooks.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220042417id_/https%3A//facecrooks.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 **Privacy Policy for www.facecrooks.com**
 
