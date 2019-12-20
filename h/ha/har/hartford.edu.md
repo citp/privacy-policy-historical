@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hartford.edu privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524060625id_/https%3A//hartford.edu/web_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartford.edu privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220234923id_/https%3A//www.hartford.edu/web-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Web Privacy Policy | University of Hartford
+# Web Privacy Policy
 
 ## Commitment to Your Privacy
 
@@ -75,7 +75,4 @@ We give visitors opt-out options wherever necessary and practical. Such choices 
 
 ## Your Consent
 
-By using this site, you consent to the collection and use of this information by the University of Hartford. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
-  
----  
- 
+By using this site, you consent to the collection and use of this information by the University of Hartford. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
