@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyforgegame.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629121407id_/https%3A//fantasyflightgames.com/en/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyforgegame.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220195015id_/https%3A//fantasyflightgames.com/en/more/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
