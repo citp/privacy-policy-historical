@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhomebasedwork.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416072721id_/https%3A//www.dreamhomebasedwork.com/privacy-policy_1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomebasedwork.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220194002id_/https%3A//www.dreamhomebasedwork.com/privacy-policy_1) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,6 +7,8 @@
  _Last updated: February 13, 2019  _
 
 This privacy policy discloses the privacy practices for www.dreamhomebasedwork.com. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [homepage](https://www.dreamhomebasedwork.com/) and at every point where personally identifiable information may be requested.
+
+[toc]
 
 ##  **Introduction**
 
@@ -40,7 +42,7 @@ Please note that with the exception of acquisition or merger, we will not sell y
 
 ## **Marketing Communications**
 
-We use the Personal information you provide us with to inform you about changes or updates to the Website or to send promotional material to you. You can select to stop receiving communication from us, at any time, by simply clicking the unsubscribe link at the bottom of our email or by simply contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c0a8a5acacaf80a4b2a5a1ada8afada5a2a1b3a5a4b7afb2abeea3afad). 
+We use the Personal information you provide us with to inform you about changes or updates to the Website or to send promotional material to you. You can select to stop receiving communication from us, at any time, by simply clicking the unsubscribe link at the bottom of our email or by simply contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#472f222b2b2807233522262a2f282a2225263422233028352c6924282a). 
 
 ##  **Sharing your information**
 
@@ -100,8 +102,8 @@ To exercise your right to access your personal information, you may contact us a
 
 ##  **California Privacy Rights Notice**
 
-IF YOU ARE A CALIFORNIA RESIDENT AND YOU HAVE PROVIDED ANY PERSONAL DATA TO US, YOU MAY REQUEST INFORMATION ABOUT WHETHER WE HAVE DISCLOSED YOUR  PERSONAL INFORMATION TO ANY THIRD-PARTIES FOR SUCH THIRD-PARTY’S DIRECT MARKETING PURPOSES. WHERE WE HAVE MADE SUCH DISCLOSURE TO THIRD-PARTIES FOR SUCH THIRD-PARTY’S DIRECT MARKETING PURPOSES, AS A  CALIFORNIA RESIDENT, YOU CAN REQUEST US TO PROVIDE YOU A LIST OF ALL THIRD PARTIES TO WHOM PERSONAL DATA WAS DISCLOSED IN THE PRECEDING YEAR ALONG WITH THE LIST OF CATEGORIES OF PERSONAL DATA DISCLOSED. IF YOU WISH TO LEARN MORE ABOUT OUR COMPLIANCE, PLEASE CONTACT US AT [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e8808d848487a88c9a8d89858087858d8a899b8d8c9f879a83c68b8785). 
+IF YOU ARE A CALIFORNIA RESIDENT AND YOU HAVE PROVIDED ANY PERSONAL DATA TO US, YOU MAY REQUEST INFORMATION ABOUT WHETHER WE HAVE DISCLOSED YOUR  PERSONAL INFORMATION TO ANY THIRD-PARTIES FOR SUCH THIRD-PARTY’S DIRECT MARKETING PURPOSES. WHERE WE HAVE MADE SUCH DISCLOSURE TO THIRD-PARTIES FOR SUCH THIRD-PARTY’S DIRECT MARKETING PURPOSES, AS A  CALIFORNIA RESIDENT, YOU CAN REQUEST US TO PROVIDE YOU A LIST OF ALL THIRD PARTIES TO WHOM PERSONAL DATA WAS DISCLOSED IN THE PRECEDING YEAR ALONG WITH THE LIST OF CATEGORIES OF PERSONAL DATA DISCLOSED. IF YOU WISH TO LEARN MORE ABOUT OUR COMPLIANCE, PLEASE CONTACT US AT [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#274f424b4b4867435542464a4f484a4245465442435048554c0944484a). 
 
 ## **Contact Us**
 
-If You have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e363b3232311e3a2c3b3f333631333b3c3f2d3b3a29312c35703d3133). 
+If You have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6aea3aaaaa986a2b4a3a7abaea9aba3a4a7b5a3a2b1a9b4ade8a5a9ab). 
