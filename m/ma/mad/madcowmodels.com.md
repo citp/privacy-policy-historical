@@ -1,114 +1,113 @@
-> *The following text is extracted and transformed from the madcowmodels.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521052836id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcowmodels.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220131107id_/https%3A//www.madcowmodels.com/privacy) for the most accurate reproduction.*
 
-# MadcowModels • The free online networking and portfolio hosting website
+# Free Portfolio Hosting & Networking Site | MadcowModels
 
-**Effective date: 1st February 2010.**
+Your privacy and personal data is important to you, and its important to us, too. When you use our platform, you're placing your trust in us to handle your data properly and responsibly. This document outlines how we handle it. 
 
-Privacy Policy
+We're sure you've read everything here, but if you have any questions, you can contact us at privacy@madcowmodels.com
 
-This privacy policy sets out how Madcow Models ("us", "we") and its website, http://www.madcowmodels.co.uk ("the Site", "the Service"), uses and protects any information that you give Madcow Models when you use this website.   
-Privacy Policy Summary: 
+This privacy policy sets out how We and the Site, uses and protects any information that You give Us when You use this website. This Privacy Policy applies to the Site alone and does not extend to any other third parties websites. 
 
-• We will not collect personally identifying information about you through the Site unless you disclose such information to us;   
-• We will not knowingly disclose personally identifying about you that we collect through the Service to third parties.   
-• We will take reasonable steps to protect the security of the PII we collect from you through the Service.   
-Madcow Models may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+**_1\. Information provided_**
 
-**1\. Information you give us**
+1.1 Our registration process requires You to enter your email address, name and age. 
 
- _a. The type of information Madcow Models collects._
+1.2 You may enter other information into the Site by updating your profile or using similar functions of the Service. 
 
-We collect any information you enter on the site or give us any other way, such as through emails, surveys or letters.   
-The information we collect varies on how you use the site. Our registration process requires you to enter your email address, name, age and that you are able to legally work in the United Kingdom ("UK").   
-You may enter other information into the Site by going to the update profile, or similar, sections on the website. 
+1.3 You accept that information You provide to public areas to the site, including but not limited to your profile or forums, will be available for others to see and use. You accept that any information You disclose is done at your own risk. 
 
-_b. Information publicly available on the site._
+1.4 We are not responsible for any personal information You submit to publicly accessible places and We may highlight publicly available information You submit to the site, such as forum posts and comments and reviews, on the front page of the site. 
 
-Please be aware that information you voluntarily provide information to public areas to the site, such as your profile or forums, the information will be available for others to see and possible use. We therefore recommend you do not disclose personally identifying information such as email address, postcode, address, workplace or instant messenger address in public areas of the site. We are not responsible for any personally identifying information you voluntarily submit to publicly accessible places. We may highlight publicly available information you submit to the site, such as forum posts and comments and reviews, on the front page of the site. 
+1.5 We may use automated decision making using a variety of signals derived from account activity and information supplied to us to help identify and suspend accounts that are misusing the platform. We may also use this information to display your profile in certain areas of the platform, or to certain people on the platform. If you feel that your information is resulting in you being displayed to members incorrectly, you can contact us for human review. 
 
-**2\. Automatic Information Collection**
+**_2\. Information Collection_**
 
- _a. Cookies._
+2.1 We collect all information You enter on the Site or give Us by any other means. This includes but is not limited to emails, surveys or letters. 
 
-Like a lot of websites, the site, utilizes cookies. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use cookies to link to remember your information and link certain activities to you. It is possible to block, or limit, the cookies any website sends to your computer and you can do so by following the relevant instructions for your browser. If you do turn off cookies, the site may not function as Madcow Models intends it. Its design and appearance also may not be as Madcow Models intends it to be. Our cookies do not collect the personally identify information that you supply to us during the application process. Our cookies do collect the following information 
+2.2 On termination or cancellation of your Account We will delete all Content and information relating to your Account with the exception of publically available text. 
 
-i. The date and time you visited the site.  
-ii. Your computers IP address, its operating system, platform, whether javascript is allowed and browser type & version number.  
-iii. Your demographic and other non personally identifying information.  
-iv. Information to combat misuse and fraud.  
-v. The host you use to connect to the internet, and from which website you direct-linked to ours from.  
+2.3 We use Cookies to remember your information and link certain activities to You to help improve the Service. You may block, or limit the Cookies any website sends to your computer by following the relevant instructions for your browser. 
 
+2.4 In the event that You do turn off Cookies, the Site may not function as We intend it. Our Site design and appearance also may not be as We intend it to be. 
 
-_b. Contests, sweepstakes and promotions._
+2.5 Our Cookies do not collect the personally identify information that You supply to Us during the application process. Our Cookies collect the following information: 
 
-From time to time we may run a promotion, contest or sweepstake. Your may be asked to voluntarily provide personal information, or voluntarily provide it to a third party in connection with the contest, sweepstake or promotion. It will be disclosed at the point of information collection or transfer who is collecting the information you supply and whose privacy statement will apply. It will then be your choice as to whether you want to or not to supply this information to a third party or us. 
+2.5.1 The date and time You visited the Site. 
 
-**3\. What we do with the information you give us.**
+2.5.2 Your computers IP address, its operating system, platform, whether javascript is allowed and browser type & version number. 
 
- _a. Use of Personally Identifying Information._
+2.5.3 Your demographic and other non personally identifying information. 
 
-We use your personally identifying information for purposes such as responding to your requests, maintaining your Madcowmodels.co.uk account, Monitoring and providing the service, enforcing our rights and the rights of any third parties and ensuring compliance with the terms and conditions of the site. We may use your Personally Identifying Information to contact you, for reasons such as to inform you that you have a new message from another member, to inform you of deletions of your posts or threads from the forum or any other content you post. We may also email Madcowmodels.co.uk newsletters or any other similar communications about the site and us. 
+2.5.4 Information to combat misuse and fraud. 
 
-_b.Opting Out._
+2.5.5 The host You use to connect to the internet, and from which website You direct-linked to ours from. 
 
-Subject to the exceptions outlined below, you may modify your settings to change the type of communication you receive from the site and us. We will also outline details on promotional and marketing emails how to unsubscribe or contact us to inform us of your preferences regarding receiving promotional or marketing emails from us and the site. We reserve the right to send you business communications such as thread or post deletion notices, removal or banning of your account notices, address confirmations and transaction information regarding your account with the site. We may not offer you a choice to opt out of these communications during the time you are registered with the site. 
+2.5.6 Your User ID to help Us to tailor the displays that appear on each page of our Site to match your specified preferences. 
 
-_c.Usage of non-Personally Identifying Information._
+2.6 You are entitled to view, amend, or delete the personal information that we hold. Email your request to our data protection officer at privacy@adultfolio.com 
 
-We use non-personally identifying information about users and visitors for purposes such as measuring the amount of traffic on the site, making the service more useful to its users and also to monitor the levels of usage on certain functions of the service to determine its popularity. We use IP-addresses to analyze trends on the site, track a users movement on the site, administer the site and gather information on the site demographic for non-personally identifiable use only. 
+**_3\. Personally Identifying Information_**
 
-_d.Retention and storage of non-Personally Identifying Information._
+3.1 We use your personally identifying information for purposes such as responding to your requests, maintaining your Account, monitoring and providing the service, enforcing our rights and the rights of any third parties and ensuring compliance with the Terms and conditions of the Site. We may use your personal information to contact you, for reasons including but not limited to: 
 
-We retain non-personally identifying information as long as required, allowed or we deem it useful. We do not undertake any retention obligations and therefore we may dispose of non-personally identifying information without notice, subject to applicable law. 
+3.1.1 to inform You that You have a new message from another member, 
 
-**4\. Sharing of Information.**
+3.1.2 to inform You of deletions of your posts or threads from the forum or any other Content You post. 
 
- _a. Advertisers and Others._
+3.1.3 to email madcowmodels.com newsletters or any other similar communications about the Site and Us. 
 
-We may share non-publicly identifying information with advertisers, service providers and other persons or businesses with whom we conduct business. These advertisers, services providers or other persons and businesses may share non-personally identifying information about you with us and the site that they have independently gathered and collected. 
+3.2 You may modify your settings to change the type of communication You receive from the Site and Us. We will also outline details on promotional and marketing emails how to unsubscribe or contact Us to inform Us of your preferences regarding receiving promotional or marketing emails from Us and the Site. 
 
-_b. Business Transfers._
+3.3 We reserve the right to send You business communications such as thread or post deletion notices, removal or banning of your Account notices, address confirmations and transaction information regarding your Account with the site. We may not offer You a choice to opt out of these communications during the time You are registered with the site. 
 
-As we develop our business, we might sell or buy businesses and their assets. We may also engage in acquisitions, mergers, changes of control, restructurings or other similar moves and transactions. Customer Information is generally one of the transferred business assets and your personally identifying information may be subject to such transfer. In the unlikely event of a bankruptcy, your information may be transferred to a debtor or bankruptcy trustee in possession and then to a subsequent buyer. 
+**_4\. Non-Personally Identifying Information_**
 
-_c.Compliance and safety._
+4.1 We may use non-personally identifying information about Users and visitors for purposes that include but are not limited to measuring the amount of traffic on the site, making the Service more useful to its users and also to monitor the levels of usage on certain functions of the Service to determine its popularity. 
 
-We may release user and customer information when we believe is appropriate. Such as: 
+4.2 We may use IP-addresses to analyse trends on the Site, track a user’s movement on the site, administer the Site and gather information on the Site demographic for non-personally identifiable Use only. 
 
-i. Make disclosures under programs intended to prevent potential crimes or investigate persons.  
-ii. Enforce or apply agreements, including the terms and conditions of the site.   
-iii. Protect the rights, property, the users, of others and the site http://www.madcowmodels.co.uk including exchanging information with companies for fraud protection or credit risk reduction.  
-iv. Comply with applicable law, and respond to legal process including search warrants and court orders. Or respond to written complaints of copyright infringement.  
+4.3 We retain non-personally identifying information as long permitted by law. Non-personally identifying information is removed from our systems 7 years after its creation or collection. 
 
+4.4 When someone visits madcowmodels.com we use a third party service, Google Analytics, to collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website. 
 
-**5\. Information Security.**
+**_5\. Sharing of Information._**
 
- _a. Your Obligations._
+5.1 We may sell or buy businesses and their assets. We may also engage in acquisitions, mergers, changes of control, restructurings or other similar moves and transactions. Customer Information is generally one of the transferred business assets and your personally identifying information may be subject to such transfer. 
 
-You must protect against unauthorized access to your password and to your computer. Please sign off when you are done using the site. Your emails are not neccisarily secure from interception so do not include sensitive information in them. We generally do not ask for passwords via email. If you receive an email requesting your password please be vigilant and use the online contact form to contact us directly. 
+5.2 In the unlikely event of insolvency or liquidation, your information may be transferred to a debtor or bankruptcy trustee in possession and then to a subsequent buyer. 
 
-_b. Our Security Measures._
+**_6\. Compliance and safety._**
 
-We take reasonable precautions to protect the security of users information. We have electronic, physical and managerial processes and procedures in place to help safegaurd and protect your personal information. However, neither people nor security systems, even encrypted systems, are foolproof. In addition to this people may make mistakes, not follow procedure or people may commit intentional crimes therefore whilst we use reasonable efforts to secure your personally identifiable information, we can not guaruntee its absolute security. If applicable law imposes any non-disclaimable duty to protect your personally identifiable information, you agree that intentional misconduct will be the standards used to measure our compliance with that duty. 
+6.1 We may release user and customer information when we believe is appropriate. This includes: 
 
-**6\. Website Links.**
+6.1.1 Make disclosures under programs intended to prevent potential crimes or investigate persons. 
 
-The site may link to other websites, these links may be placed by the site staff or by users. We are not responsible for the content of these websites nor are we responsible for their privacy policies. This privacy policy applies only to the information collected by the site. 
+6.1.2 Enforce or apply agreements, including the Terms and conditions of the Site. 
 
-**7\. Conditions of use.**
+6.1.3 Protect the rights, property, the users, of others and the Site including exchanging information with companies for fraud protection or credit risk reduction. 
 
- _a. Revisions._
+6.1.4 Comply with applicable law, and respond to legal process including search warrants and court orders or respond to written complaints of copyright infringement. 
 
-We reserve the right to change our policy at any time. Clarifications and non-material changes will take effect immediately. If we make non-material changes, we will indicate at the top of this page the revised policy's new effective date. If we make material changes, we will notify you by email or through a notice on the home page of the site and will also indicate so at the top of this page. The material changes will take effect 30 days after such notice. We encourage you to take note of the privacy policy every 30 days to check for material changes to the policy. 
+**_7\. Information Security._**
 
-_b. Privacy Concerns._
+7.1 You must protect against unauthorised access to your password and to your computer. We encourage You to ensure that You sign off when You are done using the Site and do not include any personal information in your emails. 
 
-Your use of the service and any dispute over privacy is subject to the terms and conditions. If you have a concern about privacy on the site please contact us with a thorough description at emails@madcowmodels.co.uk and we will try to resolve it. 
+7.3 We will not ask for passwords via email. If You receive an email requesting your password please use the online contact form to contact Us directly. 
 
-_c. Identity theft._
+7.4 We will take all reasonable precautions to protect the security of Users information but we do not provide any security guarantee. 
 
-If you believe you are a victim of identity theft you are entitled by law to request information from us. Write to us using the email address above and we will contact you with the information you must provide to us. After we have receieved this information, we will at no charge release the information we are required to give to you, subject to law and reserving all our rights and defenses. 
+**_8\. Website Links._**
 
-_d. Notice required by law._
+The Site may link to other websites, these links may be placed by the Site staff or by users. We are not responsible for the Content of these websites nor are We responsible for their privacy policies. 
 
-If we are required to disclose to provide notice of invasion of certain security systems, we will do so by email to the most recent email address you have provided. It is critical you keep your contact and email information up to date and correct at all times. 
+**_9\. Conditions of use._**
+
+9.1 We reserve the right to change our policy at any time. Clarifications and non-material changes will take effect immediately. 
+
+9.2 We may make material changes at any time for any reason and will notify You by email and will also indicate so at the top of this page. The material changes will take effect 7 days after such notice. 
+
+9.3 Your use of the Service and any dispute over privacy is subject to these Terms. If You have a concern about privacy on the Site please contact Us with a thorough description through the online contact form and We will try to resolve it. 
+
+9.4 If You believe You are a victim of identity theft You may request information from Us. Write to Us through the online contact form and We will contact You with the information You must provide to Us. After We have received this information, We will release the information We are required to give to You, subject to law and reserving all our rights and defences. 
+
+9.5 If We are required to disclose to provide notice of invasion of certain security systems, We will do so by email to the most recent email address You have provided. It is critical You keep your contact and email information up to date and correct at all times. 
