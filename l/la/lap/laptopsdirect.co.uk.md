@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the laptopsdirect.co.uk privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415160607id_/https%3A//www.laptopsdirect.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopsdirect.co.uk privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220054159id_/https%3A//www.laptopsdirect.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Laptops Direct
 
-#### 1\. GENERAL
+#### 1\. GENERAL 
 
-Buy It Direct Ltd, trading as Buy it Direct, Laptops Direct, Aircon Direct, Servers Direct, Appliances Direct, Drones Direct and Furniture123 whose registered office is Trident Business Park, Leeds Road, Huddersfield, HD2 1UA together with any group companies or other trading name (“ **we** ” “ **us** ” “ **our** ”) are committed to protecting and respecting your privacy. For the purposes of data protection legislation, we are the data controller and we will process your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 and national laws which relate to the processing of personal data. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Buy It Direct Ltd, trading as Buy it Direct, Laptops Direct, Aircon Direct, Servers Direct, Appliances Direct, Drones Direct, Better Bathrooms and Furniture123 whose registered office is Trident Business Park, Leeds Road, Huddersfield, HD2 1UA together with any group companies or other trading name (“ **we** ” “ **us** ” “ **our** ”) are committed to protecting and respecting your privacy. For the purposes of data protection legislation, we are the data controller and we will process your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 and national laws which relate to the processing of personal data. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 #### 2\. VISITORS TO OUR WEBSITE
 
@@ -91,7 +91,8 @@ If you provide false or inaccurate information and we suspect fraud, we will rec
 10.1.3 IT software providers that host our website and store data on our behalf;   
 10.1.4 professional advisers including consultants, lawyers, bankers and insurers who provide us with consultancy, banking, legal, insurance and accounting services;   
 10.1.5 HM Revenue and Customs, regulators and other authorities who require reporting of processing activities in certain circumstances; and   
-10.1.6 third parties who we may choose to sell, transfer or merge parts of our business or assets. Alternatively, we may seek to acquire other business or merge with them. If a change happens to our business then the new owners may use your personal data in the same way as set out in this privacy policy.
+10.1.6 third parties who we may choose to sell, transfer or merge parts of our business or assets. Alternatively, we may seek to acquire other business or merge with them. If a change happens to our business then the new owners may use your personal data in the same way as set out in this privacy policy.  
+10.1.7 review aggregators, acting on our behalf, to invite you to review your product and/or purchase.
 
 10.2 We may disclose personal data to the police, regulatory bodies, legal advisors or similar third parties where we are under a legal duty to disclose or share personal data in order to comply with any legal obligation, or in order to enforce or apply our website terms and conditions and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
@@ -137,4 +138,4 @@ We reserve the right to update this privacy policy at any time, and any changes 
 
 We have appointed a Data Lead to oversee compliance with this privacy policy. If you have any questions, comments or requests regarding this policy or how we use your personal data please contact our Data Lead at privacy@buyitdirect.co.uk . This is in addition to your right to contact the Information Commissioners Office if you are unsatisfied with our response to any issues you raise at <https://ico.org.uk/global/contact-us/>
 
-Last updated: May 2018.
+Last updated: July 2019.
