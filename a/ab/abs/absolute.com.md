@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolute.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115174444id_/https%3A//www.absolute.com/en/about/legal/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolute.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220144342id_/https%3A//www.absolute.com/about/legal/policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Absolute
 
@@ -104,7 +104,7 @@ These are used by us to collect anonymous information about the use of the Websi
 
 By using our Website, you agree that we can place these types of cookies on your device.
 
-Some people find the idea of a website storing information on their device intrusive. If you would prefer to opt out of cookies, it is possible to manage them by changing the cookie settings on your device, in your browser settings. Existing cookies that have already been set can be deleted from your hard drive. You can also block some or all cookies. However, you should be aware that you might lose some features and functionality of our Website if you do so. If you need assistance with your cookie settings, consult the help menu within your Internet browser. For more detailed information about cookies and how to manage and delete them, visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) .
+Some people find the idea of a website storing information on their device intrusive. If you would prefer to opt out of cookies, it is possible to manage them by changing the cookie settings on your device, in your browser settings. Existing cookies that have already been set can be deleted from your hard drive. You can also block some or all cookies. However, you should be aware that you might lose some features and functionality of our Website if you do so. If you need assistance with your cookie settings, consult the help menu within your Internet browser. For more detailed information about cookies and how to manage and delete them, visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) .
 
 Absolute’s Website may contain links to third party sites, and we recommend and encourage you to read the privacy policies posted on those third party sites. Absolute is not responsible for the privacy policies or practices of any third party.
 
@@ -172,7 +172,7 @@ Absolute trains all staff who handle personal information on the importance of a
 
 Absolute will continually monitor compliance with this policy and will investigate any suspected breaches swiftly and effectively. If a breach is found to have occurred, Absolute will comply with all applicable data breach laws, including notifying relevant individuals and regulatory bodies where required. Absolute and its employees will respond promptly and in accordance with applicable laws to any notices or demands issued by a Privacy Commissioner or similar regulatory body in any relevant jurisdiction.
 
-Absolute will also continually review and update our security policies and controls as technology changes to ensure ongoing personal information security.
+Absolute will also continually review and update our security policies and controls as technology changes to ensure ongoing personal information security.
 
 ### Openness
 
@@ -180,9 +180,9 @@ This Privacy & Cookie Policy is available to the public on our Website, so that 
 
 ### Requests For Access
 
-You have the right to access your personal information, subject to limited exceptions under applicable laws such as solicitor-client privilege, disclosure that would reveal personal information about another person, legal obligations and proprietary rights. Absolute’s Privacy Officer will assist you with your request. This includes: 
+You have the right to access your personal information, subject to limited exceptions under applicable laws such as solicitor-client privilege, disclosure that would reveal personal information about another person, legal obligations and proprietary rights. Absolute’s Privacy Officer will assist you with your request. This includes:
 
-  * Identification of and access to any or all of your personal information under Absolute’s custody or control. 
+  * Identification of and access to any or all of your personal information under Absolute’s custody or control.
   * An explanation of how that personal information is or has been collected, used or disclosed by Absolute.
   * The names of any individuals and organizations to which your personal information has been disclosed by Absolute.
 
@@ -193,6 +193,8 @@ All requests should be made in writing (by mail, fax or email), provide sufficie
 We will respond to written requests within thirty (30) days of receiving such request. We will either make the requested information available within that time period, or provide written notice of an extension where additional time is required to fulfill the request. If Absolute cannot fulfill your request in full or in part, you will be provided with a response in writing that documents the reason for refusal and the recourse available to you.
 
 A minimal fee may be charged for providing access to personal information, where permitted under applicable law. Where a fee applies, we will inform you of the cost and request further directions from you on whether or not we should proceed with your request.
+
+### GDPR Compliance (European Union And European Economic Area)
 
 This section applies specifically to Absolute customers residing or carrying on business in the European Union or European Economic Area, where the GDPR (or local legislation implementing the GDPR) applies.
 
@@ -208,18 +210,18 @@ The Website, the Mobile Apps and the Services are not intended for use by minors
 
 ### Complaint Procedure
 
-Complaints, concerns or inquiries about Absolute’s privacy policies and practices, including compliance with this Privacy & Cookie Policy, should be made in writing to: 
+Complaints, concerns or inquiries about Absolute’s privacy policies and practices, including compliance with this Privacy & Cookie Policy, should be made in writing to:
 
 Privacy Officer / Data Protection Officer  
 Absolute Software Corporation  
 Suite 1400, Four Bentall Centre  
 1055 Dunsmuir Street  
 Vancouver B.C. V7X 1K8  
-Canada 
+Canada
 
 Tel: 604.730.9851, ask for the Legal Department  
 Fax: 604.730.2621  
-E-mail: [privacy@absolute.com](mailto:privacy@absolute.com)
+E-mail: [privacy@absolute.com](mailto:privacy@absolute.com)
 
 Specific details about the inquiry or complaint must be provided. All complaints will be investigated and will be responded to in accordance with the section above as well as applicable laws. If the Absolute Privacy Officer is unable to address your concerns, the issue may be escalated to the office of the CEO or to the relevant Privacy Commissioner or similar regulatory authority for your jurisdiction (for example, in British Columbia, the Information and Privacy Commissioner for British Columbia).
 
