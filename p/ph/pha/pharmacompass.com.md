@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacompass.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828154940id_/https%3A//www.pharmacompass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacompass.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220180749id_/https%3A//www.pharmacompass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PharmaCompass.com
 
@@ -30,18 +30,18 @@ We note that over time, non-personal information could become personal informati
 
 In particular, PharmaCompass collects the following information from and about you:
 
-  * User Information – We may collect personal information from you when you sign up on our website to receive information from PharmaCompass or to contact us to utilize the services available on our website. That personal information may include, among other things, your full name, email address, phone number and other information you provided to us. 
-  * Demographic Information– We may collect your demographic information, such as your age, gender, city, state and country. 
-  * Usage Information– We may collect data information about how you and your devices interact with the Site(s). This could include features you use, the web pages you visit and the search terms you enter. This could also include data information about your devices and the network you use to connect to our services, including IP addresses, device identifiers and data information about the performance of the services you use on the website and any problems you experience with them. 
-  * Location Information– We may collect your location information. This information may help us provide recommendations to you based on your location, serve you with advertisements or direct you to a product or service that we believe may be of interest to you. 
-  * Content and Other Information You Provide to Us– We may collect additional content and information that you voluntarily provide us, such as when you post an enquiry or comment, submit a complaint or send us feedback. 
-  * Public data and posts– This may consist of comments or content that you post on the services and the personal information about you that accompanies those posts or content, which may include a name, email address, user name, or comments. 
-  * Google Analytics– To help facilitate the delivery of relevant content, we use Google Analytics. Google Analytics uses cookies to report on user interactions on our and others’ websites. We use the data collected for optimizing marketing, refining advertising and/or programming strategies and generally making advertising more effective. Google provides a complete privacy policy and instructions on opting-out of Google Analytics here. Note that Google’s opt-out mechanism is specific to Google activities and does not affect the activities of other ad networks or analytics providers that we may use. 
-  * Clicky Analytics– To further help facilitate the delivery of relevant content, we use Clicky Analytics (a software solution provided by Roxr Software Ltd). Clicky collects information from users and the following information are sent to their servers by default when a user visits our web site. URL & Title of pages viewed, URL & Title of any links that are clicked on pages viewed, Referrer, User agent, Browser language, Screen resolution, x/y coordinates of mouse events, Unique ID tracking cookie ("UID"). The European Union's General Data Protection Regulation (GDPR) considers this to be Personal Data, even though it is randomly generated and does not identify users or reveals anything else about users. Its sole purpose is to more accurately track unique visitors. IP addresses ("IP"), IPs are anonymized before processing, but PharmaCompass has the option to disable this, in which case they are considered Personal Data. Per Article 6 of the GDPR, processing of UID and IP Personal Data is lawful and does not require a user's direct consent because it is "necessary for the purposes of the legitimate interests" of web sites using the service. These legitimate interests include but are not limited to (i) Assembling statistics regarding the use of a web site. (Accurately counting unique visitors is a vital statistic for any web site) (ii) Preventing fraud and abuse, and maintaining information security. (Full IP addresses are necessary for this type of usage). Recital 47 of the GDPR states: "The processing of Personal Data strictly necessary for the purposes of preventing fraud also constitutes a legitimate interest". 
+  * User Information – We may collect personal information from you when you sign up on our website to receive information from PharmaCompass or to contact us to utilize the services available on our website. That personal information may include, among other things, your full name, email address, phone number and other information you provided to us.
+  * Demographic Information– We may collect your demographic information, such as your age, gender, city, state and country.
+  * Usage Information– We may collect data information about how you and your devices interact with the Site(s). This could include features you use, the web pages you visit and the search terms you enter. This could also include data information about your devices and the network you use to connect to our services, including IP addresses, device identifiers and data information about the performance of the services you use on the website and any problems you experience with them.
+  * Location Information– We may collect your location information. This information may help us provide recommendations to you based on your location, serve you with advertisements or direct you to a product or service that we believe may be of interest to you.
+  * Content and Other Information You Provide to Us– We may collect additional content and information that you voluntarily provide us, such as when you post an enquiry or comment, submit a complaint or send us feedback.
+  * Public data and posts– This may consist of comments or content that you post on the services and the personal information about you that accompanies those posts or content, which may include a name, email address, user name, or comments.
+  * Google Analytics– To help facilitate the delivery of relevant content, we use Google Analytics. Google Analytics uses cookies to report on user interactions on our and others’ websites. We use the data collected for optimizing marketing, refining advertising and/or programming strategies and generally making advertising more effective. Google provides a complete privacy policy and instructions on opting-out of Google Analytics here. Note that Google’s opt-out mechanism is specific to Google activities and does not affect the activities of other ad networks or analytics providers that we may use.
+  * Clicky Analytics– To further help facilitate the delivery of relevant content, we use Clicky Analytics (a software solution provided by Roxr Software Ltd). Clicky collects information from users and the following information are sent to their servers by default when a user visits our web site. URL & Title of pages viewed, URL & Title of any links that are clicked on pages viewed, Referrer, User agent, Browser language, Screen resolution, x/y coordinates of mouse events, Unique ID tracking cookie ("UID"). The European Union's General Data Protection Regulation (GDPR) considers this to be Personal Data, even though it is randomly generated and does not identify users or reveals anything else about users. Its sole purpose is to more accurately track unique visitors. IP addresses ("IP"), IPs are anonymized before processing, but PharmaCompass has the option to disable this, in which case they are considered Personal Data. Per Article 6 of the GDPR, processing of UID and IP Personal Data is lawful and does not require a user's direct consent because it is "necessary for the purposes of the legitimate interests" of web sites using the service. These legitimate interests include but are not limited to (i) Assembling statistics regarding the use of a web site. (Accurately counting unique visitors is a vital statistic for any web site) (ii) Preventing fraud and abuse, and maintaining information security. (Full IP addresses are necessary for this type of usage). Recital 47 of the GDPR states: "The processing of Personal Data strictly necessary for the purposes of preventing fraud also constitutes a legitimate interest".
   * Audience Based Data – We also receive audience based data (such as pixel traffic and conversion data) from social media platform providers, including Facebook, LinkedIn and Twitter and others based on non-identifiable information such as IP addresses. We use this information to serve ads to you and marketing tracking. To block or limit this activity, please visit the sites below: 
-    * Twitter: https://support.twitter.com/articles/20170405 
-    * Facebook: You should see a link to the opt-out when you select “Why am I seeing this?” when using Facebook. You can also select “Hide all from this advertiser” within Facebook to stop seeing our ads. More information can be found on Facebook's site here: http://www.facebook.com/business/help/1415256572060999 
-    * LinkedIn: https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences 
+    * Twitter: https://support.twitter.com/articles/20170405
+    * Facebook: You should see a link to the opt-out when you select “Why am I seeing this?” when using Facebook. You can also select “Hide all from this advertiser” within Facebook to stop seeing our ads. More information can be found on Facebook's site here: http://www.facebook.com/business/help/1415256572060999
+    * LinkedIn: https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences
 
 
 
@@ -56,7 +56,7 @@ As mentioned above, We will collect some Personal Data from you directly. , at t
 We may collect information passively while you are visiting or interacting with our website. We call this “passive” collection because you may not know that this information is being collected. Here are some examples of the information that is collected via website and a description of how this information is used:
 
   * Internet Protocol (IP) addresses– Your IP address is a number that lets computers attached to the Internet know where to send your information, such as the webpages you view. We use this information to deliver our webpages to you upon request, tailor our website to the interests of our users and measure traffic within our website.
-  * Cookies, web beacons, and other similar technologies– A cookie is a small text file that may be used to collect information about your activity on the website. For example, when someone visits a page within our website, a cookie is placed on the user’s machine (if the user accepts cookies) or is read if the user has visited the website previously. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of our website and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. Web beacons are embedded invisibly on webpages. For more information, please see Section 9 below. 
+  * Cookies, web beacons, and other similar technologies– A cookie is a small text file that may be used to collect information about your activity on the website. For example, when someone visits a page within our website, a cookie is placed on the user’s machine (if the user accepts cookies) or is read if the user has visited the website previously. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of our website and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. Web beacons are embedded invisibly on webpages. For more information, please see Section 9 below.
 
 
 
@@ -148,19 +148,19 @@ Remember that even after you cancel your account or if you ask us to delete your
 
 8.6 Forums, Company Profile Pages and Other Public Posting Areas
 
-Please note that any information you include in a message you post to any company profile pages, forum or other public posting area is available to anyone. If you do not want people to know your email address, for example, do not include it in any message you post publicly or click the appropriate anonymous postings settings. 
+Please note that any information you include in a message you post to any company profile pages, forum or other public posting area is available to anyone. If you do not want people to know your email address, for example, do not include it in any message you post publicly or click the appropriate anonymous postings settings.
 
-Please be extremely careful when disclosing any information in forums, company profile pages and other public posting areas. We are not responsible for the use of the information that you disclose in forums, company profile pages and other public posting areas by others (third party). 
+Please be extremely careful when disclosing any information in forums, company profile pages and other public posting areas. We are not responsible for the use of the information that you disclose in forums, company profile pages and other public posting areas by others (third party).
 
 9\. Use of Cookies on PharmaCompass.com
 
-The website pharmacompass.com use cookies which, among other things, help us to improve your experience of our website and to ensure that it performs as you expect it to. 
+The website pharmacompass.com use cookies which, among other things, help us to improve your experience of our website and to ensure that it performs as you expect it to.
 
-Cookies are small text files on your device. They are made by your web-browser when you visit a website. Every time you go back to that website, your browser will send the cookie file back to the website’s server. Cookies are useful because they allow a website to recognize a user’s device. PharmaCompass does not use cookies to match specific user behavior with IP addresses or any other potentially identifiable information. You can find more information about cookies at: www.allaboutcookies.org and www.youronlinechoices.eu 
+Cookies are small text files on your device. They are made by your web-browser when you visit a website. Every time you go back to that website, your browser will send the cookie file back to the website’s server. Cookies are useful because they allow a website to recognize a user’s device. PharmaCompass does not use cookies to match specific user behavior with IP addresses or any other potentially identifiable information. You can find more information about cookies at: www.allaboutcookies.org and www.youronlinechoices.eu
 
 Why does PharmaCompass use cookies?
 
-We use, and allow certain third parties to use, cookies and other similar technologies to operate our Site(s), provide any of our services or other functions and to help collect information. We, or third parties, may use session cookies or persistent cookies. Session cookies only last for the specific duration of your visit and are deleted when you close your browser. Persistent cookies remain on your device’s hard drive until you delete them or they expire. Different cookies are used to perform different functions, which we explain below: 
+We use, and allow certain third parties to use, cookies and other similar technologies to operate our Site(s), provide any of our services or other functions and to help collect information. We, or third parties, may use session cookies or persistent cookies. Session cookies only last for the specific duration of your visit and are deleted when you close your browser. Persistent cookies remain on your device’s hard drive until you delete them or they expire. Different cookies are used to perform different functions, which we explain below:
 
   * Essential. Some cookies are essential in order to enable you to move around PharmaCompass and use their features, such as accessing secure areas of the site. Without these cookies, we cannot enable appropriate content based on the type of device you are using.
   * Browsing and functionality. These cookies allow us to remember choices you make on PharmaCompass, such as your preferred language and the country from which you are visiting, and provide enhanced, more personalized features.
@@ -184,15 +184,15 @@ This Privacy Policy may be updated from time to time so you may wish to check it
 
 11.1 IT Security
 
-No data transmission over the Internet, a website, mobile application or via email or other message service can be guaranteed to be secure from intrusion. However, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Personal Data in accordance with the requirements of data protection legislation. 
+No data transmission over the Internet, a website, mobile application or via email or other message service can be guaranteed to be secure from intrusion. However, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Personal Data in accordance with the requirements of data protection legislation.
 
 All Personal Data we collect about you is stored on our or our subcontractors’ secure servers. We comply with our security policies and standards when accessing or using this information and restrict access to your Personal Data to those persons who need to use it for the purpose(s) for which it was collected. You are responsible for keeping any information that we send to you confidential and for complying with any other security procedures that we notify you of. In particular, where we have given you (or where you have chosen) a password which enables you to access certain parts of our website or mobile applications, we ask you not to share a password with anyone. 
 
-We may post a notice on PharmaCompass if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
+We may post a notice on PharmaCompass if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 
 11.2 Exporting your Personal Data
 
-Your Personal Data may be transferred outside the country in which you are located, including to countries with a lower level of data protection than in the country in which you are located. 
+Your Personal Data may be transferred outside the country in which you are located, including to countries with a lower level of data protection than in the country in which you are located.
 
 11.3 Retention period
 
@@ -200,17 +200,17 @@ We will retain your Personal Data for as long as is necessary for the processing
 
 12\. Dispute Resolution
 
-While using our services, you agree that no other laws other than those of the Republic of India shall apply. If there is any controversy, claim, action, or dispute arising out of or related to your use of our services, or the breach, enforcement, interpretation, or validity of this Privacy Policy or any part of it will be litigated exclusively in the courts of judicature located at New Delhi, India, and you and PharmaCompass consent to personal jurisdiction in those courts. 
+While using our services, you agree that no other laws other than those of the Republic of India shall apply. If there is any controversy, claim, action, or dispute arising out of or related to your use of our services, or the breach, enforcement, interpretation, or validity of this Privacy Policy or any part of it will be litigated exclusively in the courts of judicature located at New Delhi, India, and you and PharmaCompass consent to personal jurisdiction in those courts.
 
 13\. Links to Other External Sites
 
-PharmaCompass contains links to other sites that are operated by third party companies with different privacy practices. You should remain alert when you leave our site and read the privacy statements of other websites. We have no control over Personal Data that you submit to or receive from these third parties. 
+PharmaCompass contains links to other sites that are operated by third party companies with different privacy practices. You should remain alert when you leave our site and read the privacy statements of other websites. We have no control over Personal Data that you submit to or receive from these third parties.
 
-The fact that we include links to other websites does not mean that PharmaCompass approves of or endorses any other third party website or the content of that website. We accept no liability for any statements, information, products, or services that are published on or are accessible through any websites owned or operated by third parties. 
+The fact that we include links to other websites does not mean that PharmaCompass approves of or endorses any other third party website or the content of that website. We accept no liability for any statements, information, products, or services that are published on or are accessible through any websites owned or operated by third parties.
 
 14\. Contact Us
 
-Your visit to PharmaCompass is subject to this Privacy Policy. If you have any questions, comments or concerns regarding our privacy practices or this Privacy Policy, please contact us at the postal and email addresses below 
+Your visit to PharmaCompass is subject to this Privacy Policy. If you have any questions, comments or concerns regarding our privacy practices or this Privacy Policy, please contact us at the postal and email addresses below
 
 Lepro PharmaCompass OPC Pvt. Ltd.  
 205, Empire Plaza   
@@ -218,16 +218,8 @@ Sultanpur, New Delhi
 INDIA 110030   
 Email: support@pharmacompass.com 
 
-_**This notice is written in English language and may be translated into other languages. In the event of any inconsistency between the English version and the translated version of this notice, the English version shall prevail. __** ___
+_**This notice is written in English language and may be translated into other languages. In the event of any inconsistency between the English version and the translated version of this notice, the English version shall prevail.**_
 
-__
+_**This Privacy Policy was last updated on 26 May 2018.**_
 
-_**This Privacy Policy was last updated on 26 May 2018. __** ___
-
-______
-
-___
-
-Copyright © 2018 LePro PharmaCompass OPC Private Limited, All rights reserved.
-
-___
+Copyright © 2019 LePro PharmaCompass OPC Private Limited, All rights reserved.
