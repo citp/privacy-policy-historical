@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officialcharts.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531115949id_/https%3A//www.officialcharts.com/who-we-are/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialcharts.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220183930id_/https%3A//www.officialcharts.com/who-we-are/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,6 +92,8 @@ We may share your data with third parties, including third-party service provide
 We require third parties to respect the security of your data and to treat it in accordance with the law.
 
 We use a company called Campaign Monitor to manage our database of newsletter subscribers and send out newsletters on our behalf. Sometimes, Campaign Monitor stores data outside the EEA. Where it does so, we have ensured that it takes steps to ensure adequate security measures to protect your data. 
+
+We use Google Analytics to measure web traffic performance and understand how different types of visitors use the website, to increase the level of data insights we get for the purposes of strategy development. This behavioural data is co-owned by Google. More details about cookies can be found in our [cookie policy](https://web.archive.org/who-we-are/cookie-policy/).
 
 ## How secure is your information with third party service providers?
 
