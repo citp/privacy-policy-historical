@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclasspro.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914165436id_/http%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclasspro.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220155336id_/https%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
 
 # iClassPro Privacy Policy - iClassPro Class Management Software - Gymnastics, Cheer, Swim, and Dance
 
