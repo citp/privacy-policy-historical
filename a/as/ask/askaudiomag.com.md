@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the askaudiomag.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404112422id_/http%3A//www.askaudiomag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaudiomag.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220144140id_/https%3A//amidio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Amidio
 
 Your privacy is important to us.
 
-It is Ask Audio Magazine’’s policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
+It is Amidio’s policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
 
 We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.  
 Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.  
@@ -14,10 +14,10 @@ We will protect personal information by using reasonable security safeguards aga
 We will make readily available to customers information about our policies and practices relating to the management of personal information.  
 We will only retain personal information for as long as necessary for the fulfillment of those purposes.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Ask Audio Magazine’ may change this privacy policy from time to time at Ask Audio Magazine’s sole discretion.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Amidio’ may change this privacy policy from time to time at Amidio’s sole discretion.
 
 **Contact US**
 
 If there are any questions regarding this privacy policy, you may contact us using the form linked below.
 
-[Click here to contact us.](http://www.askaudiomag.com/contact/)
+[Click here to contact us.](https://amidio.com/contact/)
