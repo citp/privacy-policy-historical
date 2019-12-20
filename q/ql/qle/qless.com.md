@@ -1,65 +1,90 @@
-> *The following text is extracted and transformed from the qless.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827032438id_/http%3A//www.qless.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qless.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221001050id_/https%3A//www.qless.com/privacy) for the most accurate reproduction.*
 
 # QLess Privacy Policy | Secure Information | California, United States
 
-> ## QLess Privacy Policy
+## QLess Privacy Policy
 
-Address: QLess, Suite 900, 150 S Los Robles Ave, Pasadena, CA 91101  
-Send an email to [sales@qless.com](mailto:sales@qless.com) or call us at 800-405-4637
+QLess, Inc. (“QLess”) respects your privacy and values your trust. We are committed to ensuring that the personal information stored by our systems is suitably protected and used appropriately.
 
-* * *
+**PRIVACY POLICY**  
+The purpose of this Privacy Policy is to inform you of the treatment and handling of information that we may learn about you (the “User”) from your visit to the QLess website (“Site”) at www.qless.com, including all related pages and landing pages, by your engagement with our content, from your responses to our product marketing, or information that we obtain from third parties, including our clients. This privacy policy covers the following:
 
-### WE PROMISE TO NEVER SELL YOUR CUSTOMERS’ PHONE NUMBERS.
+  * How we collect information
+  * Information we collect
+  * Our use collected information
+  * Storage of personal data
+  * Retention of personal data
+  * Use of personal data
+  * Security
+  * Compliance
+  * Compliance with the Children’s Online Privacy Protection Act
+  * User’s rights
+  * Changes to this Privacy Policy
+  * Contact information
 
-### WE PROMISE TO NEVER SEND UNSOLICITED ADVERTISING TO YOUR CUSTOMERS’ PHONES.
 
-   
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, name and address, telephone number.
+**  
+HOW WE COLLECT INFORMATION**  
+When a User interacts with QLess, we may collect personal data in a variety of ways, including, but not limited to, when Users visit our website, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, their name, job title, company name, email address, and phone number. Users may visit our Site anonymously. Users can always refuse to supply personal data, except that it may prevent them from engaging in certain Site-related activities.
 
-The information we collect is used to notify consumers about updates to our Web site, and to contact consumers for marketing purposes.
+Additionally, if you receive goods and/or services from one of our business clients, we may collect personal identification information including your name and contact details.
 
-We use cookies to record session information.
+**INFORMATION WE COLLECT**  
+_Personal data_  
+Personal data is information that can be used to identify a living individual, which may include your name, home address, work address, email address, phone number, IP address, or other similar information. We collect personal data from Users only if they voluntarily submit such information to us. By voluntarily providing us with personal data, you are consenting to our use of it in accordance with this Privacy Policy.
 
-An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to our e-mail address listed above. If requested to remove data, we will respond within a reasonable timeframe.
+_Sensitive data_  
+Sensitive data is information such as ethnic origin, financial, health, religious, or other kinds of sensitive user information. QLess do not collect nor store sensitive data as defined here.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+_Web browser cookies_  
+Our Site may use “cookies” to enhance the User experience. A User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. When a web browser connects to the QLess website or a QLess service, the websites and services utilize browser cookies to a) provide a customizable and personalized experience, such as personal site preferences; b) record User session-specific information, such as which pages within the application were accessed; c) provide application session control to the servers hosting the application; and d) determine the device/browser type being used and its approximate geo-location. Disabling the support of browser cookies is not recommended: non-use of cookies may lead to reduced functionality and or an unsatisfactory user experience.  In all cases in which we use cookies, we will not collect personal data except with your permission.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
+**OUR USE OF COLLECTED INFORMATION**  
+Collecting and storing personal data is necessary so that we can fulfill our contractual obligations to the businesses, academic institutions, government agencies, and other entities and individuals who provide goods and services to you. We use personal data to provide services to our clients as follows:
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+  * We set up systems which allow our clients to offer virtual queuing to those to whom the client provides goods and/or services. Our clients include government agencies, hospitals, medical, academic institutions, and other businesses which want to make it easier for those to whom they provide goods and services to receive those goods and services without having to wait in actual lines.
+  * We provide data periodically to our clients on how our services have helped them, including the number of individuals by hour, day, week, month, year or other periods of time who have waited in a virtual queue, average wait times, how long those individuals took to get to the location for goods or services after having been notified that they were next in the queue, average drop-out rates from the queue, comparisons between actual queuing and virtual queuing as it pertains to the particular client, satisfaction rates, times of high, low and medium customer volume,  feedback from those who have used QLess for their business or personal needs, etc.
+  * For marketing of our services to current clients and to prospective clients, as well as to individuals who may be interested in our services. We use this data to communicate with you or other entities that provide you with goods and services.
 
-Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them.
 
-Consumers can access this information by e-mailing us at the above address.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+**  
+STORAGE OF DATA**  
+We store and use your personal data for both short-term and long-term purposes. Short-term we store your data to enable us to provide our services to our clients, i.e., allowing them to offer and utilize virtual queuing for their own benefit, and for the benefit of those to whom they provide goods and services. Long-term, we store your data for marketing purposes as we continue to promote our services to new individuals, government agencies, and to various types of private businesses. As mentioned above, we use your personal data both short-term and long-term to help our clients understand the scope of how using QLess for virtual queues benefits them and those for whom they provide goods and services compared to the use of actual queues. Your personal data may be identified or may be identifiable. We also provide information to our clients which does not identify individuals.
 
-With respect to security: We have appropriate security measures in place in our physical and data facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+**RETENTION OF DATA**  
+To serve our clients with both short-term and long-term uses of data, we retain personal data indefinitely and do not purge it periodically. This allows us to compare information, such as average wait times, satisfaction rates, times of high, low and medium customer volume, average drop-out rates, average lengths of time between notifying a customer that the customer is next in line to the customer’s arrival at the client’s location, etc. over years where desired.
 
-In cases of onward transfers of Privacy Shield data to third parties, QLess, Inc. is potentially liable.
+**USE OF DATA**  
+QLess does not currently sell personal data that we collect, process and/or store. If we wish to sell personal data in the future, we will ask for the User’s consent if and when that happens.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
+QLess does not currently transfer data that we collect to third parties other than in response to a request from a data subject that we provide data in a machine-readable format and send it to another data controller. This is called “data portability”.
 
-QLess, Inc. (QLess) complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. QLess, Inc. (QLess) has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/ ](https://www.privacyshield.gov/)
+**SECURITY**  
+The QLess website and app have reasonable administrative, technical, and physical safeguards in place designed to protect your personal information from loss, misuse, and unauthorized access, disclosure, alternation, or destruction. QLess utilizes industry adopted server and database security measures, including encryption of personal data over public networks. QLess also limits its employee’s access to personal information. Despite these protections, no information system is 100% secure, so we cannot guarantee the absolute security of your information at all times.
 
-In compliance with the EU-US Privacy Shield Principles, QLess, Inc. (QLess) commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact QLess, Inc. (QLess) at:
+**COMPLIANCE**  
+As a company that operates globally, QLess complies with applicable state and federal laws, as well as the EU General Privacy Data Regulation, which applies to personal data collected from those residing in any of the European Union countries. If you reside in an EU country, and if you have concerns related to the way in which QLess collects, processes or stores your personal data, please contact us using the contact information at the beginning of this policy and we will make every effort to address your concerns. EU residents do have the right to lodge a complaint with a Data Protection Authority, though we sincerely hope that will never become necessary.
 
-Address: QLess, Suite 900, 150 S Los Robles Ave, Pasadena, CA 91101  
-Send an email to [privacy@qless.com](mailto:privacy@qless.com) or call us at 800-405-4637
+For EU residents, we do not currently transfer your personal data outside the European Union. If in the future we wish to do so, we will contact you and request your consent to transfer your data outside of the EU.
 
-QLess, Inc. (QLess) has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint free of charge.
+In addition to our compliance with applicable state and federal laws, and with the EU General Data Privacy Regulation, we also ask our clients to confirm that they will comply with applicable laws as part of our contracts with them.
 
-Also, and under certain limited conditions, individuals have the possibility to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
+**COMPLIANCE WITH THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT  
+**Children should request permission from their parent or guardian prior to sending personal information online. QLess does not knowingly collect personal data from individuals under the age of 13. If you are under the age of 13, please do not submit any personal data to QLess. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide personal data without their permission. If you have reason to believe that a child under the age of 13 has provided personal data, please contact us at privacy@qless.com and we will use reasonable efforts to assist in the deletion of the child’s personal information.
 
-QLess, Inc. (QLess), is subject to the investigatory and enforcement powers of the FTC US government agency. QLess, Inc. (QLess), also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+**USER’S RIGHTS**  
+By voluntarily providing us with personal data, you are consenting to our collection, processing, and storage of it in accordance with this Privacy Policy. If you do not voluntarily provide your personal data as described in this policy, then we will not collect, process or store your personal data.
 
-QLess, Inc. (QLess) complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. QLess, Inc. (QLess) has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit [http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/)
+Users may request to view, modify, or remove their personal data at any time. To initiate a request to view, modify, or remove personal data, please contact us at privacy@qless.com with the desired action and we will comply within thirty (30) days of receipt of your request.
 
-In compliance with the US-Swiss Safe Harbor Principles, QLess, Inc. (QLess) commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact QLess, Inc. (QLess) at:
+**CHANGES TO THIS PRIVACY POLICY**  
+QLess has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Address: QLess, Suite 900, 150 S Los Robles Ave, Pasadena, CA 91101  
-Send an email to [privacy@qless.com](mailto:privacy@qless.com) or call us at 800-405-4637
+**CONTACT INFORMATION**  
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with QLess, please contact us at privacy@qless.com
 
-QLess, Inc. (QLess) has further committed to refer unresolved privacy complaints under the and US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus free of charge. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+If you have questions concerning the content of this website not related to processing and/or storage of your personal data, and not related to questions about exercising your rights as a data subject, please email us at marketing@qless.com
+
+This document was last updated on July 12, 2018.
