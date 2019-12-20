@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longtailpro.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608080002id_/https%3A//longtailpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longtailpro.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220031930id_/https%3A//longtailpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LongTailPro
 
