@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628112249id_/https%3A//wikimediafoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220191543id_/https%3A//wikimediafoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Wikimedia Foundation Non-wiki Privacy Policy – Wikimedia Foundation
 
