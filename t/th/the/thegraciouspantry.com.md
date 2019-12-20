@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619083816id_/https%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220051134id_/https%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Your Information | The Gracious Pantry
 
