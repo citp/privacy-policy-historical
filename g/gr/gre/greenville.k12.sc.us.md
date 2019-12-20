@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329124226id_/https%3A//www.greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220055156id_/https%3A//greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-ETS Menu 
+trigger for side navigation
 
 Greenville Schools Online is maintained by The School District of Greenville County. The District is committed to ensuring the privacy of all our web site users. This document explains our collection and use of personal information.
 
