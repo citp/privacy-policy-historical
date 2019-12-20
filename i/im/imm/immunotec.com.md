@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immunotec.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321223857id_/https%3A//media.immunotec.com/EN/privacy-policy-EN.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunotec.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220184028id_/https%3A//media.immunotec.com/EN/privacy-policy-EN.pdf) for the most accurate reproduction.*
 
 # 
 
