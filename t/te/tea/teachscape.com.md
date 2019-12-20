@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachscape.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220003045id_/https%3A//www.frontlineeducation.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachscape.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220181911id_/https%3A//www.frontlineeducation.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frontline Technologies Group LLC
 
