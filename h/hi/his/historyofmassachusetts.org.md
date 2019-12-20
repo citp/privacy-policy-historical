@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historyofmassachusetts.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401015310id_/https%3A//historyofmassachusetts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyofmassachusetts.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220214846id_/https%3A//historyofmassachusetts.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – History of Massachusetts Blog
+# Privacy Policy | History of Massachusetts Blog
 
   
 Privacy Policy
