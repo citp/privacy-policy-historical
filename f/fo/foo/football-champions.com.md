@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-champions.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507195429id_/https%3A//www.sweetnitro.com/en/policy.php%3Fsite%3Dfs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-champions.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220021041id_/https%3A//www.sweetnitro.com/en/policy.php%3Fsite%3Dfs) for the most accurate reproduction.*
 
 # Football Champions - Sweet Nitro
 
