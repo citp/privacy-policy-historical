@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uflash.tv privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823140124id_/http%3A//www.uflash.tv/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uflash.tv privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220063635id_/http%3A//www.uflash.tv/static/privacy) for the most accurate reproduction.*
 
-# UFLASH.TV - Daily Exhibitionist Videos |
+# FREE Exhibitionist Porn Videos - UFLASH.TV
 
 This document details important information regarding the use and disclosure of User Data collected on UFLASH.TV 
 
@@ -49,7 +49,3 @@ Unfortunately, the transmission of information via the Internet is not completel
 **YOUR RIGHTS**
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at admin@UFLASH.TV.
-
-If you are over the age of 18 years or otherwise over the age of majority in the location from which you have accessed this web site, you may enter this web site and access our computers and data ONLY if you agree to, and comply with, all the TERMS AND CONDITIONS (see hyperlink below) for use of the web site set forth below, including the prohibitions against accessing this web site from specified areas and/or zip codes listed in the TERMS AND CONDITIONS and here as PROHIBITED ACCESS AREAS (see hyperlink below). You also acknowledge and agree that you are not offended by nudity and explicit depictions of sexual activity. By clicking the entering your initials, clicking on the "enter" button below, and by entering this web site you agree with all the above and certify under penalty of perjury that you are over the age of 18 years and that you are an adult as the term "adult" is defined by the laws of the location in which you are currently located.
-
-[LEAVE](http://adf.ly/IxdX2)[ENTER](https://web.archive.org/verified.php)
