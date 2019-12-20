@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicaldaily.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331103730id_/https%3A//www.medicaldaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicaldaily.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220131401id_/https%3A//www.medicaldaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@ _This policy was last updated on June 30, 2015_
 
  **Introduction**
 
-IBT Media Inc. and its wholly owned subsidiaries (collectively, "Company," "us" or "we") respect your privacy and are committed to protecting it through our compliance with this policy.
+Medical Daily LLC. and its wholly owned subsidiaries (collectively, "Company," "us" or "we") respect your privacy and are committed to protecting it through our compliance with this policy.
 
-This Privacy Policy describes how we may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on our Web sites and other applications. Our Websites include but are not limited to, IBTimes.com, Newsweek.com, MedicalDaily.com, iDigitalTimes.com, LatinTimes.com, FashionTimes.com, Fashionnstyle.com, BeautyWorldnews.com, Designntrend.com and DesignTimes.com.
+This Privacy Policy describes how we may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on our Web sites and other applications.
 
 This Policy applies to PII and Related Data (collectively, your "information") received by us from consumers when you visit, register or subscribe to this Website and related services or sites that link to this Privacy Policy. It also applies to information we collect:
 
@@ -28,7 +28,7 @@ Sometimes we collect personally identifiable information from consumers in manua
 
 When you provide PII to us, we will make sure you are informed about the types of uses we will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy. We'll collect only as much personal information as we need for specific, identified purposes, and we won't use it for other purposes without obtaining your consent.
 
- **Children under the Age of 13:** In compliance with COPPA, we do not, however, knowingly collect or store PII from children under the age of thirteen. No one under age 13 may provide any personal information to or on the Website. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at info[at]ibtimes.com.
+ **Children under the Age of 13:** In compliance with COPPA, we do not, however, knowingly collect or store PII from children under the age of thirteen. No one under age 13 may provide any personal information to or on the Website. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at info[at]medicaldaily.com.
 
  **Cookies (or browser cookies), Web Beacons, And Other Similar Technologies:** Cookies are small bits of information that our web sites place on the hard drive of your computer. We use cookies to, among other things, facilitate our login processes; allow you to personalize and store your settings; collect usage information; determine our total audience size and traffic; and help us improve our sites by measuring which areas are of greatest interest to users. No personally identifiable information is placed in these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form.
 
@@ -97,13 +97,9 @@ We strive to provide you with choices regarding the personal information you pro
 
 • **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
 
-• **Promotional Offers from the Company or Third Parties:** : To opt out of receiving marketing from the Company or its Third Party Promotional partners, or to otherwise update your preferences, you must do so for each of our publications separately, as indicated below:
+• **Promotional Offers from the Company or Third Parties:** : To opt out of receiving marketing from the Company or its Third Party Promotional partners, or to otherwise update your preferences, you must do so.
 
-o **International Business Times Online and any other IBT Media properties (including Medical Daily Inc, Newsweek LLC, Fashion Times LLC):**
-
-To opt out of receiving marketing from International Business Times Online or other Company publications, except Newsweek, notify us by contacting Customer Service at privacypolicy[at]ibtimes.com. Please include the phrase “Opt-Out” in the subject line of your communication to receive quicker service.
-
-o Newsweek: Subscribers to Newsweek may contact Customer Service at support[at]newsweek.com.
+To opt out of receiving marketing from Medical Daily, notify us by contacting Customer Service at privacypolicy[at]medicaldaily.com. Please include the phrase “Opt-Out” in the subject line of your communication to receive quicker service.
 
 o If you are a current subscriber of any of our publications, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please include "Opt-out" in the subject line
 
@@ -113,10 +109,6 @@ o We do not control third parties' collection or use of your information to serv
 
  **ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII**  
 You may review and update the PII that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Most subscribers also can update their information online by signing on to their accounts and visiting the appropriate account management sections. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately.
-
- **International Business Times Online and any other IBT Media properties:** Registered or non-registered users may contact Customer Service at info[at]ibtimes.com. Most users to International Business Times Online may also update their information by going to Member Center.
-
- **Newsweek:** Subscribers to Newsweek may contact Customer Service at support[at]newsweek.com.
 
  **SECURITY: WE PROTECT THE SECURITY OF PII**
 
@@ -133,11 +125,11 @@ Your information may be stored and processed in the United States, in Slovakia o
 
  **REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS**
 
-If you have any questions, comments or concerns about our Privacy Policy or the Principles, please visit our CONTACT US page for IBT Media at http://www.ibtimes.com/corporate/contact.
+If you have any questions, comments or concerns about our Privacy Policy or the Principles, please visit our CONTACT US page at https://www.medicaldaily.com/contact-us.
 
  **Your California Privacy Rights**
 
-Under the California "Shine The Light" law, California Civil Code Section § 1798.83 , California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at info[at]ibtimes.com for IBT Media properties or support[at]newsweek.com for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
+Under the California "Shine The Light" law, California Civil Code Section § 1798.83 , California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at info[at]medicaldaily.com. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
 
  **SAFE HARBOR PRIVACY PRINCIPLES**
 
@@ -148,7 +140,7 @@ The Company adheres to the Safe Harbor Frameworks concerning the transfer of per
 In compliance with the US-EU Safe Harbor and U.S. Swiss Safe Harbor Privacy Principles, the Company is committed to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact the Company at:
 
 General Counsel  
-IBT Media Inc  
+Medical Daily LLC  
 7 Hanover Square, 5th Floor  
 New York, NY 10004
 
