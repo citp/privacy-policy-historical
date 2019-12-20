@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the derpibooru.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615010423id_/https%3A//derpibooru.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derpibooru.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220154633id_/https%3A//derpibooru.org/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Derpibooru - My Little Pony: Friendship is Magic Imageboard
+# Privacy Policy - Derpibooru
 
 We may update this document in the future, and will provide a site notice when we do.
 
@@ -10,7 +10,7 @@ We collect only the bare minimum amount of information that is necessary to prot
 
 ## What information Derpibooru collects and why
 
- **Information from webserver logs**
+**Information from webserver logs**
 
 We collect the following information (in webserver logs) from every visitor:
 
@@ -23,7 +23,7 @@ We collect the following information (in webserver logs) from every visitor:
 
 These items are collected to ensure the security of the service, and are deleted after 14 days to balance our "legitimate interest" (as mentioned in the GDPR) of security with user privacy.
 
- **Information in cookies**
+**Information in cookies**
 
 Our cookies for any users of the service may contain this information:
 
@@ -47,7 +47,7 @@ We might add to this list in the future as needed.
 
 These are required for authentication, user security, or customization, which are all "legitimate interests" as above, and thus we cannot ask for consent to use cookies.
 
- **Information in user-submitted content**
+**Information in user-submitted content**
 
 User-submitted content is considered by Derpibooru to collectively refer to any content that you may submit to the site, which includes, but is not limited to, comments, images, messsages, posts, reports, source changes, tag changes, and votes.
 
@@ -62,7 +62,7 @@ User-submitted content by users (authenticated or not) may contain any or all th
 
 These items are only used for the "legitimate interests" of identifying and controlling abuse of the service and are not shared with any external party.
 
- **Browser fingerprints**
+**Browser fingerprints**
 
 Browser fingerprints are a tool used to identify users of the service in such a way that administrators will have no knowledge of the individual components of a fingerprint. They are irretrievably hashed (by a browser script) from the following attributes:
 
@@ -76,7 +76,7 @@ Browser fingerprints are a tool used to identify users of the service in such a 
 
 ## Information from users with accounts
 
-If you **create an account** we require some basic information at the time of account creation. You will be asked to provide:
+If you **create an account** we require some basic information at the time of account creation. You will be asked to provide: 
 
   * a username, shown on your profile and non-anonymous user-submitted content
   * a password, stored only as a cryptographic hash
@@ -94,7 +94,7 @@ This is especially important because information shared in public user-submitted
 
 ## Information that may potentially be shared with third parties
 
-We do not in any way share individual account information with third parties except in response to court orders. We make public certain statistics about how users use Derpibooru (for example, [about uploads](https://web.archive.org/pages/stats)), without personally-identifying information.
+We do not in any way share individual account information with third parties except in response to court orders. We make public certain statistics about how users use Derpibooru (for example, [about uploads](https://web.archive.org/stats)), without personally-identifying information. 
 
 Most of Derpibooru is public-facing, and third parties may access and use it.
 
@@ -112,4 +112,4 @@ No method of transmission, or method of electronic storage, is 100% secure. Ther
 
 ## Resolving complaints
 
-If you have concerns about the way Derpibooru is handling your personal information, please let us know immediately. You may contact us by emailing us directly at [ops@derpibooru.org](mailto:ops@derpibooru.org).
+If you have concerns about the way Derpibooru is handling your personal information, please let us know immediately. You may contact us by emailing us directly at [ops@derpibooru.org](mailto:ops@derpibooru.org). 
