@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boletosexpress.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405025847id_/https%3A//www.boletosexpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boletosexpress.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220064331id_/https%3A//www.boletosexpress.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Boletos Express
 
