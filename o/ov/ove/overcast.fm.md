@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606203301id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220081152id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
 
 # Overcast
 
@@ -6,9 +6,9 @@ This policy applies to all information collected or submitted on Overcast’s we
 
 ## Information we collect
 
-When creating an account, you will be asked to enter an optional email address and a password. Email addresses are **only** used for logging in, password resets, responding to emails that you initiate, and notifications that you request. We don’t send promotional emails.
+New Overcast accounts are created anonymously, without email addresses or passwords.
 
-You may choose **not** to provide an email address and have an anonymous sync account instead.
+You may optionally add an email address and a password to your account, or remove the email address and password from your account, at any time in Overcast’s app. Email addresses are **only** used for logging in, password resets, responding to emails that you initiate, and sending notifications that you request. We don’t send promotional emails.
 
 We store information about your podcasts, episodes, and listening progress to sync this information between the website and your devices. We also collect anonymous statistics about which podcasts are most popular to help inform our recommendation engine.
 
@@ -20,19 +20,17 @@ If you upload files to Overcast, we need to store them until you delete them.
 
 If you subscribe to a password-protected podcast, we need to store the credentials you provide in order to keep it updated.
 
-We use cookies on the site and similar tokens in the app to keep you logged in. Our server software may also store basic technical information, such as your IP address, in temporary memory or logs.
+We use cookies on the site and similar tokens in the app to keep you logged in.
+
+Our server software may also store basic technical information, such as your IP address, in temporary memory or logs.
+
+### **iCloud**
+
+Overcast stores some of your data in Apple’s iCloud service, such as login tokens for your account(s), to enable some sync features between all devices signed into your Apple ID.
 
 ### **Cloudflare**
 
 For performance and overload protection, we direct your traffic through Cloudflare before it reaches Overcast’s servers. They have access to some basic technical information to perform this role, such as your IP address. [Cloudflare’s privacy policy is here](https://www.cloudflare.com/privacypolicy/).
-
-### **Twitter accounts**
-
-If you connect a Twitter account, episodes that you “recommend” may appear in Overcast to people who follow you on Twitter, identifying you as the recommender.
-
-Any podcasts you add to Overcast may appear to your Twitter followers in their “Podcasts You Might Like” section.
-
-We store a read-only Twitter login token to look up your Twitter username and avatar, and who you follow. Overcast cannot post tweets, change your account, or read your private messages. You can revoke access to your Twitter account at any time.
 
 ### **Ads and analytics**
 
@@ -54,11 +52,13 @@ In the future, we may sell to, buy, merge with, or partner with other businesses
 
 We implement a variety of security measures to help keep your information secure. For instance, all communication with the app and website requires HTTPS with certificate pinning. Passwords are [hashed](http://en.wikipedia.org/wiki/Cryptographic_hash_function), not stored, using industry-standard methods (currently [bcrypt](http://en.wikipedia.org/wiki/Bcrypt)).
 
-## Accessing, changing, or deleting your information
+## Accessing, changing, or deleting information
 
 You may access or change your information or delete your account from the Overcast iOS app.
 
 Deleted information may be kept in backups for up to 90 days. Backups are encrypted and are only accessed if needed for disaster recovery.
+
+Overcast may delete your information at any time and for any reason, such as technical needs, legal concerns, abuse prevention, removal of idle accounts, data loss, or any other reason.
 
 ## Third-party links and content
 
@@ -100,5 +100,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
   * **March 13, 2018:** Added password-protected podcast support.
   * **March 16, 2018:** Edited various sections for clarity and brevity.
   * **December 28, 2018:** Added Cloudflare information.
+  * **June 18, 2019:** Added provision for Overcast to delete information.
+  * **July 24, 2019:** Added iCloud; revised email; removed Twitter integration.
 
 
