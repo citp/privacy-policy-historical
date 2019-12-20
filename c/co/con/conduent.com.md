@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conduent.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813232811id_/https%3A//www.conduent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conduent.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220220833id_/https%3A//www.conduent.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy – Conduent
 
@@ -20,10 +20,10 @@ To report your inquiries or concerns to the Business Ethics and Compliance Offic
 
 
 
-Conduent  
-Conduent Business Ethics and Compliance Office  
-2828 N. Haskell Ave., Bldg.1 – 9th Floor  
-Dallas, Texas 75204  
+Conduent Incorporated  
+Business Ethics and Compliance Office  
+100 Campus Drive, Suite 200  
+Florham Park, NJ 07932  
 USA
 
  **Collection of Personal Information**
@@ -67,10 +67,9 @@ You may also mail an unsubscribe request to:
 
 Marketing Privacy Preferences  
 Conduent  
-100 Campus Dr  
-Suite 200  
-Florham Park, NJ  
-07932
+100 Campus Drive, Suite 200  
+Florham Park, NJ 07932  
+USA
 
 Where allowed by applicable law, the unsubscribe options provided to you may not  apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, software updates where you are provided with appropriate choice in accordance with applicable law, or other administrative and transactional notices, the primary purpose of which is not promotional in nature.  This means that even if you opt-out of receiving direct marketing communications, we may still need to retain some of your personal information necessary to communicate with you on these topics where required for these purposes.
 
@@ -110,10 +109,10 @@ We respond to all requests we receive from individuals wishing to exercise their
 
 To contact us to exercise any rights, check the accuracy of your personal information or to otherwise request that your information be updated or deleted by writing to the Conduent Ethics Office at:
 
-Conduent  
-Conduent Business Ethics and Compliance Office  
-2828 N. Haskell Ave., Bldg.1 – 9th Floor  
-Dallas, Texas 75204  
+Conduent Incorporated  
+Business Ethics and Compliance Office  
+100 Campus Drive, Suite 200  
+Florham Park, NJ 07932  
 USA
 
 or by filing a report with the Conduent Ethics Helpline: _[www.conduent.com/ethicshelpline](https://www.conduent.com/corporate-governance/ethics-helpline/)_ or 1-844-330-0221.
@@ -168,14 +167,14 @@ Yes, Conduent provides _[a tool to opt-out of data collection](http://preference
 
 We welcome questions or comments about our Online Privacy Policy. You may also contact us if you feel that your personal information is used in a way inconsistent with this policy. File a report using our Web submission tool on  _[www.conduent.com/ethics](https://www.conduent.com/ethics/)_ or call 1-844-330-0221 if you are in North America. International numbers are available on _[www.conduent.com/ethics](https://www.conduent.com/ethics/)_. You may also contact us via postal mail at:
 
-Conduent  
-Conduent Business Ethics and Compliance Office  
-2828 N. Haskell Ave., Bldg.1 – 9th Floor  
-Dallas, Texas 75204  
+Conduent Incorporated  
+Business Ethics and Compliance Office  
+100 Campus Drive, Suite 200  
+Florham Park, NJ 07932  
 USA
 
   * If you have questions about Conduent products or services, call us toll-free at 1-844-ONE-CNDT.
-  *  _[More contact information](https://www.conduent.com/contact-us/)_  is available on  _[www.Conduent.com](https://www.conduent.com/)_  if you are outside the United States and Canada, and/or if you have questions about corporate information, research and innovation, or services.
+  *  _[More contact information](https://www.conduent.com/contact-us/)_  is available on  _[www.conduent.com](https://www.conduent.com/)_  if you are outside the United States and Canada, and/or if you have questions about corporate information, research and innovation, or services.
 
 
 
@@ -183,4 +182,4 @@ USA
 
 Conduent reserves the right to make changes to this policy. If we make changes, we will revise this Online Privacy Policy to reflect such changes and revise the effective date of the policy.
 
-Last Updated: May 23, 2018.
+Last Updated: September 13, 2018.
