@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoracom.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012001439id_/https%3A//agoracom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoracom.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220214332id_/https%3A//agoracom.com/privacy-policy) for the most accurate reproduction.*
 
 # Agoracom: Small Cap Investment - Privacy Policy
 
