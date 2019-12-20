@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekewlshop.myshopify.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224145954id_/https%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekewlshop.myshopify.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221000732id_/https%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy | The Kewl Shop
 
@@ -41,7 +41,9 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ##### Links to other websites
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/thekewlshop.com).  
+
 
 ##### **Controlling your personal information**
 
