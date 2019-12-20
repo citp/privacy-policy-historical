@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627024719id_/http%3A//www.arsenal-world.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220035241id_/http%3A//www.arsenal-world.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Arsenal World
 
