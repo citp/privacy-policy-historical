@@ -1,56 +1,84 @@
-> *The following text is extracted and transformed from the codeweek.eu privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825101021id_/https%3A//codeweek.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeweek.eu privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220125642id_/http%3A//codeweek.eu/privacy) for the most accurate reproduction.*
 
-# Europe Code Week 2018 - Privacy policy
+# Europe Code Week
 
-EU Code Week 2018
+### **1\. Introduction**
 
-  1. [Home](http://codeweek.eu/)
-  2. Privacy policy
+The European Commission (hereafter ‘the Commission’) is committed to protect your personal data and to respect your privacy. The Commission collects and further processes personal data pursuant to Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data (repealing Regulation (EC) No 45/2001).
 
+This privacy statement explains the reason for the collection and processing, the way we collect, handle and ensure protection of all personal data provided, how that information is used and what rights you may exercise in relation to your personal data (the right to access, rectify, block etc.). It also specifies the contact details of the responsible Data Controller with whom you may exercise your rights, the Data Protection Officer and the European Data Protection Supervisor.
 
+This privacy statement concerns the collection and publication of personal data on the publicly accessible Codeweek.eu website, of persons who serve as contact points for EU Code Week activities (Code Week ambassadors, Education Ministry Coordinators, Leading Teachers as well as activity and event organisers).
 
-This Privacy Policy governs the manner in which Europe Code Week collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://codeweek.eu](http://codeweek.eu/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Europe Code Week.
+### **2\. Why do we process your data?**
 
-**Personal identification information**
+The European Commission collects and publishes your personal information to facilitate the identification of contact points by stakeholders or interested citizens. Offering real persons as contact points is the best and most efficient way to ensure that interested people can get in contact with Commission services.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Your personal data will not be used for any automated decision-making, including profiling.
 
-**Non-personal identification information**
+### **3\. On what legal ground(s) do we process your personal data**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+The processing operations on personal data for the publication of contact points are lawful under article 5(1)(d) of the Regulation (EU) 2018/1725 because you gave your consent to the processing of your personal data through a webform or when you agreed that we use your email and username if you signed up with a social network.
 
-**Web browser cookies**
+### **4\. Which personal data do we collect and further process?**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Personal data collected are information which make your identification as a contact point easier and increase your visibility for the public, namely: title, name, surname, position, professional postal & e-mail addresses, phone number, picture, social media account, biography.
 
-**How we use collected information**
+You provided these personal data on a voluntary basis, by filling out the application form.
 
-Europe Code Week may collect and use Users personal information for the following purposes:
+The provision of certain personal data is mandatory for the publication of activities and/or contact information possible on the codeweek.eu website. If you do not provide your personal data, your activity would not be published, and/or you would not be able to take part in the aforementioned networks.
 
-  * _To improve customer service_ : Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _To personalize user experience_ : We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To send periodic emails_ : We may use the email address to respond to their inquiries, questions, and/or other requests. 
+You provide all other personal data on a voluntary basis.
 
+### **5\. How long do we keep your personal data?**
 
+The Commission only keeps your personal data for the time necessary to fulfil the purpose of collection or further processing described in the point 2, namely for as long as you serve as a contact point.
 
-**How we protect your information**
+Your personal data will be removed from the publicly available website as soon as you cease your contact point function unless you have given your agreement to be included in the database for future activities.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+### **6\. How do we protect and safeguard your personal data?**
 
-**Sharing your personal information**
+All personal data in electronic format (e-mails, documents, databases, uploaded batches of data, etc.) are stored either on the servers of the European Commission or of its contractor. All processing operations are carried out pursuant to the Commission Decision (EU, Euratom) 2017/46 of 10 January 2017 on the security of communication and information systems in the European Commission.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+The Commission’s contractors are bound by a specific contractual clause for any processing operations of your data on behalf of the Commission, and by the confidentiality obligations deriving from the transposition of the General Data Protection Regulation in the EU Member States (‘GDPR’ Regulation (EU) 2016/679).
 
-**Changes to this privacy policy**
+In order to protect your personal data, the Commission has put in place a number of technical and organisational measures in place. Technical measures include appropriate actions to address online security, risk of data loss, alteration of data or unauthorised access, taking into consideration the risk presented by the processing and the nature of the personal data being processed. Organisational measures include restricting access to the personal data solely to authorised persons with a legitimate need to know for the purposes of this processing operation.
 
-Europe Code Week has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+### **7\. Who has access to your data and to whom is it disclosed?**
 
-**Your acceptance of these terms**
+Access to your personal data is provided to the Commission staff responsible for carrying out this processing operation and to authorised staff according to the “need to know” principle. Such staff abide by statutory, and when required, additional confidentiality agreements.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Concretely, all personal data provided by you can be accessed by the websites’ administrators (Commission staff), as well as by other Commission staff on a need to know basis. . Furthermore, you personal information and event information will be shared with members of the EU Code Week Ambassadors and Educational coordinators networks for local activities organisation or follow up. 
 
-**Contacting us**
+For the purpose of increasing the contact points’ visibility, your personal data are published without any access limitation on the public website: https://codeweek.eu.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [info@codeweek.eu](mailto:info@codeweek.eu)
+_Regarding transfer of data to third parties_
 
-This document was last updated on October 12, 2014
+The information we collect will not be given to any third party, except to the extent and for the purpose we may be required to do so by law.
+
+### **8\. What are your rights and how can you exercise them?**
+
+You have specific rights as a ‘data subject’ under Chapter III (Articles 14-25) of Regulation (EU) 2018/1725, in particular the right to access, rectify or erase your personal data and the right to restrict the processing of your personal data. Where applicable, you also have the right to object to the processing or the right to data portability.
+
+You have consented to provide your personal data to us for the present processing operation and you can withdraw your consent at any time by notifying the Data Controller. The withdrawal will not affect the lawfulness of the processing carried out before you have withdrawn the consent.
+
+You can exercise your rights by contacting the Data Controller, or in case of conflict the Data Protection Officer. If necessary, you can also address the European Data Protection Supervisor. Their contact information is given under Heading 9 below.
+
+### **9\. Contact information**
+
+#### **-The Data Controller**
+
+If you would like to exercise your rights under Regulation (EU) 2018/1725, or if you have comments, questions or concerns, or if you would like to submit a complaint regarding the collection and use of your personal data, please feel free to contact the Data Controller,
+
+Directorate-General for Communications Networks, Content and Technology Unit F4  
+Building BU25  
+B-1049 Brussels  
+Email: [info@codeweek.eu](mailto:info@codeweek.eu)
+
+#### **-The Data Protection Officer (DPO) of the Commission**
+
+You may contact the Data Protection Officer ([DATA-PROTECTION-OFFICER@ec.europa.eu](mailto:DATA-PROTECTION-OFFICER@ec.europa.eu)) with regard to issues related to the processing of your personal data under Regulation (EU) 2018/1725.
+
+#### **-The European Data Protection Supervisor (EDPS)**
+
+You have the right to have recourse (i.e. you can lodge a complaint) to the European Data Protection Supervisor ([edps@edps.europa.eu](mailto:edps@edps.europa.eu)) if you consider that your rights under Regulation (EU) 2018/1725 have been infringed as a result of the processing of your personal data by the Data Controller.
