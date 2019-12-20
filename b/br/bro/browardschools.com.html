@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the browardschools.com privacy policy that was archived on 2019-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190614200732id_/https%3A//www.browardschools.com/Domain/13932) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the browardschools.com privacy policy that was archived on 2019-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191220052142id_/https%3A//www.browardschools.com/Domain/13932) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html lang="en"><head>
     <title>Website Privacy Policy / Overview</title>
@@ -14,14 +14,14 @@
     
     <meta property="og:type" content="website">
 <meta property="fb:app_id" content="411584262324304">
-<meta property="og:url" content="http://www.browardschools.com/site/default.aspx?DomainID=13932">
+<meta property="og:url" content="http%3A%2F%2Fwww.browardschools.com%2Fsite%2Fdefault.aspx%3FDomainID%3D13932">
 <meta property="og:title" content="Website Privacy Policy / Overview">
 <meta name="twitter:card" value="summary">
 <meta name="twitter:title" content="Website Privacy Policy / Overview">
 <meta itemprop="name" content="Website Privacy Policy / Overview">
 
     <!-- Begin swuc.GlobalJS -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_83925.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
  staticURL = "https://www.browardschools.com/Static/";
  SessionTimeout = "50";
  BBHelpURL = "";
@@ -63,7 +63,7 @@
             $("div.region .app:last").addClass("last-app");
 
             // get on screen alerts
-            var isAnyActiveOSA = 'True';
+            var isAnyActiveOSA = 'False';
             var onscreenAlertCookie = GetCookie('Alerts');
 
             if (onscreenAlertCookie == '' || onscreenAlertCookie == undefined) {
@@ -1560,7 +1560,7 @@ ul.sw-channel-dropdown li.sw-channel-more-li a:hover span.sw-channel-more-span {
 	background: #f4c436;
 }
 #gb-search-menu-btn {
-	width: 60px;
+	width: 140px;
     height: 60px;
     color: #FFFFFF;
     font-size: 24px;
@@ -1568,6 +1568,14 @@ ul.sw-channel-dropdown li.sw-channel-more-li a:hover span.sw-channel-more-span {
 }
 #gb-search-menu-btn:before {
 	content: "\e901";
+    position: relative;
+    top: 4px;
+}
+#gb-search-menu-btn:after {
+	content: "SEARCH";
+    font: 500 16px "Open Sans", Arial, sans-serif;
+    display: inline-block;
+    margin-left: 5px;
 }
 #gb-page[data-overlay-menu="gb-search-menu"] #gb-search-menu-btn:before {
 	content: "\e912";
@@ -1663,7 +1671,7 @@ ul.sw-channel-dropdown li.sw-channel-more-li a:hover span.sw-channel-more-span {
 .gb-lightbox-links-inner[data-num-of-links="15;14;13;12;11;10;9;8;7;6;5;4;3;2;1;0"] li {
 	display: inline-block;
 }
-.gb-lightbox-links-inner li:nth-child(-n+14) {
+.gb-lightbox-links-inner li:nth-child(-n+15) {
 	display: inline-block;
 }
 .gb-lightbox-links-inner a {
@@ -4069,7 +4077,7 @@ h6 {
 } 
 .sp p,
 .sp .ui-article-description {
-	font-size: 14px;
+	font-size: 16px;
 }
 .sp .ui-article-description ol:last-child,
 .sp .ui-article-description ul:last-child {
@@ -4549,7 +4557,7 @@ body:before {
 .extra-option-1[data-total-icons="0"] {
     display: none;
 }
-.extra-option-2 .rs-menu-option-sublist li:nth-last-child(-n+14)
+.extra-option-2 .rs-menu-option-sublist li:nth-last-child(-n+15)
 .extra-option-2 .rs-menu-option-sublist li.rs-menu-option-sublist-header, .extra-option-2 .rs-menu-option-sublist li.rs-menu-option-sublist-name {
 	display: block;
 }
@@ -5876,150 +5884,222 @@ footer:before {
 
 <!-- Added by Chris Case 00354490 -->
 <script type="text/javascript" src="//extend.schoolwires.com/creative/scripts/creative/tools/school-list-management/school-list-minibase.min.js"></script>
+
 <script type="text/javascript">
-$(function() {
-    $('.sw-mystart-button.home a').attr('href', '//www.browardschools.com/').attr('target', '_blank');
-    $('.snapshot .district-home-button a').attr('href', '//www.browardschools.com/').attr('target', '_blank');
-	$(".book-list .ui-article-detail").each(function() {
-        if($(this).text() == "Year Published: ") {
-        	$(this).hide();
-        } else if($(this).text().indexOf("by") === 0) {
-        	$(this).text($(this).text().replace("by", ""));
-        }
-    });
-});
-
-$(window).load(function() {
-	// Added by Brenton Kelly - Custom Hourly project
-    //var redirectLink = 'https://broward.identitynow.com/login/login/?prompt=true&goto=https%3A%2F%2Fbroward.identitynow.com%2Fui';
-    var redirectLink = 'https://sso.browardschools.com';
-    $('.snapshot a[href*=\'PageType=7&SiteID=4&IgnoreRedirect=true\'], .atlas a[href*=\'PageType=7&SiteID=4&IgnoreRedirect=true\']').attr('href', redirectLink);
-	
-    
-    $('<a id="gb-footer-admin-link" href=\'/site/default.aspx?PageType=7&SiteID=4&IgnoreRedirect=true\'>ADMIN</a>').insertBefore($('.snapshot #footer-disclaimer span, .snapshot #footer-disclaimer-768 span'));
-    $('.atlas .gb.footer.three, .atlas #footer-buttons-768').prepend('<a id="gb-footer-admin-link" href=\'/site/default.aspx?PageType=7&SiteID=4&IgnoreRedirect=true\'>ADMIN</a>');
-    $('.gb-footer-outer.bottom .gb-footer').append('<a id="gb-footer-admin-link" href=\'/site/default.aspx?PageType=7&SiteID=4&IgnoreRedirect=true\'>ADMIN</a>');
-	
-
-	$('.sw-channel-item.home a').attr('href',  '//' + window.location.hostname + '/broward'); //--> Added by Chris Case 00503803
-
-	if("broward" != "broward") {
-        $.schoolListMinibase({
-            'miniBaseDomainID': 4,
-            'miniBaseModuleInstanceID': 19959,
-            'cache': true,
-            'schoolListReady': function(schoolList) {
-                /*
-                The returned value is an array of objects and each object is a school record.
-                The fields are: schoolList.schoolName, schoolList.schoolType, schoolList.schoolUrl, schoolList.schoolAlias, schoolList.schoolVisible
-                */
-
-                schoolList.sort(function(a, b) {
-                    if(a.schoolName < b.schoolName) {
-                        return -1;
-                    }
-                    if(a.schoolName > b.schoolName) {
-                        return 1;
-                    }
-                    return 0;
-                });
-
-                var excluded = ['-elementary schools', '-middle schools', '-high schools', '-combination schools', '-centers', '-broward technical colleges', '-virtual school', '-adult education', '-alternative'];
-                var schools = '';
-
-                for(var i in schoolList) {
-                    if(schoolList[i].schoolVisible.toLowerCase() == 'true' && excluded.indexOf(schoolList[i].schoolName.toLowerCase()) === -1) {
-                        schools += '<li><a href=\'' + schoolList[i].schoolUrl + '\' tabindex=\'-1\'>' + schoolList[i].schoolName + '</a></li>';
-                    }
-                }
-                if($('#gb-school-dropdown').length) {
-                    $('#gb-school-dropdown ul').html(schools);
-                } else {
-                    $('.schoollist ul.sw-dropdown-list').html(schools);
-                }
+    $(function() {
+        $('.sw-mystart-button.home a').attr('href', '//www.browardschools.com/').attr('target', '_blank');
+        $('.snapshot .district-home-button a').attr('href', '//www.browardschools.com/').attr('target', '_blank');
+        $(".book-list .ui-article-detail").each(function() {
+            if($(this).text() == "Year Published: ") {
+                $(this).hide();
+            } else if($(this).text().indexOf("by") === 0) {
+                $(this).text($(this).text().replace("by", ""));
             }
         });
+        
+        // BRENTON KELLY - SCHOOL CRISIS RESOURCE BAR - DISTRICT REQUIREMENT
+        if("broward" != "broward") {
+            if(window.location.href.indexOf("#schoolcrisisresourcepreview") > -1) {
+                var crisisBar =	'<div id="gb-school-crisis-resources-outer">' +
+                                    '<div id="gb-school-crisis-resources">' +
+                                        '<p>Access District Resources: <span id="gb-school-crisis-resources-links"><a href="/recovery" target="_blank">Mental Health Resources</a><span id="gb-school-crisis-resources-link-divider"> | </span><a href="/safetyandsecurity" target="_blank">Safety and Security</a></span></p>' +
+                                    '</div>' +
+                                '</div>';
+
+                $(crisisBar).insertAfter($(".sw-skipnav-outerbar"));
+                
+                $(window).load(function() {
+                	$("html, body").animate({ scrollTop: 0 }, 10);
+                });
+            }
+        }
+    });
+
+    $(window).load(function() {
+        // Added by Brenton Kelly - Custom Hourly project
+        //var redirectLink = 'https://broward.identitynow.com/login/login/?prompt=true&goto=https%3A%2F%2Fbroward.identitynow.com%2Fui';
+        var redirectLink = 'https://sso.browardschools.com';
+        $('.snapshot a[href*=\'PageType=7&SiteID=4&IgnoreRedirect=true\'], .atlas a[href*=\'PageType=7&SiteID=4&IgnoreRedirect=true\']').attr('href', redirectLink);
+
+        
+        $('<a id="gb-footer-admin-link" href=\'/site/default.aspx?PageType=7&SiteID=4&IgnoreRedirect=true\'>ADMIN</a>').insertBefore($('.snapshot #footer-disclaimer span, .snapshot #footer-disclaimer-768 span'));
+        $('.atlas .gb.footer.three, .atlas #footer-buttons-768').prepend('<a id="gb-footer-admin-link" href=\'/site/default.aspx?PageType=7&SiteID=4&IgnoreRedirect=true\'>ADMIN</a>');
+        $('.gb-footer-outer.bottom .gb-footer').append('<a id="gb-footer-admin-link" href=\'/site/default.aspx?PageType=7&SiteID=4&IgnoreRedirect=true\'>ADMIN</a>');
+        
+
+        $('.sw-channel-item.home a').attr('href',  '//' + window.location.hostname + '/broward'); //--> Added by Chris Case 00503803
+
+        if("broward" != "broward") {
+            $.schoolListMinibase({
+                'miniBaseDomainID': 4,
+                'miniBaseModuleInstanceID': 19959,
+                'cache': true,
+                'schoolListReady': function(schoolList) {
+                    /*
+                    The returned value is an array of objects and each object is a school record.
+                    The fields are: schoolList.schoolName, schoolList.schoolType, schoolList.schoolUrl, schoolList.schoolAlias, schoolList.schoolVisible
+                    */
+
+                    schoolList.sort(function(a, b) {
+                        if(a.schoolName < b.schoolName) {
+                            return -1;
+                        }
+                        if(a.schoolName > b.schoolName) {
+                            return 1;
+                        }
+                        return 0;
+                    });
+
+                    var excluded = ['-elementary schools', '-middle schools', '-high schools', '-combination schools', '-centers', '-broward technical colleges', '-virtual school', '-adult education', '-alternative'];
+                    var schools = '';
+
+                    for(var i in schoolList) {
+                        if(schoolList[i].schoolVisible.toLowerCase() == 'true' && excluded.indexOf(schoolList[i].schoolName.toLowerCase()) === -1) {
+                            schools += '<li><a href=\'' + schoolList[i].schoolUrl + '\' tabindex=\'-1\'>' + schoolList[i].schoolName + '</a></li>';
+                        }
+                    }
+                    if($('#gb-school-dropdown').length) {
+                        $('#gb-school-dropdown ul').html(schools);
+                    } else {
+                        $('.schoollist ul.sw-dropdown-list').html(schools);
+                    }
+                }
+            });
+        }
+    });
+
+    // Jim 2847606
+    $(window).load(function(){
+        $('.district-home-button.true').replaceWith('<div class="district-home-button true"><a class="dev-button" href="//www.browardschools.com/" alt="District Website" target="_blank">District Website</a></div>');
+    });
+
+    // Footer links on https://www.browardschools1.com/Page/24675
+    $(document).ready(function() {
+        $('<div style="max-width: 1150px; margin: 0px auto; color: white;"><p style="font-weight: 600;"><a style="color: white;" href="/privacynotice" target="_blank">Privacy Notices</a> | <a style="color: white;"href="/ndras" target="_blank">Nondiscrimination Statement</a> | <a style="color: white;"href="/privacystatement" target="_blank">Privacy Statement</a></p></div>').appendTo('.atlas #gb-footer-outer');
+    });
+
+    $(document).ready(function() {
+        $('<div style="max-width: 1150px; margin: 15px auto 0 auto; text-align: left;"><p style="font-weight: 600;"><a style="font-weight: normal;" href="/privacynotice" target="_blank">Privacy Notices</a> | <a style="font-weight: normal;" href="/ndras" target="_blank">Nondiscrimination Statement</a> | <a style="font-weight: normal;" href="/privacystatement" target="_blank">Privacy Statement</a></p></div>').appendTo('.euphoria .gb-footer-site-info');
+    });
+    
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_83925.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+
+    //James Li added on 8/7/2019 for iFrame dynamic content height display
+    function resizeIframe(obj) {
+        obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
     }
-});
-</script>
-<!-- End Case 00354490 -->
-
-<script>
-// Jim 2847606
-$(window).load(function(){
-$('.district-home-button.true').replaceWith('<div class="district-home-button true"><a class="dev-button" href="//www.browardschools.com/" alt="District Website" target="_blank">District Website</a></div>');
-});
-
-// Footer links on https://www.browardschools1.com/Page/24675
-$(document).ready(function() {
-	$('<div style="max-width: 1150px; margin: 0px auto; color: white;"><p style="font-weight: 600;"><a style="color: white;" href="/privacynotice" target="_blank">Privacy Notices</a> | <a style="color: white;"href="/ndras" target="_blank">Nondiscrimination Statement</a> | <a style="color: white;"href="/privacystatement" target="_blank">Privacy Statement</a></p></div>').appendTo('.atlas #gb-footer-outer');
-});
-
-$(document).ready(function() {
-    $('<div style="max-width: 1150px; margin: 15px auto 0 auto; text-align: left;"><p style="font-weight: 600;"><a style="font-weight: normal;" href="/privacynotice" target="_blank">Privacy Notices</a> | <a style="font-weight: normal;" href="/ndras" target="_blank">Nondiscrimination Statement</a> | <a style="font-weight: normal;" href="/privacystatement" target="_blank">Privacy Statement</a></p></div>').appendTo('.euphoria .gb-footer-site-info');
-});
-</script>
-
-<script type="text/javascript">
-(function() {
-var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
-sz.src = '//siteimproveanalytics.com/js/siteanalyze_83925.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
-})();
 </script>
 
 <style>
+    body { font-family: 'Open Sans', Arial, sans-serif; }
 
-body { font-family: 'Open Sans', Arial, sans-serif; }
+    #cs-sw-footer .cs-sw-footer-logo { display: none; }
 
-#cs-sw-footer .cs-sw-footer-logo { display: none; }
+    #cs-sw-footer-links { margin-left: 17px; }
 
-#cs-sw-footer-links { margin-left: 17px; }
+    @media (max-width: 479px) {
+    #cs-sw-footer-links { margin-left: 0px; } .atlas #cs-sw-footer-links { margin-left: 20px; }
+    }
 
-@media (max-width: 479px) {
-#cs-sw-footer-links { margin-left: 0px; } .atlas #cs-sw-footer-links { margin-left: 20px; }
-}
+    .global-icon img.global-image { padding: 0; }/* Chris 00404045 */
 
-.global-icon img.global-image { padding: 0; }/* Chris 00404045 */
+    #gb-footer-admin-link { display: inline-block; font-size: 14px; border: solid 2px #FFF; padding: 2px 8px; margin-right: 10px; color: #FFF; text-decoration: none; -ms-transition: all .3s ease 0s; -moz-transition: all .3s ease 0s; -webkit-transition: all .3s ease 0s; transition: all .3s ease 0s; } /* Brenton */
 
-#gb-footer-admin-link { display: inline-block; font-size: 14px; border: solid 2px #FFF; padding: 2px 8px; margin-right: 10px; color: #FFF; text-decoration: none; -ms-transition: all .3s ease 0s; -moz-transition: all .3s ease 0s; -webkit-transition: all .3s ease 0s; transition: all .3s ease 0s; } /* Brenton */
+    .euphoria #gb-footer-admin-link { position: absolute; top: 15px; right: 0px; margin: 0px; color: #333; border-color: #333; }
 
-.euphoria #gb-footer-admin-link { position: absolute; top: 15px; right: 0px; margin: 0px; color: #333; border-color: #333; }
+    @media (max-width: 639px) {
+    .euphoria #gb-footer-admin-link { top: auto; bottom: 15px; right: auto; left: 0px; }
+    
+    .euphoria .gb-footer .gb-footer-site-info { padding-bottom: 55px !important; }
+    
+    }
 
-@media (max-width: 639px) {
-.euphoria #gb-footer-admin-link { top: auto; bottom: 15px; right: auto; left: 0px; }
+    .atlas #gb-footer-admin-link { margin-right: 5px; margin-bottom: 13px; }
+    .snapshot #gb-footer-admin-link { background: #000; }
+    .snapshot #gb-footer-admin-link:hover, .snapshot #gb-footer-admin-link:focus { color: #000; background: #FFF; }
+    .snapshot #sw-info-container { width: 63%; }
+    .snapshot #footer-disclaimer { width: 37%; }
 
-.euphoria .gb-footer .gb-footer-site-info { padding-bottom: 55px !important; }
+    .ui-widget.image img { height: auto !important; } /* Holly */
 
-}
+    .cs-slm-filtered-minibase .sw-flex-table tbody > tr > :nth-child(2), .cs-slm-filtered-minibase .sw-flex-table tbody > tr > :nth-child(4), .cs-slm-filtered-minibase .sw-flex-table tbody > tr > :nth-child(5), .cs-slm-filtered-minibase .sw-flex-table tbody > tr > :nth-child(6) { display: none; } /* Brenton 03019547 */
 
-.atlas #gb-footer-admin-link { margin-right: 5px; margin-bottom: 13px; }
-.snapshot #gb-footer-admin-link { background: #000; }
-.snapshot #gb-footer-admin-link:hover, .snapshot #gb-footer-admin-link:focus { color: #000; background: #FFF; }
-.snapshot #sw-info-container { width: 63%; }
-.snapshot #footer-disclaimer { width: 37%; }
+    .headlines h1.ui-article-title, .headlines h4.ui-article-title { font-size: 18px; }
 
-.ui-widget.image img { height: auto !important; } /* Holly */
+    .headlines .ui-article-description { font-size: 14px; }
 
-.cs-slm-filtered-minibase .sw-flex-table tbody > tr > :nth-child(2), .cs-slm-filtered-minibase .sw-flex-table tbody > tr > :nth-child(4), .cs-slm-filtered-minibase .sw-flex-table tbody > tr > :nth-child(5), .cs-slm-filtered-minibase .sw-flex-table tbody > tr > :nth-child(6) { display: none; } /* Brenton 03019547 */
+    .ui-widget.app.upcomingevents { padding: 0px !important; } /* Gisel 03189422 */
 
-.headlines h1.ui-article-title, .headlines h4.ui-article-title { font-size: 18px; }
+    #module-content-63977 div.ui-widget .ui-widget-detail { padding: 10px !important; } /* Gisel 03189422 */
 
-.headlines .ui-article-description { font-size: 14px; }
+    .snapshot a#feedback { display: none; } /* Gisel 03189422 */
 
-.ui-widget.app.upcomingevents { padding: 0px !important; } /* Gisel 03189422 */
+    .atlas a#feedback { display: none; } /* Gisel 03189422 */
 
-#module-content-63977 div.ui-widget .ui-widget-detail { padding: 10px !important; } /* Gisel 03189422 */
+    .euphoria a#feedback { display: none; } /* Gisel 03189422 */
 
-.snapshot a#feedback { display: none; } /* Gisel 03189422 */
+    .sp.column.two .ui-widget.app.divider-app, #spn-content .ui-widget.app.divider-app { padding-top: 20px; } /* Jim 04107682 */
 
-.atlas a#feedback { display: none; } /* Gisel 03189422 */
+    .snapshot .sp.column.two .ui-widget.app, .snapshot #spn-content .ui-widget.app { padding: 10px 20px; } /* Jim 04107682 */
 
-.euphoria a#feedback { display: none; } /* Gisel 03189422 */
+    a { text-decoration: underline; } /* Jim 04203227 */
+    
+    
+    .flexpage p, #about-teacher-bio p { /* Paul 04255719 */
+        font-size: 16px;
+    }
+    
+    #gb-school-crisis-resources-outer {
+    	padding: 14px 10px;
+        background: #f2f2f2;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        font: 400 14px/1 'Open Sans', sans-serif;
+        color: #000;
+        text-align: center;
+    }
+    #gb-school-crisis-resources p {
+    	margin: 0px;
+    }
+    #gb-school-crisis-resources a {
+    	color: #177db8;
+        text-decoration: none;
+        font-weight: 700;
+    }
+    #gb-school-crisis-resources a:hover,
+    #gb-school-crisis-resources a:focus {
+    	text-decoration: underline;
+    }
+    @media (max-width: 639px) {
+		#gb-school-crisis-resources-links {
+        	display: block;
+            margin-top: 6px;
+        }
+    }
+    @media (max-width: 479px) {
+    	#gb-school-crisis-resources-links {
+            margin-top: 0px;
+        }
+    	#gb-school-crisis-resources a {
+        	display: block;
+            margin-top: 6px;
+        }
+		#gb-school-crisis-resources-link-divider {
+        	display: none;
+        }
+    }
+</style>
 
-.sp.column.two .ui-widget.app.divider-app, #spn-content .ui-widget.app.divider-app { padding-top: 20px; } /* Jim 04107682 */
-
-.snapshot .sp.column.two .ui-widget.app, .snapshot #spn-content .ui-widget.app { padding: 10px 20px; } /* Jim 04107682 */
+<style> /*Case 04409560  - Leanne McDorman*/
+table[id^=tableApp] th p, table[id^=tableApp] td p { word-break: normal !important; }
 </style><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
@@ -7212,7 +7292,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
                 } 
             });
         
-        	for(i=8;i>=4;i--) {
+        	for(i=8;i>=6;i--) {
         		$(".gb.footer.three li").eq(i).hide();
             }
         
@@ -7382,7 +7462,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
            // FOR SCOPE
             var _this = this;  
         
-			var searchIcons = '1,Back To School Online Forms,/Page/38091,_self;1,Calendars,/calendars,_self;1,Superintendent,/Page/39209,_self;1,The Code Book for Student Conduct,/Page/38107,_self;1,Students,/Page/38934,_self;1,Get Involved,/Page/32540,_self;1,Careers,/Page/31910,_self;1,District Department Directory,https://www.browardschools.com/site/Default.aspx?PageType=1&SiteID=4&ChannelID=13070&DirectoryType=6,_self;1,Parents,/Page/36109,_self;1,Naviance,/Page/34737,_self;1,Meet The Board,/Page/39487,_self;1,Anonymous Tips,/Page/35294,_self;1,Food and Nutrition Information,/Page/34341,_self;1,SMART Futures,/Page/36150,_self;1,,,_self;';        
+			var searchIcons = '1,Back To School Online Forms,/Page/38091,_self;1,Calendars,/calendars,_self;1,Superintendent,/Page/39209,_self;1,The Code Book for Student Conduct,/Page/38107,_self;1,Students,/Page/38934,_self;1,Get Involved,/Page/32540,_self;1,Careers,/Page/31910,_self;1,District Department Directory,https://www.browardschools.com/site/Default.aspx?PageType=1&SiteID=4&ChannelID=13070&DirectoryType=6,_self;1,Parents,/Page/36109,_self;1,Naviance,/Page/34737,_self;1,Meet The Board,/Page/39487,_self;1,Anonymous Tips,/Page/35294,_self;1,Food and Nutrition Information,/Page/34341,_self;1,SMART Futures,/Page/36150,_self;1,Public Records Request,/Page/36608,_self;';        
            	var schoolIcons = '2,Find My School,/school-locator,_self;1,Important Phone Numbers,/importantphonenumbers,_self;1,Naviance ,/naviance,_self;1,Online Meal Payments,/food-service,_self;1,Online School Payments,/osp,_self;1,School Calendar ,https://www.browardschools.com/cms/lib/FL01803656/Centricity/Domain/4/2018-19%20School%20Calendar_color_final.pdf,_self;1,School Choice,/school-choice,_self;1,School Grades ,/page/36340,_self;1,Single Sign On ,https://clever.com/oauth/authorize?response_type=code&state=65b4eb3c149d11db478d27b4d9b812f9ec1e86fa7ace30518348ba10afc87cd3&redirect_uri=https%3A%2F%2Fclever.com%2Fin%2Fauth_callback&client_id=4c63c1cf623dce82caac&confirmed=true&channel=clever&district_id=511960e1f47e973a6500000e,_self;1,Transportation ,/transportation,_self;1,Virtual Counselor ,http://bcps.browardschools.com/VirtualCounselor/,_self;1,Anonymous Tips,/Anonymous-Tips,_self;1,This is Another Link,#,_self;1,This is Another Link,#,_self;1,,#,_self;';        
            
             $("body").csRsMenu({
@@ -7408,7 +7488,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
                 "allLoaded" : function() {
                     $(".rs-menu-option.schools .rs-menu-option-header h1").text('Our Schools');
 
-                    $(".extra-option-1").attr("data-total-icons", '14');
+                    $(".extra-option-1").attr("data-total-icons", '15');
 
                     $(".rs-menu-channels").after('<div class="rs-menu-option header-link-1"><div class="rs-menu-option-header"><h1>Parents and Families</h1></div></div><div class="rs-menu-option header-link-2"><div class="rs-menu-option-header"><h1>Students</h1></div></div><div class="rs-menu-option header-link-3"><div class="rs-menu-option-header"><h1>Staff</h1></div></div>');
                     $(document).on("click keydown touchstart", ".rs-menu-option.header-link-1 .rs-menu-option-header", function(e) { 
@@ -7772,8 +7852,6 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
 
 <!-- End Schoolwires Traffic Code --> 
 
-    
-
     <!-- Ally Alternative Formats Loader    START   -->
     
     <!-- Ally Alternative Formats Loader    END     -->
@@ -7867,7 +7945,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
 <div class="sw-dropdown" aria-hidden="false">
 <div class="sw-dropdown-selected" aria-hidden="true">Select a School</div>
 <ul class="sw-dropdown-list" aria-hidden="false" aria-label="Schools">
-<li><a href="/Domain/127">Annabel C. Perry Elementary Pre-K - 8</a></li>
+<li><a href="/Domain/127">Annabel C. Perry PK - 8</a></li>
 <li><a href="/Domain/13">Apollo Middle</a></li>
 <li><a href="/Domain/235">Atlantic Technical High School</a></li>
 <li><a href="/Domain/218">Atlantic Technical College</a></li>
@@ -7892,7 +7970,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
 <li><a href="/Domain/25">Central Park Elementary</a></li>
 <li><a href="/Domain/60">Challenger Elementary</a></li>
 <li><a href="/Domain/26">Chapel Trail Elementary</a></li>
-<li><a href="/Domain/77">Charles R. Drew Elementary</a></li>
+<li><a href="/Domain/77">Charles Drew Elementary</a></li>
 <li><a href="/Domain/56">Charles W. Flanagan HS</a></li>
 <li><a href="/Domain/27">Coconut Creek Elementary</a></li>
 <li><a href="/Domain/199">Coconut Creek High</a></li>
@@ -7977,7 +8055,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
 <li><a href="/Domain/176">Margate Middle</a></li>
 <li><a href="/Domain/9">McArthur High</a></li>
 <li><a href="/Domain/236">McFatter Technical College</a></li>
-<li><a href="/Domain/231">McFatter Technical High</a></li>
+<li><a href="/Domain/231">William T. McFatter Technical High</a></li>
 <li><a href="/Domain/103">McNab Elementary</a></li>
 <li><a href="/Domain/177">McNicol Middle Magnet</a></li>
 <li><a href="/Domain/104">Meadowbrook Elementary</a></li>
@@ -8002,7 +8080,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
 <li><a href="/Domain/180">Nova Middle</a></li>
 <li><a href="/Domain/114">Oakland Park Elementary</a></li>
 <li><a href="/Domain/115">Oakridge Elementary</a></li>
-<li><a href="/Domain/181">Olsen Middle</a></li>
+<li><a href="/Domain/181">Olsen Middle School</a></li>
 <li><a href="/Domain/116">Orange Brook Elementary</a></li>
 <li><a href="/Domain/117">Oriole Elementary</a></li>
 <li><a href="/Domain/43">Palm Cove Elementary</a></li>
@@ -8034,7 +8112,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
 <li><a href="/Domain/47">Quiet Waters Elementary</a></li>
 <li><a href="/Domain/133">Ramblewood Elementary</a></li>
 <li><a href="/Domain/188">Ramblewood Middle School</a></li>
-<li><a href="/Domain/189">Rickards Middle</a></li>
+<li><a href="/Domain/189">James S. Rickards Middle</a></li>
 <li><a href="/Domain/48">Riverglades Elementary</a></li>
 <li><a href="/Domain/134">Riverland Elementary</a></li>
 <li><a href="/Domain/135">Riverside Elementary</a></li>
@@ -8055,13 +8133,13 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
 <li><a href="/Domain/192">Silver Lakes Middle</a></li>
 <li><a href="/Domain/145">Silver Palms Elementary</a></li>
 <li><a href="/Domain/146">Silver Ridge Elementary</a></li>
-<li><a href="/Domain/147">Silver Shores Elementary</a></li>
+<li><a href="/Domain/147">Silver Shores Elementary School</a></li>
 <li><a href="/Domain/49">Silver Trail Middle</a></li>
 <li><a href="/Domain/212">South Broward High</a></li>
 <li><a href="/Domain/213">South Plantation High</a></li>
 <li><a href="/Domain/84">Stephen Foster Elementary</a></li>
 <li><a href="/Domain/148">Stirling Elementary School</a></li>
-<li><a href="/Domain/50">Stoneman Douglas High School</a></li>
+<li><a href="/Domain/50">Marjory Stoneman Douglas High</a></li>
 <li><a href="/Domain/214">Stranahan High</a></li>
 <li><a href="/Domain/149">Sunland Park Academy</a></li>
 <li><a href="/Domain/193">Sunrise Middle</a></li>
@@ -8095,6 +8173,7 @@ body { font-family: 'Open Sans', Arial, sans-serif; }
 <li><a href="/Domain/232">Wingate Oaks Center</a></li>
 <li><a href="/Domain/163">Winston Park Elementary</a></li>
 <li><a href="/Domain/10015">Bond Oversight Committee</a></li>
+<li><a href="/Domain/243">Gulfstream Early Learning Center</a></li>
 <li><a href="/Domain/10026">Atlas Training Site</a></li>
 <li><a href="/Domain/10043">New Subsite 268</a></li>
 </ul>
@@ -8202,7 +8281,7 @@ $(document).ready(function() {
 <li id="navs-12473"><a href="/Page/35674"><span>Budget Resources</span></a></li>
 <li id="navs-12472"><a href="/domain/12472"><span>Leadership &amp; Organization Chart</span></a></li>
 <li id="navs-12471"><a href="/Page/35711"><span>Strategic Plan</span></a></li>
-<li id="navs-12477"><a href="/domain/12477"><span>District Accreditation</span></a></li>
+<li id="navs-12477"><a href="https://www.browardschools.com/Page/37659"><span>District Accreditation</span></a></li>
 <li id="navs-12474"><a href="https://www.browardschools.com/Page/38282"><span>Newsroom</span></a></li>
 <li id="navs-14045"><a href="https://www.browardschools.com/Page/39209"><span>Superintendent's Spotlight</span></a></li>
 </ul>
@@ -8356,7 +8435,7 @@ $(document).ready(function() {
 <li id="navs-13456" class="hidden-section"><a href="/domain/13456"><span>Coaching and Induction</span></a></li>
 <li id="navs-13458" class="hidden-section"><a href="https://www.browardschools.com/Page/33445"><span>Compensation &amp; Human Resources (HR) Support Services</span></a></li>
 <li id="navs-13457" class="hidden-section"><a href="/domain/13457"><span>Coordinated Student Health Services</span></a></li>
-<li id="navs-13077" class="hidden-section"><a href="https://www.browardschools.com/Page/33996"><span>Demographics &amp; Student Assignments</span></a></li>
+<li id="navs-13077" class="hidden-section"><a href="https://www.browardschools.com/Page/33996"><span>Demographics &amp; Enrollment Planning</span></a></li>
 <li id="navs-13726" class="hidden-section"><a href="/domain/13726"><span>School Climate &amp; Discipline</span></a></li>
 <li id="navs-13466" class="hidden-section"><a href="/domain/13466"><span>Elementary Learning</span></a></li>
 <li id="navs-13469" class="hidden-section"><a href="/domain/13469"><span>Employee &amp; Labor Relations</span></a></li>
@@ -8386,7 +8465,7 @@ $(document).ready(function() {
 <li id="navs-13513" class="hidden-section"><a href="/Page/34403"><span>Portfolio Services</span></a></li>
 <li id="navs-12708" class="hidden-section"><a href="/domain/12708"><span>Procurement &amp; Warehousing Services</span></a></li>
 <li id="navs-13517" class="hidden-section"><a href="/site/Default.aspx?PageID=34537"><span>Professional Development Standards and Support</span></a></li>
-<li id="navs-13519" class="hidden-section"><a href="/Page/37766"><span>Public Information Office</span></a></li>
+<li id="navs-13519" class="hidden-section"><a href="/Page/37766"><span>Office of Communications</span></a></li>
 <li id="navs-13522" class="hidden-section"><a href="/domain/13522"><span>Records Retention</span></a></li>
 <li id="navs-13521" class="hidden-section"><a href="/domain/13521"><span>Risk Management</span></a></li>
 <li id="navs-13523" class="hidden-section"><a href="/domain/13523"><span>Safety Department</span></a></li>
@@ -8410,6 +8489,7 @@ $(document).ready(function() {
 <li id="navs-13547" class="hidden-section"><a href="/Page/35396"><span>Treasurer's Office</span></a></li>
 <li id="navs-15783" class="hidden-section"><a href="/Domain/13726"><span>Diversity, Prevention &amp; Intervention</span></a></li>
 <li id="navs-15936" class="hidden-section"><a href="https://www.browardschools.com/marcomm"><span>Marketing &amp; Communications (MarComm)</span></a></li>
+<li id="navs-13423" class="hidden-section"><a href="https://www.browardschools.com/Page/41692"><span>School Choice</span></a></li>
 <li id="navs-13454" class="hidden-section"><a href="/domain/13454"><span>Chief Financial Officer</span></a></li>
 <li id="navs-13078" class="hidden-section"><a href="/domain/13078"><span>Department 06</span></a></li>
 <li id="navs-13079" class="hidden-section"><a href="/domain/13079"><span>Department 07</span></a></li>
@@ -8432,14 +8512,13 @@ $(document).ready(function() {
 </ul>
 </li><li id="navc-13420" class="hidden-channel">
 <a href="/domain/13421" "="">
-<span>Demographics &amp; Student Assignments</span></a>
+<span>Demographics &amp; Enrollment Planning</span></a>
 <div class="hidden-sections"><ul>"
 <li id="navs-13422" class="hidden-section"><a href="/domain/13422"><span>School Demographics</span></a></li>
 
 </ul></div>
 <ul class="sw-channel-dropdown">
-<li id="navs-13421"><a href="/domain/13421"><span>Demographics &amp; Student Assignments</span></a></li>
-<li id="navs-13423"><a href="/Page/39636"><span>School Choice</span></a></li>
+<li id="navs-13421"><a href="/domain/13421"><span>Demographics &amp; Enrollment Planning</span></a></li>
 <li id="navs-13424"><a href="/site/Default.aspx?PageID=40962"><span>Boundary Process</span></a></li>
 <li id="navs-13425"><a href="/domain/13425"><span>Maps and Data</span></a></li>
 <li id="navs-13426"><a href="/domain/13426"><span>Contact</span></a></li>
@@ -8650,12 +8729,13 @@ $(document).ready(function() {
 </ul>
 </li><li id="navc-13960" class="hidden-channel">
 <a href="/domain/13961" "="">
-<span>Public Information Office</span></a>
+<span>Office of Communications</span></a>
 <div class="hidden-sections"><ul>"
+<li id="navs-16869" class="hidden-section"><a href="/domain/16869"><span>Winter Break Flyer 2019</span></a></li>
 
 </ul></div>
 <ul class="sw-channel-dropdown">
-<li id="navs-13961"><a href="/domain/13961"><span>Public Information Office</span></a></li>
+<li id="navs-13961"><a href="/domain/13961"><span>Office of Communications</span></a></li>
 <li id="navs-14019"><a href="/domain/14019"><span>News Room</span></a></li>
 <li id="navs-14326"><a href="/domain/14326"><span>Old Dillard Museum</span></a></li>
 <li id="navs-14020"><a href="/domain/14020"><span>Information</span></a></li>
@@ -8665,7 +8745,9 @@ $(document).ready(function() {
 <li id="navs-14126"><a href="/domain/14126"><span>Sample Icons</span></a></li>
 <li id="navs-14136"><a href="/domain/14136"><span>Video Test</span></a></li>
 <li id="navs-14477"><a href="/domain/14477"><span>General Information</span></a></li>
-<li id="navs-16044"><a href="/domain/16044"><span>Calendar</span></a></li>
+<li id="navs-16044"><a href="/domain/16044"><span>2019/20 School Calendar</span></a></li>
+<li id="navs-16791"><a href="/domain/16791"><span>2020 Census</span></a></li>
+<li id="navs-16866"><a href="/domain/16866"><span>2020/21 School Calendar</span></a></li>
 </ul>
 </li><li id="navc-12429" class="hidden-channel">
 <a href="/school-locator" target="_blank" "="">
@@ -8753,6 +8835,7 @@ $(document).ready(function() {
 <li id="navs-12654"><a href="/domain/12654"><span>Shared Apps Library - Quick Links, Tables of Contents</span></a></li>
 <li id="navs-13829"><a href="/domain/13829"><span>Students</span></a></li>
 <li id="navs-14735"><a href="/domain/14735"><span>Shared Legal &amp; Privacy Notices</span></a></li>
+<li id="navs-16746"><a href="/domain/16746"><span>Shared App District's Information</span></a></li>
 </ul>
 </li></ul><div class="clear"></div>
 </div>
@@ -8773,7 +8856,7 @@ $(document).ready(function() {
             'touchstart': function (e) {
                 
                 // see if has menu
-                if ($(this).siblings('ul.sw-channel-dropdown li').length > 0) {
+                if ($(this).siblings('ul.sw-channel-dropdown').children('li').length > 0)  {
                     var button = $(this);
 
                     // add href as property if not already set
@@ -8904,7 +8987,7 @@ $(document).ready(function() {
                         <button id="gb-search-btn" class="cs-html-btn-reset transition-all" aria-label="Search this site" aria-controls="gb-search-input"><span class="cs-icon-font cs-icon-search"></span></button>
                         <input type="text" id="gb-search-input" class="cs-html-input-reset border-box" value="Search...">
                     </form>
-                    <div class="gb-lightbox-links-inner" data-num-of-links="14" data-text-color="">
+                    <div class="gb-lightbox-links-inner" data-num-of-links="15" data-text-color="">
                     	<div class="gb-lightbox-header"><h2>Popular Topics</h2></div>
                         <ul class="cs-html-list-reset">
                             <li class="border-box transition-all"><a class="transition-all" href="/Page/38091" target="/Page/38091"><span>Back To School Online Forms</span></a></li>
@@ -8921,7 +9004,7 @@ $(document).ready(function() {
                             <li class="border-box transition-all"><a class="transition-all" href="/Page/35294" target="/Page/35294"><span>Anonymous Tips</span></a></li>
                             <li class="border-box transition-all"><a class="transition-all" href="/Page/34341" target="/Page/34341"><span>Food and Nutrition Information</span></a></li>
                             <li class="border-box transition-all"><a class="transition-all" href="/Page/36150" target="/Page/36150"><span>SMART Futures</span></a></li>
-                            <li class="border-box transition-all"><a class="transition-all" href="" target=""><span></span></a></li>   
+                            <li class="border-box transition-all"><a class="transition-all" href="/Page/36608" target="/Page/36608"><span>Public Records Request</span></a></li>   
                         </ul>
                     </div>
                 </div>
@@ -9345,16 +9428,16 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 					<p class="gb-fax" data-fax="">Fax </p>
                     <div class="gb-footer-button transition-all border-box"><a href="/Page/35467" target="_self"><span>All Contact Info</span><span class="cs-icon-font cs-icon-double-chevron"></span></a></div>
 				</div>
-				<div class="gb footer three ui-clear" data-num-of-links="4">
+				<div class="gb footer three ui-clear" data-num-of-links="6">
                     <ul class="gb-footer-links border-box cs-html-list-reset">
-                        <li class="border-box transition-all"><a href="/Domain/13934" target="_self"><span>Website Accessibility Statement</span></a></li>
-                        <li class="border-box transition-all"><a href="/Domain/13931" target="_self"><span>Non-Discrimination Statement</span></a></li>
+                        <li class="border-box transition-all"><a href="/website-accessibility-statement" target="_self"><span>Website Accessibility Statement</span></a></li>
+                        <li class="border-box transition-all"><a href="/ndras" target="_self"><span>Non-Discrimination Statement</span></a></li>
                         <li class="border-box transition-all"><a href="/Domain/13932" target="_self"><span>Website Privacy Policy</span></a></li>             
                         <li class="border-box transition-all"><a href="/Domain/13935" target="_self"><span>Website Terms of Use</span></a></li>
                   	</ul>
                     <ul class="gb-footer-links border-box cs-html-list-reset">
-                        <li class="border-box transition-all"><a href="#" target="_self"><span>Coming Soon</span></a></li>
-                        <li class="border-box transition-all"><a href="#" target="_self"><span>Coming Soon</span></a></li>    
+                        <li class="border-box transition-all"><a href="/privacynotice" target="_self"><span>Privacy Notices</span></a></li>
+                        <li class="border-box transition-all"><a href="/mandatory-legal-notice" target="_self"><span>Mandatory Legal Notices</span></a></li>    
                         <li class="border-box transition-all"><a href="#" target="_self"><span>Coming Soon</span></a></li>
                         <li class="border-box transition-all"><a href="#" target="_self"><span>Coming Soon</span></a></li>
                   	</ul>
@@ -9409,7 +9492,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <!-- END - STANDARD FOOTER -->
 <script type="text/javascript">
    $(document).ready(function(){
-      var beaconURL='https://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=Pfyui%2bq6iIzN4rN8fsW%2bpg%3d%3d&SessionID=9d0decfe-e946-4d27-83c6-90183eec1d2c&SiteID=4&ChannelID=13926&SectionID=13932&PageID=36110&HitDate=6%2f14%2f2019+4%3a07%3a32+PM&Browser=Mozilla+0.0&OS=Unknown&IPAddress=10.61.17.183';
+      var beaconURL='https://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=Pfyui%2bq6iIzN4rN8fsW%2bpg%3d%3d&SessionID=8717dd63-3381-4b69-96b7-888622007351&SiteID=4&ChannelID=13926&SectionID=13932&PageID=36110&HitDate=12%2f20%2f2019+12%3a21%3a42+AM&Browser=Mozilla+0.0&OS=Unknown&IPAddress=10.61.77.237';
       try {
          $.getJSON(beaconURL + '&jsonp=?', function(myData) {});
       } catch(err) { 
@@ -9420,7 +9503,6 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 
     <input type="hidden" id="hid-pageid" value="36110">
 
-    
     
 
     <div id="dialog-overlay-WindowMedium-base" class="ui-dialog-overlay-base"><div id="WindowMedium" role="dialog" tabindex="-1" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMedium-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMedium-body"></div><button class="ui-dialog-overlay-close" title="Close" aria-label="Close" onclick="CloseDialogOverlay(&quot;WindowMedium&quot;);"></button><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMedium-footer"></div></div></div>
@@ -10290,7 +10372,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <!-- End swuc.CheckScript -->
 
 
-    <!-- Server Load Time (01): 0.2187496 Seconds -->
+    <!-- Server Load Time (04): 0.2499754 Seconds -->
 
     
 
