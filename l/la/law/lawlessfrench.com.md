@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawlessfrench.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628050150id_/https%3A//www.lawlessfrench.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawlessfrench.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220092339id_/https%3A//www.lawlessfrench.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lawless French
 
@@ -16,8 +16,10 @@ Your email address is requested when you register for the blog or forum, subscri
 
 The information may be used in the following ways:
 
-      **•** To send the newsletter.  
-      **•** To follow up after you post on the blog or forum or make a donation.
+  * To send the newsletter.
+  * To follow up after you post on the blog or forum or make a donation.
+
+
 
 ### How is your information protected?
 
@@ -25,17 +27,19 @@ This website is scanned on a regular basis for security holes and known vulnerab
 
 Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-A variety of security measures are implemented when you enter, submit, or access your information to maintain the safety of your personal information. All transactions for donations, products, and services are processed through third-party services and are not stored or processed on the Lawless French server. 
+A variety of security measures are implemented when you enter, submit, or access your information to maintain the safety of your personal information. All transactions for products and services are processed through third-party services and are not stored or processed on the Lawless French server. 
 
 ### Does Lawless French use ‘cookies’?
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, they are also used to help understand your preferences based on previous or current site activity, which enables Lawless French to provide you with improved services. Lawless French also uses cookies to help compile aggregate data about site traffic and site interaction so that better site experiences and tools can be offered in the future.
 
- **Lawless French uses cookies to:**
+**Lawless French uses cookies to:**
 
-      **•** Keep track of advertisements.  
-      **•** Keep track of your log-in state.  
-      **•** Keep track of forum posts you have already seen.
+  * Keep track of advertisements.
+  * Keep track of your log-in state.
+  * Keep track of forum posts you have already seen.
+
+
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
@@ -55,6 +59,10 @@ Lawless French includes or offers third-party products and services on the websi
 
 Lawless French, along with third-party vendors such as Google, uses first-party cookies (such as the Google Analytics cookies) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to the website.
 
+### Rakuten
+
+Lawless French is partnered with Rakuten Marketing, who may collect personal information when you interact with the site. The collection and use of this information is subject to [Rakuten’s privacy policy](https://rakutenmarketing.com/legal-notices/services-privacy-policy/).
+
 **Opting out**
 
 You can opt out of customized ads by visiting [Network Advertising Initiative Opt Out](http://optout.networkadvertising.org/).
@@ -65,11 +73,13 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 
 In accordance with CalOPPA, Lawless French agrees to the following:
 
-      **•** Users can visit this site anonymously.  
-      **•** This privacy policy is linked on the home page.  
-      **•** The Privacy Policy link includes the word ‘Privacy’ and can easily be found on the home page.  
-      **•** You will be notified of any Privacy Policy changes on the Privacy Policy Page.  
-      **•** You can change your personal information by logging in to your account.
+  * Users can visit this site anonymously.
+  * This privacy policy is linked on the home page.
+  * The Privacy Policy link includes the word ‘Privacy’ and can easily be found on the home page.
+  * You will be notified of any Privacy Policy changes on the Privacy Policy Page.
+  * You can change your personal information by logging in to your account.
+
+
 
 ### How does the site handle Do Not Track signals?
 
@@ -83,8 +93,10 @@ Yes. [What does this mean?](http://www.knowonlineadvertising.com/targeting/behav
 
 When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-      **•** Lawless French does not specifically market to children under the age of 13 years old.  
-      **•** Lawless French does not let third parties, including ad networks or plug-ins, collect PII from children under 13.
+  * Lawless French does not specifically market to children under the age of 13 years old.
+  * Lawless French does not let third parties, including ad networks or plug-ins, collect PII from children under 13.
+
+
 
 ### Fair Information Practices
 
@@ -100,18 +112,22 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 Lawless French collects your email address in order to:
 
-      **•** Send the newsletter.  
-      **•** Respond to questions, comments, and requests.  
-      **•** Follow up after donations.
+  * Send the newsletter.
+  * Respond to questions, comments, and requests.
+  * Follow up after donations.
+
+
 
 In accordance with CANSPAM, Lawless French agrees to the following:
 
-      **•** Not use false or misleading subjects or email addresses.  
-      **•** Identify the message as an advertisement in some reasonable way.  
-      **•** Include the physical address of the business or site headquarters.  
-      **•** Monitor third-party email marketing services for compliance, if one is used.  
-      **•** Honor opt-out/unsubscribe requests quickly.  
-      **•** Allow users to unsubscribe by using the link at the bottom of each email.
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of the business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
 
 If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email and Lawless French will promptly remove you from all correspondence.
 
@@ -127,4 +143,4 @@ Miami, FL 33166  USA
 laura AT lawlessfrench DOT com
 
    
-Last Edited on 3 July 2018
+Last Edited on 19 December 2019
