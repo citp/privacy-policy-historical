@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flinders.edu.au privacy policy that was archived on 2019-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190409003820id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flinders.edu.au privacy policy that was archived on 2019-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191220045331id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -103,7 +103,11 @@
         //                so the fadeIn needs to be delayed, except in the case of the opt-out button, when the document ready event has likely already
         //                occured, so we check for that and just call the delayed function directly
         gdpr_delayed_function = function(){
-            $('#gdpr_notification_container').fadeIn();
+            $('#gdpr_notification_container').fadeIn(function() {
+                $('body').addClass("gdpr-shown");
+                $(window).scroll();
+                $('#gdpr_accept_button').focus(); //With a full screen popup we need to focus the button because the button is technically at the bottom of the document
+            });
         }
         if(PageIsLoaded)
         {
@@ -137,7 +141,6 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="initial-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi">
-
 
 
 	
@@ -192,6 +195,7 @@
 
 
 
+
     
     
     
@@ -200,8 +204,8 @@
 
 
 <!-- Build information -->
-<meta name="build-version" content="1.2.42">
-<meta name="build-date" content="Wed Mar 20 22:18:32 AEDT 2019">
+<meta name="build-version" content="1.2.75">
+<meta name="build-date" content="Thu Dec 12 16:13:31 AEDT 2019">
 
 <!-- Hide from search engines-->
 
@@ -217,7 +221,7 @@
     
 <link rel="stylesheet" href="/etc.clientlibs/foundation/clientlibs/main.min.b4994788cf1eaeed300a0aa7af53f3c8.css" type="text/css">
 <script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.min.772fb04d4ce536dfb06c17e789ad4dbd.js"></script>
-<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.min.b081e1193531590ae7894351aea4744a.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.min.308082b4c347f4fec37ffef277d39d0e.js"></script>
 <script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.d9075d4175ab7b0e3ccf4305a4089645.js"></script>
 <script type="text/javascript" src="/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js"></script>
 <script type="text/javascript" src="/etc.clientlibs/foundation/clientlibs/shared.min.d8eee0685f08a5253a1d753a2619a08f.js"></script>
@@ -228,15 +232,19 @@
 
 
 
-
 <!--begin of custom header scripts-->
 
 <!--end of custom header scripts-->
- 
+
+
+
+    <meta name="flinders-author-link" id="flinders-author-link" content="http://author.flinders.edu.au/editor.html/content/flinders/en/privacy.html">
+
 
 
     
-<link rel="stylesheet" href="/etc.clientlibs/flinders/clientlibs/clientlib-site.min.6a30b62f7ce3070430efe32c4c8d1438.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/flinders/clientlibs/author-bar-publisher.min.91968393b7ddbbef9b7bbe9602f3b3d5.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/flinders/clientlibs/clientlib-site.min.4efe9a17dd60d9238cd7939f4fa71580.css" type="text/css">
 
 
 
@@ -267,8 +275,8 @@
     
     
 
-                                
-                                
+
+
 
     <link rel="icon" sizes="192x192" href="/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/favicons/icon-192x192.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/favicons/apple-touch-icon-180x180.png">
@@ -279,15 +287,16 @@
     <meta name="msapplication-wide310x150logo" content="/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/favicons/icon-310x150.png">
     <meta name="msapplication-square150x150logo" content="/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/favicons/icon-150x150.png">
     <meta name="msapplication-square70x70logo" content="/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/favicons/icon-70x70.png">
-                                
+
 <link rel="icon" type="image/vnd.microsoft.icon" href="/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/favicon.ico">
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/favicon.ico">
+
 
 
 </head>
     <body class="content-page base-page page basicpage">
         
-        
+        <!-- always include the rest of the page -->
             
 
 
@@ -321,7 +330,43 @@
 
 
 
+    
+    
+    <!-- Start for links to staff, student, library for flinders home page-->
+    
+
+<div class="header_site collapse navbar-toggleable-md navbar-collapse home_header_line">
+    <div class="container">
+        <div class="row head_inner_horisontal">
+            <div class="col-lg-12 col-sm-12 col-xs-12">
+                <div class="pull-right">
+                    
+                    <ul class="header_sitelink_section ">
+                        <li>
+                            <a class="header_sitelink" href="https://staff.flinders.edu.au"><span>Staff</span></a>
+                        </li>
+                    </ul>
+                    <ul class="header_sitelink_section ">
+                        <li>
+                            <a class="header_sitelink" href="https://students.flinders.edu.au"><span>Students</span></a>
+                        </li>
+                    </ul>
+                    <ul class="header_sitelink_section ">
+                        <li>
+                            <a class="header_sitelink" href="https://libraryflin.flinders.edu.au"><span>Library</span></a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- End -->
     <div class="global_header">
+        <!-- Start for links to staff, student, library for student, staff, library home page-->
+        
+        <!-- End -->
         <div class="logo_line">
             <div class="container">
                 <div class="row head_inner_horisontal">
@@ -378,7 +423,7 @@
                 </li>
             
                 <li>
-                    <a href="/study/government-international-relations">Government and international relations</a>
+                    <a href="/study/environment">Environment</a>
                 </li>
             
                 <li>
@@ -395,6 +440,10 @@
             
                 <li>
                     <a href="/study/innovation-enterprise">Innovation and enterprise</a>
+                </li>
+            
+                <li>
+                    <a href="/study/international-relations-political-science">International relations and political science</a>
                 </li>
             
                 <li>
@@ -454,6 +503,8 @@
             
                 <li><a href="/study-online">a future online student</a></li>
             
+                <li><a href="/study/indigenous-students">a future Indigenous student</a></li>
+            
                 <li><a class="change_to_international" href="/international">an international student</a></li>
             
                 <li><a href="/study/parents">a parent</a></li>
@@ -493,11 +544,7 @@
                 </li>
             
                 <li>
-                    <a href="/international/creative-arts-media">Creative arts and media</a>
-                </li>
-            
-                <li>
-                    <a href="/international/criminology">Criminology</a>
+                    <a href="/international/creative-arts">Creative arts</a>
                 </li>
             
                 <li>
@@ -509,27 +556,23 @@
                 </li>
             
                 <li>
-                    <a href="/international/government-international-relations">Government and international relations</a>
+                    <a href="/international/environment">Environment</a>
                 </li>
             
                 <li>
-                    <a href="/international/health">Health</a>
+                    <a href="/international/government">Government</a>
                 </li>
             
                 <li>
-                    <a href="/international/humanities-social-sciences">Humanities and social sciences</a>
+                    <a href="/international/health-sciences">Health sciences</a>
+                </li>
+            
+                <li>
+                    <a href="/international/humanities">Humanities</a>
                 </li>
             
                 <li>
                     <a href="/international/information-technology">Information technology</a>
-                </li>
-            
-                <li>
-                    <a href="/international/innovation-enterprise">Innovation and enterprise</a>
-                </li>
-            
-                <li>
-                    <a href="/international/languages-culture">Languages and culture</a>
                 </li>
             
                 <li>
@@ -541,7 +584,7 @@
                 </li>
             
                 <li>
-                    <a href="/international/nursing-midwifery">Nursing and midwifery</a>
+                    <a href="/international/nursing">Nursing</a>
                 </li>
             
                 <li>
@@ -549,7 +592,15 @@
                 </li>
             
                 <li>
-                    <a href="/international/science-environment">Science and environment</a>
+                    <a href="/international/public-health">Public health</a>
+                </li>
+            
+                <li>
+                    <a href="/international/science">Science</a>
+                </li>
+            
+                <li>
+                    <a href="/international/social-sciences">Social sciences</a>
                 </li>
             
                 <li>
@@ -563,7 +614,7 @@
                 
             </p>
             <ul class="dropdown_menu__list dropdown-menu">
-                <li><a href="http://china.flinders.edu.au" target="_blank">China</a></li>
+                <li><a href="http://china.flinders.edu.au/" target="_blank">China</a></li>
             
                 <li><a href="/vietnam" target="_blank">Vietnam</a></li>
             </ul>
@@ -620,11 +671,13 @@
         </div>
         
         <div class="col-lg-3 dropmenu_section dropmenu_section ">
-            <p class="head_list_heading invisible">
-                
+            <p class="head_list_heading ">
+                <a href="#" data-toggle="dropdown" role="button" aria-expanded="false">Brave Minds</a>
                 
             </p>
-            
+            <ul class="dropdown_menu__list dropdown-menu">
+                <li><a href="/braveminds">Making a difference</a></li>
+            </ul>
         </div>
         <div class="col-lg-3 dropmenu_section dropmenu_section gray_light_container-d1">
             <p class="head_list_heading ">
@@ -634,11 +687,11 @@
             <ul class="dropdown_menu__list dropdown-menu">
                 <li><a href="/research/collaborate">a potential collaborator</a></li>
             
-                <li><a href="https://www.flinders.edu.au/research/researcher-support/">a researcher</a></li>
+                <li><a href="http://www.flinders.edu.au/research/researcher-support/">a researcher</a></li>
             
                 <li><a href="/study/apply/apply-research-degree">a potential research student</a></li>
             
-                <li><a href="https://www.flinders.edu.au/graduate-research">a current research student</a></li>
+                <li><a href="https://students.flinders.edu.au/my-course/hdr">a current research student</a></li>
             </ul>
         </div>
         <div class="col-lg-12 dropdown_buttons_line ">
@@ -669,7 +722,7 @@
             </p>
             <ul class="dropdown_menu__list dropdown-menu">
                 <li>
-                    <a href="/engage/engage-with-us">Engage with the University</a>
+                    <a href="/engage/engage-with-us">Engage with us</a>
                 </li>
             
                 <li>
@@ -678,10 +731,6 @@
             
                 <li>
                     <a href="/engage/community">Locate a clinic</a>
-                </li>
-            
-                <li>
-                    <a href="/engage/community/short-courses">Find a short course</a>
                 </li>
             
                 <li>
@@ -705,7 +754,7 @@
                 </li>
             
                 <li>
-                    <a href="https://events.flinders.edu.au">See what's on</a>
+                    <a href="/engage/culture/whats-on">See what's on</a>
                 </li>
             </ul>
         </div>
@@ -729,7 +778,7 @@
             
                 <li><a href="http://www.flindersvision.com.au/" target="_blank">Flinders Vision</a></li>
             
-                <li><a href="http://artmuseum.flinders.edu.au" target="_blank">Flinders University Art Museum</a></li>
+                <li><a href="/museum-of-art" target="_blank">Flinders University Museum of Art</a></li>
             
                 <li><a href="http://www.onesportandfitness.com.au/" target="_blank">Flinders One Sport and Fitness</a></li>
             </ul>
@@ -750,7 +799,7 @@
                                                 
 
 <a id="menu-option4" href="/alumni" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="nav_top_link 2 false  " style="display:">
-    Alumni
+    Alumni 
     
 </a>
 <div class="dropdown-menu" aria-labelledby="menu-option4">
@@ -779,10 +828,6 @@
             
                 <li>
                     <a href="https://www.flinders.edu.au/enrolling/student-records/transcript-of-academic-record.cfm">Order a transcript</a>
-                </li>
-            
-                <li>
-                    <a href="/engage/employment/mentor-students">Become a mentor</a>
                 </li>
             
                 <li>
@@ -816,11 +861,80 @@
                                             <li class="nav-item dropdown">
                                                 
 
-<a id="menu-option5" href="/about" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="nav_top_link 2 false  " style="display:">
-    About
+<a id="menu-option5" href="/giving" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="nav_top_link 2 false  " style="display:">
+    Giving
     
 </a>
 <div class="dropdown-menu" aria-labelledby="menu-option5">
+    <div class="dropmenu_section_wrapper">
+        <div class="col-lg-3 dropmenu_section ">
+            <p class="head_list_heading ">
+                <a href="#" data-toggle="dropdown" role="button" aria-expanded="false">Donate today</a>
+                
+            </p>
+            <ul class="dropdown_menu__list dropdown-menu">
+                <li>
+                    <a href="https://pay.flinders.edu.au/Alumni/tran?tran-type=DON001">Donate online</a>
+                </li>
+            
+                <li>
+                    <a href="https://www.flinders.edu.au/content/dam/documents/giving/giving-form.pdf">Donate by mail</a>
+                </li>
+            
+                <li>
+                    <a href="https://www.flinders.edu.au/content/dam/documents/giving/online-giving-faq.pdf">Giving online FAQs (PDF)</a>
+                </li>
+            
+                <li>
+                    <a href="/giving/contact-us">Contact us</a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-6 dropmenu_section ">
+            <p class="head_list_heading ">
+                <a href="#" data-toggle="dropdown" role="button" aria-expanded="false">Ways to give</a>
+                
+            </p>
+            <ul class="dropdown_menu__list dropdown-menu">
+                <li><a href="/giving/ways-to-give/pay-tribute">Give in celebration or in memory</a></li>
+            
+                <li><a href="/giving/ways-to-give/bequests">Leave a gift in your Will</a></li>
+            
+                <li><a href="/giving/ways-to-give/overseas-giving">Giving from overseas</a></li>
+            
+                <li><a href="/giving/ways-to-give/cultural-gift">Give a cultural gift</a></li>
+            
+                <li><a href="/giving/ways-to-give/get-involved">Get involved</a></li>
+            </ul>
+        </div>
+        <div class="col-lg-3 dropmenu_section dropmenu_section ">
+            <p class="head_list_heading invisible">
+                
+                
+            </p>
+            
+        </div>
+        
+        <div class="col-lg-12 dropdown_buttons_line ">
+            <div class="row">
+                <div class="col-lg-3"><a href="/giving/give-to" class="black_transparent_button col-lg-12">Donate to</a></div>
+                <div class="col-lg-3"><a href="/giving/why-give" class="black_transparent_button col-lg-12">Why give</a></div>
+                <div class="col-lg-3"><a href="/giving/our-donors" class="black_transparent_button col-lg-12">Our donors</a></div>
+                <div class="col-lg-3"></div>
+            </div>
+        </div>
+    </div>
+</div>
+                                            </li>
+                                        
+                                            <li class="nav-item dropdown">
+                                                
+
+<a id="menu-option6" href="/about" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="nav_top_link 2 false  " style="display:">
+    About
+    
+</a>
+<div class="dropdown-menu" aria-labelledby="menu-option6">
     <div class="dropmenu_section_wrapper">
         <div class="col-lg-3 dropmenu_section ">
             <p class="head_list_heading ">
@@ -838,6 +952,10 @@
             
                 <li>
                     <a href="/about/strategy/values-ethos">Our values and ethos</a>
+                </li>
+            
+                <li>
+                    <a href="/flinders-village">Flinders Village</a>
                 </li>
             </ul>
         </div>
@@ -896,6 +1014,45 @@
 </div>
                                             </li>
                                         </ul>
+                                        <!-- Start for site links-->
+                                        
+                                        <ul class="ulSiteLink nav navbar-nav top_main_navigation js-menu-aim">
+                                            <li class="nav-item dropdown ">
+                                                <a class="nav_top_link" href="http://staff.flinders.edu.au">Staff</a>
+                                                
+	
+		<svg xmlns="http://www.w3.org/2000/svg" class="tick " height="20px" viewBox="0 0 24 24" width="20px">
+  	<path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path>
+</svg>
+	
+
+                                            </li>
+                                        </ul>
+                                        <ul class="ulSiteLink nav navbar-nav top_main_navigation js-menu-aim">
+                                            <li class="nav-item dropdown ">
+                                                <a class="nav_top_link" href="http://students.flinders.edu.au">Students</a>
+                                                
+	
+		<svg xmlns="http://www.w3.org/2000/svg" class="tick " height="20px" viewBox="0 0 24 24" width="20px">
+  	<path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path>
+</svg>
+	
+
+                                            </li>
+                                        </ul>
+                                        <ul class="ulSiteLink nav navbar-nav top_main_navigation js-menu-aim">
+                                            <li class="nav-item dropdown ">
+                                                <a class="nav_top_link" href="http://libraryflin.flinders.edu.au">Library</a>
+                                                
+	
+		<svg xmlns="http://www.w3.org/2000/svg" class="tick " height="20px" viewBox="0 0 24 24" width="20px">
+  	<path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path>
+</svg>
+	
+
+                                            </li>
+                                        </ul>
+                                        <!-- End for site links-->
 
                                         <!-- menu items for dom/Int toggle -->
                                         
@@ -976,7 +1133,6 @@
 
     
     
-<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/handlebars.min.5c3285ee5078da3ca05f8e12b877a647.js"></script>
 <script type="text/javascript" src="/etc.clientlibs/flinders/clientlibs/course-bookmark-template.min.a9e43f3f4f06de7e3cdff1611832d2ee.js"></script>
 
 
@@ -1023,9 +1179,9 @@
 					
 						<li><a href="https://students.flinders.edu.au/">Current students</a></li>
 					
-						<li><a href="https://staff.flinders.edu.au">Staff</a></li>
+						<li><a href="https://staff.flinders.edu.au/">Staff</a></li>
 					
-						<li><a href="https://www.flinders.edu.au/library/">Library</a></li>
+						<li><a href="https://libraryflin.flinders.edu.au/">Library</a></li>
 					
 						<li><a href="https://okta.flinders.edu.au/">Flinders dashboard (Okta)</a></li>
 					
@@ -1035,13 +1191,11 @@
 					
 						<li><a href="/campus/bedford-park/parking">Parking</a></li>
 					
-						<li><a href="https://www.flinders.edu.au/content/dam/documents/campus/maps/campus-map.pdf" target="_blank">Campus map: Bedford Park</a></li>
+						<li><a href="https://www.flinders.edu.au/content/dam/documents/campus/maps/campus-map.pdf">Campus map: Bedford Park</a></li>
 					
-						<li><a href="https://www.flinders.edu.au/directory/">Staff directory</a></li>
+						<li><a href="http://www.flinders.edu.au/directory/">Staff directory</a></li>
 					
 						<li><a href="/employment">Jobs at Flinders</a></li>
-					
-						<li><a href="https://staff.flinders.edu.au/colleges-and-services">College support guide</a></li>
 					
 				</ul>
 			</div>
@@ -1167,9 +1321,9 @@
         white_container
         white_container_featured
         section_component_updated
-        padding_top_50 padding_bottom_50 padding_left_none padding_right_none 
+        padding_top_50 padding_bottom_50 padding_left_none padding_right_none
         transparency_none
-        viewport_auto 
+        viewport_auto
         
         
         col_2_section" style="display:;">
@@ -1179,7 +1333,7 @@
             <div class="row   ">
                 
                     <div class="col-lg-9">
-                        <div>
+                        <div class="component_in_section_wrapper">
 
 
 
@@ -1200,10 +1354,10 @@
 <li>the address of the pages accessed and documents downloaded.<br>
 </li>
 </ul>
-<p>This information is collected, used and disclosed,&nbsp;including for future marketing purposes, in accordance with our <a href="/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf" title="Privacy Policy">Privacy Policy</a>.<br>
+<p>This information is collected, used and disclosed,&nbsp;including for future marketing purposes, in accordance with our <a href="https://www.flinders.edu.au/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf" title="Privacy Policy">Privacy Policy</a>.<br>
 </p>
 <h2>Email addresses</h2>
-<p>Our online forms may require you to provide contact details, your email address and other personal information. This personal information may be collected, used and disclosed by the University for the purposes of processing &nbsp;and responding &nbsp;to your requests, conducting the business of the University, and direct marketing the University’s services to you, in accordance with the <a href="/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf" target="_blank" title="Privacy Policy">University's Privacy Policy</a>.</p>
+<p>Our online forms may require you to provide contact details, your email address and other personal information. This personal information may be collected, used and disclosed by the University for the purposes of processing &nbsp;and responding &nbsp;to your requests, conducting the business of the University, and direct marketing the University’s services to you, in accordance with the <a href="https://www.flinders.edu.au/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf" target="_blank" title="Privacy Policy">University's Privacy Policy</a>.</p>
 <h2>Subscriptions</h2>
 <p>Some pages of this internet site provide the facility for users to subscribe to email mailing lists. To subscribe to these services users must provide a valid email address.</p>
 <p>These email addresses will only be used for the purpose for which you have provided it and you will not be added to any other mailing lists unless you specifically request that this be done.</p>
@@ -1235,7 +1389,7 @@
                     </div>
                 
                     <div class="col-lg-3">
-                        <div>
+                        <div class="component_in_section_wrapper">
 
 
 
@@ -1243,7 +1397,7 @@
     
     <div class="rte text parbase">
 <h3>Privacy Policy</h3>
-<p>For information about the ways in which the University may collect, store, use, manage and protect an individual’s personal information please refer to our <a href="/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf" title="Privacy Policy">Privacy Policy</a>.</p>
+<p>For information about the ways in which the University may collect, store, use, manage and protect an individual’s personal information please refer to our <a href="https://www.flinders.edu.au/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf" title="Privacy Policy">Privacy Policy</a>.</p>
 
 </div>
 
@@ -1270,7 +1424,7 @@
 
     
     
-    <div class="footer_main">
+    <div class="footer"><div class="footer_main" data-sj-ignore="">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-4 col-lg-4  footer_contacts">
@@ -1347,11 +1501,12 @@ Global | Online</p>
 	</div>
 </div>
 
+</div>
 
 
     
     
-    <div class="footer_copyright">
+    <div class="sub-footer"><div class="footer_copyright" data-sj-ignore="">
 	<div class="container">
 		<div>
 
@@ -1401,8 +1556,8 @@ Global | Online</p>
 </p>
 
 </div>
-                    <div class="footer-last-updated">  
-                            Last Updated: 23 Jan 2019  
+                    <div class="footer-last-updated">
+                            Last Updated: 23 Jan 2019
                     </div>
 				</div>
 			</div>
@@ -1412,30 +1567,40 @@ Global | Online</p>
 		</div>
 	</div>
 </div>
+</div>
+
 
 
 
 </div>
 <div><!-- Start of gdpr component -->
-<div id="gdpr_notification_container" style="display: none;">
-	<div class="row">
-		<div class="col-lg-9">
-			<div class="gdpr_desc">
-				<span>Flinders University uses cookies to optimise website functionality and for a variety of other purposes described in our <a href="https://www.flinders.edu.au/privacy">Website Privacy Statement</a>. Click here to accept our use of cookies.</span>
-			</div>
-		</div>
-		<div class="col-lg-3">
-			<div class="cta-button gdpr-cta" style="text-align: left;">
-				<div class="cta_text_alignment_left">
-					<a id="gdpr_accept_button" href="#" title="" class="classic_yellow_button_transform btn__icons ">
-						Accept and continue
-						<span><i class="fa fa-chevron-right"></i></span>
-					</a>
+
+	<div id="gdpr_notification_container" style="display: none;">
+		<div class="gdpr-notification" data-sj-ignore="">
+			<div class="gdpr-notification__container">
+				<div class="gdpr-notification__content">
+					<h3 class="gdpr-notification__title">This website uses cookies</h3>
+					<p class="gdpr-notification__description">
+						<span>Flinders University uses cookies to ensure website functionality, personalisation, and for a variety of purposes described in the website privacy statement. For details about these cookies and how to set your cookie preferences, refer to our website <a href="https://www.flinders.edu.au/privacy">privacy statement</a>.</span>
+					</p>
+					<p class="gdpr-notification__description">
+						<span>You consent to the use of our cookies if you proceed.</span>
+					</p>
+					<div class="gdpr-notification__cta cta-button" style="text-align: left;">
+						<div class="cta_text_alignment_left">
+							<a id="gdpr_accept_button" href="#" title="Accept and continue" class="classic_yellow_button_transform btn__icons ">
+								Accept and continue
+								<span><i class="fa fa-chevron-right"></i></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
+
+			<div class="gdpr-notification__divider"></div>
 		</div>
 	</div>
-</div>
+
 <!-- End of gdpr component --></div>
 <div class="cloudservice sitecatalyst"><script type="text/javascript" src="/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/sitecatalyst.min.e8336d0b66ca20176e6eb7b353c4378a.js"></script>
 <link rel="stylesheet" href="/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/tracking.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
@@ -1486,7 +1651,7 @@ CQ_Analytics.DataProvider.onReady(function() {
     CQ_Analytics.Sitecatalyst.doPageTrack();
 });
 </script>
-<noscript><img src="http://flindersuniversity.sc.omtrdc.net/b/ss/flindersaem.esntls/1/H.27.5--NS/1554770301815?cdp=3&amp;gn=content%3Aflinders%3Aen%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://flindersuniversity.sc.omtrdc.net/b/ss/flindersaem.esntls/1/H.27.5--NS/1576817611907?cdp=3&amp;gn=content%3Aflinders%3Aen%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
 </div>
 <div class="cloudservice testandtarget"><script type="text/javascript">
     CQ_Analytics.TestTarget.maxProfileParams = 11;
@@ -1510,17 +1675,37 @@ CQ_Analytics.DataProvider.onReady(function() {
 <!--  begin of custom footer scripts-->
 
 
- 
+
     
-<script type="text/javascript" src="/etc.clientlibs/flinders/clientlibs/clientlib-site.min.a48cb068cd8b09131b085f34d8bd64b2.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/handlebars.min.5c3285ee5078da3ca05f8e12b877a647.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/flinders/clientlibs/author-bar-publisher.min.ca0a36ff73a7d7a090b86cfd224e1584.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/flinders/clientlibs/clientlib-site.min.b39c547522f1f6df9c2af1e1d78072be.js"></script>
 
 
 
 <!--  end of custom footer scripts-->
 
+
+    
+<script type="text/javascript" src="/etc.clientlibs/asset-share-commons/clientlibs/clientlib-base.min.046e463b6ab937faa248e738d8d35420.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/asset-share-commons/clientlibs/clientlib-contexthub/cart.min.64c42735859b609fb13e3089fb4aaf9f.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/asset-share-commons/clientlibs/clientlib-theme/semanticui-light.min.1e97c4bb7dfd8c179d25dcecaacaca24.js"></script>
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/asset-share-commons/clientlibs/vendor/moment.min.a964414fda4ac1ab296ed8ac28e8543c.js"></script>
+
+
+
+
+
+<!--  end of custom footer scripts for asset share-->
+
             <!--<sly data-sly-call=""></sly>-->
             
 
-        
     
 </body></html>
