@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607110434id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220022352id_/https%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Scholastic Inc.
 
@@ -228,7 +228,7 @@ Email: custserv@scholastic.com
 Phone: 1-800-SCHOLASTIC  
 
 
-This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/web/20190607110434id_/http%3A//www.scholastic.com/privacy-v2017-01-09-live-page.htm).
+This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/web/20191220022352id_/https%3A//www.scholastic.com/privacy-v2017-01-09-live-page.htm).
 
 **Effective Date:** May 25, 2018
 
