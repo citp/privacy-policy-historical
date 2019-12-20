@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janestreet.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510030042id_/https%3A//www.janestreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janestreet.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220201943id_/https%3A//janestreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Jane Street Ad and Cookie Policy :: Jane Street
 
@@ -8,7 +8,7 @@ Effective Date: March 21, 2017; Last Updated: May 18, 2018
 
 #### This Privacy Policy applies to the sites where it appears.
 
-This Policy describes how Jane Street treats the personal information we collect from visitors to the websites where this policy appears. This policy does not apply to your offline relationship with us. If you have offline dealings with us in Europe, for example as a client of Jane Street Financial Limited, please [click here](https://web.archive.org/static/disclosures-policies/JSF.Disclosures.pdf#page=17) to view the applicable privacy policy.
+This Policy describes how Jane Street treats the personal information we collect from visitors to the websites where this policy appears. This policy does not apply to your offline relationship with us. If you have offline dealings with us in Europe, for example as a client of Jane Street Financial Limited, please [click here](https://web.archive.org/static/disclosures-policies/JSF.Disclosures.pdf#page=16) to view the applicable privacy policy.
 
 By interacting with us, you consent to our privacy practices.
 
@@ -76,7 +76,7 @@ We keep personal information as long as it is needed or relevant for our busines
 
 #### We collect and store information both in and outside of the United States.
 
-Information that we collect from you may be transferred to and stored within the United States, the United Kingdom, and Hong Kong. If you live outside of these jurisdictions you understand and agree that we may transfer your information to the United States or Hong Kong. This site is subject to US laws, which may not afford the same level of protection of those in your country.
+Information that we collect from you may be transferred to and stored within the United States, the United Kingdom, the Netherlands and Hong Kong. If you live outside of these jurisdictions you understand and agree that we may transfer your information to the United States or Hong Kong. This site is subject to US laws, which may not afford the same level of protection of those in your country.
 
 #### We may link to third-party sites or services we don’t control.
 
