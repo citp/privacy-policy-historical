@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yesprep.org privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309112826id_/https%3A//www.yesprep.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesprep.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220191021id_/https%3A//www.yesprep.org/privacy-policy) for the most accurate reproduction.*
 
-# YES Prep Internet Privacy Policy | YES Prep Public Schools
+# Privacy Policy - YES Prep Public Schools
 
-Effective March 21, 2011
+_Effective March 21, 2011_
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -31,11 +31,11 @@ We use the information you provide about yourself on our website to communicate 
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. To further protect your personal information, we do not store any bank account information and we only have access to the last four digits of your credit card number once it processes through our Transfirst online payment system.
 
-**Our Commitment To Children's Privacy**  
+**Our Commitment To Children's Privacy  **  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **How You Can Access Or Correct Your Information**  
 You can access all your personally identifiable information that we collect online and maintain by contacting our office at 713-967-9000 to request it. We use this procedure to better safeguard your information. ​You can correct factual errors in your personally identifiable information by notifying is in writing or over the phone. If you make changes over the phone, to protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at 713-967- 9000 or send us an email at [receptionist@yesprep.org](mailto:receptionist@yesprep.org).
+**How To Contact Us  **  
+Should you have other questions or concerns about these privacy policies, please call us at 713-967- 9000 or send us an email at [receptionist@yesprep.org](mailto:receptionist@yesprep.org).
