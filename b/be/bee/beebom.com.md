@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beebom.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611171817id_/https%3A//beebom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beebom.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220053242id_/https%3A//beebom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer | Beebom
 
