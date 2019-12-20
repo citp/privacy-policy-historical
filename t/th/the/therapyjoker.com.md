@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the therapyjoker.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202144755id_/http%3A//www.therapyjoker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therapyjoker.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220062908id_/http%3A//therapyjoker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Therapy Joker
 
-Last updated: May,2018
+Last updated: March, 2019
 
-TherapyJoker LTD (“us”, “we”, or “our”) operates the [http://www.TherapyJoker.com](http://www.omgstudios.com/) website (the “Service”).  
+TherapyJoker LTD (“us”, “we”, or “our”) operates the http://www.TherapyJoker.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).TherapyJoker.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.TherapyJoker.com
 
 **Information Collection And Use**
 
@@ -35,7 +35,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 **DoubleClick Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
