@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wetheunicorns.com privacy policy that was archived on 2019-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190515062644id_/https%3A//www.wetheunicorns.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetheunicorns.com privacy policy that was archived on 2019-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191220211631id_/https%3A//www.wetheunicorns.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -61,7 +61,7 @@
 
 
 	
-		<link rel="stylesheet" href="https://static.wetheunicorns.com/assets_v4r/dist/combined/css/page_30ec51.min.css">
+		<link rel="stylesheet" href="https://static.wetheunicorns.com/assets_v4r/dist/combined/css/page_b919d0.min.css">
 	
 
 
@@ -70,11 +70,14 @@
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N7KJ77"></script><script>
             var gusto = window.gusto || {};
             gusto.MAIN_CONTENT_TYPE = "article";
+            gusto.ROOT_URL = "https://www.wetheunicorns.com";
             gusto.SITE_NAME = "We the Unicorns";
             gusto.STATIC_URL = "https://static.wetheunicorns.com/assets_v4r/";
             gusto.STATIC_BRAND_URL = "https://static.wetheunicorns.com/assets_v4r/wtu/";
-            gusto.TIMESTAMP = "1557398459.96";
-            gusto.PLAYER_INFO = {"localise_url": "/localise/", "is_localised": false, "player_url": "http://ukrp.musicradio.com/wetheunicorns/london/live", "localisation_light_enabled": false, "localisations_enabled": false, "player_url_template": "http://ukrp.musicradio.com/wetheunicorns/<%= slug %>/live"};
+            gusto.CATEGORY_PATH = "/";
+            gusto.PROJECT_NAME = "wtu";
+            gusto.TIMESTAMP = "1576749394.65";
+            gusto.PLAYER_INFO = {"localise_url": "/localise/", "global_player_enabled": null, "localisation_light_enabled": false, "is_localised": false, "player_url_ukrp": null, "localisations_enabled": false, "player_url_template": "http://ukrp.musicradio.com/wetheunicorns/<%= slug %>/live", "player_url": "http://ukrp.musicradio.com/wetheunicorns/london/live"};
             gusto.DEBUG = false;
             gusto.SETTINGS = {
                 'COOKIE_STATION_MAX_AGE_SECONDS': 63072000
@@ -116,6 +119,7 @@
                     else return (win >= ref[0] && win <= ref[1]);
                 }
             };
+
             gusto.ABSOLUTE_URL = "/privacy-policy/";
             gusto.station_twitter = 'wetheunicorns';
             gusto.FACEBOOK_APP_ID = '436486016710230';
@@ -132,7 +136,8 @@
             gusto.artemis.initial.data = {"page_view_event": {}};
             gusto.lazy_ads = [];
             gusto.ooyala = {
-                player_ad_tag: "https://adserver.adtech.de/?advideo/3.0/646.1/0/0//alias=We The Unicorns_ROS_Pre-Roll;cc=2;vidAS=pre_roll;cors=yes;VidRT=VAST;VidRTV=2.0",
+                player_ad_tag: "https://adserver.adtech.de/?advideo/3.0/646.1/0/0//alias=We The Unicorns_ROS_Pre-Roll;cc=2;vidAS=pre_roll;cors=yes;VidRT=VAST;VidRTV=2.0", // #TODO: Delete after google ad server is released
+                player_google_ad_tag: "https://pubads.g.doubleclick.net/gampad/ads?iu=/21824617191/",
                 requireIsReady: false,
                 ooyalaIsReady: false,
                 initOoyalaVideos: function(){},
@@ -146,78 +151,278 @@
             };
         </script>
 
-        <script type="text/javascript">
-//    get the urlencoded string to pass in the streaming request
-//    first build_streaming_params is a fallback in case the second one contains a syntax error
-gusto.build_streaming_params = function() {
-    return '';
-};
-//    this comes from app settings for ukrp
-gusto.streaming_params_cookie_name = 'ukrp_streamparams';
-//    wrapper for setting the cookie up until near the end of 32bit timestamp
-gusto.set_streaming_params_cookie = function(encoded_querystring) {
-    document.cookie = gusto.streaming_params_cookie_name + '=' + encoded_querystring + '; expires=Thu, 31 Dec 2037 23:59:59 GMT; path=/';
-};
-</script>
-<script type="text/javascript">
-gusto.build_streaming_params = function() {
-    function param_error(message) {
-        if (console) {
-            console.log('Streaming param error:', message);
-        }
-    }
+        <!-- PROMISE POLYFILL -->
+        <script src="https://static.wetheunicorns.com/assets_v4r/dist/gusto/js/app/lib/promise-polyfill.js"></script>
 
-    // internal function to process bits of the template and stiches the final value
-    // eg stitch('|', 'a', 'b:', [1,2,3] ,';c:', 123) => "ab:|1|2|3|;c:123"
-    function stitch() {
-        var separator = Array.prototype.shift.apply(arguments) + "";
-        var final_value = '';
-        for (var i=0; i<arguments.length; i++) {
-            var string_type = Object.prototype.toString.call(arguments[i]);
-            switch (string_type) {
-                case '[object Array]':
-                    if (separator.length > 0) {
-                        final_value = final_value + separator + arguments[i].join(separator) + separator;
-                        break;
-                    }
-                case '[object Object]':
-                case '[object Undefined]':
-                    param_error(arguments[i]);
-                    break;
-                default:
-                    final_value = final_value + arguments[i];
+        <!-- Global DAC -->
+        
+            
+<script>
+    var GLOBALADVERTISING = (function(){
+        // Helper functions
+        var get_url_vars = function() {
+            var vars = {};
+            // The regex below is a massively simplfied version of the one found here:
+            // https://regex101.com/library/oZ8cA0
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,
+            function(m,key,value) {
+                vars[key] = value;
+            });
+            return vars;
+        };
+        var get_breakpoint = function() {
+            var render_mode = window.gusto.render_mode;
+
+            try {
+                if (render_mode === "ukrp" && window.opener && window.opener.gusto) {
+                    render_mode = window.opener.gusto.render_mode
+                }
+            }
+            catch (e) {}
+
+            if (render_mode === "v4" && window.gusto.breakpoints) {
+                return window.gusto.breakpoints.check('medium-down') ? 'mobweb' : 'desktop'; // v4r
+            }
+            return 'desktop'; // unknown
+        };
+        var get_section_array = function(absolute_url) {
+            var url_parts = absolute_url.split("/");
+            return url_parts.filter(function(part){ return part != "" });
+        };
+        var get_user = function() {
+            if (gusto && gusto.udb_user && gusto.udb_user.grid) {
+                return gusto.udb_user.grid;
+            }
+            return null;
+        };
+        var createCookie = function (name, value, days) {
+            var expires;
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                expires = "; expires=" + date.toGMTString();
+            } else {
+                expires = "";
+            }
+            document.cookie = name + "=" + value + expires + "; path=/";
+        };
+        var readCookie = function (name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) === ' ') {
+                    c = c.substring(1, c.length);
+                }
+                if (c.indexOf(nameEQ) === 0) {
+                    return c.substring(nameEQ.length, c.length);
+                }
+            }
+            return null;
+        };
+
+        // Attempt to read adtest param
+        var adtest = "";
+        try {
+            var url_vars = get_url_vars()["adtest"];
+            if (typeof url_vars != 'undefined') {
+                adtest = url_vars;
             }
         }
-        return final_value;
-    }
+        catch(err) {}
 
-    var params = [];
-    
-        try {
-            params.push('awsparams=' + stitch('', "kxsegs:" , Krux.segments , ";"));
-        } catch(e) {
-            param_error('awsparams');
+        // Read and add callback for populating Nielsen segments
+        //TODO: Delete after Sourcepoint is released
+        if(window.gusto.nielsen) {
+            var nmc_segments = window.gusto.nielsen.segments;
+            window.gusto.nielsen.callbacks.push(function(){
+                window.GLOBALADVERTISING.nmc = window.gusto.nielsen.segments;
+            });
         }
-        
-    
-        try {
-            params.push('kuid=' + stitch('', Krux('get', 'user')));
-        } catch(e) {
-            param_error('kuid');
+
+        // Set page count from cookie
+        var pageCount = 1;
+        var pageCountCookie = readCookie('pagecount');
+        if (pageCountCookie) {
+            pageCount = parseInt(pageCountCookie, 10) + 1;
         }
-        
-    
-        try {
-            params.push('aw_0_req.gdpr=' + stitch('', true));
-        } catch(e) {
-            param_error('aw_0_req.gdpr');
+        createCookie('pagecount', pageCount);
+
+        // Return the advertisting object
+        var section_array = get_section_array(gusto.CATEGORY_PATH);
+
+        // Ad Push method
+        var pushAd = function(ad_unit, ad_mapping, dynamic) {
+            var ad_id = 'ad-' + ad_unit;
+            if(ad_mapping.sizes) {
+                // In page slot (Standard)
+                googletag.cmd.push(function() {
+                    var dynamic_slot = googletag
+                        .defineSlot(window.GLOBALADVERTISING.path, ad_mapping.sizes, ad_id)
+                        .addService(googletag.pubads()).setTargeting("pos", ad_mapping.position);
+                    googletag.display(ad_id);
+                    if(dynamic) {
+                        googletag.pubads().refresh([dynamic_slot]);
+                    }
+                });
+            }
+            else {
+                // Out of page slot
+                googletag.cmd.push(function() {
+                    googletag
+                        .defineOutOfPageSlot(window.GLOBALADVERTISING.path, ad_id)
+                        .addService(googletag.pubads());
+                    googletag.display(ad_id); 
+                });
+            }
+        };
+
+        var ad_config = {
+            'local': null,
+            'at': get_breakpoint(),
+            'gigyaid': null, // Intentionally null, don't use this
+            'loginstate': get_user() ? "true" : "false", // Not always correct but it's updated ASAP
+            'section': section_array.join("/"),
+            'level': section_array.length,
+            'pageid': window.gusto.page_id,
+            'pagecount': pageCount,
+            'contenttype': "article",
+            'adtest': adtest,
+            'sensitive': "true",
+            'nmc': nmc_segments,
+            'gdpr': 1,
+            'gdpr_pd': 1,
+            'gdpr_consent': "",
+            'enable_ads_dac': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_dac : 'true',
+            'enable_ads_related': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_related : 'true',
+            'enable_ads_ukrp': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_ukrp : 'true',
+            'enable_ads_ooyala': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_ooyala : 'true',
+            'enable_ads_related_videos': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_related_videos : 'true',
+            'mappings': {
+                'banner': {
+                    'sizes': [[728, 90], [970, 250]],
+                    'position': 'top'
+                },
+                'mpu': {
+                    'sizes': [300, 250],
+                    'position': 'mpu1'
+                },
+                'mpu-desktop': {
+                    'sizes': [[300, 250], [300, 600]],
+                    'position': 'mpu1'
+                },
+                'instream': {
+                    'sizes': [1, 2],
+                    'position': 'top'
+                },
+                'overlay': {
+                    'sizes': null,
+                    'position': null,
+                }
+            },
+            'push': pushAd
+        };
+
+        // Build stream ad mappings
+        for (var i=0; i<4 ; i++) {
+            ad_config.mappings['mpu-' + (i+1)] = {
+                'sizes': [300, 250],
+                'position': 'mpu2'
+            }
         }
-        
-    
-    return encodeURIComponent(params.join('&'));
-};
+
+        // Build path
+        var path = [
+            "/21824617191/wtu",
+            ad_config.local === null ? "" : "/" + ad_config.local,
+            ad_config.section.length === 0 ? "/homepage" : "/" + ad_config.section
+        ].join("");
+        ad_config.path = path;
+
+        return ad_config;
+    })();
 </script>
 
+        
+
+        <!-- Global DAC Execution WITH SOURCEPOINT -->
+        
+            <script>
+    // Enable Google Ad Services
+    function googleAdManagerInit() {
+        var isNonPersonalisedAds = gusto.sourcepoint.checkNonIabVendorConsentById(gusto.sourcepoint.nonIabIds.vendors.googleAdManager) ? 0 : 1;
+        googletag.cmd.push(function() {
+            googletag.pubads()
+                .setTargeting("section", String(window.GLOBALADVERTISING.section))
+                .setTargeting("pageid", String(window.GLOBALADVERTISING.pageid))
+                .setTargeting("contenttype", String(window.GLOBALADVERTISING.contenttype))
+                .setTargeting("gdpr_consent", String(window.GLOBALADVERTISING.gdpr_consent))
+                .setTargeting("adtest", String(window.GLOBALADVERTISING.adtest))
+                .setTargeting("level", String(window.GLOBALADVERTISING.level))
+                .setTargeting("at", String(window.GLOBALADVERTISING.at))
+                .setTargeting("loginstate", String(window.GLOBALADVERTISING.loginstate))
+                .setTargeting("pagecount", String(window.GLOBALADVERTISING.pagecount))
+                .setTargeting("newslink", window.GLOBALADVERTISING.newslink ? String(window.GLOBALADVERTISING.newslink) : '')
+                .setTargeting("sensitive", String(window.GLOBALADVERTISING.sensitive))
+                .setTargeting("takeover", String(Math.floor(Math.random()*6) + 1));
+            if(window.gusto.nielsen.segments) {
+                googletag.pubads().setTargeting("nmc", String(window.gusto.nielsen.segments.split(":")));
+            }
+            googletag.pubads().setTargeting("npa", String(isNonPersonalisedAds));
+    
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.pubads().disableInitialLoad();
+            googletag.enableServices();
+                
+            googletag.pubads().refresh();
+        });
+    }
+</script>
+
+        
+        
+        <!-- SOURCEPOINT -->
+        <script>
+    gusto.sourcepoint = {
+        'enabled': true,
+        'mmsDomain': "https://c.sourcepoint.wetheunicorns.com",
+        'nonIabVendorConsents': [],
+        'nonIabPurposeConsents': [],
+        'iabVendorConsents': {},
+        'iabPurposeConsents': {},
+
+        'iabIds': {"vendors": {"nielsen": 373}, "purposes": {"personalisation": 2, "measurement": 5, "informationStorage": 1, "adSelection": 3, "contentSelection": 4}},
+        'nonIabIds': {"vendors": {"googleAdManager": "5b07836aecb3fe2955eba270"}, "purposes": {"personalisation": "5d56c02fb2f2a22442d7d18e", "measurement": "5d56c02fb2f2a22442d7d191", "informationStorage": "5d56c02fb2f2a22442d7d18d", "adSelection": "5d56c02fb2f2a22442d7d18f", "contentSelection": "5d56c02fb2f2a22442d7d190"}},
+
+        'checkIabVendorConsentById': function (vendorId) {
+            return this.iabVendorConsents[vendorId] == true;
+        },
+
+        'checkIabPurposeConsents': function (purposeId) {
+            return this.iabPurposeConsents[purposeId] == true;
+        },
+
+        'checkNonIabVendorConsentById': function (vendorId) {
+            for(var i=0; i<this.nonIabVendorConsents.length; i++) {
+                if(this.nonIabVendorConsents[i]["_id"] === vendorId) {
+                    return true;
+                }
+            }
+            return false;
+        },
+        'checkNonIabPurposeConsentById': function (purposeId) {
+            for(var i=0; i<this.nonIabVendorConsents.length; i++) {
+                if(this.nonIabVendorConsents[i]["_id"] === purposeId) {
+                    return true;
+                }
+            }
+            return false;
+        }
+    };
+</script>
+
+        
 
         
             
@@ -225,6 +430,146 @@ gusto.build_streaming_params = function() {
             
         
 
+        
+
+        <!-- CMP -->
+        
+            
+                
+                    <script type="text/javascript">
+    (function () { 
+        var e = false;
+        var c = window;
+        var t = document;
+        function r() {
+            if (!c.frames["__cmpLocator"]) {
+                if (t.body) {
+                    var a = t.body; var e = t.createElement("iframe");
+                    e.style.cssText = "display:none";
+                    e.name = "__cmpLocator";
+                    a.appendChild(e)
+                } else {
+                    setTimeout(r, 5)
+                }
+            }
+        } 
+        r();
+        function p() {
+            var a = arguments;
+            __cmp.a = __cmp.a || [];
+            if (!a.length) {
+                return __cmp.a
+            } else if (a[0] === "ping") {
+                a[2]({ gdprAppliesGlobally: e, cmpLoaded: false }, true) 
+            } else {
+                __cmp.a.push([].slice.apply(a))
+            }
+        }
+        function l(t) {
+            var r = typeof t.data === "string";
+            try {
+                var a = r ? JSON.parse(t.data) : t.data;
+                if (a.__cmpCall) {
+                    var n = a.__cmpCall;
+                    c.__cmp(n.command, n.parameter,
+                    function (a, e) {
+                        var c = {
+                            __cmpReturn: {
+                                returnValue: a, success: e, callId: n.callId
+                            }
+                        };
+                        t.source.postMessage(r ? JSON.stringify(c) : c, "*")
+                    });
+                }
+            } catch (a) { }
+        }
+        if (typeof __cmp !== "function") {
+            c.__cmp = p;
+            __cmp.msgHandler = l;
+            c.addEventListener("message", l, false)
+        }
+    })();
+</script>
+<script>
+    window._sp_ = {
+        config: {
+            mmsDomain: gusto.sourcepoint.mmsDomain, //"https://mms.sp-prod.net",
+            accountId: "970",
+            cmpOrigin: "https://sourcepoint.mgr.consensu.org",
+            events: {
+                'onConsentReady': function(consentUUID, consentId){
+                    var isNonPersonalisedAds = 1;
+
+                    //Fetches Consent Data
+                    function getConsentData() {
+                        return new Promise((resolve, reject) => {
+                            return window.__cmp('getConsentData', null, function (data, success) {
+                                if (success) {
+                                    window.GLOBALADVERTISING.gdpr_consent = data.consentData;
+                                    resolve();
+                                }
+                                reject();
+                            });
+                        });
+                    }
+
+                    //Fetches the Iab Vendors & Purposes
+                    function getCmpVendorConsents() {
+                        return new Promise((resolve, reject) => {
+                            return window.__cmp('getVendorConsents', null, (consent, success) => {
+                                if (success) {
+                                    gusto.sourcepoint.iabVendorConsents = consent.vendorConsents;
+                                    gusto.sourcepoint.iabPurposeConsents = consent.purposeConsents;
+                                    resolve(consent);
+                                }
+                                reject();
+                            });
+                        });
+                    }
+                    
+
+                    //Fetches the Non Iab Vendors & Purposes
+                    function getCustomVendorConsents() {
+                        return new Promise((resolve, reject) => {
+                            return window.__cmp('getCustomVendorConsents', null, function(consent, success) {
+                                if (success) {
+                                    gusto.sourcepoint.nonIabVendorConsents = consent.consentedVendors;
+                                    gusto.sourcepoint.nonIabPurposeConsents = consent.consentedPurposes;
+                                    resolve(consent);
+                                }
+                                reject();
+                            });
+                        });
+                    }
+                    
+                    //Wait for all consent data
+                    getConsentData().then(function() {
+                        getCmpVendorConsents().then(function() {
+                            window.gusto.nielsen.init();
+                        }).then(function() {
+                            getCustomVendorConsents().then(function() {
+                                googleAdManagerInit();
+                            })
+                        });
+                    });
+                    
+                },
+                'onPrivacyManagerAction': function() {
+                    if(window.GLOBALADVERTISING.gdpr_consent) {
+                        setTimeout(function() { window.location.reload(); }, 1000);
+                    }
+                },
+            },
+        }
+    }
+</script>
+<script src="https://dialogue.sp-prod.net/messagingWithoutDetection.js"></script>
+
+                
+            
+        
+
+        <!-- PARAMS BUILDER -->
         <script type="text/javascript">
 //    get the urlencoded string to pass in the streaming request
 //    first build_streaming_params is a fallback in case the second one contains a syntax error
@@ -271,6 +616,16 @@ gusto.build_streaming_params = function() {
     }
 
     var params = [];
+    // GET THE userConsent FOR CMP
+    if(window.gusto.sourcepoint.enabled) {
+        try {
+            params.push('aw_0_req.userConsent=' + window.GLOBALADVERTISING.gdpr_consent);
+        } catch(e) {
+            param_error('aw_0_req.userConsent');
+        }
+    }
+
+    // GET THE PARAMETERS FROM CONTEXT
     
         try {
             params.push('awsparams=' + stitch('', "kxsegs:" , Krux.segments , ";"));
@@ -301,124 +656,68 @@ gusto.build_streaming_params = function() {
         <!-- Advertising -->
         
             <!-- DAC -->
-            <script type="text/javascript" src="https://aka-cdn-ns.adtech.de/dt/common/DAC.js"></script>
-            <script type="text/javascript" src="https://aka-cdn-ns.adtech.de/dac/646.1/w1235962.js"></script>
+            
+                <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+                <script>
+                    window.googletag = window.googletag || {cmd: []};
+                </script>
+            
         
         
         
     </head>
     <body class="js">
-        
-            
-                
-<script type="text/javascript" src="//global.mgr.consensu.org/cmp.js"></script>
-<link type="text/css" href="//global.mgr.consensu.org/cmp.css" rel="stylesheet">
-
-
-<!-- CMP Stub -->
-<script type="text/javascript">
-    (function () {
-        var gdprAppliesGlobally = false;
-
-        function addFrame() {
-            if (!window.frames['__cmpLocator']) {
-                if (document.body) {
-                    var body = document.body,
-                        iframe = document.createElement('iframe');
-
-                    iframe.style = 'display:none';
-                    iframe.name = '__cmpLocator';
-
-                    body.appendChild(iframe);
-                } else {
-                    // In the case where this stub is located in the head,
-                    // this allows us to inject the iframe more quickly than
-                    // relying on DOMContentLoaded or other events.
-                    setTimeout(addFrame, 5);
-                }
-            }
-        }
-
-        addFrame();
-
-        function stubCMP() {
-            var b = arguments;
-            __cmp.a = __cmp.a || [];
-
-            if (!b.length) return __cmp.a;
-            else if (b[0] === 'ping') {
-                b[2]({
-                    "gdprAppliesGlobally": gdprAppliesGlobally,
-                    "cmpLoaded": false
-                }, true);
-            }
-            else {
-                __cmp.a.push([].slice.apply(b));
-            }
-        }
-
-        function testJSON(text){
-            try {
-                JSON.parse(text);
-                return true;
-            }
-            catch (error) {
-                return false;
-            }
-        }
-
-        function cmpMsgHandler(event) {
-            var msgIsString = typeof event.data === "string";
-            var json;
-
-            if (msgIsString) {
-                if (testJSON(event.data)) {
-                    json = JSON.parse(event.data)
-                } else {
-                    return false;
-                }
-            } else {
-                json = event.data;
-            }
-
-            if (json.__cmpCall) {
-                var i = json.__cmpCall;
-
-                window.__cmp(i.command, i.parameter, function (retValue, success) {
-                    var returnMsg = {
-                        "__cmpReturn": {
-                            "returnValue": retValue,
-                            "success": success,
-                            "callId": i.callId
-                        }
-                    };
-
-                    event.source.postMessage(msgIsString ?
-                        JSON.stringify(returnMsg) : returnMsg, '*');
-                });
-            }
-        }
-
-        if (typeof (__cmp) !== 'function') {
-            window.__cmp = stubCMP;
-            __cmp.msgHandler = cmpMsgHandler;
-
-            if (window.addEventListener)
-                window.addEventListener('message', cmpMsgHandler, false);
-            else window.attachEvent('onmessage', cmpMsgHandler);
-        }
-    })();
-
-
-</script><iframe name="__cmpLocator" style="display: none;"></iframe>
-
-
-            
-        
-
+        <!-- NIELSEN -->
         
             <!-- START Nielsen interchange script -->
 <script type="text/javascript">
+if(gusto.sourcepoint.enabled) {
+    window.gusto.nielsen = {
+        userId: null,
+        segments: [],
+        callbacks: [],
+        init: function() {
+            var isNielsenOn = gusto.sourcepoint.checkIabPurposeConsents(gusto.sourcepoint.iabIds.purposes.informationStorage) &&
+                gusto.sourcepoint.checkIabPurposeConsents(gusto.sourcepoint.iabIds.purposes.personalisation) &&
+                gusto.sourcepoint.checkIabPurposeConsents(gusto.sourcepoint.iabIds.purposes.adSelection) &&
+                gusto.sourcepoint.checkIabPurposeConsents(gusto.sourcepoint.iabIds.purposes.contentSelection) &&
+                gusto.sourcepoint.checkIabPurposeConsents(gusto.sourcepoint.iabIds.purposes.measurement) &&
+                gusto.sourcepoint.checkIabVendorConsentById(gusto.sourcepoint.iabIds.vendors.nielsen);
+
+            if (isNielsenOn) {
+                if (window.localStorage) {
+                    window.gusto.nielsen.userId = window.localStorage.getItem('nmcUserId') || null;
+                    window.gusto.nielsen.segments = window.localStorage.getItem('nmcSegments') || "";
+                }
+                //Fires GTM Tags
+                dataLayer.push({
+                    'event': 'nielsen_gtm_fire',
+                });
+            } else {
+                window.gusto.nielsen.userId = null;
+                window.gusto.nielsen.segments = null;
+                if (window.localStorage) {
+                    window.localStorage.removeItem('nmcUserId');
+                    window.localStorage.removeItem('nmcSegments'); 
+                }
+            }
+            var stream_params = gusto.build_streaming_params();
+            gusto.set_streaming_params_cookie(stream_params);
+        },
+        receive: function(data) {
+            window.gusto.nielsen.userId = data.user.uid;
+            window.gusto.nielsen.segments = data.user.segments.split(',').slice(0, 200).join(',');
+            for(var index=0; index < window.gusto.nielsen.callbacks.length; index++) {
+                var callback = window.gusto.nielsen.callbacks[index];
+                callback.call();
+            }
+            if (window.localStorage) {
+                window.localStorage.setItem('nmcUserId', window.gusto.nielsen.userId);
+                window.localStorage.setItem('nmcSegments', window.gusto.nielsen.segments);
+            }
+        }
+    };          
+} else {
     window.gusto.nielsen = {
         userId: null,
         segments: [],
@@ -443,9 +742,11 @@ gusto.build_streaming_params = function() {
         }
     };
     window.gusto.nielsen.init();
+}
 </script>
 <!-- END Nielsen interchange script -->
 
+        
         
         
 
@@ -464,206 +765,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
         
-            <script>
-var GLOBALADVERTISING = (function(){
-    // Vars
-    var consentStringSuccess = false;
-    var consentStringAttempts = 0;
-
-    // Helper functions
-    var get_url_vars = function() {
-        var vars = {};
-        // The regex below is a massively simplfied version of the one found here:
-        // https://regex101.com/library/oZ8cA0
-        var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,
-        function(m,key,value) {
-            vars[key] = value;
-        });
-        return vars;
-    };
-    var get_breakpoint = function() {
-        var render_mode = window.gusto.render_mode;
-
-        try {
-            if (render_mode === "ukrp" && window.opener && window.opener.gusto) {
-                render_mode = window.opener.gusto.render_mode
-            }
-        }
-        catch (e) {}
-
-        if (render_mode === "v4" && window.gusto.breakpoints) {
-            return window.gusto.breakpoints.check('medium-down') ? 'mobweb' : 'desktop'; // v4r
-        }
-        return 'desktop'; // unknown
-    };
-    var get_section_array = function(absolute_url) {
-        var url_parts = absolute_url.split("/");
-        return url_parts.filter(function(part){ return part != "" });
-    };
-    var get_user = function() {
-        if (gusto && gusto.udb_user && gusto.udb_user.grid) {
-            return gusto.udb_user.grid;
-        }
-        return null;
-    };
-    var createCookie = function (name, value, days) {
-        var expires;
-        if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-            expires = "; expires=" + date.toGMTString();
-        } else {
-            expires = "";
-        }
-        document.cookie = name + "=" + value + expires + "; path=/";
-    };
-    var fetchConsentString = function () {
-        if (!consentStringSuccess && consentStringAttempts < 4) {
-            setTimeout(function () {
-                consentStringAttempts++;
-
-                window.__cmp('ping', null, function (data, success) {
-                    if (success && data.cmpLoaded === true) {
-                        window.__cmp('getConsentData', null, function (data, success) {
-                            if (success) {
-                                window.GLOBALADVERTISING.gdpr_consent = data.consentData;
-                                consentStringSuccess = true;
-                            }
-                        });
-                    }
-                });
-
-                fetchConsentString();
-            }, 1000);
-        }
-    };
-    var readCookie = function (name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for (var i = 0; i < ca.length; i++) {
-            var c = ca[i];
-            while (c.charAt(0) === ' ') {
-                c = c.substring(1, c.length);
-            }
-            if (c.indexOf(nameEQ) === 0) {
-                return c.substring(nameEQ.length, c.length);
-            }
-        }
-        return null;
-    };
-
-    // Attempt to read adtest param
-    var adtest = "";
-    try {
-        var url_vars = get_url_vars()["adtest"];
-        if (typeof url_vars != 'undefined') {
-            adtest = url_vars;
-        }
-    }
-    catch(err) {}
-
-    // Attempt to read Krux segments
-    var krux_segments = "";
-    try {
-        krux_segments = window.Krux.segments.join(":");
-    }
-    catch(err) {}
-
-    // Read and add callback for populating Nielsen segments
-    if(window.gusto.nielsen) {
-        var nmc_segments = window.gusto.nielsen.segments.split(',').join(":");
-        window.gusto.nielsen.callbacks.push(function(){
-            window.GLOBALADVERTISING.nmc = window.gusto.nielsen.segments.split(',').join(":");
-        });
-    }
-
-    // Set page count from cookie
-    var pageCount = 1;
-    var pageCountCookie = readCookie('pagecount');
-    if (pageCountCookie) {
-        pageCount = parseInt(pageCountCookie, 10) + 1;
-    }
-    createCookie('pagecount', pageCount);
-
-    // Read UA String to allow optional logging or disabling of ad logic
-    // Very useful for AT suite and debugging live
-    var ua_string = window.navigator.userAgent;
-    var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
-
-    // CMP Stuff
-    if (window.__cmp) {
-        fetchConsentString();
-    }
-
-    // Return the advertisting object
-    var section_array = get_section_array("/privacy-policy/");
-    var ad_config = {
-        'local': null,
-        'at': get_breakpoint(),
-        'gigyaid': null, // Intentionally null, don't use this
-        'loginstate': get_user() ? "true" : "false", // Not always correct but it's updated ASAP
-        'section': section_array.join("/"),
-        'level': section_array.length,
-        'pageid': window.gusto.page_id,
-        'krx': krux_segments,
-        'pagecount': pageCount,
-        'contenttype': "article",
-        'adtest': adtest,
-        'sensitive': "true",
-        'newslink': "false",
-        'nmc': nmc_segments,
-        'gdpr': 1,
-        'gdpr_pd': 1,
-        'gdpr_consent': "",
-        'enable_ads_dac': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_dac : 'true',
-        'enable_ads_related': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_related : 'true',
-        'enable_ads_ukrp': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_ukrp : 'true',
-        'enable_ads_ooyala': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_ooyala : 'true',
-        'enable_ads_related_videos': window.gusto.ad_switch ? window.gusto.ad_switch.enable_ads_related_videos : 'true',
-    };
-
-    if(log_ads) {
-        console.log("The following ad values has been configured", ad_config);
-        if(window.ADTECH) {
-            window.ADTECH.debugMode = true;
-        }
-    }
-
-    return ad_config;
-})();
-</script>
-
-        
         <script type="text/javascript">document.body.className = document.body.className.replace('no-js', 'js');</script>
 
         <div id="fb-root"></div>
 
-        <div id="wtu_home_overlay" class="dac__overlay"></div>
-<script>
-    if (window.ADTECH) {
-        window.ADTECH.config.placements["wtu_home_overlay"] = {
-            kv: {
-                pos: '1',
-                adunit: 'overlay'
-            }
-        };
-
-        var ua_string = window.navigator.userAgent;
-        var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
-        var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
-
         
-        if(!disable_ads) {
-            
-                
-                    if(log_ads){console.log('Queuing an ad', 'wtu_home_overlay');}
-                    window.ADTECH.enqueueAd('wtu_home_overlay');
-                
-            
-        }
-        
-    }
-</script>
+    <div id="ad-overlay" class="dac__overlay">
+        <script>
+            (function(){
+                var ua_string = window.navigator.userAgent;
+                var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
+                var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
+                var ad_mapping =  window.GLOBALADVERTISING.mappings['overlay'];
+
+                if(ad_mapping) {
+                    if (disable_ads) {
+                        document.querySelectorAll('.dac__mpu-card, .dac__stream-mpu-card').forEach(e => e.parentNode.removeChild(e));
+                    }
+                    else {
+                        if(log_ads) {
+                            console.log('Ad position defined', 'overlay');
+                        }
+                        
+                            
+                                window.GLOBALADVERTISING.push('overlay', ad_mapping, false);
+                            
+                        
+                    }
+                }
+                else {
+                    console.error('No mapping defined for overlay');
+                }
+            })();
+        </script>
+    </div>
+
 
 
         
@@ -673,39 +809,43 @@ var GLOBALADVERTISING = (function(){
     <!-- BLOCK:0 ADS SECTION -->
     
     <div class="dac__banner__wrapper dac__banner__wrapper--sticky">
-        <div id="wtu_home_banner_large-up" class="dac__banner"></div>
-<script>
-    if (window.ADTECH) {
-        window.ADTECH.config.placements["wtu_home_banner"] = {
-            kv: {
-                pos: '2',
-                adunit: 'banner'
-            }
-        };
-
-        var ua_string = window.navigator.userAgent;
-        var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
-        var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
-
         
-        if(!disable_ads) {
-            
-                
-                    var valid_breakpoint = true;
-                    if(gusto.breakpoints) {
-                        valid_breakpoint = gusto.breakpoints.check('large-up');
+    <div id="ad-banner" class="dac__banner">
+        <script>
+            (function(){
+                var ua_string = window.navigator.userAgent;
+                var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
+                var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
+                var ad_mapping =  window.GLOBALADVERTISING.mappings['banner'];
+
+                if(ad_mapping) {
+                    if (disable_ads) {
+                        document.querySelectorAll('.dac__mpu-card, .dac__stream-mpu-card').forEach(e => e.parentNode.removeChild(e));
                     }
-                    if(valid_breakpoint) {
-                        if(log_ads){console.log('Queuing an ad', 'wtu_home_banner');}
-                        document.getElementById('wtu_home_banner_large-up').id = 'wtu_home_banner';
-                        window.ADTECH.enqueueAd('wtu_home_banner');
+                    else {
+                        if(log_ads) {
+                            console.log('Ad position defined', 'banner');
+                        }
+                        
+                            
+                                var valid_breakpoint = true;
+                                if(gusto.breakpoints) {
+                                    valid_breakpoint = gusto.breakpoints.check('large-up');
+                                }
+                                if(valid_breakpoint) {
+                                    window.GLOBALADVERTISING.push('banner', ad_mapping, false);
+                                }
+                            
+                        
                     }
-                
-            
-        }
-        
-    }
-</script>
+                }
+                else {
+                    console.error('No mapping defined for banner');
+                }
+            })();
+        </script>
+    </div>
+
 
     </div>
     
@@ -713,53 +853,7 @@ var GLOBALADVERTISING = (function(){
     <!-- BLOCK:1 USER STATUS HEADER -->
     <div class="header__section header__section--primary-bg header__user-status">
         <div class="header__container">
-            
-                
-                
-
-
-<ul id="user_status" class="header-user-status">
-    
-        <li class="header-user-status__item">
-            <a class="header-user-status__link js-append-redirect" href="/members/register/">Register</a>
-        </li> |
-        <li class="header-user-status__item">
-            <a class="header-user-status__link js-append-redirect" rel="nofollow" href="/members/login/">Sign in</a>
-        </li>
-    
-    
-</ul>
-
-
-<script type="text/javascript">
-    var gusto = window.gusto || {};
-    gusto.artemis = gusto.artemis || {};
-    gusto.artemis.initial = gusto.artemis.initial || {};
-
-    gusto.artemis.initial.user_data = {};
-    gusto.artemis.initial.user_persistent_data = {};
-
-    var gusto = window.gusto || {};
-
-gusto.udb_user={
-    "is_authenticated": "False",
-    "grid": "",
-    "dob_year": "",
-    "gender": "",
-    "age_segment": ""
-};
-
-if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
-
-// Updating login state for DAC
-if (window.GLOBALADVERTISING){
-    window.GLOBALADVERTISING.loginstate = gusto.udb_user.grid ? "true" : "false";
-}
-    
-
-</script>
-
-            
+            <ul id="user_status" class="header-user-status"><li class="header-user-status__item"><a class="header-user-status__link js-append-redirect" href="/members/register/">Register</a></li> | <li class="header-user-status__item"><a class="header-user-status__link js-append-redirect" rel="nofollow" href="/members/login/">Sign in</a></li></ul>
             
     <div class="substations">
         <div id="substations_button" class="substations__label">PopBuzz Network</div>
@@ -785,7 +879,6 @@ if (window.GLOBALADVERTISING){
     <div class="header__section header__main js-header-main">
         <div class="header__container">
             <a href="#primary" class="skip-nav js-skip-nav"><span>skip to navigation</span></a>
-
             
 
 
@@ -797,6 +890,7 @@ if (window.GLOBALADVERTISING){
 <h2 class="header__secondary-logo">
     <a class="header__secondary-logo__link" href="http://www.popbuzz.com/">PopBuzz</a>
 </h2>
+
 
 
 
@@ -843,24 +937,13 @@ if (window.GLOBALADVERTISING){
                     
                 </li>
                 
-                <li class="nav-video " data-id="75">
+                <li id="members_nav_link" class="nav-video " data-id="75">
 
                     
                     <a href="/video/">Video</a>
                     
-                </li>
+                </li><li><a rel="nofollow" class="user_login no-desktop" href="/members/login/?redirect_url=/features/youtubers-admit-forcing-happiness-mean/">Sign in / Register</a></li>
                 
-
-                
-                    
-                    
-
-    <li><a class="user_login no-desktop" rel="nofollow" href="/members/login/?redirect_url=/privacy-policy/">Sign in / Register</a></li>
-
-
-
-                
-
                 
 
 
@@ -915,7 +998,8 @@ if (window.GLOBALADVERTISING){
 
 
         
-        <script src="https://cdns.gigya.com/js/gigya.js?apiKey=3_AT7qoBUdoFgJ6IRkZnp8IVTlTYJdB44BOquKIHx7_CNdXg508n_x33XXHmAeugbH" defer=""></script>
+        <iframe name="__cmpLocator" style="display: none;"></iframe><script src="https://cdns.gigya.com/js/gigya.js?apiKey=3_AT7qoBUdoFgJ6IRkZnp8IVTlTYJdB44BOquKIHx7_CNdXg508n_x33XXHmAeugbH" defer=""></script>
+        <script src="/dynamic/userContent.js"></script>
         
 
         <section role="main">
@@ -960,10 +1044,9 @@ gusto.article = {
     'author': 'Tahira Daji',
     'category': 'wetheunicorns.com'
 };
-
 </script>
 
-
+         
         
         <h1>Global Privacy Statement</h1>
         
@@ -1007,39 +1090,42 @@ gusto.article = {
 <h2><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><strong>Who are we?</strong></h2>
 <p>We are Global, the Media &amp; Entertainment group. Global is Europe’s largest radio company home to some of the biggest brands in commercial radio, <a class="external-blank" href="http://www.capitalfm.com/" target="_blank">Capital</a>,&nbsp;<a class="external-blank" href="http://www.heart.co.uk/" target="_blank">Heart</a>,&nbsp;<a class="external-blank" href="http://www.lbc.co.uk/" target="_blank">LBC</a>,&nbsp;<a class="external-blank" href="http://www.classicfm.com" target="_blank">Classic FM</a>,&nbsp;<a class="external-blank" href="http://www.smoothradio.com/" target="_blank">Smooth</a>,&nbsp;<a class="external-blank" href="http://www.capitalxtra.com" target="_blank">Capital XTRA</a> and&nbsp;<a class="external-blank" href="http://www.mygoldmusic.co.uk" target="_blank">Gold</a>.&nbsp; Our portfolio also includes our digital platform&nbsp;<a class="external-blank" href="http://www.popbuzz.com" target="_blank">PopBuzz</a>, TV channels,&nbsp;<a class="external-blank" href="http://www.capitalfm.com/tv" target="_blank">Capital TV</a>&nbsp;and&nbsp;<a class="external-blank" href="http://www.heart.co.uk/tv" target="_blank">Heart TV</a>,&nbsp;and our licensed broadcast partners,&nbsp;<a class="external-blank" href="http://www.communicorpuk.com" target="_blank">Communicorp</a>&nbsp;and Adventure Radio.</p>
 <p>This Privacy Statement explains how we collect and use information about you when you interact with our radio, TV and digital brands and this website. This could be through smart speakers, when you enter one of our competitions or when you engage with our charity activities or sales channels.</p>
-<div class="dac__article-mpu"><div id="wtu_home_mpu_medium-down" class="dac__mpu"></div>
+<div class="dac__article-mpu">
+<div id="ad-mpu" class="dac__mpu">
 <script>
-    if (window.ADTECH) {
-        window.ADTECH.config.placements["wtu_home_mpu"] = {
-            kv: {
-                pos: '3',
-                adunit: 'mpu'
-            }
-        };
+            (function(){
+                var ua_string = window.navigator.userAgent;
+                var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
+                var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
+                var ad_mapping =  window.GLOBALADVERTISING.mappings['mpu'];
 
-        var ua_string = window.navigator.userAgent;
-        var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
-        var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
-
-        
-        if(!disable_ads) {
-            
-                
-                    var valid_breakpoint = true;
-                    if(gusto.breakpoints) {
-                        valid_breakpoint = gusto.breakpoints.check('medium-down');
+                if(ad_mapping) {
+                    if (disable_ads) {
+                        document.querySelectorAll('.dac__mpu-card, .dac__stream-mpu-card').forEach(e => e.parentNode.removeChild(e));
                     }
-                    if(valid_breakpoint) {
-                        if(log_ads){console.log('Queuing an ad', 'wtu_home_mpu');}
-                        document.getElementById('wtu_home_mpu_medium-down').id = 'wtu_home_mpu';
-                        window.ADTECH.enqueueAd('wtu_home_mpu');
+                    else {
+                        if(log_ads) {
+                            console.log('Ad position defined', 'mpu');
+                        }
+                        
+                            
+                                var valid_breakpoint = true;
+                                if(gusto.breakpoints) {
+                                    valid_breakpoint = gusto.breakpoints.check('medium-down');
+                                }
+                                if(valid_breakpoint) {
+                                    window.GLOBALADVERTISING.push('mpu', ad_mapping, false);
+                                }
+                            
+                        
                     }
-                
-            
-        }
-        
-    }
-</script>
+                }
+                else {
+                    console.error('No mapping defined for mpu');
+                }
+            })();
+        </script>
+</div>
 </div>
 <p>Please note our&nbsp;<a class="external-blank" href="http://www.globalplayer.com" target="_blank">Global Player</a>&nbsp;App has its own Privacy Statement which you can access here:&nbsp;<a class="external-blank" href="http://www.globalplayer.com/privacy-policy/" target="_blank">http://www.globalplayer.com/privacy-policy/</a></p>
 <p>Global is also the second largest festival operator in the UK with a&nbsp;portfolio including Victorious, Snowbombing, Festival No.6,&nbsp;Rewind, South West Four, Field Day, Boardmasters, Y Not, Truck, Hideout, Electric Elephant,&nbsp;Kendal Calling and Printworks. Global also has interests in Lost Village&nbsp;and Standon Calling and each festival has its own privacy policy.</p>
@@ -1212,38 +1298,39 @@ gusto.article = {
     
 
     
-        
-    
-
-    
     
         
-            <div id="wtu_home_instream" class="dac__instream"></div>
-<script>
-    if (window.ADTECH) {
-        window.ADTECH.config.placements["wtu_home_instream"] = {
-            kv: {
-                pos: '4',
-                adunit: 'instream'
-            }
-        };
-
-        var ua_string = window.navigator.userAgent;
-        var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
-        var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
-
-        
-        if(!disable_ads) {
             
-                
-                    if(log_ads){console.log('Queuing an ad', 'wtu_home_instream');}
-                    window.ADTECH.enqueueAd('wtu_home_instream');
-                
-            
-        }
-        
-    }
-</script>
+    <div id="ad-instream" class="dac__instream">
+        <script>
+            (function(){
+                var ua_string = window.navigator.userAgent;
+                var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
+                var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
+                var ad_mapping =  window.GLOBALADVERTISING.mappings['instream'];
+
+                if(ad_mapping) {
+                    if (disable_ads) {
+                        document.querySelectorAll('.dac__mpu-card, .dac__stream-mpu-card').forEach(e => e.parentNode.removeChild(e));
+                    }
+                    else {
+                        if(log_ads) {
+                            console.log('Ad position defined', 'instream');
+                        }
+                        
+                            
+                                window.GLOBALADVERTISING.push('instream', ad_mapping, false);
+                            
+                        
+                    }
+                }
+                else {
+                    console.error('No mapping defined for instream');
+                }
+            })();
+        </script>
+    </div>
+
 
         
         
@@ -1377,41 +1464,44 @@ gusto.article = {
                 
                     <li class="footer-useful-links__item">
                     
-                        <a class="footer-useful-links__link" href="/about-us/">About Us</a>
+                        <a class="footer-useful-links__link" href="/about-us/" target="_blank">About Us</a>
                         
                     
                     </li>
                 
                     <li class="footer-useful-links__item">
                     
-                        <a class="footer-useful-links__link" href="/contact-us/">Contact Us</a>
+                        <a class="footer-useful-links__link" href="/contact-us/" target="_blank">Contact Us</a>
                         
                     
                     </li>
                 
                     <li class="footer-useful-links__item">
                     
-                        <a class="footer-useful-links__link" href="/cookie-policy/">Cookies</a>
+                        <a class="footer-useful-links__link" href="https://global.com/cookies/" target="_blank">Cookies</a>
                         
                     
                     </li>
                 
                     <li class="footer-useful-links__item">
                     
-                        <em class="footer-useful-links__link footer-useful-links__link--current">Privacy</em>
-                    
-                    </li>
-                
-                    <li class="footer-useful-links__item">
-                    
-                        <a class="footer-useful-links__link" href="/terms-conditions/">Terms &amp; Conditions</a>
+                        <a class="footer-useful-links__link" href="https://global.com/privacy-policy/" target="_blank">Privacy</a>
+                        
+                            <a href="https://global.com/privacy-policy/" class="footer-useful-links__new">NEW</a>
                         
                     
                     </li>
                 
                     <li class="footer-useful-links__item">
                     
-                        <a class="footer-useful-links__link" href="/advertise/">Advertise</a>
+                        <a class="footer-useful-links__link" href="/terms-conditions/" target="_blank">Terms &amp; Conditions</a>
+                        
+                    
+                    </li>
+                
+                    <li class="footer-useful-links__item">
+                    
+                        <a class="footer-useful-links__link" href="/advertise/" target="_blank">Advertise</a>
                         
                     
                     </li>
@@ -1426,9 +1516,9 @@ gusto.article = {
 <p class="twitter-tweets__user">We The Unicorns ‐ <a href="http://twitter.com/wetheunicorns/" class="twitter-tweets__link" target="_blank">@wetheunicorns</a></p>
 
     <li class="twitter-tweets__item">
-    	<p class="twitter-tweets__tweet">Sam Cooke, the waiter from Tati Westbrook's video, speaks out against James Charles.
+    	<p class="twitter-tweets__tweet">want to keep up to date with everything going on in the youtube universe? 💻🌏
 
-<a href="https://popbuzz.co/2Vo60mV" class="twitter-tweets__link" target="_blank">popbuzz.co/2Vo60mV</a> <a href="https://twitter.com/wetheunicorns/status/1128338059383189504/photo/1" class="twitter-tweets__link" target="_blank">pic.twitter.com/gQ9Du5QZKd</a></p>
+head over to <a href="http://twitter.com/popbuzz" class="twitter-tweets__link" target="_blank">@popbuzz</a> where we’ll be… <a href="https://twitter.com/i/web/status/1186962157600010241" class="twitter-tweets__link" target="_blank">twitter.com/i/web/status/1…</a></p>
     </li>
 
 </ul>
@@ -1472,39 +1562,41 @@ gusto.article = {
             <div class="grid-row__col--3 footer-footnote-section footer-footnote-section--end" itemprop="address">
                 30 Leicester Square, London, WC2H 7LA
             </div>
+            
+                <a class="footer__section__privacy_manager_button" id="privacy_manager__button" href="#">
+                    Privacy Manager
+                </a>
+            
         </div>
     </div>
 </footer>
+<script>
+    var privacy_manager__button = document.getElementById('privacy_manager__button');
+    if(privacy_manager__button) {
+        privacy_manager__button.onclick = function(e) {
+            e.preventDefault();
+            if (window._sp_) {
+                window._sp_.loadPrivacyManagerModal(
+                    parseInt('5007'),
+                    "5d56c2127bb01523c177ae9a"
+                );
+            }
+        };
+    }
+</script>
+
+
 
         
             
-
-
-<div id="privacy-overlay" class="privacy-overlay privacy-overlay--hidden">
-    <div class="privacy-overlay__section">
-        <p class="privacy-overlay__message">
-            Your privacy is important to us. We want to better help you understand how and why we use your data.
-            You’ll continue to enjoy We the Unicorns and all of its great content and features! View our Privacy Statement for more details. 
-        </p>
-        <a class="privacy-overlay__view-more" target="_blank" href="/privacy-policy/">View Privacy Statement</a>
-    </div>
-    <div class="privacy-overlay__section privacy-overlay__section--cookie">
-        <p class="privacy-overlay__message">
-            We also use cookies on the site for personalisation, analytics and ads. By continuing to browse you are agreeing to our use of these cookies.
-        </p>
-        <a class="privacy-overlay__view-more" target="_blank" href="/cookie-policy/">View Cookie Statement</a>
-    </div>
-    <a class="privacy-overlay__close" href="#">Accept</a>
-</div>
-
         
-
+        
         
 
 
     
         
-            <script src="https://static.wetheunicorns.com/assets_v4r/dist/combined/js/page_d39c6b.min.js" defer=""></script>
+            <script src="https://static.wetheunicorns.com/assets_v4r/dist/combined/js/page_f847c5.min.js" defer=""></script>
         
     
 
@@ -1647,9 +1739,80 @@ height="1" width="1" border="0" alt=""></a></noscript><!--/DO NOT REMOVE/-->
         <!-- Global DAC Execution -->
         
             <script>
-if (window.ADTECH) {
-    window.ADTECH.executeQueue();
+// Enable Google Ad Services
+if(!gusto.sourcepoint.enabled) { 
+    //TODO: Delete after Sourcepoint is released
+    // google_execute_sourcepoint.html has the same code
+    googletag.cmd.push(function() {
+        googletag.pubads()
+            .setTargeting("section", String(window.GLOBALADVERTISING.section))
+            .setTargeting("pageid", String(window.GLOBALADVERTISING.pageid))
+            .setTargeting("nmc", String(window.GLOBALADVERTISING.nmc.split(":")))
+            .setTargeting("contenttype", String(window.GLOBALADVERTISING.contenttype))
+            .setTargeting("gdpr_consent", String(window.GLOBALADVERTISING.gdpr_consent))
+            .setTargeting("adtest", String(window.GLOBALADVERTISING.adtest))
+            .setTargeting("level", String(window.GLOBALADVERTISING.level))
+            .setTargeting("at", String(window.GLOBALADVERTISING.at))
+            .setTargeting("loginstate", String(window.GLOBALADVERTISING.loginstate))
+            .setTargeting("pagecount", String(window.GLOBALADVERTISING.pagecount))
+            .setTargeting("newslink", window.GLOBALADVERTISING.newslink ? String(window.GLOBALADVERTISING.newslink) : '')
+            .setTargeting("sensitive", String(window.GLOBALADVERTISING.sensitive))
+            .setTargeting("takeover", String(Math.floor(Math.random()*6) + 1));
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
 }
+
+// Initialize Ads
+(function(){
+    //TODO: Delete after Sourcepoint is released
+    var consentStringSuccess = false;
+    var consentStringAttempts = 0;
+
+    var fetchConsentString = function () {
+        if (!consentStringSuccess && consentStringAttempts < 4) {
+            setTimeout(function () {
+                consentStringAttempts++;
+
+                window.__cmp('ping', null, function (data, success) {
+                    if (success && data.cmpLoaded === true) {
+                        window.__cmp('getConsentData', null, function (data, success) {
+                            if (success) {
+                                window.GLOBALADVERTISING.gdpr_consent = data.consentData;
+                                consentStringSuccess = true;
+                                googletag.cmd.push(function() {
+                                    googletag.pubads().setTargeting("gdpr_consent", data.consentData);
+                                    googletag.pubads().refresh();
+                                });
+                            }
+                        });
+                    }
+                });
+                fetchConsentString();
+            }, 1000);
+        }
+        else if (!consentStringSuccess) {
+            googletag.cmd.push(function() {
+                googletag.pubads().refresh();
+            });
+        }
+    };
+
+    // CMP Stuff
+    if(!gusto.sourcepoint.enabled) {
+        //TODO: Delete after Sourcepoint is released
+        if (window.__cmp) {
+            fetchConsentString();
+        }
+        else {
+            googletag.cmd.push(function() {
+                googletag.pubads().refresh();
+            });
+        }
+    }
+})();
 </script>
 
         
