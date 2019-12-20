@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123160554id_/https%3A//www.identogo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220200140id_/https%3A//identogo.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Identogo
 
 ## IDEMIA Online Privacy Statement
 
-IDEMIA, IdentoGO® (a division of IDEMIA) and IDEMIA’s subsidiaries have created this Privacy Statement to provide information on how IDEMIA handles personal information and the choices you can make about the way your information is collected and used. This Privacy Statement applies to IDEMIA websites that link to this Privacy Statement. Additional information on our personal information practices may be provided in notices provided at the time of data collection. To the extent a notice provided at the time of collection conflicts with this Privacy Statement, such notice will control.
+IDEMIA, IdentoGO® (a division of IDEMIA) and IDEMIA’s subsidiaries have created this Privacy Statement to provide information on how IDEMIA handles personal information and the choices you can make about the way your information is collected and used. This Privacy Statement applies to IDEMIA websites that link to this Privacy Statement. Additional information on our personal information practices may be provided in notices provided at the time of data collection. To the extent a notice provided at the time of collection conflicts with this Privacy Statement, such notice will control.
 
 ### The Collection of Personal Information
 
 We may collect information, including personal information, about you as you use our websites and interact with us. "Personal information" is data that reasonably can be used to identify or describe an individual, and may include name, address, email address, phone number, social media account information, or payment card number. You do not need to provide personal information simply to browse our website. If we link other data with your personal information, we will treat that linked data as personal information. We also collect personal information from trusted third-party sources and engage third parties to collect personal information to assist us (collectively “Business Partners”).
 
-IDEMIA collects personal information to operate our business and for other legitimate purposes permitted by applicable law, such as to: 
+IDEMIA collects personal information to operate our business and for other legitimate purposes permitted by applicable law, such as to:
 
   * Provide products or services you have purchased or requested, including fingerprint-based background checks. 
   * Provide customer service. 
