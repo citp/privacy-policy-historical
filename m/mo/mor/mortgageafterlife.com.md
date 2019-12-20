@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgageafterlife.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622104214id_/http%3A//mortgageafterlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgageafterlife.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220064103id_/http%3A//mortgageafterlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mortgage After Life
 
@@ -35,7 +35,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 **DoubleClick Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcb5b2bab39cb3b1bbafa8a9b8b5b3aff2bfb3b1)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0960676f664966646e7a7d7c6d60667a276a6664)
 
 
 
