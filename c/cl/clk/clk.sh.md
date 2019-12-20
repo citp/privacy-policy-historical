@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clk.sh privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328034852id_/https%3A//clk.sh/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clk.sh privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220170347id_/https%3A//clk.sh/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
