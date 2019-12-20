@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savetweetvid.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624033031id_/http%3A//www.savetweetvid.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savetweetvid.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220020749id_/http%3A//www.savetweetvid.com/en/privacy-policy) for the most accurate reproduction.*
 
-# SaveTweetVid - Política de privacidad
+# SaveTweetVid - Privacy Policy
 
 By using https://www.savetweetvid.com you signify your agreement to follow all the privacy policy set forth on this page: 
 
