@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxoft.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623032551id_/https%3A//www.luxoft.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxoft.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220173414id_/https%3A//www.luxoft.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice and Declaration of Consent | Luxoft
 
@@ -18,6 +18,7 @@
   12. Website Security
   13. Questions, concerns, complaints 
   14. Alternative dispute resolution 
+  15. Privacy and Employment Compliance/ Russia
 
 
 
@@ -168,6 +169,8 @@ Personal data that we are processing based on your consent will be kept during u
 
 The Luxoft Group is an international group of companies. Information we collect from you will be processed in EEA and outside EEA depending on the purpose of processing. The Luxoft Group endeavors to apply suitable safeguards to protect the privacy and security of your personal data during the transfer and to use it only consistent with your relationship with the Luxoft Group and the practices described in this Privacy Notice. The Luxoft Group also minimizes the risk to your rights and freedoms by not collecting or storing sensitive information about you. 
 
+Learn more 
+
 To the extent permitted by applicable data protection laws, your personal data may be transferred between various locations of Luxoft Group insofar as reasonably necessary for the purposes set out in this Privacy Notice and within the scope of legitimate interest of Luxoft Group. In any case they are processed under the terms of Standard contractual clauses and Binding corporate rules adopted by all companies of Luxoft Group. 
 
 To the extent permitted by applicable data protection laws, we may disclose your personal data to some of our clients (for business engagement or to confirm the high level of skills of our team members), auditors, agencies, supervisory authorities or to other external service providers on “need to know basis” to perform our contractual obligations. We will clearly indicate for you each data recipient if it is well known at the time of the beginning of the processing. 
@@ -232,6 +235,8 @@ This website may include hyperlinks to, and details of third party websites. We 
 
 As is true of most other websites, this website collects certain information automatically and stores it in log files. This includes Internet Protocol (IP) addresses, geographic location of your computer or device, browser type, operating system and other information about visiting this website, for example, pages viewed. This information is used to improve this website and, thanks to this constant improvement, to better serve to our users. Your IP address may also be used to diagnose problems with our server, administer this website, analyze trends, track a user’s movement on the site, and collect demographic information to help us understand visitor preferences and their needs. This website also uses cookies and web beacons. 
 
+Learn more 
+
 **Cookies and web beacons**
 
 Cookies are pieces of data that a website transfers to a user's hard drive for record-keeping purposes. The identifier is then sent back to the server each time the browser requests a page from the server. 
@@ -292,9 +297,23 @@ If you have any questions regarding your personal information, want to execute y
 
 If you wish that we do not use the information you provided to us, please drop us an e-mail to [DPO@luxoft.com](mailto:DPO@luxoft.com) with "Don't use my data" title and your name inside. 
 
-In order to update or correct your personal data please contact Global Data Protection Officer by sending a message to [DPO@luxoft.com.](mailto:DPO@luxoft.com). 
+In order to update or correct your personal data please contact Global Data Protection Officer by sending a message to [DPO@luxoft.com](mailto:DPO@luxoft.com). 
 
   
 **14\. Alternative dispute resolution**
 
 Regardless of your right to lodge a complaint with the supervisory authority and / or to take actions under applicable laws, you may always contact the Luxoft Data Protection Officer (DPO) if you believe that your data protection rights have been impaired by an actual or assumed act of data processing. The DPO will carefully examine your concern and advise on your respective rights. In doing so, the DPO is obliged to uphold the confidentiality of any further personal data obtained in relation to your request. Upon your request, the DPO will make all reasonable efforts to reach a settlement of the complaint in due consideration of your concerns. Such a settlement may also include a recommendation concerning damages in connection with the infringement of your data protection rights. 
+
+  
+**15\. Privacy and Employment Compliance/ Russia**
+
+  * [ List of recommended measures to improve working conditions (2018) ](https://www.luxoft.com/upload/privacy-policy/List%20of%20recommended%20measures%20to%20improve%20working%20conditions%20\(2018\).pdf)
+  * [ List of recommended measures to improve working conditions (2019) ](https://www.luxoft.com/upload/privacy-policy/List%20of%20recommended%20measures%20to%20improve%20working%20conditions%20\(2019\).pdf)
+  * [ Summary list of results of a special assessment of working conditions (table 1) 2018 ](https://www.luxoft.com/upload/privacy-policy/Summary%20list%20of%20results%20of%20a%20special%20assessment%20of%20working%20conditions%20\(table%201\)%202018.pdf)
+  * [ Summary list of results of a special assessment of working conditions (table 1) 2019 ](https://www.luxoft.com/upload/privacy-policy/Summary%20list%20of%20results%20of%20a%20special%20assessment%20of%20working%20conditions%20\(table%201\)%202019.pdf)
+  * [ Summary list of results of a special assessment of working conditions (table 2) 2018 ](https://www.luxoft.com/upload/privacy-policy/Summary%20list%20of%20results%20of%20a%20special%20assessment%20of%20working%20conditions%20\(table%202\)%202018.pdf)
+  * [ Summary list of results of a special assessment of working conditions (table 2) 2019 ](https://www.luxoft.com/upload/privacy-policy/Summary%20list%20of%20results%20of%20a%20special%20assessment%20of%20working%20conditions%20\(table%202\)%202019.pdf)
+  * [ Data protection policy Luxoft Professional LLC_Russia 2019 ](https://www.luxoft.com/upload/privacy-policy/Data%20protection%20policy_Luxoft%20Professional%20LLC_Russia_2019.pdf)
+  * [ Online Privacy Policy (Russia) ](https://www.luxoft.com/upload/privacy-policy/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B5%20%D0%B8%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)
+
+
