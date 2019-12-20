@@ -1,77 +1,143 @@
-> *The following text is extracted and transformed from the 88nightmarket.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417170255id_/https%3A//88nightmarket.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 88nightmarket.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220081045id_/https%3A//88nightmarket.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 88NIGHTMARKET
+# Privacy Policy – 88NIGHTMARKET
 
-88Rising, Inc. (“88RISING” or “we” or “us”) has created this privacy policy (this "Privacy Policy") in order to demonstrate its commitment to users, visitors, roasters and user privacy with regard to the 88RISING’s website located at **88nightmarket.com**.  Privacy on the Service is of great importance to us.  Because we gather important information from our users and visitors (collectively “Users” or “you” or “your”), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices.  By accessing the Service, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located at: https://88nightmarket.com/pages/terms-conditions.
+**Live Nation Entertainment Privacy Policy – Your Privacy Rights**  
 
-**Information We Collect**
+(last updated February 24, 2017)
 
-We may require Users who use the Service to give us contact information, which may include, but is not limited to, the User’s name, mailing address, phone number, email address, cookies, IP logs, and other information (collectively “Personal Information”).  Besides the Personal Information, we may also collect other information you provide when using the Service and your use of the Website including but not limited to viewed pages, entered search terms, product purchases, transaction related information (other than payment information), any User reviews, comments, or other Submissions. 
+**This Privacy Policy applies to the sites and apps where it appears.**
 
-**How We Use the Information We Collect**
+This Policy describes how we treat personal information we collect both online and offline.  This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us.    
 
-We use the information that we collect to provide and maintain the Website as we deem appropriate in our sole discretion and to provide the Service, and to provide any other services that you and 88RISING agree to. We may also use the information to contact you to further discuss interest in our company, the goods and services that we provide, and to send information regarding our company or partners, such as promotions and events. You may be invited to receive an email newsletter or other correspondence by providing an email address.  Your email address and any Personal Information will not be distributed or shared with third parties unless it is to transact such business as you have contracted us to do, to comply with any legal processes and/or law enforcement requests, or in order to conduct any business as we, in our sole subjective discretion, deem reasonable. We may also email (or send via other methods) information regarding updates to the Service, Website, or 88RISING, and may send a newsletter, or other correspondence. You will have an opportunity to unsubscribe to any emails or newsletters at the bottom of the emails.  Even if you are removed from any such list, if you use our services, you will continue to receive email correspondence from 88RISING related to its Service. Any opt-out by you is not deemed valid until processed by 88RISING. It is your obligation to verify that you have been opted-out. 88RISING shall not be liable for problems with the opt-out procedures.
+**We collect information from and about you.**
 
-88RISING does not wish to collect any Personal Information (or any information at all) from any persons under 18 years old.  You may notify and direct 88RISING to delete all identifiable information regarding your or your family that you have provided to 88RISING by contacting cs@88rising.com.
+**Contact information**.  For example, we might collect your name and street address.  We might also collect your phone number or email.
 
-**Disclosure of User Information to Third Parties**
+**Payment and billing information**.  For example, we collect your credit card number and zip code when you buy a ticket.
 
-In addition to the use of information described above, 88RISING reserves the right to disclose information provided by Users (including Personal Information) as follows:
+**Information you post**.  For example, we collect information you post in a public space on our website or on a third-party social media site.
 
-Disclosure By Law.  You acknowledge and agree that we may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law); (2) protect or defend 88RISING’s, or a third party’s, rights or property; or (3) protect someone’s health or safety, such as when harm or violence against any person (including you) is threatened.
+**Demographic information**.  We may collect information about events you like or products you buy.  We might collect this as part of a survey, for example. 
 
-Disclosure to Third Party Service Providers. We may share your information with third party service providers to perform functions on our behalf.  Examples include but are not limited to fulfilling orders, processing payments, handling billing disputes and collections, analyzing data, providing marketing assistance and providing customer service. 88RISING may also partner with third party service providers for fraud prevention and/or identity verification. Your information will be treated as private and confidential by such third party service providers and not used for any other purpose than we authorize.
+**Other information**.  If you use our website, we may collect information about the browser you’re using.  We might look at what site you came from, or what site you visit when you leave us.  If you use our mobile app, we may collect your GPS location or your device’s unique identifier.  We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running.  We might look at how often you use the app and where you downloaded it.   
 
-Data/Information Transfer As a Result of Sale of Business. In the event that 88RISING is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, 88RISING reserves the right to sell or transfer User information (including Personal Information) as part of any such transaction.  To the maximum extent allowable by law, the Privacy Policy will apply to the User information as transferred to the successor entity. However, User information submitted after a transfer to a successor entity may be subject to a new privacy policy adopted by the successor entity.
+**We collect information in different ways.**
 
-**Access to Your Personal Information**
+**We collect information directly from you**.  For example, if you register for a promotion or buy tickets.  We also collect information if you post a comment on our websites or ask us a question. 
 
-Certain information will actively persist on the Service even if you close your account, including messages you posted on our Service.  In addition, personal information may remain in our archives and information you update or delete, or information within a closed account, may persist internally for our administrative purposes, legal compliance reasons, to the extent permitted by law.  In addition, we typically do not remove information you posted publicly through or on our Service. 
+**We collect information from you passively**. We use tracking tools like browser cookies and web beacons.  To learn more about these tools and to control them, please click  _here_.
 
-**Data Retention**
+**We get information about you from third parties.   **For example, if you use an integrated social media feature on our websites or mobile applications.  The third-party social media site will give us certain information about you.  This could include your name and email address.  Your activities on our sites and apps may be posted to the social media platforms. 
 
-We keep your information, such as your name, email address and phone number for as long as you keep your account in existence.  In some instances, we will delete the information you provide to us after it is no longer needed. We also keep information about you and your use of the Service for long as it is necessary for our legitimate business interests, for legal reasons, and to prevent harm to you, any third party, or us.
+**We use information as disclosed and described here.**
 
-**Children**
+**We use information to respond to your requests or questions**.  For example, we might use your information to confirm your registration for an event or contest.   If you give us your friend’s information, we will only use it to provide services you requested.
 
-The Service is not intended for persons under 18 years of age, or any higher minimum age in the jurisdiction where that person resides (“Child” or “Children”), and is not intentionally developed for or directed to Children. We do not knowingly solicit or collect any information from Children nor do we knowingly market our products or services to Children. If we learn that we have collected information of a Child, we will take steps to delete such information from our files as soon as possible and, if applicable, terminate that Child’s account. 
+**We use information to improve our products and services.   **We might use your information to customize your experience with us.  This could include displaying content based upon your preferences. 
 
-**Third Party Websites**
+**We use information to look at site trends and customer interests**.  We may use your information to make our website and products better.  We may combine information we get from you with information about you we get from third parties.
 
-The Service may contain links to other websites.  We are not responsible for the privacy practices or the content of these other websites, and the inclusion of the linked third-party websites on the Service does not imply our endorsement of the third-party website and/or content and materials found at the linked website, except as specifically stated otherwise by 88RISING.  You will need to check the policy statement of these others websites to understand their policies. When you access a linked site you may be disclosing private information. It is your responsibility to keep such information private and confidential.
+**We use information for security purposes**.  We may use information to protect our company, our customers, or our websites.
 
-**Cookies and Do Not Track Signals**
+**We use information for marketing purposes**.  For example, we might send you information about special promotions or offers.  We might also tell you about new features or products.  These might be our own offers or products, or third-party offers or products we think you might find interesting.  Or, for example, if you buy tickets from us we’ll enroll you in our newsletter.  We may use push notifications and your location information on our mobile apps to send you alerts regarding local events. To learn about your choices for these communications, read the  _choices section_  below. 
 
-When you view the Website, we may store some information on your computer's hard drive. This information will be in the form of a "Cookie." Most web browsers automatically accept Cookies, but you can change your browser to prevent that. Without accepting a Cookie, your use of the Service may be affected.
+**We use information to send you transactional communications.**   For example, we might send you emails about your account or a ticket purchase.  We might also contact you about this policy or our website terms.
 
-Do Not Track Signals from Web Browsers – The Website is not presently configured to support Do Not Track (“DNT”) signals from web browsers. 
+**We use information as otherwise permitted by law**.
 
-**Security**
+**We may share information with third parties.**
 
-We take the security of your Personal Information seriously. We appreciate your membership, and will employ reasonable measures designed to protect your information from unauthorized access and unsolicited contact from third party groups. To that end, all sensitive personal information is transmitted through secure networks supported by SSL encryption.
+**We will share information within the Live Nation family of companies.   **This may include Ticketmaster and Live Nation-owned or operated venues, for example.  ** **
 
-Please note that data that is transported over an open network, such as the Internet or e-mail, may be accessible to anybody. We cannot guarantee the confidentiality of any communication or material transmitted via such open networks. When disclosing any personal information via an open network, you should remain mindful of the fact that it is potentially accessible to others, and consequently, can be collected and used by others without your consent. In particular, while individual data packets are often encrypted, the names of the sender and recipient are not. A third party may therefore be able to trace an existing bank account or relationship or one that is subsequently created.  Even if both the sender and recipient are located in the same country data may also be transmitted via such networks to other countries regularly and without controls, including to countries that do not afford the same level of data protection as your country of domicile.
+**We will share information with third parties who perform services on our behalf**.  For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases.  Some vendors may be located outside of the United States.
 
-Your data may be lost during transmission or may be accessed by unauthorized parties. We do not accept any liability for direct or indirect losses as regards the security of your Personal Information or data during its transfer via Internet. Please use other means of communication if you think this is necessary or prudent for security reasons.
+**We will share information with our business partners.**  This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies, which may include sending you marketing communications. You should read those polices to learn how they treat your information.
 
-**Your California Privacy Rights**
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.   **For example, we will share information to respond to a court order or subpoena.  We may also share it if a government agency or investigatory body requests.  Or, we might also share information when we are investigating potential fraud.  This might include fraud we think has happened during a sweepstakes or promotion.
 
-California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes during the preceding calendar year. This request is free and may be made once a year. To make such a request, please email us at the following address:  **cs@88rising.com**
+**We may share information with any successor to all or part of our business**.  For example, if part of our business is sold we may give our customer list as part of that transaction.
 
-**International Privacy Laws**
+**We may share your information for reasons not described in this policy.**  We will tell you before we do this.
 
-If you are visiting 88RISING from outside of the United States, please be aware that you are sending information (including personal data) to the United States, where our servers are located. That information may then be transferred within the United States or back out of the United States to other countries outside of your country of residence, depending on the type of information and how it is stored by us. These countries (including the United States) may not have data protection laws as comprehensive or protective as those in the country of your residence, however, our collection, use, and storage of your personal data will at all times remain governed by this Privacy Policy.
+**You have certain choices about how we use your information.**
 
-**Complaints**
+**You can opt out of receiving our marketing emails.   **To stop receiving our promotional emails, [ _email us_](mailto:privacy@livenation.com "Email Opt-Out")  or follow the instructions in any promotional message you get from us.  Your device settings should provide you with instructions on how to turn off push notifications.   It may take about ten days to process your request.  Don’t worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages.  For example, we may still contact you about your orders. 
 
-While we hope that you will not need to, if you want to complain about our use of Personal Information please send an email detailing your complaint with the subject line “Personal Information Complaint” to **cs@88rising.com**.
+**You can modify information you have given us.**   To modify or delete information you gave us, log into your account and follow the instructions to modify your profile.  If you do not have an account, you can [email us](mailto:privacy@livenation.com "Privacy email"). We make changes as soon as we can.  This information may stay in our backup files.  If we cannot make the changes you want, we will let you know and explain why.  If you contact us requesting access to your information, we will respond within 30 days.
 
-**Additional Information**
+**You can control cookies and tracking tools.**   To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [ _here_](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "Cookie tracking ").
 
-This Policy is part of the Terms of Use of the Service and any use of the Service is governed by those Terms of Use. Questions regarding this Policy or the practices of the Service should be directed to 88RISING by emailing such questions to **cs@88rising.com**.
+**You can control tools on your mobile devices.   **For example, you can turn off the GPS locator or push notifications on your phone.  Each push notification has an “unsubscribe” link.
 
-**Updates to our Privacy Policy**
+**Your California Privacy Rights.**
 
-If we make any material changes to this Privacy Policy, we will post a notice on this Website notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Website periodically to see if any recent changes to this Privacy Policy have occurred.
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information.  You can make a request one time each year. 
 
-If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department at **cs@88rising.com**.
+To exercise your rights, you can [email us](mailto:privacy@livenation.com "Privacy email address") [](mailto:privacy@livenation.com) or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
+
+**These sites and apps are not intended for children.**
+
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13.  If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com "Privacy Email").  You can also write to us at the address below.  Please mark your inquiries “COPPA Information Request.”
+
+Parents, you can also learn more about how to protect children's privacy online [here ](http://www.business.ftc.gov/privacy-and-security/children's-privacy "Children's Privacy Info")[](http://www.business.ftc.gov/privacy-and-security/children's-privacy). 
+
+**We use standard security measures.**
+
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected.  However, the Internet is not 100% secure.  We cannot promise that your use of our sites will be completely safe.  We encourage you to use caution when using the Internet.  This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.
+
+**We store information both in and outside of the United States.**
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States.  This site is subject to U.S. laws, which may not afford the same level of protection of those in your country. 
+
+**We may link to third party sites or services we don’t control.**
+
+If you click on one of those links, you will be taken to websites we do not control.  This policy does not apply to the privacy practices of those websites.  Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
+
+**Feel free to contact us if you have more questions.**
+
+If you have any questions about this Policy or other privacy concerns, you can email us at privacy@livenation.com . Please do not include your credit card number or other sensitive information in your email.  You can also write us at:
+
+ Live Nation Entertainment, Inc.
+
+9348 Civic Center Drive
+
+Beverly Hills, CA 90210
+
+Attention: Privacy Officer, Legal 
+
+**What we will do if there is an update to this policy.**
+
+From time to time we may change our privacy practices.  We will notify you of any material changes to this policy as required by law.  We will also post an updated copy on our website.  Please check our site periodically for updates.
+
+**Ad Choices**
+
+**We use common tracking technologies.**
+
+We or our vendors use several common tracking tools.  These may include browser cookies. We may also use web beacons and similar technologies.  We use these tools: 
+
+  * To recognize new or past customers.
+  * To store your password if you are registered on our sites.
+  * To improve our website.
+  * To serve you with advertising content in which we think you will be interested. To do so, we or our business partners may observe your behaviors over time on this website and across third party websites. We may also collect information about your browsing history.
+  * To better understand the interests of our customers and our website visitors.
+
+
+
+**You can control tracking tools.**
+
+Your browser may give you the ability to control cookies.  How you do so depends on the type of cookie.  Certain browsers can be set to reject browser cookies.  To control flash cookies, which we may use on certain websites from time to time, you can go [here](ttp://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "tracking opt-out").  Why?  Because flash cookies cannot be controlled through your browser settings. 
+
+If you block cookies on your browser, certain features on our sites may not work. If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
+
+Some browsers have a "Do Not Track" feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
+
+We and our vendors may use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Your browser may offer a management tool for removing LSOs.
+
+**Some ads may be served based on tracking.**
+
+We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps.  This may also include our ads served on other companies’ sites.  These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites.  This type of advertising is called “online behavioral advertising.”
+
+**You can opt-out of online behavioral advertising.**
+
+To opt out of online behavioral advertising, [click ](http://preferences-mgr.truste.com/?pid=ticketmaster01&aid=ticketmaster01&type=ticketmaster "Opt-Out")here.  If you opt out, you may continue to see ads from us, but they will not be tailored to your interests.
