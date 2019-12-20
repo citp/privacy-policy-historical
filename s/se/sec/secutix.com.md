@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secutix.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904020905id_/https%3A//www.secutix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secutix.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220111110id_/https%3A//www.secutix.com/privacy-policy) for the most accurate reproduction.*
 
 # SecuTix privacy policy, a comittment to be compliant to GDPR
 
