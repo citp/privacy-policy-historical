@@ -1,100 +1,151 @@
-> *The following text is extracted and transformed from the newrez.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrez.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220112724id_/https%3A//www.newrez.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# NewRez privacy policy
 
-**GoDaddy Respects Your Privacy**
+**User Privacy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Information the Companies Collect**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**NewRez LLC fka and its subsidiary lenders, Shelter Mortgage Company, LLC, Shelter Lending Services, LLC, Guaranty Mortgage Services, LLC, Carolina One Mortgage, LLC, Summit Home Mortgage, LLC, Capital Partners Mortgage, LLC, Conway Financial Services, LLC, Partners United Financial, LLC, NewRez Community Lending LLC, Shelter Home Mortgage, LLC, Synergy Home Mortgage, LLC, Milestone Home Lending, LLC, and Plus Relocation Mortgage, LLC and Preferred Lending Services, LLC  (each individually, “Company” or, collectively, the “Companies”)** may collect certain types of information from you, such as information you voluntarily provide via forms, surveys, applications, etc. when you visit the Companies’ sites. The Companies may also collect information about you from your online browsing and transactions, including your preferences, pages visited, technical information regarding your computer and operating systems, such as your Internet Protocol (IP) address, domain name and system configuration and settings.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**What are Cookies?**
 
-**Information Collection and Use**
+Cookies are pieces of information stored directly on the computer you are using. The Companies, or any of the Companies’ third-party advertising service providers, may place cookies or similar files on your hard drive for security purposes, to facilitate site navigation and to personalize your experience while visiting the Companies’ sites. Cookies allow the Companies to collect technical and navigational information, such as browser type, time spent on its respective site and pages visited. Cookies allow the Companies to select which of its advertisements or offers are most likely to appeal to you and display them while you are on the Companies’ websites. The Companies may also use cookies in online advertising to track consumer responses to the Companies’ advertisements and may use cookies or other files to track your use of other websites. Cookies and other technologies provide the Companies the capability to monitor the use of the Companies’ websites so the Companies can continually improve the design and functionality to better serve you. Cookies and similar files do not contain or capture unencrypted personally identifiable data.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+If you do not accept these cookies, you may experience some inconvenience in your use of some online options. You also may not receive advertising or other offers from the Companies that are relevant to your interests and needs. The Companies use web-browsing cookies to display information more effectively to you and to gather data about the usage of the Companies’ websites.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+At times, the Companies may use other technologies to capture customer specific data to help understand how customers use the Companies’ sites and to assist us with resolving customers' questions regarding the use of the Companies’ sites.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Advertising**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+The Companies advertise on pages within the Companies’ websites as well as on other websites not affiliated with the Companies. The Companies contract with other companies to advertise to you through the use of cookies and web beacons.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Information collected through cookies and web beacons includes the number of people who look at each of the pages on the Companies’ websites, search engine referrals, browsing patterns within the Companies’ websites, and responses to advertisements and promotions on the Companies’ websites. Information collected may also include other trends and activity on the Companies’ websites, basic information about whether you have visited the sites before, your Internet connection and computer settings, such as your browser, your IP address and your time zone.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+From time to time, consumers will experience 'Pop Ups' from other companies while visiting the Companies’ sites. Pop Ups are generated by 'Adware' placed on your computer when other sites have been visited. The Companies do not participate in the use of Adware.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Advertising on the Companies’ websites**
 
-**Security**
+The Companies advertise their respective products and services, on pages within the Companies’ websites. These advertisements may take the form of banner ad, and other formats.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+**Advertising on other websites**
 
-**Updating Your Information**
+The Companies contract advertising with other companies to advertise the Companies’ accounts and services on websites not affiliated with the Companies. If you click on one of the Companies’ ads, you link to the particular Company website that offers the advertised service. These ads may contain cookies that allow tracking of your response to the Company’s advertisements. These cookies do not identify you personally. The Companies prohibit any company that places the Companies’ ads from using this information for any purpose other than to assist the Companies in measuring the effectiveness of the Companies’ ads.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**How the Companies use and share information**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Unless otherwise described in this policy, the Companies will use and share any information that the Companies collect from or about you that is covered by this policy in accordance with the Customer Privacy Policy below.
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+The Companies may also share aggregated or anonymous data about the Companies’ customers and visitors to the Companies’ websites with advertising service providers and with companies that help the Companies understand how you use the Companies’ websites.
 
-      iii.      You may call us at: (480) 505-8800
+**Linking to other sites**
 
-       iv.      You may fax us at: (480) 505-8844
+The Companies may provide links to other companies, such as credit bureaus or merchants. If you choose to link to websites not controlled by the Companies, the Companies are not responsible for the privacy or security of these sites, including the accuracy, completeness, reliability or suitability of their information. If you are asked to provide information on one of these websites, you are strongly urged to carefully study their privacy policies before sharing your information.
 
-**Sending Emails**
+**Looking out for children**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+The Companies do not knowingly market to or solicit information from children under 13 without parental consent. The Companies recognize that protecting children's identities and privacy online is important, and that the responsibility to do so rests with both the online industry and with parents. While the Companies work to protect your personal information, you also have responsibility.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+_Internet safety for children. The Internet is a public network. Children's access to the Internet can allow them to visit inappropriate websites and be exposed to unwanted risks. COPPA, the Children's Online Privacy Protection Act, protects children under the age of 13 from the online collection of personal information. Learn more about COPPA on the_  [ _Federal Trade Commission's website_](http://www.ftc.gov/privacy/coppafaqs.shtm) _. Parents can be proactive by installing filtering software that gives them more control over their family's Internet experience._
 
-**Compliance with Laws and Law Enforcement**
+The Companies recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Customer Privacy**
 
-**Third Party Service Providers**
+Respecting and protecting customer privacy is vital to each Company’s business. By explaining the Company’s Customer Privacy Policy to you, the Company trusts that you will better understand how it keeps customer information private and secure while using it to serve you better. Keeping customer information secure is a top priority, and the Company is disclosing the Customer Privacy Policy to help you understand how it handles the personal information about you that the Company collects and discloses. This notice explains how you can limit the Company’s disclosure of personal information about you. The provisions of this notice will apply to former customers as well as current customers unless otherwise stated.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**The Customer Privacy Policy explains the Following:**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * Protecting the confidentiality of customer information.
+  * Who is covered by the Customer Privacy Policy.
+  * How information is gathered.
+  * The types of information that is shared, why, and with whom.
+  * Opting Out - how to instruct a Company not to share certain information about you or not to contact you.
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+**Protecting the Confidentiality of Customer Information:**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+The Company takes its responsibility to protect the privacy and confidentiality of customer information very seriously. Each Company maintains physical, electronic, and procedural safeguards that comply with federal standards to store and secure information about you from unauthorized access, alteration, and destruction. The Company’s control policies, for example, authorize access to customer information only by individuals who need access to do their work.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+From time to time, the Company may enter into agreements with other companies to provide services to the Company or make products and services available to you. Under these agreements, the companies may receive information about you but they must safeguard this information, and they may not use it for any other purposes.
 
-**Tell-A-Friend**
+**Who is Covered by the Customer Privacy Policy:**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Each Company provides its Customer Privacy Policy to customers when they conduct business with the Company. If changes are made to the Customer Privacy Policy to permit the Company to share additional information it has about you, as described below, or to permit disclosures to additional types of parties, you will be notified in advance. This Customer Privacy Policy applies to consumers who are current customers or former customers.
 
-**What Happens to my Personal Information if I Opt Out?**
+**How the Company Gathers Information:**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+As part of providing you with financial products or services, the Company may obtain information about you from the following sources:
 
-**Transfer of Data Abroad**
+  * Application, forms, and other information that you provide to the Company, whether in writing, in person, by telephone, electronically, or by any other means. This information may include your name, address, employment information, income, and credit references;
+  * Your transaction with the Company, its affiliates, or others. This information may include your account balances, payment history, and account usage;
+  * Consumer reporting agencies. This information may include account information and information about your credit worthiness;
+  * Public sources. This information may include real estate records, employment records, telephone numbers, etc.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Information the Company Shares:**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+The Company may disclose information it has about you as permitted by law. The Company is required to or the Company may provide information about you to third-parties without your consent, as permitted by law, such as:
 
-**Contacting Our Site**
+  * To regulatory authorities and law enforcement officials.
+  * To protect against or prevent actual or potential fraud, unauthorized, claims, or other liability.
+  * To report account activity to credit bureaus.
+  * To consumer reporting agencies.
+  * To respond to a subpoena or actual sale, merger, or transfer of all or a portion of a business or an operating unit, etc.
+  * In connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or an operating unit, etc.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-* * *
 
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+In addition, the Company may provide information about you to its service providers to help the Company perform marketing services. This information provided to these service providers may include the categories of information described above under "How the Company Gathers Information" limited to only that which the Company deems appropriate for these service providers to carry out their functions and enable the Company to market to you.
+
+This policy is subject to change.
+
+**Opting Out**
+
+You may choose to Opt Out of direct marketing by a Company at any time. You may also limit the contact from a Company. You may Opt Out of the following:
+
+  1. No Telephone Calls from the Company;
+  2. No Email from the Company;
+  3. No Direct Mail from the Company;
+  4. Information Sharing with the Company’s affiliates;
+  5. Information Sharing with non-affiliates of the Company.
+
+
+
+To Opt Out please contact the respective Company as follows:
+
+ **NewRez LLC:**  [Unsubscribed_OptOuts@newrez.com](mailto:Unsubscribed_OptOuts@newpennfinancial.com) or send a letter to: NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Shelter Mortgage Company, LLC:**  [Unsubscribed_OptOuts@ShelterMortgage.com](mailto:Unsubscribed_OptOuts@ShelterMortgage.com) or send a letter to: Shelter Mortgage Company, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Shelter Lending Services, LLC:**  [Unsubscribed_OptOutsShelterLendingServices@ShelterMortgage.com](mailto:Unsubscribed_OptOutsShelterLendingServices@ShelterMortgage.com) or send a letter to: Shelter Lending Services, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Guaranty Mortgage Services, LLC:**  [Unsubscribed_OptOuts@guarantymortgage.com](mailto:Unsubscribed_OptOuts@guarantymortgage.com) or send a letter to: Guaranty Mortgage Services, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Carolina One Mortgage, LLC:**  [Unsubscribed_OptOuts@](mailto:Unsubscribed_OptOuts@CarolinaOneMTG.com)[CarolinaOneMTG.com](mailto:Unsubscribed_OptOuts@CarolinaOneMTG.com) or send a letter to: Carolina One Mortgage, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Summit Home Mortgage, LLC:**  [Unsubscribed_OptOuts@summithomemtg.com](mailto:Unsubscribed_OptOuts@summithomemtg.com) or send a letter to: Summit Home Mortgage, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Capital Partners Mortgage, LLC:**  [Unsubscribed_OptOuts@capitalpartnersmtg.com](mailto:Unsubscribed_OptOuts@capitalpartnersmtg.com) or send a letter to: Capital Partners Mortgage, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Conway Financial Services, LLC:**  [Unsubscribed_OptOuts@ConwayFinancial.com](mailto:Unsubscribed_OptOuts@ConwayFinancial.com) or send a letter to: Conway Financial Services, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Partners United Financial, LLC:**  [Unsubscribed_OptOuts@partnersunitedfinancial.com](mailto:Unsubscribed_OptOuts@partnersunitedfinancial.com) or send a letter to: Partners United Financial, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **NewRez Community Lending LLC:**  [Unsubscribed_OptOuts@NPCommunityLending.com](mailto:Unsubscribed_OptOuts@NPCommunityLending.com) or send a letter to: NewRez Community Lending LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Shelter Home Mortgage, LLC:**  [Unsubscribe_OptOutsShelterHomeMortgage@sheltermortgage.com](mailto:Unsubscribe_OptOutsShelterHomeMortgage@sheltermortgage.com)[](mailto:Unsubscribed_OptOuts@shelterhomemortgage.com) or send a letter to: Shelter Home Mortgage, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+ **Synergy Home Mortgage, LLC:**  [Unsubscribed_OptOuts@Synergyhm.com](mailto:Unsubscribed_OptOuts@Synergyhm.com) or send a letter to: Synergy Home Mortgage, LLC c/o NewRez, LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+**Milestone Home Lending, LLC:**  [Unsubscribed_OptOuts@MilestoneHL.com](mailto:Unsubscribed_OptOuts@MilestoneHL.com) or send a letter to: Milestone Home Lending, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+**Plus Relocation Mortgage, LLC:**[  Unsubscribed_OptOuts@PlusRelocationMortgage.com](mailto:Unsubscribed_OptOuts@PlusRelocationMortgage.com) or send a letter to: Plus Relocation Mortgage, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+**Preferred Lending Services, LLC:  **[Unsubscribed_OptOuts@FLPLS.com](mailto:Unsubscribed_OptOuts@FLPLS.com) or send a letter to: Plus Relocation Mortgage, LLC c/o NewRez LLC, Attn: Compliance Dept., 1100 Virginia Drive, Suite 125, Fort Washington, PA 19034
+
+[Click here for the Privacy Notices for all entities](https://web.archive.org/media/1561062/privacypolicy_12132019.pdf "NewRez Family of Companies Privacy Notices 12132019.pdf")
+
+[Click here for the NewRez Servicing Privacy Policy](https://web.archive.org/newrez-servicing-privacy-policy/ "New Penn Servicing Privacy Policy")
