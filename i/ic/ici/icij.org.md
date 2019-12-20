@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330144207id_/https%3A//www.icij.org/about/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220091503id_/https%3A//www.icij.org/about/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ICIJ
 
