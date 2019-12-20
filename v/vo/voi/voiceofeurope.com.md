@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voiceofeurope.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626235839id_/https%3A//voiceofeurope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceofeurope.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220093843id_/https%3A//voiceofeurope.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Voice of Europe
 
