@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contec.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512231458id_/https%3A//www.contec.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contec.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220064403id_/https%3A//www.contec.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CONTEC
 
