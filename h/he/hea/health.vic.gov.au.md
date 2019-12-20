@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908225534id_/https%3A//www2.health.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220200254id_/https%3A//www2.health.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - health.vic
 
@@ -34,7 +34,17 @@ In broad terms this means that we:
 
 For information in the possession of our service partners, this right is available through privacy legislation.
 
-This policy is complemented by high-level departmental guidelines intended to assist the department and its funded service partners to put the policy and law into practice. 
+This policy is complemented by high-level departmental guidelines intended to assist the department and its funded service partners to put the policy and law into practice.
+
+### Sizmek Pixel
+
+This website may from time to time use a Sizmek Pixel. We use this tool only on specific marketing landing pages. This tool allows us to assess the effectiveness of digital advertising for public health campaigns.
+
+The collected data is anonymous and Better Health Channel cannot see the personal data of any individual user.
+
+For more information visit the [privacy policy section](https://www.sizmek.com/privacy-policy/ "link to external website") of the Sizmek website.
+
+For Sizmek opt-out options, see [opt-out options and additional information](https://www.sizmek.com/privacy-policy/optedout/#options "link to external website").
 
 ##  Privacy principles
 
