@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409003820id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220045331id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
 
 # Flinders University website privacy statement - Flinders University
 
@@ -21,12 +21,12 @@ When you visit this site, our server logs may automatically log some or all of t
 
 
 
-This information is collected, used and disclosed, including for future marketing purposes, in accordance with our [Privacy Policy](https://web.archive.org/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf "Privacy Policy").  
+This information is collected, used and disclosed, including for future marketing purposes, in accordance with our [Privacy Policy](https://www.flinders.edu.au/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf "Privacy Policy").  
 
 
 ## Email addresses
 
-Our online forms may require you to provide contact details, your email address and other personal information. This personal information may be collected, used and disclosed by the University for the purposes of processing  and responding  to your requests, conducting the business of the University, and direct marketing the University’s services to you, in accordance with the [University's Privacy Policy](https://web.archive.org/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf "Privacy Policy").
+Our online forms may require you to provide contact details, your email address and other personal information. This personal information may be collected, used and disclosed by the University for the purposes of processing  and responding  to your requests, conducting the business of the University, and direct marketing the University’s services to you, in accordance with the [University's Privacy Policy](https://www.flinders.edu.au/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf "Privacy Policy").
 
 ## Subscriptions
 
