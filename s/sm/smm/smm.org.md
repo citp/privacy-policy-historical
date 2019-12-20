@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005005507id_/https%3A//www.smm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220120300id_/https%3A//smm.org/privacy) for the most accurate reproduction.*
 
 # Information Privacy Statement | Science Museum of Minnesota
 
 **Contents**
 
   * General Privacy Statement
+  * Donors
   * Notification of Changes to this Policy
   * Information Collected by the Museum
   * Information Submitted by Third Parties
@@ -29,6 +30,12 @@
 The Science Museum of Minnesota is committed to its mission to "Turn on the science: Inspire learning. Inform policy. Improve lives." As an element of its operations in pursuit of that mission, the Science Museum routinely collects contact and other personal information from or about its constituents. The Science Museum recognizes and respects the need for privacy and security with information of this kind. The Science Museum is committed to following both the letter and the spirit of all laws governing its operations, including those pertaining to privacy and use of information.
 
 The following privacy policy describes the Science Museum's current policies and practices with regard to information collected from and about its constituents. Unless otherwise indicated, all procedures apply to information collected online (via the Internet, World Wide Web, and email) and offline (via postal mail, telephone, fax, and in person). The collective term "constituents" is used to refer to Science Museum members, donors, website visitors, students, retail and rental customers, gift recipients for whom personal information is required, people who respond to offers sent by mail, people who request that information about the museum be sent to them, and all others from whom we collect information in order to provide requested services and products.
+
+back to top
+
+#### Donors
+
+The Science Museum of Minnesota is firmly committed to protecting the privacy of our donors. We do not share our membership, or donor information with any outside entities, except for companies that we must work with to conduct our business. When we do work with such companies (for example, ticketing or fundraising firms), we ensure that they comply with our data privacy and security policies. Certain aggregate data, which does not identify specific donors or their personal information, may be shared with funders, government organizations, and other groups (see below for details). The museum does not share its mailing or telephone lists with political candidates, parties or campaign organizations.
 
 back to top
 
