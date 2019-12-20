@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nibirutech.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816044404id_/https%3A//guide.pf.tap4fun.com/privacy_policy/en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nibirutech.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220200410id_/https%3A//guide.pf.tap4fun.com/privacy_policy/en.html) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Last Updated: 05/2018
 
-Languages: [English](https://web.archive.org/web/20180816044404id_/https%3A//guide.pf.tap4fun.com/privacy_policy/en.html) [Deutsche](https://web.archive.org/web/20180816044404id_/https%3A//guide.pf.tap4fun.com/privacy_policy/de-DE.html) [español](https://web.archive.org/web/20180816044404id_/https%3A//guide.pf.tap4fun.com/privacy_policy/es-419.html) [Français](https://web.archive.org/web/20180816044404id_/https%3A//guide.pf.tap4fun.com/privacy_policy/fr-FR.html) [Português](https://web.archive.org/web/20180816044404id_/https%3A//guide.pf.tap4fun.com/privacy_policy/pt-BR.html) [Русский](https://web.archive.org/web/20180816044404id_/https%3A//guide.pf.tap4fun.com/privacy_policy/ru-RU.html)
+Languages: [English](https://web.archive.org/web/20191220200410id_/https%3A//guide.pf.tap4fun.com/privacy_policy/en.html) [Deutsche](https://web.archive.org/web/20191220200410id_/https%3A//guide.pf.tap4fun.com/privacy_policy/de-DE.html) [español](https://web.archive.org/web/20191220200410id_/https%3A//guide.pf.tap4fun.com/privacy_policy/es-419.html) [Français](https://web.archive.org/web/20191220200410id_/https%3A//guide.pf.tap4fun.com/privacy_policy/fr-FR.html) [Português](https://web.archive.org/web/20191220200410id_/https%3A//guide.pf.tap4fun.com/privacy_policy/pt-BR.html) [Русский](https://web.archive.org/web/20191220200410id_/https%3A//guide.pf.tap4fun.com/privacy_policy/ru-RU.html)
 
 You acknowledge that you have read and understood this privacy policy. If you do not agree with this privacy policy, you must not use Tap4Fun Services. If you change your mind in the future, you may withdraw your consent to use of your personal information in accordance with this policy.
 
