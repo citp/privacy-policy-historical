@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprinklecontent.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323235632id_/https%3A//strossle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprinklecontent.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220024227id_/https%3A//strossle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Strossle
 
