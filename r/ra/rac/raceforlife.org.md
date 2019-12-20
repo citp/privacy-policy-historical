@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401165030id_/http%3A//www.cancerresearchuk.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220102340id_/http%3A//www.cancerresearchuk.org/privacy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy | Cancer Research UK
 
@@ -32,7 +32,7 @@ You should check any privacy policy provided to you where you give your data to 
 We also use information from the following sources:
 
 **Social Media**  
-Depending on your settings or the privacy policies for social media and messaging services like Facebook, WhatsApp or Twitter, you might give us permission to access information from those  services, for example when you publicly tag us in an event photo.
+Depending on your settings or the privacy policies for social media and messaging services like Facebook, WhatsApp or Twitter, you might give us permission to access information from those services, for example when you publicly tag us in an event photo.
 
 **Information available publicly**  
 We supplement information on our supporters with information from publicly available sources such as charity websites and annual reviews, corporate websites, public social media accounts, the electoral register and Companies House in order to create a fuller understanding of someone’s interests and support of CRUK. For more information, please see our section on “Building profiles of supporters” below.
@@ -44,8 +44,8 @@ We collect, store and use the following kinds of personal information:
   * your date of birth;
   * your gender;
   * your bank or credit card details where you provide these to make a payment;
-  * if you volunteer for us or apply for a job with us, information necessary for us to process these applications and assess your suitability (which may include things like employment status, previous experience depending on the context, as well as any unspent criminal convictions or pending court cases you may have);
-  * if you apply for research funding, information necessary to process your application, such as your employment history; the employment history of individuals who will be working on the grant, and salary information for anyone who’s salary will be funded by the grant;
+  * **if you volunteer for us or apply for a job with us** , information necessary for us to process these applications and assess your suitability (which may include things like employment status, previous experience depending on the context, as well as any unspent criminal convictions or pending court cases you may have);
+  * **if you apply for research funding** , information necessary to process your application, such as your employment history; the employment history of individuals who will be working on the grant, including any allegations of bullying or harassment and salary information for anyone who’s salary will be funded by the grant;
   * information about your activities on our website(s) and about the device you use to access these, for instance your IP address and geographical location;
   * information about events, activities and products which we consider to be of interest to you;
   * information relating to your health (for example if you are taking part in or attending an event for health and safety purposes, as well as where you share your experiences of cancer with us); 
@@ -56,11 +56,11 @@ We collect, store and use the following kinds of personal information:
 
 
 
-Certain types of personal information are in a special category under data protection laws, as they are considered to be more sensitive.  Examples of this type of sensitive data would be information about health, race, religious beliefs, political views, trade union membership, sex life or sexuality or genetic/biometric information.  
+Certain types of personal information are in a special category under data protection laws, as they are considered to be more sensitive.  Examples of this type of sensitive data (known as 'special category data') would be information about health, race, religious beliefs, political views, trade union membership, sex life or sexuality or genetic/biometric information.  
 
 We only collect this type of information about our supporters to the extent that there is a clear reason for us to do so, for example asking for health information if you are taking part in a sporting event, or where we ask for information for the purpose of providing appropriate facilities or support.   We will also collect this type of information if you make it public or volunteer it to us – for instance if you tell us you have cancer when applying for an Ambassador role, call our Cancer Information Nurses or use our Cancer Chat service.  
 
-Wherever it is practical for us to do so, we will make why we are collecting this type of information clear and what it will be used for.
+Wherever it is practical for us to do so, we will make clear why we are collecting this type of information and what it will be used for.
 
 We will use your personal information to:
 
@@ -110,11 +110,11 @@ Our marketing communications include information about our latest breakthroughs,
 
 We recognise that consent doesn’t last forever and that circumstances change, so we have placed a cap of 4 years from the last time someone consented to marketing.  You can change your mind about your preferences at any time by contacting us on 0300 123 3379 or [preferences@cancer.org.uk](mailto:preferences@cancer.org.uk).
 
-We may use information you have given us directly, for example the record of your previous donations to and/or relationship with us, your location and demographics, as well as the type of activity you have been involved with, to tailor our communications with you about future activities.
+We may use information we hold about you, for example the record of your previous donations to and/or relationship with us, your location and demographics, as well as the type of activity you have been involved with, to tailor our communications with you about future activities.
 
 ### Events and fundraising
 
-When you have asked for details of a CRUK event, we will send you information including, where relevant, ideas for fundraising and reminders on key information about the activity.
+When you have asked for details of a CRUK event or fundraising activity, we will send you information including, where relevant, ideas for fundraising, key information about the activity and reminders to submit any money raised.
 
 Where you have signed up for an event with a third party (for example the London Marathon) and told the event organiser that you wish to fundraise for us, we may contact you with information and support for your fundraising for that event.
 
@@ -150,7 +150,7 @@ We have a basis to use your personal information where we need to do so to compl
 
 **Performance of a contract / take steps at your request to prepare for entry into a contract**
 
-We have a basis to use your personal information where we are entering into a contract with you or performing our obligations under that contract.  Examples of this would be if you are buying something from us (for instance some branded merchandise or, in some cases, an event place), applying to work/volunteer with us, or being funded to undertake research.
+We have a basis to use your personal information where we are entering into a contract with you or performing our obligations under that contract.  Examples of this would be if you are buying something from us (for instance some branded merchandise or an event place), applying to work/volunteer with us, or being funded to undertake research.
 
 **Vital interests**
 
@@ -173,15 +173,25 @@ We consider our legitimate interests to include all of the day-to-day activities
 
 We only rely on legitimate interests where we consider that any potential impact on you (positive and negative), how intrusive it is from a privacy perspective and your rights under data protection laws do not override our (or others’) interests in us using your information in this way.
 
-When we use sensitive personal information (please see the “What personal information we collect” section above), we require an additional legal basis to do so under data protection laws, so will either do so on the basis of your explicit consent or another route available to us at law for using this type of information (for example if you have made the information manifestly public, we need to process it for employment, social security or social protection law purposes, your vital interests, or, in some cases, if it is in the public interest for us to do so).
+When we use special category personal data (please see the “What personal information we collect” section above), we require an additional legal basis to do so under data protection laws, so will either do so on the basis of your explicit consent or another route available to us at law for using this type of information (for example if you have made the information manifestly public, we need to process it for employment, social security or social protection law purposes, your vital interests, or, in some cases, if it is in the public interest for us to do so).
 
 We ensure that there are appropriate technical and organisational controls (including physical, electronic and managerial measures) in place to protect your personal details.  For example our online forms are always encrypted and our network is protected and routinely monitored. 
 
-CRUK has specific criteria to determine how long we will retain your information for, which are determined by legal and operational considerations.   For instance we are required to keep some personal information for tax or health and safety purposes, as well as keep a record of your interactions with us. 
+Some of our suppliers run their operations outside the European Economic Area (EEA) - this may include a country which may not be subject to the same data protection laws as companies based in the UK.  In these circumstances, we will take steps to make sure they provide an adequate level of protection in accordance with UK data protection law, and appropriate safeguards are in place.
+
+We take into account various criteria when determining the appropriate retention period for personal data including: 
+
+  * the purposes for which we process your personal data and how long we need to keep the data to achieve these purposes;
+  * how long personal data is likely to remain accurate and up-to-date;
+  * for how long the personal data might be relevant to possible future legal claims;
+  * any applicable legal, accounting, reporting or regulatory requirements which specify how long certain records must be kept.  
+
+
 
 As set out in the “Sending marketing communications” section above, we will never sell or rent your information to third parties for marketing purposes.  However we may disclose your information to third parties in connection with the other purposes set out in this policy.  These third parties may include:
 
   * business partners, suppliers and sub-contractors who may process information on our behalf;
+  * organisations with whom we undertake joint fundraising campaigns, primarily to ensure that our supporters are not contacted by both organisations
   * if you are a researcher, volunteer advisory panels, any joint funders of research, host institutions and external members of our committees;
   * if you are a legacy giver, we may share information with co-beneficiaries;
   * advertisers and advertising networks
@@ -189,8 +199,6 @@ As set out in the “Sending marketing communications” section above, we will 
   * IT service providers.
 
 
-
-Some of our suppliers run their operations outside the European Economic Area (EEA) - this may include a country which may not be subject to the same data protection laws as companies based in the UK.  In these circumstances, we will take steps to make sure they provide an adequate level of protection in accordance with UK data protection law, and appropriate safeguards are in place.
 
 Where we are under a legal or regulatory duty to do so, we may disclose your details to the police, regulatory bodies or legal advisors, and/or, where we consider this necessary, to protect the rights, property or safety of Cancer Research UK, its personnel, visitors, users or others.
 
@@ -230,7 +238,7 @@ You have a right to ask us to restrict the processing of some or all of your per
 
 **Right to erasure of your personal information**
 
-You may ask us to delete some or all of your personal information and in certain cases, and subject to certain exceptions, you have the right for this to be done. 
+You may ask us to delete some or all of your personal information and in certain cases, and subject to certain exceptions, you have the right for this to be done. If we are unable to delete your information, we will explain why this is the case. 
 
 **Right for your personal information to be portable**
 
@@ -258,9 +266,8 @@ Cancer Research UK also has a Data Protection Officer, who can be contacted at:
 
 The Data Protection Officer  
 Cancer Research UK  
-Angel Building  
-407 St John Street  
+2 Redman Place  
 London  
-EC1V 4AD
+E20 1JQ
 
 Email [dataprotection@cancer.org.uk](mailto:dataprotection@cancer.org.uk).
