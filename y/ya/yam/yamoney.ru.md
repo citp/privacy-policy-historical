@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamoney.ru privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618151124id_/https%3A//money.yandex.ru/page%3Fid%3D525698) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamoney.ru privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220081725id_/https%3A//money.yandex.ru/page%3Fid%3D525698) for the most accurate reproduction.*
 
 # Yandex.Money
 
@@ -138,4 +138,4 @@ The transfer of information can be mandatory, for example, in regards of the inf
 
  **Date of publication:** 04 December 2018
 
-[Previous version of the document from 02.10.2018](https://web.archive.org/page?id=533266)
+[Previous version of the document from 02.10.2018](https://web.archive.org/page?id=529513)
