@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 15five.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130111740id_/https%3A//www.15five.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 15five.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220142321id_/http%3A//www.15five.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 15Five
 
@@ -65,7 +65,11 @@ For your convenience, our website and Services may provide links to third-party 
 
 ### Privacy Shield
 
-15Five, Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. 15Five, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+15Five, Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.
+
+15Five, Inc. complies with the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from Switzerland to the United States.
+
+15Five, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
 15Five, Inc. is subject to investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
@@ -97,4 +101,4 @@ Any questions about this Privacy Policy should be addressed to privacy at 15five
 12 Gallagher Lane,  
 San Francisco, CA 94103
 
-These Terms were last modified on January 23, 2018.
+These Terms were last modified on March 7, 2019.
