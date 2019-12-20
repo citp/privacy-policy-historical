@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenudge.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630083934id_/https%3A//thenudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenudge.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220111909id_/https%3A//thenudge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Nudge London
 
