@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904015341id_/https%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220064901id_/https%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Travel Expense Management
 
@@ -11,6 +11,14 @@ In compliance with the EU-US Privacy Shield Principles, Chrome River commits to 
 Chrome River  has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to JAMS EU PRIVACY SHIELD, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit JAMS [here](https://www.jamsadr.com/eu-us-privacy-shield).
 
 Chrome River Technologies complies with the EU-US Privacy Shield  framework and Swiss-U.S > Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Chrome River has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+### EU/Swiss - U.S. Privacy Shield: Transfer of Personal Information
+
+Chrome River participates in and has certified its compliance with the EU and Swiss - U.S. Privacy Shield Framework. Chrome River is committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. 
+
+Chrome River is responsible for the processing of customer Personal Information it receives under the requirements specified by the Privacy Shield Framework.  Any  transfers from Chrome River to a third party acting as an agent on Chrome River's behalf are generated in accordance with Chrome River’s contractual obligations with its customers.  Chrome River complies with the Privacy Shield Principles for all onward transfers of Personal Information from the EU, including the onward transfer liability provisions.
+
+In certain situations,  Chrome River may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 ### Complaints
 
