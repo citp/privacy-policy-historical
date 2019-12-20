@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903224500id_/https%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220235656id_/https%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LawDepot
 
@@ -40,13 +40,15 @@ The information you provide when you prepare a document on our website is held s
 
 ### Advertising
 
-We partner with third party ad networks, such as Google Adwords, Bing Ads and Yahoo Gemini, to manage our advertising on other sites. Our Ad network partners use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by using the following links: [Google's Opt-out](https://www.google.com/ads/preferences/), [Bing's Opt-out](https://advertise.bingads.microsoft.com/en-us/resources/policies/opt-out-of-the-bing-ads-optimization-program), [Yahoo's Opt-out](https://aim.yahoo.com/aim/us/en/optout/index.htm), or the [Network Advertising Initiative Opt-out page](http://optout.networkadvertising.org/).
+We partner with third party ad networks, such as Google Adwords and Bing Ads, to manage our advertising on other sites. Our Ad network partners use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by using the following links: [Google's Opt-out](https://www.google.com/ads/preferences/), [Bing's Opt-out](https://advertise.bingads.microsoft.com/en-us/resources/policies/opt-out-of-the-bing-ads-optimization-program), or the [Network Advertising Initiative Opt-out page](http://optout.networkadvertising.org/).
 
 Please note that any opting-out will not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Third Party Services
 
 This site uses the Google Maps API and the terms of [Google's Privacy Policy](https://www.google.com/policies/privacy) are incorporated by reference into our Privacy Policy.
+
+Our Site may use a website recording service which may record how you use our site such as mouse clicks, mouse movements, and page scrolling, but your personal data such as text inputted will not be collected by this service. Data collected by this service is used to improve the usability of our Site. The information collected is stored and is used for aggregated and statistical reporting and is not shared with anybody else. The website recording service is required to maintain the confidentiality of that information.
 
   
 
