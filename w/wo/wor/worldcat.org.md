@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235340id_/https%3A//policies.oclc.org/en/privacy/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220182913id_/https%3A//policies.oclc.org/en/privacy/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement
 
-Last Updated: 8 February 2019
+Last Updated: 1 December 2019
 
 **NOTE THIS PORTION OF THE STATEMENT APPLIES TO OCLC AND ITS WEB-BASED PRODUCTS AND SERVICES. PLEASE SEE BELOW ORCLICK HERE FOR MORE INFORMATION REGARDING PRIVACY PRACTICES RELATING TO _HOSTED SERVICES_ OFFERED THROUGH OCLC INSTITUTION CUSTOMERS.**
 
-OCLC is a global library cooperative dedicated to making information more accessible and useful to people around the world, while reducing costs for our member institutions (OCLC's "Customers"). OCLC, Inc. and its worldwide affiliates, including OCLC BV, OCLC (UK) Ltd., OCLC GmbH, OCLC AG, HKA BV, and Ifnet S.r.l. (collectively, "OCLC" or "we") are committed to protecting your privacy and encourage you to read this Privacy Statement ("Statement") to understand our data handling practices.
+OCLC is a global library cooperative dedicated to making information more accessible and useful to people around the world, while reducing costs for our member institutions (OCLC's "Customers"). OCLC, Inc. and its worldwide affiliates, including OCLC BV, OCLC (UK) Ltd., OCLC GmbH, OCLC AG, and Ifnet S.r.l. (collectively, "OCLC" or "we") are committed to protecting your privacy and encourage you to read this Privacy Statement ("Statement") to understand our data handling practices.
 
 This Statement applies to information we obtain from and about individuals interacting directly with OCLC, including through our websites, products, programs, and services (collectively, the "Services") and otherwise. It does not apply to OCLC employees, information we collect through research studies, or information collected by our institution customers through subscription-based or hosted products and services. **For information regarding OCLC's hosted products and services, please see theHOSTED SERVICES section below.**
 
@@ -146,6 +146,10 @@ To opt-out of receiving promotional email messages from us, please email us at [
 If you have questions about the information collected about you, would like to update or make changes to your information, or are concerned that your information is inaccurate or incomplete, please contact [privacy@oclc.org](mailto:privacy@oclc.org). We will respond to reasonable requests.
 
 Please note, any information you have publicly posted, such as comments on the OCLC Community Center, may continue to be publicly available even after your account is terminated. In addition, public sites, such as Community Center, are indexed by search engines and may be published as search results. OCLC does not control the practices of third-party search engines.
+
+## California Consumer Privacy Act of 2018
+
+The California Consumer Privacy Act of 2018 ("CCPA") does not apply to OCLC. OCLC is not a business or a service provider (as those terms are defined by the CCPA). OCLC, Inc. is a nonprofit without shareholders or other owners. Its worldwide affiliates do not do business in California or act as a service provider of a business.
 
 ## International Users
 
