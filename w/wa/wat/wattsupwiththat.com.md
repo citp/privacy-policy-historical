@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wattsupwiththat.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330122526id_/https%3A//wattsupwiththat.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wattsupwiththat.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220193735id_/https%3A//wattsupwiththat.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Watts Up With That?
 
