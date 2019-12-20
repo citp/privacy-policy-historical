@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegraphindia.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321102041id_/https%3A//www.telegraphindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraphindia.com privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220180016id_/https%3A//www.telegraphindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Telegraph
 
