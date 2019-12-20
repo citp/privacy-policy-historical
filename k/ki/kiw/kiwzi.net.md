@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwzi.net privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623041534id_/http%3A//kiwzi.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwzi.net privacy policy that was archived on 2019-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191220023021id_/http%3A//kiwzi.net/privacy) for the most accurate reproduction.*
 
 # Kiwzi Privacy
 
@@ -60,7 +60,7 @@ DART cookies store and collect data on your computer about your browsing activit
 
 **You can choose to opt out of Google's use of cookies by visiting:**
 
-the [Google ad and content privacy policy](http://www.google.com/privacy_ads.html).
+the [Google ad and content privacy policy](https://www.google.com/privacy_ads.html).
 
 **Value Click Media:**
 
