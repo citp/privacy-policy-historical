@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613161854id_/https%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221005325id_/https%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
