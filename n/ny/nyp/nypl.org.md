@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nypl.org privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627225129id_/http%3A//www.nypl.org/help/about-nypl/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypl.org privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221165930id_/https%3A//www.nypl.org/help/about-nypl/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # The New York Public Library Privacy Policy | The New York Public Library
 
