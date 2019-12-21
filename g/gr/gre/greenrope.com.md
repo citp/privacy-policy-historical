@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412053627id_/https%3A//www.greenrope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222000354id_/https%3A//www.greenrope.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy by GreenRope
 
