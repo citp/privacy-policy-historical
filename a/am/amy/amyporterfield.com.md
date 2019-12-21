@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amyporterfield.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507143543id_/https%3A//www.amyporterfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amyporterfield.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221045922id_/https%3A//www.amyporterfield.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Amy Porterfield | Online Marketing Expert
 
