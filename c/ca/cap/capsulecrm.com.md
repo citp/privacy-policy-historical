@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617234604id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221071904id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Capsule CRM
 
