@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wokesloth.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330102016id_/https%3A//wokesloth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wokesloth.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221071727id_/https%3A//wokesloth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Woke Sloth
 
