@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpm.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503230016id_/https%3A//cpm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpm.org privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221051952id_/http%3A//cpm.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — CPM Educational Program
 
@@ -157,7 +157,7 @@ For the avoidance of doubt, CPM will not provide to any third party any personal
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
 
   * _Tracking Technologies and Advertising_. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on [Adobe’s website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse cookies, please note that some parts of this website may then be inaccessible or not function properly.
-  * _Promotional Offers from CPM_ f you do not wish to have your Contact Data used by CPM to promote our own or third parties’ products or services, you can opt-out by sending us an e-mail stating your request to the e-mail address provided below in the Contact Information section. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to communications with CPM as a result of a purchase, product service experience or other transactions.
+  * _Promotional Offers from CPM._ If you do not wish to have your Contact Data used by CPM to promote our own or third parties’ products or services, you can opt-out by sending us an e-mail stating your request to the e-mail address provided below in the Contact Information section. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to communications with CPM as a result of a purchase, product service experience or other transactions.
   * We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the [NAI website](https://www.networkadvertising.org/). 
 
 
