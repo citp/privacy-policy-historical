@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chennaimemes.in privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609011035id_/http%3A//chennaimemes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaimemes.in privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221165622id_/http%3A//www.chennaimemes.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chennai Memes
 
-This Privacy Policy governs the manner in which Chennai Memes collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://chennaimemes.in/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Chennai Memes.
+This Privacy Policy governs the manner in which Chennai Memes collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://chennaimemes.in/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Chennai Memes.
 
 **  
 ****Personal identification information**
