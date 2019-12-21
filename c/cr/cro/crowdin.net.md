@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crowdin.net privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306230721id_/https%3A//support.crowdin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdin.net privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221222552id_/https%3A//support.crowdin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdin Documentation
+
+### In This Article
 
 Last update: November 1, 2018
 
@@ -10,7 +12,7 @@ This Privacy Policy (“Policy”) describes the information that we gather on o
 
 This Policy is incorporated into, and is subject to, the Crowdin Terms of Service. Capitalized terms used but not defined in this Policy have the meaning given to them in the Crowdin Terms of Service.
 
-### 1\. DEFINITIONS __
+### 1\. DEFINITIONS
 
 Client | a customer of Crowdin.  
 ---|---  
@@ -21,7 +23,7 @@ Restricted Area | the area of the Site that can be accessed only by Users, and 
 User | an employee, agent, or representative of a Client, who primarily uses the restricted areas of the Site for the purpose of accessing the Service in such capacity.  
 Visitor | an individual other than a User, who uses the public area, but has no access to the restricted areas of the Site or Service.  
   
-### 2\. THE INFORMATION WE COLLECT ON THE SERVICE __
+### 2\. THE INFORMATION WE COLLECT ON THE SERVICE
 
 We collect different types of information from or through the Service. The legal bases for Crowdin’s processing of personal data are primarily that the processing is necessary for providing the Service in accordance with Crowdin’s Terms of Service and that the processing is carried out in Crowdin’s legitimate interests, which are further explained in the section “How We Use the Information We Collect” of this Policy. We may also process data upon your consent, asking for it as appropriate.
 
@@ -35,7 +37,7 @@ A Client or User may store or upload into the Service Client Data. Crowdin has n
 
 #### 2.3 “Automatically Collected” Information
 
-When a User or Visitor uses the Service, we may automatically record certain information from the User’s or Visitor’s device by using various types of technology, including cookies, “clear gifs” or “web beacons.” This “automatically collected” information may include IP address or other device address or ID, web browser and/or device type, the web pages or sites visited just before or just after using the Service, the pages or other content the User or Visitor views or interacts with on the Service, and the dates and times of the visit, access, or use of the Service. We also may use these technologies to collect information regarding a Visitor or User’s interaction with email messages, such as whether the Visitor or User opens, clicks on, or forwards a message. This information is gathered from all Users and Visitors.
+When a User or Visitor uses the Service, we may automatically record certain information from the User’s or Visitor’s device by using various types of technology, including cookies, “clear gifs” or “web beacons.” This “automatically collected” information may include IP address or other device address or ID, web browser and/or device type, the web pages or sites visited just before or just after using the Service, the pages or other content the User or Visitor views or interacts with on the Service, and the dates and times of the visit, access, or use of the Service. We also may use these technologies to collect information regarding a Visitor or User’s interaction with email messages, such as whether the Visitor or User opens, clicks on, or forwards a message. This information is gathered from all Users and Visitors. Our use of cookies and other tracking technologies is discussed more below, and in more detail in our Cookie Statement [here](https://support.crowdin.com/cookies/).
 
 #### 2.4 Integrated Services
 
@@ -45,7 +47,7 @@ You may be given the option to access or register for the Service through the us
 
 We may obtain information, including Personal Data, from third parties and sources other than the Service, such as our partners, advertisers and Integrated Services. If we combine or associate information from other sources with Personal Data that we collect through the Service, we will treat the combined information as Personal Data in accordance with this Policy.
 
-### 3\. HOW WE USE THE INFORMATION WE COLLECT __
+### 3\. HOW WE USE THE INFORMATION WE COLLECT
 
 We use the information that we collect in a variety of ways in providing the Service and operating our business, including the following:
 
@@ -63,7 +65,7 @@ We may use a Visitor’s or User’s email address or other information – othe
 
 #### 3.4 Cookies and Tracking Technologies
 
-We use automatically collected information and other information collected on the Service through cookies and similar technologies to: (i) personalize our Service, such as remembering a User’s or Visitor’s information so that the User or Visitor will not have to re-enter it during a visit or on subsequent visits; (ii) provide customized advertisements, content, and information; (iii) monitor and analyze the effectiveness of Service and third-party marketing activities; (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (v) track your entries, submissions, and status in any promotions or other activities on the Service. You can obtain more information about cookies by visiting [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+We use automatically collected information and other information collected on the Service through cookies and similar technologies to: (i) personalize our Service, such as remembering a User’s or Visitor’s information so that the User or Visitor will not have to re-enter it during a visit or on subsequent visits; (ii) provide customized advertisements, content, and information; (iii) monitor and analyze the effectiveness of Service and third-party marketing activities; (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (v) track your entries, submissions, and status in any promotions or other activities on the Service. You can obtain more information about cookies by visiting [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). For further information about the types of cookies and tracking technologies we use, why, and how you can control them, please see our Cookie Statement [here](https://support.crowdin.com/cookies/).
 
 #### 3.5 Analytics
 
@@ -71,7 +73,7 @@ We use Google Analytics to measure and evaluate access to and traffic on the Pub
 
 We take measures to protect the technical information collected by our use of Google Analytics. The data collected will only be used on a need to know basis to resolve technical issues, administer the Site and identify visitor preferences; but in this case, the data will be in non-identifiable form. We do not use any of this information to identify Visitors or Users.
 
-### 4\. TO WHOM WE DISCLOSE INFORMATION __
+### 4\. TO WHOM WE DISCLOSE INFORMATION
 
 Except as described in this Policy, we will not intentionally disclose the Personal Data or Client Data that we collect or store on the Service to third parties without the consent of the applicable Visitor, User or Client. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
 
@@ -101,7 +103,7 @@ Information about Users and Visitors, including Personal Data, may be disclosed 
 
 Client Data may be physically or electronically transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets, for the sole purpose of continuing the operation of the Service, and only if the recipient of the Client Data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy.
 
-### 5\. YOUR CHOICES __
+### 5\. YOUR CHOICES
 
 #### 5.1 Access, Correction, Deletion
 
@@ -129,11 +131,11 @@ Please be aware that if you opt-out of receiving commercial email from us or oth
 
 Crowdin has no direct relationship with the Client’s customers or third party whose Personal Data it may process on behalf of a Client. An individual who seeks access, or who seeks to correct, amend, delete inaccurate data or withdraw consent for further contact should direct his or her query to the Client or User they deal with directly. If the Client requests Crowdin to remove the data, we will respond to its request within thirty (30) days. We will delete, amend or block access to any Personal Data that we are storing only if we receive a written request to do so from the Client who is responsible for such Personal Data, unless we have a legal right to retain such Personal Data. We reserve the right to retain a copy of such data for archiving purposes, or to defend our rights in litigation. Any such request regarding Client Data should be addressed as indicated in the “How to Contact Us” section, and include sufficient information for Crowdin to identify the Client or its customer or third party and the information to delete or amend.
 
-### 6\. THIRD-PARTY SERVICES __
+### 6\. THIRD-PARTY SERVICES
 
 The Service may contain features or links to web sites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Service. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Service. We encourage you to learn about third parties’ privacy and security policies before providing them with information.
 
-### 7\. INTEREST BASED ADVERTISING __
+### 7\. INTEREST BASED ADVERTISING
 
 Interest based advertising is the collection of data from different sources and across different platforms in order to predict an individual’s preferences or interest and to deliver to that individual, or his/her computer, smart phone or tablet, advertising based on his/her assumed preference or interest inferred from the collection of data pertaining to that individual or others who may have a similar profile or similar interests.
 
@@ -149,7 +151,7 @@ We, or the third parties with which we work, use the information collected as de
 
 Our interest-based ads may be served to you in emails or on third-party platforms. We may serve these ads about our products or services or send commercial communications directly ourselves or through these third parties. Crowdin does not provide any personal information to the third party sites that display interest-based ads promoting Crowdin.
 
-### 8\. THIRD PARTY COOKIES __
+### 8\. THIRD PARTY COOKIES
 
 We allow third parties with which we have a separate agreement to use cookies and other technologies to collect information about your use of the Site. These third parties include (i) business partners, which collect information when you view or interact with one of their advertisements on the Site; and (ii) advertising networks, which collect information about your interests when you view or interact with one of their advertisements.
 
@@ -163,49 +165,19 @@ We do not share with these third parties any information that would readily iden
 
   * strictly necessary/essential cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don’t collect information that identifies a visitor.
   * functionality cookies - These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-  * behaviourally targeted advertising cookies - These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+  * behaviourally targeted advertising cookies - These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
 
 
-#### 8.2 The Following Cookies are Used in the Site
+For more information about these and a full list of the cookies we use, what they do, and how to disable the non-necessary ones, please refer to our full [Cookie Statement](https://support.crowdin.com/cookies/) .
 
-Service provider | Cookie name | Cookie type | Expiration | Content  
----|---|---|---|---  
-Crowdin | cookieconsent_status | Functionality | 100 years | Helps to remember visitor agreement of the cookie policy.  
-Crowdin | cid | Strictly Necessary | 30 days | User authorization at Crowdin.  
-Crowdin | csrf_token | Strictly Necessary | Session | Cross-site request forgery protection.  
-Olark | hblid | Functionality | 2 years | Identifies a unique visitor between visits.  
-Olark | olfsk | Strictly Necessary | 2 years | Maintains message history across pages.  
-Olark | _okdetect | Functionality | Session | Live chat functionality.  
-Olark | _oklv | Strictly Necessary | Session | Provides functionality for websites to engage in instant messaging communication with visitors. Used to improve caching of software.  
-Olark | _okbk | Functionality | Session | Provides functionality for websites to engage in instant messaging communication with visitors. Contains software state information.  
-Olark | wcsid | Strictly Necessary | Session | A session identifier used to keep track of a single chat session.  
-Olark | _ok | Strictly Necessary | Session | Provides functionality for websites to engage in instant messaging communication with visitors. Contains a site identifier, used for security purposes.  
-Google DoubleClick | permutive-id | Targeting / Advertising | 5 years | Helps with tracking conversion rates for ads.  
-Google DoubleClick | permutive-session | Targeting / Advertising | 5 years | Helps with tracking conversion rates for ads.  
-Google DoubleClick | IDE | Targeting / Advertising | 2 years | Used by Google DoubleClick to register and report the website user’s actions after viewing or clicking one of the advertiser’s ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.  
-Facebook | tr | Targeting / Advertising | Session | Facebook pixel helps to track conversions from Facebook ads, optimize ads based on collected data, build targeted audiences for future ads, and remarket to qualified leads.  
-Facebook | fr | Targeting / Advertising | 90 days | Used by Facebook to deliver a series of advertisement products such as real-time bidding from third party advertisers.  
-Facebook | reg_fb_gate | Targeting / Advertising | Session | Contains the first Facebook page that the web browser visited if the browser is either not a Facebook user or is not logged in to Facebook. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts.  
-Facebook | reg_fb_ref | Targeting / Advertising | Session | Contains the last Facebook page that the web browser visited if the browser is either not a Facebook user or is not logged in to Facebook. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts.  
-Facebook | datr | Targeting / Advertising | 2 years | Facebook cookie used to identify the web browser being used to connect to Facebook independent of the logged in user. This cookie plays a key role in Facebook’s security and site integrity features.  
-Facebook | reg_ext_ref | Targeting / Advertising | Session | Facebook cookie used to store the external referrer, i.e. the Crowdin web page address from which Facebook was accessed.  
-Facebook | wd | Targeting / Advertising | Session | Stores the browser window dimensions.  
-Google Analytics | NID | Targeting / Advertising | 180 days | Used to support Google’s advertising services.  
-Google Analytics | _ga | Functionality | 2 years | Collects information about how visitors use our sites.  
-Google Analytics | _gid | Functionality | 24 hours | Used to distinguish users.  
-Google Analytics | HSID, SID | Functionality | 2 years | Security cookies used to authenticate users, prevent fraudulent use of login credentials, and protect user data from unauthorized parties.  
-Google Analytics | 1P_JAR | Targeting / Advertising | 30 days | This cookie is used to support Google’s advertising services.  
-Google Analytics | SIDCC | Functionality | 90 days | Secure cookie to protect user data from unauthorized access.  
-Google | SSID, APISID, SAPISID | Functionality | 2 years | Stored on the computer in order to remain connected to your Google account when you visit its service again. While you are logged in and use plug-ins from other websites, such as ours, Google uses these cookies to improve your user experience.  
-  
 #### 9\. MINORS AND CHILDREN’S PRIVACY
 
 Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 18, and we do not knowingly collect Personal Data from children under the age of 18 without obtaining parental consent. If you are under 18 years of age, then please do not use or access the Service at any time or in any manner. If we learn that Personal Data has been collected on the Service from persons under 18 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 18 years of age has obtained an Account on the Service, then you may alert us at [privacy@crowdin.com](mailto:privacy@crowdin.com) and request that we delete that child’s Personal Data from our systems.
 
 The Service is not intended to be used by minors, and is not intended to be used to post content to share publicly or with friends. To the extent that a minor has posted such content on the Service, the minor has the right to have this content deleted or removed using the deletion or removal options detailed in this Privacy Policy. If you have any question regarding this topic, please contact us as indicated in the “How to Contact Us” section. Please be aware that, although we offer this deletion capability, the removal of content may not ensure complete or comprehensive removal of that content or information.
 
-### 10\. DATA SECURITY __
+### 10\. DATA SECURITY
 
 We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. We maintain appropriate administrative, technical and physical safeguards to protect Personal Data against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Data in our possession. This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through public internet, and we also employ application-layer security features to further anonymize Personal Data.
 
@@ -213,28 +185,28 @@ However, no method of transmission over the Internet, or method of electronic st
 
 If we learn of a security systems breach, we will inform you and the authorities of the occurrence of the breach in accordance with applicable law.
 
-### 11\. DATA RETENTION __
+### 11\. DATA RETENTION
 
-We only retain the Personal Data collected from a User for as long as the User’s account is active or otherwise for a limited period of time as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements as follows:
+We only retain the Client Data collected from a User for as long as the User’s account is active or otherwise for a limited period of time as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements as follows:
 
-  * the contents of closed accounts are deleted within 3 months of the date of closure
+  * the Client Data of closed accounts are deleted within 3 months of the date of closure
   * backups are kept for 3 months
   * billing information is retained for a period of 7 years as of their provision to Crowdin in accordance with the Estonian accounting and taxation laws
   * information on legal transactions between Client and Crowdin is retained for a period of 10 years as of their provision to Crowdin in accordance with the general limitation period set for civil claims in the Estonian General Part of the Civil Code Act
 
 
 
-### 12\. SETTINGS __
+### 12\. SETTINGS
 
 Although we may allow you to adjust your privacy settings to limit access to certain Personal Data, please be aware that no security measures are perfect or impenetrable. We are not responsible for circumvention of any privacy settings or security measures on the Service. Additionally, we cannot control the actions of other users with whom you may choose to share your information. Further, even after information posted on the Service is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Service. We cannot and do not guarantee that information you post on or transmit to the Service will not be viewed by unauthorized persons.
 
-### 13\. DATA TRANSFER __
+### 13\. DATA TRANSFER
 
 We may transfer, process and store Personal Data we collect through the Services in centralized databases and with service providers located in the U.S. The U.S. may not have the same data protection framework as the country from which you may be using the Services. When we transfer Personal Data to the U.S., we will protect it as described in this Privacy Policy.
 
 The Service is hosted in the United States or Germany. Regardless of the database being hosted in the EU, if you choose to use the Service from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you may be transferring your Client Data and Personal Data outside of those regions to the United States for storage and processing by our service providers listed in the Crowdin Terms of Service. We will comply with GDPR requirements providing adequate protection for the transfer of personal information from Europe to the U.S. Also, we may transfer your data to the U.S., the EEA, or other countries or regions deemed by the European Commission to provide adequate protection of personal data in connection with storage and processing of data, fulfilling your requests, and operating the Service.
 
-### 14\. DATA CONTROLLER AND DATA PROCESSOR __
+### 14\. DATA CONTROLLER AND DATA PROCESSOR
 
 Crowdin does not own, control or direct the use of any of the Client Data stored or processed by a Client or User via the Service. Only the Client or Users are entitled to access, retrieve and direct the use of such Client Data. Crowdin is largely unaware of what Client Data is actually being stored or made available by a Client or User to the Service and does not directly access such Client Data except as authorized by the Client, or as necessary to provide Services to the Client and its Users.
 
@@ -246,11 +218,11 @@ Crowdin is not responsible for the content of the Personal Data contained in the
 
 If you need a signed Data Processing Addendum in addition to the Terms of Service and Privacy Policy, you can find the document signed on behalf of Crowdin [here](https://downloads.crowdin.com/docs/DPA-singed.pdf).
 
-### 15\. CHANGES AND UPDATES TO THIS POLICY __
+### 15\. CHANGES AND UPDATES TO THIS POLICY
 
 Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. If we modify the Policy, we will make it available through the Service, and indicate the date of the latest revision, and will comply with applicable law. Your continued use of the Service after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of the Policy.
 
-### 16\. HOW TO CONTACT US __
+### 16\. HOW TO CONTACT US
 
 Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, your consent choices, or if you have any concerns or complaints about this Policy or your Personal Data, by email at [privacy@crowdin.com](mailto:privacy@crowdin.com).
 
