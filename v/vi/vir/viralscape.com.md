@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralscape.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523161929id_/http%3A//viralscape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralscape.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221015838id_/http%3A//viralscape.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viralscape
 
@@ -32,7 +32,7 @@ Third party vendors, including Google, use cookies to serve ads based on a your 
 
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Viralscape and/or other sites on the Internet.
 
-You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
 
 ### Links to other websites
 
