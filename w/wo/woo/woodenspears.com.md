@@ -1,21 +1,15 @@
-> *The following text is extracted and transformed from the woodenspears.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928112722id_/http%3A//woodenspears.com/privacy-policy-for-woodenspears-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodenspears.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221052932id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for WoodenSpears.com | Wooden Spears
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-Browse >
+###  What’s in a Domain Name? 
 
-[Home](http://woodenspears.com/ "Browse to: Home") / Privacy Policy for WoodenSpears.com 
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-The privacy of our visitors to WoodenSpears.com is important to us. 
+### DomainMarket.com Privacy Policy
 
-At WoodenSpears.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit _WoodenSpears.com, and how we safeguard your information. We never sell your personal information to third parties.
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
-
-We also use third party advertisements on WoodenSpears.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
-
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com.). 
