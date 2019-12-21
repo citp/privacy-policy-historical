@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avxhm.se privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519210801id_/https%3A//avxhm.se/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avxhm.se privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221184720id_/https%3A//avxhm.se/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
