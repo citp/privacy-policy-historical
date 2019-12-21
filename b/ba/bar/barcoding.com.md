@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barcoding.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430143243id_/https%3A//www.barcoding.com/about-barcoding-inc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcoding.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221163322id_/https%3A//www.barcoding.com/about-barcoding-inc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Barcoding, Inc. - Barcoding, Inc.
 
