@@ -1,44 +1,51 @@
-> *The following text is extracted and transformed from the ontvtonight.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416235045id_/http%3A//www.moniker.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontvtonight.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221102721id_/https%3A//www.ontvtonight.com/privacy) for the most accurate reproduction.*
 
-# Moniker.com - more than a name
+# Privacy - American TV Listings Guide
 
-**_MONIKER ONLINE SERVICES, LLC PRIVACY POLICY_** __
+### On TV Tonight Privacy Policy
 
-Moniker.com is owned and operated by Moniker Online Services, LLC.  Moniker Online Services, LLC is committed to safeguarding your privacy online. This statement is therefore set out to outline how we make use of the information you submit to us during registration. The terms contained on this page may be revised from time to time. To protect your interests, visit this page periodically to review the current terms of our policy.
+On TV Tonight is committed to your privacy and security. We will not sell, share or rent your personal information to others in ways different to those stated in this statement.
 
-By purchasing our services, you acknowledge and consent to the terms described in this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+This Privacy Statement sets out:
 
-Personal information is requested when you register to be a client. During registration, you are asked to provide your name, email address, birth date, gender, postal or zip code, occupation, industry and personal interests, etc. The more information you submit and the more accurate it is, the better we are able to tailor our services to your needs. 
+  * what information we collect and how we collect it;
+  * how we use that information;
+  * who the information is provided to;
+  * what procedures are in place to prevent the loss, misuse or alteration of information under our control; and
+  * how you can correct any inaccuracies of personal information collected by us.
 
-Moniker Online Services, LLC’s purpose in collecting personal information is to identify the client as well as to send recent updates and important announcements via mail and/or email. Moniker Online Services, LLC does research on our Clients’ demographics and interests based on the information you submitted to us upon registration. We do this to better understand and serve all our clients. This data is compiled, analyzed, and used only by Moniker Online Services, LLC. No part of the information you have provided would be sold, disclosed, or made accessible by third parties or by the public. 
 
-Some of the purposes for which we collect your personal information are:
 
-1.         Surveys
+We will not collect any personal information about you except when you knowingly provide it. Personal information is information that can identify you personally, for example your name or email address.
 
-Moniker.com may occasionally conduct customer surveys to better target our content and product inventory to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party, except as noted previously. 
+We will not reveal personal information we collect to third parties.
 
-2.         Contests 
+**Third-Party Advertising on OnTVTonight.com**
 
-Moniker.com may conduct contests in which we request certain personal information. These contests and sweepstakes are conducted in full accordance with United States and Canadian federal and state laws. The full rules and all information about such contests are clearly posted during such events. Information gathered is used only to verify user identity and to contact winners and/or prize recipients, except when specifically noted otherwise. Again, we do not share information about specific individuals with any third party, except as noted previously. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-3.         Usage Tracking
+To opt-out of being tracked by third-party advertisers, click the links below:
 
-Moniker.com tracks user traffic patterns throughout Moniker.com and this information is correlated with data about individual users. 
+NAI: [optout.networkadvertising.org](http://optout.networkadvertising.org/)
 
-4.         Use of Information
+DAA: [optout.aboutads.info](http://optout.aboutads.info/)
 
-Moniker.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
+**Email Accounts**
 
-5.         Opt-Out Policy
+By registering with On TV Tonight, the user gives permission to securely store their email address, TV reception location and TV viewing preferences for the purpose of displaying a personalized TV schedule and sending TV alert notifications only.
 
-Moniker.com gives users options wherever necessary and practical, such choices include opting not to provide certain personal information when registering for a site or service and/or opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users. 
+On TV Tonight will not transfer any user details to a third party or send unwanted communications unrelated to this TV listings service.
 
-Clients hold complete freedom to express themselves on their web sites. Although your intellectual freedom is respected, Moniker Online Services, LLC still reserves the right to remove from our servers any obscene, threatening, or illegal content.
+The user may delete their account at any time directy through the app or ontvtonight.com website or by contacting On TV Tonight Pty Limited at feedback@ontvtonight.com.
 
-If you believe Moniker Online Services, LLC is not abiding by its posted privacy policy, or if you have any comments, please direct them to the following address:
+**Cookies**
 
-Attn: Policies  
-Moniker Online Services, LLC.  
-20 SW 27th Ave. Suite 201  
-Pompano Beach, Florida 33069
+When you visit ontvtonight.com, we or our third party ad server may collect information about your visit using a feature called a "cookie". Also, if you have previously provided personal information to us, we may retain information about the frequency and contents of your visits to us. We use this information to aggregate information about the session length, number of visits to our site, the popularity of various areas of our site, and to deliver relevant advertisements to your browser.
+
+**Release**
+
+You hereby acknowledge and agree that under no circumstances will On TV Tonight, its directors, its employees or any third party content provider to On TV Tonight be liable to you or any third party for any loss whatsoever caused by your reliance on information obtained through the site, as well any direct, indirect, incidental, special or consequential damages or injury arising out of the use or inability to use the service or out of breach of any warranty, or caused by any failure or computer virus, communication line failure, theft or destruction or unauthorised access to and/or alteration of the On TV Tonight site.
+
+In the event that you have any claim or action against any other member arising from that member's use of our Website or the Service, you agree to pursue such claim or action independently of and without any demands from us, and you release us from all claims, liability and damages, arising from or in any way connected to the claim or action.
+
+In the event that a claim or action is brought against us from your activities or use of the Website or the Service, including any breach by you of this Agreement or any charges or complaints made by other parties against you, you agree to pay, hold harmless and defend us in the claim or action. You also agree to cooperate as fully as reasonably required in the defence of any claim and allow us to assume the exclusive defence and control of the matter.
