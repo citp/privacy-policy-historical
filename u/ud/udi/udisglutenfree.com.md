@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401230654id_/https%3A//www.conagrabrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221215937id_/https%3A//www.conagrabrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Conagra Brands
 
-Last Updated: January 24, 2019
+Last Updated: December 18, 2019
 
 Conagra Brands, Inc. (“Conagra Brands” or “we”) recognizes that those who visit our websites are concerned about how personal information they provide online is maintained and used by Conagra Brands. To address these concerns, this policy describes our online information practices and the choices that you can make about the collection and use of your information.
 
 **This Privacy Policy applies to[www.conagrabrands.com](https://web.archive.org/) and Conagra Brands websites, services, applications and products that display these terms (collectively, our “sites”). The Privacy Policy also applies to the sites of all subsidiaries and affiliates of Conagra Brands unless otherwise noted on any particular site. By using the sites, you agree to the terms of this Privacy Policy. **
 
 From time to time, we may change our privacy policies. We will notify you of any material changes to our Privacy Policy as required by law. We will also post an updated copy on our sites. Please check our sites periodically for updates.
+
+If you are a resident of the State of California, please review our [Conagra Brands Privacy Notice for California Consumers.](https://web.archive.org/privacy-notice-for-california-consumers)
 
 ## **We collect information from and about you.**
 
@@ -78,9 +80,9 @@ We use Google Analytics to collect information about the use of the sites. Googl
 
 ## **These sites and children.**
 
-Our sites are generally meant for adults. We do not knowingly collect any personal information from children under 13 on our sites without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [CATier3@conagra.com](mailto:CATier3@conagra.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+Our sites are generally meant for adults. We do not knowingly collect any personal information from children under 13 on our sites without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [Privacy@conagra.com](mailto:Privacy@conagra.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
 
-Parents, to learn more about how to protect your child online read the helpful information provided by the [FTC.](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online)
+Parents, to learn more about how to protect your child online read the helpful information provided by the [FTC.](https://www.consumer.ftc.gov/features/feature-0038-onguardonline) <https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online>
 
 ## **We use standard security measures.**
 
@@ -138,24 +140,21 @@ Our sites are not directed to European Union (EU) residents. Data protection reg
 
 Any requests or inquiries relating the Conagra Brands’ handling of EEA information may be made by contacting us through the contact information listed below.
 
-## **Your California Privacy Rights.**
-
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits consumers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to the contact information listed below.
-
 ## **We may link to other sites we don't control.**
 
 If you click on a link to a third party site, you will be taken to websites we do not control. This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites and insurance carriers carefully. We are not responsible for these third party practices.
 
 ## **Feel free to contact us if you have more questions.**
 
-If you have any questions about this Privacy Policy, please email us at [CATier3@conagra.com](mailto:CATier3@conagra.com).
+If you have any questions about this Privacy Policy, please email us at [Privacy@conagra.com](mailto:Privacy@conagra.com).
 
 You can also write to us or call at:  
-Consumer Affairs  
+ATTN: Legal Department  
 Conagra Brands, Inc.  
-P.O. Box 3534  
+222 Merchandise Mart Plaza  
+Suite 1300  
 Chicago, IL 60654
 
 Consumer Affairs: 800-722-1344
 
-© 2019 Conagra Brands, Inc. All rights reserved.
+© 2020 Conagra Brands, Inc. All rights reserved.
