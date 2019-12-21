@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logotv.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523164600id_/http%3A//www.logotv.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logotv.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221041835id_/http%3A//www.logotv.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # LOGOtv Sitewide - Legal - Privacy Policy
 
 ## PRIVACY POLICY & YOUR CALIFORNIA PRIVACY RIGHTS
 
- **Last Modified: September 28, 2018**  
+**Last Modified on September 28, 2018**  
 (See the **[Legal Updates Summary](http://legal.viacom.com/Changes/M+E/)** to learn more)
 
 This is the privacy policy (“ _Privacy Policy_ ”) describing our privacy practices for the specific Internet website, application or other interactive service that includes an authorized link to this Privacy Policy and all other websites, applications and other interactive services you also use that are offered by the specific VII Brand (as defined below) that is providing this website, application or other interactive service (collectively, all such websites, applications and other interactive services, " _Site_ ," " _we_ ," " _us_ " or " _our_ "). The Site is owned, operated and/or provided on behalf of the applicable VII Brand by Viacom International Inc. (Viacom International Inc., along with its Affiliates, shall be referred to collectively as “ _VII_ ”) through its Viacom Media Networks division, which offers television channel or programming services (such as television networks, websites, applications or other interactive services) and offers other products and services under various brands, such as those Viacom Media Networks brands and other VII brands listed at <http://www.viacom.com/brands/pages/default.aspx> (each, a “ _VII Brand_ ”). This Site together with the associated VII television channel or programming service, if any, shall be referred to collectively as the “ _Channel_ ”. “ _Affiliates_ ” refers to Viacom International Inc.’s parent company Viacom Inc. and all affiliates that Viacom Inc. directly or indirectly owns or controls (such as Paramount Pictures Corporation and the other affiliates of Viacom Media Networks as described at <http://www.viacom.com/brands/pages/default.aspx>).
@@ -98,13 +98,13 @@ When we use the term " _Personal Information_ " we mean information that you pro
   
 
 
- **3.1.1.1 Site Registration.** For Site registration, you are required to select a User ID and may be required to also provide other Information, such as your email address and date of birth. Additional Information may be requested and/or required during the registration process. After you have registered for the Site under Site Registration, we may recognize you when you visit certain other VII websites, applications or other interactive services across Devices (such as when you login) and permit you to use Single VII Sign-On (as described below) to register for and login on such other websites, applications or other interactive services, but please note that other VII websites, applications or other interactive services may set additional or different requirements for membership, such as minimum age. 
+**3.1.1.1 Site Registration.** For Site registration, you are required to select a User ID and may be required to also provide other Information, such as your email address and date of birth. Additional Information may be requested and/or required during the registration process. After you have registered for the Site under Site Registration, we may recognize you when you visit certain other VII websites, applications or other interactive services across Devices (such as when you login) and permit you to use Single VII Sign-On (as described below) to register for and login on such other websites, applications or other interactive services, but please note that other VII websites, applications or other interactive services may set additional or different requirements for membership, such as minimum age. 
 
 **3.1.1.2 Third Party Social Media Network Sign-On.** We may provide you with the ability to sign on to the Site by using third party social media network credentials (“ _SMN_ ”). If you choose to sign-in through an SMN, you may be required to provide us with all or some of the Information required in the Site’s registration form and your use of the Site shall be governed by the applicable SMN’s privacy policy and user agreements as well as this Privacy Policy and the Site’s Terms of Use Agreement (located at the Terms of Use tab for this Site) (“ _Terms of Use Agreement_ ”). Please note that the SMN may set additional or different requirements for membership than those set for the Site, such as minimum age. We, and VII, are not responsible for the use of any such SMN, or for the accuracy, use or misuse of any information that you may disclose to or receive from an SMN or other third party in connection with such use. If you use an SMN to sign-in, we may receive certain information from such SMN and our use of your Information we receive from any SMN is governed by the relevant policies of any such SMN and any permissions you give us regarding your Information, including, but not limited to, those set forth in this Privacy Policy. If you have questions about whether a particular feature, function or service of the Site is powered by a third party, you may contact us with your question as provided in _Section 12.2_ (“Questions”) below.
 
 After you have registered for the Site through SMN, we may recognize you when you visit certain other VII websites, applications or other interactive services and permit you to use Single VII Sign-On (as described below) to register for and login on such other websites, applications or other interactive services.
 
- **3.1.1.3 Single VII Sign-On.** If you are not already registered for the Site, but are registered on other VII websites, applications or other interactive services through any of the above methods, we may permit you to use your User ID from such other VII websites, applications or other interactive services to register for and log into this Site (“ _Single VII Sign-On_ ”), but please note that this Site may set additional or different requirements for membership, such as minimum age, than those requirements set by other VII websites, applications or other interactive services.
+**3.1.1.3 Single VII Sign-On.** If you are not already registered for the Site, but are registered on other VII websites, applications or other interactive services through any of the above methods, we may permit you to use your User ID from such other VII websites, applications or other interactive services to register for and log into this Site (“ _Single VII Sign-On_ ”), but please note that this Site may set additional or different requirements for membership, such as minimum age, than those requirements set by other VII websites, applications or other interactive services.
 
 Also note that, for your online privacy and security, if other people have access to your Device, we recommend you log out of your account after visiting any of the websites, applications or other interactive services that are associated with your account.
 
@@ -114,7 +114,7 @@ Also note that, for your online privacy and security, if other people have acces
 
  **3.1.3 In Connection with Promotions such as Contests and Sweepstakes.** There may be a separate registration process to enter Promotions (as defined in the **[Terms of Use Agreement](http://www.paramountnetwork.com/legal/yyfnqm)** ) such as contests and sweepstakes which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Information may be requested depending on the specific Promotion. The Promotion’s entry page and/or Rules shall provide the specific requirements. You may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners (“ _Advertisers_ ”) as a result of your use of the Site in connection with these Promotions.
 
- **3.2 Information Collected Through Use of Cookies and Other Tracking Technologies.**
+**3.2 Information Collected Through Use of Cookies and Other Tracking Technologies.**
 
 The Site and/or third parties may use “cookies”, “web beacons”, Flash local shared objects and other similar tracking technologies (collectively, “ _Tracking Technologies_ ”) to collect Other Information automatically as you browse the Site and the web. " _Cookies_ " are typically html or browser-based text or other files (and often referred to as browser cookies) that help store information, user preferences and/or user activity. “ _Web beacons_ ” (also known as image tags, gif, tracking pixels or web bugs) are small pieces of code used to collect data, such as counting page views, promotion views or advertising responses. Flash local shared objects (“ _LSOs_ ”) (sometimes known as Flash cookies and used if Adobe Flash is used) are text or other files that help store user preferences and/or activity.
 
@@ -123,7 +123,7 @@ These Tracking Technologies collect “click stream” data and additional Other
   
 
 
- **3.2.1 The Site’s Use of Tracking Technologies to Collect Information** By visiting the Site, whether as a registered user or otherwise, you acknowledge and understand that you are giving us your consent to track your activities and your use of the Site and other websites, applications or interactive services through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you. See _Section 5_ below (“ _Your Choices_ ”) for more information on how you can withdraw your consent for certain purposes.
+**3.2.1 The Site’s Use of Tracking Technologies to Collect Information** By visiting the Site, whether as a registered user or otherwise, you acknowledge and understand that you are giving us your consent to track your activities and your use of the Site and other websites, applications or interactive services through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you. See _Section 5_ below (“ _Your Choices_ ”) for more information on how you can withdraw your consent for certain purposes.
 
 We use Tracking Technologies to enable us to collect and then use Information as described in _Section 4.2_ (“ _Other Information Collected by Us_ ”) under “ _How Is Collected Information Used_ ” below. For example, we use Tracking Technologies to enable Single VII Sign-On, to prevent you from seeing the same advertisements too many times or seeing advertisements too frequently, to tailor your experience on the Site by delivering relevant personalized advertising, email marketing and other content and to record if you have opted out of receiving personalized advertising from us.
 
@@ -145,7 +145,7 @@ As set forth in this Privacy Policy, we may share Information with VII (includin
   
 
 
- **4.1 Personal Information.** We, and/or VII, use the Personal Information we collect from you in a variety of ways, including:
+**4.1 Personal Information.** We, and/or VII, use the Personal Information we collect from you in a variety of ways, including:
 
   
 
@@ -339,7 +339,7 @@ Please note that you may always send a text message that says “HELP” to rece
   
 
 
- **7.1 Sharing and Disclosure of Personal Information.** We may disclose your Personal Information within the VII family or to third parties under the circumstances described below.
+**7.1 Sharing and Disclosure of Personal Information.** We may disclose your Personal Information within the VII family or to third parties under the circumstances described below.
 
   
 
@@ -377,7 +377,7 @@ Please note that you may always send a text message that says “HELP” to rece
   
 
 
- **8.1 Site Registration.** If you registered for this Site, generally, you may review, update or delete certain Information collected by the Site by, if you are a registered user of the Site, logging into the Site and using the tools provided to edit such Information. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We shall allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current.
+**8.1 Site Registration.** If you registered for this Site, generally, you may review, update or delete certain Information collected by the Site by, if you are a registered user of the Site, logging into the Site and using the tools provided to edit such Information. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We shall allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current.
 
  **8.2 Single VII Sign-On.** If you used Single VII Sign-On to register for this Site, you may also exercise certain privacy settings options by logging into the Site and accessing certain privacy settings that may be offered by the Site. Such privacy setting options may include offering you the ability to manage your profile, limiting how much of your Information is displayed or published to third party sites, setting your profile to private so that some or all of your complete profile is only visible to certain relationships (although certain profile information may always be required to be visible), controlling other display and privacy settings (such as how your profile appears in search results and who may send you email messages) and deleting comments posted to your profile.
 
