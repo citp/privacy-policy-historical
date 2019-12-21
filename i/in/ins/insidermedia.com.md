@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230002723id_/https%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221025324id_/https%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Cookies | Insider Media Ltd
+# Privacy Policy for Newsco Insider Limited (NIL) | Insider Media
 
 This privacy policy sets out how Newsco Insider Limited (“Newsco”) uses and protects any information that you give Newsco when you use our website, interactive services and/or any URL that directs you around, to and from www.insidermedia.com ( **our Website** ), whether as a guest or a registered member/user.
 
@@ -91,7 +91,7 @@ Our third-party suppliers that use cookies are as follows:
 
 
 
-You may refuse to accept cookies by activating the setting on your browser ([Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB), [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-11), [Safari](https://support.apple.com/kb/ph19214?locale=en_US)) which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.
+You may refuse to accept cookies by activating the setting on your browser ([Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB), [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-11), [Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)) which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.
 
 Please note that our advertisers may also use cookies, over which we have no control. If you wish to opt out of personalised advertising from Google, you can do so by visiting [Ads Settings](https://www.google.co.uk/settings/ads).
 
