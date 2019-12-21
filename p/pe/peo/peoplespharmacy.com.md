@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the peoplespharmacy.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416205806id_/https%3A//www.peoplespharmacy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplespharmacy.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221170700id_/https%3A//www.peoplespharmacy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The People's Pharmacy
+# Privacy Policy | The People's Pharmacy
 
-## Our Commitment To Privacy
+Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-### The Information We Collect:
+  
+
+
+The Information We Collect
 
 This notice applies to all information collected or submitted on the PeoplesPharmacy.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
@@ -15,15 +18,16 @@ Address
 Email address  
 Phone number  
 Credit/Debit Card Information  
-(etc.)
+(etc.) 
 
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. Or, if you want to send an article to a friend, you will need to submit the friend’s email address. In this circumstance, the types of personal information collected are:
 
 Name  
 Address  
 Email address  
-(etc.)  
-The Way We Use Information:
+(etc.)
+
+The Way We Use Information
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
@@ -39,15 +43,21 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-### Our Commitment To Data Security
+Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### Our Commitment To Children’s Privacy
+  
+
+
+Our Commitment To Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-### How You Can Access Or Correct Your Information
+  
+
+
+How You Can Access Or Correct Your Information
 
 If you created an account when you placed an order, you can access all your personally identifiable information that we collect online and maintain by logging into “My Account.” We use this procedure to better safeguard your information. If you did not create an account, you can change your information by contacting us at [support@peoplespharmacy.com](mailto:support@peoplespharmacy.com)
 
@@ -55,6 +65,19 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-### How To Contact Us
+How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please call us at (800) 732-2334 or send us an email at [support@peoplespharmacy.com](mailto:support@peoplespharmacy.com).
+
+  
+
+
+##### Tired of the ads on our website?
+
+Now you can browse our website **completely ad-free** for just **$5 / month**. Stay up to date on breaking health news and support our work without the distraction of advertisements.
+
+[](https://web.archive.org/go-ad-free)
+
+##### Join over 150,000 Subscribers at The People's Pharmacy
+
+We're empowering you to make wise decisions about your own health, by providing you with essential health information about both medical and alternative treatment options.
