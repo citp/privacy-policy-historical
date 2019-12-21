@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartmogul.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429194750id_/https%3A//chartmogul.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartmogul.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221044114id_/https%3A//chartmogul.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ChartMogul
 
@@ -343,7 +343,7 @@ The analysis of your use of our website is made possible through the use of cook
 
 You can stop the placement of Google Analytics cookies on your computer through the settings of your web browser. If you do so, we cannot guarantee that all the functions of our website will be fully available to you. You may also stop the placement of cookies through the use of browser extensions, such as:
 
-[https://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
+<https://tools.google.com/dlpage/gaoptout>
 
 You can find further information about Google’s data processing and data protection at:
 
@@ -442,11 +442,11 @@ You may find further information about Recurly’s data processing and data prot
 
 ## Perfect Audience
 
-ChartMogul uses Perfect Audience. This is a service provided by Marin Software Incorporated that enables us to advertise to previous visitors of our website and allows us to track the effectiveness of these ads.
+ChartMogul uses Perfect Audience. This is a service provided by SharpSpring, Inc. that enables us to advertise to previous visitors of our website and allows us to track the effectiveness of these ads.
 
 The responsible entity is:
 
-Marin Software Incorporated, 123 Mission Street, 27th Floor, San Francisco, CA 94105 USA
+SharpSpring, Inc., 5001 Celebration Pointe Avenue, Suite 410, Gainesville, FL 32608 USA
 
 The analysis of your use of our website and retargeting with ads is made possible through the use of cookies and clear gifs. Information obtained via these cookies and / or clear gifs is transferred to Perfect Audience’s servers located in the United States, and saved there. The analyses of your actions on our website is transferred to us in the form of reports. Perfect Audience may give this information to further parties where legally required to do so, or these parties are contracted to by Perfect Audience.
 
@@ -490,7 +490,7 @@ The user’s responses to the survey, including service rating and comments, are
 
 Typeform may give this information to further parties where legally required to do so, or these parties are contracted to by Typeform.
 
-You may find further information about Eventbrite’s data processing and data protection here:
+You may find further information about Typeform’s data processing and data protection here:
 
 <https://admin.typeform.com/to/dwk6gt>
 
@@ -528,7 +528,7 @@ You may find further information about Zapier’s data processing and data prote
 
 ChartMogul reserves the right to update this Privacy Policy from time to time without notice. Any changes are effective when we post the updated Policy on our website. We recommend that you regularly check back. We may provide you with notices about changes to this Privacy Policy if you are a registered user of the ChartMogul Application.
 
-Should you have further questions, or wish to make contact with us, you can do so though our website at [www.chartmogul.com](https://web.archive.org/web/20190429194750id_/https://chartmogul.com/privacy/www.chartmogul.com). When you do so, the data required to answer your query will be automatically saved and processed. Your data will not be transferred to third parties unless ChartMogul has a lawful ground to do so..
+Should you have further questions, or wish to make contact with us, you can do so though our website at [www.chartmogul.com](https://web.archive.org/web/20191221044114id_/https://chartmogul.com/privacy/www.chartmogul.com). When you do so, the data required to answer your query will be automatically saved and processed. Your data will not be transferred to third parties unless ChartMogul has a lawful ground to do so..
 
 ## Deletion of Personal Data
 
