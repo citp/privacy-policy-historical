@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228173414id_/https%3A//www.nikonians.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221114202id_/https%3A//www.nikonians.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy policies
 
-###  Our privacy policies (updated 21-MAY-2018, in effect 21-MAY-2018)
+###  Our privacy policies (last update 20-MAR-2019)
 
 We know it's very important that each user feels confident in our privacy policies, please take the time to read them. Should you have any questions about our privacy policies or our [terms of use](https://www.nikonians.org/about/terms-of-use), please do not hesitate [contacting us](https://www.nikonians.org/contact).
 
@@ -10,7 +10,7 @@ Our privacy policies relate to our sites, which are
 
 nikonians.org with subdomains and nikoscope.com
 
-We (or "us"), that is Nikonians EMEA Ltd, which operates our sites use "personal information" and "personal data" having the same meaning in the context of these privacy policies.
+We (or "us"), that is Nikonians GmbH, which operates our sites use "personal information" and "personal data" having the same meaning in the context of these privacy policies.
 
 ####  The type of personal information we collect and what we use it for
 
@@ -72,7 +72,7 @@ You must use your real first and last name when you register. Accounts not using
 
 19.1 When you request a photographer's card ID to be produced, the data required to produce the photographer's card ID (your username, the name you want on the card, any national flag to be used, any image you want to have on the card, your membership level, member since date), including the postal address for shipping will be shared with the vendor of the card, Hartford Badges, NY 14170, USA.
 
-19.2 If you pay for a membership, renew your membership (also automatic renewal) or donate money, the data required to process the payment is shared with 1&1 GmbH, Germany. It may further be processed by either EVO Payments International GmbH, Germany, PayPal (Europe) S.à r.l. et Cie, S.C.A., Luxembourg or American Express Payment Services Limited, United Kingdom.
+19.2 If you pay for a membership, renew your membership (also automatic renewal) or donate money, the data required to process the payment is shared with 1&1 IONOS SE, Germany. It may further be processed by either EVO Payments International GmbH, Germany, PayPal (Europe) S.à r.l. et Cie, S.C.A., Luxembourg or American Express Payment Services Limited, United Kingdom.
 
 ####  Credit card details are not stored by us
 
