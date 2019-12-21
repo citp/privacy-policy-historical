@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allkeyshop.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625222527id_/https%3A//www.allkeyshop.com/blog/privacy-policy-allkeyshop-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allkeyshop.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221141206id_/https%3A//www.allkeyshop.com/blog/privacy-policy-allkeyshop-com) for the most accurate reproduction.*
 
 # Privacy Policy Allkeyshop.com
 
