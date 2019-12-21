@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spiceworks.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627003451id_/https%3A//www.spiceworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiceworks.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221013307id_/https%3A//www.spiceworks.com/privacy) for the most accurate reproduction.*
 
 # Spiceworks Privacy Policy
 
-_Last Updated: June 20, 2019_
+_Last Updated: August 27, 2019_
 
 This Spiceworks Privacy Policy describes how Spiceworks Inc. and its subsidiary group companies (together the **“Spiceworks Group”** or **“we”** or **“us”** ) treat Personal Data that you provide or we collect when you use any of our services (listed below).
 
@@ -118,7 +118,7 @@ To exercise these rights, please follow the steps set out below, or contact us v
 
 You can manage your email subscriptions at any time by editing your personal profile at the following URL: <https://community.spiceworks.com/profile/subscriptions>.
 
-Spiceworks relies on Google Services for display of ads in our Service. To Opt-Out of any targeted ads based on your activity on our site, please utilize the following URL: <http://www.google.com/policies/technologies/ads/>. You can also utilize [optout.aboutads.info](https://optout.aboutads.info/).
+Spiceworks relies on Google Services for display of ads in our Service. To Opt-Out of any targeted ads based on your activity on our site, please utilize the following URL: <http://www.google.com/policies/technologies/ads/>. You can also utilize [optout.aboutads.info](https://optout.aboutads.info/). In addition, we use [OneTrust](https://www.onetrust.com/) to record whether you have consented to our use of cookies and similar technologies. If you are a non-registered user and would like to withdraw your consent, please first modify your browser settings to not accept Spiceworks cookies and then clear all of your cookies. It may be possible to set your browser to not accept cookies and ask for your consent before each cookie is set on your device. If you modify your browser settings to prevent it from accepting Spiceworks cookies, please be aware that the functionality of some of our service will be impaired.
 
 If your Personal Data changes, you may update it using the “Update Profile” link at the bottom of the email newsletter. When you update information, we may keep a copy of the prior version for our records. If you have specific requests about your Personal Data, you may email us at [pii@spiceworks.com](mailto:pii@spiceworks.com).
 
