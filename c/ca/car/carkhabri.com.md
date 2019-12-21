@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carkhabri.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120090241id_/http%3A//www.carkhabri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carkhabri.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221171515id_/https%3A//www.carkhabri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,10 +46,6 @@ Occasionally, at our discretion, we may include or offer third party products or
 **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.carkhabri.com](https://www.freeprivacypolicy.com/www.carkhabri.com).
 
 **Your Consent**
 
