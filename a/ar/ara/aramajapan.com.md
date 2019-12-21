@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aramajapan.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403035124id_/https%3A//aramajapan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramajapan.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221101522id_/https%3A//aramajapan.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | J-pop and Japanese Entertainment News
+# Privacy Policy | ARAMA! JAPAN
 
 Your privacy is critically important to us. At ARAMA! JAPAN we have a few fundamental principles:
 
