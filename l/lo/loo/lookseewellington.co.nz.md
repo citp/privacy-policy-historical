@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookseewellington.co.nz privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121144141id_/https%3A//www.looksee.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookseewellington.co.nz privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221142638id_/https%3A//www.looksee.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Connecting talent around the world with jobs in New Zealand
 
