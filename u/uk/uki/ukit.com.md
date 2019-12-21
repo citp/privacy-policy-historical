@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukit.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901120615id_/https%3A//ukit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukit.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221062237id_/https%3A//ukit.com/privacy) for the most accurate reproduction.*
 
 # uKit — Privacy policy
 
@@ -6,7 +6,7 @@
 
 _Last updated on May 23, 2018._
 
-This Privacy Policy (the "Policy", the "Privacy Policy") is an integral part of the User Sublicense Agreement which defines the rules for processing Personal Information that uKit Group ( “uKit”, "we") can collect about the Users (the"User" or "you") in relation to the usage of the uKit service (the "Service") by the User, and stipulates the types of the information collected, the ways and methods of collecting the information, the purposes of collecting the information, measures to ensure the information protection, as well as the rights of the User regarding their Personal Information.
+This Privacy Policy (the "Policy", the "Privacy Policy") is an integral part of the User Sublicense Agreement which defines the rules for processing Personal Information that uKit Group (Compubyte Limited, UCOZ Ltd, Ucoz Media LLC; hereinafter referred to as "uKit", "we") can collect about the Users (the"User" or "you") in relation to the usage of the uKit service (the "Service") by the User, and stipulates the types of the information collected, the ways and methods of collecting the information, the purposes of collecting the information, measures to ensure the information protection, as well as the rights of the User regarding their Personal Information.
 
 The User hereby agrees to the processing of their Personal Information under the terms of this Privacy Policy. The User's actions aimed at using the Service mean the User’s unconditional acceptance of the terms of this Policy and the terms of their Personal Information processing specified therein. We urge you to read this Policy and make sure that you fully understand and agree to it before you start using our Service. If you have not read the entire text of the Privacy Policy, do not understand or accept the terms of this Privacy Policy, you shall immediately stop using the Service. 
 
@@ -186,9 +186,9 @@ We store your Personal Information during the entire period the Service is used 
 
 11.2. You can also send a letter to the following addresses: 
 
-in the Russian Federation — 6/5 Barklaya St., Moscow 121087, Russia, 
+in the Russian Federation — 6 Barklaya St., Building 5, Floor 6, Office 632, Room 23L, Moscow 121087, Russia 
 
-in the European Union — 4 Afentrikas, Afentrika Court, Office 2, 6018, Larnaca, Cyprus.
+in the European Union — 9 Vasili Michailidi, 3026, Limassol, Cyprus.
 
 11.3. We will respond to your request within a reasonable time or the period specified by the applicable law.
 
