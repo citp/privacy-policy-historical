@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the unlv.edu privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526023356id_/https%3A//www.unlv.edu/about/website-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlv.edu privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221153524id_/https%3A//www.unlv.edu/about/website-privacy) for the most accurate reproduction.*
 
 # UNLV Website Privacy Statement | About UNLV | University of Nevada, Las Vegas
-
-The University of Nevada, Las Vegas (“UNLV”, "us", "we", or "our") operates the [www.unlv.edu](http://www.unlv.edu/) website (the "Service" or “main website”). This statement describes the potential collection, use, and disclosure of personal data when you use the main website of UNLV.
-
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this statement.
 
 ### Definitions
 
