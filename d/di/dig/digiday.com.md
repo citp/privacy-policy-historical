@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424201422id_/https%3A//digiday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221205342id_/https%3A//digiday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digiday
-
-Digiday Media Privacy Policy – Last updated April 19, 2018
-
-**Summary:**
 
 We collect your data (specifically outlined below, but generally basic information about you in a professional context, such as email, job title, company name, etc) strictly to provide you with access to our news, events and other programs. We will not share this data with anyone unless you explicitly consent to us doing so. We honor your right to privacy and will comply with your wishes to remove your data from our systems. 
 
