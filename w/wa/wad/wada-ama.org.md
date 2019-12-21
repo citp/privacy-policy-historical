@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wada-ama.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626010351id_/http%3A//www.wada-ama.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wada-ama.org privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221012207id_/https%3A//www.wada-ama.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Anti-Doping Agency
 
