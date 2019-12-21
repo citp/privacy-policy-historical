@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeconfidential.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527042906id_/https%3A//www.collegeconfidential.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeconfidential.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221072735id_/https%3A//www.collegeconfidential.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | College Confidential
 
