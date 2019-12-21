@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esu.edu privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214024715id_/https%3A//www.esu.edu/about/notices.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esu.edu privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221211300id_/https%3A//www.esu.edu/about/notices.cfm) for the most accurate reproduction.*
 
 # Notice of Non-Discrimination & Privacy Policy | About ESU | ESU
 
