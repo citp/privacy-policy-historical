@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526184000id_/https%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221134557id_/https%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
 
 # Westpac NZ - Legal Information
 
@@ -198,7 +198,227 @@ Applicable for suppliers supplying goods or services to Westpac not currently co
 
 [Westpac New Zealand Supplier General Terms and Conditions](https://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Terms-and-conditions-for-P2P-041116.pdf "Westpac New Zealand Supplier General Terms & Conditions")
 
-**24 May 2019**
+**22 October 2019**
+
+ **Purchase Profile Terms and Conditions**
+
+The Purchase Profile Terms and Conditions are changing, effective 5 November 2019. 
+
+The change relates to adding the ability for Westpac to withdraw the service.
+
+Please refer to [Purchase Profile Terms and Conditions](https://www.westpac.co.nz/assets/Business-Payments/Purchase-Profile-Terms-and-Conditions-2019-Westpac-NZ.pdf).
+
+ **20 September 2019**
+
+ **Cheque deposit clearance times**
+
+From 1 October 2019, industry cheque processing times are changing and this may mean that if you deposit a cheque, access to your funds will take longer than you are used to. 
+
+Please remember that cheque deposits can take up to 5 business days to clear. 
+
+Please refer to [Westpac General Terms and Conditions](https://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Westpac-General-Terms-and-Conditions.pdf) or learn more[](https://westpac.custhelp.com/app/answers/detail/a_id/924/kw/cheque%20clearance) about [cheque clearance times](https://westpac.custhelp.com/app/answers/detail/a_id/924/kw/cheque%20clearance).
+
+ **17 July 2019**
+
+From 1 August 2019, we’re changing some of our home lending, personal overdraft and credit & debit card fees.
+
+This includes reducing the Foreign Currency Fee on personal credit and debit cards from 2.5% to 1.4% of the transaction amount and removing the monthly Line of Credit Charge for overdraft facilities on personal transaction accounts.
+
+While the manual transaction fee on Choices Home Loan accounts is increasing from $0.65 to $2.50, this fee will be capped at $5 per month per account.
+
+You can see all the fee changes below.
+
+| 
+
+**Current Fee**
+
+| 
+
+**New Fee**  
+  
+---|---|---  
+  
+**Home lending  **  
+  
+Choices Home Loan establishment fee
+
+| 
+
+$400
+
+| 
+
+$250  
+  
+Documentation fee  
+(Choices home loan top-up, redocumentation)
+
+| 
+
+$170
+
+| 
+
+$125  
+  
+Security amendment fee
+
+| 
+
+$170
+
+| 
+
+No charge  
+  
+Choices Everyday monthly account fee
+
+| 
+
+$9.95
+
+| 
+
+$5  
+  
+Choices Offset monthly fee (per loan)
+
+| 
+
+$10
+
+| 
+
+No charge  
+  
+Choices Home Loan – electronic transaction
+
+| 
+
+$0.40
+
+| 
+
+Free  
+  
+Choices Home Loan – manual transaction
+
+| 
+
+$0.65
+
+| 
+
+$2.50  
+(capped at $5 per month)  
+  
+**Personal credit/debit card  **  
+  
+Hotpoints Platinum Mastercard annual account fee
+
+| 
+
+$125 p.a.  
+(charged 6 monthly at $62.50)
+
+| 
+
+$119 p.a.  
+(charged 6 monthly at $59.50)  
+  
+Airpoints Platinum Mastercard annual account fee
+
+| 
+
+$145 p.a.  
+(charged 6 monthly at $72.50)
+
+| 
+
+$150 p.a.  
+(charged 6 monthly at $75.00)  
+  
+Foreign currency fee
+
+| 
+
+2.5% of transaction amount
+
+| 
+
+1.4% of transaction amount  
+  
+**Personal overdraft service fees  **  
+  
+Line of credit charge (LCC) for overdraft facilities
+
+| 
+
+0.1% per month   
+(minimum $5)
+
+| 
+
+No charge  
+  
+**Other service fees**  
+  
+Security registration/discharge
+
+| 
+
+$100
+
+| 
+
+$105  
+  
+Administration fee for a  fixed rate loan prepayment
+
+| 
+
+$50
+
+| 
+
+$49  
+  
+Rate demand fee
+
+| 
+
+$50
+
+| 
+
+$12  
+  
+**17 June 2019**
+
+From 2 July 2019 outward International Telegraphic Transfers sent by you to another bank on Westpac One or Business Online will be $10 per transfer (down from $20).
+
+Please refer to [**Other Service Fees**](https://www.westpac.co.nz/managing-your-money/resources/fees/other-service-fees/) to view service and account fees.
+
+ **31 May 2019**
+
+ **We’re changing our savings accounts to give you more flexibility while you save.**
+
+From 2 July 2019, we’ll be changing the name of our Online Bonus Saver account to Westpac Bonus Saver and our Online Bonus Saver PIE account to Westpac Bonus Saver PIE with key changes to some of the features.
+
+ **Here’s what’s new with the Westpac Bonus Saver and Westpac Bonus Saver PIE accounts:**
+
+  *  **How bonus interest/return works:** You will be able to make unlimited withdrawals as long as on the last day of the business month your balance is $20 greater than on the last business day of the month prior. The $20 excludes interest earned on the account and/or Westpac fees charged to the account.
+  * **Paper statement fee:** If you choose to receive paper statements you’ll be charged a $1.50 paper statement fee. Receiving your statements electronically will continue to be free.
+  * **Manual transactions:** Branch deposits and withdrawals now available. There will a branch assisted withdrawal fee of $2.50 for each transaction. 
+  * **Fee exemption for people under 19 or 65 and over:** If you are under 19 or 65 years or over you won’t pay the paper statement fee or manual withdrawal fee.
+  * **Increased accessibility:** Payments can be made directly out of the account within Westpac One online banking, without the need to transfer money via a Westpac transaction account.
+  * **No minimum balance (Westpac Bonus Saver PIE only):** There will no longer be a minimum balance amount required. However, if your account balance is $0 (being 0 units) you will not have any interest in the fund.
+
+
+
+Please refer to the updated [Westpac Cash PIE Fund Term Sheet](https://www.westpac.co.nz/assets/Personal/Bank-Accounts/Cash-PIE/Westpac_Bonus_Saver_Cash_Pie_Fund_Term_Sheet-2July19.pdf) for further information.
+
+ **24 May 2019**
 
  **Changes to Credit Card Conditions of Use - How payments will be applied**
 
@@ -214,16 +434,7 @@ We’ve also made some minor wording changes to the Conditions of Use, to ensure
 
 If you need more information you can always come in to any branch for a chat or contact us on **0800 888 111**.
 
-Preview the changes to the Terms and Conditions of Use below:
-
-  * [Westpac Credit Card Conditions of Use](https://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/Effective-11-June-2019/General-Credit-Cards-Conditions-of-Use-Brochure-Effective-11-June-2019.pdf) (For Low Rate Mastercard®, hotpoints® Mastercard or Visa, hotpoints Platinum Mastercard, BusinessPLUS Mastercard, hotpoints Visa Gold, Portfolio Gold Mastercard or Portfoilio Visa Gold card accounts)
-  * [Westpac _World Mastercard_ Account Conditions of Use](https://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/Effective-11-June-2019/World-Conditions-of-Us-HOTPOINTS-Effective-11-June-2019.pdf)
-  * [Westpac Airpoints Credit Card Conditions of Use](https://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/Effective-11-June-2019/Westpac-Airpoints-General-Credit-Cards-Conditions-of-Use-Brochure-Effective-11-June-2019.pdf)
-  * [Westpac Airpoints _World Mastercard_ Account Conditions of Use](https://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/Effective-11-June-2019/Airpoints-World-MasterCard-Account-Conditions-of-Use-Effective-11-June-2019.pdf)
-
-
-
-**23 May 2019**
+ **23 May 2019**
 
 The Westpac One App Terms and Conditions are changing, effective from App Version 14.4. The changes will relate to the introduction of biometrics to login and Quick Access for iPads.
 
@@ -351,7 +562,7 @@ Changes to when you exchange your foreign cash – International Service Fee
 
  Effective 15th September 2018, the foreign cash buy fee will be charged. This fee will be $5.00 and is applicable when the bank purchase your foreign cash.
 
- Please refer to the [Transaction and Service Fees brochure](https://www.westpac.co.nz/assets/product-simp-temp/11838WT_46_08-18_Transaction-Service-Fee-Brochure-DIG.pdf "Transaction Services and fees brochure") or the [Business Service and Transaction Fees brochure](https://www.westpac.co.nz/assets/product-simp-temp/72272WP-40-08-18-Business-Transaction-and-Service-Fees_DL-DIG-3.pdf "Business Transaction Services and fees brochure") regarding specific fees for each account.
+ Please refer to the [Transaction and Service Fees brochure](https://www.westpac.co.nz/assets/Personal/Your-Money-and-Tailored-Packs/Brochures/transaction_service_fees.pdf "Transaction Services and fees brochure") or the [Business Service and Transaction Fees brochure](https://www.westpac.co.nz/page-not-found/ "Business Transaction Services and fees brochure") regarding specific fees for each account.
 
  **7 August 2018**
 
@@ -516,7 +727,7 @@ Changes to the Electronic account, renamed the Westpac Everyday account
 
 
 
-Read more detail on these changes , visit the [Westpac Everyday account](https://www.westpac.co.nz/bank-accounts/transaction-accounts/electronic-account/) or see our [full transaction and service fees](https://www.westpac.co.nz/assets/Uploads/11838WT_39A_06-18_Transaction-Service-Fee-Brochure-Digtial.pdf "Transaction Services and fees brochure")[](https://www.westpac.co.nz/assets/product-simp-temp/11838WT_39_05-18_Transaction-Service-Fee-Brochure_FINAL-Digital.pdf) to learn more.
+Read more detail on these changes , visit the [Westpac Everyday account](https://www.westpac.co.nz/bank-accounts/transaction-accounts/electronic-account/) or see our [full transaction and service fees](https://www.westpac.co.nz/page-not-found/ "Transaction Services and fees brochure")[](https://www.westpac.co.nz/page-not-found/) to learn more.
 
  The other terms and conditions which applied to the Electronic account, including Westpac’s General Terms and Conditions, will continue to apply to the Westpac Everyday account.
 
