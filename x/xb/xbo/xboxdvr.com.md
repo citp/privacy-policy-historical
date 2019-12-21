@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xboxdvr.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330114022id_/https%3A//xboxdvr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xboxdvr.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221182926id_/https%3A//gamerdvr.com/privacy) for the most accurate reproduction.*
 
-# Xbox DVR - View your Xbox clips and screenshots
+# Gamer DVR - Xbox clips, Twitch and Mixer videos, screenshots, Xbox DVR and more on Gamer DVR!
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
@@ -30,6 +30,8 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 #### Do we use 'cookies'?
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process your login status. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We use cookies to: • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since every browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies. If you turn cookies off, Some of the features that make your site experience more efficient may not function properly. You will still be able to use most of the features of the site. 
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie. 
 
 #### Third-party disclosure
 
@@ -75,10 +77,18 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 #### CAN SPAM Act
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. We collect your email address in order to: • Send information, respond to inquiries, and/or other requests or questions • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred. To be in accordance with CANSPAM, we agree to the following: • Not use false or misleading subjects or email addresses. • Identify the message as an advertisement in some reasonable way. • Include the physical address of our business or site headquarters. • Honor opt-out/unsubscribe requests quickly. • Allow users to unsubscribe by using the link at the bottom of each email. If at any time you would like to unsubscribe from receiving future emails, you can ollow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence. 
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. We collect your email address in order to: • Send information, respond to inquiries, and/or other requests or questions • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred. To be in accordance with CANSPAM, we agree to the following: • Not use false or misleading subjects or email addresses. • Identify the message as an advertisement in some reasonable way. • Include the physical address of our business or site headquarters. • Honor opt-out/unsubscribe requests quickly. • Allow users to unsubscribe by using the link at the bottom of each email. If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence. 
+
+### Common ID Cookie
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking here.
+
+### Advertising Privacy Settings
+
+When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking here.
 
 #### Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-XboxDVR.com | PO Box 386 | Huntertown, IN 46748 | support@xboxdvr.com 
+GamerDVR.com | PO Box 386 | Huntertown, IN 46748 | support@gamerdvr.com 
