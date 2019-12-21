@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewrap.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627222512id_/https%3A//www.thewrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewrap.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221021536id_/https%3A//www.thewrap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
