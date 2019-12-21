@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626020728id_/http%3A//www.hmhco.com/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221021941id_/http%3A//www.hmhco.com/common/privacy-policy) for the most accurate reproduction.*
 
 # Houghton Mifflin Harcourt Privacy Policy
 
