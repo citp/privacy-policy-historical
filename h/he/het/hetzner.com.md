@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hetzner.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627220535id_/https%3A//www.hetzner.com/rechtliches/datenschutz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetzner.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221095515id_/https%3A//www.hetzner.com/rechtliches/datenschutz) for the most accurate reproduction.*
 
 # Data Privacy - Hetzner Online GmbH
 
@@ -130,7 +130,9 @@ If you as a customer fail to pay your invoices on time, your necessary data are 
 
 #### Job application documents
 
-If you apply for a job in Tuusula, Finland or in Munich (Unterföhring) using our career portal, we pass on your job application documents to our subsidiaries at Hetzner Finland Oy or Hetzner Cloud GmbH. We have order processing contracts with both of them. 
+If you apply for a job in Tuusula, Finland or in Munich (Unterföhring) using our career portal, we pass on your job application documents to our subsidiaries at Hetzner Finland Oy or Hetzner Cloud GmbH. We have data processing agreements with both of them. 
+
+To manage our job applications, we use software from rexx systems GmbH. We also have a data processing agreement with this company.
 
   
 
