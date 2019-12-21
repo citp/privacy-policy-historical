@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327110033id_/http%3A//www.woodworkersjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221023043id_/https%3A//www.woodworkersjournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Woodworking | Blog | Videos | Plans | How To
 
@@ -6,7 +6,7 @@
 
 **Our website**
 
-This website ([woodworkersjournal.com](http://www.woodworkersjournal.com/)) is owned by Rockler Companies, Inc.
+This website ([woodworkersjournal.com](http://rocklerwj.wpengine.com/)) is owned by Rockler Companies, Inc.
 
 We have created this website to provide services to our readers and potential readers online. On our website you can:
 
@@ -27,7 +27,7 @@ Your privacy is important to us. To better explain how Rockler collects, stores,
 
 If you supply us with your email address in an online form, we will send you a periodic email newsletter with links to articles on our website and other promotions on occasion.
 
-To be added to this list, please fill out our subscriber form found [here](http://www.woodworkersjournal.com/weekly/subscribe/). In each newsletter’s email, you’ll find a link to our online profile management form, where you’ll be able to update your email preferences (including your email address) or remove your name and email address from this list. You can also send change- or removal-of-address requests to contentcoordinator@woodworkersjournal.com
+To be added to this list, please fill out our subscriber form found [here](https://www.woodworkersjournal.com/weekly/subscribe/). In each newsletter’s email, you’ll find a link to our online profile management form, where you’ll be able to update your email preferences (including your email address) or remove your name and email address from this list. You can also send change- or removal-of-address requests to contentcoordinator@woodworkersjournal.com
 
 It has always been and will continue to be our policy not to share email addresses with third parties.
 
