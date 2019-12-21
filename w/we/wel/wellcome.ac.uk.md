@@ -1,67 +1,111 @@
-> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406014653id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221034822id_/https%3A//wellcome.ac.uk/about-us/terms-use) for the most accurate reproduction.*
 
-# Privacy statement | Wellcome Trust
+# Privacy and terms | Wellcome
 
-The Wellcome Trust regards the lawful and correct treatment of personal information as very important and is fully committed to the principles of data protection, as set out in the Data Protection Act 1998.
+Wellcome is committed to safeguarding your personal information in accordance with data protection law.
 
-## **Why we collect information about you**
+The [Wellcome Privacy Statement [PDF 276KB]](https://wellcome.ac.uk/sites/default/files/wellcome-privacy-statement-20190805.pdf "Wellcome Privacy Statement") explains how, and on what legal basis, we collect, store, and use personal information about you as:
 
-We process personal data in connection with our charitable mission to support bright minds in science, the humanities and social sciences, and public engagement. We do this through a range of activities, including grant funding, capacity building in history of medicine and biomedical ethics, by measuring the societal and historical impacts of biomedical research, and by means of our public venue facilities and the Wellcome Library.
+  * a visitor to Wellcome Collection, our offices and our websites
+  * an applicant for a job at Wellcome
+  * a participant in any of our events
+  * a lender or donor to, or recipient of loan items from, Wellcome Collection
+  * or when you otherwise choose to interact with us.
 
-## **What information we collect about you and how we use this**
 
-You may be asked for personal information if you want to take advantage of specific services we offer, such as when completing a publication subscription form or a Library joining form, when arranging Library appointments, or in connection with Wellcome Collection activities. We will use the personal information you provide to administer our relationship with you and deliver the services you have told us you wish to use or to send you information that you have requested. We may offer you the opportunity to opt in to receiving additional information about our activities or those of our partners and service providers. You may opt out of this at any time by contacting us.
 
-Information that you supply in connection with the provision of a service or a grant application and any funding arising from it will be treated in confidence and in accordance with the principles of the Data Protection Act. Details are given on the grant application forms regarding how personal information provided as part of a grant application, and any subsequent award, is used.
+It also explains how we use personal information in Wellcome Collection for the purpose of archiving in the public interest.
 
-## **Surveys**
+Information on how we collect, store and use personal information in connection with grant-making is set out in our [Wellcome Grants Privacy and Confidentiality Statement [PDF 271KB]](https://wellcome.ac.uk/sites/default/files/wellcome-grants-privacy-statement-20190808.pdf "Wellcome Grants Privacy and Confidentiality Statement").
 
-Occasionally, we conduct web surveys among current or previous grantholders and others to evaluate the impact of our policies, services and funding. We also conduct surveys on behalf of, or in partnership with, other organisations whose aims are similar to our own.
+Last updated 27th September 2017
 
-The results of these surveys will be used solely for evaluation purposes. No information contained in the results will be attributed to the person who submitted it without their explicit consent being obtained in advance. The survey results may be anonymised and, for information and/or research purposes, may also be made available to other organisations, some of which are our funding partners. We will tell you who these organisations are as part of the survey process.
+Like most organisations, Wellcome uses cookies to capture information about our websites’ users. A cookie is a small file of letters and numbers that we save to your computer or device if you agree.
 
-All data collected by the Trust for the purpose of surveys will be held and processed by the Trust in a secure environment. All data will be anonymised and stored for a maximum of two years; it will then be destroyed, unless the data are required for career-tracking purposes, in which case they will not be anonymised and will be held for a longer period of time.
+Cookies allow us to recognise and count your visits, and to see how you move around our sites while you are using them. This helps us to provide you with a good experience while you browse and to improve the way our sites work, for example by making sure you can find what you need.
 
-## **Do we use 'cookies'?**
+Cookies are also set when you:
 
-Like most other organisations, the Wellcome Trust uses cookies on its websites.
+  * click on social networking buttons in our pages
+  * watch videos
+  * register for services
+  * take part in surveys and other activities.
 
-Cookies are text files that are placed on your computer when you visit a website, which identify your computer to the server. Cookies do not identify the individual user, just the computer used.
 
-Cookies provide information to the website owner and some are essential to allow parts of the website to operate.  [Find out more about cookies and the Trust’s use of them.](http://www.wellcome.ac.uk/About-this-site/cookies/index.htm "Find out more about cookies and the Trust’s use of them.")
 
-## **Do we use CCTV?**
+### Third-party cookies
 
-The Trust has installed CCTV systems both within and outside its London premises at 183 and 215 Euston Road to maintain the security and safety of the site and for the prevention and detection of crime.
+As well as the cookies we set, we may use third party cookies and other similar technologies set by other websites when you visit them to help us to understand some simple information about the age, location and interests of the people who visit our sites. Third parties may use these technologies to collect or recieve information from our website and elsewhere on the internet and use that information to provide measurement services and to target adverts.
 
-CCTV images captured by the Trust will only be released to authorised third parties in accordance with the above purposes. You have the right to see CCTV images of yourself and to be provided with a copy of the images on request.
+We only ever use this information in aggregate, and never associate it with any personal information that might identify you. 
 
-Images captured on CCTV will not be kept for longer than necessary. 
+You can opt out of being tracked by cookies set by third parties by using the [Google ad preferences page](https://www.google.com/settings/ads/) or the [opt-out tool](https://tools.google.com/dlpage/gaoptout/). 
 
-## **How do we protect personal information?**
+You can also get more information from [Google](https://myaccount.google.com/intro/privacy#ads) or the [Your Online Choices website](http://www.youronlinechoices.com/uk/your-ad-choices).
 
-We use appropriate organisational and technical measures to ensure that your data are secure and protected from loss, misuse and unauthorised access or alteration. Occasionally, we introduce changes or improvements to our systems. Any test data that may have been used in this connection are managed in a secure and confidential manner.
+You can opt out of being tracked and the collection and use of information for Facebook ad targeting in your [ad settings page on Facebook](https://www.facebook.com/settings/?tab=ads). You can also get more information from Facebook on their [use of cookies](https://www.facebook.com/policies/cookies/) and [advertising policies](https://www.facebook.com/about/basics/advertising).
 
-## **Do we share your information with anyone else?**
+You can opt out of tracking from all participating companies through the [European Interactive Digital Advertising Alliance 'Your Online Choices'](http://www.youronlinechoices.eu/) site. In the UK, click on the ['Your ad choices' menu option](http://www.youronlinechoices.com/uk/your-ad-choices).
 
-The Trust does not pass on your information to others unless we have stated that we will do so as part of our terms and conditions. Some of our publications are distributed by or with the assistance of third parties, but we agree with those third parties that they will keep your information secure and not use it for other purposes.
+By continuing to use our sites and by using video and social media functionality, you consent to the relevant cookies being set on your device.
 
-We may ask you for your agreement to send your contact details to third parties that help us to provide certain services so that they can tell you about their products and services. This will be clearly explained at the point where we collect your information. You will be given the opportunity to decline or to choose how you are contacted.
+For general information about cookies, and how to control and disable them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
 
-## **Your rights**
+### Cookies we use on our sites by type
 
-You have the right to ask us at any time not to contact you or to change your preferred methods of contact for marketing purposes. 
+Across our sites we may make use of Flash files, which present information, allow integration with third parties (such as YouTube) and can offer a richer online experience. We have strived to identify any Flash elements that are likely to set cookies but, at this point in time, we cannot guarantee the status of every Flash file. Adobe offers a tool to monitor and remove Flash cookies.
 
-You have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
+We use Google Analytics, Google Analytics demographics and interest reporting, and integrated services that require Google Analytics to collect data via advertising cookies and identifiers. Google Analytics is a tool that helps website and app owners to understand how their visitors behave. It uses a set of cookies to collect information and report website usage statistics without personally identifying individual visitors to Google. It also uses some cookies set by other websites to help us understand more about our sites’ visitors.
 
-## **Changes to our privacy statement**
+We use [web beacons](https://en.wikipedia.org/wiki/Web_beacon) like Facebook Pixel to understand what users of our site do after clicking a link in an email that we’ve sent to a list of subscribers, or clicking on an advert we’ve placed on Facebook. This information helps us to improve the content we make, reach people who are interested in our work with our advertising and social activity, and measure how effective our advertising and newsletters are, without personally identifying individual site visitors, newsletter subscribers or Facebook users.
 
-Any changes we may make to our privacy statement in the future will be posted on this page. Please check frequently to read any updates or changes we have made.
+The following table is a list of the cookies we use, why we use them, and on which of our sites.
 
-## **How to tell us about changes**
+### Details of cookie usage on Wellcome sites
 
-If you have any questions about data protection or require further information, please email  [dataprotection@wellcome.ac.uk](mailto:dataprotection@wellcome.ac.uk "dataprotection@wellcome.ac.uk") or write to the Data Protection Compliance Officer, Wellcome Trust, Gibbs Building, 215 Euston Road, London NW1 2BE, UK.
+Name| Purpose| Third Party| Duration  
+---|---|---|---  
+__zlcstore| This cookie is necessary for the chat-box function on the website to function.| Yes| 20 days  
+CookieConsent| Stores the user's cookie consent state for the current domain| No| 1 year  
+has_js| Registers whether or not the user has activated JavaScript in the browser.| No| session  
+ZD-suid| Unique id that identifies the user's session.| No| 20 days  
+__cfduid| Used by the content network, Cloudflare, to identify trusted web traffic.| Yes| 1 year  
+__cfruid| This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.| Yes| session  
+__cfduid| Used by the content network, Cloudflare, to identify trusted web traffic.| Yes| 1 year  
+ZD-store| Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user.| No| 20 days  
+collect| Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.| Yes| session  
+_ga| Registers a unique ID that is used to generate statistical data on how the visitor uses the website.| No| 2 years  
+_gat| Used by Google Analytics to throttle request rate| No| 1 day  
+_gid| Registers a unique ID that is used to generate statistical data on how the visitor uses the website.| No| 1 day  
+_hjid| Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.| No| 1 year  
+_hjid| Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.| No| 20 days  
+hjViewportId| Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.| No| session  
+ZD-buid| Unique id that identifies the user on recurring visits.| No| 20 days  
+ZD-currentTime| Registers the date and time for the user's latest visit to the website.| No| session  
+AWSALB| Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.| Yes| 6 days  
+IDE| Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.| Yes| 1 year  
+test_cookie| Used to check if the user's browser supports cookies.| Yes| 1 day  
+fr| Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.| Yes| 3 months  
+tr| Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.| Yes| session  
+rc::c| This cookie is used to distinguish between humans and bots.| Yes| session  
+__zlcmid| Preserves users states across page requests.| No| 1 year  
+_fbp| Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.| No| 3 months  
+_gaexp| This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments.| No| 3 months  
+_hjIncludedInSample| Determines if the user's navigation should be registered in a certain statistical place holder.| No| session  
+GPS| Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.| Yes| 1 day  
+PREF| Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.| Yes| 1 year  
+VISITOR_INFO1_LIVE| Tries to estimate the users' bandwidth on pages with integrated YouTube videos.| Yes| 6 months  
+YSC| Registers a unique ID to keep statistics of what videos from YouTube the user has seen.| Yes| session  
+yt-remote-cast-installed| Stores the user's video player preferences using embedded YouTube video| Yes| session  
+yt-remote-connected-devices| Stores the user's video player preferences using embedded YouTube video| Yes| 20 days  
+yt-remote-device-id| Stores the user's video player preferences using embedded YouTube video| Yes| 20 days  
+yt-remote-fast-check-period| Stores the user's video player preferences using embedded YouTube video| Yes| session  
+yt-remote-session-app| Stores the user's video player preferences using embedded YouTube video| Yes| session  
+yt-remote-session-name| Stores the user's video player preferences using embedded YouTube video| Yes| session  
+_gaexp_rc|  | No| 1 day  
+  
+The material contained in the Wellcome Trust website is provided for general purposes only. Although we endeavour to ensure that the content is accurate and up to date, the Wellcome Trust accepts no responsibility for loss arising from reliance on information contained in this site or other sites that may be linked to from our site from time to time.
 
-This privacy policy covers the following websites:  [Wellcome Trust](https://web.archive.org/web/20160406014653id_/http%3A//www.wellcome.ac.uk/index.htm "Wellcome Trust"),  [Wellcome Collection](http://wellcomecollection.org/ "Wellcome Collection"),  [Wellcome Library](http://wellcomelibrary.org/ "Wellcome Library"),  [Wellcome Images](http://wellcomeimages.org/ "Wellcome Images"),  [Mosaic](http://mosaicscience.com/ "Mosaic"),  [strategy.wellcome.ac.uk](http://strategy.wellcome.ac.uk/ "strategy.wellcome.ac.uk") and  [thecrunch.wellcome.ac.uk](http://thecrunch.wellcome.ac.uk/ "thecrunch.wellcome.ac.uk"). 
+Unless otherwise stated, all content on the site is © The Wellcome Trust and is licensed under [Creative Commons Attribution 2.0 UK](http://creativecommons.org/licenses/by/2.0/uk/ "Creative Commons Attribution 2.0 UK").
 
-Other websites linked to from these sites are not covered by this policy.
+This means that you are free to share the content by copying, distributing and transmitting it, but please attribute it to the Wellcome Trust and provide a link to its website [http://www.wellcome.ac.uk](http://www.wellcome.ac.uk/ "Error - target node or document does not exist"). For any reuse or distribution, you must make these licence terms clear to others.
