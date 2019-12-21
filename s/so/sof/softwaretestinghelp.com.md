@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaretestinghelp.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417132724id_/https%3A//www.softwaretestinghelp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaretestinghelp.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221054109id_/https%3A//www.softwaretestinghelp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
