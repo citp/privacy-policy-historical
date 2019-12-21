@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadwap.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512043006id_/http%3A//downloadwap.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadwap.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221180341id_/http%3A//downloadwap.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # PHONEKY -
 
@@ -93,4 +93,4 @@ PHONEKY reserves the right, at its sole discretion, to modify or replace this Pr
 
 Changes to this Privacy Policy will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
 
-**Last Updated:** November 01, 2018 
+**Last Updated:** November 01, 2019 
