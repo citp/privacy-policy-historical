@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooquizzes.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213124117id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooquizzes.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221021419id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
