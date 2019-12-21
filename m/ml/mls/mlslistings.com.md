@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlslistings.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524103847id_/https%3A//www.mlslistings.com/more/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlslistings.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221171542id_/https%3A//www.mlslistings.com/more/privacy) for the most accurate reproduction.*
 
 # Privacy | MLSListings
 
@@ -6,9 +6,9 @@ MLSLISTINGS INC.
 
 ## Privacy
 
-### Privacy Policy, effective as of January 1, 2018.
+### Privacy Policy, effective as of December 6, 2019.
 
-MLSListings Inc. (“MLSListings”) operates a multiple listing service.  As part of the services offered to our participants and subscribers, we have created and maintain this public website.
+MLSListings Inc. (“MLSListings”) operates a multiple listing service. As part of the services offered to our participants and subscribers, we have created and maintain this public website.
 
 The privacy of your personal information is very important to us. We have created this Privacy Policy to inform you of what information is collected, used, maintained, protected, and disclosed. This policy does not apply to the practices of companies that MLSListings does not own or control, or to people whom MLSListings does not employ or manage.
 
@@ -59,9 +59,11 @@ We may also disclose your personal information:
 
 
 
-**Correcting and Updating Your Information**
+**Correcting, Updating, and Deleting Your Information**
 
-To correct, amend or delete your personal information, you can log into the Site and visit your account profile page. You may also send us an email at support@mlslistings.com to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+To correct, amend or delete your personal information, you can log into the Site and visit your account profile page. You may also send us an email at [support@MLSListings.com](mailto:support@MLSListings.com) to request access to or correct any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+You may request your personal information to be deleted by contacting us at [support@MLSListings.com](mailto:support@MLSListings.com) and we will respond to your request within 30 business days. Even if you request that we delete your personal information, we may still retain data collected from you in an aggregated and anonymized form. We may also still retain your personal information if necessary to: continue providing you with good or services, detect and resolve issues related to security or functionality, and comply with legal and recordkeeping obligations.
 
 **Links**
 
@@ -69,13 +71,19 @@ The Site may contain links to other websites. MLSListings does not endorse any t
 
 **Cookies**
 
-A cookie is a piece of data stored on a user’s hard drive while on our Site. It is not linked to any personally identifiable information, and once the user closes his or her browser, the cookie terminates. If your browser is set to reject cookies, you may still use our Site; however, you will be limited in some areas. For example, you will not be able to complete a property search because our Site uses cookies to “remember” search criteria while you are on the Site.
+A cookie is software code stored on a user’s hard drive while on our Site. It is not linked to any personally identifiable information, and once the user closes his or her browser, the cookie terminates. If your browser is set to reject cookies, you may still use our Site; however, you will be limited in some areas. For example, you will not be able to complete a property search because our Site uses cookies to “remember” search criteria while you are on the Site.
 
 Servers for our Site automatically receive and record some information into a log. For this Site this includes identifying your browser, this Site cookie information, IP address and the pages you request. We use IP addresses to analyze trends, administer the Site, and gather broad demographic information for use in improving Site performance. IP addresses are not linked to personally identifiable information.
 
 **Do Not Track**
 
-Currently, various browsers — including Internet Explorer, Firefox, and Safari — offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Web sites’ visited by the user about the user's browser DNT preference setting. MLSListings does not currently commit to responding to browsers' DNT signals with respect to the Site, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. MLSListings takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
+Currently, various browsers — including Microsoft Edge, Google Chrome, Firefox, and Safari — offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Web sites’ visited by the user about the user's browser DNT preference setting. MLSListings does not currently commit to responding to browsers' DNT signals with respect to the Site, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. MLSListings takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
+
+**Use of Google Analytics**
+
+We use Google Analytics, a web analysis service provided by Google, which allows us to understand the overall use of our Site and services. Google Analytics collects information such as how frequently users visit the Site, how many users visit the Site, and what pages they visit. Google Analytics provides us this data in aggregated form.
+
+Google’s ability to use and share information collected by Google Analytics is dictated by the [Google Analytics Terms of Service](https://marketingplatform.google.com/about/analytics/terms/us/) and the [Google Privacy Policy](https://policies.google.com/privacy). You may opt-out of Google Analytics by installing Google’s opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout/).
 
 **Surveys & Contests**
 
@@ -90,14 +98,14 @@ MLSListings reserves the right to change this policy at any time. Please check t
 _MLSListings maintains reasonable and appropriate measures to protect the personal information obtained through the Site and in connection with our services from loss, misuse and unauthorized access, disclosure, alteration and destruction.  
 _
 
-Your California Privacy Rights
+**Your California Privacy Rights**
 
 California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [support@MLSListings.com](mailto:support@MLSListings.com) or call Customer Support at (866) 734-5787.
 
-Children Under the Age of 13
+**Children Under the Age of 13**
 
 Our Site is not intended for children under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
-Contact Information
+**Contact Information**
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: write to us at support@MLSListings.com or call Customer Support at (866) 734-5787.
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: write to us at [support@MLSListings.com](mailto:support@MLSListings.com) or call Customer Support at (866) 734-5787. 
