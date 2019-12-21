@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b-ok.cc privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629102445id_/https%3A//b-ok.cc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b-ok.cc privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221190905id_/https%3A//b-ok.cc/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
