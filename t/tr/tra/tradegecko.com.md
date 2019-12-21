@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradegecko.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908024424id_/https%3A//www.tradegecko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradegecko.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221083122id_/https%3A//www.tradegecko.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TradeGecko
 
@@ -8,7 +8,7 @@
 
 We at TradeGecko (TradeGecko Pte. Ltd and our subsidiaries) are committed to protecting your privacy. This Privacy Policy applies across all websites that we own and operate and all services we provide, including our online and mobile services products, and any other apps or services we may offer (for example, events or training). For the purpose of this notice, we’ll just call them our ‘services’. This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use, access and correction of your personal information. If you do not agree with the data practices described in this Privacy Policy, you should not use our services.
 
-When we say 'personal data' we mean identifiable information about you, like your name, email, address, telephone number, bank account details, payment information, support queries, community comments and so on. If you can’t be identified (for example, when personal data has been aggregated and anonymized) then this notice doesn’t apply. Check out our [ Terms & Conditions](https://www.tradegecko.com/terms?hsLang=en-us) for more information on how we treat your other data.
+When we say 'personal data' we mean identifiable information about you, like your name, email, address, telephone number, bank account details, payment information, support queries, community comments and so on. If you can’t be identified (for example, when personal data has been aggregated and anonymized) then this notice doesn’t apply. Check out our [ Terms & Conditions](https://www.tradegecko.com/terms?hsLang=en-us&__hstc=162943075.f0e5550a7757ccaa8388172c7dec88a3.1580355063185.1580355063185.1580355063185.1&__hssc=162943075.1.1580355063185&__hsfp=3924935683) for more information on how we treat your other data.
 
 We may need to update this Privacy Policy from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we’ll make sure we let you know, usually through an email.
 
@@ -16,7 +16,7 @@ We may need to update this Privacy Policy from time to time. We will post any Pr
 
 When we refer to ‘we’ (or ‘our’ or ‘us’), that means TradeGecko Pte. Ltd. and its wholly-owned subsidiaries. Our headquarters are in Singapore but we also operate and have offices in several countries.
 
-We provide an easy-to-use global cloud software platform for small and medium-sized businesses and their advisors. If you would like to find out more about what we do, please see our [About Us](https://www.tradegecko.com/about-us?hsLang=en-us)TradeGecko page.
+We provide an easy-to-use global cloud software platform for small and medium-sized businesses and their advisors. If you would like to find out more about what we do, please see our [About Us](https://www.tradegecko.com/about-us?hsLang=en-us&__hstc=162943075.f0e5550a7757ccaa8388172c7dec88a3.1580355063185.1580355063185.1580355063185.1&__hssc=162943075.1.1580355063185&__hsfp=3924935683)TradeGecko page.
 
 For European Union data protection purposes, when we act as a controller in relation to your personal data, our Data Protection Officer is our representative and can be contacted at [privacy@tradegecko.com](mailto:privacy@tradegecko.com).
 
@@ -58,7 +58,7 @@ We collect information to enable you to receive the benefit of our site, platfor
   * with your explicit consent, to create or distribute promotional and marketing material that is relevant to you;
   * for quality assurance and training purposes;
   * **in the case of non-personally identifiable information only** \- **or personal information only with your explicit consent** — to promote and market ourselves, our products and services, and our websites (including any social media pages maintained or operated by us such as Facebook, Instagram, Twitter, YouTube etc); and
-  * any other uses identified to you at the time of collecting your personal information or as reasonably contemplated by this Privacy Policy and our [Terms & Conditions](https://www.tradegecko.com/terms?hsLang=en-us)(the **Purposes** ).
+  * any other uses identified to you at the time of collecting your personal information or as reasonably contemplated by this Privacy Policy and our [Terms & Conditions](https://www.tradegecko.com/terms?hsLang=en-us&__hstc=162943075.f0e5550a7757ccaa8388172c7dec88a3.1580355063185.1580355063185.1580355063185.1&__hssc=162943075.1.1580355063185&__hsfp=3924935683)(the **Purposes** ).
 
 
 
