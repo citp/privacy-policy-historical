@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annmariegianni.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401121229id_/https%3A//www.annmariegianni.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annmariegianni.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221104033id_/https%3A//www.annmariegianni.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Annmarie Skin Care
 
@@ -40,6 +40,8 @@ After a transaction, your private information (credit cards, social security num
 
 ##  **Do we use cookies?**
 
+Manage cookies
+
 Yes.  Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
@@ -64,7 +66,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ##  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.annmariegianni.com/terms.html](https://web.archive.org/web/20190401121229id_/https://www.annmariegianni.com/terms.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.annmariegianni.com/terms.html](https://web.archive.org/web/20191221104033id_/https://www.annmariegianni.com/terms.html)
 
 ##  **Your Consent**
 
