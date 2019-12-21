@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfxbook.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624125218id_/https%3A//www.myfxbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfxbook.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221140408id_/https%3A//www.myfxbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Myfxbook
 
