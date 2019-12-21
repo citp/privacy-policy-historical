@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rag-bone.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401041657id_/https%3A//www.rag-bone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rag-bone.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221120706id_/https%3A//www.rag-bone.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Also, like many web sites, we use “cookies,” which are files stored on your 
 
 ##### How is My Information Used for Targeted Advertising?
 
-We work with third parties that use their own technologies to provide tailored advertisements on our behalf across the Internet. During your visit to this web site, those third parties may use cookies, web beacons and other technologies to collect information, such as, but not limited to, click stream information, your IP address, and time and date. This information may be used to analyze and track data as well as provide advertisements that may be of interest to you. Additional information about third-party advertising and opting out of having your browsing information used for advertising purposes can be found at [www.networkadvertising.org](https://web.archive.org/web/20190401041657id_/https%3A//www.rag-bone.com/www.networkadvertising.org). 
+We work with third parties that use their own technologies to provide tailored advertisements on our behalf across the Internet. During your visit to this web site, those third parties may use cookies, web beacons and other technologies to collect information, such as, but not limited to, click stream information, your IP address, and time and date. This information may be used to analyze and track data as well as provide advertisements that may be of interest to you. Additional information about third-party advertising and opting out of having your browsing information used for advertising purposes can be found at [www.networkadvertising.org](https://web.archive.org/web/20191221120706id_/https%3A//www.rag-bone.com/www.networkadvertising.org). 
 
 ##### Your California Rights
 
