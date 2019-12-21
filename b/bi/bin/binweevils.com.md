@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505164941id_/https%3A//www.binweevils.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221202245id_/https%3A//www.binweevils.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bin Weevils
 
@@ -112,7 +112,7 @@ We may also engage other third parties to perform services in connection with th
 
 
 
-For more information on the processing of your data by our third-party service providers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f1f1d06190e0c162f5a5a1f06170a031c410c0002). 
+For more information on the processing of your data by our third-party service providers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8afaf8e3fcebe9f3cabfbffae3f2efe6f9a4e9e5e7). 
 
 ### Law enforcement requests
 
@@ -138,31 +138,31 @@ We operate globally and may transfer your personal information to individual com
 
 ## 7\. Advertisements
 
-We may serve advertising from child-friendly brands. Advertising supports us in keeping the 55 Pixels Kids Platform free to use. Any ads we serve will be delivered by ad serving technology which has been designed to be compliant with COPPA and is certified as such by the ESRB Privacy Certified and kidSAFE COPPA Certified, or other such certification programs. Such advertisements will only be targeted based on the context or content you are viewing on the 55 Pixels Kids Platform, and not on your historical browsing behaviour. All ads served in the 55 Pixels Kids Platform will carry the SuperAwesome SafeAd watermark, which indicates that (a) the ad is not collecting personal information in contravention of COPPA, (b) its content has been reviewed for compliance with best practice and the CARU self-regulatory principles to be appropriate for children, and (c) it is age-appropriate for the 55 Pixels Kids Platform. If you have any questions about advertising on the 55 Pixels Kids Platform or concerns about specific ads that you see, please contact us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5525273c2334362c156060253c2d3039267b363a38). 
+We may serve advertising from child-friendly brands. Advertising supports us in keeping the 55 Pixels Kids Platform free to use. Any ads we serve will be delivered by ad serving technology which has been designed to be compliant with COPPA and is certified as such by the ESRB Privacy Certified and kidSAFE COPPA Certified, or other such certification programs. Such advertisements will only be targeted based on the context or content you are viewing on the 55 Pixels Kids Platform, and not on your historical browsing behaviour. All ads served in the 55 Pixels Kids Platform will carry the SuperAwesome SafeAd watermark, which indicates that (a) the ad is not collecting personal information in contravention of COPPA, (b) its content has been reviewed for compliance with best practice and the CARU self-regulatory principles to be appropriate for children, and (c) it is age-appropriate for the 55 Pixels Kids Platform. If you have any questions about advertising on the 55 Pixels Kids Platform or concerns about specific ads that you see, please contact us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdcdcfd4cbdcdec4fd8888cdd4c5d8d1ce93ded2d0). 
 
 ## 8\. Access, Modify, Delete and Other User Rights
 
 Notwithstanding the limited nature of the personal information we collect from or about the Players on our 55 Pixels Kids Platform, Players or their parents have the right to request access to review and/or modify (including delete) personal information about a player. Players or their parents may also contact us to request certain information regarding our disclosures to third parties for direct marketing purposes. However, we do not share information with third parties for this purpose.
 
-If a user or parent wishes to exercise any of the above rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6616140f1007051f265353160f1e030a154805090b) or using the information within Section 10 of this Privacy Policy.
+If a user or parent wishes to exercise any of the above rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b5b59425d4a48526b1e1e5b42534e475805484446) or using the information within Section 10 of this Privacy Policy.
 
-Chat posted in the 55 Pixels Kids Platform may be publicly viewable during that player session. Players are prohibited from communicating personal or inappropriate information at any time, and we take reasonable steps to screen all messages/chat to remove any such information. Should you wish to edit or remove any message/chat after it has been posted, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c09094c554459504f125f5351) or using the information within Section 10 of this Privacy Policy. Removal of the information from public view does not guarantee complete or comprehensive removal, however. After the removal request has been honoured, we may retain copies of the messages/chat. Additionally, we do not have control over third parties (e.g., other Players) who may have copied or reposted this information.
+Chat posted in the 55 Pixels Kids Platform may be publicly viewable during that player session. Players are prohibited from communicating personal or inappropriate information at any time, and we take reasonable steps to screen all messages/chat to remove any such information. Should you wish to edit or remove any message/chat after it has been posted, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3545475c4354564c750000455c4d5059461b565a58) or using the information within Section 10 of this Privacy Policy. Removal of the information from public view does not guarantee complete or comprehensive removal, however. After the removal request has been honoured, we may retain copies of the messages/chat. Additionally, we do not have control over third parties (e.g., other Players) who may have copied or reposted this information.
 
 You also have the right to lodge a complaint with an EU supervisory data protection authority. 
 
 ## 9\. Notice to California Residents / Your California Privacy Rights
 
-Under California Civil Code § 1798.83, California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes during the immediately prior calendar year. We do not share your personal information with any unaffiliated third parties for their own marketing purposes. Nonetheless, you may make one request per year if you are a California resident. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request this information in writing by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7101031807101208314444011809141d025f121e1c) or by post at: Privacy, 55 Pixels Ltd, 17-18 Great Pulteney Street, London, W1F 9NE, United Kingdom. Please allow up to thirty (30) days for a response. 
+Under California Civil Code § 1798.83, California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes during the immediately prior calendar year. We do not share your personal information with any unaffiliated third parties for their own marketing purposes. Nonetheless, you may make one request per year if you are a California resident. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request this information in writing by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2050524956414359601515504958454c530e434f4d) or by post at: Privacy, 55 Pixels Ltd, 17-18 Great Pulteney Street, London, W1F 9NE, United Kingdom. Please allow up to thirty (30) days for a response. 
 
 ## 10\. Contact us
 
-If you have any questions, need information or require assistance, please do not hesitate to reach out to us either by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5727253e2136342e176262273e2f323b247934383a) or send us a letter to:  
+If you have any questions, need information or require assistance, please do not hesitate to reach out to us either by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bacac8d3ccdbd9c3fa8f8fcad3c2dfd6c994d9d5d7) or send us a letter to:  
 Attn: Privacy  
 55 Pixels Limited  
 17-18 Great Pulteney Street,  
 London, W1F 9NE,  
 United Kingdom  
-Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c09094c554459504f125f5351)
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5727253e2136342e176262273e2f323b247934383a)
 
 ## 11\. Revisions to Privacy Policy
 
