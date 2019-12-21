@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dblp.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517225309id_/https%3A//dblp.org/db/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dblp.org privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221085216id_/https%3A//dblp.org/db/about/privacy.html) for the most accurate reproduction.*
 
 # dblp: Data Privacy Policy
 
@@ -44,7 +44,7 @@ Log files of HTTP requests are stored by the web services to guarantee the opera
 
 We guarantee that cookies are only used to improve the user-friendliness of our website (e.g. to store a user's preferred data view). An identification of your browser after a page change or a tracking of your behavior does not take place. If you prefer that dblp does not store any cookies whenever you visit our website, please deactivate the use of cookies in your web browser. [You can find more details on the concrete cookies we store in our FAQ.](https://dblp.org/faq/15696107)
 
-Only in a small number number of instances, the dblp website will tell your browser to load data from third-party APIs (e.g., loading tweets from twitter.com). These features will always be optional, disabled by default, and a checkbox will be available where you can choose to enable and disable contacting third-party sites at any time. Please note that we do not have any control over how the third-party might use your connection data, so please proceed with care. 
+Only in a small number number of instances, the dblp website will tell your browser to load data from third-party APIs (e.g., loading tweets from twitter.com). These features will always be optional, disabled by default, and a checkbox will be available where you can choose to enable and disable contacting third-party sites at any time. Please note that we do not have any control over how a third-party might use your connection data, so please proceed with care. 
 
 ## The dblp data set
 
