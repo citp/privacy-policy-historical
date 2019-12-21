@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the convertfiles.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630111627id_/http%3A//www.convertfiles.com/convert%2520PRIVACY%2520POLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertfiles.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221153819id_/http%3A//www.convertfiles.com/convert%2520PRIVACY%2520POLICY.pdf) for the most accurate reproduction.*
 
 # Privacy Notice
 
 Privacy Notice
-Last update: 15/05/2018              Notice Version: 1.0
+Last update: 21/11/2019              Notice Version: 1.0
 This document governs the privacy notice of our website www.convertfiles.com.
-Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may
-collect from you, how we collect it, how we protect it, how we may share it, how you can
-access and change it, and how you can limit our sharing of it. Our privacy notice also explains
-certain legal rights that you have with respect to your personal data. Any capitalized terms not
-defined herein will have the same meaning as where they are defined elsewhere on our
-website.
+Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect
+from you, how we collect it, how we protect it, how we may share it, how you can access and
+change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal
+rights that you have with respect to your personal data. Any capitalized terms not defined herein
+will have the same meaning as where they are defined elsewhere on our website.
 Your Rights
 When using our website and submitting personal data to us, you may have certain rights
 under the General Data Protection Regulation (GDPR) and other laws. Depending on the legal
@@ -39,11 +38,11 @@ notice.
 
 The right to object
 You have the right to object to us processing your personal data for the following reasons:
-       Processing was based on legitimate interests or the performance of a task in the public
+     •  Processing was based on legitimate interests or the performance of a task in the public
         interest/exercise of official authority (including profiling);
-       Direct marketing (including profiling); and
-       Processing for purposes of scientific/historical research and statistics.
-       Rights in relation to automated decision-making and profiling.
+     •  Direct marketing (including profiling); and
+     •  Processing for purposes of scientific/historical research and statistics.
+     •  Rights in relation to automated decision-making and profiling.
 Automated individual decision-making and profiling
 You will have the right not to be subject to a decision based solely on automated processing,
 including profiling, which produces legal effects concerning you or similarly significantly affects
@@ -73,7 +72,7 @@ Retaining and Destroying Your PD
 Updating Your PD
 Revoking Your Consent for Using Your PD
 Protecting the Privacy Rights of Third Parties
-                                                                                                   2
+                                                                                                    2
 
 
 Do Not Track Settings
@@ -128,7 +127,6 @@ your computer or mobile device when you access certain websites. Cookies may con
 that can be read by the web server that delivered the cookie to you. The text contained in the
 cookie generally consists of a sequence of letters and numbers that uniquely identifies your
 computer or mobile device; it may contain other information as well.
-For additional information, please review our cookie policy .
 By agreeing to accept our use of cookies, you are giving us, and third parties we partner with,
 permission to place, store, and access some or all the cookies described below on your
 computer.
@@ -167,15 +165,15 @@ user’s preferences or actions across a site (or, in some cases, across differe
 remembered. Persistent cookies may be used for a variety of purposes, including remembering
 users’ choices and preferences when using a website or to target advertising to them.
 We may also use cookies for:
-     Identifying the areas of our website that you have visited
-     Personalizing content that you see on our website
-     Our website analytics
-     Remarketing our products or services to you
-     Remembering your preferences, settings, and login details
-     Targeted advertising and serving ads relevant to your interests
-     Affiliate marketing
-     Allowing you to post comments
-     Allowing you to share content with social networks
+     • Identifying the areas of our website that you have visited
+     • Personalizing content that you see on our website
+     • Our website analytics
+     • Remarketing our products or services to you
+     • Remembering your preferences, settings, and login details
+     • Targeted advertising and serving ads relevant to your interests
+     • Affiliate marketing
+     • Allowing you to post comments
+     • Allowing you to share content with social networks
 Most web browsers can be set to disable the use of cookies. However, if you disable cookies,
 you may not be able to access features on our website correctly or at all.
 Web Beacons
@@ -213,12 +211,12 @@ You can prevent Google Analytics from using your information by opting out at th
 https://tools.google.com/dlpage/gaoptout
 How Your Information Is Used
 We use the information we receive from you to:
-        Provide our products and services you have requested or purchased from us
-        Personalize and customize our content
-        Make improvements to our website
-        Contact you with updates to our website
-        Resolve problems and disputes
-        Contact you with marketing and advertising
+    •    Provide our products and services you have requested or purchased from us
+    •    Personalize and customize our content
+    •    Make improvements to our website
+    •    Contact you with updates to our website
+    •    Resolve problems and disputes
+    •    Contact you with marketing and advertising
          that we believe may be of interest to you
 Communications and Emails
 When we communicate with you about our website, we will use the email address you
@@ -371,9 +369,9 @@ Questions About Our Privacy notice
 If you have any questions about our privacy notice, please contact us using the information at
 the top of this privacy notice.
 Data Controller Contact Information
-Landocs Capital
-PO Box 2428,
-Kiryat Ono Israel 55122
+Algo Media Ltd.
+Shaham 30,
+Petah Tikva, Israel 4951726
 http://www.convertfiles.com/contact_form.php
 © Copyright notice - This document is protected under the United States and foreign copyrights. The
 copying, redistribution, use or publication by you, is strictly prohibited.
