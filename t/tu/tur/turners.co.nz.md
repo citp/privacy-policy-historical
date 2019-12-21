@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turners.co.nz privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702061517id_/https%3A//www.turners.co.nz/Company/Terms-and-Conditions/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turners.co.nz privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221152541id_/https%3A//www.turners.co.nz/Company/Terms-and-Conditions/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Turners
 
@@ -67,11 +67,11 @@ Turners will not release your personal information to any third party except whe
 
 **7\. Access to, editing and deleting personal information**
 
-You may also ask us for access to, correction of or deletion of any personal information that we hold about you. It is your responsibility to ensure that personal information provided to us is accurate. You can ask to see the personal information that we hold about you by emailing a written request to **[enquiry@turners.co.nz](mailto:enquiry@turners.co.nz)**
+You may also ask us for access to, correction of or deletion of any personal information that we hold about you. It is your responsibility to ensure that personal information provided to us is accurate. You can ask to see the personal information that we hold about you by emailing a written request to **[contact@turners.co.nz](mailto:contact@turners.co.nz)**
 
 **8\. Questions**  
 
-If you have any further questions relating to this policy please email **[enquiry@turners.co.nz](mailto:enquiry@turners.co.nz)** or by mail to;
+If you have any further questions relating to this policy please email **[contact@turners.co.nz](mailto:contact@turners.co.nz)**  or by mail to;
 
 Turners Group NZ Limited  
 PO Box 112 022   
