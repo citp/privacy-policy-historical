@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawenforcementtoday.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330164753id_/https%3A//www.lawenforcementtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawenforcementtoday.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221020220id_/https%3A//www.lawenforcementtoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Law Enforcement Today
+# Privacy Policy and Terms of Service - Law Enforcement Today
 
 Law Enforcement Today (LET) is committed to maintaining your trust with respect to the information we collect from you. This privacy policy applies to [LawEnforcementToday.com](https://www.lawenforcementtoday.com/) (LET) sets forth what information we collect about you, how we use your information and the choices you have about how we use your information.
 
@@ -8,7 +8,7 @@ Law Enforcement Today is dedicated to safeguarding your privacy online. As a pol
 
 WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-**Information You Voluntarily Submit to the Website** : Law Enforcement Today may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
+**Information You Voluntarily Submit** : Law Enforcement Today may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.  When submitting photos or videos to Law Enforcement Today through our website or social media, you are giving us rights to use those photos and videos in any future articles or productions by Law Enforcement Today.
 
 **Information We Collect from Others** : Law Enforcement Today may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.
 
@@ -87,7 +87,7 @@ RIGHTS RELATED TO YOUR PERSONAL INFORMATION
 
 Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails.
 
-Access – You may access the personal information we have about you by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#670e090108270b0610020901081504020a020913130803061e4904080a)
+Access – You may access the personal information we have about you by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5a33343c351a363b2d3f343c3528393f373f342e2e353e3b2374393537)
 
 Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law.
 
@@ -98,3 +98,7 @@ At no time should you submit sensitive personal information to the [LawEnforcem
 CHILDREN’S INFORMATION
 
 The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately and we will use our best efforts to promptly remove such information from our records.
+
+MEMBERSHIP
+
+Membership in our membership platform is non-refundable.
