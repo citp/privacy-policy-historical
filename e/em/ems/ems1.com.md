@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924075256id_/https%3A//www.ems1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221022604id_/https%3A//www.ems1.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Toll Free: 888-765-4231 ext 8328
 
 We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy applies to [www.EMS1.com](https://www.ems1.com/) (“EMS1”) sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
-EMS1 is dedicated to safeguarding your privacy online. As a policy, we will not sell or otherwise misuse your personal information. Your personal information helps us customize EMS1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. 
+EMS1 is dedicated to safeguarding your privacy online. As a policy, we will not sell or otherwise misuse your personal information. Your personal information helps us customize EMS1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
 This privacy policy was last updated on 04/27/2018
 
@@ -34,7 +34,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by EMS1 and ou
 
 We use cookies to:
 
-1\. Remind us of whom you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie passes your username and password when you register or "Sign In" and is modified when you "Sign Out" of our services. Other submitted personal information such as occupation and city are not linked to cookies. 
+1\. Remind us of whom you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie passes your username and password when you register or "Sign In" and is modified when you "Sign Out" of our services. Other submitted personal information such as occupation and city are not linked to cookies.
 
 2\. Estimate our audience size. Each browser accessing EMS1 is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior.
 
@@ -86,7 +86,7 @@ We will not otherwise disclose any personal information without your consent exc
 
   * If we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and
 
-  * If EMS1, a related asset or line of business is acquired by, transferred to or merged with another company, in which case, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+  * If EMS1, a related asset or line of business is acquired by, transferred to or merged with another company, in which case, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 
 
@@ -103,7 +103,7 @@ EMS1 does not sell or rent user information to anyone. We will only share PII wi
 
 You may edit, update or delete your EMS1 Account Information and your public EMS1 Profile at any time by using your EMS1 ID and password. If you have forgotten your password, please click [here](https://www.ems1.com/forgot/) to request a new password. For all other problems signing in to EMS1, please contact us at [customersupport@EMS1.com](mailto:customersupport@EMS1.com).
 
-The profile you create on our site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. 
+The profile you create on our site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
 
 If an account/profile was created without your knowledge/authorization, please contact us at (email) to request removal of the profile.
 
@@ -154,6 +154,10 @@ We periodically post member testimonials on EMS1 which may contain personal info
 ### Social Media Widgets
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**3RD PARTY ADS**
+
+Our web site use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click here](http://www.networkadvertising.org/managing/opt_out.asp\))
 
 ### Changes in this Privacy Statement
 
