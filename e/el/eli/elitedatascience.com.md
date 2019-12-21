@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitedatascience.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323181114id_/https%3A//elitedatascience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitedatascience.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221144717id_/https%3A//elitedatascience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
