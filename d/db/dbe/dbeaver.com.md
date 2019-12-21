@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbeaver.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206071549id_/https%3A//dbeaver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbeaver.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221045947id_/https%3A//dbeaver.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy – DBeaver
 
