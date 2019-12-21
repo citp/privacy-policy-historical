@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamebanana.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627052610id_/https%3A//gamebanana.com/wikis/1873) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebanana.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221173203id_/https%3A//gamebanana.com/wikis/1873) for the most accurate reproduction.*
 
-# Privacy Policy | Wikis
+# Privacy Policy [Wikis]
 
-[] [ Signup ](https://web.archive.org/members/account/register) Already a member? [ Login ](https://web.archive.org/members/account/login)
+[] [ account_circle Signup ](https://web.archive.org/members/account/register) Already a member? [ Login ](https://web.archive.org/members/account/login)
 
 ##### Mods
 
@@ -51,6 +51,7 @@
   * [ Members ](https://gamebanana.com/members)
   * [ News ](https://gamebanana.com/news)
   * [ Polls ](https://gamebanana.com/polls)
+  * [ Questions ](https://gamebanana.com/questions)
   * [ Reviews ](https://gamebanana.com/reviews)
   * [ Status Updates ](https://gamebanana.com/statusupdates)
   * [ Threads ](https://gamebanana.com/threads)
@@ -96,12 +97,13 @@
   * [ 简体中文 ](https://web.archive.org/wikis/1873?lang=cn)
   * [ Deutsche ](https://web.archive.org/wikis/1873?lang=de)
   * [ dansk ](https://web.archive.org/wikis/1873?lang=dk)
+  * [ Esperanto ](https://web.archive.org/wikis/1873?lang=eo)
   * [ Español ](https://web.archive.org/wikis/1873?lang=es)
-  * [ Esperanto ](https://web.archive.org/wikis/1873?lang=esp)
   * [ français ](https://web.archive.org/wikis/1873?lang=fr)
   * [ Ελληνικά ](https://web.archive.org/wikis/1873?lang=gr)
   * [ Magyar ](https://web.archive.org/wikis/1873?lang=hu)
   * [ bahasa Indonesia ](https://web.archive.org/wikis/1873?lang=id)
+  * [ Молдовеняскэ ](https://web.archive.org/wikis/1873?lang=md)
   * [ Polskie ](https://web.archive.org/wikis/1873?lang=pl)
   * [ Română ](https://web.archive.org/wikis/1873?lang=ro)
   * [ русский ](https://web.archive.org/wikis/1873?lang=ru)
@@ -118,7 +120,7 @@
   * [ Twitter ](http://twitter.com/gamebanana)
   * [ STEAM ](http://steamcommunity.com/groups/gamebanana)
 
-{"_sRefreshTask":"\t\t\t\tvAreRequest('bnhvU2Z1TzlVSkVjHC0xK50RWLIzorcGcBoBoyNKb8RQRkDOD_PZyUozrgK5NlP32C3LovSqrPtx99HmxTiA7oB0PppC8IaC97DN_48a6LY46yl9HTcTkfD8XzHoKk2-RnGUZ3AiLBK7j2NFbuvw_RKUPZS8mRhQOlgeTzpRxC5vVtEOaLTzTrzZU2NKxYiSJU4rS8NsxVKzXehvGLKP4BF3LkVEv6Il_HXsJFpcoU2D87FHHyjCOyshhkls_HojxGJ1Js9Jd8mx2vbfszqdzJkK9_faS0AxkXUh1t7zknr9dQZUx0456RJVI2kVrVFF0Q40oY0doYUt-mJ_L-KM0FMAlrvT0kH0iXGIxVEdAaSplFgzwLSpfdMKJLhEoaNNLNH8TeFViud04a4kpdz9o6wAEvW6_zAp-Ncum56Zk0SjCcEARE6jAvNwr9tk79H_igf41-Dg3MAr2NgIfmlvDuqrH3dWn4EXfG75bCGxhcJMs5b_21S0Wa92XQWGxpwPhPJCYfYRfmQqYT_WS3qk4o-z6VyzSb6OhvOBhrBs-sBdeMrBntt58yiqebcnGvddajVL6ThjJwgxMnCONhsyGU8u6qze9Jsgu2y4AVmgL1yNT7oOCBzkuBPvFHbp9NZ1xHx4anA4TvgHVmF2Mtaep0EwQXWnkwQCVd70XWekpJ-bjaBYTn8MY2HKT747JpKrQzcca8pB_sW0J4tObMulP7t1Sxe9wy7ABs13H1L6-Ros6expZgPntZSS5o27D49aglfFvmsXtQQwSxb1y8SqNxGGedwUn_WIOD_abS6ORpWM1-ZPvevSjWe54dhraGyxpAWyW2Ib7btY6dgl0jQRbQLfH09VQEw5FDjMToEfOwJkSEJTaEgrS0NRPT0','',{\r\n\t\t\t\t\t\t\tdata: {},\r\n\t\t\t\t\t\turl: 'https:\/\/gamebanana.com\/responders\/are'\r\n\t\t},false)\r\n\t\t\t","_nRefreshInterval":120000} 
+{"_sRefreshTask":"\t\t\t\tvAreRequest('eFJpWmFZbG1HaDBLHBQOzsZeHuI3bV8EO2OYlybMIy11YYwUlR0j2oPQm7C7hqXj1AZAZg-5BfW5tboIB_LrCgEzpCFf-eHm4kFBsA1ddml3WHt1Oet4zvgSXpbF-uSnRz5BdsRktPVNiG8RxH0IuuJwf3QgYK2L9D4JW02wAdCgSys8YU9YDIHcaG0lFyG8UUO4WL1_To2Br6kUx1UxwnHdYVCV1jv3cc-Iv1yXU5CqaRQRbtiOIFeL8YtFf3zMZjtoBHuoh3Aaflo7cOJp1EKqsF_hhhKFmO3XAMLoOUBFXsuCG34KUXj7a7oH7m65ZQgyHgIkeeAqZdbISwBiH5Y9rSACCkkJ5qqqJXW1AwncLRJwYKZtaIcmP8lEBwy0k8YTkhKhdIJDjiqKar5bF7peeG-aWiAdG7OTEvfsbWo_dfN2Rf4nTNVosqBcSUDCaxQ9g7k6lKE0nyS9-1T84AiMf-tmo_qyAGmtTVJnYdVqJC3S_jLB5ZC6OSyzOvBak-QTlHszIkiHoWFbKCcEznIkk-3yBefzG41UPdmemco-JD6msNph2f2rKHzZw6-CjIrzPkRGZCDMx7fdhWiTZkidz62GY0_8Qhlq3W7DeNpk0DkZvzjl96iBEKBx9K9_ov_Ik264aLVKi_P9n4YKeB0xaV2-xmPLKAQRCIrOUIiXImNFdpiEQotMcmLlDAj_6Manll0tZOY4m_IwwliRDRMn2oGNaF4lmvPlmNkOYidWQJWZecVh9vAvgT67jp8GyLNosEBfVs-1xxveo9-MspLMfiD46CfKkp6cDYzsiWkK2_wL5z3ddyhKTCG-KtmEr3D9nc9VN0INHZapU4bZwuqDPTuCclIfS5whxi2wJEFEanFxQnRRZDVRPT0','',{\r\n\t\t\t\t\t\t\tdata: {},\r\n\t\t\t\t\t\turl: 'https:\/\/gamebanana.com\/responders\/are'\r\n\t\t},false)\r\n\t\t\t","_nRefreshInterval":120000} 
 
 #### Games
 
@@ -168,10 +170,15 @@ Install and manage your mods easily with community-made 1-Click mod downloaders.
   * [ S&KC Mod Loader ](https://gamebanana.com/tools/6375)
   * [ Puyo Tetris Mod Manager ](https://gamebanana.com/tools/6381)
   * [ Reloaded Mod Loader ](https://gamebanana.com/tools/6424)
+  * [ Reloaded 2 Mod Loader ](https://gamebanana.com/tools/6693)
   * [ Sonic R Mod Loader ](https://gamebanana.com/tools/6315)
   * [ Everest Installer ](https://gamebanana.com/tools/6449)
   * [ EverInst ](https://gamebanana.com/tools/6630)
+  * [ Sonic '06 Mod Manager ](https://gamebanana.com/tools/6666)
+  * [ Sonic 3 A.I.R Mod Manager ](https://gamebanana.com/tools/6698)
   * [ Sonic 4 Mod Loader ](https://gamebanana.com/tools/6546)
+  * [ BCML ](https://gamebanana.com/tools/6624)
+  * [ Quasar Mod Manager ](https://gamebanana.com/tools/6722)
 
 
 
@@ -184,7 +191,15 @@ Install and manage your mods easily with community-made 1-Click mod downloaders.
 
 #### NavOptions
 
+Unsaved changes 
+
 Customize the user interface. 
+
+**Ads keep us online.** Without them, we wouldn't exist. We don't have paywalls or sell mods - **we never will.** But every month we have large bills and running ads is our only way to cover them. 
+
+_Please consider unblocking us._
+
+Thank you from GameBanana **< 3**
 
 [Wikis](https://gamebanana.com/wikis) > [Rules](https://gamebanana.com/wikis/cats/2)
 
@@ -192,11 +207,11 @@ Customize the user interface.
 
 The privacy agreement between you and Machinefloor Co.
 
-This Privacy Policy details how we collect, use, and disclose personal information from and about you when you use GameBanana, other sites, applications and services provided, owned, or operated by Machinefloor Co.
+This Privacy Policy details how we collect, use, and disclose personal information from and about you when you use GameBanana, other sites, applications and services provided, owned, or operated by GameBanana Co.
 
 ### 1.1. Our Services
 
-GameBanana, and other sites, applications, or services provided, owned, or operated by Machinefloor Co.
+GameBanana, and other sites, applications, or services provided, owned, or operated by GameBanana Co.
 
 ### 1.2. Third Party Service
 
@@ -357,7 +372,7 @@ Our Services implement administrative, technical, and physical measures designed
   * TLS encryption - most of Our Services are only accessible via an encrypted connection.
 
   
-However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure, and you understand that Machinefloor Co does not ensure or warrant the privacy or security of any information collected from or about you, and that when you use and share your Personal Data with Our Services you do so at your own risk. If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. 
+However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure, and you understand that GameBanana Co does not ensure or warrant the privacy or security of any information collected from or about you, and that when you use and share your Personal Data with Our Services you do so at your own risk. If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. 
 
 ## 7.4. Personal Data Anonymization
 
@@ -411,7 +426,7 @@ For the purposes of applicable EU data protection law (including the General Dat
 
 ## 9.2. California
 
-Pursuant to California Civil Code §1798.83, California Residents may request information regarding the disclosure of your personal information by Machinefloor Co. to its affiliates and/or third parties for their direct marketing purposes, within the past year.For more information on our Privacy Policy, or to request a copy of your Personal Data, please email [tom@machinefloor.com](https://mailto:tom@machinefloor.com/)   
+Pursuant to California Civil Code §1798.83, California Residents may request information regarding the disclosure of your personal information by GameBanana Co. to its affiliates and/or third parties for their direct marketing purposes, within the past year.For more information on our Privacy Policy, or to request a copy of your Personal Data, please email [tom@machinefloor.com](https://mailto:tom@machinefloor.com/)   
 
 
   * I thought the update was actually a joke based on that meme thats going around about privacy policies. 
