@@ -1,107 +1,149 @@
-> *The following text is extracted and transformed from the elizabethwarren.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231135229id_/https%3A//elizabethwarren.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizabethwarren.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221020302id_/https%3A//elizabethwarren.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elizabeth Warren
 
-This Privacy Policy explains how the Elizabeth Warren Presidential Exploratory Committee (the “ ** _Campaign_** ”, “ ** _we_** ” or “ ** _us_** ”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile application that link to this Privacy Policy (collectively, the “ ** _Site_** ”).
+Collection of information
+
+Use of information
+
+Sharing of information
+
+Social sharing features
+
+Advertising and analytics services provided by others
+
+Transfer of information to the U.S.
+
+Your choices
+
+Security
+
+Contact us
+
+Version history
+
+This Privacy Policy explains how Warren for President (the “ ** _Campaign_** ”, “ ** _we_** ” or “ ** _us_** ”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile application that link to this Privacy Policy (collectively, the “ ** _Site_** ”).
 
 We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification).  We encourage you to review the Privacy Policy whenever you access the Site or otherwise interact with us to stay informed about our information practices and the choices available to you.
 
-## **COLLECTION OF INFORMATION**
-
-### **Information You Provide to Us**
-
-We collect information you provide directly to us.  For example, we collect information when you sign up to receive updates, request information, fill out a form, sign a petition, sign up as a volunteer, sign up for an event, create an account, participate in a contest or promotion, make a donation or purchase, communicate with us via third party social media sites, request support, send us an email, or otherwise communicate with us.  The types of information we may collect include your name, email address, postal address, phone number, credit card and other payment information (although payment information is generally collected directly by a third-party processor) , and any other information you choose to provide.
+We collect information you provide directly to us.  For example, we collect information when you sign up to receive updates, request information, fill out a form, sign a petition, sign up as a volunteer, sign up for an event, create an account, participate in a contest or promotion, make a donation or purchase, communicate with us via third party social media sites, request support, send us an email, or otherwise communicate with us.  The types of information we may collect include your name, email address, postal address, phone number, credit card and other payment information (although payment information is generally collected directly by a third-party processor), and any other information you choose to provide.
 
 In addition, the Federal Election Commission (FEC) may require us to collect certain personal information from donors.  For example, the FEC requires us to collect (and disclose to them) the name, mailing address, occupation, and employer of all individuals whose donations to the Campaign exceed $200 per election cycle.
 
-### **Automatically Collected Information**
+This website is not directed to children and does not knowingly collect the personal information of children under the age of 13. If you are under the age of 13, do not use this website. If you are aware of a child’s personal information having been provided to us, please contact us at [help@elizabethwarren.com](mailto:help@elizabethwarren.com).
 
 When you access or use our Site, we automatically collect information about you, including:
 
-  * **Log and Usage Information:** We collect information related to your access to and use of the Site, including the type of browser you use, app version, access times, pages viewed, your IP address, and the page you visited before navigating to our Site.
-  * **Device Information:** We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
-  * **Transactional Information:** If you make a donation or purchase, we may collect information about the transaction, such as donation amount, purchase price, product details, and date and location of the transaction.
-  * **Location Information:** We may derive the approximate location of your device.
-  * **Information Collected by Cookies and Similar Tracking Technologies:** We (and our service providers) use different technologies to collect information, including cookies and web beacons.  Cookies are small data files stored on your hard drive or in device memory that help us improve our Site and your experience, see which areas and features of our Site are popular, and count visits.  Web beacons (also known as “pixel tags” or “clear GIFs”) are electronic images that may be used in our Site or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness.  For more information about cookies and how to disable them, see Your Choices
+  *  **Log and Usage Information:**
+
+We collect information related to your access to and use of the Site, including the type of browser you use, app version, access times, pages viewed, your IP address, and the page you visited before navigating to our Site.
+
+  *  **Device Information:**
+
+We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+
+  *  **Transactional Information:**
+
+If you make a donation or purchase, we may collect information about the transaction, such as donation amount, purchase price, product details, and date and location of the transaction.
+
+  *  **Location Information:**
+
+We may derive the approximate location of your device.
+
+  *  **Information Collected by Cookies and Similar Tracking Technologies:**
+
+We (and our service providers) use different technologies to collect information, including cookies and web beacons.  Cookies are small data files stored on your hard drive or in device memory that help us improve our Site and your experience, see which areas and features of our Site are popular, and count visits.  Web beacons (also known as “pixel tags” or “clear GIFs”) are electronic images that may be used in our Site or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness.  For more information about cookies and how to disable them, see Your Choices.
 
 
 
-### Information **We Collect from Other Sources**
 
 We and our service providers may also obtain information about you from other sources and combine that with information we collect about you on our Site.  For example, we and our service providers may collect information about you from third parties. Also, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information, and friends lists, depending on your privacy settings on that social media site and the site’s privacy policy.
-
-## **USE OF INFORMATION**
 
 We may use the information we collect to:
 
   * Provide, maintain and improve our Site;
+
   * Provide and deliver the information you request, process donations and transactions and send you related information, including confirmations and receipts,
+
   * Send you technical notices, updates, security alerts, and support and administrative messages and provide technical support;
+
   * Respond to your emails, submissions, comments, questions and requests; request feedback or support, and otherwise contact you about your participation in the campaign and the use of the Sites;
-  * Communicate with you about the campaign, such as sending you information to keep you informed about various issues, events, activities, and volunteer opportunities, and provide news and information we think will be of interest to you (see Your Choices below for information about how to opt out of these communications at any time);
+
+  * Communicate with you about the campaign, such as sending you information to keep you informed about various issues, events, activities, and volunteer opportunities, and provide news and information we think will be of interest to you (see Your Choices).
+
+below for information about how to opt out of these communications at any time);
+
   * To solicit volunteers, donations and support for the Campaign and for other candidates, issues and organizations that we support and to connect you with other volunteers;
+
   * Contact you if Federal election laws require us to request additional information from you;
+
   * Remind you to vote and register to vote and assist you in finding your registration information, polling location and campaign events near you;
+
   * Monitor and analyze trends, usage, and activities in connection with our Site;
+
   * Personalize the Site and provide advertisements, content or features based on your preferences, interests, and browsing and online activities;
+
   * Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards;
+
   * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Campaign and others; and
+
   * Carry out any other purpose described to you at the time the information was collected.
 
 
 
-## **SHARING OF INFORMATION**
 
 We may share information about you as follows or as otherwise described in this Privacy Policy:
 
   * With vendors, service providers, volunteers, and consultants who need access to such information to carry out work on our behalf;
-  * With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups;
+
+  * With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups, provided such groups agree to protect such information to the same degree as set forth in this Privacy Policy;
+
   * With other participants in a joint fundraising committee;
+
   * To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions to the Campaign exceed $200 in an election cycle (for additional information, visit the FEC website at [http://www.fec.gov](http://www.fec.gov/));
+
   * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements; When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
+
   * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property, and safety of the Campaign, its employees, volunteers, constituents, or others;
+
   * In connection with, or during negotiations of, any reorganization, formation of new committee or successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of the Campaign; With your consent or at your direction.
+
 
 
 
 We may also share aggregated or de-identified information that cannot reasonably be used by those third parties to identify you.
 
-## **SOCIAL SHARING FEATURES**
-
 The Site may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Site with other media, and vice versa.  Your use of such features enables the sharing of information with your friends or the public, depending on your privacy settings for the relevant social media site.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
-
-## **ADVERTISING AND ANALYTICS SERVICES PROVIDED BY OTHERS**
 
 We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications.  These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Site and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information.  This information may be used by the Campaign and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Site and other websites, and better understand your online activity.
 
 For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).  You can also change your browser settings to block cookies, although doing so may disable some features of our Site. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
 
-## **TRANSFER OF INFORMATION TO THE U.S.**
+Campaign is based in the United States, and is directed to U.S. residents, and we process and store information in the U.S. If you are located outside of the U.S., we and our service providers may transfer your information to, or store or access your information in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.
 
-Campaign is based in the United States, and is directed to U.S. residents, and we process and store information in the U.S. .  If you are located outside of the U.S., we and our service providers may transfer your information to, or store or access your information in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.
+You may update the information you provide to us at any time by completing [this form](https://my.elizabethwarren.com/page/s/web-update-info) or contacting [help@elizabethwarren.com](mailto:help@elizabethwarren.com) _._
 
-## **YOUR CHOICES**
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. You can also review your choices regarding behavioral advertising cookies at [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
 
-### **Account Information**
+  * Essential cookies help make a website operate by enabling basic functions like page navigation and access to secure areas of the website.
 
-You may update the information you provide to us at any time by completing [this form](https://my.elizabethwarren.com/page/s/update-info) or contacting [help@elizabethwarren.com](mailto:help@elizabethwarren.com) _._
+  * Analytics cookies help website owners understand how users interact with their website. These cookies provide information such as which content or pages are popular and how visitors navigate through the site. Opting out of this category will stop these cookies from collecting data about your use of this Site as soon as you tick the box.
 
-### **Cookies**
+I accept Analytics cookiesOkay!
 
-Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies You can also review your choices regarding behavioral advertising cookies at [www.aboutads.info/choices](http://www.aboutads.info/choices).  Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
+  * Behavioral marketing cookies track individuals across the web over time. The resulting information is called “behavioral data” and is used to serve targeted advertisements across the web. Opting out of this category will stop these cookies from collecting information about you on this Site as soon as you tick the box.
 
-### **Promotional Communications**
+I accept Marketing cookiesOkay!
+
+
+
 
 You may opt out of receiving promotional messages from the Campaign by following the instructions in those messages.  If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 
-### **Mobile Push Notifications/Alerts**
-
 With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device.  You can deactivate these messages at any time by changing the notification settings on your mobile device.
-
-## **SECURITY**
 
 The Campaign takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-## **CONTACT US**
-
 If you have any questions about this Privacy Policy, please contact us at: [help@elizabethwarren.com](mailto:help@elizabethwarren.com)
+
+[Privacy Policy as of 12.8.19](https://web.archive.org/privacy-policy-12-8-19)
