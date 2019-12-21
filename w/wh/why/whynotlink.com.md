@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the whynotlink.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203023252id_/http%3A//www.whynotlink.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whynotlink.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221052932id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Introducing to you the best IT / E-commerce products and useful online resources and tools
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-Privacy Policy
+###  What’s in a Domain Name? 
 
-Whynotlink takes your online privacy very seriously. As a web site dedicated to helping you find only the IT / E-commerce products and online resources you want and need - not the information others decide you should have - we've made protecting our visitors a high priority.
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-What we do with your personal information
+### DomainMarket.com Privacy Policy
 
-When you subscribe to our mailing list or join our safe list, we ask you for only your email address. This information is used solely for your benefits and the interaction between us.
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
-Whynotlink does not sell, trade, or rent your personal information to others. Nor does Whynotlink share any statistics we collect from you with any third party.
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-Send us your comments
-
-Whynotlink invites your questions and comments about our policies. Please send e-mail to [info@whynotlink.com](mailto:info@whynotlink.com).
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com.). 
