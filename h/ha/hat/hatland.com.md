@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101192630id_/https%3A//www.hatland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221171552id_/https%3A//www.hatland.com/privacy-policy) for the most accurate reproduction.*
 
-# hatland.com - PRIVACY POLICY
+# Privacy Policy of hatland.com
 
-[](https://www.hatland.com/big-size-fitted-hats/ "Big Sizes") [](https://www.hatland.com/sale-items/ "Clearance Sale Hats") [](https://www.hatland.com/hat-types/newest-hats/ "Newest") [](https://www.hatland.com/hat-types/exclusive-hats/ "Exclusives") [](https://www.hatland.com/hat-types/blank-hats/ "Blank Hats")   
+[](https://web.archive.org/big-size-fitted-hats/ "Big Sizes") [](https://web.archive.org/sale-items/ "Clearance Sale Hats") [](https://web.archive.org/hat-types/newest-hats/ "Newest") [](https://web.archive.org/hat-types/blank-hats/ "Blank Hats")   
 |  |  | Your information is completely confidential and will not be shared with anyone else.  
 ---|---  
 At hatland.com, we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy Policy. This will give you a summary sketch about how information is collected from you and how it is used.  
@@ -16,4 +16,4 @@ We use cookies to help identify you when you visit our store. The cookies contai
 Google:  
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it and its partners to serve ads to users based on their visit to our site and/or other sites on the Internet. Users may opt out of the use of the DART cookie. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  
 Email Newletters:  
-You can add your email address by clicking on the "mailing list" link on the bottom of any page. You can also select to be added to our email list during the checkout process. We only send out emails during our major sales or events (about once or twice per week) just so you can be sure not to miss out on some great deals and new additions. If at any time you wish to be removed from our email list, you can just click on the "remove" link at the bottom of your email OR you can use the "mailing list" link in the left-hand column of any page to remove your email at any time.
+You can add your email address by clicking on the "mailing list" link on the bottom of any page. You can also select to be added to our email list during the checkout process. We only send out emails during our major sales or events (about once or twice per week) just so you can be sure not to miss out on some great deals and new additions. If at any time you wish to be removed from our email list, you can just click on the "remove" link at the bottom of your email.
