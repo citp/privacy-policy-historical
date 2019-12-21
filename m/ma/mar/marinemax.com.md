@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinemax.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921015526id_/https%3A//www.marinemax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinemax.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221022622id_/https%3A//www.marinemax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: MarineMax
 
@@ -70,7 +70,11 @@ After being added to our email list, you also may choose the types of emails you
 **Social Sharing Features**  
 The website may offer social sharing features or other integrated tools, which let you share actions you take on the website with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides the social sharing feature.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.
 
-**California Privacy Rights**  
+Manage your cookie settings on this site.
+
+[Manage Contact Preferences](https://privacyportal.onetrust.com/ui/#/preferences/login/f314b840-1dd9-4d09-983f-749c1868d563)
+
+ **California Privacy Rights**  
 Under California law, California residents who have an established business relationship with MarineMax may opt out of MarineMax disclosing personal information about them to third parties for their marketing purposes. If you do not want MarineMax to disclose information to other companies for their marketing purposes, please contact Marketing at MarineMax via [marketing@marinemax.com](mailto:marketing@marinemax.com) or 727-531-1700.
 
 **Contact Us**  
