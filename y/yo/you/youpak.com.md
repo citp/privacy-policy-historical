@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the youpak.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625232547id_/https%3A//www.youpak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youpak.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222004145id_/https%3A//clipmega.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - YouPak.com
+# Privacy Policy - ClipMega.com
 
 ### What information do we collect?
 
-We donot collect any kind of information.
+We don't collect any kind of information.
 
 ### Do we use cookies?
 
@@ -28,4 +28,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us by using [this contact form](https://web.archive.org/web/20180625232547id_/https%3A//www.youpak.com/contact).
+If there are any questions regarding this privacy policy you may contact us by using [this contact form](https://web.archive.org/web/20191222004145id_/https%3A//clipmega.com/contact).
