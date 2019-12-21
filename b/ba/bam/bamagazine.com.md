@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bamagazine.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521141120id_/http%3A//www.bamagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamagazine.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221134427id_/https%3A//www.bamagazine.com/privacy) for the most accurate reproduction.*
 
 # Before & After | Privacy policy
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20180521141120id_/http://www.bamagazine.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20191221165024id_/https://www.bamagazine.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
