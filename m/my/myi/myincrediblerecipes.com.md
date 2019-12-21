@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myincrediblerecipes.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114045925id_/http%3A//myincrediblerecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myincrediblerecipes.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221173523id_/https%3A//myincrediblerecipes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-My Incredible Recipes found at [www.MyIncredibleRecipes.com](http://www.myincrediblerecipes.com/) (“Website”) is governed by the following privacy policy (“Privacy Policy”).
+My Incredible Recipes found at [www.MyIncredibleRecipes.com](https://myincrediblerecipes.com/) (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
@@ -87,13 +87,13 @@ RIGHTS RELATED TO YOUR PERSONAL INFORMATION
 
 Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at () to be removed from our mailing list.
 
-Access – You may access the personal information we have about you by submitting a request to admin@adventuresofanurse.com
+Access – You may access the personal information we have about you by submitting a request.
 
-Amend – You may contact us at () to amend or update your personal information.
+Amend – You may contact us to amend or update your personal information.
 
-Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to admin@adventuresofanurse.com
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request.
 
-Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law.
 
 SENSITIVE PERSONAL INFORMATION
 
@@ -101,7 +101,7 @@ At no time should you submit sensitive personal information to the Website. This
 
 CHILDREN’S INFORMATION
 
-The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately atadmin@adventuresofanurse.com and we will use our best efforts to promptly remove such information from our records.
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us and we will use our best efforts to promptly remove such information from our records.
 
 CONTACT INFORMATION
 
