@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiques-atlas.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604013405id_/https%3A//www.antiques-atlas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiques-atlas.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221115152id_/https%3A//antiques-atlas.com/privacy-policy) for the most accurate reproduction.*
 
 # Antiques For Sale, UK Fairs Diary, Antique Shop/Dealer Directory and Antique Furniture - Antiques Atlas
 
