@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatecashsecrets.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407041215id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatecashsecrets.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221052932id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
