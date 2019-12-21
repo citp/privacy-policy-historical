@@ -1,23 +1,15 @@
-> *The following text is extracted and transformed from the copacet.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722064038id_/https%3A//copacet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copacet.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221052932id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | | CopacetCopacet
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-PRIVACY POLICY  
-Effective February 24, 2012
+###  What’s in a Domain Name? 
 
-Roxley LLC, and the Copacet Service are committed to protecting customer privacy online. The following privacy policy applies solely to our Copacet internet advertising services.
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-Cookies  
-When viewing advertisements shown via the Copacet service, you may receive and transmit web cookies. If you would not like to receive and transmit such cookies, you may disable cookies for our site or sites in general within your web browser.
+### DomainMarket.com Privacy Policy
 
-Anonymous Information Collected  
-We or our advertisers may track page or image impression counts by using the information sent to our servers when your browser electronically requests our pages or images. Such information includes, but is not limited to, your Internet Protocol address, information about your web browser such as software make and model, referring link, time of transmission, operating system, window size, and any other information your browser automatically transmits in response to web content.
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
-Personally Identifiable Information Collected  
-We do not collect personally identifiable information in the process of serving ads.
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-Third Party Advertisers  
-By clicking on an advertisement or viewing a pop up or pop under advertisement, you may be visiting the sites of third party advertisers using the Copacet service. Roxley LLC, is not responsible for the content of such sites and can not guarantee that those sites will guard your privacy as strictly as we do. Before entering personally identifiable information into a third party site, we strongly recommend viewing the site’s privacy policy and determining how your information will be used.
-
-Changes to Our Privacy Policy  
-As our services evolve, this Privacy Policy may be revised to reflect those changes, where applicable. We therefore reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. Users are encouraged to check our site frequently to review the current Privacy Policy in effect.
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e2c4c19ad5d1d9c4c1dbd5d9c4c19ad481d9c4c1d3d2d3d9c4c19ad5d1d9c4c1d4d6d9c4c19ad4d6d9c4c19ad484d98fc4c1dbd5d98bc4c1d3d3d2d9c4c1d3d2dbd9c4c19ad4d3d9c4c1d3d3d6d9c4c19ad480d9c4c1d3d2d3d9c4c19ad5d6d9c4c1d6d4d9818dc4c1d3d2dbd9c4c19ad087d9). 
