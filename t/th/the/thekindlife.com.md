@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thekindlife.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023113112id_/https%3A//thekindlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekindlife.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221171054id_/https%3A//thekindlife.com/privacy) for the most accurate reproduction.*
 
-# Privacy – the kind life
+# Privacy | the kind life
 
 EFFECTIVE DATE: August 1, 2013
 
