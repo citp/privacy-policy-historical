@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the pokemoncenter.com privacy policy that was archived on 2019-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629001009id_/https%3A//www.pokemon.com/us/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pokemoncenter.com privacy policy that was archived on 2019-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191221185455id_/https%3A//www.pokemon.com/us/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js " lang="en"><head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-spa-1123.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-V9L7&amp;l=gDataLayer"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4OWFZXGwIAXFZTBgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(23),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{p?p-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(24),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(p+=1)}),s.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,j=y.hash,this[u]=x.now()}function o(){M--,y.hash!==j&&i(0,!0);var t=x.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=x.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,l="cb"+s,p="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,x=t("loader");if(w[v]&&x.xhrWrappable){var g=t(10),b=t(11),E=t(8),R=t(6),O=t(13),C=t(7),P=t(14),T=t(9),L=t("ee"),S=L.get("tracer");t(16),x.features.spa=!0;var j,M=0;L.on(u,r),L.on(l,r),L.on(d,o),L.on(p,o),L.buffer([u,d,"xhr-done","xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),P.buffer([u,"new-xhr","send-xhr"+s]),C.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",l,p,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),T.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(P,"send-xhr"+s),a(L,"xhr-resolved"),a(L,"xhr-done"),a(C,m+s),a(C,m+"-done"),a(T,"new-jsonp"),a(T,"jsonp-end"),a(T,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",x=t("loader");x.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=x.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,x.now()])}),a.on(m,function(t,e,n){this.bstStart=x.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),this.bstType])}),s.on(m,function(){this.bstStart=x.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=x.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(26)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(23);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,l=a.fetch,p="prototype";u&&d&&l&&(i(f,function(t,e){r(u[p],e,c),r(d[p],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(26)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],l),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],l),c.emit("jsonp-end",[],l),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var l={};f.inPlace(u.parent,[u.key],"cb-",l),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],l)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(l),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(26)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,l=/^(\w+)(\.|$)(.*)$/,p=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,p,"dom-"),f.inPlace(HTMLHeadElement.prototype,p,"dom-"),f.inPlace(HTMLBodyElement.prototype,p,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(26)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(26),a=t("ee").get("promise"),s=i(a),c=t(23),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(26)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(26)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){x.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(26)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(){var t=window.NREUM,e=t.info.accountID||null,n=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!e||!n||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:e,ap:n,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&e!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(21);e.exports={generateTraceHeader:r}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);e.aborted||(n.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):a(this,t),n.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return v(r)}function i(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function a(t,e){t.params.status=e.status;var n=o(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(17),u=t(15).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(20),v=t(19),w=window.XMLHttpRequest;s.features.xhr=!0,t(14),d.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){a(e,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=!!NREUM.init.distributed_tracing.enabled),n&&this.sameOrigin){var r=u();r&&e.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=v(r);i&&(n.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{d.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<p;a++)e.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,e],e)})}},{}],17:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],18:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(23),s=t(24),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],19:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],20:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],21:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],22:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],26:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(24),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[x[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",x[n]=e,e in u||(u[e]=[])})}var y={},x={},g={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(23),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(23),u=t("ee"),d=t(22),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1123.min.js"},g=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:g,userAgent:d};t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(25)},{}]},{},["loader",2,16,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"ba34eb72cb","agent":"","transactionName":"MgFaZkVVWBBXABIPWAtLfkdZV0IKWQ1JC1YMChZRWkcYFV8GERUNLApcV092TzNXBAMoWAEBFlVSQA==","applicationID":"1087113,1087114","errorBeacon":"bam.nr-data.net","applicationTime":408}</script>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-spa-1153.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-V9L7&amp;l=gDataLayer"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4OWFZXGwIAXFZTBgI=",licenseKey:"ba34eb72cb",applicationID:"1087113"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(24),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(25),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){L++,C=g.hash,this[u]=y.now()}function o(){L--,g.hash!==C&&i(0,!0);var t=y.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+g,e])}function a(t,e){t.on(e,function(){this[e]=y.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,g=w.location,y=t("loader");if(w[v]&&y.xhrWrappable){var x=t(10),b=t(11),E=t(8),R=t(6),O=t(13),N=t(7),P=t(14),M=t(9),T=t("ee"),S=T.get("tracer");t(16),y.features.spa=!0;var C,L=0;T.on(u,r),T.on(p,r),T.on(d,o),T.on(l,o),T.buffer([u,d,"xhr-done","xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),P.buffer([u,"new-xhr","send-xhr"+s]),N.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),x.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),M.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(P,"send-xhr"+s),a(T,"xhr-resolved"),a(T,"xhr-done"),a(N,m+s),a(N,m+"-done"),a(M,"new-jsonp"),a(M,"jsonp-end"),a(M,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,L>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(8),"addEventListener"in window&&t(6);var x=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),o.on(v,function(t,e){var n=t[0];n instanceof x&&i("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+l,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=i(arguments),e={};o.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return o.emit(n+"start",[t,a],s),s.then(function(t){return o.emit(n+"end",[null,t],s),t},function(t){throw o.emit(n+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(25),a=t(24);e.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,p=s.Response,l=s.fetch,h="prototype",m="nr@context";d&&p&&l&&(a(u,function(t,e){r(d[h],e,f),r(p[h],e,f)}),r(s,"fetch",c),o.on(c+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(c+"done",[null,e],n)}else o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t("wrap-function")(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t("wrap-function")(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?f.inPlace(Node.prototype,l,"dom-"):(f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-")),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t("wrap-function")(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t("wrap-function"),a=t("ee").get("promise"),s=i(a),c=t(24),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,x),x.prototype=l.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(){var t=window.NREUM;if(!t.loader_config)return null;var e=(t.loader_config.accountID||"").toString()||null,n=(t.loader_config.agentID||"").toString()||null,r=(t.loader_config.trustKey||"").toString()||null;if(!e||!n)return null;var a=i.generateCatId(),s=i.generateCatId(),c=Date.now(),f=o(a,s,c,e,n,r);return{header:f,guid:a,traceId:s,timestamp:c}}function o(t,e,n,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:e,ti:n}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}var i=t(22);e.exports={generateTracePayload:r,generateTraceHeader:o}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(p[r],this.listener,!1);e.aborted||(n.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):a(this,t),n.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return v(r)}function i(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function a(t,e){t.params.status=e.status;var n=o(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(17),u=t(15).generateTracePayload,d=t("ee"),p=["load","error","abort","timeout"],l=p.length,h=t("id"),m=t(20),v=t(19),w=window.XMLHttpRequest;s.features.xhr=!0,t(14),t(7),d.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){a(e,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=!!NREUM.init.distributed_tracing.enabled),n&&this.sameOrigin){var r=u();r&&r.header&&(e.setRequestHeader("newrelic",r.header),this.dt=r)}}),d.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=v(r);i&&(n.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{d.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<l;a++)e.addEventListener(p[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,e],e)}),d.on("fetch-before-start",function(t){var e,n=t[1]||{};"string"==typeof t[0]?e=t[0]:t[0]&&t[0].url&&(e=t[0].url),e&&(this.sameOrigin=f(e).sameOrigin);var r=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=!!NREUM.init.distributed_tracing.enabled),r&&this.sameOrigin){var o=u();if(!o||!o.header)return;var i=o.header;if("string"==typeof t[0]){var a={};for(var s in n)a[s]=n[s];a.headers=new Headers(n.headers||{}),a.headers.set("newrelic",i),this.dt=o,t.length>1?t[1]=a:t.push(a)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",i),this.dt=o)}})}},{}],17:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],18:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(24),s=t(25),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],19:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],20:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],21:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?a("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&a("timing",["fcp",Math.floor(t.startTime)])})}function o(t){if(t instanceof c&&!u){var e,n=Math.round(t.timeStamp);e=n>1e12?Date.now()-n:s.now()-n,u=!0,a("timing",["fi",n,{type:t.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var i,a=t("handle"),s=t("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){i=new PerformanceObserver(r);try{i.observe({entryTypes:["paint"]})}catch(f){}}if("addEventListener"in document){var u=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(t){document.addEventListener(t,o,!1)})}}},{}],22:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],23:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],24:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],25:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],26:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function l(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(24),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(24),u=t("ee"),d=t(23),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1153.min.js"},x=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(18),t(21),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(26)},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(25),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,16,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"ba34eb72cb","agent":"","transactionName":"MgFaZkVVWBBXABIPWAtLfkdZV0IKWQ1JC1YMChZRWkcYFV8GERUNLApcV092TzNXBAMoWAEBFlVSQA==","applicationID":"1087113,1087114","errorBeacon":"bam.nr-data.net","applicationTime":617}</script>
   <meta http-equiv="Content-Language" content="en">
   <meta name="language" content="en">
   <link rel="shortcut icon" href="https://assets.pokemon.com/static2/_ui/img/favicon.ico">
@@ -27,23 +27,36 @@
 
   
   
-  <link rel="alternate" hreflang="en-gb" href="https://www.pokemon.com/uk/privacy-notice/">
-  <link rel="alternate" hreflang="ru" href="https://www.pokemon.com/ru/privacy-notice/">
   <link rel="alternate" hreflang="fr" href="https://www.pokemon.com/fr/avis-de-confidentialite/">
   <link rel="alternate" hreflang="en" href="https://www.pokemon.com/us/privacy-notice/">
-  <link rel="alternate" hreflang="nl" href="https://www.pokemon.com/nl/privacyverklaring/">
-  <link rel="alternate" hreflang="nb" href="https://www.pokemon.com/no/retningslinjer-for-personvern/">
+  <link rel="alternate" hreflang="es-do" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
   <link rel="alternate" hreflang="de" href="https://www.pokemon.com/de/datenschutzerklaerung/">
   <link rel="alternate" hreflang="it" href="https://www.pokemon.com/it/informativa-sulla-privacy/">
-  <link rel="alternate" hreflang="sv" href="https://www.pokemon.com/se/sekretesspolicy/">
-  <link rel="alternate" hreflang="es-xl" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="es-py" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="es-cl" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
   <link rel="alternate" hreflang="pt-br" href="https://www.pokemon.com/br/aviso-de-privacidade/">
+  <link rel="alternate" hreflang="es-gt" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
   <link rel="alternate" hreflang="fi" href="https://www.pokemon.com/fi/tietosuojailmoitus/">
-  <link rel="alternate" hreflang="da" href="https://www.pokemon.com/dk/fortrolighedspolitik/">
+  <link rel="alternate" hreflang="es-mx" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
   <link rel="alternate" hreflang="es" href="https://www.pokemon.com/es/aviso-de-privacidad/">
+  <link rel="alternate" hreflang="en-gb" href="https://www.pokemon.com/uk/privacy-notice/">
+  <link rel="alternate" hreflang="ru" href="https://www.pokemon.com/ru/privacy-notice/">
+  <link rel="alternate" hreflang="es-hn" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="nl" href="https://www.pokemon.com/nl/privacyverklaring/">
+  <link rel="alternate" hreflang="es-uy" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="es-bo" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="es-ar" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="nb" href="https://www.pokemon.com/no/retningslinjer-for-personvern/">
+  <link rel="alternate" hreflang="sv" href="https://www.pokemon.com/se/sekretesspolicy/">
+  <link rel="alternate" hreflang="es-cr" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="es-pe" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="es-co" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="es-pa" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="es-sv" href="https://www.pokemon.com/el/aviso-sobre-la-privacidad/">
+  <link rel="alternate" hreflang="da" href="https://www.pokemon.com/dk/fortrolighedspolitik/">
 
     <!-- google search appliance meta tags -->
-<meta name="pkm-title" content="Privacy Notice"><meta name="pkm-description" content="Privacy Notice"><meta name="pkm-modified-date" content="20190515">
+<meta name="pkm-title" content="Privacy Notice"><meta name="pkm-description" content="Privacy Notice"><meta name="pkm-modified-date" content="20191219">
 <!-- Adobe Analytics Dynamic Tag Manager -->
 
 <script type="text/javascript">
@@ -59,7 +72,7 @@ var re = /:\/\/[^\/]*?(pokemon.com|openroad.ca)\//,
             "Language": "en",
             "Internal/External": document.referrer.match(re) ? "internal" : "external",
             "SiteErrorType": "",
-            "website": "wwwb1"
+            "website": "wwwb8"
         },
 
         "Content":{
@@ -149,7 +162,7 @@ var re = /:\/\/[^\/]*?(pokemon.com|openroad.ca)\//,
 
 
   <script>
-    window.token = "21cS9SHJycsljq7WK6DUvhZgLcDL3BIR8VjjpprXofWhzNU15PKmkotuZR970Zo6";
+    window.token = "glh3BsACltgw3W291OYR6Y6V6mU6r3tmqtRjeHuU3GfsZ19JKW2OOK7JrDoR9sfA";
     window.mockAPI = false;
     window.loginURL = '/us/pokemon-trainer-club/login';
     window.pokemonUI = window.pokemonUI || {};
@@ -403,7 +416,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li class="visible-not-signed-in">
                     <a href="/us/pokemon-trainer-club/sign-up/">
                         <div class="avatar-icon-wrapper">
-                            <img class="avatar-icon avatar-icon-mobile" src="https://assets.pokemon.com/static2/_ui/img/chrome/profile-navigation/profile-nav-signup.png" alt="Sign In / Sign Up">
+                            <img class="avatar-icon avatar-icon-mobile" src="https://assets.pokemon.com/static2/_ui/img/chrome/profile-navigation/profile-nav-signup.png" alt="Log In / Sign Up">
                         </div>
                     </a>
                 </li>
@@ -707,7 +720,63 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
 <li>
+    <a href="" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Event Info</a>
+    
+    <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+
+<ul class="subnav tertiary">
+
+    <li class="subnav-title" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="">
+        <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+        <a href="#"><span class="title">Event Info</span></a>
+    </li>
+
+
+    
+<li>
     <a href="/us/play-pokemon/worlds/2019/about/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Event Info</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/worlds/2019/registration/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Registration</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/worlds/2019/pokken-tournament-dx-lcq/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self"><em>Pokkén Tournament DX</em> LCQ</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/worlds/2019/dc-open/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">DC Open</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/worlds/2019/pokemon-go-invitational-tournament/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Pokémon GO Invitational</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/worlds/2019/pokemon-distribution/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Pokémon Distribution</a>
+    
+    
+    
+</li>
+
+
+</ul>
+
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/2019/worlds/streaming/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Streaming Info</a>
     
     
     
@@ -740,6 +809,62 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 <li>
     <a href="/us/play-pokemon/worlds/2019/pokken-player-info/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self"><em>Pokkén Tournament</em> Player Info</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/2019/worlds/schedules/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Main Event Schedules</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/2019/worlds/side-events/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Side Events</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/worlds/2019/prizes/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Prizes</a>
+    
+    
+    
+</li>
+
+
+</ul>
+
+    
+</li>
+<li>
+    <a href="" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Spectator Activities</a>
+    
+    <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+
+<ul class="subnav tertiary">
+
+    <li class="subnav-title" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="">
+        <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+        <a href="#"><span class="title">Spectator Activities</span></a>
+    </li>
+
+
+    
+<li>
+    <a href="/us/play-pokemon/worlds/2019/spectator-activities/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Spectator Activities</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/worlds/2019/pokemon-sword-and-pokemon-shield-demo/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self"><em>Pokémon Sword</em> and <em>Pokémon Shield</em> Demo</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/us/play-pokemon/worlds/2019/pokemon-masters-demo/" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" target="_self">Pokémon Masters Demo</a>
     
     
     
@@ -1036,14 +1161,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <!-- BODY -->
                 
                 <div class="full-article-body">
-                    <p>Last updated May 25, 2018</p>
+                    <p><a id="top" class="anchor" name="top"></a><a class="exit-link" href="https://caru.bbb.org/caru.aspx?id=1596150491" target="_blank"><img style="float: right;" src="https://assets.pokemon.com/static2/_ui/img/footer/thepokemoncompanyinternational-seal-1596150491.png" alt=""></a>Last updated December 19, 2019</p>
 
-<p>Effective May 1, 2019</p>
+<p>Effective January 1, 2020</p>
 
 <p>Our Privacy Commitment</p>
 
 <p>Pokémon respects your privacy rights and recognizes the
-importance of protecting your personal information. Our Privacy Notice
+importance of protecting your personal information (or “personal data”). Our Privacy Notice
 describes the kinds of personal information we collect, why we collect it, how
 we share it, and choices we give you.</p>
 
@@ -1078,7 +1203,8 @@ in the European Union (“EU”) and other territories outside of the United Sta
 <li><p><a href="#19" target="_self">Information for individuals</a></p></li>
 <li><p><a href="#110" target="_self">How to contact us about your personal information and this Privacy Notice</a></p></li>
 <li><p><a href="#111" target="_self">CARU's COPPA Safe Harbor Program</a></p></li>
-<li><p><a href="#112" target="_self">How will you know if we amend this Privacy Notice?</a></p></li>
+<li><p><a href="#112" target="_self">California Privacy Rights</a></p></li>
+<li><p><a href="#113" target="_self">How will you know if we amend this Privacy Notice?</a></p></li>
 </ol>
 
 <p><a id="11" class="anchor" name="11"></a><strong>1. What does this Privacy Notice cover?</strong></p>
@@ -1087,11 +1213,11 @@ in the European Union (“EU”) and other territories outside of the United Sta
 of personal information by The Pokémon Company International, Inc. and our
 subsidiaries and affiliated companies acting on our behalf (collectively
 “Pokémon” or “we”, “us”, or “our”). This Privacy Notice applies only to
-personal information collected about you as a consumer through the Pokémon network
-of websites (for example, Pokemon.com and PokemonCenter.com), as well as apps,
-features, services, events, and communications provided by Pokémon where this
-Privacy Notice is posted (“Services”). This notice does not apply to human
-resources data or the “Pokémon Careers” website.</p>
+personal information collected about you as a consumer through the Pokémon
+network of websites (for example, Pokemon.com and PokemonCenter.com), as well
+as apps, features, services, events, and communications provided by Pokémon
+where this Privacy Notice is posted (“Services”). This notice does not apply to
+human resources data or the “Pokémon Careers” website.</p>
 
 <p>Our international affiliates and third-party websites or
 apps that our Services link to, or with whom we may have a presence, or with
@@ -1111,54 +1237,76 @@ not be able to enjoy certain features of our Services.</p>
 
 <p><strong><em>Information you provide to us</em></strong></p>
 
-<p>The types of personal information we collect directly from
-you include contact information, such as your first and last name, email
-address, telephone number, and postal address, as well as content you share or
-upload, such as photos (including any metadata included in your photos and
-content) and payment information (for example, credit card numbers or financial
-account information) if you purchase a product or service from us. We may also
-collect demographic information tied to your personal information, such as your
-age and/or date of birth, gender, country of residence, hobbies, and toy and
-game preferences.</p>
+<p>The types of personal information we collect directly from you include, for example: </p>
+
+<ul class="list">
+<li><p>Contact information: such as your first and last name, email address, telephone number, postal address, and non-Pokémon account IDs.</p></li>
+<li><p>Content and files: data and content you share or upload, such as photos (including any metadata included in your photos and content).</p></li>
+<li><p>Payment information: for example, credit card numbers or financial account information if you purchase a product or service from us or claim a Play! Pokémon scholarship.</p></li>
+<li><p>Demographic information: information about you tied to your personal information, such as your age and/or date of birth, gender, country/region of residence, hobbies, and toy and game preferences.</p></li>
+</ul>
 
 <p><strong><em>Information we collect automatically</em></strong></p>
 
-<p>We automatically collect certain information when you use
-our Services. For example, we may collect device information, such as your
-device type, operating system type, browser type, device ID, and IP address. We
-may also collect usage data, such as what website you were on that brought you
-to our website, when you used our Services and for how long, what pages and
-content you accessed, and features you used on our Services. We may derive
-other information from the information we collect, such as your general
-location from your IP address. In addition, with your consent, the Services may
-access precise geolocation data on your mobile device to enable features and
-deliver content based on your current location. We may combine this device and
-usage information with other personal information.</p>
+<p>We automatically collect certain information when you use our Services. For example:</p>
+
+<ul class="list">
+<li><p>Identifiers and device information: such as your device type, operating system type, browser type, device ID, Internet Protocol (IP) address, and other software including type, version, language, settings, and configuration. Our website and online services store and retrieve data using cookies set on your device, as further described in our <a href="/us/cookie-page/" target="_self">COOKIE PAGE</a>.</p></li>
+<li><p>Usage data: such as what website you were on that brought you to our website, when you used our Services and for how long, what pages and content you accessed, and features you used on our Services. </p></li>
+<li><p>Geolocation data: with your consent, the Services may access precise geolocation data on your mobile device to enable features and deliver content based on your current location.</p></li>
+</ul>
+
+<p><strong><em>Information we create or generate</em></strong></p>
+
+<p>We
+derive other information from the other data we collect about you, and we may
+combine this with other personal information to generate information about your
+likely preferences or other characteristics (“inferences”). For example, we
+infer your general location from your IP address.</p>
+
+<p><strong><em>Information we obtain from third-party sources</em></strong></p>
+
+<p>In
+limited circumstances, we also obtain information from third parties. We
+protect information obtained from third parties according to the practices
+described in this statement, plus any additional restrictions imposed by the
+source of the information. These third-party sources include, for example:</p>
+
+<ul class="list">
+<li><p>Non-Pokémon account operators: please see <a href="#PlayPokemon" target="_self"><strong>Play! Pokémon</strong></a> section below;</p></li>
+<li><p>Mobile Platforms: when you purchase our apps, we receive information from the app stores and other mobile platform providers about you that is limited to username and/or device ID and the fact a purchase was made, but no other sensitive or financial information, unless you authorize the mobile platform providers to provide us additional information;</p></li>
+<li><p>Service Providers: third parties may collect any of the categories of personal information described above to provide services on our behalf, including to  help us determine your device's general location based on its IP address to customize certain products to your location, provide you a more convenient experience, and provide additional security measures to protect our Services; and</p></li>
+<li><p>Social Networks: where the information, including your name, user name, and content you post, is publicly available to us, we may use such data for purposes such as measuring public reaction to the Services and to Pokémon.</p></li>
+</ul>
 
 <p><strong><em>Cookies and Tracking</em></strong></p>
 
 <p>Our websites use a variety of technical methods for
 collecting and tracking device information and usage data, including web
-beacons, cookies, local storage, and device IDs. Please see our <a href="/us/cookie-page/" target="_self">COOKIE PAGE</a> for more information on how we use cookies
-and similar technical methods.</p>
+beacons, cookies, local storage, and device IDs. Please see our <a href="/us/cookie-page/" target="_self">COOKIE PAGE</a> for more
+information on how we use cookies and similar technical methods.</p>
 
 <p><a id="13" class="anchor" name="13"></a><strong>3. How is your personal information used?</strong></p>
 
 <p>We use your personal information to the extent reasonably
 necessary to fulfill your requests in performing our contract with you, or
 based on consent where we have requested it or where required by law, and for
-our legitimate business objectives, including to:</p>
+our legitimate business objectives, including for the following business purposes:</p>
 
 <ul class="list">
-<li><p>Provide you with and operate, maintain, optimize, and improve our products, services, operations, and the security of our Services</p></li>
-<li><p>Personalize content and experiences on our Services, including providing you recommendations based on your preferences</p></li>
-<li><p>Deliver and personalize your notifications, communications, newsletters, advertisements, offers, and promotions for products and services of Pokémon and our third-party partners</p></li>
-<li><p>Develop information to understand you based on demographics, your activity on our Services, or activity on third-party websites and applications</p></li>
-<li><p>Conduct market research and perform statistical, demographic, and marketing analyses of users of our Services and their purchasing patterns</p></li>
-<li><p>Perform operational tasks such as billing, accounting, communicating, and fulfilling your transactions for products and services</p></li>
-<li><p>Send and display administrative and marketing communications about Pokémon and our partners and our respective products and services</p></li>
-<li><p>Detect, investigate, and prevent activities that are unauthorized, may violate our terms and policies, or may be illegal, such as fraudulent activity or security violations</p></li>
+<li><p>Business Operations: to provide you with and operate, maintain, optimize, and improve our products, services, operations, and the security of our Services, including to perform operational tasks such as billing, accounting, communicating, and fulfilling your transactions for products and services.</p></li>
+<li><p>Product and Service Delivery: to personalize content and experiences on our Services, including providing you recommendations based on your preferences;</p></li>
+<li><p>Marketing: to deliver and personalize your notifications, communications, newsletters, advertisements, offers, event notices, and promotions for products and services of Pokémon and our third-party partners;</p></li>
+<li><p>Product Improvement, Development, and Research: to develop information to understand you based on demographics, your activity on our Services, responses to surveys, or activity on third-party websites and applications, including for purposes of troubleshooting and improving our Services; to conduct market research and perform statistical, demographic, and marketing analyses of users of our Services and their purchasing patterns;</p></li>
+<li><p>Communications: to send and display administrative communications about Pokémon and our partners and our respective products and services;</p></li>
+<li><p>Security of Services: to detect, investigate, and prevent activities that are unauthorized, may violate our terms and policies, or may be illegal, such as fraudulent activity or security violations; and</p></li>
+<li><p>Customer Support: to provide customer support and respond to your questions submitted to us.</p></li>
 </ul>
+
+<p>With the exception of payment information, which is used
+solely for accounting, billing, order fulfillment, and fraud prevention
+purposes, all of the categories of information described in Section 2 are used
+for each of the purposes described above.</p>
 
 <p>For the purposes listed above, we may also link or combine
 information about you with other personal information we receive from third
@@ -1166,31 +1314,20 @@ parties. We also use personal information in settings and for the purposes
 described below.</p>
 
 <p>We may store and process personal information in the United States,
-the United Kingdom, and other countries that may not have the same types of
+the United Kingdom, and other countries or regions that may not have the same types of
 data protection laws as those in your country.</p>
 
 <p><a id="14" class="anchor" name="14"></a><strong>4. How is your personal information shared?</strong></p>
 
-<p>We do not share your personal information with third parties
-other than as follows:</p>
+<p>We do not share your personal information with third parties other than as follows:</p>
 
 <ul class="list">
 <li><p>With your consent; for example, when you agree to our sharing your information with other third parties for their own purposes, subject to their separate privacy policies</p></li>
-<li><p>With third-party vendors, consultants, and other service providers who work for us and need to access your personal information to do that work</p></li>
+<li><p>With third-party vendors, consultants, and other service providers who work for us and need to access your personal information to do that work, including for business purposes that require access to our systems that hold personal information (such as supplying cloud data storage, maintaining the security of our systems, and providing customer support). In the past 12 months, we have disclosed to vendors <em>all</em> of the categories of personal information described in Section 2.</p></li>
 <li><p>If you've selected options available through our Services to publicly display your name and/or username and your other information</p></li>
 <li><p>If appropriate to (a) comply with laws or to respond to lawful requests and legal processes, including, for example, to comply with a court order or subpoena; (b) protect the rights and property of Pokémon, our agents, our customers, and others, including to enforce our terms, policies, rules, and agreements; (c) protect the safety and security of any person; and/or (d) protect the safety and security of Pokémon's and our partners' Services, websites, and applications</p></li>
 <li><p>In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets for use in accordance with applicable law</p></li>
 </ul>
-
-<p><strong><em>Your California Privacy Rights</em></strong></p>
-
-<p>California Civil Code Section 1798.83 permits customers who
-are California residents to request certain information regarding disclosure of
-personal information to third parties for their own direct marketing purposes.
-We do not share our customers' personal information with unaffiliated third
-parties for their own direct marketing purposes without your consent. For
-inquiries about our disclosure policy, please contact us at the email address
-or postal address listed below.</p>
 
 <p><a id="15" class="anchor" name="15"></a><strong>5. How long do we keep your personal information?</strong></p>
 
@@ -1207,7 +1344,7 @@ which the data is stored.</p>
 <p>We provide you with various controls over your personal information, for example:</p>
 
 <ul class="list">
-<li><p>You can access and update the contact information you gave us during registration by visiting the “Edit Profile” section on <a href="http://www.pokemon.com/">www.pokemon.com</a> or the “My Account” section on <a class="pokemon-center-link" href="http://www.pokemoncenter.com/" target="_blank">www.pokemoncenter.com</a>.</p></li>
+<li><p>You can access and update the contact information you gave us during registration by visiting the “Edit Profile” section on <a href="http://www.pokemon.com/" target="_self">www.pokemon.com</a> or the “My Account” section on <a class="pokemon-center-link" href="http://www.pokemoncenter.com/" target="_blank">www.pokemoncenter.com</a>.</p></li>
 <li><p>You can contact us at <a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a> with requests to delete, access, and update your personal information.</p></li>
 <li><p>You can opt out of our promotional emails by clicking “unsubscribe” in those emails.</p></li>
 <li><p>You can choose to block and/or remove all cookies and local storage. For information on how to do this, please visit our <a href="/us/cookie-page/" target="_self">COOKIE PAGE</a>.</p></li>
@@ -1227,7 +1364,7 @@ our best efforts, no security measure is perfect or impenetrable.</p>
 
 <p>The following are product-specific details to supplement the information in this Privacy Notice.</p>
 
-<p><strong><em>Play! Pokémon</em></strong></p>
+<p><a id="PlayPokemon" class="anchor" name="PlayPokemon"></a><strong><em>Play! Pokémon</em></strong></p>
 
 <p>If you participate in the Play! Pokémon tournament ratings
 and rankings portion of our websites, we will use personal information about
@@ -1235,9 +1372,10 @@ you to track your tournament results, player ranking, rating, and player status
 (e.g., active, terminated, winner, etc.). Except for those jurisdictions where
 privacy law specifies a different age, (a) if you are 13 or older, we will post
 your full name or first name and last initial (as you direct us), as well as
-your state and country with your player ranking; and (b) if you are under 13,
-your parent or guardian can choose to post your username, full name, or first
-name and last initial in the player rankings.</p>
+your state and country/region
+with your player ranking; and (b) if you are under 13, your parent or guardian
+can choose to post your username, full name, or first name and last initial in
+the player rankings.</p>
 
 <p>Also, if you participate in the Play! Pokémon tournament
 ratings and rankings portion of our websites, we will share your personal
@@ -1245,6 +1383,16 @@ information with independent third parties (such as League Leaders and
 Tournament Organizers) who run Play! Pokémon events that you may participate
 in. In most cases, these are independent third parties and not Pokémon
 employees.</p>
+
+<p>If
+you've signed up to play our products or participate in competitions and
+provide us with non-Pokémon account information (e.g., a Nintendo Account)
+where that function is available, we will receive your date of birth and
+account ID from the other account operator. If participating in competitions to
+be awarded Play! Pokémon championship points, the date of birth from your
+non-Pokémon account will be verified against your Pokémon Trainer Club (“PTC”)
+Account, and information about whether there was a match or not, and your PTC
+ID will be shared with the other account operator.</p>
 
 <p><strong><em>Pokémon Apps</em></strong></p>
 
@@ -1265,34 +1413,51 @@ of a transaction, payment, or other account action, Pokémon may deliver
 marketing communications to you about similar goods or services if you have not
 opted out of such marketing when given the chance to do so. We may also use
 third parties, such as Authorize.net and PayPal, to process payment
-transactions and facilitate fraud protection. PayPal and other third-party entities
-may use your information for their own purposes, including to service accounts
-you have with them. Please review their respective privacy notices to
+transactions and facilitate fraud protection. PayPal and other third-party
+entities may use your information for their own purposes, including to service
+accounts you have with them and
+for fraud prevention. Please review their respective privacy notices to
 understand how they use your information. PokemonCenter.com's services are
 intended for customers in the United States. For more information, please refer
 to the <a class="pokemon-center-link" href="https://www.pokemoncenter.com/terms-of-use" target="_blank">PokemonCenter.com
-Terms of Use</a>. </p>
+Terms of Use</a>.</p>
 
 <p><a id="19" class="anchor" name="19"></a><strong>9. Information for individuals</strong></p>
 
 <p>You have the following rights:</p>
 
 <ul class="list">
-<li><p>A right to be informed of the ways in which we use your information</p></li>
-<li><p>A right to request from Pokémon access to and rectification or erasure of personal information, and certain rights to data portability</p></li>
-<li><p>A right to object to the processing of your personal information or obtain a restriction of such processing under certain circumstances</p></li>
-<li><p>A right to have your personal data transferred to another organization should it be technically feasible for Pokémon to do so. </p></li>
+<li><p>A right to be informed of the ways in which we use your information.</p></li>
+<li><p>A right to request from Pokémon access to personal data, including (i) the categories and specific pieces of information we have collected about you, (ii) the categories of sources collected, (iii) the purpose for collecting or using the information, and (iv) the third parties with whom we share your personal information; and rectification or deletion/erasure of personal information under certain circumstances and subject to a number of exceptions, and certain rights to data portability.</p></li>
+<li><p>A right to bring your complaint to a regulator. If you are based in the European Economic Area (EEA) and believe that we have not complied with data protection laws, you can complain to our regulator, the UK Information Commissioner's Office, or your local supervisory authority; however, regardless of where you are based, we would appreciate it if you would give Pokémon the chance to deal with your concerns directly by contacting us.</p></li>
+<li><p>A right to object to the processing of your personal data or obtain a restriction of such processing under certain circumstances.</p></li>
+<li><p>A right to have your personal data transferred to another organization should it be technically feasible for Pokémon to do so.</p></li>
 <li><p>If the processing of personal data is based on your consent, a right to withdraw consent at any time (without affecting the lawfulness of processing before its withdrawal)</p></li>
 <li><p>There may be exceptions to these rights in certain circumstances, and where you cannot exercise a right due to an exception, we will provide that explanation.</p></li>
-<li><p>A right to bring your complaint to a regulator. If you are based in the European Economic Area (EEA) and believe that we have not complied with data protection laws, you can complain to our regulator, the UK Information Commissioner's Office, or your local supervisory authority; however, we would appreciate it if you would give Pokémon the chance to deal with your concerns directly by contacting us.</p></li>
 </ul>
 
-<p>To make such requests, contact us at <a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a>.</p>
+<p>To make such requests, contact us at <a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a> or <a href="https://support.pokemon.com/hc/requests/new?ticket_form_id=360000012406" target="_self">https://support.pokemon.com/hc/requests/new?ticket_form_id=360000012406</a>.</p>
+
+<p>If you submit a request, we will
+require you to verify your identity either by making the request through your
+existing account and/or by providing a form of governmental identification
+through our customer service portal, where, if feasible, we may match your
+identification information with personal information we have about you,
+depending on the type of request made and verification measures proportional to
+the risk of the personal information involved with the request(s). There is no
+reasonable method by which we can verify your identity to the degree of
+certainty required by law for certain pieces of personal information, for
+example: unique identifiers such as cookie IDs, device ID, and IP address
+(where that information is not held by us in connection with directly
+identifiable information). There may be exceptions to these rights in certain circumstances, and
+where you cannot exercise a right due to an exception, Pokémon will provide
+that information. Pokémon will use reasonable efforts to fulfil your request
+within the response times of the applicable laws.</p>
 
 <p>We transfer personal data from the EEA, the United Kingdom,
-and Switzerland to other countries, some of which have not been determined by
-the European Commission to have an adequate level of data protection. When we
-do, we use a variety of legal mechanisms, including contracts and standard
+and Switzerland to other countries or regions, some of which have not been determined by the
+European Commission to have an adequate level of data protection. When we do,
+we use a variety of legal mechanisms, including contracts and standard
 contractual clauses / model clauses, so that your rights and protections travel
 with your data. Pursuant to the Privacy Shield, Pokémon remains liable for the
 transfer of personal data to third parties acting as our agents unless we can
@@ -1308,7 +1473,7 @@ the U.S. Federal Trade Commission. If there is any conflict between the terms
 in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield
 Principles shall govern. To learn more about the Privacy Shield program, and to
 view our certification page, please visit <a class="exit-link" href="https://www.privacyshield.gov/participant?id=a2zt0000000TTCiAAO&amp;status=Active" target="_blank">the
-Privacy Shield List for Pokémon</a>. </p>
+Privacy Shield List for Pokémon</a>.</p>
 
 <p>In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield
 Principles, Pokémon commits to resolve complaints about your privacy and our
@@ -1321,12 +1486,12 @@ Street, Suite 2800, Bellevue, WA 98004 USA.</p>
 
 <p>Pokémon has further committed to refer unresolved privacy
 complaints under the Privacy Shield Principles to an independent dispute
-resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of
-Better Business Bureaus (“BBB”). If we do not appropriately address your
-complaint, visit <a class="exit-link" href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers" target="_blank">http://www.bbb.org/EU-privacy-shield/for-eu-consumers</a> for
-more information and to file a complaint with the BBB. If your complaint is
-still not resolved, in limited situations, a binding arbitration option may be
-available before a Privacy Shield Panel.</p>
+resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the BBB National Programs, Inc.
+(“BBBNP”). If we do not appropriately address your complaint,
+visit <a class="exit-link" href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers" target="_blank">http://www.bbb.org/EU-privacy-shield/for-eu-consumers</a> for more
+information and to file a complaint with the BBBNP. This service is provided free of charge to you.
+If your complaint is still not resolved, in limited situations, a binding
+arbitration option may be available before a Privacy Shield Panel.</p>
 
 <p>You also have a right to lodge a complaint with a
 supervisory authority, but we ask you to first contact us or the BBB with
@@ -1341,21 +1506,23 @@ it is not responsible for the event giving rise to the damage.</p>
 
 <p>If you have questions or comments about our data practices or this Privacy Notice, you can contact us or our data protection officer at:</p>
 
+<p>The Pokémon Company International, Inc.<br>
+Attn.: Data Protection Officer</p>
+
 <div style="text-align: center;">
-<p>The Pokémon Company International<br>
+<p>The Pokémon Company International, Inc.<br>
 Attn.: Data Protection Officer</p>
 </div>
-
-<table border="0"><tbody><tr>
+<table border="0"><tbody><tr> 
 <td style="background-color: white;"><p>10400 NE 4th Street<br>
 Suite 2800 <br>
 Bellevue, WA 98004<br>
 USA</p></td>
-<td style="background-color: white;"><p>3<sup>rd</sup> Fl Bldg 10, Chiswick Park <br>
+<td style="background-color: white;"><p>3<sup>rd</sup> Fl Bldg 10, Chiswick Park<br>
 566 Chiswick High Road<br>
 London, W4 5XS<br>
-United Kingdom</p></td></tr></tbody></table>
-
+United Kingdom</p></td>
+</tr></tbody></table>
 <div style="text-align: center;">
 <p><a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a></p>
 </div>
@@ -1365,21 +1532,62 @@ United Kingdom</p></td></tr></tbody></table>
 <p>Pokémon is a licensee of CARU's COPPA Safe Harbor Program.
 If you believe that we have not responded to your privacy-related inquiry or
 your inquiry has not been satisfactorily addressed, please contact CARU online
-at <a class="exit-link" href="http://asrcreviews.org/asrc-contact-us/" target="_blank">http://asrcreviews.org/asrc-contact-us/</a>; by mail at CARU, Attn.: COPPA
-Safe Harbor Program, 112 Madison Avenue, New York, NY 10016 USA; or by email
-at <a href="mailto:info@caru.bbb.org">info@caru.bbb.org</a>.</p>
+at <a class="exit-link" href="https://bbbprograms.org/programs/caru" target="_blank">https://bbbprograms.org/programs/caru</a>;
+by mail at CARU, Attn.: COPPA Safe Harbor Program, 112 Madison Avenue, New
+York, NY 10016 USA; or by email at <a href="mailto:info@bbbnp.org">info@bbbnp.org</a>.</p>
 
-<p>Please note that CARU is not affiliated with Pokémon and
-cannot help you with non-privacy-related issues.</p>
+<p>Please note that CARU is not affiliated with Pokémon and cannot help you with non-privacy-related issues.</p>
 
-<p><a id="112" class="anchor" name="112"></a><strong>12. How will you know if we amend this Privacy Notice?</strong></p>
+<p><a id="112" class="anchor" name="112"></a><strong>12. California Privacy Rights</strong></p>
+
+<p>This section provides you with additional disclosures required under California law.</p>
+
+<p>If you
+are a California consumer whose personal information is collected through the
+Services (“customer”), the California Consumer Privacy Act (“CCPA”) provides
+you with certain rights including those described in Section 9 together with
+the rights and disclosures set forth below. You have a right not to be
+discriminated against for exercising any of these rights.</p>
+
+<p>Pokémon
+does not sell your personal information as defined by the CCPA and has not done
+so in the past 12 months.</p>
+
+<p>If you
+have authorized an agent to submit a request to know or a request to delete,
+Pokémon may require that you (i) provide written permission for a named agent
+to do so; (ii) verify your identity directly with Pokémon; or (iii) provide the
+authorized agent with a valid power of attorney. Pokémon may deny a request
+made on your behalf if the agent does not submit proof authorizing such
+request.</p>
+
+<p>California
+Civil Code Section 1798.83 permits customers who are California residents to
+request certain information regarding disclosure of personal information to
+third parties for their own direct marketing purposes. We do not share our
+customers' personal information with unaffiliated third parties for their own
+direct marketing purposes without your consent. For inquiries about our
+disclosure policy, please contact us at the email address or postal address
+listed above.</p>
+
+<p>If you
+are a California resident under the age of 18, and a registered user of any
+Service where this privacy notice is posted, you may request and obtain removal
+of content or information you have publicly posted. To make such a request,
+please send an email with a detailed description of the specific content or
+information to <a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a>. Please be aware that such a
+request does not ensure complete or comprehensive removal of the content or
+information you have posted, and that there may be circumstances in which the
+law does not require or allow removal even if requested.</p>
+
+<p><a id="113" class="anchor" name="113"></a><strong>13. How will you know if we amend this Privacy Notice?</strong></p>
 
 <p>We may amend this Privacy Notice at any time by changing the
 last updated date. If we make material changes to how we collect, use, or share
 your personal information, we will describe the changes, and, if required by
 law, seek your consent for such changes.</p>
 
-<p><a href="#top">back to top</a></p>
+<p><a href="#top" target="_self">back to top</a></p>
 
 <hr>
 
@@ -1471,16 +1679,16 @@ consent for our information collection practices.</p>
 <p>With parental consent, we may also use a kid's contact
 information to send the kid emails and messages with promotional information
 about new products and features, special offers, contests, and sweepstakes, as
-well as other interesting information concerning new products, events, and
-updates about Pokémon. Parents can always choose whether their kid may receive
-these promotional messages by visiting their account profile settings or
-contacting us.</p>
+well as other interesting information concerning new products, events, and updates
+about Pokémon. Parents can always choose whether their kid may receive these
+promotional messages by visiting their account profile settings or contacting
+us.</p>
 
 <p>If a kid wins a prize from a sweepstakes, contest, or other
 promotional event, we will notify the parent at the parent's email address and
 request that the parent provide their postal address for the purpose of
 delivering the prize. With the appropriate consent, we may publish a winner's
-first name, city, state of residence, and country.</p>
+first name, city, state of residence, and country/region.</p>
 
 <p>Pokémon shares kids' personal information with the same
 entities and for the same purposes described in the general Privacy Notice.</p>
@@ -1495,8 +1703,8 @@ kid's personal information with independent third parties (such as League
 Leaders and Tournament Organizers) so they can run offline Play! Pokémon events
 that the kid may participate in. If a parent doesn't want their kid's personal
 information shared with independent third parties who run Play! Pokémon events,
-then they should not allow their kid to participate in the Play! Pokémon tournament
-ratings and rankings portion of our websites.</p>
+then they should not allow their kid to participate in the Play! Pokémon
+tournament ratings and rankings portion of our websites.</p>
 
 <p><a id="23" class="anchor" name="23"></a><strong>3. How do we notify and obtain consent from parents for the collection of personal information from their kids?</strong></p>
 
@@ -1516,8 +1724,7 @@ verify the parent's identity, such as name, birth date, and physical address.
 Note that Pokémon does NOT store this information anywhere in our records.</p>
 
 <p>Parents can revoke consent at any time by contacting our
-customer service department and submitting a request on the <a href="http://support.pokemon.com/" target="_self">http://support.pokemon.com</a> website
-or emailing <a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a>.</p>
+customer service department and submitting a request on the <a href="https://support.pokemon.com/hc/requests/new?ticket_form_id=360000012406" target="_self">https://support.pokemon.com/hc/requests/new?ticket_form_id=360000012406</a> website or emailing <a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a>.</p>
 
 <p><a id="24" class="anchor" name="24"></a><strong>4. How can parents access, change, or delete personal information about their kids?</strong></p>
 
@@ -1527,8 +1734,8 @@ service department to access or change the personal information in their kid's
 account.</p>
 
 <p>A parent may delete the personal information that we have
-collected from their kid by submitting a request on the <a href="http://support.pokemon.com/" target="_self">http://support.pokemon.com</a> website
-or emailing <a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a>.
+collected from their kid by submitting a request on the <a href="https://support.pokemon.com/hc/requests/new?ticket_form_id=360000012406" target="_self">https://support.pokemon.com/hc/requests/new?ticket_form_id=360000012406</a>
+website or emailing <a href="mailto:privacyquestions@pokemon.com">privacyquestions@pokemon.com</a>.
 The parent should include their kid's username and the parent's email address
 in the email so that we can better assist with the inquiry or request. </p>
 
@@ -1546,11 +1753,13 @@ requirements.</p>
 <p>Pokémon is a licensee of CARU's COPPA Safe Harbor Program.
 If you believe that we have not responded to your privacy-related inquiry or
 your inquiry has not been satisfactorily addressed, please contact CARU online
-at <a class="exit-link" href="http://asrcreviews.org/asrc-contact-us/" target="_blank">http://asrcreviews.org/asrc-contact-us/</a>; by mail at CARU, Attn.: COPPA
-Safe Harbor Program, 112 Madison Avenue, New York, NY 10016 USA; or by email
-at <a href="mailto:info@caru.bbb.org">info@caru.bbb.org</a></p>
+at <a class="exit-link" href="https://bbbprograms.org/programs/caru" target="_blank">https://bbbprograms.org/programs/caru</a>;
+by mail at CARU, Attn.: COPPA Safe Harbor Program, 112 Madison Avenue, New
+York, NY 10016 USA; or by email at <a href="mailto:infocaru@bbbnp.org">infocaru@bbbnp.org</a>.</p>
 
 <p>Please note that CARU is not affiliated with Pokémon and cannot help you with non-privacy-related issues.</p>
+
+<p><a href="#top" target="_self">back to top</a></p>
                 </div>
                 
 
@@ -1633,7 +1842,7 @@ at <a href="mailto:info@caru.bbb.org">info@caru.bbb.org</a></p>
       
     
     <li>
-      <a href="/us/country/" rel="" title="">
+      <a href="/us/country-region/" rel="" title="">
         Select a Country/Region
         <i class="icon-us"></i>
       </a>
@@ -1671,13 +1880,6 @@ at <a href="mailto:info@caru.bbb.org">info@caru.bbb.org</a></p>
                     <span class="offscreen">Instagram</span>
                 </a>
 
- 
-
-                <a href="https://pokemon.tumblr.com/" class="tumblr exit-link" target="_blank" title="External: https://pokemon.tumblr.com">
-                    <span class="offscreen">Tumblr</span>
-                </a>
-
-
             </div>
         </div>
 
@@ -1705,6 +1907,10 @@ at <a href="mailto:info@caru.bbb.org">info@caru.bbb.org</a></p>
 
           <li>
             <a href="/us/privacy-notice/">Privacy Notice</a>
+          </li>
+
+          <li>
+            <a id="cookieLink" href="/us/cookie-page/">Cookie Page</a>
           </li>
 
           <li>
