@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belmarrahealth.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612164527id_/https%3A//www.belmarrahealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belmarrahealth.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221015003id_/https%3A//www.belmarrahealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
