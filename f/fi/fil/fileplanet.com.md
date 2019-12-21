@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521231748id_/https%3A//www.fileplanet.com/policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221054128id_/https%3A//www.fileplanet.com/policy-en) for the most accurate reproduction.*
 
 # Privacy Policy of fileplanet.com
 
