@@ -1,133 +1,198 @@
-> *The following text is extracted and transformed from the nationalgeographic.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331221905id_/https%3A//www.nationalgeographic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.org privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221021023id_/https%3A//www.nationalgeographic.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy | National Geographic Society
 
-###### Your Privacy Rights
+#### ​1.​ Privacy Notice Introduction
 
-**Privacy Policy Introduction**
+The National Geographic Society is an impact-driven global nonprofit organization that uses the power of science, exploration, education, and storytelling to illuminate and protect the wonder of our world.
 
-The National Geographic Society, nationalgeographic.org, understands the importance of your privacy, and we take our responsibility to protect it seriously. Our Privacy Policy tells you what information we collect about you when you visit this website or use an online application that contains a link to this Privacy Policy (the “Services”). Our Privacy Policy also tells you how we use, share and protect this information; what choices you have about how this information is used; and how you can access and update this information. Certain aspects of this Privacy Policy also apply to the personally identifiable information we collect offline.
+The National Geographic Society (nationalgeographic.org) understands the importance of your privacy, and we take our responsibility to protect it seriously.  Our Privacy Notice tells you:
 
-Under our Privacy Policy, “personally identifiable information” means information that identifies and can be used to contact a particular individual, such as name, postal address, email address, and phone number.  When other information, such as email newsletter choices, magazine or product purchases, or consumer product preferences, is associated with personally identifiable information, this other information also becomes personally identifiable information. 
+  1. What information we collect about you when you visit this website or use an online resource that contains a link to this Privacy Policy (the “Services”).
 
-**The EU General Data Protection Regulation (GDPR)**
+  2. How we use, share and protect this information.
 
-If you are a resident of the European Economic Area (“EEA”) using our Services please note:
+  3. What choices you have about how this information is used.
 
-  * The EU General Data Protection Regulation (GDPR) is a new comprehensive data protection law that updates existing EU laws to strengthen the protection of “personal data” (any information relating to an identified or identifiable natural person, so called “data subjects”) in light of rapid technological developments, the increasingly global nature of business and more complex international flows of personal data. The GDPR replaces the current patchwork of national data protection laws with a single set of rules, directly enforceable in each EU member state. The GDPR takes effect on May 25, 2018. In addition to this Privacy Policy, if you would like to know more about how we, and our partner organization National Geographic Partners, LLC, are implementing  the GDPR please visit our Frequently Asked Questions  <http://help.nationalgeographic.com/customer/en/portal/topics/1113429-gdpr-faqs/articles>.
-  * We may need to collect and process certain personal information as described in this Policy in order to provide the Services to you, or because we are legally required to do so. If you do not provide the information that we request, we may not be able to provide the Services to you.  We may use this information only for legitimate business reasons described in this Policy. 
-  * We do not knowingly permit children in the EEA under age 16 to register for any content, product or Service. We do not knowingly collect, use or disclose personal information about users under age 16, except as permitted by law. 
-  * We keep your Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained. The criteria used to determine our retention periods include (i) for as long as we have an ongoing relationship with you and provide the Services to you; (ii) as required by a legal obligation to which we are subject; or (iii) as advisable in light of our legal position (such as in regard of applicable statutes of limitations, litigation, or regulatory investigations).
-  * If you would like to receive an electronic copy of your Personal Information for transmittal to another company, request modification or deletion of your Personal Information, or have any questions about our Privacy Policy, you may contact us at [dataprivacy@ngs.org](mailto:dataprivacy@ngs.org) : 
+  4. How you can access and update this information.
 
 
 
-**INFORMATION COLLECTED**
 
-**Information You Provide Directly to National Geographic Society**
+We recognize that information privacy is an ongoing responsibility, so we will update this Privacy Notice as we develop new approaches to personal data protection or adopt new policies.
 
-If you are interested in obtaining information, products or services from National Geographic Society, or in participating in certain activities related to the Services, you may need to provide us with information about yourself. For example: 
+#### ​2.​ Data Protection Officer
 
-  * If you order a product from us, we ask for your name, postal address, email address, telephone number and your credit card number. 
-  * If you are ordering a product as a gift for another person, we will ask you for that person’s name, postal address and phone number in order to enable us to deliver the gift to the recipient. 
-  * If you participate in an activity such as a survey or sweepstakes, we may also ask you to provide other types of information such as gender and personal interests, which we may associate with personally identifiable information that we have obtained about you. To enhance and customize your experience with our Services 
+The National Geographic Society (NGS) is headquartered in Washington, DC, in the United States.  NGS has appointed an internal data protection officer for you to contact if you have any questions or concerns about NGS’s personal data policies or practices. The NGS data protection officer’s contact information is below:
 
-
-
-In addition, we may combine personally identifiable information that you have provided to us with other information that is publicly available or that we receive from other sources. 
-
-**Information We Collect Automatically  **
-
-In addition to information you choose to provide to us, we also use standard Internet technologies to collect automatically certain additional information. For example: 
-
-  * **IP Address or Device Identifier.** When you come to our Services, we collect your Internet Protocol (“IP”) address, which identifies the computer or service provider that you use to access the Services or your mobile device identifier, if you connect through a mobile device. We may use these identifiers to collect information regarding the frequency with which specific visitors visit various parts of our Services. We may combine this information with personally identifiable information that we have collected to make our Services and our communications to you more targeted to your interests. 
-  * **Cookies.** Our site also uses cookies. Cookies are small text files that are stored on a user’s computer and allow websites to remember information about users. We use cookies for a variety of purposes in order to enhance the quality of our Site. We use transient (also called “session ID”) cookies to provide continuity from page to page. A session ID cookie expires when you close your browser. We also use persistent cookies. Persistent cookies allow our online store and certain other parts of our Site to recognize your browser when you return after your first visit to that part of our Site. Cookies allow us to personalize your return visits to our Site and to save you time during certain activities, such as checking out from our online store. You have the choice to set your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you whether to allow us to send you cookies. However, if you do not accept cookies from us, your ability to use some areas of our Site will be limited, such as our shopping cart feature or online games.
-  * **Web beacons and other technologies.** The Services uses other tracking tools, including web beacons. Web beacons are images on the Services (or in emails that the Services sends to you) that help us determine what parts of the Services you have visited, whether you have opened an email that we have sent to you, or otherwise to measure the effectiveness of the Services. These technical methods may involve the transmission of information directly to us or to a service provider authorized by us to collect information on our behalf. For more information about how we use a third party service to collect and use information on this Site.
-
-
-
-The information we collect automatically may be combined with information that is personally identifiable so that we can make our Site and communications more interesting to you.
-
-**INFORMATION USE**
-
-National Geographic Society may use information that we collect about you for a variety of business purposes, including: 
-
-  * to maintain and manage your account, deliver Services that you have requested, and enhance your experience on our Services;
-  * to process and track your product or service orders and provide the Services you request;
-  * to communicate with you about the Services or other products or Services which may be of interest to you, or in order to respond to your inquiries or comments;
-  * to perform business analyses or for other purposes to improve the quality of our business, the Services, and the products and services we offer; or
-  * in accordance with your consent.
-
-
-
-**INFORMATION SHARING AND DISCLOSURE**
-
-We take very seriously our responsibility to maintain the privacy of your  information. We will only share it with the following entities, and only under these circumstances: 
-
-  * with entities that provide Services on our behalf, including service development, maintenance and support, payment processing, email distribution, and promotions management, only to the extent that these entities need the information to perform their services or as required by law, unless any additional use or sharing of the information is separately permitted under another provision of our Privacy Policy;
-  * within the National Geographic Society family, which is defined for this purpose as corporate affiliates of National Geographic Society (“Affiliates”) and entities that are authorized to use the “National Geographic” name and registered trademarks to brand their products or services (such as National Geographic Partners, LLC and its sub-licensees);
-  * with identified entities whose products or services you specifically use or request to receive while you use the Services;
-  * with other selected third parties so that they may send you promotional materials about goods and services that they offer, but you have the opportunity to opt out of our sharing personally identifiable information about you as described below in the section entitled “Your Choices,” and we will not share your email address with third parties for promotional purposes unless you specifically agree;
-  * when we believe that doing so is required by law, may be necessary to protect any person’s property, rights, or safety, or to investigate a potential violation of law, will help to enforce any terms of use or other legal agreement, or will help resolve disputes that arise in the ordinary course of business, or in the event of a corporate transaction, such as a divestiture, merger, consolidation, or asset sale;
-  * in aggregated or other non-personally identifiable form; or
-  * in accordance with your consent.
-
-
-
-**YOUR CHOICES  **
-
-We understand the importance of protecting our your’ privacy, and we therefore provide you with the opportunity to opt-out of having your personally identifiable information used or disclosed for certain purposes.  You can opt out of receiving promotional communications from National Geographic Society and our Affiliates and our licensees, or request that we not share personally identifiable information about you with third parties for the third parties’ marketing purposes, by contacting us at [dataprivacy@ngs.org](mailto:dataprivacy@ngs.org), or: 
+Data Protection Officer
 
 National Geographic Society
 
-Attn: Marketing Services - Privacy
+1145 17th St., NW
 
-1145 17th Street NW
+Washington, DC 20036, USA
 
-Washington, DC 20036-4688
+dataprivacy@ngs.org
 
-Telephone: 800-NGS-LINE (800-647-5463)
+#### ​3.​ How we collect and use (process) your personal information
 
-TDD: 800-548-9797
+##### ​3.1​ Summary
 
-Outside the United States and Canada: 813-979-6845
+NGS collects personal information about its visitors, members, donors, grant applicants, and grantees.  Your level of engagement with NGS determines the amount and type of information we will collect, and the majority of the information we collect is given to us directly from you.  Typically this information is limited to contact information like what can be found on a business card: first name, last name, address, email address, and phone number. We use this information to provide constituents with goods, services, and NGS updates.  We do not sell personal information to anyone. We do share personal information with third party vendors who are facilitating the delivery of NGS services, and in limited instances, with other organizations who are aligned with NGS’s mission, vision, and values.
 
-If you continue to receive our communications in error after expressing an opt-out preference, please let us know so that we can investigate the situation. 
+##### ​3.2​ Personal information you give to us
 
-**THIRD PARTY SITES**
+###### ​3.2.1​ Donations
 
-If you click on or interact with a hyperlink that you find on the Services, including but not limited to nationalgeographic.com, you may leave our Services or send information to a different website or application. Our Privacy Policy does not apply to your interactions with other websites, even if you find a link to them on our Services.  You should read the privacy policy of the third-party website provider to see how your personally identifiable information will be treated on its site. 
+If you give a donation to the National Geographic Society, we ask for your name, postal address, email address, and your credit card number in order to process your gift and send a thank you letter and tax receipt to you.  
 
-**INFORMATION SECURITY**
+If you are giving a gift in honor or memory of another person, we will also ask you for that person’s name, and the name and postal address of the person to whom you want an honor or memory gift notification to be sent.   
 
-We take a number of steps to safeguard any personally identifiable information or credit card information that you provide to us. We use data encryption technology to help protect against loss, misuse or alteration of your credit card information. Secure Socket Layers (SSLs) encrypt the credit card information sent between your computer and our database. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. 
+We may also ask you to tell us what programs or issues you are interested in, if and how you would like your gift designated, and if and how you would like to be contacted in order to tailor your experience with us to your interests and preferences.
 
-**PERSONALLY IDENTIFIABLE INFORMATION CONTAINED IN USER CONTENT**
+###### ​3.2.3​ Grants, Challenges, Project Funding, and Awards
 
-Some parts of our Services may allow users to post or transmit messages, comments, screen names, computer files and other materials. If you choose to make personally identifiable information public through these Services, National Geographic Society will consider that information public and will not limit its disclosure in the manner described here. 
+If you apply for or receive grants, funding, or awards, NGS stores additional information  related to application details, external and internal review information, details related to the execution of grant agreements and payment, final reporting, media related to the work funded, and feedback on the success of the grant. 
 
-**VISITING OUR SERVICES FROM OUTSIDE THE UNITED STATES**
+###### ​3.2.4​ Attending our museum or an event
 
-National Geographic Society is based in Washington, DC in the United States of America. If you are visiting our web site from outside the United States, please be aware that your information may be transferred to, processed, and stored in the United States and other countries around the world. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected, and that we will comply with the GDPR applicable to residents of EEA countries as previously described in our policy. 
+If you purchase a ticket to National Geographic Museum or an event at NGS headquarters, NGS stores data related to that transaction including name, address, phone number, email, and purchase method. If you fill out additional information via a survey or provide subsequent information related to interests, how you learned about the exhibition or event or demographic information, that may be stored as well. 
 
-**CHILDREN’S PRIVACY**
+###### ​3.2.5​ Competitions/Challenges or Contests  (See Section 4.2 for specifics on the GeoBee and GeoChallenge below)
 
-Other than certain sites that are on nationalgeographic.com or for example, managed by National Geographic Partners, LLC– including www.kids.nationalgeographic.com and www.littlekids.nationalgeographic.com – these Services are not intended for visits from children under the age of 13.  Our Services are a general audience services, and we do not knowingly collect information about children under 13 years old through them. Should a child whom we know to be under 13 make known to us his or her personally identifiable information, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personally identifiable information. If we learn that we have collected personally identifiable information from a child under 13 other than in a manner authorized by law, we will delete that information from our database. 
+If you participate in a competition, we ask for your name, phone number, the name of your school principal (if applicable), name of student(s) competing and also email addresses of students’ parents. For collecting payment, we will ask for credit card name, address, phone number and credit card number.  For students that are traveling with a coach, we will collect a health form to insure appropriate care while away from home. For contests, we will collect entry information (name, address, phone number).  
 
-**CHANGES IN THIS PRIVACY POLICY**
+###### ​3.2.6​ Online educational resources
 
-We may amend this Privacy Policy at any time by posting the most recent version of the Policy on the Services, along with an indication of the date on which the Policy was amended most recently. If we make any material changes in the way we collect, use, and/or share personally identifiable information that we collect about you through the Services, we will notify you by sending you an email at the last email address that you provided us and/or by prominently posting notice of the changes on the Services. In any event, changes to this Privacy Policy may affect our use of personally identifiable information that you provided us prior to our notification to you of the changes. 
+There are many online educational resources that do not require any data collection beyond web analytics. Online courses require a sign-up process that collects email address, state, first name, last name, organization (school where course participant works).  Participants write a brief bio of themselves on the course platform, and respond to a post-course survey identifying grade and subject taught.
 
-**CONTACT US**
+###### ​3.2.7​ Surveys, sweepstakes, etc.
 
-If you have questions or wish to send us comments about this Privacy Policy, please  contact us at [dataprivacy@ngs.org](mailto:dataprivacy@ngs.org) or write us at: 
+If you participate in an activity such as a survey or sweepstakes, we may also ask you to provide other types of information such as gender and personal interests, which we may then use to enhance and customize your experience with our Services.
+
+##### ​3.3​ Personal information we get from third parties
+
+NGS sometimes uses third parties and publicly available sources to validate, update, and enrich the information you provide.  We do this to 1) ensure contact information such as email address, phone number, and mailing address are accurate and up to date, and 2) gather relevant demographic, financial, and biographical information about grant applicants and donor prospects to inform internal business processes. 
+
+##### ​3.4​ Personal Information contained in user content
+
+Some parts of our Services may allow users to post or transmit messages, comments, screen names, computer files and other materials. If you choose to make personal information public through these Services, National Geographic Society will consider that information public. 
+
+##### ​3.5​ Transferring personal data from the EU to the US
+
+Our Site is maintained in the United States of America. The information we collect from you through our services may be transferred to, stored, and processed in the USA and other destinations outside the European Economic Area (“EEA”) or other country in which you are located. This includes processing by us, our affiliates, our third party service companies and other third parties as described in this Policy. You explicitly consent and agree to such transfer, storing and/or processing of your Personal Information outside the EEA or other country in which you are located. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA. The USA may not have data protection laws that are as comprehensive or protective as those in your country of residence; however, our collection, storage and use of your Personal Information will at all times be in accordance with this Policy.
+
+#### ​4.​ Children’s Privacy
+
+##### ​4.1​ Use of Websites
+
+The Services NGS provides are not intended for visits from children under the age of 13, or under the age of 16 in the case of children in the European Economic Area (EEA), and we do not knowingly permit children under these ages to register for any content, product or Service.   Our Services are general audience services, and we do not knowingly collect information about children through them. Should a child make known to us his or her personally identifiable information, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personally identifiable information, or to respond otherwise in a manner consistent with applicable rules and laws. If we learn that we have collected personally identifiable information from a child other than in a manner authorized by law, we will delete that information from our database. 
+
+Sites managed by National Geographic Partners, LLC (an independently owned and operated legal entity), [nationalgeographic.com](https://www.nationalgeographic.com/) \-- including [www.kids.nationalgeographic.com](http://www.kids.nationalgeographic.com/) and [kids.nationalgeographic.com/littlekids](https://kids.nationalgeographic.com/littlekids/) \-- are not subject to the control of NGS.  Please refer to the Data Privacy Policy of National Geographic Partners for additional information.
+
+##### ​4.2​ GeoBee and GeoChallenge
+
+The GeoBee and GeoChallenge programs are designed to challenge and recognize the achievements of middle school students in the United States.  In order to administer these programs, National Geographic Society’s Education Department collects and stores students’ information, along with the information about their schools, teachers, and project sponsors.  The information we collect includes: name, school, grade, gender, video submissions, and sometimes payment and travel data.
+
+Many times this information is collected by the school or project sponsor on behalf of the students, though the students may also provide this information themselves.  Prior to doing so, the schools and project sponsors are provided with National Geographic Society Children's Online Privacy Protection Act (COPPA) notification which describes the information we collect and the rights parents have over their child’s data.  While NGS is exempt from Federal Trade Commission (FTC) oversight, and thereby the COPPA law, we nevertheless believe it is important for us to provide this notification in the interest of protecting the privacy of the children who participate in these programs. 
+
+#### ​5.​ Use of National Geographic Society websites
+
+##### ​5.1​ Summary
+
+NGS websites collect certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, the region or general location where your computer or device is accessing the internet, browser type, operating system and other usage information about the use of the NGS websites, including a history of the pages you view. We use this information to help design our site to better suit our users’ needs. We may also use your IP address to help diagnose problems with our server and to administer our website, analyze trends, track visitor activity, and gather broad demographic information that assists us in identifying visitor preferences.
+
+NGS has a legitimate interest in understanding how constituents, customers, donors, and educators use its websites. This assists NGS with providing more relevant products and services, communicating value to our partners, and  providing appropriate staffing to meet our users’ diverse needs.
+
+##### ​5.2​ California do not track disclosure
+
+Our Site does not honor “do not track signals” (e.g., the Mozilla Firefox [Do Not Track feature](https://www.mozilla.org/en-US/firefox/dnt/)), though you may be able to disable certain tracking as discussed above (e.g., by disabling cookies). There is still no universally accepted standard regarding tracking, but for more information about do not track signals, please click [here](https://allaboutdnt.com/).
+
+##### ​5.3​ IP Addresses, Cookies, and Web Beacons
+
+###### ​5.3.1​ IP Address or Device Identifier 
+
+When you access our Services, we collect your Internet Protocol (“IP”) address, which identifies the computer or service provider that you use to access the Services or your mobile device identifier, if you connect through a mobile device. We may use these identifiers to collect information regarding the frequency with which specific visitors visit various parts of our Services. We may combine this information with personally identifiable information that we have collected to make our Services and our communications to you more targeted to your interests.
+
+For EEA users, we do not track across web sessions in the absence of explicit consent.  We anonymize IP addresses and we do not associate IP addresses with individuals in our web analytics tools.
+
+###### ​5.3.2​ Cookies 
+
+Our site also uses cookies. Cookies are small text files that are stored on a user’s computer and allow websites to remember information about users. We use cookies for a variety of purposes, to enable and to enhance the quality of our Site, and your user experience. 
+
+We use essential cookies to help make our website and web applications usable by enabling basic functions like session management and single sign-on. They also help us comply with legal requirements like GDPR. Our site cannot function properly without these cookies. Most of the essential cookies we use are transient. A transient cookie expires when you close your browser. We use analytics cookies that collect information about how visitors interact with and use our website.  This information enables us to improve how our website works generally. We use functional cookies to remember the choices you make and provide enhanced features such as support that may be of particular interest to you. These cookies allow us to personalize your return visits and to save you time during certain activities, such as checking out from our online store. We also use marketing cookies to display ads that are relevant and engaging to individual users based on their use of our site. 
+
+You have the choice to set your browser to accept or reject these cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you whether to allow us to send you cookies. However, if you do not accept cookies from us, your ability to use some areas of our Site will be limited.  
+
+If you are an EEA resident, you will see a cookie banner giving you the option to provide your consent to cookies, with the exception of essential cookies, which are necessary for our website to function and expire when you close your browser.
+
+###### ​5.3.3​ Web beacons and other technologies
+
+The Services use other tracking tools, including web beacons. Web beacons are images on the Services (or in emails that the Services sends to you) that help us determine what parts of the Services you have visited, whether you have opened an email that we have sent to you, or otherwise to measure the effectiveness of the Services. These technical methods may involve the transmission of information directly to us or to a service provider authorized by us to collect information on our behalf.  If you are an EEA resident, we will not use web beacons without your consent.  
+
+##### ​5.4​ Links to websites not owned by National Geographic Society
+
+If you click on or interact with a hyperlink that you find on the Services, including but not limited to nationalgeographic.com, you have left  our Services and are sending information to a different website or application. Our Privacy Notice does not apply to your interactions with other websites, even if you find a link to them on our Services.  You should read the terms and policies of the third-party website provider to see how your personally identifiable information will be treated on its site. 
+
+#### ​6.​ When and how we share information with others
+
+##### ​6.1​ Summary
+
+The information you provide to NGS can be stored in one or more databases or software services.  All databases are located in the United States, and are either owned and maintained by NGS or one of its third party vendors or support services.  Contractual data sharing and data privacy agreements are put in place with all third party vendors to ensure proper use, maintenance, and disposal of data based on the nature of the services provided.
+
+##### ​6.2​ Vendors and support services
+
+Your information may be shared with entities that provide Services on our behalf, including service development, maintenance and support, payment processing, email distribution, and promotions management, only to the extent that these entities need the information to perform their services or as required and/or permitted by law, unless any additional use or sharing of the information is separately permitted under another provision of our Privacy Policy.
+
+##### ​6.3​ Data brokers and list shares
+
+Your information may be shared with selected third parties so that they may send you promotional materials about goods and services that they offer.  You have the opportunity to opt out of our sharing personal information about you as described below in Section 7 “Data subject rights”. We will not share your email address with third parties for promotional purposes unless you specifically agree.
+
+##### ​6.4​ Internal operations and affiliates
+
+Your information may be shared within the National Geographic Society family, which is defined for this purpose as corporate affiliates of National Geographic Society (“Affiliates”) and entities that are authorized to use the “National Geographic” name and registered trademarks to brand their products or services (such as National Geographic Partners, LLC and its sub-licensees) with your consent.
+
+##### ​6.5​ Legal Requirements
+
+Your information may be shared when we believe that doing so is required by law, may be necessary to protect any person’s property, rights, or safety, or to investigate a potential violation of law, will help to enforce any terms of use or other legal agreement, or will help resolve disputes that arise in the ordinary course of business, or in the event of a corporate transaction, such as a divestiture, merger, consolidation, or asset sale.
+
+#### ​7.​ Data subject rights
+
+The European Union’s General Data Protection Regulation (GDPR) and other privacy laws provide certain rights for data subjects.  If you are a resident of the European Economic Area (“EEA”) and the Services are targeted to you, please note:
+
+The EU General Data Protection Regulation (GDPR) is a comprehensive data protection law that strengthened the protection of “personal data” (any information relating to an identified or identifiable natural person, so called “data subjects”) in light of rapid technological developments, the increasingly global nature of business and more complex international flows of personal data. The GDPR replaces a patchwork of national data protection laws with a single set of rules, directly enforceable in each EU member state. 
+
+We keep your personal information for as long as needed or permitted in light of the purpose(s) for which it was obtained. The criteria used to determine our retention periods include (i) for as long as we have an ongoing relationship with you and provide the Services to you; (ii) as required by a legal obligation to which we are subject; or (iii) as advisable in light of our legal position (such as in regard of applicable statutes of limitations and litigation).
+
+You may request information about: the general purpose of the processing; the categories of personal data concerned; who else outside NGS may have received data from NGS; what the source of the information was (if you didn’t provide it directly to NGS); and how long it will be stored.  You have the right to correct (rectify) the record of your personal data maintained by NGS if it is inaccurate. You may request that NGS erase that data or cease processing it, subject to certain exceptions. You may also request that NGS cease using your data for direct marketing purposes.  In many countries, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how NGS processes your personal data. When technically feasible, NGS will—at your request—provide your personal data to you or transmit it directly to another controller at your request.
+
+Reasonable access to your personal data will be provided at no cost to you upon request made to NGS at dataprivacy@ngs.org. If access cannot be provided within a reasonable time frame, NGS will provide you with a date when the information will be provided. If for some reason access is denied, NGS will provide an explanation as to why access has been denied.
+
+#### ​8.​ Security of your information
+
+We take a number of steps to safeguard any personally identifiable information or credit card information that you provide to us. We use data encryption technology to help protect against loss, misuse or alteration of your credit card information. Cryptographic algorithms and protocols protect the credit card information sent between your computer and our database. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. 
+
+#### ​9.​ Data storage and retention
+
+We keep your Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained. The criteria used to determine our retention periods include 1) for as long as we have an ongoing relationship with you and provide the Services to you; 2) as required by a legal obligation to which we are subject; or 3) as advisable in light of our legal position (such as in regard of applicable statutes of limitations and litigation).
+
+#### ​10.​ Changes and updates to the Privacy Notice
+
+By using this Site, you agree to the terms and conditions contained in this Privacy Notice and Conditions of Use and/or any other agreement that we might have with you. If you do not agree to any of these terms and conditions, you should not use this Site or any NGS services. 
+
+As our organizational practices, policies, and processes change from time to time, this Privacy Notice is expected to change as well. We reserve the right to amend the Privacy Notice at any time, for any reason, without notice to you, other than the posting of the amended Privacy Notice at this Site. We may email periodic reminders of our notices and terms and conditions and will email notifications to you, but you should check our Site frequently to see the current Privacy Notice that is in effect and any changes that may have been made to it. The provisions contained herein supersede all previous notices or statements regarding our privacy practices and the terms and conditions that govern the use of this Site.
+
+#### ​11.​ Questions, concerns, complaints
+
+Please contact the NGS data protection officer:
+
+Data Protection Officer
 
 National Geographic Society
 
-Attn: Marketing Services - Privacy
+1145 17th St., NW
 
-1145 17th Street NW
+Washington, DC 20036, USA
 
-Washington, DC 20036-4688
-
-This policy was last updated May 2018
+dataprivacy@ngs.org
