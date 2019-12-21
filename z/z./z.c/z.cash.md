@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the z.cash privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624181646id_/https%3A//z.cash/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the z.cash privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221152514id_/https%3A//z.cash/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zcash
 
@@ -17,7 +17,7 @@ How We Protect Personal Information
 
 Miscellaneous
 
-**Contact Information**
+ **Contact Information**
 
 ## Types Of Information We Collect
 
@@ -26,7 +26,7 @@ The following provides examples of the type of information that we collect from 
 Context| Types of Data| Primary Purpose for Collection   
 and Use of Data  
 ---|---|---  
-Cookies and first party tracking| We use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a website is viewed. | We have a legitimate interest in making our website operate efficiently.   
+Cookies and first party tracking| We use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a website is viewed.| We have a legitimate interest in making our website operate efficiently.  
 Email Interconnectivity|  **1.** If you receive email from us, we may use certain tools to capture data related to when you open our message or click on any links or banners.|  **2.** We have a legitimate interest in understanding how you interact with our communications to you.  
 Employment|  **3.** If you apply for a job posting, or become an employee, we collect information necessary to process your application or to retain you as an employee.  This may include, among other things, your Social Security Number. Providing this information is required for employment.|  **4.** We use information about current employees to perform our contract of employment, or the anticipation of a contract of employment with you.  In some contexts, we are also required by law to collect information about our employees. We also have a legitimate interest in using your information to have efficient staffing and workforce operations.  
 Feedback/Support| If you provide us feedback or contact us for support we will collect your name and e-mail address, as well as any other content that you send to us, in order to reply.| We have a legitimate interest in receiving, and acting upon, your feedback or issues.  
@@ -38,7 +38,7 @@ In addition to the information that we collect from you directly, we may also re
 
 ## Use And Processing Of Information
 
-  5. In addition to the purposes and uses described above, we use information in the following ways: 
+  5. In addition to the purposes and uses described above, we use information in the following ways:
 
 
   * To improve our services and website.
@@ -56,7 +56,7 @@ In addition to the information that we collect from you directly, we may also re
 
 In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:
 
-  7. **Affiliates and Acquisitions**. We may share information with corporate affiliates ( _e.g_., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control).  If another company acquires our company, business, or our assets, we will also share information with that company.  
+  7.  **Affiliates and Acquisitions**. We may share information with corporate affiliates ( _e.g_., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control).  If another company acquires our company, business, or our assets, we will also share information with that company.  
   8.  **Other Disclosures with Your Consent.**  We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
   9.  **Other Disclosures without Your Consent**. We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws.  We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary.
   10.  **Service Providers**. We may share your information with service providers.  Among other things service providers may help us to administer our website or provide technical support.
@@ -68,7 +68,7 @@ In addition to the specific situations discussed elsewhere in this policy, we di
   11. You can make the following choices regarding your personal information:
 
 
-  1. **Promotional Emails**. You may choose to provide us with your email address for the purpose of allowing us to send newsletters and other promotional materials to you.  You can stop receiving emails by following the unsubscribe instructions in e-mails that you receive. If you decide not to receive promotional emails, we may still send you service related communications.
+  1.  **Promotional Emails**. You may choose to provide us with your email address for the purpose of allowing us to send newsletters and other promotional materials to you.  You can stop receiving emails by following the unsubscribe instructions in e-mails that you receive. If you decide not to receive promotional emails, we may still send you service related communications.
   2.  **Access To Your Personal Information**. If required by law, upon request, we will grant you reasonable access to the personal information that we have about you.  You may request access to your personal information by contacting us at the address described below.
   3.  **Changes To Your Personal Information**. We rely on you to update and correct your personal information.  To update your information contact us at the address described below.
   4.  **Deletion Of Your Personal Information**. Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law.  Depending on your location, you may, however, request information about how long we keep a specific type of information, or request that we delete your personal information by contacting us at the address described below.  In addition, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.
@@ -80,23 +80,23 @@ In addition to the specific situations discussed elsewhere in this policy, we di
 
 ## How We Protect Personal Information
 
-No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. 
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information.
 
-## Miscellaneous 
+## Miscellaneous
 
 The following additional information relates to our privacy practices:
 
-  * **Transmission Of Information To Other Countries**. Your information may be processed in a foreign country where privacy laws may be less stringent than the laws in your country.  Nonetheless, where practicable we take steps to treat personal information using the same privacy principles that apply pursuant to the law of the country in which we first received your information.  By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States.  If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the contact information below.
-  *  **Third Party Applications/Websites**.  We have no control over the privacy practices of websites or applications that we do not own. 
-  * **Changes To This Privacy Policy.  **We may change our privacy policy and practices over time.  To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.   
+  *  **Transmission Of Information To Other Countries**. Your information may be processed in a foreign country where privacy laws may be less stringent than the laws in your country.  Nonetheless, where practicable we take steps to treat personal information using the same privacy principles that apply pursuant to the law of the country in which we first received your information.  By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States.  If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the contact information below.
+  *  **Third Party Applications/Websites**.  We have no control over the privacy practices of websites or applications that we do not own.
+  *  **Changes To This Privacy Policy.  **We may change our privacy policy and practices over time.  To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.   
 
 
 
 If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below.  We will attempt to respond to your requests and to provide you with additional privacy-related information.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4232302b3423213b02386c2123312a)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b1b19021d0a08122b1145080a1803)
 
-Zcash Co. 
+Zcash Co.
 
 3001 Brighton Blvd.
 
@@ -108,5 +108,5 @@ Denver, CO 80216
 
 If you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.
 
-**Last Revised: 09/2018**  
+ **Last Revised: 09/2018**  
 
