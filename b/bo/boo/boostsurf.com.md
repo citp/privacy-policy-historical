@@ -1,23 +1,15 @@
-> *The following text is extracted and transformed from the boostsurf.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005112342id_/http%3A//www.boostsurf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostsurf.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221052932id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# BoostSurf - Boost Your Traffic and Income
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-### Privacy Policy
+###  What’s in a Domain Name? 
 
-This is the web site of BoostSurf.
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-We can be reached via Support form.
+### DomainMarket.com Privacy Policy
 
-**Mail: Under no circumstances do we ever ask for your password, account information or anything related to ClixScript via e-mail. We do not send unauthorised emails to our members.**
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
- ** **Information we collect: We store some user data in cookies, under no circumstances is sensitive data (password, username, IP...) stored in your cookies. Your browser has to have cookies enabled for the website to function normally.We accumulate and store all user inputted information as well as your IP address browser information & date and time of the record conception upon registration. We store passwords in a one way encryption so it can't be reversed. We never treat users differently in anyway related to sensitive information.****
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
- ** ** **Account security: User information such as your e-mail and AlertPay/PayPal/Liberty Reserve addresses will never be revealed.******
-
- ** ** ** **3rd party privacy: For the privacy acts of 3rd party links to other sites which include banner, popup and text link adverts as well as general advertising links that may be displayed all throughout the ClixScript website we do not take responsibility, you are viewing advertisements under your own will and risk. ********
-
-******
-
-© 2012 BoostSurf. All Rights Reserved. Design by [EasyCloud.us](http://webdesign.easycloud.us/)
-
-******
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com.). 
