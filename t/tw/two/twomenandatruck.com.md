@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516060017id_/https%3A//twomenandatruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221103535id_/https%3A//twomenandatruck.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TWO MEN AND A TRUCK
 
-**Last updated: May 11, 2018**
+**Last updated: December 11, 2019**
 
 The purpose of this website is to provide visitors with useful information and allow them the opportunity to request additional information regarding moving/relocation needs. Our visitors have the right to be aware of any information collected and used, and under what circumstances, if any, information is disclosed.
 
 ## GENERAL PRIVACY AND DATA RESPONSIBILITY
 
-TWO MEN AND A TRUCK does not sell or share information collected about you or the services you are requesting. Any information collected, regarding you or the services requested, will only be used to provide information or perform the services requested. We thoroughly vet any third-party services we utilize to ensure they will treat your information with the respect you deserve.
+TWO MEN AND A TRUCK® does not sell or share information collected about you or the services you are requesting. Any information collected, regarding you or the services requested, will only be used to provide information or perform the services requested. We thoroughly vet any third-party services we utilize to ensure they will treat your information with the respect you deserve.
 
 ### INFORMATION COLLECTION AND USE
 
@@ -18,7 +18,7 @@ We respect each website visitor's right to personal privacy. To that end, we col
 
 For each visitor to our website, the web server automatically recognizes the visitor's domain name only; it does not recognize email addresses and does not uniquely identify the individual or other identifiable details. The information we collect is used for internal review and to improve or enhance our website’s content. Under no circumstances is data shared with third-party organizations for commercial purposes.
 
-Individuals may choose to submit either estimate request forms or customer service inquiry forms. During completion of these forms, users must include certain contact information. This information is never sold or shared with any third-party organizations. It is gathered only for the purposes of contacting visitors regarding services for which interest has been expressed.
+Individuals may choose to submit either estimate request forms or customer service inquiry forms. During completion of these forms, users must include certain contact information. This information is never sold or shared with any third-party organizations. It is gathered only for the purposes of contacting visitors regarding services for which interest has been expressed. The information individuals submit will be shared with the franchise location that the individual chooses from our list of franchise locations.
 
 We do not have an order form. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information collected from our website.
 
@@ -34,15 +34,15 @@ We provide visitors to our website with the ability to enter their move details 
 
 ### CHAT FEATURE
 
-TWO MEN AND A TRUCK processes and stores personal data within the online chat feature for the purpose of providing support via chat. You have the right to request your personal information collected be deleted, and you may obtain a copy of any personal data stored in the chat database by contacting us via the steps outlined in the DELETING YOUR PERSONAL INFORMATION section of this policy.
+TWO MEN AND A TRUCK® processes and stores personal data within the online chat feature for the purpose of providing support via chat. You have the right to request your personal information collected be deleted, and you may obtain a copy of any personal data stored in the chat database by contacting us via the steps outlined in the DELETING YOUR PERSONAL INFORMATION section of this policy.
 
 ### EMAIL COMMUNICATIONS
 
-By providing your contact and other information to TWO MEN AND A TRUCK® or through this Site, you have given your express consent for TWO MEN AND A TRUCK® and its franchisees to use your personal information as outlined in this Privacy Notice. To the extent that applicable law requires express consent, express written consent, or “opt-in” for the collection and use of certain types of personal information, TWO MEN AND A TRUCK® will maintain processes and procedures to ensure such information is collected with express consent. Each communication that potential customers receive from TWO MEN AND A TRUCK® will give instructions on opting out or unsubscribing from future email communications.
+By providing your contact and other information to TWO MEN AND A TRUCK® or through this Site, you have given your express consent for TWO MEN AND A TRUCK® and its franchisees to use your personal information as outlined in this Privacy Notice. To the extent that applicable law requires express consent, express written consent, or “opt-in” for the collection and use of certain types of personal information, TWO MEN AND A TRUCK® will maintain processes and procedures to ensure such information is collected with express consent. Each communication that potential customers receive from TWO MEN AND A TRUCK® will give instructions on opting out or unsubscribing from future email communications.
 
 ### SECURITY AND SAFEGUARDS
 
-The security of your information is very important to TWO MEN AND A TRUCK®. TWO MEN AND A TRUCK uses appropriate administrative, technical, personnel, and physical safeguards to protect the security of your personal information. TWO MEN AND A TRUCK also makes all attempts to ensure only necessary people and third parties have access to personal information in order to safeguard your personal information against loss, theft, and unauthorized use or modification. TWO MEN AND A TRUCK uses some of the most advanced Internet security technology available today to protect your information. TWO MEN AND A TRUCK practices industry standards and frameworks for securing data systems and the data that is stored.
+The security of your information is very important to TWO MEN AND A TRUCK®. TWO MEN AND A TRUCK® uses appropriate administrative, technical, personnel, and physical safeguards to protect the security of your personal information. TWO MEN AND A TRUCK® also makes all attempts to ensure only necessary people and third parties have access to personal information in order to safeguard your personal information against loss, theft, and unauthorized use or modification. TWO MEN AND A TRUCK® uses some of the most advanced Internet security technology available today to protect your information. TWO MEN AND A TRUCK® practices industry standards and frameworks for securing data systems and the data that is stored.
 
 ### TRACKING AND STORAGE OF INFORMATION
 
@@ -52,17 +52,17 @@ Cookies strictly necessary for site functionality are those utilized to track a 
 
 If you opted into our tracking policy, but still wish to clear remarketing/retargeting pixels, these may be removed by following the instructions for cookie deletion for your specific web browser.
 
-### DELETING YOUR PERSONAL INFORMATION
+### DELETING OR REQUESTING YOUR PERSONAL INFORMATION
 
-In ordinance with European Union GDPR guidelines, Personal Identifiable Information (PII) stored can be deleted or obtained per request by sending an email to [dataadmin@twomen.com](mailto:dataadmin@twomen.com) and providing your name, email address and phone number. The request will be fulfilled within 30 days after any transactions pending with TWO MEN AND A TRUCK® have ended, including outstanding damage claims, pending moves, and/or outstanding payment. The request will include removal of personal information including name, email address, and phone number from all internal systems.
-
-### EXTERNAL LINKS
-
-TWO MEN AND A TRUCK is not responsible for the privacy practices or content of any external websites to which it links to from this site. These other websites may collect their own cookies and data from users or solicit personally identifiable information that is beyond our control. You should consult each website’s privacy policy or contact the website administrators directly if you have any questions about use of the information they may be collecting.
+In ordinance with European Union GDPR guidelines and the California Consumer Privacy Act (CCPA), Personal Identifiable Information (PII) that is stored can be deleted or obtained per request by filling out [this form](https://web.archive.org/personal-data-request); sending an email to [dataadmin@twomen.com](mailto:dataadmin@twomen.com) and providing your name, address and phone number; or calling us at 844-276-9863. The request will be fulfilled within 30 days after any transactions pending with TWO MEN AND A TRUCK® have ended, including outstanding damage claims, pending moves, and/or outstanding payment. The request will include removal of personal information including Name, Email Address, and Phone Number from all internal systems.
 
 ### CALL TRACKING
 
-Call tracking is utilized to display dynamic phone numbers across our website. These help to identify the source that helped you find our website. Calls may be recorded for training purposes and any personal identifiable information is redacted within the recorded call file.
+Call tracking is utilized to display dynamic phone numbers across our website. These help to identify the source that helped you find our website. Calls may be recorded for training purposes and any personal identifiable information is redacted within the recorded call file when possible. The information you provide on the call will not be sold to a third- party, but the call will be stored with our third-party vendor.
+
+### EXTERNAL LINKS
+
+TWO MEN AND A TRUCK® is not responsible for the privacy practices or content of any external websites to which it links to from this site. These other websites may collect their own cookies and data from users or solicit personally identifiable information that is beyond our control. You should consult each website’s privacy policy or contact the website administrators directly if you have any questions about use of the information they may be collecting.
 
 ### NOTIFICATION OF CHANGES
 
