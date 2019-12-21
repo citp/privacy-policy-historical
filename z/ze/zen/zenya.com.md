@@ -1,110 +1,183 @@
-> *The following text is extracted and transformed from the zenya.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712150511id_/https%3A//www.zenya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenya.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221021419id_/http%3A//www.infospace.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy | Zenya
+# Privacy Policy
 
-Zenya (the “Site”) is owned and operated worldwide by Info.com Limited, a UK regstered Limited Liability Company ("Info.com", “we”, “us”).
+_Last modified: May 15, 2018_
 
-We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Personal Information means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to, a first and last name, personal profile, a home or other physical address, an email address or other contact information.
+System1 LLC respects your privacy and we are committed to protecting it through our compliance with this policy. This policy also applies to our subsidiaries Infospace Holdings LLC and Qool Media Holdings LLC.
 
-Your privacy and the safeguarding of your personal information are very important to us. To better protect your privacy, we adhere to industry best privacy principles with respect to the data collection practices on our web site. As part of our commitment to clearly and readily disclose our data collection practices, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used on this Site. This Privacy Policy applies to the information collected or used in connection with this Site and in connection with our services available including Subscription Services, API tools and services, sub-domains and software available for download. The purpose of this Privacy Policy is to enable you to understand how we collect and use information relating to you.
+Our services include our websites and applications that link to this privacy policy. This policy describes the types of information we may collect from you or that you may provide when you use our services and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-By using our Site, Subscription Services and/or API tools and services, you are consenting to our processing of your information as set forth in this policy now and as amended by us. This processing entails the use of cookies or tags (defined in section 2.3 below) on a computer or using information in any way including (but not limited to) the collection, storage, deletion, use, combining and disclosing information, all of which will take place in the United States. If you reside outside of the US, your personally identifiable information will be transferred to the US and processed and stored in the US under US privacy standards. By visiting our Site or otherwise providing information to us, you consent to the terms of this Privacy Policy. If you have any questions, comments or concerns about this Privacy Policy or the use of your personally identifiable information, please contact us at privacy@zenya.com.
+This policy applies to information we collect:
 
-1\. Consent and Modification  
+  * When you use or interact with our services.
+  * In your email, text, and other electronic messages with us.
+  * Through our mobile and desktop applications.
 
 
-Changes to our Privacy Policy are made from time to time by updating the content of the Site and you are advised to reference this policy regularly for any changes.
 
-If you do not agree to this Privacy Policy, please do not use our Site.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our services. By accessing or using our services, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of our services after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-2\. Receipt and Collection of Information
+### EU-US Privacy Shield and Swiss-US Privacy Shield
 
-We receive and/or collect information from you in the following ways:
+System1 LLC, and certain of its controlled US affiliates, Infospace Holdings LLC and Qool Media Holdings LLC, comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. System1 has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
-2.1. General Access to the Site
+To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
-We do not currently require you to provide Personal Information in order to have access to general information available on our Site. If you desire to have access to certain restricted sections of the Site, you may be required to become a registered user and to submit certain personally identifiable information to us.
+System1 is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-2.2. Purchases 
+### Children Under the Age of 13
 
-If you choose to use a service or product from us (including a free trial),we will require sufficient information from you to be able to provide that service or product. Such information could include a credit card number and related account and billing information, invoice related information, and other data . We may also update such data should you grant us permission to bill you or your credit card for recurring charges, such as monthly or other types of periodic payments. We may use the tools, software or services of third-party service providers to process transactions on our behalf (but we require that these parties too provide a Privacy Policy). All information of this nature is maintained by us in a secure database and transmitted across the Internet from you to us using secured transmission encryption. Except as set forth herein, we will not share your financial Personal Information with any third person or entity.
+Our services are not intended for children under 13 years of age. No one under age 13 may provide any information to or through our services. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information through our services. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at:
 
-We may provide you, via the Site, with the opportunity to contact us, receive a newsletter or participate in conferences, webinars, or special promotional or other programs (collectively "Events"). In order to participate in any of these Events, you will be required to provide certain Personal Information which may include your name, company, job title, address, email address, and phone number.
+Attn: Privacy Officer   
+1501 Main Street   
+Suite 201   
+Venice, CA 90291   
+[Contact System1](https://web.archive.org/contact/index.html)
 
-2.3. Cookies and Other Tracking Technologies
+### Information We Collect About You and How We Collect It
 
-Cookies
+We collect several types of information from and about users of our services, including information:
 
-Some of our Site pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that is transferred to your computer that may be used, for example, to collect information about Site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Site user. We may use both session cookies and persistent cookies to better understand how you interact with the Site and with and any services or Promotions we provide via the Site including our Subscription Services, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve usability and performance of the Site. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. You may block cookies, delete existing cookies or ask to be prompted before accepting a cookie from this Site and any web sites you visit by adjusting the appropriate setting on your browser. Please consult your browser’s Help tools to learn how to do this. If you block or delete "cookies" you may find the usefulness of our Site to be impaired. Please note that blocking cookies is a global setting and will apply to any web site you visit and not just our Site.
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (" **personal information** ");
+  * that is about you but individually does not identify you, such as your IP address, referral data, and browser and platform type; and/or
+  * about your internet connection, the equipment you use to access our services and usage details.
 
-Tags
 
-In addition to cookies, we implement tags on our Site for tracking purposes. A tag is an electronic image, often a single pixel, embedded on a web page also known as “tracking pixels”, “pixel tags”, “clear GIFs” or “web beacons.” Tags are used to monitor the activity of a web site and are not typically visible to the user. We use third parties to assist us in carrying out and measuring the effectiveness of our Site and external advertising campaigns. Our tags do not enable third parties to collect your Personal Information. Rather, when you visit the Site, these tags will direct your browser to these third parties who may thereby set or read a cookie on your computer and collect information about your visit. This information may include your IP address (unique identifier of your local computer), cookie ID, elements of the Site that are viewed and/or clicked, referring site, information on searches you perform, time spent on pages on the Site, date/time information and other statistics that might help us improve our site design and content in an effort to serve you and your needs in the future.
 
-2.4. Log Files
+We collect this information:
 
-Like many other websites, this Site may make use of log files. The information inside the log files includes the IP address from which you access the Site, the type of browser and operating system you use to access the Site, the date and time you access the Site, the pages you visit, and the addresses of pages from where you followed a link to the Site. We may use such information to analyze trends, administer the Site, track user's movement around the Site, and gather demographic information. Such information is not linked to any information that is Personal Information, with the exception of the IP address which might be used to identify spamming attempts.
+  * Directly from you when you provide it to us.
+  * Automatically as you use our services. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-2.5. Personal Information Collected - Order History
 
-With the exception of credit card info, we store the information from your order history to allow us to provide you with accurate data for purchasing and reporting purposes, track issues or refer to a previous order to help provide some customer service. You may elect to have your information completely removed from this system by e-mailing us at privacy@zenya.com with your request.
 
-3\. Publicly Available Information
+**_Information You Provide to Us_**
 
-Any information, video, image, data, text, documents, or other content posted at your direction onto a public area of the Site, such as Magento Forum, becomes publicly published content and will be available to all users of that public area of the Site, even if such content contains Personal Information. Please note that if you publish your contact information, you may receive unsolicited messages from users and visitors to the Site. We encourage you to publish only information you are sure you want to be accessible to anyone.
+The information we collect through our services may include:
 
-4\. The Way We Use Personal Information
+  * Information that you provide by filling in forms through our services. This includes information provided at the time of registering to use our services, subscribing to our service, posting material, or requesting further services. We may also ask you for information when you report a problem with our services.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
 
-If you submit Personal Information to us through the Site:
 
-Except as set forth in this Privacy Policy, Info.com will not share your personally identifiable information with third parties.
 
-We will use your Personal Information to improve our services to you, to contact you and to identify and authenticate your access to the Site’s services that you are authorized to access.
+**_Information We Collect Through Automatic Data Collection Technologies_**
 
-We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+As you use our services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
-We may transfer your Personal Information within Info.com or Info.com’s third-party service providers, but only to provide services on the Site or to you. This information may be transferred to other countries around the world. We may also provide Personal Information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Privacy Policy.
+  * Details of your use of our services, including traffic data, location data, logs, and other communication data and the resources that you use on our services.
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type.
 
-We may also use your email address to send updates, a newsletter or news regarding our services. You may choose not to receive emails of this type by sending a single email with the subject "BLOCK" to info@zenya.com. Please note that the email must come from the email account you wish to block.
 
-We may disclose your Personal Information or any information you submitted via the Site and its services if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to (i) comply with any applicable law, regulation, legal process or governmental request, (ii) enforce our Terms of Service including investigations of potential violations thereof, (iii) detect, prevent, or otherwise address fraud or security issues, or (iv) protect against harm to the rights, property or safety of Magento, its users, yourself or the public.
 
-Info.com does not provide or sell the names and addresses of our customers or site users to outside companies.
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
 
-5\. The Way We Use Anonymous Information
+The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our services and to deliver a better and more personalized service.
 
-We may use Anonymous Information (as defined below), or disclose it to third party service providers, to improve our services and enhance your experience with the Site and its services. "Anonymous Information" means information which does not enable identification of an individual user, such as aggregated information about the use of our Site and services.
+The technologies we use for this automatic data collection may include:
 
-6\. Choice
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our services.
+  * **Flash Cookies.** Certain features of our services may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our services. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  * **Web Beacons.** Portions of our services may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that allow us, for example, to count users who have visited pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-You may choose whether or not to provide Personal Information to Info.com. If you choose not to provide the Personal Information we request, you can still visit many parts of the Site, but you may be unable to access certain options, offers, and services that involve our interaction with you.
 
-7\. Access/Accuracy
 
-To the extent that you do provide us with Personal Information, Info.com wishes to maintain accurate and complete Personal Information. If you have an Account, you may log-in to your personal profile at any time and add information, delete information or correct any incorrect information we have. If you do not have an Account and you would like to correct a material inaccuracy in your Personal Information that we may be storing, you may submit an access request by sending an email to info@zenya.com. Your email should include adequate details of your request and also show the subject of "Access Request". We will provide initial responses to access requests within a reasonable period of time.
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
-8\. Collection of Information by Third-Party Sites
+**_Third-Party Use of Cookies and Other Tracking Technologies_**
 
-Our Site may use a reputable third party to present or serve advertisements that you may see at our Site. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
+Some content or applications, including advertisements, on our services are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our services. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-9\. Links to Other Sites
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
 
-Our Site contains links to other sites. Other sites may also reference or link to our Site. Our linking to another web site is in no way an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party web sites. These other web sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We are not responsible for the privacy practices or the content of such other sites. We encourage you to read the privacy policies or statements of the other web sites you visit.
+### How We Use Your Information
 
-10\. Children's Privacy
+We use information that we collect about you or that you provide to us, including any personal information:
 
-The Site is not intended for or structured to attract children under the age of 18. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 18 years of age. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at info@zenya.com. If we become aware that a child under 18 has provided us with personally identifiable information, we will remove such information from our files.
+  * To present our services and its contents to you.
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our services.
+  * To allow you to participate in interactive features on our services.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
-11\. In the Event of Merger, Sale or Bankruptcy
 
-In the event that Info.com is acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your Personal Information is treated, transferred, or used. In any of the circumstances described in this paragraph, the information will be subject to the privacy policy of the purchaser or assignee.
 
-12\. Security
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
-We employ advanced administrative, physical and electronic measures designed to protect your information from unauthorized access, loss, misuse, alteration or destruction. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, can be guaranteed to be 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. If you have any questions about security on the Site, you can contact us at info@info.com.
+### Disclosure of Your Information
 
-We will disclose any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-13\. Commitment
+We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-Protecting your privacy online is an evolving area, and accordingly we are constantly evolving the Site to meet these demands. If you have any comments, concerns, complaints or questions regarding our Privacy Policy or the Site, please contact us at info@zenya.com.
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * If we believe disclosure is necessary or appropriate to protect our rights, property, or for our safety, and that of our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
+  * System1’s accountability for data it receives pursuant to the EU-US and Swiss-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US or and Swiss-US Privacy Shield, System1 is potentially liable. In particular, System1 remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless System1 proves that it is not responsible for the event giving rise to the damage.
+
+
+
+### Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * For some of our products, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/).
+  * Some of our products may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click [here](http://www.microsoft.com/en-us/privacystatement/Default.aspx). You can opt-out of Microsoft’s personalized advertising services by following the instructions found [here](http://choice.microsoft.com/).
+  * We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp) or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) by visiting the opt-out pages on the NAI site and DAA site.
+  * System1 acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them.  An EU or Swiss individuals who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query [here](https://web.archive.org/contact/index.html).  If requested to remove data, we will respond within a reasonable timeframe.
+  * We will also provide an EU or Swiss individuals with opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
+  * To limit the use and disclosure of your personal information, please submit a written request [here](https://web.archive.org/contact/index.html).
+
+
+
+### Accessing and Correcting Your Information
+
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change, or remove the personal registration information you provide to us and that we control. To choose not to receive future communications from us, please [Contact Us](https://web.archive.org/contact/index.html).
+
+You may also send us an email [here](https://web.archive.org/contact/index.html) to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+### Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our services. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the services.
+
+### Dispute Resolutions
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, System1 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact System1 [here](https://web.archive.org/contact/index.html).
+
+System1 has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
+
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolutions procedures have been exhausted.
+
+### Changes To Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will let you know through a notice in our services. The date the privacy policy was last revised is found at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting this privacy policy to check for any changes.
+
+### Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+
+Attn: Privacy Officer   
+1501 Main Street   
+Suite 201   
+Venice, CA 90291   
+[Contact System1](https://web.archive.org/contact/index.html)
