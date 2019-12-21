@@ -1,69 +1,15 @@
-> *The following text is extracted and transformed from the trendrevenue.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203185549id_/http%3A//trendrevenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendrevenue.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221052932id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Trend Revenue - Privacy
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-Welcome to Trend Revenue (hereinafter "Trend Revenue", "we", or "us"). This privacy policy discloses the privacy practices for Trend Revenue's websites and domains. 
+###  What’s in a Domain Name? 
 
-Our mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. 
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-**This website will notify you of the following:**
+### DomainMarket.com Privacy Policy
 
-  * What personally identifiable information of yours is collected from you through the website; 
-  * The organization collecting the information; 
-  * How the information is used; 
-  * What choices are available to you regarding collection, use and distribution of the information; 
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Trend Revenue's control. 
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-
-If you have questions or concerns regarding this policy, you should contact TrendRevene by email to [privacy@trendrevenue.com](mailto:privacy@trendrevenue.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Trend Revenue by email to [privacy@trendrevenue.com](mailto:privacy@trendrevenue.com)
-
-## INFORMATION COLLECTION AND USE
-
-Members of the Trend Revenue Network include Member accounts involved in advertising. Information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, email address, social security number, and/or tax ID number. Payments made to and from Trend Revenue require the provision of and certain collection of personally identifiable information that may include bank account information.. Phone numbers may be used to contact Members for inquiry purposes. All Member information is collected, modified (as needed) and stored in a password protected environment. This information is used for service, media delivery, contact, billing and accounts payable purposes. We will not sell, share (except as provided for herein), or rent this information to non-Trend Revenue entities. All Member information collection is explicit, voluntary, and manually entered by the Member. 
-
-"Cookies" are files (e.g. flash browser objects or http header) that are stored on your web-enabled client (such as your web browser). There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. Trend Revenue does not and cannot use Cookies or web beacons to retrieve PII from your computer. Cookies are used to improve the experience web users have when they see web advertisements. When a consumer responds to or views an Internet advertisement served by Trend Revenue (such as through third-party Web sites or email solicitation) or visits a Trend Revenue Network site, we send a Cookie and/or gif file to assign an anonymous, unique identifier to the end user's Internet browser. One function of these Cookies is to provide Trend Revenue with information for the purpose of paying third-parties commissions when an Internet user clicks on a link, or makes a purchase on a Member Web site or through a Member produced banner or link. If the Internet user re-visits the Member's site, banner or link, Trend Revenue is able to continue to track the user's activities (excluding PII) on the Member's site and reward the referred user. We may use Cookies to estimate the total reach of an advertising campaign, as well as frequency of display. This allows Members to determine with greater accuracy the composition of the audience they reach. Cookies may also be used to control the delivery of a series of advertisements to a web browser, and to limit the number of times a web browser receives any one advertisement. We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. We reserve the right to retain all ad delivery and reporting data as long as may be reasonably necessary for accounting and audit purposes. Cookies are also used to simplify Member login and to facilitate secure navigation through the password protected areas of the website. Cookies may also be used to optimize and personalize the member's experience and allow Trend Revenue to monitor log ins and site traffic patterns. Members who choose to reject all cookies will have difficulty navigating the password protected areas of the website. 
-
-We record the IP address of members at each login, and this information is part of a secure database and is password protected. 
-
-## Information Sharing
-
-Member information is not shared with any third party outside Trend Revenue, except with your consent or as expressly provided for herein or for that necessary to conduct business such as paying a Member or as required by law. Once an affiliation is established, the security of Member information is crucial to our success in the highly competitive field of online advertising. 
-
-## Links
-
-Trend Revenue’s website may contain links to other parties' websites. Please be aware that Trend Revenue is not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our website and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by this website. 
-
-## Security
-
-Trend Revenue’s website employs industry standard security measures to ensure the security of all data. Any data that is stored on our servers is treated as proprietary and confidential and is not available to the public. We have an internal security policy with respect to the confidentiality of customer and other data, allowing access only to employees, or third parties who have a need to know such information for the purpose of effectively delivering our products and services by means of user login and password requirements. We routinely evaluate our data security practices to identify security threats or opportunities for improvement. 
-
-## Special Offers
-
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Trend Revenue to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, Trend Revenue cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a Trend Revenue company. 
-
-## Site and Service Updates
-
-Our Member email list is used for administrative and business purposes only. We send all new Members a welcoming email. Special offers and promotions may be made to members via email or through our private affiliate dashboard news. 
-
-## Correcting/Updating Personal Information
-
-Trend Revenue may send Members website and service announcement updates by email. Members are not able to unsubscribe from service announcements because they contain important information about the service. We communicate with Members to provide requested services and in regards to issues relating to their account via email or phone. 
-
-## Notification of Changes
-
-If a Member's personally identifiable information changes (such as his/her email address), the Member should correct and update his/her information in the Trend Revenue Personal Affiliate Dashboard. 
-
-If we decide to change our privacy policy, we will post the changed privacy policy and make it accessible on this site along with the date such privacy policy was last updated so our Members are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-## MISCELLANEOUS
-
-**YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE TERMS AND CONDITIONS.** You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about him/her. 
-
-## Contacting Trend Revenue
-
-If you have any questions about this privacy policy, the practices or your dealings with this website, please email us at or you [privacy@trendrevenue.com](mailto:privacy@trendrevenue.com) can send correspondence to the following address: 
-
-Privacy Officer: Trend Revenue,  
-LLC 1431 Ocean Ave, Suite 201  
-Santa Monica, CA 90401 
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com.). 
