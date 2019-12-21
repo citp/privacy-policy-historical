@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ap.gov.in privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615040522id_/http%3A//www.ap.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ap.gov.in privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221132633id_/https%3A//www.ap.gov.in/%3Fpage_id%3D20396) for the most accurate reproduction.*
 
 # Privacy Policy – AP State Portal
 
