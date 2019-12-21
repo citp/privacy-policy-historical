@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonopenhouse.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517173329id_/https%3A//openhouselondon.org.uk/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonopenhouse.org privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221222856id_/https%3A//openhouselondon.org.uk/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice » Open City
 
