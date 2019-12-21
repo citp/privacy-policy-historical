@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldnewsco.com privacy policy that was archived on 2019-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190422050339id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldnewsco.com privacy policy that was archived on 2019-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191221052932id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -73,7 +73,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Styles -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-<link href="//www.domainmarket.com/css/app.css?v=c962f5371cf643c2f83be59eb80ab4b02c792310" rel="stylesheet">
+<link href="//www.domainmarket.com/css/app.css?v=" rel="stylesheet">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js" integrity="sha384-I6F5OKECLVtK/BL+8iSLDEHowSAfUo76ZL9+kGAgTRdiByINKJaqTPH/QVNS1VDb" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
@@ -112,7 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="text-center">
             <span class="text">
                 <span>
-                    Ask About Special April Deals!
+                    Ask About Special December Deals!
                 </span>
             </span>
             <button class="hide-button" aria-label="Hide Banner" title="Hide Banner" onclick="hideAlertBanner()">
@@ -235,18 +235,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="search-links">
             <span>
-                <a href="https://www.domainmarket.com/download/all_domains" class="underline">
+                <a href="/s3/priced_domains.csv" class="underline add-ts">
                     <img class="icon" src="//www.domainmarket.com/images/excel_icon.gif" alt="Excel CSV file - complete domain list">Entire List
                 </a>
             </span>
             <span>
-                <a href="https://www.domainmarket.com/download/under_500" class="underline">
+                <a href="/s3/under_500.csv" class="underline add-ts">
                     <img class="icon" src="//www.domainmarket.com/images/excel_icon.gif" alt="Excel CSV file - domains under $500">Domains Under $500
                 </a>
             </span>
         </div>
     </div>
 </form>
+
+<script>
+jQuery(".add-ts").each(function(i, e) {
+    var href = jQuery(e).attr("href");
+    if (href.indexOf("?") > 0) {
+        href = href.substring(0, href.indexOf("?"));
+    }
+    jQuery(e).attr("href", href + "?t=" + Date.now());
+});
+</script>
             </div>
         </div>
     </div>
@@ -294,7 +304,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
         <!-- JavaScripts -->
-        <script src="//www.domainmarket.com/js/app.js?v=c962f5371cf643c2f83be59eb80ab4b02c792310"></script>
+        <script src="//www.domainmarket.com/js/app.js?v="></script>
                                 <script>
                 /* <![CDATA[ */
                 var google_conversion_id = 924179745;
