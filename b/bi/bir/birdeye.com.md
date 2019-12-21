@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430143503id_/https%3A//birdeye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222001600id_/https%3A//birdeye.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BirdEye
+
+Last Updated: June 11, 2019
 
 ## Introduction
 
@@ -126,4 +128,13 @@ The data subject has the right to request from BirdEye access to and rectificati
 
 ## Community
 
-Our Services may include publicly accessible community services such as blogs, forums, and wikis. Please be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts on these communities may remain even after you cancel your account. If you have any questions regarding this Privacy Policy, please contact us at [info@birdeye.com](mailto:info@birdeye.com).
+Our Services may include publicly accessible community services such as blogs, forums, and wikis. Please be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts on these communities may remain even after you cancel your account.
+
+#### Questions, Complaints and Contacts
+
+If you have any questions regarding this Privacy Policy, please contact us at [privacy@birdeye.com](mailto:privacy@birdeye.com), or by U.S. mail at the address below:
+
+BirdEye Inc.  
+Attn: Privacy Officer  
+250 Cambridge Ave, Suite 103  
+Palo Alto, CA 94306
