@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quttera.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226143431id_/https%3A//quttera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quttera.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221012907id_/https%3A//quttera.com/privacy) for the most accurate reproduction.*
 
 # FREE Online Website Malware Scanner | Website Security Monitoring & Malware Removal | Quttera
 
@@ -82,7 +82,7 @@ The provider uses the Google Inc. ("Google") remarketing or "Similar Audiences" 
 
 You can permanently disable the use of cookies by Google by following the link below and downloading and installing the plug-in provided: <https://support.google.com/ads/answer/7395996>
 
-Alternatively, you can disable the use of cookies by third-party providers by going to the Network Advertising Initiative opt-out page at [www.networkadvertising.org/choices/](https://web.archive.org/web/20190226143431id_/https%3A//quttera.com/www.networkadvertising.org/choices/) and implementing the additional information given there on opting out.
+Alternatively, you can disable the use of cookies by third-party providers by going to the Network Advertising Initiative opt-out page at [www.networkadvertising.org/choices/](https://web.archive.org/web/20191221012907id_/https%3A//quttera.com/www.networkadvertising.org/choices/) and implementing the additional information given there on opting out.
 
 You can find additional information on Google remarketing and the Google data protection declaration at <https://policies.google.com/technologies/ads>
 
@@ -280,29 +280,29 @@ This website may contain external links to enable you to visit other websites of
 
 If you have any questions, comments or concerns relating to this Privacy Policy, please feel free to contact us at **contactus@quttera.com**.
 
-[ ](https://blog.quttera.com/post/backdoor-malware-using-legitimate-code-wrappers/)
+[ ](https://blog.quttera.com/post/magento-skimmer-google-analytics-plugin/)
 
-### Blog: Legitimate Code Wrappers & Malware
+### Blog: Magento Skimmer in Google Analytics Plugin
 
-Incident response insights: Backdoor malware wrapped using the legitimate online obfuscator to bypass the security monitoring.
+A credit card skimmer inserts a request for credit card information and sends the response to the attacker's site. Recently we found another variant on the same trick, using the Google Analytics Pro plugin.
 
-[READ MORE](https://blog.quttera.com/post/backdoor-malware-using-legitimate-code-wrappers/)
+[READ MORE](https://blog.quttera.com/post/magento-skimmer-google-analytics-plugin/)
 
-[ ](https://blog.quttera.com/post/vulnerable-wordpress-newspaper-theme/)
+[ ](https://blog.quttera.com/post/finding-stopping-malicious-http-redirection/)
 
-### Blog: Vulnerable WordPress Newspaper Theme
+### Blog: Finding and Stopping Malicious HTTP Redirection
 
-Clean up the 'WordPress NewsPaper theme malware' and protect your website from the similar attacks.
+If malicious redirects infiltrate a website, it's important to get rid of them. It's equally important to find and fix the vulnerabilities that allowed them and improve website protection.
 
-[READ MORE](https://blog.quttera.com/post/vulnerable-wordpress-newspaper-theme/)
+[READ MORE](https://blog.quttera.com/post/finding-stopping-malicious-http-redirection/)
 
-[ ](https://blog.quttera.com/post/hardening-wordpress-website/)
+[ ](https://blog.quttera.com/post/quttera-web-application-firewall-statistics-2018/)
 
-### Blog: Hardening WordPress Website
+### Blog: Quttera Web Application Firewall Statistics for 2018
 
-What are the 6 best practices you could implement Today to protect your WordPress website from hackers?
+In the period from July through December, Quttera Firewall handled 48,180,062 requests and blocked 617,074 attacks. The majority (62%) of the attacks originated from IP addresses in the United States.
 
-[READ MORE](https://blog.quttera.com/post/hardening-wordpress-website/)
+[READ MORE](https://blog.quttera.com/post/quttera-web-application-firewall-statistics-2018/)
 
 * * *
 
