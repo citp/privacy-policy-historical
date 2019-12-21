@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationmarketing.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629124714id_/https%3A//www.portent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationmarketing.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221055125id_/https%3A//www.portent.com/privacy) for the most accurate reproduction.*
 
 # Portent Privacy Policy & Terms of Use - Portent
 
