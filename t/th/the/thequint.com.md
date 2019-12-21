@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thequint.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608091026id_/https%3A//www.thequint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thequint.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221153428id_/https%3A//www.thequint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies
 
