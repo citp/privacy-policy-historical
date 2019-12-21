@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gen.xyz privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515202634id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gen.xyz privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221204047id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | .xyz Domain Names | Join Generation XYZ
 
@@ -40,7 +40,7 @@ We do not track our customers over time and across third party websites, and the
 
 We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
 
-You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at <http://www.google.com/ads/preferences/>. For further information regarding the privacy practices of our advertisement provider, please visit <http://www.google.com/privacypolicy.html>.
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/). For further information regarding the privacy practices of our advertisement provider, please visit [http://www.google.com/privacypolicy.html](https://www.google.com/privacypolicy.html).
 
 ## What about Minors?
 
