@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnx-software.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331193240id_/https%3A//www.cnx-software.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnx-software.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221230934id_/https%3A//www.cnx-software.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
