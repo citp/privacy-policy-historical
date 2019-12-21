@@ -1,147 +1,250 @@
-> *The following text is extracted and transformed from the gamepedia.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219090123id_/http%3A//www.curse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepedia.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221141535id_/https%3A//www.fandom.com/curse-privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Curse
+# Privacy Policy | Fandom
 
-Region: [](https://web.archive.org/privacy) [](https://web.archive.org/privacy-uk) [](https://web.archive.org/web/20151219090123id_/http%3A//www.curse.com/privacy-de)
+Date of last revision: November 18, 2019
 
-**CURSE, INC. PRIVACY POLICY**
+This Privacy Policy applies to your use of the services and sites listed in Annex A hereto (collectively, the “Services”) provided, owned, or operated by Fandom, Inc. (with its affiliates, “Fandom”). For clarity, this privacy policy does not apply to fandom.com, wikia.com and wikia.org (including all subdomains) and our mobile apps under the Fandom brand, all of which are governed by the privacy policy located at https://www.fandom.com/privacy-policy.
 
-_Last updated December 15, 2015_
+Fandom values the privacy of users, subscribers, publishers, members, and others who visit and use the Services (collectively or individually, “you” or “users”) and wants you to be familiar with how we collect, use, and disclose personal information from and about you.
 
-**_Our Privacy Commitment_**
+This privacy policy implements the requirements of the General Data Protection Regulation (“GDPR”), a data protection law that applies where we process personal information of anyone located in the European Economic Area (“EEA”). We have added sections at the end of this privacy policy which apply solely to EEA residents.
 
- Welcome to Curse!  Curse, Inc. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse service provided on or through our websites, including [www.curse.com](http://www.curse.com/) (the “ ** _Site(s)_** ”), and on or through software applications made available by Curse (we refer to the Site(s) and such software applications made available by Curse as the “ ** _Service Applications_** ” and we refer to the Service Applications and the services made available through the Service Applications collectively as the “ ** _Curse Features_** ”).  As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s) and through our software applications.  By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.  This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and our software applications and not to any other website or third party software applications that you may be able to access from the Curse Features which may have their own data collection and use practices and policies.
+For purposes of data protection laws, Fandom, Inc., located at 130 Sutter Street, 4th Floor, San Francisco, CA 94104, is the “data controller” of your information with respect to data collected pursuant to the Services.
 
-**About Us**
+You may share personal information when using the Services. One example is when you provide information about yourself as part of the account creation process. Another is when you take certain actions on the Services that are public or intended to be public in nature, such as when you participate in a chat room, post profile information, or follow a channel. Given the social nature of some of the Services, that information may be collected, used, or disclosed by others who are part of that social interaction. In addition, some features of the Services are designed to provide others with information about user activity. We encourage you to be mindful of this when considering your activity on the Services.
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at [contact@curse.com](mailto:contact@curse.com).
+By agreeing to this Privacy Policy in your account setup, or by using the Services, you consent to the extent permitted by law to the information handling practices described in this Policy. 
 
-We can also be contacted at the following addresses:
+## Personal Information We Collect About You
 
-Curse, Inc.305 Church Street SWHuntsvilleAL 35801United States of America
+We obtain information about you through the means discussed below when we provide the Services. Please note that we need certain types of information so that we can provide the Services to you. If you do not provide us with such information, or ask us to delete it, you may no longer be able to access or use the Services.
 
-This policy answers the following questions:
+  * **User-provided Information:** You may provide a variety of information about yourself to us, such as your name, email address, postal mailing address, telephone number, credit card number, and billing information when you register for Services; upload, purchase, view, or download certain content or products from the Services; enter contests or sweepstakes; or otherwise use the features and functionality of the Services.
+  * **Automatically Collected Information:** When you access the Services or open one of our emails, we automatically record and store certain information about your system by using cookies and other types of technologies. Cookies are small text files containing a string of alphanumeric characters that are sent to your browser. For information about what cookies are, how they work, how we use them, and how to remove them, please see the Cookie Policy section below. Examples of such information we automatically collect include Internet Protocol address (“IP Address”), a unique user ID, device and browser types and identifiers, referring and exit page addresses, software and system type, and information about your usage of Services. Examples of how we use automatically collected information include to: (a) automatically update our application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Services; (c) provide customized advertisements, content, and information; (d) monitor the effectiveness of marketing campaigns; (e) monitor and store aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities.
+  * **Information from Other Sources:** We may obtain additional information such as demographic and statistical information from third parties and sources other than the Services, such as advertisers or social media networks (such as Facebook) for which you have approved our access. When you access the Services through social media networks or when you connect the Services to social media networks, you are authorizing us to collect, store, and use such additional information and content in accordance with this Privacy Policy. We may also obtain information from third-party services regarding your use of such services, including about your use of the content you choose to broadcast through the Services. We use this information to supplement the information we collect about you in order to provide more relevant, safer experiences for you with the Services and improve the Services, analytics, and advertising. If we combine or associate information from other sources with information that we collect through the Services, we will treat the combined information in accordance with this Privacy Policy.
 
-  * What information do we collect about you and how do we use it?
-  * Will we share your personal information with third parties?
-  * What choices do you have about the collection and use of your personal information?
-  * What security measures do we take to safeguard your personal information?
 
 
+## How We Use Personal Information
 
-**What information do we collect about you and how do we use it?**
+  * We use such information to operate, maintain, enhance, provide, create, and develop all of the features, functionality, and services (new or existing) found on the Services; provide security for our websites, products, software, or applications; manage relationships with account holders, including making or receiving payment; improve your experience with the Services by providing content recommendations and by delivering content that we hope you will find relevant and interesting, including advertising and marketing messages; allow you to comment on content, and participate in online games, contests, or rewards programs; prevent fraud and abuse; and understand the usage trends of our users.
+  * We use your email address to communicate with you, including to notify you of major Services updates, for customer service purposes, or to contact you regarding any content that you have posted to or downloaded from the Services.
+  * We may periodically send promotional materials or notifications to you related to the Services. If you want to stop receiving promotional materials, you can go to your account settings once you have logged in to the Services or follow the unsubscribe instructions at the bottom of any email from us. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+  * In certain cases, we have a legal obligation to collect and process your personal information (such as our obligation to share data with tax authorities).
+  * We may also ask for your consent to process your personal information for a specific purpose that we communicate to you. When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop processing of your data for that purpose.
+  * We will rely on legal grounds to process your personal information to the extent permitted by applicable law, which may include, without limitation: to honor contractual commitments, to take steps in anticipation of entering into contract, to fulfill legal obligations, your consent, and our legitimate interests.
 
-**Types of Information We Collect**
 
-Personal information means information that can be used to identify and contact you. You do not need to submit personal information to access our Site(s), but if you do not want to disclose certain personal information to us, you will not be able to access certain aspects of the Curse Features.  
 
-We collect personal information when you create an account through the Curse Features; subscribe to our newsletter; utilize voice communication tools made available through the Curse Features; participate in chat rooms, forums, polls, surveys, and questionnaires; participate in contests, sweepstakes, other promotions, or opt into third party offers and/or newsletters; purchase a product through the Curse Features; register a product that you have purchased; or receive customer or technical support.
+## When We Disclose Personal Information
 
-To create an account for the Curse Features, we require you to provide your name, email address and country in which you reside.  You will also need to create a screen name.  When you are purchasing premium services or products through the Curse Features you may have to submit personal information to our billing partner, PayPal, including your email address, billing address and additional billing information depending on your preferred method of payment through PayPal, such as your credit card number. When you enter a contest or sweepstakes with Curse, in addition to your screen name, name and email address, we will ask for your mailing address in case we have to mail you a prize, and may ask you to opt into receiving a third party’s offers and/or newsletter.
+We share such information as described below:
 
-Additionally, we may also collect other types of information (known as demographic information) such as your gender, hobbies, occupation, platform preferences, and other game ownership information. This demographic information may be associated with your personal information.
+  * We disclose such information to service providers working on our behalf, such as, to: provide website hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; or assist us in improving the Services and creating new services and features. We require that these parties process such information in compliance with this Privacy Policy, we authorize them to use the information only for the purposes for which it is provided to them, and we require them to use reasonable confidentiality measures.
+  * We may make information available to our affiliates (meaning entities controlled by, controlling, or under common control with us).
+  * We may disclose user information if we believe in good faith that such disclosure is necessary to comply with U.S. state and federal laws or other applicable laws around the world (for example, in the country of your residence), or respond to a court order, judicial or other government request, subpoena, or warrant in the manner legally required.
+  * We also reserve the right to disclose information that we believe, in good faith, is appropriate or necessary to protect us from potential liability or from fraudulent, abusive, or unlawful uses; investigate and defend ourselves against third-party claims, or allegations; protect the security or integrity of the Services; or protect the rights, property, or safety of us, our users, or others.
 
-We also offer features that allow you to link your account to third party social networking sites through the Curse Features, such as Facebook.  If you sign up for one of these services, we may also collect personally information from these Internet sources and database services.
 
-Through the Curse Features, you may be able to link to technology, software and services owned and controlled by third parties (the “ ** _Third Party Features_** ”). You may be permitted or required to submit personal information to access Third Party Features. Such use of Third Party Features and submission of information through Third Party Features will be subject to such applicable third party’s terms of use, terms of service and/or privacy policy. You agree to look solely to the applicable third party and not to Curse to enforce your rights in relation thereto.
 
-By submitting personal information through the Curse Features, you authorize Curse to share this personal information for the purposes identified herein and as described in the Curse Features, such as responding to user inquiries and processing transactions.
+Other than as set out above, you will receive notice when personal information about you might be shared with third parties and you will have an opportunity to choose not to share the information.
 
-**How We Use Your Personal Information**
+## Cookie Policy
 
-The personal information you provide to us will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. We also use your e-mail address to send you messages about the Curse Features and other general announcements. Additionally, personal information you make public will be viewable by other users of the Curse Features.  We keep track of your interactions with us, including but not limited to your activity within the Curse Features. We may use personal information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Curse Features. We may also use your personal information to contact you when necessary for service issues. 
+Fandom uses certain technologies in connection with the Services to collect information that helps us improve your online experience. In this Cookie Policy, we refer to these technologies, which include cookies, pixels, web beacons, and gifs, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them. 
 
-We may use your personal information by making it non-personally identifiable, and then aggregating it with other information that we have collected in a manner such that the end-product does not personally identify you or any other user of the Curse Features.  When we do this, we make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users without identifying you personally), or by removing characteristics (such as your name or email address) that make the information personally identifiable.  This process is known as de-personalizing your information.  You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your de-personalized information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect in providing the Curse Features (the “ ** _Analytical Data_** ”). We are expressly authorized to make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties, provided that we do not sell, trade, or otherwise transfer from us any part of the Analytical Data that personally identifies you in any way. 
+## What Is A Cookie?
 
-**Cookies**
+Cookies are small text files that are stored on your computer or mobile device. They are widely used in order to make websites and software applications work, or work in a better, more efficient way. They can do this because websites and software applications can read and write these files, enabling them to recognize you and remember important information that will make your use of a website or software application more convenient (e.g., by remembering your user preferences).
 
-“Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Curse Features to allow us to provide information which is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are.  Should you disable cookies in your browser, you will have to provide your screen name and password each time you log in.  Additionally, advertisements that are managed by third parties which may appear on the Curse Features use cookies. Advertisers use cookies to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements. In some cases, we may have access to information from cookies used by these advertisers on the Curse Features and this information may permit us to identify other sites that you have visited that are also associated with such advertisers.  
+## What Cookies Do We Use?
 
-To disable cookies on your browser, you will need to change your browser settings on your internet enabled device. For more information on how to disable cookies, please see the Help section in your browser (or the settings function on your mobile device) or visit [www.aboutcookies.org](http://www.aboutcookies.org/). For further information on managing behavioral advertising, please visit [www.youronlinechoices.com/](http://www.youronlinechoices.com/uk/)
+Below we list the different types of cookies we may use on the Services.
 
-**Do Not Track**
+## “Non-Marketing Cookies”
 
-Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based on whether such a signal is broadcast. To learn more about browser tracking signals and “Do Not Track,” please visit [http://allaboutdnt.org](http://allaboutdnt.org/).  
+“Non-Marketing Cookies” consist of the below-described essential, performance and functionality cookies. 
 
-**Google Analytics**
+**Essential Cookies** : These cookies are essential to the operation of the Services in order to enable you to move around it and to use its features. Without these cookies, services you have asked for, such as accessing secure areas of the website or paid for content, cannot be provided. These cookies are essential for using the website and therefore cannot be turned off without severely affecting your use of the website.
 
-The Curse Features use Google Analytics to help us learn about who visits and uses the Curse Features and what pages are being viewed.  To understand how Google uses your data when visiting and using the Curse Features, please visit <http://www.google.com/intl/en/policies/privacy/partners/>
+**Performance Cookie** s: Performance cookies, which often include analytics cookies, collect information about your use of this Services and enable us to improve the way it works. For example, performance cookies show us which are the most frequently visited pages on the website, allow us to see the overall patterns of usage on the Services, help us record any difficulties you have with the Services and show us whether our advertising is effective or not.
 
-**Log Information**  
+**Functionality Cookies** : In some circumstances, we may use functionality cookies. Functionality cookies allow us to remember the choices you make on the Services and to provide enhanced and more personalized features, such as customising a certain webpage, remembering if we have asked you to participate in a promotion and for other services you request, like watching a video or commenting on a blog. All of these features help us to improve your visit to the Service.
 
-Our servers automatically record information that your browser sends whenever you visit our Site(s).  Additionally, some of the Curse Features may collect information regarding your computer system.  This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Curse Features, if any, the operating system your computer uses, the type of computer hardware you have (such as the amount of RAM, the type of GPU or type of CPU in your computer) which Curse Features you use and when and how long you use them.  We use this information to monitor and analyze how users use the Curse Features, to provide customer service and to maintain and improve the Curse Features.
+## “Marketing Cookies”
 
-**Children’s Privacy**
+We and our service providers may use targeting or advertising cookies (referred to herein as “Marketing Cookies”) to deliver ads that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to limit the number of times you see the same ad on our Services and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the Services and we may share this information with other organizations, such as advertisers.
 
-The Curse Features are expressly not intended for children under the age of 13. We do not knowingly collect or maintain any personal information or non-personally-identifiable information from anyone under the age of 13 nor is any part of our website, software or service directed to children under the age of 13. We will close any accounts used exclusively by such children and will remove and/or delete any personal information we believe was submitted by any child under the age of 13.
+For more information about Marketing Cookies and how you can opt out, you can visit youronlinechoices.com/uk/your-ad-choices or allaboutcookies.org/manage-cookies/index.html
 
-**_Will we share your personal information with third parties?_**
+Flash Cookies: We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. To improve your user experience, Local Shared Objects (commonly known as “Flash cookies”) are employed to provide functions such as remembering your settings and preferences. Flash cookies are stored on your device, but they are managed through an interface different from the one provided by your web browser. This means it is not possible to manage Flash cookies at the browser level, in the same way you would manage cookies. Instead, you can access your Flash management tools from Adobe’s website directly. The Adobe website provides comprehensive information on how to delete or disable Flash cookies see adobe.com/security/flashplayer for further information. Please be aware that if you disable or reject Flash cookies for the Service, you may not be able to access certain features, such as video content or services that require you to sign in.
 
-**Sharing of Information**
+## How Do Third Parties Use Cookies On The Site?
 
-We may use your personal information to provide analyses of our users in the aggregate (including the Analytical Data) to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personal information about customers. We may share your personal information with carefully selected vendors and business partners, including companies that perform marketing services and other business operations for us, under strict terms described herein.
+In some circumstances, we may work with third parties to provide services on the Service.  
+In addition, third-party advertisers and other organizations may use their own cookies to collect information about your activities on the Services websites and/or the advertisements you have clicked on. This information may be used by them to serve advertisements that they believe are most likely to be of interest to you based on content you have viewed. Third-party advertisers may also use this information to measure the effectiveness of their advertisements.
 
-In addition, we will share the personal information we collect from you under the following circumstances:
+We do not control these cookies. To disable or reject third-party cookies, please refer to the relevant third party’s website. You can also learn more about controlling cookies in the “How do I control Cookies” section below.
 
-  * _Protection of rights._   We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Service for the Curse Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Curse Features, or (iv) such action is appropriate to protect the rights, property or safety of Curse, its employees, users of the Curse Features or others. 
+## How Do I Control Cookies?
 
+You may refuse to accept cookies from the Services at any time by activating the setting on your browser which allows you to refuse cookies. You can refuse to accept Flash cookies from the Services using Adobe’s Flash management tools at http://www.adobe.com/security/flashplayer. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider’s website via your help screen. You may wish to refer to allaboutcookies.org/manage-cookies/index.html for information on commonly used browsers. Please be aware that if cookies are disabled, not all features of the Services may operate as intended.
 
-  * _Asset transfers.   _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Curse’s assets, user information, including personal information collected from you through your use of the Curse Features, could be included in the transferred assets.  Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s). 
+## Data Subject Rights and Your Choices
 
+You may decline to share certain information with us, in which case we may not be able to provide to you some of the features and functionality found on the Services. If you have created an account, depending on the service, you may be able to update your profile information and preferences or disable your account by logging in and going to the settings page. For requests to review, update, delete, or otherwise limit our use of information that you have provided directly to us, you may contact support@fandom.com. In your request, please include your email address, name, address, and telephone number and specify all relevant background. To protect your privacy and security, we may take steps to verify your identity before granting you access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-  * _Service Providers.   _We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf.  For example, we have partnered with other companies to host and manage contests, fulfill product orders and prizes, and process payments.  Additionally, we may partner with other companies to process consumer surveys, or to process, analyze, and/or store data, including, but not limited to, Analytical Data.  While providing services for us, these companies may access your personal information.  To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures. 
+## Account Closure & Deletion
 
+If you would like to close your account and delete your profile information, you may update or delete information tied to your account, or close an account, by submitting a help ticket to that service. If you close your account, we may retain certain information about you for the activities described in this Privacy Policy, or as permitted or required by applicable law.
 
-  * _Third Party Offers._   We may also share your personal information with third party partners when you have opted into receiving third party offers and/or newsletters on our Site(s).  We will not disclose your personal information to third parties for marketing purposes when you have not opted into receiving or have opted out of receiving such third party offers and/or newsletters through the Curse Features.  You may request that we stop sharing your information with a third party or third parties for direct marketing purposes after you have opted into such disclosure through the Curse Features by emailing us at [support@curse.com](mailto:support@curse.com) and informing us of your desire for us to stop providing your information to a specific third party or a list of specific third parties.  Curse’s disclosure to third party partners may be made for cross promotional purposes, but Curse will not receive compensation as the primary consideration for such disclosure.
+## Third-Party Services and Websites
 
+The Services may link to third-party websites or services. The privacy practices of those third parties are not governed by this Privacy Policy. We encourage you to review the privacy policies of these third-party websites and services to understand their practices.
 
+If you connect to a third-party service (such as Facebook, Twitter, or another third-party application) through the Services or otherwise link your account with a third-party service, you are requesting and authorizing us to share or grant access to information on your behalf (such as your username, the fact that your connection originated from the Services, and other relevant usage and diagnostic information) with such third party. We may also send information about your activities on the Services to such third parties. For example, we may make information available to app developers, game developers, and game publishers to facilitate purchases and awards of digital goods, such as games and in-game items.
 
-**Additional Information You Should Know About Third Parties**
+## Advertisers and Analytics Providers
 
-The Curse Features may contain direct links to websites operated by our business partners and other third party entities. These third party websites may collect information about you when you visit them or otherwise communicate with them. This Privacy Policy does not cover the information practices of third party websites linked to the Curse Features or third party offer and/or newsletter opt-ins provided through the Curse Features. Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information.  You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies. 
+We may use third-party Web analytics services in connection with the Services, such as those of Google Analytics, and its advertising features. These service providers use a variety of tracking technologies such as cookies to analyze how users use the Services. The information collected (described above in “Automatically Collected Information”) will be collected directly by these service providers to evaluate your use of the Services. For more information on how Google Analytics uses data from our websites and how you can control the information sent to Google, see https://policies.google.com/technologies/partner-sites. To learn about opting out of Google Analytics, see https://tools.google.com/dlpage/gaoptout.
 
-When you have clicked on an advertisement or third party logo or URL displayed on our Site(s) or accessible through the Curse Features which links you to a different website, our Privacy Policy no longer applies and you must read the privacy policy of the third party to see how your personal information will be handled on their website.
+Because these opt outs are cookie-based, please note that if you get a new computer or device, install or start using a new browser, or erase or alter your browser’s cookie file, you may need to opt out again.
 
-The Curse Features may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another.  When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line and you do so at your own risk.
+We may allow advertisers, third-party advertising networks and third-party advertising serving companies to serve advertisements directly to you within the Services and other sites, services and software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons and other tracking technologies to measure the effectiveness of their advertisements, and to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in personalizing the advertising content delivered to you. We do not provide information that is intended to identify you personally to these third-party ad servers or ad networks without your consent. However, if you respond to an advertisement that targets a certain audience (for example, males age 20 to 25 who have participated in certain promotions), the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach.
 
-**_What choices do you have about the collection and use of your personal information?_**
+We cannot control the tracking technologies and activities of, other advertisers, third-party advertising networks, or third-party advertising servers. You should consult the respective privacy policies of these advertisers, third-party advertising networks, or third-party advertising servers. For more information about third-party advertising networks and similar entities that use these technologies, see http://www.aboutads.info/consumers, and to opt-out of such ad networks’ and services’ advertising practices, for example, Google Analytics advertising features and Google’s use of cookies, go to the Network Advertising Initiative opt-out page, the Digital Advertising Alliance opt-out page, or the Your Online Choices page.
 
-**Control of Your Information**
+## Do Not Track
 
-We may use third-party advertising companies, such as Yahoo!, Google, OpenX and Lijit to serve ads when you visit the Curse Features.  These companies may use information about your interests in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) or [Network Advertising Initiative’s](http://www.networkadvertising.org/managing/opt_out.asp) website.
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information collected on our website for third-party purposes, and that is why we provide the Network Advertising Initiative, Your Online Choices and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals.
 
-You may update or delete your personal information or modify your account preferences for the Curse Features by accessing the “My Account” area of the Curse Features or sending us an email to [support@curse.com](mailto:support@curse.com) requesting us to update or delete your personal information. However, information previously shared with other users through a chat room, forum or otherwise may not be deleted.  Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.
+## Data Security
 
-**Opting Out of Receiving Communications from Us**
+We use a variety of managerial, technical, and physical measures to protect the integrity and security of your information. These measures may vary based on the sensitivity of your information. However, no security precautions or systems can be completely secure. We cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. We cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If you no longer want to receive our newsletter, e-mails or other announcements, you may unsubscribe by selecting “unsubscribe” in your account, writing to us at contact@curse.com or replying to the unsubscribe link at the bottom of our e-mails.  Please note that you cannot unsubscribe from certain service related correspondence from us, including messages relating to your account transactions.  If you wish to unsubscribe from any newsletters, offers, e-mails or other announcements from our third party advertising partners that you have opted into through the Curse Features, you will need to contact such third party advertising partner directly through their independent website(s) or by clicking on the unsubscribe link at the bottom of any such emails (if any).
+## Retention of Your Information
 
-**Mediation**
+We keep your personal information to enable your continued use of Services, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Policy, as may be required (or permitted) by law such as for tax and accounting purposes, or as otherwise communicated to you.
 
-If you are a resident of a country outside of the European Union, you also agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that you and Curse will attempt in good faith to negotiate a written resolution of the matter directly between the parties.  You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute.  Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees, even if you would otherwise be entitled to them.
+## Children’s Privacy
 
-**Dispute Resolution for Residents of the European Union**
+IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE SERVICES AT ANY TIME OR IN ANY MANNER.
 
-If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may, in addition to, or instead of, contacting us in the first instance, report your claim to the Data Protection Authority located in your jurisdiction. 
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain personal information (as defined by the United States Children’s Online Privacy Protection Act) from persons under 13 years-of-age. If we learn that personal information of persons under 13 has been collected on or through the Services, we will take appropriate steps to delete this information.
 
-**_What security measures do we take to safeguard your personal information?_**
+If you are the parent or legal guardian of a child under 13 who has become a Services member, then please contact us at support@fandom.com to have that child’s account terminated and personal information deleted.
 
-The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information.  In addition, we restrict access to personal information to Curse employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Curse Features.  All Curse personnel who have access to this information are trained in the maintenance and security of such information.  However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Curse Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk.  Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
+For residents of the EEA, where processing of personal information is based on consent, we will not knowingly engage in that processing for users under the age of consent established by applicable data protection law. If we learn that we are engaged in that processing with such users, we will halt such processing and will take reasonable measures to promptly remove applicable information from our records.
 
-**_European Union and Switzerland Directive on Data Protection - Safe Harbor_**
+## Merger or Sale
 
-THE PERSONAL INFORMATION THAT YOU PROVIDE TO US MAY BE TRANSFERRED TO, PROCESSED AND STORED IN THE UNITED STATES OF AMERICA AND/OR OTHER JURISDICTIONS OUTSIDE OF THE EUROPEAN ECONOMIC AREA (“EEA”).  BY PROVIDING YOUR PERSONAL INFORMATION TO US, YOU ACKNOWLEDGE AND AGREE TO THIS TRANSFER, STORING AND PROCESSING OR YOUR PERSONAL INFORMATION OUTSIDE OF THE EEA.
+In the event that we, or some or all assets related to the Services are acquired by or merged with a third-party entity or in connection with a contemplated change of ownership transaction, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users as part of that merger, acquisition, sale, or other change of control event, including in the course of diligence.
 
-Curse complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Curse has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Curse’s certification, please visit <http://www.export.gov/safeharbor/>.
+## International Data Transfers
 
-**_Notification of Changes_**
+Information collected by us may be stored and processed in your region, in the United States (for instance in our major data centers), or in any other country where we or our affiliates, subsidiaries, partners, or service providers are located or maintain facilities. If we provide any information about you to any such entities, we will take appropriate measures to ensure such companies protect your information adequately in accordance with this Privacy Policy and applicable law.
 
-From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on the Site(s). We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and with whom we share it.
+## Changes and Updates to this Privacy Policy
 
-**_Questions?   Contact Us_**
+We reserve the right to change, modify, add, or remove portions of this Privacy Policy at any time (for example to reflect updates to the Services or to reflect changes in the law). Please check this Privacy Policy periodically for those changes. Your continued use of the Services after the posting of changes constitutes your binding acceptance of such changes.
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at [contact@curse.com](mailto:contact@curse.com) or by writing to us at the addresses set out in the About Us section above.
+We will not materially change our policies and practices to make them less protective of personal information collected in the past under a prior version of the Privacy Policy without the consent of affected individuals.
 
-**_Terms of Service_**
+## Contact Information
 
-Please read the [Terms of Service](http://www.curse.com/content/termsofservice.aspx) and [Premium Subscription Additional Terms of Service](http://www.curse.com/content/premiumtos.aspx) ** ** governing the use of the Site(s) and the Curse Features.
+We have a Data Protection Officer to assist with all queries regarding our processing of personal information; Wade Warren who can be contacted at c/o Fandom, Inc., 130 Sutter Street, 4th Floor, San Francisco, CA 94104; Email: DPO@fandom.com; Phone: (415) 980-5647. If you have any complaints about the Services, please contact us at: Address: 130 Sutter Street, 4th Floor, San Francisco, CA 94104 Email: support@fandom.com Telephone: (415) 762-0780
+
+We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information.
+
+## California Privacy Rights
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (as defined by applicable California law) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. We do not currently disclose personal information to third parties for their direct marketing purposes.
+
+## Additional Provisions Of This Privacy Policy That Are Applicable To EEA Residents
+
+**What is our justification for handling your personal data?**
+
+Under European data protection laws, we have to ensure that we process your personal information fairly and lawfully. This means that we must have a “legal basis” for each of our processing activities where they relate to the personal data of an individual within the EEA. These bases include:
+
+  1. **Consent**  – we may decide to obtain your specific, freely given consent to one or more processing activities;
+  2. **Legal obligation**  – we may need to process your data where it is necessary to comply with applicable laws that we are subject to;
+  3. **Performance of a contract**  – we may process your data if we are entering into a contract with you, or taking preparatory steps to do so;
+  4. **Legitimate interests**  – we may process your personal data where we believe that we have a legitimate interest in doing so, and we have analyzed this and determined that our interests are not overridden by the impact on your rights and freedoms under data protection law.
+
+
+
+We rely on these legal bases in different ways, and in relation to different types of processing of your personal data.
+
+_Consent_
+
+We process your personal information collected through the use of Marketing Cookies (as described in the Cookie Policy section above) on the basis of your consent, which we ask for when you first visit our Services. You are entitled to withdraw your consent to our use of these Cookies. The list of partners for which we request consent is located at our [Vendor List](https://www.fandom.com/partner-list). In order to withdraw your consent, please visit the “Reset Your Tracking Preferences” button at the bottom of this Privacy Policy.
+
+_Legitimate Interests_
+
+We believe that our use of your other personal information described herein is necessary for our legitimate interests, which are as follows:
+
+1\. To run, grow and develop our business;  
+2\. To operate the Services;  
+3\. For marketing, market research and business development; and  
+4\. For internal administrative purposes.
+
+If we rely on our, or another person’s, legitimate interests for using your personal information, we will undertake a balancing test to ensure that our (or the other person’s) legitimate interests are not outweighed by your interests or fundamental rights and freedoms which require protection. You can ask us for information on this balancing test by using the contact details in the “Complaints, Questions and Comments” section below.
+
+We process your personal information collected through the use of Non-Marketing Cookies (as described in the Cookie Policy section above) on the basis of our legitimate interests. We also rely on legitimate interests to use your personal information in order to provide you with access to our Services, and to make sure that they work properly, and to keep a record of who is accessing and making changes to the different parts of our Services.
+
+## Rights Of EEA Residents
+
+Residents in the EEA have the following rights:
+
+1\. The right to ask us to provide you with copies of personal information that we hold about you at any time free of charge, although we may charge a reasonable fee if your request is manifestly unfounded or excessive, or repetitive. Please utilize the form found here when making this request: [Download Your Data](https://fandom.zendesk.com/hc/en-us/articles/360021403033-I-want-to-download-a-copy-of-my-data).
+
+2\. The right to ask us to update or correct any out-of-date or incorrect personal information that we hold about you (in accordance with applicable data protection laws).
+
+3\. The rights to request that we stop using or delete your personal information (in certain circumstances we may not be able to stop using your personal information but if that is the case, we will let you know why). Please utilize the form found here when making this request: [Right to Be Forgotten](https://fandom.zendesk.com/hc/en-us/articles/360021402973-Please-forget-my-Fandom-account).
+
+4\. The right to opt out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you.
+
+If you wish to exercise any of the above rights, please use the forms indicated where applicable and email us at support@fandom.com.
+
+We will consider all such requests and provide our response within a reasonable period (and in any event within any time period required by law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances.
+
+If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any request you make.
+
+Please also note for security and fraud investigation and prevention purposes, we will retain the full IP address for users located in the EEA for up to 12 months.
+
+In addition, we keep a copy of requests submitted to us to comply with our own legal obligation to maintain data processing records. Please also note that certain information, such as your IP address (if you edit while not logged in) and any public contributions to the Fandom community sites is archived and displayed indefinitely by design; the transparency of each community’s contribution and revision histories is critical to their efficacy and trustworthiness. In addition, the anonymization process cannot ensure complete or comprehensive anonymization of all of the content or information posted on our Services related to your prior username. If your request is granted, the name change will only occur in automatically generated logs (such as page histories) in association with content that you posted. The name change will not delete mentions of your prior username by third parties.
+
+## International Transfers
+
+Where personal information is held by us, it is held in the U.S.A.
+
+We will also transfer the personal information that we collect about you to third party processors located in countries that are outside the EEA, or to members of our group of companies in connection with the above purposes. If we provide any of your personal information to any such non-EEA suppliers, we will take appropriate measures to ensure that the recipient protects your personal information adequately.
+
+## Complaints, Questions And Comments
+
+We have a Data Protection Officer to assist with all queries regarding our processing of personal information.
+
+Wade Warren, DPO  
+c/o Fandom, Inc.   
+130 Sutter Street, 4th Floor  
+San Francisco, CA 94104  
+Email: DPO@fandom.com   
+Phone: (415) 980-5647
+
+If you have any complaints about our Services, please contact us at:  
+Address: 130 Sutter Street, 4th Floor, San Francisco, CA 94104 Email: support@fandom.com Telephone: (415) 762-0780
+
+In the EEA you may also make a complaint to our supervisory body for data protection matters (for example, the Information Commissioner’s Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
+
+## Annex A
+
+Sites and Services that are subject to the Privacy Policy:
+
+D&D Beyond App  
+dndbeyond.com  
+futhead.com  
+www.gamepedia.com  
+muthead.com  
+playbook.gg  
+strawpoll.me
