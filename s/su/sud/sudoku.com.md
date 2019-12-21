@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sudoku.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621114324id_/https%3A//easybrain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudoku.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221182821id_/https%3A//easybrain.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ### **PRIVACY POLICY**
 
-### _(Last Updated: June 2019 with effective date 17 June 2019)_
+### _(Last Updated: December 2019 with effective date 10  December 2019)_
 
 Please read this Privacy Policy carefully to understand our policies and practices regarding your Personal Data (as defined below) and how we will treat it.
 
-This Privacy Policy applies to Easybrain’s games, apps, websites and related services (together the “Services” or “games”, “apps”, “websites” for individual categories). This Privacy Policy explains how we, and affiliated companies (collectively, "Easybrain" or "we", "us", "our") collect, use, secure, and/or disclose end users’ (“you” or “your”) or otherwise processes your personal information when you use our Services.
+This Privacy Policy applies to Easybrain’s games, apps, websites and related services (together the “Services” or “games”, “apps”, “websites” for individual categories). This Privacy Policy explains how we, and affiliated companies (collectively, "Easybrain" or "we", "us", "our") collect, use, secure, and/or disclose end-users’ (“you” or “your”) or otherwise processes your personal information when you use our Services.
 
 The data controller is Easybrain Ltd, with a registered address at 3 Krinou Street, 6th floor, The Oval, 4103 Limassol, Cyprus.
 
@@ -22,7 +22,7 @@ When you download and use our Services, we automatically collect information on 
 
   * #### Usage Information
 
-We collect information automatically about your activity through our Services, for example date and time you used a service, features you have used, in-app purchases history, subscriptions, and advertising that you click on, and data generated when you use our Services, for example your game progress which may be stored with your Apple ID on iCloud for iOS Devices or with your Google Play Games profile for Android Devices in some of our Services. Our Services may also contain tools from third party service providers that may enable these third parties to separately collect and/or analyze non-Personal Data from the users' devices.
+We collect information automatically about your activity through our Services, for example date and time you used a service, features you have used, in-app purchases history, subscriptions, and advertising that you click on, and data generated when you use our Services, for example your game progress which may be stored with your Apple ID on iCloud for iOS Devices or with your Google Play Games profile for Android Devices in some of our Services. Our Services may also contain tools from third-party service providers that may enable these third parties to separately collect and/or analyze non-Personal Data from the users' devices.
 
   * #### Other information
 
@@ -34,11 +34,11 @@ We may receive information about you from our analytic service providers with da
 
   * #### Information we obtain from Facebook
 
-If you use our Services on Facebook, we may receive any of your information you provide or permit to be provided to us via Facebook. Such data may include your user ID and your use of our game, including with whom you share our game on Facebook and your email address in case you wish to contact us for support. The information we receive depends on the Services you are using, Facebook terms of service and privacy policy, your privacy settings, and, if applicable, your friends’ privacy settings.
+If you use our Services on Facebook, we may receive any of the information you provide or permit to be provided to us via Facebook. Such data may include your user ID and your use of our game, including with whom you share our game on Facebook and your email address in case you wish to contact us for support. The information we receive depends on the Services you are using, Facebook terms of service and privacy policy, your privacy settings, and, if applicable, your friends’ privacy settings.
 
 The information we receive is stored and used by us in accordance with this Privacy Policy. If you are uncertain about what information Facebook is sharing with us, please go to the website of Facebook to find out more about their privacy practices.
 
-  * #### Customer enquiries
+  * #### Customer inquiries
 
 We collect some information from you when you provide it to us directly, such as via an online form such as name, email, phone number and curriculum vitae (CV) or when you contact us through the support feature embedded in our Services or when you send us an email directly.
 
@@ -59,7 +59,7 @@ More information on the use of cookies in connection with our [Sudoku.com](http:
 
 We have set out below a description of the ways in which we use your information, the legal bases we rely upon to do so and provide opt-out, where applicable:
 
-  * To provide and maintain our Services, recognize you when you return to our apps, and to perform essential business operation, our legal basis for processing is performance of a contract with you which you entered into with us when you download our Services and accept our End User License Agreement.
+  * To provide and maintain our Services, recognize you when you return to our apps, and perform essential business operation, our legal basis for processing is performance of a contract with you which you entered into with us when you download our Services and accept our End User License Agreement.
 
   * To administer and protect our Services (including troubleshooting, data analysis, testing, support, fraud, reporting and hosting of data), our legal basis for processing is legitimate interests for running our business, provision of administration and services.
 
@@ -69,13 +69,13 @@ To opt-out of communication with us for our Services, send us your request throu
 
   * To cross-advertise our Services and products and to send push notifications for changes to our Services, to allow you to participate in new features of our Services when you choose to do so, our legal basis is legitimate interests to be able to advertise our Services and products to our users and keep our users updated about our Services and our new features in accordance with your preference.
 
-To opt-out of receiving advertisements for our Services and products, send us request through the in-app support feature, by going to our app -> click on three dots (or more) -> click help (or support) -> and then click Contact us (or +) and send us your request.
+To opt-out of receiving advertisements for our Services and products, send us a request through the in-app support feature, by going to our app -> click on three dots (or more) -> click help (or support) -> and then click Contact us (or +) and send us your request.
 
 You can opt-out of from receiving push notifications by turning them off at the device level through the settings of the device.
 
   * To serve personalized advertisements in our Services using third-party advertising networks, our legal basis is legitimate interests to run our business. However, if you are in the European Economic Area, Norway or Switzerland, some of our third-party **advertising networks** , will rely on your consent to process Personal Data in order to provide personalized advertising to you, therefore you will be asked whether you consent to the collection of your mobile device advertising identifier and IP address so that they can provide a personalized advertisement experience.
 
-To opt-out or withdraw your consent of receiving personalized advertisements, see below ‘Opt-out of targeted advertising’.
+To opt-out or withdraw your consent from receiving personalized advertisements, see below ‘Opt-out of targeted advertising’.
 
 
 
@@ -86,7 +86,7 @@ We will retain your Personal Data only for as long as is necessary for the purpo
 
 We will also retain Usage Information for internal analysis purposes. Usage Information is generally retained for a shorter period of time, except when this data is used to improve the functionality of our Services, or we are legally obligated to retain this data for longer time periods.
 
-Your Personal Data collected through our Services will be deleted when they no longer serve one of the above-mentioned purposes but in any event your Personal Data will be deleted after 14 months of inactivity in your use of our Services. Once we have deleted your Personal Data, you will not be able to exercise the right to access, the right to erasure, the right to rectification or the right to data portability.
+Your Personal Data collected through our Services will be deleted when they no longer serve one of the above-mentioned purposes but in any event, your Personal Data will be deleted after 14 months of inactivity in your use of our Services. Once we have deleted your Personal Data, you will not be able to exercise the right to access, the right to erasure, the right to rectification or the right to data portability.
 
 Your Personal Data collected through our Get in Touch forms will be deleted after 2 years from the date of receipt. Once we have deleted your Personal Data, you will not be able to exercise the right to access, the right to erasure, the right to rectification or the right to data portability.
 
@@ -100,7 +100,7 @@ For Personal Data you send us through our Get in Touch form on our website, simp
 
 ##### **Other rights**
 
-You also have other rights such as to correct your data, have your data deleted, object how we use or share your data, and restrict how we use or share your data. You also have the right to withdraw consent where you have previously given your consent to the processing of your personal data, for example by turning off camera access in your mobile device settings. This will not affect any data processed before such a withdrawal.
+You also have other rights such as to correct your data, have your data deleted, object how we use or share your data, and restrict how we use or share your data. You also have the right to withdraw consent where you have previously given your consent to the processing of your personal data, for example by turning off camera access in your mobile device settings. This will not affect any data processed before such withdrawal.
 
 ##### **Opt-out of targeted advertising**
 
@@ -128,13 +128,13 @@ When you choose to opt-out, advertising networks will consider this choice as a 
 
 ##### **Exercise these rights**
 
-Any requests to exercise your rights should be made through our support feature located in our apps (by going to the particular app -> click on three dots (or more) -> click help (or support) -> and then click Contact us (or +) and place your request). Any requests regarding our game(s) available on Facebook should be made through the embedded support feature by going to the game -> click on the settings icon -> click help and place your request. You can also send us an email at [privacy@easybrain.com](mailto:privacy@easybrain.com), however we may still redirect you to make the same request through the in-app support feature or we may request additional information in order to accommodate your request. These requests can be exercised free of charge and will be addressed by us as early as possible and always within one month. You may also contact your local data protection authority within the European Economic Area for unresolved complaints.
+Any requests to exercise your rights should be made through our support feature located in our apps (by going to the particular app -> click on three dots (or more) -> click help (or support) -> and then click Contact us (or +) and place your request). Any requests regarding our game(s) available on Facebook should be made through the embedded support feature by going to the game -> click on the settings icon -> click help and place your request. You can also send us an email at [privacy@easybrain.com](mailto:privacy@easybrain.com), however, we may still redirect you to make the same request through the in-app support feature or we may request additional information in order to accommodate your request. These requests can be exercised free of charge and will be addressed by us as early as possible and always within one month. You may also contact your local data protection authority within the European Economic Area for unresolved complaints.
 
-#### **STORAGE, DISCLOSURE, TRANSFER AND SHARING OF YOUR INFORMATION**
+#### **STORAGE, DISCLOSURE, TRANSFER, AND SHARING OF YOUR INFORMATION**
 
   * #### Storage
 
-Information of our users are stored in our data center in Canada, provided by Softlayer a company registered and operating in the USA, who acts as a data processor. For more information about this company or the privacy policy it applies, please follow the link: [www.softlayer.com](https://web.archive.org/web/20190621114324id_/https%3A//easybrain.com/www.softlayer.com).
+Information of our users are stored in our data center in Canada, provided by Softlayer a company registered and operating in the USA, who acts as a data processor. For more information about this company or the privacy policy it applies, please follow the link: [www.softlayer.com](https://www.softlayer.com/).
 
   * #### Share with our service providers and partners
 
@@ -185,7 +185,7 @@ Our Privacy Policy may contain links to other sites that are not operated by us.
 
 This Privacy Policy may change from time to time, and we encourage you to review it periodically. Your continued use of our Services signifies your acceptance of changes to this Privacy Policy.
 
-In some cases, we may notify you of changes to this Privacy Policy with a prominent notice on our Services (for example by way of a notification or pop-up), before the changes become effective and update the "effective date" at the top of this Privacy Policy.
+In some cases, we may notify you of changes to this Privacy Policy with a prominent notice on our Services (for example by way of notification or pop-up), before the changes become effective and update the "effective date" at the top of this Privacy Policy.
 
 #### **CONTACT US**
 
@@ -200,31 +200,18 @@ Limassol, Cyprus
 
 ##### **APPENDIX A - Advertising networks and their partners**
 
-Below, you can find a list with third-party advertising networks and their partners, with whom we work to provide you with a personalized advertisement experience within our apps. The advertising networks listed below, with the exception of Fyber, Mobfox and PubNative who act as data processors upon our instructions, are independent data controllers in respect of your personal data and you can learn more about how each handles your data by accessing their respective privacy notices using the hyperlinks below.
-
-In order to provide personalized advertisements to our users, those listed below may use device information that include personal and non-personal information, such as advertising (or ad) identifiers, IP address regarding the delivery of advertisements and your interaction with them, inventory of installed apps and/or other tracking technologies to enable and optimize this advertising procedure. Ad identifiers are non-permanent device identifiers such as the Android advertising ID and/or Apple's ID for advertising (IDFA).
-
-##### **AOL (OATH) and their vendors**
-
-AOL is an advertising service provided by AOL, Inc. (US) part of Verizon family, which includes Yahoo, Inc.  
-Privacy Policy: <https://privacy.aol.com/legacy/privacy-policy.1.html>  
-For more information on AOL (OATH) Vendors, please visit: <https://advertising.aol.com/specs/vendors>
+For personalized advertisement experience, the advertising networks and their partners, that are listed below, and would like your consent unless they have another legal basis for processing, may collect or receive device information from our apps and other apps that include personal and non-personal information, such as advertising (or ad) identifiers, IP address, or other information regarding the delivery of advertisements and your interaction with them, inventory of installed apps and/or other tracking technologies to provide measurement services, personalization, ad selection, delivery, reporting, and optimize targeted ads. Ad identifiers are non-permanent device identifiers such as the Android advertising ID and/or Apple's ID for advertising (IDFA). More information on how to opt-out go to Opt-out of targeted advertising further above. In addition, the advertising networks listed below, with the exception of Fyber, Mobfox, and PubNative who act as data processors upon our instructions, are independent data controllers in respect of your personal data and you can learn more about how each handles your data by accessing their respective privacy notices using the hyperlinks below.
 
 ##### **Amazon Developer**
 
 Amazon Developer is an advertising service provided by Amazon, Inc. (US)  
-Privacy Policy: <https://developer.amazon.com/support/legal/mobileads/terms-and-agreements>
-
-##### **AdColony**
-
-AdColony is an advertising service provided by AdColony, Inc. (US)  
-Privacy Policy: <https://www.adcolony.com/privacy-policy/>
+Privacy Policy: <https://aws.amazon.com/privacy/>  
+You can manage your personalized ad preferences in relation to Amazon here: <https://www.amazon.com/adprefs>
 
 ##### **AppLovin**
 
 AppLovin is an advertising service provided by AppLovin Corporation (US)  
-Privacy Policy: <https://www.applovin.com/privacy>  
-Opt-out: <https://www.applovin.com/optout>
+Privacy Policy: <https://www.applovin.com/privacy>
 
 ##### **Chartboost**
 
@@ -233,51 +220,51 @@ Privacy Policy: <https://answers.chartboost.com/en-us/articles/200780269>
 
 ##### **Facebook Audience Network**
 
-Facebook Audience Network is an advertising service provided by Facebook, Inc. (US)  
-Privacy Policy: <https://www.facebook.com/about/privacy/>
+Facebook Audience Network is an advertising service provided by Facebook, Inc. (US) that may collect or receive information from our apps and other apps and use that information to provide measurement services and targeted ads.  
+Privacy Policy: <https://www.facebook.com/about/privacy/>
 
 ##### **Fyber**
 
 Fyber is an advertising service provided by Fyber Group. (Israel)  
 Privacy Policy: <https://www.fyber.com/legal/privacy-policy/>
 
-##### **Google AdSense**
-
-Google, as a third-party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet  
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
-
-##### **AdMob by Google and their partners**
+##### **Google AdMob and their partners**
 
 AdMob by Google is provided by Google Inc. (US)  
 For more information on how AdMob uses the collected information, please visit the Privacy Policy of Google: <http://www.google.com/policies/privacy/>  
 For more information on AdMob Partners, please visit: <https://support.google.com/admob/answer/9012903>  
 You can opt-out from AdMob by Google service by following the instructions described by Google: <https://support.google.com/ads/answer/2662922?hl=en>
 
-##### **HyprMX**
+##### **Google AdSense**
 
-HyprMX is an advertising service provided by HyprMX Mobile LLC (US)  
-Privacy Policy: <https://hyprmx.com/pp.html>
+Google, as a third-party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.  
+You may opt-out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
 
-##### **IronSource**
+##### **InMobi**
 
-IronSource is an advertising service provided by IronSource, Inc. (US)  
-Privacy Policy: <http://www.ironsrc.com/wp-content/uploads/2017/01/ironSource-Privacy-Policy.pdf>
+InMobi is an advertising service provided by InMobi PTE Ltd (Singapore)  
+Privacy Policy: <https://www.inmobi.com/privacy-policy/>  
+Opt-out: <https://www.inmobi.com/page/opt-out/>
 
 ##### **IQzone**
 
 IQzone is an advertising service provided by IQzone, Inc (US)  
 Privacy Policy: <https://iqzone.com/about/privacy/>
 
+##### **IronSource**
+
+IronSource is an advertising service provided by IronSource, Inc. (US)  
+Privacy Policy: <http://www.ironsrc.com/wp-content/uploads/2017/01/ironSource-Privacy-Policy.pdf>
+
 ##### **Liftoff**
 
 Liftoff is an advertising service provided by Liftoff, Inc. (US)  
 Privacy Policy: <https://liftoff.io/privacy-policy/>
 
-##### **Maio**
+##### **Mobfox**
 
-Maio is a video advertisement service provided by iMobile Inc. (Japan)  
-Privacy Policy: <https://www.i-mobile.co.jp/privacy.html>  
-Note: It is used only for users in Japan.
+Mobfox is an advertising service provided by Mobfox US LLC  
+Privacy Policy: <https://www.mobfox.com/privacy-policy/>
 
 ##### **MoPub and their partners**
 
@@ -291,26 +278,53 @@ You can opt-out from MoPub service by following the instructions on MoPub Opt-ou
 MyTarget is an advertising service provided by My.Com B.V (Netherlands)  
 Privacy Policy: <https://legal.my.com/us/games/privacy/>
 
-##### **Nend**
+##### **OpenX**
 
-Nend is an advertising service provided by F@N Communications, Inc. (Japan)  
-Privacy Policy: [https://liftoff.io/privacy-policy/](https://www.fancs.com/en/privacy)  
-Note: It is used only for users in Japan.
+OpenX is an advertising service provided by OpenX Software Ltd (US)  
+Privacy Policy: <https://www.openx.com/legal/privacy-policy/>
+
+##### **PubMatic**
+
+PubMatic is an advertising service provided by PubMatic,Inc. (US)  
+Privacy Policy: <https://pubmatic.com/legal/privacy-policy/>  
+Opt-out: <https://pubmatic.com/legal/opt-out/>
 
 ##### **PubNative**
 
 PubNative is an advertising service provided by PubNative GmbH (Germany)  
 Privacy Policy: <https://pubnative.net/privacy-policy/>
 
+##### **Rubicon Project**
+
+Rubicon Project provided by The Rubicon Project, Inc. (US)  
+Privacy Policy: <https://rubiconproject.com/privacy/>  
+Opt-out: <https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/>
+
+##### **Snapchat**
+
+Snapchat is an advertising service provided by Snap Inc. (US)  
+Privacy Policy: <https://www.snap.com/en-US/privacy/privacy-policy/>
+
 ##### **Smaato and their vendors**
 
 Smaato is an advertising service provided by Smaato, Inc. (US)  
-Privacy Policy: <https://www.smaato.com/privacy/> For more information on the Smaato Vendors, please visit: [ http://advertisingconsent.eu/transparency-consent-framework-global-vendor-list/](http://advertisingconsent.eu/transparency-consent-framework-global-vendor-list/)
+Privacy Policy: <https://www.smaato.com/privacy/> For more information on the Smaato Vendors, please visit: <https://www.smaato.com/partner-list/>
+
+##### **Stack (by Appodeal)**
+
+Stack is an advertising service provided by Appodeal Inc. (US)  
+Privacy Policy: <https://explorestack.com/privacy-policy/>
 
 ##### **Unity Ads**
 
 Unity Ads is an advertising service provided by Unity Ads Inc. (US)  
 Privacy Policy: <https://unity3d.com/legal/privacy-policy>
+
+##### **Verizon Media and their vendors**
+
+Verizon Media, previously known as Oath, provides advertising services under their AOL, Yahoo and other brands.  
+Privacy Policy: <https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/index.html>  
+For more information on VerizonAOL (OATH) Vendors, please visit: <https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/topics/thirdparties/index.html>
 
 ##### **Vungle**
 
@@ -323,67 +337,51 @@ Yandex is an advertising service provided by Yandex LLC (Russia)
 Privacy Policy: <https://yandex.com/legal/confidential/>  
 Note: It is used only for users in Russia.
 
-##### **YouAppi**
-
-YouAppi is an advertising network provided by YouAppi Inc. (US)  
-Privacy Policy: <https://www.youappi.com/privacy-policy/>
-
-##### **OpenX**
-
-OpenX is an advertising service provided by OpenX Software Ltd (US).  
-Privacy Policy: <https://www.openx.com/legal/privacy-policy/>
-
-##### **Mobfox**
-
-Mobfox is an advertising service provided by Mobfox US LLC.  
-Privacy Policy: <https://www.mobfox.com/privacy-policy/>
-
 ##### **APPENDIX B - Analytics and other service providers**
 
 We use your information to perform our own analytics and to enable analytics provided by third parties and other essential functions. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving the Services, personalizing content, providing advertising, and making recommendations. In order to learn about how your information is used by our analytics service providers, you can follow the hyperlinks in the list below to each provider’s privacy notice.
-
-##### **AppFigures**
-
-AppFigures is analytics service provided by AppFigures, Inc. (US).  
-Privacy Policy: <https://appfigures.com/privacy>
-
-##### **AWS**
-
-AWS is cloud computing services provided by Amazon Web Services, Inc. (US).  
-Privacy Policy: <http://www.amazon.com/gp/help/customer/display.html?nodeId=468496>
 
 ##### **Adjust**
 
 Adjust is analytics service provided by Adjust GmbH (Germany)  
 Privacy Policy: <https://www.adjust.com/privacy-policy/>
 
+##### **AppFigures**
+
+AppFigures is an analytics service provided by AppFigures, Inc. (US).  
+Privacy Policy: <https://appfigures.com/privacy>
+
+##### **AWS**
+
+AWS is cloud computing services provided by Amazon Web Services, Inc. (US).  
+Privacy Policy: <https://aws.amazon.com/privacy/>
+
+##### **Fabric**
+
+Fabric is an analytics service provided by Google Inc. (US)  
+Privacy Policy: <https://policies.google.com/privacy>
+
 ##### **Facebook Ads conversion**
 
-Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. (US) that connects data from the Facebook advertising network with actions performed on this Application.  
+Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. (US) that connects data from the Facebook advertising network with actions performed on the Services.  
+Privacy Policy: <https://www.facebook.com/about/privacy/>
+
+##### **Facebook Analytics**
+
+Facebook Analytics is an analytics tool provided by Facebook, Inc. (US) that may collect or receive information from our apps and other apps and use that information to provide measurement services.  
 Privacy Policy: <https://www.facebook.com/about/privacy/>
 
 ##### **Firebase**
 
-Firebase is analytics service provided by Google Inc. (US)  
+Firebase is an analytics service provided by Google Inc. (US)  
 You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <http://www.google.com/intl/en/policies/privacy/>
-
-##### **Fabric**
-
-Fabric is analytics service provided by Google Inc. (US)  
-Privacy Policy: <https://try.crashlytics.com/terms/privacy-policy.pdf>
 
 ##### **Flurry Analytics**
 
-Flurry Analytics service is provided by Yahoo! Inc. (US)  
-You can opt-out from Flurry Analytics service to prevent Flurry Analytics from using and sharing your information by visiting the Flurry's Opt-out page: <https://dev.flurry.com/secure/optOut.do>  
-Privacy Policy: <https://policies.yahoo.com/us/en/yahoo/privacy/policy/index.htm>
-
-##### **GameAnalytics**
-
-GameAnalytics is an analytics platform provided by GameAnalytics ApS (Denmark).  
-Privacy Policy: <https://gameanalytics.com/privacy>
+Flurry Analytics service is provided by Flurry, Inc. which is owned by Verizon.  
+Privacy Policy: <https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/index.html>
 
 ##### **Google reCAPTCHA**
 
 Google reCAPTCHA is a spam protection service provided by Google LLC. (US)  
-It is primarily used to distinguish whether an input is made by a natural person or abusive by automated processing. The service includes sending data required by Google for the reCAPTCHA service to Google. Additional information about Google reCAPTCHA and Google's privacy policy can be found at: <https://policies.google.com/privacy>.
+It is primarily used to distinguish whether an input is made by a natural person or abusive by automated processing. The service includes sending data required by Google for the reCAPTCHA service to Google. Additional information about Google reCAPTCHA and Google's privacy policy can be found at <https://policies.google.com/privacy>.
