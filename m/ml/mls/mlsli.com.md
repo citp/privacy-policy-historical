@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlsli.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507120135id_/https%3A//www.mlsli.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsli.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221232609id_/https%3A//www.mlsli.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | MLSLI.com - Long Island Real Estate
 
