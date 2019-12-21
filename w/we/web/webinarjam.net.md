@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webinarjam.net privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615060319id_/https%3A//www.genesisdigital.co/_legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinarjam.net privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221154151id_/https%3A//www.genesisdigital.co/_legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Genesis Digital | Privacy Policy
 
@@ -141,7 +141,7 @@ The Sites, software, products, services, and communications may contain links to
 
 On or before May 25th, 2018 Genesis Digital will be a fully compliant Processor of Personal Data under the GDPR. If you have any questions about your ability to use our software platforms in the EU or with regard to your EU customer’s data, feel free to contact our Data Protection Officer, Richelo Killian [richelo@genesisdigital.co] to discuss, or request a copy of our Data Processing Addendum to our EULA.
 
-You can also see our general statements regarding the GDPR and our compliance [here: ](https://web.archive.org/web/20190615060319id_/https%3A//www.genesisdigital.co/_legal/gdpr.php)
+You can also see our general statements regarding the GDPR and our compliance [here: ](https://web.archive.org/web/20191221154151id_/https%3A//www.genesisdigital.co/_legal/gdpr.php)
 
 ### **Changes to this Privacy Policy and Privacy Questions**
 
