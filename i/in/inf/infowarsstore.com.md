@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infowarsstore.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421163034id_/https%3A//www.infowarsstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infowarsstore.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221175952id_/https%3A//www.infowarsstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -430,11 +430,11 @@ The GDPR provides EU data subjects with certain rights regarding their personal 
 
 
 
-You can submit these requests by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e185918ea18793848492918484828992989295848c92cf828e8c) or our postal address provided below.  We may request specific information from you to help us confirm your identity prior to processing your request.  Applicable law may require or permit us to decline your request.  If we decline your request, we will tell you why, subject to legal restrictions.  If you would like to submit a complaint about our use of your personal data or our response to your requests regarding your personal data, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e2a3e210e283c2b2b3d3e2b2b2d263d373d3a2b233d602d2123) or submit a complaint to the data protection regulator in your jurisdiction.  You can find information about your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+You can submit these requests by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9ddc9d6f9dfcbdcdccac9dcdcdad1cac0cacddcd4ca97dad6d4) or our postal address provided below.  We may request specific information from you to help us confirm your identity prior to processing your request.  Applicable law may require or permit us to decline your request.  If we decline your request, we will tell you why, subject to legal restrictions.  If you would like to submit a complaint about our use of your personal data or our response to your requests regarding your personal data, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4226322d022430272731322727212a313b3136272f316c212d2f) or submit a complaint to the data protection regulator in your jurisdiction.  You can find information about your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
 **How to Contact Us**
 
-Free Speech Systems can be contacted via e-mail sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0561756a456377606076756060666d767c76716068762b666a68) or at the following address:
+Free Speech Systems can be contacted via e-mail sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cda9bda28dabbfa8a8bebda8a8aea5beb4beb9a8a0bee3aea2a0) or at the following address:
 
 Free Speech Systems LLC
 
