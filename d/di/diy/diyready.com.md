@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328153427id_/https%3A//diyprojects.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221184127id_/https%3A//diyprojects.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy DIY Projects Craft Ideas & How To’s for Home Decor with Videos
 
@@ -79,7 +79,7 @@ DIYProjects.com is dedicated to ensuring compliance with the ‘Can-Spam Act’,
 
 To ensure compliance with the Can-Spam Act, DIYProjects.com has implemented the following guidelines for email delivery:
 
-  1. All emails sent to you by DIY Projects will clearly identify DIY Projects as the sender. FROM / SENDER: [[email protected]](https://diyprojects.com/cdn-cgi/l/email-protection)  (NOTE: The actual sender will alter from department to department, but all from addresses will end with @DIYProjects.com ).
+  1. All emails sent to you by DIY Projects will clearly identify DIY Projects as the sender. FROM / SENDER: someone@DIYProjects.com  (NOTE: The actual sender will alter from department to department, but all from addresses will end with @DIYProjects.com ).
   2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
   3. Any email from DIYProjects.com will include the ability to unsubscribe from future email messages.
   4. Unsubscribing will ensure the customer is removed from ALL lists at DIY Projects; this excludes customer service emails regarding the processing and status of a current product.
