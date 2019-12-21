@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulbagarden.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232011id_/https%3A//bulbapedia.bulbagarden.net/wiki/Bulbapedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbagarden.net privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221063133id_/https%3A//bulbapedia.bulbagarden.net/wiki/Bulbapedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Bulbapedia:Privacy policy - Bulbapedia, the community-driven Pokémon encyclopedia
 
@@ -164,6 +164,10 @@ Google Analytics is a web analytics service offered by Google that tracks and re
 
 Bulbagarden may use third-party Service Providers to show advertisements to you when you visit our Web site, to help support and maintain our Service. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp). 
 
+#### Appodeal
+
+Appodeal, as a third party vendor, serves advertisements to users on our official mobile app. For more information on the privacy practices of Appodeal, please visit the Appodeal privacy policy web page: <https://www.appodeal.com/home/privacy-policy/>
+
 #### Google AdSense & DoubleClick Cookie
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet. You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
@@ -178,7 +182,7 @@ Bulbagarden uses remarketing services to advertise on third party websites to yo
 
 ### 
 
-The collection, use, and disclosure of personal data when you use social media channels associated with Bulbagarden, including but not limited to the Bulbagarden Discord server (<https://discord.gg/bulbagarden>), Facebook page (<https://www.facebook.com/Bulbagarden>), Twitch channel (<https://www.twitch.tv/bulbagarden>), Youtube channel (<https://www.youtube.com/user/Bulbagarden>), Twitter accounts (<https://twitter.com/Bulbagarden>, <https://twitter.com/Bulbapedia>, <https://twitter.com/Bulbanews>, <https://twitter.com/Bulbanewsnow>), and Tumblr page (<https://bulbagarden.tumblr.com/>), are subject to the privacy policies of those respective platforms. Bulbagarden is not responsible for the privacy policies third-party Service Providers. 
+The collection, use, and disclosure of personal data when you use social media channels associated with Bulbagarden, including but not limited to the Bulbagarden Discord server (<https://discord.gg/bulbagarden>), Facebook page (<https://www.facebook.com/Bulbagarden>), Twitch channel (<https://www.twitch.tv/bulbagarden>), Youtube channel (<https://www.youtube.com/user/Bulbagarden>), Twitter accounts (<https://twitter.com/Bulbagarden>, <https://twitter.com/Bulbapedia>, <https://twitter.com/Bulbanews>, <https://twitter.com/Bulbanewsnow>), and Tumblr page (<https://bulbagarden.tumblr.com/>), are subject to the privacy policies of those respective platforms. Bulbagarden is not responsible for the privacy policies of third-party Service Providers. 
 
 ## Links to Other Sites
 
