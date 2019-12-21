@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auvik.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616123714id_/https%3A//www.auvik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auvik.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221111456id_/https%3A//www.auvik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Auvik Networks
 
