@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunt4freebies.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511171405id_/https%3A//hunt4freebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunt4freebies.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221054928id_/https%3A//hunt4freebies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunt4Freebies
 
@@ -75,7 +75,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.www.hunt4freebies.com  
-mike@www.hunt4freebies.com
+www.hunt4freebies.com  
+mike@hunt4freebies.com
 
 You can Also Follow Us On **[Facebook](http://www.facebook.com/Hunt4Freebies)** , **[Twitter](http://twitter.com/hunt4freebies)** , **[Pinterest](http://pinterest.com/hunt4freebies/)** and **[Google+](https://plus.google.com/107140567143652888131/?prsrc=3)** for 24 hour freebie updates and more!
