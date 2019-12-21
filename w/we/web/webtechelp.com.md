@@ -1,50 +1,15 @@
-> *The following text is extracted and transformed from the webtechelp.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208205000id_/http%3A//www.webtechelp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtechelp.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221052932id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WebTecHelp - Design Blog for Developers, Designers and Bloggers.
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-This Privacy Policy governs the manner in which WebTecHelp collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.webtechelp.net/> website (“Site”). This privacy policy applies to the Site and all products and services offered by WebTecHelp. **Personal identification information** We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+###  What’s in a Domain Name? 
 
-**Non-personal identification information**
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+### DomainMarket.com Privacy Policy
 
-**Web browser cookies**
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-**How we use collected information**
-
-WebTecHelp may collect and use Users personal information for the following purposes:
-
-  * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _– To send periodic emails_  
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
-
-
-
-**How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-**Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
-**Third party websites**
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
-
-**Advertising**
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-**Changes to this privacy policy**
-
-WebTecHelp has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e2c4c19ad5d1d9c4c1dbd5d9c4c19ad481d9c4c1d3d2d3d9c4c19ad5d1d9c4c1d4d6d9c4c19ad4d6d9c4c19ad484d98fc4c1dbd5d98bc4c1d3d3d2d9c4c1d3d2dbd9c4c19ad4d3d9c4c1d3d3d6d9c4c19ad480d9c4c1d3d2d3d9c4c19ad5d6d9c4c1d6d4d9818dc4c1d3d2dbd9c4c19ad087d9). 
