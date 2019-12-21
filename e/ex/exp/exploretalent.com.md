@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925093724id_/http%3A//www.exploretalent.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221074630id_/https%3A//www.exploretalent.com/about/privacy) for the most accurate reproduction.*
 
 # Explore Talent
 
