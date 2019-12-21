@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidimovie.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113010233id_/https%3A//www.vidimovie.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidimovie.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221120409id_/https%3A//www.vidimovie.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vidimovie
 
