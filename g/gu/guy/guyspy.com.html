@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the guyspy.com privacy policy that was archived on 2019-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190620201918id_/https%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guyspy.com privacy policy that was archived on 2019-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191221082450id_/https%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js "><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -11,7 +11,7 @@
         <link rel="canonical" href="http://www.guyspy.com/privacy-policy/">
         
 
-        <link rel="stylesheet" href="https://cdn.guyspy.com/static/web/css/main.css?bust=9de9cfa">
+        <link rel="stylesheet" href="https://cdn.guyspy.com/static/web/css/main.css?bust=ec34677">
         <!--[if lt IE 10]>
         <link rel="stylesheet" href="https://cdn.guyspy.com/static/web/css/ie.css">
         <![endif]-->
@@ -30,7 +30,7 @@
 
 
 
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/8200.js?438989" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//widget.uservoice.com/V0zd0cYpIAWpOQsGS9Qw.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/8200.js?439466" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//widget.uservoice.com/V0zd0cYpIAWpOQsGS9Qw.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 
     // Google Analytics dimensions
     var dimensions = {};
@@ -99,29 +99,56 @@
     
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-    var _cc='9de9cfa';
+    var _cc='ec34677';
     var _jscdn='https://cdn.guyspy.com';
 </script>
 
 
         
         
-            <script src="https://cdn.guyspy.com/api/jsi18n.js?language=th&amp;bust=9de9cfa"></script>
-        
 
-        <script src="https://cdn.guyspy.com/static/web/core_js/components/requirejs/require.js?bust=9de9cfa"></script>
+        <script src="https://cdn.guyspy.com/static/web/core_js/components/requirejs/require.js?bust=ec34677"></script>
         
             <script>
-                require(['https://cdn.guyspy.com/static/web/core_js/modules/domReady.js?bust=9de9cfa'], function(domReady) {
+                require(['https://cdn.guyspy.com/static/web/core_js/modules/domReady.js?bust=ec34677'], function(domReady) {
                     domReady(function() {
                         // Load common code that includes config, then load the app logic for this page.
-                        require(['https://cdn.guyspy.com/static/web/js/common.js?bust=9de9cfa'],
+                        require(['https://cdn.guyspy.com/static/web/js/common.js?bust=ec34677'],
                             function (common) {
                                 // OneSignal custom logic
                                 require(["main/onesignalCustomization"]);
                                 // GTM must be inserted only after all necessary changes were made
                                 // to `dimensions` and `dataLayer`.
                                 require(["main/googleTagManagerInsertion"]);
+                                $(document).ready(() => {
+                                    const $interstitialModal = $('#interstitial-modal');
+                                    const $interstitialContent = $('#interstitial-content');
+                                    $('.modal-close').on('click', (event) => {
+                                        event.preventDefault();
+                                        const uid = '';
+                                        if (!$interstitialModal.hasClass('message')) {
+                                            $.ajax({
+                                                url: '/v2/interstitial/read',
+                                                method: 'post',
+                                                data: {uid: uid},
+                                                success: (response) => {
+                                                    if (response.success === true) {
+                                                        $interstitialModal.addClass('interstitial-modal-hide');
+                                                    }
+                                                }
+                                            })
+                                        } else {
+                                            $interstitialModal.removeClass('message');
+                                            $interstitialModal.addClass('interstitial-modal-hide');
+                                        }
+                                    });
+                                    $(document).on('click', '.show-interstitial', function(e) {
+                                        const content = $(e.currentTarget).html();
+                                        $interstitialContent.html(content);
+                                        $interstitialModal.addClass('message');
+                                        $interstitialModal.removeClass('interstitial-modal-hide');
+                                    })
+                                });
 
                                 
     require(['main/single_page']);
@@ -133,12 +160,12 @@
         
 
         <!-- build:js(./) /static/web/components/modernizr/modernizr.js -->
-        <script src="https://cdn.guyspy.com/static/web/core_js/components/modernizr/modernizr.js?bust=9de9cfa"></script>
+        <script src="https://cdn.guyspy.com/static/web/core_js/components/modernizr/modernizr.js?bust=ec34677"></script>
         <!-- endbuild -->
 
     </head>
 
-    <body class="layout-default region-content-padding lang-th gender-male hover">
+    <body class="layout-default region-content-padding lang-en gender-male hover">
         <!--[if lt IE 9]>
             <div id="browser-upgrade">
                 <div class="inner flag-object">
@@ -146,8 +173,8 @@
                         <i class="icon-alert-large"></i>
                     </div>
                     <div class="flag-content middle">
-                         คุณใช้เบราว์เซอร์ที่ <strong>เก่าเกินไป</strong> 
- กรุณา<a href="http://browsehappy.com/">อัพเกรดเบราว์เซอร์ของคุณ</a> เพื่อรับประสบการณ์ที่ดียิ่งขึ้น 
+                                                You are using an <strong>outdated</strong> browser.
+                        Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.                        
                     </div>
                 </div>
             </div>
@@ -162,7 +189,7 @@
         <ul>
             <li class="nav-item lang-picker" aria-haspopup="true">
                 <a href="#lang-picker">
-                    ภาษาไทย
+                    English
                     <i class="icon-arrow-down-small-white"></i></a>
                 <ul>
                     
@@ -177,7 +204,7 @@
                         </li>
                     
                         <li class="nav-item">
-                            <a href="/api/set-lang/?lang=pt-br&amp;redir=/privacy-policy/">
+                            <a href="/api/set-lang/?lang=pt&amp;redir=/privacy-policy/">
                                 Português</a>
                         </li>
                     
@@ -226,48 +253,48 @@
                                         'label': 'Offcanvas Menu (nav item)'
                                 }})}
                             ">
-                        สมัคร GuySpy
+                        Join GuySpy
                     </a>
                 </li>
-                <li class="nav-item"><a href="/login/">ลงชื่อเข้าใช้</a></li>
-                <li class="nav-item"><a href="/">โฮม</a></li>
+                <li class="nav-item"><a href="/login/">Login</a></li>
+                <li class="nav-item"><a href="/">Home</a></li>
             
-            <li class="nav-item"><a href="/find-guys/">ค้นหาชายหนุ่ม</a>
-            </li><li class="nav-item"><a href="/search-by-name">ค้นหาจากชื่อผู้ใช้งาน</a>
+            <li class="nav-item"><a href="/find-guys/">Find Guys</a>
+            </li><li class="nav-item"><a href="/search-by-name">Search by Username</a>
             
                 </li><li class="nav-item">
-                    <a href="/blog/">บล็อก</a>
+                    <a href="/blog/">Blog</a>
                     <ul>
-                        <li class="nav-item"><a href="/blog/">บล็อกล่าสุด</a></li>
+                        <li class="nav-item"><a href="/blog/">Latest Blogs</a></li>
 
                         
-                            <li class="nav-item"><a href="/gay-events-and-travel/">อีเวนท์และการเดินทาง</a></li>
+                            <li class="nav-item"><a href="/gay-events-and-travel/">Events &amp; Travel</a></li>
                         
-                            <li class="nav-item"><a href="/gay-celebrities-and-gossip/">คนดังและซุบซิบ</a></li>
+                            <li class="nav-item"><a href="/gay-celebrities-and-gossip/">Celebrities &amp; Gossip</a></li>
                         
-                            <li class="nav-item"><a href="/gay-health-and-fitness/">สุขภาพและฟิตเนส</a></li>
+                            <li class="nav-item"><a href="/gay-health-and-fitness/">Health &amp; Fitness</a></li>
                         
-                            <li class="nav-item"><a href="/gay-entertainment/">ความบันเทิง</a></li>
+                            <li class="nav-item"><a href="/gay-entertainment/">Entertainment</a></li>
                         
-                            <li class="nav-item"><a href="/gay-news-and-politics/">ข่าวและการเมืองเกย์</a></li>
+                            <li class="nav-item"><a href="/gay-news-and-politics/">Gay News &amp; Politics</a></li>
                         
-                            <li class="nav-item"><a href="/gay-dating/">เกย์เดท</a></li>
+                            <li class="nav-item"><a href="/gay-dating/">Gay Dating</a></li>
                         
-                            <li class="nav-item"><a href="/contests/">ประกวด</a></li>
+                            <li class="nav-item"><a href="/contests/">Contests</a></li>
                         
-                            <li class="nav-item"><a href="/gay-culture-and-identity/">วัฒนธรรมและอัตลักษณ์</a></li>
+                            <li class="nav-item"><a href="/gay-culture-and-identity/">Culture &amp; Identity</a></li>
                         
-                            <li class="nav-item"><a href="/gay-porn-and-sex/">หนังโป๊และเกย์เซ็กซ์</a></li>
+                            <li class="nav-item"><a href="/gay-porn-and-sex/">Gay Porn &amp; Sex</a></li>
                         
 
-                        <li class="nav-item"><a href="/categories/">ดูทั้งหมด</a></li>
+                        <li class="nav-item"><a href="/categories/">View All</a></li>
                         
                     </ul>
                 </li>
             
-            <li class="nav-item"><a href="/chat/">แชท</a></li>
+            <li class="nav-item"><a href="/chat/">Chat</a></li>
             
-                <li class="nav-item"><a href="/gay-cruise/">มองหา</a></li>
+                <li class="nav-item"><a href="/gay-cruise/">Cruise</a></li>
             
         </ul>
     </nav>
@@ -303,9 +330,9 @@
                                                     'label': 'Mobile Header (button)'
                                             }})}
                                         ">
-                                    สมัคร GuySpy</a>
+                                    Join GuySpy</a>
                             
-                            <a class="btn-primary small" href="/login/">ลงชื่อเข้าใช้</a>
+                            <a class="btn-primary small" href="/login/">Login</a>
                         </div>
                     
                 </div>
@@ -322,20 +349,20 @@
                             
 <li class="nav-item nav-item-search nav-dd-container">
     <a id="nav-dd-trigger-search" class="nav-dd-trigger nav-dd-trigger-search nav-dd-menu-trigger" data-dd-id="search">
-        ค้นหา
+        Search
         <i class="icon-search-tiny"></i>
     </a>
     <nav id="nav-search" class="nav-dd nav-dd-search" data-dd-trigger-id="search">
         <form id="search-form" class="search-form" action="/search-by-name" method="post">
-            <label>ค้นหา</label>
-            <input type="text" name="nq" value="" placeholder="ใส่ชื่อผู้ใช้" autocomplete="off">
+            <label>Search</label>
+            <input type="text" name="nq" value="" placeholder="Enter Username" autocomplete="off">
             <button type="submit"><i class="icon-search-tiny-grey"></i></button>
         </form>
 
         <div class="results hide"></div>
 
         <div class="empty hide">
-            ไม่พบผลลัพธ์ที่ตรงกัน
+            No users matched
         </div>
     </nav>
 </li>
@@ -344,7 +371,7 @@
                             
 <li class="nav-item nav-item-lang-picker nav-dd-container">
     <a class="nav-dd-trigger nav-dd-trigger-lang nav-dd-menu-trigger" data-dd-id="lang">
-        ภาษาไทย
+        English
         <i class="pip"></i>
     </a>
     <nav id="nav-lang" class="nav-dd nav-dd-menu nav-dd-lang" data-dd-trigger-id="lang">
@@ -359,7 +386,7 @@
                         Español</a>
             
                 </li><li>
-                    <a href="/api/set-lang/?lang=pt-br&amp;redir=/privacy-policy/">
+                    <a href="/api/set-lang/?lang=pt&amp;redir=/privacy-policy/">
                         Português</a>
             
                 </li><li>
@@ -396,51 +423,51 @@
                         
                         <ul class="nav-primary-menu nav-group-links">
                             <li class="nav-item">
-                                <a class="findguys" href="/find-guys/">ค้นหาชายหนุ่ม</a></li>
+                                <a class="findguys" href="/find-guys/">Find Guys</a></li>
 
                             
                             
 
     <li class="nav-item nav-dd-container">
         <a class="blog nav-dd-menu-trigger nav-dd-trigger" href="/blog/" data-dd-id="blog">
-            บล็อก
+            Blog
             <i class="icon-arrow-down-small-white"></i>
         </a>
         <nav id="nav-blog" class="nav-dd nav-dd-menu nav-dd-blog" data-dd-trigger-id="blog">
             <ul class="nav-dd-list">
-                <li><a href="/blog/">บล็อกล่าสุด</a></li>
+                <li><a href="/blog/">Latest Blogs</a></li>
 
                 
-                    <li><a href="/gay-events-and-travel/">อีเวนท์และการเดินทาง</a></li>
+                    <li><a href="/gay-events-and-travel/">Events &amp; Travel</a></li>
                 
-                    <li><a href="/gay-celebrities-and-gossip/">คนดังและซุบซิบ</a></li>
+                    <li><a href="/gay-celebrities-and-gossip/">Celebrities &amp; Gossip</a></li>
                 
-                    <li><a href="/gay-health-and-fitness/">สุขภาพและฟิตเนส</a></li>
+                    <li><a href="/gay-health-and-fitness/">Health &amp; Fitness</a></li>
                 
-                    <li><a href="/gay-entertainment/">ความบันเทิง</a></li>
+                    <li><a href="/gay-entertainment/">Entertainment</a></li>
                 
-                    <li><a href="/gay-news-and-politics/">ข่าวและการเมืองเกย์</a></li>
+                    <li><a href="/gay-news-and-politics/">Gay News &amp; Politics</a></li>
                 
-                    <li><a href="/gay-dating/">เกย์เดท</a></li>
+                    <li><a href="/gay-dating/">Gay Dating</a></li>
                 
-                    <li><a href="/contests/">ประกวด</a></li>
+                    <li><a href="/contests/">Contests</a></li>
                 
-                    <li><a href="/gay-culture-and-identity/">วัฒนธรรมและอัตลักษณ์</a></li>
+                    <li><a href="/gay-culture-and-identity/">Culture &amp; Identity</a></li>
                 
-                    <li><a href="/gay-porn-and-sex/">หนังโป๊และเกย์เซ็กซ์</a></li>
+                    <li><a href="/gay-porn-and-sex/">Gay Porn &amp; Sex</a></li>
                 
             </ul>
             <ul class="nav-dd-list special">
                 <li>
-                    <a href="/categories/"><span>ดูทั้งหมด</span><i class="icon-arrow-right-small-white"></i></a>
+                    <a href="/categories/"><span>View All</span><i class="icon-arrow-right-small-white"></i></a>
                 </li>
             </ul>
         </nav>
     </li>
 
 
-                            <li class="nav-item"><a class="chat" href="/chat/">แชท</a></li>
-                            <li class="nav-item"><a class="cruise" href="/gay-cruise/">มองหา</a></li>
+                            <li class="nav-item"><a class="chat" href="/chat/">Chat</a></li>
+                            <li class="nav-item"><a class="cruise" href="/gay-cruise/">Cruise</a></li>
                             
 
                             <li class="divider"></li>
@@ -454,22 +481,22 @@
     <nav id="nav-social" class="nav-dd nav-dd-menu nav-dd-social" data-dd-trigger-id="social">
         <ul class="nav-dd-list">
             <li>
-                <a href="http://twitter.com/guyspyapp" target="_blank" title="GuySpy บน Twitter">
+                <a href="http://twitter.com/guyspyapp" target="_blank" title="GuySpy on Twitter">
                     <i class="icon-social-twitter"></i></a></li>
             <li>
-                <a href="http://www.facebook.com/guyspy.gay.dating.apps" target="_blank" title="GuySpy บน Facebook">
+                <a href="http://www.facebook.com/guyspy.gay.dating.apps" target="_blank" title="GuySpy on Facebook">
                     <i class="icon-social-facebook"></i></a></li>
             <li>
-                <a href="http://www.youtube.com/user/guyspyapp" target="_blank" title="GuySpy บน YouTube">
+                <a href="http://www.youtube.com/user/guyspyapp" target="_blank" title="GuySpy on YouTube">
                     <i class="icon-social-youtube"></i></a></li>
             <li>
-                <a href="https://plus.google.com/+GuyspyLife" target="_blank" title="GuySpy บน Google Plus">
+                <a href="https://plus.google.com/+GuyspyLife" target="_blank" title="GuySpy on Google Plus">
                     <i class="icon-social-gplus"></i></a></li>
             <li>
-                <a href="http://instagram.com/guyspyapp" target="_blank" title="GuySpy บน Instagram">
+                <a href="http://instagram.com/guyspyapp" target="_blank" title="GuySpy on Instagram">
                     <i class="icon-social-instagram"></i></a></li>
             <li>
-                <a href="http://guyspyapp.tumblr.com/" target="_blank" title="GuySpy บน Tumblr">
+                <a href="http://guyspyapp.tumblr.com/" target="_blank" title="GuySpy on Tumblr">
                     <i class="icon-social-tumblr"></i></a></li>
         </ul>
     </nav>
@@ -482,15 +509,15 @@
                             
                                 
 <li class="nav-item nav-dd-container hide-for-medium-down">
-    <a id="login-btn" class="nav-dd-menu-trigger nav-dd-trigger" data-dd-id="login" href="/login/" title="ลงชื่อเข้าใช้ GuySpy">
-        ลงชื่อเข้าใช้
+    <a id="login-btn" class="nav-dd-menu-trigger nav-dd-trigger" data-dd-id="login" href="/login/" title="Login to GuySpy">
+        Login
         <i class="icon-arrow-down-small-white"></i>
     </a>
     <div id="popup-login" class="nav-dd nav-dd-menu nav-dd-login">
         
 
     <form class="single-column login-form-ajax" action="https://www.guyspy.com/login/" method="post">
-        <input type="hidden" name="csrfmiddlewaretoken" value="v0RGo9S3HuD8S7wKeznTWQiES5fkqVJF">
+        <input type="hidden" name="csrfmiddlewaretoken" value="KWUp4gUrAuVEp8YLCAUgB4WqVkzPZ3fF">
 
         
             <input id="id_redir" name="redir" type="hidden" value="/privacy-policy/">
@@ -504,7 +531,7 @@
             
                 <li>
                     <div class="control-group">
-                        <label>ชื่อผู้ใช้หรืออีเมล</label>
+                        <label>Username or E-Mail</label>
                         <div class="controls">
                             <input id="id_username_or_email" name="username_or_email" type="text">
                         </div>
@@ -513,7 +540,7 @@
             
                 <li>
                     <div class="control-group">
-                        <label>พาสเวิร์ด</label>
+                        <label>Password</label>
                         <div class="controls">
                             <input id="id_password" name="password" type="password">
                         </div>
@@ -522,14 +549,14 @@
             
             <li class="clearfix">
                 <a href="/account-recover/" class="forgot-pass-link">
-                    ลืมพาสเวิร์ด?
+                    Forgot your password?
                 </a>
             </li>
         </ul>
         <ul class="nav-dd-list special">
             <li>
                 <button class="nav-dd-btn form-login-submit">
-                    ลงชื่อเข้าใช้
+                    Login
                     <i class="dd-icon-login right"></i>
                 </button>
             </li>
@@ -540,7 +567,7 @@
     </div>
 </li>
                                 <li class="nav-item hide-for-medium-down">
-                                    <a href="/register/" title="สมัคร GuySpy" onclick="
+                                    <a href="/register/" title="Join GuySpy" onclick="
                                             // Google Tag Manager
                                             if(typeof(dataLayer) !== 'undefined') {
                                                 dataLayer.push({
@@ -551,7 +578,7 @@
                                                         'label': 'Primary Menu (nav item)'
                                                 }})}
                                             ">
-                                        สมัคร GuySpy</a>
+                                        Join GuySpy</a>
                                 </li>
                             
                         </ul>
@@ -577,11 +604,11 @@
             <div class="inner">
                 <img class="avatar" src="https://cdn.guyspy.com<%= profileimage %>" alt="">
                 <div class="content">
-                    วิดีโอแชทจาก <%= username %>
+                    Video chat from <%= username %>.
                 </div>
                 <ul>
-                    <li><a href="#" class="decline" data-uid="<%= uid %>" data-accept="0" title="ปฏิเสธ"><i class="icon-button-decline"></i></a></li>
-                    <li><a href="<%= targeturl %>" data-uid="<%= uid %>" data-accept="1" title="ยอมรับ"><i class="icon-button-accept"></i></a></li>
+                    <li><a href="#" class="decline" data-uid="<%= uid %>" data-accept="0" title="Decline"><i class="icon-button-decline"></i></a></li>
+                    <li><a href="<%= targeturl %>" data-uid="<%= uid %>" data-accept="1" title="Accept"><i class="icon-button-accept"></i></a></li>
                 </ul>
             </div>
             <div class="panel-shadow"></div>
@@ -739,13 +766,13 @@
 
     <section id="block-about-guyspy" class="block block-about-guyspy panel">
         <header>
-            <h4>GuySpy คืออะไร?</h4>
+            <h4>What is GuySpy?</h4>
         </header>
         <div class="content">
             <p>
-                 GuySpy คือโซเชียลเน็ตเวิร์กออนไลน์สำหรับชายรักชายที่เติบโตเร็วที่สุด สมัครฟรีและค้นหาชายหนุ่มตัวจริงเสียงจริงกว่าร้อยคนใกล้ๆ คุณ  
+                                GuySpy is the fastest growing online social network for men who like men. Sign up for free &amp; browse hundreds of real, local guys near you.                
             </p>
-            <a class="btn-primary" href="/register/">สมัครเดี๋ยวนี้!</a>
+            <a class="btn-primary" href="/register/">Register Now!</a>
         </div>
     </section>
 
@@ -754,39 +781,39 @@
         
 <section class="block block-article-categories">
     <header>
-        <h2 class="block-title">หมวดหมู่</h2>
+        <h2 class="block-title">Categories</h2>
     </header>
     <ul class="article-categories-list">
         
             <li>
-                <a href="/gay-events-and-travel/"><span class="blog-tag blog-tag-bullet-small gay-events-and-travel"></span>อีเวนท์และการเดินทาง</a></li>
+                <a href="/gay-events-and-travel/"><span class="blog-tag blog-tag-bullet-small gay-events-and-travel"></span>Events &amp; Travel</a></li>
         
             <li>
-                <a href="/gay-celebrities-and-gossip/"><span class="blog-tag blog-tag-bullet-small gay-celebrities-and-gossip"></span>คนดังและซุบซิบ</a></li>
+                <a href="/gay-celebrities-and-gossip/"><span class="blog-tag blog-tag-bullet-small gay-celebrities-and-gossip"></span>Celebrities &amp; Gossip</a></li>
         
             <li>
-                <a href="/gay-health-and-fitness/"><span class="blog-tag blog-tag-bullet-small gay-health-and-fitness"></span>สุขภาพและฟิตเนส</a></li>
+                <a href="/gay-health-and-fitness/"><span class="blog-tag blog-tag-bullet-small gay-health-and-fitness"></span>Health &amp; Fitness</a></li>
         
             <li>
-                <a href="/gay-entertainment/"><span class="blog-tag blog-tag-bullet-small gay-entertainment"></span>ความบันเทิง</a></li>
+                <a href="/gay-entertainment/"><span class="blog-tag blog-tag-bullet-small gay-entertainment"></span>Entertainment</a></li>
         
             <li>
-                <a href="/gay-news-and-politics/"><span class="blog-tag blog-tag-bullet-small gay-news-and-politics"></span>ข่าวและการเมืองเกย์</a></li>
+                <a href="/gay-news-and-politics/"><span class="blog-tag blog-tag-bullet-small gay-news-and-politics"></span>Gay News &amp; Politics</a></li>
         
             <li>
-                <a href="/gay-dating/"><span class="blog-tag blog-tag-bullet-small gay-dating"></span>เกย์เดท</a></li>
+                <a href="/gay-dating/"><span class="blog-tag blog-tag-bullet-small gay-dating"></span>Gay Dating</a></li>
         
             <li>
-                <a href="/contests/"><span class="blog-tag blog-tag-bullet-small contests"></span>ประกวด</a></li>
+                <a href="/contests/"><span class="blog-tag blog-tag-bullet-small contests"></span>Contests</a></li>
         
             <li>
-                <a href="/gay-culture-and-identity/"><span class="blog-tag blog-tag-bullet-small gay-culture-and-identity"></span>วัฒนธรรมและอัตลักษณ์</a></li>
+                <a href="/gay-culture-and-identity/"><span class="blog-tag blog-tag-bullet-small gay-culture-and-identity"></span>Culture &amp; Identity</a></li>
         
             <li>
-                <a href="/gay-porn-and-sex/"><span class="blog-tag blog-tag-bullet-small gay-porn-and-sex"></span>หนังโป๊และเกย์เซ็กซ์</a></li>
+                <a href="/gay-porn-and-sex/"><span class="blog-tag blog-tag-bullet-small gay-porn-and-sex"></span>Gay Porn &amp; Sex</a></li>
         
         <li>
-            <a class="viewall" href="/categories/">ดูหมวดหมู่ทั้งหมด<i class="icon icon-arrow-right-small-white"></i></a></li>
+            <a class="viewall" href="/categories/">View All Categories<i class="icon icon-arrow-right-small-white"></i></a></li>
     </ul>
 </section>
     
@@ -813,31 +840,31 @@
             </div>
             <div class="small-1 large-1 columns">&nbsp;</div>
             <div class="small-8 large-4 columns">
-                <h5>สมัครเข้าร่วมกับเราบน</h5>
+                <h5>Join Us On</h5>
                 
 <ul class="social-icons small-icons">
     <li>
-        <a href="http://twitter.com/guyspyapp" target="_blank" title="GuySpy บน Twitter">
+        <a href="http://twitter.com/guyspyapp" target="_blank" title="GuySpy on Twitter">
             <i class="icon-social-twitter"></i></a></li>
     <li>
-        <a href="http://www.facebook.com/guyspy.gay.dating.apps" target="_blank" title="GuySpy บน Facebook">
+        <a href="http://www.facebook.com/guyspy.gay.dating.apps" target="_blank" title="GuySpy on Facebook">
             <i class="icon-social-facebook"></i></a></li>
     <li>
-        <a href="http://www.youtube.com/user/guyspyapp" target="_blank" title="GuySpy บน YouTube">
+        <a href="http://www.youtube.com/user/guyspyapp" target="_blank" title="GuySpy on YouTube">
             <i class="icon-social-youtube"></i></a></li>
     <li>
-        <a href="http://guyspyapp.tumblr.com/" target="_blank" title="GuySpy บน Tumblr">
+        <a href="http://guyspyapp.tumblr.com/" target="_blank" title="GuySpy on Tumblr">
             <i class="icon-social-tumblr"></i></a></li>
 </ul>
 
-                <h5>ดาวน์โหลดแอปของเรา</h5>
+                <h5>Download Our App</h5>
                 
 <ul class="small-icons app-icons">
     <li>
-        <a href="https://itunes.apple.com/us/app/guyspy-gay-dating-chat-app-for-gay-and-bi-men/id1185069140?ls=1&amp;mt=8" target="_blank" title="GuySpy สำหรับ iOS">
+        <a href="https://itunes.apple.com/us/app/guyspy-gay-dating-chat-app-for-gay-and-bi-men/id1185069140?ls=1&amp;mt=8" target="_blank" title="GuySpy for iOS">
             <i class="icon-app-ios-white"></i></a></li>
     <li>
-        <a href="https://play.google.com/store/apps/details?id=com.ptp.guyspy" target="_blank" title="GuySpy สำหรับแอนดรอยด์">
+        <a href="https://play.google.com/store/apps/details?id=com.ptp.guyspy" target="_blank" title="GuySpy for Android">
             <i class="icon-app-android-white"></i></a></li>
 </ul>
 
@@ -846,7 +873,7 @@
                 <div class="row">
                     <div class="small-8 large-8 columns">
                         <ul>
-                            <li><a href="/about-guy-spy-mobile-dating-apps/">เกี่ยวกับ GuySpy</a></li>
+                            <li><a href="/about-guy-spy-mobile-dating-apps/">About GuySpy</a></li>
                             
                                 <li><a href="/upgrade/" target="_blank" onclick="
                                         // Google Tag Manager
@@ -861,15 +888,15 @@
                                     GuySpy+</a></li>
                             
                             
-                            <li><a href="/advertise-with-guyspy/">โฆษณากับเรา</a></li>
-                            <li><a href="/contact-us/">ติดต่อเรา</a></li>
+                            <li><a href="/advertise-with-guyspy/">Advertise with Us</a></li>
+                            <li><a href="/contact-us/">Contact Us</a></li>
                         </ul>
                     </div>
                     <div class="small-8 large-8 columns">
                         <ul>
-                            <li><a href="/sponsorships/">การสนับสนุน</a></li>
-                            <li><a href="/user-agreement/">ข้อตกลงการใช้งาน</a></li>
-                            <li><a href="/privacy-policy/">นโยบายความเป็นส่วนตัว</a></li>
+                            <li><a href="/sponsorships/">Sponsorships</a></li>
+                            <li><a href="/user-agreement/">User Agreement</a></li>
+                            <li><a href="/privacy-policy/">Privacy Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -881,7 +908,7 @@
             <div class="small-16 large-12 push-4 columns">
                 <div class="copyright">
                     © 2019 GuySpy.<br>
-                    สงวนลิขสิทธิ์
+                    All Rights Reserved.
                 </div>
             </div>
         </div>
@@ -903,43 +930,43 @@
         <form class="form" id="reportuser-profile-form" data-uid="">
             <a class="popup-close-btn" href="#"><i></i></a>
 
-            <h3>รายงานผู้ใช้</h3>
+            <h3>Report User</h3>
             <p>
-                หากผู้ใช้นี้รบกวนในลักษณะใดๆ หรือเพียงอายุไม่ถึงเกณฑ์ แจ้งให้เรารู้ที่นี่
+                If this user is offensive in anyway, or simply not of legal age, here's the place to let us know.
             </p>
 
             <div class="row">
                 <select class="columns" name="category">
-                    <option value="">เลือกประเภทรายงาน</option>
-                    <option value="underage">อายุไม่ผ่านเกณฑ์</option>
-                    <option value="image_violation">ภาพละเมิดข้อกำหนด</option>
-                    <option value="text_violation">ข้อความละเมิด</option>
-                    <option value="offensive_profile">โปรไฟล์ก่อกวน</option>
+                    <option value="">Choose report type</option>
+                    <option value="underage">Underage</option>
+                    <option value="image_violation">Image Violation</option>
+                    <option value="text_violation">Text Violation</option>
+                    <option value="offensive_profile">Offensive Profile</option>
                     <option value="gender_not_match_profile">Gender Does Not Match Profile</option>
-                    <option value="abusive_user">ผู้ใช้ที่ละเมิดข้อบังคับ</option>
-                    <option value="solicitation">การชักชวน</option>
+                    <option value="abusive_user">Abusive User</option>
+                    <option value="solicitation">Solicitation</option>
                     <option value="spam">Spam</option>
-                    <option value="other">อื่นๆ</option>
+                    <option value="other">Other</option>
                 </select>
             </div>
 
             <div class="row">
-                <textarea class="columns" rows="4" name="message" placeholder="ให้ข้อมูลเพิ่มเติมที่คุณคิดว่ามีประโยชน์"></textarea>
+                <textarea class="columns" rows="4" name="message" placeholder="Add additional information you think is helpful."></textarea>
             </div>
 
-            <button class="btn-primary" type="submit">รายงานโปรไฟล์</button>
+            <button class="btn-primary" type="submit">Report Profile</button>
         </form>
         <div class="form stage-success">
             <a class="popup-close-btn" href="#"><i></i></a>
 
-            <h3>รายงานผู้ใช้</h3>
+            <h3>Report User</h3>
 
             <p>
-                ขอบคุณที่สละเวลาแจ้งเรา
+                Thank you for taking the time to report.
             </p>
             <p>
                 
-                 หากคุณต้องการความช่วยเหลือเพิ่มเติม กรุณาอีเมลมาที่ฝ่ายสนับสนุน <a href="/contact-us/">guyspy.com  </a> 
+                                    If you require further assistance, please email <a href="/contact-us/">guyspy.com support</a>                
             </p>
         </div>
 
@@ -1003,6 +1030,15 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 <!-- UserVoice JavaScript SDK (only needed once on a page) -->
 <script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/V0zd0cYpIAWpOQsGS9Qw.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
+        <div id="interstitial-modal" class="modal-window interstitial-modal-hide">
+        <!-- <a href="#modal-close" title="Close" class="modal-close">close &times;</a> -->
+    <div id="interstitial-content">
+        
+        <div class="show-interstitial-fake-box"></div>
+    </div>
+    <div class="modal-background modal-close"></div>
+</div>
+
     
 
 </body></html>
