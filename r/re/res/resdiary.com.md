@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resdiary.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110183009id_/https%3A//sales.resdiary.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resdiary.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221091719id_/https%3A//sales.resdiary.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ResDiary
 
