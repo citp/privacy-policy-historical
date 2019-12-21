@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neostencil.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507151711id_/https%3A//neostencil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neostencil.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221221047id_/https%3A//neostencil.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NeoStencil
 
