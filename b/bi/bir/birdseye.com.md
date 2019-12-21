@@ -1,77 +1,160 @@
-> *The following text is extracted and transformed from the birdseye.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023110814id_/https%3A//www.birdseye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdseye.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221215937id_/https%3A//www.conagrabrands.com/privacy-policy) for the most accurate reproduction.*
 
-# Birds Eye Privacy Policy
+# Privacy Policy | Conagra Brands
 
-Pinnacle Foods Group LLC is committed to protecting your privacy and providing a safe online experience. This Privacy Policy describes what information Pinnacle Foods Group LLC collects through this website and how we collect, protect, use, and share that information. By using this website, you consent to the data practices described in this Privacy Policy. Please review this Privacy Policy carefully to familiarize yourself with Pinnacle Foods Group LLC's online privacy practices. Your use of this website is also subject to the Pinnacle Foods Group LLC website [Terms of Use](https://www.birdseye.com/terms)
+Last Updated: December 18, 2019
 
-Please note that when you visit this website, any personal or non-personal data you provide will be transferred to the U.S. where the site is located. By using this website you consent to the collection, processing, transfer and storage of such data to the U.S. 
+Conagra Brands, Inc. (“Conagra Brands” or “we”) recognizes that those who visit our websites are concerned about how personal information they provide online is maintained and used by Conagra Brands. To address these concerns, this policy describes our online information practices and the choices that you can make about the collection and use of your information.
 
-##  Note to Parents and Legal Guardians 
+**This Privacy Policy applies to[www.conagrabrands.com](https://web.archive.org/) and Conagra Brands websites, services, applications and products that display these terms (collectively, our “sites”). The Privacy Policy also applies to the sites of all subsidiaries and affiliates of Conagra Brands unless otherwise noted on any particular site. By using the sites, you agree to the terms of this Privacy Policy. **
 
-While many of our offerings are intended for adults, some sites or features may be of interest to children under 13. Please review the Children's Privacy section below carefully. We encourage parents and guardians to monitor their children's activities online and instruct their children to never provide personal information online without your permission. Children under the age of 13 should get their parent's or legal guardian's permission before providing their e-mail address or other personal information to Pinnacle Foods Group LLC or anyone else via the Internet. 
+From time to time, we may change our privacy policies. We will notify you of any material changes to our Privacy Policy as required by law. We will also post an updated copy on our sites. Please check our sites periodically for updates.
 
-##  Collection of Personal Information 
+If you are a resident of the State of California, please review our [Conagra Brands Privacy Notice for California Consumers.](https://web.archive.org/privacy-notice-for-california-consumers)
 
-While Pinnacle Foods Group LLC does not require anyone to share any personal information in order to enjoy any of our websites, certain features made available on the company's websites require Pinnacle Foods Group LLC to collect personally identifiable information, such as your e-mail address, first and last name, home address or telephone number. Pinnacle Foods Group LLC also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
+## **We collect information from and about you.**
 
-Certain information about your computer hardware and software is automatically collected by Pinnacle Foods Group LLC. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Pinnacle Foods Group LLC for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Pinnacle Foods Group LLC website. 
+**Contact information.** For example, we might collect your name and postal address. We might also collect your e-mail address or telephone number.
 
-Please keep in mind that if you directly disclose personally identifiable information or sensitive information (e.g., race, religion, or political affiliations) through Pinnacle Foods Group LLC public message boards or other community features, this information may be collected and used by others. Additional information about these features is provided in the Pinnacle Foods Group LLC website [Terms of Use](https://www.birdseye.com/terms). 
+**Information you submit or post.** We collect the information you submit or post in a public space on our sites. This might include information you provide when you initiate inquiries to Conagra Brands, write a review of a Conagra Brands product on our website, or search for information relating to a Conagra Brands product, like a recipe. You may also choose to provide us with your language preference.
 
-Pinnacle Foods Group LLC encourages you to review the privacy policies of websites you choose to link to from Pinnacle Foods Group LLC so that you can understand how those websites collect, use and share your information. Pinnacle Foods Group LLC is not responsible for the privacy policies or other content on, or the privacy practices of, websites outside of the Pinnacle Foods Group LLC and Pinnacle Foods Group LLC family of websites. 
+**Demographic information.** We may collect information like your gender and age.
 
-##  Children's Privacy 
+**Location information.** We may collect information about your location, including in connection with identifying where you may be able to buy a Conagra Brands product.
 
-Pinnacle Foods Group LLC is mindful of the need to protect the privacy of children under the age of 13. At sites or areas of sites directed to children under 13, Pinnacle Foods Group LLC follows the guidelines established by the Children's Advertising Review Unit (CARU) and the requirements under the Children's Online Privacy Protection Act (COPPA). 
+**Other information.** We may collect information about your device, such as device-specific identifiers, IP address, browser type and version, operating system type and version, mobile network information, and device settings. We might look at what site you came from, or what site you visit when you leave us, what links you click on, or what pages you view.
 
-We may ask visitors to enter a birthdate to restrict those who are underage from accessing certain sites, areas, or features. 
+## **We collect information in different ways.**
 
-Pinnacle Foods Group LLC does not collect and store personal information online from children who are under the age of 13 without the consent of a parent or legal guardian, except as authorized by law and described in this policy. In any site or area of a site directed to children under 13, Pinnacle Foods Group LLC does not require children to disclose more information than reasonably necessary to participate in online activities. 
+**We collect information directly from you.  **For example, if you sign up for a newsletter or enter a promotion. We also collect information if you fill out an online survey.
 
-Pinnacle Foods Group LLC may collect a child's first name and e-mail address without parental consent for the sole purpose of responding to a one-time question or request from a child, or in connection with certain sweepstakes or contests, but the company will promptly delete this information after providing a response or at the end of the promotion. When a child under 13 seeks to participate in an activity that will require multiple online contacts, such as signing up for an online newsletter, or for certain internal marketing activities, Pinnacle Foods Group LLC may also ask the child for a parent's or guardian's e-mail address to notify them and obtain permission or provide them with an opportunity to opt-out of that activity. Pinnacle Foods Group LLC may collect additional personally identifiable information from a child, such as the child's address, in connection with special offers, sweepstakes, contests, and games, so it can award prizes. You have the right to review personal information we have about your child. Proper identification will be required. 
+**We collect information from you automatically.** We use tracking tools like browser cookies, web beacons, and other similar technologies to help personalize, improve, and provide our services, including allowing you to be recognized as the same user across one or more browsing sessions, and across one or more sites. To control these tools, read the “choices” section below.
 
-Pinnacle Foods Group LLC may share data about your child with trusted organizations who work for Pinnacle to maintain our websites or help us administer certain features, such as contests or sweepstakes. These companies must agree to maintain confidentiality of any personal information they see. 
+**We collect information about you from third parties.** For example, our business partners may give us information about you. Social media platforms may also give us information about you. We may also get information from other sources, such as public databases, data aggregators or other commercially available sources.
 
-Pinnacle Foods Group LLC does not offer public forums, such as chat rooms or bulletin boards, in child- directed areas or sites. We will not share personal information obtained from a child with another third party, such as a co-promotional partner, for their marketing purposes, without your consent. While Pinnacle Foods Group LLC strives to only partner with companies whose privacy policies are consistent with our policy, Pinnacle Foods Group LLC cautions that it is not responsible for the policies or offerings of any third party. Personal information from a child under 13 may only be shared in Exceptional Circumstances described below without your consent. 
+## **We use information as disclosed and described here.**
 
-This Privacy Policy does not cover the privacy and data collection practices of any linked site. Pinnacle Foods Group LLC is not responsible for the content, policies, or actions of those websites, and cautions children to always check with a parent or guardian before linking to another party's site. 
+**We use information to provide the sites and our services.** We use the information we collect and receive to provide you with the products, services, or information that you request; to provide you with information about the sites or required notices; and to customize your experience when using the sites, among other things.
 
-##  Use of your Personal Information 
+**We use information to respond to your requests or questions.** For example, we might use your information to respond to your customer feedback. We may also use your information to notify you if you win a contest or sweepstakes. We might also send you emails or newsletters you request. We may use your friend’s email address if you send a friend an email through our site.
 
-Pinnacle Foods Group LLC and its employees, agents, and business partners collect and use your personal information to operate this website, improve our products and services, and deliver services you have requested. For example, we may use your personal information to provide you with news, updates, information, coupons, and special offers, respond to your questions and comments, register you for certain features, process job applications submitted online, and enter you in sweepstakes, contests, and other promotions and notify you of the results. Pinnacle Foods Group LLC may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. We offer visitors an "opt-out" option at any time they wish to cease receiving e-mails or other information from us. 
+**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to track your behavior across multiple platforms or devices. We might use your information to customize your experience with us. We also might use content you post or share to get you to more actively engage with us. We may combine the information we get from you with information about you we get from third parties.
 
-Pinnacle Foods Group LLC does not sell, rent or lease its customer lists containing personal information to third parties for their marketing purposes. Pinnacle Foods Group LLC may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e- mail, name, address, telephone number) is not transferred to the third party. In addition, Pinnacle Foods Group LLC may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Pinnacle Foods Group LLC, and they are required to maintain the confidentiality of your information. 
+**We use information for security purposes.** We may use information to protect our company, our customers, our sites, and others.
 
-Pinnacle Foods Group LLC does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent. 
+**We use information for marketing purposes.** For example, we might send you information about new products and special offers. We might tell you about new features or updates. If you register with us, we’ll enroll you in our email newsletter. To learn more about your choices for these communications, read the choices section below.
 
-Pinnacle Foods Group LLC keeps track of the websites and pages our customers visit within Pinnacle Foods Group LLC, in order to determine what Pinnacle Foods Group LLC services are the most popular. Anonymous information about our visitors, like demographic or traffic data, may be shared with agents or business partners. 
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Legal Policy.
 
-##  Exceptional Circumstances 
+**We use information to talk to parents or guardians to get permission.** We may use contact information to get permission from parents or guardians for children who want to use our site.
 
-Pinnacle Foods Group LLC reserves the right to use or disclose your personal information, without notice, if required to do so by any law, regulation, or legal request, or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law, conduct investigations or possible breaches of law, or comply with legal process served on Pinnacle Foods Group LLC or the site; (b) protect and defend the rights or property of Pinnacle Foods Group LLC or another legitimate third party; (c) facilitate the sale of Pinnacle Foods Group LLC or any of its brands and, (d) act under exigent circumstances to protect the personal safety of users of Pinnacle Foods Group LLC, our employees or the public. 
+**We use information as otherwise permitted by law.**
 
-##  Use of Cookies and Other Technologies 
+## We may share information with third parties.
 
-This website uses session "cookies" to help you personalize your online experience. We may also use cookies to comply with COPPA in connection with age-screening. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
+**We will share information within the Conagra Brands family of companies.** This also includes future subsidiaries or affiliates.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Pinnacle Foods Group, LLC pages, or register with Pinnacle Foods Group LLC site or services, a cookie helps Pinnacle Foods Group LLC to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Pinnacle Foods Group LLC website, the information you previously provided can be retrieved, so you can easily use the Pinnacle Foods Group LLC features that you customized. 
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who send emails for us. We may also share information with companies that operate our websites or administer activities on our behalf, such as promotion administration. These parties are bound to keep your information secure and we provide our service providers with only the information they need to perform the services we request.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Pinnacle Foods Group LLC services or websites you visit. 
+We use Google Analytics to collect information about the use of the sites. Google Analytics provides information about how many users visit our sites, when they may visit, and how they navigate the sites once they are on them. We may also use other Google Analytics tools, such as Demographics and Interest Reporting, which enables us to learn more about the characteristics and interests of the users who visit our sites. For information about how Google uses the information, see [Terms of Service](https://policies.google.com/terms?hl=en) and the [Google Privacy Policy](https://policies.google.com/privacy). You can opt out of Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout>.
 
-##  Your California Privacy Rights 
+**We may share information with Ad Networks.** We may have relationships with third party service providers known as Ad Networks to serve ads on our behalf across the internet. Using tracking tools like browser cookies and web beacons, Ad Networks collect anonymous information about your visits to our sites and other websites in order to deliver advertisements that may be of particular interest to you. To control these tools, read the “choices” section below.
 
-Section 17898.83 of the California Civil Code allows California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, contact us at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com) and include the words "CA Privacy Request" in the subject line, or, you may write to us at: 
+**We may share information with promotional partners.** From time to time we may enter into a special relationship with another company that is not owned by or affiliated with Conagra Brands for joint promotions. We may share information with these promotional partners (and their service providers) as necessary to conduct the promotion. We will not share information with our promotional partners for any other purpose unless we first get your consent to such sharing.
 
-##  Security of Your Personal Information 
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share information if a government agency or investigatory body requests it. We might share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
-Pinnacle Foods Group LLC takes reasonable precautions to secure your personal information from unauthorized access, use or disclosure. Users are warned, however, that the Internet and electronic databases may be subject to interception, and you provide such information at your own risk. 
+**We may share information with any successor to all or part of our business.** For example, if we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
 
-##  Changes to this Privacy Policy 
+**We may share information that is posted on public forums or reviews.** Any information, such as reviews, that you may disclose on our sites, in blogs, on message boards, or on other public areas on our sites, becomes public information. Please exercise caution when disclosing personal information in these public areas. Conagra Brands cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law or your personal privacy and safety, and is not responsible for the results of such postings.
 
-Pinnacle Foods Group LLC may occasionally update or modify this Privacy Policy to reflect company and customer feedback and new information, features, and promotions. Pinnacle Foods Group LLC encourages you to review this Privacy Policy each time you visit this website to be informed of how Pinnacle Foods Group LLC is protecting your information. Any changes to this Privacy Policy will take effect upon posting, but we will not materially change how we handle previously collected personal information without your consent. Your continued use of this website following the posting of changes to this Privacy Policy constitutes your agreement to and acceptance of such changes. 
+**We may share information for other reasons we may describe to you at the point of collection or prior to such sharing.** We may share information that is not reasonably identified with you for any purpose.
 
-##  Contact Information 
+## **You have certain choices about sharing and marketing practices.**
 
-Pinnacle Foods Group LLC welcomes your comments regarding this Privacy Policy. If you believe that Pinnacle Foods Group LLC has not adhered to this Privacy Policy, please contact Pinnacle Foods Group LLC at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you messages about your questions or necessary information about your account.
 
-Updated: October 7, 2010 
+**You can control cookies and tracking tools.** To learn how to manage how we and our vendors use cookies and other tracking tools, and for information about our ads, please click [here](https://web.archive.org/about-our-ads-and-tracking).
+
+**If you opt-out of tracking or turn off cookies, you may still see our ads on other websites.** This includes social media platforms. You can visit social media platform sites where you are a member and other third party sites to explore opt-out options they may provide for targeted advertising. To learn more about your choices for behavioral ads and tracking, click [here](https://web.archive.org/about-our-ads-and-tracking).
+
+## **These sites and children.**
+
+Our sites are generally meant for adults. We do not knowingly collect any personal information from children under 13 on our sites without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [Privacy@conagra.com](mailto:Privacy@conagra.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+
+Parents, to learn more about how to protect your child online read the helpful information provided by the [FTC.](https://www.consumer.ftc.gov/features/feature-0038-onguardonline) <https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online>
+
+## **We use standard security measures.**
+
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+## **We store information in the United States.**
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+## **Information for Residents of the European Economic Area (“EEA”)**
+
+Our sites are not directed to European Union (EU) residents. Data protection regulations in Europe require us to disclose additional information regarding any personal data that may be collected from residents of the EEA, and to limit our use of such information in specific ways. This section provides additional information applicable to European Personal Data, which may not apply to users in other geographies.
+
+**Legal Basis for Processing:  **European Personal Data may only be processed by use where and to the extent such processing is:
+
+  * Necessary for the performance of a contract with you, such as: 
+    * To carry out Conagra Brands’ obligations with respect to any contractual agreements between us with respect to information, products, and services that you may request from Conagra Brands;
+    * To process a job application; or
+    * To fulfill any other agreements between us.
+  * Necessary for us to comply with a legal obligation, for example to meet our tax and accounting obligations.
+  * Necessary to serve the legitimate business interests of Conagra Brands or a third party, where such use is consistent with the fundamental rights of individuals under European law, for example: 
+    * To provide you with effective customer service or technical support, such as where you have requested information from Conagra Brands;
+    * To contact you with information regarding health and safety, applicable regulations, or stewardship of our products;
+    * To improve the content, functionality, performance, security, and usability of our sites;
+    * To notify you about changes to our business, products, services, or sites; or
+    * To conduct business transactions, including purchases and sales of Conagra Brands’ products, or business reorganizations including the sale, transfer, change in control, or merger of Conagra Brands assets or businesses.
+  * Subject to valid consent you have freely provided and not withdrawn, such as opt-in consents allowing Conagra Brands to place cookies on your computer or to use your contact information for promotional advertising.
+
+
+
+**Data Subject Rights:** EEA residents who may use this site have the legal right to request Conagra Brands undertake specific actions with respect to their Personal Data, including:
+
+  * The right to request access to your Personal Data, including the right to have Conagra Brands confirm if your Personal Data is being used by Conagra Brands;
+  * The right to have your Personal Data corrected or erased;
+  * The right to object to or restrict Conagra Brands’ use of your Personal Data, for example where such information is not accurate or no longer needed;
+  * The right to have your Personal Data transferred from Conagra Brands to another party;
+  * The right to not be subject to automated decision-making or profiling based on your Personal Data;
+  * The right to withdraw any consent you have previously provided to Conagra Brands’ collection or use of your Personal Data; and
+  * The right to lodge a complaint with a supervisory authority.
+
+
+
+**Cross-Border Transfers of Data:** The information that Conagra Brands collects from you will be transferred to, and stored at, a destination outside the EEA. It may be processed by staff operating outside the EEA who work for us, or by other entities acting as data processors on our behalf. Conagra Brands has implemented international data transfers agreements on the basis of the European Commission’s Standard Contractual Clauses in order to provide appropriate and suitable safeguards for the transfer of this information. You may request a copy of the Standard Contractual Clauses by contacting us through the contact information listed below.
+
+**Data Retention:** Conagra Brands will process and store your Personal Data for the duration of our relationship with you, which may be long term, and as long as necessary to fulfill our contractual and legal obligations. Conagra Brands will delete your data:
+
+  * When it is no longer necessary for the purposes for which that information was collected and processed;
+  * Upon your request or objection, provided there are no overriding legal grounds requiring Conagra Brands to maintain that information;
+  * When necessary to comply with Conagra Brands’ legal obligations; or
+  * If our collection of information was based on your consent, upon the withdrawal of your consent.
+
+
+
+Any requests or inquiries relating the Conagra Brands’ handling of EEA information may be made by contacting us through the contact information listed below.
+
+## **We may link to other sites we don't control.**
+
+If you click on a link to a third party site, you will be taken to websites we do not control. This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites and insurance carriers carefully. We are not responsible for these third party practices.
+
+## **Feel free to contact us if you have more questions.**
+
+If you have any questions about this Privacy Policy, please email us at [Privacy@conagra.com](mailto:Privacy@conagra.com).
+
+You can also write to us or call at:  
+ATTN: Legal Department  
+Conagra Brands, Inc.  
+222 Merchandise Mart Plaza  
+Suite 1300  
+Chicago, IL 60654
+
+Consumer Affairs: 800-722-1344
+
+© 2020 Conagra Brands, Inc. All rights reserved.
