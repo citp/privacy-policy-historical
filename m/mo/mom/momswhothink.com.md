@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416230645id_/https%3A//www.momswhothink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221021055id_/https%3A//www.momswhothink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,6 +44,4 @@ We may update this privacy policy from time to time in order to reflect, for exa
 CONTACT US  
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at policy@momswhothink.com or by mail using the details provided below:
 
-13858 W Cedar Ave, Golden, CO, 80401, United States
-
-[](https://www.pinterest.com/pin/create/button/)
+12081 W Alameda Pkwy Ste 423 Lakewood, CO 80228-2701
