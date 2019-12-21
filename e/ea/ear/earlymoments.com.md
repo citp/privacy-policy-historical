@@ -1,152 +1,102 @@
-> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614115348id_/https%3A//earlymoments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221233359id_/https%3A//earlymoments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earlymoments
 
-This Privacy Policy describes how Sandviks collects, uses and shares customer information. It also provides guidance on how you can manage the personal information that you provide to us. Please also read our full Privacy Policy below.
+Sandviks, Inc. ("Sandviks", "us", "our" or "we") has developed this Privacy Policy to explain who we are, how we collect, use and share personal information about you, and how you can exercise your privacy rights.
 
-### SANDVIKS PRIVACY POLICY HIGHLIGHTS
+This Privacy Policy describes how we collect and use personal information in the usual course of business, including through our websites such as [www.EarlyMoments.com](https://earlymoments.com/), [www.Bluum.com](https://bluum.com/) and [www.HookedOnPhonics.com](https://hookedonphonics.com/) (and any of its sub-domains) or any other site which includes a link to this Privacy Policy (the "Sites"), and our mobile Applications Early Moments and Hooked On Phonics Learn to Read ("Apps"), as well as in connection with any of our sales or marketing activities ("Services"). This Privacy Policy applies to your use of the Sites (however accessed and/or used, whether via personal computers, mobile devices or otherwise) or any other means or applications in which you connect with us and your use of our Services.
 
-##### _Personal Information Collected_
+This Privacy Policy is subject to our Terms of Use. Each time that you access, register and/or use the Sites or our Services you signify that you have read, understand, and agree to be bound by the [Terms of Use](https://web.archive.org/terms), and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using the Sites or Services.
 
-When you register with us to access our online community or make a purchase, you voluntarily share certain personal information with us such as your name, e-mail address, address, telephone number, and/or credit/debit card information. You may also share personal information when you connect to our sites through social media networks. We may collect additional information from you (e.g., unique device identifier, device’s operating system, or mobile carrier) if you access our sites through a mobile device. More Info
+We recommend that you read this Privacy Policy in full to ensure you are fully informed. However, to make it easier for you to review those parts of this Privacy Policy which apply to you, we have divided up the document into the following sections:
 
-##### _Tracking Technologies (Cookies, etc.)_
+  1. WHO WE ARE
+  2. WHAT INFORMATION WE COLLECT
+  3. HOW WE USE YOUR INFORMATION
+  4. HOW WE SHARE YOUR INFORMATION
+  5. YOUR DATA PROTECTION RIGHTS
+  6. CALIFORNIA RESIDENTS' PRIVACY RIGHTS
+  7. NEVADA RESIDENTS' PRIVACY RIGHTS
+  8. THIRD-PARTY LINKS
+  9. HOW WE KEEP YOUR PERSONAL INFORMATION SECURE
+  10. RETENTION OF YOUR PERSONAL INFORMATION
+  11. INTERNATIONAL USERS
+  12. CHILDREN'S INFORMATION
+  13. CHANGES TO PRIVACY POLICY
+  14. DISPUTES
+  15. NO RIGHTS OF THIRD PARTIES 
+  16. CONTACT US
 
-We use tracking technologies such as cookies and similar technologies to measure usage during your visits to our services to provide information that will be of most interest to you. More Info
 
-##### _Targeted Advertising_
 
-Third party ad networks may also use information gathered from your use of the services to serve targeted, interest-based advertisements to you. More Info
+Sandviks is a US-based company that provides subscription-based content and book series as well as supplemental education materials and mobile Apps for various content driven instruction.
 
-##### _Sharing of Personal Information_
+  * **Information you provide to us**. You may provide personal information to us when you sign up for an account to access and use the Services, when you consult with customer support or send us an email or communicate with us in any way (for example, to make a support request) or make a purchase. The personal information we collect may include: your contact information (such as your name, address, telephone number and email address) and contact preferences; account information (such as your username and password); and if you make a purchase, payment details (card information, alternative payment method information, invoices, order information and transaction history). If you ever communicate directly with us, we may maintain a record of those communications and responses.
+  * **Information from Third Party Sellers**. We will receive contact information about you and your transaction if you purchase our products or Services through a Third Party Seller.
+  * **Location Information**. We may collect information about your location which may include your precise location. We may collect this using different types of technologies, including GPS and Wi-Fi. We also collect IP addresses and device identifiers that may provide location information.
+  * **Information We Collect Automatically Through Cookies and Similar Technologies**. We use tracking tools like browser cookies and web beacons to automatically collect information about how you interact with our Sites and Services and other websites over time and across devices. We may also have third parties collect information this way. For more information on cookies and similar tracking technology and how they are used and how you can opt out of such use please refer to our [Cookie Notice](https://web.archive.org/cookie-policy).
+  * **Information Imported from Social Networks.** When you choose to interact with us through social media your interactions with the social media platforms ("Social Networks") typically allows the Social Networks to collect information such as "Likes", profile information gathered from the Social Networks, or the fact that you viewed or interacted with our Services. Social Networks may collect information about you through digital cookies they place on your device and other tracking mechanisms even when you are not directly interacting with their applications. Please review the Social Networks' privacy policies and choices for sharing information of any Social Network connected to our Services.
+  * **Information We Collect From Other Sources**. In order to enhance our ability to provide relevant marketing, offers and services to you, we may obtain information about you from other sources, such as public databases, joint marketing partners, analytics companies, data service providers, fraud detection companies. In the event we receive such data and combine it with our customer records the information we receive will be treated in accordance with this privacy policy.
 
-We may share information gathered from your use of the services with our marketing partners, service providers, mobile carriers, social networks, legal and law enforcement, others if there is a change of control, and as otherwise set forth in this Privacy Policy. More Info
 
-##### _Your Information Access_
 
-You can change your personal information by logging on to your account or contacting us. We may retain the information collected for the purposes outlined in this Privacy Policy. More Info
+We use the information we collect or receive (alone or in combination):
 
-##### _Your Information Choices/Opt-Out_
+  * to respond to your inquiries and fulfill your requests, such as to send you products you have ordered, to respond to any inquiry, job application, feedback, or information and materials regarding our products and services.
+  * to send administrative information to you, for example, invoices, renewal notices, information regarding our Services or Sites, and changes to our terms, conditions, and policies.
+  * to send you marketing communications, including via email and SMS in compliance with applicable laws and in accordance with your preferences, that we believe may be of interest to you.
+  * to personalize your experience on our Sites by presenting products, content and offers tailored to you and your interests.
+  * for our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and products and Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities; (d) to enforce our Terms of Use; (e) to protect our operations or any of our marketing partners; (f) to protect our rights, privacy, safety or property, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+  * for other reasons that we may describe to you at the time of collection.
 
-You can control whether you want to receive promotional communications from us. More Info
 
-##### _Arbitration_
 
-Any disputes under this Privacy Policy will be resolved in accordance with binding arbitration as outlined in the Terms of Use. [More Info](https://earlymoments.com/terms-of-service/)
+We may disclose your personal information to the following categories of recipients and for the following reasons:
 
-##### _Your California Privacy Rights._
+  * **Service providers**. In order to provide our Services to you, it is necessary for us to disclose your information to contracted third parties and service provider partners who perform certain functions of our Services on our behalf. Examples include cloud hosting providers (to provide data storage and processing services); communications providers (to process new queries and to manage our emails); third party fulfillment providers (to send you products or provide access to our Services).
+  * **Payment Processors.** When you make a purchase directly with us, any billing information you provide as part of your payment is collected and processed directly by our payment processor Worldpay. We never receive or store your full credit card information. Worldpay commits to complying with the Payment Card Industry Data Security Standard (PCI-DSS) and using industry standard security. Worldpay may use your Payment Information in accordance with their own Privacy Policy here: <https://www.worldpay.com/en-gb/privacy-policy>. In addition, you may provide your billing information to third parties on their respective shopping platforms ("Third Party Seller") to purchase our products or services. Those Third Party Sellers receive the information needed to verify and authorize your credit/debit card or other payment information and to process your order. You should check the privacy policies of those Third Party Sellers for how they use your information.
+  * **Marketing Partners**. We selectively share our postal mailing address list and email list with third party marketing partners so that they may provide you with information about product or service offerings which may be of interest to you. See Section 5 for how to opt out of our sharing of your information for these purposes.
+  * **Targeted Advertising**. We will share your information collected about your visits over time and across our Services and multiple devices and other websites in order to serve targeted advertising to you. For more information on targeted advertising and how to manage your preferences please refer to our [Cookie Notice](https://web.archive.org/cookie-policy)
+  * **Compliance with laws**. We may disclose information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or other legal process (including in response to public authorities to meet national security or law enforcement requirements).
+  * **Vital interests and legal rights**. We may disclose information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, to verify the authenticity of any transaction, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Privacy Policy, or as evidence in litigation in which Sandviks may be involved.
+  * **Business transfers**. We may share or transfer information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Policy.
+  * **Consent**. We may share your information with any other person with your consent to the disclosure.
 
-More Info
 
-##### _Transferring your Information_
+  * **Access to Information**. You can access, correct, update, delete, and deactivate personal information you have provided to us by emailing us at [MyPrivacy@sandviks.com](mailto:MyPrivacy@sandviks.com), calling customer service at [800-353-3140](tel:+18003533140) or writing to us at Sandviks, 83 Wooster Heights Road, Danbury, CT 06810.
+  * **Opting-Out of Marketing Emails**. You can opt out of receiving marketing emails from us by clicking the "unsubscribe" link in the email, by emailing [MyPrivacy@sandviks.com](mailto:MyPrivacy@sandviks.com) or writing to us at Sandviks, 83 Wooster Heights Road, Danbury, CT 068If you choose to no longer receive marketing information, we may still communicate with you regarding such things as security updates, product functionality, responses to service requests, or other transactional, non-marketing purposes.
+  * **Opting Out of Postal Direct Mail Marketing**. If you want to opt out of receiving paper marketing communications via postal mail email us at [MyPrivacy@sandviks.com](mailto:MyPrivacy@sandviks.com) and provide us the exact name and address as it appears on the mailing label so we can identify you correctly.
+  * **Turning Off Tracking Technologies**. You can choose to have your computer warn you each time a persistent or session cookie is being sent, or you can choose to turn off such cookies through your browser settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. It is important to remember that many of our Services may not function properly if your cookies are disabled. Please refer to our [Cookie Notice](https://web.archive.org/cookie-policy) for more information .
+  * **Browser "Do Not Track" Signals**. Some third-party browsers provide "do not track" machine readable signals for websites, which are automatically applied by default. These features are not all uniform. We do not currently respond to those signals. If you block cookies, certain features on our Sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
+  * **Interest Based Ads**. Please refer to our [Cookie Notice](https://web.archive.org/cookie-policy) for opt out information.
+  * **Push Notifications**. If you use our Apps we may ask if you want to receive push notifications so that we can send you updates, communications, and other messages about the Services. To opt out of getting these push notifications or other messages, you must turn off the push notification function within your device settings.
+  * **Control Tools on Your Mobile Devices**. There may be controls on your mobile devices such as the ability to turn off GPS locator and other privacy settings.
+  * **Consent**. If we have collected and processed your personal information with your consent, then depending on the jurisdiction where you reside and applicable law you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * **Timing and Third Parties**. We will endeavor to comply with your request for changes as soon as reasonably possible. Unless required by law, we are not responsible for informing third parties with whom we have already shared your information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
 
-If you are visiting our Websites or accessing our Services from outside the United States, you should be aware that your personal information is processed in the United States and therefore your personal information may be transferred outside of your country of residence. More Info
 
-##### _Updates to this Privacy Policy_
 
-Changes to this Privacy Policy will be posted with a new “Last Updated” date. More Info
+A Notice to California Residents: Under the California "Shine The Light" law, California residents may opt-out of Sandviks disclosure of personal information to third parties for their direct marketing purposes. Any California resident may choose to opt-out of the sharing of such personal information with third parties for marketing purposes at any time by directing such request to [ShineTheLightPrivacyRequest@sandviks.com](mailto:ShineTheLightPrivacyRequest@sandviks.com)
 
-##### _Contacting Us_
+**A Notice to Nevada Residents** : Under Nevada law, if you are a resident of Nevada, you may apply limits to the sale of certain personal information to third parties for resale or licensing purposes, subject to applicable law. You are entitled to register your preference for limits on such sales in the future by sending an email to [NevadaPrivacyRequest@sandviks.com](mailto:NevadaPrivacyRequest@sandviks.com), with the subject line, "Nevada Do Not Sell Request" along with your first and last name, zip code, and whether you are a former or current member of any of our Services so that we can match your information to your account.
 
-Questions about our Privacy Policy or the use of your information may be sent to [privacy@EarlyMoments.com](mailto:privacy@EarlyMoments.com) or as otherwise set forth in the Privacy Policy. More Info
+This Privacy Policy only applies to the Sites and Services. Any access to and use of any linked websites, apps or services is not governed by this Privacy Policy but instead is governed by the privacy policies of those third parties. We are not responsible for the information practices of such third parties.
 
-* * *
+We have implemented appropriate physical, technical and administrative safeguards against unauthorized access, use, modification and disclosure of personal information in our custody and control. However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so you should take care in deciding what information you send us in this way.
 
-### SANDVIKS PRIVACY POLICY
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to comply with applicable legal, tax or accounting requirements, to maintain records of fraud, to enforce our agreements or comply with our legal obligations), or in accordance with our standard business practices.
 
-Sandviks Inc. (“Sandviks, “we”, ‘us” and “ours”) has developed this privacy policy (“Privacy Policy”) which details important information regarding the use and disclosure of user information collected on its owned or controlled websites, including, [www.MineChest.com](http://www.minechest.com/), [www.EarlyMoments.com](http://www.earlymoments.com/), [www.Bluum.com](http://www.bluum.com/) and [www.HookedOnPhonics.com](http://www.hookedonphonics.com/), or others that link to this Privacy Policy (collectively, “Websites”) and our mobile Applications Early Moments and Hooked On Phonics Learn to Read (“Apps”). All services, provided by us through or in connection with the Websites or Apps, or through other interactions with us, is collectively referred to as our "Services.”
+The Sites, Apps and Services are provided and hosted in the United States. If you are using the Sites or Services from outside the United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information, in the United States and other locations. These countries may have data protection laws that are different to the laws of your country. By using the Sites, Apps or Services, you consent to the collection, international transfer, storage, and processing of your personal information.
 
-Sandviks provides this Privacy Policy to help you make an informed decision about whether to use to use the Services and the choices we offer for you to manage the information we collect. Each time that you access or use the Services, you are agreeing to this Privacy Policy. If you do not agree to this Privacy Policy or [Terms of Use](https://earlymoments.com/terms-of-service/) (“Terms”), which are incorporated into this Privacy Policy by reference and govern your use of our Services, please discontinue accessing or using the Services
+The Sites and Services are intended for a general audience and is not directed or intended for anyone under 18 years of age. You must be 18 years of age or the age of majority in the jurisdiction which you reside to use the Sites or Services. Any information we receive from people we believe to be under this age will be purged from our database. We do not knowingly collect personal information from children under the age of 18 or have any reasonable grounds to believe that children under the age of 18 are accessing or using our Sites or Services. Our Apps are designed to be used by children but all accounts must be registered by the parent or legal guardian of any child using our Apps.
 
-_Information Collected Directly From You._ If you create an account to access our Services, contact us, or purchase any of our products or Services, you are choosing to give us your personal information, including but not limited to your name, address, email address, phone number, mobile telephone number, or physical contact information about yourself. You may also provide payment information such as credit or debit card information and billing address to purchase our products and services.
+Sandviks will review and update this Privacy Policy periodically and will note the date of its most recent update above. If we make material changes to this Privacy Policy, we may notify you by prominently posting a notice of a new Privacy Policy update, but we encourage you to review this Privacy Policy frequently to be informed of how Sandviks is using your information.
 
-_Information Imported from Social Networks._ We may collect information from you when you interact with our Services through third party social networking services (e.g., Facebook, Twitter, Instagram, Google +) (each and collectively, a “Social Network”). You may also have the option to consent to connecting your activity on our Services with your Social Network information and activity. If you permit a connection, we and that Social Network may be able to identify you and associate information received pursuant to the connection with information we already have about you. Please review the Social Network’s privacy policy and choices for sharing information of any Social Network connected to our Services.
+If you choose to visit or use the Sites, Apps or Services any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms) including limitations of liability, resolution of disputes, and application of the laws of the United States, the Federal Arbitration Act, and the laws of the State of Connecticut.
 
-_Surveys and Promotions._ From time-to-time we may request information from you and other users via surveys, or contests, sweepstakes or other promotions. Participation is completely voluntary. Information collected may be used as set forth in this Privacy Policy and as set forth in the applicable terms or official rules, such as to notify the winners and award prizes, and file winners’ information as required by law. Survey information will be used for the purposes of the survey.
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to visitors to or users of the Sites or Services.
 
-_Mobile Devices._ We may collect additional information from you if you access our Services through a mobile device; for example, your unique device identifier, device’s operating system,mobile carrier, and regional location. We may also collect your location information from your IP address or zip code. The degree to which your location can be identified depends on the device you are using, e.g. laptop, smartphone, tablet or other access device (each a “Device”) and how you are connected to the internet (e.g. via cable broadband connection, WiFi, etc.).
+If you have any questions, comments or concerns about this Privacy Policy or our privacy practices you may contact us by emailing us at [MyPrivacy@sandviks.com](mailto:MyPrivacy@sandviks.com), calling customer service at [800-353-3140](tel:+18003533140), or writing to us at Sandviks, Inc., 83 Wooster Heights Road, Danbury, CT 06810.
 
-_Tracking Technologies._ In addition to any information that you choose to submit to us, we and our business partners may use a variety of tracking technologies (“Tracking Technologies”), that automatically (or passively) collect certain information from your device whenever you visit or interact with the Services or third-party sites. This information may include your device identifier, the type and version of Internet browser software you use, and your operating system. We may also collect password information from you when you log in, as well as computer and connection information. During some visits, we may use these tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information. Certain features of our Services are only available through the use of Tracking Technologies. You may encounter tracking technologies/cookies from our third-party service providers that we have allowed on our Services and who assist us with various aspects of our operations and Services.
-
-For more information on the Tracking Technologies that we use and how to manage your preferences please see our [Cookie Notice ](https://earlymoments.com/cookie-policy/)
-
-_Interest Based Advertising._ We may use Tracking Technologies to collect information about your visits over time and across the Services and other third party web sites, as well as information received from other sources, in order to serve more targeted advertising to you. These third parties may also use information gathered from your use of the Services to serve targeted, interest based advertisements to you on third party websites and applications.
-
-For more information on targeted advertising and how to manage your preferences please refer to our [Cookie Notice](https://earlymoments.com/cookie-policy/)
-
-We may use the personal information that we collect, create or derive through the Services for a range of reasons, including:
-
-  * To provide the products and services you request, process transaction and send you related information, including confirmations and receipts.
-  * To provide support and improve the Services and to manage system administration and security.
-  * To respond to your comments, inquiries and requests and provide customer service.
-  * To link or combine information that we collect directly with information from third-party sources or multiple devices to help understand your needs, provide you with personalized content and provide you with better service.
-  * To personalize and improve your experience and deliver content or features that match your profile and interests, including to show you targeted advertising as described in Section 4 (“Targeted Advertising). Please also review Section 8 for further information about Your Choices/How to Opt Out.
-  * To send you promotional communications (in accordance with your marketing preferences). Please also review Section 8 for further information about Your Choices/How to Opt Out.
-  * To perform statistical, and marketing analyses of user behavior.
-  * To manage your accounts, and send you technical privacy policy and service updates, security alerts and other administrative messages.
-  * To send you push notifications. Please also review Section 8 for further information about Your Choices/How to Opt Out.
-  * To process and deliver surveys, sweepstakes, and other promotions and filing as required by law.
-  * To comply with or enforce legal requirements, agreements and policies.
-  * To carry out any other purpose for which the information was collected.
-  * To perform other activities that are in our legitimate business interests and consistent with this Privacy Policy.
-
-
-
-We may share and disclose your personal information with the following types of third parties for the purposes described in this Privacy Policy:
-
-_Service Providers._ We may disclose information to our third-party service providers in order to monitor the activity of the Services, conduct surveys, administer contests or sweepstakes, send marketing communications, and provide other Services to you, such as customer service.
-
-_Process Payments._ Information may be disclosed to process credit/debit card transactions, which are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process your order. In addition, we may disclose information to third parties to verify the authenticity of any financial transaction involving our company or its affiliates or to update your billing information.
-
-_Mobile Data._ When you access the Services on a mobile Device, we may use the information collected for any purpose set forth in this Privacy Policy. For example, we may use the information internally or in conjunction with our third parties to provide you with location-based Services, such as advertising, search results, and other personalized content that may be relevant to you.
-
-_Analyze Aggregate Information._ We use aggregate information about our users to analyze our Services and user behavior and prepare reports which we may share with third parties.
-
-_Sharing Information with Marketing Partners._ We selectively share our postal mailing address list and email list with third party partners so that they may provide you with information about product or service offerings which may be of interest to you. You may opt-out of having such information shared for this purpose. See Section 8 for how to opt out of our sharing of your information for these purposes.
-
-_Legal Matters; Safety._ We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account as may be permitted or required by law (including, but not limited to court order or subpoena), to prevent or investigate suspected fraud, violations of our Terms, or activity that appears to us to be illegal or may expose us to legal liability, or to any competent law enforcement body, regulatory or government agency or any third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person. Additionally, we may disclose your information in situations that we believe may involve potential threats to the physical safety of any person or property.
-
-_Sale or Transfer of Business or Assets._ If Sandviks, or any of its affiliated companies or businesses, is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, information of our users may be one of the assets sold or merged in connection with that transaction. Information about our users may also be disclosed in connection with a commercial transaction where we are or any one of our businesses is seeking financing, investment, and support or funding,
-
-_Transactional Communications._ We may use your information to send you notices from time to time relating to your account or your purchases. These may include order confirmations, invoices or customer service notifications. We may also send you Service-related announcements when it is necessary to do so; for instance, if our Service is temporarily suspended for maintenance, or the delivery of a product is delayed or there are policy changes.
-
-##### 7\. ACCESSING AND MANAGING YOUR PERSONAL INFORMATION
-
-We believe it is important for you to be able to access and manage your account and the information you have provided to us and make choices about how it is used. To inquire about or update your information, or change your preferences, you may contact us as set out below in Section 10. If you have a registered account, you may change your preferences by logging in to your profile and making updates.
-
-_Promotional Emails._ Any recipient of promotional emails may opt out of receiving them at any time. To opt out of receiving promotional emails follow the unsubscribe instructions located near the bottom of each promotional email. If for any reason the footer has been cut off by a third-party email service (e.g., gmail) or you wish to submit an unsubscribe request directly to us please send an email to [privacy@EarlyMoments.com](mailto:privacy@EarlyMoments.com) with “Unsubscribe from Email” in the subject line. Please be sure to provide us with the email address you wish to opt-out. You may also opt out of receiving promotional emails by going to your online account and changing your preferences.
-
-_Transactional Emails._ Please note that even if you opt out of receiving promotional emails from us, you may still receive transactional receipts and other administrative emails.
-
-_Postal Direct Mail Marketing._ If you want to opt out of receiving marketing communications via postal mail from us email us at [privacy@EarlyMoments.com](mailto:privacy@EarlyMoments.com).
-
-_Push Notifications._ If you use our Apps we may ask if you want to receive push notifications so that we can send you updates, communications, and other messages about the Services. To opt out of getting these push notifications or other messages, you must turn off the push notification function within your device settings.
-
-_Turning Off Tracking Technologies._ You can choose to have your computer warn you each time a persistent or session cookie is being sent, or you can choose to turn off such cookies through your browser settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies. It is important to remember that many of our Services may not function properly if your cookies are disabled.
-
-_Browser “Do Not Track” Signals._ Some third-party browsers provide “do not track” machine readable signals for websites, which are automatically applied by default and therefore do not necessarily reflect our visitors’ choices. As a result, we do not respond to these signals.
-
-_Interest Based Ads._ Please refer to our [Cookies Notice](https://earlymoments.com/cookie-policy/) for opt out information.
-
-_Transactional Messages._ You may not opt-out of transactional or administrative e-mails, for example e-mails about your account, subscriptions, transactions or policy changes.
-
-_Timing and Third Parties._ We will endeavor to comply with your request for changes as soon as reasonably possible. Unless required by law, we are not responsible for informing third parties with whom we have already shared your information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
-
-_Links to Other Websites._ Our Services may utilize hyperlinks to access third party sites, which are not controlled by us and, therefore, are not subject to this Privacy Policy. We recommend that you check the privacy policies of those third-party sites to determine how the proprietors of those sites will utilize your information.
-
-_Security._ We implement appropriate technical and organizational security measures to protect against the accidental or unlawful access, loss, misuse, deletion or alteration of personal information under our control. We use measures such as “Secure Socket Layers” or SSL to protect your personal information when collecting and transmitting your billing information to our payment processor. However, despite our efforts, no system can completely guaranty that there will never be unauthorized access to your personal information.
-
-_Storage and Retention._ Information that you provide to us in the course of requesting a product or service through the Services may be gathered and stored in one or more of our corporate databases. Your personal information is stored for the length of time you have an account and for legitimate business purposes as disclosed in this Privacy Policy. We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our Terms of Use, or take other actions permitted by law. If your account is terminated or suspended, we may also maintain some information to prevent re-registration.
-
-_A Note to International Users._ The Services are hosted in the United States. If you are using the Services from outside the United States, your personal information may be transferred to the United States for processing and maintenance in accordance with this Privacy Policy and our Terms. Please note that privacy laws in the United States may differ from the laws in the country where you are located and may not provide you the same rights or protections for your personal information. However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy.
-
-_NOTICE TO RESIDENTS OF CALIFORNIA:_ Your Californian Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83). Under the California “Shine The Light” law, California residents may opt-out of Sandviks disclosure of personal information to third parties for their direct marketing purposes. Any California resident may choose to opt-out of the sharing of such personal information with third parties for marketing purposes at any time by directing such request to [privacy@EarlyMoments.com](mailto:privacy@EarlyMoments.com).
-
-_Children’s Privacy._ The Services are directed to an adult audience. We do not knowingly collect personal information from individuals under 18 years of age and, if we obtain actual knowledge that a user is under 18 years of age, we will take steps to remove that user’s personal information from our systems.
-
-_Changes to our Privacy Policy._ We may change this Privacy Policy from time to time to reflect changes in law or in our privacy practices. We will notify you about material changes by placing a notice on the Services or by providing a new Last Updated date on the Privacy Policy. We recommend that you check the Services frequently for updates.
-
-_Disputes._ If you choose to visit the Services, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms including arbitration, limitations on damages, resolution of disputes, and application of the laws of the United States and the state of New York.
-
-If you have any questions, comments or concerns about this Privacy Policy or our privacy practices email us at [privacy@EarlyMoments.com](mailto:privacy@EarlyMoments.com), call customer service at 1-866-984-0188 or write to us at Sandviks, Inc., 83 Wooster Heights Road, Danbury, CT 06810.  
-When contacting us, please include your full name, address, phone number, and email address, and indicate the specific nature of your request.
+When contacting us, please include your full name, address, phone number, and email address, and indicate the specific nature of your request or inquiry.
