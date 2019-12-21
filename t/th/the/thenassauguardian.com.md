@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenassauguardian.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611051310id_/https%3A//thenassauguardian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenassauguardian.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221140800id_/https%3A//thenassauguardian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Nassau Guardian
 
@@ -44,4 +44,4 @@ Third party links may be discovered on our site. These third party links have th
 We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of £10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request.
 
 **8\. Contacting Us**  
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via the email address supplied here: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via the email address supplied here: editor@nasguard.com
