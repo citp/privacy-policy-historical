@@ -1,57 +1,107 @@
-> *The following text is extracted and transformed from the stellar.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615175818id_/https%3A//www.stellar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellar.org privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221015915id_/https%3A//www.stellar.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Stellar
+# Privacy Policy - Stellar Development Foundation
 
-We are committed to protecting the privacy of our users and visitors. The following Privacy Policy outlines the information Stellar Development Foundation, a Delaware non-profit corporation (the “Company”) may collect and how we may use that information to better serve its visitors, participating merchants, charitable organizations and members. All terms not defined herein shall have the meanings described in the Terms of Service.
+_Effective Date: August 13, 2019._
 
-If you have questions about this Privacy Policy, please contact us at [support@stellar.org](mailto:support@stellar.org).
+The Stellar Development Foundation (“SDF,” “we,” “our,” or “us”) provides this Privacy Policy to explain how we collect, share, and use personal information about you and information arising from our interactions with you to support the operation, development, and growth of the “Services” defined in our Terms of Service, including, without limitation, our website [https://www.stellar.org](https://www.stellar.org/), all applications therein, and other websites or applications that we offer that link to this Privacy Policy (the foregoing websites and applications collectively, the “Sites”). 
 
-**1\. Children Under the Age of 13**
+This Privacy Policy applies to information we collect when you visit and use our Sites or otherwise use our Services.
 
-The Services are meant for adults only, and children may not register for accounts. The Company does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Services at any time or in any manner. If Company learns that personally identifiable information of persons under 13 years of age has been collected on the Services without verified parental consent, then Company will take the appropriate steps to delete this information.
+This Privacy Policy does not apply to the open-source Stellar software or the Stellar Network, a distributed open-source global network accessed through the Stellar software. You should be aware that any information posted to the Stellar Network will be made permanently available to the public. 
 
-**2\. Information We Collect**
+We collect information you provide to us when you browse our Sites, create an online account, post messages to our forums, sign up for email alerts and newsletters, provide feedback through forms or surveys, participate in any interactive features, or otherwise use our Services. The types of information we may collect include your name, username, email address, profile picture, password, or public key, and any other information you choose to provide. We also collect the information you submit through your communications with us such as communications to learn more about our Services, contribute to our Services, report a security bug, receive lumens, or apply for a job with SDF. 
 
-When registering for an account and/or using our Services, we may ask that you provide us with some personally identifiable information – information about you that can be used to contact or identify you, and information on your use /or potential use of the Services and related services (“Personal Information”). Personal Information that we may collect include, phone numbers, FBUID (for verification through Facebook) and email address.
+We also collect technical information including, but not limited to, browser type, IP address, domain name, pages visited and other activities on the Sites, device type, and the time and date of your visits. We collect location information if permitted by your browser settings. Our Services use cookies, web beacons, web server logs, and other similar technologies to collect such information in order to: (1) understand how you use and interact with our Services; (2) measure the usability of our Services and the effectiveness of our communications; and (3) otherwise manage and enhance our Services and help ensure they are working properly. More information about our use of cookies may be found in the [Cookie Section](https://web.archive.org/privacy-policy#cookies) of this Privacy Policy below. 
 
-If you submit Personal Information to us through the Services, then we may use your personal information to operate, maintain, and provide to you the features and functionality of the Services.
+We use your personal information for the following purposes:
 
-We may employ third party companies or individuals to process Personal Information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at identifying spam or with third party analytics providers to optimize our site and gather aggregate data on where lumens are popular. In addition, some of the information we request may be collected by third party providers on our behalf.
+  * To deliver the content of our Sites and Services, including, without limitation, to improve the content of our Sites, notify visitors to our Sites about updates, and recognize visitors to the Sites;
+  * To respond to your comments, questions, and requests and to provide support services;
+  * As required by SDF to enable our business, including for research and analytics purposes;
+  * To protect the security and performance of our interests, including our assets and systems;
+  * To comply with applicable laws and regulations;
+  * To monitor and analyze trends, usage, and activities in order to operate and improve our Services;
+  * To manage your online account(s) and send you technical notices, updates, security alerts, and support and administrative messages; and 
+  * As otherwise disclosed at the time personal information is collected. We do not use automatic decision-making (i.e., making decisions solely by automated means without any human involvement) or profiling (i.e., automated processing of personal information to evaluate certain aspects of an individual). 
 
-We do not use your phone number or email address or other Personal Information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major service changes or for customer service purposes).
 
-We, and any authorized third party analytics providers may collect and may use both your Personal Information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Service and the Company website, to comply with applicable laws and regulation, and to create new features, promotions, functionality, and other services by storing, tracking, and analyzing User preferences and trends. We, and any authorized third party analytics providers may use cookies and log file information to: (a) monitor individual and aggregate metrics such as total number of visitors, pages viewed, etc.; and (b) track your logins, entries, submissions, views and such. We, and any authorized third party analytics providers may utilize session ID cookies to enable certain features of the Services or Company applications. Session ID cookies are typically deleted from your computer when you log off from the Services and then close your browser. 
 
-At any time, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please understand that if you do not accept cookies, you may not be able to use all portions or all functionality of the Services.
+Where we intend to use or otherwise process your personal information for a purpose other than the purpose for which it was collected, we will provide you with information regarding the purpose for the processing, as well as other relevant information, prior to processing your personal information for the new purpose.
 
-For these purposes, when you use our Services through an application, our servers may (i) automatically record information that your mobile phone/device sends or transmits, including, but not limited to, your phone’s device ID number, user settings, location (if you consent to that) and information about your use of the Services, and (ii) record information derived from such information and other sources. We also may be given such information from our third party analytics providers, affiliated partner(s), participating merchants and charitable organizations for whom the Services are being sponsored by, provided on behalf of, or provided in partnership with (“Affiliated Partners”). If we accept this information with our Affiliated Partners, we will require in our agreements with our Affiliated Partners that this information will not be transferred to the Company without the actual user’s consent. However, we will not be liable or responsible for the Affiliated Partners’ compliance with these agreements.
+We may share your personal information with the following third parties:
 
-In order to provide any location-based Services related to your use of a Company application, Company and/or its Affiliated Partners may collect, use, and share with us precise location data, including the real-time geographic location of your mobile device. This location data is collected anonymously in a form that does not personally identify you and is used by Company to provide and improve the Services and comply with any applicable laws and regulations. For example, we may share geographic location data with partners in order to support our distributions of contributed funds to particular charities or other recipients.
+  * Third party vendors who process data on behalf of SDF, such as analytics providers who track and analyze the performance of our Sites and related analytics;
+  * As part of a corporate sale, merger, or acquisition, or other transfer of all or part of our assets including as part of a bankruptcy proceeding;
+  * Pursuant to a subpoena, court order, governmental inquiry, law enforcement investigation, or other legal process or as otherwise required by law, or to protect our rights or the rights of third parties; or
+  * With your consent or as otherwise disclosed at the time of data collection or sharing. The Sites may also include, or provide access to, features and forums where you can post public comments and communicate with other users. We are not responsible for the other users’ use of available information, so you should carefully consider whether and what to post or how you identify yourself.
 
-**3\. How We Use Your Information**
 
-Among our primary goals in collecting information is to provide you with a positive experience when visiting our website and to make our site more valuable to you. We use this information to closely monitor which areas of the website are used most and to determine which areas we need to focus on improving. This information is used exclusively by Company in aggregate form so that we may continue to improve the value of the Services and information on the Services for our users as a whole. 
 
-As a valued user of Services, we may occasionally contact you, typically by e-mail (or any other way you prefer) in order to notify you of special promotions, and up-to-date news. Of course, if you do not wish to receive this personalized information, you can remove yourself from receiving such information by changing the appropriate option in your user account.
+We may also share information that has been de-identified or aggregated without restriction. 
 
-The Company uses your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer our website. Your IP address is used to help identify you, and to gather broad demographic data, as well as assist in compliance with any applicable laws or regulations the Company is subject to. Your IP address contains no personal information about you.
+We work with third parties that collect information about your use of the Sites. For example, SDF uses Google Analytics and other third-party services to improve the performance of the Sites and for analytics purposes. For more information about how Google Analytics collects and uses information when you use our website, visit <https://www.google.com/policies/privacy/partners/>, and to opt out of Google Analytics, visit <https://tools.google.com/dlpage/gaoptout/>.
 
-Except as described above, we will not monitor, edit or disclose any Personal Information about you or your account, without your prior consent unless we have a belief that such action is necessary to: (i) comply with the valid legal process or other legal requirements of any United States governmental authority; (ii) protect and defend the rights or property of the Company; (iii) enforce our Terms of Service https://www.stellar.org/terms-of-service; or (iv) protect the interests of users of our Services other than you or any other person. 
+The Services may provide links to third-party websites or apps, including our social media pages. We do not control the privacy practices of those websites or apps, and they are not covered by this Privacy Policy. You should review the privacy policies of other websites or apps that you use to learn about their data practices.
 
-**4\. Our Disclosure of Your Information**
+This section applies to those that access our Services from outside of the United States. Please be aware that the personal information we collect may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that we process and store personal information in the United States.
 
-The Company and any authorized third party analytics providers may perform aggregate statistical analysis of customer usage in order to measure interest in, and use of, the various parts of the Service and other applications, and Company may share that information with other interested third parties or the public. Any information shared in this manner is aggregated data only (statistics, etc.), and contains no Personal Information whatsoever (other than what is aggregated and anonymized).
+SDF generally processes personal information submitted to the Services for the implicit or express purposes specified on the relevant Service. In certain circumstances, SDF may process personal information in order to fulfill a contract or where required to do so by law. If necessary, SDF may also process personal information when it is in SDF’s legitimate interests to do so (e.g., for fraud or hacking detection) and when these interests are not overridden by your data protection rights.
 
-Company cooperates with all valid United States law enforcement notices or orders and with all third parties to enforce their intellectual property or other rights. 
+If you reside in the European Economic Area (“EEA”), the United Kingdom, or Switzerland you have a right:
 
-You should be aware that if you voluntarily disclose personal information and make it publicly viewable, that publicly available information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third-parties. Please understand that any information that is disclosed in that manner becomes public information and this third-party conduct is out of the control of Company. Please exercise caution when deciding to publicly disclose your personal information. 
+  * To request access to the personal information we hold about you;
+  * To request that we rectify or erase your personal information;
+  * To request that we restrict or block the processing of your personal information;
+  * Under certain circumstances, to receive personal information about you that we store and transmit to another without hindrance from us, including requesting that we provide your personal information directly to another (i.e., a right to data portability); and
+  * Where we previously obtained your consent, to withdraw consent to processing your personal information. To exercise these rights, contact us using the “Contact Us” section below. Please be aware that SDF may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so. Additionally, you have the right to lodge a complaint against us. To do so, contact the supervisory authority in your country of residence.
 
-The Services may also contains links to other web sites. Company is not responsible for the privacy practices or the content of such web sites.
 
-**5\. Security**
 
-The Personal Information we collect is securely stored within our database, and we use standard, industry-wide practices such as encryption, firewalls and (in some certain areas) SSL (Secure Socket Layers) for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet. We recommend that you not disclose your password to anyone. 
+We will retain your personal information on file for as long as necessary for our legitimate business purposes. When we no longer need it for the purpose we collected it, we take steps to destroy it unless we are required by law or regulation to keep it longer. 
 
-**6\. Revisions and Amendments**
+We use appropriate technical and organizational measures to protect the personal information that we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. We monitor our systems for possible vulnerabilities and attacks, however, we cannot guarantee 100% security of any information that we maintain.
 
-If you have further privacy concerns please do not hesitate to ask us by contacting [support@stellar.org](mailto:support@stellar.org). This Privacy Policy is effective as of Tuesday the 23th, December 2014. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Company reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on www.stellar.org. Any such change, update or modification will be effective immediately upon posting on the Company’s website.
+To update your contact information or change your communication preferences, including to stop email communications from us, please contact us through the methods provided in the “Contact Us” section below. In accordance with applicable laws, you may also unsubscribe from certain types of email communications from us by using the link provided in the email. 
+
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising Effective Date at the top of this policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Sites or sending you an email notification). We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information practices and the ways you can help protect your privacy. 
+
+Our Sites use cookies to collect information. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. We use the following cookies on our Sites: 
+
+  * Strictly necessary cookies. These cookies are required for the operation of our Sites. They include, for example, cookies that enable a relevant Site to recognize a previous visitor. 
+  * Analytical/performance cookies. These cookies allow us to recognize and count the number of visitors and to see how visitors move around our Sites when they are using them. This helps us to improve the way our Sites work, for example, by ensuring that users are finding what they are looking for easily. 
+
+
+
+You can find more information about the individual cookies and similar technologies used on our Sites and the purposes for which they are used in the table below:
+
+Technology| Name| Purpose| Links  
+---|---|---|---  
+Amplitude| amplitude_id| Used to distinguish users.| [Amplitude Service Agreement](https://amplitude.com/msa)  
+Google Analytics| _ga| Used to distinguish users.| [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  
+Google Analytics| _gid| Used to distinguish users.| [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| _gat| Used to throttle request rate. If Google Analytics is deployed via Google Tag Manager, this cookie will be named _dc_gtm <property-id>.| [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| AMP_TOKEN| Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.| [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| _gac <property-id>| Contains campaign related information for the user| [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| __utma| Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. | [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| __utmt| Used to throttle request rate.| [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| __utmb| Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists.| [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| __utmc| Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.| [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| __utmz| Stores the traffic source or campaign that explains how the user reached the site. The cookie is created when the javascript library executes. | [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)   
+Google Analytics| __utmv| Used to store visitor-level custom variable data. This cookie is created when a developer uses the _setCustomVar method with a visitor level custom variable.  | [Google Analytics Help pages](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  
+  
+You may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Sites.
+
+If you have questions, comments, or concerns about this Privacy Policy, you may contact us:
+
+By Mail:
+
+Stellar Development Foundation  
+PO Box 192750  
+PMB 24194  
+San Francisco, CA 94119  
+
+
+By Email:
+
+legal@stellar.org
