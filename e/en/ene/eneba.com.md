@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eneba.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519071006id_/https%3A//www.eneba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eneba.com privacy policy that was archived on 2019-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191221142101id_/https%3A//www.eneba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ENEBA
 
