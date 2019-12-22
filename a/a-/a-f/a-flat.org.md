@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-flat.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630142805id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-flat.org privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222065520id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ClouDNS
 
@@ -13,7 +13,7 @@ For each domain registration or transfer, we request whois details which we are 
 The Privacy Protection option provided by ClouDNS for particular domain extensions allows the customer details to be hidden to the domain registry. When the Privacy Protection is activated, Cloud DNS Ltd is listed as the owner of the domain name in the WHOIS database, but not the Customer. Note that some TLDs do not support the Privacy Protection option and you will not be able to activate it in order to hide your contact details from the Domain Registry and the Domain Registry WHOIS database. Even with enabled Privacy Protection, the Customer is still listed as the owner in the records in ClouDNS’s database and the contact details can be exposed if the domain name is used for illegal activities or from a legal request by the authorities or a court order. 
   4. Cookies  
 ClouDNS uses cookies to save user settings, count user visits, and site analytics. None of these cookies are used to track the customers outside of our website.  
-Some of the cookies are set and managed by Google Analytics, a tool from Aphabet Inc (parent company of Google Inc) to analyze website visits. We are not sharing any customer details or identifiers collected and defined in point 2. 
+Some of the cookies are set and managed by Google Analytics, a tool from Aphabet Inc (parent company of Google Inc) to analyze website visits. We also use cookies managed by Yandex.Metrica web analytics service provided by the Yandex Oy Limited Company - Moreenikatu 6, 04600 Mantsala, Finland. We are not sharing any customer details or identifiers collected and defined in point 2. 
   5. Credit cards information.  
 All purchases on the websites managed by ClouDNS are handled by a third party - PayPal.com, BitPay.com, SafeCharge.com, Skrill.com or other Banks, in which the transferred information thereof is encrypted. ClouDNS does not arrange, save or transport any credit card numbers. 
   6. DNS query details  
