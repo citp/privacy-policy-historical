@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the genial.ly privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425083007id_/https%3A//www.genial.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genial.ly privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222161411id_/https%3A//www.genial.ly/privacy) for the most accurate reproduction.*
 
 # Genially Privacy Policy
 
 Last updated May 24, 2018.
 
-This webpage is property of GENIALLY WEB SL, CIF: B56019912; Registered Office: PLAZA RAMÓN Y CAJAL, 4, 4º CP 14003 Córdoba, Spain; Telephone: 957251152; Email: info@genial.ly, support@genial.ly
+This webpage is property of GENIALLY WEB SL, CIF: B56019912; Registered Office: PLAZA RAMÓN Y CAJAL, 4, 4º CP 14003 Córdoba, Spain; Telephone: +34 957 612 920 / +34 633 011 046; Email: info@genial.ly, support@genial.ly
 
 Registered in the Commercial Register of Córdoba, Book 2154, Sheet 51, number CO-35517, registration 1ª - C.I.F. B-56019912.
 
@@ -46,7 +46,7 @@ Down below, we provide you with all the necessary information about our Privacy 
 
 ### 2\. Overseer of the Treatment of Protection of Personal Data
 
-GENIALLY WEB SL, CIF: B56019912; Registered Office: PLAZA RAMÓN Y CAJAL, 4, 4º CP 14003 Córdoba, Spain; Telephone: 957251152; Email: info@genial.ly, support@genial.ly
+GENIALLY WEB SL, CIF: B56019912; Registered Office: PLAZA RAMÓN Y CAJAL, 4, 4º CP 14003 Córdoba, Spain; Telephone: +34 957 612 920 / +34 633 011 046; Email: info@genial.ly, support@genial.ly
 
 GENIALLY implements two kinds of Treatments, which comply with current regulations on data protection and ensure that the data you provide is treated legally and securely.
 
