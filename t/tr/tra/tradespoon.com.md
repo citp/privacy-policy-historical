@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradespoon.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531185009id_/https%3A//www.tradespoon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradespoon.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222174726id_/https%3A//www.tradespoon.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Tradespoon
 
