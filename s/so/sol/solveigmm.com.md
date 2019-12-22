@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the solveigmm.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613233904id_/http%3A//www.solveigmm.com/en/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveigmm.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222130341id_/http%3A//www.solveigmm.com/en/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The Privacy Policy will address the following points:
 
-[What information, if any, is collected as a result of your visit?](http://www.solveigmm.com/en/legal/privacypolicy/#collect)  
-[Whether information is shared?](http://www.solveigmm.com/en/legal/privacypolicy/#sharing)  
-[Whether Cookies are placed on your hard drive?](http://www.solveigmm.com/en/legal/privacypolicy/#cookies)  
-[Contact Information](http://www.solveigmm.com/en/legal/privacypolicy/#contact)
+[What information, if any, is collected as a result of your visit?](https://web.archive.org/en/legal/privacypolicy/#collect)  
+[Whether information is shared?](https://web.archive.org/en/legal/privacypolicy/#sharing)  
+[Whether Cookies are placed on your hard drive?](https://web.archive.org/en/legal/privacypolicy/#cookies)  
+[Contact Information](https://web.archive.org/en/legal/privacypolicy/#contact)
 
 **Introduction**  
 Protecting personal information is a core Solveig Multimedia value. This privacy statement describes how we collect and use the personal information you provide on our website. It also describes the choices available to you regarding the use of your personal information and the steps you can take to access this information and to request that we correct or delete it.
@@ -42,16 +42,8 @@ If you have any questions or suggestions regarding our Privacy Policy, please co
 Solveig Multimedia  
 3 Razvitiya prospekt  
 Tomsk, 634055, Russian Federation  
-E-mail: [info@solveigmm.com](mailto:info@solveigmm.com)
+E-mail: [info@solveigmm.com](mailto:info@solveigmm.com)
 
 © Solveig Multimedia
 
 All trademarks are the property of their respective owners. All Rights Reserved.
-
-Solveig Multimedia uses cookies and similar technologies for several purposes, including:
-
-Storing your Preferences and Settings. Settings that enable the Site to operate correctly or that maintain your preferences over time may be stored on your device.
-
-Social Media. The Site include social media cookies, including those that enable users who are logged in to the social media service to share content via that service.
-
-Analytics. In order to provide analyze the performance of the Site, we use cookies to gather usage and performance data. This may include cookies from third-party analytics providers.
