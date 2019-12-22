@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ting.com privacy policy that was archived on 2019-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190531174024id_/https%3A//ting.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ting.com privacy policy that was archived on 2019-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191222070026id_/https%3A//ting.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" async-hide"><head>
 <!-- headBlock - begin -->
@@ -36,8 +36,8 @@
 
 <link rel="canonical" href="https://ting.com/privacy_policy">
 
-<link rel="stylesheet" type="text/css" href="https://static.ting.com/static/20190524/screen-min.css">
-<link rel="stylesheet" type="text/css" href="https://static.ting.com/static/20190524/print-min.css" media="print">
+<link rel="stylesheet" type="text/css" href="https://static.ting.com/static/20191004/screen-min.css">
+<link rel="stylesheet" type="text/css" href="https://static.ting.com/static/20191004/print-min.css" media="print">
 <link href="https://plus.google.com/107807792000707243675" rel="publisher">
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="https://static.ting.com/static/ie.css"/>
@@ -58,11 +58,18 @@
 <script type="text/javascript">
 window.addEventListener('load', function() {
 	  $zopim(function() {
-	    $zopim.livechat.hideAll();
-		$zopim.livechat.departments.filter('');
-		$zopim.livechat.departments.clearVisitorDepartment();
-		$zopim.livechat.departments.setVisitorDepartment('I’m considering switching to Ting Mobile');
-		$zopim.livechat.window.setTitle('Ting support');
+		const departmentName = 'I’m considering switching to Ting Mobile';
+		const departmentObject = $zopim.livechat.departments.getDepartment(departmentName);
+		const status = departmentObject.status;
+		if (status == 'online'){
+		    $zopim.livechat.hideAll();
+			$zopim.livechat.departments.filter('');
+			$zopim.livechat.departments.clearVisitorDepartment();
+			$zopim.livechat.departments.setVisitorDepartment('I’m considering switching to Ting Mobile');
+			$zopim.livechat.window.setTitle('Ting support');
+		} else {
+			$zopim.livechat.setStatus('offline');
+		}
 	  });
   });
 </script>
@@ -154,7 +161,7 @@ window.addEventListener('load', function() {
 					</li>
 
 					<li>
-						<a href="/support">Help</a>
+						<a href="https://help.ting.com/hc/en-us">Help</a>
 					</li>
 
 					<li id="signupin">
@@ -269,7 +276,7 @@ window.addEventListener('load', function() {
 							<div class="navHeadFooter">
 								<div>
 										<a class="loginLink" href="/account/mobile_login">Sign in</a>
-									<a href="/support?show=mobile" data-name="">Help</a>
+									<a href="https://help.ting.com/hc/en-us">Help</a>
 								</div>
 								<div>
 									Looking for <a class="switchLink" href="/internet">Ting Internet?</a>
@@ -684,11 +691,11 @@ TING_CONFIG.SHOW_CAMPAIGN_DRAWER.IS_SHOW_DRAWER = 0;
 <script type="text/javascript"
 	data-main="ting/ting"
 		src="https://static.ting.com/static/node_modules/steal/steal.production.js"
-	bundles-path="dist/bundles/20190524"></script>
+	bundles-path="dist/bundles/20191004"></script>
 -->
 <!-- // feature: stealjs: requires cors-http-headers for cross-site - end -->
 <!-- // feature: stealjs: does not require cors-http-headers for cross-site - begin -->
-<script type="text/javascript" data-main="ting/ting" src="https://static.ting.com/static/dist/bundles/20190524/ting/ting.js"></script>
+<script type="text/javascript" data-main="ting/ting" src="https://static.ting.com/static/dist/bundles/20191004/ting/ting.js"></script>
 <!-- // feature: stealjs: does not require cors-http-headers for cross-site - end -->
 
 	
