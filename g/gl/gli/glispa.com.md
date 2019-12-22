@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611185329id_/https%3A//www.glispa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222134916id_/https%3A//www.glispa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glispa
 
