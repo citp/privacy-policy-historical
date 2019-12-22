@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118202803id_/https%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222051306id_/https%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cabi Clothing
 
@@ -25,6 +25,39 @@ In operating the Website, we may include registration, online surveys, and other
 (a) Automatic Collection. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Website may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
 (b) Cookies. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Website. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our Website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Website may be diminished and some features may not work as they were intended.
+
+#### 2.3. How we collect your Information?
+
+If you are a cabi customer or a Hostess, your personal data may be provided to us by the cabi Stylist who took your order or who organized or attended a cabi event that you hosted or attended.
+
+We may collect personal data provided to us by your cabi Stylist or Hostess. This information may have been gathered by importing the Stylists or Hostesses personal email contacts list. This information will be stored in a safe and secure manner and only used for the sole purpose of contacting you about cabi shows, promotions, and reminders.
+
+**Personal email Contact Import Specific Privacy Statement:**  
+This privacy statement describes how cabi collects and uses the information you provide in your personal email contacts account via the cabi “Online Hostess Planner” application. It also describes the choices available to you regarding our use of your information and how you can access and update this information.
+
+Collection and Use
+
+We collect the following personal information from your personal email contacts account:
+
+  * Contacts’ names
+  * Contacts’ email
+  * Contacts’ telephones
+  * Contacts’ organization
+  * Contacts’ postal address
+  * Contacts’ birthday
+  * Contacts’ gender
+
+
+
+We use this information to:
+
+  1. Populate your personal email contact data into your Stylist’s cabi customer management tool
+  2. Create show invites from your Stylist’s show calendar for the imported contacts
+  3. Send show confirmation emails, show cancellation emails, show update emails or show reminder emails to the contacts imported from personal email contacts – prior to sending out such emails your consent will be sought each time.
+
+
+
+We will only use this information for the specific reason for which it was provided to us. We do not add or modify any personal email contact information using your cabi account.
 
 #### 3\. **USE AND SHARING OF INFORMATION**
 
