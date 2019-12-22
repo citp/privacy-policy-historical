@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardgateway.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105172902id_/https%3A//www.rewardgateway.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardgateway.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222020342id_/https%3A//www.rewardgateway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reward Gateway
 
