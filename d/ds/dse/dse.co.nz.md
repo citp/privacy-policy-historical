@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dse.co.nz privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206060927id_/https%3A//www.dicksmith.co.nz/dn/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dse.co.nz privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222043316id_/https%3A//www.dicksmith.co.nz/dn/privacy-policy) for the most accurate reproduction.*
 
 # Dick Smith | Privacy Policy
 
@@ -12,9 +12,7 @@ Personal information is information or an opinion about an individual whose iden
 
 ## 3\. Collection
 
-Dick Smith Group will collect personal information only by lawful and fair means and not in an unreasonably intrusive way. If it is reasonable and practical to do so, Dick Smith Group will only collect personal information about you directly from you. Dick Smith Group will not collect personal information unless the information is reasonably necessary for our functions and activities.
-
-Dick Smith Group may enter into arrangements with third parties to collect your personal information in circumstances where the third party notifies you, at the time of collection, that your personal information will be provided to Dick Smith Group.
+Dick Smith Group will collect personal information only by lawful and fair means and not in an unreasonably intrusive way. If it is reasonable and practical to do so, Dick Smith Group will only collect personal information about you directly from you. Dick Smith Group may collect your personal information from reputable third party lead generation sources for marketing purposes, but only where you have consented to the disclosure of your information to Dick Smith Group and for Dick Smith Group to send you marketing communications. Dick Smith Group will not collect personal information unless the information is reasonably necessary for our functions and activities.
 
 If you use a pseudonym when dealing with us or you do not provide identifiable information Dick Smith Group may not be able to provide you with any or all of our services as requested. If you wish to remain anonymous when you use our website do not sign into it or provide any information that might identify you.
 
@@ -56,13 +54,13 @@ If Dick Smith Group no longer needs your personal information for any the purpos
 
 Dick Smith Group will take reasonable steps to protect the personal information it holds from misuse, interference and loss and from unauthorised access, modification or disclosure.
 
-## 7\. Opting Out
+## 7\. Opting Out / Unsubscribe
 
-At any time you may opt out of receiving direct marketing communications from us. Unless you opt out, your consent to receive direct marketing communications from us and to the handling of your personal information as detailed above, will continue. To opt out email [commercial@dicksmith.co.nz](mailto:%20commercial@dicksmith.co.nz).
+At any time you may opt out of receiving marketing communications from us. Unless you opt out, your consent to receive direct marketing communications from us and to the handling of your personal information as detailed above, will continue. Each of our marketing emails will have an unsubscribe function which will allow you to unsubscribe from all future marketing communications. All of our marketing SMS messages will also contain an unsubscribe feature. Outside of these channels, you can opt out from receiving marketing communications at any time by emailing [commercial@dicksmith.co.nz](mailto:%20commercial@dicksmith.co.nz).
 
 ## 8\. Cross-border disclosure
 
-Dick Smith Group may transfer your personal information to a person who is in a foreign country to assist Dick Smith Group in providing you with the service that you have requested.
+Dick Smith Group may disclose your personal information to recipients overseas (including in the Philippines, Hong Kong and New Zealand) to assist Dick Smith Group in providing you with products or services.
 
 Dick Smith Group will take such steps as are reasonable in the circumstances to ensure that the information that is transferred to third parties located outside of Australia will not be held, used or disclosed by the recipient of the information in a manner that is inconsistent with the Australian Privacy Principles.
 
