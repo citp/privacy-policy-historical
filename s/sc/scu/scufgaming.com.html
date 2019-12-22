@@ -1,281 +1,728 @@
-<!--The following is the downloaded HTML source of the scufgaming.com privacy policy that was archived on 2019-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190604192212id_/https%3A//scufgaming.com/s/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scufgaming.com privacy policy that was archived on 2019-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191222211630id_/https%3A//scufgaming.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head><!--[if IE]><![endif]-->
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta name="viewport" content="width=device-width">
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"0c406b15e9",applicationID:"282276000"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<meta name="description" content="Scuf Gaming provides you with information regarding the information we may obtain from you when you visit or use our website.">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="msapplication-navbutton-color" content="#e6ff50">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="msapplication-TileColor" content="#e6ff50">
+<meta name="theme-color" content="#e6ff50">
+<title>Privacy Policy  | Scuf Gaming</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://scufgaming.com/static/version1573195927/_cache/merged/7f81f28148fe0e5e1d466a833a307ac0.min.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 740px)" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/css/styles-l.min.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/css/print.min.css">
+<link rel="icon" type="image/x-icon" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/Magento_Theme/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/Magento_Theme/favicon.ico">
+<link rel="manifest" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/manifest.json">
+<link rel="apple-touch-icon" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/pwa/icons/apple-touch-icon-180x180.png">
+<link rel="canonical" href="https://scufgaming.com/privacy-policy">
 
-		<link rel="profile" href="http://gmpg.org/xfn/11">
-		<link rel="pingback" href="https://scufgaming.com/s/xmlrpc.php">
-		<!--wordpress head-->
-		<title>Privacy Policy | Scuf Gaming</title>
+<noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVRGSMH" height="0" width="0"
+                        style="display:none;visibility:hidden"></iframe>
+            </noscript>
 
-<link rel="stylesheet" href="https://scufgaming.com/s/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.4.1" type="text/css" media="all">
 
-<!-- This site is optimized with the Yoast SEO plugin v3.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Scuf Gaming provides you with information regarding then information we may obtain from you when you visit or use our website">
-<meta name="robots" content="noodp">
-<link rel="canonical" href="https://scufgaming.com/s/privacy-policy/">
-<meta property="og:locale" content="en_US">
+<link rel="alternate" hreflang="en-us" href="https://scufgaming.com/privacy-policy">
+<link rel="alternate" hreflang="en-ca" href="https://scufgaming.com/privacy-policy">
+<link rel="alternate" hreflang="en-au" href="https://scufgaming.com/eu/privacy-policy">
+<link rel="alternate" hreflang="en-it" href="https://scufgaming.com/eu/privacy-policy">
+<link rel="alternate" hreflang="en-de" href="https://scufgaming.com/eu/privacy-policy">
+<link rel="alternate" hreflang="en-fr" href="https://scufgaming.com/eu/privacy-policy">
+<link rel="alternate" hreflang="en-gb" href="https://scufgaming.com/uk/privacy-policy">
+<link rel="alternate" hreflang="en" href="https://scufgaming.com/eu/privacy-policy">
+<link rel="alternate" hreflang="x-default" href="https://scufgaming.com/int/privacy-policy">
+
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-UltraLight.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-Light.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-Regular.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-Medium.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-Bold.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-Heavy.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-Black.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-MediumItalic.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-BoldItalic.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-LightCondensed.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-MediumCond.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-BoldCondensed.woff2" crossorigin="">
+<link rel="preload" as="font" type="font/woff2" href="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/fonts/DINNextLTPro-HeavyCondensed.woff2" crossorigin="">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy | Scuf Gaming">
-<meta property="og:description" content="Scuf Gaming provides you with information regarding then information we may obtain from you when you visit or use our website">
-<meta property="og:url" content="https://scufgaming.com/s/privacy-policy/">
+<meta property="og:title" content="Privacy Policy  | Scuf Gaming">
+<meta property="og:description" content="Scuf Gaming provides you with information regarding the information we may obtain from you when you visit or use our website.">
+<meta property="og:url" content="https://scufgaming.com/privacy-policy">
 <meta property="og:site_name" content="Scuf Gaming">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Scuf Gaming provides you with information regarding then information we may obtain from you when you visit or use our website">
-<meta name="twitter:title" content="Privacy Policy | Scuf Gaming">
-<!-- / Yoast SEO plugin. -->
+<meta property="og:image" content="https://scufgaming.com/media/og_image/default/logo-sticker.png">
+<meta property="og:image:width" content="410">
+<meta property="og:image:height" content="366">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="ScufGaming">
+<meta property="twitter:title" content="Privacy Policy  | Scuf Gaming">
+<meta property="twitter:description" content="Scuf Gaming provides you with information regarding the information we may obtain from you when you visit or use our website.">
+</head>
+<body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/images/loader-2.gif&quot;}}" class="cms-privacy-policy cms-page-view page-layout-1column">
+<div style="position:absolute;visibility:hidden;height:0;width:0;">
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="icon-arrow-left--medium" viewBox="0 0 12 8">
+<path d="M0 4l4-4v3h8v2H4v3z"></path>
+</symbol>
+<symbol id="icon-arrow-right--medium" viewBox="0 0 12 8">
+<path d="M12 4L8 0v3H0v2h8v3z"></path>
+</symbol>
+<symbol id="icon-arrow-right--small" viewBox="0 0 8 6">
+<path d="M8 3L5 0v2H0v2h5v2z"></path>
+</symbol>
+<symbol id="icon-arrow-right" viewBox="0 0 16 12">
+<path d="M10 4V0l6 6-6 6V8H0V4h10z"></path>
+</symbol>
+<symbol viewBox="0 0 29 26" id="icon-heart">
+<path fill="none" stroke="currentColor" stroke-width="2" d="M14.5020087,3.4173663 C14.6509682,3.27171769 14.6758454,3.24741766 14.77048,3.15497881 C17.7905906,0.281673729 22.6903606,0.281673729 25.7104712,3.15497881 C28.753415,6.05000722 28.762892,10.7925815 25.7368113,13.7006298 L14.5115176,24.3802696 L3.28622389,13.7006298 C0.237925369,10.8005069 0.237925369,6.05510166 3.2862239,3.15497881 C6.30633448,0.281673729 11.2061045,0.281673729 14.2262151,3.1549788 L14.5020087,3.4173663 Z"></path>
+</symbol>
+<symbol id="icon-cart" viewBox="0 0 16 16" width="16" height="16">
+<g transform="translate(-1768 -195)"><path d="M-266.371,47.261a.561.561,0,0,0-.558-.525h-3.534V45.606a3.181,3.181,0,0,0-3.162-3.2,3.181,3.181,0,0,0-3.162,3.2v1.129h-3.534a.561.561,0,0,0-.558.525l-.744,10.541c0,.014,0,.027,0,.041a.561.561,0,0,0,.559.563h14.881l.04,0a.562.562,0,0,0,.518-.6Zm-9.3-1.655a2.058,2.058,0,0,1,2.046-2.071,2.058,2.058,0,0,1,2.046,2.071v1.129h-4.092Zm-4.8,11.671.664-9.412h3.015v2.259a.561.561,0,0,0,.558.565.561.561,0,0,0,.558-.565V47.865h4.092v2.259a.561.561,0,0,0,.558.565.561.561,0,0,0,.558-.565V47.865h3.015l.664,9.412Z" transform="translate(2049.626 152.594)"></path></g>
+</symbol>
+<symbol id="icon-chevron-down" viewBox="0 0 16 16">
+<path d="M7.911 11.853L.974 4.915l1.414-1.414 5.523 5.523 5.522-5.523 1.414 1.414z"></path>
+</symbol>
+<symbol id="icon-close" viewBox="0 0 16 16">
+<path d="M.283 13.596L13.596.283l2.121 2.121L2.404 15.717z"></path>
+<path d="M.283 2.404L2.403.283l13.314 13.313-2.121 2.121z"></path>
+</symbol>
+<symbol id="icon-minus" viewBox="0 0 12 2">
+<path d="M0 0h12v2H0z" fill-rule="evenodd"></path>
+</symbol>
+<symbol id="icon-move" viewBox="0 0 24 24">
+<path d="M7.922 4L12 0l4.078 4zM20 7.922L24 12l-4 4.078zM7.922 20L12 24l4.078-4zM4 7.922L0 12l4 4.078zM11 4h2v16h-2z"></path>
+<path d="M4 11h16v2H4z"></path>
+</symbol>
+<symbol id="icon-person" viewBox="0 0 15 16">
+<path d="M0 15.7V15c0-2.7 1.8-5 5.5-5h4.1c3.6 0 5.5 2.3 5.5 5v.7c0 .2-.2.3-.3.3H.3c-.1 0-.3-.1-.3-.3z"></path>
+<circle cx="7.7" cy="4.2" r="4.2"></circle>
+</symbol>
+<symbol id="icon-plus" viewBox="0 0 12 12">
+<g fill-rule="evenodd">
+<path d="M5 0h2v12H5z"></path>
+<path d="M0 5h12v2H0z"></path>
+</g>
+</symbol>
+<symbol id="icon-search" viewBox="0 0 16 16">
+<path d="M9.892 2.8a4.977 4.977 0 0 1 1.466 3.542c0 1.337-.52 2.596-1.466 3.541A4.977 4.977 0 0 1 6.35 11.35a4.977 4.977 0 0 1-3.542-1.467 4.977 4.977 0 0 1-1.466-3.541c0-1.338.52-2.596 1.466-3.542A4.977 4.977 0 0 1 6.35 1.333c1.338 0 2.596.521 3.542 1.467zm1.796 6.95A6.342 6.342 0 0 0 6.341 0 6.343 6.343 0 0 0 0 6.346a6.342 6.342 0 0 0 9.783 5.329l.288-.2L14.596 16 16 14.57l-4.52-4.524.207-.296z" fill-rule="evenodd"></path>
+</symbol>
+<symbol id="icon-social-facebook" viewBox="0 0 41 41">
+<defs>
+<path id="r1kpa" d="M1010 8137.5a19.5 19.5 0 1 1 39 0 19.5 19.5 0 0 1-39 0z"></path>
+<path id="r1kpb" d="M1027.48 8136.5h-1.91v-3.18h1.9v-.74c.02-.93-.06-1.87.08-2.78.22-1.56 1.38-2.56 2.95-2.72.12-.01.24-.05.36-.08h3.55v3.33h-1.88c-.8 0-1.12.32-1.13 1.12v1.83h3.02c-.1.92-.23 1.78-.3 2.64-.03.49-.22.6-.67.57-.67-.04-1.34 0-2.08 0v9.51h-3.89v-9.5z"></path>
+</defs>
+<g>
+<g transform="translate(-1009 -8117)">
+<use fill-opacity="0" stroke="#979797" stroke-miterlimit="50" xlink:href="#r1kpa"></use>
+</g>
+<g transform="translate(-1009 -8117)">
+<use xlink:href="#r1kpb"></use>
+</g>
+</g>
+</symbol>
+<symbol id="icon-social-instagram" viewBox="0 0 41 41">
+<defs>
+<path id="ajv2a" d="M1105 8137.5a19.5 19.5 0 1 1 39 0 19.5 19.5 0 0 1-39 0z"></path>
+<path id="ajv2b" d="M1122.97 8137.5a2.5 2.5 0 0 1 2.51-2.53 2.5 2.5 0 0 1 2.55 2.55 2.5 2.5 0 0 1-2.54 2.51 2.5 2.5 0 0 1-2.52-2.52"></path>
+<path id="ajv2c" d="M1116.03 8135.47h4.26c-.8 2.88-.19 5.28 2.44 6.85a5.1 5.1 0 0 0 5.88-.26c2.28-1.63 2.8-3.9 2.01-6.57h4.25l.03.45v6.56a4.39 4.39 0 0 1-4.47 4.5h-9.95a4.39 4.39 0 0 1-4.45-4.46v-6.56-.5"></path>
+<path id="ajv2d" d="M1134.9 8134.04h-1.92c-.68 0-1.36-.04-2.03 0a2.48 2.48 0 0 1-1.98-.69 5.41 5.41 0 0 0-7.43.35c-.24.25-.47.35-.8.34h-4.63c-.67-3.7 1.74-5.96 4.48-5.93 3.26.04 6.52 0 9.78.01a4.4 4.4 0 0 1 4.53 4.53v1.39zm-3.48-3.51h-.52c-.56.01-.76.24-.77.87-.03 1.38.07 1.62.71 1.66.38.02.76.01 1.14 0 .47-.01.7-.28.71-.73v-1.09c0-.45-.23-.7-.7-.71h-.57z"></path>
+</defs>
+<g>
+<g transform="translate(-1104 -8117)">
+<use fill-opacity="0" stroke="#979797" stroke-miterlimit="50" xlink:href="#ajv2a"></use>
+</g>
+<g transform="translate(-1104 -8117)">
+<use xlink:href="#ajv2b"></use>
+</g>
+<g transform="translate(-1104 -8117)">
+<use xlink:href="#ajv2c"></use>
+</g>
+<g transform="translate(-1104 -8117)">
+<use xlink:href="#ajv2d"></use>
+</g>
+</g>
+</symbol>
+<symbol id="icon-social-twitter" viewBox="0 0 41 41">
+<defs>
+<path id="xl3qa" d="M1057 8137.5a19.5 19.5 0 1 1 39 0 19.5 19.5 0 0 1-39 0z"></path>
+<path id="xl3qb" d="M1069.02 8143.65c2.1.2 3.98-.32 5.66-1.61a4.07 4.07 0 0 1-2.22-.8 3.88 3.88 0 0 1-1.36-1.88c.29 0 .57.02.84 0 .28-.01.55-.06.82-.11a4.02 4.02 0 0 1-2.56-1.95 3.6 3.6 0 0 1-.48-1.91c.28.1.54.22.82.3.28.07.57.1.86.14-1.71-1.44-2.09-3.17-1.16-5.23 2.14 2.5 4.81 3.88 8.08 4.1-.02-.24-.06-.47-.07-.7a3.76 3.76 0 0 1 1.25-3.06 3.8 3.8 0 0 1 3.44-.96c.75.14 1.4.5 1.95 1.04.07.08.15.1.26.08a7.76 7.76 0 0 0 2.09-.78l.24-.12c-.3.91-.86 1.58-1.61 2.1a7 7 0 0 0 2.13-.56 7.44 7.44 0 0 1-1.8 1.9.32.32 0 0 0-.14.3c.05 1.12-.1 2.22-.4 3.3a11.68 11.68 0 0 1-2.97 5.08c-1 .98-2.14 1.74-3.45 2.27-1.22.5-2.5.75-3.82.8a11.25 11.25 0 0 1-5.4-1.15c-.34-.17-.68-.36-1.02-.55l.02-.04"></path>
+</defs>
+<g>
+<g transform="translate(-1056 -8117)">
+<use fill-opacity="0" stroke="#979797" stroke-miterlimit="50" xlink:href="#xl3qa"></use>
+</g>
+<g transform="translate(-1056 -8117)">
+<use xlink:href="#xl3qb"></use>
+</g>
+</g>
+</symbol>
+<symbol id="icon-social-youtube" viewBox="0 0 41 41">
+<defs>
+<path id="urgta" d="M1155 8137.5a19.5 19.5 0 1 1 39 0 19.5 19.5 0 0 1-39 0z"></path>
+<path id="urgtb" d="M1183.86 8133.99c-.22-1.2-.9-1.92-2.1-2.14-.52-.1-1.06-.16-1.6-.17-2.17-.07-4.36-.16-6.54-.14-2 .02-4 .14-6 .28a2.5 2.5 0 0 0-2.29 1.9c-.1.51-.19 1.03-.23 1.55a38.2 38.2 0 0 0 .06 6.4c.12 1.1.46 2.06 1.56 2.53.43.19.91.31 1.38.34 1.97.12 3.95.2 5.93.3v-.07h1.14c2.12-.1 4.24-.17 6.36-.3a2.49 2.49 0 0 0 2.33-2.19c.13-1.23.25-2.46.29-3.7.05-1.54-.02-3.07-.3-4.6zm-11.1 7.1v-5.89c1.6 1 3.18 1.96 4.79 2.95l-4.79 2.94z"></path>
+</defs>
+<g>
+<g transform="translate(-1154 -8117)">
+<use fill-opacity="0" stroke="#979797" stroke-miterlimit="50" xlink:href="#urgta"></use>
+</g>
+<g transform="translate(-1154 -8117)">
+<use xlink:href="#urgtb"></use>
+</g>
+</g>
+</symbol>
 
-<link rel="alternate" type="application/rss+xml" title="Scuf Gaming » Feed" href="https://scufgaming.com/s/feed/">
-<link rel="alternate" type="application/rss+xml" title="Scuf Gaming » Comments Feed" href="https://scufgaming.com/s/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Scuf Gaming » Privacy Policy Comments Feed" href="https://scufgaming.com/s/privacy-policy/feed/">
-		<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" charset="utf-8" src="https://v2.zopim.com/?3xL90PKEbx6s9pfMXoa9aPftoQMCpm5x" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/scufgaming.com\/s\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://scufgaming.com/s/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="mailchimpSF_main_css-css" href="https://scufgaming.com/s/wp-content/cache/min/1/mailchimpSF_main_css.css?ver=1.5.1" type="text/css" media="all">
-<!--[if IE]>
-<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='https://scufgaming.com/s/wp-content/plugins/mailchimp/css/ie.css' type='text/css' media='all' />
-<![endif]-->
-<link rel="stylesheet" id="ctf_styles-css" href="https://scufgaming.com/s/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.css?ver=1.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="sb_instagram_styles-css" href="https://scufgaming.com/s/wp-content/plugins/instagram-feed-pro/css/sb-instagram.css?ver=2.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="wpml-cms-nav-css-css" href="https://scufgaming.com/s/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.4.19" type="text/css" media="all">
-<link rel="stylesheet" id="cms-navigation-style-base-css" href="https://scufgaming.com/s/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.4.19" type="text/css" media="screen">
-<link rel="stylesheet" id="cms-navigation-style-css" href="https://scufgaming.com/s/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.4.19" type="text/css" media="screen">
-<link rel="stylesheet" id="bootstrap-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/css/bootstrap.min.css?ver=3.3.6" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap-theme-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/css/bootstrap-theme.min.css?ver=3.3.6" type="text/css" media="all">
-<link rel="stylesheet" id="fontawesome-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/css/font-awesome.min.css?ver=4.6.3" type="text/css" media="all">
-<link rel="stylesheet" id="main-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/css/main.css?v=0.0.2.432310915" type="text/css" media="all">
-<link rel="stylesheet" id="scuf-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/css/scuf.css?v=0.0.13.719422144" type="text/css" media="all">
-<link rel="stylesheet" id="odopod-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/css/theme-odopod.css?v=0.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="scuf-odopod-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/css/theme-scuf-odopod.css?v=0.0.12" type="text/css" media="all">
-<link rel="stylesheet" id="ionicons-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/css/ionicons.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap-basic-style-css" href="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/style.css" type="text/css" media="all">
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/vendor/modernizr.min.js?ver=3.3.1"></script>
-<!--[if lt IE 9]>
-<script type='text/javascript' src='https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/vendor/respond.min.js?ver=1.4.2'></script>
-<![endif]-->
-<!--[if lte IE 9]>
-<script type='text/javascript' src='https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/vendor/html5shiv.min.js?ver=3.7.3'></script>
-<![endif]-->
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js?ver=2.2.4"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/redirection2.js?ver=1.0.17"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/store_links.js?ver=1.0.13"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=3.4.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":"https:\/\/scufgaming.com\/s\/privacy-policy\/","en":"https:\/\/scufgaming.com\/s\/privacy-policy\/","US":"https:\/\/scufgaming.com\/s\/privacy-policy\/","fr_FR":"https:\/\/scufgaming.com\/s\/fr\/privacy-policy\/","fr":"https:\/\/scufgaming.com\/s\/fr\/privacy-policy\/","FR":"https:\/\/scufgaming.com\/s\/fr\/privacy-policy\/"},"cookie":{"name":"_icl_visitor_lang_js","domain":"scufgaming.com","path":"\/s\/","expiration":24}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/plugins/sitepress-multilingual-cms/res/js/browser-redirect.js?ver=3.4.1"></script>
-<link rel="https://api.w.org/" href="https://scufgaming.com/s/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://scufgaming.com/s/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://scufgaming.com/s/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.5.14">
-<link rel="shortlink" href="https://scufgaming.com/s/?p=1646">
-<link rel="alternate" type="application/json+oembed" href="https://scufgaming.com/s/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscufgaming.com%2Fs%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://scufgaming.com/s/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscufgaming.com%2Fs%2Fprivacy-policy%2F&amp;format=xml">
-<meta name="generator" content="WPML ver:3.4.1 stt:4,13;">
-<link rel="alternate" href="https://scufgaming.com/s/privacy-policy/" hreflang="en"><link rel="alternate" href="https://scufgaming.com/s/fr/privacy-policy/" hreflang="fr"><link rel="alternate" href="https://scufgaming.com/s/privacy-policy/" hreflang="x-default">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-		<link rel="icon" href="https://scufgaming.com/s/wp-content/uploads/2016/11/favicon-32x32.png" sizes="32x32">
-<link rel="icon" href="https://scufgaming.com/s/wp-content/uploads/2016/11/favicon-32x32.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://scufgaming.com/s/wp-content/uploads/2016/11/favicon-32x32.png">
-<meta name="msapplication-TileImage" content="https://scufgaming.com/s/wp-content/uploads/2016/11/favicon-32x32.png">
-		<style type="text/css">
-			html { margin-top: 0px !important; }
-			* html body { margin-top: 0px !important; }
-		</style>
-		<link href="/s/wp-content/themes/bootstrap-basic/css/navbar.css?v=1892108382" type="text/css" rel="stylesheet">
-	<script async="" src="//static.hotjar.com/c/hotjar-574061.js?sv=5"></script></head>
-	<body class="page page-id-1646 page-template page-template-page-full page-template-page-full-php xbox-page">
-
-		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-		  ga('create', 'UA-77896017-1', 'auto');
-		  ga('require', 'ec');
-		  ga('send', 'pageview');
-		</script>
-
-		<script>
-	var dataLayer = [];
-	waitjQuery();
-
-	function waitjQuery(){
-		if( typeof jQuery === 'undefined' ){
-			setTimeout(function(){waitjQuery();}, 200);
-		} else {
-			// Loading GTM + custom code
-			jQuery.getScript('https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/gtm_ecommerce.js');
-		}
-	}
-</script>
-
-<!-- Google Tag Manager -->
-<script>
-// (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-// new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-// j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-// 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-// })(window,document,'script','dataLayer','GTM-TQCDLGX');
-</script>
-<!-- End Google Tag Manager -->		
-		<!--[if lt IE 8]>
-			<p class="ancient-browser-alert">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a>.</p>
-		<![endif]-->
-		<div class="page-wrapper no_top_banner">
-		<link href="/s/wp-content/themes/bootstrap-basic/css/fixes.css" type="text/css" rel="stylesheet">
-					<div id="mobile-nav-side" class="en nav_new_mobile">
-			    <nav class="mobile-nav-items">
-			    	<ul>
-			            <li><a href="#" id="back_main_menu" class="hidden"><i class="ion-chevron-left"></i> Back</a></li>
-			        </ul>
- 			    	<ul id="search-mobile">
-	                    <li>
-	                        <div class="search-item">
-	                            <form class="form minisearch" id="search_mini_form" action="/catalogsearch/result/" method="get">
-	                                <div class="row row-none">
-	                                	<div>
-											<i id="search-icon-white" class="icon ion-ios-search-strong"></i>	                                		
-	                                	</div>
-	                                    <div>
-	                                        <input id="navsearch" type="text" name="q" value="" placeholder="Search..." class="input-text" maxlength="128">
-	                                    </div>
-	                                </div>
-	                            </form>
-	                        </div>
-	                    </li>			    		
-			    	</ul>
-			    </nav>
-			</div>  
-			<div class="menu-overlay"></div>    
-			<header id="header-container-wrapper" class="section-wrapper np">
-				<nav id="desktop-nav" class="en nav navigation top-nav hidden-xs hidden-sm" role="navigation">
-    <div id="nav-row-1" class="row hidden">
-        <div class="col-md-12">
-            <ul>
-                <li><a>844-scuf-it-up</a></li>
-                <li><a>Contact support</a></li>
-                <li><a>Account</a></li>
-                <li>
-                    <a data-bind="scope: 'cartCount'" href="/checkout/cart/" data-role="cart-count-topmenu">
-                        <i class="icon ion-ios-cart"></i>
-                        <span class="cart-qty-bubble cartItemsCountBubble" data-bind="text: cartCount().count, visible: cartCount().count > 0" style="display:none;"></span>
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div id="nav-row-2" class="row">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12" id="menu-main-links">
-                    <a id="header-logo" href="/" class="logo"></a>
-                    
-                    <ul class="main-ul">
-                        <li><a href="/playstation">Playstation</a></li>
-                        <li><a href="/xbox">XBox</a></li>
-                        <li><a href="/store">Store</a></li>
-                        <li><a href="/s/scuf-pro-players/">eSports</a></li>
-                        <li><a href="https://support.scufgaming.com">Support</a></li>
-                        <li class="mobile-only"><a href="/customer/account">My Account</a></li>
-                    </ul>
-
-                    <ul class="right-side-items">
-                        <li>
-                            <div class="search-item">
-                                <form class="form minisearch" id="search_mini_form" action="/catalogsearch/result/" method="get">
-                                    <div class="row row-none">
-                                        <div class="col-sm-12 col-md-12">
-                                            <i id="search-icon-white" class="icon ion-ios-search-strong"></i>
-                                            <input id="navsearch1" type="text" name="q" value="" placeholder="Search entire store here..." class="input-text" maxlength="128" autofocus="">
-                                            <div id="search_autocomplete" class="search-autocomplete" style="display: none;"></div>
-                                            <div class="nested">
-                                                <a class="action advanced" href="/catalogsearch/advanced/" data-action="advanced-search">
-                                                Advanced Search    </a>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-2 col-md-3" style="display: none">
-                                            <button type="submit" title="Search" class="btn btn-base btn-sm">
-                                            <span>Search</span>
-                                            </button>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </li>
-                        <li>
-                            <a class="icon" href="/customer/account/">
-                            <i class="icon ion-android-person"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a class="icon" data-bind="scope: 'cartCount'" href="/checkout/cart/" data-role="cart-count-topmenu">
-                            <i class="icon ion-bag"></i>
-                            <span class="cart-qty-bubble cartItemsCountBubble" style="display: none;"></span>
-                            </a>
-                        </li>
-                        <li><a class="icon toggle-search" href="#"><i id="search-icon" class="icon ion-ios-search-strong"></i></a></li>
-                    </ul>
-                </div>
+<svg display="none" xmlns="http://www.w3.org/2000/svg">
+<symbol id="icon-social-twitch" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10S2 17.514 2 12 6.486 2 12 2zm0-2C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zM7.075 7l-.806 2.06v8.418h2.866V19h1.612l1.522-1.522h2.328l3.134-3.134V7H7.075zm9.582 6.806l-1.791 1.791H12l-1.522 1.522v-1.522H8.06V8.075h8.597v5.731zm-1.791-3.672v3.131h-1.075v-3.131h1.075zm-2.866 0v3.131h-1.075v-3.131H12z"></path>
+</symbol>
+</svg>
+<symbol id="icon-email" viewBox="0 0 20 13">
+<g fill="#8E8B93" fill-rule="evenodd">
+<path d="M19.027 1.021L10 6.344l9.027 5.707zM.2.325l8.826 6.02-9.016 6.02L.2.326zM.183 13l9.511-6.193L19.205 13H.183zM.948 0l8.607 5.672L18.898 0z"></path>
+</g>
+</symbol>
+<symbol id="icon-pdp-facebook" viewBox="0 0 6 13">
+<path fill="#8E8B93" fill-rule="evenodd" d="M1.299 6.432H0V4.284h1.292c0-.189-.002-.346 0-.503.01-.628-.042-1.266.049-1.882C1.496.839 2.275.166 3.34.053c.083-.009.165-.035.248-.053H5.99v2.254H4.715c-.543.002-.76.22-.76.761v1.24H6c-.073.627-.16 1.207-.2 1.79-.022.328-.155.404-.46.386-.453-.027-.908-.007-1.41-.007v6.45H1.3V6.432z"></path>
+</symbol>
+<symbol id="icon-pdp-twitter" viewBox="0 0 15 12">
+<path fill="#8E8B93" fill-rule="evenodd" d="M4.387 9.378a3.146 3.146 0 0 1-1.712-.618 2.994 2.994 0 0 1-1.053-1.448c.221 0 .437.01.652-.003a4.34 4.34 0 0 0 .633-.088C2.039 6.98 1.37 6.498.93 5.715.663 5.241.515 4.638.558 4.238c.211.079.417.172.633.232.216.06.442.086.666.115C.53 3.466.24 2.133.96.54c1.651 1.938 3.714 2.998 6.24 3.172-.02-.193-.045-.366-.054-.54-.044-.938.278-1.734.965-2.37.755-.698 1.658-.928 2.66-.74a2.798 2.798 0 0 1 1.5.804c.062.062.117.08.207.06a5.991 5.991 0 0 0 1.612-.606c.05-.029.104-.051.184-.09-.234.704-.66 1.224-1.245 1.629.568-.044 1.1-.212 1.649-.438a5.75 5.75 0 0 1-.93 1.087c-.147.134-.302.26-.46.382a.245.245 0 0 0-.107.229 8.165 8.165 0 0 1-.312 2.547 9.022 9.022 0 0 1-2.293 3.926 8.015 8.015 0 0 1-2.662 1.755 8.609 8.609 0 0 1-2.955.616 8.693 8.693 0 0 1-2.13-.171 8.038 8.038 0 0 1-2.036-.71c-.267-.14-.53-.284-.794-.426 1.633.117 3.093-.283 4.387-1.28z"></path>
+</symbol>
+<symbol id="icon-pdp-instagram" viewBox="0 0 13 13">
+<g fill="#8E8B93" fill-rule="evenodd">
+<path d="M10.288 1.685c-.116 0-.232-.002-.347 0-.372.01-.504.161-.513.582-.02.922.045 1.083.475 1.107.254.015.51.01.764.002.307-.01.462-.185.472-.485.008-.243.006-.486 0-.729-.006-.303-.155-.474-.47-.476h-.381zm2.323 2.343h-1.28c-.452 0-.905-.026-1.354.006-.52.038-.912-.1-1.322-.465-1.418-1.263-3.608-1.137-4.959.234a.678.678 0 0 1-.539.23C2.129 4.021 1.1 4.027.077 4.027-.374 1.558 1.233.055 3.06.075 5.236.1 7.412.077 9.588.082c1.75.003 3.015 1.271 3.023 3.02v.926zM4.65 6.343a1.666 1.666 0 0 1 1.678-1.694A1.666 1.666 0 0 1 8.03 6.35 1.668 1.668 0 0 1 6.335 8.03 1.668 1.668 0 0 1 4.65 6.343"></path>
+<path d="M.019 4.987h2.847c-.538 1.918-.127 3.521 1.626 4.568 1.305.78 2.684.712 3.922-.172 1.523-1.088 1.87-2.608 1.343-4.386h2.832c.008.105.021.205.021.305.002 1.46.005 2.918 0 4.377-.006 1.707-1.281 2.99-2.984 2.994-2.212.007-4.424.008-6.635 0-1.683-.006-2.964-1.29-2.97-2.972C.013 8.24.018 6.782.018 5.323v-.336"></path>
+</g>
+</symbol>
+<symbol id="icon-lock" viewBox="0 0 24 24">
+<path d="M18 10v-4c0-3.313-2.687-6-6-6s-6 2.687-6 6v4h-3v14h18v-14h-3zm-10 0v-4c0-2.206 1.794-4 4-4s4 1.794 4 4v4h-8z"></path>
+</symbol>
+</svg>
+</div>
+<noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
             </div>
         </div>
+    </noscript>
+<style xml="space"><!--
+    /** Style for the sub banner **/
+    .header--callout {
+        flex-wrap: wrap;
+        min-height: 40px;
+        height: initial !important;
+        background-color: #ff0000;
+        color: #ffffff;
+        font-weight: 600;
+        padding: 0 10px;
+    }
+    .header--callout a {
+        color: #ffffff;
+        text-decoration: underline;
+    }
+    #header--callout p {
+        margin: 12px auto;
+    }
+    #promotion-details {
+        width: 100%;
+        margin: 20px;
+    }
+    #promotion-learn-more:hover {
+        cursor: pointer;
+    }
+    #header--callout #promotion-details {
+        margin-top: 0px;
+    }
+       #header--callout .text-inline-block{
+           display: inline-block; 
+        }
+        .cms-playstation-vantage-2-controller #header--callout,
+        .cms-playstation-vantage-2-controller-specs #header--callout,
+        .cms-playstation-vantage-2-controller-modernwarfare #header--callout,
+        .cms-playstation-vantage-2-controller-features #header--callout {
+            display: none;
+        }
+#headertimer, .yellowcolor { color: #ffffff; }
+#headertimerp {
+    font-size:11px;
+    margin: -6px auto 12px auto !important;
+}
+  .header--callout--content {
+    font-size: 11px;
+  }
+@media (min-width: 440px) {
+  #headertimerp, .header--callout--content {
+    font-size: inherit;
+  }
+}
+--></style>
+<div id="header--callout" class="header--callout" hidden="" data-mage-init="{&quot;sessionCallout&quot;:{}}">
+<p class="header--callout--content">Not sure what to give? Let them decide with an <a href="https://scufgaming.com/gift-card">E-GIFT CARD</a>.</p>
 
-    </div>
-    <div id="nav-row-3" class="row hidden">
-    </div>
-</nav>
 
-<nav id="mobile-nav-new" class="nav navigation top-nav hidden-md hidden-lg" role="navigation">
-    <a id="nav-icon3" class="mob-nav-icon mobile-menu-toggle" href="#">
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-    </a>
-    <a href="https://scufgaming.com" class="mob-nav-icon scuf_homepage">
-        <img src="/s/wp-content/themes/bootstrap-basic/img/scuf-gaming-logo-symbol.svg" alt="SCUF logo" class="scuf-logo img-responsive">
-    </a>
-    <a class="icon carticon" data-bind="scope: 'cartCount'" href="/checkout/cart/" data-role="cart-count-topmenu">
-        <i class="icon ion-bag"></i>
-        <span class="cart-qty-bubble cartItemsCountBubble" style="display: none;"></span>
-    </a>
-</nav>
-			</header>
-			<!-- end -->
-			<main id="maincontent" class="page-main">
-				 
+</div><div class="page-wrapper"><header class="page-header"><div class="header content"><div class="panel header"><a class="action skip contentarea" href="#contentarea"><span>Skip to Content</span></a>
+<ul class="header links"> <li class="customer-link">
+<a href="https://scufgaming.com/customer/account/">
+<svg class="icon"><use xlink:href="#icon-person"></use></svg>
+</a>
+</li>
+<li class="block block-search">
+<label class="label searchLbl" for="search">
+<svg class="icon"><use xlink:href="#icon-search"></use></svg>
+</label>
+<label class="label closeLbl">
+<svg class="icon"><use xlink:href="#icon-close"></use></svg>
+</label>
+</li>
 
-				<div id="columns-container-wrapper" class="container-fluid section-wrapper np">
-					<div class="row row-super">
+<li data-block="minicart" class="minicart-wrapper">
+<a class="action showcart" href="https://scufgaming.com/checkout/cart/" data-bind="scope: 'minicart_content'" aria-label="mini cart content to access cart items">
+<svg class="icon"><use xlink:href="#icon-cart"></use></svg>
+<span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading">
+<span class="counter-number"><!-- ko text: getCartParam('summary_count') --><!-- /ko --></span>
+</span>
+</a>
+</li>
+</ul></div><span data-action="toggle-nav" class="action nav-toggle"><span></span></span>
+<a class="logo desktop-logo" href="https://scufgaming.com/" title="" aria-label="Scuf Gaming Navigation Logo">
+<img src="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/images/logo.svg" alt="" width="148" height="43">
+</a>
+<a class="logo mobile-logo-symbol" href="https://scufgaming.com/" title="" aria-label="Scuf Gaming Navigation Logo">
+<img src="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/images/sg-logo-symbol.svg" width="32" height="31" alt="">
+</a>
+<div class="sections nav-sections">
+<div class="section-items nav-sections-items" data-mage-init="{&quot;tabs&quot;:{&quot;openedState&quot;:&quot;active&quot;}}">
+<div class="section-item-title nav-sections-item-title" data-role="collapsible">
+<a class="nav-sections-item-switch" data-toggle="switch" href="#store.menu">Menu</a>
+</div>
+<div class="section-item-content nav-sections-item-content" id="store.menu" data-role="content">
+<nav class="navigation" data-action="navigation">
+<style>
+    @media (max-width: 739px) {
+        html .nav-sections-item-content {
+            display: none !important;
+        }
+        html.nav-before-open .nav-sections-item-content,
+        html.nav-open .nav-sections-item-content {
+            display: block !important;
+        }
+        nav.navigation .desktop-only {
+            display: none;
+        }
+    }
+    @media (min-width: 740px) {
+        nav.navigation .mobile-only {
+            display: none;
+        }
+    }
+</style>
+<ul id="navigation">
+<li class="level0 level-top parent mobile-visible">
+<a class="level-top"> <span>Playstation</span><span class="mobile-addition-title"> &amp; PC</span></a>
+<a aria-label="Playstation (PS4) Controllers" href="https://scufgaming.com/playstation/" class="mobile-all"><span>View All</span></a>
+<div class="submenu custom-submenu">
+<div class="submenu-wrapper ui-menu-item">
+<ul class="level1 sub--menu bootstrap row">
+<li class="col-md-2 col-sm-2 product">
+<a class="desktop-only" aria-label="The SCUF Vantage 2 controller for PlayStation® 4 &amp; PC" href="https://scufgaming.com/playstation-vantage-2-controller">
+<img class="lazy" data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_vantage2_charcoal_140x80.png" alt="SCUF VANTAGE 2 CHARCOAL CONTROLLER">
+<span>Scuf Vantage 2</span>
+</a>
+<div class="mobile-only menu-item-wrapped click-list">
+<span class="item-title">Scuf <span>Vantage 2</span></span>
+<img data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_vantage2_charcoal_150x55.png" class="mobile-img lazy" alt="Back/Front SCUF VANTAGE 2 CHARCOAL CONTROLLER">
+ <div class="link-options">
+<div class="wrapped-links">
+<div class="link-learn">
+<a aria-label="The SCUF Vantage 2 controller for PlayStation® 4 &amp; PC" href="https://scufgaming.com/playstation-vantage-2-controller" class="specific-link">Learn</a>
+</div>
+<div class="link-shop">
+<a aria-label="Scuf Vantage 2 Controller Collections " href="https://scufgaming.com/playstation-4-vantage-2-gaming-controllers" class="specific-link">Shop</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="col-md-2 col-sm-2 product">
+<a aria-label="SCUF Impact controller for PlayStation® 4 &amp; PC" class="desktop-only" href="https://scufgaming.com/playstation-impact-controller">
+<img class="lazy" data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_impact_sapphire_140x80.png" alt="Scuf Impact Controller Sapphire">
+<span>Scuf Impact</span>
+</a>
+<div class="mobile-only menu-item-wrapped click-list">
+<span class="item-title">Scuf Impact</span>
+<img data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_impact_sapphire_150x55.png" class="mobile-img lazy" alt="Front/Back Scuf Impact Controller Sapphire">
+<div class="link-options">
+<div class="wrapped-links">
+<div class="link-learn">
+<a aria-label="The SCUF Impact controller for PlayStation® 4 &amp; PC" href="https://scufgaming.com/playstation-impact-controller" class="specific-link">Learn</a>
+</div>
+<div class="link-shop">
+<a aria-label="Scuf Impact Controller Collections " href="https://scufgaming.com/playstation-4-impact-gaming-controllers" class="specific-link">Shop</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="col-md-2 col-sm-2 product">
+<a aria-label="The SCUF Infinity 4PS Pro controller for PlayStation® 4 &amp; PC" class="desktop-only" href="https://scufgaming.com/playstation-infinity4ps-controller">
+<img class="lazy" data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_pro_sapphire_140x80.png" alt="Scuf Infinity 4PS Pro Controller Sapphire">
+<span>Scuf Infinity <sup>4PS</sup> Pro</span>
+</a>
+<div class="mobile-only menu-item-wrapped click-list">
+<span class="item-title">Scuf <span>Infinity <sup>4PS</sup></span> Pro</span>
+<img data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_pro_sapphire_150x55.png" class="mobile-img lazy" alt="Front/Back Scuf Infinity 4PS Pro Controller Sapphire">
+<div class="link-options">
+<div class="wrapped-links">
+<div class="link-learn">
+<a aria-label="The SCUF Infinity 4PS Pro controller for PlayStation® 4 &amp; PC" href="https://scufgaming.com/playstation-infinity4ps-controller" class="specific-link">Learn</a>
+</div>
+<div class="link-shop">
+<a aria-label="The SCUF Infinity 4PS Pro controller Collections" href="https://scufgaming.com/playstation-4-pro-gaming-controllers" class="specific-link">Shop</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="col-md-2 col-sm-2 product">
+<a aria-label="PlayStation &amp; PC Controller Accessories" class="desktop-only" href="https://scufgaming.com/accessories?cat=41">
+<img class="lazy" data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_accessories_140x80.png" alt="SCUF Universal Player Pack for Playstation 4 Controllers">
+<span>ACCESSORIES</span>
+</a>
 
-	        
-        <div class="page_full_width">
-            <div class="entry-content">
-                <div class="">
-                    <h1>Introduction</h1>
-<p>This Privacy Policy (“Policy”) is intended to be a global enterprise wide Privacy Policy applicable to all data collection by Scuf Gaming International LLC and shall apply to your use of this website, your downloading and use of our mobile applications, your use of any affiliated third party websites that may contain a link to this Privacy Policy, or to any pages, facilities, services, or capabilities accessible on or by any top-level SCUF domain owned by us (each, a “Site” and collectively the “Sites”). &nbsp;&nbsp;The terms “Scuf Gaming,” “SCUF”, “we,” “Company,” “us” or “our” refer to Scuf Gaming International, LLC, its affiliates and/or subsidiaries. The words “you,” “your,” “yours,” “user” and “customer” refer to the individual or entity that uses our Site or submits information to our Company.</p>
-<p>Our Privacy Policy explains: (1) what information we collect and why we collect it; (2) how we use that information; (3) the choices we offer, including how to access and update your information.</p>
-<p>Specifically, our Privacy Policy covers the following topics:</p>
-<ol style="list-style: decimal; margin: 1em 3em 2em;">
+</li>
+
+<li class="col-md-2 col-sm-2 link-list">
+<h4>More</h4>
+<a aria-label="Playstation (PS4) Controllers" href="https://scufgaming.com/playstation">All Playstation</a>
+<a aria-label="Game Guides" href="https://scufgaming.com/gaming">Game Guides</a>
+<a aria-label="Top Reasons to Buy a Scuf" href="https://scufgaming.com/gaming/why-scuf/twelve-reasons-to-choose-scuf">Top Reasons</a>
+<a aria-label="SCUF Gaming Customer Support" href="https://support.scufgaming.com/">Support</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="level0 level-top parent mobile-visible">
+<a class="level-top"> <span>Xbox</span><span class="mobile-addition-title"> &amp; PC</span></a>
+<a aria-label="Xbox One Custom Controllers" href="https://scufgaming.com/xbox/" class="mobile-all"><span>View All</span></a>
+<div class="submenu custom-submenu">
+<div class="submenu-wrapper ui-menu-item">
+<ul class="level1 sub--menu bootstrap row">
+<li class="col-md-2 col-sm-2 product">
+<a aria-label="Prestige Xbox Controller" class="desktop-only" href="https://scufgaming.com/xbox-scuf-prestige-controller">
+<img class="lazy" data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_prestige_tungsten_140x80.png" alt="Scuf Prestige Controller Tungsten Gray">
+<span>Scuf Prestige</span>
+</a>
+<div class="mobile-only menu-item-wrapped click-list">
+<span class="item-title">Scuf Prestige</span>
+<img data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_prestige_tungsten_150x55.png" class="mobile-img lazy" alt="Front/Back Scuf Prestige Controller Tungsten Gray">
+<div class="link-options">
+<div class="wrapped-links">
+<div class="link-learn">
+<a aria-label="SCUF Prestige Controller for Xbox &amp; PC" href="https://scufgaming.com/xbox-scuf-prestige-controller" class="specific-link">Learn</a>
+</div>
+<div class="link-shop">
+<a aria-label="SCUF Prestige Controller Collections" href="https://scufgaming.com/xbox-prestige-gaming-controllers" class="specific-link">Shop</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="col-md-2 col-sm-2 product">
+<a aria-label="Xbox Elite Wireless Controller" class="desktop-only" href="https://scufgaming.com/xbox-scuf-elite-controller">
+<img class="lazy" data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_elite_black_140x80.png" alt="Scuf Elite Controller Black">
+<span>Scuf Elite</span>
+</a>
+<div class="mobile-only menu-item-wrapped click-list">
+<span class="item-title">Scuf Elite</span>
+<img data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_elite_black_150x55.png" class="mobile-img lazy" alt="Front/Back Scuf Elite Controller Black">
+<div class="link-options">
+<div class="wrapped-links">
+<div class="link-learn">
+<a aria-label="SCUF Elite Controller for Xbox &amp; PC" href="https://scufgaming.com/xbox-scuf-elite-controller" class="specific-link">Learn</a>
+</div>
+<div class="link-shop">
+<a aria-label="SCUF Elite Controller for Xbox &amp; PC" href="https://scufgaming.com/xbox-elite-gaming-controllers" class="specific-link">Shop</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="col-md-2 col-sm-2 product">
+<a aria-label="Xbox &amp; PC Controller Accessories" class="desktop-only" href="https://scufgaming.com/accessories?cat=46">
+<img class="lazy" data-src="https://scufgaming.com/media/wysiwyg/nav-menu/scuf_nav_accessories_140x80.png" alt="SCUF Universal Case for Xbox One Controllers">
+<span>ACCESSORIES</span>
+</a>
+
+</li>
+
+<li class="col-md-2 col-sm-2 link-list">
+<h4>More</h4>
+<a aria-label="Xbox One Custom Controllers" href="https://scufgaming.com/xbox">All Xbox</a>
+<a aria-label="Game Guides" href="https://scufgaming.com/gaming">Game Guides</a>
+<a aria-label="Top Reasons to Buy a Scuf" href="https://scufgaming.com/gaming/why-scuf/twelve-reasons-to-choose-scuf">Top Reasons</a>
+<a aria-label="SCUF Gaming Customer Support" href="https://support.scufgaming.com/">Support</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="level0 category-item first level-top mobile-only"><a class="level-top" aria-label="Holiday Special Sale" href="https://scufgaming.com/holiday"><span style="color: red;">Deals</span></a></li>
+<li class="level0 category-item first level-top border-item"><a class="level-top" aria-label="Shop SCUF Gaming Products" href="https://scufgaming.com/store"><span>Store</span></a></li>
+<li class="level0 level-top parent border-item toggle-submenu"><a class="level-top submenu-hide"> <span>Why SCUF</span> </a>
+<div class="submenu custom-submenu">
+<a class="nested-top-link submenu-header-link"> <span>Why SCUF</span></a>
+<div class="submenu-wrapper ui-menu-item">
+<ul class="level1 sub--menu">
+<li class="level0 first"><a aria-label="What We Do" href="https://scufgaming.com/gaming/why-scuf/what-we-do"> <span>What we do</span> </a></li>
+<li class="level1"><a aria-label="Top Reasons to Buy a Scuf" href="https://scufgaming.com/gaming/why-scuf/twelve-reasons-to-choose-scuf"> <span>12 reasons</span> </a></li>
+<li class="level1"><a aria-label="Controller Finder" href="https://scufgaming.com/gaming/why-scuf/controller-finder"> <span>Which SCUF?</span> </a></li>
+<li class="level1 last"><a aria-label="Reviews" href="https://scufgaming.com/gaming/why-scuf/reviews"> <span>Reviews</span> </a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="level0 level-top parent border-item toggle-submenu"><a class="level-top submenu-hide"> <span>Gaming</span> </a>
+<div class="submenu custom-submenu">
+<a class="nested-top-link submenu-header-link"> <span>Gaming</span></a>
+<div class="submenu-wrapper ui-menu-item">
+<ul class="level1 sub--menu">
+<li class="level0 first"><a aria-label="Game Guides" href="https://scufgaming.com/gaming"> <span>Game Guides</span> </a></li>
+<li class="level0 first"><a aria-label="Pro Players" href="/s/scuf-pro-players"> <span>Pro Players</span> </a></li>
+<li class="level1"><a aria-label="Pro Teams" href="/s/scuf-pro-teams"> <span>Pro Teams</span> </a></li>
+<li class="level1"><a aria-label="Partners" href="/s/scuf-partners"> <span>Partners</span> </a></li>
+<li class="level1 last"><a aria-label="Living Esports Videos" href="/s/esports-videos"> <span>Living Esports Videos</span> </a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="level0 category-item first level-top border-item desktop-only"><a class="level-top" aria-label="Holiday Special Sale" href="https://scufgaming.com/holiday"><span style="color: red;">Deals</span></a></li>
+</ul></nav>
+<script type="text/x-magento-init">
+    {
+        "ul#navigation": {
+            "menu": {
+                "responsive": true,
+                "expanded": true,
+                "position": {"my":"left top","at":"left bottom"},
+                "menus": "div.custom-submenu",
+                "hideDelay": 250,
+                "delay": 0,
+                "mediaBreakpoint": "(max-width: 739px)"
+            }
+        }
+    }
+</script>
+</div>
+<div class="section-item-title nav-sections-item-title" data-role="collapsible">
+<a class="nav-sections-item-switch" data-toggle="switch" href="#store.links">Account</a>
+</div>
+<div class="section-item-content nav-sections-item-content" id="store.links" data-role="content"></div>
+<div class="section-item-title nav-sections-item-title" data-role="collapsible">
+<a class="nav-sections-item-switch" data-toggle="switch" href="#top.search.mobile.section"></a>
+</div>
+<div class="section-item-content nav-sections-item-content" id="top.search.mobile.section" data-role="content"><div class="block block-search mobile">
+<div class="block block-content">
+<form class="form minisearch" id="search_mini_form_mobile" action="https://scufgaming.com/aw_advanced_search/result/" method="get" data-mage-init="{&quot;awASQuickSearch&quot;:{
+                  &quot;isAutoCompleteEnabled&quot;: &quot;false&quot;,
+                  &quot;isQueryHighlightEnabled&quot;: &quot;false&quot;,
+                  &quot;activeClassName&quot;: &quot;active&quot;,
+                  &quot;maxRecentSearches&quot;: &quot;0&quot;,
+                  &quot;cookieLifeTime&quot;: &quot;86400&quot;,
+                  &quot;validationMessages&quot;: {
+                      &quot;empty&quot;: &quot;You did not enter anything to search. Try again.&quot;
+                  }
+              }}">
+<div class="field search">
+<label class="label" for="navsearch" data-role="mininavsearch-label"></label>
+<div class="control-1">
+<div class="search-wrap">
+<label for="navsearch" class="searchIcon">
+<svg class="icon"><use xlink:href="#icon-search"></use></svg>
+</label>
+<input id="navsearch" type="text" name="q" value="" maxlength="128" placeholder="Search..." class="input-text" role="combobox" data-role="search-input" aria-haspopup="false" aria-autocomplete="both" aria-label="Search Box" autocomplete="off">
+<a href="javascript:void(0);" class="search--close" id="navsearch--close">
+<svg class="icon"><use xlink:href="#icon-close"></use></svg>
+</a>
+</div>
+</div>
+</div>
+<div class="actions" hidden="">
+<button type="submit" title="Search" class="action search">
+<span style="display:none;">Search</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-search scuf-block-search">
+<div class="block block-content">
+<form class="form minisearch" id="search_mini_form" action="https://scufgaming.com/aw_advanced_search/result/" method="get" data-mage-init="{&quot;awASQuickSearch&quot;:{
+              &quot;isAutoCompleteEnabled&quot;: false,
+              &quot;isQueryHighlightEnabled&quot;: false,
+              &quot;activeClassName&quot;: &quot;active&quot;,
+              &quot;suggestUrl&quot;: &quot;https:\/\/scufgaming.com\/aw_advanced_search\/autocomplete\/suggest\/&quot;,
+              &quot;resultEntityUrl&quot;: &quot;https:\/\/scufgaming.com\/aw_advanced_search\/result\/entity\/&quot;,
+              &quot;maxRecentSearches&quot;: 0,
+              &quot;cookieLifeTime&quot;: &quot;86400&quot;,
+              &quot;validationMessages&quot;: {
+              &quot;empty&quot;: &quot;You did not enter anything to search. Try again.&quot;
+              }
+              }}">
+<div class="field search">
+<div class="control">
+<div class="search-wrap">
+<button type="submit" title="Search" class="action search" aria-label="search button">
+<span style="display:none;">Search</span>
+</button>
+<input id="search" type="text" name="q" value="" maxlength="128" placeholder="Search entire store here..." class="input-text" role="combobox" data-role="search-input" aria-haspopup="false" aria-autocomplete="both" aria-label="Search Box" aria-hidden="true" autocomplete="off">
+<a href="javascript:void(0);" data-role="button-close" class="search--close" id="search--close" aria-label="Close Search">
+<svg class="icon"><use xlink:href="#icon-close"></use></svg>
+</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div></div>
+</header><div class="breadcrumbs">
+<ul class="items">
+<li class="item home">
+<a href="https://scufgaming.com/" title="Go to Home Page">Home</a>
+</li>
+<li class="item cms_page">
+<strong>Privacy Policy</strong>
+</li>
+</ul>
+</div>
+<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page-title-wrapper">
+<h1 class="page-title">
+<span class="base" data-ui-id="page-title-wrapper">Scufgaming.com Privacy Policy</span> </h1>
+</div>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+<!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+<div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+<div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+<div data-bind="html: message.text"></div>
+</div>
+</div>
+<!-- /ko -->
+<!-- ko if: messages().messages && messages().messages.length > 0 -->
+<div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+<div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+ <div data-bind="html: message.text"></div>
+</div>
+</div>
+<!-- /ko -->
+</div>
+</div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="OpTXJGktYEBOUcNo"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+<!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+<div id="magestat-cookie-law-banner" class="hidden" data-bind="scope:'magestat-cookie-law-banner'">
+<div class="content-inner-container">
+<div class="banner-content">
+<p class="cookie-content">This website uses cookies to optimize performance, analyze site traffic, and allow various 3rd-party services to function properly. If you continue to use this site, you consent to our Privacy Policy and the use of cookies. </p>
+<p class="more-info-content">
+<a class="link type--black" href="https://scufgaming.com/privacy-policy/">
+<em>More Info</em>
+</a>
+</p>
+</div>
+<div class="banner-button">
+<button class="action primary button-accept">
+<span>Accept</span>
+</button>
+</div>
+</div>
+</div>
+<div data-mage-init="{&quot;feedReport&quot;:[]}"></div><style xml="space"><!--
+a, a:active, a:visited {
+    color: #0068c4;
+    outline: 0 !important;
+    -webkit-transition: color .25s ease 0s;
+    transition: color .25s ease 0s;
+}
+ul{
+ margin-left: -15px;
+}
+.page-title-wrapper {
+  text-align: center;
+}
+
+.page-wrapper {
+    background-color: white;
+}
+
+.cms-page-view .breadcrumbs .item a {
+    color: #63666a;
+}
+
+h1{
+        font-size: 34px;
+        margin-top: 1em !important;
+}
+h2{
+  font-size: 24px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+
+   font-family: din next pro condensed,sans-serif;
+    font-weight: 700;
+    color: #000;
+    text-transform: uppercase;
+    line-height: 1.1;
+    letter-spacing: 0.2px;
+}
+
+.section-wrapper {
+    padding-bottom: 50px;
+}
+
+.section-wrapper > p {
+      text-align: justify;
+}
+
+a:hover, alink:hover {
+    color: #bbb8be !important;
+    text-decoration: none;
+}
+
+.section-container{
+   margin-left: 20px !important;
+   margin-right: 20px;
+}
+--></style>
+<div class="section-container">
+<div class="row section-wrapper">
+<h1>Introduction</h1>
+<p>This Privacy Policy (“Policy”) is intended to be a global enterprise wide Privacy Policy applicable to all data collection by Scuf Gaming International LLC and shall apply to your use of this website, your downloading and use of our mobile applications, your use of any affiliated third party websites that may contain a link to this Privacy Policy, or to any pages, facilities, services, or capabilities accessible on or by any top-level SCUF domain owned by us (each, a “Site” and collectively the "Sites"). &nbsp;&nbsp;The terms “Scuf Gaming,” “SCUF”, “we,” “Company,” “us” or “our” refer to Scuf Gaming International, LLC, its affiliates and/or subsidiaries. The words “you,” “your,” “yours,” “user” and “customer” refer to the individual or entity that uses our Site or submits information to our Company. Our Privacy Policy explains: (1) what information we collect and why we collect it; (2) how we use that information; (3) the choices we offer, including how to access and update your information. Specifically, our Privacy Policy covers the following topics: </p><ol style="list-style: decimal;">
 <li>Terms and Conditions</li>
 <li>When this Privacy Policy Applies</li>
 <li>Information We Collect</li>
@@ -297,19 +744,12 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <li>Changes</li>
 <li>Contact Us</li>
 </ol>
-<p>Please familiarize yourself with our privacy practices and <a href="mailto:privacy@scufgaming.com">contact us </a>&nbsp;if you have any questions. By using the Sites, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Sites.</p>
-<p>Irrespective of which country you live in, you authorize us to transfer, store, and use your information in the United States, and any other country where we operate. In some of these countries, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those in the country where you live. Learn more about our data transfer operations in the “International Transfer” section below. If you do not agree to the transfer, storage and use of your information in the United States, and any other country where we operate, please do not use the Sites or Services.</p>
-<p><strong>Terms and Conditions</strong></p>
-<p>By accessing or using the Sites in any manner, you also agree to be bound by Scuf Gaming’s <a href="https://scufgaming.com/s/terms-and-conditions/">Terms and Conditions</a> (the “Agreement”). Please read the <a href="https://scufgaming.com/s/terms-and-conditions/">Agreement</a> carefully. If you do not accept all of the terms and conditions contained in or incorporated by reference into the Agreement, please do not use the Sites.</p>
+<p>Please familiarize yourself with our privacy practices and <a href="mailto:privacy@scufgaming.com">contact us </a>&nbsp;if you have any questions. By using the Sites, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Sites. Irrespective of which country you live in, you authorize us to transfer, store, and use your information in the United States, and any other country where we operate. In some of these countries, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those in the country where you live. Learn more about our data transfer operations in the “International Transfer” section below. If you do not agree to the transfer, storage and use of your information in the United States, and any other country where we operate, please do not use the Sites or Services. <strong>Terms and Conditions</strong> By accessing or using the Sites in any manner, you also agree to be bound by Scuf Gaming’s <a href="https://scufgaming.com/terms-and-conditions/">Terms and Conditions</a> (the “Agreement”). Please read the <a href="https://scufgaming.com/terms-and-conditions/">Agreement</a> carefully. If you do not accept all of the terms and conditions contained in or incorporated by reference into the Agreement, please do not use the Sites.</p>
 <h1>When this Privacy Policy Applies</h1>
-<p>Our Privacy Policy applies to all of the services offered by Scuf Gaming and its affiliates, and services offered on other sites, but exclude services that have separate Privacy Policies that do not incorporate this Privacy Policy.</p>
-<p>Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.</p>
-<h1>Information We Collect</h1>
-<p>We collect information to provide better services to all of our users.&nbsp; These features include items such as order history, saved shipping and billing addresses and “save-for-later” controller configurations.</p>
-<p>We use the term “Personal Data” to refer to any information that identifies or can be used to identify you. Common examples of personal data include: full name, home address, email address, date of birth, digital identity, such as a login name or handle, information about your device, and certain metadata.</p>
-<p>“Sensitive Personal Data” refers to a smaller subset of personal data which is considered more sensitive to the individual, such as race and ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic or biometric information, physical or mental health information, medical insurance data, or sexual orientation. Scuf Gaming does not collect or use Sensitive Personal Data and asks that you do not provide Sensitive Personal Data to us.</p>
-<p>We collect personal data in the following ways:</p>
-<ul style="list-style: disc; margin: 0 3em 2em;">
+<p>Our Privacy Policy applies to all of the services offered by Scuf Gaming and its affiliates, and services offered on other sites, but exclude services that have separate Privacy Policies that do not incorporate this Privacy Policy. Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.</p><p>
+</p><h1>Information We Collect</h1>
+<p>We collect information to provide better services to all of our users.&nbsp; These features include items such as order history, saved shipping and billing addresses and “save-for-later” controller configurations. We use the term “Personal Data” to refer to any information that identifies or can be used to identify you. Common examples of personal data include: full name, home address, email address, date of birth, digital identity, such as a login name or handle, information about your device, and certain metadata. “Sensitive Personal Data” refers to a smaller subset of personal data which is considered more sensitive to the individual, such as race and ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic or biometric information, physical or mental health information, medical insurance data, or sexual orientation. Scuf Gaming does not collect or use Sensitive Personal Data and asks that you do not provide Sensitive Personal Data to us. We collect personal data in the following ways:</p>
+<ul style="list-style: disc;">
 <li><strong>Information you give us: </strong>When you create an account and user ID, download a software update, contact us by phone, email or social media or participate in an online survey or contest, we may collect a variety of information, including, but not limited to:
 <ul style="list-style: circle; margin: 0 3em 2em;">
 <li>your name</li>
@@ -330,19 +770,19 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
-<ul style="list-style: disc; margin: 0 3em 2em;">
+&nbsp;
+<ul style="list-style: disc;">
 <li><strong>Information we get from your use of our services.</strong>
-<ul style="list-style: circle; margin: 0 3em 2em;">
-<li><u>Device information</u>
-<ul style="list-style: disc; margin: 0 3em;">
+<ul style="list-style: circle; ">
+<li><span style="text-decoration: underline;">Device information</span>
+<ul style="list-style: disc; ">
 <li>We collect device-specific information such as, but not limited to, your hardware model, web browser version, operating system version, unique device identifiers, and network information including phone number. SCUF may associate your device identifier with your SCUF account.</li>
 </ul>
 </li>
-<li><u>Log information</u>
-<ul style="list-style: disc; margin: 0 3em 0;">
+<li><span style="text-decoration: underline;">Log information</span>
+<ul style="list-style: disc;">
 <li>When you use our services, we automatically collect and store information in service logs. This includes:
-<ul style="list-style: disc; margin: 0 3em 0;">
+<ul style="list-style: disc;">
 <li>Details of how you used our service;</li>
 <li>Internet protocol address;</li>
 <li>Cookies that uniquely identify your browser.</li>
@@ -350,35 +790,28 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 </li>
 </ul>
 </li>
-<li><u>Location information</u>
-<ul style="list-style: disc; margin: 0 3em 0;">
+<li><span style="text-decoration: underline;">Location information</span>
+<ul style="list-style: disc;">
 <li>When you use our services, we may collect and process information about your actual location. We use various technologies to determine location, including IP address, GPS, and other sensors that may, for example, provide us with information on nearby devices, Wi-Fi access points and cell towers.</li>
 </ul>
 </li>
-<li><u>Local storage</u>
-<ul style="list-style: disc; margin: 0 3em 0;">
+<li><span style="text-decoration: underline;">Local storage</span>
+<ul style="list-style: disc;">
 <li>We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage and application data caches.</li>
 </ul>
-<ul style="list-style: disc; margin: 0 3em 0;">
-<li><u>Cookies and similar technologies</u>
-<ul style="list-style: disc; margin: 0 3em 0;">
-<li>We and our partners use various technologies to collect and store information when you visit one of our services, and this may include using cookies or similar technologies to identify your browser or device.
-<ul style="list-style: disc; margin: 0 3em 0;">
-<li>“Cookies” are small files placed on the hard drive of your computer. We use cookies to provide features and services, such as:
-<ul style="list-style: disc; margin: 0 3em 0;">
+</li><li><span style="text-decoration: underline;">Cookies and similar technologies</span>
+<ul style="list-style: disc; ">
+<li>We and our partners use various technologies to collect and store information when you visit one of our services, and this may include using cookies or similar technologies to identify your browser or device.</li>
+<li>“Cookies” are small files placed on the hard drive of your computer. We use cookies to provide features and services, such as:</li>
 <li>Allowing you to enter your account information less frequently</li>
 <li>Remembering your preferences</li>
 <li>Presenting information that’s targeted to your interests</li>
 <li>Measuring the effectiveness of our Sites, services, content and advertising</li>
 <li>Providing other services and features that are available only through the use of cookies</li>
 <li>Shopping behavior to determine ad servicing</li>
-</ul>
-</li>
 <li>A “web beacon” is an electronic image placed in the code of a web page. We use web beacons to monitor the traffic patterns of users from one page to another and to improve Site performance.</li>
-</ul>
-</li>
 <li>We also use these technologies to collect and store information when you interact with services from our partners, such as advertising services, that may include:
-<ul style="list-style: disc; margin: 0 3em 0;">
+<ul style="list-style: disc; ">
 <li>Google Analytics</li>
 <li>Google Tag Manager</li>
 <li>Zendesk</li>
@@ -390,10 +823,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <li>Facebook Pixel</li>
 <li>Bing Pixel</li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
+</li></ul>
 </li>
 </ul>
 </li>
@@ -401,7 +831,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <h1>How We Use Information We Collect</h1>
 <p>We use information collected from cookies and other technologies, to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer.</p>
 <p style="font-size: 18px;">We may use your personal information to:</p>
-<ul style="list-style: disc; margin: 0 3em 0;">
+<ul style="list-style: disc; ">
 <li>Improve your browsing experience by personalizing the Site</li>
 <li>Send goods purchased via the Site and supply services purchased via the Site</li>
 <li>send statements and invoices and collect payments</li>
@@ -411,14 +841,12 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <li>Deal with inquiries and complaints made by or about you relating to the Site</li>
 <li>Provide your Personal Information to associated third parties for the purpose of direct marketing</li>
 </ul>
-<p>We will ask for your consent before using information for a purpose other than those set out in this Privacy Policy.</p>
-<p><strong>Our Legal Basis for Collecting Personal Data</strong></p>
-<p><strong>&nbsp;</strong>Whenever we collect Personal Data from you, we may do so on the following legal bases:</p>
-<ol style="list-style: decimal; margin: 0 3em 0;">
+<p>We will ask for your consent before using information for a purpose other than those set out in this Privacy Policy. <strong>Our Legal Basis for Collecting Personal Data</strong> <strong>&nbsp;</strong>Whenever we collect Personal Data from you, we may do so on the following legal bases:</p>
+<ol style="list-style: decimal; ">
 <li>Your consent to such collection and use;</li>
 <li>Out of necessity for the performance of an agreement between us and you, such as your agreement to use our services and products;</li>
 <li>Our legitimate business interest, including but not limited to the following circumstances where collecting or using Personal Data is necessary for:
-<ul style="list-style: disc; margin: 0 3em 0;">
+<ul style="list-style: disc; ">
 <li>Intra-company transfers for client data for administrative purposes;</li>
 <li>Product development and enhancement, where the processing enables Scuf Gaming to enhance, modify, personalize, or otherwise improve our services and communications for the benefit of our customers, and to better understand how people interact with our Sites;</li>
 <li>Communications and marketing, including processing data for direct marketing purposes, and subject to your opt-in for these purposes, and to determine the effectiveness of our promotional campaigns and advertising;</li>
@@ -433,7 +861,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <p>People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. We also aim to provide you with access to your Personal Data. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. Subject to applicable law, you may obtain a copy of personal information we maintain about you or you may update or correct inaccuracies in that information through your Scuf Gaming account or by contacting us.</p>
 <h1><strong>European Users’ Rights With Respect to Personal Data</strong></h1>
 <p>Some data protection laws, including the European Union’s General Data Protection Regulation (“GDPR”), provide you with certain rights in connection with Personal Data you have shared with us. If you are resident in the European Economic Area, you may have the following rights:</p>
-<ol style="list-style: decimal; margin: 0 3em 0;">
+<ol style="list-style: decimal;">
 <li><strong>The right to be informed</strong>. You are entitled to be informed of the use of your Personal Data.&nbsp; This Privacy Policy provides such information to you.</li>
 <li><strong>The right of access</strong>. You have the right to request a copy of your Personal Data which we hold about you.</li>
 <li><strong>The right of correction</strong>: You have the right to request correction or changes of your Personal Data if it is found to be inaccurate or out of date.</li>
@@ -442,31 +870,24 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <li><strong>The right to data portability</strong>: You have the right to a “portable” copy of your Personal Data that you have submitted to us.&nbsp; Generally, this means your right to request that we move, copy or transmit your Personal Data stored on our servers / IT environment to another service provider’s servers / IT environment.</li>
 <li><strong>The right to refuse to be subjected to automated decision making, including profiling:</strong> You have the right not to be subject to a decision and insist on human intervention if the decision is based on automated processing and produces a legal effect or a similarly significant effect on you.</li>
 <li><strong>The right to lodge a complaint with a supervisory authority</strong>.</li>
-</ol>
-<p><strong>&nbsp;</strong></p>
-<p>You may contact us using the contact information below, and we will consider your request in accordance with applicable laws.</p>
+</ol><strong>&nbsp;</strong>You may contact us using the contact information below, and we will consider your request in accordance with applicable laws.
 <h1>Accessing, Updating or Deleting Your Personal Information</h1>
-<p>Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes.</p>
-<p>We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.</p>
-<p>You may update or correct information about yourself by emailing us at <a href="mailto:privacy@scufgaming.com">privacy@scufgaming.com</a>.&nbsp; If you completely delete all such information, then your account may become deactivated.&nbsp; We may retain an archived copy of your records as required by law, to comply with our legal obligations, to resolve disputes, to enforce our agreements or for other legitimate business purposes.</p>
+<p>Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. You may update or correct information about yourself by emailing us at <a href="mailto:privacy@scufgaming.com">privacy@scufgaming.com</a>.&nbsp; If you completely delete all such information, then your account may become deactivated.&nbsp; We may retain an archived copy of your records as required by law, to comply with our legal obligations, to resolve disputes, to enforce our agreements or for other legitimate business purposes.</p>
 <h1><strong>Our Opt-in/Opt-out Policy</strong></h1>
-<p>By providing an email address on the Scuf Gaming Sites, you agree that we may contact you in the event of a change in this Privacy Policy, to provide you with any service related notices, or to provide you with information about our events, invitations, or related educational information.</p>
-<p>For purposes of this Privacy Policy, “opt-in” is generally defined as any affirmative action by a user to submit or receive information, as the case may be.</p>
-<p>We currently provide the following opt-out opportunities:</p>
-<ol style="list-style: decimal; margin: 0 3em 0;">
+<p>By providing an email address on the Scuf Gaming Sites, you agree that we may contact you in the event of a change in this Privacy Policy, to provide you with any service related notices, or to provide you with information about our events, invitations, or related educational information. For purposes of this Privacy Policy, “opt-in” is generally defined as any affirmative action by a user to submit or receive information, as the case may be. We currently provide the following opt-out opportunities:</p>
+<ol style="list-style: decimal; ">
 <li>At any time, you can follow a link provided in offers, newsletters or other email messages (except for e-commerce confirmation or service notice emails) received from us to unsubscribe from the service.</li>
 <li>At any time, you can contact us through <a href="mailto:privacy@scufgaming.com">privacy@scufgaming.com</a> or the address or telephone number provided below to unsubscribe from the service and opt-out of our right per your consent under the terms of this Privacy Policy to share your Personal Data.</li>
 </ol>
-<p>Notwithstanding anything else in this Privacy Policy, please note that we always reserve the right to contact you in the event of a change in this Privacy Policy, or to provide you with any service related notices.</p>
-<p>You may also set your browser to block all cookies, including cookies associated with our services, or to indicate that a cookie is being set by us. However, please remember that many of our services may not function properly if your cookies are disabled. For example, with cookies disabled, purchasing on the Site is unavailable.</p>
+<p>Notwithstanding anything else in this Privacy Policy, please note that we always reserve the right to contact you in the event of a change in this Privacy Policy, or to provide you with any service related notices. You may also set your browser to block all cookies, including cookies associated with our services, or to indicate that a cookie is being set by us. However, please remember that many of our services may not function properly if your cookies are disabled. For example, with cookies disabled, purchasing on the Site is unavailable.</p>
 <h1>Information You Share</h1>
-<p>Our services may allow you to share information with others via social media, links, email, messaging, etc. If you share information on third-party websites that we do not control, Scuf Gaming is not responsible for their contents or the privacy policies or other practices of such websites. Our inclusion of links to such websites does not imply any endorsement of the material on such websites or any association with their operators. Further, it is up to the User to take precautions to ensure that whatever links the User selects or software the User downloads (whether from this Site or other websites) is free of such items as viruses, worms, trojan horses, defects and other items of a destructive nature. These websites and services may have their own privacy policies, which the User will be subject to upon linking to the third party’s website. Scuf Gaming strongly recommends that each User review the third party’s terms and policies.</p>
+<p>Our services may allow you to share information with others via social media, links, email, messaging, etc. If you share information on third-party websites that we do not control, Scuf Gaming is not responsible for their contents or the privacy policies or other practices of such websites. Our inclusion of links to such websites does not imply any endorsement of the material on such websites or any association with their operators. Further, it is up to the User to take precautions to ensure that whatever links the User selects or software the User downloads (whether from this Site or other websites) is free of such items as viruses, worms, trojan horses, defects and other items of a destructive nature. These websites and services may have their own privacy policies, which the User will be subject to upon linking to the third party's website. Scuf Gaming strongly recommends that each User review the third party's terms and policies.</p>
 <h1>Information We Share</h1>
 <p>We do not share personal information with companies, organizations and individuals outside of Scuf Gaming unless one of the following circumstances applies:</p>
-<ul style="list-style: disc; margin: 0 3em 0;">
+<ul style="list-style: disc;">
 <li><strong>With your consent. </strong>We will share personal information with companies, organizations or individuals outside of SCUF when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information.</li>
 <li><strong>For external processing. </strong>We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-<ul style="list-style: circle; margin: 0 3em 0;">
+<ul style="list-style: circle; ">
 <li>PAYMENT INFORMATION: If you make a purchase from our Site, we may collect payment information from you including, but not limited to, your credit or debit card number, cardholder name, expiration date, security code and billing address. We will securely transmit this information to a third party to process your payment. Please be aware that your payments are not processed by us. Your payment is processed by a third party processor.</li>
 </ul>
 </li>
@@ -480,455 +901,556 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 </ul>
 </li>
 </ul>
-<p>We may share non-personally identifiable information publicly and with our partners – like advertisers or connected sites. For example, we may share information publicly to show trends about our products and services.</p>
-<p>If SCUF is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different Privacy Policy.</p>
+<p>We may share non-personally identifiable information publicly and with our partners – like advertisers or connected sites. For example, we may share information publicly to show trends about our products and services. If SCUF is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different Privacy Policy.</p>
 <h1>Your Failure to Provide Personal Data</h1>
-<p>Your provision of Personal Data is required in order to use certain parts of our services and our products.&nbsp; If you fail to provide such Personal Data, you may not be able to access and use our services and/or our products, or parts of our services and/or our products.</p>
-<p><strong>Our Retention of Your Personal Data</strong></p>
-<p>We may retain Personal Data for a period of time consistent with the original purpose for collection.&nbsp; For example, we keep your Personal Data for no longer than reasonably necessary for your use of our products and services and for a reasonable period of time afterward. We also may retain your Personal Data during the period of time needed for us to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements.If you choose to close your account, we generally delete closed account information within 30 days of account closure, except as noted below. We retain your Personal Data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our Terms and Conditions, or fulfill your request to “unsubscribe” from further messages from us. We will retain de-personalized information after your account has been closed.</p>
+<p>Your provision of Personal Data is required in order to use certain parts of our services and our products.&nbsp; If you fail to provide such Personal Data, you may not be able to access and use our services and/or our products, or parts of our services and/or our products. <strong>Our Retention of Your Personal Data</strong>We may retain Personal Data for a period of time consistent with the original purpose for collection.&nbsp; For example, we keep your Personal Data for no longer than reasonably necessary for your use of our products and services and for a reasonable period of time afterward. We also may retain your Personal Data during the period of time needed for us to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements.If you choose to close your account, we generally delete closed account information within 30 days of account closure, except as noted below. We retain your Personal Data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our Terms and Conditions, or fulfill your request to “unsubscribe” from further messages from us. We will retain de-personalized information after your account has been closed.</p>
 <h1>International Transfer</h1>
-<p>We are committed to complying with applicable laws, regulations and mandatory government standards regarding the protection of Personal Data.</p>
-<p>Since we are a global organization, Personal Data and any additional information submitted may be used globally in connection with employment, business processes within Scuf Gaming, or communicating with our clients. Therefore, Personal Data may be transferred to other Scuf Gaming entities worldwide, where it will be processed in accordance with this Privacy Policy and laws that are applicable in each country. Countries where we process data may have laws which are different, and potentially not as protective, as the laws of your own country.</p>
-<p>If we transfer your Personal Data out of your jurisdiction, we will implement suitable safeguards and rely on legally-provided mechanisms to lawfully transfer data across borders to ensure that your Personal Data is protected.</p>
+<p>We are committed to complying with applicable laws, regulations and mandatory government standards regarding the protection of Personal Data. Since we are a global organization, Personal Data and any additional information submitted may be used globally in connection with employment, business processes within Scuf Gaming, or communicating with our clients. Therefore, Personal Data may be transferred to other Scuf Gaming entities worldwide, where it will be processed in accordance with this Privacy Policy and laws that are applicable in each country. Countries where we process data may have laws which are different, and potentially not as protective, as the laws of your own country. If we transfer your Personal Data out of your jurisdiction, we will implement suitable safeguards and rely on legally-provided mechanisms to lawfully transfer data across borders to ensure that your Personal Data is protected.</p>
 <h1>Information Security</h1>
 <p>We work hard to protect SCUF and our users from unauthorized access or unauthorized alteration, disclosure or destruction of information we hold. In particular:</p>
-<ul style="list-style: disc; margin: 0 3em 0;">
+<ul style="list-style: disc;">
 <li>We encrypt many of our services using SSL.</li>
 <li>We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to the system.</li>
 <li>We restrict access to personal information to SCUF employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.</li>
 <li>Data transmission over the Internet is inherently insecure. We cannot guarantee the security of any data or Personal Information sent over the Internet. You are responsible for keeping any of your account information confidential including, but not limited to, password and user details. We will not ask you for your password via email. Please take great care in protecting your account information and do not share it with anyone.</li>
 </ul>
 <h1>Children</h1>
-<p>The Sites and services are not intended for use by children.&nbsp; We do not intentionally gather personally identifiable information about visitors who are under the age of 13.&nbsp; If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us to have the information deleted from our records. If you believe that we might have any information from a child under age 13, please contact customer support.&nbsp; If we learn that we have inadvertently collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, we will take steps to delete the information as soon as possible.</p>
-<p><strong>Children under the age of 16 must have parental consent prior to accessing and using our Site. We may collect information about children including, but not limited to, name, address, contact number, email address and purchase history. The information we obtain may be used for marketing purposes, quality assurance, reporting and to provide a better experience for our customers. Children will not be required to disclose more information about themselves than necessary to use our Site. Parents must consent to our collection of Personal Information about their children. Parents may limit the amount of information obtained about their children and the extent to which their child’s information is used, stored or shared with third parties.</strong></p>
+<p>The Sites and services are not intended for use by children.&nbsp; We do not intentionally gather personally identifiable information about visitors who are under the age of 13.&nbsp; If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us to have the information deleted from our records. If you believe that we might have any information from a child under age 13, please contact customer support.&nbsp; If we learn that we have inadvertently collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, we will take steps to delete the information as soon as possible. <strong>Children under the age of 16 must have parental consent prior to accessing and using our Site. We may collect information about children including, but not limited to, name, address, contact number, email address and purchase history. The information we obtain may be used for marketing purposes, quality assurance, reporting and to provide a better experience for our customers. Children will not be required to disclose more information about themselves than necessary to use our Site. Parents must consent to our collection of Personal Information about their children. Parents may limit the amount of information obtained about their children and the extent to which their child’s information is used, stored or shared with third parties.</strong></p>
 <h1>California Residents</h1>
 <p>California residents are entitled to contact us to request information about whether we have disclosed personal information third parties for the third parties’ direct marketing purposes. Upon receipt of a request by a California customer, and as required by California state law, we will provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. California customers may request further information about our compliance with this law by e-mailing us at the address listed above. &nbsp;Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.</p>
 <h1>Changes</h1>
 <p>Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services or products, email notification or Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.</p>
 <h1>Contact Us</h1>
-<p>If you have any specific questions about this Privacy Policy, you can contact:</p>
-<p>Scuf Gaming International, LLC</p>
-<p>Attn: Data Privacy Officer</p>
-<p>3970 Johns Creek Court, Suite 325</p>
-<p>Suwanee, GA 30024</p>
-<p>United States of America</p>
-<p><a href="mailto:privacy@scufgaming.com">privacy@scufgaming.com</a></p>
-    
-                </div>
-            </div><!-- .entry-content -->
-        </div>
-
-    
-				</div>
-			</div><!--.site-content-->
-		</main><!--.container page-container-->
-        <!-- Cookie notice -->
-        <style>
-        #notice-cookie-block {
-            position: fixed;
-            z-index: 100;
-            bottom: 0;
-            background-color: #17131F;
-            padding: 1%;
-        }
-        @media(max-width:767px){
-            #notice-cookie-block {
-                padding: 10px 20px;
-            }  
-            #notice-cookie-block p {
-                margin-bottom:10px;
-            } 
-        }        
-        </style>
-        <div class="message global cookie container-fluid hidden" id="notice-cookie-block">
-            <div class="content row">
-                <div class="col-lg-10 col-sm-8">
-                    <p class="type-body-3">
-                                                    This website and its third-party tools require the use of cookies. This site is not intended for use by children under 13 and parental consent is required for children under 16. By continuing you agree to our <a class="ui-inline-link" href="/s/privacy-policy/">Privacy Policy</a> and the use of cookies.    
-                                            </p>
-                </div>
-                <div class="col-lg-2 col-sm-4 text-center">
-                    <div class="actions">
-                        <button id="btn-cookie-allow" class="action allow ui-btn ui-btn--small">
-                            <span class="ui-btn__text">
-                                                                    Accept  
-                                                            </span>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End cookie notice -->
-        <!--Start of Zendesk Chat Script-->
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-$.src="https://v2.zopim.com/?3xL90PKEbx6s9pfMXoa9aPftoQMCpm5x";z.t=+new Date;$.
-type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-</script>
-<!--End of Zendesk Chat Script-->     
-
-<!-- Bing Ads UET tag tracking code          -->
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5694786"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
-<noscript><img src="//bat.bing.com/action/0?ti=5694786&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
-
-<!-- Hotjar Tracking Code for scufgaming.com -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:574061,hjsv:5};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
-<!-- Twitter universal website tag code -->
-<script>
-!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
-},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
-a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
-// Insert Twitter Pixel ID and Standard Event data below
-twq('init','nyfxy');
-twq('track','PageView');
-</script>
-<!-- End Twitter universal website tag code -->
-
-<!-- Facebook Pixel Code 1 updated -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '259947794747345');
-fbq('track', 'PageView');
-fbq('track', 'ViewContent');
-</script>
-<noscript><img height="1" width="1" style="display:none" alt="Facebook Pixel" 
-src="https://www.facebook.com/tr?id=259947794747345&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-<!-- New Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '170874740245906');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=170874740245906&ev=PageView&noscript=1"
-/></noscript>
-<!-- End New Facebook Pixel Code -->
-		<div id="footer-container-wrapper">
-    <div id="footer-container" class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-8 pull-left" style="margin-bottom:2em">
-                <div class="footer-links-spacing"></div>
-                <nav>
-                    <div class="collapsable-menu col-xs-6 col-md-3">
-                        <h3 class="type-label-1">Shop<!-- <i class="arrow"></i> --></h3>
-                        <div class="mobile-jar">
-                            <p><a class="type-header-7" href="/playstation">PlayStation 4</a></p>
-                            <p><a class="type-header-7" href="/xbox">Xbox One</a></p>
-                            <p><a class="type-header-7" href="/accessories">Accessories</a></p>
-                            <p><a class="type-header-7" href="/apparel">Apparel</a></p>
-                            <p><a class="type-header-7" href="/gift-card">Gift Cards</a></p>
-                        </div>
-                    </div>
-
-                    <div class="collapsable-menu col-xs-6 col-md-3">
-                        <h3 class="type-label-1">Support<!-- <i class="arrow"></i> --></h3>
-                        <div class="mobile-jar">
-                            <p><a class="type-header-7" href="https://support.scufgaming.com/hc/en-us/">Customer Support</a></p>
-                            <p><a class="type-header-7" href="/customer/account">My Account</a></p>
-                            <p><a class="type-header-7" href="https://support.scufgaming.com/hc/en-us">Track My Order</a></p>
-                            <p><a class="type-header-7" href="https://support.scufgaming.com/hc/en-us">Returns &amp; Repairs</a></p>
-                            <p><a class="type-header-7" href="https://support.scufgaming.com/hc/en-us">User Manuals</a></p>
-                            <p><a class="type-header-7" href="https://support.scufgaming.com/hc/en-us">Contact Us</a></p>
-                        </div>
-                    </div>
-
-                    <div class="collapsable-menu col-xs-6 col-md-3">
-                        <h3 class="type-label-1">Company<!-- <i class="arrow"></i> --></h3>
-                        <div class="mobile-jar">
-                            <p><a class="type-header-7" href="/s/about-us/">About Us</a></p>
-                            <p><a class="type-header-7" href="/s/scufology/">Why SCUF</a></p>
-                            <p><a class="type-header-7" href="/s/reviews/">Reviews</a></p>
-                            <p><a class="type-header-7" href="/s/news/">News</a></p>
-                            <p><a class="type-header-7" href="/s/press-media/">Press Center</a></p>
-                            <p><a class="type-header-7" href="/s/careers/">Careers</a></p>
-                            <p><a class="type-header-7" href="/s/limited-warranty/">Warranty</a></p>
-                            <p><a class="type-header-7" href="/s/terms-and-conditions/">Terms Of Use</a></p>
-                            <p><a class="type-header-7" href="/s/privacy-policy/">Privacy Policy</a></p>
-                            <p><a class="type-header-7" href="/s/patents/">SCUF Patents</a></p>
-                        </div>
-                    </div>
-
-                    <div class="collapsable-menu col-xs-6 col-md-3">
-                        <h3 class="type-label-1">Esports<!-- <i class="arrow"></i> --></h3>
-                        <div class="mobile-jar">
-                            <p><a class="type-header-7" href="/s/scuf-pro-teams/" target="_blank">Pro Teams</a></p>
-                            <p><a class="type-header-7" href="/s/scuf-partners/">Partners</a></p>
-                            <p><a class="type-header-7" href="/s/scuf-game-guides/">Game Guides</a></p>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-            <div class="col-sm-12 col-md-4 pull-right">
-                <div class="bg-color-change">
-                <!--<h3 class="type-label-1">Newsletter</h3>
-                <form class="form subscribe" novalidate="novalidate" action="/newsletter/subscriber/new" method="post" id="newsletter-validate-detail">
-                    <div class="newsletter-form-wrap">
-                        <div class="col-xs-6" style="padding:0">
-                            <input name="email" type="email" id="newsletter" placeholder="email@provider.com" data-validate="{required:true, 'validate-email':true}">
-                        </div>
-                        <div class="col-xs-6">
-                            <button class="btn sign-up-button" title="Subscribe Now" type="submit">Sign Up</button>
-                        </div>
-                    </div>
-                    <div style="clear:both"></div>
-                </form>-->
-
-                <h3 class="type-label-1">Connect with us</h3>
-                <ul class="social-icons">
-                    <li>
-                        <a class="twitter" href="https://twitter.com/scufgaming" target="_blank">
-                            <i class="icon ion-social-twitter"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="facebook" href="https://www.facebook.com/ScufGaming/" target="_blank">
-                            <i class="icon ion-social-facebook"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="instagram" href="https://www.instagram.com/scufgaming/" target="_blank">
-                            <i class="icon ion-social-instagram-outline"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="youtube" href="https://www.youtube.com/c/scufgamingtv" target="_blank">
-                            <i class="icon ion-social-youtube"></i>
-                        </a>
-                    </li>
-                </ul>
-
-                <div class="location hidden">
-                    <h3 class="nombot">Location</h3>
-                    <p>United States | English</p>
-                </div>
-            </div>
-        </div>
-    </div>
+<p>If you have any specific questions about this Privacy Policy, you can contact:</p><address><b>Scuf Gaming International, LLC </b></address><address><b>Attn: Data Privacy Officer </b></address><address><b>3970 Johns Creek Court, </b></address><address><b>Suite 325 Suwanee, GA 30024 </b></address><address><b>United States of America</b></address><address><b><br></b></address><a href="mailto:privacy@scufgaming.com">privacy@scufgaming.com</a></div>
+</div></div></div></main><footer class="page-footer footer-container page-section page-section"><div class="footer content"><div class="footer--left"><div class="links"><dl><dt>shop</dt><dd>
+<ul>
+<li><a href="https://scufgaming.com/playstation">PlayStation</a></li>
+<li><a href="https://scufgaming.com/xbox">XBOX</a></li>
+<li><a href="https://scufgaming.com/accessories">accessories</a></li>
+<li><a href="https://scufgaming.com/gift-card">gift cards</a></li>
+<li><a href="https://scufgaming.com/apparel">Gear</a></li>
+</ul>
+</dd></dl><dl><dt>Support</dt><dd>
+<ul>
+<li><a href="https://support.scufgaming.com/hc/articles/360019032013-Contact-Us-phone-email-or-post">Contact Us</a></li>
+<li><a href="https://support.scufgaming.com">customer support</a></li>
+<li><a href="https://scufgaming.com/customer/account/login">my account</a></li>
+<li><a href="https://support.scufgaming.com/hc/articles/231544588-What-is-the-Scuf-Gaming-return-policy-">Returns &amp; Repairs</a></li>
+<li><a href="https://support.scufgaming.com">Track My Order</a></li>
+<li><a href="/s/instructions">User Manuals</a></li>
+<li><a href="https://scufgaming.com/limited-warranty">Warranty</a></li>
+</ul>
+</dd></dl><dl><dt>company</dt><dd>
+<ul>
+<li><a href="/s/about-us">About</a></li>
+<li><a href="/s/careers">careers</a></li>
+<li><a href="/s/news">News</a></li>
+<li><a href="/s/patents">Patents</a></li>
+<li><a href="/s/press-media">Press</a></li>
+<li><a href="https://scufgaming.com/terms-and-conditions">Terms Of Use</a></li>
+<li><a href="https://scufgaming.com/privacy-policy">Privacy Policy</a></li>
+</ul>
+</dd></dl><dl><dt>Esports</dt><dd>
+<ul>
+<li><a href="/s/scuf-game-guides">Game Guides</a></li>
+<li><a href="/s/scuf-partners">Partners</a></li>
+<li><a href="/s/scuf-pro-teams">Pro Teams</a></li>
+</ul>
+</dd></dl></div></div><div class="footer--right"><dl class="block newsletter">
+<dt>Newsletter</dt>
+<dd>
+<p class="newsletter-desc">Sign up for promos, news and other cool stuff!</p>
+<form class="form subscribe" novalidate="" action="https://scufgaming.com/newsletter/subscriber/new/" method="post" data-mage-init="{&quot;validation&quot;: {&quot;errorClass&quot;: &quot;mage-error&quot;}}" id="newsletter-validate-detail">
+<div class="field newsletter">
+<div class="control">
+<input name="email" type="email" placeholder="email@provider.com" data-validate="{required:true, 'validate-email':true}" aria-label="Sign up for promos">
 </div>
-<div class="subfooter" style="padding-top:3em;padding-bottom:3em;position:relative">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-12">
-                <!--<p style="margin: 1em 0 0 2em;letter-spacing: 1px;">Choose Language: <span style="color:#E6FF50">English</span></p>-->
-            </div>
-            <div class="col-md-5 hidden-sm"> </div>
-            <div class="col-md-4 col-sm-12">
-                <p class="type--dk-gray" style="text-transform:initial">Copyright © 2010-2019 Scuf Gaming International LLC.</p>
-                <p class="type--dk-gray" style="display:none; text-transform:initial">All Rights Reserved. All prices in <span id="CurrentCurrency"></span>.</p>
-            </div>
-        </div>
-    </div>
 </div>
-    <style>
+<div class="actions">
+<button class="action subscribe primary" title="SIGN-UP" type="submit">
+<span>SIGN-UP</span>
+</button>
+</div>
+</form>
+</dd>
+</dl>
+<dl class="connect--us"><dt>Connect</dt><dd>
+<ul>
+<li><a href="https://twitter.com/scufgaming" aria-label="Twitter"> <i class="fa fa-twitter fa-2x round"></i> </a></li>
+<li><a href="https://www.facebook.com/ScufGaming/" aria-label="Facebook"> <i class="fa fa-facebook fa-2x round"></i> </a></li>
+<li><a href="https://www.instagram.com/scufgaming/" aria-label="Instagram "> <i class="fa fa-instagram fa-2x round"></i> </a></li>
+<li><a href="https://www.youtube.com/c/scufgamingtv" aria-label="Youtube"> <i class="fa fa-youtube-play fa-2x round"></i> </a></li>
+</ul>
+</dd></dl></div></div><div class="footer--bottom"><div class="footer content"><div>
 
-        body #footer-container h3:after {
-            height: 1px;
+</div><small class="copyright">
+<span>Copyright © 2010-2019 Scuf Gaming International LLC.<br>All Rights Reserved. All prices in USD.</span>
+</small>
+</div></div></footer>
+</div> <script data-cfasync="false" src="https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/js/redirection.min.js"></script>
+<script data-cfasync="false" src="https://browser.sentry-cdn.com/5.9.0/bundle.min.js" integrity="sha384-hMcetfUA+TR8vwXLe2PQTtnfYMs/1BMpXcmNGMNVjzbdKcd5mQ50kU6EC1fPHHq7" crossorigin="anonymous">
+</script>
+<script data-cfasync="false">
+	Sentry.init({ environment: 'production', dsn: 'https://15076c2a66da4ea2944c60d0d9c6a57d@sentry.io/1487883' });
+</script>
+<script>
+    var BASE_URL = 'https://scufgaming.com/';
+    var require = {
+        "baseUrl": "https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US"
+    };
+</script>
+<script type="text/javascript" src="https://scufgaming.com/static/version1573195927/_cache/merged/013a62007c79491a9a53c21b495fc70f.min.js"></script>
+<script type="text/javascript" defer="defer" src="//cdn.polyfill.io/v2/polyfill.js?features=default-3.6,Array.prototype.includes,Array.prototype.find,Array.prototype.findIndex&amp;flags=gated"></script>
+<script type="text/x-magento-init">
+            {
+                "*": {
+                    "Magento_GoogleTagManager/js/google-tag-manager": {
+                        "isCookieRestrictionModeEnabled": 0,
+                        "currentWebsite": 1,
+                        "cookieName": "user_allowed_save_cookie",
+                        "gtmAccountId": "GTM-TVRGSMH",
+                        "storeCurrencyCode": "USD",
+                        "ordersData": []                    }
+                }
+            }
+            </script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/scufgaming.com\/","name":"Scuf Gaming","about":"Scuf Gaming\u00ae sells high-performance custom gaming controllers and accessories for PC and console:  PlayStation 4, Xbox One and Xbox 360.   Scuf Gaming\u00ae, global leader and innovator in esports and winner of eSports Industry Awards \u201cBest Hardware Award\u201d for 2016."}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"LocalBusiness","name":"Scuf Gaming","description":"Scuf Gaming sells high-performance customized gaming controllers and accessories for PlayStation, Xbox, PC and console.","telephone":"844-728-3488","address":{"@type":"PostalAddress","addressLocality":"Atlanta","addressRegion":"GA","streetAddress":"3970 Johns Creek Court, Suite 325","postalCode":"30044"},"sameAs":[["https:\/\/twitter.com\/scufgaming","https:\/\/www.facebook.com\/ScufGaming\/","https:\/\/www.instagram.com\/scufgaming\/","https:\/\/www.youtube.com\/c\/scufgamingtv","https:\/\/www.snapchat.com\/add\/scufgamingusa"]],"image":"https:\/\/scufgaming.com\/media\/seller_image\/default\/logo-sticker.png","priceRange":"$$","url":"https:\/\/scufgaming.com\/"}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":{"@id":"https:\/\/scufgaming.com\/","name":"Home"},"position":0},{"@type":"ListItem","item":{"@id":"https:\/\/scufgaming.com\/privacy-policy","name":"Privacy Policy"},"position":1}]}</script>
+<script>
+    try {
+        if (!window.localStorage || !window.sessionStorage) {
+            throw new Error();
         }
 
-        /* replace in main-scuf.css */
-        body #footer-container h3 {
-            margin-top:0;
-            margin-bottom:1em;
-        }
+        localStorage.setItem('storage_test', 1);
+        localStorage.removeItem('storage_test');
+    } catch(e) {
+        (function () {
+            var Storage = function (type) {
+                var data;
 
-        #footer-container:before {
-            left:51em;
-        }
+                function createCookie(name, value, days) {
+                    var date, expires;
 
-        /* New */
-    	.bg-color-change,
-        .footer-links-spacing{
-            margin-top:3em;
-        }
+                    if (days) {
+                        date = new Date();
+                        date.setTime(date.getTime()+(days * 24 * 60 * 60 * 1000));
+                        expires = '; expires=' + date.toGMTString();
+                    } else {
+                        expires = '';
+                    }
+                    document.cookie = name + '=' + value+expires+'; path=/';
+                }
 
-    	/* main-scuf.css */
-        #footer-container:before {
-            width:100%;
-        }
+                function readCookie(name) {
+                    var nameEQ = name + '=',
+                        ca = document.cookie.split(';'),
+                        i = 0,
+                        c;
 
-        @media (max-width: 991px) {
-            body #footer-container h3 {
-                margin-top:1em;
-            }
-            body .newsletter-form-wrap button {
-                background: -moz-linear-gradient(-45deg,#16101f 30%,#35303e 100%);
-                background: -webkit-gradient(linear, left top, right bottom, color-stop(30%,#16101f), color-stop(100%,#35303e));
-                background: -webkit-linear-gradient(-45deg, #16101f 30%,#35303e 100%);
-                background: -o-linear-gradient(-45deg, #16101f 30%, #35303e 100%);
-                background: -ms-linear-gradient(-45deg, #16101f 30%, #35303e 100%);
-                background: linear-gradient(135deg, #16101f 30%, #35303e 100%);
-                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#16101f', endColorstr='#35303e',GradientType=1 );
-            }
+                    for (i=0; i < ca.length; i++) {
+                        c = ca[i];
 
-            /* main-scuf.css */
-            #footer-container-wrapper .social-icons {
-                text-align:left;
-            }
+                        while (c.charAt(0) === ' ') {
+                            c = c.substring(1,c.length);
+                        }
 
-            body #footer-container h3 {
-                text-align: left;
-            }
-            body #footer-container-wrapper p {
-                text-align: left;
-                margin:1em 0;
-            }
-            body #footer-container h3:after {
-                width: 10px;
-                height: 1px;
-                display: block;
-                margin-top: .5em;
-                left: 0;
-                margin-left: 0;
-            }
+                        if (c.indexOf(nameEQ) === 0) {
+                            return c.substring(nameEQ.length, c.length);
+                        }
+                    }
 
-        #footer-container .pull-right,
-        #footer-container .pull-left {
-                margin-top: inherit;
-            }
-            .collapsable-menu .mobile-jar {
-                display:block;
-                height:auto;
-            }
+                    return null;
+                }
 
-            /* New */
-        .bg-color-change {
-            padding: 4em 2em;
-            margin: 3em 0 0;
-            position: relative;
-            background: -moz-linear-gradient(-45deg,#35303e 30%,#16101f 100%);
-            background: -webkit-gradient(linear, left top, right bottom, color-stop(30%,#35303e), color-stop(100%,#16101f));
-            background: -webkit-linear-gradient(-45deg, #35303e 30%,#16101f 100%);
-            background: -o-linear-gradient(-45deg, #35303e 30%, #16101f 100%);
-            background: -ms-linear-gradient(-45deg, #35303e 30%, #16101f 100%);
-            background: linear-gradient(165deg, #35303e 0%, #16101f 35%);
-            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#35303e', endColorstr='#16101f',GradientType=1 );
-        }
-        .bg-color-change:before {
-            content: "";
-            transform: skewY(4deg);
-            transform-origin: 0;
-            background: #120e19;
-            height: 4em;
-            width: 100%;
-            position: absolute;
-            left: 0;
-            top: -4em;
-        }
-        #footer-container-wrapper {
-            background: #120e19
-            }
-            .footer-links-spacing{
-                margin-top:0;
-            }
+                function setData(data) {
+                    data = encodeURIComponent(JSON.stringify(data));
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', data, 365);
+                }
 
+                function clearData() {
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', '', 365);
+                }
 
-            /* theme.css */
-            #footer-container-wrapper > .container {
-            padding: 3em 0 0;
-        }
+                function getData() {
+                    var data = type === 'session' ? readCookie(getSessionName()) : readCookie('localStorage');
 
-        /* New */
-        #footer-container .pull-left,
-        #footer-container .pull-right{
-            padding:0 3em;
-        }
+                    return data ? JSON.parse(decodeURIComponent(data)) : {};
+                }
 
-        #footer-container .pull-right {
-            padding: 0 1em;
-        }
+                function getSessionName() {
+                    if (!window.name) {
+                        window.name = new Date().getTime();
+                    }
 
-        .newsletter-footer-spacing:before {
-            content: "";
-            display: block;
-            /*background: -moz-linear-gradient(-45deg,#16101f 30%,#35303e 100%);*/
-            background: -moz-linear-gradient(-45deg,#35303e 30%,#16101f 100%);
-            background: -webkit-gradient(linear, left top, right bottom, color-stop(30%,#35303e), color-stop(100%,#16101f));
-            background: -webkit-linear-gradient(-45deg, #35303e 30%,#16101f 100%);
-            background: -o-linear-gradient(-45deg, #35303e 30%, #16101f 100%);
-            background: -ms-linear-gradient(-45deg, #35303e 30%, #16101f 100%);
-            background: linear-gradient(135deg, #35303e 30%, #16101f 100%);
-            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#35303e', endColorstr='#16101f',GradientType=1 );
-            height: 3em;
-            }
-        }
+                    return 'sessionStorage' + window.name;
+                }
 
+                data = getData();
 
+                return {
+                    length: 0,
+                    clear: function () {
+                        data = {};
+                        this.length = 0;
+                        clearData();
+                    },
 
-        @media (max-width: 1200px) {
-            #footer-container:before {
-                left: 42em;
-            }
-        }
+                    getItem: function (key) {
+                        return data[key] === undefined ? null : data[key];
+                    },
 
+                    key: function (i) {
+                        var ctr = 0,
+                            k;
 
-    /* Error message for subscription */
-    .page.messages .message{
-        text-align:center
+                        for (k in data) {
+                            if (ctr.toString() === i.toString()) {
+                                return k;
+                            } else {
+                                ctr++
+                            }
+                        }
+
+                        return null;
+                    },
+
+                    removeItem: function (key) {
+                        delete data[key];
+                        this.length--;
+                        setData(data);
+                    },
+
+                    setItem: function (key, value) {
+                        data[key] = value.toString();
+                        this.length++;
+                        setData(data);
+                    }
+                };
+            };
+
+            window.localStorage.__proto__ = window.localStorage = new Storage('local');
+            window.sessionStorage.__proto__ = window.sessionStorage = new Storage('session');
+        })();
     }
-
-
-    </style>
-<!-- End footer -->
-
-        <!--wordpress footer-->
-        <!-- Instagram Feed JS -->
-<script type="text/javascript">
-var sbiajaxurl = "https://scufgaming.com/s/wp-admin/admin-ajax.php";
 </script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/vendor/bootstrap.min.js?ver=3.3.6"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/main.js"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/cart_items_count.js?v=1.0.13"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/navbar.js?v=1.0"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/cookie-notice.js?v=0.2"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/themes/bootstrap-basic/js/jquery-cookie.js?ver=1.0.a"></script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-includes/js/wp-embed.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var icl_vars = {"current_language":"en","icl_home":"https:\/\/scufgaming.com\/s\/","ajax_url":"https:\/\/scufgaming.com\/s\/wp-admin\/admin-ajax.php","url_type":"1"};
-/* ]]> */
+<script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
+
+                var dependencies = [],
+                    versionObj;
+
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
+
+                
+                if (versionObj.version !== 'f87442513c247887343b7faeb0eab4f43bd43424') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
+
+                }
+
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: 'f87442513c247887343b7faeb0eab4f43bd43424'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "/",
+                "domain": ".scufgaming.com",
+                "secure": false,
+                "lifetime": "86400"
+            }
+        }
+    }
 </script>
-<script type="text/javascript" src="https://scufgaming.com/s/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_GoogleTagManager/js/google-tag-manager-cart": {
+                "blockNames": ["category.products.list","product.info.upsell","catalog.product.related","checkout.cart.crosssell","search_result_list"],
+                "cookieAddToCart": "add_to_cart",
+                "cookieRemoveFromCart": "remove_from_cart"
+            }
+        }
+    }
+</script>
+<script type="text/javascript" xml="space">// <![CDATA[
+var Counter = function(el, startDate, endDate, resetHour, timezone) {
+    this.containerEl = el;
+    this.timezone = timezone;
+    this.isTimezoneSet = function(z) {
+        return !(typeof z === 'undefined' || z === null );
+    };
+    this.timer = {
+        currentTime: 0,
+        currentInterval: 0,
+        remainingTime: 0,
+        endHour: resetHour,
+        endDate: this.getTime(endDate, timezone),
+        startTime: this.getTimeNow(),
+        endTime: this.getTomorrowsDate(resetHour)
+    };
+    this.timer.startTime = typeof startDate === 'undefined' || startDate === null ?
+        this.getTimeNow() : (this.getTime(startDate, timezone));
+    this.timer.endTime = typeof endDate === 'undefined' || endDate === null ?
+        this.getTomorrowsDate(): this.getTime(
+            this.getTime(endDate, timezone).setHours(this.timer.endHour,0,0,0)
+        );
+    this.convertTime = function(t, type) {
+        if(typeof t === 'object')
+            t = t.getTime();
+        var convertedTime;
+        switch(type){
+            case 'ms2sec':
+                convertedTime = t / 1000;
+                break;
+            case 'sec2ms':
+                convertedTime = t * 1000;
+                break;
+            case 'sec2min':
+                convertedTime = t / 60;
+                break;
+            case 'sec2hours':
+                convertedTime = t / 3600;
+                break;
+            case 'sec2days':
+                convertedTime = t / 86400;
+                break;
+            case 'hours2sec':
+                convertedTime = t * 3600;
+                break;
+            case 'min2sec':
+                convertedTime = t * 60;
+                break;
+        }
+        return convertedTime;
+    };
+};
+Counter.prototype.constructor = Counter;
+Counter.prototype.countDown = function() {
+    this.timer.currentTime = this.getTimeNow();
+    this.timer.remainingTime = this.timer.endTime - this.timer.currentTime;
+    var remtime = this.roundUpTimeInSeconds(this.timer.remainingTime, 'ms2sec');
+    if(remtime > 0 ){
+        var countDownArray = this.getRemainingTimeArray(remtime);
+        var countDownFormatted = this.prettifyCount(countDownArray[1],countDownArray[2],countDownArray[3]);
+        document.querySelector(this.containerEl).innerHTML = countDownFormatted;
+    } else {
+        document.querySelector(this.containerEl).innerHTML = this.prettifyCount(0,0,0);
+        if(this.timer.endDate >= this.timer.currentTime){
+            this.restartTimer();
+        } else this.pauseInterval();
+    }
+};
+Counter.prototype.countDaysDown = function() {
+    this.timer.currentTime = this.getTimeNow();
+    this.timer.remainingTime = this.timer.endDate.getTime() - this.timer.currentTime.getTime();
+    var remtime = this.roundUpTimeInSeconds(this.timer.remainingTime, 'ms2sec');
+    if(remtime > 0 ){
+        var countDownArray = this.getRemainingHoursArray(remtime);
+        var countDownFormatted = this.prettifyCount(countDownArray[1],countDownArray[2],countDownArray[3]);
+        document.querySelector(this.containerEl).innerHTML = countDownFormatted;
+    } else {
+        document.querySelector(this.containerEl).innerHTML = this.prettifyCount(0,0,0);
+        this.pauseInterval();
+    }
+};
+Counter.prototype.prettifyCount =  function(hours,minutes,seconds) {
+    return this.formatDigits(hours) + ':' + this.formatDigits(minutes)  + ':' + this.formatDigits(seconds);
+};
+Counter.prototype.formatDigits = function(d) { return d >= 10 ? d : '0'+ d ; };
+Counter.prototype.getTomorrowsDate = function(hour) {
+    if(typeof hour === 'undefined' || hour === null)
+        hour = this.timer.endHour;
+    var dt = this.getTimeNow(this.timezone);
+    dt.setDate(dt.getDate() + 1);
+    dt = this.getTime(dt,this.timezone).setHours(hour,0,0,0);
+    return this.getTime(dt,this.timezone);
+};
+Counter.prototype.getTimeNow = function(zone) {
+    return this.isTimezoneSet(zone) ? new Date(new Date() + ' ' + zone) :
+        new Date();
+};
+Counter.prototype.getTime = function(dt, zone) {
+    return this.isTimezoneSet(zone) ? new Date(new Date(dt) + ' ' + zone) :
+        new Date(dt);
+};
+Counter.prototype.getRemainingTimeArray = function(t) {
+    var seconds = t % 60;
+    var minutes = Math.floor(this.roundUpTimeInMinutes((t % 86400 ) % 3600 ));
+    var hours = Math.floor(this.roundUpTimeInHours(t % 86400));
+    var days = Math.floor(this.roundUpTimeInDays(t / 86400));
+    return [days, hours, minutes, seconds];
+};
+Counter.prototype.getRemainingHoursArray = function(seconds) {
+    var days = Math.floor(seconds / 86400);
+    var hours = Math.floor(this.roundUpTimeInHours(seconds % 86400));
+    var minutes = Math.floor(this.roundUpTimeInMinutes(seconds % 3600));
+    var seconds = Math.floor(seconds % 60);
+    var newHours = (days * 24) + hours;
+    return [0, newHours, minutes, seconds];
+};
+Counter.prototype.roundUpTimeInSeconds = function(t){
+    return  Math.round(this.convertTime(t, 'ms2sec'));
+};
+Counter.prototype.roundUpTimeInMinutes = function(t){
+    return  Math.floor(this.convertTime(t, 'sec2min'));
+};
+Counter.prototype.roundUpTimeInHours = function(t){
+    return  Math.floor(this.convertTime(t, 'sec2hours'));
+};
+Counter.prototype.roundUpTimeInDays = function(t){
+    return  Math.floor(this.convertTime(t, 'sec2days'));
+};
+Counter.prototype.startTimer = function(msg){
+    clearInterval(this.timer.currentInterval);
+    if(typeof msg === 'undefined' || msg === null)
+        msg = 'Promo has ended or is on a different day';
+    if(this.timer.currentTime > this.getTimeNow() || this.timer.endTime <= this.timer.currentTime) {
+        console.error(msg);
+        return msg;
+    }
+    this.timer.currentInterval = setInterval(Counter.prototype.countDown.bind(this), 1000);
+    return '';
+};
+Counter.prototype.startDaysTimer = function(msg){
+    clearInterval(this.timer.currentInterval);
+    if(typeof msg === 'undefined' || msg === null)
+        msg = 'Promo has ended or is on a different day';
+    if(this.timer.currentTime > this.getTimeNow() || this.timer.endTime <= this.timer.currentTime) {
+        console.error(msg);
+        return msg;
+    }
+    this.timer.currentInterval = setInterval(Counter.prototype.countDaysDown.bind(this), 1000);
+    return '';
+};
+Counter.prototype.restartTimer = function(){
+    this.timer.currentTime = this.getTimeNow(this.timezone);
+    this.timer.endTime = this.getTomorrowsDate();
+    this.startTimer();
+};
+Counter.prototype.pauseInterval = function(){
+    clearInterval(this.timer.currentInterval);
+};
+var counter1 = new Counter("#headertimer", null, '12/17/2019 23:59:59', 10, null); 
+counter1.startDaysTimer();
+// ]]></script>
+<script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/scufgaming.com\/checkout\/cart\/","checkoutUrl":"https:\/\/scufgaming.com\/checkout\/","updateItemQtyUrl":"https:\/\/scufgaming.com\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/scufgaming.com\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/scufgaming.com\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"customerLoginUrl":"https:\/\/scufgaming.com\/customer\/account\/login\/referer\/aHR0cHM6Ly9zY3VmZ2FtaW5nLmNvbS9wcml2YWN5LXBvbGljeQ%2C%2C\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/scufgaming.com\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/scufgaming.com\/captcha\/refresh\/","isRequired":false}}};
+    </script>
+<script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://scufgaming.com/static/version1573195927/frontend/ScufGaming/default/en_US/images/loader-1.gif"
+        }
+    }
+    </script>
+<script type="application/javascript" async="" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=PaEd4i"></script>
+<script type="text/x-magento-init">
+        {
+            "*": {
+                "KlaviyoCustomerData": {}
+            }
+        }
+    </script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+<script>
+        window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/scufgaming.com\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/scufgaming.com\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/scufgaming.com\/"};
+    </script>
+<script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fscufgaming.com\u002Fstatic\u002Fversion1573195927\u002Ffrontend\u002FScufGaming\u002Fdefault\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+            }
+        }
+    </script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages"],"customer\/account\/logout":["recently_viewed_product","recently_compared_product"],"customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/account\/editpost":"*","customer\/ajax\/login":["checkout-data","cart"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items","instant-purchase"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","checkout-data"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"reclaim\/checkout\/reload":["cart"],"customer_order\/cart\/updatefaileditemoptions":["cart"],"checkout\/cart\/updatefaileditemoptions":["cart"],"customer_order\/cart\/advancedadd":["cart"],"checkout\/cart\/advancedadd":["cart"],"checkout\/cart\/removeallfailed":["cart"],"customer_order\/cart\/addfaileditems":["cart"],"checkout\/cart\/addfaileditems":["cart"],"customer_order\/sku\/uploadfile":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"braintree\/googlepay\/placeorder":["cart","checkout-data"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"review\/product\/post":["review"],"giftregistry\/index\/cart":["cart"],"giftregistry\/view\/addtocart":["cart"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"]},"clientSideSections":["checkout-data","cart-data"],"baseUrls":["https:\/\/scufgaming.com\/","http:\/\/scufgaming.com\/"]}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/scufgaming.com\/customer\/section\/load\/","expirableSectionLifetime":60,"expirableSectionNames":["cart"],"cookieLifeTime":"86400","updateSessionUrl":"https:\/\/scufgaming.com\/customer\/account\/updateSession\/"}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/invalidation-processor":{"invalidationRules":{"website-rule":{"Magento_Customer\/js\/invalidation-rules\/website-rule":{"scopeConfig":{"websiteId":1}}}}}}}</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/scufgaming.com\/page_cache\/block\/render\/page_id\/36\/","handles":["default","cms_page_view","cms_page_view_id_privacy-policy"],"originalRequest":{"route":"cms","controller":"page","action":"view","uri":"\/privacy-policy"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Banner\/js\/model\/banner":{"sectionLoadUrl":"https:\/\/scufgaming.com\/banner\/ajax\/load\/","cacheTtl":600000}}}</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "awBlogAjax": {"url":"https:\/\/scufgaming.com\/aw_blog\/block\/render\/page_id\/36\/"}        }
+    }
+</script>
+<script type="text/x-magento-init">
+{
+    "#magestat-cookie-law-banner": {
+        "Magento_Ui/js/core/app": {"components":{"magestat-cookie-law-banner":{"component":"Magestat_CookieLawBanner\/js\/view\/banner"}}}    }
+}
+</script>
+<script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" :
+                                         {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/scufgaming.com\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/scufgaming.com\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/scufgaming.com\/rest\/default\/V1\/products-render-info"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0c406b15e9","applicationID":"282276000","transactionName":"YgFWNkdUWUFYUUEKX1tLdQFBXFhcFlFYEB9FBVMHGkNeV04=","queueTime":0,"applicationTime":696,"atts":"TkZVQA9OSk8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-
-        <script>
-            template_path = "https://scufgaming.com/s/wp-content/themes/bootstrap-basic";
-        </script>
-        <!--Start of Zendesk Chat Script-->
-<!--         <script type="text/javascript">
-        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-        d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-        $.src="https://v2.zopim.com/?3xL90PKEbx6s9pfMXoa9aPftoQMCpm5x";z.t=+new Date;$.
-        type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-        </script> -->
-        <!--End of Zendesk Chat Script-->
-        </div>
-    
-
-		
-
-<!-- This website is like a Rocket, isn't it ? Performance optimized by WP Rocket. Learn more: http://wp-rocket.me - Debug: cached@1558116101 --></div></body></html>
+</body></html>
