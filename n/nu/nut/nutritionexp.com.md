@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionexp.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430094853id_/http%3A//www.nutritionexp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionexp.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222032603id_/http%3A//www.nutritionexp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Nutrition Explained
 
