@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastminutetravel.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925193030id_/https%3A//www.lastminutetravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminutetravel.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222050902id_/https%3A//www.lastminutetravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Support | Last Minute Travel
 
@@ -7,7 +7,7 @@
 Effective Date MAY 24, 2018
 
  **Introduction**  
-This privacy policy applies to ["www.lastminutetravel.com"](https://web.archive.org/web/20180925193030id_/https%3A//www.lastminutetravel.com/www.lastminutetravel.com) owned and operated by Travel Holdings, Inc.
+This privacy policy applies to ["www.lastminutetravel.com"](http://www.lastminutetravel.com/) owned and operated by Travel Holdings, Inc.
 
 This privacy policy describes how Travel Holdings, Inc. is committed to maintain security and confidentiality of the personal information gathered and used on 
 
@@ -161,6 +161,8 @@ If you would like to contact us regarding this Privacy Policy, you can reach us 
 
 At Tourico Holidays, Inc., we are concerned about your privacy. This policy describes what, why and how we collect and use your personal data, how we protect it and how you can get in touch with us.
 
+More to the point, this policy regulates the processing of data carried out by Tourico Holidays, Inc., trading under the name “Last Minute Travel”, (hereinafter, “Last Minute Travel”), as the controller of your data and a company of Hotelbeds Group, through this Website.
+
   1.  **What are the purposes and lawful basis of the processing of your data carried out by Last Minute Travel?**
 
 The data that Last Minute Travel requests or may request from you is necessary for the purposes described in this policy and failure to provide it may lead Last Minute Travel to be unable to contact you or manage your requests.
@@ -179,9 +181,8 @@ More to the point, the purposes for which your data may be processed by Last Min
       3. Manage the commercial relationship with potential clients, attending to requests for information on products and services offered by Last Minute Travel.
       4. Manage and process any legal claims, out-of-court claims and insurance claims received by Last Minute Travel in relation to you.
     2.  **Consent:**
-
-Carry out commercial communications to you by any means, including electronics means, based on your browsing and/or consumption habits. Said communications may refer to advertising or promotional material on products and services that are considered to be of your interest based on the aforementioned criteria.
-
+      1. Should you consent, carry out commercial communications to you by any means, including electronics means, based on your browsing and/or consumption habits. Said communications may refer to advertising or promotional material on products and services that are considered to be of your interest based on the aforementioned criteria.
+      2. Should you consent, Last Minute Travel will store the credit cards details you have provided to automatically collect payment of any charges you incur. Notably, said charges may refer to (i) products and services you have actively signed up; (ii) charges for additional and/or optional programs, (iii) charges for additional and/or optional products; and (iv) charges for other products and/or services offered by Last Minute Travel.
     3.  **Legitimate interests of Last Minute Travel:**
       1. Carry out commercial communications related to products and services similar to those contracted by you. In this case, the legitimate interest of Last Minute Travel would be to carry out direct marketing activities aimed at its clients, in accordance with Recital 47 of the General Data Protection Regulation.
       2. Conduct surveys and market studies to know the quality of our products or services and the preference of our clients. The legitimate interest of Last Minute Travel is to improve the commercial offer and experience to its clients.
@@ -203,7 +204,9 @@ The personal data that you provide to Last Minute Travel may be communicated to 
 
 \- Contracted services suppliers, solely for administration reasons and card fraud checks in order to complete your booking.
 
-\- Companies that are part of the Tourico Holidays, Inc., with the purpose of being able to properly manage and optimize your contractual relationship as a result of the centralization of administrative and computer processes existing within the Tourico Holidays, Inc. (whose relation you may consult on our webpage: https://www.touricoholidays.com.
+\- Companies that are part of Hotelbeds Group, with the purpose of being able to properly manage and optimize your contractual relationship as a result of the centralization of administrative and computer processes existing within Hotelbeds Group (whose relation you may consult on our webpage: https://www.touricoholidays.com).
+
+\- Merchants and third-party agents, payment facilitators, or stored digital wallet operators with the purpose to offer cardholders the opportunity to store their credentials on file.
 
 Also, we inform you that the Tourico Holidays, Inc. can count on or collaborate with companies outside the European Union. In those cases, Last Minute Travel, as a company of Tourico Holidays, Inc, requires that these companies comply with the measures designed to protect personal data established in a binding contract, except in cases where the European Commission has determined that the country where said companies are located provide for an adequate level of protection of personal data.
 
