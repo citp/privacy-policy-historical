@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewscrunch.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620192051id_/https%3A//thenewscrunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewscrunch.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222122943id_/https%3A//thenewscrunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheNewsCrunch
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 TheNewsCrunch may collect and use Users personal information for the following purposes:
 
-  *  _To run and operate our Site_  
+  * _To run and operate our Site_  
 We may need your information display content on the Site correctly.
-  *  _To improve customer service_  
+  * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _To improve our Site_  
+  * _To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  *  _To send periodic emails_  
+  * _To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 
