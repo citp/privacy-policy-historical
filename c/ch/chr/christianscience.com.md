@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401073314id_/https%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222055526id_/https%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Science
 
@@ -17,8 +17,11 @@ In this Privacy Policy, “Terms” means our [Terms of Service](https://web.arc
 “Personal Data” means the following types of information that we may gather, store, and use relating to you in order to provide you with access to the Site:
 
   * “Registration Information” means any information provided when you voluntarily subscribe through the Site to email newsletters, bulletins and other communications, including, but not limited to, username, password, and email address, or register for use of the Site or one of the online shops if applicable.
+
   * “Customer Service Communications” means any information that you report to us about the operation of the Site, including bug reports or requests for enhancements.
+
   * “Log Information” means information that your browser sends when you use the Site. Our servers automatically record basic information that your browser sends. These server logs may include information such as your message, Internet Protocol address, other addressing information, the date and time of your request and an authentication token used to validate your identity and that of your computer.
+
 
 
 
@@ -27,13 +30,21 @@ In this Privacy Policy, “Terms” means our [Terms of Service](https://web.arc
 Our primary purpose in collecting information is to provide you with an efficient user experience. We may also use the information defined in this Privacy Policy to:
 
   * inform you about Site updates
+
   * inform you about online events, promotional offers, activities, and products (When you provide TFCCS your email address, such as when you subscribe to a newsletter, you agree that TFCCS may use your email to send you messages about online events, promotional offers, activities, and products of this Site, TFCCS, and its affiliates. Such emails include a link to unsubscribe. You can also revoke your consent at any time by email to [info@christianscience.com](mailto:info@christianscience.com ":info@christianscience.com").)
+
   * provide the services, receipts, and any customer support you request or other services as described when we collect information
+
   * resolve disputes, and troubleshoot problems
+
   * enforce our [Terms](https://web.archive.org/legal/terms-of-service "Terms of Service")
+
   * customize, measure, and improve the Site, content and layout
+
   * compare information for accuracy, and verify your identity.
+
   * combine with other information, including personal information, obtained from your other interactions with TFCCS and its service providers, including your subscriptions, product purchases, website visits, or other communications. We may use this information to personalize the content and advertising that you see on the Site or our other sites, and to share your information with any of our affiliates or service providers in order to provide the Site or advertising or to communicate with you on our behalf.
+
 
 
 
@@ -70,9 +81,13 @@ By using the Site, you consent to the information collected by us being stored a
 Notwithstanding anything to the contrary in this Privacy Policy or the Terms, we may access, use, preserve or disclose any information we have access to if we have a good faith belief that such access, use, preservation or disclosure of any information is reasonably necessary to:
 
   * Satisfy any applicable law, regulation, legal process or enforceable governmental request
+
   * Enforce these Terms
+
   * Detect, prevent, or otherwise address fraud, security or technical issues
+
   * Protect against imminent harm to the rights, property or safety of TFCCS, Site users or the public.
+
 
 
 
@@ -87,10 +102,15 @@ Where you are required to use a password or you are given access to an account f
 We will retain your information for as long as is necessary to:
 
   * Provide the use of the Site
+
   * Communicate with you regarding the Site or other services that we offer
+
   * Comply with applicable laws, regulatory requests, and orders from competent authorities
+
   * Enforce our Terms
+
   * Fulfill any of the other purposes detailed in this Privacy Policy.
+
 
 
 
