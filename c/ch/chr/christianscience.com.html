@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the christianscience.com privacy policy that was archived on 2019-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190401073314id_/https%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christianscience.com privacy policy that was archived on 2019-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191222055526id_/https%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js audio video no-touchevents localstorage" lang="en" style=""><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
                         <!-- Meta, title, CSS, favicons, etc. -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -51,13 +51,52 @@
     <meta property="og:locale:alternate" content="pt_PT">
 
         <meta property="og:url" content="https://www.christianscience.com/legal/privacy-policy">
-                    <link rel="stylesheet" type="text/css" href="/css/17753ce.css?v3.4.0">
-                            <script src="https://www.youtube.com/iframe_api"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="application/javascript" src="/bundles/tfccschristianscience/js/vendor/modernizr-custom.3.6.0.js?v3.4.0"></script>
-<script type="application/javascript" src="/bundles/tfccschristianscience/js/vendor/sweetalert/sweetalert.min.js?v1.1.3"></script>
-<script src="/bundles/tfccschristianscience/js/jwplayer/jwplayer.js?v3.4.0"></script>
-<script>jwplayer.key="bXEnj9HGt+vF/neWEUDqK5K3uIPijTjwWVGb9qyGhSQ=";</script>
+                    <link rel="stylesheet" type="text/css" href="/css/4678a57.css?v3.6.11">
+                            <script src="https://www.youtube.com/iframe_api"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="application/javascript" src="/bundles/tfccschristianscience/js/vendor/modernizr-custom.3.6.0.js?v3.6.11"></script>
+<script type="application/javascript" src="/bundles/tfccschristianscience/js/vendor/sweetalert/sweetalert.min.js?v3.6.11"></script>
+<script src="/bundles/tfccschristianscience/js/jwplayer/jwplayer.js?v3.6.11"></script>
+<script>jwplayer.key="brcGd/xYx6/7ADb9+l4Zznhdv0FSjL4lKdr6cJAZjGPRJ7ZB";</script>
+
 <script src="https://smartplugin.youbora.com/v5/javascript/youtube/5.3.1/sp.min.js"></script>
 <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+<script type="application/javascript" src="/bundles/tfccschristianscience/js/vendor/ics.deps.min.js?v3.6.11"></script>
+<script>
+    function b64EncodeUnicode(str) {
+        // first we use encodeURIComponent to get percent-encoded UTF-8,
+        // then we convert the percent encodings into raw bytes which
+        // can be fed into btoa.
+        return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g,
+            function toSolidBytes(match, p1) {
+                return String.fromCharCode('0x' + p1);
+        }));
+    }
+    function icsDownload(object, location, date_start, date_end) {
+        var ics_cal = ics();
+        var file_content = ics_cal.addEvent(object.dataset.title, object.dataset.description, location, date_start, date_end);
+        file_content = 'BEGIN:VCALENDAR' + "\n" + 'PRODID:Calendar' + "\n" + 'VERSION:2.0' + "\n" + file_content + "\n" + 'END:VCALENDAR';
+        var encoded_file_content = b64EncodeUnicode(file_content);
+        encoded_file_content = 'data:text/calendar;charset=utf-16;base64,' + encoded_file_content;
+
+        let icsLink = document.createElement('a');
+        icsLink.style.display = 'none';
+        icsLink.href = encoded_file_content;
+        icsLink.setAttribute('download', 'calendar.ics');
+        document.body.appendChild(icsLink);
+        icsLink.click();
+        document.body.removeChild(icsLink);
+    }
+    function ShowCalendar(id) {
+        document.getElementById('atcp-' + id).style.display = 'block';
+        document.getElementById('atcp-bg-' + id).style.display = 'block';
+        document.body.after(document.getElementById('atcp-bg-' + id));
+        document.body.after(document.getElementById('atcp-' + id));
+    }
+    function HideCalendar(id) {
+        document.getElementById('atcp-' + id).style.display = 'none';
+        document.getElementById('atcp-bg-' + id).style.display = 'none';
+    }
+</script>
                             <script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -97,15 +136,17 @@
         document,'script','https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '672266202934034');
     fbq('track', 'PageView');
-</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=672266202934034&ev=PageView&noscript=1" /></noscript><!-- DO NOT MODIFY --><!-- End Facebook Pixel Code -->            </head>
-<body class="text-page locale-en locale-full-en_us">
+</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=672266202934034&ev=PageView&noscript=1" /></noscript><!-- DO NOT MODIFY --><!-- End Facebook Pixel Code -->            
+<script type="text/javascript">    (function(global, doc) {        'use strict';        const acceptableSources = JSON.parse('[]');        const eventId = 'ez-cross-origin-event';        global.addEventListener('message', function (event) {            const isKnownSource = acceptableSources.some(function (source) {                return source === event.origin;            });            const response = {                href: global.location.href,                id: eventId,            };            if (!isKnownSource || event.data.id !== eventId) {                return;            }            event.source.postMessage(response, event.origin);        }, false);    })(window, window.document);</script>
+</head>
+<body class="text-page locale-en locale-full-en_us node_2006">
 <div class="site-wrapper">
     <div class="site-canvas">
         <a href="#content" class="skip-to sr-only sr-only-focusable">Skip to main content</a>
         
         <header class="header">
     <div class="header__container container">
-        <div class="utility-nav-container-desktop">
+        <div class="utility-nav-container-desktop" data-section="utility-menu">
             <nav class="header__utility-nav mln mln--navbar js-mln--loading" data-mln-breakpoint="992" aria-label="Utility navigation">
                         <ul id="NetworkNav" class="mln__list" role="menu">
             
@@ -169,7 +210,7 @@
     </li>
 
     
-                <li class="last">        <a href="http://christianscience.com/download-store" title="Download Store">Download Store</a>        
+                <li class="last">        <a href="https://christianscience.buysub.com/digital-downloads.html" title="Download Store">Download Store</a>        
     </li>
 
 
@@ -182,85 +223,85 @@
 
             </nav>
         </div>
-        <div class="language-nav-container-desktop">
+        <div class="language-nav-container-desktop" data-section="language">
             <nav class="header__language-nav mln mln--navbar js-mln--loading" data-mln-breakpoint="992" aria-label="Language navigation">
                         <ul id="UtilityNav" class="mln__list" role="menu">
             
                             <li class="first last">        <span><span class="glyphicon glyphicon-globe"></span>&nbsp;Languages</span>                <ul class="menu_level_1">
             
-                <li class="first">        <a href="/id" title="Change language to Indonesian">Bahasa Indonesia</a>        
+                <li class="first">        <a href="/id" title="Change language to Indonesian">Bahasa Indonesia (Indonesian)</a>        
     </li>
 
     
-                <li>        <a href="/da" title="Change language to Danish">Dansk</a>        
+                <li>        <a href="/da" title="Change language to Danish">Dansk (Danish)</a>        
     </li>
 
     
-                <li>        <a href="/de" title="Change language to German">Deutsch</a>        
+                <li>        <a href="/de" title="Change language to German">Deutsch (German)</a>        
     </li>
 
     
-                <li>        <a href="/" title="Change language to English">English</a>        
+                <li>        <a href="/" title="Change language to English">English (English)</a>        
     </li>
 
     
-                <li>        <a href="/es" title="Change language to Spanish">Español</a>        
+                <li>        <a href="/es" title="Change language to Spanish">Español (Spanish)</a>        
     </li>
 
     
-                <li>        <a href="/fr" title="Change language to French">Français</a>        
+                <li>        <a href="/fr" title="Change language to French">Français (French)</a>        
     </li>
 
     
-                <li>        <a href="/ig" title="Change language to Igbo">Igbo</a>        
+                <li>        <a href="/ig" title="Change language to Igbo">Igbo (Igbo)</a>        
     </li>
 
     
-                <li>        <a href="/ilo" title="Change language to Iluko">Iluko</a>        
+                <li>        <a href="/ilo" title="Change language to Iluko">Iluko (Iluko)</a>        
     </li>
 
     
-                <li>        <a href="/it" title="Change language to Italian">Italiano</a>        
+                <li>        <a href="/it" title="Change language to Italian">Italiano (Italian)</a>        
     </li>
 
     
-                <li>        <a href="/nl" title="Change language to Dutch">Nederlands</a>        
+                <li>        <a href="/nl" title="Change language to Dutch">Nederlands (Dutch)</a>        
     </li>
 
     
-                <li>        <a href="/pl" title="Change language to Polish">Polski</a>        
+                <li>        <a href="/pl" title="Change language to Polish">Polski (Polish)</a>        
     </li>
 
     
-                <li>        <a href="/pt" title="Change language to Portuguese">Português</a>        
+                <li>        <a href="/pt" title="Change language to Portuguese">Português (Portuguese)</a>        
     </li>
 
     
-                <li>        <a href="/fi" title="Change language to Finnish">Suomi</a>        
+                <li>        <a href="/fi" title="Change language to Finnish">Suomi (Finnish)</a>        
     </li>
 
     
-                <li>        <a href="/sv" title="Change language to Swedish">Svenska</a>        
+                <li>        <a href="/sv" title="Change language to Swedish">Svenska (Swedish)</a>        
     </li>
 
     
-                <li>        <a href="/el" title="Change language to Greek">Ελληνικά</a>        
+                <li>        <a href="/el" title="Change language to Greek">Ελληνικά (Greek)</a>        
     </li>
 
     
-                <li>        <a href="/ru" title="Change language to Russian">Русский</a>        
+                <li>        <a href="/ru" title="Change language to Russian">Русский (Russian)</a>        
     </li>
 
     
-                <li>        <a href="/zhs" title="Change language to Chinese Simplified">中文简体</a>        
+                <li>        <a href="/zhs" title="Change language to Chinese Simplified">中文简体<br>(Chinese Simplified)</a>        
     </li>
 
     
-                <li>        <a href="/zht" title="Change language to Chinese Traditional">中文繁體</a>        
+                <li>        <a href="/zht" title="Change language to Chinese Traditional">中文繁體<br>(Chinese Traditional)</a>        
     </li>
 
     
-                <li class="last">        <a href="/jp" title="Change language to Japanese">日本語</a>        
+                <li class="last">        <a href="/jp" title="Change language to Japanese">日本語 (Japanese)</a>        
     </li>
 
 
@@ -273,24 +314,24 @@
 
             </nav>
         </div>
-                    <div class="header__logo">
+                    <div class="header__logo" data-section="header-logo">
                 <a id="SiteLogo" href="/" title="Christian Science Home">
-                    <img class="img-responsive" src="/bundles/tfccschristianscience/images/bg-site-header-logo-@2x.png?v3.4.0" alt="Christian Science">
+                    <img class="img-responsive" src="/bundles/tfccschristianscience/images/bg-site-header-logo-@2x.png?v3.6.11" alt="Christian Science">
                 </a>
             </div>
-                <div class="eyebrow-nav-container-desktop">
-            <div class="header__eyebrow-nav ezxmltext-field" aria-label="Utility navigation continued"><ul>
-<li><a href="http://www.christianscienceplaza.com/" target="_blank" title="Link to Christian Science Plaza website">Plaza updates</a></li>
-<li><a href="https://giving.christianscience.com" target="_blank" title="Link to Giving">Giving</a></li>
-<li><a href="/publications-and-activities/online-services-and-events" target="_self" title="Online events and services">Online services and events</a></li>
-</ul>
+                <div class="eyebrow-nav-container-desktop" data-section="eyebrown-nav">
+            <div class="header__eyebrow-nav ezxmltext-field" aria-label="Utility navigation continued"><p></p><ul>
+<li><p><a href="https://plaza.christianscience.com/" target="_blank" title="Link to Christian Science Plaza website">Plaza updates</a></p></li>
+<li><p><a href="https://giving.christianscience.com" target="_blank" title="Link to Giving">Giving</a></p></li>
+<li><p><a href="/publications-and-activities/online-services-and-events" target="_self" title="Online events and services">Online services and events</a></p></li>
+</ul><p></p>
 </div>
 
 
         </div>
 
         <div class="main-nav-container-desktop">
-            <nav class="header__main-nav mln mln--navbar js-mln--loading" data-mln-breakpoint="992" aria-label="Main navigation">
+            <nav class="header__main-nav mln mln--navbar js-mln--loading" data-mln-breakpoint="992" aria-label="Main navigation" data-section="main-menu">
                         <ul id="PrimaryNav" class="mln__list">
             
                             <li class="first">        <a href="/what-is-christian-science" target="_self" title="What is Christian Science?">What is Christian Science?</a>                <ul class="menu_level_1">
@@ -357,6 +398,10 @@
     </li>
 
     
+                <li>        <a href="/publications-and-activities/christian-science-reading-rooms" target="_self" title="Christian Science Reading Rooms">Christian Science Reading Rooms</a>        
+    </li>
+
+    
                 <li>        <a href="http://jsh.christianscience.com" target="_blank" title="Online magazines">Online magazines</a>        
     </li>
 
@@ -388,19 +433,35 @@
     
                             <li>        <a href="/youth" target="_self" title="Youth">Youth</a>                <ul class="menu_level_1">
             
-                <li class="first">        <a href="/youth/sunday-school" target="_self" title="Sunday School">Sunday School</a>        
+                <li class="first">        <a href="/youth/what-is-sunday-school" target="_self" title="What is Sunday School?">What is Sunday School?</a>        
     </li>
 
     
-                <li>        <a href="/youth/christian-science-organizations" target="_self" title="Christian Science Organizations">Christian Science Organizations</a>        
+                <li>        <a href="/youth/sunday-school-teachers" target="_self" title="Sunday School Teachers">Sunday School Teachers</a>        
     </li>
 
     
-                <li>        <a href="/youth/get-involved" target="_self" title="Get Involved">Get Involved</a>        
+                <li>        <a href="/youth/young-adult" target="_self" title="Young Adult">Young Adult</a>        
     </li>
 
     
-                <li class="last">        <a href="/youth/get-involved/internships" target="_self" title="Internships">Internships</a>        
+                <li>        <a href="/youth/teens" target="_self" title="Teens">Teens</a>        
+    </li>
+
+    
+                <li>        <a href="/youth/preteens" target="_self" title="Preteens">Preteens</a>        
+    </li>
+
+    
+                <li>        <a href="/youth/children" target="_self" title="Children">Children</a>        
+    </li>
+
+    
+                <li>        <a href="/youth/young-adult/cso" target="_self" title="College and university organizations">College and university organizations</a>        
+    </li>
+
+    
+                <li class="last">        <a href="/youth/summits" target="_self" title="Summits">Summits</a>        
     </li>
 
 
@@ -443,7 +504,7 @@
     </li>
 
     
-                <li class="last">        <a href="/find-us/christian-science-on-campus" target="_self" title="Christian Science on campus">Christian Science on campus</a>        
+                <li class="last">        <a href="/find-us/find-a-christian-science-organization" target="_self" title="Find a Christian Science Organization">Find a Christian Science Organization</a>        
     </li>
 
 
@@ -466,6 +527,10 @@
     </li>
 
     
+                <li>        <a href="/additional-resources/per-capita-tax" target="_self" title="Per capita tax">Per capita tax</a>        
+    </li>
+
+    
                 <li>        <a href="/additional-resources/humanitarian-assistance" target="_self" title="Humanitarian assistance">Humanitarian assistance</a>        
     </li>
 
@@ -474,11 +539,11 @@
     </li>
 
     
-                <li>        <a href="/additional-resources/branch-churches-and-societies" target="_self" title="Branch churches and societies">Branch churches and societies</a>        
+                <li>        <a href="/additional-resources/churches-societies-and-groups" target="_self" title="Churches, societies, and groups">Churches, societies, and groups</a>        
     </li>
 
     
-                <li>        <a href="/additional-resources/branch-churches-and-societies/prison-and-institutional-work" target="_self" title="Prison and institutional work">Prison and institutional work</a>        
+                <li>        <a href="/additional-resources/churches-societies-and-groups/prison-and-institutional-work" target="_self" title="Prison ministry">Prison ministry</a>        
     </li>
 
     
@@ -522,7 +587,7 @@
     </ul>
 
             </nav>
-            <div class="header__search-collapse">
+            <div class="header__search-collapse" data-section="search-bar">
                 <a class="header__search-link" role="button" href="#searchCollapse" data-toggle="collapse" aria-expanded="false" aria-controls="searchCollapse">
                     <span class="glyphicon glyphicon-search"></span>
                     <span class="sr-only">Search</span>
@@ -543,11 +608,11 @@
         <!-- Search form -->
         <div class="header__search-mobile">
             
-<form method="get" action="/search" class="header__search-form">
-    <label class="sr-only" for="text">Search</label>
-    <input type="search" id="text" name="text" class="header__search-form__input" aria-describedby="site-search-info">
+<form name="search" method="get" action="/search" class="header__search-form">
+    <label class="sr-only" for="search_text">Search</label>
+    <input type="text" id="search_text" name="search[text]" class="header__search-form__input" aria-describedby="site-search-info">
     <div class="hidden" id="site-search-info">Search all of Christian Science</div>
-    <button type="submit" id="submit" name="submit" class="header__search-form__submit"><span class="glyphicon glyphicon-search"></span><span class="sr-only">Search</span></button>
+    <button type="submit" id="search_submit" name="search[submit]" class="header__search-form__submit"><span class="glyphicon glyphicon-search"></span><span class="sr-only">Search</span></button>
 </form>
 
         </div>
@@ -578,7 +643,7 @@
                 <main id="content" class="main ">
 
                             <div class="page-masthead">
-                    <div class="page-masthead-image" style="background-image: url('/var/cscom/storage/images/legal-and-terms/legal-and-terms-masthead/8606-2-eng-US/legal-and-terms-masthead_masthead.jpg');"></div>
+                    <div class="page-masthead-image" style="background-image: url('/var/cscom/storage/images/_aliases/masthead/legal-and-terms/legal-and-terms-masthead/8606-2-eng-US/legal-and-terms-masthead.jpg');"></div>
                     <div class="container">
                         <div class="widget widget-box">
                             <h1 class="heading-masthead heading-thin-medium">Privacy Policy
@@ -588,37 +653,37 @@
                 </div>
                                                 <div class="l-site-main-content container">
                             
-                        <ol id="wo-breadcrumbs" class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/legal" itemprop="item"><span itemprop="name">Legal information
+                                    <ol id="wo-breadcrumbs" class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/legal" itemprop="item"><span itemprop="name">Legal information
 </span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span itemprop="name">Privacy Policy
-</span><meta itemprop="position" content="2"></li></ol>
-                <div>
-        <div class="ezxmltext-field"><p><strong>Last Updated: May 15, 2017</strong></p><p><a href="https://gdpr.christianscience.com" target="_blank" title="Link to privacy statement"><strong><strong><em>See our new Privacy Statement date&nbsp;</em></strong><strong><em>25 May 2018.</em></strong></strong></a></p><p>This Privacy Policy is part of the <a href="/legal/terms-of-service" target="_self" title="Terms of Service">Terms of Service</a>&nbsp;for ChristianScience.com (the “Site”), owned and operated by The First Church of Christ, Scientist in Boston and its affiliate The Christian Science Publishing Society (“TFCCS”). By using the Site, you consent to the collection and usage of information as described in this Privacy Policy.</p><p>Your privacy is important to us. Therefore, we are committed to respecting your privacy and the confidentiality of your personal data. This Privacy Policy is designed to assist you in understanding how we use and safeguard the information you provide in using the Site.</p><p>In this Privacy Policy, “Terms” means our <a href="/legal/terms-of-service" target="_self" title="Terms of Service">Terms of Service</a>. Other capitalized terms have the meanings given them in the Terms or in this Privacy Policy.</p><a name="eztoc_1_1_1_1" id="eztoc_1_1_1_1"></a><h4>What information do we collect?</h4><p>“Personal Data” means the following types of information that we may gather, store, and use relating to you in order to provide you with access to the Site:</p><ul>
-<li>“Registration Information” means any information provided when you voluntarily subscribe through the Site to email newsletters, bulletins and other communications, including, but not limited to, username, password, and email address, or register for use of the Site or one of the online shops if applicable.</li>
-<li>“Customer Service Communications” means any information that you report to us about the operation of the Site, including bug reports or requests for enhancements.</li>
-<li>“Log Information” means information that your browser sends when you use the Site. Our servers automatically record basic information that your browser sends. These server logs may include information such as your message, Internet Protocol address, other addressing information, the date and time of your request and an authentication token used to validate your identity and that of your computer.</li>
-</ul><a name="eztoc_2_1_1_1" id="eztoc_2_1_1_1"></a><h4>How do we use this information and for what purpose?</h4><p>Our primary purpose in collecting information is to provide you with an efficient user experience. We may also use the information defined in this Privacy Policy to:</p><ul>
-<li>inform you about Site updates</li>
-<li>inform you about online events, promotional offers, activities, and products (When you provide TFCCS your email address, such as when you subscribe to a newsletter, you agree that TFCCS may use your email to send you messages about online events, promotional offers, activities, and products of this Site, TFCCS, and its affiliates. Such emails include a link to unsubscribe. You can also revoke your consent at any time by email to <a href="mailto:info@christianscience.com" target="_blank" title=":info@christianscience.com">info@christianscience.com</a>.)</li>
-<li>provide the services, receipts, and any customer support you request or other services as described when we collect information</li>
-<li>resolve disputes, and troubleshoot problems</li>
-<li>enforce our <a href="/legal/terms-of-service" target="_self" title="Terms of Service">Terms</a>
-</li>
-<li>customize, measure, and improve the Site, content and layout</li>
-<li>compare information for accuracy, and verify your identity.</li>
-<li>combine with other information, including personal information, obtained from your other interactions with TFCCS and its service providers, including your subscriptions, product purchases, website visits, or other communications. We may use this information to personalize the content and advertising that you see on the Site or our other sites, and to share your information with any of our affiliates or service providers in order to provide the Site or advertising or to communicate with you on our behalf.</li>
-</ul><p>Additionally we may use your information as described below.</p><a name="eztoc_3_1_1_1" id="eztoc_3_1_1_1"></a><h4>Registration information</h4><p>Generally, we do not ask users to register to use the Site. However, for some of the activities and services available on the Site, including the ability to shop, we do ask for Registration Information in order to verify your identity and to enable your use of those aspects of the Site. We use third-party banking organizations and other providers of payment services to process any payments, and in that case, you are providing the necessary billing information directly to such provider(s).</p><p>We respect the privacy of personal email accounts, and we will store your email addresses just as securely as other Personal Data. Your Registration Information will not be passed to third parties for their marketing purposes without your express permission. We may use email to keep you up to date with news about the Site and other products we offer. You may opt-out of receiving promotional email messages through the link provided in such communications. However, we reserve the right to use email to notify you of any Site issues or of any legal assertions of rights violations related to your use of the Site.</p><a name="eztoc_4_1_1_1" id="eztoc_4_1_1_1"></a><h4>User submissions</h4><p>You agree to TFCCS's use of your username and other identifying information included with your submissions of content for publication (e.g., testimonies submitted to the Wednesday Online Church service), as provided by you, according to our <a href="/legal/terms-of-service" target="_self" title="Terms of Service">Terms</a>.</p><a name="eztoc_5_1_1_1" id="eztoc_5_1_1_1"></a><h4>Customer service communications</h4><p>Information which is voluntarily submitted in feedback is used for the purpose of improving the Site. We reserve the right to utilize anonymous information for marketing purposes, for instance by displaying selected anonymous comments on our website or in other communications. Further, we may from time to time ask you to provide information on your experiences which will be used to measure and improve quality. You are at no time under any obligation to provide such data. We will never share any personally identifiable (feedback) information with a third party, without your express permission.</p><a name="eztoc_6_1_1_1" id="eztoc_6_1_1_1"></a><h4>Log information</h4><p>We will use this server information to assist us in providing you with a quality user experience on the Site and for our statistical information. &nbsp;</p><a name="eztoc_7_1_1_1" id="eztoc_7_1_1_1"></a><h4>To whom do we transfer your personal information?</h4><p>Except as provided below, we shall not sell, rent, trade or otherwise transfer any Registration Information to any third party without your express permission, unless we are obliged to do so in order to comply with applicable laws, regulatory requests, and orders from competent authorities.</p><p>TFCCS may supply products, subscriptions, services, and other Content appearing on or through this Site through third party service providers. Subscriptions, product sales, and donations are processed by third parties on behalf of TFCCS, and such third parties collect and store billing and credit card information solely to process these transactions. This information will not be used for any other reason except as instructed by TFCCS. Registration Information that you provide to TFCCS may be sent to service providers in order to deliver the service(s) provided by them; similarly, personal information (except credit card information) that you provide to those sites may be sent to us in order to operate the Site or otherwise use according to this Privacy Policy and our Terms.</p><p>We may collect anonymous, aggregated data from our Site and provide it to our service providers to help us with market research and statistical purposes. TFCCS may use such information to help determine ways to improve the Site. TFCCS reserves the right to publish non-personally identifiable, summary information regarding Site visitors for informational and promotional purposes. Please note that this is not personal information, only general summaries of the activities of our visitors and customers.</p><p>By using the Site, you consent to the information collected by us being stored and processed in the United States or any country in which we, our affiliates, or our service providers maintain facilities.</p><p>Notwithstanding anything to the contrary in this Privacy Policy or the Terms, we may access, use, preserve or disclose any information we have access to if we have a good faith belief that such access, use, preservation or disclosure of any information is reasonably necessary to:</p><ul>
-<li>Satisfy any applicable law, regulation, legal process or enforceable governmental request</li>
-<li>Enforce these Terms</li>
-<li>Detect, prevent, or otherwise address fraud, security or technical issues</li>
-<li>Protect against imminent harm to the rights, property or safety of TFCCS, Site users or the public.</li>
-</ul><a name="eztoc_8_1_1_1" id="eztoc_8_1_1_1"></a><h4>How do we protect your personal information?</h4><p>We take reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information, and do not retain it any longer than permitted in order to perform our services or as required under relevant law. You should be aware that Internet communications are not always secure. Despite our best efforts, no security measures are completely effective. Therefore, we cannot promise you that third parties cannot access your Registration Information, and you agree we are not liable for any such disclosure(s).</p><p>Where you are required to use a password or you are given access to an account for any service on our Site, you are responsible for maintaining the confidentiality of such password and account designation. You should not share your Registration Information (such as your username or password) and should exit from your account after each session. You are responsible for all activities that occur under your account.</p><a name="eztoc_9_1_1_1" id="eztoc_9_1_1_1"></a><h4>How long is your Personal Data kept by us?</h4><p>We will retain your information for as long as is necessary to:</p><ul>
-<li>Provide the use of the Site</li>
-<li>Communicate with you regarding the Site or other services that we offer</li>
-<li>Comply with applicable laws, regulatory requests, and orders from competent authorities</li>
-<li>Enforce our Terms</li>
-<li>Fulfill any of the other purposes detailed in this Privacy Policy.</li>
-</ul><a name="eztoc_10_1_1_1" id="eztoc_10_1_1_1"></a><h4>
-<a id="cookies"></a>What are cookies and how do we use them?</h4><p>"Cookies" are text files stored on a user’s hard drive that are used to collect information about the user’s visits to the Site. We use cookies to help us create an overall profile of how a user uses our Site, and how often visits occur. Our cookies are not used to collect personal data from any user's computer - cookies are only used in conjunction with visits within our Site.</p><p>Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are in use. However, it is possible that some portions of the Site will not function properly if you disable cookies. For further information on cookies and their use, see the help instructions delivered with your browser or contact the browser's manufacturer. You can find many online resources that explain how cookies work.</p><a name="eztoc_11_1_1_1" id="eztoc_11_1_1_1"></a><h4>How far does our responsibility extend?</h4><p>This Privacy Policy applies solely to information collected by this Site. We do not exercise control over nor do we accept responsibility or liability for other users or websites. In addition, this Site contains links to our affiliated sites which have their own privacy policies, such as <a href="http://jsh.christianscience.com" target="_blank" title="Christian Science JSH-Online">Christian Science JSH-Online</a>, <a href="http://csmonitor.com" target="_blank" title="CSMonitor.com">CSMonitor.com</a>, and <a href="http://marybakereddylibrary.org" target="_blank" title="MaryBakerEddyLibrary.org">MaryBakerEddyLibrary.org</a>. We encourage you to be aware when you leave this Site and to read the privacy policies of other websites you visit.</p><a name="eztoc_12_1_1_1" id="eztoc_12_1_1_1"></a><h4>Users from outside the United States</h4><p>This Site is hosted in the United States and is governed by United States law. If you are using the Site from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our databases are operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Site, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.</p><a name="eztoc_13_1_1_1" id="eztoc_13_1_1_1"></a><h4>Children</h4><p>With the exception of online Sunday School, the Site is not intended for persons under the age of 13. In accordance with the Children’s Online Privacy Protection Act (COPPA), this Site does not knowingly collect personal information from children under the age of 13 without parental consent. If it is learned that such information has been collected without parental consent, that information will be deleted from the Site’s database as quickly as practical or the child’s parent or guardian will be contacted for consent.</p><p>We recommend minors under the age of 18 ask a parent for permission before sending personal information over the Internet. We encourage parents to teach their children about safe Internet practices and to be involved in their children’s online activities.</p><a name="eztoc_14_1_1_1" id="eztoc_14_1_1_1"></a><h4>California Do Not Track Disclosure</h4><p>ChristianScience.com does not currently respond to Do Not Track (DNT) signals.</p><a name="eztoc_15_1_1_1" id="eztoc_15_1_1_1"></a><h4>No rights of third parties</h4><p>This Privacy Policy does not create rights enforceable by third parties.</p><a name="eztoc_16_1_1_1" id="eztoc_16_1_1_1"></a><h4>Can this Privacy Policy be modified?</h4><p>TFCCS reserves the right to change this Privacy Policy at any time. Please check this page periodically for changes.&nbsp;We will post notice of modification to the Privacy Policy on this page. Changes will become effective 14 days after they are posted.</p><a name="eztoc_17_1_1_1" id="eztoc_17_1_1_1"></a><h4>What rights do you have and how can you contact us?</h4><p>If you would like to exercise your right to view, correct, complete, or remove your Personal Data, please contact us at <a href="mailto:info@christianscience.com" target="_blank" title="info@christianscience.com">info@christianscience.com</a>. Upon verification of your identity, we will attempt to quickly fulfill your request.</p>
+</span><link itemprop="item" content="/legal/privacy-policy"><meta itemprop="position" content="2"></li></ol>
+
+                            <div>
+        <div class="ezxmltext-field"><p><strong>Last Updated: May 15, 2017</strong></p><p><a href="https://gdpr.christianscience.com" target="_blank" title="Link to privacy statement"><strong><strong><em>See our new Privacy Statement date&nbsp;</em></strong><strong><em>25 May 2018.</em></strong></strong></a></p><p>This Privacy Policy is part of the <a href="/legal/terms-of-service" target="_self" title="Terms of Service">Terms of Service</a>&nbsp;for ChristianScience.com (the “Site”), owned and operated by The First Church of Christ, Scientist in Boston and its affiliate The Christian Science Publishing Society (“TFCCS”). By using the Site, you consent to the collection and usage of information as described in this Privacy Policy.</p><p>Your privacy is important to us. Therefore, we are committed to respecting your privacy and the confidentiality of your personal data. This Privacy Policy is designed to assist you in understanding how we use and safeguard the information you provide in using the Site.</p><p>In this Privacy Policy, “Terms” means our <a href="/legal/terms-of-service" target="_self" title="Terms of Service">Terms of Service</a>. Other capitalized terms have the meanings given them in the Terms or in this Privacy Policy.</p><a id="eztoc_1_1_1_1"></a><h4>What information do we collect?</h4><p>“Personal Data” means the following types of information that we may gather, store, and use relating to you in order to provide you with access to the Site:</p><p></p><ul>
+<li><p>“Registration Information” means any information provided when you voluntarily subscribe through the Site to email newsletters, bulletins and other communications, including, but not limited to, username, password, and email address, or register for use of the Site or one of the online shops if applicable.</p></li>
+<li><p>“Customer Service Communications” means any information that you report to us about the operation of the Site, including bug reports or requests for enhancements.</p></li>
+<li><p>“Log Information” means information that your browser sends when you use the Site. Our servers automatically record basic information that your browser sends. These server logs may include information such as your message, Internet Protocol address, other addressing information, the date and time of your request and an authentication token used to validate your identity and that of your computer.</p></li>
+</ul><p></p><a id="eztoc_2_1_1_1"></a><h4>How do we use this information and for what purpose?</h4><p>Our primary purpose in collecting information is to provide you with an efficient user experience. We may also use the information defined in this Privacy Policy to:</p><p></p><ul>
+<li><p>inform you about Site updates</p></li>
+<li><p>inform you about online events, promotional offers, activities, and products (When you provide TFCCS your email address, such as when you subscribe to a newsletter, you agree that TFCCS may use your email to send you messages about online events, promotional offers, activities, and products of this Site, TFCCS, and its affiliates. Such emails include a link to unsubscribe. You can also revoke your consent at any time by email to <a href="mailto:info@christianscience.com" target="_blank" title=":info@christianscience.com">info@christianscience.com</a>.)</p></li>
+<li><p>provide the services, receipts, and any customer support you request or other services as described when we collect information</p></li>
+<li><p>resolve disputes, and troubleshoot problems</p></li>
+<li><p>enforce our <a href="/legal/terms-of-service" target="_self" title="Terms of Service">Terms</a></p></li>
+<li><p>customize, measure, and improve the Site, content and layout</p></li>
+<li><p>compare information for accuracy, and verify your identity.</p></li>
+<li><p>combine with other information, including personal information, obtained from your other interactions with TFCCS and its service providers, including your subscriptions, product purchases, website visits, or other communications. We may use this information to personalize the content and advertising that you see on the Site or our other sites, and to share your information with any of our affiliates or service providers in order to provide the Site or advertising or to communicate with you on our behalf.</p></li>
+</ul><p></p><p>Additionally we may use your information as described below.</p><a id="eztoc_3_1_1_1"></a><h4>Registration information</h4><p>Generally, we do not ask users to register to use the Site. However, for some of the activities and services available on the Site, including the ability to shop, we do ask for Registration Information in order to verify your identity and to enable your use of those aspects of the Site. We use third-party banking organizations and other providers of payment services to process any payments, and in that case, you are providing the necessary billing information directly to such provider(s).</p><p>We respect the privacy of personal email accounts, and we will store your email addresses just as securely as other Personal Data. Your Registration Information will not be passed to third parties for their marketing purposes without your express permission. We may use email to keep you up to date with news about the Site and other products we offer. You may opt-out of receiving promotional email messages through the link provided in such communications. However, we reserve the right to use email to notify you of any Site issues or of any legal assertions of rights violations related to your use of the Site.</p><a id="eztoc_4_1_1_1"></a><h4>User submissions</h4><p>You agree to TFCCS's use of your username and other identifying information included with your submissions of content for publication (e.g., testimonies submitted to the Wednesday Online Church service), as provided by you, according to our <a href="/legal/terms-of-service" target="_self" title="Terms of Service">Terms</a>.</p><a id="eztoc_5_1_1_1"></a><h4>Customer service communications</h4><p>Information which is voluntarily submitted in feedback is used for the purpose of improving the Site. We reserve the right to utilize anonymous information for marketing purposes, for instance by displaying selected anonymous comments on our website or in other communications. Further, we may from time to time ask you to provide information on your experiences which will be used to measure and improve quality. You are at no time under any obligation to provide such data. We will never share any personally identifiable (feedback) information with a third party, without your express permission.</p><a id="eztoc_6_1_1_1"></a><h4>Log information</h4><p>We will use this server information to assist us in providing you with a quality user experience on the Site and for our statistical information. &nbsp;</p><a id="eztoc_7_1_1_1"></a><h4>To whom do we transfer your personal information?</h4><p>Except as provided below, we shall not sell, rent, trade or otherwise transfer any Registration Information to any third party without your express permission, unless we are obliged to do so in order to comply with applicable laws, regulatory requests, and orders from competent authorities.</p><p>TFCCS may supply products, subscriptions, services, and other Content appearing on or through this Site through third party service providers. Subscriptions, product sales, and donations are processed by third parties on behalf of TFCCS, and such third parties collect and store billing and credit card information solely to process these transactions. This information will not be used for any other reason except as instructed by TFCCS. Registration Information that you provide to TFCCS may be sent to service providers in order to deliver the service(s) provided by them; similarly, personal information (except credit card information) that you provide to those sites may be sent to us in order to operate the Site or otherwise use according to this Privacy Policy and our Terms.</p><p>We may collect anonymous, aggregated data from our Site and provide it to our service providers to help us with market research and statistical purposes. TFCCS may use such information to help determine ways to improve the Site. TFCCS reserves the right to publish non-personally identifiable, summary information regarding Site visitors for informational and promotional purposes. Please note that this is not personal information, only general summaries of the activities of our visitors and customers.</p><p>By using the Site, you consent to the information collected by us being stored and processed in the United States or any country in which we, our affiliates, or our service providers maintain facilities.</p><p>Notwithstanding anything to the contrary in this Privacy Policy or the Terms, we may access, use, preserve or disclose any information we have access to if we have a good faith belief that such access, use, preservation or disclosure of any information is reasonably necessary to:</p><p></p><ul>
+<li><p>Satisfy any applicable law, regulation, legal process or enforceable governmental request</p></li>
+<li><p>Enforce these Terms</p></li>
+<li><p>Detect, prevent, or otherwise address fraud, security or technical issues</p></li>
+<li><p>Protect against imminent harm to the rights, property or safety of TFCCS, Site users or the public.</p></li>
+</ul><p></p><a id="eztoc_8_1_1_1"></a><h4>How do we protect your personal information?</h4><p>We take reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information, and do not retain it any longer than permitted in order to perform our services or as required under relevant law. You should be aware that Internet communications are not always secure. Despite our best efforts, no security measures are completely effective. Therefore, we cannot promise you that third parties cannot access your Registration Information, and you agree we are not liable for any such disclosure(s).</p><p>Where you are required to use a password or you are given access to an account for any service on our Site, you are responsible for maintaining the confidentiality of such password and account designation. You should not share your Registration Information (such as your username or password) and should exit from your account after each session. You are responsible for all activities that occur under your account.</p><a id="eztoc_9_1_1_1"></a><h4>How long is your Personal Data kept by us?</h4><p>We will retain your information for as long as is necessary to:</p><p></p><ul>
+<li><p>Provide the use of the Site</p></li>
+<li><p>Communicate with you regarding the Site or other services that we offer</p></li>
+<li><p>Comply with applicable laws, regulatory requests, and orders from competent authorities</p></li>
+<li><p>Enforce our Terms</p></li>
+<li><p>Fulfill any of the other purposes detailed in this Privacy Policy.</p></li>
+</ul><p></p><a id="eztoc_10_1_1_1"></a><h4>
+<a id="cookies"></a>What are cookies and how do we use them?</h4><p>"Cookies" are text files stored on a user’s hard drive that are used to collect information about the user’s visits to the Site. We use cookies to help us create an overall profile of how a user uses our Site, and how often visits occur. Our cookies are not used to collect personal data from any user's computer - cookies are only used in conjunction with visits within our Site.</p><p>Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are in use. However, it is possible that some portions of the Site will not function properly if you disable cookies. For further information on cookies and their use, see the help instructions delivered with your browser or contact the browser's manufacturer. You can find many online resources that explain how cookies work.</p><a id="eztoc_11_1_1_1"></a><h4>How far does our responsibility extend?</h4><p>This Privacy Policy applies solely to information collected by this Site. We do not exercise control over nor do we accept responsibility or liability for other users or websites. In addition, this Site contains links to our affiliated sites which have their own privacy policies, such as <a href="http://jsh.christianscience.com" target="_blank" title="Christian Science JSH-Online">Christian Science JSH-Online</a>, <a href="http://csmonitor.com" target="_blank" title="CSMonitor.com">CSMonitor.com</a>, and <a href="http://marybakereddylibrary.org" target="_blank" title="MaryBakerEddyLibrary.org">MaryBakerEddyLibrary.org</a>. We encourage you to be aware when you leave this Site and to read the privacy policies of other websites you visit.</p><a id="eztoc_12_1_1_1"></a><h4>Users from outside the United States</h4><p>This Site is hosted in the United States and is governed by United States law. If you are using the Site from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our databases are operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Site, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.</p><a id="eztoc_13_1_1_1"></a><h4>Children</h4><p>With the exception of online Sunday School, the Site is not intended for persons under the age of 13. In accordance with the Children’s Online Privacy Protection Act (COPPA), this Site does not knowingly collect personal information from children under the age of 13 without parental consent. If it is learned that such information has been collected without parental consent, that information will be deleted from the Site’s database as quickly as practical or the child’s parent or guardian will be contacted for consent.</p><p>We recommend minors under the age of 18 ask a parent for permission before sending personal information over the Internet. We encourage parents to teach their children about safe Internet practices and to be involved in their children’s online activities.</p><a id="eztoc_14_1_1_1"></a><h4>California Do Not Track Disclosure</h4><p>ChristianScience.com does not currently respond to Do Not Track (DNT) signals.</p><a id="eztoc_15_1_1_1"></a><h4>No rights of third parties</h4><p>This Privacy Policy does not create rights enforceable by third parties.</p><a id="eztoc_16_1_1_1"></a><h4>Can this Privacy Policy be modified?</h4><p>TFCCS reserves the right to change this Privacy Policy at any time. Please check this page periodically for changes.&nbsp;We will post notice of modification to the Privacy Policy on this page. Changes will become effective 14 days after they are posted.</p><a id="eztoc_17_1_1_1"></a><h4>What rights do you have and how can you contact us?</h4><p>If you would like to exercise your right to view, correct, complete, or remove your Personal Data, please contact us at <a href="mailto:info@christianscience.com" target="_blank" title="info@christianscience.com">info@christianscience.com</a>. Upon verification of your identity, we will attempt to quickly fulfill your request.</p>
 </div>
 
     </div>
@@ -626,12 +691,12 @@
                                                                 </div>
         </main>
         
-        <footer class="footer">
+        <footer class="footer" data-section="footer">
             <div class="container">
     <div class="row">
         <div class="col-sm-5">
             <a id="FooterLogoLink" class="footer__logo" href="/" title="Christian Science Home">
-                <img src="/bundles/tfccschristianscience/images/logo-no-crown-@2x.png?v3.4.0" alt="Christian Science">
+                <img src="/bundles/tfccschristianscience/images/logo-no-crown-@2x.png?v3.6.11" alt="Christian Science">
             </a>
         </div>
         <div class="col-sm-7 hidden-xs">
@@ -646,16 +711,16 @@
     <div class="row">
         <div class="col-sm-6 col-sm-push-6 col-md-8 col-md-push-4">
             <nav class="footer__nav" aria-label="Footer utility navigation">
-            <div class="ezxmltext-field"><ul>
-<li><a href="https://giving.christianscience.com" target="_blank" title="Giving">Giving</a></li>
-<li><a href="/careers" target="_self" title="Careers">Careers</a></li>
-<li><a href="/listen-to-science-and-health-online" target="_self" title="Listen to Science and Health">Listen to&nbsp;<em>Science and Health</em></a></li>
-<li><a href="/legal/terms-of-service" target="_self" title="Terms of service">Terms</a></li>
-<li><a href="/legal/privacy-policy" target="_self" title="Privacy policy">Privacy policy</a></li>
-<li><a href="/legal" target="_self" title="Link to legal information">Legal</a></li>
-<li><a href="/contact-us" target="_self" title="Contact us">Contact us</a></li>
-<li><a href="/press-room" target="_self" title="Link to Press Room">Press room</a></li>
-</ul>
+            <div class="ezxmltext-field"><p></p><ul>
+<li><p><a href="https://giving.christianscience.com" target="_blank" title="Giving">Giving</a></p></li>
+<li><p><a href="/careers" target="_self" title="Careers">Careers</a></p></li>
+<li><p><a href="/listen-to-science-and-health-online" target="_self" title="Listen to Science and Health">Listen to&nbsp;<em>Science and Health</em></a></p></li>
+<li><p><a href="/legal/terms-of-service" target="_self" title="Terms of service">Terms</a></p></li>
+<li><p><a href="/legal/privacy-policy" target="_self" title="Privacy policy">Privacy policy</a></p></li>
+<li><p><a href="/legal" target="_self" title="Link to legal information">Legal</a></p></li>
+<li><p><a href="/contact-us" target="_self" title="Contact us">Contact us</a></p></li>
+<li><p><a href="/press-room" target="_self" title="Link to Press Room">Press room</a></p></li>
+</ul><p></p>
 </div>
 
             </nav>
@@ -701,21 +766,27 @@
 </script>
 
     <div class="modal audio-modal fade" id="genericModal" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-dialog modal-md" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <div tabindex="0" class="close-button">X<br><span>Close</span></div>
+                </button>
                 <h2 class="modal-title"></h2>
             </div>
             <div class="modal-body">
             </div>
+            <div class="modal-share-tools">
+            </div>
         </div>
     </div>
 </div>    <div class="modal audio-modal fade" id="audioModal" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-dialog modal-md" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <div tabindex="0" class="close-button">X<br><span>Close</span></div>
+                </button>
                 <h2 class="modal-title">Modal title</h2>
             </div>
             <div class="modal-body">
@@ -734,14 +805,15 @@
                     </div>
                 </div>
             </div>
+            <div class="modal-share-tools">
+            </div>
         </div>
     </div>
 </div>    <div class="modal video-modal fade" id="videoModal" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="icon-x"></span>
-                <span class="sr-only">Close modal</span>
+                <div tabindex="0" class="close-button">X<br><span>Close</span></div>
             </button>
             <div class="modal-body">
                 <div class="video-player">
@@ -749,6 +821,8 @@
                         <iframe src="" class="embed-responsive-item" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                     </div>
                 </div>
+            </div>
+            <div class="modal-share-tools">
             </div>
         </div>
     </div>
@@ -769,9 +843,9 @@
 </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/bundles/tfccschristianscience/js/vendor/jquery.min.js?v3.4.0"><\/script>');</script><script src="/bundles/tfccschristianscience/js/vendor/jquery.min.js?v3.4.0"></script>
-<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyCCnTmY1vJmbxq6WrMPP_BtR7RImRgiOxA"></script>
-    <script src="/js/1056af2.js?v3.4.0"></script>
+<script>window.jQuery || document.write('<script src="/bundles/tfccschristianscience/js/vendor/jquery.min.js?v3.6.11"><\/script>');</script><script src="/bundles/tfccschristianscience/js/vendor/jquery.min.js?v3.6.11"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDS7gQLteMmnBW8kD3AeJ9kxDNBZvZCV8g"></script>
+    <script src="/js/1056af2.js?v3.6.11"></script>
 <script>
     $(function () {
         $.scrollDepth();
