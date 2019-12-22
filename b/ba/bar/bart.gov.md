@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513205214id_/https%3A//www.bart.gov/siteinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222042030id_/http%3A//www.bart.gov/siteinfo/privacy) for the most accurate reproduction.*
 
-# BART Website Privacy Policy | bart.gov
+# Privacy Policy | bart.gov
 
 For the Official BART App Terms of Service and Privacy Policy visit: <https://www.bart.gov/siteinfo/bart-app-privacy>
 
   
- **BART Website Privacy Policy Key Points**
+ **Privacy Policy Key Points**
 
   * BART collects data from User’s use of BART’s online services and programs.
   * If User uses BART’s online services and programs, BART may use User’s Personally Identifiable Information to better administer these programs and services.
@@ -15,10 +15,10 @@ For the Official BART App Terms of Service and Privacy Policy visit: <https://w
 
 
  **Privacy at bart.gov**  
-Because BART receives certain types of information from visitors to BART websites, BART wants Users to understand the terms and conditions regarding the use of that information. The following privacy statement discloses what information BART receives and how BART uses it.
+Because BART receives certain types of information from Users of online services and programs, BART wants Users to understand the terms and conditions regarding the use of that information. The following privacy statement discloses what information BART receives and how BART uses it.
 
- **What type of information does BART receive at its websites?**  
-The information BART receives depends upon what User does when visiting BART websites. In general, BART receives two types of information: The personal information User provides voluntarily, and aggregated information about users as a whole.
+ **What type of information does BART receive?**  
+The information BART receives depends upon what User does when using online services and programs. In general, BART receives two types of information: The personal information User provides voluntarily, and aggregated information about users as a whole.
 
  **Personal Information**  
 BART may request personal information, e.g. when User registers as a vendor, submits comments, enters a contest, subscribes to an email list, or plans a BART trip using User’s address or location. This personal information may include, but is not limited to, User’s name, email address, phone number, street address, or User’s location. If User uses BART's online employment application, BART may request other types of personal information required to process User’s application.
@@ -29,7 +29,7 @@ BART receives certain types of aggregated information about general activity at 
  **How is this information used?**  
 The personal information User voluntarily provides is used to fulfill User’s request, e.g. reply to User’s comments or enter User in a contest, subscribe User to an email list, or planning a BART trip using User’s address or location. BART does not share, sell, trade, or rent personal information to anyone, or disclose that information except: 1) when the purpose and manner of the disclosure has been disclosed to User prior to User providing the information, or 2) when disclosure is required by law.
 
-The aggregated information BART receives is compiled for statistical analysis and reporting. It helps BART build a better website for Users. For example, it helps BART determine areas of a BART website that Users like and don't like based on traffic to those areas or peak traffic hours. BART may share aggregated information with third parties and include it in public records (see Public Records below).
+The aggregated information BART receives is compiled for statistical analysis and reporting. It helps BART build a better online services and programs for Users. For example, it helps BART determine areas of a BART website that Users like and don't like based on traffic to those areas or peak traffic hours. BART may share aggregated information with third parties and include it in public records (see Public Records below).
 
   * BART may use a third party Digital Subscription Management (DSM) service called GovDelivery. When using it, User may voluntarily provide certain information, some of which may identify User personally, such as User’s name or email address. GovDelivery does not share information gathered through BART with third parties for promotional purposes. To find out more about GovDelivery, their technology, their privacy policy and other information visit the [GovDelivery Privacy Overview](https://www.govdelivery.com/legal-privacy/).
   * BART may use a third party Digital Subscription Management (DSM) service called MailChimp. When using it, User may voluntarily provide certain information, some of which may identify User personally, such as User’s name or email address. MailChimp does not share information gathered through BART with third parties for promotional purposes. To find out more about MailChimp, their technology, their privacy policy and other information visit the [MailChimp Privacy Overview](https://mailchimp.com/legal/privacy/ "External Links").
@@ -62,7 +62,7 @@ BART monitors network traffic to identify unauthorized attempts to upload or cha
 A cookie is a small data file that websites commonly write to User’s hard drive when User visits a website. A cookie file contains information that can identify User anonymously in order to track traffic patterns and add functionality to the website. The cookies on BART websites do not identify User personally but rather identify User’s computer when User visits BART websites. A cookie cannot read data off User’s hard disk or read cookie files created by other websites. User’s browser can be set to warn User before accepting cookies and may choose to refuse cookies by turning them off in User’s browser. User does not need to have cookies turned on to use the majority of BART websites, but User will need to allow cookies in certain areas in order to perform certain functions. BART websites allows users to clear cookies.
 
  **Updates**  
-If BART updates its Privacy Policy, BART will update this page so that Users are always aware of what information is collected, how it is used and under what circumstances it is disclosed.  BART reserves the right to update this privacy policy at any time. This page was last updated on February 7, 2019.
+If BART updates its Privacy Policy, BART will update this page so that Users are always aware of what information is collected, how it is used and under what circumstances it is disclosed.  BART reserves the right to update this privacy policy at any time. This page was last updated on November 13, 2019.
 
  **Consent**  
 By using BART websites, User consents to the collection and use of information and monitoring, as described above.
