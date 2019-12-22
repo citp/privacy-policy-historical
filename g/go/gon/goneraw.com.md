@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goneraw.com privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712165728id_/https%3A//www.therawtarian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goneraw.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222163958id_/https%3A//www.therawtarian.com/privacy-policy) for the most accurate reproduction.*
 
 # The Rawtarian Privacy Policy | The Rawtarian
 
@@ -26,7 +26,6 @@ We may use the information we collect from you when you register, make a purchas
 
 ## How do we protect your information?
 
-We do not use vulnerability scanning and/or scanning to PCI standards.  
 We only provide articles and information. We never ask for credit card numbers.  
 We use regular Malware Scanning.
 
@@ -81,7 +80,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 ## California Online Privacy Protection Act
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: [http://consumercal.org/california-online-privacy-protection-act-caloppa/...](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
 #### According to CalOPPA, we agree to the following:
 
@@ -107,7 +106,7 @@ It's also important to note that we do not allow third-party behavioral tracking
 When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
 We do not specifically market to children under the age of 13 years old.  
-Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?
+We do not let third-parties, including ad networks or plug-ins collect PII from children under 13
 
 ## Fair Information Practices
 
@@ -169,4 +168,4 @@ _The Rawtarian_
  _Canada_  
  _[support@therawtarian.com](mailto:support@therawtarian.com)_
 
-Last Edited on 2018-05-31
+Last Edited on 2019-04-16
