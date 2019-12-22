@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermobilityweek.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417141035id_/https%3A//www.ctia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermobilityweek.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222210418id_/https%3A//www.ctia.org/privacy-policy) for the most accurate reproduction.*
 
 # CTIA - Privacy Policy
 
