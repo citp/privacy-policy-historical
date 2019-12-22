@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418124719id_/https%3A//www.soundonsound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222034918id_/https%3A//www.soundonsound.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
-Sound On Sound Ltd is part of the SOS Publications Group (collectively, "SOS", "we" or "our"), and we understand the importance of our customers' privacy. This Privacy Policy tells you what information we collect about you when you visit this website (our "Site") or use an online application or mobile device app. Our Privacy Policy also tells you how we use, share and protect this information; what choices you have about how this information is used; and how you can access and update this information.
+**Sound On Sound Ltd** is part of the **SOS Publications Group** (collectively, "SOS", "we" or "our"), and we understand the importance of our customers' privacy. This Privacy Policy tells you what information we collect about you when you visit this website (our "Site") or use an online application or mobile device app. Our Privacy Policy also tells you how we use, share and protect this information; what choices you have about how this information is used; and how you can access and update this information.
 
 This Privacy Policy relates to the following SOS‑owned websites and mobile device apps:
 
@@ -32,8 +32,8 @@ SOS is committed to being a good guardian of your Personal Information. We will 
 We also believe in being honest, direct and transparent when it comes to your data and follow these three guiding principles:
 
   * **Transparency** : we will always be transparent about what Personal Information we collect and process.
-  *  **Simplicity** : we will use easy‑to‑understand language to describe our privacy practices to help you fully understand what is happening and the choices you have.
-  *  **Control** : we give you control over the Personal Information you provide to us.
+  * **Simplicity** : we will use easy‑to‑understand language to describe our privacy practices to help you fully understand what is happening and the choices you have.
+  * **Control** : we give you control over the Personal Information you provide to us.
 
 
 
@@ -56,49 +56,49 @@ The type of information we collect depends on which services you use on our site
 
 
 
-**SOS Forum**
+### SOS Forum
 
 Users of the Forum discussion groups must register for these services (it is free of charge) in order to post or reply to messages and to vote in a poll; there is no requirement to register in order to read/browse messages.
 
-**Forum's "Email This Topic To A Friend" Service**
+### Forum's "Email This Topic To A Friend" Service
 
 A Forum user can choose to electronically forward a news story or discussion thread to someone else by clicking the link at the top of that topic. The user must provide their email address as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the story. The information is not used for any other purpose.
 
-**Polls**
+### Polls
 
 The SOS Forum offers interactive polls to users so they can easily share their opinions with other users and see what the SOS audience thinks about important issues. Only registered users may vote and SOS uses a system to "tag" users after they have voted so they can only vote once per poll. This tag is not correlated with information about individual users.
 
 ## 4\. How do we use your information?
 
-**Marketing**
+### Marketing
 
 For Email Newsletter sign‑up we store your email address and the choice of newsletters in our email marketing database. You may unsubscribe and opt out from any newsletter at any time by clicking the Unsubscribe link in the message.
 
-**Informational**
+### Informational
 
-If you register on the site some of the information you supply, e.g. your SOS account username, is used as the name of the person posting a comment in our Forum. If you use our free Readers’ Ads service we ask you to supply a Contact name and indicate whether you are a Public or Trade seller. By adding this information you are agreeing to it being displayed in public in your published advert.
+If you register on the site some of the information you supply, e.g. your SOS account username, is used as the name of the person posting a comment in our Forum. If you use our free Readers’ Ads service we ask you to supply a Contact name and indicate whether you are a Public or Business seller. By adding this information you are agreeing to it being displayed in public in your published advert.
 
-**Transactional**
+### Transactional
 
-If you are purchasing items from our shop we will request your card or PayPal payment details and process it via our Payment Service Providers, SagePay or PayPal Inc. Note: we do not store your card details on our server but pass them to our payment service provider at the moment of transaction. This is done via a secure encrypted SSL link. We only retain the last four digits of your card number and the card type to help identify which card was used should there be a query with your order. SagePay and PayPal store your information on the basis of their privacy policies.
+If you are purchasing items from our shop we will request your card or PayPal payment details and process it via our Payment Service Providers, SagePay or PayPal Inc. Note: _we do not store your card details on our server_ but pass them to our payment service provider at the moment of transaction. This is done via a secure encrypted SSL link. We only retain the last four digits of your card number and the card type to help identify which card was used should there be a query with your order. SagePay and PayPal store your information on the basis of their privacy policies.
 
 <https://www.sagepay.co.uk/policies/security-policy>
 
 <https://www.paypal.com/uk/webapps/mpp/paypal-safety-and-security>
 
-**Contract**
+### Contract
 
 If you have purchased from us, we keep a record of each order in the Order History section of your private My Account. You can view this in your account at any time and see a list of items you have ordered, check the status of each order and download an invoice/receipt for your own records.
 
-If you purchase a subscription, whether for a Print magazine or Digital, we need to keep in touch with you via email to inform you about when your subscription will expire. We typically do this by sending you a renewal email message. To remain in contact with you about this important matter we therefore ask you NOT to uncheck the ‘Allow Contact’ box which you’ll find in your My Account’s Mailing List section, as this will stop all communication with you. It’s your choice whether you check or uncheck that box but, if unchecked, we cannot be held responsible if your subscription lapses and you miss issues.
+If you purchase a subscription, whether for a Print magazine or Digital, we need to keep in touch with you via email to inform you about when your subscription will expire. We typically do this by sending you a renewal email message. To remain in contact with you about this important matter we therefore ask you _not_ to uncheck the ‘Allow Contact’ box which you’ll find in your My Account’s Mailing List section, since this will stop all communication with you. It’s your choice whether you check or uncheck that box but, if unchecked, we cannot be held responsible if your subscription lapses and you miss issues.
 
 There are separate check boxes related to marketing emails which you are free to opt in or out of at any time.
 
-**Surveys**
+### Surveys
 
 Occasionally SOS conducts reader/user surveys to better understand the interests of our users. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. The survey results are analysed on an anonymous basis to produce data sets in the form of totals, graphs and charts.
 
-No personally identifiable information is included in any analysis report.
+_No personally identifiable information is included in any analysis report._
 
 ## 5\. Cookies.
 
@@ -106,11 +106,13 @@ A cookie is a small data file that certain web sites store on your computer/devi
 
 You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use any SOS site, though it does make your experience a more enjoyable one. However, you do need cookies to participate actively in the Forum discussion groups and use the shopping cart to purchase items.
 
-See our Cookies and Site Security page: <https://www.soundonsound.com/information/cookies-site-security>
+  * See our Cookies and Site Security page: <https://www.soundonsound.com/information/cookies-site-security>
+
+
 
 ## 6\. How is your information shared?
 
-SOS will never sell your personal data or share it with third parties without your full consent. Currently the only request for such consent is when you enter one of our competitions and we ask you to voluntarily opt‑in to receive marketing information from the competition prize sponsor. This is optional and you are not obliged to opt‑in.
+SOS will never sell your personal data or share it with third parties without your full consent. Currently the only request for such consent is when you enter one of our Competitions and we ask you to voluntarily opt‑in to receive marketing information from the Competition prize sponsor and/or SOS. This is optional and you are not obliged to opt‑in.
 
 ## 7\. What is our legal basis for processing data?
 
@@ -120,11 +122,11 @@ If you purchase a magazine subscription or mail order item via our shop, you hav
 
 ## 8\. You are in control of your personal data.
 
-When you register on our site you create an account that we call ‘My Account’. You can log in at any time with your email address and the password you chose when creating the account and amend your contact details as well as opt in or out of subscribing to our newsletters. If you have difficulty doing this please contact us using the form on this page:
+When you register on our site you create an account that we call ‘My Account’. You can log in at any time, using your email address and the password you chose when creating the account, in order to amend your contact details as well as opt in or out of subscribing to our newsletters. If you have difficulty doing this, please contact us using the form on this page:
 
 <https://www.soundonsound.com/support/privacy-policy-question>
 
-**Your Rights**
+### Your Rights
 
 We want to ensure you remain in control of your personal data. Part of this is making sure you understand your legal rights, which for individuals are as follows:
 
@@ -145,7 +147,7 @@ The SOS website(s) are hosted in the USA by our IT Suppliers. We use cloud‑bas
 
 We also use MailChimp for our email marketing activity and Zendesk for customer support. These third‑party suppliers are also based in the USA and secure your data on the basis of Privacy Shield.
 
-**What is Privacy Shield?**
+### What is Privacy Shield?
 
 The U.S. Department of Commerce, with the European Commission and the Swiss government, created the EU‑U.S. and Swiss‑U.S. Privacy Shield Frameworks to provide companies with a mechanism to transfer personal data from the European Union to the United States in a manner that provides an adequate level of protection for the purpose of European data protection law.
 
@@ -155,7 +157,7 @@ The U.S. Department of Commerce, with the European Commission and the Swiss gove
 
 We retain your personal information for as long as necessary to provide the Services you have requested, or for other essential purposes such as complying with our legal obligations.
 
-**Right To Be Forgotten**
+### Right To Be Forgotten
 
 You may request that we deactivate or delete your account at any time, subject to our legal obligations. For users who have posted in our Forum, we cannot remove individual posts from a topic as that would break the discussion thread. Instead, we over‑write your Forum username and set it to ‘Guest’ so that the post cannot be attributed to you and is anonymous.
 
@@ -174,15 +176,15 @@ We use a number of third‑party services to monitor the usage of our website an
 
 
 
-**For iOS iPad user**  (Single issues)
+### For iOS iPad user (Single issues)
 
 You may purchase a single issue or annual subscription from the Apple iTunes App Store. To do this you must have an Apple account and your purchase is with Apple Inc. You are therefore their customer. SOS is not party to this transaction and we do not hold any data relating to your purchase.
 
-**Android tablet user**  (Single issues)
+### Android tablet user (Single issues)
 
 You may purchase a single issue from the Google Play Store. To do this you must have a Google account. SOS is not party to this transaction and we do not hold any data relating to your purchase.
 
-**SOS Digital Subscriber**  (Annual subscription)
+### SOS Digital Subscriber (Annual subscription)
 
 You may purchase an annual subscription to our tablet edition for iPad or Android via our online shop. Once purchased you download the SOS viewer app to your device and use it to access the issues covered by your annual subscription purchase. This is done by logging into the app with the username / email address and password you set up on our site when you registered and created your My Account. This logging in process passes your details via the Twixl app to our database to check that you are entitled to download an issue. The Twixl server does not store any personally identifiable information as your identity is codified into an anonymous ID from the SOS website.
 
