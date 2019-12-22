@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialcompare.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212185000id_/http%3A//socialcompare.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialcompare.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222054430id_/http%3A//socialcompare.com/en/privacy) for the most accurate reproduction.*
 
 # SocialCompare
 
