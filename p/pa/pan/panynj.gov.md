@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panynj.gov privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619075901id_/http%3A//www.panynj.gov/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panynj.gov privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222041342id_/http%3A//www.panynj.gov/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Website - The Port Authority of NY & NJ
 
