@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625231354id_/https%3A//www.adbutler.com/agreements.spark%3Fagreement%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222010246id_/https%3A//www.adbutler.com/agreements.spark%3Fagreement%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -110,6 +110,8 @@ To reset your advertising ID on an iOS device:
 ## Your choice/opt out
 
 AdButler provides you with the opportunity to remove your personal information from our database and opt out of receiving communications from us at any time. Login to the members section and delete any products that you have signed for (See FAQ for more information).
+
+If you would like to opt out of all AdButler cookies, you can do so [here](https://www.adbutler.com/cookie-opt-out.spark).
 
 AdButler provides you with the opportunity to update or change any information you previously provided. Please login to the members area and make your changes (See FAQ for more information).
 
