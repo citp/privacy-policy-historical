@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestride.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625011002id_/https%3A//bestride.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestride.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222104119id_/https%3A//bestride.com/privacypolicy) for the most accurate reproduction.*
 
 # Bestride.com Data Protection Policy | BestRide.com
 
