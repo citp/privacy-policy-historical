@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cz-usa.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518125848id_/https%3A//cz-usa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cz-usa.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222103358id_/https%3A//cz-usa.com/privacy-policy) for the most accurate reproduction.*
 
 # CZ-USA Privacy Policy - CZ-USA
 
