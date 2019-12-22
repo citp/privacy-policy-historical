@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbloggerthemes.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202101415id_/https%3A//newbloggerthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbloggerthemes.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222104855id_/https%3A//newbloggerthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewBloggerThemes.com
 
