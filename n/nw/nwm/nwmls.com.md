@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nwmls.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626185429id_/http%3A//www.nwmls.com/About-Us/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwmls.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222035348id_/http%3A//www.nwmls.com/About-Us/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Northwest MLS
+
+#### Privacy Policy
 
 ### NWMLS Privacy Statement
 
