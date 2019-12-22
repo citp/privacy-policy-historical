@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plowhearth.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525162319id_/https%3A//www.plowhearth.com/security/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plowhearth.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222091149id_/https%3A//www.plowhearth.com/en/security-privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PlowHearth
 
-Last updated: February 26, 2014
+Last updated: February 26, 2018
 
 * * *
 
@@ -18,7 +18,7 @@ Plow & Hearth®, recognizes and respects the importance of maintaining the priva
 
 • the choices you have regarding our use of personal information you have provided.
 
-This Privacy Policy is part of the [Terms of Use](https://web.archive.org/security/termsofuse.htm), which governs your use of our web site located at [www.plowhearth.com.](http://www.plowhearth.com/)
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/security-termsofuse), which governs your use of our web site located at [www.plowhearth.com.](https://www.plowhearth.com/)
 
  **Note:** _You must_ be 18 years or older to use, subscribe or register as a member of Plow & Hearth®. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children.
 
@@ -66,9 +66,9 @@ Our Affiliates, subcontractors, and agents, and any successors to our business (
 
 We may combine information we receive from you via our Web Site, emails, mail, fax, and telephone with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy.
 
-We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/security/termsofuse.htm)).
+We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/security-termsofuse)).
 
- ** _Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/security/termsofuse.htm)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk._**
+ ** _Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/security-termsofuse)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk._**
 
  **Consent to Transfer and Submission**  
 Plow & Hearth® is operated in the United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or otherwise providing us with information, you hereby consent to this transfer.
@@ -106,9 +106,9 @@ Portions of the Web Site (such as our Member registration and Address Book) may 
 > 
 >  **Please note that your instructions (above) do not govern the use of information you have provided to our Affiliates or to third parties (including any merchants referenced or accessible via our Web Site). The use of information you have provided to our Affiliates or to third parties is governed by their privacy policies and terms.**
 > 
-> Any promotional email we send to you or your gift or message recipients will include a link to our Privacy Policy and a link to use to opt-out of receiving further promotional emails from the sender. 
+> Any promotional email we send to you or your gift or message recipients will include a link to our Privacy Policy and a link to use to opt-out of receiving further promotional emails from the sender.
 > 
-> **Corrections**  
+>  **Corrections**  
 >  If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [service@plowhearth.com](mailto:service@plowhearth.com).
 > 
 > Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page.
@@ -118,7 +118,7 @@ Subject to the above provisions, by using our Web Site, you consent to the terms
 
 The date on which the current Privacy Policy and overall Terms of Use took effect is listed at the top of the Privacy Policy and Terms of Use (see "Last Updated" at the top of each).
 
-In addition, if you would like notice of changes to the Privacy Policy or Terms of Use prior to their taking effect (or upon taking effect, if effective immediately), email us at [service@plowhearth.com](mailto:service@plowhearth.com) from the email address to which you would like notice sent. By using Plow & Hearth®, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this policy is a part.
+In addition, if you would like notice of changes to the Privacy Policy or Terms of Use prior to their taking effect (or upon taking effect, if effective immediately), email us at [service@plowhearth.com](mailto:service@plowhearth.com) from the email address to which you would like notice sent. By using Plow & Hearth®, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this policy is a part.
 
  **Your Comments**  
 Plow & Hearth® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [service@plowhearth.com](mailto:service@plowhearth.com).
