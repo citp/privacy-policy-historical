@@ -1,149 +1,73 @@
-> *The following text is extracted and transformed from the areatrend.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401005701id_/https%3A//www.areatrend.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areatrend.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222051216id_/https%3A//www.areatrend.com/en_US/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AreaTrend.com
+# AreaTrend – Deals on Today’s Top Name Brands
 
-What personal information do we collect from the people that visit our blog, website or app?
+### Your privacy is critically important to us.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
+AreaTrend is located at:
 
-  
+AreaTrend
 
+8774936847
 
-### When do we collect information?
+It is AreaTrend's policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to [https://www.areatrend.com](https://web.archive.org/web/20191222051216id_/https%3A//www.areatrend.com/) (hereinafter, "us", "we", or "https://www.areatrend.com"). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
+This Privacy Policy, together with the Terms and conditions posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
-  
+## Website Visitors
 
+Like most website operators, AreaTrend collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. AreaTrend's purpose in collecting non-personally identifying information is to better understand how AreaTrend's visitors use its website. From time to time, AreaTrend may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-### How do we use your information?
+AreaTrend also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://www.areatrend.com blog posts. AreaTrend only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
-  
+## Gathering of Personally-Identifying Information
 
+Certain visitors to AreaTrend's websites choose to interact with AreaTrend in ways that require AreaTrend to gather personally-identifying information. The amount and type of information that AreaTrend gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://www.areatrend.com to provide a username and email address.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+## Security
 
-      • To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-      • To improve our website in order to better serve you.
+## Advertisements
 
-      • To allow us to better service you in responding to your customer service requests.
+Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by AreaTrend and does not cover the use of cookies by any advertisers.
 
-      • To administer a contest, promotion, survey or other site feature.
+## Links To External Sites
 
-      • To quickly process your transactions.
+Our Service may contain links to external sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy and terms and conditions of every site you visit.
 
-      • To send periodic emails regarding your order or other products and services.
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services.
 
-### How do we protect visitor information?
+## Https://www.areatrend.com uses Google AdWords for remarketing
 
-  
+Https://www.areatrend.com uses the remarketing services to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
 
+You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+## Aggregated Statistics
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+AreaTrend may collect statistics about the behavior of visitors to its website. AreaTrend may display this information publicly or provide it to others. However, AreaTrend does not disclose your personally-identifying information.
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+## Affiliate Disclosure
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+This site uses affiliate links and does earn a commission from certain links. This does not affect your purchases or the price you may pay.
 
-### Do we use 'cookies'?
+## Cookies
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+To enrich and perfect your online experience, AreaTrend uses "Cookies", similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
 
-      • Help remember and process the items in the shopping cart.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. AreaTrend uses cookies to help AreaTrend identify and track visitors, their usage of https://www.areatrend.com, and their website access preferences. AreaTrend visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using AreaTrend's websites, with the drawback that certain features of AreaTrend's websites may not function properly without the aid of cookies.
 
-      • Understand and save user's preferences for future visits.
+By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to AreaTrend's use of cookies.
 
-      • Keep track of advertisements.
+## E-commerce
 
-      • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+Those who engage in transactions with AreaTrend – by purchasing AreaTrend's services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, AreaTrend collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with AreaTrend. AreaTrend does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+## Business Transfers
 
-If users disable cookies in their browser:
+If AreaTrend, or substantially all of its assets, were acquired, or in the unlikely event that AreaTrend goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of AreaTrend may continue to use your personal information as set forth in this policy.
 
-If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
+## Privacy Policy Changes
 
-  
-
-
-However, you can still place orders 
-
-account access and online ordering
-
-over the telephone by contacting customer service.
-
-  
-
-
-#### Third Party Disclosure
-
-  
-
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
-
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-#### Third party links
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-#### California Online Privacy Protection Act
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-According to CalOPPA we agree to the following:
-
-Users can visit our site anonymously
-
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
-
-####   
-Users will be notified of any privacy policy changes:
-
-      • On our Privacy Policy Page
-
-#### Users are able to change their personal information:
-
-      • By emailing us
-
-      • By calling us
-
-      • By logging in to their account
-
-      • By chatting with us or sending us a ticket
-
-####   
-How does our site handle do not track signals?
-
-We don't honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. We don't honor them because:
-
-AreaTrend is interested in provided you as a customer the best possible experience.
-
-#### Does our site allow third party behavioral tracking?
-
-It's also important to note that we allow third party behavioral tracking
-
-#### COPPA (Children Online Privacy Protection Act)
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under 13.
-
-### Contacting Us
-
-  
-
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-areatrend.com
-
-cs@areatrend.com
-
-1-877-493-6847
+Although most changes are likely to be minor, AreaTrend may change its Privacy Policy from time to time, and in AreaTrend's sole discretion. AreaTrend encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
