@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327212144id_/https%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222122417id_/https%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
 
-# Open Knowledge: Privacy policy
+# Privacy policy
 
-This policy describes our approach to your personal data. Contact details can be found on the [contact page](https://okfn.org/contact/). This privacy policy will be reviewed, and may be revised, from time to time. You may wish to revisit it regularly. This Policy becomes active on the 25th May 2018, in line with the new General Data Protection Regulation (GDPR) of 25th May 2018.
+This policy describes our approach to your personal data. Contact details can be found on the [contact page](https://okfn.org/contact/). This privacy policy will be reviewed, and may be revised, from time to time. You may wish to revisit it regularly. This policy becomes active on the 25th May 2018, in line with the new General Data Protection Regulation (GDPR) of 25th May 2018.
 
 ### Cookies
 
@@ -82,7 +82,7 @@ You can unsubscribe from our newsletters at any time by clicking on the “unsub
 
 ### Server Logging & Google Analytics
 
-Any time you visit a page on the internet, you send quite a bit of information to the server. The web servers that host this site maintain access logs with the information that you send. This information is used to provide site statistics and to get an idea of popular pages and what sites link here. We do not intend to use these logs to identify legitimate users. The data logged may be used by us to solve technical problems with the site and, in cases of abuse of this site, to investigate the abuse. We use Google Analytics to gather data from cookies to analyse our website traffic in order to provide better services and to set benchmarks for how we are doing in meeting Open Knowledge International’s goals. We have now implemented Google Analytics’ GDPR recommendations in order to ensure that we meet GDPR compliance. The main change is that we can no longer see the full IP number of a visitor, and so we cannot tell which country the visitor is likely to come from.
+Any time you visit a page on the internet, you send quite a bit of information to the server. The web servers that host this site maintain access logs with the information that you send. This information is used to provide site statistics and to get an idea of popular pages and what sites link here. We do not intend to use these logs to identify legitimate users. The data logged may be used by us to solve technical problems with the site and, in cases of abuse of this site, to investigate the abuse. We use Google Analytics to gather data from cookies to analyse our website traffic in order to provide better services and to set benchmarks for how we are doing in meeting Open Knowledge Foundation's goals. We have now implemented Google Analytics’ GDPR recommendations in order to ensure that we meet GDPR compliance. The main change is that we can no longer see the full IP number of a visitor, and so we cannot tell which country the visitor is likely to come from.
 
 ### Data release policy
 
