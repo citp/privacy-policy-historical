@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615190421id_/https%3A//www.stardock.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222124404id_/https%3A//www.stardock.com/policies/privacy) for the most accurate reproduction.*
 
 # Stardock - Privacy Policy
 
@@ -17,6 +17,14 @@ Our Site uses cookies to keep track of items in your shopping cart. Stardock.net
 ## Do Not Track
 
 Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser. 
+
+## Website analytics
+
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage. 
+
+By using this website, you consent to the processing of data about you by Google in the manner described in Google's Privacy Policy - external site and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt-out service provided by Google - external site. 
+
+Our sites also transmits and uses Analytical data to and from other third parties such as Facebook, Amplitude, and Visual Website Optimizer. You can opt out of these by disabling or refusing cookies. 
 
 ## Advertisers
 
@@ -144,4 +152,4 @@ This policy is also applicable to Stardock's other Web sites, including but not 
 
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. 
 
-Last updated: 5/17/2018
+Last updated: 8/7/2019
