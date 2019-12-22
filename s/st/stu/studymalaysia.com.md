@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studymalaysia.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425115930id_/https%3A//studymalaysia.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studymalaysia.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222070901id_/https%3A//studymalaysia.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Privacy - StudyMalaysia.com
 
@@ -84,8 +84,8 @@ At any point in time, should you wish to update your personal data or opt out fr
 60-3, Jalan PJU 1/3B,   
 Sunwaymas Commercial Centre,  
 47301 Petaling Jaya, Selangor, Malaysia.   
-Tel: +603-7880 3837 Fax: +603-7880 7837   
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94e4e6fde2f5f7edd4e7e0e1f0edf9f5f8f5ede7fdf5baf7fbf9)
+Tel/Fax: +603-7880 3837 Whatsapp: +6014-669 3837   
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a0a08130c1b19033a090e0f1e03171b161b0309131b54191517)
 
 We trust that you consent and agree to the terms above with respect to our processing of your personal data. If you do not consent to the above, kindly contact us at the abovementioned contact details.
 
