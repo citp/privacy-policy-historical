@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiachildnames.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622232911id_/http%3A//indiachildnames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiachildnames.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222135711id_/http%3A//indiachildnames.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaChildNames.com - Indian & International baby names
 
