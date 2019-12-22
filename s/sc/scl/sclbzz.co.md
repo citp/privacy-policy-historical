@@ -1,61 +1,143 @@
-> *The following text is extracted and transformed from the sclbzz.co privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209193615id_/http%3A//www.socibuzz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclbzz.co privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222092541id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
-# SociBuzz.com – Social Media Marketing (Twitter – Facebook – Tumblr & More)
+# Privacy | Neustar
 
-Protecting your private information is our priority. This Statement of Privacy applies to the http://www.SociBuzz.com and SociBuzz, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to "SociBuzz" includes SociBuzz, Inc. and the website www.SociBuzz.com. By using the SociBuzz website, you consent to the data practices described in this statement.
+**Highlights of the Neustar Privacy Policy**
 
-## Collection of your Personal Information
+_Updated: February 28, 2019_
 
-SociBuzz may collect personally identifiable information, such as your name. If you purchase SociBuzz's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. SociBuzz may also collect anonymous demographic information, which is not unique to you, such as your age, gender, household income, political affiliation, race and religion. We may gather additional personal or non-personal information in the future.
+Neustar uses personal information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These "Highlights" summarize Neustar's privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Statement](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles).
 
-Information about your computer hardware and software may be automatically collected by SociBuzz. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the SociBuzz website.
+### Our Commitment – Privacy by Design
 
-SociBuzz encourages you to review the privacy statements of websites you choose to link to from SociBuzz so that you can understand how those websites collect, use and share your information. SociBuzz is not responsible for the privacy statements or other content on websites outside of the SociBuzz website. 
+We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy-principles), including the principles of [Privacy by Design](https://web.archive.org/privacy/privacy-policy-definitions), to design, build, and deliver products and services that respect your privacy.
 
-## Use of your Personal Information 
+### Personal Information: Types & Sources
 
-SociBuzz collects and uses your personal information to operate its website(s) and deliver the services you have requested.   
-SociBuzz may also use your personally identifiable information to inform you of other products or services available from SociBuzz and its affiliates. SociBuzz may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+Neustar may collect, use, and disclose various types of information, including:
 
-  SociBuzz does not sell, rent or lease its customer lists to third parties. 
-
-  SociBuzz may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. SociBuzz may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to SociBuzz, and they are required to maintain the confidentiality of your information. 
-
-SociBuzz may keep track of the websites and pages our users visit within SociBuzz, in order to determine what SociBuzz services are the most popular. This data is used to deliver customized content and advertising within SociBuzz to customers whose behavior indicates that they are interested in a particular subject area. 
-
-  SociBuzz will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on SociBuzz or the site; (b) protect and defend the rights or property of SociBuzz; and, (c) act under exigent circumstances to protect the personal safety of users of SociBuzz, or the public. 
-
-## Use of Cookies
-
-The SociBuzz website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
-
-  One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize SociBuzz pages, or register with SociBuzz site or services, a cookie helps SociBuzz to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same SociBuzz website, the information you previously provided can be retrieved, so you can easily use the SociBuzz features that you customized. 
-
-  You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the SociBuzz services or websites you visit.
-
-## Security of your Personal Information
-
-SociBuzz secures your personal information from unauthorized access, use or disclosure.
-
-## Children Under Thirteen
-
-SociBuzz does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website. 
-
-## Disconnecting your SociBuzz Account from Third Party Websites
-
-You will be able to connect your SociBuzz account to third party accounts. BY CONNECTING YOUR SOCIBUZZ ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may disconnect their Twitter account by visiting their "My Account" page and choosing to manage social media profiles.. 
-
-## Changes to this Statement
-
-SociBuzz will occasionally update this Statement of Privacy to reflect company and customer feedback. SociBuzz encourages you to periodically review this Statement to be informed of how SociBuzz is protecting your information. 
-
-## Contact Information
-
-SociBuzz welcomes your questions or comments regarding this Statement of Privacy. If you believe that SociBuzz has not adhered to this Statement, please contact SociBuzz at:
-
-SociBuzz, Inc.  
-Email: [support@socibuzz.com](mailto:support@socibuzz.com)  
-Phone: 925-480-7624  
+  * [PII](https://web.archive.org/privacy/privacy-policy-definitions) (Personally Identifiable Information)
+  * [CRM Data](https://web.archive.org/privacy/privacy-policy-definitions) (Customer Relationship Management data)
+  * [Pseudonymous IDs](https://web.archive.org/privacy/privacy-policy-definitions) including information linked to [DIIs](https://web.archive.org/privacy/privacy-policy-definitions) (Device Identifiable Data) such as [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [MAID](https://web.archive.org/privacy/privacy-policy-definitions) (Mobile Advertising IDs), [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), [IP Addresses ](https://web.archive.org/privacy/privacy-policy-definitions) and other third-party identifiers that do not, by themselves, identify a specific individual.
+  * [Attribute Data](https://web.archive.org/privacy/privacy-policy-definitions)
+  * Geolocation or Latitude/Longitude data that are or are rendered imprecise
+  * [Log Data](https://web.archive.org/privacy/privacy-policy-definitions), including [Internet Log Data](https://web.archive.org/privacy/privacy-policy-definitions), [Event Data](https://web.archive.org/privacy/privacy-policy-definitions), and [Service Data](https://web.archive.org/privacy/privacy-policy-definitions)
 
 
-Effective as of July 4, 2013
+
+Neustar collects this information from a wide variety of sources, both on and offline, such as:
+
+  * Publicly available data sources such as directory listings
+  * Reputable providers of licensed data derived from public and non-public sources
+  * Individuals, such as survey respondents, who affirmatively agree to the data uses
+  * Our customers, who provide their [CRM Data](https://web.archive.org/privacy/privacy-policy-definitions) for our use in connection with our services
+  * Information collected online via [Pseudonymous IDs](https://web.archive.org/privacy/privacy-policy-definitions), including [DIIs](https://web.archive.org/privacy/privacy-policy-definitions), [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs, [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), and other persistent third-party identifiers that do not, by themselves, identify a specific individual
+  * [Match Partners](https://web.archive.org/privacy/privacy-policy-definitions), [Coverage Partners](https://web.archive.org/privacy/privacy-policy-definitions), [Rotators](https://web.archive.org/privacy/privacy-policy-definitions), and [Cookie Sync Partners](https://web.archive.org/privacy/privacy-policy-definitions)
+  * [Log Data](https://web.archive.org/privacy/privacy-policy-definitions) and other information created in the course of providing our products and services
+
+
+
+### Personal Information Collection, Use, and Disclosure
+
+Read our full [Neustar Privacy Statement](https://web.archive.org/privacy/privacy-policy) to learn more about the Personal Information we collect and how we use it:
+
+  * Data collected about [Website Visitors](https://web.archive.org/privacy/privacy-policy#websitevisitors)
+  * [Data Processed to Provide Neustar Products and Services](https://web.archive.org/privacy/privacy-policy#dataprocessed)
+  * [Other Use and Disclosure of Personal Information](https://web.archive.org/privacy/privacy-policy#otheruse)
+
+
+
+### Cookies, Advertising IDs and Other Technologies
+
+We may use [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs, [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), [Web Beacons](https://web.archive.org/privacy/privacy-policy-definitions), [Pixel Tags](https://web.archive.org/privacy/privacy-policy-definitions), [JavaScript](https://web.archive.org/privacy/privacy-policy-definitions), [HTML5 Local Storage](https://web.archive.org/privacy/privacy-policy-definitions), or similar technologies, along with other information described in our [Privacy Statement](https://web.archive.org/privacy/privacy-policy) to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. These technologies do not identify you to us unless you have voluntarily identified yourself on our websites. If you've set your browser to warn you before accepting cookies, you will receive a warning message with each cookie. You can refuse cookies by turning them off in your browser, but some of the features on our site may not work if you do. Various browsers may offer their own management tools for removing HTML5 local storage.
+
+To learn more about how we use these technologies, read our full [Privacy Statement](https://web.archive.org/privacy/privacy-policy#cookies) click here:
+
+  * [Website Cookies](https://web.archive.org/privacy/privacy-policy#websitecookies)
+  * [Neustar Services Cookies](https://web.archive.org/privacy/privacy-policy#neustarcookies)
+  * [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy#maids)
+  * [Web Beacons](https://web.archive.org/privacy/privacy-policy#webbeacon)
+
+
+
+### Transparency and Choice; Privacy Choices
+
+#### Cookies
+
+  * Click here to opt out of the use of Cookies on Neustar websites
+  * You can opt out of Neustar services [Cookies](https://web.archive.org/privacy/privacy-policy-definitions) by clicking on the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. This will also permit you to opt-out of the use of [Hashed eMail Addresses](https://web.archive.org/privacy/privacy-policy-definitions) and Android [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions).
+  * You can also opt out of the use of Neustar services Cookies by using the Network Advertising Initiative (NAI) Consumer [Opt-Out tool](http://optout.networkadvertising.org/?c=1#!/), the Digital Advertising Alliance (DAA) [tool here](http://www.aboutads.info/choices/), or the European Digital Advertising Alliance (EDAA) [Opt-Out tool](http://www.youronlinechoices.eu/).
+
+
+
+#### Mobile Advertising IDs or MAIDs
+
+You can opt-out of our use of [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions) or MAIDs set by Android devices via the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. Because Apple does not disclose their IDFA to users, we are not able to establish a block based on an Apple MAID (IDFA) in our system. In addition:
+
+  * Apple's iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: IDFA Opt-Out.
+  * Similar to IDFA for Apple devices, Android devices pass the Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile devices are used for advertising and receive instruction for how to opt out of mobile advertising on the Google Privacy & Terms webpage.
+
+
+
+#### Hashed eMail Addresses
+
+You can opt-out of our use of your [Hashed Email Addresses](https://web.archive.org/privacy/privacy-policy-definitions) in connection with Neustar services by clicking on the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. We will retain your email address on an internal "block" list to prevent its further use in connection with Neustar services. Please note that opting out of Neustar's processing of your data does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.
+
+Your choice to use any of our opt-out tools will not affect ads placed by any other organization.
+
+## Accountability
+
+Neustar is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) ("NAI") and the [Digital Advertising Alliance](http://www.aboutads.info/) ("DAA") and adheres to each organization's Codes and Principles. You can also learn more about online advertising in general on the [NAI](https://www.networkadvertising.org/) website, which provides background information on participating companies and permits you to opt-out of receiving tailored online advertising from some or all of its members. For information about the DAA Self-Regulatory Program for Online Behavioral Advertising and to learn more about the Ad Choices icon, visit <http://www.aboutads.info/> and <http://youradchoices.com/>.
+
+We adhere to the European Interactive Digital Advertising Alliance's ("EDAA") principles. You may learn more about our participation in the EDAA's program and online behavioral advertising at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67&opt-out=true "TRUSTe Privacy") [](https://privacy.truste.com/privacy-seal/validation?rid=fef8fa8a-75bd-482f-b021-21703ec3d363)
+
+## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+Neustar and its subsidiaries, (i.e., Administrative Services, LLC, Aggregate Knowledge, LLC., Data Solutions Services, LLC, MarketShare Holdings, Inc., Neustar Information Services, Inc., Neustar, Inc., Registry Services, LLC, and Security Services, LLC, collectively "Neustar") participate in and have certified their compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce's [Privacy Shield Framework](https://www.privacyshield.gov/) website. Information about Neustar's Privacy Shield certification is available on the [Privacy Shield List](https://www.privacyshield.gov/).
+
+Neustar is responsible for the processing of personal data it receives, under the [Privacy Shield Framework](https://www.privacyshield.gov/), and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the [Privacy Shield Framework](https://www.privacyshield.gov/EU-US-Framework), Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Neustar commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Neustar at:
+
+Neustar Privacy  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+Email: [Privacy@team.neustar](mailto:Privacy@team.neustar)
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily or timely, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+European residents may also opt-out of our use of Cookies for online advertising at: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+## The Fine Print
+
+[Click here](https://web.archive.org/privacy/privacy-policy) to read our full Privacy Statement and to learn more about our approach to children's privacy, data security, disclosures required by law or for other purposes, your rights under European data protection law, and your privacy rights under California law.
+
+Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.
+
+## Questions? Comments? Contact Us
+
+Neustar Privacy  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+[Email](mailto:privacy@team.neustar)
+
+**Data Protection Officer:**  
+Kevin Hughes  
+Neustar, Inc.  
+21275 Ridgetop Circle  
+Sterling, VA 20166  
+[Email](mailto:privacy@team.neustar)
+
+**EU Representative:**  
+Neustar (UK) Limited/MarketShare Partners EMEA Ltd.  
+Attn: DPO  
+21 Palmer Street  
+London  
+SW1H 0AD  
+[Email](mailto:privacy@team.neustar)
