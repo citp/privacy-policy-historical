@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330143649id_/https%3A//ausdroid.net/about-ausdroid/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222034041id_/https%3A//ausdroid.net/about-ausdroid/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ausdroid
 
