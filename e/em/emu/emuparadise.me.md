@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emuparadise.me privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615011130id_/https%3A//www.emuparadise.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emuparadise.me privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222040929id_/https%3A//www.emuparadise.me/privacy.php) for the most accurate reproduction.*
 
 # Play classic video games on your computer or mobile device | Emuparadise
 
