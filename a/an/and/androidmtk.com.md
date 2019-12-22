@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidmtk.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095636id_/https%3A//androidmtk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidmtk.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222060416id_/https%3A//androidmtk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Android MTK
 
