@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foxsportspulse.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603154759id_/https%3A//sportstg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsportspulse.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222051608id_/https%3A//sportstg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SportsTG
 
-**Last Updated 13 August 2018**
+**Last Updated 12 September 2019**
 
 **Introduction**
 
@@ -30,8 +30,6 @@ Welcome to Stack Sports, a Web-based software toolset for athletes, parents, coa
 **GroupNet Solutions**
 
 **Ignite**
-
-**Krossover**
 
 **League Lineup**
 
@@ -92,7 +90,7 @@ This information may be provided by a third party, such as a parent, association
   * **Contact Information –** Stack Sports may collect information from an address book or stored contact list that a Direct User uploads or otherwise provides access to Stack Sports.
   * **Information from third parties –** Stack Sports may collect information about Direct Users and End Users from publicly available sources or other third parties, including Institutional Users, such as your tournament schedule, team name, ranking, player statistics, etc. Stack Sports may also receive information about you when you interact with our sites through various social media, for example, by liking us on Facebook, following us on Twitter, or connecting on Instagram, Vimeo, or other social networks. The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Stack Sports Service.
   * **User activity –** Stack Sports may at our discretion, but are not obligated to, monitor the communications that take place on our Service, such as messaging, in order to protect our Direct Users and monitor the effectiveness of our Service. You acknowledge that you have no expectation of privacy with respect to any such communications or postings, and you expressly consent to such monitoring.
-  * **Online tracking information** – Stack Sports automatically collects certain types of usage information when you visit our website or use our Service. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites. Please see our cookie policy below  for further details.
+  * **Online tracking information** – Stack Sports automatically collects certain types of usage information when you visit our website or use our Service. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites. Please see our cookie policy below for further details.
 
 
 
@@ -106,7 +104,7 @@ We use your personal information to operate, maintain, and provide to you the fe
 
 
 
-Please **Contact Us** at [mydailygdpr@sportstg.com](mailto:mydailygdpr@sportstg.com) to find out more about the types of lawful basis that we will rely on to process your personal data.
+Please **Contact Us** at [privacy@sportstg.com](mailto:privacy@sportstg.com) to find out more about the types of lawful basis that we will rely on to process your personal data.
 
 **What are the purposes for Stack Sports’ applications use of your personal information?**
 
@@ -118,11 +116,11 @@ Event management;
 Communication tools;  
 Ecommerce tools;  
 Invoicing and payment; Marketing to End Users  
-| • Identity information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Profile information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Contact information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Payment information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Health information (Stack MyDailyGDPR or DP User Acknowledged)  
+| • Identity information (Stack or DP User Acknowledged)  
+• Profile information (Stack or DP User Acknowledged)  
+• Contact information (Stack or DP User Acknowledged)  
+• Payment information (Stack or DP User Acknowledged)  
+• Health information (Stack or DP User Acknowledged)  
 | Varies for each Institutional User. 
 
 Personal Information is only shared with third parties subject to End Users’ affirmative consent.  
@@ -134,10 +132,10 @@ Event management;
 Communication tools;  
 Ecommerce tools;  
 Invoicing and payment; Marketing to End Users  
-| • Identity information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Contact information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Profile information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Payment information (Stack MyDailyGDPR or DP User Acknowledged)  
+| • Identity information (Stack or DP User Acknowledged)  
+• Contact information (Stack or DP User Acknowledged)  
+• Profile information (Stack or DP User Acknowledged)  
+• Payment information (Stack or DP User Acknowledged)  
 | Varies for each Institutional User. 
 
 Personal Information is only shared with third parties subject to End Users’ affirmative consent.  
@@ -149,10 +147,10 @@ Event management;
 Communication tools;  
 Ecommerce tools;  
 Invoicing and payment; Marketing to End Users  
-| • Identity information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Contact information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Profile information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Payment information (Stack MyDailyGDPR or DP User Acknowledged)  
+| • Identity information (Stack or DP User Acknowledged)  
+• Contact information (Stack or DP User Acknowledged)  
+• Profile information (Stack or DP User Acknowledged)  
+• Payment information (Stack or DP User Acknowledged)  
 | Varies for each Institutional User. 
 
 Personal Information is only shared with third parties subject to End Users’ affirmative consent.  
@@ -161,8 +159,8 @@ GamePlan
 (Institutional User)  
 | Tools to store, index, and organize video footage from athletic events for distribution to End Users.  
 Marketing to End Users  
-| • Identity information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Contact information (Stack MyDailyGDPR or DP User Acknowledged)  
+| • Identity information (Stack or DP User Acknowledged)  
+• Contact information (Stack or DP User Acknowledged)  
 | Varies for each Institutional User.
 
 Personal Information is only shared with third parties subject to End Users’ affirmative consent.  
@@ -174,10 +172,10 @@ Event management;
 Communication tools;  
 Ecommerce tools;  
 Invoicing and payment; Marketing to End Users  
-| • Identity information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Contact information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Profile information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Payment information (Stack MyDailyGDPR or DP User Acknowledged)  
+| • Identity information (Stack or DP User Acknowledged)  
+• Contact information (Stack or DP User Acknowledged)  
+• Profile information (Stack or DP User Acknowledged)  
+• Payment information (Stack or DP User Acknowledged)  
 | Varies for each Institutional User. 
 
 Personal Information is only shared with third parties subject to End Users’ affirmative consent.  
@@ -189,10 +187,10 @@ Event management;
 Communication tools;  
 Ecommerce tools;  
 Invoicing and payment; Marketing to End Users  
-| • Identity information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Contact information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Profile information (Stack MyDailyGDPR or DP User Acknowledged)  
-• Payment information (Stack MyDailyGDPR or DP User Acknowledged)  
+| • Identity information (Stack or DP User Acknowledged)  
+• Contact information (Stack or DP User Acknowledged)  
+• Profile information (Stack or DP User Acknowledged)  
+• Payment information (Stack or DP User Acknowledged)  
 | Varies for each Institutional User. 
 
 Personal Information is only shared with third parties subject to End Users’ affirmative consent.  
@@ -223,7 +221,7 @@ If Stack Sports receives your Personal Information in the European Union and sub
 
 **Data Retention**
 
-We will retain your Personal Information for as long as your account is active or as needed to provide our Direct and Institutional Users with the Services; to maintain a record of your transactions for financial reporting, audit, and compliance purposes; and to comply with our legal obligations, resolve disputes, enforce agreements, and as otherwise permitted by applicable law. Upon your request, Stack Sports will deactivate your account or delete your Personal Information.
+We will retain your Personal Information for as long as your account is active or as needed to provide our Direct and Institutional Users with the Services; to maintain a record of your transactions for financial reporting, audit, and compliance purposes; and to comply with our legal obligations, resolve disputes, enforce agreements, and as otherwise permitted by applicable law. Upon your request, Stack Sports, when acting as Data Controller, will deactivate your account or delete your Personal Information.
 
 **Your Privacy Rights**
 
@@ -258,7 +256,7 @@ If you have any account for our Services, we will still send you non-promotional
 
 **How Can I Exercise My Data Subject Rights?**
 
-If you would like to access, review, update, rectify, or delete any Personal Information we hold about you, or exercise any other data subject right available to you under the EU General Data Protection Regulation (GDPR), please contact our privacy team at mydailygdpr@sportstg.com. Our privacy team will examine your request and respond to you as quickly as possible.
+If you would like to access, review, update, rectify, or delete any Personal Information we hold about you, or exercise any other data subject right available to you under the EU General Data Protection Regulation (GDPR), please contact our privacy team at privacy@sportstg.com. Our privacy team will examine your request and respond to you as quickly as possible.
 
 Please note that we may still use any aggregated and de-identified Personal Information that does not identify any individual, and may also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -276,20 +274,19 @@ Please note that for users located in the EEA, the term Personal Information use
 
 Stack Sports complies with the EU GDPR through respective Data Processing Model Contract Clauses executed with each respective Data Controller and Data Processor U.S. regarding the collection, use, and retention of Personal Information from European Union member countries. These Model Clauses follow such Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. 
 
-We commit to resolve complaints about your privacy and our collection or use of your Personal Information.  SportsTG website visitors located within the EEA with inquiries or complaints regarding this Privacy Policy should first contact us MyDPO(s) at [mydailygdpr@sportstg.com](mailto:mydailygdpr@sportstg.com).  
+We commit to resolve complaints about your privacy and our collection or use of your Personal Information.  SportsTG website visitors located within the EEA with inquiries or complaints regarding this Privacy Policy should first contact us at [privacy@sportstg.com](mailto:privacy@sportstg.com).  
 
-SportsTG application users, such as those utilizing our OST, Classis, FSP Software as a Service, should utilize their **_SportsTG MyDailyGDPR_** Software-as-a-Service functionality to:
+SportsTG application users, such as those utilizing our OST, Classic, FSP Software as a Service, should contact [privacy@sportstg.com](mailto:privacy@sportstg.com) to:
 
-  * Acknowledge or Decline **_(MyConsents_** ) specific terms of use disclosed in each respective privacy policy and any updates thereof;
+  * Acknowledge or Decline specific terms of use disclosed in each respective privacy policy and any updates thereof;
     * Request to be unsubscribed from marketing email notifications;
     * Request to be forgotten – erasure;
-  * Request to learn what personal information is being collected, used, and retained **_(MyRequests);_**
-  * Request to receive all personal information is being collected, used, and retained **_(MyRequests);_**
-  * Opt-In to the ( ** _MyPrivacyEducation)_** service to continually learn about jurisdictional privacy to stay informed and to make the best decisions regarding your personal information.
+  * Request to learn what personal information is being collected, used, and retained
+  * Request to receive all personal information is being collected, used, and retained
 
 
 
-We commit to resolve complaints about your privacy and our collection or use of your Personal Information.  Application users with inquiries or complaints regarding this Privacy Policy should first contact us **_MyDPO(s)_** at [mydailygdpr@sportstg.com](mailto:mydailygdpr@sportstg.com).  
+We commit to resolve complaints about your privacy and our collection or use of your Personal Information.  Application users with inquiries or complaints regarding this Privacy Policy should first contact us at [privacy@sportstg.com](mailto:privacy@sportstg.com).  
 
 Please note that Stack Sports is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -306,10 +303,11 @@ Unless explicitly stated otherwise when Direct Users create an account with one 
 
 **Changes to the Privacy Policy**
 
-We’re constantly trying to improve our Websites and Services, so we may need to change this Privacy Policy from time to time as well. We will alert you to material changes by, for example, placing a notice on our Websites and/or by sending you a notification via MyDailyDP or MyDailyGDPR we are required to do so by applicable law. You can see when this Privacy Policy was last updated by checking the date at the top of this page. You are responsible for periodically reviewing this Privacy Policy. 
+We’re constantly trying to improve our Websites and Services, so we may need to change this Privacy Policy from time to time as well. We will alert you to material changes by, for example, placing a notice on our Websites and/or by sending you a notification as required by applicable law. You can see when this Privacy Policy was last updated by checking the date at the top of this page. You are responsible for periodically reviewing this Privacy Policy. 
 
 **Data Protection Management**  
-MyDailyGDPR:  
-Email Address: mydailygdpr@sportstg.com
+SportsTG Pty Ltd  
+Level 12, 565 Bourke Street  
+MELBOURNE, VIC, 3000
 
-If you have any questions or concerns regarding our Privacy Policy, please send a detailed message to [mydailygdpr@sportstg.com](mailto:mydailygdpr@sportstg.com) or by mail to the address listed above.
+If you have any questions or concerns regarding our Privacy Policy, please send a detailed message to [privacy@sportstg.com](mailto:privacy@sportstg.com) or by mail to the address listed above.
