@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502043756id_/https%3A//www.utsystem.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222081356id_/https%3A//www.utsystem.edu/privacy) for the most accurate reproduction.*
 
 # Website Privacy Statement on the Collection and Use of Information Gathered from the General Public | University of Texas System
-
-Body
 
 The University of Texas System Administration maintains the UT System Administration website as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public and how that information is used. Employees of UT System Administration should refer to UTS 165, which outlines System Administration's internal policy for the use and protection of information resources.
 
