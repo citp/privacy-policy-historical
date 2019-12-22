@@ -1,34 +1,181 @@
-> *The following text is extracted and transformed from the seedstarsworld.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624174216id_/https%3A//www.seedstars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedstarsworld.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222120041id_/https%3A//www.seedstars.com/privacy-policy) for the most accurate reproduction.*
 
 # Seedstars
 
-You may be aware that the new European Union legislation - the General Data Protection Regulation or "GDPR" - confers certain rights on individuals with respect to their personal data. We have therefore implemented more transparency to help users take advantage of those same rights. As provided in terms of applicable law and unless limited by it, the rights granted to individuals are as follows:
+27 November 2019
 
-* Right of access - the right to be informed and request access to the persoanal data we process about the User;
-* Right of rectification - the right to request that we change or update the User's personal data whenever they are incorrect or incomplete; 
-* Right to delete information - the right to request us to erase your personal data; 
-* Right to restrict - the right to request that we temporarily or permanently interrupt the processing of all or some of your personal data; 
-* the right at any time to oppose the processing of your personal data on grounds relating to your particular situation; 
-* the right to object to your personal data being processed for direct marketing purposes; 
-* Right to portability of data - the right to request a copy of your personal data in electronic format and the right to transmit such personal data for use in third party services; and 
-* The right not to be subject to automated decisions - the right not to be subject to a decision based solely on an automated decision, including profiling, where the decision may have a legal effect for itself or have an equally significant effect. 
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services (website, mobile app, etc) and the choices you have associated with that data. We use your data to provide and improve the Services. By using the Services, you agree to the collection and use of information in accordance with this policy.
 
-At Seedstars we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for two reasons: firstly, to process your request, and secondly, to serve you the most relevant products and news from Seedstars. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us. We will never collect sensitive information about you without your explicit consent. 
+The data controller for these services is: Seedstars group, that includes Seedstars World S.A. and affiliates. Learn more about the Seedstars group at <https://www.seedstars.com/about-us/>.
 
-**The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting our Data Protection Officer at privacy@seedstars.com. If you find any inaccuracies we will delete or correct them.**
+## Information collection and use
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law. To ensure that your information is up to date, we will validate your information supplied by you during the the first contact against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Identity Reference Agency which may keep a record of the information. You can rest assured that this is done only to confirm your identity. If required, we will share your details with companies and organisations that are directly involved in the activity in which you’ve engaged with Seedstars. In these cases, Seedstars will ensure that there is no further use of your data other than for the purpose of the activity. In the majority of cases they will have no right to market to you directly unless you specifically request it.   
-We collect your personal data in the following ways: 
+We collect several different types of information for various purposes to provide and improve our Services to you. We process this personal data based on consent according to Art. 6(1)(a) or 6(1)(b) GDPR, which you are free to give or refuse. You’ll see consent options when you visit our website for the first time. You can change your decisions at anytime. If you change your decision it will not affect the lawfulness of processing based on consent before its withdrawal.
 
-* **When the User subscribes to any Seedstars products-** when the User subscribes to the Seedstars products, we collect certain personal data. The type of information we collect about you includes Your name, Your email address, Address, Phone Number, Company Name & Size, Industry, Professional Experience, Interests and Skills. 
-* **By interacting with any Seedstars Product / Communication -** when you use any Seedstars service, we collect personal information about your use of the service, such as what pages/screens you viewed, which link you’ve clicked or which action you took on the application. 
-* **Personal data collected that enables us to provide you with additional features and functionality -** from time to time you may also provide us with additional personal data or give us permission to collect additional personal data, for example to provide you with additional features or functionality. 
-* **Through third parties -** we will receive personal information about you and your activity through third parties, including advertisers and partners with whom we work, to provide you with the relevant news and products from Seedstars. We will use this personal data if Seedstars has a legitimate interest in using the personal data to provide the Seedstars service to the User.
+### Personal Data
 
-We use information made anonymous and aggregated for purposes that include testing our IT systems, researching, analyzing data, creating marketing and promotion templates, improving the Seedstars service, and developing new features and functionality in the Seedstars services/products.
+While using our Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to: 
 
-We use Mailchimp & SparkPost to send out emails to those who have chosen to receive email communications from us. The above mentioned tools do not use any of the information from our mailing lists except to send and process e-mail communications on our behalf. Read the [Mailchimp statement ](https://mailchimp.com/legal/privacy/) on privacy and permissions marketing, and [Sparkpost Privacy Policy](https://www.sparkpost.com/policies/privacy/). We use Prosperworks CRM as our central database to store and process an individual’s personal information. Read about Prosperworks GDPR Compliance [here](https://support.prosperworks.com/hc/en-us/articles/360002158572-Does-ProsperWorks-Comply-to-the-EU-General-Data-Protection-Regulation-GDPR-). For Seedstars Website Analytics, the tools we use along with their privacy policies are here: [Google Analytics](https://privacy.google.com/businesses/compliance/), [Facebook Analytics](https://www.facebook.com/about/privacy/) and [Hotjar](https://www.hotjar.com/legal/policies/privacy). For Seedstars App Analytics, we use [Facebook Analytics](https://www.facebook.com/about/privacy/), [Amplitude](https://amplitude.com/privacy), [Microsoft AppCenter](https://privacy.microsoft.com/en-US/) and [Fabric.](https://fabric.io/dpst.pdf)
+  * Email address
+  * First name and last name
+  * Phone number
+  * Address, Postal code, City, Country
+  * Cookies and Usage Data
+  * Company name
+  * Social media profiles
+  * Gender
+  * Date of birth
 
-Through the above mentioned platforms, we collect and process user information in the following ways: (1) Via Prosperworks, we process personal information to review personal information to determine the most relevant Seedstars Product for the person based on interests, skills and other demographic and professional information about the person. Relevant information about the person would be sent to our company representatives for the use of lead management, relationship management & general business activities. (2) Amplitude analyses data on user behaviour on the Seedstars App to drive relevant connections & news to our users. Amplitude, as a third-party data processor, trusts Seedstars to use relevant personal information in a manner that complies with the GDPR. Amplitude may track and store information pertaining to the person, including the information on mobile device, Location & other permissions allowed by the User on their device. The use of all such information shall be compliant as described in Amplitude’s privacy policy. (3) Google Analytics, Hotjar & Facebook Analytics help us understand user behaviour on our digital assets and help us improve the products to better suit the users. (4) Fabric and Microsoft AppCenter deliver useful User Experience information about the Seedstars App to deliver the best UX for our users. Fabric may collect & store information identifiable to a person, related to the mobile device. This is done in order to help us identify issues with the Seedstars App performance and improve the UX. All information collected and stored by Fabric shall be compliant as described in Fabric’s data processing policy. We may use technology to track the patterns of behaviour of visitors to our site. This can include using a “cookie” which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. Should you wish to browse anonymously please contact us and request a link that we can send you to exclude you from web tracking.
 
-**If you have any questions/ comments about privacy, you should contact our Data Protection Officer at privacy@seedstars.com. If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.**
+
+### Usage Data
+
+When you access the Services by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
+
+### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Services and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Services.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Services.
+
+Examples of Cookies we use: 
+
+  * **Session Cookies.** We use Session Cookies to operate our Services.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings. 
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+## How do we use your data?
+
+Seedstars uses the collected data for various purposes. We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, use our mobile applications, surf the website, or use certain other site features in the following ways: 
+
+  * to personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
+  * to carry out an employment or consultant application process.
+  * to notify you about changes to our Services.
+  * to improve our website and mobile applications in order to better serve you.
+  * to allow us to better Services you in responding to your customer Services requests.
+  * to administer a contest, promotion, survey or other site feature.
+  * to ask for ratings and reviews of Services or products.
+  * to follow up with them after correspondence (live chat, email or phone inquiries).
+  * to detect, prevent and address technical issues.
+
+
+
+We request processing of personal data of users or visitors, such as IP address, a cookie identifier and email address (but only in the case that visitors request information be sent by email). We also collect non-personal data to learn how visitors found our website, what kind of device they’re using, how long they stayed, which pages they visited, etc. This non-personal data is tied to a temporary identifier that is removed after the end of each browsing session.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Switzerland and choose to provide information to us, please note that we transfer the data, including Personal Data, to Switzerland and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Seedstars will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+Seedstars may disclose your Personal Data in the good faith belief that such action is necessary to: 
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Seedstars
+  * To prevent or investigate possible wrongdoing in connection with the Services
+  * To protect the personal safety of users of the Services or the public
+  * To protect against legal liability
+
+
+
+## How do we protect your information?
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We do not use vulnerability scanning and/or scanning to PCI standards. An external PCI compliant payment gateway handles all CC transactions. We use regular Malware Scanning.
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Services ("Services Providers"), to provide the Services on our behalf, to perform Services-related Services or to assist us in analyzing how our Services is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+**Name of the purpose** | **Third party service**  
+---|---  
+**Analytics** | Google AdSense Advertising  
+Google Tag Manager  
+Google Analytics  
+Hotjar  
+Amplitude  
+Tableau  
+**Advertising** | Google Ads  
+Twitter Ads  
+Linkedin Ads  
+Facebook Ads  
+Sumo  
+**Cloud** | Amazon Web Services  
+**Payments** | Stripe  
+Paypal  
+**Tech updates** | Microsoft App Center  
+**Information collection** | Jotform  
+**Referrals** | Referral Hero  
+**CRM** | Hubspot  
+**Sales** | Officernd  
+**Contract management** | Pandadoc  
+**Mailing list** | Mailchimp  
+**Press tool** | Cision  
+**Recruitment** | JazzHR  
+**Ticketing** | Eventbrite  
+**Communications** | Zoom  
+  
+## Your rights under GDPR
+
+You may be aware that the new European Union legislation - the General Data Protection Regulation or "GDPR" - confers certain rights on individuals with respect to their personal data. We have therefore implemented more transparency to help users take advantage of those same rights. We will never collect sensitive information about you without your explicit consent. As provided in terms of applicable law and unless limited by it, the rights granted to individuals are as follows: 
+
+  * **Right of access** \- the right to be informed and request access to the personal data we process about the User;
+  * **Right of rectification** \- the right to request that we change or update the User's personal data whenever they are incorrect or incomplete;
+  * **Right to delete information** \- the right to request us to erase your personal data;
+  * **Right to restrict** \- the right to request that we temporarily or permanently interrupt the processing of all or some of your personal data;
+  * **Right to portability of data** \- the right to request a copy of your personal data in electronic format and the right to transmit such personal data for use in third party services; and
+  * **Right not to be subject to automated decisions** \- the right not to be subject to a decision based solely on an automated decision, including profiling, where the decision may have a legal effect for itself or have an equally significant effect.
+
+
+
+## Links to other sites
+
+Our Services may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We invite you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or Services.
+
+## Children's Privacy
+
+Our Services does not address anyone under the age of 16 ("Children"). You must be at least 16 years old to use our Services or such greater age required in your country to register for use of our Services.
+
+We do not knowingly collect personally identifiable information from anyone under this age. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to this privacy policy
+
+We will occasionally update this Privacy Policy. When changes to this Privacy Policy will be posted, the date at the top of this Privacy Policy will be revised. We recommend to check the website from time to time to inform yourself of any changes in this Privacy Policy or any other policies. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Applicable law and jurisdiction
+
+This privacy policy is governed by the laws of Switzerland (Geneva).
+
+Jurisdiction for disputes arising related to this privacy policy is in Geneva, Switzerland.
+
+## Contact us
+
+You have a right to access your data, correct or remove it, or completely withdraw your consent for processing it at any time. Such requests should be sent to our DPO: dataprotection@seedstar.com. The withdrawal of a consent does not affect the lawfulness of processing based on consent before its withdrawal.
+
+If you have any questions about this Privacy Policy, please contact us: 
+
+  * By email: dataprotection@seedstar.com
+  * By visiting this page on our website: [www.seedstars.com](https://www.seedstars.com/)
+
+
