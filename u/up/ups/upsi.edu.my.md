@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsi.edu.my privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621192239id_/http%3A//www.upsi.edu.my/dasar-privasi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsi.edu.my privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222210623id_/http%3A//www.upsi.edu.my/dasar-privasi) for the most accurate reproduction.*
 
 # Policy & Disclaimer – UPSI | Portal Rasmi Universiti Pendidikan Sultan Idris
 
