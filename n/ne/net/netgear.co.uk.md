@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgear.co.uk privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603083738id_/https%3A//www.netgear.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgear.co.uk privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222212957id_/https%3A//www.netgear.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | NETGEAR
 
@@ -30,12 +30,13 @@ We recommend that you read this Privacy Notice in full to ensure you are fully i
 6\. How We Share Your Personal Information   
 7\. Your Rights and Choices   
 8\. Data Transfers   
-9\. Legal Basis for Processing   
-10\. Children’s Privacy   
-11\. How We Protect Your Personal Information   
-12\. Third Party Services   
-13\. Update to this Notice   
-14\. How to Contact Us
+9\. Privacy Shield Notice   
+10\. Legal Basis for Processing   
+11\. Children’s Privacy   
+12\. How We Protect Your Personal Information   
+13\. Third Party Services   
+14\. Update to this Notice   
+15\. How to Contact Us
 
 ##### **3\. What does NETGEAR do?**
 
@@ -186,7 +187,17 @@ NETGEAR is a global business.  We may transfer your Personal Information to rec
 
 If you are located in the European Economic Area, ("EEA"), we comply with applicable legal requirements providing adequate safeguards for the transfer of Personal Information to countries other than the country where you are located. In particular, we use contractual protections for the transfer of Personal Information to third parties, such as the European Commission’s Standard Contractual Clauses. 
 
-##### 9\. **Legal Basis for Processing**
+##### **9\. Privacy Shield Notice**
+
+NETGEAR complies with the EU-US and the Swiss-US Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from EU member countries and Switzerland. NETGEAR certifies that it adheres to the Privacy Shield principles on notice, choice, accountability for onward transfer security, data integrity and purpose limitation, access, and recourse, enforcement and liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [www.privacyshield.gov/list](http://www.privacyshield.gov/list)
+
+NETGEAR’s responsibility for data it receives pursuant to the Privacy Shield and subsequent transfers of that data to third parties is detailed in the Privacy Shield Principles. NETGEAR complies with the Privacy Shield Principles for all onward transfers from the EU and Switzerland, including the onward transfer liability provisions. NETGEAR remains responsible under the Privacy Shield Principles for third-party agents processing personal data on its behalf.
+
+With respect to personal information received or transferred pursuant to the Privacy Shield Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+NETGEAR commits to resolving complaints about your privacy and our collection and use of your personal information within 45 days of receiving your complaint. Individuals with questions or complaints regarding this Privacy Policy should first submit inquiries via e-mail to [privacypolicy@netgear.com](mailto:privacypolicy@netgear.com). For any unresolved privacy complaints under the Privacy Shield Principles, please contact NETGEAR’s independent dispute resolution body, JAMS, [https://www.jamsadr.com/eu-us-privacy-shield](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.jamsadr.com_eu-2Dus-2Dprivacy-2Dshield&d=DwMGaQ&c=mPqdMxlQPdltZylzF3sRPA&r=Rclr9GJqK-uDyagTsZzJ-ONA8AAcqERl0DecbmgZZqk&m=nSntE4JWy9UdHOnSPlmzJTfACPpK0jHNwsj8yuzxMMQ&s=zGTS-I9HIqSIa5XcoHFlhGOhRYDawn4kqlIGV5holME&e=)). Under limited circumstances, binding arbitration may be a dispute resolution mechanism if your complaint is not resolved through these channels. Please visit the Privacy Shield website for additional information about the arbitration process at [www.privacyshield.gov](http://www.privacyshield.gov/)"
+
+##### 10\. **Legal Basis for Processing**
 
 If you are located in the EEA, we process your Personal Information for the purposes listed under 5 above based on the following legal grounds:
 
@@ -239,13 +250,13 @@ Ireland
 
 You may also contact our Data Protection Officer at dpo@netgear.com.
 
-##### 10\. **Children’s Privacy**
+##### 11\. **Children’s Privacy**
 
 Our Products and Services are meant for adults. We do not knowingly allow children under 6to set up NETGEAR or Meural accounts. If you believe that we may have collected Personal Information from someone under 16, please let us know using the methods described in the Contact Us section and we will take appropriate measures to investigate and address the issue promptly. 
 
 Certain NETGEAR’s products are also equipped with parental control features. To learn more about them, click [here](https://web.archive.org/landings/circle/default.aspx).
 
-##### **11\. How We Protect Your Personal Information**
+##### **12\. How We Protect Your Personal Information**
 
 We intend to protect the Personal Information entrusted to us and treat it securely in accordance with this Privacy Notice. We maintain administrative, technical and physical safeguards to protect Personal Information against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Information in our possession. We also contractually require that our suppliers protect such information from unauthorized access, use, and disclosure. The Internet, however, is not 100% secure. We cannot promise that your use of our Sites and Services will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.  
 
@@ -255,16 +266,16 @@ If you participate in a discussion forum, local communities, or chat room on a N
 
 We also take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it or when you request its deletion, unless we are allowed or required by law to keep the information for a longer period. We complete periodic reviews of our databases, and have established time limits for certain data deletion, taking into account the type of services provided in the context of the Products and Services, the length of our relationship with you, mandatory retention periods, and the statute of limitations.
 
-##### **12.** **Third Party Services**
+##### **13.** **Third Party Services**
 
 Our Services may contain features or links to websites and services provided by third parties. If you click on a link to a third party site, you will be taken to websites we do not control. Any information you provide on third-party sites or services may be provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through us. This Notice does not apply to the privacy practices of that website. Read the privacy policy of other websites carefully. We are not responsible for these third party sites or services to which links or access are provided through our Services.
 
-##### **13.** **Update to this Notice**
+##### **14.** **Update to this Notice**
 
 We may update this Privacy Notice from time to time. If we modify our Privacy Notice, we will post the revised version here, with an updated revision date. We recommend that you visit these pages periodically to be aware of and review any such revisions. If we make material changes to our Privacy Notice, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our Sites or sending you a notification.
 
-##### **14\. How to Contact Us**
+##### **15\. How to Contact Us**
 
 If you have any questions, comments or complaints about this Privacy Notice and our privacy practices, or would like to update your privacy preferences, please contact us at:  [privacy.policy@netgear.com](mailto:privacy.policy@netgear.com) or write to us at:  NETGEAR Inc. 350 East Plumeria Drive San Jose, CA 95134
 
-This NETGEAR Privacy Notice was revised and posted as of April 9, 2019.
+This NETGEAR Privacy Notice was revised and posted as of July 10, 2019.
