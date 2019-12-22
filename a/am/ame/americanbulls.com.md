@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanbulls.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120171039id_/http%3A//www.americanbulls.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbulls.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222223800id_/https%3A//www.americanbulls.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
-# Privacy Policy
+# Americanbulls Privacy Policy
 
 Privacy Policy
 
@@ -55,7 +55,7 @@ Ads appearing on our site may be delivered to users by advertising partners, who
 
 Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our website and other sites on the Internet. DART uses "no personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our website and other sites on the Internet. DART uses "no personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>.
 
 Compliance with children’s online privacy protection act
 
@@ -77,9 +77,9 @@ Americanbulls.com LLC
 www.americanbulls.com
 
 Americanbulls.com  
-1810 E Sahara Ave, Suite 119  
+1810 E Sahara Ave, Suite 340  
 Las Vegas, NV 89104
 
 [](mailto:support@americanbulls.com "Click here to send us a message...")
 
-This document was last updated on July 15, 2012
+This document was last updated on December 10, 2014
