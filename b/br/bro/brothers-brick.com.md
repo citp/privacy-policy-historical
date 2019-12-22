@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brothers-brick.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503170219id_/https%3A//www.brothers-brick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brothers-brick.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222224228id_/https%3A//www.brothers-brick.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Brothers Brick | The Brothers Brick
 
