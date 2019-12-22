@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clideo.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613162203id_/https%3A//clideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clideo.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222041055id_/https%3A//clideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
