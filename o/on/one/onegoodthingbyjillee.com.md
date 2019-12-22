@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onegoodthingbyjillee.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427012935id_/https%3A//www.onegoodthingbyjillee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegoodthingbyjillee.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222091311id_/https%3A//www.onegoodthingbyjillee.com/privacy-policy) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy · Jillee
+# Disclosure & Privacy Policy
 
 ## Disclosure Policy
 
