@@ -1,29 +1,31 @@
-> *The following text is extracted and transformed from the consumersadvocate.org privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531163521id_/https%3A//www.consumersadvocate.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersadvocate.org privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222032856id_/https%3A//www.consumersadvocate.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The purpose of this Privacy Policy is to inform you of how Ad Practitioners, LLC (“Company” or “we” or “our” or “us”) collects, uses and discloses the personal information we collect from you when you visit  _[www.consumersadvocate.org](https://www.consumersadvocate.org/)_ or any other website that we own or operate (the "Websites" or the “Sites”), how such information will be used by the Company (as defined below), its Advertising Partners, and/or other persons or entities with whom such information may be shared, as well as your choices regarding the collection, use and distribution of such information and the security procedures that we have implemented to protect your privacy. Please read this policy carefully to understand our policies and practices regarding your information and how it will be handled. By continuing to use the Websites, you expressly agree to be bound by this Privacy Policy, as amended from time-to-time by the Company at its sole and absolute discretion. You further agree to regularly review this Privacy Policy to ensure that you are familiar with Company's most-current policies and practices. Your continued use of the Websites after we make changes is deemed to be acceptance of those changes. If you do not agree with our policies and practices, you must not use the Websites.
+## Purpose
 
-If required by law, we will make reasonable efforts to contact you about material changes or updates to this policy: if you have provided us with an email address, you agree that we may email you a notice regarding such changes or updates; if you have not provided us with an email address, you agree to view this page periodically and when our site informs you that this Privacy Notice has been updated.
+The purpose of this Privacy Notice is to inform you of how Ad Practitioners, LLC (“Company” or “we” or “our” or “us”) collects, uses and discloses the personal information we collect from you when you visit [www.consumersadvocate.org](http://www.consumersadvocate.org/) or any other website that we own or operate (the "Websites" or the “Sites”), how such information will be used by the Company (as defined below), its Advertising Partners, and/or other persons or entities with whom such information may be shared, as well as your choices regarding the collection, use and distribution of such information and the security procedures that we have implemented to protect your privacy. Please read this notice carefully to understand our policies and practices regarding your information and how it will be handled. By continuing to use the Websites, you expressly agree to be bound by this Privacy Notice, as amended from time-to-time by the Company at its sole and absolute discretion. You further agree to regularly review this Privacy Notice to ensure that you are familiar with Company's most-current policies and practices. Your continued use of the Websites after we make changes is deemed to be acceptance of those changes. If you do not agree with our policies and practices, you must not use the Websites.
 
-**_Last Revised_ : June 15, 2018**
+If required by law, we will make reasonable efforts to contact you about material changes or updates to this notice: if you have provided us with an email address, you agree that we may email you a notice regarding such changes or updates; if you have not provided us with an email address, you agree to view this page periodically and when our site informs you that this Privacy Notice has been updated.
 
-## What This Policy Applies to
+**_Last Revised_ : December 19, 2019**
 
-This policy applies to information we collect:
+## What This Notice Applies To
+
+This notice applies to information we collect:
 
   1. On the Websites;
   2. In email, text, and other electronic messages between you and Company;
-  3. When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this Privacy Policy; and
+  3. When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this Privacy Notice; and
   4. When you provide information to us when requesting services.
 
 
 
-This Privacy Policy also applies to information collected by us offline, whether in writing or orally (if recorded) or through any other means, including on any other website operated by us or any third party, or any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Websites.
+This Privacy Notice also applies to information collected by us offline, whether in writing or orally (if recorded) or through any other means, including on any other website operated by us or any third party, or any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Websites.
 
 ## Children
 
-These Websites are not intended to provide services or sell products to persons under the age of 13 without the consent and involvement of a parent or guardian. If you are under 13, you may use this website only with the involvement of a parent or guardian. By using the Websites, you represent and warrant that you are either at least 13 years old, or are using the services offered by these Websites with the supervision and involvement of a parent or guardian 13 years of age or older. The Company does not provide its services to children, nor do we collect any personal information from children under 13. “Children” as defined in the Children’s Online Privacy Protection Act of 1998, and for purposes of this Privacy Policy, means persons under the age of 13. If you are a child, please exit this site immediately. We will delete any personal information we have received or collected from a child under the age of 13 without parental consent. If you believe we might have information from or about a child under the age of 13, please contact us at [compliance@consumersadvocate.org](mailto:compliance@consumersadvocate.org).
+These Websites are not intended to provide services or sell products to persons under the age of 13 without the consent and involvement of a parent or guardian. If you are under 13, you may use this website only with the involvement of a parent or guardian. By using the Websites, you represent and warrant that you are either at least 13 years old, or are using the services offered by these Websites with the supervision and involvement of a parent or guardian 13 years of age or older. The Company does not provide its services to children, nor do we collect any personal information from children under 13. “Children” as defined in the Children’s Online Privacy Protection Act of 1998, and for purposes of this Privacy Notice, means persons under the age of 13. If you are a child, please exit this site immediately. We will delete any personal information we have received or collected from a child under the age of 13 without parental consent. If you believe we might have information from or about a child under the age of 13, please contact us at [compliance@consumersadvocate.org](mailto:compliance@consumersadvocate.org).
 
 ## Information Collected
 
@@ -86,11 +88,11 @@ Some content or applications on the Websites, including advertisements, are serv
 
 We do not control third parties’ tracking technologies or how they might use them. If you have questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-## “Do not track”
+## “Do Not Track”
 
 You may have a feature in your browser that allows you to change your settings to “do not track.” We are required to disclose whether the Site honors the “do not track” setting in your browser. We have developed the Site to provide a consistent interface and operability to all users, and thus we do not honor your browser’s “do not track” function.
 
-## How we use your information
+## How We Use Your Information
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
@@ -110,9 +112,25 @@ We use information that we collect about you or that you provide to us, includin
 
 If you choose to opt-in to receive marketing materials from us, we may use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please disable cookies used by our website or click the unsubscribe link at the bottom of any marketing emails you may receive from us. You can also opt-out by sending an email to [compliance@consumersadvocate.org](mailto:compliance@consumersadvocate.org).
 
-## Legal Bases for Processing (For EEA Users)
+## How Long Your Data is Stored
 
-If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have a legal basis for doing so under applicable EU laws. The legal basis depends on the services you use and how you use them. This means we collect and use your information only where:
+How long we keep information we collect about you depends on the type of information, as described in further detail below. After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.
+
+### Account Information
+
+We retain your account information until you delete your account. We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations and to continue to develop and improve our Websites and Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you.
+
+### Information You Share on the Services
+
+If your account is deactivated or disabled, some of your information and the content you have provided will remain in order to allow your team members or other users to make full use of the Services. For example, we continue to display comments and content you provided to our Websites.
+
+### Marketing Information
+
+If you have elected to receive marketing emails from us, we retain information about your marketing preferences unless you specifically ask us to delete such information. We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.
+
+## Legal Bases for Processing (For EU/EEA Users)
+
+If you are an individual in the European Union or European Economic Area (EEA), we collect and process information about you only where we have a legal basis for doing so under applicable EU laws, including the General Data Protection Regulation (GDPR). The legal basis depends on the services you use and how you use them. This means we collect and use your information only where:
 
   1. It is necessary for the performance of a contract, such as to provide you with the services you requested, including to operate the services, provide customer support and personalized features, and to protect the safety and security of the services, including all processing necessary for the performance of our contract(s) with you;
   2. It satisfies a legitimate interest _that is not outweighed by your data protection rights and interests_ , such as for research and development, to market and promote our services, and to protect our legal rights and interests;
@@ -121,13 +139,45 @@ If you are an individual in the European Economic Area (EEA), we collect and pro
 
 
 
-All of our information, including the data we collect about you described in this policy, is stored in the United States of America.
+All of our information, including the data we collect about you described in this notice, is stored in the United States of America.
+
+## Data Protection Officer
+
+Our Data Protection Officer can be reached at [dpo@consumersadvocate.org](mailto:dpo@consumersadvocate.org).
+
+## Your Rights as Data Subject
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. You have the right to:
+
+  * Request access to your personal data. 
+  * Request correction of your personal data. 
+  * Request erasure of your personal data. 
+  * Object to processing of your personal data. 
+  * Request restriction of processing your personal data. 
+  * Request transfer of your personal data. 
+  * Right to withdraw consent. 
+
+
+
+If you wish to exercise any of the rights set out above, please contact us at [dpo@consumersadvocate.org](mailto:dpo@consumersadvocate.org).
+
+### No Fee Usually Required
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+### What We May Need From You
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+### Time Limit to Respond
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
 
 ## Disclosure of Your Information
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-We may disclose personal information that we collect or you provide as described in this privacy policy:
+We may disclose personal information that we collect or you provide as described in this privacy notice:
 
   1. To our subsidiaries and affiliates;
   2. To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them;
@@ -141,11 +191,10 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   1. To comply with any court order, law, or legal process, including to respond to any government or regulatory request;
-  2. To enforce or apply our Terms & Conditions or Privacy Policy and other agreements; and
+  2. To enforce or apply our Terms & Conditions or Privacy Notice and other agreements; and
+  3. If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Ad Practitioners, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
-
-If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Ad Practitioners, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 ## Choices About How We Use and Disclose Information
 
@@ -157,15 +206,15 @@ We strive to provide you with choices regarding the personal information you pro
 
 
 
-## Third party links
+## Third-Party Links
 
-The Website contains links to websites operated and maintained by third parties over which Company has absolutely no control. Any information you provide to third party websites will be governed under the terms of the privacy policy of those respective third parties. Accordingly, we strongly encourage you to investigate and ask questions before disclosing any information to the operators of third party websites, and to familiarize yourself with their privacy practices by reviewing their privacy policies.
+The Website contains links to websites operated and maintained by third parties over which Company has absolutely no control. Any information you provide to third-party websites will be governed under the terms of the privacy notice or privacy policy of those respective third parties. Accordingly, we strongly encourage you to investigate and ask questions before disclosing any information to the operators of third-party websites, and to familiarize yourself with their privacy practices by reviewing their privacy notices and privacy policies.
 
-inclusion of third party websites on or through our Websites in no way constitutes an express or implied endorsement of such websites' policies.
+Inclusion of third-party websites on or through our Websites in no way constitutes an express or implied endorsement of such websites' policies or notices.
 
-If you have any questions regarding Company’s Privacy Policy and or related practices, please feel free to contact us at  _[legal@consumersadvocate.org](mailto:legal@consumersadvocate.org)_.
+If you have any questions regarding Company’s Privacy Policy or Privacy Notice and or related practices, please feel free to contact us at [legal@consumersadvocate.org](mailto:legal@consumersadvocate.org).
 
-## Methods used to protect your information
+## Methods Used to Protect Your Information
 
 We use HTTPS to protect the confidentiality of your personal information including the use of SSL (Secure Sockets Layer) protocol and/or TLS (Transport Layer Security). We also use password encryption to protect all of the information stored in our database. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of its information. Our business practices limit employee access to confidential information and limit the use and disclosure of such information to authorized persons.
 
@@ -173,13 +222,13 @@ Our Websites use commercially reasonable technologies, processes and procedures 
 
 The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Websites, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Websites like message boards. The information you share in public areas may be viewed by any user of the Websites.
 
-However, no data transmission over the Internet can be guaranteed to be 100% secure, and no data system can guarantee that it is free from error. Therefore, while we strive to protect your personal information, we cannot guarantee or warrant that it will be safe from theft, loss, damage, and/or corruption. Any transmission of personal information is at your own risk. By using our Websites, you hereby agree that Company and its officers, directors, employees, shareholders, insurers, attorneys, vendors, agents and representatives, shall not be liable for any theft, loss, damage and/or corruption to your information, including but not limited to your personally identifiable information. We are not responsible for circumvention of any privacy settings or security measures contained on the Websites, in this Privacy Policy, or on our Terms and Conditions.
+However, no data transmission over the Internet can be guaranteed to be 100% secure, and no data system can guarantee that it is free from error. Therefore, while we strive to protect your personal information, we cannot guarantee or warrant that it will be safe from theft, loss, damage, and/or corruption. Any transmission of personal information is at your own risk. By using our Websites, you hereby agree that Company and its officers, directors, employees, shareholders, insurers, attorneys, vendors, agents and representatives, shall not be liable for any theft, loss, damage and/or corruption to your information, including but not limited to your personally identifiable information. We are not responsible for circumvention of any privacy settings or security measures contained on the Websites, in this Privacy Notice, or on our Terms and Conditions.
 
-## Your rights
+## Your Rights
 
 You have the right to know what data is being collected from you, where it’s being processed, how it’s being used, how long it is stored for, and who we share the information with. If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we or a third party have a legitimate interest in doing so, you have the right to object to that use. However, in some cases, this may mean no longer using the Websites or our services. You may also request that we transfer or erase your personal data.
 
-## How you can access or correct your information
+## How You Can Access or Correct Your Information
 
 We do our best to respect your privacy rights and provide you access and control over your data. You can make any of the following requests regarding your data by sending an e-mail to compliance@consumersadvocate.org:
 
@@ -190,30 +239,344 @@ We do our best to respect your privacy rights and provide you access and control
 
 
 
-Because we use Amazon Web Services to backup our information, we cannot delete your specific information from our backups. The Amazon Web Services creates images of our database every day and stores them for 7 days. After 7 days have passed, the oldest images are deleted. Furthermore, during critical stages of system changes, we sometimes create manual backups. We retain these backups for no more than 7 days.
+Because we use Amazon Web Services to back-up our information, we cannot delete your specific information from our backups. The Amazon Web Services creates images of our database every day and stores them for 7 days. After 7 days have passed, the oldest images are deleted. Furthermore, during critical stages of system changes, we sometimes create manual backups. We retain these backups for no more than 7 days.
 
 We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change or delete information if we believe the change or deletion would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your User Contributions from the Websites, copies of your User Contributions may remain viewable in cached and archived pages or might have been copied or stored by other Websites users. Proper access and use of information provided on the Websites, including User Contributions, is governed by our Terms & Conditions.
 
-## California Privacy Rights
+This section applies solely to all visitors, users, and others who reside in the State of California ("consumers" or "you"). We adopt this notice to comply with the California Consumer Privacy Act of 2018 (CCPA) and any terms defined in the CCPA have the same meaning when used in this notice.
 
-California Civil Code § 1798.83 permits users of our Websites that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [compliance@consumersadvocate.org](mailto:compliance@consumersadvocate.org).
+## Information We Collect
 
-## How long your data is stored
+Our Website collects information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or device (" **personal information** "). ConsumersAdvocate.org has collected the following categories of personal information from its consumers within the last twelve (12) months:
 
-How long we keep information we collect about you depends on the type of information, as described in further detail below. After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.
+**Category**
 
-**Account information:** We retain your account information until you delete your account. We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations and to continue to develop and improve our Websites and Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you.
+| 
 
-**Information you share on the Services:** If your account is deactivated or disabled, some of your information and the content you have provided will remain in order to allow your team members or other users to make full use of the Services. For example, we continue to display comments and content you provided to our Websites.
+**Examples**
 
-**Marketing information:** If you have elected to receive marketing emails from us, we retain information about your marketing preferences unless you specifically ask us to delete such information. We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.
+| 
 
-## Changes to privacy policy
+**Collected**  
+  
+---|---|---  
+  
+A. Identifiers.
 
-If Company’s Privacy Policy or procedures change, Company will immediately post those changes to the website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
+| 
 
-## Effective date
+A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver's license number, passport number, or other similar identifiers.
 
-This Privacy Policy is effective as of June 15, 2018.
+| 
+
+ Yes  
+  
+B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
+
+| 
+
+A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+
+Some personal information included in this category may overlap with other categories.
+
+| 
+
+ Yes  
+  
+C. Protected classification characteristics under California or federal law.
+
+| 
+
+Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).
+
+| 
+
+ Yes  
+  
+D. Commercial information.
+
+| 
+
+Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+
+| 
+
+ Yes  
+  
+E. Biometric information.
+
+| 
+
+Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.
+
+| 
+
+ No  
+  
+F. Internet or other similar network activity.
+
+| 
+
+Browsing history, search history, information on a consumer's interaction with a website, application, or advertisement.
+
+| 
+
+ Yes  
+  
+G. Geolocation data.
+
+| 
+
+Physical location or movements.
+
+| 
+
+ Yes  
+  
+H. Sensory data.
+
+| 
+
+Audio, electronic, visual, thermal, olfactory, or similar information.
+
+| 
+
+ No  
+  
+I. Professional or employment-related information.
+
+| 
+
+Current or past job history or performance evaluations.
+
+| 
+
+ No  
+  
+J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
+
+| 
+
+Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.
+
+| 
+
+ No  
+  
+K. Inferences drawn from other personal information.
+
+| 
+
+Profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+| 
+
+ No  
+  
+Personal information does not include:
+
+  * Publicly available information from government records.
+  * Deidentified or aggregated consumer information.
+  * Information excluded from the CCPA's scope, like: 
+    * health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data;
+    * personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
+
+
+
+We obtain the categories of personal information listed above from the following categories of sources:
+
+  * Directly from you when you provide it to us;
+  * Automatically as you use the Websites. Automatically collected information may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies; and
+  * From third parties, such as our business partners.
+
+
+
+## Use of Personal Information
+
+We may use, sell, or disclose the personal information we collect for one or more of the following business purposes:
+
+  * To fulfill or meet the reason you provided the information. For example, if you share your name and contact information to request a price quote or ask a question about products or services from one of our partners, we will provide the partner that personal information to respond to your inquiry. 
+  * To provide, support, personalize, and develop our Website, products, and services.
+  * To create, maintain, customize, and secure your account with us.
+  * To process your requests.
+  * To provide you with support and to respond to your inquiries, including to investigate and address your concerns and monitor and improve our responses.
+  * To personalize your Website experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and ads through our Website, third-party sites, and via email or text message (with your consent, where required by law).
+  * To help maintain the safety, security, and integrity of our Website, products and services, databases and other technology assets, and business.
+  * For testing, research, analysis, and product development, including to develop and improve our Website, products, and services.
+  * To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+  * As described to you when collecting your personal information or as otherwise set forth in the CCPA.
+  * To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.
+
+
+
+We will not collect additional categories of personal information or use the personal information we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+
+We may disclose your personal information to a third party for a business purpose, or sell your personal information, subject to your right to opt-out of those sales. When we disclose personal information for a business purpose, we enter a contract that describes the purpose and requires the recipient to both keep that personal information confidential and not use it for any purpose except performing the contract. The CCPA prohibits third parties who purchase the personal information we hold from reselling it unless you have received explicit notice and an opportunity to opt-out of further sales.
+
+We share your personal information with the following categories of third parties:
+
+  * Service providers.
+  * Data aggregators.
+  * Third parties who you have consented to.
+
+
+
+## Disclosures of Personal Information for a Business Purpose
+
+In the preceding twelve (12) months, Company has has disclosed the following categories of personal information for a business purpose:
+
+  * Category A: Identifiers
+  * Category C: Protected classification characteristics under California or federal law
+  * Category D: Commercial information
+  * Category F: Internet or other similar network activity
+  * Category G: Geolocation data
+
+
+
+We disclose your personal information for a business purpose to the following categories of third parties:
+
+  * Service providers.
+  * Data aggregators.
+
+
+
+## Sales of Personal Information
+
+In the preceding twelve (12) months, Company has sold the following categories of personal information:
+
+  * Category A: Identifiers
+  * Category B: California Customer Records personal information categories
+  * Category C: Protected classification characteristics under California or federal law
+  * Category D: Commercial information
+
+
+
+We sell your personal information to the following categories of third parties:
+
+  * Business parters.
+  * Data aggregators.
+
+
+
+## Your Rights and Choices
+
+The CCPA provides consumers (California residents) with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.
+
+### Access to Specific Information and Data Portability Rights
+
+Once we receive and confirm your verifiable request, we will disclose to you:
+
+  * The categories of personal information we collected about you.
+  * The categories of sources for the personal information we collected about you.
+  * Our business or commercial purpose for collecting or selling that personal information.
+  * The categories of third parties with whom we share that personal information.
+  * The specific pieces of personal information we collected about you
+  * If we sold or disclosed your personal information for a business purpose: 
+    * sales, identifying the personal information categories that each category of recipient purchased; and
+    * disclosures for a business purpose, identifying the personal information categories that each category of recipient obtained.
+
+
+
+### Deletion Request Rights
+
+You have the right to request that we delete from our records any of the personal information that we collect and retained, subject to certain exceptions. Once we receive and confirm your verifiable request, we will delete your personal information from our records, unless an exception applies.
+
+### Why We May Deny Your Request
+
+We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:
+
+  1. Complete the transaction for which we collected the personal information.
+  2. Provide you with notices about your account, including expiration and renewal notices.
+  3. Carry out our obligations and enforce our rights arising from any contracts entered into between you and us.
+  4. Fulfill any other purpose for which you provided it.
+  5. Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+  6. Debug products to identify and repair errors that impair existing intended functionality.
+  7. Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+  8. Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 _et. seq._ ).
+  9. Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.
+  10. Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+  11. Comply with a legal obligation and any relevant laws, regulations, ordinances, rules, directives, or statutes.
+  12. Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+
+
+
+### Exercising Access, Data Portability, and Deletion Rights
+
+To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by filling out [this form](https://www.adpractitioners.com/eu-data-request?site=consumersadvocate.org) or emailing your request to [dpo@consumersadvocate.org](mailto:dpo@consumersadvocate.org?subject=Personal%20Information%20Access%2C%20Data%20Portability%2C%20or%20Deletion%20Request).
+
+### What We May Need From You
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+Only you, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child.
+
+You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
+
+  * Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
+  * Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+
+
+
+We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you.
+
+Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
+
+### Response Timing and Format
+
+We endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to 90 additional days), we will inform you of the reason and extension period in writing.
+
+If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.
+
+Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request's receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
+
+### Fees
+
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+
+### Personal Information Sales Opt-Out and Opt-In Rights
+
+If you are 16 years of age or older, you have the right to direct us to not sell your personal information at any time (the "right to opt-out"). We do not sell the personal information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization (the "right to opt-in") from either the consumer who is between 13 and 16 years of age, or the parent or guardian of a consumer less than 13 years of age. Consumers who opt-in to personal information sales may opt-out of future sales at any time.
+
+To exercise the right to opt-out, you (or your authorized representative) may submit a request to us by visiting [the following link.](https://www.adpractitioners.com/eu-data-request?site=consumersadvocate.org)
+
+Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize personal information sales. However, you may change your mind and opt back in to personal information sales at any time by emailing your request to [dpo@consumersadvocate.org](mailto:dpo@consumersadvocate.org?subject=Personal%20Information%20Access%2C%20Data%20Portability%2C%20or%20Deletion%20Request).
+
+You do not need to create an account with us to exercise your opt-out rights. We will only use personal information provided in an opt-out request to review and comply with the request.
+
+## Non-Discrimination
+
+We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:
+
+  * Deny you goods or services;
+  * Charge you, or suggest you may be charged, for services;
+  * Impose penalties;
+  * Provide you a different level or quality of services.
+
+
+
+## Other California Privacy Rights
+
+California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please fill out [this form](https://www.adpractitioners.com/eu-data-request?site=consumersadvocate.org) or email your request to [dpo@consumersadvocate.org](mailto:dpo@consumersadvocate.org?subject=Personal%20Information%20Access%2C%20Data%20Portability%2C%20or%20Deletion%20Request).
+
+If you have any questions or comments about this notice, the ways in which we collect and use your information, your choices and rights regarding such use, or wish to exercise your rights under California law, please do not hesitate to contact us.
+
+### Web
+
+You may contact us by filling out [this form](https://www.adpractitioners.com/eu-data-request?site=consumersadvocate.org).
+
+### Email
+
+Email your request to [dpo@consumersadvocate.org](mailto:dpo@consumersadvocate.org?subject=Personal%20Information%20Access%2C%20Data%20Portability%2C%20or%20Deletion%20Request). 
+
+### Mail
+
+Metro Office Park Calle 1  
+Building 7, Suite 204  
+Guaynabo, PR 00968  
+Att: Data Protection Officer
+
+We reserve the right to amend this privacy notice at our discretion and at any time. If we make changes to this Privacy Notice, we will immediately post the updated notice on our website and update the notice’s effective date. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change. Your continued use of our website following the posting of changes constitutes your acceptance of such changes.
+
+This Privacy Notice is effective as of December 19, 2019.
