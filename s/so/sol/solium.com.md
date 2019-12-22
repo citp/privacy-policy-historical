@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004151527id_/https%3A//solium.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222162125id_/https%3A//www.shareworks.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Solium
+# Privacy Statement | Shareworks by Morgan Stanley
 
 ## **Solium Privacy Statement**
 
@@ -8,13 +8,9 @@ Protecting your privacy and safeguarding your personal, business and financial i
 
 **Effective May 24, 2018**
 
-Solium® Capital Inc. (together with its affiliates, “Solium”) is dedicated to conforming to applicable privacy standards that have been established by industry bodies as well as applicable laws and regulations.
+® Solium Capital ULC, a wholly-owned subsidiary of Morgan Stanley, (together with its affiliates, “Solium”) is dedicated to conforming to applicable privacy standards that have been established by industry bodies as well as applicable laws and regulations.
 
-This Privacy Statement covers and describes how Solium collects, uses, discloses and otherwise processes personal data we collect through our website, www.solium.com and through our service Shareworks®.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=cc847176-f464-47c5-8588-84a25803abc9)
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+This Privacy Statement covers and describes how Solium collects, uses, discloses and otherwise processes personal data we collect through our website, www.shareworks.com and through our service Shareworks®.
 
 ## **Privacy Statement for Solium Website Users**
 
@@ -28,7 +24,7 @@ We collect personal data from you when you request information regarding our pro
 
 #### Email Subscriptions and Interaction
 
-When you sign up for a Solium electronic communication service, email us, or ask us to respond to you via email through our website www.solium.com, Solium records your exact email address and any information you have included in your electronic submission (an “Information Request”). We use your email address to acknowledge your comments, to reply to your requests, and/or to conduct audit activities and we will store your communication and our reply in case we correspond further. We will not communicate your email address to anyone other than our affiliates. If you have subscribed to receive information about Solium on a regular basis, you may also unsubscribe for this service using the instructions in the regular email submission.  The legal basis for our processing this personal data is either that you have consented to such processing as part of your Information Request and/or Solium’s legitimate interest in marketing and promoting our products and services, which is not overridden by your data protection interests.
+When you sign up for a Solium electronic communication service, email us, or ask us to respond to you via email through our website www.www.shareworks.com, Solium records your exact email address and any information you have included in your electronic submission (an “Information Request”). We use your email address to acknowledge your comments, to reply to your requests, and/or to conduct audit activities and we will store your communication and our reply in case we correspond further. We will not communicate your email address to anyone other than our affiliates. If you have subscribed to receive information about Solium on a regular basis, you may also unsubscribe for this service using the instructions in the regular email submission.  The legal basis for our processing this personal data is either that you have consented to such processing as part of your Information Request and/or Solium’s legitimate interest in marketing and promoting our products and services, which is not overridden by your data protection interests.
 
 #### Responding to Surveys
 
@@ -91,7 +87,7 @@ We do link this automatically-collected data to personally identifiable informat
 
 We partner with a third-party ad network(s) to either display advertising on our website or to manage our advertising on other sites for the Solium corporate family’s business needs. Our ad partner uses cookies and web beacons to collect non-personally identifiable information about your activities on our website and other web sites to provide targeted advertising. Note that this is for any person who comes to the Solium website regardless of purpose, as we cannot in advance determine the purpose of a website visit. This kind of activity is done by and on behalf of virtually all commercial websites in order to optimize business effectiveness on the Internet and shall be carried out always in accordance with all applicable laws and regulations. Please note that for individuals using our Shareworks platform, once you log in, we do not track your activity in Shareworks for the purposes of any advertising.
 
-If you wish to not have your non-personably identifiable information tracked by the Solium website and used for the purposes of serving targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)), in which case Solium will not participate in, or cooperate with, third-parties for the purposes of directing advertising to you. This procedure is the standard commercial practice on the Internet for managing an individual’s preferences and is managed by TRUSTe on behalf of Solium. Please note that this does not opt you out of being served advertising that is directed and controlled by other parties on the Internet like search engine companies and/or other organizations with access to your Internet activity. For greater certainty, Solium’s opt out is for your interface with Solium only and not any opt out related to the Internet or advertising in general.
+If you wish to not have your non-personably identifiable information tracked by the Solium website and used for the purposes of serving targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)), in which case Solium will not participate in, or cooperate with, third-parties for the purposes of directing advertising to you. Please note that this does not opt you out of being served advertising that is directed and controlled by other parties on the Internet like search engine companies and/or other organizations with access to your Internet activity. For greater certainty, Solium’s opt out is for your interface with Solium only and not any opt out related to the Internet or advertising in general.
 
 ### **Local Storage Object**
 
@@ -120,7 +116,7 @@ We may reasonably update this Privacy Statement to meet legislative and risk cha
 ### **Contact Information**
 
 You can contact us by writing or emailing us at the addresses below:  
-Solium Capital, Inc.
+Solium Capital ULC.
 
 Attn: Compliance
 
@@ -183,7 +179,7 @@ We may reasonably update this Privacy Statement to meet legislative and risk cha
 ### **Contact Information**
 
 You can contact us by writing or emailing us at the addresses below:  
-Solium Capital, Inc.
+Solium Capital ULC.
 
 Attn: Compliance
 
