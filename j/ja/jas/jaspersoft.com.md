@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaspersoft.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613200805id_/http%3A//www.tibco.com/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaspersoft.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222092307id_/https%3A//www.tibco.com/company/privacy) for the most accurate reproduction.*
 
 # TIBCO Privacy Policy | TIBCO Software
 
