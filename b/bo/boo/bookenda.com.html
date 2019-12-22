@@ -1,536 +1,724 @@
-<!--The following is the downloaded HTML source of the bookenda.com privacy policy that was archived on 2019-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190525102455id_/https%3A//www.bookenda.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookenda.com privacy policy that was archived on 2019-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191222204128id_/https%3A//www.touchbistro.com/privacy-notice) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-	<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-spa-1123.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"af4a687e2a","applicationID":"7404618","transactionName":"M1EBZBRYXEYCB00MDQobLmYlFmFBAhBQBiELWhdCCVVeUBFLaRcLElUASTZWXlwAHQ==","queueTime":0,"applicationTime":219,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQ4EWVBTGwQEVFVUBgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(23),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{p?p-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(24),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(p+=1)}),s.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,j=y.hash,this[u]=x.now()}function o(){M--,y.hash!==j&&i(0,!0);var t=x.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=x.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,l="cb"+s,p="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,x=t("loader");if(w[v]&&x.xhrWrappable){var g=t(10),b=t(11),E=t(8),R=t(6),O=t(13),C=t(7),P=t(14),T=t(9),L=t("ee"),S=L.get("tracer");t(16),x.features.spa=!0;var j,M=0;L.on(u,r),L.on(l,r),L.on(d,o),L.on(p,o),L.buffer([u,d,"xhr-done","xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),P.buffer([u,"new-xhr","send-xhr"+s]),C.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",l,p,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),T.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(P,"send-xhr"+s),a(L,"xhr-resolved"),a(L,"xhr-done"),a(C,m+s),a(C,m+"-done"),a(T,"new-jsonp"),a(T,"jsonp-end"),a(T,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",x=t("loader");x.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=x.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,x.now()])}),a.on(m,function(t,e,n){this.bstStart=x.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),this.bstType])}),s.on(m,function(){this.bstStart=x.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=x.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(26)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(23);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,l=a.fetch,p="prototype";u&&d&&l&&(i(f,function(t,e){r(u[p],e,c),r(d[p],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(26)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],l),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],l),c.emit("jsonp-end",[],l),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var l={};f.inPlace(u.parent,[u.key],"cb-",l),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],l)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(l),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(26)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,l=/^(\w+)(\.|$)(.*)$/,p=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,p,"dom-"),f.inPlace(HTMLHeadElement.prototype,p,"dom-"),f.inPlace(HTMLBodyElement.prototype,p,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(26)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(26),a=t("ee").get("promise"),s=i(a),c=t(23),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(26)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(26)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){x.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(26)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(){var t=window.NREUM,e=t.info.accountID||null,n=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!e||!n||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:e,ap:n,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&e!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(21);e.exports={generateTraceHeader:r}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);e.aborted||(n.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):a(this,t),n.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return v(r)}function i(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function a(t,e){t.params.status=e.status;var n=o(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(17),u=t(15).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(20),v=t(19),w=window.XMLHttpRequest;s.features.xhr=!0,t(14),d.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){a(e,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=!!NREUM.init.distributed_tracing.enabled),n&&this.sameOrigin){var r=u();r&&e.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=v(r);i&&(n.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{d.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<p;a++)e.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,e],e)})}},{}],17:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],18:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(23),s=t(24),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],19:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],20:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],21:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],22:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],26:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(24),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[x[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",x[n]=e,e in u||(u[e]=[])})}var y={},x={},g={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(23),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(23),u=t("ee"),d=t(22),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1123.min.js"},g=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:g,userAgent:d};t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(25)},{}]},{},["loader",2,16,5,3,4]);</script>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-	<title>Privacy policy</title>
-
-		<link href="/bookendapublicsite.min.css?v=131" rel="stylesheet" type="text/css">
-
-		<script src="/bookendapublicsite.min.js?v=131" type="text/javascript"></script>
-	
-
-	<meta property="og:title" content="Privacy policy">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="">
-	<meta property="og:image" content="">
-	<meta property="og:description" content="">
-	<meta property="fb:app_id" content="110695162275832">
-	<meta name="description" content="">
-
-	<link rel="shortcut icon" href="/favicon.ico">
-	<link rel="canonical" href="http://www.bookenda.com/privacy-policy">
+<!DOCTYPE html><html lang="en-US"><head>
 
 
+<!-- Google Tag Manager -->
+<script src="https://tags.srv.stackadapt.com/events.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://static.addtoany.com/menu/page.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NK9TKF"></script><script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NK9TKF');
+
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Optimize Anti-flicker snippet (recommended)  -->
+
+<!-- CookieBot -->
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="065deb07-9bb1-45b9-a132-cf7c2bffc48f" type="text/javascript" async=""></script>
+
+        <!-- <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7622272/718784/css/fonts.css" /> -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#00a3ad">
+<meta name="theme-color" content="#00a3ad">
+    <link rel="alternate" hreflang="en" href="https://www.touchbistro.com/privacy-notice/">
+<link rel="alternate" hreflang="en-gb" href="https://www.touchbistro.com/gb/privacy-notice/">
+
+<!-- This site is optimized with the Yoast SEO plugin v12.6.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Notice - TouchBistro Inc.</title>
+<meta name="description" content="Learn about our privacy policy. We value and respect your privacy as potential customers, customers, partners and other stakeholders.">
+<meta name="robots" content="noindex,nofollow">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Notice - TouchBistro Inc.">
+<meta property="og:description" content="Learn about our privacy policy. We value and respect your privacy as potential customers, customers, partners and other stakeholders.">
+<meta property="og:url" content="https://www.touchbistro.com/privacy-notice/">
+<meta property="og:site_name" content="TouchBistro">
+<meta property="article:publisher" content="https://www.facebook.com/TouchBistroiPadPOS/">
+<meta property="og:image" content="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/touchbistro-share.jpg">
+<meta property="og:image:secure_url" content="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/touchbistro-share.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Learn about our privacy policy. We value and respect your privacy as potential customers, customers, partners and other stakeholders.">
+<meta name="twitter:title" content="Privacy Notice - TouchBistro Inc.">
+<meta name="twitter:site" content="@touchbistro">
+<meta name="twitter:image" content="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/touchbistro-share.jpg">
+<meta name="twitter:creator" content="@touchbistro">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.touchbistro.com/#website","url":"https://www.touchbistro.com/","name":"TouchBistro","description":"The iPad POS for Restaurants of Any Size","potentialAction":{"@type":"SearchAction","target":"https://www.touchbistro.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.touchbistro.com/privacy-notice/#webpage","url":"https://www.touchbistro.com/privacy-notice/","inLanguage":"en-US","name":"Privacy Notice - TouchBistro Inc.","isPartOf":{"@id":"https://www.touchbistro.com/#website"},"datePublished":"2016-03-24T22:48:37+00:00","dateModified":"2019-02-05T19:56:32+00:00","description":"Learn about our privacy policy. We value and respect your privacy as potential customers, customers, partners and other stakeholders.","breadcrumb":{"@id":"https://www.touchbistro.com/privacy-notice/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://www.touchbistro.com/privacy-notice/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.touchbistro.com/privacy-notice/","url":"https://www.touchbistro.com/privacy-notice/","name":"Privacy Notice"}}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="TouchBistro » Feed" href="https://www.touchbistro.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="TouchBistro » Comments Feed" href="https://www.touchbistro.com/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://cdn.touchbistro.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://cdn.touchbistro.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="printomatic-css-css" href="https://cdn.touchbistro.com/wp-content/plugins/print-o-matic/css/style.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css-css" href="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/css/bootstrap.min.css?ver=1.0.0" type="text/css" media="">
+<link rel="stylesheet" id="bootstrap-theme-css" href="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/css/bootstrap-theme.min.css?ver=1.0.0" type="text/css" media="">
+<link rel="stylesheet" id="screen-css" href="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/css/archive/screen.min.css?v=1.1.8&amp;ver=1.0.0" type="text/css" media="">
+<link rel="stylesheet" id="mainCSS-css" href="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/css/main.min.css?v=2.7.7&amp;ver=1.0.2" type="text/css" media="">
+<link rel="stylesheet" id="slick-css-css" href="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/js/slick-1.8.0/slick/slick.css?ver=1.0.0" type="text/css" media="">
+<link rel="stylesheet" id="slick-theme-css" href="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/js/slick-1.8.0/slick/slick-theme.css?ver=1.0.0" type="text/css" media="">
+<link rel="stylesheet" id="dflip-icons-style-css" href="https://cdn.touchbistro.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/themify-icons.min.css?ver=1.5.33" type="text/css" media="all">
+<link rel="stylesheet" id="dflip-style-css" href="https://cdn.touchbistro.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/dflip.min.css?ver=1.5.33" type="text/css" media="all">
+<link rel="stylesheet" id="wpdreams-asl-basic-css" href="https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="wpdreams-ajaxsearchlite-css" href="https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/css/style-underline.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="addtoany-css" href="https://cdn.touchbistro.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" type="text/css" media="all">
+<link rel="stylesheet" id="sedlex_styles-css" href="https://cdn.touchbistro.com/wp-content/sedlex/inline_styles/d597eff577d0c79b8e6b5d2f3c10cc7a6a391656.css?ver=20191222" type="text/css" media="all">
+<script type="text/javascript" data-cfasync="false" src="https://cdn.touchbistro.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/plugins/flowpaper-lite-pdf-flipbook/assets/lity/lity.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js?ver=5.3.1"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/js/bootstrap.min.js?ver=1"></script>
+<link rel="https://api.w.org/" href="https://www.touchbistro.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.touchbistro.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.touchbistro.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.touchbistro.com/?p=6556">
+<link rel="alternate" type="application/json+oembed" href="https://www.touchbistro.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.touchbistro.com%2Fprivacy-notice%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.touchbistro.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.touchbistro.com%2Fprivacy-notice%2F&amp;format=xml">
+<meta name="generator" content="WPML ver:4.3.4 stt:1,64,67,65;">
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.callbacks.push({
+	share: function(data) {
+		console.log(data);
+	},
+	ready: function() {
+		jQuery(function() {
+			var shareNumber = 0;
+			jQuery('.share-this .share-buttons').on('DOMNodeInserted', function(e) {
+				var domText = '';
+				if ( jQuery(e.target).text() !== '' && !isNaN(jQuery(e.target).text()) ) {
+					shareNumber = shareNumber + Number(jQuery(e.target).text());
+				}
+				if (shareNumber !== 0) {
+					jQuery('.share-this .total-shares').removeClass('hidden');
+					jQuery('.share-this .share-count').text(shareNumber);
+				}
+			});
+jQuery(".a2a_button_email").each(function() {
+  jQuery( this ).click(function( event ) {
+  event.preventDefault();
+  var myWindow = window.open(jQuery(".a2a_button_email").attr('href'), "Email This", "top=300,left=150,width=800,height=400");
+});
+});
+		});
+	},
+});
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<script data-cfasync="false"> var dFlipLocation = "https://cdn.touchbistro.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/"; var dFlipWPGlobal = {"text":{"toggleSound":"Turn on\/off Sound","toggleThumbnails":"Toggle Thumbnails","toggleOutline":"Toggle Outline\/Bookmark","previousPage":"Previous Page","nextPage":"Next Page","toggleFullscreen":"Toggle Fullscreen","zoomIn":"Zoom In","zoomOut":"Zoom Out","toggleHelp":"Toggle Help","singlePageMode":"Single Page Mode","doublePageMode":"Double Page Mode","downloadPDFFile":"Download PDF File","gotoFirstPage":"Goto First Page","gotoLastPage":"Goto Last Page","share":"Share"},"moreControls":"download,pageMode,startPage,endPage,sound","hideControls":"","scrollWheel":"true","backgroundColor":"#777","backgroundImage":"","height":"auto","paddingLeft":"20","paddingRight":"20","controlsPosition":"bottom","duration":800,"soundEnable":"true","enableDownload":"true","webgl":"true","hard":"none","maxTextureSize":"1600","rangeChunkSize":"524288","zoomRatio":1.5,"stiffness":3,"singlePageMode":"0","autoPlay":"false","autoPlayDuration":5000,"autoPlayStart":"false"};</script>                <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+                <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>                <style type="text/css">
+                    <!--
+                    
+            @font-face {
+                font-family: 'aslsicons2';
+                src: url('https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot');
+                src: url('https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot?#iefix') format('embedded-opentype'),
+                     url('https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff2') format('woff2'),
+                     url('https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff') format('woff'),
+                     url('https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.ttf') format('truetype'),
+                     url('https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.svg#icons') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+                font-size: 0px !important;
+                color: rgba(0, 0, 0, 0);
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+                font-size: 11px !important;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            div[id*='ajaxsearchlite'].wpdreams_asl_container {
+                width: 100%;
+                margin: 0px 0px 0px 0px;
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+                font-weight: bold;
+                color: rgba(217, 49, 43, 1);
+                background-color: rgba(238, 238, 238, 1);
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results .results div.asl_image {
+                width: 70px;
+                height: 70px;
+            }
+            div.asl_r .results {
+                max-height: none;
+            }
+            
+                .asl_w, .asl_w * {font-family:inherit !important;}
+                .asl_m input[type=search]::placeholder{font-family:inherit !important;}
+                .asl_m input[type=search]::-webkit-input-placeholder{font-family:inherit !important;}
+                .asl_m input[type=search]::-moz-placeholder{font-family:inherit !important;}
+                .asl_m input[type=search]:-ms-input-placeholder{font-family:inherit !important;}
+                
+                div.asl_m.asl_w {
+                    border:1px none rgb(0, 0, 0) !important;border-radius:0px 0px 0px 0px !important;
+                    box-shadow: none !important;
+                }
+                div.asl_m.asl_w .probox {border: none !important;}
+                                    -->
+                </style>
+                            <script type="text/javascript">
+                if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
+                    _ASL.initialize();
+            </script>
+            		<!-- Facebook Pixel Code -->
+		<script>
+						!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.agent='dvpixelcaffeinewordpress';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			
+			var aepc_pixel = {"pixel_id":"1568655450074615","user":[],"enable_advanced_events":"yes","fire_delay":"2"},
+				aepc_pixel_args = [],
+				aepc_extend_args = function( args ) {
+					if ( typeof args === 'undefined' ) {
+						args = {};
+					}
+
+					for(var key in aepc_pixel_args)
+						args[key] = aepc_pixel_args[key];
+
+					return args;
+				};
+
+			// Extend args
+			if ( 'yes' === aepc_pixel.enable_advanced_events ) {
+				aepc_pixel_args.userAgent = navigator.userAgent;
+				aepc_pixel_args.language = navigator.language;
+
+				if ( document.referrer.indexOf( document.domain ) < 0 ) {
+					aepc_pixel_args.referrer = document.referrer;
+				}
+			}
+
+						fbq('init', aepc_pixel.pixel_id, aepc_pixel.user);
+
+						setTimeout( function() {
+				fbq('track', "PageView", aepc_pixel_args);
+			}, aepc_pixel.fire_delay * 1000 );
+					</script>
+				<noscript><img height="1" width="1" style="display:none"
+		               src="https://www.facebook.com/tr?id=1568655450074615&ev=PageView&noscript=1"
+			/></noscript>
+				<!-- End Facebook Pixel Code -->
+		        <script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/js/waypoints.min.js"></script>
+    
+<!--  WISTIA  -->
+<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js" async=""></script>
+<script>
+  var trackWistiaPlaysInHeap = function(video, percentage){
+  var reportingObject = {
+    nameOfVideo: video.name(),
+    percentageReached: percentage,
+    duration: (video.duration() / 60).toFixed(2) + ' minutes total'
+  };
+    window.heap.track("Wistia Video", reportingObject);
+};
+
+/*   Initialize all videos on the page to be handled by
+     the Wistia integration */
+window._wq = window._wq || [];
+_wq.push({ '_all': function(video) {
+
+  /* Define time markers in number of seconds */
+  var quarterPlayed = Math.floor(video.duration() / 4),
+      halfPlayed = Math.floor(video.duration() / 2),
+      threeQuartersPlayed = quarterPlayed * 3;
+
+  /*Track when a video is played */
+  video.bind('play', function(){
+    trackWistiaPlaysInHeap(video, 0);
+    return video.unbind;
+  });
+
+  /* Track quarters watched */
+  video.bind('secondchange', function(s){
+    if (s === quarterPlayed){
+      trackWistiaPlaysInHeap(video, 0.25);
+    }
+    if (s === halfPlayed){
+      trackWistiaPlaysInHeap(video, 0.5);
+    }
+    if (s === threeQuartersPlayed){
+      trackWistiaPlaysInHeap(video, 0.75);
+    }
+  });
+
+  /* Track videos finished */
+  video.bind('end', function() {
+    trackWistiaPlaysInHeap(video, 1);
+    return video.unbind;
+  });
+}});
+</script>
+
+<!--  Bizible  -->
+<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>
+
+ 
+
+<!-- Stack Adapt Global Tracking Pixel -->
+<script>!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');saq('ts', 's39PQs59QMDmQ-Eyd5D5rw');</script>    
 
 </head>
-<body class="bkda-home-site language-en">
 
-	<div class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom:0;z-index:1031">
-		<div class="container">
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".divMainMenuCollapsible">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				<a class="navbar-brand brand bookenda" href="/">Bookenda</a>
-			</div>
-			<div id="divMainMenuCollapsible" class="navbar-collapse collapse divMainMenuCollapsible navbar-right" style="height: 1px;">
-				<p class="navbar-text" id="lblLastWeekCoversSection" style="display:none">
-					<strong id="lblLastWeekCoversCount"></strong> customers served last week!
-				</p>
-				<ul role="navigation" class="nav navbar-nav">
-							<li class="loggedOutPart" style="border-right:1px solid #e1e1e1; "><a class="btn btn-success" href="/register">Sign up</a></li>
-							<li class="loggedOutPart" style="border-right:1px solid #e1e1e1; "><a class="btn btn-success" href="/sign-in">Sign in</a></li>
-
-
-					<li class="dropdown hide">
-
-						<a id="lnkUserName" href="#" data-toggle="dropdown" class="dropdown-toggle"> <b class="caret"></b></a>
-						<ul class="dropdown-menu">
-								<li><a href="/user-wall">My reservations</a></li>
-								<li><a href="/user-favorite-merchants">My favorites</a></li>
-								<li><a href="/points">My points</a></li>
-								<li><a href="/user-settings">My profile</a></li>
-							<li><a href="/Login/SignOut?returnUrl=http%3A%2F%2Fwww.bookenda.com%2Fprivacy-policy">Sign out</a></li>
-						</ul>
-					</li>
-
-
-						<li class="dropdown">
-							<a href="#" data-toggle="dropdown" class="dropdown-toggle">Help <b class="caret"></b></a>
-							<ul class="dropdown-menu">
-								<li><a href="/contact">Help center</a></li>
-								<li><a href="/faq">F.A.Q.</a></li>
-								<li><a href="/about">About Bookenda</a></li>
-							</ul>
-						</li>
-				</ul>
-
-			</div>
-		</div>
-	</div>
-		<div class="navbar navbar-blue radius0" role="navigation" style="z-index:1030; margin-bottom:0">
-			<div class="container">
-				<div class="navbar-inner">
-					<div class="navbar-collapse collapse divMainMenuCollapsible">
-						<ol class="breadcrumb">
-								<li><a href="/">Home</a></li>
-							
-							
-						</ol>
-
-						<ul class="nav navbar-nav navbar-right darker">
-								<li><a href="/merchant-home">Are you a merchant?</a></li>
-
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-
-	
-
-<div class="container bottom">
-    <style>
-        .policyContent ul {
-            
-            list-style-type: circle;
-        }
-    </style>
-    <h1 class="page-header">Privacy policy</h1>
-
-    <div class="container policyContent">
-        <p>Updated: January 15 2012 </p>
-
-<p>Bookenda is firmly committed to data privacy. This Privacy Policy applies to all products, services and websites offered by Bookenda Inc. These products, services and websites are hereinafter collectively referred to as Bookenda “services.” We take privacy seriously, which is why we wish to inform you about what information we collect and how we use it.</p>
-
-
-
-
-
-<h3 class="" bluetext""="">Information we collect and how we use it</h3>
-
-We offer a number of services that require setting up an account and providing personal information. So that we can provide the full range of our services, we need to collect the following information: 
-
-<br>
-
-<br>
-
-<ul>
-
-	<li>Information you provide us: When setting up a Bookenda account or signing up with Bookenda.com or for a promotion requiring registration, we ask you for personal information (such as your name, email address and password). For some services, such as our advertising programs, we also request information regarding your credit card or any other payment method, which we then store in an encrypted format on secure servers.</li>
-
-	<li>Cookies: When you visit Bookenda, we send one or more cookies (small files containing a string of characters) to your computer or other device to uniquely identify your browser. We use these cookies to improve the quality of our services, including storing user preferences, improving search results and ad selection and tracking browsing habits, such as how people search. We also use cookies for our advertising services to help advertisers and publishers effectively manage their ads across the Web.</li>
-
-	<li>Log information: When you access Bookenda services, our servers automatically record information sent by your browser when you visit a website. These server logs may include information such as your Web request, your IP address, your browser type and language, the date and time of your request and one or more cookies that uniquely identify your browser.</li>
-
-	<li>User communications: When you send email or other communications to Bookenda, we may retain those communications in order to process your inquiries, respond to your questions and improve our services.</li>
-
-	<li>Affiliated Bookenda services on other sites: We offer some of our services on or through other websites. Personal information you provide to those sites may be sent to Bookenda in order to deliver the service. We process such information in compliance with this Privacy Policy.</li>
-
-	<li>Links: Bookenda reserves the right to present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology and the relevance of content and customized advertising.</li>
-
-	<li>Other sites: This Privacy Policy applies to Bookenda services only. We do not exercise control over the sites displayed in search results generated by Bookenda applications, products or services or in links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.</li>
-
-</ul>
-
-<p>Bookenda only processes personal information for the purposes described in this Privacy Policy. In addition to the above, the information we collect is used for the following purposes:</p>
-
-<ul>
-
-	<li>Providing our services to users, particularly the display of customized content and advertising </li>
-
-	<li>Auditing, research and analysis in order to maintain, protect and improve our services</li>
-
-	<li>Ensuring the technical maintenance of our network</li>
-
-	<li>Protecting the rights or property of Bookenda and its users</li>
-
-	<li>Developing new services</li>
-
-	<li>Help advertisers and publishers to effectively manage their ads on the Web.</li>
-
-</ul>
-
-<p>Personal information is processed by Bookenda’s servers. In some cases, information may be processed by a server outside your country of residence. We may process personal information to ensure our services operate properly or, in some cases, on behalf of a third party, such as our advertising partners, with their prior authorization and according to their instructions.</p>
-
-
-
-<h3 class="" bluetext""="">Transmission of personal information</h3>
-
-<p>When you sign up for a Bookenda service, we ask you to provide personal information. If we are to use this information in a manner different than the purpose for which it was collected, then we will first ask for your consent.Unless you give prior consent, Bookenda will not collect or use any confidential information for purposes other than those set out in this Privacy Policy.</p>
-
-<p>Most browsers are configured to accept cookies, but you can modify these parameters so that your browser refuses all cookies or notifies you whenever a cookie is sent. However, certain Bookenda functions and services may not operate properly if cookies are disabled.</p>
-
-
-
-
-
-<h3 class="" bluetext""="">Communication of your personal information to third parties</h3>
-
-<p>Bookenda does not communicate your personal information to individual or corporate third parties except in the following rare situations: </p>
-
-<ul>
-
-	<li>We obtained your consent. We always ask for your permission before communicating any personal or confidential information about you to a third party.</li>
-
-	<li>We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing it on our behalf. We require that these parties agree to process such information solely according to our instructions and in compliance with this Privacy Policy and that they undertake to implement appropriate data security and confidentiality protection measures.</li>
-
-	<li>We believe in good faith that access, use, protection and disclosure of such information is reasonably necessary, in the full measure allowed or required by law, in order (a) to comply with a legal, regulatory or judicial obligation or any other request issued from a public authority; (b) to enforce the applicable Terms of Use, including detecting potential infringement thereof; (c) to detect, prevent or deal with fraudulent activities, security breaches or any technical problems; or (d) to protect ourselves against any harm to the rights, property or security of Bookenda, its users or the public.</li>
-
-</ul>
-
-<p>If Bookenda becomes involved in a merger, acquisition or any other form of sale of some or all of its assets, we will ensure the confidentiality of your personal information affected by such transactions and notify you before it is transferred or subjected to a new Privacy Policy. </p>
-
-<p>For any other question on how your personal data is managed or used, feel free to contact us.</p>
-
-
-
-<h3 class="" bluetext""="">Information security</h3>
-
-<p>We do our utmost to make Bookenda a safe environment for users.</p>
-
-<p>Bookenda takes appropriate security measures to prevent any unauthorized access to or modification, disclosure or destruction of data. These include internal audits on data collection, storage and processing, as well as physical security measures to guard against unauthorized access to our personal data storage systems.</p>
-
-<p>Access to personal information is strictly limited to Bookenda employees, subcontractors and agents who need it for the operation, development or improvement of our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and judicial proceedings, if they fail to meet any of these obligations.</p>
-
-<p>Customers are responsible to keep confidential the name or names of users and passwords, or associated with their account. Bookenda can not be held liable if third parties had access to confidential information using the contact information associated with the Customer's account.</p>
-
-<h4 class="" greentext""="">Data integrity</h4>
-
-<p>Bookenda processes personal information only for the purposes for which it was collected, in keeping with this Privacy Policy. Bookenda takes all reasonable measures to ensure that the personal information we process is accurate, complete and current, but it is the user's responsibility to update their information when necessary.</p>
-
-<h4 class="" greentext""="">Accessing and updating your personal information</h4>
-
-<p>When you use Bookenda services, we allow you to access your personal information, correct any errors in it or delete it upon request, except where otherwise provided by law or where the data is necessary for legitimate business purposes. Before processing such requests, we ask individual users to identify themselves and indicate the information they wish to access, correct or delete. We reserve the right to decline requests that are unreasonably repetitive or systematic, require disproportionate. technical effort, compromise the confidentiality of third-party information, or are difficult to comply with (for instance, requests concerning information stored on backup tapes), or for which access is not justified. Where applicable, accessing and correcting data is a free service, except where doing so would require a disproportionate effort. Some of our services specify different procedures for accessing, correcting or deleting users’ personal data.</p>
-
-<h4 class="" greentext""="">Enforcement of and compliance with this Privacy Policy</h4>
-
-<p>We constantly make sure that we are fully honouring our commitments, particularly those set out in this Privacy Policy. Feel free to contact us via our website if you have any questions about this Privacy Policy or about the way Bookenda processes your personal information.</p>
-
-<p>Bookenda reserves the right to modify this Privacy Policy at any time. Whatever the case, Bookenda will post any change on this page and, in the event of significant changes, Bookenda will post a prominent notice.</p>
-
-
-
-<h3 class="" bluetext""="">Special provisions applicable to share links</h3>
-
-<p>We give you permission to use Bookenda’s share link button so that users can post on Bookenda from your website.</p>
-
-<p>However, you need permission from Bookenda to use its link button on a website other than your own.</p>
-
-<p>You will not place a link button on any page containing content that would violate this Statement if posted on Bookenda.</p>
-
-
-
-<h3 class="" bluetext""="">Terms of payment</h3>
-
-<p>By making a payment on Bookenda, you agree to our terms of payment.</p>
-
-<h4 class="" greentext""="">Termination</h4>
-
-<p>If you violate the letter or spirit of this Statement, or otherwise create a potential legal liability for us, we can stop providing you with all or part of Bookenda. We will notify you by email or the next time you attempt to access your account. You may also delete your account or disable your application at any time.</p>
-
-<h4 class="" greentext""="">Other</h4>
-
-<p>This Statement makes up the entire agreement between the parties regarding Bookenda, and supersedes any prior agreements.</p>
-
-<p>If any portion of this Statement is found to be invalid or unenforceable, the remaining portion will remain in full force and effect.</p>
-
-<p>If we fail to enforce any of this Statement, it will not be considered a waiver.</p>
-
-<p>Any amendment to or waiver of this Statement must be made in writing and signed by us.</p>
-
-<p>You will not transfer any of your rights or obligations under this Statement to anyone else without our consent.</p>
-
-<p>All of our rights and obligations under this Statement are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.</p>
-
-<p>Nothing in this Statement will prevent us from complying with the law.</p>
-
-<p>This Statement does not confer any third party beneficiary rights.</p>
-
-<h4 class="" greentext""="">Payment sources</h4>
-
-<p>We accept different payment methods, such as debit cards and Visa orMasterCard credit cards.</p>
-
-<p>You confirm that you are permitted to use the payment source that you provide to us. You also authorize us to collect transaction information.</p>
-
-<p>When you make a payment, you authorize us (or our payment processor) to charge the amount to the payment source you use for the transaction.</p>
-
-<p>If you pay by credit or debit card we may obtain a pre-approval from the issuer of the card for the purchase amount. We will bill your card upon acceptance of Bookenda’s policies or shortly thereafter.</p>
-
-<p>If you pay by debit card and your payment results in an overdraft or other fee from your bank, you alone are responsible for that fee.</p>
-
-<h4 class="" greentext""="">Actions we may take</h4>
-
-<p>We may take certain actions to reduce our liability and that of users in order to make Bookenda safe for users.</p>
-
-<p>We may make any inquiries that we consider necessary, either directly or through third parties, concerning your identity and creditworthiness.</p>
-
-<p>We may cancel any transaction if we believe the transaction violates these Terms of Payment or the Statement of Rights and Responsibilities, or if it may incur a financial loss.</p>
-
-<p>We may place a delay on a payment, limit payment sources for a transaction, limit your ability to make a payment or deactivate your account if we believe doing so may prevent financial loss.</p>
-
-<p>We may contact your payment source issuer, law enforcement, or impacted third parties (including other users) and share details of any payments you make if we believe doing so may prevent financial loss or a violation of law.</p>
-
-<p>We may cancel any credits transferred, assigned, or sold in violation of these Terms of Payment or the Statement of Rights and Responsibilities.</p>
-
-<p>If you purchase advertising, and your payment method fails or your account is past due, we may take appropriate measures to recover monies owed. You agree to pay all expenses associated with such collection, including reasonable legal expenses. Interest will accrue on any past due amounts at the rate of the lesser of 1% per month or the lawful maximum.</p>
-
-<h4 class="" greentext""="">Disputes and reversals</h4>
-
-<p>If you believe that an unauthorized or otherwise problematic transaction has taken place under your account, you agree to notify us immediately so that we may take action to prevent financial loss.</p>
-
-<p>To the extent permitted by law, you waive all claims against us related to payments if more than 30 days have passed since you were charged.</p>
-
-<p>You are responsible for and agree to reimburse us for all reversals, claims, fees, fines, penalties and other disbursement incurred by us (including costs and related expenses) that were caused by or arising out of payments that you authorized or accepted.</p>
-
-<p>Your only remedy for a technical failure or service interruption is to request that your transaction be completed at a later time.</p>
-
-<h4 class="" greentext""="">Special provisions applicable to advertisers</h4>
-
-<p>When you purchase advertising through Bookenda, you agree to pay all amounts specified in the order, including any applicable taxes.</p>
-
-<p>You are responsible for keeping your account secure, and you understand that you will be charged for any orders placed through your account.</p>
-
-<p>You can cancel an advertising order at any time through our online portal, but your ads may run for several days thereafter, and you will still be required to pay for these ads.</p>
-
-<p>Without limiting the previous section, your order constitutes your written authorization for us to obtain your personal and/or business credit report. We may obtain your credit report when you place an order, or at any time thereafter.</p>
-
-<p>You will pay any taxes that apply to your transactions. You agree to indemnify us against any claim arising out of your failure to do so.</p>
-    </div>
+<body class="page-template-default page page-id-6556" itemscope="">
+
+    
+    
+    
+        <div class="all">
+                <div class="navigation">
+            <div id="initial-navigation">
+                <div class="container">
+                    <div class="menu-initial-menu-container">
+                        <ul class="menu" id="menu-initial-menu">
+                            <li><a class="" href="/blog/"> Blog</a></li><li><a class="" href="https://www.touchbistro.com/help/"> Support: 888-342-0131</a></li><li><a class="cta-link" href="tel:855-363-5252"> Sales: 855-363-5252</a></li><li class="header-signin"><div>Sign in</div><ul class="sub-menu"><li><a class="" href="https://cloud.touchbistro.com/">TouchBistro Cloud</a></li><li><a class="" href="https://tbdine.com/login">TouchBistro Reservations</a></li></ul></li>                        </ul>
+                    </div>
+                    <div href="#" alt="Lang" class="lang">
+                                                <span class="lang-en">English US</span>
+                                                <img src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/earth-icon-arrow.png">
+                        <ul>
+                                                        <li><a class="gb" href="/gb/">English UK</a></li>
+                            <li><a class="mx" href="/mx/">México</a></li>
+                            <li><a class="co" href="/co/">Colombia</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="main-navigation">
+                <div class="container">
+                    <header id="header" role="banner">
+                        <a class="mobile-burger-nav" href="#">
+				<img src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/burger-menu.jpg">
+			</a>
+                        <a class="logo" href="https://www.touchbistro.com/">
+				<img src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/logo.png" alt="TouchBistro Logo" height="44" width="250" srcset="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/logo.png">
+			</a>
+
+                        <!-- look in nav-backup.php for menu structure -->
+
+                        <nav id="menu" role="navigation" class="main-menu">
+                            <div class="menu-main-menu-container">
+                                                                    <a class="mobile-menu-back-toggle" href="#">Back</a>
+                                                                    <a class="mobile-menu-close-toggle" href="#"><span></span></a>
+                                <ul class="menu" id="menu-main-menu">
+                                    <li class="single-column-dropdown features"><div class="dropdown-div"></div><a class="first-link" href="https://www.touchbistro.com/features/">Features</a><ul class="sub-menu"><li><a class="" href="https://www.touchbistro.com/features/tableside-order-management/">Tableside Ordering</a></li><li><a class="" href="https://www.touchbistro.com/features/floor-plan-table-management/">Restaurant Table Management</a></li><li><a class="" href="https://www.touchbistro.com/features/payment-processing/">Payment Processing Solutions</a></li><li><a class="" href="https://www.touchbistro.com/features/ipad-menu-management/">Menu Management System</a></li><li><a class="" href="https://www.touchbistro.com/features/staff-management-scheduling/">Staff Management &amp; Scheduling</a></li><li><a class="" href="https://www.touchbistro.com/features/customer-relationship-management-crm/">Restaurant Customer Relationship Management (CRM)</a></li><li><a class="" href="https://www.touchbistro.com/features/restaurant-inventory-management/">Restaurant Inventory Management</a></li><li><a class="" href="https://www.touchbistro.com/features/reporting-analytics/">Reporting &amp; Analytics</a></li><li><a class="" href="https://www.touchbistro.com/features/support/">Support</a></li></ul></li><li class="single-column-dropdown pos unclickable"><div class="dropdown-div"></div><div class="first-link" href="https://www.touchbistro.com/pos-solutions/restaurant-pos/">POS Solutions</div><ul class="sub-menu"><li><a class="" href="https://www.touchbistro.com/pos-solutions/restaurant-pos/">Full Service Restaurant POS</a></li><li><a class="" href="https://www.touchbistro.com/pos-solutions/quick-service-pos/">Quick Service</a></li><li><a class="" href="https://www.touchbistro.com/pos-solutions/bar-pos/">Bars and Clubs</a></li><li><a class="" href="https://www.touchbistro.com/pos-solutions/food-truck-pos/">Food Truck</a></li><li><a class="" href="https://www.touchbistro.com/pos-solutions/brewery-pos/">Brewery</a></li></ul></li><li><a class="" href="https://www.touchbistro.com/pricing/"> Pricing</a></li><li><a class="" href="https://www.touchbistro.com/customers/"> Customers</a></li><li><a class="" href="https://www.touchbistro.com/reviews/"> Reviews</a></li><li class="mega-menu-dropdown more unclickable"><div>More</div><ul class="sub-menu"><div class="nav-column primary-column"><div class="heading"><span>Products</span></div><li><a class="" href="https://www.touchbistro.com/reservations/">Reservations</a></li><li><a class="" href="https://www.touchbistro.com/online-ordering/">Online Ordering Integration</a></li><li><a class="nav-item-no-show" href="https://www.touchbistro.com/kiosk/">Kiosk – Self Ordering for Quick Service</a></li><li><a class="" href="https://www.touchbistro.com/loyalty/">Loyalty</a></li><li><a class="" href="https://www.touchbistro.com/kitchen-display-system/">Kitchen Display System</a></li><li><a class="" href="https://www.touchbistro.com/customer-facing-display/">Customer Facing Display</a></li><li><a class="" href="https://www.touchbistro.com/digital-menu-board/">Digital Menu Board</a></li><li><a class="" href="https://www.touchbistro.com/hardware-requirements/">Hardware Requirements</a></li><li><a class="" href="https://www.touchbistro.com/setup-implementation/">Setup &amp; Implementation</a></li><div class="heading"><span>Partners</span></div><li><a class="" href="https://www.touchbistro.com/partners/">Integration Partners</a></li><li><a class="" href="https://www.touchbistro.com/affiliates/">Become an Affiliate</a></li><li><a class="" href="https://www.touchbistro.com/referrals/">Customer &amp; Friend Referrals</a></li></div><div class="nav-column secondary-column"><div class="heading"><span>Company</span></div><li><a class="" href="https://www.touchbistro.com/about-us/">About Us</a></li><li><a class="" href="https://www.touchbistro.com/awards/">Awards</a></li><li><a class="" href="https://www.touchbistro.com/investors/">Investors</a></li><li><a class="" href="https://www.touchbistro.com/events/">Events</a></li><li><a class="" href="https://www.touchbistro.com/press-releases/">Press Releases</a></li><li><a class="" href="https://www.touchbistro.com/media-coverage/">Media Coverage</a></li><li><a class="" href="https://www.touchbistro.com/careers/">Careers</a></li></div><div class="nav-column third-column"><div class="third-column-contact"><div class="heading"><span>Contact</span></div><li><a class="cta-link" href="https://www.touchbistro.com/contact-us/">Contact Us</a></li><li><a class="" href="https://www.touchbistro.com/help/">Support &amp; Training</a></li></div><div class="getting-started"><div class="heading"><span>Get Started</span></div><li><a class="cta-link" href="https://www.touchbistro.com/book-a-live-tour/">Book a Live Tour</a></li><li><a class="cta-link" href="https://www.touchbistro.com/request-a-quote/">Request a Quote</a></li><li><a class="cta-link" href="https://www.touchbistro.com/pos-free-trial/">POS Free Trial</a></li></div></div><ul class="mobile-menu-extras"><li><a class="us" href="/">English US</a></li><li></li><li><a class="gb" href="/gb/">English UK</a></li><li><a class="mx" href="/mx/">México</a></li><li><a class="co" href="/co/">Colombia</a></li></ul>                                </ul>
+                            </li></ul></div>
+                        </nav>
+                    </header>
+
+                                    </div>
+                <!--Promo Hero Banner -->
+                <!--                     <style>
+                        @media only screen and (min-width: 992px) and (max-width: 1023px) {
+                            .first-section, .lead-section {
+                                margin-top: 18vw;
+                            }
+                            section.support-section-lead {
+                                margin-top: 18vw !important;
+                            }
+                            .our-customers-lead {
+                                margin-top: 12vw;
+                            }
+                            .pricing-section-lead-alternate {
+                                padding-top: 115px;
+                            }
+                            #intro-careers {
+                                padding-top: 190px;
+                            }
+                            .kiosk-lead {
+                                padding-top: 180px;
+                            } 
+                            .kitchen-display-lead {
+                                padding-top: 180px;
+                            }
+                             .customer-facing-display-lead {
+                                padding-top: 18vw;
+                            }
+                            .company-section-lead,
+                            .integration-tech-lead, 
+                            .referrals-section, 
+                            .events-index-lead,
+                            .loyalty-section-lead,
+                            .hardware-requirements-lead,
+                            .setup-implementation-lead-section,
+                            .features-section-lead
+                             {
+                                margin-top: 10vw;
+                            }
+                            .resellers-lead, 
+                            .awards-lead, 
+                            .press-releases-lead,
+                            .media-coverage-lead,
+                            .topborder, .contact-lead, #taxonomy-banner {
+                                margin-top: 14vw !important;
+                            }
+                            .affiliates-hero {
+                                margin-top: 120px;
+                            }
+                        }
+                        @media only screen and (min-width: 441px) and (max-width: 991px) {
+                            .first-section,
+                            .lead-section {
+                                margin-top: 14vw;
+                            }
+                            .reviews-lead {
+                                padding-top: 160px;   
+                            }
+                            .pricing-section-lead-alternate {
+                                padding-top: 115px;
+                            }
+                            #intro-careers {
+                                padding-top: 150px;
+                            }
+                            .kiosk-lead {
+                                padding-top: 180px;
+                            } 
+                            .kitchen-display-lead {
+                                padding-top: 100px;
+                            }
+                            .customer-facing-display-lead {
+                                padding-top: 18vw;
+                            }
+                            .affiliates-hero {
+                                margin-top: 85px;
+                            }
+                        }
+                        @media only screen and (max-width: 440px) {
+                            .first-section,
+                            .lead-section, .lead-section-alternate {
+                                margin-top: 30vw;
+                            }
+                            .reviews-lead {
+                                padding-top: 130px;   
+                            }
+                            .kiosk-lead, #intro-careers {
+                                padding-top: 180px!important;
+                            }
+                            .kitchen-display-lead {
+                                padding-top: 100px;
+                            }
+                            .customer-facing-display-lead {
+                                padding-top: 18vw;
+                            }
+                            .affiliates-hero {
+                                margin-top: 105px;
+                            }
+                        }
+                    </style>
+                    <div class="promo-hero-banner">
+                        <a href="https://www.touchbistro.com/holiday-giveaway-2018-web/" style="text-decoration: none;">
+                            <div class="container promo-banner-content">
+                                <img class="promo-image" src="/wp-content/uploads/2018/12/end-2018-with-2018x4.png"><span class="promo-text"> TouchBistro’s Holiday Gift to You.</span><span class="promo-button">GET IT NOW ></span>
+                            </div>
+                        </a>
+                    </div>
+                 -->
+                <!--End Promo Hero Banner-->
+            </div>
+        </div>
+
+                <div id="top"></div>
+        <span id="top-link-block" class="top-link-block">
+	    <a href="#top">
+	        <i class="fa fa-chevron-up"></i>
+	    </a>
+	</span>
+
+<!-- Script for mobile payment processing -->
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".mpp-sub-menu-item").on("click", function(e){
+        e.preventDefault();
+        $.get("https://api.ipstack.com/check?access_key=874007ff390cb5467c0c9545c0d98159&format=1", function (response) {
+            var country = response.country_code;
+            if(country == 'US') {
+				window.location = '/features/payment-processing-us';
+            } 
+            else {
+                window.location = '/features/payment-processing';
+            }
+        });
+    });
+    $("#feature-17192").css('display','none')
+    $("#feature-9015").on("click", function(e){
+        e.preventDefault();
+        $.get("https://api.ipstack.com/check?access_key=874007ff390cb5467c0c9545c0d98159&format=1", function (response) {
+            var country = response.country_code;
+            if(country == 'US') {
+                window.location = '/features/payment-processing-us';
+            } 
+            else {
+                window.location = '/features/payment-processing';
+            }
+        });
+    }); 
+
+});
+</script>
+
+<div class="page-banner">
+    <div class="container">
+        <h1 class="page-title">
+            Privacy Notice        </h1>
+                <p class="page-subheading">
+            Your privacy is important to TouchBistro. This Privacy Notice describes our policies and practices regarding the collection, use, disclosure, transfer, and storage of your personal information and sets forth your privacy rights.        </p>
+            </div>
 </div>
 
-	<!-- Modal - search city -->
-<div class="modal fade large light-modal" id="modalSearchCity" tabindex="-1" role="dialog" aria-labelledby="modalSearchCityLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header light-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
-                    Close ×
-                </button>
-            </div>
-            <div class="modal-body" style="padding:0;">
-                <div class="container">
+<section id="section-6556">
+    <div class="container content-container">
+                <div class="page-content post">
+            
+<p></p>
+
+
+
+<p>This Privacy Notice applies to the TouchBistro application, our corporate web site at <a href="https://www.touchbistro.com" target="_blank" rel="noopener"><span>www.touchbistro.com</span></a><span>, our other web properties (e.g., </span><span">RestoHub<span>) and any other services, applications or other products we may offer (collectively the “Services”). </span></span"></p>
+
+<p>If you are a customer or a staff member with access to TouchBistro account (a “Subscriber”) you should read this Privacy Notice in conjunction with the TouchBistro <a href="https://www.touchbistro.com/terms-of-service/" target="_blank" rel="noopener"><span>Terms of Service</span></a><span>, which govern your legal and contractual relationship with TouchBistro.</span></p>
+<p><span>By using TouchBistro Services, you agree to the terms and conditions contained in this Privacy Notice and any other agreement that we might have with you. If you do not agree, you should not use the Services. </span></p>
+<h3>Privacy Officer</h3>
+<p><span>TouchBistro Inc. (“TouchBistro”) is headquartered in Canada. We have appointed a Privacy Officer who is responsible for the creation, oversight and implementation of our privacy management program and procedures to protect personal information, for receiving your privacy-related questions and for providing you with information about our privacy practices.</span></p>
+<p><span>Nick Catros</span></p>
+<p><span>TouchBistro </span></p>
+<p><span>477 Richmond St. W, 10th Floor</span><span><br></span><span>Toronto, ONT M5V 3E7</span><span><br></span><span>Canada&nbsp;</span></p>
+<p><a href="mailto:privacy@touchbistro.com"><span>privacy@touchbistro.com</span></a></p>
+<p><span>Local:&nbsp;</span><a href="tel:16-363-5252"><span>416-363-5252</span></a></p>
+<h3>Collection and Use of Personal Information</h3>
+<p><span>You may be asked to provide your personal information anytime you are in contact with TouchBistro. We may share this personal information with our affiliates or third party providers for uses that are consistent with the purposes of collection and consistent with this Privacy Notice. </span></p>
+<h3>What Personal Information We Collect</h3>
+<p><span>Collecting your personal information is necessary so that we can supply you with the Services you have purchased or requested. </span></p>
+<p><span>TouchBistro collects personal information about Subscribers to fulfill a contract. </span></p>
+<ul>
+<li><span>We collect customer personal information directly from customers to create accounts. With some exceptions, the personal information collected is limited to the kinds of information that can be found on a business card: first name, last name, job title, employer name, work address, work email, and work phone number. </span>
+</li><li><span>We collect staff information indirectly from customers, who control their own accounts, the collection of staff personal information and the creation of staff accounts. </span></li>
+<li><span>When you contact support you might provide additional information necessary for us to provide support services, including testing and diagnostics, and quality control processes around your use of TouchBistro Services. </span></li>
+<li><span>Some TouchBistro sales, customer care and support telephone calls are voice-recorded for training, quality and supervision purposes. These recordings are maintained in a secure environment and subject to periodic destruction in accordance with our document and information retention policies and practices.</span></li>
+<li><span>Subscribers may provide business-related information to us regarding revenue, sales, discounts, staff and personnel information, resource scheduling, menu and inventory management and related data pursuant to the cloud reporting features of the TouchBistro Services.</span></li>
+</ul>
+<p><span>TouchBistro ID may also collect a variety of personal information when individuals apply for commercial credit or financing, purchase a product or service, download a software update, use, register for or inquire after our Services or products, or participate in any online survey and submit information to us. Information may include your name, mailing address, account number, phone number, email address, contact preferences, credit card information, your specific services and subscription packages, your use of our Services and associated third-party services, your mobile devices and any additional information you provide.</span></p>
+<p><span>We collect personal information for marketing purposes through web forms and other forms of electronic communications, including e-mails from prospective and actual clients in relation to the marketing, sales, support, and product delivery process (including for product demonstrations and trials). This personal information is provided to us voluntarily and the purposes for collection will be obvious, for example if you want to access an article or sign up for updates from us. &nbsp;</span></p>
+<ul>
+<li><span>You may opt-out of receiving marketing communication by subscribing or unsubscribing at any time. Please note that if you have set your browser to block cookies, this may have an impact on your ability to unsubscribe. </span></li>
+<li><span>If you have any difficulties managing your email or other communication preferences with TouchBistro, please contact us at&nbsp;</span><a href="mailto:privacy@touchbistro.com"><span>privacy@touchbistro.com</span></a><span>.</span></li>
+</ul>
+<h3>How We Use Your Personal Information</h3>
+<p><span>TouchBistro does not sell the personal information we collect. We share it with affiliates and third parties who are facilitating the delivery of the Services. We use the personal information we collect to:</span></p>
+<ul>
+<li><span>To provide you with the Services you have requested or purchased from us.</span></li>
+<li><span>To fulfill and support our contractual obligations to you.</span></li>
+<li><span>To send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with TouchBistro, you may not opt out of receiving these communications.</span></li>
+<li><span>With consent, to provide information on TouchBistro’s Services, third party products and services, event invites, special promotions, and blog post updates. If you enter into a contest, special offer or coupon program, or similar promotion we may use the information you provide to administer those programs. Where we rely on your consent to process your personal information, we will keep a record of it and honour your choices.</span></li>
+<li><span>To process for our legitimate interests related to the Services, for example to better understand subscriber needs, concerns and interests and develop, deliver, and improve our Services including customer experience, communications and support, content, and advertising and corporate communications so that TouchBistro can operate optimally as a business.</span></li>
+<li><span>To process for our legitimate interests related to internal purposes such as auditing, data analysis, network and IT security.</span></li>
+</ul>
+<p><span>If you apply for credit or financing in respect of our Services or equipment or hardware we may request that you provide us with additional financial and other information in order for us to review and assess your application and we will use that information for that purpose and in order to communicate with third party financing parties, credit and reporting agencies, and similar parties and by providing such information you acknowledge this use and consent to our use of this information in this way.</span></p>
+<h3>Collection and Use of Non-Personal Information</h3>
+<p><span>We also collect non-personal information, in other words data in a form that does not identify an individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:</span></p>
+<ul>
+<li><span>Information regarding customer activities and use of our Services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our Services are of most interest, how they are used, and how they can be improved. Aggregated data is considered non-personal information for the purposes of this Privacy Notice.</span></li>
+<li><span>Information such as occupation, language, postal code, area code, unique device identifier, location, and the time zone where TouchBistro Services are used so that we can better understand customer behaviour and improve our Services and advertising.</span></li>
+</ul>
+<p><span>If we do combine non-personal information with other non-personal information such that an individual can be identified, or combine it with personal information, the combined information will be treated as personal information for as long as it remains combined.</span></p>
+<h3>Location-based Services</h3>
+<p><span>To provide location-based services on TouchBistro products, TouchBistro and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your TouchBistro computer or device or other identifiers based on Internet protocol (IP) data. </span></p>
+<p><span>Unless we have your consent otherwise, this location data is collected anonymously in a form that does not personally identify you and is used by TouchBistro and our partners and licensees to provide and improve location-based products and services. For example, we may share geographic location with application providers when you opt in to their location services. Some location-based services offered by TouchBistro require your personal information for the feature to work and will seek more specific consent from you for us to obtain and use that information.</span></p>
+<h3>Consent and Our Relationship with You</h3>
+<p><span>We take your privacy concerns and preferences seriously. Where you have contacted TouchBistro and/or registered an interest in receiving information about TouchBistro Services (including pricing or quotations) or have provided your personal information for marketing purposes (including event registration, subscribing to our blog, or content downloads), you have given your consent to receiving communications by phone, e-mail, or otherwise from TouchBistro in response to your inquiries. When you subscribe to TouchBistro Services and establish a commercial and contractual relationship with us, we are required to communicate with you and obtain and maintain associated data and information in order to fulfill our contractual and other legal obligations to you, for compliance, record-keeping and other legal and business purposes, and to provide you with ongoing information about TouchBistro Services and to enhance your ability to use our Services.</span></p>
+<h3>Unsubscribe and Withdraw Consent</h3>
+<p><span>If you are not a customer of TouchBistro and wish to cease receiving communications from TouchBistro you can click the “unsubscribe” button on communications from TouchBistro or contact&nbsp;</span><a href="mailto:privacy@touchbistro.com"><span>privacy@touchbistro.com</span></a><span>. If you are a Subscriber and have concerns about communications from TouchBistro or data or information maintained by TouchBistro, please contact&nbsp;</span><a href="mailto:privacy@touchbistro.com"><span>privacy@touchbistro.com</span></a><span>. </span></p>
+<p><span>Where we must collect personal information for legal reasons or pursuant to our contract with you, if you fail to provide us with that information or wish us to cease using it then we may not be able to continue to fulfill our contractual obligations. This may require us to cancel a contract or service, in which event you will be notified and may be subject to payments or cancellation fees based on the contract or license terms.</span></p>
+<h3>Use of TouchBistro Websites</h3>
+<p><span>As is true of most websites, our Services gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, the region or general location where your computer or device is accessing the internet, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and a history of the pages you view. We use this information to understand and analyze trends, to administer the Services, to learn about user behaviour related to the Services, and to gather broad demographic information about our user base as a whole. </span></p>
+<p><span>TouchBistro has a legitimate interest in understanding how subscribers, visitors and potential customers use its websites. This assists us with providing more relevant Services, with communicating value and with providing appropriate staffing.</span></p>
+<p>&nbsp;</p>
+<p><em><span>Cookies and web beacons </span></em></p>
+<p><span>TouchBistro makes available a comprehensive&nbsp;Cookie Notice&nbsp;that describes our use of cookies and provides information on how users can accept or reject them.&nbsp;<span class="author-0rCAX0eJmJod">For more information, go to&nbsp;</span><span class="author-0rCAX0eJmJod link:https://www.touchbistro.com/cookies-preferences author-0rCAX0eJmJod link"><a class="link-forced" href="https://www.touchbistro.com/cookies-preferences" target="_blank" rel="eplinks_hrefhttps://www.touchbistro.com/cookies-preferences noopener">Cookies Preferences</a></span><span class="author-0rCAX0eJmJod">.</span></span></p>
+<p>&nbsp;</p>
+<p><em><span>Do not track</span></em></p>
+<p><span>TouchBistro tracks users when they cross from our primary website (touchbistro.com) to other properties, as well as when visitors to our website enter through a marketing landing page. We also keep a record of third party websites accessed when a visitor is on a TouchBistro site and clicks on a hyperlink. </span><span>But we do not track users to subsequent sites and do not serve targeted advertising to them. TouchBistro does not, therefore, respond to Do Not Track (DNT) signals.</span></p>
+<h3>Disclosure to Third Parties</h3>
+<p><span>TouchBistro shares personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our Services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever TouchBistro operates.</span></p>
+<p><span>For example, when you purchase and activate our Services, you authorize TouchBistro and its distributor or carrier to exchange the information you provide during the activation process to carry out service. If you are approved for service, your account will be governed by TouchBistro and its distributor or carrier’s respective terms of service and privacy notices. </span></p>
+<p><span>It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for TouchBistro to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public safety, disclosure is necessary or appropriate or compelled by law. We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.</span></p>
+<h3>Protection of Personal Information</h3>
+<p><span>TouchBistro takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.</span></p>
+<p><span>TouchBistro Services use Secure Sockets Layer (SSL) encryption and/or other features where personal information is collected. When making online purchases, you should use an SSL-enabled browser such as Safari, Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while it’s transmitted over the Internet.</span></p>
+<p><span>When you use some TouchBistro Services or post on a TouchBistro </span><span>forum, chat room, or social networking service</span><span> (if applicable), the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.</span></p>
+<p><span>We restrict access to your personal data to those employees who need to know that information to provide the Services to you. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information. We commit to taking appropriate disciplinary measures to enforce our employees’ privacy responsibilities.</span></p>
+<h3>Location of Services</h3>
+<p><span>We use service providers located outside of Canada to process personal information. Personal information may be stored on the servers of cloud-based service providers located in the United States. </span></p>
+<p><span>For data subjects in the EU, we will not store or process your information outside of the EU unless we have determined that there is an adequate level of protection and legal safeguards consistent with any applicable EU legislation and regulations.&nbsp;</span></p>
+<p><span>For more information on where and how long your personal data is stored, please contact the TouchBistro Privacy Officer at&nbsp;</span><a href="mailto:privacy@touchbistro.com"><span>privacy@touchbistro.com</span></a><span>.</span></p>
+<h3>Retention of Personal Information</h3>
+<p><span>We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law or our document retention policies and procedures.</span></p>
+<p><span>If you correspond with us by email, post service, or via any other form of communication, we may retain the correspondence and information contained in it and use it to respond to your inquiry; to notify you of updates or Services that may be relevant to you; or to keep a record of your complaint, request, and the like. If you would like us to remove you from our contact list or exercise your rights related to your personal information, please contact us at </span><a href="mailto:privacy@touchbistro.com"><span>privacy@touchbistro.com</span></a></p>
+<p><span>TouchBistro has a legitimate interest in maintaining personal information of those who communicate voluntarily with us.</span></p>
+<h3>Keeping Personal Information Accurate</h3>
+<p><span>TouchBistro makes it easy for you to keep your personal information accurate, complete, and up to date. Subscribers should log in to an account from time to time to review and update the personal information that has been provided or contact us directly.</span></p>
+<h3>Data Subject Rights and Access to Personal Information</h3>
+<p><span>The European Union’s General Data Protection Regulation and other countries’ privacy laws provide certain rights for data subjects. A good explanation of them (in English) is available on the website of the United Kingdom’s&nbsp;</span><a href="https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/individuals-rights/the-right-to-be-informed/" target="_blank" rel="noopener"><span>Information Commissioner’s Office</span></a><span>.</span></p>
+<p><span>You may also request information about: the purpose of the processing; the categories of personal data concerned; who else outside TouchBistro might have received the data from us; what the source of the information was (if you didn’t provide it directly to TouchBistro); and how long it will be stored. You have a right to correct (rectify) the record of your personal data maintained by TouchBistro if it is inaccurate. You may request that TouchBistro erase that data or cease processing it, subject to certain exceptions. You may also request that TouchBistro cease using your data for direct marketing purposes. </span></p>
+<p><span>In many countries, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how TouchBistro processes your personal data. </span></p>
+<p><span>When technically feasible, TouchBistro will—at your request—provide your personal data to you or transmit it directly to another controller.</span></p>
+<p><span>We make good faith efforts to provide you with access so you can request that we correct your personal information if it is inaccurate or delete the data if TouchBistro is not required to retain it by law or for legitimate business purposes. </span></p>
+<p><span>Reasonable access to your personal data will be provided at no cost. If access cannot be provided within a reasonable time frame, TouchBistro will provide you with a date when the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied.</span></p>
+<p><span>If you wish to confirm that Touch Bistro is processing your personal information, or to have access to the personal information that TouchBistro may have about you, please contact us at </span><a href="mailto:privacy@touchbistro.com"><span style="font-weight: 400;">privacy@touchbistro.com</span></a><span style="font-weight: 400;">.</span></p>
+<h3>Children</h3>
+<p><span>We do not knowingly collect personal information from individuals under the age of 18. If we learn that we have collected the personal information of an individual under 18 we will take steps to delete the information as soon as possible. Our marketing, sales, and Services are not directed at people under the age of 18.</span></p>
+<h3>Third-Party Sites and Services</h3>
+<p><span>It’s important to guard your privacy when you are online. Where TouchBistro Services include links to other websites, products and services, this Privacy Notice does not govern those websites, products and services. Whether we have posted those links or other organizations or individuals have, you should read their privacy notices and make an informed decision about whether you want to use those websites, products or services.</span></p>
+<p><span>TouchBistro uses interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to “like” or share information from a TouchBistro website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your site visit to your personal data.</span></p>
+<h3>Changes and Updates to this Notice</h3>
+<p><span>As our Services and company changes from time to time, this Privacy Notice is expected to change as well. We’ll post any changes to this page and, if the changes are significant, we will provide a more prominent notice (including email notification of privacy notice changes for certain Services). </span></p>
+<p><span>We encourage you to periodically review our Privacy Notice for the latest information on our privacy practices and to contact us if you have any questions or concerns.</span></p>
+<h3>Questions, Concerns or Complaints</h3>
+<p><span>Please contact the TouchBistro Privacy Officer:</span></p>
+<p><span>Nick Catros</span></p>
+<p><span>TouchBistro </span></p>
+<p><span>477 Richmond St. W, 10th Floor</span><span><br></span><span>Toronto, ONT M5V 3E7</span><span><br></span><span>Canada&nbsp;</span></p>
+<p><a href="mailto:privacy@touchbistro.com"><span>privacy@touchbistro.com</span></a></p>
+<p><span>Local:&nbsp;</span><a href="tel:416-363-5252"><span>416-363-5252</span></a></p>
+<p><b>Updated: </b><b>October 15</b><b>, 2018</b></p>
+        </div>
+        
+    </div>
+</section>
+
+    <footer id="footer" role="contentinfo">
+        <div class="container">
+            <div class="menu-footer-menu-container">
+                <div class="menu" id="menu-footer-menu">
+                    <div class="footer-section "><span class="footer-headings">Features</span><ul><li><a href="https://www.touchbistro.com/features/tableside-order-management/" class="">Tableside Ordering</a></li><li><a href="https://www.touchbistro.com/features/floor-plan-table-management/" class="">Restaurant Table Management</a></li><li><a href="https://www.touchbistro.com/features/payment-processing/" class="">Payment Processing Solutions</a></li><li><a href="https://www.touchbistro.com/features/ipad-menu-management/" class="">Menu Management System</a></li><li><a href="https://www.touchbistro.com/features/staff-management-scheduling/" class="">Staff Management &amp; Scheduling</a></li><li><a href="https://www.touchbistro.com/features/customer-relationship-management-crm/" class="">Restaurant Customer Relationship Management (CRM)</a></li><li><a href="https://www.touchbistro.com/features/restaurant-inventory-management/" class="">Restaurant Inventory Management</a></li><li><a href="https://www.touchbistro.com/features/reporting-analytics/" class="">Reporting &amp; Analytics</a></li><li><a href="https://www.touchbistro.com/features/support/" class="">Support</a></li></ul></div><div class="footer-section "><span class="footer-headings">POS Solutions</span><ul><li><a href="https://www.touchbistro.com/pos-solutions/restaurant-pos/" class="">Full Service Restaurant POS</a></li><li><a href="https://www.touchbistro.com/pos-solutions/quick-service-pos/" class="">Quick Service</a></li><li><a href="https://www.touchbistro.com/pos-solutions/bar-pos/" class="">Bar &amp; Nightclubs</a></li><li><a href="https://www.touchbistro.com/pos-solutions/food-truck-pos/" class="">Food Truck</a></li><li><a href="https://www.touchbistro.com/pos-solutions/brewery-pos/" class="">Brewery</a></li></ul></div><div class="footer-section "><span class="footer-headings">Products</span><ul><li><a href="https://www.touchbistro.com/pricing/" class="">Pricing</a></li><li><a href="https://www.touchbistro.com/reservations/" class="">Reservations</a></li><li><a href="https://www.touchbistro.com/online-ordering/" class="">Online Ordering Integration</a></li><li><a href="https://www.touchbistro.com/kiosk/" class="nav-item-no-show">Kiosk – Self Ordering for Quick Service</a></li><li><a href="https://www.touchbistro.com/loyalty/" class="">Loyalty</a></li><li><a href="https://www.touchbistro.com/kitchen-display-system/" class="">Kitchen Display System</a></li><li><a href="https://www.touchbistro.com/customer-facing-display/" class="">Customer Facing Display</a></li><li><a href="https://www.touchbistro.com/digital-menu-board/" class="">Digital Menu Board</a></li><li><a href="https://www.touchbistro.com/hardware-requirements/" class="">Hardware Requirements</a></li><li><a href="https://www.touchbistro.com/setup-implementation/" class="">Setup &amp; Implementation</a></li></ul></div><div class="footer-section partners-col-footer"><span class="footer-headings">Partners</span><ul><li><a href="https://www.touchbistro.com/partners/" class="">Integration Partners</a></li><li><a href="https://www.touchbistro.com/affiliates/" class="">Become an Affiliate</a></li><li><a href="https://www.touchbistro.com/referrals/" class="">Customer &amp; Friend Referrals</a></li></ul></div><div class="footer-section "><span class="footer-headings">Company</span><ul><li><a href="https://www.touchbistro.com/about-us/" class="">About Us</a></li><li><a href="https://www.touchbistro.com/customers/" class="">Our Customers</a></li><li><a href="https://www.touchbistro.com/awards/" class="">Awards</a></li><li><a href="https://www.touchbistro.com/investors/" class="">Investors</a></li><li><a href="https://www.touchbistro.com/events/" class="">Events</a></li><li><a href="https://www.touchbistro.com/press-releases/" class="">Press Releases</a></li><li><a href="https://www.touchbistro.com/media-coverage/" class="">Media Coverage</a></li><li><a href="https://www.touchbistro.com/careers/" class="">Careers</a></li></ul></div><div class="footer-section "><span class="footer-headings">Resources</span><ul><li><a href="https://www.touchbistro.com/reviews/" class="">Reviews</a></li><li><a href="https://www.touchbistro.com/blog/" class="">Blog</a></li><li><a href="https://www.touchbistro.com/help/" class="">English Support &amp; Training</a></li><li><a href="https://www.restohub.org/" class="">How to Open a Restaurant</a></li><li><a href="https://www.touchbistro.com/contact-us/" class="cta-link contact-us">Contact Us</a></li></ul></div><div class="footer-section get-started"><span class="footer-headings">Get Started</span><ul><li><a href="https://www.touchbistro.com/pos-free-trial/" class="cta-link">Free Trial</a></li><li><a href="https://www.touchbistro.com/book-a-live-tour/" class="cta-link">Book a Live Tour</a></li><li><a href="https://www.touchbistro.com/request-a-quote/" class="cta-link">Request a Quote</a></li><li class="call-us">Call us:</li><li><a href="tel:18553635252" class="phone">1 (855) 363-5252</a></li></ul></div>                        <div class="footer-section footer-logo">
+                                                            <img src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/restaurant-success-touchbistro.png" alt="Restaurant Success" width="195" height="190">
+                                                    </div>
+                </div>
+             </div>
+
+
+            <!--<div class="footer-sections">
+						<img src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/the-motor.png" class="car">
+		</div>-->
+        </div>
+        <!-- container end -->
+
+        <div class="container">
+            <div id="notices">
+                <div class="table">
                     <div class="row">
-                        <div class="col-xs-4 nopadding" style="border-right:1px solid #DEDEDE">
+                        <div class="cell float-left">
+                            <a href="https://www.touchbistro.com/"><img src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/footer-touchbistro-logo.png" class="company-logo" alt="TouchBistro"></a>
+                            <div class="socialicons">
 
-                            <table class="table table-scrollable" style="margin-bottom:0">
-                                <thead>
-                                    <tr>
-                                        <th style="height:66px"><input id="txtSearchCity" type="text" placeholder="Where do you want to eat?" style="border: 0;margin-top: 10px;width: 90%;height: 3em;margin-left: -1em; font-weight:normal" class="searchField"></th>
-                                    </tr>
-                                </thead>
-                                <tbody id="lstRegions" style="height:300px; overflow-y:auto;">
-                                    <tr>
-                                        <td>
-                                            <ul class="list-unstyled">
-<li class="country"><div style="background:url(https://scontent.bookenda.com/sites/bookenda/images/flags/canada_preview.Gif) center left no-repeat; padding-left:35px">Canada</div><ul class="list-unstyled"><li><a class="btn btn-default" data-idregion="100" href="/restaurant/100-Baie-Saint-Paul">Baie-Saint-Paul<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="117" href="/restaurant/117-Banff">Banff<span class="stateAbbrev">, AB</span></a></li><li><a class="btn btn-default" data-idregion="139" href="/restaurant/139-Barrie">Barrie<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="294" href="/restaurant/294-Beauport">Beauport<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="296" href="/restaurant/296-Beloeil">Beloeil<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="152" href="/restaurant/152-Blainville">Blainville<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="252" href="/restaurant/252-Boisbriand">Boisbriand<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="95" href="/restaurant/95-Boucherville">Boucherville<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="89" href="/restaurant/89-Brampton">Brampton<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="236" href="/restaurant/236-Bromont">Bromont<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="94" href="/restaurant/94-Brossard">Brossard<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="70" href="/restaurant/70-Calgary">Calgary<span class="stateAbbrev">, AB</span></a></li><li><a class="btn btn-default" data-idregion="141" href="/restaurant/141-Canmore">Canmore<span class="stateAbbrev">, AB</span></a></li><li><a class="btn btn-default" data-idregion="144" href="/restaurant/144-Chambly">Chambly<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="16" href="/restaurant/16-Charlottetown">Charlottetown<span class="stateAbbrev">, PE</span></a></li><li><a class="btn btn-default" data-idregion="126" href="/restaurant/126-Collingwood">Collingwood<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="98" href="/restaurant/98-Dollard-des-Ormeaux">Dollard-des-Ormeaux<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="6" href="/restaurant/6-Drummondville">Drummondville<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="101" href="/restaurant/101-Edmonton">Edmonton<span class="stateAbbrev">, AB</span></a></li><li><a class="btn btn-default" data-idregion="147" href="/restaurant/147-Est%c3%a9rel">Estérel<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="9" href="/restaurant/9-Gatineau">Gatineau<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="23" href="/restaurant/23-Granby">Granby<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="261" href="/restaurant/261-Grande-Prairie">Grande Prairie<span class="stateAbbrev">, AB</span></a></li><li><a class="btn btn-default" data-idregion="20" href="/restaurant/20-Halifax">Halifax<span class="stateAbbrev">, NS</span></a></li><li><a class="btn btn-default" data-idregion="21" href="/restaurant/21-Island-of-Orleans">Island of Orleans<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="237" href="/restaurant/237-Joliette">Joliette<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="256" href="/restaurant/256-Kamloops">Kamloops<span class="stateAbbrev">, BC</span></a></li><li><a class="btn btn-default" data-idregion="142" href="/restaurant/142-Kelowna">Kelowna<span class="stateAbbrev">, BC</span></a></li><li><a class="btn btn-default" data-idregion="215" href="/restaurant/215-Kingston">Kingston<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="222" href="/restaurant/222-La-Malbaie">La Malbaie<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="134" href="/restaurant/134-La-Prairie">La Prairie<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="228" href="/restaurant/228-Langley">Langley<span class="stateAbbrev">, BC</span></a></li><li><a class="btn btn-default" data-idregion="186" href="/restaurant/186-L%27Assomption">L'Assomption<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="4" href="/restaurant/4-Laval">Laval<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="153" href="/restaurant/153-Les-Laurentides">Les Laurentides<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="2" href="/restaurant/2-Levis">Levis<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="255" href="/restaurant/255-L%27Isle-aux-Coudres">L'Isle-aux-Coudres<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="262" href="/restaurant/262-Lloydminster">Lloydminster<span class="stateAbbrev">, AB</span></a></li><li><a class="btn btn-default" data-idregion="60" href="/restaurant/60-Longueuil">Longueuil<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="19" href="/restaurant/19-Magog">Magog<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="248" href="/restaurant/248-Matane">Matane<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="146" href="/restaurant/146-Milton">Milton<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="185" href="/restaurant/185-Mirabel">Mirabel<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="87" href="/restaurant/87-Mississauga">Mississauga<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="105" href="/restaurant/105-Moncton">Moncton<span class="stateAbbrev">, NB</span></a></li><li><a class="btn btn-default" data-idregion="267" href="/restaurant/267-Mont-St-Hilaire">Mont St-Hilaire<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="258" href="/restaurant/258-Montebello">Montebello<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="3" href="/restaurant/3-Montreal">Montreal<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="97" href="/restaurant/97-Mont-Tremblant">Mont-Tremblant<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="88" href="/restaurant/88-Oshawa">Oshawa<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="132" href="/restaurant/132-Ottawa">Ottawa<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="99" href="/restaurant/99-Pointe-Claire">Pointe-Claire<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-primary" data-idregion="1" href="/restaurant/1-Quebec">Quebec<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="259" href="/restaurant/259-Repentigny">Repentigny<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="131" href="/restaurant/131-Richmond">Richmond<span class="stateAbbrev">, BC</span></a></li><li><a class="btn btn-default" data-idregion="22" href="/restaurant/22-Rimouski">Rimouski<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="13" href="/restaurant/13-Rivi%c3%a8re-du-Loup">Rivière-du-Loup<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="129" href="/restaurant/129-Rosem%c3%a8re">Rosemère<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="263" href="/restaurant/263-Rouyn-Noranda">Rouyn-Noranda<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="14" href="/restaurant/14-Saguenay">Saguenay<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="149" href="/restaurant/149-Saint-John">Saint John<span class="stateAbbrev">, NB</span></a></li><li><a class="btn btn-default" data-idregion="260" href="/restaurant/260-Saint-Constant">Saint-Constant<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="151" href="/restaurant/151-Sainte-Th%c3%a9r%c3%a8se">Sainte-Thérèse<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="253" href="/restaurant/253-Saint-Eustache">Saint-Eustache<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="8" href="/restaurant/8-Saint-Georges">Saint-Georges<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="10" href="/restaurant/10-Saint-Hyacinthe">Saint-Hyacinthe<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="133" href="/restaurant/133-Saint-Jean-sur-Richelieu">Saint-Jean-sur-Richelieu<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="273" href="/restaurant/273-Saint-J%c3%a9r%c3%b4me">Saint-Jérôme<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="254" href="/restaurant/254-Saint-Michel-des-Saints">Saint-Michel-des-Saints<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="295" href="/restaurant/295-Saint-Sauveur">Saint-Sauveur<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="145" href="/restaurant/145-Sept-Iles">Sept-Iles<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="7" href="/restaurant/7-Sherbrooke">Sherbrooke<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="135" href="/restaurant/135-Sorel-Tracy">Sorel-Tracy<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="112" href="/restaurant/112-Southwestern-Ontario">Southwestern Ontario<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="251" href="/restaurant/251-Tadoussac">Tadoussac<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="96" href="/restaurant/96-Terrebonne">Terrebonne<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="119" href="/restaurant/119-Thetford-Mines">Thetford Mines<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="18" href="/restaurant/18-Toronto">Toronto<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="5" href="/restaurant/5-Trois-Rivi%c3%a8res">Trois-Rivières<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="103" href="/restaurant/103-Val-d%27Or">Val d'Or<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="90" href="/restaurant/90-Vancouver">Vancouver<span class="stateAbbrev">, BC</span></a></li><li><a class="btn btn-default" data-idregion="195" href="/restaurant/195-Vancouver-Island">Vancouver Island<span class="stateAbbrev">, BC</span></a></li><li><a class="btn btn-default" data-idregion="17" href="/restaurant/17-Victoriaville">Victoriaville<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="136" href="/restaurant/136-Ville-Sainte-Catherine">Ville Sainte-Catherine<span class="stateAbbrev">, QC</span></a></li><li><a class="btn btn-default" data-idregion="128" href="/restaurant/128-Whistler">Whistler<span class="stateAbbrev">, BC</span></a></li><li><a class="btn btn-default" data-idregion="106" href="/restaurant/106-Windermere">Windermere<span class="stateAbbrev">, ON</span></a></li><li><a class="btn btn-default" data-idregion="121" href="/restaurant/121-York-Region">York Region<span class="stateAbbrev">, ON</span></a></li></ul></li>                                            </ul>
-                                        </td>
-                                    </tr>
+                                                                    <a href="https://www.twitter.com/touchbistro/" target="_blank">
+                                        <div class="twitter sicon"><i class="fa fa-twitter"></i></div>
+                                    </a>
 
-                                </tbody>
+                                    <a href="https://www.facebook.com/TouchBistroiPadPOS/" target="_blank">
+                                        <div class="facebook sicon"><i class="fa fa-facebook"></i></div>
+                                    </a>
+
+                                    <a href="https://www.instagram.com/touch_bistro/" target="_blank">
+                                        <div class="instagram sicon"><i class="fa fa-instagram"></i></div>
+                                    </a>
+
+                                    <a href="https://plus.google.com/115077828120648643548/" target="_blank">
+                                        <div class="google sicon"><i class="fa fa-google-plus"></i></div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/user/touchbistro" target="_blank">
+                                        <div class="youtube sicon"><i class="fa fa-youtube"></i></div>
+                                    </a>
 
 
-
-                            </table>
-
+                            </div>
                         </div>
-                        <div class="col-xs-8 nopadding">
-                            <div class="hpad">
-                                <h2><span id="lblTitleFavorite">Most popular cities</span><span id="lblTitleArrondissements" class="hide">Neighbourhoods of this city</span></h2>
-                            </div>
-                            <div class="hpad">
-                                <ul id="lstFavoriteRegions" class="list-inline">
-<li><a class="btn btn-default" data-idregion="1" href="/restaurant/1-Quebec">Quebec</a></li><li><a class="btn btn-default" data-idregion="3" href="/restaurant/3-Montreal">Montreal</a></li><li><a class="btn btn-default" data-idregion="18" href="/restaurant/18-Toronto">Toronto</a></li><li><a class="btn btn-default" data-idregion="70" href="/restaurant/70-Calgary">Calgary</a></li><li><a class="btn btn-default" data-idregion="90" href="/restaurant/90-Vancouver">Vancouver</a></li><li><a class="btn btn-default" data-idregion="91" href="/restaurant/91-Victoria">Victoria</a></li>
-								</ul>
-                                <ul id="lstArrondissements" class="list-inline"></ul>
-                            </div>
+                        <div class="cell cell-right float-right">
+                                                            <a href="https://www.touchbistro.com/privacy-notice/" alt="Privacy Policy">Privacy Notice</a>
+                                <a href="https://www.touchbistro.com/terms-of-service/" alt="Terms of Service">Terms of Service</a>
+                                <a href="#" alt="Lang" class="lang">
+                                <img src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/images/earth-icon-arrow.png">
+                            						</a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div> <!-- /.modal -->
-	<!-- Modal - date/time/personcount filters -->
-<div class="modal fade large light-modal" id="modalSearchDateTime" tabindex="-1" role="dialog" aria-labelledby="modalDateTimeLabel" aria-hidden="true">
-	<div class="modal-dialog">
-		<div class="modal-content">
-			<div class="modal-header light-header">
-				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
-					Close ×
-				</button>
-			</div>
-			<div class="modal-body" style="padding:0; background-color:#f2f2f2; height:350px">
-				<div class="container">
-					<div class="row text-center" style="margin-top:-1px; margin-bottom:-1px;">
-						<div id="divSearchPersonCount" class="col-xs-3 searchgroup active nopadding">
-							<div class="text-center vpad">
-								<i class="icon-budicon-2 search-box-icon"></i>
-							</div>
-
-							<ul id="lstPersonCount" class="list-inline searchButtonList" style="height: 245px; overflow: auto;margin-right: 1px;">
-<li><a href="#" class="btn btn-default">1</a></li><li><a href="#" class="btn btn-default">2</a></li><li><a href="#" class="btn btn-default">3</a></li><li><a href="#" class="btn btn-default">4</a></li><li><a href="#" class="btn btn-default">5</a></li><li><a href="#" class="btn btn-default">6</a></li><li><a href="#" class="btn btn-default">7</a></li><li><a href="#" class="btn btn-default">8</a></li><li><a href="#" class="btn btn-default">9</a></li><li><a href="#" class="btn btn-default">10</a></li><li><a href="#" class="btn btn-default">11</a></li><li><a href="#" class="btn btn-default">12</a></li><li><a href="#" class="btn btn-default">13</a></li><li><a href="#" class="btn btn-default">14</a></li><li><a href="#" class="btn btn-default">15</a></li><li><a href="#" class="btn btn-default">16</a></li><li><a href="#" class="btn btn-default">17</a></li><li><a href="#" class="btn btn-default">18</a></li><li><a href="#" class="btn btn-default">19</a></li><li><a href="#" class="btn btn-default">20</a></li>
-							</ul>
-
-						</div>
-						<fieldset id="divSearchDate" class="col-xs-4 searchgroup" disabled="disabled">
-							<div class="text-center vpad">
-								<i class="icon-budicon-7 search-box-icon"></i>
-							</div>
-
-							<div id="divDate"></div>
-						</fieldset>
-						<fieldset id="divSearchTime" class="col-xs-5 searchgroup nopadding" disabled="disabled">
-							<div class="text-center vpad">
-								<i class="icon-budicon-5 search-box-icon"></i>
-							</div>
-
-							<div id="lstSearchTime">
-								<ul class="list-unstyled searchButtonList small">
-<li><a href="#" data-hour="7" data-minutes="0" class="btn btn-default">7:00AM</a></li><li><a href="#" data-hour="7" data-minutes="30" class="btn btn-default">7:30AM</a></li><li><a href="#" data-hour="8" data-minutes="0" class="btn btn-default">8:00AM</a></li><li><a href="#" data-hour="8" data-minutes="30" class="btn btn-default">8:30AM</a></li><li><a href="#" data-hour="9" data-minutes="0" class="btn btn-default">9:00AM</a></li><li><a href="#" data-hour="9" data-minutes="30" class="btn btn-default">9:30AM</a></li><li><a href="#" data-hour="10" data-minutes="0" class="btn btn-default">10:00AM</a></li>
-								</ul>
-								<ul class="list-unstyled searchButtonList small">
-<li><a href="#" data-hour="10" data-minutes="30" class="btn btn-default">10:30AM</a></li><li><a href="#" data-hour="11" data-minutes="0" class="btn btn-default">11:00AM</a></li><li><a href="#" data-hour="11" data-minutes="30" class="btn btn-default">11:30AM</a></li><li><a href="#" data-hour="12" data-minutes="0" class="btn btn-default">12:00PM</a></li><li><a href="#" data-hour="12" data-minutes="30" class="btn btn-default">12:30PM</a></li><li><a href="#" data-hour="13" data-minutes="0" class="btn btn-default">1:00PM</a></li><li><a href="#" data-hour="13" data-minutes="30" class="btn btn-default">1:30PM</a></li>
-								</ul>
-								<ul class="list-unstyled searchButtonList small">
-<li><a href="#" data-hour="13" data-minutes="0" class="btn btn-default">1:00PM</a></li><li><a href="#" data-hour="13" data-minutes="30" class="btn btn-default">1:30PM</a></li><li><a href="#" data-hour="14" data-minutes="0" class="btn btn-default">2:00PM</a></li><li><a href="#" data-hour="14" data-minutes="30" class="btn btn-default">2:30PM</a></li><li><a href="#" data-hour="15" data-minutes="0" class="btn btn-default">3:00PM</a></li><li><a href="#" data-hour="15" data-minutes="30" class="btn btn-default">3:30PM</a></li><li><a href="#" data-hour="16" data-minutes="0" class="btn btn-default">4:00PM</a></li>
-								</ul>
-								<ul class="list-unstyled searchButtonList small">
-<li><a href="#" data-hour="16" data-minutes="30" class="btn btn-default">4:30PM</a></li><li><a href="#" data-hour="17" data-minutes="0" class="btn btn-default">5:00PM</a></li><li><a href="#" data-hour="17" data-minutes="30" class="btn btn-default">5:30PM</a></li><li><a href="#" data-hour="18" data-minutes="0" class="btn btn-default">6:00PM</a></li><li><a href="#" data-hour="18" data-minutes="30" class="btn btn-default">6:30PM</a></li><li><a href="#" data-hour="19" data-minutes="0" class="btn btn-default">7:00PM</a></li><li><a href="#" data-hour="19" data-minutes="30" class="btn btn-default">7:30PM</a></li>
-								</ul>
-								<ul class="list-unstyled searchButtonList small">
-<li><a href="#" data-hour="20" data-minutes="0" class="btn btn-default">8:00PM</a></li><li><a href="#" data-hour="20" data-minutes="30" class="btn btn-default">8:30PM</a></li><li><a href="#" data-hour="21" data-minutes="0" class="btn btn-default">9:00PM</a></li><li><a href="#" data-hour="21" data-minutes="30" class="btn btn-default">9:30PM</a></li><li><a href="#" data-hour="22" data-minutes="0" class="btn btn-default">10:00PM</a></li><li><a href="#" data-hour="22" data-minutes="30" class="btn btn-default">10:30PM</a></li><li><a href="#" data-hour="23" data-minutes="0" class="btn btn-default">11:00PM</a></li>
-								</ul>
-							</div>
-						</fieldset>
-					</div>
-
-				</div>
-			</div>
-		</div><!-- /.modal-content -->
-	</div><!-- /.modal-dialog -->
-</div> <!-- /.modal -->
-
-		<div class="navbar navbar-blue navbar-bottom footer" role="navigation" style="margin-bottom:0">
-			<div class="container">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".divBottomMenuCollapsible">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-
-				</div>
-				<div class="navbar-collapse collapse divBottomMenuCollapsible" style="height: 1px;">
-					<p class="navbar-text navbar-left">
-						2019 © <a href="/all-rights-reserved" class="navbar-link">Copyright</a> Bookenda inc.
-					</p>
-					<ul class="nav navbar-nav navbar-left">
-						<li><a href="/terms-of-use">Terms of use</a></li>
-						<li><a href="/privacy-policy">Privacy policy</a></li>
-						<li><a href="https://www.facebook.com/bookenda" target="_blank"><img src="/Images/social-network-facebook.png"></a></li>
-						<li><a href="https://twitter.com/bookenda" target="_blank"><img src="/Images/social-network-twitter.png"></a></li>
-						<li><a href="https://www.linkedin.com/company/bookenda" target="_blank"><img src="/Images/social-network-linked-in.png"></a></li>
-					</ul>
+        </div>
 
 
-					<div class="navbar-right">
 
-						<ul class="nav navbar-nav navbar-right">
-							<li>
-<a href="/Static/SetCulture?culture=fr&amp;returnUrl=http%3A%2F%2Fwww.bookenda.com%2Fprivacy-policy">Français</a>
-							</li>
-						</ul>
-					</div>
-				</div>
+    </footer>
+    <div id="capture"></div>
 
-			</div>
 
-		</div>
 
-	
+    <div class="fixed-bottom">
+        <div class="fixed-bottom-container">
+            <a href="https://www.touchbistro.com/contact-us/" class="fixed-bottom-button contact-us cta-link">Contact Us</a><a href="https://www.touchbistro.com/book-a-live-tour/" class="fixed-bottom-button book-a-live-tour cta-link">Book a Live Tour</a><a href="https://www.touchbistro.com/request-a-quote/" class="fixed-bottom-button request-a-quote cta-link">Request a Quote</a><a href="tel:18553635252" class="fixed-bottom-button call-us ">Call Us</a>
+        </div>
+    </div>
 
-<script>
-	MVPLanguage = 'en';
-	window.ViewBag = window.ViewBag || {};
-	window.ViewBag.Language = 'en';
-	// the object is only required if you want a nice syntax for multiple values.
-	window.ViewBag.SubRegionList = [{"Id":24,"Description":"Charlesbourg","Active":true,"Language":2,"Latitude":46.867,"Longitude":-71.267,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":1,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":25,"Description":"La Cité-Limoilou","Active":true,"Language":2,"Latitude":46.8219,"Longitude":-71.2372,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":1,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":26,"Description":"La Haute-Saint-Charles","Active":true,"Language":2,"Latitude":46.890278,"Longitude":-71.372222,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":1,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":27,"Description":"Les Rivières","Active":true,"Language":2,"Latitude":46.830556,"Longitude":-71.305556,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":1,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":28,"Description":"Sainte-Foy–Sillery–Cap-Rouge","Active":true,"Language":2,"Latitude":46.782996,"Longitude":-71.28607,"Rayon":5,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":1,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":48,"Description":"Desjardins","Active":true,"Language":2,"Latitude":46.795376,"Longitude":-71.176625,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":2,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":49,"Description":"Les Chutes-de-la-Chaudière-Est","Active":true,"Language":2,"Latitude":46.731512,"Longitude":-71.207593,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":2,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":50,"Description":"Les Chutes-de-la-Chaudière-Ouest","Active":true,"Language":2,"Latitude":46.696744,"Longitude":-71.30255,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":2,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":29,"Description":"Ahuntsic-Cartierville","Active":true,"Language":2,"Latitude":45.535,"Longitude":-73.705,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":30,"Description":"Anjou","Active":true,"Language":2,"Latitude":45.615959,"Longitude":-73.569351,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":31,"Description":"Côte-des-Neiges–Notre-Dame-de-Grâce","Active":true,"Language":2,"Latitude":45.47617,"Longitude":-73.62705,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":46,"Description":"Downtown","Active":true,"Language":2,"Latitude":45.508556,"Longitude":-73.562846,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":118,"Description":"Griffintown","Active":true,"Language":2,"Latitude":45.491148,"Longitude":-73.561492,"Rayon":1,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":33,"Description":"Lachine","Active":true,"Language":2,"Latitude":45.431667,"Longitude":-73.675,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":34,"Description":"LaSalle","Active":true,"Language":2,"Latitude":45.430627,"Longitude":-73.634801,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":35,"Description":"Le Plateau-Mont-Royal","Active":true,"Language":2,"Latitude":45.521646,"Longitude":-73.57545,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":36,"Description":"Le Sud-Ouest","Active":true,"Language":2,"Latitude":45.455833,"Longitude":-73.5925,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":32,"Description":"L\u0027Île-Bizard–Sainte-Geneviève","Active":true,"Language":2,"Latitude":45.494889,"Longitude":-73.890756,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":107,"Description":"Little Italy","Active":true,"Language":2,"Latitude":45.532578,"Longitude":-73.609971,"Rayon":1,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":37,"Description":"Mercier–Hochelaga-Maisonneuve","Active":true,"Language":2,"Latitude":45.567542,"Longitude":-73.525435,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":38,"Description":"Montréal-Nord","Active":true,"Language":2,"Latitude":45.6,"Longitude":-73.616667,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":39,"Description":"Outremont","Active":true,"Language":2,"Latitude":45.513765,"Longitude":-73.605705,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":40,"Description":"Pierrefonds-Roxboro","Active":true,"Language":2,"Latitude":45.50963,"Longitude":-73.819152,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":41,"Description":"Rivière-des-Prairies–Pointe-aux-Trembles","Active":true,"Language":2,"Latitude":45.658903,"Longitude":-73.520728,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":42,"Description":"Rosemont–La Petite-Patrie","Active":true,"Language":2,"Latitude":45.533722,"Longitude":-73.613,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":43,"Description":"Saint-Laurent","Active":true,"Language":2,"Latitude":45.498564,"Longitude":-73.749757,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":44,"Description":"Saint-Léonard","Active":true,"Language":2,"Latitude":45.587473,"Longitude":-73.59701,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":250,"Description":"Vaudreuil-Dorion","Active":true,"Language":2,"Latitude":45.398141,"Longitude":-74.05273,"Rayon":16,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":45,"Description":"Verdun","Active":true,"Language":2,"Latitude":45.454827,"Longitude":-73.569873,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":47,"Description":"Villeray–Saint-Michel–Parc-Extension","Active":true,"Language":2,"Latitude":45.549152,"Longitude":-73.61368,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":3,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":54,"Description":"Brompton","Active":true,"Language":2,"Latitude":45.479854,"Longitude":-71.961817,"Rayon":12,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":7,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":55,"Description":"Fleurimont","Active":true,"Language":2,"Latitude":45.409496,"Longitude":-71.849187,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":7,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":56,"Description":"Jacques-Cartier","Active":true,"Language":2,"Latitude":45.403816,"Longitude":-71.938314,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":7,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":57,"Description":"Le Mont-Bellevue","Active":true,"Language":2,"Latitude":45.399552,"Longitude":-71.894238,"Rayon":3,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":7,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":58,"Description":"Lennoxville","Active":true,"Language":2,"Latitude":45.367727,"Longitude":-71.856364,"Rayon":10,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":7,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":59,"Description":"Rock-Forest–Saint-Élie–Deauville","Active":true,"Language":2,"Latitude":45.373143,"Longitude":-71.984832,"Rayon":12,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":7,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":51,"Description":"Chicoutimi","Active":true,"Language":2,"Latitude":48.427778,"Longitude":-71.059167,"Rayon":10,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":14,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":52,"Description":"Jonquière","Active":true,"Language":2,"Latitude":48.423604,"Longitude":-71.239546,"Rayon":10,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":14,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":53,"Description":"La Baie","Active":true,"Language":2,"Latitude":48.338271,"Longitude":-70.882574,"Rayon":10,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":14,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":75,"Description":"Annex","Active":true,"Language":2,"Latitude":43.64529,"Longitude":-79.3807,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":74,"Description":"Bloor West Village","Active":true,"Language":2,"Latitude":43.650863,"Longitude":-79.477651,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":85,"Description":"Chinatown","Active":true,"Language":2,"Latitude":43.650883,"Longitude":-79.397226,"Rayon":2,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":77,"Description":"Church Wellesley Village","Active":true,"Language":2,"Latitude":43.666532,"Longitude":-79.38097,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":111,"Description":"Corktown","Active":true,"Language":2,"Latitude":43.655356,"Longitude":-79.358861,"Rayon":0.6,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":110,"Description":"Distillery District","Active":true,"Language":2,"Latitude":43.650222,"Longitude":-79.35913,"Rayon":0.3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":127,"Description":"Entertainment District","Active":true,"Language":2,"Latitude":43.643872,"Longitude":-79.38772,"Rayon":1,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":78,"Description":"Financial District","Active":true,"Language":2,"Latitude":43.649,"Longitude":-79.382,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":130,"Description":"Forest Hill","Active":true,"Language":2,"Latitude":43.699218,"Longitude":-79.418548,"Rayon":2,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":80,"Description":"Harbord Village","Active":true,"Language":2,"Latitude":43.661,"Longitude":-79.406,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":109,"Description":"King East","Active":true,"Language":2,"Latitude":43.65129,"Longitude":-79.368311,"Rayon":1,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":92,"Description":"King West","Active":true,"Language":2,"Latitude":43.647497,"Longitude":-79.383931,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":86,"Description":"Leslieville","Active":true,"Language":2,"Latitude":43.661927,"Longitude":-79.332039,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":73,"Description":"Little Italy","Active":true,"Language":2,"Latitude":43.655,"Longitude":-79.413,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":72,"Description":"Little Portugal","Active":true,"Language":2,"Latitude":43.65,"Longitude":-79.435556,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":116,"Description":"North York","Active":true,"Language":2,"Latitude":43.762961,"Longitude":-79.411443,"Rayon":6,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":82,"Description":"Ossington","Active":true,"Language":2,"Latitude":43.651472,"Longitude":-79.421577,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":83,"Description":"Parkdale","Active":true,"Language":2,"Latitude":43.643832,"Longitude":-79.442534,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":81,"Description":"Portugal Village","Active":true,"Language":2,"Latitude":43.646667,"Longitude":-79.408333,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":71,"Description":"Scarborough","Active":true,"Language":2,"Latitude":43.776426,"Longitude":-79.231752,"Rayon":25,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":76,"Description":"St. Clair West","Active":true,"Language":2,"Latitude":43.684622,"Longitude":-79.415444,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":108,"Description":"St. Lawrence Market","Active":true,"Language":2,"Latitude":43.648694,"Longitude":-79.371545,"Rayon":0.5,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":79,"Description":"Yonge \u0026 Eglinton","Active":true,"Language":2,"Latitude":43.706762,"Longitude":-79.398311,"Rayon":1,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":84,"Description":"Yorkville","Active":true,"Language":2,"Latitude":43.670749,"Longitude":-79.39304,"Rayon":3,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":18,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":61,"Description":"Greenfield Park","Active":true,"Language":2,"Latitude":45.492,"Longitude":-73.487,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":60,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":62,"Description":"Le Vieux-Longueuil","Active":true,"Language":2,"Latitude":45.539156,"Longitude":-73.509464,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":60,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":63,"Description":"Saint-Hubert","Active":true,"Language":2,"Latitude":45.498332,"Longitude":-73.406507,"Rayon":5,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":60,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":249,"Description":"Sainte-Anne-de-Bellevue","Active":true,"Language":2,"Latitude":45.428257,"Longitude":-73.930613,"Rayon":4,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":99,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":114,"Description":"Guelph","Active":true,"Language":2,"Latitude":43.540531,"Longitude":-80.241885,"Rayon":10,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":112,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":120,"Description":"Hamilton","Active":true,"Language":2,"Latitude":43.244557,"Longitude":-79.941613,"Rayon":26,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":112,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":137,"Description":"Kitchener","Active":true,"Language":2,"Latitude":43.417296,"Longitude":-80.463948,"Rayon":10,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":112,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":113,"Description":"London","Active":true,"Language":2,"Latitude":43.010419,"Longitude":-81.24244,"Rayon":50,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":112,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":138,"Description":"Niagara Falls","Active":true,"Language":2,"Latitude":43.058928,"Longitude":-79.091813,"Rayon":12,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":112,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":257,"Description":"Oakville","Active":true,"Language":2,"Latitude":43.460885,"Longitude":-79.714334,"Rayon":10,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":112,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":104,"Description":"Stratford","Active":true,"Language":2,"Latitude":43.370001,"Longitude":-80.982229,"Rayon":5,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":112,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":115,"Description":"Waterloo","Active":true,"Language":2,"Latitude":43.480537,"Longitude":-80.532986,"Rayon":25,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":112,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":124,"Description":"Aurora","Active":true,"Language":2,"Latitude":43.996886,"Longitude":-79.442129,"Rayon":5,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":121,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":122,"Description":"Markham","Active":true,"Language":2,"Latitude":43.883337,"Longitude":-79.299538,"Rayon":15,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":121,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":125,"Description":"Newmarket","Active":true,"Language":2,"Latitude":44.05022,"Longitude":-79.460691,"Rayon":5,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":121,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":123,"Description":"Richmond Hill","Active":true,"Language":2,"Latitude":43.906166,"Longitude":-79.424182,"Rayon":8,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":121,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":93,"Description":"Vaughan","Active":true,"Language":2,"Latitude":43.837208,"Longitude":-79.508276,"Rayon":15,"IdCountry":1,"IdState":10,"StateName":"Ontario","StateAbreviation":"ON","IdParent":121,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":140,"Description":"Mont-Saint-Grégoire","Active":true,"Language":2,"Latitude":45.326978,"Longitude":-73.14588,"Rayon":6,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":133,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":196,"Description":"Parksville","Active":true,"Language":2,"Latitude":49.319516,"Longitude":-124.317579,"Rayon":4,"IdCountry":1,"IdState":14,"StateName":"British Columbia","StateAbreviation":"BC","IdParent":195,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":148,"Description":"Tofino","Active":true,"Language":2,"Latitude":49.127765,"Longitude":-125.894473,"Rayon":4,"IdCountry":1,"IdState":14,"StateName":"British Columbia","StateAbreviation":"BC","IdParent":195,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null},{"Id":91,"Description":"Victoria","Active":true,"Language":2,"Latitude":48.428421,"Longitude":-123.365644,"Rayon":50,"IdCountry":1,"IdState":14,"StateName":"British Columbia","StateAbreviation":"BC","IdParent":195,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null}];
-
-	window.ViewBag.DefaultRegion = {"Id":1,"Description":"Quebec","Active":true,"Language":2,"Latitude":46.7696088552475,"Longitude":-71.2841630727053,"Rayon":50,"IdCountry":1,"IdState":6,"StateName":"Quebec","StateAbreviation":"QC","IdParent":null,"UniqueName":null,"ThumbnailUrl":null,"CoverUrl":null,"FacebookUrl":null,"Descriptions":[],"Tag":null};
-
-    // définition des URLs utiles dans le site et appelées à partir de scripts JS
-	window.ViewBag.Urls = {};
-	window.ViewBag.Urls.AddToFavorites = 'https://www.bookenda.com/User/AddToFavorites';
-	window.ViewBag.Urls.RemoveFromFavorites = 'https://www.bookenda.com/User/RemoveFromFavorites';
-	window.ViewBag.Urls.GetBookingNotes = 'https://www.bookenda.com/RestaurantBooker/GetBookingNotes';
-	window.ViewBag.Urls.ListIntervalServiceCampaign = 'https://www.bookenda.com/RestaurantBooker/ListIntervalServiceCampaign';
-	window.ViewBag.Urls.ListServiceAvailabilities = 'https://www.bookenda.com/RestaurantBooker/ListServiceAvailabilities';
-	window.ViewBag.Urls.BookServiceItem = 'https://www.bookenda.com/RestaurantBooker/BookServiceItem';
-	window.ViewBag.Urls.SignIn = 'https://www.bookenda.com/Login/Login';
-	window.ViewBag.Urls.RegisterUser = 'https://www.bookenda.com/Login/Register';
-	window.ViewBag.Urls.Disconnect = 'https://www.bookenda.com/Login/Disconnect';
-	window.ViewBag.Urls.SendAgendaItemInvitations = 'https://www.bookenda.com/RestaurantBooker/SendAgendaItemInvitations';
-	window.ViewBag.Urls.CancelServiceItem = 'https://www.bookenda.com/User/CancelServiceItem';
-	window.ViewBag.Urls.PostMessage = 'https://www.bookenda.com/User/PostMessage';
-	window.ViewBag.Urls.ListSequenceSetInfos = 'https://www.bookenda.com/RestaurantBooker/ListSequenceSetInfos';
-	window.ViewBag.Urls.ListAvailableDates = 'https://www.bookenda.com/RestaurantBooker/ListAvailableDates';
-	window.ViewBag.Urls.RequiresCreditCard = 'https://www.bookenda.com/RestaurantBooker/RequiresCreditCard';
-	window.ViewBag.Urls.GetMessage = 'https://www.bookenda.com/RestaurantBooker/GetMessage';
-	window.ViewBag.Urls.AddBookingSession = 'https://www.bookenda.com/RestaurantBooker/AddBookingSession';
-	window.ViewBag.Urls.GetMerchant = 'https://www.bookenda.com/RestaurantBooker/GetMerchant';
-	window.ViewBag.Urls.LoadServiceCampaign = 'https://www.bookenda.com/RestaurantBooker/LoadServiceCampaign';
-	window.ViewBag.Urls.ValidateEmailAddress = 'https://www.bookenda.com/RestaurantBooker/ValidateEmailAddress';
-	window.ViewBag.Urls.RestaurantBooker = 'https://www.bookenda.com/restaurant-booker';
-	window.ViewBag.Urls.UpdateSocialActivity = 'https://www.bookenda.com/RestaurantBooker/UpdateSocialActivity';
-    window.ViewBag.Urls.GetMerchantSettings = 'https://www.bookenda.com/RestaurantBooker/GetMerchantSettings';
-    window.ViewBag.Urls.GetBookingChoices = 'https://www.bookenda.com/RestaurantBooker/GetBookingChoices';
-    window.ViewBag.Urls.ResetYIDPassword = 'https://www.bookenda.com/Login/ResetYIDPassword';
-    window.ViewBag.Urls.SignInYID = 'https://www.bookenda.com/Login/SignInYID';
-    window.ViewBag.Urls.GetAllCreditCardTypes = 'https://www.bookenda.com/RestaurantBooker/GetAllCreditCardTypes';
-    window.ViewBag.Urls.GetLastWeekCoversCount = 'https://www.bookenda.com/Welcome/GetLastWeekCoversCount';
     
+        <!-- Support Feedback Pop Up -->
+        
+                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css">
+                            <script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.touchbistro.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
 </script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.5"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/js/scripts.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/js/wow.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/js/functions.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/themes/touchbistro2017/assets/js/slick-1.8.0/slick/slick.min.js?ver=1.0.0"></script>
+<script type="text/javascript" data-cfasync="false" src="https://cdn.touchbistro.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/js/dflip.min.js?ver=1.5.33"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajaxsearchlite = {"ajaxurl":"https:\/\/www.touchbistro.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/www.touchbistro.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
+var ASL = {"ajaxurl":"https:\/\/www.touchbistro.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/www.touchbistro.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery","detect_ajax":"0","scrollbar":"1","js_retain_popstate":"0","version":"4737","fix_duplicates":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/plugins/ajax-search-lite/js/min/jquery.ajaxsearchlite.min.js?ver=4.8"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-includes/js/wp-embed.min.js?ver=5.3.1"></script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/plugins/print-o-matic/printomat.js?ver=1.8.9"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var aepc_pixel_events = {"custom_events":{"AdvancedEvents":[{"params":{"login_status":"not_logged_in","post_type":"page","object_id":6556,"object_type":"page","tax_translation_priority":["Optional"]},"delay":0}]}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.touchbistro.com/wp-content/plugins/pixel-caffeine/build/frontend.js?ver=2.1.1"></script>
+                                </div>
+                                
 
-    <script>
-        var formatNumber = function (x) {
-            if (window.ViewBag.Language == 'fr') {
-                return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
-            }
-            else {
-                return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-            }
-        };
-
-        WebServiceUtilities.CallJSONP(window.ViewBag && window.ViewBag.Urls ? window.ViewBag.Urls.GetLastWeekCoversCount : '/GetLastWeekCoversCount',
-        {},
-        function (response) {
-            if (response && response.Count) {
-                document.getElementById('lblLastWeekCoversSection').style.display = 'block';
-                document.getElementById('lblLastWeekCoversCount').innerText = formatNumber(response.Count);
-            }
-        },
-        function (err) {
-            console.error('Error calling GetMessage', err);
-        });
-    </script>
-
-	<script type="text/javascript" src="/Scripts/Frameworks/i18n/bootstrap-select2.fr.js"></script>
-	<script type="text/javascript" src="/Scripts/MVCViews/SearchBar.js"></script>
-	<script type="text/javascript" src="/Scripts/MVCViews/UserFavorites.js"></script>
-
-
-
-
-
-
-
-
-
-</body></html>
+                                </body></html>
