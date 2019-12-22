@@ -1,117 +1,122 @@
-> *The following text is extracted and transformed from the urbantastebud.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001143823id_/http%3A//urbantastebud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbantastebud.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222011017id_/https%3A//urbantastebud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Urban Tastebud
 
-This privacy policy sets out how Diamondhead Studios, LLC uses and protects any information that you give while using www.urbantastebud.com
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://urbantastebud.com (the “Site”).
 
-Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+## Diamondhead Studios LLC Privacy Policy
 
-Diamondhead Studios, LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 9/12/14.
+So with that being said, here we go:
 
-**What we collect**
+**Personal Information We Collect**
 
-We may collect the following information:
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+We collect Device Information using the following technologies:
 
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-**What we do with the information we gather**
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+**How Do We Use Your Personal Information**
 
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.  
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
+**Sharing Your Personal Information**
 
-**Security**
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use WordPress to power our blog–you can read more about how WordPress uses your Personal Information here: https://wordpress.org/about/privacy/. We also use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-**How we use cookies**
+**Behavioral Advertising  **
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+You can opt out of targeted advertising by:
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+COMMON LINKS INCLUDE:  
+FACEBOOK – https://www.facebook.com/settings/?tab=ads  
+GOOGLE – https://www.google.com/settings/ads/anonymous  
+BING – https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-**Advertising**
+**Do Not Track**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-**Links to other websites**
+**Your Rights**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-**Controlling your personal information**
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**Data Retention**
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
+**Changes**
 
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+**Contact Us**
 
-**Opt Out**
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at box@urbantastebud.com.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+## Cookie Policy for Diamondhead Studios LLC (Urban Tastebud)
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
+This is the Cookie Policy for Diamondhead Studios LLC (Urban Tastebud), accessible from https://urbantastebud.com
 
-…
+**What Are Cookies**
 
-**Privacy Policy for www.urbantastebud.com**  
+As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or ‘break’ certain elements of the sites functionality.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at business@urbantastebuds.com. 
+For more general information on cookies see the Wikipedia article on HTTP Cookies.
 
-At www.urbantastebud.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.urbantastebud.com and how it is used. 
+**How We Use Cookies**
 
-**Log Files**
+We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
 
-Like many other Web sites, www.urbantastebud.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+**Disabling Cookies**
 
-**Cookies and Web Beacons**  
+You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.
 
-www.urbantastebud.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+**The Cookies We Set**
 
-**DoubleClick DART Cookie**  
-
-Google, as a third party vendor, uses cookies to serve ads on www.urbantastebud.com.
-
-Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.urbantastebud.com and other sites on the Internet. 
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
-
-  * Google Adsense
-  * Commission Junction
-  * Adbrite
-  * Clickbank
-  * Chitika
-  * Linkshare
-  * Amazon
-  * Kontera
-  * Conversant
-  * Media Nexus
-  * Media.net
-  * Sovrn
+  * Email newsletters related cookiesThis site offers newsletter or email subscription services and cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users.
+  * Forms related cookiesWhen you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.
+  * Site preferences cookiesIn order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.urbantastebud.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**Third Party Cookies**
 
-www.urbantastebud.com has no access to or control over these cookies that are used by third-party advertisers.
+In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.urbantastebud.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+  * This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.For more information on Google Analytics cookies, see the official Google Analytics page.
+  * From time to time we test new features and make subtle changes to the way that the site is delivered. When we are still testing new features these cookies may be used to ensure that you receive a consistent experience whilst on the site whilst ensuring we understand which optimisations our users appreciate the most.
+  * As we sell products it’s important for us to understand statistics about how many of the visitors to our site actually make a purchase and as such this is the kind of data that these cookies will track. This is important to you as it means that we can accurately make business predictions that allow us to monitor our advertising and product costs to ensure the best possible price.
+  * The Google AdSense service we use to serve advertising uses a DoubleClick cookie to serve more relevant ads across the web and limit the number of times that a given ad is shown to you.For more information on Google AdSense see the official Google AdSense privacy FAQ.
+  * Several partners advertise on our behalf and affiliate tracking cookies simply allow us to see if our customers have come to the site through one of our partner sites so that we can credit them appropriately and where applicable allow our affiliate partners to provide any bonus that they may provide you for making a purchase.
+  * We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work the following social media sites including; Pinterest, Facebook, Twitter, and Instagram, will set cookies through our site which may be used to enhance your profile on their site or contribute to the data they hold for various purposes outlined in their respective privacy policies.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+
+**More Information**
+
+Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren’t sure whether you need or not it’s usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.
+
+However if you are still looking for more information then you can contact us through one of our preferred contact methods:
+
+  * Email: box@urbantastebud.com
+
+
