@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the racingaustralia.horse privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413025714id_/http%3A//www.racingaustralia.horse/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingaustralia.horse privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222211410id_/https%3A//www.racingaustralia.horse/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Racing Australia | Horse Racing Results
 
-## Privacy Policy (Updated January 2019)
+## Privacy Policy (Updated September 2019)
 
-The Racing Australia Privacy Policy applies to information collected about you by Racing Australia(ACN 105 994 330). Racing Australia is committed to ensuring that your privacy is protected. This Privacy Policy explains Racing Australia's practices in relation to information you provide as a Subscriber to Racing Australia's services as well as other information that Racing Australia collects about you. Racing Australia manages your personal information in accordance with the Australian Privacy Principles set out in the Privacy Act 1988 and this Racing Australia Privacy Policy. Further information on privacy can be found on the website for the Office of the Australian Information Commissioner at [www.oaic.gov.au](https://www.oaic.gov.au/).
+This Privacy Policy applies to information collected about you by Racing Australia (ACN 105 994 330). Racing Australia is committed to ensuring that your privacy is protected. This Privacy Policy explains Racing Australia's practices in relation to information you provide as a Subscriber to Racing Australia's services as well as other information that Racing Australia collects about you. Racing Australia manages your personal information in accordance with the Australian Privacy Principles set out in the Privacy Act 1988 (Cth) and this Privacy Policy. Further information on privacy can be found on the website for the Office of the Australian Information Commissioner at [www.oaic.gov.au](https://www.oaic.gov.au/).
 
 ### 1\. Racing Australia Services and Collection of Your Information
 
-Racing Australia usually collects your personal information directly from you. For example, Racing Australia collects information from you when you subscribe to Racing Australia's services. The types of information we collect about you usually includes your name, date of birth, contact details, mobile, GST status, bank account details and the content of any messages you send or receive through our Racing Australia Connect services. We also collect information relating to the databases you access.
+Racing Australia usually collects your personal information directly from you. The types of information we collect about you usually includes your name, date of birth, contact details, GST status, bank account details and the content of any messages you send or receive through our Racing Australia Connect services. We also collect information relating to the databases you access.
 
-Racing Australia collects information from you when you fill out an application form, visit our websites [www.racingaustralia.horse](https://www.racingaustralia.horse/), [www.studbook.org.au](https://www.studbook.org.au/), [www.myhorseracing.horse](https://www.myhorseracing.horse/), [www.racingservicesbureau.net.au](https://www.racingservicesbureau.net.au/), [www.racingjobs.com.au](https://www.racingjobs.com.au/), [www.equinegeneticsresearchcentre.horse](http://www.equinegeneticsresearchcentre.horse/), [www.tor.racingaustralia.horse](http://www.tor.racingaustralia.horse/), [www.risaconnect.com.au](https://www.risaconnect.com.au/), [www.risa.webex.com](https://www.risa.webex.com/), [www.racingappeals.risa.com.au](https://www.racingappeals.risa.com.au/), [www.ttsc.com.au](https://www.ttsc.com.au/), [materials.risa.com.au](https://materials.risa.com.au/), speak to us over the phone or at a Racing Australia Service Centre, or when you send Racing Australia mail or a facsimile. Racing Australia may collect information about you that is publicly available, including from other websites, race field lists, race books, form guides and other similar publications. Racing Australia may also collect information about you from third parties, including the Principal Racing Authorities ("PRAs") in each state and territory.
+Racing Australia collects information from you when you fill out an application form, subscribe to our services, speak to us over the phone or at a Racing Australia Service Centre, send Racing Australia mail, an email or a facsimile, or visit our websites: [www.racingaustralia.horse](https://www.racingaustralia.horse/), [www.studbook.org.au](https://www.studbook.org.au/), [www.myhorseracing.horse](https://www.myhorseracing.horse/), [www.racingservicesbureau.net.au](https://www.racingservicesbureau.net.au/), [www.racingjobs.com.au](https://www.racingjobs.com.au/), [www.equinegeneticsresearchcentre.horse](http://www.equinegeneticsresearchcentre.horse/), [www.tor.racingaustralia.horse](http://www.tor.racingaustralia.horse/), [www.risaconnect.com.au](https://www.risaconnect.com.au/), [www.risa.webex.com](https://www.risa.webex.com/), [www.racingappeals.risa.com.au](https://www.racingappeals.risa.com.au/), [www.ttsc.com.au](https://www.ttsc.com.au/), [materials.risa.com.au](https://materials.risa.com.au/).
 
-Racing Australia only collects sensitive information, such as information about your criminal record, with your consent. 
+Racing Australia may collect information about you that is publicly available, including from other websites, race field lists, race books, form guides and other similar publications. Racing Australia may also collect information about you from third parties, including the Principal Racing Authorities ("PRAs") in each state and territory.
 
 ### 2\. Racing Australia's Use and Disclosure of Your Information
 
@@ -21,20 +21,26 @@ Racing Australia may use or disclose the information it collects about several p
   * to contact you;
   * to identify you;
   * to consider your request for Racing Australia's products or services;
-  * to provide Racing Australia's products or services to you; 
-  * to facilitate the administration of racing, including the payment of prize money; 
-  * to tell you about Racing Australia's products or service (you may contact us at any time to let us know if you do not want to receive information about Racing Australia's products or services). 
+  * to provide Racing Australia's products or services to you;
+  * to facilitate the administration of racing, including the payment of prize money;
+  * to ensure compliance with the Rules of Racing and the Rules of the Australian Stud Book;
+  * for integrity purposes relating to the Thoroughbred racing industry;
+  * for research purposes relating to the Thoroughbred racing industry;
+  * to tell you about Racing Australia's products or services (you may contact us at any time to let us know if you do not want to receive information about Racing Australia's products or services);
+  * to enable Racing Australia to fulfil its functions.
 
 
 
-Racing Australia discloses contact and financial information (including bank account details) to Racing Australia's Financial institution for the purpose of billing you when you acquire Racing Australia's services. Racing Australia may also disclose this information to service providers, such as to telecommunications service providers and to credit card and shipping companies who process your transactions with Racing Australia.
+Racing Australia discloses contact and financial information (including bank account details) to Racing Australia's financial institution for the purpose of billing you when you acquire Racing Australia's products or services. Racing Australia may also disclose this information to service providers, such as to telecommunications service providers and to credit card and shipping companies who process your transactions with Racing Australia.
 
-Racing Australia may also disclose your personal information to government enforcement agencies, appeal bodies, race clubs, the Australian Stud Book, wagering service providers, racing bodies, industry associations such as Breeders, Trainers and Owners Associations or other authorities as required, but only for one or more of the purposes described above or if Racing Australia believes that the disclosure is reasonably necessary for law enforcement either by or on behalf of an enforcement body or the disclosure is authorised or required by law.
+Racing Australia may also disclose your personal information to government enforcement agencies, appeal bodies, race clubs, the Australian Stud Book, wagering service providers, racing bodies, approved auctioneers, industry associations such as Breeders, Trainers and Owners Associations or other authorities as required, but only for one or more of the purposes described above or if Racing Australia believes that the disclosure is reasonably necessary for law enforcement either by or on behalf of an enforcement body or the disclosure is authorised or required by law.
+
+If you are an owner of a horse, Racing Australia may disclose your contact details to the managing owner solely for the purpose of the managing owner contacting you in relation to the horse. Similarly, Racing Australia may disclose a managing owner's contact details to a co-owner of a horse solely for the purpose of the co-owner contacting the managing owner in relation to the horse.
 
 Racing Australia may disclose certain information, including your name and contact details as well as information about horses owned by you ("Racing Information") to PRAs in order to:
 
   * enable PRAs to fulfil their regulatory responsibilities;
-  * promote and protect the integrity of the sport to ensure compliance with the Rules of Racing; and
+  * promote and protect the integrity of the Thoroughbred racing industry, including to ensure compliance with the Rules of Racing; and
   * to enable PRAs to communicate with you including for promotional, marketing and publicity purposes.
 
 
@@ -59,7 +65,7 @@ Racing Australia maintains historical records of Racing Information, including o
 
 ### 3\. Updating the Information we have about you
 
-Racing Australia uses its best endeavours to ensure that the information it holds about you is accurate, complete and up to date. You have a right to seek access to and correction of your personal information held by Racing Australia. If you would like to know what information Racing Australia holds about you or would like Racing Australia to correct the information it holds about you, you can send your request to Racing Australia by email or in writing.
+Racing Australia uses its best endeavours to ensure that the information it holds about you is accurate, complete and up to date. You have a right to seek access to and correction of your personal information held by Racing Australia. If you would like to know what information Racing Australia holds about you or would like Racing Australia to correct the information it holds about you, you can send your request to Racing Australia.
 
 email: [privacy@racingaustralia.horse](mailto:privacy@racingaustralia.horse) or via mail:  
 mail:
@@ -75,27 +81,25 @@ Please allow 14 days for your request to be processed.
 
 ### 4\. Complaints
 
-If you have concerns about how Racing Australia has managed your personal information or believe that Racing Australia has breached the Privacy Act 1988, please contact us by email or in writing at the address listed above.
+If you have concerns about how Racing Australia has managed your personal information or believe that Racing Australia has breached the Privacy Act, please contact us by email or mail at the address listed above.
 
-Racing Australia will respond to you in writing about your complaint within a reasonable time. If you are not satisfied with our response, you have a right to apply to the Office of the Australian Information Commissioner to have your complaint heard and determined. 
+Racing Australia will respond to you in writing about your complaint within a reasonable time and will seek to resolve any issues that have arisen.
+
+If you are not satisfied with our response, you have a right to apply to the Office of the Australian Information Commissioner to have your complaint heard and determined.
 
 ### 5\. Security of the information Racing Australia stores about you
 
 Racing Australia takes all reasonable steps to keep secure any information that is held about you. Racing Australia collects and holds information about you in hard-copy and electronic form.
 
-Hard-copy documents are kept in secure archive facilities at Racing Australia's offices. Electronic records are linked to other information held about you in Racing Australia's secure electronic database. 
+Hard-copy documents are kept in secure archive facilities at Racing Australia's offices. Electronic records are linked to other information held about you in Racing Australia's secure electronic database.
 
 ### 6\. Racing Australia and links to other websites
 
-Racing Australia provides links to external websites. These external linked sites are not under the control of Racing Australia, and as such Racing Australia is not responsible for the privacy practices or content of companies linked to the Racing Australia website. Before disclosing your personal information on any other website, we advise you to examine the privacy policies of those websites.
+Racing Australia provides links to external websites. These external linked sites are not under the control of Racing Australia and, as such, Racing Australia is not responsible for the privacy practices or content of companies linked to the Racing Australia website. Before disclosing your personal information on any other website, we advise you to examine the privacy policies of those websites.
 
-### 7\. Future changes to the Racing Australia Privacy Policy
+### 7\. Specific Rights for EU Residents Only
 
-Racing Australia may update the Racing Australia Privacy Policy by publishing an updated version of the policy on its website. 
-
-### 8\. Specific Rights for EU Residents Only
-
-If you are located in the European Union, then you may have additional rights. Some of these rights will only apply in very limited circumstances. 
+If you are located in the European Union, then you may have additional rights. Some of these rights will only apply in very limited circumstances.
 
   * You can withdraw your consent, where we rely on it for processing your personal information, at any time.
   * You can ask us to confirm if we are using your personal information.
@@ -105,3 +109,7 @@ If you are located in the European Union, then you may have additional rights. S
   * You have the right to be informed and know about any protections that we have put in place when we are transferring your data overseas.
 
 
+
+### 8\. Future changes to the Racing Australia Privacy Policy
+
+Racing Australia may, at any time and without notice, update this Privacy Policy by publishing an updated version on its website.
