@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinspirationgrid.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126065820id_/http%3A//theinspirationgrid.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinspirationgrid.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222022656id_/http%3A//theinspirationgrid.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use – Inspiration Grid | Design Inspiration
+# Privacy Policy & Terms of Use | Daily design inspiration for creatives | Inspiration Grid
 
 ### About Us
 
@@ -76,11 +76,11 @@ Communication includes the delivery of our Website(s) via email, or the delivery
 To carry out other legitimate business purposes, as well as other lawful purposes.
 
 You may request the **deletion of your Personal Information**.  
-The Inspiration Grid takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about deleting your Personal Information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#53303c3d3d36302713273b363a3d20233a2132273a3c3d34213a377d303c3e).
+The Inspiration Grid takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about deleting your Personal Information by emailing us at [connect@theinspirationgrid.com](mailto:connect@theinspirationgrid.com).
 
 #### For European Economic Area Residents
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us please contact us at [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)](mailto:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)).
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us please contact us at [connect@theinspirationgrid.com](mailto:connect@theinspirationgrid.com).
 
 #### Email Addresses
 
@@ -121,3 +121,7 @@ Cookies and other technologies make interacting with social media platforms more
 Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. Blocking or deleting cookies may prevent you from using most of our Website(s). To find out more about how to enable, disable, or delete cookies from your web browser, please [click here](http://www.allaboutcookies.org/).
 
 Some browsers have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. If you block cookies, certain features on our Website(s) may not work. If you block or reject cookies, not all of the tracking described here may stop.
+
+### Affiliate Links
+
+Some of our posts may contain affiliate links to partner brands. We earn a small commission if you click the link and make a purchase. There is no extra cost to you, so it’s just a nice way to help support the site.
