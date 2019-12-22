@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alfa.com.lb privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420180022id_/https%3A//www.alfa.com.lb/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfa.com.lb privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222160628id_/https%3A//www.alfa.com.lb/en/about/privacy-policy) for the most accurate reproduction.*
 
-# Alfa | About - Privacy Policy
+# Alfa | Lebanon's first mobile network managed by Orascom Telecom | About - Privacy Policy
 
 **Alfa Privacy Policy**
 
