@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camarads.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421164334id_/https%3A//www.camarads.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camarads.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222054750id_/https%3A//www.camarads.com/page/privacy) for the most accurate reproduction.*
 
 # Camarads - Privacy Policy - Watch LIVE 24/7 Private Life Cams
 
