@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iqtest.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421005610id_/https%3A//iqtest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqtest.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222100249id_/https%3A//iqtest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – IQTest.com
+# Privacy Policy – IQ Test
 
 ### Privacy Policy
 
