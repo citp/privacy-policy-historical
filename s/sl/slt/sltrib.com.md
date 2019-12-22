@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624165655id_/https%3A//www.sltrib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222015525id_/https%3A//www.sltrib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Salt Lake Tribune
 
-**Effective Date: December 7, 2017**  
+**Effective Date: December 7, 2017**
 
-
-This Privacy Notice (this “Notice”) describes the type of information that The Salt Lake Tribune (“SL Trib” or “we”) collects through your use of our online platform ([www.sltrib.com](https://web.archive.org/TEMP-LINK-TEMP/)), and mobile apps (collectively, the “Services”). This Notice does not apply to information collected about you through any other means, including information collected by third parties or through non-electronic or offline means.
+This Privacy Notice (this “Notice”) describes the type of information that The Salt Lake Tribune (“SL Trib” or “we”) collects through your use of our online platform ([www.sltrib.com](https://sltrib.arcpublishing.com/TEMP-LINK-TEMP/)), and mobile apps (collectively, the “Services”). This Notice does not apply to information collected about you through any other means, including information collected by third parties or through non-electronic or offline means.
 
 This Notice covers:
 
@@ -17,10 +16,9 @@ This Notice covers:
 
 
 
-By accessing or using the Services, or by clicking the “accept” button when you register to use a Service, you consent to our use of your Personal Data as described in this Notice. This Notice may change from time to time. Your continued use of a Service after we make changes is deemed to be acceptance of those changes, so please check the Notice periodically for updates.  
+By accessing or using the Services, or by clicking the “accept” button when you register to use a Service, you consent to our use of your Personal Data as described in this Notice. This Notice may change from time to time. Your continued use of a Service after we make changes is deemed to be acceptance of those changes, so please check the Notice periodically for updates.
 
-
-This Notice is part of, and is governed by, the SL Trib [Terms of Service](http://www.sltrib.com/terms-of-service/). 
+This Notice is part of, and is governed by, the SL Trib [Terms of Service](http://www.sltrib.com/terms-of-service/).
 
 **A. Information We Collect**
 
@@ -33,11 +31,9 @@ We collect information from you in two ways. First, you provide us with certain 
 
 We use a third-party payment processor to handle payment transactions. Any payments you make will be subject to their privacy notices.
 
-**2\. Information We Automatically Collect from You When You Use the Services**  
+**2\. Information We Automatically Collect from You When You Use the Services**
 
-
-_Information collected through our cookies and web beacons._ We (or service providers on our behalf) may use technologies, including “cookies” and “web beacons,” to collect automatically information from you when you use the Services. Cookies are small amounts of data that are stored within your Internet browser, which saves and recognizes your browsing habits. SL Trib uses both session cookies (which track a user’s progression during one site visit) and persistent cookies (which track a user over time). Web beacons are web page elements that can recognize certain types of information on your computer or mobile device, such as the time and date you viewed a page, which emails are opened, which links are clicked, and similar information.  
-
+_Information collected through our cookies and web beacons._ We (or service providers on our behalf) may use technologies, including “cookies” and “web beacons,” to collect automatically information from you when you use the Services. Cookies are small amounts of data that are stored within your Internet browser, which saves and recognizes your browsing habits. SL Trib uses both session cookies (which track a user’s progression during one site visit) and persistent cookies (which track a user over time). Web beacons are web page elements that can recognize certain types of information on your computer or mobile device, such as the time and date you viewed a page, which emails are opened, which links are clicked, and similar information.
 
 Information that may be collected by cookies and web beacons when you use the Services may include, without limitation:
 
@@ -52,26 +48,19 @@ Information that may be collected by cookies and web beacons when you use the Se
 
 
 
-You can delete cookie files from your hard drive, or avoid them altogether, by configuring your browser to reject them or to notify you when a cookie is being placed on your hard drive. Not all features of the Services will function as intended if you reject cookies.  
+You can delete cookie files from your hard drive, or avoid them altogether, by configuring your browser to reject them or to notify you when a cookie is being placed on your hard drive. Not all features of the Services will function as intended if you reject cookies.
 
+The information we collect automatically is statistical information and may include Personal Data, or we may maintain it or associate it with Personal Data we collect in other ways or receive from third parties. If you do not want us to collect this information, please do not use the Services.
 
-The information we collect automatically is statistical information and may include Personal Data, or we may maintain it or associate it with Personal Data we collect in other ways or receive from third parties. If you do not want us to collect this information, please do not use the Services.  
+Your Internet browser and mobile device may allow you to adjust your browser settings so that “do not track” requests are sent to the websites you visit. SL Trib respects your wishes and will not track user activity once “do not track” signals have been activated.
 
+**B. Third-Party Use of Cookies and Other Tracking Technologies**
 
-Your Internet browser and mobile device may allow you to adjust your browser settings so that “do not track” requests are sent to the websites you visit. SL Trib respects your wishes and will not track user activity once “do not track” signals have been activated.  
+Some content or applications, including advertisements, on the Services are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about you when you use our Services. The information they collect may be associated with your Personal Data or they may collect information, including Personal Data, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-**B. Third-Party Use of Cookies and Other Tracking Technologies**  
-
-
-Some content or applications, including advertisements, on the Services are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about you when you use our Services. The information they collect may be associated with your Personal Data or they may collect information, including Personal Data, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.  
-
-
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.  
-
-
-**C. How We Use the Information We Collect**  
-
+**C. How We Use the Information We Collect**
 
 We may use information collected from or about you for any of the following purposes:
 
@@ -89,21 +78,17 @@ We may use information collected from or about you for any of the following purp
 
 
 
-SL Trib also uses your Personal Data for interest-based advertising, retargeting, and contextual advertising. Interest-based advertising involves the collection of data across different web domains so we can deliver ads that are tailored to your interests. Our retargeting practices allow SL Trib to show you products we think you would be interested in based on your activity on the Services. Contextual ads are customized based on the content you are viewing at any particular time. You can read more about this type of data-driven marketing on the Network Advertising Initiative website, [http://www.networkadvertising.org](http://www.networkadvertising.org/).   
-
+SL Trib also uses your Personal Data for interest-based advertising, retargeting, and contextual advertising. Interest-based advertising involves the collection of data across different web domains so we can deliver ads that are tailored to your interests. Our retargeting practices allow SL Trib to show you products we think you would be interested in based on your activity on the Services. Contextual ads are customized based on the content you are viewing at any particular time. You can read more about this type of data-driven marketing or to opt-out on the Network Advertising Initiative website, <http://www.networkadvertising.org/managing/opt_out.asp>. To disable cookies visit: [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
 We may combine information we collect about you through the Services with other information about you that we receive from third-party sources. By way of example and not limitation, we may use a change of address or other list service to ensure that our records for your account are accurate.
 
 **D. How We Share Your Information with Third Parties.**
 
-We may share the Personal Data we collect in connection with the Services with third parties, as described below:  
+We may share the Personal Data we collect in connection with the Services with third parties, as described below:
 
+**1\. Third Parties Who Provide Services or Information Through the Service**
 
-**1\. Third Parties Who Provide Services or Information Through the Service**  
-
-
-If you are a user, we may share your Personal Data with project creators, who may use the information to fulfill product orders, develop and improve their products, and contact you about product orders, future products, or their company in general.  
-
+If you are a user, we may share your Personal Data with project creators, who may use the information to fulfill product orders, develop and improve their products, and contact you about product orders, future products, or their company in general.
 
 **2\. Public Content**
 
@@ -158,8 +143,7 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 
 **H. Correcting/Updating Your Information**
 
-You may have the right to access the Personal Data we collect about you. You may also have the right to correct any errors contained in that information. For details, please email us at [webmaster@sltrib.com](mailto:webmaster@sltrib.com).  
-
+You may have the right to access the Personal Data we collect about you. You may also have the right to correct any errors contained in that information. For details, please email us at [webmaster@sltrib.com](mailto:webmaster@sltrib.com).
 
 **I. No Use by Children**
 
@@ -167,14 +151,11 @@ We do not knowingly collect contact information from children under the age of 1
 
 **J. Use of Information Outside Your Country of Residence**
 
-The Services are directed to users located in the United States. If you are located outside of the United States and choose to use the Services or provide your information to us, you should be aware that you are transferring information to the United States and we will process and store it in the United States. The privacy laws in the United States may not be as protective as those in your jurisdiction. **Your consent to this Notice followed by your submission of information to us through or in connection with the Services represents your agreement to the transfer of your information to the United States.**  
+The Services are directed to users located in the United States. If you are located outside of the United States and choose to use the Services or provide your information to us, you should be aware that you are transferring information to the United States and we will process and store it in the United States. The privacy laws in the United States may not be as protective as those in your jurisdiction. **Your consent to this Notice followed by your submission of information to us through or in connection with the Services represents your agreement to the transfer of your information to the United States.**
 
+**K. Changes to This Privacy Notice**
 
-**K. Changes to This Privacy Notice**  
-
-
-We may change this Notice from time to time. If we decide to make a material change in this Notice, we will post it on this page. Your continued use of the Services after the posting of changes to this Notice will mean you accept these changes. In some cases, we may attempt to contact you through an email or other address you have provided, so we can give you choices about our using your information in a manner different from that stated at the time of collection. If we make any material changes in our privacy practices that affect your Personal Data that is already in our possession, we will apply those changes to that older information only with your consent or as otherwise allowed by law.  
-
+We may change this Notice from time to time. If we decide to make a material change in this Notice, we will post it on this page. Your continued use of the Services after the posting of changes to this Notice will mean you accept these changes. In some cases, we may attempt to contact you through an email or other address you have provided, so we can give you choices about our using your information in a manner different from that stated at the time of collection. If we make any material changes in our privacy practices that affect your Personal Data that is already in our possession, we will apply those changes to that older information only with your consent or as otherwise allowed by law.
 
 **L. Contact Us**
 
