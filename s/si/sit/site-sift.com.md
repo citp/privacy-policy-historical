@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the site-sift.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812041623id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site-sift.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222065520id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
 
-# ClouDNS: Privacy policy
+# Privacy Policy | ClouDNS
 
   1. IP addresses and Browser details  
 Our servers detect the IP address of your browser from the TCP protocol. This IP address is used by ClouDNS servers only for our internal use - security and rate limiting.  
@@ -13,7 +13,7 @@ For each domain registration or transfer, we request whois details which we are 
 The Privacy Protection option provided by ClouDNS for particular domain extensions allows the customer details to be hidden to the domain registry. When the Privacy Protection is activated, Cloud DNS Ltd is listed as the owner of the domain name in the WHOIS database, but not the Customer. Note that some TLDs do not support the Privacy Protection option and you will not be able to activate it in order to hide your contact details from the Domain Registry and the Domain Registry WHOIS database. Even with enabled Privacy Protection, the Customer is still listed as the owner in the records in ClouDNS’s database and the contact details can be exposed if the domain name is used for illegal activities or from a legal request by the authorities or a court order. 
   4. Cookies  
 ClouDNS uses cookies to save user settings, count user visits, and site analytics. None of these cookies are used to track the customers outside of our website.  
-Some of the cookies are set and managed by Google Analytics, a tool from Aphabet Inc (parent company of Google Inc) to analyze website visits. We are not sharing any customer details or identifiers collected and defined in point 2. 
+Some of the cookies are set and managed by Google Analytics, a tool from Aphabet Inc (parent company of Google Inc) to analyze website visits. We also use cookies managed by Yandex.Metrica web analytics service provided by the Yandex Oy Limited Company - Moreenikatu 6, 04600 Mantsala, Finland. We are not sharing any customer details or identifiers collected and defined in point 2. 
   5. Credit cards information.  
 All purchases on the websites managed by ClouDNS are handled by a third party - PayPal.com, BitPay.com, SafeCharge.com, Skrill.com or other Banks, in which the transferred information thereof is encrypted. ClouDNS does not arrange, save or transport any credit card numbers. 
   6. DNS query details  
@@ -25,7 +25,8 @@ All our Customers can manage what e-mail notifications they want to receive from
 
 
 
-Data Protection Officer  
-[According to GDPR regulations, Cloud DNS Ltd is below the required limit for having a Data Protection Officer.](http://ec.europa.eu/justice/smedataprotect/index_en.htm) In case of any issues which require a contact with the person responsible for our customer data at Cloud DNS Ltd. please contact admin@cloudns.net and address your message to the Company Manager (CEO): Boyan Peychev 
+### Data Protection Officer
+
+[According to GDPR regulations, Cloud DNS Ltd is below the required limit for having a Data Protection Officer.](http://ec.europa.eu/justice/smedataprotect/index_en.htm) In case of any issues which require a contact with the person responsible for our customer data at Cloud DNS Ltd. please contact admin@cloudns.net and address your message to the Company Manager (CEO): Boyan Peychev  [ ](https://web.archive.org/livechat/)
 
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. [Learn more](https://web.archive.org/privacy-policy/)
