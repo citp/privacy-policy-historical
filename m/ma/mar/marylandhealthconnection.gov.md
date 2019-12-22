@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marylandhealthconnection.gov privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419143032id_/https%3A//www.marylandhealthconnection.gov/policies-accessibility) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marylandhealthconnection.gov privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222132104id_/https%3A//www.marylandhealthconnection.gov/policies-accessibility) for the most accurate reproduction.*
 
 # Privacy Notice, Policies and Accessibility - Maryland Health Connection
 
@@ -77,13 +77,13 @@ If you require assistance or wish to report an issue related to the accessibilit
 
 ### Privacy Notice Changes
 
-Changes to our website and the IT system may necessitate changes to our privacy notice. Notification will be posted on this website in the Privacy Notice, Policies and Accessibility section. The information contained in this privacy statement applies only to MarylandHealthConnection.gov and MarylandHBE.com and not to any linked sites.
+On Aug. 12, 2019, Maryland Health Connection's application, HBX, will move from its current data center to the cloud as part of the State of Maryland’s Total Human-services Integrated Network ([MD THINK](http://dhs.maryland.gov/mdthink/)).
 
-Effective Date: August 2017
+Changes to our website and the IT system may necessitate changes to our privacy notice. Notification will be posted on this website in the Privacy Notice, Policies and Accessibility section. The information contained in this privacy statement applies only to MarylandHealthConnection.gov and MarylandHBE.com and not to any linked sites. Effective Date: August 2017.
 
 ### When You Apply for Health Insurance Coverage
 
-To establish an account on Maryland Health Connection, we collect information such as your first name and last name, your e-mail address and your responses to three questions used for password recovery. We use this information to establish and maintain your account login and utilize MarylandHealthConnection.gov. Then, when you begin the application process, we collect information from you that is used to verify your identity. On MarylandHealthConnection.gov, we provide streamlined applications that allow you to apply for affordable health insurance coverage. When you apply using one of these forms, MHBE collects personally identifiable information about you and is authorized to maintain a record of the information related to your application.
+To establish an account on Maryland Health Connection, we collect information such as your first name, last name and your e-mail address. We use this information to establish and maintain your account login and utilize MarylandHealthConnection.gov. Then, when you begin the application process, we collect information from you that is used to verify your identity. On MarylandHealthConnection.gov, we provide streamlined applications that allow you to apply for affordable health insurance coverage. When you apply using one of these forms, MHBE collects personally identifiable information about you and is authorized to maintain a record of the information related to your application.
 
 After you complete an application, some of your application information may be disclosed to other federal agencies so that your eligibility for affordable health insurance can be determined. These organizations may include the Social Security Administration (SSA), the Internal Revenue Service (IRS), the Department of Homeland Security (DHS), the Department of Defense (DoD), the Veterans Health Administration (VHA), and state Medicaid and Children’s Health Insurance Program (CHIP) agencies.
 
@@ -103,6 +103,18 @@ When processing your application after you apply for health insurance coverage: 
 ### When Sending You Marketplace Messages
 
 Maryland Health Connection uses the email address you provide us to send emails about important updates, deadlines or reminders related to the health insurance marketplace, if you have given us permission to send you these email messages. MHBE uses Granicus, a secure marketing cloud application, to communicate with you via email.
+
+### Terms and Conditions for Text Alerts
+
+These texting terms and conditions apply when you provide consent to receive text messages from Maryland Health Connection. You do not have to receive text messages to apply for health coverage. Maryland Health Connection offers text messaging as a way to communicate with you. To receive text messages from Maryland Health Connection, you must consent by providing a mobile phone number and opting in.
+
+To stop delivery of text messages related to the status of your application and deadlines and health care benefits and general health information, reply STOP from your mobile phone.
+
+If you want to specify the type of text messages you will receive, you can go to Manage Account Settings to manage your text subscriptions.
+
+Text messaging from Maryland Health Connection also may include one-time texts for Multi-factor Authentication (MFA). For security reasons, if you would like to stop MFA, you must opt out in your Enable or Disable Additional Security from your account home page.
+
+If you have any questions about text messages, you can contact us at 1-855-642-8572. Deaf and hard of hearing use Relay service.
 
 ### When Calling About Your Application or Account
 
