@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikinut.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710131308id_/https%3A//guides.wikinut.com/Wikinut-privacy-policy/t11ys0ay) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikinut.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222025516id_/https%3A//guides.wikinut.com/Wikinut-privacy-policy/t11ys0ay) for the most accurate reproduction.*
 
 # Wikinut privacy policy
 
@@ -28,7 +28,7 @@ If you do not wish to provide your information to Wikinut, you should not enter 
 
 As part of our registration process, we offer you the chance to receive Wikinut promotional emails. You should untick this option if you wish to opt-out.
 
-Wikinut is not responsible for the privacy polies of any third party websites that are linked to from Wikinut pages. 
+Wikinut is not responsible for the privacy polices of any third party websites that are linked to from Wikinut pages. 
 
 ## How we use this information
 
@@ -52,10 +52,16 @@ Wikinut will never sell your details to any third party. However, we may transfe
 
 ## Updating your information
 
-You may update your details at any time from within your Wikinut account pages (using the "Edit profile" page), or you can contact us to delete your details. Please note that this may mean your account may have to be closed.
+You may update your details at any time from within your Wikinut account pages (using the "Edit profile" page), or you can delete your details by terminating your account. Please note that this may mean your articles will be removed from the site.
 
-You may ask for a copy of your information held by Wikinut by contacting us. We do require up to twenty-eight (28) days' notice to enable us to comply with such a request.
+You may ask for a copy of your information held by Wikinut by contacting us.
 
 ## Contacting us
 
 If at any time you believe that Wikinut has not adhered to the principles contained within this policy, please [contact us](http://www.wikinut.com/contactus/ "contact us") and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+
+Wikinut  
+27 Broadwell Drive,  
+Leigh  
+WN7 3NE  
+UK
