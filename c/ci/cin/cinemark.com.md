@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cinemark.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231165927id_/https%3A//www.cinemark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemark.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222174236id_/https%3A//cinemark.com/privacy-policy) for the most accurate reproduction.*
 
 # Cinemark Privacy Policy
 
-**CINEMARK PRIVACY POLICY**
+**_Cinemark Privacy Policy_**
 
-Privacy Policy Effective March 13, 2018
+Privacy Policy Effective August 26, 2019
 
 Personal information provided to us at cinemark.com and Cinemark mobile app prior to the Effective Date is governed by our previous policy.
 
@@ -18,7 +18,7 @@ To process your ticket purchase and to notify you of your order status, we need 
 
 If you elect to register as a patron, we will require your name, e-mail address, street (mailing) address, city, state, ZIP, and mobile phone number.  As a registered patron, we will use this information for our general marketing purposes, but we will NOT call your mobile phone for marketing purposes.  As a registered patron, you will also receive our marketing materials via the street and/or e-mail addresses you provide, although you can unsubscribe (opt out) of those mailings at any time.  Please note that it may take up to ten (10) business days after we receive your opt-out for it to take effect.  If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any services you have requested or received from us.
 
-If you agree to this Privacy Policy, we may use the personally identifiable information you disclose for Cinemark’s marketing purposes.
+If you agree to this Privacy Policy, we may use the personally identifiable information you disclose for Cinemark’s marketing purposes, including selling that information to third parties for their marketing purposes.  **_For Nevada residents_** , you may opt out at any time from the sale of your information to third parties by submitting a verified request to us at [cinemark.com/my-personal-information](https://web.archive.org/my-personal-information) directing us that we do not sell to third parties any of your information that we have collected or will collect about you.  The effect of your opt-out will be to prevent us from selling your information to third parties in exchange for financial consideration.  Your opt-out will NOT affect the information we collect about you or use for Cinemark’s own purposes.
 
 You can review and change the individually identifiable personal information you provide to us at any time by clicking on My Profile. We are also constantly seeking to improve the layout and operation of cinemark.com based on the areas people visit, enjoy, and use most. We may occasionally wish to notify you about important changes to cinemark.com, new services, and special offers we think you might find valuable.
 
@@ -32,7 +32,16 @@ When you place orders, the information is sent via an encrypted connection desig
 
 What about "cookies"?
 
-"Cookies" are small pieces of information that are stored by your browser on your computer. We added this optional feature to enable you to order more quickly. Cookies are not required in order for you to purchase tickets at cinemark.com or Cinemark mobile app, however they do enhance the user experience by storing your ZIP Code information to expedite the process of finding the movies you want to see in your area. In addition, most Web browsers can automatically store cookies on your computer, but you can usually change your browser to prevent it. Whatever you decide about cookies and/or the convenience features we offer, you will always be able to browse and order from cinemark.com and Cinemark mobile app.
+"Cookies" are small pieces of information that are stored by your browser on your computer. We added this optional feature to enable you to order more quickly. Cookies are not required in order for you to purchase tickets at cinemark.com or Cinemark mobile app, however they do enhance the user experience by storing your ZIP Code information to expedite the process of finding the movies you want to see in your area. In addition, most Web browsers can automatically store cookies on your computer, but you can usually change your browser to prevent it. Whatever you decide about cookies and/or the convenience features we offer, you will always be able to browse and order from cinemark.com and Cinemark mobile app. 
+
+In addition to cookies, we also use at cinemark.com and Cinemark mobile app:
+
+  * _Web Beacons_. These are small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) that may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to cinemark.com, to monitor how users navigate cinemark.com, as an identifier, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
+  * _Embedded Scripts._ An embedded script is programming code that is designed to collect information about your interactions with cinemark.com and Cinemark mobile app, such as the links you click on. The code is temporarily downloaded onto your device from our web server or a third party service provider, is active only while you are connected to the cinemark.com and Cinemark mobile app, and is deactivated or deleted thereafter.
+
+
+
+Third parties may collect online information through pixel tags and cookies, which are used to create interest segments for marketing/advertising.    If you'd like to opt out of advertising cookies and trackers please click < <http://optout.networkadvertising.org/?c=1>>.
 
 Computer Information
 
@@ -58,15 +67,23 @@ We will not respond to Web browser "do not track" signals. If you would like add
 
 Because we link to social media sites, and from time to time may include third-party advertisements, other parties may collect your personally identifiable information about your online activities over time and across different web sites when you visit cinemark.com.
 
+If you want to opt out of the cookies placed by or on behalf of Cinemark (first party cookies) please click [cinemark.com/clear-cookies](https://web.archive.org/clear-cookies).  Note that this link is only for cookies that are placed by or on behalf of Cinemark and does not clear third party cookies. 
+
+If you would like additional information about online tracking and various opt-out mechanisms, please see <http://optout.networkadvertising.org/?c=1>
+
 Please note that not all tracking will stop even if you delete cookies.
+
+Sharing Information with Third Parties
 
 Does cinemark.com share the information it collects with others?
 
-We may enter into joint marketing arrangements with third parties, such as movie studios.  If you consent to share your personally identifiable information, we will share your information with that joint marketer and the joint marketer may share your information with us.  There may be separate terms and conditions or a privacy policy for the joint marketing arrangement, which may be required if you wish to participate in the joint marketing arrangement (such as combining rewards programs).  If you do not consent, we will not share your personally identifiable information with the joint marketer.
+Unless you are a Nevada resident and you opt-out, we may sell your personal information to third parties for their marketing purposes.
+
+We may enter into joint marketing arrangements with third parties, such as movie studios.  If you consent to share your personally identifiable information, we will share your information with that joint marketer and the joint marketer may share your information with us.  There may be separate terms and conditions or a privacy policy for the joint marketing arrangement, which may be required if you wish to participate in the joint marketing arrangement (such as combining rewards programs). If you do not consent, we will not share your personally identifiable information with the joint marketer.
 
 In addition, we may disclose personally identifiable information you provide to third parties if we are required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) complete a sales/reward transaction, such as providing your shipping information to our carrier; (b) enable third parties to assist us in operating, evaluating or improving cinemark.com and/or the Cinemark mobile app and/or our business; (c) comply with legal process; (d) enforce the Agreement; (e) respond to claims that any information you provide violates the rights of third parties; (f) protect the rights, property, or personal safety of Cinemark, its users and/or the public; or (g) in relation to the sale, assignment, transfer or acquisition of all or substantially all of Cinemark's assets or shares by a third party.
 
-Except as provided in the preceding paragraphs, cinemark.com and Cinemark mobile app do not sell, trade, or rent your identifiable personal information to outside parties. Cinemark.com and Cinemark mobile app may provide combined, general statistics about our customers, sales, usage patterns, and related information to reputable third parties, but these statistics will include no personal identifying information.
+Also, Cinemark.com and Cinemark mobile app may provide combined, general statistics about our customers, sales, usage patterns, and related information to reputable third parties, but these statistics will include no personal identifying information.
 
 Consent & Changes to this Privacy Policy
 
@@ -74,7 +91,7 @@ By using cinemark.com and/or clicking "I agree," you consent to the collection a
 
 Refund
 
-Tickets that are purchased on Cinemark.com and the Cinemark mobile app with a registered account are able to be fully refunded on Cinemark.com up to two hours prior to the start of the showtime. At the theatre, a full refund can be given up to the start time of the showtime. In the rare situations when a show is cancelled, you will be entitled to a refund for the full purchase price of your tickets including any service charges. In these situations please send an email to sitesupport@cinemark.com and include the theatre, movie, showtime, email address and your confirmation number.
+Tickets that are purchased on Cinemark.com and the Cinemark mobile app with a registered account are able to be fully refunded on Cinemark.com up to two hours prior to the start of the showtime. At the theatre, a full refund can be given up to the start time of the showtime. In the rare situations when a show is cancelled, you will be entitled to a refund for the full purchase price of your tickets including any service charges. In these situations please notify our guest services department at [Contact Us](https://web.archive.org/guest-services) and include the theatre, movie, showtime, email address and your confirmation number.
 
 Children and Minors
 
@@ -84,6 +101,6 @@ Additional Rights:
 
 Applicable laws may give you additional rights that are not described in this online privacy policy.
 
-For further information on privacy matters contact sitesupport@cinemark.com.
+For further information on privacy matters contact our guest services department at [Contact Us](https://web.archive.org/guest-services).
 
-Contact Us: For further information, or inquiries about the Terms and Conditions and Privacy Policy, please contact sitesupport@cinemark.com
+Contact Us: For further information, or inquiries about the Terms and Conditions and Privacy Policy, please contact our guest services department at [Contact Us](https://web.archive.org/guest-services).
