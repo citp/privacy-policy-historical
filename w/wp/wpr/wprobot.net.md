@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wprobot.net privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001015802id_/http%3A//wprobot.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wprobot.net privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222211054id_/http%3A//wprobot.net/privacy) for the most accurate reproduction.*
 
 # WP Robot Privacy Policy | WP Robot
 
