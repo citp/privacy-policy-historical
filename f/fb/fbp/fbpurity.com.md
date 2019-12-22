@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202160147id_/https%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222194447id_/https%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
 
 # F.B. Purity - Privacy Policy - Fluff Busting Purity Cleans Your FB Homepage
 
 ## Privacy Policy
 
-**Excellatronic Communications** takes your privacy very seriously. This privacy policy describes what personal information we collect and how we use it.
+**F.B. Purity** takes your privacy very seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ### Routine Information Collection
 
@@ -14,7 +14,7 @@ This web server (www.fbpurity.com) along with all other web servers track basic 
 
 ### Cookies and Web Beacons
 
-Where necessary, Excellatronic Communications uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, F.B Purity uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
@@ -24,11 +24,11 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ### Special Note About Google Advertising
 
-Any advertisements served on this website by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+Any advertisements served on this website by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](https://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
 ### Adware / Spyware / Phishing
 
-F.B. Purity is [completely safe](http://www.fbpurity.com/reviews.htm), and does not install any Adware, Spyware or Toolbars onto your computer, and it also does not ask you for your Facebook username or password.
+F.B. Purity is [completely safe](https://www.fbpurity.com/reviews.htm), and does not install any Adware, Spyware, Toolbars or Malware of any kind on to your computer, and it also does not ask you for your Facebook username or password.
 
 ### Mailing List
 
@@ -36,6 +36,6 @@ If you sign up for The FB Purity News mailing list, your email address will only
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20180202160147id_/https%3A//www.fbpurity.com/contact.htm) for further clarification.
+Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20191222194447id_/https%3A//www.fbpurity.com/contact.htm) for further clarification.
 
 **Terms and Conditions** : _Use FBP at your own risk, it comes with no warranty or guarantee, neither explicit or implicit towards functionality or usability. The author shall not be held liable for any damage or loss of data caused by use of this program. By downloading and installing Fluff Busting (F.B.) Purity, you agree to these terms._
