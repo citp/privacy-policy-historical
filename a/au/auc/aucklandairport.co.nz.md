@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aucklandairport.co.nz privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128003856id_/https%3A//www.aucklandairport.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aucklandairport.co.nz privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222024142id_/https%3A//www.aucklandairport.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Auckland Airport
 
