@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islamicfinder.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617100849id_/https%3A//www.islamicfinder.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islamicfinder.org privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222225640id_/https%3A//www.islamicfinder.org/privacypolicy) for the most accurate reproduction.*
 
 # Privasi & Polisi | IslamicFinder
 
