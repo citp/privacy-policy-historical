@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reneelab.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014203725id_/https%3A//www.reneelab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneelab.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222012444id_/https%3A//www.reneelab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Renee Laboratory
 
