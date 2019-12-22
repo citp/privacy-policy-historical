@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lampsplus.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502082557id_/https%3A//www.lampsplus.com/help-and-policies/your-privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lampsplus.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222221603id_/https%3A//www.lampsplus.com/help-and-policies/your-privacy-and-security) for the most accurate reproduction.*
 
 # Your Privacy and Security | Lamps Plus
 
@@ -22,7 +22,7 @@
 
 ## Our Privacy Policy
 
-Lamps Plus, Inc. (“Lamps Plus” or “we” or “us”) has created this privacy policy (this "Privacy Policy") in order to demonstrate its commitment to user, visitor, subscriber and customer privacy with regard to the Lamps Plus web site located at [LampsPlus.com](https://web.archive.org/) (the “Website”); LampsPlus.com is known as the “Website.” Privacy on the Website is of great importance to us. Because we gather important information from our users, visitors and customers (collectively “Subscribers” or “you” or “your”), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing the Websites, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located [here](https://web.archive.org/help-and-policies/terms-of-use.aspx).
+Lamps Plus, Inc. (“Lamps Plus” or “we” or “us”) has created this privacy policy (this "Privacy Policy") in order to demonstrate its commitment to user, visitor, subscriber and customer privacy with regard to the Lamps Plus web site located at [LampsPlus.com](https://web.archive.org/) (the “Website”); LampsPlus.com is known as the “Website.” Privacy on the Website is of great importance to us. Because we gather important information from our users, visitors and customers (collectively “Subscribers” or “you” or “your”), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing the Websites, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located [here](https://web.archive.org/help-and-policies/terms-of-use/).
 
 You can visit most of the pages on LampsPlus.com without ever telling us who you are, as we do not ask users to register or establish an account with us in order to browse our sites. We may track the Internet domain address from which people visit us and look at this data for user trends and statistics, but individual site visitors remain anonymous, unless, at some point, you tell us who you are.
 
@@ -34,7 +34,7 @@ We use the personal information that you provide about yourself for a number of 
 
 We also may combine the information you give us online, in our stores, or through our catalogs, including personal information about you and your order. We use that combined information to enhance and personalize your online shopping experience with us, to communicate with you both on and offline about our products and events that may be of interest to you.
 
-We do not sell, share or rent email addresses to any third parties. Furthermore, we do not share the credit card information you provide to us with anyone other than your credit card provider. However, other information about you may be combined with publicly available information, as well as information we receive from reputable companies we have selected to analyze the data we collect.
+We do not sell or rent email addresses to any third parties. Furthermore, we do not share the credit card information you provide to us with anyone other than your credit card provider. However, other information about you may be combined with publicly available information, as well as information we receive from reputable companies we have selected to analyze the data we collect.
 
 We do reserve the right to disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities that may be causing injury to you, Lamps Plus, Inc. or to others. We may also disclose personal information when we believe the law requires it.
 
