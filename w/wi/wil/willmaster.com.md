@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623022925id_/https%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2019-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191222134035id_/https%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Will Bontrager Software LLC Privacy Policy
 
@@ -16,7 +16,7 @@ As remuneration for the time and research involved to provide quality links, we 
 
 **Information Gathered by Third Parties and Other Websites**
 
-Third parties and other Websites may be placing and reading cookies on your browser, or using web beacons to collect information, or logging access or activity, in the course of content pages, ads, or other content being served or responded to at the Websites. We have no authority over, and can not control, how the information is used. 
+Third parties and other websites may be placing and reading cookies on your browser, or using web beacons to collect information, or logging access or activity, in the course of content pages, ads, or other content being served or responded to at the Websites. We have no authority over, and can not control, how the information is used. 
 
 **Ads**
 
