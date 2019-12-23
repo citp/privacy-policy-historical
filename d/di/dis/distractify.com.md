@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distractify.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501020140id_/https%3A//www.distractify.com/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distractify.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223042243id_/https%3A//www.distractify.com/s/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
