@@ -1,91 +1,201 @@
-> *The following text is extracted and transformed from the theprint.in privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616032018id_/https%3A//theprint.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprint.in privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223181318id_/https%3A//theprint.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ThePrint
 
-This privacy policy explains our policy regarding the collection, use, disclosure and transfer of your information by Printline Media Pvt. Ltd. and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the “Company”), which operates various websites and other services including but not limited to delivery of information and content via any mobile or internet connected device or otherwise (collectively the “Services”). This privacy policy forms part and parcel of the Terms of Use for the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
+This privacy policy (“Privacy Policy”) explains our policy regarding the collection, use, disclosure and transfer of the end user’s (hereinafter referred to as “You”/ “Your”/ “User”) information by Printline Media Pvt. Ltd. and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the “Company”/ “Us”/ “Our”/ “We”), collected by the Company as a result of Your access to and use of ThePrint Platform (which term shall be deemed to include the website https://theprint.in as well as its mobile application [as and when the same is made available]) or any other technological variants thereof, accessible through a computer, mobile or any internet connected device(s) or any other means to access the same from time to time) and the services offered thereunder (“Services”). This Privacy Policy forms an integral part and parcel of and shall be read in conjunction with the Terms of Use (hereinafter referred to as “TOU”, and available here). Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the TOU.
 
-As we update, improve and expand the Services, this policy may change, so please refer back to it periodically. By accessing the Company website or this Application or otherwise using the Services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
+By accessing ThePrint Platform or otherwise using the Services, You consent to collection, storage, and use of the personal information made available by You (including any changes thereto as provided by You) for any of the Services that We offer. The Company reserves the right to modify this Privacy Policy in any manner, from time to time, entirely at its own discretion, with or without any notification to You. The Company shall be under no obligation to notify the implementation of any modifications to the Privacy Policy to You. You are responsible for checking the Privacy Policy periodically to remain in compliance with the terms of this Privacy Policy. Your access to and use of ThePrint Platform after any amendment to the Privacy Policy shall constitute your deemed acceptance of such modified terms. Discontinuing use of the Services will not affect the applicability of the Privacy Policy to Your prior uses of the Services.
 
-The Company respects the privacy of the users of the Services and is committed to reasonably protect it in all respects. The information about the user as collected by the Company is: (a) information supplied by users and (b) information automatically tracked while navigation (c) information collected from any other source (collectively referred to as Information).
+The Company respects Your privacy and is committed to reasonably protect it in all respects. The information about You as collected by the Company is: (a) information supplied by Users and (b) information automatically tracked while navigation (c) information collected from any other source (collectively referred to as “Information”).
 
-1\. INFORMATION RECEIVED, COLLECTED AND STORED BY THE COMPANY
+  1. **INFORMATION RECEIVED, COLLECTED AND STORED BY THE COMPANY**
 
-A. INFORMATION SUPPLIED BY USERS
 
-Registration data:  
-When you register on the website, Application and for the Service, we ask that you provide basic contact Information such as your name, sex, age, address, pin code, contact number, occupation, interests and email address etc. When you register using your other accounts like on Facebook, Twitter, Gmail etc. we shall retrieve Information from such account to continue to interact with you and to continue providing the Services.
+  1. **INFORMATION SUPPLIED BY USERS**
 
-Subscription or paid service data:  
-When you chose any subscription or paid service, we or our payment gateway provider may collect your purchase, address or billing information, including your credit card number and expiration date etc. However when you order using an in-app purchase option, same are handled by such platform providers. The subscriptions or paid Services may be on auto renewal mode unless cancelled. If at any point you do not wish to auto-renew your subscription, you may cancel your subscription before the end of the subscription term.
 
-Voluntary information:  
-We may collect additional information at other times, including but not limited to, when you provide feedback, change your content or email preferences, respond to a survey, or communicate with us.
+  1. **Registration or comment data:**
 
-B. INFORMATION AUTOMATICALLY COLLECTED/ TRACKED WHILE NAVIGATION
 
-Cookies  
-To improve the responsiveness of the “Application” for our users, we may use “cookies”, or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user’s individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website, Application or Service though your computer/laptop/netbook or mobile/tablet/pad/handheld device etc.
 
-Opting out  
-If a user opts out using the Ads Settings, the unique DoubleClick cookie ID on the user’s browser is overwritten with the phrase “OPT_OUT”. Because there is no longer a unique cookie ID, the opt-out cookie can’t be associated with a particular browser.
+When You register and/or leave comments on ThePrint Platform, We may ask that You provide basic contact information such as your name, sex, age, address, pin code, contact number, occupation, interests, website and email address etc. When You register using Your accounts on third party platforms like Facebook, Twitter, Gmail etc.(as facilitated by the Company on ThePrint Platform from time to time), We shall retrieve Information from such account(s) to continue to interact with You and to continue providing the Services seamlessly.
 
-Log File Information  
-We automatically collect limited information about your computer’s connection to the Internet, mobile number, including your IP address, when you visit our site, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data — such as the pages you view. We automatically receive and log information from your browser, including your IP address, your computer’s name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device’s name, device’s serial number or unique identification number (e.g.. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc.
+  2. **Subscription or paid service data** :
 
-Clear GIFs  
-We may use “clear GIFs” (Web Beacons) to track the online usage patterns of our users in a anonymous manner, without personally identifying the user. We may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. We use this information to inter-alia deliver our web pages to you upon request, to tailor our Site, Application or Service to the interests of our users, to measure traffic within our Application to improve the Application quality, functionality and interactivity and let advertisers know the geographic locations from where our visitors come.
 
-Information from other Sources:  
-We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you
 
-Demographic and purchase information:  
-We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users’ Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings options provided by Google.
+When You choose any subscription or paid Service, We or Our payment gateway provider may collect your purchase, address or billing information, including Your credit card number and expiration date etc. However, when You order using an in-app purchase option, this activity is handled solely by such platform providers. The subscriptions or paid Services may be on auto renewal mode unless cancelled. If at any point You do not wish to auto-renew your subscription, You may cancel Your subscription before the end of the subscription term.
 
-2\. LINKS TO THIRD PARTY SITES / AD-SERVERS  
-The Application may include links to other websites or applications. Such websites or applications are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the application, you are visiting. That policy may differ from ours. If you can’t find the privacy policy of any of these sites via a link from the application’s homepage, you should contact the application owners directly for more information.
+  3. **Voluntary information:**
 
-When we present information to our advertisers — to help them understand our audience and confirm the value of advertising on our websites or Applications — it is usually in the form of aggregated statistics on traffic to various pages / content within our websites or Applications. We use third-party advertising companies to serve ads when you visit our websites or Applications. These companies may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other websites or application, in order to provide advertisements about goods and services of interest to you.
 
-We do not provide any personally identifiable information to third party websites / advertisers / ad-servers without your consent.
 
-3\. INFORMATION USE BY THE COMPANY  
-The Information as supplied by the users enables us to improve the Services and provide you the most user-friendly experience. In some cases/provision of certain service(s) or utility(ies), we may require your contact address as well. All required information is service dependent and the Company may use the above said user Information to, maintain, protect, and improve the Services (including advertising on the “Application”) and for developing new services. We may also use your email address or other personally identifiable information to send commercial or marketing messages without your consent [with an option to subscribe / unsubscribe (where feasible)]. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major changes, for customer service purposes, billing, etc.).
 
-Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like facebook, twitter etc.
+We may collect additional Information at other times, including but not limited to, when You provide feedback, change Your content or email preferences, respond to a survey, or communicate with Us.
 
-Any posted/uploaded/conveyed/communicated by users on the public sections of the “Application” becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
+  2. **INFORMATION AUTOMATICALLY COLLECTED/ TRACKED WHILE NAVIGATION**
 
-In case you choose to decline to submit personally identifiable information on the Application, we may not be able to provide certain services on the Application to you. We will make reasonable efforts to notify you of the same at the time of opening your account. In any case, we will not be liable and or responsible for the denial of certain services to you for lack of you providing the necessary personal information.
 
-When you register with the Application or Services, we contact you from time to time about updation of your personal information to provide the users such features that we believe may benefit / interest you.
 
-4\. INFORMATION SHARING  
-The Company shares your information with any third party without obtaining the prior consent of the User in the following limited circumstances:
+  1. **Cookies:**
 
-a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms or for complying with the applicable laws and regulations.  
-b) The Company proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
-c) The Company may present information to our advertisers – to help them understand our audience and confirm the value of advertising on our websites or Applications – however it is usually in the form of aggregated statistics on traffic to various pages within our site.  
-d) The Company may share your information regarding your activities on websites or Applications with third party social websites to populate your social wall that is visible to other people however you will have an option to set your privacy settings, where you can decide what you would like to share or not to share with others.
 
-5\. ACCESSING AND UPDATING PERSONAL INFORMATION  
-When you use the Services Site (or any of its sub sites), we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
-6\. INFORMATION SECURITY  
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. All information gathered on TIL is securely stored within the Company controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
-We use third-party advertising companies to serve ads when you visit or use our website, mobile application or services. These companies may use information (not including your name, address, email address or telephone number) about your visits or use to particular website, mobile application or services, in order to provide advertisements about goods and services of interest to you.
+To improve the responsiveness of the ThePrint Platform for You, We may use “cookies”, or similar electronic tools to collect Information to assign each User a unique, random number as a User Identification (User ID) to understand Your individual interests using the identified computer. Unless You voluntarily identify Yourself (through registration, for example), We will have no way of knowing who You are, even if we assign a cookie to Your computer. The only personal Information a cookie can contain is Information You supply. Our advertisers may also assign their own cookies to Your browser (if You click on their ads), a process that We do not control.
 
-7\. UPDATES / CHANGES  
-The internet is an ever evolving medium. We may alter our privacy policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. In any case, we reserve the right to change (at any point of time) the terms of this Privacy Policy or the Terms of Use. Any changes we make will be effective immediately on notice, which we may give by posting the new policy on the “Application”. Your use of the Application or Services after such notice will be deemed acceptance of such changes. We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Privacy Policy periodically on the “Application”) to ensure that you are aware of the latest version.
+  2. **Cookies – Opting out:**
 
-8\. QUESTIONS / GRIEVANCE REDRESSAL  
-Redressal Mechanism: Any complaints, abuse or concerns with regards to the processing of information provided by you or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to contact@theprint.in
 
-We request you to please provide the following information in your complaint:-  
-a) Identification of the information provided by you;  
-b) Clear statement as to whether the information is personal information or sensitive personal information;  
-c) Your address, telephone number or e-mail address;  
-d) A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be;  
-e) A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you;
 
-The company shall not be responsible for any communication, if addressed, to any non-designated person in this regard.
+
+If a User opts out using the Ads Settings, the unique ‘DoubleClick cookie ID’ on the User’s browser is overwritten with the phrase “OPT_OUT”. Because there is no longer a unique cookie ID, the opt-out cookie can’t be associated with a particular browser.
+
+  3. **Log File Information:**
+
+
+
+
+We automatically collect limited Information about Your computer’s connection to the Internet, mobile number, including Your IP address, when You visit ThePrint Platform. Your IP address is a number that lets computers attached to the Internet know where to send You data — such as the pages You view. We automatically receive and log Information from Your browser, including Your IP address, Your computer’s name, Your operating system, browser type and version, CPU speed, and connection speed. We may also collect log Information from Your device, including Your location, IP address, Your device’s name, device’s serial number or unique identification number (e.g. UDiD on Your iOS device) etc.
+
+  4. **Clear GIFs:**
+
+
+
+
+We may use “clear GIFs” (Web Beacons) to track the online usage patterns of Our Users in an anonymous manner, without personally identifying the User. We may also use clear GIFs in HTML-based emails sent to Our Users to track which emails are opened by recipients. We use this Information to inter-alia deliver Our web pages to You upon request, to tailor ThePrint Platform and Services provided thereunder to the interests of Our Users, to measure traffic within ThePrint Platform to improve the quality, functionality and interactivity of ThePrint Platform and let advertisers know the geographic locations from where Our Users come.
+
+  5. **Information from other Sources:**
+
+
+
+
+We may receive Information about You from other sources, add it to Our User Information database and treat it in accordance with this Privacy Policy. If You provide Information to the platform provider or other partner, whom we provide services, Your account Information and order Information may be passed on to Us. We may obtain updated contact Information from third parties in order to correct Our records and fulfil Services or to communicate with You.
+
+  6. **Demographic and purchase Information:**
+
+
+
+
+We may reference other sources of demographic and other Information in order to provide You with more targeted communications and promotions. We use Google Analytics, among others, to track the User behavior on ThePrint Platform. Google Analytics specifically has been enabled to support display advertising towards helping Us gain understanding of Our users’ demographics and interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that You may have shared with Us. You can opt-out of Google Analytics for ‘Display Advertising’ and customize ‘Google Display Network ads’ using the ‘Ads Settings’ options provided by Google.
+
+  2. **LINKS TO THIRD PARTY SITES / AD-SERVERS**
+
+
+
+  1. The Print Platform may include links to other websites or applications (“ **Linked Platforms** ”). The Company is not privy to nor does it exercise any control over the data collection policies of such Linked Platforms, and the User agrees and acknowledges that the Company shall not be held responsible for the data collection policies of any Linked Platform(s). Once You leave Our servers (You can tell where you are by checking the URL in the location bar on Your browser), use of any Information You provide is governed by the privacy policy of the operator of the Linked Platforms You are visiting which may be different from this Privacy Policy.
+
+
+
+  2. We use third-party advertising companies to serve advertisements when You visit ThePrint Platform. These companies may use Information (not including Your name, address, email address or telephone number and/or other personally identifiable Information) about Your visits to ThePrint Platform and other websites or applications, in order to provide advertisements about goods and services of interest to You.
+
+
+
+  3. Except as provided under this Privacy Policy, We do not share any personally identifiable Information to third party websites / advertisers / ad-servers without Your consent.
+
+
+
+  3. **INFORMATION USE BY THE COMPANY**
+
+
+
+  1. The Information as supplied by the Users enables Us to improve the Services and provide You the most User-friendly experience. All required Information is Service dependent and the Company may use the above said User Information to, maintain, protect, and improve the Services (including advertising on the ThePrint Platform) and for developing new services. Pursuant to Your confirmation to access the Services, We may also use Your email address or other personally identifiable Information to send commercial or marketing messages without Your consent [with an option to subscribe / unsubscribe (where feasible)]. We may, however, use Your email address without further consent for non-marketing or administrative purposes (such as notifying You of major changes, for customer service purposes, billing, etc.).
+
+
+
+  2. Any personally identifiable Information provided by You will not be considered as sensitive if it is freely available and/ or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like facebook, twitter etc.
+
+
+
+  3. Any content posted/uploaded/conveyed/communicated by Users on the public sections of ThePrint Platform becomes published content and is not considered personally identifiable Information subject to this Privacy Policy.
+
+
+
+  4. In case You choose to decline to submit personally identifiable Information on ThePrint Platform, We may not be able to provide certain services on ThePrint Platform to You. We will make reasonable efforts to notify You of the same at the time of opening Your account. In any case, We will not be liable and or responsible for the denial of any Services to You for Your failure to provide the necessary personal Information.
+
+
+
+  5. When You register with ThePrint Platform, We contact You from time to time about updation of Your personal Information to provide You with such features that We believe may benefit / interest You.
+
+
+
+  4. **INFORMATION SHARING**
+
+
+
+  1. The Company may share Your Information with a third party without obtaining Your prior consent in the following limited circumstances:
+
+
+
+  1. When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing the terms of this Privacy Policy or TOU or for complying with the applicable laws and regulations;
+
+  2. The Company may share such Information within its group companies and officers and employees of such group companies for the purpose of processing personal Information on its behalf. We also ensure that these recipients of such Information agree to process such Information based on Our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures;
+
+  3. The Company may present Information to its advertisers – to help them understand Our audience and confirm the value of advertising on ThePrint Platform – however it is usually in the form of aggregated statistics on traffic to various pages within ThePrint Platform without identifying any specific User;
+
+  4. The Company may share Your Information regarding Your activities on ThePrint Platform with third party social websites to populate Your social wall that is visible to other people however You will have an option to set Your privacy settings, where You can decide what You would like to share or not to share with others.
+
+
+
+  5. **ACCESSING AND UPDATING PERSONAL INFORMATION**
+
+
+
+
+When You use the ThePrint Platform (or any of its sub sites), We make good faith efforts to provide to You, as and when requested by You, with access to Your personal Information and shall further ensure that any personal Information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal Information or sensitive personal data or information to be retained by law or for legitimate business purposes. Before processing requests by a User pertaining to access, correction or removal of any Information related to such User, we may ask each User to identify themselves initially and thereafter, the Information requested to be accessed, corrected or removed . We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning Information residing on backup tapes), or for which access is not otherwise required. In any case, where We provide Information access and correction, We perform this Service free of charge, except if doing so would require a disproportionate effort. Because of the way We maintain certain Services, after You delete Your Information, residual copies may take a period of time before they are deleted from Our active servers and may remain in Our backup systems.
+
+  6. **INFORMATION SECURITY**
+
+
+
+  1. We take appropriate security measures to protect ThePrint Platform and Your Information against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of Our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where We store personal data. All Information gathered on ThePrint Platform is securely stored within the Company controlled database on a best-effort basis. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, We cannot guarantee the security of our database, nor can we guarantee that Information You supply will not be intercepted while being transmitted to Us over the Internet. Further, You agree and confirm that any Information You include in a posting to the discussion areas on ThePrint Platform is available to anyone with Internet access.
+
+
+
+  7. **GRIEVANCE REDRESSAL**
+
+
+
+  1. Any complaints, abuse or concerns with regards to the processing of Information provided by You or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below in writing or through email signed with the electronic signature to _contact@theprint.in._
+
+
+
+  2. We request You to please provide the following Information in your complaint:
+
+
+
+  1. Identification of the Information provided by You;
+
+  2. Clear statement as to whether the Information is personal information or sensitive personal information;
+
+  3. Your address, telephone number or e-mail address;
+
+  4. A statement that You have a good-faith belief that the Information has been processed incorrectly or disclosed without authorization or any other grievance, as applicable;
+
+  5. A statement, under penalty of perjury, that the information in the notice is accurate, and that the Information being complained about belongs to You;
+
+
+
+  3. The Company shall not be responsible for any communication, if addressed, to any non-designated person in this regard.
+
+
+
+  8. **Governing Law**
+
+
+
+
+This Privacy Policy shall be governed by the Laws of India. The Courts of law at Delhi/New Delhi shall have exclusive jurisdiction over any disputes arising in relation to these TOU.
+
+  9. **General Terms**
+
+
+
+  1. This Privacy Policy and the TOU constitute the entire agreement between You and the Company with respect to the subject matter hereof and supersedes and replaces all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.
+
+
+
+  2. By using ThePrint Platform and Services provided thereunder, You signify Your acceptance of the TOU and this Privacy Policy. If You do not agree or are not comfortable with any policy described in the TOU and/ or the Privacy Policy, Your only remedy is to discontinue use of ThePrint Platform. We reserve the right, to modify the TOU and/ or the Privacy Policy at any time.
+
+
+
