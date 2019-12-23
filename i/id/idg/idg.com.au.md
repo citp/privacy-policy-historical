@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idg.com.au privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615132242id_/https%3A//www.idg.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idg.com.au privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223053938id_/https%3A//www.idg.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IDG Communications - Australia
 
@@ -188,22 +188,21 @@ If you believe you have suffered harm due to a breach of your rights by IDGC und
 
 The contact information for IDGC’s Data Protection Officer is:
 
-Mr. Keith Arnot  
-c/o IDG Communications Ltd.  
-101 Euston Road  
-London NW1 2RA  
-United Kingdom
-
-GDPR@idgcommunications.com
-
-IDGC has also designated a Representative _in the EU_ :
-
 Mr. John McGill  
 c/o IDG Direct  
 Millennium House  
 Great Strand Street  
 Dublin 1  
 Ireland
+
+GDPR@idgcommunications.com
+
+IDGC has also designated a Representative _in the EU_ :
+
+IDG Communications Media AG  
+Lyonel-Feininger-Strasse 26  
+Munich 80807  
+Germany
 
 GDPRrepresentative@idgcommunications.com
 
@@ -219,4 +218,4 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/) **.**
 
-_Last Updated: 16/05/2018_
+_Last Updated: 13/09/2019_
