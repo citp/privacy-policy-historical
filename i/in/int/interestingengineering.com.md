@@ -1,35 +1,186 @@
-> *The following text is extracted and transformed from the interestingengineering.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124916id_/https%3A//interestingengineering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interestingengineering.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223195045id_/https%3A//interestingengineering.com/privacy-policy) for the most accurate reproduction.*
 
-# Interesting Engineering
+# Privacy Policy
 
-Thank you for visiting Interesting Engineering. Please read this Privacy Policy and our [TOS](https://web.archive.org/web/20190330124916id_/terms-of-service) carefully, as you must agree to both documents in order to use our Service. The following Privacy Policy apply to all Services provided by Interesting Engineering (“Interesting Engineering,” “we,” “us,” or “our”) to you.
+**Effective Date: July 1, 2019.**
 
-  1. **APPLICATION OF TERMS**
-    1. This Privacy Policy applies to all Services provided by Interesting Engineering to all Users and represents the entire agreement and understanding between Interesting Engineering and the User, and supersedes any other written or oral agreement. 
-    2. By registering for and/or using the Services in any manner, including but not limited to visiting or browsing the Website, you agree to this Privacy Policy and all other operating rules, policies and procedures that may be published from time to time on the Website by us, each of which is incorporated by reference and each of which may be updated from time to time. However, you may change your privacy preferences anytime.
-    3. The current Privacy Policy is always available on Interesting Engineering’s Website. Upon notice published on its Website, Interesting Engineering may modify and/or amplify this Privacy Policy, as well as discontinue or change Services offered.
-  2. **DEFINITIONS**
-    1. "User," and/or "You" mean you, as an individual that uses the Services Interesting Engineering provide, including but not limited to general visitors of the Website.  
-"Interesting Engineering" means the entity delivering the Services to you as set out on the Website and any of its subsidiaries or affiliated entities.  
-"Service" or "Services" means any and all services provided by Interesting Engineering under this TOS and any other services requested by you which may be provided from time to time as set out on the Website.  
-"Content" includes, without limitation, information, data, text, photographs, videos, audio clips, written posts, articles, comments, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible on or through the Services.   
-"Use License" means a worldwide, non-exclusive, non-sublicensable and non-transferable license to use (i.e., to download and display locally) Content, of which we grant each User of for the Services subject to this Terms of Service. Use, reproduction, modification, distribution or storage of any Content for other than purposes of using the Services is expressly prohibited without prior written permission from us. You shall not sell, license, rent, or otherwise use or exploit any Content for commercial use or in any way that violates any third party right.  
-"Website" means www.interestingengineering.com website pertaining to Interesting Engineering.
-  3. **INFORMATION COLLECTED**
-    1. This Privacy Policy covers the treatment of personally identifiable information and/or personal data ("Personal Information"), and other information stated in this policy, gathered when you are using or accessing the Services, and our treatment of any Personal Information we collected. Personal Information is information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. We collect relevant personal information from you when you use our Services.
-    2. This Privacy Policy does not apply to the practices of third parties that we do not own or control, including any third-party websites, services and applications, such as Facebook ("Third Party Services") that you elect to access through the Service. We encourage you to carefully review the privacy policies of any third-party services you access.
-    3. We collect certain personal information from you when you sign up to our Service that can be used to identify you, such as your name, e-mail address, payment information (if necessary), mailing address, telephone number, and any other information that we deem necessary for the purpose of providing you with our Service or which you provide to us voluntarily. Furthermore, whenever you visit our Website, we may collect non-identifying information from you, your web log data, such as your IP address, user agent, referring URL, browser, operating system, cookie information, and Internet Service Provider; operating system and device type; your location, and the language option you choose in your device. Without additional legal requests or records from a third party, this information alone cannot usually be used to identify you. The information we collect from you, to the extent that it is private, is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.
-    4. We partner up with companies and tools in order to enrich your experience on our Website. Albeit our partners may alternate in time, in order to ensure transparency, we will be enlisting our partners to inform you and give you the opportunity to check our partners privacy policies as well. We use Outbrain as native advertising and content discovery platform; PubGalaxy to display advertising solutions; Playbuzz and Truvid as content publishing platform; StackCommerce as native commerce platform; JW Player as video player software; Facebook Social Share and LinkedIn as social media plug-ins; Hotjar for user engagement and web analytics and Google Analytics for web analytics software.
-    5. We use cookies to enable our servers to recognize your web browser and gather information on frequency of your visiting the Website, share Content, and otherwise use our Service. This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control or monitor when or how third parties place cookies on your computer. 
-    6. We use third party individuals and organizations to assist us, including contractors, web hosts, and other real persons and legal entities. Additionally, we use your personal information to provide and improve our Services, provide you with a personalized experience on our sites, provide you with personalized advertising and marketing, and to detect, prevent, mitigate and investigate fraudulent or illegal activities. Throughout the course of our provision of our Service to you, we may delegate our authority to collect, access, use, and disseminate your information. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You also agree not to hold us liable for the actions of any of these third parties.
-    7. Interesting Engineering may share or release your information in response to a request from a government agency or a private litigant for legal purposes. You agree that we may disclose your information to a third party where we believe, that it required to do so for the purposes of a civil action, criminal investigation, or other legal matters. You release us from any damages that may arise from or relate to the share or release of your information to a request from law enforcement agencies or private litigants.
-    8. Your information may be transferred to and maintained on computers, servers and/or databases located outside of your governmental jurisdiction where the privacy laws may be different from your jurisdiction. Your consent to this Privacy Policy followed by your submission of such information represents your irrevocable agreement to that transfer.
-    9. By providing information to us that forms the basis of communications with you, such as contact information, you waive all rights to file complaints concerning unsolicited e-mails from Interesting Engineering since, by providing such information, you agree to receive communications from us or anyone else covered under this Privacy Policy. However, you may unsubscribe from certain communications at any time by notifying Interesting Engineering.
-    10. Interesting Engineering may amend this Privacy Policy from time to time. In case of any amendments, we will update Privacy Policy on our Website accordingly. You must read this page each time that you use the Website.
-    11. As a Turkish Company, Interesting Engineering is subject to Law numbered 6698 on Data Protection (“KVKK”), hence it acts accordingly to the regulations on data protection. Your personal data will be processed by Interesting Engineering with your explicit consent. By approving this Privacy Policy, you will be deemed as given explicit consent per se. Users have the right to; learn whether or not their personal data have been processed; request information as to processing if their data have been processed; learn the purpose of processing of the personal data and whether data are used in accordance with their purpose; know the third parties in the country or abroad to whom personal data have been transferred; request rectification in case personal data are processed incompletely or inaccurately; request deletion or destruction of personal data; request notification of the operations to third parties to whom personal data have been transferred; object to occurrence of any result that is to her/his detriment by means of analysis of personal data exclusively through automated systems; request compensation for the damages in case the person incurs damages due to unlawful processing of personal data by applying to Interesting Engineering, as stated in KVKK. You are expected to apply in writing to our company address with the documents proving your identity in order to benefit from your rights arising from KVKK.
-    12. Additionally, we comply with EU General Data Protection Regulation (“GDPR”). We respect your right to access, correct, request deletion or request restriction of our usage of your personal information as required by GDPR. We also take steps to ensure that the personal information we collect is accurate and up to date. You have the right to know what personal information we maintain about you. We will provide you with a copy of your personal information in a commonly used format on request. If your personal information is incorrect or incomplete, you may ask us to update it. You have the right to object to our processing of your personal information, and you can also ask us to delete or restrict how we use your personal information. Nevertheless, if you request us to delete or restrict your personal information use, this may impact your access to some of our Services.
-    13. Should you have any questions, comments or concerns regarding this Privacy Policy or privacy issues arising from using the Services, please send us a detailed message to: [contact@interestingengineering.com](mailto:%20contact@interestingengineering.com) or by post: Incilipinar Mah. Prof.Muammer Aksoy BLV. 36011 Nolu Sok Milenyum Is Merkezi C Blok Kat.1 No:37 27090 Gaziantep/Turkey
+This is the Privacy Policy of Interesting Engineering, Inc. and its subsidiary companies (collectively “ **Interesting Engineering** **,** ” “ **we** **,** ” or “ **us** ”), which applies to the Website located at https://interestingengineering.com/ its affiliate websites, subdomains, mobile versions and any associated applications (collectively, the “ **Website** ”). 
+
+Interesting Engineering, Inc. understands that your privacy is important to you and that you care about how your personal information is used and shared online. We respect and value the privacy of everyone who visits this Website, and will only collect and use personal information in ways that are described here (whether or not you have an account with us), and in a manner that is consistent with our obligations and your rights under the law. 
+
+In conjunction with the Terms of Service, this Privacy Policy sets out the basis on which any personal information you provide will be collected, processed, used and stored by us. Please read it carefully. By visiting this Website, you are accepting and consenting to the practices described in this Privacy Policy, which may be amended in our sole discretion from time to time. If you use the Website after we have published such changes, you will be agreeing to be bound by those changes. **If you do not agree to be bound by this Privacy Policy at any time, you should not use the Website.**
+
+**A. Registration on our Website**
+
+You must be at least the age of Majority (18 in most states of the United States; older in some jurisdictions) to register with us. While individuals under the age of 18 may utilize the Website, they must do so only with the consent and involvement of a parent or legal guardian, under such persons account and otherwise subject to this Privacy Policy. We do not knowingly collect or maintain any PII (defined below) about anyone under age of 13 nor is this information knowingly used by us for any marketing or promotional purposes. 
+
+If we become aware that you are under the age of Majority and are attempting to or have submitted personal information via the Website, we will not accept such information and we will take steps to remove such information from our records. This may involve us having to access and verify your age and other relevant details.
+
+**B. Introduction**
+
+This Privacy Policy explains the following: 
+
+  1. What information we collect about you and why;
+  2. How we use information about you;
+  3. How your information may be shared;
+  4. How we store and process information about you;
+  5. When and how we communicate with you;
+  6. How long we may keep personal information about you;
+  7. How you can opt-out from receiving communications from us;
+  8. Analysis tools and our use of cookies;
+  9. Information over the Internet and other websites;
+  10. Offensive or inappropriate content;
+  11. Legal disclaimer;
+  12. How to contact us;
 
 
+
+**1\. What information we collect about you and why:**
+
+We may collect two types of information: personally identifiable information (“PII”) and information that is not personally identifiable (“Non PII”).
+
+**A.  What PII Do We Collect?**
+
+  * When you register with us, we ask for information such as your name, postal address, zip code, email address, and telephone number. We also acquire your Internet protocol address and/or mobile device identification, which certain jurisdictions consider to be PII because it could be used to identify an individual or device if it were combined with other identifying information. 
+
+  * We may capture user information when users send us questions or comments via e-mail. Information collected in this manner will only be used to contact the user and/or respond to the user’s inquiry/issue. Sending us an e-mail will not enroll you on our e-mail list unless you specifically request it. 
+
+  * For purchases made on the Website, a third-party payment processor, such as PayPal, may collect your name, email address, postal address, contact details and credit or debit card information. This record will be stored and processed in the United States and other countries (see further below under “How we use information about you” and “How we store and process information about you”). 
+
+  * We take reasonable precautions to protect the confidentiality and security of your personally identifiable information by using industry recognized security safeguards such as site monitoring, secured networks and servers, firewalls and/or encryption. When we ask for sensitive information, we protect it through the use of encryption during transmission, such as SSL (Secure Socket Layer). Unfortunately, no method of transmission over the Internet is completely secure. Therefore, while we strive to protect your personally identifiable information within industry standards, we cannot guarantee its absolute security. 
+
+  * We may also obtain your personal information through your use of social media such as Facebook or LinkedIn, depending on your settings or the privacy policies of these social media services. To change your settings on these services, please refer to their respective privacy notices. 
+
+
+
+
+**B.  What Non PII Do We Collect?**
+
+  * We may capture Non PII such as your user agent, referring URL, browser operating system, device type, location, and/or the language option you chose in your device. Some of the information that we acquire cannot identify, distinguish or trace you or your device. Alternatively, some information could be considered PII when combined with other identifying information. However, the information is not used by us in a way that identifies, distinguishes or traces you or your device, but is instead used in an anonymous way, often aggregated with other anonymous information about other users. 
+
+  * If your PII changes, or if you no longer choose to use our services or the Website, you can contact customer service by e-mail, telephone or postal mail at the contact information listed below to assist you with changes to your account. To the extent your account closes or becomes inactive, we will continue to protect your information as described in this Privacy Policy. 
+
+
+
+
+**2.  How we use information about you:**
+
+**A.  We may use the PII we collect in the following ways:**
+
+  * to contact users with updates and relevant information about our products and services because they have signed up to do so through our Website. If you would no longer like to receive promotional e-mails or other communications from us, please refer to the “How you can opt-out from receiving communications from us” Section below; 
+
+  * to provide users with personalized offers, promotions, news, events and other information relevant to them because they have signed up to do so through our Website; 
+
+  * to quickly process user requests for information and to allow us to respond efficiently to user questions; 
+
+  * to monitor Website statistics; 
+
+  * to respond to or satisfy legal requirements, such as a court order, a subpoena, or a law 
+
+enforcement agency’s or other public agency’s request; 
+
+  * to help prevent the instigation of a crime, to help facilitate an investigation related to public safety, to help protect the safety of a child using our Website, to help protect the security or integrity of our Website, or to enable us to take precautions against liability; 
+
+  * to provide information to service providers or such companies who provide support for the operations of our Website and who do not use or disclose the information for any other purpose; 
+
+  * to administer a contest, promotion, survey, or other features; and 
+
+  * to allow us to disclose your information to the extent permitted by law. 
+
+
+
+
+**3.  How your information may be shared:**
+
+Except as set forth below, we do not sell, trade, or otherwise transfer to third parties our users’ PII unless we receive their consent. That being said, in the following situations, we may share PII with outside parties: 
+
+  * _Subsidiaries_ and _Affiliates_. We may transfer personally identifiable information to our subsidiaries and corporate affiliates; 
+
+  * _Website Consultants and Service Providers_. We may disclose personal information to third party consultants and service providers (such as providers of hosting, support, maintenance; third party payment processing agencies; and remedial and repair services) to the extent that they require access to our databases, or the information contained in our databases, to service us and the Website. We use Outbrain as a native advertising and content discovery platform; PubGalaxy to display advertising solutions; Playbuzz, Connatix and Truvid as a video advertising solution; StackCommerce as a native commerce platform; JW Player as a video player software; Facebook Social Share and LinkedIn as social media plug-ins; Hotjar for user engagement and web analytics and Google Analytics and Yandex Metrica for web analytics software. For more information on how your PII is used by these companies, please refer to their respective privacy policies; 
+
+  * _Enforcement of Rights/Security_. We reserve the right to release personal information (i) when we are under legal compulsion to do so (e.g. we have received a subpoena) or we otherwise believe that the law requires us to do so, (ii) when we believe it is necessary to protect and/or enforce the rights, property interests, or our safety, the safety of our users, or the safety of others, or (iii) as we deem necessary to resolve disputes, troubleshoot problems, prevent fraud and otherwise enforce the Privacy Policy and other Website user agreements;
+
+
+
+  * _Reorganization or Sale_. In the event that we merge with or become a part of another organization, or in the event that we are sold, we sell all or substantially all of our assets, or we are otherwise reorganized, the information you provide will be one of the transferred assets to the acquiring or reorganized entity; 
+
+  * _To Help Protect Minor Users of Our Website_. In the event that the safety of our users is threatened, and we are able to do something about that by sharing PII with third parties, we reserve the right to do so. This may be done to prevent the instigation of a crime, to help facilitate an investigation related to public safety, to help protect the safety of a child using our Website, to help protect the security or integrity of our Website, or to enable us to take precautions against liability; 
+
+  * _As Otherwise Allowed by Law_. We may transfer personal information to third parties where we are expressly authorized by applicable law to do so; 
+
+  * _Aggregated Information_. We may aggregate information that you provide with information provided by other individuals in such a manner that the information is not personally identifiable to you, and we may transfer that aggregated information to third parties; 
+
+  * We may make available services such as blogs, message boards and chat functionality to which you are able to post information and materials. Please note that any information you disclose through such services or otherwise on the Website becomes public information, and may be available to visitors to the Website and to the general public. In addition, when you choose to make a posting on such services certain personal information will be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose personal information about you, or any other information, on the Website. WE ARE NOT RESPONSIBLE FOR THE USE BY ANY THIRD PARTY OF ANY PERSONAL INFORMATION YOU VOLUNTARILY DISCLOSE THROUGH ANY SUCH SERVICES OR OTHERWISE ON THE WEBSITE; and 
+
+  * With your express consent.
+
+
+
+
+**4.  How we store and process information about you:**
+
+In order to communicate with you about products, local events, offers and opportunities, the information that we collect from you may be transferred to, stored, used and processed by Interesting Engineering in the United States or one of our service providers based in the United States or outside of the United States. Such entities may be engaged in, among other things: (i) preparing and sending newsletters to which you subscribe; (ii) the processing of payment details; and (iii) the provision of support services. 
+
+If you are visiting from the European Union or other regions with laws governing information collection and use that may differ from United States law, please note that you are transferring your personal information to the United States. The laws of some countries may not provide the same levels of protection of personal information as your home country, particularly if you are a resident in the European Union. By submitting your information, you agree to the collection, transfer, storage, use and processing of information about you for the purposes described in this Privacy Policy. When you provide your personal information to us or our service providers or vendors, you consent to the processing of your information in the United States as the Website is operated in the United States. We will take reasonable steps to ensure that information about you is treated securely in accordance with this Privacy Policy, and that all information you provide to us is stored on our secure servers or those of our service providers. 
+
+YOU ACKNOWLEDGE THAT THE LAWS OF THE UNITED STATES TREAT YOUR INFORMATION IN A MANNER THAT MAY BE SUBSTANTIALLY DIFFERENT FROM, AND LESS PROTECTIVE THAN, THE TREATMENT REQUIRED UNDER THE LAWS OF OTHER COUNTRIES AND JURISDICTIONS. IF YOU DO NOT WANT YOUR INFORMATION TRANSFERRED TO THE UNITED STATES, YOU SHOULD NOT SHARE YOUR INFORMATION WITH US, OR MAKE USE OF THIS WEBSITE. 
+
+TO THE EXTENT ALLOWED BY THE LAW OF THE COUNTRY IN WHICH YOU ARE LOCATED, YOU EXPRESSLY WAIVE ANY RIGHT YOU MAY HAVE TO REQUIRE US TO TREAT YOUR IDENTIFYING INFORMATION IN ACCORDANCE WITH THE LAWS OF ANY COUNTRY OR JURISIDICTION OTHER THAN THE UNITED STATES. HOWEVER, THE FOREGOING WAIVER MAY NOT BE LEGALLY BINDING IN SOME COUNTRIES, SUCH AS THE MEMBER STATES OF THE EUROPEAN UNION. TO THE EXTENT IT IS NOT LEGALLY BINDING IN THE COUNTRY IN WHICH YOU ARE LOCATED, THIS FOREGOING WAIVER DOES NOT APPLY TO YOU. 
+
+**5.  When and how we communicate with you:**
+
+We may use the information we collect to contact you by mail, email and telephone (including automated calls, and by SMS text messages and other multimedia electronic messages such as picture messaging). 
+
+We will not send you unsolicited premium rate SMS messages (which are SMS messages you pay to receive), although your service provider may impose a charge on any messages that you receive. Please check with your service provider for details. 
+
+You can unsubscribe from promotional emails and other commercial communications by following the instructions contained within the communication. Please note that due to marketing production schedules you may receive any messages already in production. 
+
+**6.  How long we will hold personal information about you**
+
+We will hold personal information about you on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Interesting Engineering, subject to any applicable laws and/or regulations. In the case that you wish to cancel your registration as a member of the Website once an account is deleted, we cannot use the personal information about you other than for administrative purposes. 
+
+Where you contribute to the Website, we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
+
+**7.  How you can opt-out from receiving communications from us:**
+
+At any time you can add or remove your name from an Interesting Engineering list by contacting us at [contact@interestingengineering.com](mailto:contact@interestingengineering.com). 
+
+We will endeavor to comply with your request as soon as reasonably practicable. Please keep in mind that if you opt-out of receiving promotional messages from this Website, we will continue to send you transactional messages and important account-related information regarding this Website or products or services offered through this Website.
+
+**8.  Analysis Tools and our use of cookies**
+
+We may use cookies, log files, clear gifs, and/or similar devices to identify you, to keep track of the user’s interactions with the Website, and to and enhance certain activities available on the Website. These devices are small text or other electronic files that are used for user-identification purposes, record- keeping purposes, and to increase the ease of use of the Website. We may use persistent or not-persistent cookies. Users can remove or reject persistent cookies by following the directions provided in their Internet browser’s “help” file. If a user removes a persistent cookie or rejects persistent cookies, the functionality of the Website, or any part thereof, may be impaired or unavailable. 
+
+Third-party advertisers on the Website may use cookies and other technologies in their advertisements for statistical purposes; we have no control over cookies placed on the Website by third parties. 
+
+**9.  Information over the Internet and other Websites**
+
+The Internet is a global network and, therefore, there are times when information about you travels globally and may not always be completely secure. If you provide us with information over the Internet, this will be at your own risk. By using the Website, you agree and authorize us to process information in this way. However, please be assured that we use commercially reasonable procedures and security features to prevent unauthorized access to information about you. 
+
+In an attempt to provide you with increased value, the Website may contain links to third party websites. These linked websites have separate and independent privacy policies or may have no privacy policy at all. We are not responsible or liable for the content, activities or privacy policies of such linked websites. Nonetheless, we seek to protect the integrity of the Website, and welcome any feedback about a linked website (including if a specific link does not work). 
+
+**10.  Offensive or inappropriate content**
+
+If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly. You acknowledge that we have not reviewed and do not necessarily endorse the content of these websites, applications, destinations or services linked to or accessible from this Website and are not responsible for the content or actions of any other sites, applications, destinations or services. Your linking to or accessing any other website, application, destination or service is at your sole risk. 
+
+**11.  Legal disclaimer**
+
+We are not responsible nor will be liable to you in any way for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that our performance will be error free, and to the maximum extent permitted by law we will not be liable for any direct, indirect, incidental, consequential or punitive damages or other loss suffered by you and relating to the use or release of your personal information. 
+
+YOUR CALIFORNIA PRIVACY RIGHTS 
+
+A California privacy law that went into effect on January 1, 2005, the “Shine the Light” law, allows California residents to obtain a list of third parties to whom a business has disclosed personal information if it shares such information with third parties for their direct marketing purposes. However, if a business adopts and discloses in its privacy policy a policy of not disclosing customers’ personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and by providing a cost-free means to exercise that right. 
+
+As stated earlier in this Privacy Policy, personal information submitted at the time of registration or submission may be used for marketing and promotional purposes only with the user’s permission. Whenever a user agrees to allow us to collect personal information, we provide the user with an option to prevent such information from being shared for marketing and promotional purposes with third parties. Furthermore, you may exercise this cost-free option at any time by sending an email to [contact@interestingengineering.com](mailto:contact@interestingengineering.com). 
+
+Because the Website has a comprehensive privacy policy and provides you with details on how you may opt-in or opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with the third party list. 
+
+**12\. How to contact us**
+
+We welcome your questions, comments and concerns about privacy. Please contact us at [legal@interestingengineering.com](mailto:legal@interestingengineering.com) with any questions or comments you may have regarding the privacy of your information.
+
+Interesting Engineering, Inc. 
+
+_Copyright © 2019 Interesting Engineering, Inc. All Rights Reserved._
 
 You may change your user data settings here:
