@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleathome.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231314id_/http%3A//groupetva.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleathome.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223143531id_/http%3A//groupetva.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Groupe TVA
 
