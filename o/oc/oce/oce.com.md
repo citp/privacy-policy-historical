@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oce.com privacy policy that was archived on 2019-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190217022931id_/https%3A//www.oce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oce.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223063412id_/https%3A//www.oce.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Océ
 
