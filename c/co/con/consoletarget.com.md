@@ -1,227 +1,218 @@
-> *The following text is extracted and transformed from the consoletarget.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609075616id_/https%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consoletarget.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223143120id_/https%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Big Fish, Inc.
+# Privacy Policy | Big Fish
 
-  * [Deutsch](https://www.bigfishgames.de/company/privacy.html "Besuche die deutsche Seite von Big Fish Games.")
-  * | [Español](https://www.bigfishgames.es/company/privacy.html "Visita la página en español de Big Fish Games.")
-  * | [Français](https://www.bigfishgames.fr/company/privacy.html "Consultez notre site Big Fish Games français.")
-  * | [Italiano](https://www.bigfishgames.it/company/privacy.html "Visita il sito di Big Fish Games in italiano.")
-  * | [Nederlands](https://www.bigfishgames.nl/company/privacy.html "Ga naar de Nederlandse site van Big Fish Games.")
-  * | [Português](https://www.bigfishgames.com.br/company/privacy.html "Visite o website da Big Fish Games em português.")
-  * | [日本語](https://www.bigfishgames.jp/company/privacy.html "ビッグフィッシュゲームズの日本語サイトにアクセス")
+Last modified: July 9, 2019
 
+We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering. By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy.  **If you reside in the European Union the  [SECTION FOR USERS RESIDING IN THE EUROPEAN UNION](https://www.bigfishgames.com/company/privacy.html#eu_users) applies to you and has specific rules on consent and details of our EU representative, as required by European Union data protection requirements.**
 
+You must be at least thirteen (13) years of age, or sixteen (16) years of age if you are located in the European Union, to create a Big Fish account or to access or use most Big Fish Offerings.  You must be at least eighteen (18) years of age to access or use Big Fish Offerings involving social casino-style game play (“Restricted Offerings,” which include but are not limited to the video games Big Fish Casino and Jackpot Magic Slots).  If you are younger than eighteen (18) (or the age of legal majority where you live): (1) you may not access or use Restricted Offerings, and (2) you may use the Big Fish Offerings (other than Restricted Offerings) only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use. If you are a parent or legal guardian of a user under the age of eighteen (18), you agree to be fully responsible for the acts or omissions of such user in relation to any Big Fish Offering. For additional policies pertaining to children, please see the section on [CHILDREN](https://www.bigfishgames.com/company/privacy.html#children) below.
 
-Last modified: March 28, 2019
+The term "Big Fish" means Big Fish Games, Inc. and/or its Affiliates. The term "Affiliate" means, with respect to any party, any person or entity which controls, is controlled by, or is under common control with, such party. The term "Big Fish Offering" means the websites of Big Fish, including www.bigfishgames.com, any other sites on which this Privacy Policy is posted, and any other Big Fish application, service or product licensed, downloaded or otherwise accessed by you through third party sites or sources, including the products and services available through any of the foregoing.
 
-We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering. By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy. **If you reside in the European Union theSECTION FOR USERS RESIDING IN THE EUROPEAN UNION applies to you and has specific rules on consent and details of our EU representative, as required by European Union data protection requirements.**
+## INFORMATION THAT WE MAY COLLECT
 
-You must be at least thirteen (13) years of age, or sixteen (16) years of age if you are located in the European Union, to create a Big Fish account or to access or use most Big Fish Offerings.  You must be at least eighteen (18) years of age to access or use Big Fish Offerings involving social casino-style game play (“Restricted Offerings,” which include but are not limited to the video games Big Fish Casino and Jackpot Magic Slots).  If you are younger than eighteen (18) (or the age of legal majority where you live): (1) you may not access or use Restricted Offerings, and (2) you may use the Big Fish Offerings (other than Restricted Offerings) only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use. If you are a parent or legal guardian of a user under the age of eighteen (18), you agree to be fully responsible for the acts or omissions of such user in relation to any Big Fish Offering. 
+### Personally Identifiable Information:
 
-The term "Big Fish" means Big Fish Games, Inc. and/or its Affiliates. The term "Affiliate" means, with respect to any party, any person or entity which controls, is controlled by, or is under common control with, such party. The term "Big Fish Offering" means the websites of Big Fish, including www.bigfishgames.com, any other sites on which this Privacy Policy is posted, and any other Big Fish application, service or product licensed, downloaded or otherwise accessed by you through third party sites or sources, including the products and services available through any of the foregoing. 
+We may collect the following information when you sign up with a Big Fish Offering: first name, last name, date of birth, email address, mailing address, phone number, credit or debit card information or other payment details, depending on your form of payment.
 
-## INFORMATION THAT WE MAY COLLECT 
+### Technical Information:
 
-### Personally Identifiable Information: 
+When a user accesses a Big Fish Offering, we may collect technical information about the user’s device, such as the IP address that requested the display of the Big Fish Offering, whether you are connected to Wi-Fi or to Mobile Data, name of the Internet service provider, the operating system type, the battery status of your device, the resolution of your device’s screen and the identifiers associated with the device.
 
-We may collect the following information when you sign up with a Big Fish Offering: first name, last name, date of birth, email address, mailing address, phone number, credit or debit card information or other payment details, depending on your form of payment. 
+### Sign Up and Survey information:
 
-### Technical Information: 
+Any information you provide to us, and any information you choose to share about yourself as part of your use of any Big Fish Offering, may be stored as entered, such as your authentication method and information.
 
-When a user accesses a Big Fish Offering, we may collect technical information about the user’s device, such as the IP address that requested the display of the Big Fish Offering, whether you are connected to Wi-Fi or to Mobile Data, name of the Internet service provider, the operating system type, the battery status of your device, the resolution of your device’s screen and the identifiers associated with the device. 
+### Cookies and Web beacons:
 
-### Sign Up and Survey information: 
+Cookies are text files that we and our service providers may place on your device's browser to enable our systems to recognize your browser and to provide features such as storage of items in your shopping cart between visits, personalized Big Fish advertisements on third party websites and mobile applications, and personalized third party advertisements within certain Big Fish Offerings. We may use Adobe Flash cookies to remember your settings, preferences and usage within a Big Fish Offering. Web beacons, clear .gifs or similar technologies are small pieces of code that we and our service providers may place on a Big Fish Offering to monitor and collect data about visitor behavior within the Big Fish Offering.
 
-Any information you provide to us, and any information you choose to share about yourself as part of your use of any Big Fish Offering, may be stored as entered, such as your authentication method and information. 
+We may receive a confirmation when you open email from Big Fish, if your computer supports such capabilities. We may also track other types of information, such as what games users download and install, any download errors, what games users purchase, how long our users have been participating in any Big Fish Offerings, the last time a user accessed a Big Fish Offering, user behavior and gameplay (e.g., which options you choose, your progress in the game, how long you play), whether a user has won any of our games, sweepstakes, contests or other promotions featured on a Big Fish Offering, ad response measurement and other Big Fish Offerings analytics.
 
-### Cookies and Web beacons: 
+We use cookies for a variety of reasons, including to: (i) analyze the usage of Big Fish Offerings; (ii) provide a more personalized experience; (iii) manage advertising; (iv) allow you to more easily log in to Big Fish Offerings; (v) help make your use of Big Fish Offerings more efficient and more valuable by providing you with a customized experience and recognizing you when you return. We may also employ web beacons or other technology for a variety of reasons such as: (i) allowing us to know if a certain page was visited or whether an email was opened; and (ii) tracking pixels, which allow us to advertise more efficiently by excluding our current users from certain promotional messages or identifying the source of a new installation.
 
-Cookies are text files that we and our service providers may place on your device's browser to enable our systems to recognize your browser and to provide features such as storage of items in your shopping cart between visits, personalized Big Fish advertisements on third party websites and mobile applications, and personalized third party advertisements within certain Big Fish Offerings. We may use Adobe Flash cookies to remember your settings, preferences and usage within a Big Fish Offering. Web beacons, clear .gifs or similar technologies are small pieces of code that we and our service providers may place on a Big Fish Offering to monitor and collect data about visitor behavior within the Big Fish Offering. 
+We provide further detail about the types of cookies we use in our [Cookie Policy](https://www.bigfishgames.com/company/cookie-policy.html).
 
-We may receive a confirmation when you open email from Big Fish, if your computer supports such capabilities. We may also track other types of information, such as what games users download and install, any download errors, what games users purchase, how long our users have been participating in any Big Fish Offerings, the last time a user accessed a Big Fish Offering, user behavior and gameplay (e.g., which options you choose, your progress in the game, how long you play), whether a user has won any of our games, sweepstakes, contests or other promotions featured on a Big Fish Offering, ad response measurement and other Big Fish Offerings analytics. 
+You can set your web browser to warn you about attempts to place cookies on your computer, limit the type of cookies you allow or refuse cookies all together. We invite you to visit the support websites of the various browsers you may use to learn on how to block the use of cookies. However, you may not be able to use some or all of the features of Big Fish Offerings if you refuse/disable cookies.
 
-We use cookies for a variety of reasons, including to: (i) analyze the usage of Big Fish Offerings; (ii) provide a more personalized experience; (iii) manage advertising; (iv) allow you to more easily log in to Big Fish Offerings; (v) help make your use of Big Fish Offerings more efficient and more valuable by providing you with a customized experience and recognizing you when you return. We may also employ web beacons or other technology for a variety of reasons such as: (i) allowing us to know if a certain page was visited or whether an email was opened; and (ii) tracking pixels, which allow us to advertise more efficiently by excluding our current users from certain promotional messages or identifying the source of a new installation. 
+### Social Networking Sites:
 
-We provide further detail about the types of cookies we use in our [Cookie Policy](https://www.bigfishgames.com/company/cookie-policy.html). 
+If you access a Big Fish Offering via a third party social networking site (a "Social Game"), Big Fish may receive information about your social networking site profile, including without limitation the information you make publicly available, your social networking site user ID, your first, last and user names, profile and cover photos. If you invite new members into your Social Games network or send messages through Social Games, we may collect the information associated with those messages, including your friends' social networking site user IDs, email addresses and content.
 
-You can set your web browser to warn you about attempts to place cookies on your computer, limit the type of cookies you allow or refuse cookies all together. We invite you to visit the support websites of the various browsers you may use to learn on how to block the use of cookies. However, you may not be able to use some or all of the features of Big Fish Offerings if you refuse/disable cookies. 
+### Mobile:
 
-### Social Networking Sites: 
+When you download or access Big Fish Offerings via a mobile device, we and our service providers may receive information about your location (based on your IP address) and your mobile device, including various unique identifiers associated with your device, hardware type, the version of your operating system and your in-game activity. We and our service providers may use this information to provide you with personalized advertising and other content, including advertising and content based on your location.
 
-If you access a Big Fish Offering via a third party social networking site (a "Social Game"), Big Fish may receive information about your social networking site profile, including without limitation the information you make publicly available, your social networking site user ID, your first, last and user names, profile and cover photos. If you invite new members into your Social Games network or send messages through Social Games, we may collect the information associated with those messages, including your friends' social networking site user IDs, email addresses and content. 
+### Aggregated, Anonymous Information:
 
-### Mobile: 
+We may collect aggregated, anonymized information via Big Fish Offerings that does not identify any single user or device. If you choose to provide a username within a Big Fish Offering, please do not provide as your username any information that identifies you in real life, such as your real name.
 
-When you download or access Big Fish Offerings via a mobile device, we and our service providers may receive information about your location (based on your IP address) and your mobile device, including various unique identifiers associated with your device, hardware type, the version of your operating system and your in-game activity. We and our service providers may use this information to provide you with personalized advertising and other content, including advertising and content based on your location. 
+## USE OF COLLECTED INFORMATION
 
-### Aggregated, Anonymous Information: 
+### To Provide Services to You:
 
-We may collect aggregated, anonymized information via Big Fish Offerings that does not identify any single user or device. If you choose to provide a username within a Big Fish Offering, please do not provide as your username any information that identifies you in real life, such as your real name. 
+We may use your username, email address, and password to uniquely identify you as a user of a Big Fish Offering, to provide you with services and to process transactions. We may use or display your username and icon or profile photo, if applicable, for the purposes of rankings, competitions or sweepstakes, chat identification, and/or game high scores. We may use your date of birth to confirm your eligibility to participate in Big Fish Offerings.
 
-## USE OF COLLECTED INFORMATION 
+### Advertising Purposes:
 
-### To Provide Services to You: 
+Subject to the terms of this Privacy Policy, we may use your contact information to process our promotional newsletters and/or email campaigns and to send you updates, security alerts, or administrative messages relating to Big Fish Offerings. Your contact information will allow us to notify you about new features, enhancements, resolution of Big Fish Offerings problems, handle and/or route your customer support questions and issues, and inform you of upgrade opportunities, sweepstakes, contests, prizes, and/or special events.
 
-We may use your username, email address, and password to uniquely identify you as a user of a Big Fish Offering, to provide you with services and to process transactions. We may use or display your username and icon or profile photo, if applicable, for the purposes of rankings, competitions or sweepstakes, chat identification, and/or game high scores. We may use your date of birth to confirm your eligibility to participate in Big Fish Offerings. 
+If our "Tell a friend" feature is available within a particular Big Fish Offering and you choose to participate in it, your email will be shared with the person to whom you send the Big Fish Offering using this feature. We may use an IP address to surface the appropriate country-based version of a Big Fish Offering to a user, or to exercise our ability to restrict access to the site by users who have violated our Terms of Use.
 
-### Advertising Purposes: 
+We and our third party service providers use cookies and other technologies, such as mobile device identifiers, to enhance your experience with Big Fish Offerings. These technologies enable us and our service providers to run our affiliate programs and provide you with customized content or offerings, such as personalized Big Fish advertisements on other websites and mobile applications and personalized third party advertisements within certain Big Fish Offerings. Cookies also enable you to automatically sign in when you access a Big Fish Offering, and offer other operational activities within a Big Fish Offering. We and our third party service providers may also use cookies and other technologies to manage and measure the performance of third party advertisements within certain Big Fish Offerings, and Big Fish advertisements on third party sites and mobile applications. This helps us and our service providers provide more relevant advertising to you. We and our third party service providers may also use web beacons to monitor user behavior and collect information about visitors viewing a web page.
 
-Subject to the terms of this Privacy Policy, we may use your contact information to process our promotional newsletters and/or email campaigns and to send you updates, security alerts, or administrative messages relating to Big Fish Offerings. Your contact information will allow us to notify you about new features, enhancements, resolution of Big Fish Offerings problems, handle and/or route your customer support questions and issues, and inform you of upgrade opportunities, sweepstakes, contests, prizes, and/or special events. 
+### Product Improvement and Security:
 
-If our "Tell a friend" feature is available within a particular Big Fish Offering and you choose to participate in it, your email will be shared with the person to whom you send the Big Fish Offering using this feature. We may use an IP address to surface the appropriate country-based version of a Big Fish Offering to a user, or to exercise our ability to restrict access to the site by users who have violated our Terms of Use. 
+We may use information collected to calculate aggregate, anonymized statistics about our user community for the purpose of enhancing our Big Fish Offerings, or for security purposes.
 
-We and our third party service providers use cookies and other technologies, such as mobile device identifiers, to enhance your experience with Big Fish Offerings. These technologies enable us and our service providers to run our affiliate programs and provide you with customized content or offerings, such as personalized Big Fish advertisements on other websites and mobile applications and personalized third party advertisements within certain Big Fish Offerings. Cookies also enable you to automatically sign in when you access a Big Fish Offering, and offer other operational activities within a Big Fish Offering. We and our third party service providers may also use cookies and other technologies to manage and measure the performance of third party advertisements within certain Big Fish Offerings, and Big Fish advertisements on third party sites and mobile applications. This helps us and our service providers provide more relevant advertising to you. We and our third party service providers may also use web beacons to monitor user behavior and collect information about visitors viewing a web page. 
+### Linking with Social Networks:
 
-### Product Improvement and Security: 
+If you access a Social Game, we may use your social networking site profile ID to link your social networking site account with your activities within the Social Game or offer personalized Big Fish advertisements on the social networking site. We may use your social networking site first, last and user names and icon to identify you to the social networking site account you've linked to your activities within the Social Game, as well as for the purposes of rankings, competitions, sweepstakes, game high scores and/or identification to your social network.
 
-We may use information collected to calculate aggregate, anonymized statistics about our user community for the purpose of enhancing our Big Fish Offerings, or for security purposes. 
+If you access a Social Game and provide us with another person's contact information for purposes of delivering information through a Social Game, we may use this information to contact and, if necessary, remind that person that she or he has been invited to join a Social Game or received content through a Social Game. All invitees are provided with the option not to receive further invitations from Big Fish.
 
-### Linking with Social Networks: 
+## SECURITY
 
-If you access a Social Game, we may use your social networking site profile ID to link your social networking site account with your activities within the Social Game or offer personalized Big Fish advertisements on the social networking site. We may use your social networking site first, last and user names and icon to identify you to the social networking site account you've linked to your activities within the Social Game, as well as for the purposes of rankings, competitions, sweepstakes, game high scores and/or identification to your social network. 
+We at Big Fish take reasonable measures to help protect the information we collect from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. While we have employed security technologies and procedures to assist safeguarding your personal data, no system or network can be guaranteed to be 100% secure.
 
-If you access a Social Game and provide us with another person's contact information for purposes of delivering information through a Social Game, we may use this information to contact and, if necessary, remind that person that she or he has been invited to join a Social Game or received content through a Social Game. All invitees are provided with the option not to receive further invitations from Big Fish. 
+## SHARING INFORMATION
 
-## SECURITY 
+We may share customer information with Big Fish Affiliates, other companies of the Aristocrat Group to which Big Fish belongs, and as described below.
 
-We at Big Fish take reasonable measures to help protect the information we collect from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. While we have employed security technologies and procedures to assist safeguarding your personal data, no system or network can be guaranteed to be 100% secure. 
+### Third Party Marketplaces and Service Providers:
 
-## SHARING INFORMATION 
+We may disclose your personal information as well as aggregate, anonymous information to third party business partners, marketplaces, and third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, collecting and analyzing data, providing search results and links (including paid listings and links), and providing advertising and marketing assistance, including serving ads on our behalf on third party websites and mobile applications and serving ads on behalf of third parties within certain Big Fish Offerings. Those third parties have access to your personal information only as necessary to perform their functions, and for no other purposes.
 
-We may share customer information with Big Fish Affiliates, other companies of the Aristocrat Group to which Big Fish belongs, and as described below. 
+### Business Transfers:
 
-### Third Party Marketplaces and Service Providers: 
+As Big Fish (and the Aristocrat Group) continues to grow, we might sell or buy certain subsidiaries and/or business units. In such transactions, customer information is generally one of the transferred assets. Also, in the unlikely event that Big Fish or substantially all of its assets are acquired, customer information would in most cases be one of the transferred assets.
 
-We may disclose your personal information as well as aggregate, anonymous information to third party business partners, marketplaces, and third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, collecting and analyzing data, providing search results and links (including paid listings and links), and providing advertising and marketing assistance, including serving ads on our behalf on third party websites and mobile applications and serving ads on behalf of third parties within certain Big Fish Offerings. Those third parties have access to your personal information only as necessary to perform their functions, and for no other purposes. 
+### Protection of Big Fish and Others:
 
-### Business Transfers: 
+We may also disclose your information if there is a violation of the [Terms of Use](https://www.bigfishgames.com/company/terms.html) or other agreements; if we have a good faith belief that the law requires it; or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction as well as in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-As Big Fish (and the Aristocrat Group) continues to grow, we might sell or buy certain subsidiaries and/or business units. In such transactions, customer information is generally one of the transferred assets. Also, in the unlikely event that Big Fish or substantially all of its assets are acquired, customer information would in most cases be one of the transferred assets. 
+## ACCESSING YOUR INFORMATION AND YOUR CHOICES
 
-### Protection of Big Fish and Others: 
+Big Fish enables you to access a wide range of information about your account and your interactions with Big Fish Offerings. If you have created a customer account, you may access your account information by logging on to www.bigfishgames.com and clicking on "Account" on the top of your screen. You may also contact us about your information and your choices for limiting the use and disclosure of your information by visiting https://www.bigfishgames.com/help; by emailing us at privacy@bigfishgames.com; or by sending us postal mail at: Big Fish Privacy Policy Department, 906 Alaskan Way, Suite 700, Seattle, WA 98104 USA.
 
-We may also disclose your information if there is a violation of the [Terms of Use](https://www.bigfishgames.com/company/terms.html) or other agreements; if we have a good faith belief that the law requires it; or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction. 
+### Promotional email communications:
 
-## ACCESSING YOUR INFORMATION AND YOUR CHOICES 
+Unless you are located in the EU or certain other jurisdictions, when you create a customer account or provide access to your email address via a Big Fish Offering, you may be automatically registered to receive one or more of our promotional e- newsletters.
 
-Big Fish enables you to access a wide range of information about your account and your interactions with Big Fish Offerings. If you have created a customer account, you may access your account information by logging on to www.bigfishgames.com and clicking on "Account" on the top of your screen. You may also contact us about your information and your choices for limiting the use and disclosure of your information by visiting https://www.bigfishgames.com/help; by emailing us at privacy@bigfishgames.com; or by sending us postal mail at: Big Fish Privacy Policy Department, 906 Alaskan Way, Suite 700, Seattle, WA 98104 USA. 
+Note that when you provide an email address through a Big Fish Offering, we treat that as a request to be enrolled in one of our promotional e-newsletter lists, even if you previously opted out of receiving newsletters from us. If you change your mind and wish to opt out again, you may do so at any time by clicking the "unsubscribe" link at the bottom of any newsletter and then following the instructions provided. If you express interest in a Big Fish Offering by clicking on a banner within a newsletter, you may be automatically registered to receive newsletters relating to the Big Fish Offering that appeared in the banner.
 
-### Promotional email communications: 
+At any time, you may opt-out of receiving a newsletter by selecting the "unsubscribe" link at the bottom of any newsletter. We treat each Big Fish Offering individually, so if you are receiving mailings from more than one Big Fish Offering, if you want to unsubscribe you must do so with respect to each individually or you can unsubscribe universally by contacting us at https://www.bigfishgames.com/help. Please note that we reserve the right to send you non-promotional, account or administrative emails even if you opt out of receiving promotional e-newsletters.
 
-Unless you are located in the EU or certain other jurisdictions, when you create a customer account or provide access to your email address via a Big Fish Offering, you may be automatically registered to receive one or more of our promotional e- newsletters. 
+### Mobile Advertising:
 
-Note that when you provide an email address through a Big Fish Offering, we treat that as a request to be enrolled in one of our promotional e-newsletter lists, even if you previously opted out of receiving newsletters from us. If you change your mind and wish to opt out again, you may do so at any time by clicking the "unsubscribe" link at the bottom of any newsletter and then following the instructions provided. If you express interest in a Big Fish Offering by clicking on a banner within a newsletter, you may be automatically registered to receive newsletters relating to the Big Fish Offering that appeared in the banner. 
+Most mobile devices provide the ability to opt out of the collection and use of information from the apps you use for purposes of serving ads targeted to your interests. For more information, and to exercise these choices, consult the settings on your device.
 
-At any time, you may opt-out of receiving a newsletter by selecting the "unsubscribe" link at the bottom of any newsletter. We treat each Big Fish Offering individually, so if you are receiving mailings from more than one Big Fish Offering, if you want to unsubscribe you must do so with respect to each individually or you can unsubscribe universally by contacting us at https://www.bigfishgames.com/help. Please note that we reserve the right to send you non-promotional, account or administrative emails even if you opt out of receiving promotional e-newsletters. 
+### Social Games:
 
-### Mobile Advertising: 
+With respect to Social Games, you may manage your own social network privacy preferences through your social networking site account.
 
-Most mobile devices provide the ability to opt out of the collection and use of information from the apps you use for purposes of serving ads targeted to your interests. For more information, and to exercise these choices, consult the settings on your device. 
+## THIRD-PARTIES
 
-### Social Games: 
+Big Fish Offerings may allow you to play or share information through social media (such as by logging in through a social media account or using a "Like" button") or contain links to social media services or other third parties. The use of these features and links are subject to the privacy policies of those companies and your settings on those services. Big Fish has no control over, and is not responsible for, the information submitted to or collected by social networks or other third parties. We encourage you to review those third party privacy policies to understand the way your information may be collected and handled by such third parties.
 
-With respect to Social Games, you may manage your own social network privacy preferences through your social networking site account. 
+## CHAT & MESSAGING
 
-## THIRD-PARTIES 
+Big Fish Offerings may operate message boards and/or chat areas where users can exchange ideas and communicate with each other. When posting to a message board or chat area, the information is being made publicly available in an online environment. Any information posted is the sole responsibility of the individual user.
 
-Big Fish Offerings may allow you to play or share information through social media (such as by logging in through a social media account or using a "Like" button") or contain links to social media services or other third parties. The use of these features and links are subject to the privacy policies of those companies and your settings on those services. Big Fish has no control over, and is not responsible for, the information submitted to or collected by social networks or other third parties. We encourage you to review those third party privacy policies to understand the way your information may be collected and handled by such third parties. 
+## CHILDREN
 
-## CHAT & MESSAGING 
+Big Fish Offerings are generally designed for users who are at least 13 years of age and older and therefore such Offerings generally do not knowingly collect or make use of "personal information" as defined in the Children’s Online Privacy Protection Act ("COPPA") from children under 13, except as consistent with applicable law.
 
-Big Fish Offerings may operate message boards and/or chat areas where users can exchange ideas and communicate with each other. When posting to a message board or chat area, the information is being made publicly available in an online environment. Any information posted is the sole responsibility of the individual user. 
+Some Big Fish Offerings may allow children under 13 to participate in certain activities or gain access to limited gameplay or features within an application, but these offerings are designed to collect only certain device identifiers from children under 13 and use those identifiers solely for purposes that support the internal operations of those offerings or as otherwise permitted by law. We do not knowingly allow children under 13 (16 in the EU) years old to register for an account or otherwise provide any personal information to us, and we do not collect or use personal information from children under 13 for targeted advertising purposes.
 
-## CHILDREN 
+Big Fish respects the privacy of parents and children and is committed to complying with COPPA. If a parent believes that his or her child has submitted personal information to Big Fish, he or she can contact us via email at privacy@bigfishgames.com or postal mail at: Big Fish Privacy Policy Department, 906 Alaskan Way, Suite 700, Seattle, WA 98104 USA. We will take steps to promptly delete the information upon learning that it relates to a child under the age of 13 (16 in the EU). We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
 
-Big Fish Offerings are designed to avoid the collection and use of "personal information" as defined in the Children’s Online Privacy Protection Act ("COPPA") from children under 13 other than for support of internal operations. We do not knowingly collect personal information from children. If you are under 13 (16 in the EU) years old, you may not register for an account or otherwise provide any personal information to us. 
+## CHANGES TO PRIVACY POLICY
 
-Big Fish respects the privacy of parents and children and is committed to complying with COPPA. If a parent believes that his or her child has submitted personal information to Big Fish, he or she can contact us via email at privacy@bigfishgames.com or postal mail at: Big Fish Privacy Policy Department, 906 Alaskan Way, Suite 700, Seattle, WA 98104 USA. We will take steps to promptly delete the information upon learning that it relates to a child under the age of 13 (16 in the EU). We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly. 
+We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the top of this page. We encourage you to periodically review this Privacy Policy to be informed of how Big Fish protects your information. If we make a change that we deem material, we may provide you additional notice.
 
-## CHANGES TO PRIVACY POLICY 
+## FOR USERS IN THE EU
 
-We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the top of this page. We encourage you to periodically review this Privacy Policy to be informed of how Big Fish protects your information. 
+Big Fish Games, Inc. is a US based company which offers its Big Fish Offerings also to individuals residing in the EU. If you reside in the EU, this section will apply to you. To the extent that provisions in this section contradict other provisions of the Privacy Policy, the provisions in this section prevail for EU residents.
 
-## FOR USERS IN THE EU 
+In compliance with the EU General Data Protection Regulation, we have appointed as our EU representative Product Madness (UK) Limited. You can address questions relating to the way we collect, store, use and disclose your personal information either to Big Fish Games, Inc. at the address identified below, or to our representative at the following address:
 
-Big Fish Games, Inc. is a US based company which offers its Big Fish Offerings also to individuals residing in the EU. If you reside in the EU, this section will apply to you. To the extent that provisions in this section contradict other provisions of the Privacy Policy, the provisions in this section prevail for EU residents. 
+Product Madness (UK) Limited  
+Attn: Big Fish Games, Inc.  
+1st Floor, Saffron House  
+6-10 Kirby Street, London EC1N 8TS, UK  
 
-In compliance with the EU General Data Protection Regulation, we have appointed as our EU representative Product Madness (UK) Limited. You can address questions relating to the way we collect, store, use and disclose your personal information either to Big Fish Games, Inc. at the address identified below, or to our representative at the following address: 
 
-> Product Madness (UK) Limited  
->  Attn: Big Fish Games, Inc.  
->  1st Floor, Saffron House  
->  6-10 Kirby Street, London EC1N 8TS, UK  
-> 
+## USE OF COLLECTED INFORMATION (EU Users)
 
-## USE OF COLLECTED INFORMATION (EU Users) 
+Big Fish collects, stores, uses and discloses personal information about you as described above. We do so:
 
-Big Fish collects, stores, uses and discloses personal information about you as described above. We do so: 
+  * to provide you with the service you request, pursuant to our [Terms of Use](https://www.bigfishgames.com/company/terms.html);
+  * based on our legitimate business interest, and subject to your right of objection, to: (i) improve our services and your gaming experience, (ii) ensure the security of our games, (iii) send you newsletters with the latest information on our products and company as well as other advertising for our products, (iv) conclude corporate transactions (e.g., corporate restructuring, sale or assignment of assets, merger);
+  * subject to your explicit consent, share data about you for ad personalization and measurement by our partners. We will present you with a consent form when you access our offerings.
+  * to comply with our legal obligations, any court order or binding decision;
+  * to protect our rights and property, enforce our [Terms of Use](https://www.bigfishgames.com/company/terms.html) and legal notices and for the establishment, exercise and defense of legal claims; and
+  * for purposes unrelated to those described in this Privacy Policy by first notifying you and, where required, offering you a choice as to whether or not we may use your personal information in this different manner.
 
-  * to provide you with the service you request, pursuant to our [Terms of Use](https://www.bigfishgames.com/company/terms.html); 
-  * based on our legitimate business interest, and subject to your right of objection, to: (i) improve our services and your gaming experience, (ii) ensure the security of our games, (iii) send you newsletters with the latest information on our products and company as well as other advertising for our products, (iv) conclude corporate transactions (e.g., corporate restructuring, sale or assignment of assets, merger); 
-  * subject to your explicit consent, share data about you for ad personalization and measurement by our partners. We will present you with a consent form when you access our offerings. 
-  * to comply with our legal obligations, any court order or binding decision; 
-  * to protect our rights and property, enforce our [Terms of Use](https://www.bigfishgames.com/company/terms.html) and legal notices and for the establishment, exercise and defense of legal claims; and 
-  * for purposes unrelated to those described in this Privacy Policy by first notifying you and, where required, offering you a choice as to whether or not we may use your personal information in this different manner. 
 
 
+To the extent you provide information about friends and family members, you will present them this Privacy Policy and obtain their consent to provide their information. If you do not have their consent, do not send us their personal information.
 
-To the extent you provide information about friends and family members, you will present them this Privacy Policy and obtain their consent to provide their information. If you do not have their consent, do not send us their personal information. 
+## CHILDREN (EU Users)
 
-## CHILDREN (EU Users) 
+Other than in the limited instances noted above, we do not accept personal data of children under the age of 13 (16 in the EU).
 
-We do not accept personal data of children under the age of 13 (16 in the EU). 
+If you become aware of an account belonging to someone under 13 (16 in the EU), please contact us at the contact details provided at the end of this Privacy Policy.
 
-If you become aware of an account belonging to someone under 13 (16 in the EU), please contact us at the contact details provided at the end of this Privacy Policy. 
+## YOUR RIGHTS (EU Users)
 
-## YOUR RIGHTS (EU Users) 
+### Withdraw Your Consent:
 
-### Withdraw Your Consent: 
+If you have given us your consent for a particular processing operation, you can withdraw it at all times by contacting us at the contact details provided at the end of this Privacy Policy.
 
-If you have given us your consent for a particular processing operation, you can withdraw it at all times by contacting us at the contact details provided at the end of this Privacy Policy. 
+### Object /Opt-Out
 
-### Object /Opt-Out 
+If we are using your personal information pursuant to our legitimate interest, you have the right, subject to certain conditions, at any time to oppose to our use of your personal information by:
 
-If we are using your personal information pursuant to our legitimate interest, you have the right, subject to certain conditions, at any time to oppose to our use of your personal information by: 
+  * selecting the "unsubscribe" link at the bottom of any newsletter to no longer receive that newsletter or contact Big Fish customer service to universally unsubscribe;
+  * requesting permanent deletion of your account. To exercise this right, please contact Big Fish customer service. Once you request to permanently delete your account, we will require certain information to verify you are the account holder.
 
-  * selecting the "unsubscribe" link at the bottom of any newsletter to no longer receive that newsletter or contact Big Fish customer service to universally unsubscribe; 
-  * requesting permanent deletion of your account. To exercise this right, please contact Big Fish customer service. Once you request to permanently delete your account, we will require certain information to verify you are the account holder. 
 
 
+### Other rights
 
-### Other rights 
+You may also be entitled to ask us to restrict how we use and disclose your information, and to request access to, a copy, correction, erasure, and portability of your information. Please send any such requests to the contact details provided at the end of this Privacy Policy.
 
-You may also be entitled to ask us to restrict how we use and disclose your information, and to request access to, a copy, correction, erasure, and portability of your information. Please send any such requests to the contact details provided at the end of this Privacy Policy. 
+If you are aware of changes or inaccuracies in your information, and you are unable to update such information yourself through our offerings, you should inform us of such changes so that your information may be updated.
 
-If you are aware of changes or inaccuracies in your information, and you are unable to update such information yourself through our offerings, you should inform us of such changes so that your information may be updated. 
+You also have the right to lodge a complaint with a data protection authority.
 
-You also have the right to lodge a complaint with a data protection authority. 
+## RETENTION OF INFORMATION (EU Users)
 
-## RETENTION OF INFORMATION (EU Users) 
+Big Fish may retain copies of your information for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws or delete it earlier (either in whole or in part) if Big Fish determines, in its sole discretion, that the same constitutes a violation of Big Fish's [Terms of Use](https://www.bigfishgames.com/company/terms.html), this Privacy Policy, or for any or no reason.
 
-Big Fish may retain copies of your information for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws or delete it earlier (either in whole or in part) if Big Fish determines, in its sole discretion, that the same constitutes a violation of Big Fish's [Terms of Use](https://www.bigfishgames.com/company/terms.html), this Privacy Policy, or for any or no reason. 
+## PROMOTIONAL EMAIL COMMUNICATIONS (EU Users)
 
-## PROMOTIONAL EMAIL COMMUNICATIONS (EU Users) 
+When you create a customer account or provide access to your email address via a Big Fish Offering, you will be asked to register to receive one or more of our promotional e- newsletters. If you select to do so, please note that you have the right to opt out at any time by contacting Big Fish customer service.
 
-When you create a customer account or provide access to your email address via a Big Fish Offering, you will be asked to register to receive one or more of our promotional e- newsletters. If you select to do so, please note that you have the right to opt out at any time by contacting Big Fish customer service. 
+## PRIVACY SHIELD PROGRAM
 
-## EU-US PRIVACY SHIELD PROGRAM (EU Users) 
+We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish Games, Inc. (along with its subsidiaries 3 Minute Games LLC, BFG Holding LLC, BFG Washington, Inc., Big Fish Premium LLC, Liftoff Labs LLC, and Slots, Slot Machines and Slot Tournaments LLC,) complies with the EU-U.S. and Swiss-U.S. Privacy Shield Framework Principles (collectively, the "Framework") as set forth by the U.S. Department of Commerce regarding the processing of personal information from the European Union (EU) member countries, Switzerland and the United Kingdom (UK). For more information about the Framework, please visit the Department of Commerce's [Privacy Shield website](https://www.privacyshield.gov/). To contact Big Fish directly about the Framework, please email us at privacyshield@bigfishgames.com. If we do not resolve your concern, you may contact [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), Big Fish’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Framework, you may also be able to invoke binding arbitration to resolve your complaint. Big Fish is subject to the investigatory and enforcement powers of the FTC. If we share personal information of EU, Swiss or UK customers with a third-party service provider that processes the data solely on our behalf, then Big Fish will be liable for that third party's processing of the information in violation of the Framework, unless Big Fish can prove that it is not responsible for the event giving rise to the damage. When we share your personal information with third-party service providers, we will enter into onward transfer agreements or other data processing agreements with those third parties. You may request information on and a copy of those agreements by contacting us at privacy@bigfishgames.com.
 
-We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish complies with the EU-US Privacy Shield Framework Principles (the "Framework") as set forth by the US Department of Commerce regarding the processing of personal information from the European Union (EU) member countries. For more information about the Framework, please visit the Department of Commerce's [Privacy Shield website](https://www.privacyshield.gov/). To contact Big Fish directly about the Framework, please email us at privacyshield@bigfishgames.com. If we do not resolve your concern, you may contact [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), Big Fish’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Framework, you may also be able to invoke binding arbitration to resolve your complaint. Big Fish is subject to the investigatory and enforcement powers of the FTC. If we share personal information of EU customers with a third party service provider that processes the data solely on our behalf, then Big Fish will be liable for that third party's processing of the information in violation of the Framework, unless Big Fish can prove that it is not responsible for the event giving rise to the damage. When we share your personal information with third party service providers, we will enter into onward transfer agreements or other data processing agreements with those third parties. You may request information on and a copy of those agreements by contacting us at privacy@bigfishgames.com. 
+Please note that if you are located in the EU or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
 
-Please note that if you are located in the E.U. or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. 
+Please see section (I) on “Sharing Information” to find more about how we share your personal information with Big Fish Affiliates, other companies of the Aristocrat Group (to which Big Fish belongs), and third-party service providers.
 
-Please see section (I) on “Sharing Information” to find more about how we share your personal information with Big Fish Affiliates, other companies of the Aristocrat Group (to which Big Fish belongs), and third party service providers. 
+## ADDITIONAL QUESTIONS
 
-## ADDITIONAL QUESTIONS 
-
-If you have additional questions regarding this privacy policy or our handling of your personal information please contact us at: 
+If you have additional questions regarding this privacy policy or our handling of your personal information please contact us at:
 
 Big Fish Games, Inc.  
-Email address: privacy@bigfishgames.com 
+Email address: privacy@bigfishgames.com
 
-Postal address: 
+Postal address:
 
-> Big Fish Games, Inc. Legal Department  
->  906 Alaskan Way, Suite 700  
->  Seattle, WA 98104 USA  
-> 
+Big Fish Games, Inc. Legal Department  
+906 Alaskan Way, Suite 700  
+Seattle, WA 98104 USA
