@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwsellors.co.uk privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112070802id_/https%3A//www.cwsellors.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwsellors.co.uk privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223221742id_/https%3A//www.cwsellors.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | C W Sellors Fine Jewellery
 
