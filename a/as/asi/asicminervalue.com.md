@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asicminervalue.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201125226id_/https%3A//www.asicminervalue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asicminervalue.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223105858id_/https%3A//www.asicminervalue.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ASIC Miner Value
 
