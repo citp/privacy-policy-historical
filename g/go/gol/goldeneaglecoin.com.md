@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldeneaglecoin.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204100441id_/https%3A//www.goldeneaglecoin.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldeneaglecoin.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223045954id_/https%3A//www.goldeneaglecoin.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy-Policy | Golden Eagle Coins
 
