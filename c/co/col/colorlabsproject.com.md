@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184852id_/https%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223073219id_/https%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Color Labs Project
 
