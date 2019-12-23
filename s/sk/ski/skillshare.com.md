@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillshare.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625203034id_/https%3A//www.skillshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillshare.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223180337id_/https%3A//www.skillshare.com/privacy) for the most accurate reproduction.*
 
 # Skillshare
 
@@ -170,7 +170,7 @@ We will only process your Personal Data if we have a lawful basis for doing so. 
     * Location information
     * IP address
     * Your activity on the Services, including class usage information and community interaction data
-Examples of these legitimate interests include:
+  * Examples of these legitimate interests include:
     * Operation and improvement of our business, products and services
     * Personalization of web content on the Service
     * Analyzing the use of the Services
