@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehouseofdrew.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130001538id_/https%3A//thehouseofdrew.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehouseofdrew.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223013216id_/https%3A//thehouseofdrew.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Drew House
 
