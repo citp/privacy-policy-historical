@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the cats.org.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401071741id_/https%3A//www.cats.org.uk/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cats.org.uk privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223085849id_/https%3A//www.cats.org.uk/terms/terms-privacy) for the most accurate reproduction.*
 
-# Cats Protection | Terms | Privacy policy
-
-  * You are here:
-  * [Home](https://web.archive.org/)
-
-
+# Privacy policy | Cats Protection
 
 Cats Protection (CP) is the UK’s leading feline welfare charity, registered in England and Wales (no. 203644) and Scotland (no. SC037711). As a charity that receives no government funding, we rely entirely on the kindness and generosity of our valued supporters to help around 200,000 cats and kittens every year. We are completely committed to protecting our supporters’ personal information and will only use the information that you provide lawfully.
 
@@ -15,7 +10,7 @@ If you have any queries about this policy please contact the Data Protection tea
 
 _**When you provide us with your personal information you are agreeing to this policy and consenting to our collection and use of that information as set out in this policy.**_
 
-**How do we collect information?**
+### **How do we collect information?**
 
 We may obtain personal information from you in a variety of ways, including when you:
 
@@ -30,20 +25,20 @@ We may obtain personal information from you in a variety of ways, including when
   * post comments via social media
   * play the lottery or raffle
   * buy our goods online or in your local CP shop
-  * visit our website ([www.cats.org.uk](http://www.cats.org.uk/)) for any reason, please see our [Cookie Policy](https://www.cats.org.uk/how-we-use-cookies) for the information that is collected
+  * visit our website ([www.cats.org.uk](http://www.cats.org.uk/)) for any reason, please see our [Cookie Policy](https://web.archive.org/terms/how-we-use-cookies "How we use cookies") for the information that is collected
   * update your previously registered contact details with publicly available sources, eg if you move and use Royal Mail’s redirect service
 
 
 
 All information collected is processed in accordance with our legal requirements and applicable data protection legislation.
 
-**What information do we collect?**
+### **What information do we collect?**
 
 The information we collect depends upon your reason for visiting our website or one of our centres, branches or shops, but may include:
 
   * your name, postal address, telephone number and email address (including details you provide from any social media account/profile such as Facebook, Linkedin, Twitter)
   * credit/debit card information or bank account details if setting up a Direct Debit mandate or making a purchase
-  * analytical data when you visit our website via cookies and your Internet Provider (IP) address. For further information regarding this activity please read our [Cookie Policy](https://www.cats.org.uk/how-we-use-cookies)
+  * analytical data when you visit our website via cookies and your Internet Provider (IP) address. For further information regarding this activity please read our [Cookie Policy](https://web.archive.org/terms/how-we-use-cookies "How we use cookies")
   * records of any correspondence
   * information you enter into our website
   * health information when applying to take part in sporting events such as skydiving
@@ -51,7 +46,7 @@ The information we collect depends upon your reason for visiting our website or 
 
 
 
-**Why do we collect your information?**
+### **Why do we collect your information?**
 
 Cats Protection has a legal basis for processing your personal information in relation to the reasons you have submitted your details these include:
 
@@ -89,11 +84,11 @@ _**When we exercise our legitimate interest to raise the charity’s profile, aw
 
 _**CP will never swap or sell your details. When dealing with your personal information we will always comply with the current UK data protection law and any other applicable legislation.**_
 
-We will only use your personal information for direct marketing purposes if we are permitted to do so by law or if we have your consent. For more information on direct marketing go to [Marketing communication](https://web.archive.org/marketing-communications). The law does permit us to send marketing mail (post) without prior consent until you opt-out of this service which you can do at any time.
+We will only use your personal information for direct marketing purposes if we are permitted to do so by law or if we have your consent. For more information on direct marketing go to [Marketing communication](https://web.archive.org/terms/marketing-communications "Marketing communications"). The law does permit us to send marketing mail (post) without prior consent until you opt-out of this service which you can do at any time.
 
 You can update your communication preferences by writing to Freepost Cats Protection or emailing [supporter.services@cats.org.uk](mailto:supporter.services@cats.org.uk)
 
-**How do we protect personal information?**
+### **How do we protect personal information?**
 
 We take the security of your information very seriously and have put appropriate measures in place to minimise the risk to your information from loss, theft or misuse. These include:
 
@@ -105,7 +100,7 @@ We take the security of your information very seriously and have put appropriate
 
 
 
-**Do we share your information?**
+### **Do we share your information?**
 
 We will never share your personal information:
 
@@ -124,7 +119,7 @@ There are some circumstances where we may need to share your information. For in
 
 
 
-**Your right of access to your information**
+### **Your right of access to your information**
 
 You have the right to ask for a copy of the information we hold about you (this is called a Subject Access Request) and how we use that information. You can also request that any inaccuracies are corrected and, in certain circumstances, request that CP should stop processing your personal information, arrange for it to be transferred or erased.
 
@@ -148,19 +143,19 @@ There are also details of how to opt out of mailings in every pack sent in the p
 
 Please allow a 28-day period for any changes to take effect.
 
-**Do we use 'cookies' ?**
+### **Do we use 'cookies'?**
 
-Cookies are small pieces of information stored by your internet browser onto your computer or mobile device. CP uses session cookies to ensure that you can interact with our websites successfully but to find out more about our cookie policy and usage, please [click here](https://www.cats.org.uk/how-we-use-cookies).
+Cookies are small pieces of information stored by your internet browser onto your computer or mobile device. CP uses session cookies to ensure that you can interact with our websites successfully but to find out more about our cookie policy and usage, please [click here](https://web.archive.org/terms/how-we-use-cookies "How we use cookies").
 
-**Links to third party websites**
+### **Links to third party websites**
 
 If you access any other websites published via CP on website or email communication, please ensure you read their Privacy policy as they are independent from CP and we have no control over how they manage your personal information that is collected from your visit to their website.
 
-**Social media sites (Facebook, Twitter, YouTube, LinkedIn etc)**
+### **Social media sites (Facebook, Twitter, YouTube, LinkedIn etc)**
 
 This policy covers how **we** will use your information from social media pages that you visit but you will also need to read how the providers of the social media websites will use your information. Please ensure you read their Privacy policy before sharing data and make use of their privacy settings and reporting mechanisms to control how your data is used.
 
-**Website information**
+### **Website information**
 
 All information published on this site is provided to the best of our knowledge.
 
@@ -168,13 +163,12 @@ However, while Cats Protection is happy to supply any assistance and guidance re
 
 You may print any newsletter or factsheet on this site for your own information but you may not sell it, reproduce it on the internet, distribute it, alter it, or reprint it in any publication without permission from the Communications Department, Cats Protection, National Cat Centre, Chelwood Gate, Sussex, RH17 7TT or email [websites@cats.org.uk](mailto:websites@cats.org.uk)
 
-**Complaints**
+### **Complaints**
 
-If you have a complaint about Cats Protection or any of our policies or procedures please visit the Contact Us page – [www.cats.org.uk/contact-cp](http://www.cats.org.uk/contact-cp) or email [CustomerComplaints@cats.org.uk](mailto:CustomerComplaints@cats.org.uk)
+If you have a complaint about Cats Protection or any of our policies or procedures please visit the Contact Us page – [www.cats.org.uk/contact-cp](https://web.archive.org/find-us/contact-us "Contact Us") or email [CustomerComplaints@cats.org.uk](mailto:CustomerComplaints@cats.org.uk)
 
-Should you be dissatisfied with our response to your complaint you can contact the Information Commissioner’s Office via their website [www.ico.gov.uk](http://www.ico.gov.uk/) or telephone 0303 123 1113.
+Should you be dissatisfied with our response to your complaint you can contact the Information Commissioner’s Office via their website <https://ico.org.uk/>[](http://www.ico.gov.uk/) or telephone 0303 123 1113.
 
 If you prefer you can also write to them at Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.
 
-  
 _This policy was last updated May 2018_
