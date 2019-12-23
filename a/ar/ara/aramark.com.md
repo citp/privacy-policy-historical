@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the aramark.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218234526id_/http%3A//www.aramark.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramark.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223081929id_/https%3A//www.aramark.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aramark
 
 Aramark believes in the importance of privacy and wants you to be familiar with how we collect, store, use, and disclose information about you.  This Privacy Policy describes our practices in connection with the information about you that we or our service providers may collect through this website.  By accessing or using this website, you are agreeing to the collection of data and practices described in this Policy.
+
+This website and Privacy Policy are intended only for visitors from the country indicated in the country menu above. Please refer to the country menu for a list of our websites for other countries.
 
 **Click on one of the links below to go to the listed section:**
 
@@ -139,4 +141,4 @@ This Privacy Policy may be changed or updated. We will post a prominent notice o
 
 If you have any questions, comments or concerns about this Policy, please contact us by visiting our [Contact Us](https://web.archive.org/other/contact-us) page.
 
-**Effective Date** : May 11, 2015
+**Effective Date** : August 21, 2018
