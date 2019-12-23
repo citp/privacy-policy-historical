@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trelleborg.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125215145id_/https%3A//www.trelleborg.com/en/privacy--notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trelleborg.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223145834id_/https%3A//www.trelleborg.com/en/privacy--notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -6,9 +6,7 @@
 
 Trelleborg is responsible for how we handle your personal data. Trelleborg comprises Trelleborg AB (publ) (a public limited liability company incorporated in Sweden, registered number 556006-3421) and its subsidiary undertakings (referred to collectively as "Trelleborg" or "we" or "our"). For the purposes of Applicable Data Privacy Laws (as defined below), your data will be controlled by the Trelleborg affiliate or subsidiary undertaking that you have instructed or that is providing products or services to you or communicating to you and each such entity is regarded as an independent data controller of your personal data. This notice applies to all such entities.
 
-This privacy notice ("Privacy Notice") sets out which Personal Data that we collect on our websites and for which purposes the Personal Data are processed. 
-
-Throughout this Privacy Notice the term "processing" is used to cover all activities involving your Personal data, including collecting, handling, storing, sharing, accessing, using, transferring and disposing of information. 
+This privacy notice ("Privacy Notice") sets out which Personal Data that we collect on our websites by e-mail and/or by entering into and fulfilling an agreement with the company you represent and for which purposes the Personal Data are processed. Throughout this Privacy Notice the term "processing" is used to cover all activities involving your Personal data, including collecting, handling, storing, sharing, accessing, using, transferring and disposing of information. 
 
 "Applicable Data Privacy Laws" means all legislation and regulations, including regulations issued by relevant supervisory authorities, protecting the fundamental rights and freedoms of individuals and, in particular, their right to privacy with respect to the processing of Personal Data that from time to time apply to Trelleborg, includ¬ing without limitation data protection laws and regulations implementing the Data Protection Directive 95/46/EC and as of 25 May 2018 the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (the "GDPR").
 
@@ -187,35 +185,38 @@ Personal Data processed for these purposes include: 
 
 The legal basis for the above processing of your Personal Data is that the processing is necessary in order to fulfil our legitimate interest of managing your order, article 6.1 f) GDPR. If you do not provide information marked with * on the website form we will not be in a position to provide you with the requested service.
 
-_3.7. Comply with legal obligations  _
+_3.7. Manage your request regarding data privacy_
 
-Trelleborg processes Personal Data in order to comply with legal obligations, such as book-keeping and tax purposes. 
-
+Should you contact us to request one of the following data privacy actions (i) to be provided with a register extract, (ii) to restrict processing, (iii) to update, delete or transfer personal data, (iv) to object to personal data processing or to automated decision making, to (v) file a data privacy complaint, or to (vi) opt out of marketing communication, Trelleborg will process your Personal Data for the purposes of managing the request.  
 Personal Data processed for these purposes include:
 
-First name
+  * First name
+  * Last name
+  * E-mail
+  * Country
+  * Request details
+  * Other information as necessary for the purpose of handling and responding to your request.
 
-Last name
 
-Transaction data 
 
-Other information as necessary for the purpose
+The legal basis for the above processing of your Personal Data is that the processing is necessary for Trelleborg’s compliance with legal obligations, article 6.1. c) GDPR.
 
-The legal basis for the above processing of your Personal Data is that the processing is necessary for Trelleborg's compliance with legal obligations, article 6.1 c) GDPR.
+_3.8. Enter into and fulfil an agreement with the company you represent_
 
-_3.8. Establish, exercise and defend legal claims_
-
-Trelleborg may process your Personal Data for the purposes of establishing, exercising and defending legal claims in the unlikely event of a dispute. 
+ _  
+_ Should the company you represent choose to enter into an agreement with Trelleborg, we will process your Personal Data for the purposes of entering into and fulfilling the agreement.
 
 Personal Data processed for these purposes include:
 
   * First name
   * Last name
-  * Transaction data 
-  * Other information as necessary for the purpose
-  * The legal basis for the above processing of your Personal Data is that the processing is necessary in order to fulfill our legitimate interest to establish, exercise and defend legal claims, article 6.1 f) GDPR.
+  * Orders, information, requests, notifications and complaints etc. by you
 
 
+
+We would also process other data, not constituting your Personal Data, such as company e-mail address, company address, company phone number, company/organization, organization number, company invoice address, company customer number.
+
+The legal basis for the above processing of your Personal Data is that the processing is necessary in order to fulfil our legitimate interest in entering into agreements with customers, article 6.1 f) GDPR. 
 
 **4. For how long do we keep your personal data**
 
@@ -230,6 +231,9 @@ Trelleborg may disclose Personal Data processed to other companies within the Tr
 Other recipients
 
 Courts and outside counsels: Purpose of transfer: In order to exercise, establish or defend legal claims. Legal basis: To fulfill ours and yours legitimate interest to have disputes settled by competent courts.
+
+To any successor in connection with a sale, merger, divestment or reorganization: we may disclose Personal Data as part of an asset to a new owner on the basis of our legitimate interest under the condition that the successor will process the data for the same purpose as Trelleborg.   
+
 
 Data processors acting on behalf of Trelleborg
 
