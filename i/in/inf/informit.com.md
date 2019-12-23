@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620001522id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223153522id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | InformIT
 
 ### Information Collection and Use
 
-InformIT.com is operated from 221 River Street, Hoboken, NJ, 07030, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at **[comments@informit.com](mailto:comments@informit.com)**.
+InformIT.com is operated from 221 River Street, Hoboken, NJ, 07030, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [comments@informit.com](mailto:comments@informit.com).
 
-We will not sell, share, or rent Personally Identifying Information to others in ways different from what is disclosed in this statement. InformIT.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
+InformIT.com collects information from our users at several different points on our web site. We will not share Personally Identifying Information to others in ways different from what is disclosed in this statement. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
 
 We consider the following to be Personal Identifying Information: your email address, name, password, mailing address, phone number and credit card information. This web site does not collect Personal Identifying Information about a user other than information that is voluntarily provided to our Company; in this way, we can serve the user's needs as well as our own legitimate business purposes. (For example, we retain the Personal Identifying Information that a user provides when he or she chooses to register with InformIT.com).
 
@@ -28,7 +28,7 @@ We request information from the user on our order form. Here a user must provide
 
 ### Cookies
 
-A cookie is a piece of data stored on the user's hard drive tied to aggregate information about the user. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Users can turn off cookies in their internet browser and some browsers allow users to turn off certain designated cookies. Cookies can also enable us to (i) track and target the interests of our users to enhance the experience on our site, (ii) streamline future purchasing options, and (iii) show advertisements on other websites that are likely to be of some interest to you. Some of our business partners also use cookies on our site for these same purposes. However, we have no access to or control over these cookies and no personal information is shared with these business partners.
+A cookie is a piece of data stored on the user's hard drive tied to aggregate information about the user. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Users can turn off cookies in their internet browser and some browsers allow users to turn off certain designated cookies. Cookies can also enable us to (i) track and target the interests of our users to enhance the experience on our site, (ii) streamline future purchasing options, and (iii) show advertisements on other websites that are likely to be of some interest to you. Some of our business partners also use cookies on our site for these same purposes. However, we have no access to or control over these cookies and no personal information is shared with these business partners. This site does not respond to do not track signals or comparable signals or mechanisms.
 
 ### Log Files
 
@@ -41,6 +41,8 @@ We will share anonymous demographic information and/or webpage browsing patterns
 We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 From time to time, we partner with outside service providers and other vendors that provide enhanced functionality on our website that may be of interest to you. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. For example, we may contact customers who have not checked out to follow up on abandoned shopping carts or to see if there was a problem with their use of the site. These parties are not allowed to use Personally Identifiable Information except for the purpose of providing these services. Like newsletters and promotional or special offers that we may send to you, you may opt out of receiving these abandoned cart reminders at any time by simply unsubscribing from this service. Simply click the unsubscribe link at the bottom of your abandoned cart reminder, and you will be able to manage and/or remove your account information.
+
+While Pearson does not sell personal information, in accordance with Nevada law, Nevada residents may email a request for no sale of their personal information to [NevadaDesignatedRequest@pearson.com](mailto:NevadaDesignatedRequest@pearson.com).
 
 ### Links
 
@@ -82,4 +84,4 @@ Users can always make an informed choice as to whether they should proceed with 
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. However, if you have removed your personal information you will not be contacted, nor will your information be used in this new manner.
 
-Effective Date: August 2013
+Effective Date: September 27, 2019
