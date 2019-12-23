@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625022135id_/https%3A//www.whosampled.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223063353id_/https%3A//www.whosampled.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhoSampled
 
