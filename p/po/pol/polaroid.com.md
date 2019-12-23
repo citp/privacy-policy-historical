@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaroid.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321180804id_/http%3A//polaroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaroid.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223035653id_/https%3A//www.polaroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,9 @@
 
 PRIVACY POLICY
 
-_Updated as of August 21, 2018_
+_Updated as of December 20, 2019_
 
-This Privacy Policy (the "Privacy Policy") sets forth details of how PLR IP Holdings, LLC and PLR Ecommerce LLC (“Polaroid,” "we," "us," or "our") obtain, use, share, and protect personal information. This Privacy Policy applies to any personal information we collect or receive, including information collected through your use of our website, [www.polaroid.com](https://web.archive.org/) (“website”), and any information we obtain from other sources. This Privacy Policy does not apply to your use of websites operated by third parties that are linked to or accessed from Polaroid.com.
-
-### Click on the links below to jump to each section:
+This Privacy Policy (the "Privacy Policy") sets forth details of how PLR IP Holdings, LLC and PLR Ecommerce LLC (“Polaroid,” "we," "us," or "our") obtain, use, share, and protect personal information. This Privacy Policy applies to any personal information we collect or receive, including information collected through your use of our website, www.polaroid.com (“website”), and any information we obtain from other sources. This Privacy Policy does not apply to your use of websites operated by third parties that are linked to or accessed from Polaroid.com.
 
   * How do we collect information?
   * How do we use your personal information?
@@ -71,7 +69,7 @@ We collect information on our website, through our ads, and through our email an
     * **Cookies** , which are small text files that many websites automatically download to a user's computer or other device when they browse online. Cookies are often used to collect standard Internet log information and visitor behavior data. We use cookies to increase website functionality, personalize content and ads, to provide social media features, to collect information about how our website is used, and to analyze our website traffic. We also share information about your use of our website with brand licensees. The browser cookies that our website uses may include both session-based cookies and persistent cookies (which remain on your computer or other device after your browsing session has ended). For more information about cookies, including how to manage them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/);
     * **Web beacons or tags** , which are small images embedded into websites or emails that send information about your computer, tablet, phone, or other device when you visit our website, or open an email we send to you;
     * **Website log files** , which we or our service providers create automatically when you access and use our website; and
-    * **Flash cookies** , also known as locally shared objects, which are able to handle more complex information than a browser cookie and are able to pass information across the different browser types you may have installed on your device. To learn more about flash cookies, click [here](http://www.allaboutcookies.org/manage-cookies/remove-flash-cookies.html); and
+    * **Flash cookies** , also known as locally shared objects, which are able to handle more complex information than a browser cookie and are able to pass information across the different browser types you may have installed on your device. To learn more about flash cookies, click [here](https://web.archive.org/web/20191223035653id_/https%3A//www.polaroid.com/_blank); and
     * **Scripting languages** , such as JavaScript, used by Google Analytics, to transmit information to Google's servers about site visitors, including the specific web pages that are being viewed, some technical information about the visitors computer (such as if they are using a Windows or Mac machine, or on a desktop or mobile device), how they arrived at the website, and the way that they navigated throughout its pages.
 
 
@@ -152,21 +150,21 @@ You have the right not to provide us with certain information, such as your name
 
 
 
-In addition to using the management tools described in the " Which analytics and interest-based advertising partners do we use?" section above, you can manage third-party advertising preferences for some of the third-party partners we work with to serve advertising across the Internet by utilizing the choices available at <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices>. For more information about our third-party ad partners, and information about their practices, click here.
+In addition to using the management tools described in the “Which analytics and interest-based advertising partners do we use?” section above, you can manage third-party advertising preferences for some of the third-party partners we work with to serve advertising across the Internet by utilizing the choices available at <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices>. For more information about our third-party ad partners, and information about their practices, click here.
 
-For mobile users, you also have numerous controls in your Operating System that enable you to choose whether to allow cookies or to share your advertising ID with third parties. For some information on controlling your mobile choices, click [here](https://www.networkadvertising.org/mobile-choices). To help control or block certain ads in mobile applications you may choose to download and utilize the Digital Advertising Alliance’s mobile app by clicking [here](http://youradchoices.com/appchoices). We do not guarantee that all of the third parties we work with will honor the elections you make using any of these options.
+For mobile users, you also have numerous controls in your Operating System that enable you to choose whether to allow cookies or to share your advertising ID with third parties. For some information on controlling your mobile choices, click here. To help control or block certain ads in mobile applications you may choose to download and utilize the Digital Advertising Alliance’s mobile app by clicking here. We do not guarantee that all of the third parties we work with will honor the elections you make using any of these options.
 
     * **Email Choices**
 
 
 
-You may unsubscribe from our newsletter or from marketing emails from us by clicking the ”Unsubscribe” link at the bottom of any newsletter or marketing email from us, as applicable, or by submitting an email request [here](mailto:privacyconcern@polaroid.com). Please note that opting out of receiving marketing emails or our newsletter will not prevent us from sending you administrative communications or legal notices, for example, emails about changes to our terms, policies or business practices.
+You may unsubscribe from our newsletter or from marketing emails from us by clicking the ”Unsubscribe” link at the bottom of any newsletter or marketing email from us, as applicable, or by submitting an email request here. Please note that opting out of receiving marketing emails or our newsletter will not prevent us from sending you administrative communications or legal notices, for example, emails about changes to our terms, policies or business practices.
 
     * **Managing Cookies**
 
 
 
-You can learn more about cookies and manage your cookie preferences for Polaroid.com at any time [here](https://web.archive.org/cookie-declaration). For additional information about managing cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). For browser-specific information on how to adjust cookie configurations on the following browsers, please click on the relevant link below:
+You can learn more about cookies and manage your cookie preferences for Polaroid.com at any time here. For additional information about managing cookies, please visit www.allaboutcookies.org. For browser-specific information on how to adjust cookie configurations on the following browsers, please click on the relevant link below:
 
     * [ Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer)
     * [Firefox](http://support.mozilla.org/en-US/kb/Cookies)
@@ -187,7 +185,7 @@ We encourage you to review your privacy options and settings with the social med
 
 ### Do we recognize Do Not Track signals?
 
-Because there currently is not an industry or legal standard for recognizing or honoring Do Not Track (“DNT”) signals, we do not respond to them at this time. For information about the choices you have about limiting how you are tracked online (for example, for advertising practices described in this Privacy Policy), please see the “ What choices do you have about your personal information?” section above.
+Because there currently is not an industry or legal standard for recognizing or honoring Do Not Track (“DNT”) signals, we do not respond to them at this time. For information about the choices you have about limiting how you are tracked online (for example, for advertising practices described in this Privacy Policy), please see the “What choices do you have about your personal information?” section above.
 
 ### Do we collect information from children?
 
@@ -195,7 +193,7 @@ Our website is not directed to or intended to be used by children under 16 years
 
 ### How long do we retain your personal information?
 
-We will keep your personal information for the period necessary to fulfill the purposes described in this Privacy Policy unless a longer retention period is permitted or required by law. In specific circumstances, we may store your personal information for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal information or dealings.
+We will keep your personal information for the period necessary to fulfil the purposes described in this Privacy Policy unless a longer retention period is permitted or required by law. In specific circumstances, we may store your personal information for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal information or dealings.
 
 ### How secure is my information?
 
@@ -203,13 +201,67 @@ Polaroid has implemented reasonable physical, technical, and administrative secu
 
 ### Links to third-party websites
 
-Our website provides links to third-party websites that we do not operate, control or maintain. Our website also may contain third-party ads. The third parties operating those websites and serving those ads have their own privacy practices and policies, and we are not responsible for their actions. For example, our website links to the “Polaroid Originals” website maintained at [polaroidoriginals.com](https://polaroidoriginals.com/). That website is operated by one of our brand licensees, Impossible America Corp., which sells Polaroid Originals-branded products, and with whom we also have a marketing affiliate relationship. We do not operate the Polaroid Originals website and we are not responsible for the privacy practices of Impossible America, Corp. (its Privacy Policy may be found [here](https://polaroidoriginals.com/pages/terms-conditions)). We urge you to read the privacy policies of all [third-party websites](https://web.archive.org/third-party-partners) and [third-party advertisers](https://www.polaroid.com/third-party-partners) to learn more about their privacy practices and policies.
+Our website provides links to third-party websites that we do not operate, control or maintain. Our website also may contain third-party ads. The third parties operating those websites and serving those ads have their own privacy practices and policies, and we are not responsible for their actions. For example, our website links to the “Polaroid Originals” website maintained at [www.us.polaroidoriginals.com](http://www.us.polaroidoriginals.com/). That website is operated by one of our brand licensees, Impossible America Corp., which sells Polaroid Originals-branded products, and with whom we also have a marketing affiliate relationship. We do not operate the Polaroid Originals website and we are not responsible for the privacy practices of Impossible America, Corp. (its Privacy Policy may be found [here](https://us.polaroidoriginals.com/pages/terms-conditions)). We urge you to read the privacy policies of all third-party websites and third-party advertisers to learn more about their privacy practices and policies.
 
 ### Notice to California Customers – Your California Privacy Rights
 
 Under California Civil Code Section 1798.83, individual customers who reside in California and who have an existing business relationship with us may request information about our disclosure of certain categories of personal information to third parties for the third parties’ direct marketing purposes, if any.
 
 To make such a request, send an email with the subject heading “California Privacy Rights” to privacyconcern@polaroid.com or write to us by post at: PLR IP Holdings, LLC, Attn: Legal Department/California Privacy Rights, 4350 Baker Road, Suite 180, Minnetonka, Minnesota 55343. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. Please be aware that not all information sharing is covered by these California privacy rights requirements and only information on covered sharing will be included in our response. This request may be made no more than once per calendar year.
+
+Pursuant to applicable California law, including the California Consumer Privacy Act (CCPA), Polaroid makes the following disclosures regarding the personal information it collects:
+
+Category of Personal Information | Category of Source from Which Data is Collected | Purpose of Collection | Category of Third Parties to Whom Data is Disclosed  
+---|---|---|---  
+Contact information, such as your name, email address and postal address | Directly from user | To provide services to you; to provide the website and its functionalities to you; to provide services requested by you; to respond to your requests; to market to you | Service Providers  
+Preference information, such as your contact and marketing preferences; | Directly from user | To market to you; to tailor ads to your apparent interests. | Service Providers  
+Demographic information, such as your date of birth | Directly from user; Cookies and other tracking technologies | To market to you; to tailor ads to your apparent interests. | Service Providers  
+Location data | Social media; Directly from user; Cookies and other tracking technologies | To market to you; to tailor ads to your apparent interests. | Service Providers  
+User generated content, such as comments, reviews, photos, videos, from social media interactions; | Social media; Directly from user; Cookies and other tracking technologies | To market to you; to tailor ads to your apparent interests. | Service Providers  
+Correspondence information, including information about your email and other written communications with us, and the information that you share in those communications | Directly from user | To provide services to you; to provide services requested by you; to respond to your requests | Service Providers  
+Automatically-collected information, such as your location; IP address; device type; browser type; operating system or platform; name of Internet Service Provider; referring website; exiting website; pages visited on our website; frequency, time, data, and duration of your visit on our website; whether you open emails from us; links you click on in our emails and on our website, including ads; whether you access our website from multiple devices; other interaction you may have on our website; Device Unique Device Identifier (e.g., Unique Device Identifier (UDID) or International Mobile Equipment Identity (IMEI)); mobile device MAC or IP address; information about your mobile device's operating system; information about your mobile carrier | Cookies and other tracking technologies | To conduct data analytics to support our website and business; manage our business needs, such as monitoring, analyzing, and improving the services and the website’s performance and functionality | Service Providers  
+  
+Polaroid has not sold consumers’ personal information in the twelve (12) months preceding the Effective Date of this Privacy Policy.
+
+If you are a California resident, pursuant to the California Consumer Protection Act (CCPA), you have the right to request:
+
+  * the categories of personal information Polaroid has collected about you;
+  * the categories of sources from which your personal information is collected;
+  * the business or commercial purpose of collecting or selling your personal information;
+  * the categories of third parties with whom Polaroid shares your personal information;
+  * the specific pieces of personal information Polaroid has collected about you;
+  * the categories of personal information that Polaroid has sold about you and the categories of third parties to whom the personal information was sold, if applicable;
+  * deletion of your personal information; and
+  * an opt out of having your personal information disclosed or sold to third parties.
+
+
+
+To submit a request, or designate an authorized agent to make a request under the CCPA on your behalf, please contact us at [privacyconcern@polaroid.com](mailto:privacyconcern@polaroid.com). To verify your identity when you submit a request, Polaroid will match the identifying information you provide us to the personal information we have about you.
+
+Polaroid will not be required to comply with your request to delete your personal information if it is necessary for Polaroid to maintain your personal information in order to:
+
+  * complete the transaction for which the personal information was collected, provide a good or service requested by you, or reasonably anticipated within the context of Polaroid’s ongoing business relationship with you, or otherwise perform a contract between you and Polaroid;
+  * detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
+  * debug to identify and repair errors that impair existing intended functionality;
+  * exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
+  * comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code;
+  * engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when Polaroid’s deletion of the information is likely to render impossible or seriously impair the achievement of such research, if you have provided informed consent;
+  * to enable solely internal uses that are reasonably aligned with your expectations based on your relationship with the Polaroid;
+  * comply with a legal obligation; or
+  * otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+
+
+
+Polaroid will not discriminate against you in the event you exercise any of the aforementioned rights under CCPA, including, but not limited to, by:
+
+  * denying goods or services to you;
+  * charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties;
+  * providing a different level or quality of goods or services to you; or
+  * suggesting that you will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+
+
+This Privacy Policy is available to consumers with disabilities. To access this Privacy Policy in an alternative downloadable format, please click [HERE](https://cdn.agilitycms.com/polaroid/privacy-policy-Dec2019.pdf).
 
 ### International Users
 
@@ -223,7 +275,7 @@ If you are an individual located in the European Union (EU), we collect and proc
 
   * It is necessary for a legitimate interest (which is not overridden by your individual privacy interests), such as preventing fraud, improving our website, and increasing the security of the website and network infrastructure;
   * You have consented to the collection and processing for a specific purpose, such as providing our newsletter to you, or sharing your information with third parties when we offer promotions jointly with those third parties (any consent you provide will be entirely voluntary and may be withdrawn at any time);
-  * It is necessary to fulfill our contractual obligations; or
+  * It is necessary to fulfil our contractual obligations; or
   * It is necessary to comply with a legal obligation.
 
 
@@ -236,9 +288,7 @@ Where we rely on your consent to process your personal data, you have the right 
 
 
 
-Where we rely on our legitimate interests to process your personal data, you may have the right to object. More information on exercising this right can be found in the Individual Rights section below.
-
-If you have any questions about or need further information concerning the legal basis on which we collect and use your personal data, please contact us at privacyconcern@polaroid.com.
+Where we rely on our legitimate interests to process your personal data, you may have the right to object. More information on exercising this right can be found in the Individual Rights section below. If you have any questions about or need further information concerning the legal basis on which we collect and use your personal data, please contact us at privacyconcern@polaroid.com.
 
 #### Individual Rights
 
@@ -265,3 +315,5 @@ PLR Ecommerce, LLC
 Minnetonka, Minnesota 55343
 
 If you are a resident of the EU and your inquiry with us has not been satisfactorily addressed, or if you believe we are processing your personal data not in accordance with the law or this Privacy Policy, you may file a complaint with the supervisory authority in your country of residence.
+
+4823-6324-8814, v. 1
