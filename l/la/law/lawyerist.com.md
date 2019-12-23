@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawyerist.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424215804id_/https%3A//lawyerist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyerist.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223015538id_/https%3A//lawyerist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Data Protection Policy
+# Privacy and Data Protection Policy | Lawyerist
 
 Lawyerist supports the privacy rights of our visitors and the lawyers in our community. The following outlines our privacy and data protection policy.
 
@@ -80,4 +80,4 @@ Lawyerist Media LLC, 60 South 6th Street, Minneapolis, MN 55402 or contact our O
 
 Due to changes in legislation and best practices or enhancements to functionality and content on Lawyerist, we may make changes to this privacy policy, so you should check here from time to time.
 
-Last updated March 28th, 2018.
+Page edited by . Last updated September 4th, 2019.
