@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525194946id_/https%3A//www.polk.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223043341id_/https%3A//www.polk.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Polk State College
 
