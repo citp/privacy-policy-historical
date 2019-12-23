@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012070943id_/https%3A//www.rolanddga.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223132013id_/https%3A//www.rolanddga.com/company/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Roland
 
