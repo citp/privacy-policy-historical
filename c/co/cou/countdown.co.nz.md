@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countdown.co.nz privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403212319id_/https%3A//www.countdown.co.nz/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countdown.co.nz privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223130229id_/https%3A//www.countdown.co.nz/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy policy - Countdown
 
@@ -10,7 +10,7 @@ We are committed to protecting your personal information in accordance with this
 
 
 
-This Privacy Policy applies to any personal information that we collect when you join or use Countdown Online Shopping, the Onecard loyalty programme, our Websites and other Programmes that incorporate this Privacy Policy. 
+This Privacy Policy applies to any personal information that we collect when you interact with us, including when you visit one our stores, or join or use Countdown Online Shopping, the Onecard loyalty programme, our Websites and other Programmes that incorporate this Privacy Policy. 
 
   2. _Dictionary_
 
@@ -60,7 +60,7 @@ Depending on the Programmes that you use, and your interactions with us, the per
 
 (f)      information you provide to enter a promotion;
 
-(g)     video footage of you on our in-store CCTV for security purposes; and
+(g)     video footage of you on our CCTV cameras for security or safety purposes; and
 
 (h)     any other information that you authorise us to collect.
 
@@ -69,7 +69,7 @@ Depending on the Programmes that you use, and your interactions with us, the per
 
 
 
-If you make a payment on Countdown Online Shopping, Payment Express will process your payment.  Payment Express will encrypt and store your payment card number securely, in accordance with Payment Express’ Privacy Policy available at <https://www.paymentexpress.com/privacy-policy>.  Payment Express protects personal information (at a minimum) to the Payment Card Industry Data Security Standards (PCI-DSS).   Your payment card number is not held by and is never revealed to us.
+When you use your debit or credit card to make purchases from us, we may collect and hold your payment information.  This information is held in an encrypted and secure manner and in compliance with the Payment Card Industry Data Security Standards (PCIDSS).
 
   8. _Cookies and anonymous information_
 
@@ -197,31 +197,25 @@ As detailed above, the dual branded AA Smartfuel and Onecard enables Onecard car
 
 Generally, we will never disclose your personal information to our suppliers who supply products for our stores and for Countdown Online Shopping. The one exception to this is that we may provide your contact details to a supplier, to enable them to contact you if you have won a prize. Please be aware that this may include providing your contact details to a supplier if you have won a prize competition that you were automatically entered into by purchasing an eligible product.
 
-  21. _Payment information_
-
-
-
-As detailed above, if you make a payment on Countdown Online Shopping, Payment Express Limited will process your payment.  Your payment card number is not held by and is never revealed to us.
-
-  22. _Onecard households_
+  21. _Onecard households_
 
 
 
 As detailed above, the Onecard loyalty programme enables “households” to link the Onecards held by Onecard cardholders who reside at the same address. If you are part of a linked Onecard “household”, we may share any information related to your Onecard account and usage with other linked Onecard cardholders in your “household”.
 
-  23. _Anonymous information_
+  22. _Anonymous information_
 
 
 
 We may share anonymised and aggregated information (which is not capable of identifying you) with our contractors, affiliates, business partners and other third parties.
 
-  24. _Credit checks_
+  23. _Credit checks_
 
 
 
 Generally, we do not undertake credit checks.  If we need to undertake a credit check, we will notify you and obtain your prior express consent. 
 
-  25. _New partners_
+  24. _New partners_
 
 
 
@@ -229,27 +223,27 @@ We are focused on continually enhancing Countdown’s products and services and 
 
 **_How do we store personal information?_**
 
-  26. _Storage of personal information_
+  25. _Storage of personal information_
 
 
 
 Personal information that we collect is either held by us or on our behalf.  Our physical address is 80 Favona Rd, Mangere, Auckland 1640, New Zealand.  Some information we hold will be stored in “the cloud” in secure databases on our behalf by third parties based overseas.  The use of these services, and the transfer of information overseas (if applicable) will not relieve us of our obligations under the Privacy Act and this Privacy Policy.
 
-  27. _Security standards_
+  26. _Security standards_
 
 
 
 We will take reasonable technical and organisational precautions, including complying with generally accepted industry standards, to protect personal information that we hold.  However, no method is completely secure and we are not responsible for any breach of security caused by third parties. 
 
-  28. _Your responsibilities_
+  27. _Your responsibilities_
 
 
 
 You are responsible for ensuring your Internet browser and computer system are secure (including, but not limited to, free and secure from viruses) and can support any security measures we use to protect your information. 
 
-You are also responsible for complying with any security requirements that we notify to you.  For example, you must keep your Countdown Online Shopping login details safe and confidential at all times.
+You are also responsible for complying with any security requirements that we notify to you.  For example, you must keep your Countdown Online Shopping sign in details safe and confidential at all times.
 
-  29. _Updates to your personal information_
+  28. _Updates to your personal information_
 
 
 
@@ -257,7 +251,7 @@ We rely on you to update us if your contact details change (please refer to the 
 
 **_Contact Us_**
 
-  30. _Our contact details_
+  29. _Our contact details_
 
 
 
@@ -268,15 +262,15 @@ Woolworths New Zealand Limited
 Private Bag 93306  
 Otahuhu, Auckland 1640
 
-  31. _Access to and correction of your personal information and preferences_
+  30. _Access to and correction of your personal information and preferences_
 
 
 
 You can request access to, and correction of, your personal information at any time by contacting us using the details above.
 
-You can also update your personal information, and change your preferences, on our website ([www.countdown.co.nz](http://www.countdown.co.nz/)) by logging into your account.  
+You can also update your personal information, and change your preferences, on our website ([www.countdown.co.nz](http://www.countdown.co.nz/)) by signing into your account.  
 
-  32. _Access fee and ID requirements_
+  31. _Access fee and ID requirements_
 
 
 
@@ -316,13 +310,7 @@ Latitude
 
 Latitude Financial Services Limited.  
   
-Payment Express
-
-| 
-
-Payment Express Limited.  
-  
-personal information
+Personal information
 
 | 
 
@@ -360,4 +348,4 @@ The Countdown Website ([https://www.countdown.co.nz](https://web.archive.org/ "H
   
 We are committed to protecting your personal information. If you have any questions about this Privacy Policy, please contact us using the details set out above.
 
-_This Privacy Policy is effective from 2 July 2018_
+_This Privacy Policy is effective from 15 July 2019_
