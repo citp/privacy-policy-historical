@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thediplomat.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502183153id_/https%3A//thediplomat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediplomat.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223221552id_/https%3A//thediplomat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Diplomat
+# Privacy Policy – The Diplomat
 
-_The Diplomat_ is fully committed to protecting your privacy. This privacy statement explains _The Diplomat’s_ data collection and use practices for the magazine. By accessing _The Diplomat_ , you are consenting to the information collection and use practices described in this privacy statement.
-
- **Personal Information**
+**Personal Information**
 
 _The Diplomat_ will ask you when necessary for personal information that can personally identify you (personal information) or that allows us to contact you to provide a service or carry out a transaction that you have requested such as requesting information about our magazine, entering a contest, subscribing to our newsletter, providing details for an event, submitting work to _The Diplomat_ or requesting information about the magazine. The personal information we collect may include your name, home address, country, school name, e-mail address, or phone number. _The Diplomat_ may collect certain information about your visit to our site, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you accessed _The Diplomat_ ; the pages that you access while at _The Diplomat_ and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve our magazine, analyse site trends, and for administration of _The Diplomat_.
 
@@ -50,7 +48,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 **Contact Information**
 
-_The Diplomat_ welcomes your comments regarding this privacy statement. If you believe that _The Diplomat_ has not adhered to this privacy statement, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe97909891be8a969bd39a978e9291939f8ad09d9193) or via mail at the address provided below, and we will use reasonable efforts to promptly determine and remedy any problem.
+_The Diplomat_ welcomes your comments regarding this privacy statement. If you believe that _The Diplomat_ has not adhered to this privacy statement, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cf5f2faf3dce8f4f9b1f8f5ecf0f3f1fde8b2fff3f1) or via mail at the address provided below, and we will use reasonable efforts to promptly determine and remedy any problem.
 
 The Diplomat  
 701 Ebisu MF Bldg.  
