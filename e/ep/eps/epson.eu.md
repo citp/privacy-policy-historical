@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epson.eu privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815030715id_/https%3A//www.epson.eu/viewcon/corporatesite/misc/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.eu privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223010822id_/https%3A//www.epson.eu/legal/privacy) for the most accurate reproduction.*
 
-# Epson
+# Privacy Information Statement - Epson
 
 **Personal Data about those registering on main Epson websites**
 
@@ -22,8 +22,7 @@ Epson Europe B.V. (Data Protection Administration)
 Azie Building, Atlas Arena,  
 Hoogoorddreef 5,  
 1101BA Amsterdam Zuid,  
-The Netherlands.  
-E-mail: [privacy@epson.eu](mailto:privacy@epson.eu)
+The Netherlands.
 
 **The purpose for processing personal data about you**  
 (‘Processing’ means anything Epson does with the information about you including gathering it, holding it, using it and disclosing it.)  
