@@ -1,100 +1,375 @@
-> *The following text is extracted and transformed from the muama.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224103id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muama.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223103732id_/https%3A//muama.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreements - GoDaddy Respects Your Privacy
+# Privacy - MUAMA Enence
 
-**GoDaddy Respects Your Privacy**
+PRIVACY POLICY
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Dear valued customer,
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+At UAB “Ekomlita” (trading as MUAMA Enence, hereinafter – the “Company”, “We”, “Us”) we care about protection of your personal information and We strictly follow the requirements of applicable data protection laws protecting information about you at our Company. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Please read this Privacy Policy carefully as it provides important information on how we collect, use and store information about you.  
 
-**Information Collection and Use**
+  1. How should you read this Privacy Policy?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+This policy will answer the most important questions about how we collect, use and store information about you. This information is important to you so please read this policy carefully. This policy may be amended from time to time. Please visit our website [https://muama.com](https://muama.com/) once in a while - you will find the latest version of this policy there.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  2. Who is responsible for protecting your information? 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We are: UAB “Ekomlita”, trading as MUAMA Enence or Enence;
 
-**Security**
+Our identification number is: 305049890
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+Our address for correspondence related to this policy is: Gedimino g. 45-7, Kaunas, Lithuania
 
-**Updating Your Information**
+Our e-mail address: [support@muama.com](mailto:support@muama.com) 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Our telephone number is: +44 2080 891846
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  3. Which information and why we collect about you?
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+Why do you collect information about me?
 
-**Sending Emails**
+| 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Which information do you collect about me?
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+| 
 
-**Compliance with Laws and Law Enforcement**
+Why are you legally allowed to collect my information?
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+| 
 
-**Third Party Service Providers**
+How long do you keep information about me?  
+  
+---|---|---|---  
+  
+  1.  For processing your purchase requests on our web shop, receiving payments and delivering purchased goods;
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+| 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+First name, last name, delivery address, telephone number, email address, information about your paid purchase price and currency, your credit card brand, type, BIN number and credit card issuer country.
 
-**Supplementation of Information**
+| 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We conclude and execute a contract with you (Art.  6 (1) (b) of the General Data Protection Regulation – GDPR)
 
-**Contests/Surveys**
+| 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+1 year after you make a purchase on our website  
+  
+  2. To ensure security of our website and  continuously improve it for you – where you visit our website
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+| 
 
-**Tell-A-Friend**
+IP address or other device address or ID, web browser and/or device type, hardware and software settings and configurations, the web pages or sites that you visit just before or just after visiting the Site, the pages you view on the Site, your actions on the Site, and the dates and times that you visit, access, or use the Services. When you use the Site on a mobile device, we may also collect the physical location of your device by, for example, using satellite, cell phone tower or wireless local area network signals.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+| 
 
-**What Happens to my Personal Information if I Opt Out?**
+We have a legitimate interest (to ensure security of our website) (Art. 6 (1) (f) of the GDPR)
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+| 
 
-**Transfer of Data Abroad**
+1 month after you visit our website  
+  
+  3. To manage our accounts on social media - where you interact with us via our social media accounts 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+| 
 
-**Changes in Our Practices**
+Name and surname, e-mail address, gender, country, picture, message, time and date the message was received, content of the message, message attachments, response to the message, time of response to the message, information about Company’s rating, comments on a post, post shares, information about post reactions.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+| 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+You agreed to that (Art. 6 (1) (a) of the GDPR)
 
-**Contacting Our Site**
+| 
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+10 years  
+  
+  4. To handle queries, requests and complaints submitted by you – where you submit one
 
-* * *
+| 
 
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Firs name, last name, e-mail address, country, telephone number, subject of your inquiry, date of your inquiry, content of your inquiry, attachments to your inquiry, reply to your inquiry
+
+| 
+
+You agreed to that (Art. 6 (1) (a) of the GDPR)
+
+We have a legitimate interest to do that (to handle your queries) (Art. 6 (1) (f) of the GDPR)
+
+| 
+
+10 years from the moment your last inquiry was received    
+  
+  5. To protect our rights and interests for legal reasons 
+
+| 
+
+Information listed under Paragraph 3.1 above, documents and attachments sent to you, documents and attachments submitted by you, procedural documents, court rulings, resolutions, decisions
+
+| 
+
+We have a legitimate interest (to defend Company's rights in legal proceedings) (Art. 6 (1) (f) of the GDPR)
+
+| 
+
+10 years following the termination or your account with our website or, in case legal processes were initiated, following termination of such legal processes  
+  
+If the case arises - information about criminal offenses and convictions
+
+| 
+
+Data is necessary for the establishment, exercise or defense of legal claims (Art. 9 (2) (f) of the GDPR)  
+  
+  4. Which information you have to provide us with and why?
+
+
+
+Please refer to the Answer to question 3 above - you have to provide Us with the information which We need in order to process the purchase requests that you submit on Our website. In case you do not provide us with this information, we will not be able to sell Our goods to you.
+
+  5. Do we share information about you?
+
+
+
+We share the information about you with the following entities only where necessary and permitted by applicable laws and for the reasons listed under the Answer 3 above:  
+
+
+  * Paysafe Financial Services Ltd., a financial institution (payment processor) incorporated in England and Wales, company No. 04478861, financial institution No. 900015, registered office address Floor 27 25 Canada Square, London, England, telephone No. +4402036972413 (this company is used for processing payments that we receive from you for the purpose referred to under Par. 3.1 above);
+
+
+  * Swedbank, AB, a financial institution (bank) incorporated in Lithuania, company No. 112029651, financial institution No. LB000298, registered office address Konstitucijos pr. 20A, LT-03502 Vilnius, Lithuania, telephone No. +370 5 2684444 (this company is a bank that the Company use for receiving payments from you via our payment processor for  the purpose referred to under Par. 3.1 above);
+
+
+  * UAB Ismanioji logistika, a company (shipping agent) incorporated in Lithuania, company No. 304751937, registered office address Savanorių pr. 176, Vilnius LT-03154, Lithuania, telephone No. +370 672 88584 (this company is used as a fulfilment center which the Company use for distribution and delivery of the purchased goods as referred to Par. 3.1 above);
+
+
+  * attorneys, attorney’s assistants, notaries, bailiffs, auditors, consultants, IT service providers, electronic communications service providers, insurance companies, archiving services and other subjects that provide services to the Company (data may be transferred for all of the purposes listed under Answer 3 above);
+
+
+  * courts, law enforcement and other state institutions (data may be transferred for all of the purposes listed under Answer 3 above);
+
+
+  6. How do we protect information about you transferred outside the European Economic Area?
+
+
+
+In most cases, personal data are processed and transmitted in the territory of the European Union and the European Economic Area, but when necessary for the provision of certain services, the data may be transmitted and processed beyond those territories when the personal data protection level is maintained. 
+
+  7. What can you ask us to do about your information?
+
+
+
+GDPR and other laws provide you with certain rights, procedures for implementation of and exceptions to these rights. When allowed by law, you can:
+
+  * Submit a request for confirmation that the Company is processing the data related to you. If the Company process the data related to you, request access to the data processed and related information;
+
+
+  * Submit a request to correct inaccurate or incorrect information used or to supplement it when it is not complete;
+
+
+  * Submit a request to delete the information we have about you if we use it illegally;
+
+
+  * Submit a request to restrict the processing of your information – if you dispute the accuracy of the data or object to the processing of the data, if you do not accept that your data would be deleted which was illegally processed, or if you need the data to claim, execute or defend legal claims;
+
+
+  * Object to collection, use and storage of your information at our Company – when we process data based on the Company's legal and / or third party interests;
+
+
+  * Submit a request to transfer (receive) the data that you provided to us under the contract or giving the consent and which we process by automated means, generally using electronic form;
+
+
+  * To withdraw any consents given to us regarding information used about you - when we use the data based on your consent;
+
+
+  * To lodge a complaint with a supervisory authority and seek a judicial remedy.
+
+
+  8. Do we use cookies?
+
+
+
+Yes. Cookies are small text files that are stored by your browser on your device (e.g. computer, mobile phone, tablet) when you browse websites. Other technologies, including data we store on your web browser or device, identifiers associated with your device, and other software, are used for similar purposes. They are widely used in order to make websites work or work in a better, more efficient way. In this policy, we refer to all of these technologies as cookies.
+
+Our website contains cookies as described in the table below. These cookies are essential for operation of the website so we will ask you to accept them in order to use our website: 
+
+Cookie name
+
+| 
+
+Cookie purpose
+
+| 
+
+Cookie expiry  
+  
+---|---|---  
+  
+__cfduid
+
+| 
+
+This cookie is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information.
+
+| 
+
+1 year  
+  
+XSRF-TOKEN
+
+| 
+
+This cookie is written to help with site security in preventing Cross-Site Request Forgery attacks.        
+
+| 
+
+During the browsing session  
+  
+rpp
+
+| 
+
+This is used to hold information about your current visit with us. This cookie is essential to the functionality of the site.
+
+| 
+
+During the browsing session  
+  
+_vwo_uuid_v2
+
+| 
+
+This cookie ensures a visitor always sees the same version of a page and is used to measure the performance of different page versions.
+
+| 
+
+1 year  
+  
+enence_session
+
+| 
+
+This is used to hold information about your current visit with us. This cookie is essential to the functionality of the site.        
+
+| 
+
+During the browsing session  
+  
+_ga
+
+| 
+
+This cookie is used to identify unique visitors and is updated every time you visit pages
+
+| 
+
+2 years  
+  
+_gat
+
+| 
+
+This cookie is used by Google Analytics to limit the frequency of queries
+
+| 
+
+During the browsing session  
+  
+_gid
+
+| 
+
+This cookie is used to distinguish users
+
+| 
+
+24 hours  
+  
+Our website may also contain non-essential cookies as described in the table below. We recommend allowing these cookies to be active as they help to provide you with better suited content:
+
+System
+
+| 
+
+Tag/Additions
+
+| 
+
+Purpose
+
+| 
+
+Cookie expiry  
+  
+---|---|---|---  
+  
+AdWords
+
+| 
+
+Conversion tracking
+
+| 
+
+For conversion tracking and marketing purposes
+
+| 
+
+1 month  
+  
+Facebook
+
+| 
+
+Retargeting pixel
+
+| 
+
+For marketing purposes
+
+| 
+
+3 months  
+  
+Facebook
+
+| 
+
+Conversion tracking
+
+| 
+
+For conversion tracking and marketing optimisation purposes
+
+| 
+
+3 months  
+  
+Google Tag Manager
+
+| 
+
+Conversion tracking 
+
+| 
+
+For measuring the effectiveness of advertisements 
+
+| 
+
+2 years  
+  
+9\. How can you manage cookies?
+
+You can configure your browser to decline some or all cookies or to ask for your permission before accepting them. Please note that by deleting cookies or disabling future cookies you may be unable to access certain areas or features of our website. For information on how to adjust or change your browser settings, visit [www.aboutcookies.org](https://www.google.com/url?q=http://www.aboutcookies.org&sa=D&ust=1559641158079000) or [www.allaboutcookies.org](fhttps://www.google.com/url?q=http://www.allaboutcookies.org&sa=D&ust=1559641158079000).
+
+For the information on, policy and control options for the third party cookies, please read cookie policies of such third parties.
+
+Last Edited on 2019-06-04
