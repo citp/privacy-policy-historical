@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsfe.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528171954id_/https%3A//fsfe.org/about/legal/imprint.html%23id-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsfe.org privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223190133id_/https%3A//fsfe.org/about/legal/imprint.html%23id-privacy-policy) for the most accurate reproduction.*
 
 # Imprint - FSFE
 
