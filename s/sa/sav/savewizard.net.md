@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savewizard.net privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203061810id_/https%3A//www.savewizard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savewizard.net privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223191340id_/https%3A//www.savewizard.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Save Wizard for PS4 MAX
 
