@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonsoflibertymedia.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330083317id_/https%3A//sonsoflibertymedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonsoflibertymedia.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223215821id_/https%3A//sonsoflibertymedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Sons of Liberty Media
 
