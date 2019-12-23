@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330121048id_/https%3A//www.autocarindia.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223132656id_/https%3A//www.autocarindia.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
