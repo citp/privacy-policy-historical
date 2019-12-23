@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617185831id_/https%3A//www.cision.com/us/legal/privacy-policy/%3Fnav_location%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223074948id_/https%3A//www.cision.com/us/legal/privacy-policy/%3Fnav_location%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,11 +33,11 @@ Please click on the sections below to learn more about our Privacy Policy:
   * **YOUR RIGHTS IN THE EU**
   * **CHANGES TO OUR PRIVACY POLICY**
   * **CONTACT**
+  * **ADDITIONAL INFORMATION FOR CALIFORNIA CONSUMERS**
 
 
 
-**_How this policy works with our other privacy notices and policies_**  
-
+**_How this policy works with our other privacy notices and policies_**
 
 This Policy should be read together with our related Privacy Notices, in particular our **_[Customer Privacy Notice](https://gdpr.cision.com/dataprivacynotice_customersprospects)_** , our **_[Data Privacy Notice for Influencers and Other Media Contacts](https://gdpr.cision.com/dataprivacynotice_influencers)_** , and our **_[Candidate Privacy Notice](https://careers.jobvite.com/cision-global/Cision-Candidate-Privacy-Policy-2018.pdf)_**.  Depending on how you interact with us, we will collect and process your personal information as follows:
 
@@ -55,11 +55,17 @@ If you are an **influencer or other media contact** in our media database.
 
 We will collect and process your contact information and media profile in accordance with our **_[Data Privacy Notice – Influencers and Other Media Contacts](https://gdpr.cision.com/dataprivacynotice_influencers)_**.  
   
+If you are a **capital market professional** in our **Investor Relations Database**.
+
+| 
+
+We have received your name, work email and organization name from IHS Markit, which provides intelligence on capital-intensive industries and markets. Being listed in this database means that you will receive focused press release information and announcements from our Investor Relations customers about topics they believe are relevant to you. Your details are not visible to our customers — investor relations firms — as they send news through our newswire service. We do not share your name or email address with our customers. They only receive the name of the organization their press release has been sent to. Otherwise, we will collect and use your personal information in accordance with this Privacy Policy.  
+  
 If you **visit or register with any of our websites** (other than as a Customer or Influencer).
 
 | 
 
-We will collect and use your personal information in accordance with this Privacy Policy. In particular, we may see how you use our websites and what content you interact with and for how long.  This may involve the use of cookies which is explained in our **_[Cookie Policy](https://www.cision.com/us/legal/cookie-policy.html)_**.  
+We will collect and use your personal information in accordance with this Privacy Policy. In particular, we may see how you use our websites and what content you interact with and for how long.  This may involve the use of cookies which is explained in our **_[Cookie Policy](https://www.cision.com/us/legal/cookie-policy/)_**.  
   
 If you are a **supplier** and you or your company provides us with goods or services.
 
@@ -109,7 +115,7 @@ We collect certain technical information using cookies and other tracking mechan
 
 
 
-If you decline to have us collect such information (for example, by disabling cookies; see _[Cookies& Other Tracking Mechanisms](https://www.cision.com/us/legal/cookie-policy.html)_ below), we may not be able to provide some or all of our Services to you.
+If you decline to have us collect such information (for example, by disabling cookies; see _[Cookies& Other Tracking Mechanisms](https://www.cision.com/us/legal/cookie-policy/)_ below), we may not be able to provide some or all of our Services to you.
 
 **Information We Collect about You from Third Parties**
 
@@ -123,14 +129,10 @@ We may use any information we collect, including personal information and techni
 
   * **_Providing, maintaining and improving our Services._** Operating and improving our Services ( _e.g._ , administration, troubleshooting, managing account access, protecting security); evaluating our Services; developing new features, products, or services; and for other customer service and support purposes.
   * **_Tailoring content._** Personalizing the information and content we display to you, including marketing, promotional and sponsored content and advertising within the Services.
-
-
-
-· ** _Marketing and communications._** Contacting you directly about your use of an account or Service for which you are registered; providing you with information about products or services, from us or third parties that may interest you; serving advertisements to you; and responding to your requests, feedback or questions.
-
+  * **_Marketing and communications._** Contacting you directly about your use of an account or Service for which you are registered; providing you with information about products or services, from us or third parties that may interest you; serving advertisements to you; and responding to your requests, feedback or questions.
   * **_Research and analytics._** Researching and analyzing how you interact with our Services, including to monitor usage and activity trends and for statistical purposes; creating reports for customers that may include both aggregate trends and the organizations that are viewing their releases, or accessing our Services or customer websites or otherwise using our Services; and measuring or understanding the effectiveness of content, communications, Website visits, web traffic, our Services, or advertising we or our customers serve to you and other customers like you, and to deliver relevant advertising to you and other customers like you.
   * **_Legal compliance._** Complying with laws, regulations and requests from law enforcement or other governmental entities; carrying out our obligations and enforce our rights arising from any contracts; and using as evidence in litigation.
-  * **_Protecting rights and interests._** Protecting the safety, rights or property of Cision or any third party; investigating, preventing or otherwise addressing activity that Cision, in its sole discretion, may consider to be or pose a risk of being, an illegal, unethical, or legally questionable activity. 
+  * **_Protecting rights and interests._** Protecting the safety, rights or property of Cision or any third party; investigating, preventing or otherwise addressing activity that Cision, in its sole discretion, may consider to be or pose a risk of being, an illegal, unethical, or legally questionable activity.
 
 
 
@@ -160,20 +162,17 @@ We may also share aggregate or anonymous data for marketing, advertising, resear
 
 In the event that we receive a request from a governmental entity to provide it with your personal information, we will take reasonable attempts to notify you of such request, to the extent reasonably possible and legally permissible.
 
-**[Cookies& Other Tracking Mechanisms](https://www.cision.com/us/legal/cookie-policy.html)**
+**[Cookies& Other Tracking Mechanisms](https://www.cision.com/us/legal/cookie-policy/)**
 
 **_Securing Your Personal Information_**
 
 The security of your information is important to Cision, and we have implemented administrative, technical, and physical safeguards designed to protect personal information against theft or misuse. Unfortunately, no system can guarantee complete security of your information. As a result, while we strive to protect your personal information from unauthorized third parties, Cision cannot ensure or warrant the security of such information. Thus, your use of the Services and communications with us is at your own risk. You are responsible for protecting your username(s) and password(s) and for the security of information that you transmit to us over the internet. 
 
-**_Children_**  
+**_Children_**
 
+Our Services are directed to working professionals. Our Services are not intended for children under 16 years of age or the relevant age of majority, and we do not knowingly collect personal information from children under that age. If you are under 13 years of age or the age of majority, you are not permitted to submit any personal information to us.
 
-Our Services are directed to working professionals. Our Services are not intended for children under 16 years of age or the relevant age of majority, and we do not knowingly collect personal information from children under that age. If you are under 13 years of age or the age of majority, you are not permitted to submit any personal information to us.   
-****
-
-**_Third-Party Information Collection_**  
-
+**_Third-Party Information Collection_**
 
 Our Services may contain links to third-party websites and services, including those of social media platforms, partner networks and advertisers. Please note that these websites and services may have their own privacy policies. We do not accept any responsibility or liability for the policies of any third parties. If you chose to access any websites or services linked from our Services, please check the applicable policies before you use or submit any personal information to such website or service.
 
@@ -230,6 +229,12 @@ _**How long will we use your personal data?**_
 
 We will keep your personal data only for as long as is necessary for the purposes set out in this privacy notice and to fulfil our legal obligations. We will not keep more data than we need.
 
+_**Additional Information for California Consumers**_
+
+To listen to the Audio version of this page please [_download the file_](https://www.cision.com/content/dam/cision/legal/CCPA_RECORDING_PRIVATE_POLICY_121919_MB.mp3).
+
+Under the California Consumer Privacy Act (“CCPA”), we are required to notify California consumers about our collection, use, and disclosure of their personal information (whether collected through this website or offline). Please see more information about this [here](https://gdpr.cision.com/additional-information-for-californian-consumers).
+
 **_Changes to Our Privacy Policy_** __
 
 We may change this Privacy Policy from time to time to align with changes to our business practices and/or changes to our legal requirements. We will post the updated Privacy Policy on this page and will indicate that the updates have been made by changing the effective date first written above. We urge you to check back periodically to see whether there have been updates to our Privacy Policy.
@@ -253,4 +258,4 @@ Cision
 5 Churchill Place  
 London E14 5HU
 
-**LAST UPDATED ON OCTOBER 3, 2018**
+**LAST UPDATED ON NOVEMBER 11, 2019**
