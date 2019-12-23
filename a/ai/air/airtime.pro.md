@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtime.pro privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406234027id_/https%3A//www.sourcefabric.org/en/home/policies/2498/Sourcefabric-Privacy-and-Data-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtime.pro privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223021651id_/https%3A//www.sourcefabric.org/en/home/policies/2498/Sourcefabric-Privacy-and-Data-Policy.htm) for the most accurate reproduction.*
 
 # Sourcefabric Privacy and Data Policy | Sourcefabric
 
