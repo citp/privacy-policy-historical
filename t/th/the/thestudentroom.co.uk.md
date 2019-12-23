@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628064228id_/https%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223224715id_/https%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
 
 # TSR privacy policy | The Student Room
 
@@ -158,6 +158,12 @@ Where you opt out of receiving these marketing messages, this will not apply to 
 
 You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy.](https://www.thestudentroom.co.uk/faq.php?faq=safety_privacy)
 
+**Affiliates**
+
+Sometimes in articles or threads, we may include links to retailers (eg. Amazon). We may receive a small commission from the retailer if you make a purchase after clicking one of these links. Posts are not expressly sponsored by retailers, publishers, promoters or manufacturers unless otherwise clearly stated and all editorial decisions are made solely by TSR.
+
+TSR is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.co.uk.
+
 **Change of purpose**
 
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
@@ -272,4 +278,4 @@ You have the right to:
 * * *
 
 Article by TSR Community Team on Thursday 17 May 2018   
-Last edited by Hulda.F on Thursday 14 June 2018 
+Last edited by [Jamie Wallace](https://www.thestudentroom.co.uk/news/about-us/our-editorial-team/jamie-wallace) on Thursday 28 November 2019 
