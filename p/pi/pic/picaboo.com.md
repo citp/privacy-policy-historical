@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picaboo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192945id_/https%3A//www.picaboo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picaboo.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223092122id_/https%3A//www.picaboo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Picaboo
 
@@ -104,8 +104,4 @@ Picaboo may amend this Privacy Policy from time to time. Use of information we c
 
 #### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Picaboo site, please send us a detailed message to support@picaboo.com. We will make every effort to resolve your concerns.
-
-Picaboo Corporation  
-15 Lebanon St.  
-Hanover, NH 03755
+If you have any questions or concerns regarding privacy at Picaboo site, please send us a detailed message to [support@picaboo.com](mailto:support@picaboo.com). We will make every effort to resolve your concerns.
