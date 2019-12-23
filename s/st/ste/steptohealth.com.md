@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steptohealth.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505141754id_/https%3A//steptohealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steptohealth.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223224408id_/https%3A//steptohealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Step To Health
+# Privacy Policy — Step To Health
 
 The purpose of that which is outlined in the Organic Law 15/1999, December 19th, of Personal Information Protection GRUPO M CONTIGO S.L. with CIF B37527900 informs the user of the existence of personal information files registered in the GRPI (General Registry of Protected Information), to fulfill the legitimate purposes of this entity.
 
