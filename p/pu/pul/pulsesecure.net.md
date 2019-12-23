@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulsesecure.net privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620022120id_/https%3A//www.pulsesecure.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulsesecure.net privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223181424id_/https%3A//www.pulsesecure.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pulse Secure
 
@@ -9,8 +9,6 @@ Pulse Secure participates in and has certified its compliance with the EU-U.S. P
 Pulse Secure is responsible for the processing of personal data it receives, under the Privacy Shield Frameworks, and subsequently transfers to a third party acting as an agent on its behalf. Pulse Secure complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Pulse Secure is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Pulse Secure may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Information Collected
 
@@ -114,7 +112,7 @@ As is true of most websites, we gather certain information automatically. This i
 
 ## Behavioral Targeting/Re-Targeting
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (or if located in the European Union click here). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to display advertising on our website and to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ## Accessing and Updating Personal Information
 
@@ -126,7 +124,7 @@ Pulse Secure encourages all individuals who provide personal information to Puls
 
   * Pulse Secure utilizes the services of BambooHR to collect and host information from job applicants and employees.
   * BambooHR will forward information to Pulse Secure submitted by job applicants and host employee personal information.
-  * Personal information of EU residents is stored exclusively on the BambooHR EU data server and is never stored or hosted on US servers.
+  * Personal information of EU residents is stored exclusively on the BambooHR EU data server and is never stored or hosted on US servers. However, such data may be accessed by Pulse Secure in the U.S.
 
 
 
@@ -158,6 +156,8 @@ Pulse Secure commits to resolve complaints about your privacy and our collection
 
 If you are in the EU, you should contact us at privacy@pulsesecure.net to resolve your complaint, regardless of which of our companies the complaint is about. If you are not satisfied with our resolution of your complaint, you may complain to the Information Commissioner’s Office of your local Data Protection Authority. We commit to cooperating with the panel established by the EU data protection authorities (DPAs) or the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by the panel or the FDPIC with regard to personal information transferred from the EU or Switzerland. For the purposes of the Privacy Shield Frameworks, we are subject to the investigatory and enforcement powers of the Federal Trade Commission. In some conditions, you may be able to invoke binding arbitration to resolve your complaint where your personal information has been transferred to and processed in the United States.
 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&data=02%7C01%7C%7C0a7c3189f83a42a787ef08d71c4f71c2%7C3290a9179dd643db843ba3e376f9f96c%7C0%7C0%7C637008999856047790&sdata=3Bw0UZ5yGLZ%2FHrCSNkRXhYv2X9LvXU6SzZYyfhbgfUg%3D&reserved=0).
+
 ## For United States residents
 
 If you are not satisfied with our resolution of your complaint, you can make a privacy complaint to the Federal Trade Commission or you can make a consumer reporting complaint to the Consumer Financial Protection Bureau.
@@ -170,4 +170,4 @@ San Jose California 95134
 Tel: (408) 372-9600  
 privacy@pulsesecure.net
 
-© 2018 Pulse Secure, LLC. Use of this website assumes acceptance of our Legal Notices and Privacy Notice. Pulse Secure has updated its Privacy Notice effective May 21, 2018.
+© 2019 Pulse Secure, LLC. Use of this website assumes acceptance of our Legal Notices and Privacy Notice. Pulse Secure has updated its Privacy Notice effective August 8, 2019.
