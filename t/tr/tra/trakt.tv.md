@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trakt.tv privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230084217id_/https%3A//trakt.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trakt.tv privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223033923id_/https%3A//trakt.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Trakt.tv
 
@@ -34,11 +34,11 @@ Trakt will only provide your Personal Information with third parties pursuant to
 
 ##  **4.** Requesting Your Personal Information
 
-You may request a copy of your Personal Information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7704020707180503370305161c03590301) with a subject of **Personal Information Request**. Please send the email from the same address attached to your Trakt account and include your Trakt username to verify your identity. We will respond within 30 days with JSON files containing all your information.
+You may request a copy of your Personal Information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8dbddd8d8c7dadce8dcdac9c3dc86dcde) with a subject of **Personal Information Request**. Please send the email from the same address attached to your Trakt account and include your Trakt username to verify your identity. We will respond within 30 days with JSON files containing all your information.
 
 ##  **5.** Changing or Deleting Your Personal Information
 
-You may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your [account settings](https://web.archive.org/settings). You may disable your Trakt account in your [account settings](https://web.archive.org/settings) by clicking on the **Disable Account** link. Disabling your account removes any Personal Information attached with your account and anonymizes your statistical data.
+You may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your [account settings](https://web.archive.org/settings). You may delete your Trakt account in your [account settings](https://web.archive.org/settings) by clicking on the **Delete Account** link. Deleting your account removes any Personal Information attached with your account and anonymizes your statistical data.
 
 ##  **6.** Security
 
@@ -46,11 +46,11 @@ Trakt is very concerned with safeguarding your information. We employ reasonable
 
 ##  **7.** Our Policy Toward Children
 
-This Sites is not directed to children under 18. We do not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6a191f1a1a05181e2a1e180b011e441e1c). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+This Sites is not directed to children under 18. We do not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#10636560607f6264506462717b643e6466). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 ##  **8.** Issue Resolution
 
-In compliance with the Privacy Shield Principles, Trakt commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Trakt at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80f3f5f0f0eff2f4c0f4f2e1ebf4aef4f6). Trakt has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU.
+In compliance with the Privacy Shield Principles, Trakt commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Trakt at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f685838686998482b68284979d82d88280). Trakt has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU.
 
 The Federal Trade Commission has jurisdiction over Trakt’s compliance with the Privacy Shield. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -58,6 +58,18 @@ Under certain conditions, more fully described on the Privacy Shield website htt
 
 ##  **9.** Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b383e3b3b24393f0b3f392a203f653f3d).
+If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ff8c8a8f8f908d8bbf8b8d9e948bd18b89).
 
 Effective Date: September 13, 2018
+
+Advertisement
+
+[](https://web.archive.org/b12a4c/2b1e0f)
+
+[](https://web.archive.org/vip/ads)
+
+Advertisement
+
+[](https://web.archive.org/b12a4c/9fc857)
+
+[](https://web.archive.org/vip/ads)
