@@ -1,94 +1,69 @@
-> *The following text is extracted and transformed from the jacetube.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530020140id_/http%3A//jacetube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacetube.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223012816id_/http%3A//jacetube.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – JaceTube.Com
+# Privacy Policy – JaceTube
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+## Who we are
 
- **What personal information do we collect from the people that visit our blog, website or app?**
+Our website address is: https://jacetube.com.
 
-We do not collect information from visitors of our site.
+## What personal data we collect and why we collect it
 
-or other details to help you with your experience.
+### Comments
 
- **When do we collect information?**
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-We collect information from you when you or enter information on our site.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
- **How do we use your information?**
+### Media
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
- **How do we protect your information?**
+### Contact forms
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
+### Cookies
 
-We use regular Malware Scanning.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-We do not use an SSL certificate
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
- **•** We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
- **Do we use ‘cookies’?**
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-We do not use cookies for tracking purposes
+### Embedded content from other websites
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-However, you will still be able to place orders .
+### Analytics
 
- **Third-party disclosure**
+## Who we share your data with
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+## How long we retain your data
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
- **Third-party links**
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## What rights you have over your data
 
- **Google**
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+## Where we send your data
 
-We have not enabled Google AdSense on our site but we may do so in the future.
+Visitor comments may be checked through an automated spam detection service.
 
- **COPPA (Children Online Privacy Protection Act)**
+## Your contact information
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+## Additional information
 
-We do not specifically market to children under the age of 13 years old.
+### How we protect your data
 
- **CAN SPAM Act**
+### What data breach procedures we have in place
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+### What third parties we receive data from
 
- **We collect your email address in order to:**
+### What automated decision making and/or profiling we do with user data
 
- **To be in accordance with CANSPAM, we agree to the following:**
-
- **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-and we will promptly remove you from **ALL** correspondence.
-
- **Disclaimer**
-
-JaceTube.Com doesn’t host any content on its own server and just linking to or embedding content that was uploaded to popular Online Video hosting sites like DailyMotion, Youtube, Google Drive, Xtube, Xvideos, Pornhub, MyVidster, OpenloadMovies, Redtube and such sites. All trademarks, Videos, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. JaceTube.Com is not responsible for what other people upload to 3rd party sites. We urge all copyright owners, to recognize that the links contained within this site are located somewhere else on the web or video embedded are from other various site like included above! If you have any legal issues, please contact appropriate media file owners / hosters. If you have any legal issues, please contact the appropriate media file owners or host sites.
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-jacetube.com
-
-Brgy San Antonio
-
-Pasig City, NCR 1605
-
-Philippines
-
-jacegeronimo21@gmail.com
-
-Last Edited on 2016-07-26
+### Industry regulatory disclosure requirements
