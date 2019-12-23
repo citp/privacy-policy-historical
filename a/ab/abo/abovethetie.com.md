@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovethetie.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919220702id_/https%3A//www.abovethetie.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovethetie.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223193721id_/https%3A//www.abovethetie.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Above the Tie
 
