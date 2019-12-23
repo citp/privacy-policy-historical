@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syf.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415175933id_/https%3A//www.synchrony.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syf.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223212513id_/https%3A//www.synchrony.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
@@ -7,6 +7,13 @@ Home [ ](https://www.synchrony.com/ "Home")
 ##  Internet Privacy Policy 
 
 ###  Effective July 2014 
+
+### Synchrony cares about you and your privacy.  
+We never sell your Personal Information to third parties.
+
+## Internet Privacy Policy
+
+### Effective July 2014
 
 Synchrony is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this site. Please read this Internet Privacy Policy carefully before using this site. This Internet Privacy Policy currently is applicable only to Synchrony’s United States customers and visitors and only when they access and use this site, and may not be applicable to transactions performed and information collected in channels other than this site. This site is not directed to or intended for individuals under 18 years of age.
 
