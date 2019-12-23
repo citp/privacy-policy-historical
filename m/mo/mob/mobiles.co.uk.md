@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908081236id_/https%3A//www.mobiles.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223195414id_/https%3A//www.mobiles.co.uk/privacy) for the most accurate reproduction.*
 
 # Mobiles.co.uk privacy policy
 
@@ -31,9 +31,4 @@ Please note that we may be required by law to retain certain information. Before
 
 If you would like to exercise these rights, please contact us
 
-Please make sure you provide the following identification documents as part of your application:
-
-  * One proof of identity - we can accept an unexpired copy of either your passport or your driver's licence
-  * One proof of address - we can accept a copy of most recent (and less than 3 months old) credit or debit card statement or a utility bill showing the same name and address on your account or driving license where it hasn’t be used as proof of identity (see above)
-
-
+Please make sure you provide one proof of identity (we suggest either a utility bill in your name or your driver's license, but other similar formal documents may be accepted, please note the documents cannot be older than 6 months) as part of your request
