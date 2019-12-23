@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xvideos.red privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226050848id_/https%3A//info.xvideos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvideos.red privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223022058id_/https%3A//info.xvideos.red/legal/privacy) for the most accurate reproduction.*
 
-# XVideos privacy policy - Info.xvideos.com
+# XVideos privacy policy - Xvideos.red
 
-Last Updated: May 25, 2018
+Last Updated: 19 sept, 2019
 
 We, **WGCZ, a.s** , a company registered and existing under the laws of the Czech Republic, with registration number 023 30 482, having its registered seat at Krakovska 1366/25, 110 00 Prague 1, Czech Republic, the provider of the website www.xvideos.com and www.xvideos.red (hereinafter referred to as the “ **Website** ”). The provider of the Website is the responsible data controller in the sense of Article 4 (7) of European Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter referred to as the „ **GDPR** “).
 
@@ -80,8 +80,7 @@ We process this information given our legitimate interest in protecting the Webs
 #### 2.3 Provide, Personalize, Measure, and Improve our Advertising and Marketing.
 
   * Send you promotional messages, marketing, advertising, and other information that may be of interest to you based on your preferences (including information about Website).
-  * Personalize, measure, and improve our advertising.
-  * Conduct profiling based on your characteristics and preferences (based on the information you provide to us, your interactions with the Website, information obtained from third parties, and your search and booking history) to send you promotional messages, marketing, advertising and other information that we think may be of interest to you.
+  * Personalize, measure, and improve our advertising based on your characteristics and preferences (based on the information you provide to us, your interactions with the Website, information obtained from third parties, and your search and booking history) to send you promotional messages, marketing, advertising and other information that we think may be of interest to you.
 
 
 
@@ -140,7 +139,7 @@ If you know or have reason to believe that your account credentials have been lo
 
 ### 5\. YOUR RIGHTS
 
-You may exercise any of the rights described in this section by adjusting settings in your profile or by sending an email to dpo@xvideos.com. [Please note that we will ask you to verify your identity before taking further action on your request, if we cannot identify you we cannot act according to your request.](http://info.xvideos.com/contact/)
+You may exercise any of the rights described in this section by adjusting settings in your user account and, if it is not possible, you can contact us at our abovementioned address. [Please note that we will ask you to verify your identity before taking further action on your request, if we cannot identify you we cannot act according to your request.](http://info.xvideos.com/contact/)
 
 #### 5.1 Managing Your Information.
 
@@ -152,11 +151,11 @@ You have the right to ask us to correct inaccurate or incomplete personal inform
 
 #### 5.3 Data Access and Portability.
 
-You have a right to request copies of your personal information held by us. You are also entitled to request copies of personal information that you have provided to us in a structured, commonly used, and machine-readable format and/or request us to transmit this information to another service provider (where technically feasible).
+You have a right to request copies of your personal information held by us. You are also entitled to request copies of personal information that you have provided to us in a structured, commonly used, and machine-readable format and/or request us to transmit this information to another service provider (where technically feasible). You may exercise this right and download your data in your user account settings by clicking “[Export my data](https://www.xvideos.com/account/export-your-data)”.
 
 #### 5.4 Data Retention and Erasure.
 
-We generally retain your personal information for as long as is necessary for the performance of the contract between you and us, to protect our legitimate interest or legitimate interest of a third party and to comply with our legal obligations. If you no longer want us to use your information to provide you the service, you can request that we erase your personal information and close your account. Please note that if you request the erasure of your personal information:
+We generally retain your personal information for as long as is necessary for the performance of the contract between you and us, to protect our legitimate interest or legitimate interest of a third party and to comply with our legal obligations. If you no longer want us to use your information to provide you the service, you can request that we close your account and erase your personal data in your user account by clicking “[Delete my whole account](https://www.xvideos.com/account/close)”. Please note that if you request the erasure of your personal information:
 
   * We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend an account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.
 
@@ -171,16 +170,16 @@ We generally retain your personal information for as long as is necessary for th
 
 #### 5.5 Withdrawing Consent and Restriction of Processing.
 
-Where you have provided your consent to the processing of your personal information by us you may withdraw your consent at any time by changing your account settings or by sending a communication to us specifying which consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Additionally you have the right to limit the ways in which we use your personal information, in particular where (i) you contest the accuracy of your personal information; (ii) the processing is unlawful and you oppose the erasure of your personal information; (iii) we no longer need your personal information for the purposes of the processing, but you require the information for the establishment, exercise or defence of legal claims; or (iv) you have objected to the processing pursuant to Section 5.6 and pending the verification whether the legitimate grounds of the Website provider override your own.
+Where you have provided your consent to the processing of your personal information by us you may withdraw your consent at any time by changing your account settings. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Additionally you have the right to limit the ways in which we use your personal information, in particular where (i) you contest the accuracy of your personal information; (ii) the processing is unlawful and you oppose the erasure of your personal information; (iii) we no longer need your personal information for the purposes of the processing, but you require the information for the establishment, exercise or defence of legal claims; or (iv) you have objected to the processing pursuant to Section 5.6 and pending the verification whether the legitimate grounds of the Website provider override your own.
 
 #### 5.6 Objection to Processing.
 
 You have a right to require us not to process your personal information for certain specific purposes (including profiling) where such processing is based on legitimate interest. If you object to such processing we will no longer process your personal information for these purposes unless we can demonstrate compelling legitimate grounds for such processing or such processing is required for the establishment, exercise or defence of legal claims.  
-Where your sensitive personal data are processed you may, at any time ask us to cease processing your data by sending an e-mail to [dpo@xvideos.com](mailto:dpo@xvideos.com) or by changing your user’s profile settings.
+Where your sensitive personal data are processed you may, at any time ask us to cease processing your data by changing your user’s profile settings.
 
 #### 5.7 Lodging Complaints.
 
-You have the right to file a complaint about the data processing activities carried out before the competent data protection authorities, e.g. to The Office for Personal Data Protection. Also all users may contact: [dpo@xvideos.com](mailto:dpo@xvideos.com).
+You have the right to file a complaint about the data processing activities carried out before the competent data protection authorities, e.g. to The Office for Personal Data Protection.
 
 ### 6\. OPERATING GLOBALLY
 
@@ -205,9 +204,6 @@ We reserve the right to modify this Privacy Policy at any time in accordance wit
 
 You may contact us at
 
-Also you may contact our Data Protection Officer at [dpo@xvideos.com](mailto:dpo@xvideos.com).
-
-DPO  
 WGCZ, a.s  
 Krakovska 1366/25  
 Prague 1  
