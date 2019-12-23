@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the awesomejelly.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608082644id_/https%3A//awesomejelly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomejelly.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223094951id_/https%3A//awesomejelly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • AwesomeJelly.com
 
 ## **AwesomeJelly.com**
 
 Last Updated: November 20, 2018
+
+Change Privacy Preferences.
 
 AwesomeJelly, knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy (this “Privacy Policy”). By visiting or using our website, provided to you by AwesomeJelly (collectively, the “Service”), or viewing our Content (“Content” includes the text, software, scripts, graphics, photos, sounds, music, videos, audiovisual combinations, interactive features and other materials you may view on, access through, or contribute to the Service), you are accepting the practices outlined in this Privacy Policy. If you do not agree to the collection and use of information from or about you in accordance with this Privacy Policy and our Terms of Service, then you may not use the Service.
 
@@ -81,3 +83,7 @@ If you have any questions regarding this Privacy Policy, you may email us at adm
 Effective Date of this Privacy Policy
 
 This Privacy Policy is effective as of May 24, 2018 and last updated November 20, 2018
+
+Telegraph International  
+30 N. Gould Street, Suite R  
+Sheridan, WY 82801
