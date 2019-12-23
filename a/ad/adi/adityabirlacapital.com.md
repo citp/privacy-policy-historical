@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adityabirlacapital.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425141520id_/https%3A//www.adityabirlacapital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adityabirlacapital.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223045858id_/https%3A//adityabirlacapital.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aditya Birla Capital
 
-**Privacy Policy**
+**_Privacy Policy_**
 
 This data privacy policy (“ **Policy** ”) sets forth the reasonable security practices and security procedures adopted by Aditya Birla Capital ( **“ABC”** ) Group Companies which include the following entities:
 
