@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilightwap.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628112702id_/http%3A//phoneky.co.uk/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilightwap.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223035825id_/http%3A//phoneky.co.uk/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # PHONEKY -
 
@@ -93,4 +93,4 @@ PHONEKY reserves the right, at its sole discretion, to modify or replace this Pr
 
 Changes to this Privacy Policy will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
 
-**Last Updated:** November 01, 2018 
+**Last Updated:** November 01, 2019 
