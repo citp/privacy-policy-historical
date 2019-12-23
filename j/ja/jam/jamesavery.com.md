@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jamesavery.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619205635id_/https%3A//www.jamesavery.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesavery.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223080420id_/https%3A//www.jamesavery.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - James Avery
-
-## Privacy Policy
 
 At James Avery, we value and protect our customers' privacy.
 
