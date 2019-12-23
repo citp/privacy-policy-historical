@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cint.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416032837id_/https%3A//www.cint.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cint.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223183225id_/https%3A//www.cint.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Cint
 
