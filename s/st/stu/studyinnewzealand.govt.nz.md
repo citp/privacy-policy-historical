@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyinnewzealand.govt.nz privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530210050id_/https%3A//www.studyinnewzealand.govt.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinnewzealand.govt.nz privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223084925id_/https%3A//www.studyinnewzealand.govt.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Study In New Zealand
 
