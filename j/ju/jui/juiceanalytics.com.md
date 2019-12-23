@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the juiceanalytics.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012121835id_/http%3A//www.juiceanalytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juiceanalytics.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223083014id_/http%3A//www.juiceanalytics.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Juice Analytics
+# Privacy Policy — Juice Analytics - Build Data Products and Visualization
 
 **Effective Date: January 30, 2011**
 
- **Last Updated: August 31, 2018**
+ **Last Updated: October 8, 2019**
 
  **Introduction**
 
-Juice, Inc. (referred to herein as “Juice”, “we”, “our” or “us”) recognizes the importance of protecting personal data we may collect from visitors and any other individual or entity (“Users”, “you”, or “your”) who visit our web sites. This Privacy Policy applies to data collection by Juice and shall apply to your use of the website, [www.juiceanalytics.com](http://www.juiceanalytics.com/), [www.juiceboxdata.com](http://www.juiceboxdata.com/), [www.chartchooser.com](http://www.chartchooser.com/), and other Juice-related sites, applications, communications, capabilities and services (“Services”) accessible on or by any top-level Juice domain owned by us (each, a “Site” and collectively the “Sites”), but excluding services that state that they are offered under a different privacy policy.
+Juice, Inc. (referred to herein as “Juice”, “we”, “our” or “us”) recognizes the importance of protecting personal data we may collect from visitors and any other individual or entity (“Users”, “you”, or “your”) who visit our web sites. This Privacy Policy applies to data collection by Juice and shall apply to your use of the website, [www.juiceanalytics.com](http://www.juiceanalytics.com/), [www.juiceboxdata.com](http://www.juiceboxdata.com/), [www.chartchooser.com](http://www.chartchooser.com/), and other Juice-related sites, applications, communications, capabilities and services (“Services”) accessible on or by any top-level Juice domain owned by us (each, a “Site” and collectively the “Sites”), but excluding services that state that they are offered under a different privacy policy.
 
 Our Privacy Policy explains: (1) what information we collect; (2) why we collect it; (3) how we use that information; (4) how we may share it; and (5) the choices we offer, including how to access and update information. Specifically, our Privacy Policy covers the following topics:
 
@@ -48,29 +48,29 @@ Please familiarize yourself with our privacy practices and let us know if you ha
 
 Irrespective of which country you live in, you authorize us to transfer, store, and use your information in the United States, and any other country where we operate. In some of these countries, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those in the country where you live. Learn more about our data transfer operations in the “International Transfer” section below. If you do not agree to the transfer, storage and use of your information in the United States, and any other country where we operate, please do not use the Sites or Services.
 
-If you have any questions or comments about this Privacy Policy, please submit a request to [privacy@juiceanalytics.com](mailto:privacy@juiceanalytics.com).
+If you have any questions or comments about this Privacy Policy, please submit a request to [privacy@juiceanalytics.com](mailto:privacy@juiceanalytics.com).
 
  **When this Privacy Policy Applies**
 
 Our Privacy Policy applies to all of the services offered by Juice and its affiliates (“the Juice Related Companies”) and services offered on other sites, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
-Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. ** **
 
  **Terms of Use**
 
-By accessing or using the Sites in any manner, you also agree to be bound by [Juice’s Terms of Use](https://www.juiceanalytics.com/terms-of-use) (the “Agreement”). Please read the Agreement carefully. If you do not accept all of the terms and conditions contained in or incorporated by reference into the Agreement, please do not use the Sites.
+By accessing or using the Sites in any manner, you also agree to be bound by [Juice’s Terms of Use](https://www.juiceanalytics.com/saas-agreement)(the “Agreement”). Please read the Agreement carefully. If you do not accept all of the terms and conditions contained in or incorporated by reference into the Agreement, please do not use the Sites.
 
  **Information We Collect**
 
 We collect information, including personal data, to provide better services to all our Users. We use the term “Personal Data” to refer to any information that identifies or can be used to identify you. Common examples of personal data include: full name, home address, email address, date of birth, digital identity, such as a login name or handle, information about your device, and certain metadata.
 
-“Sensitive Personal Data” refers to a smaller subset of personal data which is considered more sensitive to the individual, such as race and ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic or biometric information, physical or mental health information, medical insurance data, or sexual orientation. Juice does notcollect or use Sensitive Personal Data and asks that you do notprovide Sensitive Personal Data to us.
+“Sensitive Personal Data” refers to a smaller subset of personal data which is considered more sensitive to the individual, such as race and ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic or biometric information, physical or mental health information, medical insurance data, or sexual orientation. Juice does not collect or use Sensitive Personal Data and asks that you do not provide Sensitive Personal Data to us.
 
 We collect Personal Data in the following ways:
 
 1.     Information You Give to Us
 
-You may choose to provide us with personal data about yourself, including your name, email, phone number, by completing forms on our website, such as when you request information about our Services, or purchase a product. For example, visitors who sign up for an account at <http://www.juiceboxdata.com/> provide a username and email address. Those who engage in transactions with Juice Inc. – by purchasing access to the [jucieboxdata.com](http://jucieboxdata.com/) paid services, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions.
+You may choose to provide us with personal data about yourself, including your name, email, phone number, by completing forms on our website, such as when you request information about our Services, or purchase a product. For example, visitors who sign up for an account at [http://www.juiceboxdata.com/](http://www.juiceboxdata.com/) provide a username and email address. Those who engage in transactions with Juice Inc. – by purchasing access to the [jucieboxdata.com](http://jucieboxdata.com/) paid services, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions.
 
 When using our Services, you may provide us with messages sent between those individuals you have authorized to use our Services. In some instances, you may elect to provide us with location and address information. You may also provide us with Personal Data about yourself when you report a problem or have a question about our services. 
 
@@ -100,6 +100,8 @@ Web Beacons. Pages of our services or our e-mails may contain small electronic f
 
 Clickstream Data. Clickstream data is information collected by our computers when you request Web pages from the Sites. Clickstream data may include information such as the page served, the time spent viewing the page, source of the request, type of browser making the request, the preceding page viewed and similar information. Clickstream data permits us to analyze how visitors arrive at the Sites, what type of content is popular, what type of visitors in the aggregate are interested in particular kinds of content on the Sites.
 
+You can find more information on our use of cookies in our [Cookie Policy](https://web.archive.org/cookie-policy).
+
  **How We Use Information We Collect**
 
 We use your personal data in ways that are compatible with the purposes for which it was collected or authorized by you, including for the following purposes:
@@ -120,7 +122,7 @@ We use your personal data in ways that are compatible with the purposes for whic
 
 8.     To respond to and support users regarding their use of the Sites and Services;
 
-9.     To comply with all applicable legal requirements;
+9.     To comply with all applicable legal requirements.
 
 10.  To investigate possible fraud or other violations of our Terms of Use or this Privacy Policy and/or attempts to harm our Users.
 
@@ -150,7 +152,7 @@ Whenever we collect Personal Data from you, we may do so on the following legal 
 
 ·       Enhancement of our cybersecurity, including improving the security of our network and information systems; and
 
-·       General business operations and diligence.
+·       General business operations and diligence;
 
 Provided that, in each circumstance, we will weigh the necessity of our processing for the purpose against your privacy and confidentiality interests, including taking into account your reasonable expectations, the impact of processing, and any safeguards which are or could be put in place. In all circumstances, we will limit such processing for our legitimate business interest to what is necessary for its purposes.
 
@@ -166,21 +168,21 @@ We do not share personal information with companies, organizations and individua
 
 ·       **For external processing.  **We provide personal information to our affiliates or other trusted businesses or partners to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. These third parties include payment processors, such as financial institutions and their vendors and contractors that process transactions, customer relations management vendors, marketing and communications vendors, data storage vendor, cloud services, and similar third parties. It is our policy to only share Personal Data with contractors, service providers and other third parties who are bound by contractual obligations to keep Personal Data confidential and use it only for the purposes for which we disclose it to them.  Under certain circumstances, you may avoid having us share your information with our business partners and vendors by not granting us permission to share your information.  Not granting us permission to share your information with our business partners or vendors may limit your access to their services through the Sites. We do not share personal information with third parties for their own marketing purposes. 
 
-·       **For Legal Reasons.  **We will share Personal Data with companies, organizations or individuals outside of Juice if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+·       **For Legal Reasons.** We will share Personal Data with companies, organizations or individuals outside of Juice if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
-o  meet any applicable law, regulation, legal process or enforceable governmental request.
+o  meet any applicable law, regulation, legal process or enforceable governmental request.
 
-o  enforce applicable Terms of Use, including investigation of potential violations.
+o  enforce applicable Terms of Use, including investigation of potential violations.
 
-o  detect, prevent, or otherwise address fraud, security or technical issues.
+o  detect, prevent, or otherwise address fraud, security or technical issues.
 
-o  protect against harm to the rights, property or safety of Juice, our Users or the public as required or permitted by law.
+o  protect against harm to the rights, property or safety of Juice, our Users or the public as required or permitted by law.
 
 We attempt to notify Users about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand.
 
 ·       **Business Transfers**. If we establish a new related entity, are acquired by or merged with another organization, or if substantially all of our assets are transferred to another organization, Personal Data about our users is often a transferred business asset.  In the event that Juice itself or substantially all of our assets are acquired, Personal Data about our users may be one of the transferred assets.
 
-·       **Aggregate Site Use Information.  **We may share aggregate and anonymized/pseudonymized Personal Data to third parties in order to promote or describe use of the Sites, for research, marketing, advertising, or similar purposes.
+·       **Aggregate Site Use Information.** We may share aggregate and anonymized/pseudonymized Personal Data to third parties in order to promote or describe use of the Sites, for research, marketing, advertising, or similar purposes.
 
  **Your Failure to Provide Personal Data**
 
@@ -218,37 +220,47 @@ To make these requests you may contact us using the contact information below, a
 
 ·      **Changing or Deleting Your Information**
 
-You may update or correct information by emailing us at [support@juiceanalytics.com](mailto:support@juiceanalytics.com).  If you completely delete all such information, then your account may become deactivated.  We may retain an archived copy of your records as required by law, to comply with our legal obligations, to resolve disputes, to enforce our agreements or for other legitimate business purposes.  
+You may update or correct information by emailing us at [support@juiceanalytics.com](mailto:support@juiceanalytics.com).  If you completely delete all such information, then your account may become deactivated.  We may retain an archived copy of your records as required by law, to comply with our legal obligations, to resolve disputes, to enforce our agreements or for other legitimate business purposes.  
 
 Wemay contact you to request that you update your Personal Data on a regular basis to ensure its integrity for the purposes of ongoing data management.
 
 ·      **Our Opt-in/Opt-out Policy**
 
-By providing an email address on the JuiceSites, you agree that we may contact you in the event of a change in this Privacy Policy, to provide you with any service related notices, or to provide you with information about our events, invitations, or related educational information.
+By providing an email address on the JuiceSites, you agree that we may contact you in the event of a change in this Privacy Policy, to provide you with any service related notices, or to provide you with information about our events, invitations, or related educational information.
 
 For purposes of this Privacy Policy, “opt-in” is generally defined as any affirmative action by a user to submit or receive information, as the case may be.
 
 We currently provide the following opt-out opportunities: 
 
-1.    At any time, you can follow a link provided in offers, newsletters or other email messages (except for e-commerce confirmation or service notice emails) received from us to unsubscribe from the service.     
+1.    At any time, you can follow a link provided in offers, newsletters or other email messages (except for e-commerce confirmation or service notice emails) received from us to unsubscribe from the service.     
 
-2.    At any time, you can contact us through [privacy@juiceanalytics.com](mailto:privacy@juiceanalytics.com) or the address or telephone number provided below to unsubscribe from the service and opt-out of our right per your consent under the terms of this Privacy Policy to share your Personal Data. 
+2.    At any time, you can contact us through [privacy@juiceanalytics.com](mailto:privacy@juiceanalytics.com)or the address or telephone number provided below to unsubscribe from the service and opt-out of our right per your consent under the terms of this Privacy Policy to share your Personal Data. 
 
-Notwithstanding anything else in this Privacy Policy, please note that we always reserve the right to contact you in the event of a change in this Privacy Policy, or to provide you with any service related notices. 
+Notwithstanding anything else in this Privacy Policy, please note that we always reserve the right to contact you in the event of a change in this Privacy Policy, or to provide you with any service related notices. 
 
  **Third Party Links**
 
- ** ** The Sites may contain links to webpages operated by parties other than Juice. We do not control such websites and are not responsible for their contents or the privacy policies or other practices of such websites. Our inclusion of links to such websites does not imply any endorsement of the material on such websites or any association with their operators. Further, it is up to the User to take precautions to ensure that whatever links the User selects or software the User downloads (whether from this Site or other websites) is free of such items as viruses, worms, trojan horses, defects and other items of a destructive nature. These websites and services may have their own privacy policies, which the User will be subject to upon linking to the third party's website. Juice strongly recommends that each User review the third party's terms and policies.
+The Sites may contain links to webpages operated by parties other than Juice. We do not control such websites and are not responsible for their contents or the privacy policies or other practices of such websites. Our inclusion of links to such websites does not imply any endorsement of the material on such websites or any association with their operators. Further, it is up to the User to take precautions to ensure that whatever links the User selects or software the User downloads (whether from this Site or other websites) is free of such items as viruses, worms, trojan horses, defects and other items of a destructive nature. These websites and services may have their own privacy policies, which the User will be subject to upon linking to the third party's website. Juice strongly recommends that each User review the third party's terms and policies.
 
  **International Transfer**
 
-We arecommitted to complying with applicable laws, regulations and mandatory government standards regarding the protection of Personal Data.  
+We are committed to complying with applicable laws, regulations and mandatory government standards regarding the protection of Personal Data.  
 
-Since we area global organization, Personal Data and any additional information submitted may be used globally in connection with employment, business processes within Juice,or communicating with ourclients. Therefore, Personal Data may be transferred to other Juice entities worldwide, where it will be processed in accordance with this Privacy Policy and laws that are applicable in each country. Countries where we process data may have laws which are different, and potentially not as protective, as the laws of your own country.
+Since we area global organization, Personal Data and any additional information submitted may be used globally in connection with employment, business processes within Juice,or communicating with ourclients. Therefore, Personal Data may be transferred to other Juice entities worldwide, where it will be processed in accordance with this Privacy Policy and laws that are applicable in each country. Countries where we process data may have laws which are different, and potentially not as protective, as the laws of your own country.
 
-If we transfer your Personal Data out of your jurisdiction, we will implement suitable safeguards and rely on legally-provided mechanisms to lawfully transfer data across borders to ensure that your Personal Data is protected.  
+If we transfer your Personal Data out of your jurisdiction, we will implement suitable safeguards and rely on legally-provided mechanisms to lawfully transfer data across borders to ensure that your Personal Data is protected.  We are certified to the EU-US Privacy Shield and it is our policy to, where required by applicable laws, execute a data privacy and data security addendum with all third parties with whom we may share Personal Data.
 
- **How We Protect Personal Data**
+·      **EU-U.S. Privacy Shield**
+
+Juice complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom to the United States, respectively. Juice has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. Juice applies the Privacy Shield Principles to all EU data received under the Privacy Shield. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/)
+
+In compliance with the US-EU Privacy Shield Principles, Juice commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Juice at: [privacy@juiceanalytics.com](mailto:privacy@juiceanalytics.com). 
+
+Juice has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Our organization is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Under certain conditions, an individual can invoke binding arbitration. We will disclose personal data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements. In addition, our organization retains liability in cases of onward transfers to third parties.
+
+ **How We Protect Personal Data  **
 
 Juice maintains administrative, technical and physical safeguards designed to protect the User's Personal Data and information against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. We implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk, taking into account technological reality, cost, the scope, context and purposes of processing weighted against the severity and likelihood that the processing could threaten individual rights and freedoms. For example, restrict access to personal information to Juice Inc. employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use commercially reasonable security measures such as encryption, firewalls, and Secure Socket Layer software (SSL) or hypertext transfer protocol secure (HTTPS) to protect Personal Data.   
 
@@ -256,13 +268,13 @@ If Juice collects account information for payment or credit, Juice will use the 
 
  **Children**
 
-The Site is not intended for use by children.  We do not intentionally gather Personal Data about visitors who are under the age of 18.  If a child has provided us with Personal Data, a parent or guardian of that child may contact us to have the information deleted from our records. If you believe that we might have any information from a child under age 18, please contact us at [privacy@juiceanalytics.com](mailto:privacy@juiceanalytics.com). If we learn that we have inadvertently collected the personal information of a child under 18, or equivalent minimum age depending on jurisdiction, we will take steps to delete the information as soon as possible.  
+The Site is not intended for use by children.  We do not intentionally gather Personal Data about visitors who are under the age of 18.  If a child has provided us with Personal Data, a parent or guardian of that child may contact us to have the information deleted from our records. If you believe that we might have any information from a child under age 18, please contact us at [privacy@juiceanalytics.com](mailto:privacy@juiceanalytics.com). If we learn that we have inadvertently collected the personal information of a child under 18, or equivalent minimum age depending on jurisdiction, we will take steps to delete the information as soon as possible.  
 
  **Direct Marketing and “Do Not Track” Signals**
 
 California residents are entitled to contact us to request information about whether we have disclosed personal information to third parties for the third parties’ direct marketing purposes.  We do not disclose personal information to third parties for the third parties’ direct marketing purposes. California users may request further information about our compliance with this law by e-mailing us at the address listed in the “How to Contact Us” section.
 
-Juice does not track its users over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. However, some third party sites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, your browser may include controls to block and delete cookies, web beacons and similar technologies, to allow you to opt out of data collection through those technologies.
+Juice does not track its users over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. However, some third party sites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, your browser may include controls to block and delete cookies, web beacons and similar technologies, to allow you to opt out of data collection through those technologies. 
 
  **Changes to this Privacy Policy**
 
@@ -270,9 +282,18 @@ Our Privacy Policy may change from time to time. We will not reduce your rights 
 
 Revisions:
 
-·      January 30, 2011
+  * January 30, 2011
 
-·      August 31, 2018
+  * August 31, 2018
+
+  * October 12, 2018 
+
+  * December 18, 2018
+
+  * May 1, 2019
+
+
+
 
  **How to Contact Us**
 
@@ -286,7 +307,7 @@ Juice, Inc.
 
 Attn: Privacy Policy Inquiry
 
-209 10th Ave. S., Suite 402
+1264 Martin St.
 
 Nashville, Tennessee 37203
 
