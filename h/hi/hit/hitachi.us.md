@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitachi.us privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621000519id_/http%3A//www.hitachi.us/privacy%3FWT.ac%3Dus_ft_priva) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi.us privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223201146id_/http%3A//www.hitachi.us/privacy%3FWT.ac%3Dus_ft_priva) for the most accurate reproduction.*
 
 # Online Privacy Statement | Hitachi in the U.S.A.
 
@@ -131,4 +131,4 @@ Tarrytown, NY 10591
 United States of America  
 +1 (914) 332.5800
 
-You may also send us an email at [hitachicommunication@hal.hitachi.com](https://web.archive.org/web/20190621000519id_/http%3A//www.hitachi.us/hitachicommunication@hal.hitachi.com).
+You may also send us an email at [hitachicommunication@hal.hitachi.com](https://web.archive.org/web/20191223201146id_/http%3A//www.hitachi.us/hitachicommunication@hal.hitachi.com).
