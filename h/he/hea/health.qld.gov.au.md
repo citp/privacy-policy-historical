@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526071317id_/https%3A//www.health.qld.gov.au/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223135810id_/https%3A//www.health.qld.gov.au/global/privacy) for the most accurate reproduction.*
 
 # Privacy | Queensland Health
 
@@ -10,7 +10,7 @@ These principles contain rules about the collection, use, disclosure, security, 
 
 Staff are also bound by Part 7 of the [_Hospital and Health Boards Act 2011_ (Qld)](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2011-032) (HHB Act) which sets out the duty of confidentiality and exceptions that permit the disclosure of confidential information by ‘designated persons’. Confidential information most often relates to patients of Queensland Health who may be living or deceased.
 
-Queensland Health's [Privacy Plan](https://www.health.qld.gov.au/__data/assets/pdf_file/0027/439164/doh-privacy-plan.pdf) (PDF, 380 kB) sets out details of the types of personal information we hold, and how that information is dealt with in accordance with both the _IP Act_ and _HHB Act_. Our Privacy Plan also sets out the process for lodging a privacy complaint and requesting access to personal information, including health records.
+Queensland Health's [Privacy Plan](https://www.health.qld.gov.au/__data/assets/pdf_file/0027/439164/doh-privacy-plan.pdf) (PDF 380 kB) sets out details of the types of personal information we hold, and how that information is dealt with in accordance with both the _IP Act_ and _HHB Act_. Our Privacy Plan also sets out the process for lodging a privacy complaint and requesting access to personal information, including health records.
 
 In this privacy statement, the Department of Health and the Hospital and Health Services (HHS) are referred to collectively as ‘Queensland Health’. However, the Department of Health and the HHSs each have their own separate Privacy Plans. If you cannot locate a Privacy Plan for a HHS online, you should [contact the relevant HHS](https://www.health.qld.gov.au/system-governance/contact-us/access-info/privacy-contacts) and request they provide you with a copy.
 
@@ -43,15 +43,15 @@ At times you may be asked if you wish to complete survey questionnaires that app
 
 If you do agree to participate in a survey, you may be asked to review and accept certain additional terms and conditions relating to the use or disclosure of any personal information you provide.
 
-Sometimes, Queensland Health will use web-based survey programs when conducting our surveys. These programs often have servers located overseas (i.e. cloud based computing), and Queensland Health must comply with the _IP Act_ when any personal information is transferred outside of Australia. For more information on our legal obligations in this regard, please see our [Privacy Plan](https://www.health.qld.gov.au/__data/assets/pdf_file/0027/439164/doh-privacy-plan.pdf) (PDF, 380 kB).
+Sometimes, Queensland Health will use web-based survey programs when conducting our surveys. These programs often have servers located overseas (i.e. cloud based computing), and Queensland Health must comply with the _IP Act_ when any personal information is transferred outside of Australia. For more information on our legal obligations in this regard, please see our [Privacy Plan](https://www.health.qld.gov.au/__data/assets/pdf_file/0027/439164/doh-privacy-plan.pdf) (PDF 380 kB).
 
 ## Email and feedback information
 
-This is a Queensland Government website. Email correspondence sent to this site will be treated as a public record and will be retained as required by the [_Public Records Act 2002_ (Qld)](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2002-011) and other relevant regulations.
+This is a Queensland Government website. Correspondence received via this site will be treated as a public record and will be retained as required by the _[Public Records Act 2002](https://www.legislation.qld.gov.au/view/pdf/inforce/current/act-2002-011)_ (Qld) and other relevant regulations.
 
-Your name and address details will not be added to a mailing list, nor will we disclose these details to third parties without your consent, unless where the disclosure is authorised or required by or under law. Email messages may however be monitored by our website support staff for system trouble shooting and maintenance purposes.
+Although every effort will be made, Queensland Health does not guarantee to reply to all correspondence received. Where appropriate, emails sent to this site may be forwarded internally to other business areas within Queensland Health, or to an appropriate Hospital and Health Service for direct response.
 
-Although every effort will be made, Queensland Health does not guarantee to reply to email correspondence. Where appropriate, emails sent to this site may be forwarded internally to other Queensland Health officers for direct response.
+Your name and contact details will not be disclosed to other third parties without your consent, unless where the disclosure is authorised or required by or under law. Email messages may however be monitored by our website support staff for system trouble shooting and maintenance purposes.
 
 ## Closed Circuit Television (CCTV) surveillance
 
@@ -63,4 +63,4 @@ Enquiries regarding CCTV footage operating within Department of Health should be
 
 ## How do I obtain access to information held about me by Queensland Health?
 
-Queensland Health supports your right to see or amend the personal information (including health information) we hold about you. To find out how to access or amend your health records and personal information, or to learn more about how Queensland Health protects your privacy rights, please visit [Health records and privacy](https://www.health.qld.gov.au/system-governance/records-privacy/health-personal). Our [Privacy Plan](https://www.health.qld.gov.au/__data/assets/pdf_file/0027/439164/doh-privacy-plan.pdf) (PDF, 380 kB) also sets out some helpful information in this regard.
+Queensland Health supports your right to see or amend the personal information (including health information) we hold about you. To find out how to access or amend your health records and personal information, or to learn more about how Queensland Health protects your privacy rights, please visit [Health records and privacy](https://www.health.qld.gov.au/system-governance/records-privacy/health-personal). Our [Privacy Plan](https://www.health.qld.gov.au/__data/assets/pdf_file/0027/439164/doh-privacy-plan.pdf) (PDF 380 kB) also sets out some helpful information in this regard.
