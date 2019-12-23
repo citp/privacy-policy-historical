@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630171826id_/https%3A//www.rapid7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223010448id_/https%3A//www.rapid7.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rapid7
+# Privacy Policy
 
 [ ](https://web.archive.org/)
 
@@ -174,7 +174,7 @@ Return to top
 
 ### Mailing Address:
 
-Rapid7, 100 Summer Street, 13th Floor, Boston, MA 02110-2115
+Rapid7, 120 Causeway Street, Suite 400, Boston, MA 02114
 
 ### Phone:
 
