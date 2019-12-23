@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coca-colahellenic.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310034112id_/https%3A//coca-colahellenic.com/en/privacy-and-cookie-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-colahellenic.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223205915id_/https%3A//coca-colahellenic.com/en/privacy-and-cookie-notice) for the most accurate reproduction.*
 
 # Privacy and cookie notice | Coca-Cola HBC
 
