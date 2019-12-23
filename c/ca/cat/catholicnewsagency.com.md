@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholicnewsagency.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509073742id_/https%3A//www.catholicnewsagency.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicnewsagency.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224002217id_/https%3A//www.catholicnewsagency.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,7 +106,7 @@ Attention: Jeffrey Hahn
 5817 Old Leeds Rd.  
 Irondale, AL 35210-2164
 
-or e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dea8b7bba9bbac9ebba9aab0f0bdb1b3)
+or e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a3bcb0a2b0a795b0a2a1bbfbb6bab8)
 
 In an effort to provide the best service, EWTN News reserves the right to edit, modify, and improve this policy at any time.
 
