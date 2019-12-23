@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsex.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427215556id_/https%3A//www.worldsex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsex.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223162214id_/https%3A//www.worldsex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
