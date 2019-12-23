@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factmonster.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626110136id_/https%3A//www.factmonster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmonster.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224004028id_/https%3A//www.factmonster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy (Updated 5/25/2018) | FactMonster
 
