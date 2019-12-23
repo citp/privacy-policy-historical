@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forconstructionpros.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212155558id_/https%3A//www.forconstructionpros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forconstructionpros.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223171550id_/https%3A//www.forconstructionpros.com/privacy-policy) for the most accurate reproduction.*
 
 # ACBM Privacy Notice
 
@@ -7,7 +7,7 @@
 
 ###### Last Updated: [11-19-2018]
 
-This Privacy Notice (“Privacy Notice”) describes and governs the information collection, use, and sharing practices of ACBM, LLC, located at 201 N Main Street, Fort Atkinson, WI 53538 (“ACBM,” “we,” “us,” and “our”), with respect to your use of the ACBM website at [ www.acbusinessmedia.com](https://web.archive.org/web/20181212155558id_/https%3A//www.forconstructionpros.com/www.acbusinessmedia.com) and the websites of our brands (collectively, the “Sites”) and the services we provide (collectively, the Sites and these services are the “Services”). For individuals in the European Economic Area (“EEA”), ACBM is the “controller” of your personal data. 
+This Privacy Notice (“Privacy Notice”) describes and governs the information collection, use, and sharing practices of ACBM, LLC, located at 201 N Main Street, Fort Atkinson, WI 53538 (“ACBM,” “we,” “us,” and “our”), with respect to your use of the ACBM website at [ www.acbusinessmedia.com](https://web.archive.org/web/20191223171550id_/https%3A//www.forconstructionpros.com/www.acbusinessmedia.com) and the websites of our brands (collectively, the “Sites”) and the services we provide (collectively, the Sites and these services are the “Services”). For individuals in the European Economic Area (“EEA”), ACBM is the “controller” of your personal data. 
 
 Before you use or submit any information through or in connection with the Services, please carefully review this Privacy Notice. By using any part of the Services, you understand that your information will be collected, used, and disclosed as outlined in this Privacy Notice. **IF YOU DO NOT AGREE TO THIS PRIVACY NOTICE, PLEASE DO NOT USE THE SERVICES.**
 
