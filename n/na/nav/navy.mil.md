@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navy.mil privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331232941id_/https%3A//www.navy.mil/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navy.mil privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224002101id_/https%3A//www.navy.mil/privacy.asp) for the most accurate reproduction.*
 
 # Navy.mil - Privacy Policy
 
