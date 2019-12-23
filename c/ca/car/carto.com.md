@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carto.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401024135id_/https%3A//carto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carto.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223010314id_/https%3A//carto.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice — CARTO
+# Privacy Notice | CARTO
 
 ## Privacy Notice
 
@@ -12,7 +12,17 @@ By visiting the [CARTO](https://carto.com/) website (the “Site”) or using th
 
 ## Cookies
 
-We use cookies to make interactions with the Site easy and meaningful. When you visit the Site, our servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself by opening an account, or filling out a form, you remain anonymous to us.
+Cookies are small pieces of text that websites you visit can place on the device you’re using to make the visit—generally a computer or mobile device. Standing alone, cookies do not personally identify you—they merely recognize your Web browser.
+
+First-party cookies are cookies set by us on our Site or the Services. Third-party cookies are set by the external providers whose services are used by our Site; these external providers also set their own cookies. Third-party cookies’ terms of use are governed by the external provider’s specific terms and conditions, which we have no control over.
+
+We use cookies to make interactions with the Site and Services easy and meaningful. When you use the Site and choose to accept analytics cookies, we use these to optimize the Site by collecting and reporting information on how you use it. When you use the Services and agree to our [Terms](https://carto.com/legal/), we employ analytics cookies for the same reason.
+
+We use [Google](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage), [HotJar](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies), and [Hubspot](https://knowledge.hubspot.com/articles/kcs_article/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser) on the Site for analytics, and additionally use [TrackJS](https://trackjs.com/privacy/) on the Services for the same. HotJar and Hubspot both set Third-Party cookies when you use the Site and choose to accept analytics cookies, or when you use the Services and agree to our Terms; the remaining providers set only First-Party Cookies.
+
+We use the following external providers’ services on the Site: [Twitter](https://twitter.com/en/tos#intlTerms), [Vimeo](https://vimeo.com/terms), and [YouTube](https://www.youtube.com/t/terms). These external providers may change their terms of service, as well as purpose and use of cookies at any time. No third-party cookies will be installed on your device by these providers if you do not view the content they service.
+
+We may update the external providers we use periodically.
 
 ## Information we collect that is not PI
 
@@ -70,7 +80,7 @@ We do not target, market to, or knowingly collect PI from children under the age
 
 ## Data retention
 
-We retain your PI for 2 years, after which it is destroyed.
+We retain your PI for up to 2 years, after which it is destroyed.
 
 ## Data security
 
@@ -83,12 +93,18 @@ Residents of California have the right to request from a business, with whom the
 ## Your European Economic Area (EEA) data protection rights
 
 A. _What we collect that is personal data in the EEA_  
-We collect the following “personal data,” as defined in Regulation (EU) 2016/679 of the European Parliament and of the Council (the “[GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG)”), from those who choose to purchase our paid plan and from those who use the free version of CARTO: name, email address, CARTO username, CARTO account password, CARTO account type; CARTO account creation date; IP address; date and time of first visit; date and time of last session; number of pageviews; referral source; and social media information (e.g., Twitter or Disqus handle), job role, company name, phone number, website, location, description, billing address and/or credit card information that you may choose provide to us.  
-In addition to the personal data you provide when downloading a resource or signing up for a webinar or demo—name, email address, phone number, your job role, and company name—we collect the following personal data: IP address; date and time of first visit; date and time of last session; number of pageviews; and/or referral source.  
+We collect the following “personal data,” as defined in Regulation (EU) 2016/679 of the European Parliament and of the Council (the “[GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG)”), from those who choose to purchase our paid plan and from those who have a free account: first and last names; business email address; CARTO account username; CARTO account password; phone number; job title; company name; CARTO account type; CARTO account creation date; IP address; date and time of first visit; date and time of last session; number of pageviews; and referral source; as well as social media information (e.g., Twitter or Disqus handle); avatar; number of employees at your company; industry; case studies you’re interested in; website; location; description; billing address; and/or credit card information that you may choose to provide to us.
+
+In addition to the personal data you provide when downloading a resource or signing up for a webinar or demo—first and last names, business email address, job title, company name, country, industry, number of employees at your company, phone number, and the use cases you’re interested in—we collect the following personal data: IP address; date and time of first visit; date and time of last session; number of pageviews; and/or referral source.
+
 We may also also collect other personal data if you contact us or otherwise give it to us (e.g., in an email).
 
 B. _How we use and disclose your personal data_  
-We use personal data to provide you with the Service per the [Terms and Conditions](https://drive.google.com/file/d/1PWJEfoBUOM_iYZsNNGdZtzMK2yTHThAJ/view), to enhance the visitor experience of the Service, to operate and maintain the Service, to investigate and understand how the Service is used, to communicate with you about using the Service, to monitor and protect the security and integrity of the Service, and to analyze our business. We may share personal data with our corporate affiliates and with business partners who provide services related to the Service (such as website hosting or technical support). These business partners do not have the right to use this personal data for any purpose other than those related to the Service. We may engage in automated decision-making to enhance the visitor experience and analyze and grow our business. For example, we may tailor mailing lists to certain industry groups or display certain information based on a user’s geographic location.
+We use personal data to provide you with the Service per the [Terms and Conditions](https://drive.google.com/file/d/1PWJEfoBUOM_iYZsNNGdZtzMK2yTHThAJ/view), to enhance the visitor experience of the Service, to operate and maintain the Service, to investigate and understand how the Service is used, to communicate with you about using the Service, to monitor and protect the security and integrity of the Service, and to analyze our business.
+
+We may share personal data with our corporate affiliates and with business partners who provide services related to the Service (such as website hosting or technical support). These business partners do not have the right to use this personal data for any purpose other than those related to the Service. If a visitor to our website or an individual who signs up for a free account belongs to a region where CARTO has business partner resellers of the Services, we may share your personal data with these partners for the purpose of allowing them to help us develop our business through sales of the Services.
+
+We may engage in automated decision-making to enhance the visitor experience and analyze and grow our business. For example, we may tailor mailing lists to certain industry groups or display certain information based on a user’s geographic location.
 
 C. _Legal basis for processing your personal data_  
 The legal bases for processing your personal data is contract, consent, and/or legitimate interests, in particular to conduct business within CARTO, to develop our business, to market and sell our products and Service, and to maintain the accuracy of our databases and documentation. Where you have given consent to the processing of your personal data for one or more specific purposes, you have the right to withdraw consent at any time.
