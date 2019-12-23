@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603003437id_/https%3A//www.pharmaceuticalonline.com/static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223040253id_/http%3A//www.pharmaceuticalonline.com/static/Privacy) for the most accurate reproduction.*
 
-# Pharmaceutical Online : Privacy Statement
+# Pharmaceutical Online: Privacy Statement
 
 VertMarkets holds its readers and customers privacy in the highest regard. It is a core principle of our company. Because of this principle, Vertmarkets believes that you should fully understand the type of information we collect, how it is used and how you can control what information we collect. Therefore this privacy policy discloses what information we gather and how we use it.
 
