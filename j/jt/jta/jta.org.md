@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621181823id_/https%3A//www.jta.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223184210id_/https%3A//www.jta.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jewish Telegraphic Agency
 
@@ -68,7 +68,7 @@ Other than as disclosed in this Privacy Policy, we will not contact you with mar
 
 If you register for membership on JEWISH TELEGRAPHIC AGENCY or to receive one of our newsletters, you can notify us if at a later time you decide you no longer wish to be registered or receive the newsletter. If you receive the newsletter via e-mail, follow the instructions on how to unsubscribe at the bottom of each e-mail. You can also ask to be removed from any registration or newsletter subscription by e-mailing [webmaster@70facesmedia.org](mailto:webmaster@70facesmedia.org).  If you receive the newsletter on your mobile device, please visit our Websites and follow the instructions for unsubscribing.
 
-In general, a registered member may update or delete the information he or she previously provided to us. At present, that updating should be done via an e-mail to [webmaster@70facesmedia.org](https://web.archive.org/web/20190621181823id_/https%3A//www.jta.org/webmaster@70facesmedia.org).
+In general, a registered member may update or delete the information he or she previously provided to us. At present, that updating should be done via an e-mail to [webmaster@70facesmedia.org](https://web.archive.org/web/20191223184210id_/https%3A//www.jta.org/webmaster@70facesmedia.org).
 
 If you choose to delete your membership, all but a transactional record of your membership account will be removed from our databases, though some records may remain on back-up media. Note that by deleting your account, you will cancel your membership and no longer be able to access some aspects of our Websites.
 
