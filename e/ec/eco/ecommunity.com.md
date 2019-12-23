@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815233752id_/https%3A//www.ecommunity.com/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223124908id_/https%3A//www.ecommunity.com/notice-of-privacy-practices) for the most accurate reproduction.*
 
 # Notice of Privacy Practices | Community Health Network
 
