@@ -1,34 +1,36 @@
-> *The following text is extracted and transformed from the cakewrecks.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518225053id_/https%3A//cakewrecks.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakewrecks.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223095837id_/http%3A//www.cakewrecks.com/privacy) for the most accurate reproduction.*
 
-# Cake Wrecks - Privacy
+# Privacy — Cake Wrecks
+
+Also, be sure to read our [submission “guidelines”](https://web.archive.org/submission-guidelines.html)
 
 This privacy policy sets out how Cake Wrecks uses and protects any information that you give Cake Wrecks when you use this website. Cake Wrecks is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Cake Wrecks may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11/10/08.
-
-##### **What we collect**
 
 We may collect the following information:
 
   * name
+
   * contact information including email address
+
   * demographic information such as postcode, preferences and interests
+
   * other information relevant to customer surveys
 
 
 
-##### **What we do with the information we gather**
 
 We require this information in particular for the following reasons:
 
   * To give credit for the photos submitted.
+
   * To contact you for more information about your submission.
 
 
 
-##### **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+ **How we use cookies**
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
@@ -38,15 +40,16 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Links to other websites**
+ **Links to other websites**
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-##### **Controlling your personal information**
-
   * you may submit a photo anonymously but we may be unable to use it without a source.
+
   * you may request that your name not be included if your photo is used online or in print.
+
   * if you have previously agreed to us using your personal information, you may change your mind at any time by writing to or emailing us
+
 
 
 
