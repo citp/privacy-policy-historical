@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinymce.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035056id_/https%3A//about.tiny.cloud/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinymce.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223090339id_/https%3A//about.tiny.cloud/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Privacy Rights - Tiny
 
@@ -112,6 +112,7 @@ Tiny’s third-party service providers are:
   * Amazon Web Services [data processing infrastructure]
   * Braintree [payment processing]
   * Datapine [Cloud services analytics]
+  * Dovetail [website analytics]
   * Eventbrite [event ticketing]
   * Facebook [advertising, social media marketing]
   * FullContact, Inc. [email marketing]
