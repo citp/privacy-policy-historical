@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfashionnow.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202947id_/https%3A//www.justfashionnow.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfashionnow.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223044922id_/https%3A//www.justfashionnow.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -122,4 +122,8 @@ Follow the instructions at the bottom of each email and we will promptly remove 
 
 ##### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at [[email protected]](https://www.justfashionnow.com/cdn-cgi/l/email-protection#55262025253a2721153f2026213334263d3c3a3b3b3a227b363a38)
+If there are any questions regarding this privacy policy you may contact us at [[email protected]](https://www.justfashionnow.com/cdn-cgi/l/email-protection#ddaea8adadb2afa99db7a8aea9bbbcaeb5b4b2b3b3b2aaf3beb2b0)
+
+##### CHICV International Holding Limited 
+
+flat/rm 507 5/f new east ocean centre no 9 science museum road tsim sha tsui east. 
