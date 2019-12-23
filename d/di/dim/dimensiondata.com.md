@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328032200id_/https%3A//www.dimensiondata.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223122610id_/https%3A//www.dimensiondata.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Dimension Data Privacy Policy | Dimension Data
 
