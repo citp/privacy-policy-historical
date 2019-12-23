@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vyond.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617182007id_/https%3A//www.vyond.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyond.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223073754id_/https%3A//www.vyond.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vyond
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=aac80e40-9661-45a3-9ef6-d23e337c2020)
 
-Effective Date: May 16, 2019
+Effective Date: October 3, 2019
 
 GoAnimate, Inc. or its affiliates (which operates the Vyond website and Vyond platform) recognizes the importance of the privacy of our users.  This Privacy Policy contains important information for you about how we collect, use, disclose, retain and delete your personal information collected by us through our website vyond.com ([https://vyond.com](https://vyond.com/)) (the “Site”) and the services available through our Site (collectively, the “Services”). It also describes your choices regarding use, access, and correction of our personal information.
 
@@ -202,7 +202,7 @@ If you have any questions about how to remove videos or assets on Vyond, please 
 
 ### Privacy Shield
 
-GoAnimate, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+GoAnimate, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, the United Kingdom, and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 GoAnimate, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. GoAnimate, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -228,6 +228,7 @@ This Privacy Policy is current as of the Effective Date set forth above. We may 
 
 We will also keep prior versions of this Privacy Policy in an archive for your review here:
 
+  * [May 16, 2019 Privacy Policy](https://12s1o525xrgk2r8n1g2juoap-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Vyond_PrivacyPolicy_2019.05.16.pdf)
   * [January 25, 2019 Privacy Policy](https://12s1o525xrgk2r8n1g2juoap-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/PP_GoAnimate_January2019.pdf)
   * [May 6, 2018 Privacy Policy](https://12s1o525xrgk2r8n1g2juoap-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/privacy_20180506.pdf)
   * [August 1, 2017 Privacy Policy](https://12s1o525xrgk2r8n1g2juoap-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/privacy_20170801.pdf)
