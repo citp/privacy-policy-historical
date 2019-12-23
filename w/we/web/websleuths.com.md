@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the websleuths.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websleuths.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223131958id_/https%3A//www.websleuths.com/forums/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Websleuths
+# Privacy Policy
 
-We are Websleuths ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/misc/contact).
+We are Websleuths ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20191223131958id_/https%3A//www.websleuths.com/forums/help/misc/contact).
 
 ## What information we hold about you
 
@@ -37,9 +37,13 @@ We may use your personal information in the following ways:
 
 ## Other ways we may use your personal information.
 
-In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile by going to <https://www.websleuths.com/forums/account/contact-details>.
 
 We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
+
+In the event Websleuths is sold, your personal data on our server at the point of sale, will transfer.
+
+Websleuths may partner with other true crime outlets and send you information or special offers.
 
 ## Keeping your data secure
 
@@ -49,13 +53,13 @@ We are committed to ensuring that any information you provide to us is secure. I
 
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/help/cookies).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20191223131958id_/https%3A//www.websleuths.com/forums/help/help/cookies).
 
 ## Rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/misc/contact) to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20191223131958id_/https%3A//www.websleuths.com/forums/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20191223131958id_/https%3A//www.websleuths.com/forums/help/misc/contact) to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/misc/contact) if you would like us to remove your personal data.
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20191223131958id_/https%3A//www.websleuths.com/forums/help/misc/contact) if you would like us to remove your personal data.
 
 ## Acceptance of this policy
 
