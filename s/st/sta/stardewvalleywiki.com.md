@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardewvalleywiki.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628220424id_/https%3A//stardewvalleywiki.com/Stardew_Valley_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardewvalleywiki.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223102919id_/https%3A//stardewvalleywiki.com/Stardew_Valley_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Stardew Valley Wiki:Privacy policy - Stardew Valley Wiki
 
