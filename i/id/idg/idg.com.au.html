@@ -1,7 +1,35 @@
-<!--The following is the downloaded HTML source of the idg.com.au privacy policy that was archived on 2019-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190615132242id_/https%3A//www.idg.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idg.com.au privacy policy that was archived on 2019-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191223053938id_/https%3A//www.idg.com.au/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<html><head><script id="idg-tracking" type="text/javascript" src="https://www.idgcdn.com.au/compressor-staticfiles/clarity/idg_clarity.js?release=20191217212235"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+var disqus_shortname = 'idgau';
+
+/*
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+*/
+
+// This lets us know when the JS has loaded and after the counts are fetched.
+function disqus_counts_loaded() {
+	DISQUSWIDGETS.old_displayCount = DISQUSWIDGETS.displayCount;
+
+	// Override the old displayCount() with a new one so we can attach our helper onto it.
+	DISQUSWIDGETS.displayCount = function(arg) {
+		DISQUSWIDGETS.old_displayCount(arg);
+		$("a[href$=#disqus_thread],*[data-disqus-identifier]").trigger('disqus-counts-loaded');
+	}
+}
+
+$.getScript('//' + disqus_shortname + '.disqus.com/count.js', disqus_counts_loaded);
+</script>
+
+
+ 
+	
 		<title>Privacy Policy - IDG Communications - Australia</title>
 
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -16,16 +44,230 @@
 		<![endif]-->
 		
 
-		<link rel="shortcut icon" href="https://www.idgcdn.com.au/compressor-staticfiles/idg/images/idg.ico?release=20190614163945">
-    <link href="https://www.idgcdn.com.au/compressor-staticfiles/idg_sms_branded_sass_generated.css?release=20190614163945" rel="stylesheet" type="text/css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" language="JavaScript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<link rel="shortcut icon" href="https://www.idgcdn.com.au/compressor-staticfiles/idg/images/idg.ico?release=20191217212235">
+    <link href="https://www.idgcdn.com.au/compressor-staticfiles/idg_sms_branded_sass_generated.css?release=20191217212235" rel="stylesheet" type="text/css">
+    <script type="text/javascript" language="JavaScript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
-		<noscript>link href="icons.fallback.css" rel="stylesheet"></noscript>
+ 		<noscript link="" href="icons.fallback.css" rel="stylesheet"></noscript>
+                  
+
+<script type="text/javascript">                                                     
+window._sp_ = window._sp_ || {};
+window._sp_.config = window._sp_.config || {};
+
+//by Sourcepoint
+window._sp_.config.account_id = 146;
+
+// replace 'mms.sp-prod.net' with your CNAME.d messaging subdomain
+window._sp_.config.mms_domain = 'cmp.idg.com.au' ;
+
+// messaging-specific configuration
+window._sp_.mms = window._sp_.mms || {};
+window._sp_.mms.cmd = window._sp_.mms.cmd || [];
+
+//CMP Flags
+window._sp_.config.cmp = _sp_.config.cmp || {};
+window._sp_.config.cmp.enabled = true;
+window._sp_.config.cmp.waitForConsentData = true;
+
+//Code to call the server and display a message
+window._sp_.mms.cmd.push( function () {
+    window._sp_.mms.startMsg();
+});
+</script>
+
+<script type="text/javascript" src="//demo.idg.com.au/staticfiles/cmp/messaging.js"></script>
+
+<script>
+var consent = consent || {};
+consent.isEU = consent.isEU || null;
+consent.personalization = consent.personalization || null;
+consent.ads = consent.ads || {};
+consent.ads.queue = consent.ads.queue || [];
+
+consent.infostorage = consent.infostorage || {};
+consent.infostorage.queue = consent.infostorage.queue || [];
+
+consent.adsel = consent.adsel || {};
+consent.adsel.queue = consent.adsel.queue || [];
+
+consent.contentsel = consent.contentsel || {};
+consent.contentsel.queue = consent.contentsel.queue || [];
+
+consent.socmedia = consent.socmedia || {};
+consent.socmedia.queue = consent.socmedia.queue || [];
+
+consent.tealium = consent.tealium || {};
+consent.tealium.queue = consent.tealium.queue || [];
+
+consent.digitalelement = consent.digitalelement || {};
+consent.digitalelement.queue = consent.digitalelement.queue || [];
+
+consent.purposes = consent.purposes || {};
+consent.purposes.standard = consent.purposes.standard || [];
+consent.purposes.custom = consent.purposes.custom || [];
+consent.vendors = consent.vendors || {};
+consent.vendors.standard = consent.vendors.standard || [];
+consent.vendors.custom = consent.vendors.custom || [];
+</script>
+
+<script>
+
+function runTracking() {
+      var detectClarityExist = setInterval(function () {
+        //waiting until tracking exist
+        if (clarity_tracking_starter) {
+          clarity_tracking_starter();
+          clearInterval(detectClarityExist);
+        }
+      }, 10)
+} 
+
+runTracking();
+
+function getConsentInfo() {
+	console.log('getting consent status');
+
+	__cmp('getConsentData',null,function(e){
+        console.log('*****GDPR: EU user?', e);
+        consent.isEU = e.gdprApplies;
+        if (!consent.isEU) {
+                console.log('*****GDPR: not EU, trigger all tags!');
+                consent.personalization=true;
+                $(window).trigger("runConsent", [consent.ads.queue]);
+                $(window).trigger("runConsent", [consent.infostorage.queue]);
+                $(window).trigger("runConsent", [consent.adsel.queue]);
+                $(window).trigger("runConsent", [consent.contentsel.queue]);
+                $(window).trigger("runConsent", [consent.socmedia.queue]);
+                $(window).trigger("runConsent", [consent.digitalelement.queue]);
+                $(window).trigger("runConsent", [consent.tealium.queue]);
+                //runTracking();
+        }
+        else if (e.consentData !== null && e.consentData !== "") { // else if.. visitor is from EU and consent is known...
+                bindReshowCmp();
+        }
+        else { //else consent is not known
+            bindReshowCmp();
+        }
+	});
+
+	__cmp('getVendorConsents',[],function (e) {
+		
+		consent.purposes.standard = Object.keys(e.purposeConsents);
+		consent.vendors.standard = Object.keys(e.vendorConsents);
+		
+		consent.personalization = consent.purposes.standard.includes("2");
+		
+		console.log('*****GDPR: we know your personalization setting (' + consent.purposes.standard.includes("2") + ')');
+		console.log('*****GDPR: we know your info storage setting (' + consent.purposes.standard.includes("1") + '), running tags if TRUE.');
+		console.log('*****GDPR: we know your ad selection setting (' + consent.purposes.standard.includes("3") + '), running tags if TRUE.');
+		console.log('*****GDPR: we know your content selection setting (' + consent.purposes.standard.includes("4") + '), running tags if TRUE.');
+		
+		
+		if (consent.purposes.standard.includes("1")) { // if information storage consent is TRUE run queue
+			console.log('***** Known consent and true - run info storage');
+			$(window).trigger("runConsent", [consent.infostorage.queue]);
+		}
+		if (consent.purposes.standard.includes("3")) { // if ad selection consent is TRUE run queue
+			console.log('***** Known consent and true - run ad selection');
+			$(window).trigger("runConsent", [consent.adsel.queue]);
+		}
+		if (consent.purposes.standard.includes("4")) { // if content selection consent is TRUE run queue
+			console.log('***** Known consent and true - run content selection');
+			$(window).trigger("runConsent", [consent.contentsel.queue]);
+		}
+		//special case for Tealium
+		if (consent.purposes.standard.includes("1") && consent.purposes.standard.includes("2") && consent.purposes.standard.includes("3") && consent.purposes.standard.includes("4") && consent.purposes.standard.includes("5") && consent.vendors.standard.includes(522)) {
+			console.log('***** Known consent and true - run tealium');
+			$(window).trigger("runConsent", [consent.tealium.queue]);
+		}
+		
+		//special case for Digital Element
+		if (consent.purposes.standard.includes("2") && consent.purposes.standard.includes("3") && consent.purposes.standard.includes("4") && consent.purposes.standard.includes("5")) {
+			console.log('***** Known consent and true - run digitalelement');
+			$(window).trigger("runConsent", [consent.digitalelement.queue]);
+		}
+	});
+
+	__cmp('getCustomVendorConsents',[],function (e) { 
+		
+		consent.purposes.custom = [];
+		e.consentedPurposes.forEach(function(item, index) {
+			consent.purposes.custom.push(item.name);
+		});
+		
+		consent.vendors.custom = [];
+		e.consentedVendors.forEach(function(item, index) {
+			consent.vendors.custom.push(item.name);
+		});
+		
+		console.log('*****GDPR: we know your social media setting. It is (' + consent.purposes.custom.includes("Social Media Consents") + '), running tags if TRUE.');
+		
+		if (consent.purposes.custom.includes("Social Media Consents")) { // if social media consent is TRUE run queue
+			console.log('***** Known consent and true - run social media');
+			$(window).trigger("runConsent", [consent.socmedia.queue]);
+		}
+		
+		console.log('*****GDPR: we know your Google Ad Manager setting. It is (' + consent.vendors.custom.includes("Google Ad Manager") + '), running ads if TRUE.');
+		if (consent.vendors.custom.includes("Google Ad Manager")) {
+			console.log('***** Known consent and true - run Google Ad Manager');
+			$(window).trigger("runConsent", [consent.ads.queue]);
+		}
+		
+	});
+}
+
+var idgCMPSourcepointCallback = function(){
+	getConsentInfo();
+}
+
+$(window).on("runConsent", function(event, queueToRun) {
+		watchConsentQueue(queueToRun)
+});
+
+function runQueue(queue){
+	for (var x=0;x<queue.length;x++) {
+		var nextFn = queue.shift();
+		nextFn();
+		//console.log('*****GDPR: running queue');
+	}	
+}
+
+function watchConsentQueue(queue){
+	setInterval(function() { runQueue(queue); },500);
+}
+function bindReshowCmp() {
+	var url = document.location.pathname;
+	if (url.indexOf("/privacy") > -1) {
+		$(document).ready(function() {
+			$(".cmpSettings").show();
+			$(".reshowLink").on("click", function(e) {
+				e.preventDefault();
+				window._sp_.privacyManager.loadPrivacyManagerModal( 3988, '5cd195e5f9f3332a80a0e25f');
+			});
+		});
+	}
+}
+</script> 
 
 		
 	</head>
 	<body id="privacy">
-		<!-- menu section start-->
+		<div id="top-ad-slot">
+			
+			
+			
+<div class="gpt-ad" id="gpt-ad-top-banner-3865264" data-gpt-ad-unit-path="/8456/IDG.AU_B2B_IDG.com.au/ros_section" data-gpt-sizes="[[728, 90]]" data-gpt-targeting="{&quot;site&quot;: [&quot;idg&quot;], &quot;idgau_search_referrer&quot;: [&quot;no&quot;]}" data-gpt-size-mapping="[[[728, 90], [[728, 90]]], [[0, 0], []]]">
+</div>
+<div class="house-slot" style="display:none" data-name="" data-min-width="">
+
+</div>
+
+
+			
+			
+		</div>
+		  <!-- menu section start-->
 		<nav id="main-menu" class="cf">
 			<div class="brand">
 				<a href="/">
@@ -158,10 +400,18 @@
 <p>If you have any questions, concerns or complaints about IDGC’s personal data practices or this Privacy Policy, we encourage you to get in touch with our Data Protection Officer. </p>
 <p>If you believe you have suffered harm due to a breach of your rights by IDGC under this Privacy Policy, and IDGC has not handled your complaint in a reasonably sufficient manner, <em>any EU resident</em> may also file a complaint with the applicable supervisory authority. </p>
 <p>The contact information for IDGC’s Data Protection Officer is:</p>
-<p>Mr. Keith Arnot<br>c/o IDG Communications Ltd.<br>101 Euston Road<br>London NW1 2RA<br>United Kingdom</p>
+<p>Mr. John McGill<br>
+    c/o IDG Direct<br>
+    Millennium House<br>
+    Great Strand Street<br>
+    Dublin 1<br>
+    Ireland</p>
 <p>GDPR@idgcommunications.com</p>
 <p>IDGC has also designated a Representative <em>in the EU</em>:</p>
-<p>Mr. John McGill<br>c/o IDG Direct<br>Millennium House<br>Great Strand Street<br>Dublin 1<br>Ireland</p>
+<p>IDG Communications Media AG<br> 
+    Lyonel-Feininger-Strasse 26<br>
+    Munich 80807<br>
+    Germany</p>
 <p>GDPRrepresentative@idgcommunications.com</p>
 <h3>Feedback</h3>
 <p>Your feedback is important to us. We’d love to hear your ideas, opinions and comments about IDGC’s services. Please email: privacy@idg.com.au</p>
@@ -169,7 +419,7 @@
 <p>We are committed to maintaining IDG Australia as the foremost IT industry publisher. From time to time we will add new features to our e-mail services and web sites. Because of this, our Privacy Policy will be reviewed and revised. IDG Australia reserves the right to change its Privacy Policy at any time and notify you by posting an updated version of the policy on its web site.</p>
 <h3>Further Information</h3>
 <p>For more information about privacy issues in Australia and protecting your privacy, visit <a href="http://www.privacy.gov.au/">http://www.privacy.gov.au</a><strong>.</strong></p>
-<p><em>Last Updated: 16/05/2018</em></p>
+<p><em>Last Updated: 13/09/2019</em></p>
 <p></p>
 
 
@@ -249,6 +499,48 @@
 		</footer>
 		<!-- footer section end-->
 		
+
+
+<script type="text/javascript">
+  var clarity_tracking_starter = function (override_context_data) {
+    var d=document;
+    var id = 'idg-tracking';
+    var s='script';
+    var js, fjs = d.getElementsByTagName(s)[0];
+
+    if (d.getElementById(id)) {
+      runClarity();
+      return false
+    }
+    
+    js = d.createElement(s); 
+    js.id = id; 
+    js.type = "text/javascript";
+    js.onload = function () {runClarity()};
+    js.src = "https://www.idgcdn.com.au/compressor-staticfiles/clarity/idg_clarity.js?release=20191217212235";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    function runClarity(){
+      var dynamic_key_val_api = "/script-tagger/clarity/json/";
+      var first_page_context_data = {
+        'score':1,'event_type':"pageview"
+      }
+
+      // Context data can be overridden and is used on infinite scroll pages to pass in 
+      // context of the new article that is loaded on the page.
+      var context_data = override_context_data || first_page_context_data;
+
+      clarity_logger.init(
+        dynamic_key_val_api,
+        'https://clarity-api-prod.idg.com.au/collect/client', 
+        context_data
+      );
+    }
+  };
+</script> 
+
+
+		
 		
 <!-- Start Google Analytics  -->
 <script>
@@ -304,7 +596,36 @@ function trackEvent(category, action, label, value) {
 
 
 		
-		<script type="text/javascript" language="JavaScript" src="https://www.idgcdn.com.au/compressor-staticfiles/idg/idg_new.js?release=20190614163945"></script>
+		<script type="text/javascript" language="JavaScript" src="https://www.idgcdn.com.au/compressor-staticfiles/idg/idg_new.js?release=20191217212235"></script>
+		
+<div class="gpt-ad" id="gpt-ad-over-the-page-3865264" data-gpt-ad-unit-path="/8456/IDG.AU_B2B_IDG.com.au/ros_section" data-gpt-sizes="[[1, 1]]" data-gpt-targeting="{&quot;site&quot;: [&quot;idg&quot;], &quot;idgau_search_referrer&quot;: [&quot;no&quot;]}" data-gpt-size-mapping="[[[610, 610], [[1, 1]]], [[0, 0], []]]">
+</div>
+<div class="house-slot" style="display:none" data-name="" data-min-width="">
+
+</div>
+
+
+		
+		
+		<script type="text/javascript" src="https://www.idgcdn.com.au/compressor-staticfiles/adsmin/idg_gpt.js?release=20191217212235" charset="utf-8"></script>
+		<script type="text/javascript">
+		createAndDisplayAds();
+		</script>
+		<script>
+			$( document ).ready(function() {
+				var promo = $('#top-ad-slot .gpt-ad');
+				promo.css('display', 'none');
+				setTimeout(function(){
+					promo.each(function(){
+					if ($(this).find('iframe').length == 0){
+						$(this).css('display', 'none');
+					} else {
+						$(this).css('display', 'block');
+					}
+					});
+				}, 1000);
+			});
+		</script>
 		
 		
 	
