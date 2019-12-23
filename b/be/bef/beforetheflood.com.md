@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beforetheflood.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601073910id_/http%3A//www.beforetheflood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforetheflood.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223194155id_/https%3A//www.beforetheflood.com/privacy) for the most accurate reproduction.*
 
 # Before the Flood - Privacy
 
-**One Earth, an initiative of the Leonardo DiCaprio Foundation** , the sponsoring organization of beforetheflood.com website ("us", "we", or "our"), is committed to protecting and respecting your privacy. This Privacy Policy explains how we treat that information -- like your name, contact information, and issues that are important to you – and to show you all the ways we work hard to keep it safe and private. We encourage you to take the time to read it. Below is a list of commonly asked questions.
+**One Earth, a project of Rockefeller Philanthropy Advisors** , the sponsoring organization of beforetheflood.com website ("us", "we", or "our"), is committed to protecting and respecting your privacy. This Privacy Policy explains how we treat that information -- like your name, contact information, and issues that are important to you – and to show you all the ways we work hard to keep it safe and private. We encourage you to take the time to read it. Below is a list of commonly asked questions.
 
 **What type of information do we collect information from you?  
 **The personal information we collect, store and use about you might include:
