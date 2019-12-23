@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice-gay.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213201640id_/https%3A//www.ice-gay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice-gay.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223181727id_/https%3A//www.ice-gay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Free Gay Porn Videos at Ice Gay Tube
 
@@ -62,7 +62,7 @@ Where you have consented to us to use your details for direct marketing, we will
 
 ##### Cookies
 
-A 'cookie' is a small text file sent from a website and stored on the userвЂ™s computer by the userвЂ™s web browser. Upon visiting a site that uses cookies, a cookie is downloaded onto your computer or mobile device. The next time you visit that site, your device will remember useful information such as preferences, visited pages or other options
+A 'cookie' is a small text file sent from a website and stored on the user’s computer by the user’s web browser. Upon visiting a site that uses cookies, a cookie is downloaded onto your computer or mobile device. The next time you visit that site, your device will remember useful information such as preferences, visited pages or other options
 
 Cookies are widely used to add functionality to websites, or to ensure they work more efficiently. Our site relies on cookies to optimise the user experience and ensure the sites services function properly.
 
