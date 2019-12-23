@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naac.gov.in privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622211746id_/http%3A//www.naac.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naac.gov.in privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223063539id_/http%3A//www.naac.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # NAAC - Privacy Policy
 
