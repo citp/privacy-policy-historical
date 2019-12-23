@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rememberthemilk.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184850id_/https%3A//www.rememberthemilk.com/help/privacy.rtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rememberthemilk.com privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223073229id_/http%3A//www.rememberthemilk.com/help/privacy.rtm) for the most accurate reproduction.*
 
 # Remember The Milk - Policies / Privacy Policy
 
