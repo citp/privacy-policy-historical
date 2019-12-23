@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utm.edu privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208051820id_/https%3A//www.utm.edu/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utm.edu privacy policy that was archived on 2019-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191223133556id_/http%3A//utm.edu/about/privacy.php) for the most accurate reproduction.*
 
 # The University of Tennessee at Martin - http://www.utm.edu
 
