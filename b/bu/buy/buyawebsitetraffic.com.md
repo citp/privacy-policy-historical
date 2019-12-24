@@ -1,52 +1,113 @@
-> *The following text is extracted and transformed from the buyawebsitetraffic.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429171711id_/http%3A//adwebtraffic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyawebsitetraffic.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224010940id_/https%3A//www.webtargetedtraffic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AdWebTraffic.com
+# Privacy Policy | Buy Targeted Traffic | Real Human Visitors | Organic Traffic
 
-This Privacy Policy hereby incorporates by reference all terms, conditions, policies and guidelines on AdWebTraffic.com, including the AdWebTraffic.com Terms of Service (TOS). This privacy notice reveals AdWebTraffic.com privacy practices and applies specifically to all the collected information by AdWebTraffic.com. It notifies the user on the following: 
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
-  * Identifiable personal information collected from you through the site and how it is used and shared.
-  * User’s available options concerning the use of his/her information.
-  * The security procedures in place to protect any misuse of our users’ information.
-  * The use of cookies by AdWebTraffic.com.
-  * Links included in AdWebTraffic.com.
-  * Available and permitted sharing procedures
+Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information.
 
+* * *
 
+### **What personal information do we collect from our website visitors?**
 
-AdWebTraffic.com is the sole owner of all information collected on the site, which include information that you voluntarily give us via email or any other contact from you. All information collected on the site is not for sale or cannot be rented out to anyone.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email, credit card information or other details to help you with your experience.
 
-## Personal Information
+* * *
 
-AdWebTraffic.com uses your personal information for own internal purposes including contacting you via email or phone to inform you about any updates on services and/or products and providing you with information relating to your online transactions with AdWebTraffic.com. By using AdWebTraffic.com, you understand and agree that we reserve the right to disclose your information as requested by law. We do not rent or sell your Personal Information to third parties. 
+### **When do we collect information?**
 
-## Advertising
+We collect information from you when you place an order or enter information on our site.
 
-We may send you email communications, including information that AdWebTraffic.com may think may be of interest to you. However, we do not send any of your personal information to our advertisers. 
+* * *
 
-From time to time, we may update this Privacy Policy as AdWebTraffic.com services change and expand. We may contact you, unless you ask us not to, via email or any other way in the future to tell you about specials, products, or changes to this Privacy Policy. 
+### **How do we use your information?**
 
-You may opt out of receiving any future notifications from us at any time. You may contact us via email or phone to do the following regarding your information: 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, surf the website, or use certain other site features in the following ways:
 
-  * Confirm what information we have on you, if any.
-  * Change, correct, or update the data you provide to AdWebTraffic.com. 
-  * Have us delete any information we have on you.
-  * Express any concerns you may have about how AdWebTraffic.com is using your information.
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To quickly process your transactions.
 
 
 
-For you to use any of the services offered by AdWebTraffic.com, you are required to fill out a registration form. When registering, you will be required to provide certain information (e.g. Name, email address, and website information). AdWebTraffic.com will uses this information to contact you about our products/services, and provides us with the necessary information to deliver the service to you. As an option, you may choose to provide us with your demographic information such as age or gender. However, it is not mandatory.
+* * *
 
-To make a purchase on AdWebTraffic.com, the site requests information from you on the order form. You will be required to provide your contact information (name and country) and financial information (credit card number and its expiration date). This information is specifically used for billing purposes and you will be contacted in case there is any problem processing the provided information.
+### **How do we protect your information?**
 
-Customer information, whether public or private, will not be sold, exchanged,transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, (insert providers name(s) here), keeps this information encrypted and secure on your behalf.
+We use regular Malware Scanning.
 
-A cookie is a piece of data stored on a site visitor’s hard drive to improve on one’s access to the site and also helps the site to identify repeat visitors and track of activities. AdWebTraffic.com uses “Cookies”for login and shopping cart purposes. For instance, AdWebTraffic.com will send a session cookie to your computer when you log in to your account. This cookie helps you visit a multiple of pages on the site during a single session, that way; you won’t need to enter your password on each page.   
-AdWebTraffic.com does not have control or access to cookies used by our business partners. However, despite the lack of control or access, these cookies are in no way linked to any personally identifiable information you provide to us. In addition, you have the option of turning of cookies via your web browser’s preferences.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-You understand that AdWebTraffic.com has partners with whom it provides some of its services. When you sign up for these services, we will only share web URLs for the specific purpose of offering these service. In addition, AdWebTraffic.com does not allow these parties to use personally identifiable information except for the specific purpose of offering the identified services.
+We implement a variety of security measures when a user places an order to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
+* * *
 
-By using AdWebTraffic.com, you understand that the site contains links to other websites. Be notified that AdWebTrafffic.com is not responsible for the linked sites’ content or their privacy practices. However, we take it as our responsibility to inform and encourage all AdWebTraffic.com users to be aware of such and to read the Terms of Service and Privacy Policy of any other site linked to AdWebTraffic.com.
+### **Do we use ‘cookies’?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
+
+For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We use cookies to:
+
+  * Help remember and process the items in the shopping cart.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
+
+However, you will still be able to place orders .
+
+* * *
+
+### **Third-party disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice.
+
+This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential.
+
+We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+* * *
+
+### **Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback.
+
+* * *
+
+### **CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+  * Send information, respond to inquiries, and/or other requests or questions
+  * Process orders and to send information and updates pertaining to orders.
+  * Send you additional information related to your product and/or service
+
+
+
+To be in accordance with CANSPAM, we agree to the following:
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can contact us.
+
+* * *
+
+### **Privacy policy changes**
+
+Our site is continually evolving, and thus the privacy statement is prone to change. The operators can make such changes to the privacy policy without further notice.
+
+By using the site and the materials in it, you will agree to the content of this privacy policy and you are responsible for checking the site in order to see if any changes occur.
