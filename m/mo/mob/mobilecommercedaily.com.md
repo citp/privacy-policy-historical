@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the mobilecommercedaily.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227104600id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilecommercedaily.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224220225id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Industry Dive
 
 You can read specifically about our commitment to GDPR and data standards [here](https://web.archive.org/gdpr/).   
-
-##   
-PRIVACY POLICY
 
 **Updated: 10 May 2018**
 
@@ -16,7 +13,7 @@ We want you to use Industry Dive products secure in the knowledge that we take y
 By using our products, you are accepting the practices described in the below privacy policy, including our use of cookies and similar online tools.  If you do not agree to the terms of this privacy policy, please do not use our products.
 
 ###   
-THE INFORMATION WE COLLECT
+The Information We Collect
 
 #### Personal Information
 
@@ -45,7 +42,7 @@ This non-personal information may be collected through various technologies, inc
 
 We may use information gathered across our network of websites, mobile apps, newsletters, and other products to create a single user record.  Additionally, we may use or combine information that we collect or receive from outside third-party sources to enhance, expand, and check the accuracy of our records.
 
-### HOW WE USE INFORMATION
+### How We Use Information
 
 We use your data for the following purposes:
 
@@ -74,7 +71,7 @@ We use your data for the following purposes:
 
 We will not use the information provided to us in ways unrelated to the ones described above.
 
-### WHEN WE SHARE INFORMATION
+### When We Share Information
 
 We may share information collected about you under the following conditions:
 
@@ -103,7 +100,7 @@ We may share information collected about you under the following conditions:
 
 
 
-### USE OF COOKIES
+### Use of Cookies
 
 Like many websites, we use cookies, web beacons and similar technologies to record your preferences, track the use of our products and your exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the products and make it easier and/or relevant for your use. For example, we may recommend articles similar to the ones you’re reading or display advertisements that you haven’t already seen.
 
@@ -111,7 +108,7 @@ Most web browsers automatically accept cookies, but, if you prefer, you can usua
 
 Some browsers make it possible for you to signal that you don’t want your Internet browsing activity to be tracked. Since the Internet community hasn’t reached a consensus on how to honor these signals, we don’t take action to Do-Not-Track requests at this time.
 
-### ONLINE ADVERTISING PARTNERS
+### Online Advertising Partners
 
 We allow third-party advertisers to display advertisements on our sites and in our products.  These third-party advertisers and related ad-serving companies may use cookies alone or in conjunction with tracking technologies such as web beacons to collect information about you when you use Industry Dive products.
 
@@ -121,7 +118,7 @@ We do not control these third parties’ tracking technologies, how they may be 
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, you may so by visiting www.aboutads.info/ or networkadvertising.org/choices/ or www.youronlinechoices.eu/.
 
-### DATA RETENTION
+### Data Retention
 
 We will retain your Personal Data for as long as you maintain an account or as otherwise necessary to provide you the Services. We will also retain your Personal Data in a secure backup system for a reasonable period of time in order to assure reliable service and as necessary to comply with our legal obligations, resolve disputes, protect our network security, and enforce our agreements.
 
@@ -129,23 +126,23 @@ Where we no longer need to process your Personal Data for the purposes set out i
 
 Where permissible, we will also delete your Personal Data upon your request.
 
-### THIRD PARTY WEBSITES
+### Third Party Websites
 
 Our Properties may contain links to third-party websites or mobile applications. Please be aware that we do not control these linked websites and that this Privacy Policy does not apply to those websites.
 
-### CHILDREN
+### Children
 
 Our Properties are not intended for children under the age of 16, and we do not knowingly collect personal information from children under the age of 16.
 
-### CHANGES TO OUR PRIVACY POLICY
+### Changes to Our Privacy Policy
 
 We may change this privacy policy from time to time. We will post changes in this policy, and suggest that you periodically revisit this policy to stay informed of any changes.
 
-### SECURITY
+### Security
 
 We take reasonable measures to help protect data we collect from unauthorized access and use.  We cannot, however, fully eliminate security risks associated with the storage and transmission of Personal Data.
 
-### CONTACT US
+### Contact Us
 
 If you have questions regarding our privacy policy, please contact us at: [privacy@industrydive.com](mailto:privacy@industrydive.com) or write to us at:
 
