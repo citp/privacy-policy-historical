@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullstory.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624203442id_/https%3A//www.fullstory.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullstory.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224210233id_/https%3A//www.fullstory.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | Legal | FullStory
+# Digital Experience Analytics, Session Replay, Heatmaps | FullStory
 
 Thanks for visiting FullStory. This privacy policy explains the what, how, and why of the Personal Information we collect when you visit the website located at www.fullstory.com (the “Site”) and when you use the FullStory SaaS analytics software and services (“Services”) and includes Personal Information collected via email, SMS, telephone, or other means. It also explains the specific ways we use and disclose that information and how you can exercise your privacy rights. By using or accessing the Site or Services, you are accepting the practices described in this Privacy Policy and our processing of your information as described below.
 
@@ -16,15 +16,15 @@ The FullStory Services utilize a powerful script that creates a new level of eas
 
 Getting a few **definitions** out of the way should help you better understand this policy.
 
-> **“FullStory”** means FullStory, Inc., a Delaware corporation. We may also refer to FullStory as “we”, “us”, or “our”.
+>  **“FullStory”** means FullStory, Inc., a Delaware corporation. We may also refer to FullStory as “we”, “us”, or “our”.
 
-> **“FullStory Customer”** means any customer that has entered into an agreement with FullStory to use the FullStory Services on its site, including those in a trial environment.
+>  **“FullStory Customer”** means any customer that has entered into an agreement with FullStory to use the FullStory Services on its site, including those in a trial environment.
 
-> **“Personal Information”** means any information which may identify an individual, directly or indirectly. Examples of Personal Information include, but are not limited to, first and last name, home address, billing address or other physical address, email address, telephone number, etc.
+>  **“Personal Information”** means any information which may identify an individual, directly or indirectly. Examples of Personal Information include, but are not limited to, first and last name, home address, billing address or other physical address, email address, telephone number, etc.
 
-> **“User”** refers to a visitor to a website that uses the FullStory Services or a client of a FullStory Customer.
+>  **“User”** refers to a visitor to a website that uses the FullStory Services or a client of a FullStory Customer.
 
-> **“Visitor”** refers to anyone accessing the FullStory website, www.fullstory.com.
+>  **“Visitor”** refers to anyone accessing the FullStory website, www.fullstory.com.
 
 #### Information we collect
 
@@ -44,7 +44,7 @@ If you are a Visitor, FullStory collects information on your use of the Site, su
 
 FullStory collects information that may be personally identifiable, such as IP addresses. Also, you may choose to interact with the Site in a way that results in your providing Personal Information to FullStory, such as giving us your name, email address, and user name when signing up for a free trial of the Services or creating an account to license the Services or to post comments to the FullStory blog or social media sites, etc. Any information you provide in the FullStory blog or social media areas may be read, collected, and used by others who access them.
 
-Any Personal Information provided by you as a Visitor to the Site will be used only as described in this Privacy Policy and in FullStory’s Acceptable Use Policy located at <https://www.fullstory.com/legal/acceptable-use/>.
+Any Personal Information provided by you as a Visitor to the Site will be used only as described in this Privacy Policy and in FullStory’s Acceptable Use Policy located at [https://www.fullstory.com/legal/acceptable-use/](https://web.archive.org/legal/acceptable-use/).
 
 Cookies on the Site:
 
@@ -72,9 +72,6 @@ You can set your browser to block or alert you about these cookies, but some par
 Performance & Functionality Cookies: These cookies are used to enhance the performance and functionality of our website but are non-essential to their use. However, without these cookies, certain functionality may become unavailable.
 
 Analytics & Customization Cookies: These cookies collect information that is used either in aggregate form to help us understand how our websites are being used or how effective our marketing campaigns are, or to help us customize our websites and applications for you in order to enhance your experience.
-
-More information about the cookies we use on the Site is available here   
-
 
 ##### B. Information collected for FullStory Customers
 
@@ -202,10 +199,84 @@ FullStory
 Attn: Privacy  
 1745 Peachtree St NE  
 Suite G  
-Atlanta, GA 30309 
+Atlanta, GA 30309
 
 We will make every effort to address your concerns.
 
+#### California Privacy
+
+FullStory may disclose your Personal Information to commercial providers for a business purpose, which includes verifying your identity when making a payment or registering access to your accounts. When we disclose Personal Information for these reasons, we enter into a contract that describes the purpose and requires the recipient to both keep that Personal Information confidential and not use it for any purpose except for the purposes set forth in the contract.
+
+In the preceding twelve (12) months, we have disclosed the following categories of Personal Information for one or more business purposes:
+
+  * Identifiers;
+  * California Customer Records Personal Information categories;
+  * Internet or other network activity information.
+  * Professional or employment-related information
+  * We disclose your Personal Information for a business purpose to the following categories of third parties:
+  * Service providers and other third parties we use to support our business, including without limitation those performing core services (such as billing, credit card processing, customer support services, customer relationship management, accounting, auditing, surveys, advertising and marketing, analytics, email and mailing services, data storage, and security) related to the operation of our business and/or the Services, and making certain functionalities available to our users;
+  * Third parties to whom you or your agents authorize us to disclose your personal information in connection with the services we provide to you.
+
+
+
+We may disclose your Personal Information for legal reasons as described earlier in this policy.
+
+We attempt to notify Users about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand.
+
+We may disclose your Personal Information in the event of a business transfer. If we establish a new related entity, are acquired by or merged with another organization, or if substantially all of our assets are transferred to another organization, Personal Information about our users is often a transferred business asset. In the event that FullStory itself or substantially all of our assets are acquired, Personal Information about our users may be one of the transferred assets.
+
+###### Sale of Personal Information
+
+In the preceding twelve (12) months, we have not sold any Personal Information.
+
+###### Your Privacy Choices
+
+You may have certain rights relating to your Personal Information, subject to local data protection law. Whenever you choose to be a guest or visitor at one of our managed properties, we aim to provide you with choices about how we use your Personal Information. Subject to applicable law, you may obtain a copy of Personal Information we maintain about you. In addition, if you believe that Personal Information we maintain about you is inaccurate, subject to applicable law, you may have the right to request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section below. To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to the information.
+
+###### Privacy Rights Specific to California Residents
+
+Under the California Consumer Privacy Act, California residents have specific rights regarding their personal information. This section describes Californians’ rights and explains how California residents can exercise those rights.
+
+Below we further outline specific rights which California residents may have under the California Consumer Privacy Act.
+
+  1. Right to Access Your Data. You have the right to request that we disclose certain information to you about our collection, use and disclosure of your Personal Information over the past twelve (12) months. Any disclosures we provide will only cover the 12-month period preceding the receipt of your request. The response we provide will also explain the reasons we cannot comply with a request, if applicable.
+  2. Right to Data Portability. You have the right to a “portable” copy of your Personal Information that you have submitted to us. Generally, this means you have a right to request that we move, copy or transmit your Personal Information stored on our servers or information technology environment to another service provider’s servers or information technology environment.
+  3. Right to Delete Your Data. You have the right to request that we delete any of your Personal Information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) your Personal Information from our records, unless an exception applies.
+  4. Right to Non-Discrimination for the Exercise of Your Privacy Rights. You have the right not to receive discriminatory treatment by us for exercising your privacy rights conferred by the California Consumer Privacy Act.
+
+
+
+###### Exercising Your Rights
+
+If you are a California resident who chooses to exercise your rights, you can:
+
+  1. Submit a request via email to [privacy@fullstory.com](mailto:privacy@fullstory.com) or
+  2. Call 1-833-385-5786 to submit your request.
+
+
+
+You may also designate an agent to exercise your privacy rights on your behalf. In order to designate an authorized agent to make a request on your behalf, you must provide a valid power of attorney, the requester’s valid government-issued identification, and the authorized agent’s valid government issued identification.
+
+###### Our Response to Your Request
+
+Upon receiving your request, we will confirm receipt of your request by [sending you an email/confirming receipt via our online portal/sending a message to your online account]. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. In some instances, such as a request to delete personal information, we may first separately confirm that you would like for us to in fact delete your personal information before acting on your request.
+
+We will respond to your request within forty-five (45) days. If we require more time, we will inform you of the reason and extension period in writing. If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.
+
+In some cases our ability to uphold these rights for you may depend upon our obligations to process Personal Information for security, safety, fraud prevention reasons, compliance with regulatory or legal requirements, listed below, or because processing is necessary to deliver the services you have requested. Where this is the case, we will inform you of specific details in response to your request. We may deny your deletion request if retaining the information is necessary for us or our service providers to:
+
+  1. Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you;
+  2. Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities;
+  3. Debug products to identify and repair errors that impair existing intended functionality;
+  4. Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law;
+  5. Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 seq.);
+  6. Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent;
+  7. Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us;
+  8. Comply with a legal obligation; or
+  9. Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+
+
+
 #### Effective Date
 
-This Privacy Policy became effective on: September 28, 2018.
+This Privacy Policy became effective on: December 20, 2019.
