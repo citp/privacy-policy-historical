@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khaleejtimes.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222153632id_/http%3A//khaleejtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khaleejtimes.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224202314id_/https%3A//www.khaleejtimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Khaleej Times
+# Privacy Policy - News | Khaleej Times
 
 Khaleej Times is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Khaleej Times Web site (www.khaleejtimes.com) and governs data collection and usage. By using the Khaleej Times website, you consent to the data practices described in this statement.  
    
