@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resonance.ac.in privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501060909id_/https%3A//www.resonance.ac.in/form/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resonance.ac.in privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224021318id_/https%3A//www.resonance.ac.in/form/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Resonance - Privacy Policy
 
