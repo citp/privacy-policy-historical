@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfi.org.uk privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628183622id_/https%3A//www.bfi.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfi.org.uk privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224060108id_/https%3A//www.bfi.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # BFI Privacy Policy | BFI
 
