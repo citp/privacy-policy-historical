@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121101840id_/https%3A//www.vibrantmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224222757id_/https%3A//www.vibrantmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Vibrant Media Website & Technology Privacy Policy | Vibrant Media
 
