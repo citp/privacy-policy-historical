@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7cupsoftea.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625033010id_/https%3A//www.7cups.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7cupsoftea.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224195032id_/https%3A//www.7cups.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
 
 # 7 Cups Privacy Policy
 
@@ -6,7 +6,7 @@ Last modified: August 3, 2018
 
 7 Cups ("7 Cups," "we," "us" and "our") provides virtual mental health care platforms intended to increase access to mental health care and support and promote early detection of mental health symptoms that predict the onset of mental illness. Privacy is extremely important to us, so we have taken several steps to protect your information and put you in control.
 
-This privacy policy ("Privacy Policy") describes how we collect, use, disclose and store Personal Information you provide to us through the website and mobile application tools that provide the services described above (collectively, the "Services"). Please review this Privacy Policy carefully and in its entirety. If you have questions about this Privacy Policy, you can contact us at info@7Cups.com.
+This privacy policy ("Privacy Policy") describes how we collect, use, disclose and store Personal Information you provide to us through the website and mobile application tools that provide the services described above (collectively, the "Services"). Please review this Privacy Policy carefully and in its entirety. If you have questions about this Privacy Policy, you can contact us at the [7 Cups Help Center](https://help.7cups.com/hc/en-us).
 
 #### This Privacy Policy describes:
 
@@ -164,11 +164,11 @@ This section only applies to individual using our Service that are located in th
 
 **Individual Rights.** We take reasonable steps to ensure that your Personal Information is accurate, complete, and up to date. You have the right to access, correct, or delete the Personal Information that we collect. You are also entitled to restrict or object, at any time, to the further processing of your Personal Information. You have the right to receive your Personal Information in a structured and standard format and, where technically and legally feasible, the right to have your Personal Information transmitted directly to a third party. You may lodge a complaint with the competent data protection authority regarding the processing of your Personal Information.
 
-If you would like to exercise your rights under applicable law, please contact us at info@7Cups.com. We may seek to verify your identity when we receive an individual rights request from you to ensure the security of your personal information.  We may limit your individual rights requests (a) where denial of access is required or authorized by law; (b) when granting access would have a negative impact on other's privacy; (c) to protect our rights and properties; or (4) where the request is frivolous or burdensome.
+If you would like to exercise your rights under applicable law, please contact us at the [7 Cups Help Center](https://help.7cups.com/hc/en-us). We may seek to verify your identity when we receive an individual rights request from you to ensure the security of your personal information.  We may limit your individual rights requests (a) where denial of access is required or authorized by law; (b) when granting access would have a negative impact on other's privacy; (c) to protect our rights and properties; or (4) where the request is frivolous or burdensome.
 
 ### 14\. Your California Privacy Rights
 
-California residents who provide certain types of Personal Information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about certain types of Personal Information we shared, if any, with other businesses for their own direct marketing uses. It is our policy that we do not share your Personal Information with other businesses for marketing uses. Nevertheless, to make such a request, please send an email message to info@7Cups.com with "Request for California Privacy Information" on the subject line and in the body of your message.
+California residents who provide certain types of Personal Information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about certain types of Personal Information we shared, if any, with other businesses for their own direct marketing uses. It is our policy that we do not share your Personal Information with other businesses for marketing uses. Nevertheless, to make such a request, please contact us at the [7 Cups Help Center](https://help.7cups.com/hc/en-us).
 
 ### 15\. Do Not Track
 
@@ -176,4 +176,4 @@ The Services does not support Do Not Track with respect to the Services at this 
 
 ### 16\. Notices
 
-Please send all questions, comments and notices regarding this Privacy Policy to: info@7Cups.com.
+Please send all questions, comments and notices regarding this Privacy Policy to the [7 Cups Help Center](https://help.7cups.com/hc/en-us)
