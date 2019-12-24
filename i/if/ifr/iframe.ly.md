@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iframe.ly privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322084012id_/https%3A//iframely.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iframe.ly privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224220815id_/https%3A//iframely.com/docs/privacy) for the most accurate reproduction.*
 
 # Iframely - Terms of Service
 
