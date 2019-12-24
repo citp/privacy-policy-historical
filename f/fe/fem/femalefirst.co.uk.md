@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401175457id_/https%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224204127id_/https%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,12 +79,12 @@ CMS (Content Management System) | Various | Cookies are set by our CMS/Blog syst
 Google Analytics | _utma  
 _utmb  
 _utmc  
-_utmz | These cookies are used to collect information about how visitors use our site. The information is used to compile reports that let us improve the site. The information is collected in any anonymous form, including the number of visits to this site, how you arrived at the site, and which pages you visted. | Yes | You can opt-out of these cookies by following this link: <http://tools.google.com/dlpage/gaoptout>  
+_utmz | These cookies are used to collect information about how visitors use our site. The information is used to compile reports that let us improve the site. The information is collected in any anonymous form, including the number of visits to this site, how you arrived at the site, and which pages you visted. | Yes | You can opt-out of these cookies by following this link: [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 Adverts| various| Our advertisers may use cookies to serve you with adverts based on your previous search and web usage. These cookies are not used directly by Yormedia Solutions Ltd. | Yes| You can visit <http://www.youronlinechoices.com/uk/your-ad-choices> for more information on how the information is used, and how you can block them.  
 Site Cookie Acceptance | cookietab-last-shown-time  
 cookietab-consent | These cookies are used to record if a user has accepted the use of cookies on this website | Yes | n/a  
   
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20190401175457id_/https://www.femalefirst.co.uk/privacy-policy/www.allaboutcookies.org).
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20191224204127id_/https://www.femalefirst.co.uk/privacy-policy/www.allaboutcookies.org).
 
 The Business does not use Cookies to store information such as credit card numbers, telephone numbers, or other information you provide. 
 
