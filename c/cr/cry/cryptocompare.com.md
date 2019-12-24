@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptocompare.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424234344id_/https%3A//www.cryptocompare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptocompare.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224192642id_/https%3A//www.cryptocompare.com/privacy-policy) for the most accurate reproduction.*
 
 # CryptoCompare.com - Privacy Policy | CryptoCompare.com
 
@@ -134,7 +134,7 @@ References in this Privacy and Cookies Policy and on our website to “we”, �
 
 ## 8\. Third party websites
 
-8.1 Our website may contain links to other websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these websites or their policies. Please check these policies before you submit any personal data to these websites.
+8.1 Our website and other information we send to you (including any emails or direct marketing) may contain links to other websites. If you follow a link to any of these websites they may collect information from you. Please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these websites or their policies. Please check these policies before you submit any personal data to these websites.
 
 ## 9\. Your rights
 
