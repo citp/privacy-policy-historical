@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvue.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621094920id_/https%3A//www.myvue.com/legal/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvue.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225002848id_/https%3A//www.myvue.com/legal/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions | Legal | Vue Cinemas
 
@@ -32,11 +32,11 @@ When you give consent to us to use your personal data, you are able to withdraw 
 
 You can unsubscribe from marketing communications at any time.  To opt out of marketing, including profiling for direct marketing purposes, you can either adjust the preference settings in your Vue account, or select “unsubscribe” in emails, or email dataprotection@vuemail.com. 
 
-Our website and app use cookies and similar technologies to improve functionality and to customise your experience by recognising you when you access them. You can reject and block cookies in your browser settings.  Please see our [Cookie Policy](https://web.archive.org/web/20190621094920id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z) for more information.
+Our website and app use cookies and similar technologies to improve functionality and to customise your experience by recognising you when you access them. You can reject and block cookies in your browser settings.  Please see our [Cookie Policy](https://web.archive.org/web/20191225002848id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z) for more information.
 
 If you enable location services on the app, or you access the location finder on our website and your browser settings allow this, your device will identify and notify you of the nearest Vue Cinema to your location. 
 
-Vue Entertainment is part of the Vue International Group (Vue International Holdco Limited and its subsidiaries).  Data is shared between members of the Vue International Group when they provide support, advisory, IT, safety and security, including CCTV, and other services to Vue Entertainment. For more details of the Vue International Group see “Data sharing”.
+Vue Entertainment is part of the Vue International Group (Vue International Holdco Limited and its subsidiaries).  Data is shared between members of the Vue International Group when they provide support, advisory, IT, safety and security, including CCTV, and other services to Vue Entertainment. We also share your data with third parties that provide services to us.  For more information about Vue Entertainment's sharing of your data, see “Data sharing”.
 
 **2\. Information we collect from you**
 
@@ -44,7 +44,7 @@ We collect information when you use our services or purchase food and beverages 
 
 In particular:  
 • We keep information you give us directly such as contact details (including name, email, address and telephone number), comments, date of birth, gender, region, frequency of visits, feedback, marketing opinions and competition entries.  
-• We record, analyse and store website and app visits, details of which marketing emails seem of interest to you, details of your purchases and occasions when you make us of our promotions.  
+• We record, analyse and store website and app visits, details of which films, advertisements and/or marketing emails seem of interest to you, details of your purchases and occasions when you make us of our promotions.  
 • When you sign into Wifi networks at our cinemas and give your number to gain access we and the Wifi provider will check this number and keep a record of this.  
 • If you are involved in or witness an incident, we will need to log information about it.  
 • If you engage with us online via our websites or app, our cookies and similar technologies will capture your IP address, your location, and record how you use the site or app to help improve it and enhance your user experience (where your browser settings or permission allows for this).  
@@ -77,7 +77,7 @@ We take information to communicate with you, check your identity, take payment, 
 
 **To run our business and pursue our legitimate interests, we use your information.**
 
-Our legitimate interests include keeping our records up-to-date, fulfilling our legal, compliance and contractual duties, working out which of our products and services may interest you, improving our website, app and services, developing and publicising new products and services and conducting market research.
+Our legitimate interests include keeping our records up-to-date, fulfilling our legal, compliance and contractual duties, working out which of our products and services may interest you, improving and promoting our website, app and services, developing and publicising new products and services and conducting market research.
 
 Further details of our legitimate interests:
 
@@ -88,6 +88,7 @@ To run and promote our business, we use your information:
 • To run competitions and promotions and track which offers seem of interest to you.  
 • To understand you better as a customer by analysing your transactions and other information you provide to us or which we learn through your interactions with us.  
 • To send you emails including offers tailored to your perceived preferences where you are a Vue member and your preference settings permit this.   
+• To deliver personalised online advertising to you relating to our services (including films that we think you might like to see), including remarketing through various social media channels.   
 • To contact you where you provide us with market research feedback or pass this data to a third-party business partner of ours for panel market research analysis.
 
 To prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime, including where we are required to do so by law we:  
@@ -104,7 +105,7 @@ To comply with law, assess and uphold legal or contractual rights and claims, an
 
 **We may, if you give us consent:**  
 • Send you electronic marketing, including promotions and offers, in relation to our products and services if you are a member. Vue members can subscribe or unsubscribe from our marketing communications at any time by adjusting their account settings online.  
-• Use cookies or similar technologies on the website, app and in marketing emails, including analytic cookies.  For more details on our use of such technologies, click here to see our [Cookie Policy](https://web.archive.org/web/20190621094920id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z).  
+• Use cookies or similar technologies on the website, app and in marketing emails, including analytic cookies.  For more details on our use of such technologies, click here to see our [Cookie Policy](https://web.archive.org/web/20191225002848id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z).  
 • Send you push notifications through the app.  
 • Notify you of the nearest Vue cinema (if you have enabled location services and use the cinema locator in the app or on the website).  
 • Use your personal data for other purposes where we explain that purpose when we ask for your consent.
@@ -125,9 +126,9 @@ Vue Entertainment shares data with other members of the Vue International Group 
 
 For certain activities Vue uses third party service providers.  When these service providers ask for customer data from us we share the required information with them.
 
-We use third party providers for the following services:  
+We engage and share your data with third parties for the following services:  
+• Online advertising and marketing, including delivery of personalised advertisements via email, online or via social media platforms. To achieve this, we share your personal data with [Movio Limited](https://movio.co/), a company that provides marketing services to us and others in the cinema industry. Your personal data is then aggregated with other data and share with other ad-tech service providers such as Liveramp, Google and Facebook, to deliver relevant content to you.    
 • Wi-Fi   
-• Promotional offers  
 • Customer feedback surveys  
 • Gift cards (including E-Gifts)   
 • Loyalty scheme platform  
@@ -153,7 +154,7 @@ For service providers in the US, we rely on Privacy Shield.  For our service pr
 
 **7\. Cookies and similar technologies**
 
-Our website, apps and marketing emails use cookies and similar technology. Full information is in our [Cookie Policy](https://web.archive.org/web/20190621094920id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z). This includes information on how to adjust your browser settings to accept or reject cookies.
+Our website, apps and marketing emails use cookies and similar technology. Full information is in our [Cookie Policy](https://web.archive.org/web/20191225002848id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z). This includes information on how to adjust your browser settings to accept or reject cookies.
 
 **8\. Data retention**
 
