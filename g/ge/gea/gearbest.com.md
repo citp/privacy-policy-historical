@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gearbest.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628163958id_/https%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearbest.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224184853id_/https%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Gearbest.com
+# privacy-policy | Gearbest.com
 
 #### What information do we collect? 
 
@@ -67,7 +67,7 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 #### Do we disclose any information to outside parties? 
 
-We do not sell, trade, or otherwise transfer to outside parties your personal information. This does not include trusted third parties who assist us in operating our website, conducting our business, executing payments, delivering purchased products or services, sending you information or updates or otherwise servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personal information. This does not include trusted third parties who assist us in operating our website, conducting our business, executing payments, delivering purchased products or services, sending you information or updates or otherwise servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
 
 #### How long do we retain your information?
 
@@ -88,3 +88,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 #### Contact Us
 
 If you would like to exercise one of your rights as set out above, or if you have a question or a complaint about this policy, the way your personal information is processed, please contact us via e-mail: [support@gearbest.com](mailto:support@gearbest.com)
+
+GDPR representative in EU:  
+Dr. Antje Johst  
+Kurfürstendamm 67 | 10707 Berlin / Germany  
+Phone + 49 (0)30 - 88 921 304
