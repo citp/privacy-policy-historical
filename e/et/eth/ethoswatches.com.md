@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125192508id_/https%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224093921id_/https%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,3 +31,7 @@ In certain cases, specifically with regard to particular products, You might be 
 For any questions, concerns, or comments about our privacy policy, you may contact us (Mon-Sat, 10am–7pm) on [+91 8725-016305](tel:+91 8725-016305 "Contact Us") or [info@ethoswatches.com](mailto:info@ethoswatches.com "Contact Us")
 
 www.ethoswatches.com reserves the right to modify and/or change the terms of this policy without any prior notice.
+
+## Rolex Section
+
+While navigating on the Rolex section of our website, you may interact with an embedded website from [www.rolex.com](https://www.rolex.com/). In such case, [Privacy Notice](https://www.rolex.com/footer/privacy-notice.html) and [Cookies Policy](https://www.rolex.com/footer/cookies.html) of [www.rolex.com](https://www.rolex.com/) are sole applicable.
