@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicbricks.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626213642id_/http%3A//property.magicbricks.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicbricks.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224172116id_/http%3A//property.magicbricks.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
 # Buy, Sell, Rent Property in India - Magicbricks.com
 
@@ -99,7 +99,7 @@ Redressal Mechanism: Any complaints, abuse or concerns with regards to the use, 
 
 Mr. Sandeep Dhatwalia **(Grievance Officer)**
 
-[**www.magicbricks.com**](http://www.magicbricks.com/)
+[**www.magicbricks.com**](https://www.magicbricks.com/)
 
 Magicbricks Realty Services Limited  
 Times Centre  
