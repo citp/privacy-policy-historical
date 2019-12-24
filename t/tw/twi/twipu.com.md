@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twipu.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115063208id_/http%3A//www.twipu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twipu.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224060236id_/https%3A//www.twipu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Twipu
 
@@ -40,4 +40,4 @@ Remarketing with Google AdSense We, along with third-party vendors such as Googl
 
 ## Opting out:
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on. We do not specifically market to children under the age of 13 years old. Last Edited on 2016-11-29
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on. We do not specifically market to children under the age of 13 years old. Last Edited on 2016-11-29 
