@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facialfest.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616094027id_/http%3A//pp.bangbros.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facialfest.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224043814id_/http%3A//pp.bangbros.com) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
