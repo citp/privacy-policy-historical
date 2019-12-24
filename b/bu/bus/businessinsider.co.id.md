@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinsider.co.id privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212228id_/http%3A//sph.com.sg/legal/pdpa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.co.id privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224183457id_/http%3A//sph.com.sg/legal/pdpa.html) for the most accurate reproduction.*
 
 # Personal Data Protection Statement - Singapore Press Holdings
 
@@ -13,7 +13,7 @@ SPH has a [Data Protection Policy](https://web.archive.org/legal/sph_privacy/)�
 
 The Personal Data Protection Officer at the following addresses:
 
-Name: Mr Glen Gary Francis, Chief Data Protection Officer/Chief Technology Officer  
+Name: Mr Colin Low, Chief Data Protection Officer  
 Email : [dataprotection@sph.com.sg](mailto:dataprotection@sph.com.sg)  
 Postal Address: [1000 Toa Payoh North](https://www.google.com/maps/place/1000+Toa+Payoh+N,+Singapore+Press+Holdings,+Singapore+318994/@1.3430597,103.8464293,17z/data=!3m1!4b1!4m5!3m4!1s0x31da176b08f0b50d:0x6fc45c2cc2e21b27!8m2!3d1.3430597!4d103.848618), News Centre, Singapore 318994  
 Telephone Number : 63198555
