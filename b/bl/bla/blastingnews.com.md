@@ -1,144 +1,177 @@
-> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614055039id_/https%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224181941id_/https%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Blasting News
 
-**Consent to the Collection and Processing of your Personal Data**
+**Introduction**
 
-We hereby inform you that the company Blasting Sagl (“Blasting”) collects and processes your Personal Data (as defined below), as a result of your being a user of its internet portal www.blastingnews.com in accordance with the privacy requirements established by (a) the Swiss Federal Act on Data Protection of June 19, 1992 (as further amended from time to time, the “ _FADP_ ”) and related legislation, (b) the Italian Legislative Decree of June 30, 2003, no. 196 (the “ _Privacy Code_ ”), and (c) the Italian regulation “ _Simplified Arrangements to Provide Information and Obtain Consent Regarding Cookies_ ”, issued by the Italian Data Protection Authority on May 8, 2014. 
+Blasting SA (hereinafter "Blasting SA" or "Data Controller") wants to protect the privacy of its users. This document has been drafted pursuant to art. 13 of EU Regulation 2016/679 ("Regulation"), to the Federal Law (Switzerland) of 19 June 1992 on data protection ("LPD"), and to Legislative Decree no. 196/2003 ("Privacy Code"), in order to inform you on our policy on data protection, to understand how your personal information is handled when you use our services and our website [https://www.blastingnews.com](https://www.blastingnews.com/), including all national subsections (hereinafter the "Website"), as well as to consent to the processing of your Personal Data in an informed and transparent way. The information and data provided by you, or otherwise collected, in the use of the services provided by Blasting SA, such as: access to the Personal Area, registration to thematic Channels and newsletters, request for information, etc. (hereinafter "Services"), will be processed in compliance with the provisions of the Regulation and the confidentiality obligations that undely the activities of Blasting SA. 
 
-This information is further addressed to any user consulting the web-based services that are made available by Blasting via its electronic networks. 
+This privacy policy is intended for this Website only and not for other websites that may be consulted by the user through links on the Website. Furthermore, this privacy policy is not intended for processing operations that may be performed, within the Website, by different Data Controllers for specific purposes, as provided for in the related privacy policies. 
 
-The information provided herein only applies to the use of the website of Blasting, and does not extend to any other websites that may be visited by any user via external links. 
+According to the provisions of the Regulations, the processing operations carried out by Blasting SA will be based on the principles of lawfulness, correctness, transparency, limitation of purposes and storage limitation, minimization of data, accuracy, integrity and confidentiality. 
 
-The processing of your personal data (e.g., name, address, telephone number, email address, age, sex, user generated information such as financial interests, shopping habits, etc.., and all other data which have been provided to us by you voluntarily) (the “ _Personal Data_ ”) which is already or which will be in our possession, is and will be carried out in full compliance with the principles of correctness, transparency and confidentiality, in accordance with any applicable legal provisions protecting these principles. 
+**Data controller**
 
-Your Personal Data may be subject to collection, registration, organization, preservation, consultation, elaboration, modification, selection, extraction, comparison, use, interconnection, blocking, communication, diffusion, transmission, resale, cancellation and destruction (the “ _Collection and Processing_ ”). One or more of those operations may be performed on your Personal Data with manual, electronic, computer or communication instruments, with methods and means that are appropriate in order to ensure the security of the Personal Data. The Personal Data may be archived either in paper form or electronically and shall be kept stored by Blasting for commercial purposes for a period strictly pertinent to such purposes, and, in any case, for a maximum term of 10 years, solely in relation to instructions or requests received by the Swiss, Italian or other competent authorities. 
+By accessing and consulting the Website, data relating to identified or identifiable persons may be collected. The Data Controller is Blasting SA, with registered office in Switzerland, Via Carlo Frasca, 3 - 6900 Lugano. 
 
-Subject to the conditions and for the purposes described above, the Personal Data Collection and Processing may be carried out, on behalf of Blasting, by third partiesthat provide specific custody, organization, preservation and/or filing services to Blasting, which third parties are and will be responsible for their processing of the Personal Data. 
+The Data Protection Officer can be reached at the following e-mail address: [dpo@blastingnews.com](mailto:dpo@blastingnews.com)
 
-Our website and marketing emails may contain links to offers from third parties. Blasting has no influence on how other providers on linked websites handle the information displayed on these sites. If you have any questions in this regard, please contact these third parties directly. We are not responsible for upholding the data protection regulations in relation to these websites or for their content. By using this website, you agree and acknowledge the Collection and Processing of your Personal Data in the manner and for the purpose herein described. 
+**Purposes of the processing and legal bases**
 
-**The Collection and Processing of your Personal Data shall be carried out exclusively for the following purposes:**
+The processing, upon specific consent where necessary, is performed for the following purposes: 
 
-  * the improvement of our services and the possibilities of their usage;
-  * the development of our website and of affiliated companies;
-  * the collection of statistical data and their evaluation;
-  * the enhancement of our customer- and client-base;
-  * the maintenance and improvement of relations with yourself, our customers and clients;
-  * the maintenance of business relations with third parties;
-  * our own marketing and sale activities in general;
-  * marketing and sale activities of third parties;
-  * other use in the interest of Blasting.
-
-
-
-**Your Personal Data in our possession may also be communicated to third parties** , for the purposes indicated above, in Switzerland, Italy and in [other countries](https://www.blastingnews.com/list-of-countries/) identified on our website, namely but not exclusively to entities which are part of the corporate group of Blasting; other entities which are involved in subscription processes, sale and management operations; entities performing banking, financial and other outsourced services for Blasting; entities performing internet support services; entities which are in general business partners of Blasting; supervisory authorities of internet activities; and supervisory authorities for journalism and media related matters. These third parties shall act independently from Blasting, unless they are designated data processors. Your Personal Data shall not otherwise be subject to public disclosure. 
-
-Blasting has no influence on how such third parties handle the information received and is not responsible for the observance of data protection regulations by these third parties. 
-
-Employees or consultants of Blasting as well as of third parties that provide support services to Blasting, may come to know your Personal Data. These individuals or entities shall operate as data processors or persons in charge of the processing. 
-
-We shall ask for your express consent to the treatment and processing of Personal Data whenever possible. In some specific cases, we assume your consent based on your actions and mode of behavior. By using the website **www.blastingnews.com** and related websites indicated therein you consent to the Collection and Processing of your Personal Data. Should you not consent to the above describe usage of your Personal Data, we kindly ask you to refrain from the usage of our website and related sites. 
-
-**Policy processing of imported contacts by users.**
-
-In order to improve a smooth functioning of the services offered by Blasting, it may send messages by automated systems (e.g. email, SMS or MMS) to contacts imported by you in relation to the use of on-site services, including among others - as an example - the news sharing or inviting friends services. We shall ask for express consent to the treatment and processing of Personal Data of such third party contacts whenever possible. In some specific cases we assume consent by such third party contacts based on their actions and mode of behavior. 
-
-**Your rights with respect to your Personal Data** include the right: ( _a_ ) to receive confirmation of the existence of and information on any Personal Data relating to you, at any time and even if they are not already processed; ( _b_ ) to be informed about the source of the data, purposes and methods of the Collection and Processing, the rationale of any Collection and Processing carried out through electronic means, the details of the data controller and of any data processors and the entities or categories of entities to which the Personal Data may be communicated or which may get to know such data; ( _c_ ) to obtain ( _i_ ) the updating, rectification and integration of your Personal Data, ( _ii_ ) the cancellation, transformation into anonymous form or blocking of Personal Data that has been processed unlawfully, including data whose retention is unnecessary for the purposes for which it has been collected or subsequently processed, and ( _iii_ ) a certification to the effect that the operations described in the foregoing items ( _i_ ) and ( _ii_ ) and their content have been notified to those third parties to which the Personal Data has been communicated and/or distributed, unless this requirement proves impossible or involves an effort that is manifestly disproportionate to the right that should be protected ( _e.g._ , in cases where Personal Data has been transmitted by third parties to other entities unknown to Blasting); and ( _d_ ) to object, in whole or in part, on legitimate grounds, to the Collection and Processing of your Personal Data, even if Personal Data has been collected or processed purposefully. Note that in the latter case, your usage of the website **www.blastingnews.com** will no longer be possible. 
-
-**Your data controller** is Blasting Sagl, with registered offices in Chiasso, Via Livio 14, CH-6830 Switzerland, and your data processor, to whom you may refer in order to exercise the abovementioned rights, is Blasting’s director of administration _pro tempore_ , domiciled for this purpose at Blasting’s registered offices, who also keeps an updated list of data processors. 
-
-**Blasting’s Italian representative** is Andrea Manfredi, which is appointed to ensure the implementation of the Italian provisions concerning the Collection and Processing of your Personal Data pursuant to section 5, paragraph 2, of the Privacy Code. 
-
-To request information regarding your data and/or about the exercise of the above- mentioned rights, kindly send an email to [staff@blastingnews.com](mailto:staff@blastingnews.com). 
-
-Please keep in mind that you may revoke your consent at anytime. 
-
-## Cookies
-
-**What is a cookie?**
-
-**In order to improve its customer services and for marketing activities, Blasting uses cookies** (a small file sent from the web server to the customer’s internet browser and saved in the customer’s computer). When you visit a website which uses cookies, such website sends small text snippets from the web server to the user’s internet browser and saves them in the user’s personal computer. At your next visit on that website, these files will be re-sent to the website that generated them in order to improve your use of the site in question. 
-
-“Third parties” cookies, on the other hand, are sent from websites that you are not directly visiting. It occurs namely when accessing certain elements (like images, links, etc.) that are hosted by a different server from the one of the visited website. 
-
-Some cookies are necessary for the correct use of the website and cannot be disabled. Others, like the ones regarding memorization of preference parameters, can be disabled. 
-
-The advantage for a user to have cookies installed on his/her computer consists in the fact that he/she is no longer required to provide the same information every time he/ she accesses the same website, as his/her personal information is remembered by the website through the cookies. 
-
-**What are cookies needed for?**
-
-Cookies help to improve our services and your browsing experience. There are various kinds of cookies, each one having a specific purpose. Blasting uses the following cookies: 
-
-**Technical cookies or “first-party” cookies**
-
-These cookies are managed by the owner and/or the publisher of the website and are strictly needed for the proper operation of the website but also provide aggregate data for internal surveys regarding the numbers of website-visits, the popularity of the website and traffic flow information. 
-
-In order to install these cookies, the consent of the user is not required (essentially as all data collected remains anonymized). Nonetheless, the administrator of the website shall provide the user with the information deemed appropriate and in line with section 13 of the Privacy Code. 
-
-Technical cookies do not collect information that may be used for advertisements, neither do they track the users’ personal browsing history. 
-
-Given the technical and impersonal character of these cookies, the user is generally not required to accept this kind of cookies, as stated by the provision “ _Simplified Arrangements to Provide Information and Obtain Consent Regarding Cookies_ ”, issued by the Italian Data Protection Authority on May 8, 2014.1 However, if the user denies the installation of the cookies, his/her access to the website is denied as well. 
-
-**Profiling cookies**
-
-Profiling Cookies are used to create user profiles and are installed in order to send advertising messages according to the preferences of the user identified by the cookies. 
-
-Considering the resulting interference with privacy such cookies entail, the legislator requires the websites to properly inform their users regarding the installation of such cookies and allows the installation only upon express consent by the user. 
-
-**“Third party” cookies**
-
-These cookies are installed on the user’s browser by a party that is not the owner and/ or the publisher of the visited website. There are various types of such “third party” cookies, among which: 
-
-Analytics Cookies: used to collect and analyze data. They do not identify the individual user. 
-
-Advertising Cookies: applied to understand and store user preferences for advertising purposes during the user’s online browsing. Blasting has no influence on the use of cookies installed by entities or third parties linked to its website and declines all responsibility thereto. 
-
-**NAI Policy**
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
-
-**How to disable cookies?**
-
-Through the use of the website **www.blastingnews.com** , the user’s consent to the installation of cookies is assumed by Blasting. Users and customers who do not wish to receive cookies may block “first party”, “profiling” and/or “third party” cookies following the instructions provided by each browser, set forth hereinafter. 
-
-[Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies)
-
-[Firefox](https://support.mozilla.org/en-US/kb/disable-third-party-cookies)
-
-[Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
-
-[Safari](https://support.apple.com/en-us/HT201265)
-
-For further information on third parties installing cookies on our websites, with which direct or indirect commercial relations have been established by Blasting, kindly refer to the respective information on the Privacy Policy of such third parties. 
-
-  * [Adsense](https://www.google.it/intl/it/policies/privacy/)
-  * [Adwords](https://www.google.it/intl/it/policies/privacy/)
-  * [Doubleclick](https://www.google.it/intl/it/policies/privacy/)
-  * [Criteo](http://www.criteo.com/it/privacy/)
-  * [Xaxis](http://www.xaxis.com/static/view/privacy-policy)
-  * [Xaxis opt-out ](http://www.xaxis.com/static/view/opt-out-confirmation)
-  * [Komoona](http://www.komoona.com/komoona-tos)
-  * [Rubicon Project](http://rubiconproject.com/privacy-policy/)
-  * [4W Marketplace](http://www.4wmarketplace.com/it/page/read/privacy-policy)
-  * [Rainbow TGX](http://www.rainbowtgx.com/privacy.php)
-  * [Sticky](http://www.sticky.ad/privacy-policy.html)
-  * [Teads.tv](http://teads.tv/it/privacy-policy/)
-  * [Reach Adv (Onetag) ](http://onetag.net/privacy.php)
-  * [OpenX](http://openx.com/legal/ad-exchange-privacy-principles/)
-  * [Pubmatic](http://www.pubmatic.com/privacy-policy.php)
-  * [Zodiack](http://www.zodiakadvertising.com/it/privacy-policy/)
-  * [Facebook](https://www.facebook.com/policy.php)
-  * [Youtube](https://www.youtube.com/static?template=privacy_guidelines)
-  * [IOL](http://privacy.italiaonline.it/common/cookie/privacy_tal.php)
-  * [Nielsen](https://priv-policy.imrworldwide.com/priv/browser/it/it/optout.html)
+  1. to allow the provision of the services requested and access to the user’s personal area of ​​the Website, such as, for example, registration in thematic channels; 
+  2. respond to requests for assistance or information; 
+  3. fulfill any legal, accounting and tax obligations; 
+  4. defensive purposes; 
+  5. with the consent of the user, direct marketing by Blasting SA, including sending newsletters; 
+  6. with the consent of the user, communication of personal data to third parties for their own direct marketing purposes; 
+  7. with the consent of the user, authorization so that the third parties recipient of the data referred to in point f) can in turn communicate data to other third parties for their own direct marketing purposes; 
+  8. through the use of cookies and/or similar technologies, allow the improvement of our services, the development of the Website, the improvement of relations with users, and the development of statistics on aggregated and/or anonymized data. 
 
 
 
-In order to delete cookies stored on your computer, please refer to the guide of your browser and follow the instructions. 
+The legal basis for the processing of personal data for the purposes referred to in points a), b) and c) is art. 6, paragraph 1, of point b) and c) of the Regulation, as the processing is necessary for the provision of the services or for responding to requests made by the data subject, also representing a processing necessary to fulfill a legal obligation to which Blasting SA is subject. The provision of personal data for these purposes is optional but failure to provide such data would make it impossible to provide the services on the Website. 
 
-**Please note that by disabling “first party” cookies, you will not be able to navigate our website.**
+The legal basis of the processing for the purpose referred to in point d) is the legitimate interest of the data controller, such as, for example, protection against fraud or other behavior in violation of the conditions for the use of the services accepted by the user, as well as to establish, exercise or defend a legal claim. 
 
-## Copyright Transfer Agreement
+The data provided for the purposes referred to in point e) may be processed, with explicit and specific consent, by Blasting SA for sending promotional and marketing communications, including newsletters and market research, on its own products and services and on third parties’ own products and services, belonging to the following business or commodity categories: publishers, banks, financial institutions, telecommunication operators, operators in the energy services and utilities, commercial distributors, communication agencies, marketing service providers, car manufacturers and related services, road rescue companies, non-profit associations and non-profit organizations, food and drinks processing or production, manufacturing and sale of clothing and/or accessories, film/television production and live shows, operators of logistics and transport services, tour operators, digital service providers, hospitality and catering, manufacturing and sale of safety devices, manufacturing and sale of electromedical devices, specialized medical services supplier, cosmetic products, production and sale of wines and liqueurs, wellness services, products for sanitizing, monitoring of pollutants, filters and purifiers, air conditioning and management of the living environment, interior design services, furnishings and interior design, manufacturing and sale of technological products, driving schools and vehicle administrative practices, event organization agencies, products and services for navigation and fishing, organization of prize events; performed through automated tools (e-mail, SMS, fax, mms, social networks, WhatsApp, messenger, online instant messaging applications, automated calls) and non-automated tools (paper mail, phone operators/call-center services). 
 
-Please [click here for your copy of the Copyright Transfer Agreement](https://static.blastingnews.com/media/pdf/Blasting_News_Contratto.pdf). Acceptance of the terms and conditions set out in said document are an obligatory condition for usage of the Blasting News platform. 
+Also, upon data subject explicit and specific consent, the data provided for the purposes referred to in point f) can be communicated by Blasting SA to third parties, who act as autonomous data controllers, belonging to the following business or commodity categories: publishers, banks, financial institutions, telecommunication operators, operators in the energy services and utilities, commercial distributors, communication agencies, marketing service providers, car manufacturers and related services, road rescue companies, non-profit associations and non-profit organizations, food and drinks processing or production, manufacturing and sale of clothing and/or accessories, film/television production and live shows, operators of logistics and transport services, tour operators, digital service providers, hospitality and catering, manufacturing and sale of safety devices, manufacturing and sale of electromedical devices, specialized medical services supplier, cosmetic products, production and sale of wines and liqueurs, wellness services, products for sanitizing, monitoring of pollutants, filters and purifiers, air conditioning and management of the living environment, interior design services, furnishings and interior design, manufacturing and sale of technological products, driving schools and vehicle administrative practices, event organization agencies, products and services for navigation and fishing, organization of prize events; for their own commercial and marketing activities, performed through automated tools (e-mail, SMS, fax, mms, social networks, WhatsApp, messenger, online instant messaging applications, automated calls) and non-automated tools (paper mail, phone operators/call-center services). 
+
+Furthermore, upon data subject explicit and specific consent for the purposes referred to in point g), the third parties to which the data is communicated/transferred, and which belong to the following business or commodity categories: publishers, banks, financial institutions, tele-communication operators, operators in the energy services and utilities, commercial distributors, communication agencies, marketing service providers, car manufacturers and related services, road rescue companies, non-profit associations and non-profit organizations, food and drinks processing or production, manufacturing and sale of clothing and/or accessories, film/television production and live shows, operators of logistics and transport services, tour operators, digital service providers, hospitality and catering, manufacturing and sale of safety devices, manufacturing and sale of electromedical devices, specialized medical services supplier, cosmetic products, production and sale of wines and liqueurs, wellness services, products for sanitizing, monitoring of pollutants, filters and purifiers, air conditioning and management of the living environment, interior design services, furnishings and interior design, manufacturing and sale of technological products, driving schools and vehicle administrative practices, event organization agencies, products and services for navigation and fishing, organization of prize events; may, in turn, communicate and/or transfer data subject’ persona data to third parties – which are autonomous data controller - belonging to the above mentioned business or commodity categories, for their own commercial and marketing activities, performed through automated tools (e-mail, SMS, fax, mms, social networks, WhatsApp, messenger, online instant messaging applications, automated calls) and non-automated tools (paper mail, phone operators/call-center services). 
+
+Processing activities for direct marketing purposes and communication to third parties are optional and are based on the free choice of the data subject, based on an optional and prior consent pursuant to art. 6.1.a) of the Regulation; failure to provide such consent for these purposes will not affect the use of the services. In any case, the consent given for the purposes referred to in points e), f) and g), may be revoked at any time pursuant to art. 7 of the Regulation. 
+
+Personal data may also be processed for the purpose of statistical research/analysis on aggregate or anonymous data, without the possibility of identifying the data subject. 
+
+**Personal data recipients**
+
+For purposes related to the provision of the services to which the user has subscribed, the data will be communicated to third parties, which generally act as independent data controllers by providing instrumental services to satisfy the request of the data subject (for example, a company which provides technological services, or consultancy companies, other activities involved in underwriting, sales and management operations, companies that provide banking, financial and other outsourced services, public security and communications authorities, journalism and media entities) or to which the communication is necessary to comply with laws or regulations. Blasting SA does not have any involvement in the ways in which such independent third party data controllers process the personal data, nor does Blasting SA have any influence on the way in which such third parties manage the information received, and is not responsible for the compliance of such subjects with the applicable legislation on the protection of personal data. Under no circumstances will the user's personal data be disseminated. 
+
+Personal data will be made available to entities and/or persons expressly authorized by the data controller - and designated for this purpose, respectively, as data processors and persons authorized to process personal data, which/who carry out indispensable processing activities for the pursuit of the purposes indicated above; persons authorized to process personal data are those employed in the field of administration, communication, accounting, legal advice, technical maintenance of information systems, marketing, which may vary according to the specific request sent by the data subject through the Website. 
+
+The updated list of data processors is available upon request to the data controller or the DPO at the addresses indicated above. Furthermore, the data may also be accessible to other companies belonging to the Blasting SA Group for administrative and accounting purposes pursuant to art. 6.1.f) and to Recitals 47 and 48 of the Regulation. 
+
+The data may also be transferred to European Union countries or to other countries that the European Commission has declared as guaranteeing an adequate level of protection (such as, for example, the Swiss Confederation) or with entities (located in third countries) which has concluded with the data controller the standard contractual clauses provided by the European Commission with a decision dated February 5, 2010, or that, for example, has obtained certification based on the provisions of the Privacy Shield for data transfers between the EU and the US. 
+
+**Personal data processing methods**
+
+All the processing operations carried out in the context of the use of the Website will be performed with electronic or telematic tools, but could also be processed by paper/manual means. 
+
+Specific technical and organizational measures are observed to prevent the loss of data, illicit or unauthorized use, unauthorized access, in full compliance with the provisions of art. 32 of the Regulation. The data will be processed according to logics related to the purposes for which they have been collected and in compliance with the current security regulations, for the purposes indicated above or any other purpose specified from time to time in any further privacy policy presented to the user. 
+
+Some links to websites shown on the Website and/or in any e-mail messages with promotional content sent by Blasting S. allow the user to terminate the navigation on the Website and connect to websites, pages and third-party content. Blasting SA hosts these links as a mere convenience for the respective third parties and this does not imply in any case the approval by Blasting SA of the contents to which the links refer to. Blasting SA is not responsible for the compliance of any third parties with data protection regulations in relation to these websites or their content. To find out how third parties process your personal information, you are encouraged to contact those third parties directly. 
+
+**Type of personal data processed**
+
+_Data provided by the user_  
+Through your navigation on the Website, the data controller may process personal data that consist of an identifier such as a name, an identification number, an online identifier, one or more characteristic elements of the physical, economic, cultural or social identity suitable to make the data subjects identified or identifiable. 
+
+To access certain sections of the Website, registration may be requested by Blasting SA, with the creation of appropriate username and password. The collection of personal data, in the registration form or during the use of the services, is necessary to allow the user to access the features of the Website indicated at the time of registration. 
+
+Access to the Website and the Services provided therein can also be allowed using the credentials provided by a third party, such as Google, Facebook, or a provider or similar service ('social log-in'). In this case, the user is required to check the settings of that service and carefully read the privacy policy of the third party provider, as the third party may be authorized to share your personal data and authorize Blasting SA to collect information such as contacts, friends and other user data. The data controller stores the identification code associated with the user's account related to the service of the third party when it is used for log-in to the Website or for sharing content hosted by the Website; storage of such data will take place as long as it is necessary to provide the requested services. If the user creates an account on Blasting SA or uses the site's Services by connecting through the social log-in, the data controller may use the information included in the original account to complete their profile on the Website. The user can update or modify the profile information and contact information at any time through the social log-in. 
+
+The provision of the above mentioned data is optional, but the refusal to provide them will make it impossible for the user to register on the Website and use the Services provided for registered users. 
+
+_Navigation data_  
+The computer systems and software procedures used to operate this Website collect, during their normal operation, some personal data whose transmission is implicit in the use of Internet communication protocols. This information is not collected to be associated with identified natural persons, but by their very nature could, through processing and association with data held by third parties, allow natural persons to be identified. This category of data includes the IP addresses or domain names of the computers used by users who connect to the Website, the URI (Uniform Resource Identifier) addresses of the requested resources, the time of the request, the method used to submit the request to the server, the size of the file obtained in response, the numeric code indicating the status of the response given by the server (success, error, etc.) and other parameters relating to the operating system and the user's IT environment. This data is only used to obtain anonymous statistical information on the use of the Website and to check its correct functioning (see also the Cookie Policy). The data could be used by the competent authorities to determine responsibility in case of hypothetical computer crimes committed against the Website. Personal data provided voluntarily by the user may also be processed. 
+
+_Cookie_  
+For more information on how Blasting SA uses cookie, please check the Cookie Policy at the following link: <https://www.blastingnews.com/cookie-policy/>
+
+**Data retention**
+
+Personal data will be stored only for the time necessary for achieving the purposes for which it was collected, in compliance with the principle of minimization pursuant to art. 5.1.c) of the Regulation. Being Services an ongoing editorial service, the data will be processed by the data controller until the aforementioned Services are terminated by the user. More information is available by contacting the data controller or the DPO at the addresses indicated above. 
+
+**Data subject’s rights**
+
+Pursuant to articles 15 et seq. of the Regulation, the data subject has the right to request: access to personal data at any time, the rectification or erasure, the limitation of processing in the cases provided for by art. 18 of the Regulation, to obtain in a structured format, commonly used and readable by an automatic device his personal data, in the cases provided for by art. 20 of the Regulation. At any time, the data subject may revoke the consent given, pursuant to art. 7 of the Regulation; lodge a complaint before the competent Supervisory Authority (Garante per la Protezione dei Dati personali) pursuant to art. 77 of the Regulation, if you believe that the processing of your data infringes applicable regulations. 
+
+The data subject has the right to object, in whole or in part, for legitimate reasons to the processing of personal data relating for the purpose of sending advertising materials or direct sales or for carrying out market research or commercial communication by the data controller. It should be noted that the right of objection referred to in paragraph can also be exercised limited to one or more contact means (e.g. e-mail and/or text message and/or paper mail and/or telephone). If it is not specified, the objection to the processing of data for marketing purposes will be addressed as extended to all contact means. The requests shall be sent to the data controller or the DPO at the addresses above indicated. 
+
+**Premessa**
+
+Blasting S.A. (di seguito “Blasting S.A.” o “Titolare”) si impegna costantemente per tutelare la privacy dei suoi utenti. Questo documento è stato redatto ai sensi dell’art. 13 del Regolamento UE 2016/679 ("Regolamento"), ai sensi della Legge Federale (Svizzera) del 19 giugno 1992 sulla protezione dei dati (“LPD”), ed ai sensi del D.lgs. 196/2003 (“Codice Privacy”), al fine di permetterti di conoscere la nostra politica sulla privacy, di capire come le tue informazioni personali vengono gestite quando usufruisci dei nostri servizi e utilizzi il nostro sito https://www.blastingnews.com e sue sottosezioni nazionali (di seguito “Sito”) e di prestare il consenso al trattamento dei tuoi Dati Personali espresso e consapevole. Le informazioni e i dati da te forniti od altrimenti acquisiti nell'ambito dell’utilizzo dei servizi di Blasting S.A., come ad esempio: l’accesso all’Area riservata del Sito, la registrazione ai Canali tematici ed alle newsletter, la richiesta di informazioni, ecc... (di seguito "Servizi"), saranno oggetto di trattamento nel rispetto delle disposizioni del Regolamento e degli obblighi di riservatezza che ispirano l'attività di Blasting S.A. 
+
+L’informativa è resa solo per il Sito e non anche per altri siti web eventualmente consultati dall’utente tramite link. Inoltre, questa informativa generale non si riferisce agli specifici trattamenti di dati che potranno essere effettuati, all’interno del Sito, da diversi Titolari del trattamento per specifiche finalità, come indicate nelle apposite informative dagli stessi rilasciati. 
+
+Secondo le norme del Regolamento, i trattamenti effettuati da Blasting S.A. saranno improntati ai principi di liceità, correttezza, trasparenza, limitazione delle finalità e della conservazione, minimizzazione dei dati, esattezza, integrità e riservatezza. 
+
+**Il titolare del trattamento**  
+A seguito della semplice consultazione di questo Sito possono essere tratti dati relativi a persone identificate o identificabili: il Titolare del trattamento è la Società Blasting S.A., con sede legale in Svizzera, raggiungibile all’indirizzo: Via Carlo Frasca, 3 – 6900 Lugano. 
+
+Il Responsabile per la Protezione dei Dati è raggiungibile all’indirizzo e-mail: [dpo@blastingnews.com](mailto:dpo@blastingnews.com)
+
+**Finalità e base giuridica del trattamento**  
+Il trattamento, dietro specifico consenso ove necessario, è caratterizzato dalle seguenti finalità: 
+
+  * consentire l'erogazione dei servizi richiesti e l’accesso all’area riservata del Sito, come ad esempio la registrazione ai Canali tematici;
+  * rispondere a richieste di assistenza o di informazioni;
+  * assolvere eventuali obblighi di legge, contabili e fiscali;
+  * finalità difensive;
+  * previo consenso dell’utente, marketing diretto da parte di Blasting S.A., incluso l’invio di newsletter;
+  * previo consenso dell’utente, comunicazione dei dati personali a terzi autonomi titolari per loro proprie finalità di marketing diretto;
+  * previo consenso dell’utente, autorizzazione affinché i terzi destinatati dei dati di cui alla lett. f) possano a loro volta comunicare a terzi autonomi titolari i dati per loro proprie finalità di marketing diretto;
+  * anche attraverso l’utilizzo di cookie e/o tecnologie similari, consentire il miglioramento dei nostri servizi, lo sviluppo del Sito, il miglioramento delle relazioni con gli utenti, elaborare statistiche su dati aggregati e/o anonimizzati.
+
+
+
+La base giuridica del trattamento di dati personali per le finalità di cui alle lettere a), b) e c) è l’art. 6, paragrafo 1, lettere b) e c) del Regolamento, in quanto i trattamenti sono necessari all'erogazione dei servizi o per il riscontro di richieste dell’interessato, rappresentando altresì un trattamento necessario per adempiere ad un obbligo di legge in capo a Blasting S.A. Il conferimento dei dati personali per queste finalità è facoltativo ma l'eventuale mancato conferimento comporterebbe l'impossibilità di attivare i servizi forniti dal Sito. 
+
+La base giuridica del trattamento per la finalità di cui alla lett. d) è il legittimo interesse del titolare del trattamento, quale, ad esempio, la protezione da truffe o altri comportamenti in violazione delle condizioni di utilizzo del servizio sottoscritto dall’utente, nonché per far valere e difendere un diritto in sede giudiziaria. 
+
+I dati conferiti per la finalità di cui alla lettera e) potranno essere trattati, previo esplicito e specifico consenso, da Blasting S.A. per l’invio di comunicazioni promozionali e di marketing, incluso l’invio di newsletter e ricerche di mercato, su prodotti e servizi propri e di terzi, appartenenti alle categorie merceologiche editoriali, banche, società finanziarie, operatori di telefonia, di servizi energetici e in generale di operatori legati al mondo delle utilities, distributori commerciali, agenzie di comunicazione, fornitori di servizi di marketing, case automobilistiche e servizi connessi, società di soccorso stradale, associazioni no profit e onlus, vendita di prodotti alimentari e bevande, produzione e vendita di abbigliamento ed accessori, produzione cinematografica/televisiva e spettacoli dal vivo, operatori di servizi di logistica e trasporto, tour operator, fornitori di servizi digitali, settore ospitalità e ristorazione, produzione e vendita di dispositivi di sicurezza, produzione e vendita di dispositivi elettromedicali, fornitura di servizi medici specialistici, vendita di prodotti cosmetici, produzione e vendita di vini e liquori, servizi per il corpo ed il benessere, prodotti per la sanificazione, il monitoraggio degli inquinanti, filtri e purificatori, climatizzazione e gestione dell'ambiente di vita, servizi di progettazione d'interni, arredamento e interior design, produzione e vendita di prodotti tecnologici, autoscuole e pratiche auto, agenzie di organizzazione eventi, prodotti e servizi per la navigazione e la pesca, società di organizzazione di manifestazioni a premio, , attraverso strumenti automatizzati (e-mail, sms, fax, mms, messaggi su social network, whatsapp, messenger, applicazioni di messaggistica istantanea online, telefonate automatizzate) e non automatizzati (posta cartacea, telefono con operatore). 
+
+Inoltre, previo consenso dell’utente, i dati conferiti per la finalità di cui alla lettera f) possono essere comunicati da Blasting S.A. a soggetti terzi autonomi titolare del trattamento, appartenenti alle seguenti categorie merceologiche: editoriali, banche, società finanziarie, operatori di telefonia, di servizi energetici e in generale di operatori legati al mondo delle utilities, distributori commerciali, agenzie di comunicazione, fornitori di servizi di marketing, case automobilistiche e servizi connessi, società di soccorso stradale, associazioni no profit e onlus, vendita di prodotti alimentari e bevande, produzione e vendita di abbigliamento ed accessori, produzione cinematografica/televisiva e spettacoli dal vivo, operatori di servizi di logistica e trasporto, tour operator, fornitori di servizi digitali, settore ospitalità e ristorazione, produzione e vendita di dispositivi di sicurezza, produzione e vendita di dispositivi elettromedicali, fornitura di servizi medici specialistici, vendita di prodotti cosmetici, produzione e vendita di vini e liquori, servizi per il corpo ed il benessere, prodotti per la sanificazione, il monitoraggio degli inquinanti, filtri e purificatori, climatizzazione e gestione dell'ambiente di vita, servizi di progettazione d'interni, arredamento e interior design, produzione e vendita di prodotti tecnologici, autoscuole e pratiche auto, agenzie di organizzazione eventi, prodotti e servizi per la navigazione e la pesca, società di organizzazione di manifestazioni a premio, per loro iniziative commerciali e di marketing, con strumenti automatizzati (e-mail, sms, fax, mms, messaggi su social network, whatsapp, messenger, applicazioni di messaggistica istantanea online, telefonate automatizzate) e/o non automatizzati (posta cartacea, telefono con operatore). 
+
+Inoltre, previo consenso dell’utente per la finalità di cui alla lettera g), i soggetti terzi cui sono comunicati/ceduti i dati, ed appartenenti ai seguenti settori merceologici: editoriali, banche, società finanziarie, operatori di telefonia, di servizi energetici e in generale di operatori legati al mondo delle utilities, distributori commerciali, agenzie di comunicazione, fornitori di servizi di marketing, case automobilistiche e servizi connessi, società di soccorso stradale, associazioni no profit e onlus, vendita di prodotti alimentari e bevande, produzione e vendita di abbigliamento ed accessori, produzione cinematografica/televisiva e spettacoli dal vivo, operatori di servizi di logistica e trasporto, tour operator, fornitori di servizi digitali, settore ospitalità e ristorazione, produzione e vendita di dispositivi di sicurezza, produzione e vendita di dispositivi elettromedicali, fornitura di servizi medici specialistici, vendita di prodotti cosmetici, produzione e vendita di vini e liquori, servizi per il corpo ed il benessere, prodotti per la sanificazione, il monitoraggio degli inquinanti, filtri e purificatori, climatizzazione e gestione dell'ambiente di vita, servizi di progettazione d'interni, arredamento e interior design, produzione e vendita di prodotti tecnologici, autoscuole e pratiche auto, agenzie di organizzazione eventi, prodotti e servizi per la navigazione e la pesca, società di organizzazione di manifestazioni a premio, potranno, a loro volta, comunicare e/o cedere i dati dell’utente a soggetti terzi appartenenti alle medesime categorie merceologiche, per loro iniziative commerciali loro iniziative commerciali e di marketing, con strumenti automatizzati (e-mail, sms, fax, mms, messaggi su social network, whatsapp, messenger, applicazioni di messaggistica istantanea online, telefonate automatizzate) e/o non automatizzati (posta cartacea, telefono con operatore). 
+
+I trattamenti per finalità di marketing diretto e comunicazione a terzi sono facoltativi e dipendono dalla libera scelta dell’utente, sulla base di un facoltativo e preventivo consenso ex art. 6.1.a) del Regolamento; pertanto il mancato conferimento dei consensi per tali finalità non pregiudicherà la fruizione dei servizi. In ogni caso, il consenso prestato per le finalità di cui alle lettere e) e f) può essere revocato in ogni momento ai sensi dell’art. 7 del Regolamento. 
+
+I dati potranno essere, altresì, trattati per finalità di ricerche/analisi statistiche su dati aggregati o anonimi, senza dunque possibilità di identificare l’interessato. 
+
+**A chi facciamo trattare i dati**  
+Per fini connessi all’erogazione del servizio a cui l’utente ha aderito, i dati saranno messi a disposizione di soggetti terzi, che agiranno quali autonomi titolari del trattamento erogando servizi strumentali a soddisfare la richiesta dell’utente interessato (ad esempio, società che prestano servizi tecnologici, o società di consulenza, altre attività coinvolte in processi di sottoscrizione, vendita e operazioni di gestione; società che prestano servizi bancari, finanziari ed altri servizi in outsourcing; autorità di pubblica sicurezza e vigilanza delle comunicazioni; autorità di vigilanza in materia di giornalismo e per le questioni relative ai media) o ai quali la comunicazione dei dati è necessaria per ottemperare a norme di legge o regolamento. Blasting S.A. non ha alcuna competenza sulle modalità con cui tali terzi autonomi titolari del trattamento parti trattano i dati personali Blasting S.A. non ha alcuna influenza sul modo in cui tali terze parti gestiscono le informazioni ricevute e non è responsabile per la conformità di tali soggetti alla normativa applicabile sulla protezione dei dati personali. In nessun caso i dati personali dell’utente saranno oggetto di diffusione. 
+
+I dati personali saranno resi disponibili a soggetti e/o persone espressamente autorizzate dal titolare – e all’uopo designate, rispettivamente, responsabili del trattamento e incaricati del trattamento, che svolgono attività di trattamento indispensabili per il perseguimento delle finalità sopra indicate; le categorie dei soggetti incaricati sono quelle degli addetti all'amministrazione, alla comunicazione, alla contabilità, alla consulenza legale, alla manutenzione tecnica dei sistemi informativi, al marketing, a seconda della specifica richiesta inoltrata dall'utente interessato attraverso il Sito. 
+
+L'elenco aggiornato dei responsabili è disponibile a semplice richiesta all'indirizzo del Titolare. I dati, inoltre, potranno essere accessibili altresì alle altre aziende del Gruppo Blasting S.A. per finalità amministrativo-contabili ai sensi all’art. 6.1.f) ed ai Considerando 47 e 48 del Regolamento. 
+
+I dati potranno essere trasferiti anche in paesi dell’Unione Europea o verso altri paesi che la Commissione Europea dichiara garantiscono un livello di protezione adeguato (quali, ad esempio, la Confederazione svizzera) o con i quali il Titolare ha sottoscritto clausole modello fornite dalla Commissione con decisione del 5 febbraio 2010, o che comunque hanno ottenuto la certificazione in base alle previsioni del Privacy Shield per i trasferimenti di dati tra UE e USA. 
+
+**Come trattiamo i dati**  
+Tutti i trattamenti effettuati nell'ambito dell’utilizzo del Sito saranno realizzati con strumenti elettronici o telematici, ma potrebbero essere trattati anche con strumenti cartacei/manuali. 
+
+Specifiche misure tecniche ed organizzative sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti ed accessi non autorizzati nel pieno rispetto di quanto previsto dall’art. 32 del Regolamento.  
+I dati saranno trattati con logiche correlate alle finalità per le quali i dati sono stati raccolti e nel rispetto delle vigenti norme di sicurezza, per le finalità suindicate o specificate di volta in volta nelle ulteriori eventuali informative presentate all'utente. 
+
+Alcuni collegamenti a siti web presenti sul Sito e/o negli eventuali messaggi di posta elettronica a contenuto promozionale inviati da Blasting S.A. consentono all’utente di terminare la sua navigazione sul Sito e collegarsi a siti web, pagine e contenuti di terzi. Blasting S.A. ospita tali collegamenti a titolo di mera convenienza per i rispettivi terzi e ciò non implica in nessun caso l’approvazione da parte di Blasting S.A. dei contenuti ai quali i link rinviano. Blasting S.A. non è responsabile del rispetto delle norme sulla protezione dei dati in relazione a questi siti Web o al loro contenuto. Per conoscere come le terze parti trattano i dati personali dell’utente, questo è invitato a contattare direttamente tali terze parti. 
+
+**Tipi di dati trattati**  
+_Dati forniti volontariamente dall'utente_  
+A seguito della navigazione del Sito, La informiamo che il Titolare tratterà i dati personali che potranno essere costituiti da un identificativo come il nome, un numero di identificazione, un identificativo online, uno o più elementi caratteristici della identità fisica, economica, culturale o sociale idonea a rendere il soggetto interessato identificato o identificabile. 
+
+Per accedere ad alcune sezioni del Sito, potrà essere richiesta da Blasting S.A., la registrazione con la creazione di apposite username e password. La raccolta dei dati personali, nella scheda di registrazione o durante l’uso dei servizi, è necessaria per consentire all’utente di accedere alle funzionalità del Sito indicate al momento della registrazione. 
+
+L'accesso al Sito ed ai Servizi può avvenire utilizzando le credenziali forniti da una terza parte, come Google, Facebook, o servizio simile ("log-in sociale"). In tal caso, l'utente è tenuto a controllare le impostazioni di quel servizio e leggere con attenzione la privacy policy del terzo fornitore, in quanto si potrebbe autorizzare il terzo fornitore a condividere i Suoi dati personali e autorizzare Blasting S.A. a raccogliere informazioni come i contatti, gli amici e altri dati dell'utente. Il Titolare conserva il codice identificativo associato all'account dell'utente presso il servizio della terza parte nel momento in cui lo si utilizzi per il log-in al Sito o per la condivisione di contenuti ospitati dal Sito; la conservazione avrà luogo per tutto il tempo necessario a fornire i servizi richiesti. Se l'utente crea un account su Blasting S.A. o utilizza servizi del sito collegandosi attraverso il social log-in, il Titolare potrà utilizzare le informazioni contenute nell'account di provenienza per completare il suo profilo sul Sito. L'utente può aggiornare o modificare le informazioni del profilo e le informazioni di contatto in qualsiasi momento attraverso il log-in sociale. 
+
+Il conferimento di questi dati è facoltativo, ma il rifiuto di fornirli comporta l’impossibilità per l’utente di ottenere la registrazione al Sito e l’utilizzo dei servizi riservati agli utenti registrati. 
+
+_Dati di navigazione_  
+I sistemi informatici e le procedure software preposte al funzionamento di questo sito web acquisiscono, nel corso del loro normale esercizio, alcuni dati personali la cui trasmissione è implicita nell’uso dei protocolli di comunicazione di Internet.  
+Si tratta di informazioni che non sono raccolte per essere associate a interessati identificati, ma che per loro stessa natura potrebbero, attraverso elaborazioni ed associazioni con dati detenuti da terzi, permettere di identificare gli utenti.  
+In questa categoria di dati rientrano gli indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti che si connettono al sito, gli indirizzi in notazione URI (Uniform Resource Identifier) delle risorse richieste, l’orario della richiesta, il metodo utilizzato nel sottoporre la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta data dal server (buon fine, errore, ecc.) ed altri parametri relativi al sistema operativo e all’ambiente informatico dell’utente.  
+Questi dati vengono utilizzati al solo fine di ricavare informazioni statistiche anonime sull’uso del sito e per controllarne il corretto funzionamento (si veda anche il paragrafo sui Cookies). I dati potrebbero essere utilizzati dalle autorità competenti per l’accertamento di responsabilità in caso di ipotetici reati informatici ai danni del sito.  
+Possono essere trattati inoltre dati personali forniti volontariamente dall’utente. 
+
+_Cookie_  
+Per maggiori informazioni su come Blasting S.A. utilizza i cookie, fare riferimento alla Cookie Policy pubblicata al seguente link: <https://www.blastingnews.com/cookie-policy/>
+
+**Conservazione**  
+I dati personali saranno conservati solo per il tempo necessario per il perseguimento delle finalità per cui sono raccolti, nel rispetto del principio di minimizzazione di cui all’articolo 5.1.c) del Regolamento. Trattandosi di un servizio continuativo di natura editoriale, i dati verranno trattati dal Titolare fino a quando il citato servizio non verrà cessato dall’utente. Maggiori informazioni sono disponibili contattando il Titolare a mezzo posta elettronica. 
+
+**Diritti degli utenti interessati**  
+Ai sensi degli articoli 15 e seguenti del Regolamento, l’interessato ha il diritto di chiedere in qualunque momento l'accesso ai dati personali, la rettifica o la cancellazione degli stessi, la limitazione del trattamento nei casi previsti dall'art. 18 del Regolamento, ottenere in un formato strutturato, di uso comune e leggibile da dispositivo automatico i dati che lo riguardano, nei casi previsti dall'art. 20 del Regolamento. In ogni momento, l’interessato può revocare ex art. 7 del Regolamento il consenso prestato; proporre reclamo all'autorità di controllo competente (Garante per la Protezione dei Dati Personali) ai sensi dell'art. 77 del Regolamento, qualora ritenga che il trattamento dei suoi dati sia contrario alla normativa in vigore.  
+L’interessato ha diritto di opporsi, in tutto o in parte, per motivi legittimi al trattamento di dati personali che La riguardano a fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale da parte del Titolare. Si precisa che il diritto di opposizione di cui al presente punto può essere esercitato anche limitatamente a uno o più strumenti di contatto (es. per e-mail e/o Sms e/o posta e/o telefono). Qualora non sia precisato, l’opposizione al trattamento dei dati per fini di marketing sarà inteso esteso a tutti gli strumenti di contatto.  
+Le richieste sono rivolte per iscritto al Titolare ai recapiti sopra indicati. 
