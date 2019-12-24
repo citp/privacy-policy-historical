@@ -1,43 +1,39 @@
-> *The following text is extracted and transformed from the optimizepress.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627230858id_/https%3A//www.optimizepress.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizepress.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224085211id_/https%3A//www.optimizepress.com/legal-privacy) for the most accurate reproduction.*
 
-# OptimizePress Privacy Policy
-
-### ****1.  Introduction
+# Privacy Policy - OptimizePress
 
 This privacy notice provides you with details of how we collect and process your personal data through your use of our sites including optimizepress.com, members.optimizepress.com, marketplace.optimizepress.com and optimizesupport.com
 
 By providing us with your data, you warrant to us that you are over 13 years of age.
 
-**Creative 6 Media Ltd dba OptimizePress** is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
+ **Creative 6 Media Ltd dba OptimizePress** is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-#### **Contact Details**
+###  **Contact Details**
 
 Our full details are: 
 
 Full name of legal entity: **Creative 6 Media Ltd dba OptimizePress**
 
-Contact us via email: [Contact Form here ****](https://optimizesupport.com/privacy-contact-page/)
+Contact us via email: [Contact Form here](https://optimizesupport.com/privacy-contact-page/)
 
 Postal address: **OptimizePress, Suite 407, 372 Old Street, London, EC1V 9LT**
 
 It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us via [contact form](https://optimizesupport.com/privacy-contact-page/)
 
-### ****2\. What data do we collect about you, for what purpose and on what ground we process it
+## 2\. What data do we collect about you, for what purpose and on what ground we process it
 
 Personal data means any information capable of identifying an individual. It does not include anonymised data.
 
 We may process the following categories of personal data about you:
 
-  * **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
-  * **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
-  * **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
-  * **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyse your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
-  * **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+  *  **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
+  *  **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+  *  **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
+  *  **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyse your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+  *  **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
   * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
 
 
-
-#### **Sensitive Data**
 
 We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
@@ -49,7 +45,7 @@ We may process your personal data without your knowledge or consent where this i
 
 We do not carry out automated decision making or any type of automated profiling. 
 
-### ****3\. How We Collect Your Personal Data
+## 3\. How We Collect Your Personal Data
 
 We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our [cookie policy](https://www.optimizepress.com/legal-cookies/) for more details about this.
 
@@ -57,7 +53,7 @@ We may receive data from third parties such as analytics providers such as Googl
 
 We may also receive data from publicly available sources such as Companies House and the Electoral Register based inside the EU.
 
-### 4\. Marketing Communications
+## 4\. Marketing Communications
 
 Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business). 
 
@@ -69,7 +65,7 @@ You can ask us or third parties to stop sending you marketing messages at any ti
 
 If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc. 
 
-### ****5\. Disclosures of Your Data
+## 5\. Disclosures of Your Data
 
 We may have to share your personal data with the parties set out below:
 
@@ -81,9 +77,9 @@ We may have to share your personal data with the parties set out below:
 
 
 
-We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions
 
-### ****6\. International Transfers
+## 6\. International Transfers
 
 Countries outside of the European Economic Area ( **EEA** ) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
 
@@ -99,13 +95,9 @@ Whenever we transfer your personal data out of the EEA, we do our best to ensure
 
 If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time. 
 
-### ****7\. Data Security
-
 We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorisation. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
 
 We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
-
-### ****8\. Data Retention
 
 We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
@@ -114,8 +106,6 @@ When deciding what the correct time is to keep the data for we look at its amoun
 For tax purposes the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
 
 In some circumstances we may anonymise your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
-
-### ****9\. Your Legal Rights   
 
 Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
 
@@ -129,12 +119,8 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](http://www.ico.org.uk/) ). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
 
-### ****10\. Third-Party Links   
-
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
-
-### 11\. Cookies
 
 You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy](https://www.optimizepress.com/legal-cookies/)
 
-**Policy Updated:** 23rd May 2018
+ **Policy Updated:** 23rd May 2018
