@@ -1,22 +1,26 @@
-<!--The following is the downloaded HTML source of the adblockplus.org privacy policy that was archived on 2019-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629232037id_/https%3A//adblockplus.org/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adblockplus.org privacy policy that was archived on 2019-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191224164940id_/https%3A//adblockplus.org/en/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" data-siteurl="https://adblockplus.org" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage" class="no-js async-hide"><head>
+<!DOCTYPE html><html lang="en" data-siteurl="https://adblockplus.org" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage" class="no-js"><head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Privacy Policy</title>
 
-  <meta name="description" content="This Privacy Policy describes how we use, process and protect information that we collect from you online through our websites and our products.">
+  <meta name="description" content="This Privacy Policy describes how we use, process, and protect information that we collect from users through our websites and our products.">
 
 <link rel="canonical" href="https://adblockplus.org/privacy">
     
 <meta property="og:image" content="/img/adblockplus_promo.png">
 <meta property="og:title" content="Privacy Policy">
 
-  <meta property="og:description" content="This Privacy Policy describes how we use, process and protect information that we collect from you online through our websites and our products.">
+  <meta property="og:description" content="This Privacy Policy describes how we use, process, and protect information that we collect from users through our websites and our products.">
 
 <meta property="og:locale" content="en_US">
+
+  
+    <meta property="og:locale:alternate" content="ar_AR">
+  
 
   
     <meta property="og:locale:alternate" content="de_DE">
@@ -25,7 +29,39 @@
   
 
   
+    <meta property="og:locale:alternate" content="es_ES">
+  
+
+  
     <meta property="og:locale:alternate" content="fr_FR">
+  
+
+  
+    <meta property="og:locale:alternate" content="he_HE">
+  
+
+  
+    <meta property="og:locale:alternate" content="ko_KR">
+  
+
+  
+    <meta property="og:locale:alternate" content="nl_NL">
+  
+
+  
+    <meta property="og:locale:alternate" content="pt_BR">
+  
+
+  
+    <meta property="og:locale:alternate" content="ru_RU">
+  
+
+  
+    <meta property="og:locale:alternate" content="zh_CN">
+  
+
+  
+    <meta property="og:locale:alternate" content="zh_TW">
   
 
 <meta property="og:url" content="https://adblockplus.org/en/privacy">
@@ -33,88 +69,26 @@
 
 <meta name="twitter:site" content="@AdblockPlus">
 <meta name="twitter:creator" content="@AdblockPlus">
-    <link rel="stylesheet" href="/css/defaults.css?407348217">
-<link rel="stylesheet" href="/css/fonts.css?407348217">
-<link rel="stylesheet" href="/css/main.css?407348217">
-<link rel="stylesheet" href="/css/cookies.css?407348217">
+    <link rel="stylesheet" href="/css/defaults.css?2244790973">
+<link rel="stylesheet" href="/css/fonts.css?2244790973">
+<link rel="stylesheet" href="/css/main.css?2244790973">
+<link rel="stylesheet" href="/css/cookies.css?2244790973">
+
+<style>
+  .async-hide { opacity: 0 !important; }
+</style>
 
 
-    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TFZZB3Q"></script><script>
+    <script>
   window.eyeo = {
     preventCookiePrompt: false
   }
 </script>
-    <style>
-  .async-hide { opacity: 0 !important; }
-</style>
-
-<script>
-  (function(){
-
-    var eyeo = window.eyeo = window.eyeo || {};
-
-    function hasCookie(key)
-    {
-      return document.cookie.indexOf(key) !== -1;
-    }
-
-    var hasSeenCookiePrompt = hasCookie("eyeo-seen-cookie-prompt");
-    var trackingOptOut = hasCookie("eyeo-ga-opt-out");
-    var testingOptOut = hasCookie("eyeo-ab-opt-out");
-
-    var analyticsData = {
-      "anonymize_ip": true,
-      "transport_type": "beacon"
-    };
-
-    if (!testingOptOut)
-      analyticsData.optimize_id = "GTM-NW8L5JT";
-
-    // Record first visit to page with cookie prompt
-    if (!eyeo.preventCookiePrompt && !hasSeenCookiePrompt)
-      document.cookie = "eyeo-seen-cookie-prompt=1; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/";
-
-    if
-    (
-      // Do not track users who haven't seen cookie prompt on pages without cookie prompt
-      !(eyeo.preventCookiePrompt && !hasSeenCookiePrompt)
-
-      // Do not track users who have opted out of tracking
-        && !trackingOptOut
-    )
-    {
-      // Anti-flicker snippet
-      (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
-        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-      })(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-NW8L5JT':true});
-
-      // Analytics snippet (Modifications explained in comments below)
-      (function(){
-        // Adding script by JavaScript instead of HTML
-        var scriptElement = document.createElement("script");
-        scriptElement.async = true;
-        scriptElement.src = "https://www.googletagmanager.com/gtag/js?id=UA-18643396-6";
-        document.head.appendChild(scriptElement);
-        window.dataLayer = window.dataLayer || [];
-        // Explicitly attached gtag to window because script is not run in global scope
-        var gtag = window.gtag = function(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        // Passing analyticsData constructed above
-        gtag('config', 'UA-18643396-6', analyticsData);
-      }());
-
-      // Tag Manager snippet
-      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-TFZZB3Q');
-    }
-  }());
-</script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-18643396-6"></script>
-
+    
+<script src="//adblockplus.org/js/tracking.js?2232464690"></script>
     <!--[if IE 9]>
-  <script src="/js/vendor/es5-shim.js?69447314"></script>
-  <script src="/js/vendor/dom4.js?69447314"></script>
+  <script src="/js/vendor/es5-shim.js?2232464690"></script>
+  <script src="/js/vendor/dom4.js?2232464690"></script>
 <![endif]-->
 
     
@@ -139,11 +113,11 @@
 <nav id="navbar">
   <div class="container">
     <a href="/en/" hreflang="en" id="navbar-logo">
-      <img src="/img/navbar-logo.svg?359555952">
+      <img src="/img/navbar-logo.svg?2988763119">
       <span>Adblock <strong>Plus</strong></span>
     </a>
     <a href="#" id="navbar-menu-toggle">
-      <img src="/img/menu-toggle.svg?359555952">
+      <img src="/img/menu-toggle.svg?2988763119">
     </a>
     <ul id="navbar-menu">
       
@@ -165,6 +139,12 @@
         <ul id="navbar-locale-menu">
           
             <li>
+              <a href="/ar/privacy" hreflang="ar">
+                العربية (AR)
+              </a>
+            </li>
+          
+            <li>
               <a href="/de/privacy" hreflang="de">
                 Deutsch (DE)
               </a>
@@ -177,8 +157,56 @@
             </li>
           
             <li>
+              <a href="/es/privacy" hreflang="es">
+                Español (España) (ES)
+              </a>
+            </li>
+          
+            <li>
               <a href="/fr/privacy" hreflang="fr">
                 Français (FR)
+              </a>
+            </li>
+          
+            <li>
+              <a href="/he/privacy" hreflang="he">
+                עברית (HE)
+              </a>
+            </li>
+          
+            <li>
+              <a href="/ko/privacy" hreflang="ko">
+                한국어 (KR)
+              </a>
+            </li>
+          
+            <li>
+              <a href="/nl/privacy" hreflang="nl">
+                Nederlands (NL)
+              </a>
+            </li>
+          
+            <li>
+              <a href="/pt_BR/privacy" hreflang="pt_BR">
+                Português (Brasil) (BR)
+              </a>
+            </li>
+          
+            <li>
+              <a href="/ru/privacy" hreflang="ru">
+                Русский (RU)
+              </a>
+            </li>
+          
+            <li>
+              <a href="/zh_CN/privacy" hreflang="zh_CN">
+                中文(简体) (CN)
+              </a>
+            </li>
+          
+            <li>
+              <a href="/zh_TW/privacy" hreflang="zh_TW">
+                中文(台灣) (TW)
               </a>
             </li>
           
@@ -235,9 +263,10 @@
 
 </style>
 
-<script src="/js/address-masking.js?69447314"></script>
+<script src="/js/address-masking.js?2232464690"></script>
 
-<ul>
+
+    <ul>
 <li><a href="#privacy-policy-short">Privacy Notice (short version)</a></li>
 <li><a href="#privacy-policy-long">Privacy Policy (long version)</a></li>
 </ul>
@@ -252,16 +281,47 @@
 <li>Operating system</li>
 <li>Date of last update</li>
 <li>IP address</li>
-<li>Additionally, you may manually submit the following information about a web page with a bug using the <a href="#issue-reporter">Issue Reporter</a>: URL, blockable items, matching filters, active filter lists (voluntary)</li>
+<li class="has-horizontal-list semicolon-separated">Additionally, you may manually submit the following information about a webpage using the <a href="#issue-reporter">Issue Reporter</a>:<ul>
+<li>Browser build, if any</li>
+<li>URL</li>
+<li>URL of referred webpage, if any, and webpage that opened the given page</li>
+<li>Blockable items</li>
+<li>Matching filters</li>
+<li>Active filter lists</li>
+<li>Access to browser settings and installed plug-ins</li>
+<li>Enabled extensions (voluntary)</li>
 </ul>
 </li>
-<li class="has-horizontal-list semicolon-separated">Adblock Browser for Android<ul>
-<li>eyeo collects no data. Adblock Browser, being based on Mozilla Firefox, provides Firefox specific functionality which, however, may send data to Mozilla.</li>
 </ul>
 </li>
+<li>For all mobile products and Adblock Plus for Safari on macOS<ul>
+<li class="has-horizontal-list semicolon-separated">Crash reports:<ul>
+<li>UUID and crash traces in order to help a user associate crash data with specific instances of our products</li>
+<li>Instance IDS</li>
+<li>Device type</li>
+<li>application ID</li>
+<li>App and/or extension version</li>
+<li>Free space</li>
+<li>Free ram</li>
+<li>A timestamp of when a crash happened</li>
+</ul>
+</li>
+<li class="has-horizontal-list semicolon-separated">Event tracking:<ul>
+<li>App and/or extension version</li>
+<li>Demographic data (gender, age)</li>
+<li>Device type</li>
+<li>Which platforms you are using</li>
+<li>Location data based on your IP address (country)</li>
+<li>Button clicks and/or navigation patterns</li>
+<li>Screens shown</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Adblock Browser, based on Chromium, provides Chromium-specific functionality which, however, may send data to Google.</li>
 <li class="has-horizontal-list semicolon-separated">Adblock Browser for iOS (automatically):<ul>
 <li>Error and crash report data:<ul>
-<li>Bundle identifier, bundle version and short bundle version string of Adblock Browser for iOS</li>
+<li>Bundle identifier, bundle version and short bundle version string of Adblock Browser</li>
 <li>Device type, CPU architecture and version of the operating system</li>
 <li>Timestamp of crash</li>
 <li>UUID</li>
@@ -272,9 +332,26 @@
 </li>
 </ul>
 </li>
+<li>For Adblock Plus on desktop, when uninstalling Adblock Plus<ul>
+<li class="has-horizontal-list semicolon-separated">Automatically:<ul>
+<li>Browser language</li>
+<li>Extension name and version</li>
+<li>Browser type and version</li>
+<li>Operating system and version</li>
+<li>Number of notification downloads</li>
+<li>Information whether the local storage of the extension configuration is corrupted</li>
+<li>Filter subscriptions enabled / disabled</li>
 </ul>
 </li>
-<li>While using our websites:<ul>
+<li class="has-horizontal-list semicolon-separated">Voluntary:<ul>
+<li>Reason for uninstallation</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>While using our websites<ul>
 <li class="has-horizontal-list semicolon-separated">Automatically:<ul>
 <li>IP address (stored separately)</li>
 <li>The time at which the request was made</li>
@@ -293,32 +370,53 @@
 </li>
 </ul>
 </li>
+<li>For user support<ul>
+<li>User name (contact via social media) and/or email</li>
+<li>Device information</li>
+<li>Version of Adblock Plus and other applicable tech specifications</li>
+<li>URLs the user is having issues with</li>
+<li>Adblock Plus issues</li>
+<li>Address and transaction ID numbers for donation refunds (voluntary)</li>
+</ul>
+</li>
 </ol>
 <h3 id="how-we-collect-data">How do we collect data?</h3>
-<p>List of techniques and tools we use for data collection:</p>
+<p>List of techniques and tools we use for data collection.</p>
 <ol>
 <li class="has-horizontal-list semicolon-separated">In our products:<ul>
 <li>Update checks</li>
 <li>Subscription downloads</li>
 <li>Sending issue reports</li>
+<li>Sending crash reports</li>
+<li>In our mobile products and Adblock Plus for Safari on macOS: via Firebase Analytics</li>
 <li>Emergency notification checks</li>
+<li>Referring to an uninstall webpage</li>
 </ul>
 </li>
 <li class="has-horizontal-list semicolon-separated">On our websites:<ul>
 <li>Cookies</li>
 <li>Log files</li>
 <li>Data, like name and / or email address, sent by you when using our forum or blog, or when sharing manually added filters</li>
-<li>Via Google Analytics</li>
+<li>For non-<abbr title="European Union">EU</abbr>/EEA users only: Via Google Analytics</li>
+</ul>
+</li>
+<li class="has-horizontal-list semicolon-separated">For user support:<ul>
+<li>Via email sent by you</li>
+<li>From user reviews in App Stores</li>
+<li>From forum posts</li>
+<li>From Browser Web Store reviews</li>
+<li>From social platforms like Facebook and Twitter</li>
 </ul>
 </li>
 </ol>
 <h3 id="why-we-process-data">How and why do we process your data?</h3>
 <ul>
 <li>In order to inform you about urgent issues in connection with our products.</li>
-<li>To improve and to evaluate our products by processing and analyzing subscription downloads, extension updates, emergency downloads and issue reports you send to us.</li>
+<li>To improve and to evaluate our products by processing and analyzing subscription downloads, extension updates, emergency downloads, uninstallation information, and issue reports you send to us.</li>
 <li>For technical purposes, such as, but not limited to, preventing security attacks, to improve our website / products, to ensure website / product security.</li>
-<li>To analyze aggregated website logs and analytics data, to improve our website.</li>
+<li>To analyze aggregated website logs, and for non-<abbr title="European Union">EU</abbr>/EEA users analytics data, to improve our website.</li>
 <li>For communication and assistance purposes in our forum and blog.</li>
+<li>For assisting you with any issues you may have with our products.</li>
 </ul>
 <h3 id="what-is-legal">What is the legal basis of data processing?</h3>
 <p>We process your personal data in compliance with the European General Data Protection Regulation (Regulation (<abbr title="European Union">EU</abbr>) 2016/679) (“<abbr title="General Data Protection Regulation">GDPR</abbr>”), the applicable <abbr title="European Union">EU</abbr> laws and German national data protection laws.</p>
@@ -326,12 +424,22 @@
 <ol>
 <li class="has-horizontal-list semicolon-separated">For a period of 30 days:<ul>
 <li>Issue report data</li>
-<li>Crash and error reporter data</li>
+<li>iOS crash and error reporter data</li>
 <li>Website logs</li>
 <li>Data related to subscription downloads, extension update checks, emergency notifications</li>
+<li>Data related to uninstalling the extension</li>
+</ul>
+</li>
+<li class="has-horizontal-list semicolon-separated">For a period of 180 days:<ul>
+<li>In our mobile products and Adblock Plus for Safari on macOS crash reporting   </li>
+</ul>
+</li>
+<li class="has-horizontal-list semicolon-separated">For a period of 60 days:<ul>
+<li>event tracking</li>
 </ul>
 </li>
 <li>Blog and forum data as long as the respective comment / account exists</li>
+<li>All user support data is deleted one (1) year after closing the respective support case.</li>
 </ol>
 <p><strong>Note</strong>: “Aggregated usage statistics”, such as analytics data and other data without any connection to a single user, may be retained beyond these periods.</p>
 <h3 id="our-values">Our values</h3>
@@ -347,7 +455,7 @@
 <li>Lodge a complaint with the respective supervisory authority.</li>
 </ul>
 <h3 id="questions">Questions?</h3>
-<p>Contact our Data Protection Officer, Dr. Judith Nink, via <a data-mask="{&quot;href&quot;: &quot;bWFpbHRvOnByaXZhY3lAZXllby5jb20=&quot;}" title="email address of Data Protection Officer at eyeo GmbH">email</a> or <a href="tel:+49 (0) 221 / 65028 598" title="telephone number of Data Protection Officer at eyeo GmbH">phone</a>.</p>
+<p>Contact our Data Protection Officer, Dr. Judith Nink, via <a data-mask="{&quot;href&quot;: &quot;bWFpbHRvOnByaXZhY3lAZXllby5jb20=&quot;}" title="email address of Data Protection Officer at eyeo GmbH">email</a> or <a href="tel:+49 (0) 221 / 6430630" title="telephone number of Data Protection Officer at eyeo GmbH">phone</a>.</p>
 <hr>
 <h2 id="privacy-policy-long">Privacy Policy (long version)</h2>
 <h3 id="general-info">General information about your privacy</h3>
@@ -357,21 +465,22 @@
 <li><a href="#who-is-responsible">Who is responsible for data processing?</a></li>
 <li><a href="#what-is-personal-data">What is personal data?</a></li>
 <li><a href="#what-is-personal-data">What is the purpose of data processing and what is the legal basis?</a></li>
-<li><a href="#what-is-personal-data">Do we disclose personal data?</a></li>
+<li><a href="#what-is-personal-data">Do we disclose any personal data?</a></li>
 <li><a href="#your-rights-long">What rights do you have?</a></li>
-<li><a href="#erasure-of-data">Deletion of your data</a></li>
 <li><a href="#changes-to-policy">Changes to this Privacy Policy</a></li>
-<li><a href="#collection-and-processing">Collection and processing in our products</a></li>
+<li><a href="#collection-processing-of-products">Collection and processing in our products</a></li>
+<li><a href="#collection-processing-of-websites">Collection and processing in our websites</a></li>
+<li><a href="#collection-and-processing-for-user-support">Collection and processing for user support</a></li>
 </ol>
 <h3 id="general-notes">General notes</h3>
-<p>Your protection and data confidentiality is of utmost importance to us ("eyeo", "we", "our"). We take the protection of your personal data very seriously and collect as little data as possible. Nevertheless, collecting data helps our products and websites function correctly, and allows us to communicate with you. Our general privacy policy is to avoid collecting more data than necessary. Collected data is anonymized, if possible, and deleted when no longer needed. This privacy policy shall inform you about the collection, processing and use of your personal data. We gather and use personal data firmly within the provisions of the European General Data Protection Regulation (Regulation (<abbr title="European Union">EU</abbr>) 2016/679) (“<abbr title="General Data Protection Regulation">GDPR</abbr>”), the applicable <abbr title="European Union">EU</abbr> Laws and German national data protection laws. In the following text we will inform you about the specific data, the scope and the purpose of the collection and use of personal data by eyeo when using our products and visiting our websites.</p>
+<p>Your protection and data confidentiality is of utmost importance to us ("eyeo", "we", "our"). We take the protection of your personal data very seriously and collect as little data as possible. Nevertheless, collecting data helps our products and websites function correctly, and allows us to communicate with you. Our general privacy policy is to avoid collecting more data than necessary. Collected data is anonymized, if possible, and deleted when no longer needed. This privacy policy shall inform you about the collection, processing and use of your personal data. We gather and use personal data firmly within the provisions of the European General Data Protection Regulation (Regulation (<abbr title="European Union">EU</abbr>) 2016/679) (“<abbr title="General Data Protection Regulation">GDPR</abbr>”), the applicable <abbr title="European Union">EU</abbr> Laws and German national data protection laws. In the following text we will inform you about the specific data, the scope and the purpose of the collection and use of personal data by <fix>eyeo</fix> when using our products and visiting our websites.</p>
 <h3 id="who-is-responsible">Who is responsible for data collection and processing (contacts)?</h3>
 <p>The legal person responsible for the collection, processing and / or use of personal data in connection with our websites and products ("Controller") is:</p>
 <h4 id="controller">Controller</h4>
 <p></p><address>
 eyeo GmbH<br>
 Lichtstr. 25<br>
-50823 Cologne<br>
+50825 Cologne<br>
 Germany<br>
 </address><p></p>
 <h4 id="data-protection-officer">Data Protection Officer</h4>
@@ -380,11 +489,11 @@ Germany<br>
   Dr. Judith Nink
   <dl>
     <dt>Phone</dt>
-    <dd><a id="privacy-phone" href="tel:+49 (0) 221 / 65028 598">+49 (0) 221 / 65028 598</a></dd>
+    <dd><a id="privacy-phone" href="tel:+49 (0) 221 / 6430630">+49 (0) 221 / 6430630</a></dd>
     <dt>Email</dt>
     <dd><a id="privacy-email" data-mask="{&quot;href&quot;: &quot;bWFpbHRvOnByaXZhY3lAZXllby5jb20=&quot;, &quot;textContent&quot;: &quot;cHJpdmFjeUBleWVvLmNvbQ==&quot;}">email address</a></dd>
     <dt>Fax</dt>
-    <dd><a id="privacy-fax" href="fax:+49 (0) 221 / 65028 599">+49 (0) 221 / 65028 599</a></dd>
+    <dd><a id="privacy-fax" href="fax:+49 (0) 221 / 64306399">+49 (0) 221 / 64306399</a></dd>
   </dl>
 </address><p></p>
 <h3 id="what-is-personal-data">What is personal data?</h3>
@@ -409,7 +518,7 @@ Germany<br>
 <h4 id="compliance-permission">Collection and processing is necessary for compliance with a legal obligation to which the Controller is subject – Art. 6 (1) c <abbr title="General Data Protection Regulation">GDPR</abbr></h4>
 <p>Collection and processing of your personal data may be necessary for compliance with a legal obligation to which we are subject under <abbr title="European Union">EU</abbr> laws or the laws of an <abbr title="European Union">EU</abbr> Member State.</p>
 <h4 id="legitimate-interest-permission">Collection and processing is necessary for the purposes of our legitimate interests - Art. 6 (1) f <abbr title="General Data Protection Regulation">GDPR</abbr></h4>
-<p>The collection and processing of your personal data may be necessary for the purposes of our legitimate interests. We collect and process website logs for technical reasons, such as, but not limited to, preventing denial of service attacks. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled. Preventing such overloads of our systems and any security issues by denial of service attacks is in your and our vital interest and therefore we use the website logs. We use information collected and processed via subscription downloads, extension update checks, emergency notifications and feedback data sent by you, for technical reasons, such as, but not limited to, ensuring the security of the extension version used by you. Ensuring the security of our extension is in your and our vital interest and therefore we use such data. Furthermore, we collect and process such data to ensure that our website and extension are constantly improved and adjusted to the changing requirements for an efficient usability and the technical environment. Ensuring the usability of our websites and of our products is in your and our vital interest and therefore we use such data.</p>
+<p>The collection and processing of your personal data may be necessary for the purposes of our legitimate interests. We collect and process website logs for technical reasons, such as, but not limited to, preventing denial of service attacks. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled. Preventing such overloads of our systems and any security issues by denial of service attacks is in your and our vital interest and therefore we use the website logs. We use information collected and processed via subscription downloads, extension update checks, emergency notifications and feedback data sent by you, for technical reasons, such as, but not limited to, ensuring the security of the extension version used by you. Ensuring the security of our extension is in your and our vital interest and therefore we use such data. Furthermore, we collect and process such data to ensure that our website and extension are constantly improved and adjusted to the changing requirements for an efficient usability and the technical environment. In addition, we collect personal data to remember your privacy settings and/or to keep you logged in. Ensuring the usability of our websites and of our products is in your and our vital interest and therefore we use such data.</p>
 <h3 id="disclosure">Do we disclose any personal data?</h3>
 <p>We may only transfer your personal data to third parties without informing you separately beforehand in the following exceptional cases as explained below:</p>
 <ul>
@@ -419,7 +528,8 @@ Germany<br>
 <p>We will not transfer your personal data to third parties as a matter of course without letting you know in advance. We will ask for your prior permission unless the transfer of such data is permitted by <abbr title="General Data Protection Regulation">GDPR</abbr> or any other applicable <abbr title="European Union">EU</abbr> laws and German national data protection laws.</p>
 <h3>International data transfers</h3>
 <p>For the following services, we use non-<abbr title="European Union">EU</abbr>/EEA service providers. We have carefully selected these external service providers and review them regularly to ensure that your privacy is preserved. The service providers provide sufficient guarantees to ensure an adequate level of data protection and may only use personal data for the purposes stipulated by us and in accordance with our instructions. We also contractually require the service providers to treat your personal data solely in accordance with this Privacy Policy and the European data protection laws:</p>
-<p>We use external service provider tools for email (GSuite); to analyze your use of our Websites (<a href="#google-analytics">Google Analytics</a>); and for A/B testing based on the analytics data (<a href="#google-optimize">Google Optimize</a>). These services are provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. In order to ensure an adequate level of data protection, we have entered into a data processing agreement including the <abbr title="European Union">EU</abbr> Standard Contractual Clauses (processors) – Commission Decision C(2010)593. You can access a copy of this agreement <a href="https://support.google.com/a/answer/2888485">here</a>.</p>
+<p>We use external service provider tools for email (GSuite); for non-<abbr title="European Union">EU</abbr>/EEA users only to analyze your use of our Websites (<a href="#google-analytics">Google Analytics</a>); for non-<abbr title="European Union">EU</abbr>/EEA users only for A/B testing based on the analytics data (<a href="#google-optimize">Google Optimize</a>) and for crash reports and event tracking in our mobile products and on Adblock Plus for Safari on macOS (<a href="https://get.fabric.io/">Fabric</a> and <a href="https://firebase.google.com/">Firebase</a>). These services are provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. In order to ensure an adequate level of data protection, we have entered into a data processing agreement including the <abbr title="European Union">EU</abbr> Standard Contractual Clauses (processors) – Commission Decision C(2010)593. You can access a copy of this agreement <a href="https://support.google.com/a/answer/2888485">here</a>.</p>
+<p>We also use external service provider tools for user support. These services are provided by Zendesk, Inc., 1019 Market Street, San Francisco, CA 94103 (Zendesk) and Sprout Social, Inc., 131 S Dearborn Street, 7th floor Chicago, IL 60603 (Sprout). Both Zendesk (<a href="https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG&amp;status=Active">certificate</a>) and Sprout (<a href="https://www.privacyshield.gov/participant?id=a2zt0000000TOR6AAO&amp;status=Active">certificate</a>) are certified under the <abbr title="European Union">EU</abbr>-U.S. Privacy Shield Framework.</p>
 <h3 id="your-rights-long">What rights do you have?</h3>
 <p>In compliance with the <abbr title="General Data Protection Regulation">GDPR</abbr> and the applicable <abbr title="European Union">EU</abbr> laws and German national data protection laws and to the extent legally permitted, you have the following rights to protect your personal data collected and processed by us:</p>
 <h4 id="information-acces-rights">Information, access, rectification and restriction rights</h4>
@@ -449,21 +559,38 @@ Lichtstr. 25<br>
 Germany<br>
 </address><p></p>
 <h3 id="changes-to-policy">Changes to this Privacy Policy</h3>
-<p>This Privacy Policy may be changed from time to time. The respective current version is available at: <a href="https://adblockplus.org/privacy">https://adblockplus.org/privacy</a>.</p>
-<h3 id="collection-and-processing">Collection and processing in our products</h3>
-<h4 id="adblock-plus">Adblock Plus extensions</h4>
+<p>This Privacy Policy may be changed from time to time. The respective current version is available at: <a href="https://adblockplus.org/privacy"><fix>https://adblockplus.org/privacy</fix></a>.</p>
+<h3 id="collection-processing-of-products">Collection and processing in our products</h3>
+<h4 id="adblock-plus">Adblock Plus extension</h4>
 <p>When you use the Adblock Plus browser extension, we collect and process the following data:</p>
 <h5 id="update-checks">Extension update checks</h5>
-<p>Your browser periodically checks for updates of all your extensions, including Adblock Plus. Some general information - browser version, extension version, operating system, date of last update and your IP address - are transmitted during an update check. Updates for Adblock Plus for Android and Internet Explorer are handled by the Adblock Plus website and the data transmitted is subject to <a href="https://adblockplus.org/privacy#logs">the Adblock Plus Privacy Policy</a>. Updates to Adblock Plus for Firefox are handled by the Mozilla website and are subject to the <a href="https://www.mozilla.org/privacy/">Mozilla's Privacy Policy</a>. Updates to Adblock Plus for Chrome are handled by the Google Web Store website and are subject to the <a href="https://www.google.com/policies/privacy/">Google Privacy Policy</a>. Updates to Adblock Plus for Opera are handled by the Opera Add-ons website and are subject to the <a href="http://www.opera.com/privacy#web">Opera Privacy Policy</a>. Updates to Adblock Plus for Safari are handled by the Safari Extensions website and are subject to the <a href="https://www.apple.com/privacy/privacy-policy/">Apple Privacy Policy</a>.</p>
+<p>Your browser periodically checks for updates of all your extensions, including Adblock Plus. Some general information - browser version, extension version, operating system, date of last update and your IP address - are transmitted during an update check. Updates for Adblock Plus for Android and Internet Explorer are handled by the Adblock Plus website and the data transmitted is subject to <a href="#website-logs">the Adblock Plus Privacy Policy</a>. Updates to Adblock Plus for Firefox are handled by the Mozilla website and are subject to the <a href="https://www.mozilla.org/privacy/">Mozilla's Privacy Policy</a>. Updates to Adblock Plus for Chrome are handled by the Google Web Store website and are subject to the <a href="https://www.google.com/policies/privacy/">Google Privacy Policy</a>. Updates to Adblock Plus for Opera are handled by the Opera Add-ons website and are subject to the <a href="http://www.opera.com/privacy#web">Opera Privacy Policy</a>. Updates to Adblock Plus for Safari are handled by the Safari Extensions website and are subject to the <a href="https://www.apple.com/privacy/privacy-policy/">Apple Privacy Policy</a>.</p>
 <h5 id="subscription-downloads">Subscription downloads</h5>
 <p>If you add filter subscriptions to your Adblock Plus installation, the subscription will be requested to regularly retrieve updates. Every update results in the hosting website receiving your IP address as well as some general information like your Adblock Plus version, browser and browser version.</p>
 <p>Furthermore, if a subscription download fails on several consecutive occasions, the updated address of the filter list is requested from the AdblockPlus.org domain. The data transmitted includes the Adblock Plus version, subscription address and any information about the error encountered. This data is used to identify issues that have not been reported by subscription maintainers and is subject to this <a href="https://adblockplus.org/privacy">Privacy Policy</a>.</p>
 <h5 id="issue-reporter">Issue Reporter</h5>
-<p>Adblock Plus allows you to send issue reports that will be temporarily stored on the AdblockPlus.org website. These reports contain information required to investigate the issue including the Adblock Plus version, browser version, address of the web page where the problem is visible, blockable items on the web page, matching filters, active subscriptions, type of issue report (i.e. false positive or false negative), and a screenshot of the issue (it is possible to remove particularly sensitive sections of the page before the report is sent). Parameter values are removed from all transmitted addresses to avoid unintentionally leaking private information.</p>
+<p>Adblock Plus allows you to send issue reports that will be temporarily stored on the AdblockPlus.org website. These reports contain information required to investigate the issue including the Adblock Plus version, browser version, browser build number, if any, URL of referred page, if any, URL of page that opened the given webpage, address of the webpage where the problem is visible, blockable items on the webpage, matching filters, active subscriptions, type of issue report (i.e. false positive or false negative), and a screenshot of the issue (it is possible to remove particularly sensitive sections of the page before the report is sent). Parameter values are removed from all transmitted addresses to avoid unintentionally leaking private information.</p>
 <p>You can  voluntarily:</p>
 <ul>
 <li>Provide your email address in order for us to request more information from you or to update you on the issue.</li>
 <li>Include an optional comment about the issue.</li>
+<li>Allow us to access the following browser settings:<ul>
+<li>Whether cookies are allowed for the given webpage</li>
+<li>Whether JavaScript is enabled on the given webpage</li>
+<li>Whether private mode is used for the given webpage</li>
+</ul>
+</li>
+<li>Allow us to access a list of your installed plug-ins, including:<ul>
+<li>File name</li>
+<li>Name of plug-in</li>
+</ul>
+</li>
+<li>Allow us to access a list of your enabled extensions, including:<ul>
+<li>ID</li>
+<li>Name</li>
+<li>Version</li>
+</ul>
+</li>
 </ul>
 <h5 id="access-reports">Access to the reports</h5>
 <p>The processed reports can only be accessed by an individual who knows their unique ID. These IDs are only shared with:</p>
@@ -475,18 +602,52 @@ Germany<br>
 <p>Adblock Plus contains an emergency notification mechanism that allows it to notify users about important issues affecting their Adblock Plus installation. This feature requires all Adblock Plus installations to query an address in the AdblockPlus.org domain regularly to retrieve the list of active notifications. This request makes your IP address visible to the website and also sends some general information like your Adblock Plus version, browser, browser version and the number of previous Adblock Plus downloads (the download number is limited to four, and will be displayed as 4+ after reaching this number). This data allows serving different notifications to different clients and is subject to this <a href="https://adblockplus.org/privacy">Privacy Policy</a>.</p>
 <h5 id="further-requests">Further requests</h5>
 <p>Adblock Plus may make further requests to AdblockPlus.org as required. For example, a documentation link is clicked or the full list of filter subscriptions needs to be downloaded. These requests are subject to this <a href="https://adblockplus.org/privacy">Privacy Policy</a>.</p>
+<h5>Uninstallation information</h5>
+<p>When uninstalling Adblock Plus for desktop, you will be referred to an uninstallation webpage where the following information is automatically collected: Language of your browser, extension name and version, browser type and version, operating system and version, number of notification downloads, information whether the local storage of the extension configuration is corrupted, and whether any filter subscriptions have been enabled or disabled at the time of uninstallation. On a voluntary basis, you can provide us with your reason why you have uninstalled Adblock Plus. We need this information to improve our products.</p>
 <h5 id="data-retention">Data retention</h5>
-<p>Data related to subscription downloads, extension update checks, emergency notifications, Issue Reporter data (as well as the full reports and their associated data) are automatically removed after 30 days. Only a subset of the data will be kept longer. This includes only the country code of users filing an issue (extracted from the IP address) for analytic purposes, which is stored separately from the full reports and cannot be connected to an individual after deletion of the full reports.</p>
+<p>Data related to subscription downloads, extension update checks, emergency notifications, Issue Reporter data (as well as the full reports and their associated data), and data in connection with uninstallations are automatically removed after 30 days. Only a subset of the data will be kept longer. This includes only the country code of users filing an issue (extracted from the IP address) for analytic purposes, which is stored separately from the full reports and cannot be connected to an individual after deletion of the full reports.</p>
 <p>Adblock Plus stores some data in <a href="http://support.mozilla.com/kb/Profiles">the Firefox profile</a> on your computer. Adblock Plus never transmits this data to any servers, but other extensions and services, such as <a href="https://mozilla.com/privacy-policy/">Firefox Sync</a>, may do so. Most of the data (your preferences, filter subscriptions and custom filters) is unobjectionable privacy-wise. However, filter hit statistics and recent issue reports could be used to reconstruct your browsing history. Adblock Plus treats this information identically to how history data is treated by the browser; this data isn't stored if you are using <a href="http://support.mozilla.com/kb/Private+Browsing">private browsing mode</a> and is removed if you choose to clear your browsing history.</p>
 <h4 id="adblock-browser-android">Adblock Browser for Android</h4>
-<p>Adblock Browser for Android is based on Mozilla's Firefox browser. Some data collection and processing in connection with Adblock Browser for Android are subject to <a href="https://www.mozilla.org/privacy/">Mozilla's Privacy Policy</a>. Please note that Adblock Browser automatically connects to Mozilla and its service providers to provide security, snippets and other features (<a href="https://www.mozilla.org/privacy/firefox/">Firefox's Privacy Notice</a>); and when you ask it to, Adblock Browser also connects to Mozilla to provide you with features such as location services (<a href="https://www.mozilla.org/privacy/firefox/">Firefox's Privacy Notice</a>).</p>
-<p>Deviating from the description in <a href="https://www.mozilla.org/privacy/firefox/">Firefox's Privacy Notice</a>, Firefox updates are provided under eyeo's control and some features, such as the Firefox Health Report, crash reporting and add-ons, are disabled.</p>
+<h5 id="adblock-browser-software">Browser software</h5>
+<p>Adblock Browser for Android is based on Chromium. Some data collection and processing in connection with Adblock Browser for Android are subject to <a href="https://policies.google.com/privacy">Google’s Privacy Policy</a> and the additional <a href="https://www.google.com/intl/en/chrome/privacy/">Google Chrome Privacy Notice</a>. Please note that Adblock Browser automatically connects to Chromium and its service providers to provide security, snippets and other features (<a href="https://www.google.com/intl/en/chrome/privacy/">Google Chrome Privacy Notice</a>); and when you ask it to, Adblock Browser also connects to Google to provide you with features such as location services (<a href="https://www.google.com/intl/en/chrome/privacy/">Google Chrome Privacy Notice</a>).</p>
+<p>Deviating from the description in <a href="https://www.google.com/intl/en/chrome/privacy/">Google Chrome's Privacy Notice</a>, Chromium updates are provided under eyeo's control and some features, such as Chrome’s usage statistics and crash reports, are disabled.</p>
+<h4 id="all-mobile-products">All mobile products and for Adblock Plus for Safari on macOS</h4>
+<h5 id="adblock-browser-crash-reporter">Crash reporter</h5>
+<p>In the event of an unexpected crash or error, our mobile products and Adblock Plus for Safari on macOS collect data relevant for analyzing the cause of the malfunction. The data is used solely for individual troubleshooting (as well as for identifying general defects which lead to unexpected crashes or errors) and is never shared with any third parties other than Fabric from Google, Inc., which we use for analyzing crash reports (crashlytics).</p>
+<h6>During a crash, the following data is sent:</h6>
+<ul>
+<li>UUID and crash traces in order to help a user associate crash data with specific instances of our mobile products and Adblock Plus for Safari on macOS</li>
+<li>Instance IDS</li>
+<li>Device type</li>
+<li>Application ID</li>
+<li>App and/or extension version</li>
+<li>Free space</li>
+<li>Free ram</li>
+<li>A timestamp of when a crash happened</li>
+</ul>
+<p>Said data is only collected when the application crashes or throws an error. You can opt-out from sending such reports via Settings &gt; Privacy.</p>
+<h6>Data retention</h6>
+<p>Crash reporting is retained for 180 days. Firebase retains Instance IDs until the Firebase customer makes an API call to delete the ID. After the call, data is removed from live and backup systems within 180 days.</p>
+<h5>Event tracking</h5>
+<p>We also track when you create an event, e.g. when you access the settings. In such a case, this event will be sent to our service provider, Firebase from Google, Inc. Firebase then makes the following data accessible to us:</p>
+<ul>
+<li>App and/or extension version</li>
+<li>Demographic data (gender, age)</li>
+<li>Device type</li>
+<li>Which platforms you are using (Android and its respective version)</li>
+<li>Location data based on your IP address (country)</li>
+<li>Button clicks and/or navigation patterns</li>
+<li>Screens shown</li>
+</ul>
+<p>This data is solely used to improve our mobile products and Adblock Plus for Safari on macOS and your user experience. You can opt-out from sending such reports via Settings &gt; Privacy.</p>
+<h6>Data retention</h6>
+<p>Event tracking with IDs is retained for 60 days. Aggregated reports may be retained for a longer period.</p>
 <h4 id="adblock-browser-ios">Adblock Browser for iOS</h4>
 <h5 id="crash-error-reporter">Crash and error reporter</h5>
-<p>In the event of an unexpected crash or error, Adblock Browser for iOS collects data relevant for analyzing the cause of the malfunction and transmits it to eyeo's <a href="https://www.hockeyapp.net/">HockeyApp</a> account. The data is solely used for individual troubleshooting (as well as for identifying general defects which lead to unexpected crashes or errors) and is never shared with any third parties other than HockeyApp.</p>
+<p>In the event of an unexpected crash or error, Adblock Browser collects data relevant for analyzing the cause of the malfunction and transmits it to eyeo's <a href="https://www.hockeyapp.net/">HockeyApp</a> account. The data is solely used for individual troubleshooting (as well as for identifying general defects which lead to unexpected crashes or errors) and is never shared with any third parties other than HockeyApp.</p>
 <h6 id="crash-data-sent">During a crash, the following data is sent:</h6>
 <ul>
-<li>Bundle identifier, bundle version and short bundle version string of Adblock Browser for iOS.</li>
+<li>Bundle identifier, bundle version and short bundle version string of Adblock Browser.</li>
 <li>Device type, CPU architecture and version of the operating system.</li>
 <li>Timestamp of when the crash happened.</li>
 <li>A generated UUID to prevent duplicate crash reports.</li>
@@ -495,13 +656,13 @@ Germany<br>
 </ul>
 <h6 id="error-data-sent">During an error, the following data is sent:</h6>
 <ul>
-<li>Bundle identifier, bundle version and short bundle version string of Adblock Browser for iOS.</li>
+<li>Bundle identifier, bundle version and short bundle version string of Adblock Browser.</li>
 <li>Device type, CPU architecture and version of the operating system.</li>
 <li>Timestamp of when the error happened.</li>
 <li>A generated UUID to separate error reports.</li>
 <li>A string / function name identifying the error.</li>
 </ul>
-<p>Said data is only collected when the application crashes or throws an error. Furthermore, Adblock Browser for iOS explicitly asks for permission to send the collected information after the crash or error happened.</p>
+<p>Said data is only collected when the application crashes or throws an error. Furthermore, Adblock Browser explicitly asks for permission to send the collected information after the crash or error happened.</p>
 <p>In order to learn more about HockeyApps's privacy policy, please consult their <a href="https://hockeyapp.net/terms">Terms of Service</a> as well as their <a href="https://support.hockeyapp.net/kb/app-management-2/what-data-is-collected-with-the-hockeysdks-2">crash report documentation</a> and <a href="https://support.hockeyapp.net/kb/app-management-2/what-data-is-collected-with-the-hockeysdks-2#data-collected-for-the-user-metrics-features">event report documentation</a>.</p>
 <h6 id="retention-crash-reports">Data retention:</h6>
 <p>All reports stored on our servers are removed after 30 days.</p>
@@ -512,9 +673,9 @@ Germany<br>
 <p>All requests to our Websites are recorded in the website logs. Data stored includes your IP address (solely for the purpose of IT security and only accessible by eyeo's IT Security team), the time at which the request was made, the web address accessed, the browser identifier and the referring page. This data (IP address only aggregated via hashing with a daily changing salt) is used to generate usage statistics as well as to investigate potential security issues and forum or blog spam. Detailed logs are retained for a period of 30 days, after which only the aggregated usage statistics that cannot be connected to a single user remain. Everything else is deleted.</p>
 <h6 id="retention-website-requests">Data retention</h6>
 <p>The request to our Websites, including your IP address, is stored when you create a forum post, submit a contact form, or add a blog comment. This allows administrators to effectively address spam content and security breaches. All stored requests are deleted after 30 days.</p>
-<h6 id="cookies">Settings cookies</h6>
-<p>We use cookies to recognize signed-in users or to store settings. Cookies are small files that are stored on your computer with the help of your internet browser. The settings cookies are not evaluated in any other manner and are never used to track Website visitors. If you do not want to enable cookies, you can opt against using them by selecting the appropriate settings on your browser. Please note that the efficiency and range of eyeo's services may be restricted as a result.</p>
-<h6 id="google-analytics">Google Analytics</h6>
+<h6 id="cookies">Necessary cookies</h6>
+<p>We use cookies to recognize signed-in users or to store your privacy preferences. Cookies are small files that are stored on your computer with the help of your internet browser. The cookies are necessary to provide you with our services, are not evaluated in any other manner, and are never used to track Website visitors. If you do not want to enable cookies, you can opt against using them by selecting the appropriate settings on your browser. Please note that the efficiency and range of eyeo's services may be restricted as a result.</p>
+<h6 id="google-analytics">For non-<abbr title="European Union">EU</abbr>/EEA users only: Google Analytics</h6>
 <p>We use Google Analytics, a web analytics service from Google Inc. ("Google"), on our Websites. Google Analytics uses so-called "cookies" (text files stored on your computer that enable us to analyze your use of our Websites). Information generated by the cookies (including your abbreviated IP address) is transmitted to and stored at a Google server in the United States. Google uses this information to assess your use of our Websites, to compile activity reports, and to provide more services connected with the use of our Websites. It is possible that Google may transmit this information to third parties if required by law, or if third parties process this information on behalf of Google.</p>
 <p><strong>You can deactivate Google Analytics if you do not want to help us improve our products.</strong> But please note that in this case, a cookie will be set that stores your deactivation choice. This cookie is considered a “necessary cookie” and can’t be deactivated.</p>
 <div class="dropup cookies-dropup">
@@ -574,9 +735,9 @@ Germany<br>
   </div>
 </div>
 
-<h6 id="google-tag-manager">Google Tag Manager</h6>
+<h6 id="google-tag-manager">For non-<abbr title="European Union">EU</abbr>/EEA users only: Google Tag Manager</h6>
 <p>Our Website uses Google Tag Manager for the implementation of <a href="#google-analytics">Google Analytics</a>. Google Tag Manager, provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google”), is a solution that allows marketed website tags to be managed using an interface. The Tag Manager tool itself (which implements the tags) is a cookie-less domain and does not register personal data. The tool causes other tags to be activated. These tags then may register data under certain deactivated domains or on a cookie level. This setting will remain in place for all tracking tags implemented with Google Tag Manager.</p>
-<h6 id="google-optimize">Google Optimize</h6>
+<h6 id="google-optimize">For non-<abbr title="European Union">EU</abbr>/EEA users only: Google Optimize</h6>
 <p>Our Website uses the web analysis and optimization service Google Optimize provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google”). We use the Google Optimize service to increase the attractiveness, content and functionality of our Website by playing new features and content to a percentage of our users and statistically evaluating the usage change (A/B testing). Google Optimize is a sub-service of <a href="#google-analytics">Google Analytics</a>.</p>
 <p>Google Optimize uses cookies, which enable us to optimize and analyze your use of our Website. The information generated by these cookies about your use of our Website is usually transferred to a Google server in the USA and stored there. We use Google Optimize with activated IP anonymization so that your IP address is shortened by Google within member states of the European Union, or within the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there. Google will use this information for the purpose of evaluating your use of our Website, compiling reports on optimization tests and related website activity and providing other services relating to website activity and internet usage.</p>
 <p><strong>You can deactivate Google Optimize if you do not want to help us improve our products.</strong> But please note that in this case, a cookie will be set that stores your deactivation choice. This cookie is considered a “necessary cookie” and can’t be deactivated.</p>
@@ -637,8 +798,8 @@ Germany<br>
   </div>
 </div>
 
-<h6 id="adblock-ai">At adblock.ai</h6>
-<p>On our website, adblock.ai, we automatically collect the following information:</p>
+<h6 id="adblock-ai">On adblock.ai</h6>
+<p>On our website adblock.ai, we automatically collect the following information.</p>
 <p id="facebook-messenger-integration"><strong>Facebook Messenger integration</strong></p>
 <p>We have embedded the Facebook Messenger functionality, owned by Facebook, Inc., into the adblock.ai website to enable you to submit screenshots to our bot (“Adblock AI”) via Messenger, without having to access the Facebook website. Please note that Messenger is hosted by Facebook. We have disabled the function that would otherwise send personal data to Facebook when you access our website; however, when you click on the button to help train Adblock AI with your screenshots (“START NOW”) you will activate Messenger. Only then will some personal data, including IP address, be transferred to Facebook. For more information, please review Facebook's <a href="https://facebook.com/privacy/explanation">Privacy Policy</a>. <strong>If you do not want to transfer data to Facebook, please do not click on the button to send information to Adblock AI through Facebook Messenger.</strong></p>
 <h5 id="voluntary-info">Information you give to us on a voluntary basis</h5>
@@ -655,10 +816,23 @@ Germany<br>
 <p>When you add a comment on the Adblock Plus <a href="https://adblockplus.org/blog/">blog</a>, you can optionally specify an email address. Unlike the other fields, the email address is never displayed to other visitors and is only used to notify the comment author about replies to their comments, if any.</p>
 <h6 id="email-collection">Email collection</h6>
 <p>Some of eyeo's Websites host product campaigns that rely on email collection. For example, you can request a link by email to install Adblock Browser on your mobile device. We do not use third parties to manage these campaigns. Instead, data that you submit is handled in-house (i.e. turned into an email or used to send the email). We will never share or sell your email address, or any other information collected, to any third parties.</p>
-<h6 id="retention-communications">Email collection</h6>
+<h6 id="retention-communications">Data retention</h6>
 <p>Data provided by you in connection with our blog and our forum will be retained for the same time as the comment and / or your account exists.</p>
 <p>In general, we do not store your email address unless it’s specifically required to execute the related campaign (i.e. email signups for a newsletter or signing up to get notified about a product launch). In cases where we do store your email address, we only store it for the length of time that is needed to execute the campaign (i.e. once you’ve been notified of the launch).</p>
-<p><time datetime="2019-03">March 2019</time></p>
+<h3 id="collection-and-processing-for-user-support">Collection and processing for user support</h3>
+<p>For user support, we use a customer relation management software from Zendesk, Inc. (find more information here) that allows for the integration of user support channels, like social media and email responses. In the event that you contact us for support via email and / or our social media channels, we collect the following data in order to help you to solve your issue sufficiently:</p>
+<ul>
+<li>User name (contact via social media) and / or email</li>
+<li>Device information</li>
+<li>Version of Adblock Plus and other applicable tech specifications</li>
+<li>URLs the user is having issues with</li>
+<li>Adblock Plus issues</li>
+<li>Address and transaction ID numbers for donation refunds (voluntary)</li>
+</ul>
+<p>All user support data is deleted one (1) year after closing the respective support case.</p>
+<p><time datetime="2019-11">December 2019</time></p>
+
+
       
     </div>
 
@@ -682,6 +856,7 @@ Germany<br>
           
             <li><a href="/en/faq-privacy" hreflang="en">Privacy FAQ</a></li>
           
+          <li><a href="https://help.eyeo.com/en/adblockplus/how-to-write-filters" target="_blank" hreflang="en">Writing Adblock Plus filters</a></li>
         </ul>
       </nav>
       <nav class="column one-fourth">
@@ -716,27 +891,27 @@ Germany<br>
         <ul>
           <li>
             <a href="https://twitter.com/AdblockPlus" title="Follow Adblock Plus on Twitter" target="_blank">
-              <img src="/img/footer-twitter-glyphicon.png?359555952" alt="Twitter glyphicon">
+              <img src="/img/footer-twitter-glyphicon.png?2988763119" alt="Twitter glyphicon">
             </a>
           </li>
           <li>
             <a href="https://www.youtube.com/user/AdblockPlusOfficial" title="Subscribe to Adblock Plus on YouTube" target="_blank">
-              <img src="/img/footer-youtube-glyphicon.png?359555952" alt="YouTube glyphicon">
+              <img src="/img/footer-youtube-glyphicon.png?2988763119" alt="YouTube glyphicon">
             </a>
           </li>
           <li>
             <a href="https://www.facebook.com/adblockplus" title="Follow Adblock Plus on Facebook" target="_blank">
-              <img src="/img/footer-facebook-glyphicon.png?359555952" alt="Facebook glyphicon">
+              <img src="/img/footer-facebook-glyphicon.png?2988763119" alt="Facebook glyphicon">
             </a>
           </li>
           <li>
             <a href="https://www.instagram.com/adblockplus/" title="Follow Adblock Plus on Instagram" target="_blank">
-              <img src="/img/footer-instagram-glyphicon.png?359555952" alt="Instagram glyphicon">
+              <img src="/img/footer-instagram-glyphicon.png?2988763119" alt="Instagram glyphicon">
             </a>
           </li>
           <li>
             <a href="https://vk.com/adblockplusofficial" title="Follow Adblock Plus on VK" target="_blank">
-              <img src="/img/footer-vk-glyphicon.png?359555952" alt="VK glyphicon">
+              <img src="/img/footer-vk-glyphicon.png?2988763119" alt="VK glyphicon">
             </a>
           </li>
         </ul>
@@ -765,7 +940,7 @@ Germany<br>
 
       <div class="column two-thirds">
         <p class="cookiebar-text">
-          <img height="42px" alt="Cookie notice" src="/img/cookie-icon.png?359555952" srcset="/img/cookie-icon.svg 2x">
+          <img height="42px" alt="Cookie notice" src="/img/cookie-icon.png?2988763119" srcset="/img/cookie-icon.svg 2x">
           <span>
             We use some cookies to give you the best experience on our website. By using our site you are aware that we are using cookies and you can change this any time. <a href="/en/cookie-information" hreflang="en">Learn more</a>
           </span>
@@ -782,7 +957,7 @@ Germany<br>
           <li class="dropup cookies-dropup">
             <button type="button" class="cookies-settings button" title="Edit cookie settings">
               Settings &nbsp;
-              <img alt="Settings icon" src="/img/settings-icon.png?359555952" srcset="/img/settings-icon.svg 2x">
+              <img alt="Settings icon" src="/img/settings-icon.png?2988763119" srcset="/img/settings-icon.svg 2x">
             </button>
             <div class="cookies-dropup-menu text-start" tabindex="1">
                <div class="cookies-settings-form">
@@ -852,7 +1027,7 @@ Germany<br>
       </legend>
 
       <button type="button" class="cookies-close" title="Dismiss cookie notification">
-        <img alt="Close icon" src="/img/close-icon.png?359555952" srcset="/img/close-icon.svg 2x">
+        <img alt="Close icon" src="/img/close-icon.png?2988763119" srcset="/img/close-icon.svg 2x">
       </button>
     </div>
 
@@ -886,7 +1061,7 @@ Germany<br>
       </h4>
 
       <button type="button" class="cookies-close" title="Dismiss cookie notification">
-        <img alt="Close icon" src="/img/close-icon.png?359555952" srcset="/img/close-icon.svg 2x">
+        <img alt="Close icon" src="/img/close-icon.png?2988763119" srcset="/img/close-icon.svg 2x">
       </button>
 
     </div>
@@ -952,11 +1127,7 @@ Germany<br>
 </form>
 
     
-  <script src="/js/main.js?69447314"></script>
-
-
-
-  <script src="/js/cookie-prompt.js?69447314"></script>
+  <script src="/js/main.js?2232464690"></script>
 
   
 </body></html>
