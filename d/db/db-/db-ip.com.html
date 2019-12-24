@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the db-ip.com privacy policy that was archived on 2019-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190324011326id_/https%3A//db-ip.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the db-ip.com privacy policy that was archived on 2019-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191224193612id_/https%3A//db-ip.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
 <title>IP Geolocation API &amp; Address Database Customer Privacy Policy</title>
 <meta name="description" content="Here at DB-IP, we respect our customers' privacy whenever they make a purchase. Here you can view our complete privacy policy, which describes how we collect, use, and share any personal information provided to us, including data collected through cookies, log files, web beacons, tags, and pixels.">
 <meta name="viewport" content="width=device-width, user-scalable=no">
-<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel="stylesheet" href="/css/main.css">
 <link rel="search" href="https://db-ip.com/search.xml" type="application/opensearchdescription+xml" title="DB-IP">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -26,7 +26,7 @@
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		  })();
 		</script>
-<script src="https://app.clickx.io/clickx-tracker.js?time=1580362386816" async=""></script></head>
+</head>
 <body>
 <div id="pagetop"></div>
 <!--[if lt IE 7]>
@@ -43,13 +43,13 @@
 <li class="nav-item"><a class="nav-link" href="/api/">API</a></li><li class="nav-item"><a class="nav-link" href="/api/doc.php">Developers</a></li><li class="nav-item"><a class="nav-link" href="/api/pricing/">Pricing</a></li><li class="nav-item"><a class="nav-link" href="/db/">Database</a></li><li class="nav-item"><a class="nav-link" href="/tools/">Tools</a></li><li class="nav-item"><a class="nav-link" href="/about/">Statistics</a></li><li class="nav-item"><a class="nav-link" href="/faq.php">FAQ</a></li> </ul>
 <form method="POST" class="form-inline my-2 my-lg-0" role="search">
 <div class="input-group">
-<input id="search_input" type="text" name="address" class="form-control" value="207.241.229.222" required="required" placeholder="Lookup IP address" data-placement="bottom" title="" data-content="Explore our API information by entering any IPv4 or IPv6 address in the search bar above." data-trigger="hover" data-original-title="Lookup IP address">
-<span class="input-group-btn">
+<input id="search_input" type="text" name="address" class="form-control" value="207.241.232.186" required="required" placeholder="Lookup IP address" data-placement="bottom" title="Lookup IP address" data-content="Explore our API information by entering any IPv4 or IPv6 address in the search bar above." data-trigger="hover">
+<div class="input-group-append">
 <button type="submit" class="btn btn-outline-secondary">
 <i class="fa fa-search" aria-hidden="true"></i>
 <span class="sr-only">Search</span>
 </button>
-</span>
+</div>
 </div>
 </form>
 <span class="navbar-text ml-3 d-none d-lg-inline-block"><a href="/account/" class="text-secondary h4" title="Customer sign-in"><i class="fa fa-user-circle"></i></a></span>
@@ -108,7 +108,7 @@ France
 <footer class="pt-4 container">
 <div class="row">
 <div class="col text-center">
-<img class="" data-src="/img/dbip-logo.png" style="height:8em; opacity:0.5" alt="IP Geolocation API and Databases" src="/img/dbip-logo.png">
+<img class="lazy" data-src="/img/dbip-logo.png" style="height:8em; opacity:0.5" alt="IP Geolocation API and Databases">
 </div>
 <div class="col">
 <h6>Company</h6>
@@ -143,12 +143,11 @@ France
 </div></div>
 </div>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.3.min.js"><\/script>')</script><script src="/js/vendor/jquery-1.11.3.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.3.1/js/tether.min.js"></script>
-<script src="/js/vendor/bootstrap.bundle.min.js"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integritity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script>
 		$(function() {
 			// search bar popover
@@ -194,10 +193,112 @@ France
 				});
 			}
 		});
+		(function( w ){
+			"use strict";
+			// rel=preload support test
+			if( !w.loadCSS ){
+				w.loadCSS = function(){};
+			}
+			// define on the loadCSS obj
+			var rp = loadCSS.relpreload = {};
+			// rel=preload feature support test
+			// runs once and returns a function for compat purposes
+			rp.support = (function(){
+				var ret;
+				try {
+					ret = w.document.createElement( "link" ).relList.supports( "preload" );
+				} catch (e) {
+					ret = false;
+				}
+				return function(){
+					return ret;
+				};
+			})();
+
+			// if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+			// then change that media back to its intended value on load
+			rp.bindMediaToggle = function( link ){
+				// remember existing media attr for ultimate state, or default to 'all'
+				var finalMedia = link.media || "all";
+
+				function enableStylesheet(){
+					// unbind listeners
+					if( link.addEventListener ){
+						link.removeEventListener( "load", enableStylesheet );
+					} else if( link.attachEvent ){
+						link.detachEvent( "onload", enableStylesheet );
+					}
+					link.setAttribute( "onload", null );
+					link.media = finalMedia;
+				}
+
+				// bind load handlers to enable media
+				if( link.addEventListener ){
+					link.addEventListener( "load", enableStylesheet );
+				} else if( link.attachEvent ){
+					link.attachEvent( "onload", enableStylesheet );
+				}
+
+				// Set rel and non-applicable media type to start an async request
+				// note: timeout allows this to happen async to let rendering continue in IE
+				setTimeout(function(){
+					link.rel = "stylesheet";
+					link.media = "only x";
+				});
+				// also enable media after 3 seconds,
+				// which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+				setTimeout( enableStylesheet, 3000 );
+			};
+
+			// loop through link elements in DOM
+			rp.poly = function(){
+				// double check this to prevent external calls from running
+				if( rp.support() ){
+					return;
+				}
+				var links = w.document.getElementsByTagName( "link" );
+				for( var i = 0; i < links.length; i++ ){
+					var link = links[ i ];
+					// qualify links to those with rel=preload and as=style attrs
+					if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+						// prevent rerunning on link
+						link.setAttribute( "data-loadcss", true );
+						// bind listeners to toggle media back
+						rp.bindMediaToggle( link );
+					}
+				}
+			};
+
+			// if unsupported, run the polyfill
+			if( !rp.support() ){
+				// run once at least
+				rp.poly();
+
+				// rerun poly on an interval until onload
+				var run = w.setInterval( rp.poly, 500 );
+				if( w.addEventListener ){
+					w.addEventListener( "load", function(){
+						rp.poly();
+						w.clearInterval( run );
+					} );
+				} else if( w.attachEvent ){
+					w.attachEvent( "onload", function(){
+						rp.poly();
+						w.clearInterval( run );
+					} );
+				}
+			}
+
+
+			// commonjs
+			if( typeof exports !== "undefined" ){
+				exports.loadCSS = loadCSS;
+			}
+			else {
+				w.loadCSS = loadCSS;
+			}
+		}( typeof global !== "undefined" ? global : this ) );
 		</script>
-
-<script type="text/javascript">!function(e,n,o,t){var r=n.createElement(o);r.src=t+"?time="+(new Date).getTime(),r.async=!0,r.onload=function(){ClickxTracker.init({twId:"kgfi98umqAM", apiUrl:"https://app.clickx.io"})},r.onerror=function(){console.log("Error")},n.getElementsByTagName("head")[0].appendChild(r)}(window,document,"script","https://app.clickx.io/clickx-tracker.js");</script><noscript><p><img src="https://app.clickx.io/tracker.gif?twId=kgfi98umqAM&noscript=true" style="border:0;" alt="" /></p></noscript>
-
 
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=six0r"></script>
