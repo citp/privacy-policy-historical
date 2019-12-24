@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the videogamesblogger.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205001359id_/https%3A//www.videogamesblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamesblogger.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224044022id_/https%3A//www.videogamesblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## [Privacy Policy](https://www.videogamesblogger.com/privacy-policy)
 
 The terms ‘VideoGamesBlogger.com’ and ‘www.VideoGamesBlogger.com’ are used in this document (or Agreement) to refer to the Web site itself.
 
