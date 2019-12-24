@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the axs.com.sg privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909233041id_/http%3A//axs.com.sg/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axs.com.sg privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224180039id_/http%3A//axs.com.sg/privacyPolicy.php) for the most accurate reproduction.*
 
 # AXS Consumer
 
 Privacy Policy   
 
 
-Last modified: 5 June 2013 
+Last modified: 1 September 2019 
 
 AXS Pte Ltd ("AXS") is a solution provider and operator of an Electronic Service Delivery Network ("ESDN"). AXS operates the AXS network ("AXS Network"), comprising of the AXS mobile application ("AXS Mobile Application"), the AXS website at (the "AXS Website") and the AXS physical self-service kiosks (the "AXS Stations"). 
 
@@ -34,14 +34,14 @@ If you have any queries, please contact our Data Privacy Officer at dpo@axs.com.
   * Cookies that may uniquely identify your browser.
 
   
-1.4 We collect personal information when you register an account with AXS Plus such as: 
+1.4 We collect personal information when you register an account with AXS such as: 
 
   * Name;
-  * Contact number; and
-  * Identification number.
+  * Email Address;
+  * Contact number
 
   
-1.5 We collect personal information that you provide to us when you contact AXS for recruitment and related purposes. Such personal information are collected, used, and disclosed by AXS in accordance with AXS Personal Data Protection Policy for Job Applicants, a copy of which is published at [here](https://web.archive.org/web/20170909233041id_/http%3A//axs.com.sg/jobPrivacyPolicy.php). 
+1.5 We collect personal information that you provide to us when you contact AXS for recruitment and related purposes. Such personal information are collected, used, and disclosed by AXS in accordance with AXS Personal Data Protection Policy for Job Applicants, a copy of which is published at [here](https://web.archive.org/web/20191224180039id_/http%3A//axs.com.sg/jobPrivacyPolicy.php). 
 
 1.6 If you choose not to provide the above mentioned personal information, you are still allowed to generally access the AXS Network and access and use the services and content available on the AXS Network. 
 
@@ -70,7 +70,7 @@ If you have any queries, please contact our Data Privacy Officer at dpo@axs.com.
 
 3.1 Our Data Privacy Officer is responsible for ensuring that requests for access to information and correction of information are properly dealt with in accordance with the procedures described here. 
 
-3.2 All requests for information or requests for the correction of information held by AXS shall be made by completing AXS's standard Request For Information / Correction Form (PDF available [here](https://web.archive.org/web/20170909233041id_/http%3A//axs.com.sg/documents/AXSRequestForm.pdf) ), and sending a copy of the duly completed form to AXS via email at: dpo@axs.com.sg, or post or fax at: 
+3.2 All requests for information or requests for the correction of information held by AXS shall be made by completing AXS's standard Request For Information / Correction Form (PDF available [here](https://web.archive.org/web/20191224180039id_/http%3A//axs.com.sg/documents/AXSRequestForm.pdf) ), and sending a copy of the duly completed form to AXS via email at: dpo@axs.com.sg, or post or fax at: 
 
 AXS Pte Ltd   
 61 Mohamed Sultan Road  
@@ -104,7 +104,7 @@ Fax: 6636 4550 Telephone: 6389 7979
   * Do not share your account information with anyone.
   * Do not display your account information in a manner that is visible to others and your PC should never be left unattended. For your protection, the web application will automatically terminate your session if there is no activity for a period of time.
   * Always use the recommended browser. All browsers and application software should be upgraded to support SSL 256-bit encryption.
-  * Always check that the website address changes from http:// to https:// and a security icon, usually in the form of a lock or key, appears when authentication and encryption is expected.
+  * Always check that the website address changes from https:// to https:// and a security icon, usually in the form of a lock or key, appears when authentication and encryption is expected.
 
   
 5\. MISCELLANEOUS
