@@ -1,82 +1,186 @@
-> *The following text is extracted and transformed from the alot.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508081037id_/http%3A//alot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alot.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224043112id_/https%3A//alot.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Thank you for visiting Alot. Alot is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. Our site may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. Alot strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. 
+**Privacy Policy**
 
-### How We Gather Information and Technologies We Use
+Inuvo®, Inc. and its subsidiaries (“Inuvo” or “we”) takes consumer privacy seriously. We are committed to following industry standards, best practices and guidelines relating to the use of consumer information and privacy.
 
-At Alot you can visit many pages on our site without physically taking any steps to provide information. Like most Web sites, we do collect information automatically and through the use of electronic tools that may be transparent to our visitors. This section provides information about the information we collect and how the technologies we utilize work.
+This privacy policy is intended to inform consumers about the way we use and protect the information we collect about customers and users. Information is collected by us through our website www.inuvo.com, through other Inuvo owned and operated websites (and all websites and URLs controlled or operated by Inuvo or our subsidiaries that link to this policy), and across our various Advertising Technology Platforms.  This privacy policy is intended for both website publisher customers (“Publishers”), advertising customers (“Advertisers”) and individual users of our websites and apps.  For Publishers, this privacy policy explains how we may collect, use and disclose information associated with your company and with your company’s websites and apps that use our Advertising Technology Platforms.  For Advertisers, this privacy policy explains how we may collect, use and disclose information associated with your company and its advertisements for use on our websites and/ or our Publisher network.  For individual website and app users, this privacy policy explains how we may collect, use and disclose information when you visit our website(s) or when you use any website or app that uses our Advertising Technology Platforms.
 
-**__Information we gather using technology__** _ ** _._**_
+Our Advertising Technology Platforms include our VMP, which enables Publishers, Advertisers, and ad networks to buy and sell digital and mobile advertising inventory.  We also operate ValidClick and SearchLinks, Advertising Technology Platforms where we act as a service provider to enable our Publisher’s to monetize search based Internet traffic with our Advertisers.  Publishers may also have their own policies that govern how they collect, use and share data.  These policies may differ from our policies described in this privacy policy.
 
-  * **Cookies.  **We use "cookies." The cookies we place on your computer are very small text files that uniquely identify your browser and may be sent to your computer or mobile device. They are stored on your hard drive and communicate with our servers only when you are visiting our websites. We use cookies to improve the quality of Alot.  They allow us to monitor aggregate metrics such as total number of visitors and number of pages viewed. They also allow us to optimize Alot to make sure that we are delivering the best possible experience to our users.  Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser’s settings. Note that blocking cookies may result in some features not being able to function properly.  To learn more about controlling browser cookies visit: <http://www.aboutcookies.org/Default.aspx?page=1>.
+**INFORMATION COLLECTION AND USE**
 
-Additionally, we allow third parties that display advertisements, search listings, and other content on portions of Alot to set and access their cookies on your computer or device and any cookies are subject to the applicable third parties privacy policies and not ours. These companies’ may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to Alot and other unaffiliated Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We also partner with a limited number of interest-based advertising companies to serve ads and/or collect certain information when you visit our websites. Interest-based advertising companies may use cookies to collect non-personally identifiable information during your visit to our websites in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this 'interest-based advertising' practice or to opt-out of this use of your anonymous information, you can go to the National Advertising Initiative's website at <http://www.networkadvertising.org/managing/opt_out.asp>.
+We collect information when you choose to share it with us on our websites, such as signing up for newsletters or opting in to receive information from us. For example, you may choose to send us information about yourself in an email or by completing an online form on one of our websites or to utilize our services as a Publisher or an Advertiser. We use this information to contact you to respond to an inquiry, and in some instances, certain parts of our websites require requested information for you to participate in programs and services. We also collect information when you sign up as an Account Holder. Account Holders include both Advertisers and Publishers who have been qualified and approved for access to an Inuvo Advertising Technology Platform. Account Holder information collected includes information necessary to conduct business including, but not limited to, account holder name, phone number, email address, and/or tax ID number. Payments made to and/or from Inuvo require the provision of and specified collection of additional information which may include, but is not limited to, bank account information and credit card numbers. Phone, facsimile, email and/or cell numbers may be used to contact Account Holders as needed.
 
-  * **Device Information.  **We collect information regarding the Internet browser, computer, tablet, mobile phone, smartphone or other device utilized to access Alot to ensure that Alot is optimized for those devices.
-  * **Internet Protocol Addresses.  **Internet browsers automatically transmit information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version of your computer. This information is utilized to optimize Alot.
-  * **Location Information.  **On some of our mobile applications we may (or may enable a third party to) request your geolocation information.  If allowed, we (or the third party) may use this information to supply you with location specific advertisements, offers and functionality.  Additionally, we may (or may enable a third party to) capture geolocation information (such as IP address data) when you access Alot, and may use that geo-location information to targets ads, offers and functionality.
-  * **Analytics.  **We use third party information, reports and analysis about the usage and browsing patterns of users of Alot.  We allow the third party analytics companies to include web beacons and cookies on Alot. The collected information includes search terms, search parameters, click-throughs by users, and other similar information. We utilize this information to improve Alot and make sure we are delivering relevant content to our users. The Analytics we use do not identify individual users of Alot.
-  * **Log Files.  **We may also automatically log certain anonymous information about visitors to Alot, including, but not limited to, where the user came from to visit our site, IP address, search terms utilized, browser type and a reading history of the pages viewed.
-  * **Web Beacons.  **We (or our third party partners) may use web beacons.  Web beacons communicate information from your Internet browser to a web server. We (or our third party partners) use web beacons for a variety of purposes, including to analyze the use of Alot and in conjunction with cookies to provide content and ads that are more relevant to you.
-  * **Other.  **As new technologies develop we may implement and/or test them on Alot.  We only utilize technologies as permitted by law.?
+All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes. Account Holders may change, update or add additional information about themselves by contacting their account representative.
 
+We also collect additional information via our websites and our various Advertising Technology Platforms, such as the following:
 
-
-**__Information we gather because you gave it to us.__**
-
-**In order for us to provide some of our services we collect information, including personally identifiable information, when you:**
-
-  * **Register _.   If you register for our forums or other services we ask you to provide information which may include items such as name, address, birthdate, gender, and password._**
-  * **_Sign up for Newsletters_** **.   We offer newsletters to our users and from time to time we allow third party partners to include advertising materials in the newsletters.  Additionally, we may send dedicated newsletters on behalf of our third party partners.  All of our newsletters contain a readily identifiable and simple means to opt out of receiving them in the future.**
-  * **Post in Comments, Discussion Forums, Reviews and Similar Places.   Our services include public facing comments, discussion forums, reviews and other similar places where you can submit items to be posted which will be visible to the public at large.  All information posted in such manner may be used by us for commercial uses in any format.  All information submitted is not confidential or private and it may be collected and utilized by unaffiliated third parties.  You are solely responsible for the information you choose to disclose in your public activities.**
-  * **Participate in Giveaways, Sweepstakes and Other Promotions.   We sponsor giveaways, sweepstakes and other promotions.  If you chose to participate in our giveaways, sweepstakes or promotions, your personally identifiable information may be collected, including your name and e-mail address.**
+  * _Cookies_. We use “cookies.”  The cookies we place on your computer are very small text files that uniquely identify your browser and may be sent to your computer or mobile device.  They are stored on your hard drive and communicate to our servers only when you are visiting our websites or a Publisher website utilizing one of our Advertising Technology Platforms.  You are always free to decline cookies. You can configure your browser to accept all cookies, reject all cookies, erase cookies or notify you when a cookie is set. For more information about cookies and web beacons, visit http://www.allaboutcookies.org/cookies/.
+  * _Device Information_. We collect information regarding the Internet browser, computer, tablet, mobile phone, smartphone or other device utilized to access our websites or Advertising Technology Platforms.
+  * _Internet Protocol Addresses_. Internet browsers automatically transmit information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version of your computer.
+  * _Location Information_. On some of our mobile applications we may (or may enable a third party to) request your geolocation information.  If allowed, we (or the third party) may use this information to supply you with location specific advertisements, offers and functionality.  Additionally, we may (or may enable a third party to) capture geolocation information (such as IP address data) when you access our websites or via our Advertising Technology Platforms, and may use that geo-location information to targets ads, offers and functionality.
+  * _Analytics_. We use third party information, reports and analysis about the usage and browsing patterns of Internet users.  We allow the third party analytics companies to include web beacons and cookies on certain of our websites and in some of our Advertising Technology Platforms. The collected information includes search terms, search parameters, click-throughs by users, and other similar information.
+  * _Log Files_. We may also automatically log certain anonymous information about visitors to our websites, including, but not limited to, where the user came from to visit our site, IP address, search terms utilized, browser type and a reading history of the pages viewed.
+  * _Web Beacons_. We (or our third party partners) may use web beacons.  Web beacons communicate information from your Internet browser to a web server.
+  * _Other_. As new technologies develop we may implement and/or test them on our websites or in our Advertising Technology.  We only utilize technologies as permitted by law.
 
 
 
-**What we do with the information we collect**
+We use information we collect via our websites for five basic purposes. The first is to improve and customize the content and advertisements on our websites, this includes items such as ensuring our sites and content are viewable and in the appropriate language.  The second is to “frequency cap” ad campaigns that we administer. Frequency capping controls the number of times you are exposed to an ad, which results in a better experience for you and the advertiser. The third is to serve appropriate promotions from advertisers if you have expressed an implied interest by visiting that advertiser’s site (known as “retargeting”). The fourth way is for Interest-Based Advertising (IBA), which uses consumer data to infer intent. We retain this data for 60 days, after which the data is aggregated and maintained for an additional two years solely for reporting purposes. The fifth way is for business purposes, such as data analysis, audits, record keeping, and contractual compliance.  While we also use information in a limited fashion for the administration and operation of our websites, it is used primarily to improve the overall quality of experience with the information we provide on our websites.
 
-We will use your information only as permitted by law.  We use the information we collect to: optimize Alot, including ensuring that the site is accessible to your device; ensure the site is available in the appropriate language; customize the advertising and content available to you; improve our product offerings and services; optimize our marketing campaigns; conduct research; supply our third party partners with aggregate and/or anonymous information to help them enhance their own products, data, or analytics; and provide anonymous reporting for internal and external clients.  We also utilize the information we collect to deliver the services you request, such as delivering newsletters, enabling participation in forums, comments, discussions, sweepstakes, and similar matters.
+**PUBLIC FORUMS**
 
-As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.
+Some of our websites make chat rooms, polls, surveys, forums, message boards, blogs commentary and/or news groups available to users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your information through these channels.
 
-### Affiliated sites, linked sites and advertisements
+**THIRD-PARTY WEBSITES AND ADVERTISEMENTS**
 
-Alot expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on Alot page, certain content that is actually created or hosted by a third party. Also, through Alot you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Alot is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+Our websites may contain links to other websites, including Advertiser offers. Third parties may perform functions on our behalf, such as fulfilling orders, providing promotional materials to our users, sending email, managing data, processing credit card payments or providing customer service. They have access to your personal information only to the extent necessary to perform their functions and may not use it for any other purpose.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Alot does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
+Such websites may use cookies and/or other data collection tools. We are not responsible for the privacy practices, policies or content of such other websites. We encourage everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. We have no control over the use of information by third-party websites, and you should exercise caution when deciding to disclose any information to those websites.
 
-Alot sites use Inuvo, Inc. and third-party advertising companies to serve or deliver ads when you visit our websites. These companies may use non-personal information related to your visit in an effort to provide advertisements that may be of interest to you. To learn more about third-party advertising, interest based advertising, or to opt-out of such advertising, you can visit both the Network Advertising Initiative and the Digital Advertising Alliance. If you would like to opt-out of Inuvo Interest Based Advertising, please click on this [link](https://www.netseer.com/netseer-inimage-ads/) and click on the “Opt out” button at the bottom of the page in the footer. Upon clicking “Opt out,” Inuvo will place an opt-out cookie on your browser. The opt-out cookie means you will not be retargeted by ads served through Inuvo’s Advertising Technology Platform. If you delete, block or otherwise restrict cookies, or if you use a different computer, mobile device or Internet browser, you may need to renew this opt-out choice. However, if you do choose to opt-in, Inuvo will delete the opt-out cookie and you may again be retargeted with relevant advertisement based on your visits to websites of our advertising clients.
+Sometimes we use third-party advertising companies to serve ads when you visit our websites. These companies may use information about your visits to our and other websites in an effort to provide advertisements about goods and services that may be of interest to you. To learn more about third-party advertising, interest based advertising, or to opt-out of such advertising, you can visit both the  _[Network Advertising Initiative](http://www.networkadvertising.org/)_  and the  _[Digital Advertising Alliance](http://www.aboutads.info/)_.
 
-In addition to the above, we have implemented at Alot certain "Google Analytics" features that support display advertising, including re-targeting. Visitors to Alot may opt out of Google Analytics, customize the Google Display Network ads by using the [Google Ad Preferences Manager](https://www.google.com/settings/u/0/ads/) and learn more about how Google serves ads by viewing its [Customer Ads Help Center](https://support.google.com/ads/?hl=en). If you do not wish to participate in Google Analytics, you may also download the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+In addition to the above, on some of our websites we have implemented certain “Google Analytics” features that support display advertising, including re-targeting. Visitors to these websites may opt out of Google Analytics, customize the Google Display Network ads by using the  _[Google Ad Preferences Manager](https://www.google.com/settings/u/0/ads/)_  and learn more about how Google serves ads by viewing its  _[Customer Ads Help Center](https://support.google.com/ads/?hl=en)_. If you do not wish to participate in Google Analytics, you may also download the  _[Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/)_.
 
-### Communication with Contributors
+**INFORMATION SHARING**
 
-Alot Contributors provide content to Alot.  Contributors are independent contractors and not employees of Alot.  If you contact a Contributor via e-mail or otherwise then that communication is independent of Alot and is not governed by this Privacy Policy. Alot is not responsible for the actions of our Contributors or how they may use information you have provided to them. Any communications with a Contributor are not confidential or subject to any other privilege.
+We share your information as follows:
 
-### Minors
+__Service Providers__
 
-Alot does not knowingly solicit or collect information from visitors under thirteen (13) years of age. Alot encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+We engage third party companies and individuals to perform services on our behalf (e.g., software maintenance services, advertising serving technologies, e-mail service providers, delivery services, database management, web analytics, payment processing and other services). These third parties have access to your information so that they may perform these tasks on our behalf and they are prohibited by us from using or disclosing your information for any purpose other than to provide this assistance, except to the extent required by law. We may permit our service providers to use aggregate information which does not identify you or de-identified data for other purposes.
 
-If you are between the ages of 13 and 18, please be sure to read this Privacy Policy with your parent and get his or her permission before you participate in our service.
+__Affiliates__
 
-### Compliance with legal process
+We share your information with our affiliates for internal business purposes, including for customer support, marketing, and technical operations.
 
-We may disclose information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our websites; or (4) protect the personal safety or property of our users or the public.
+__Third Parties__
 
-### Changes in Privacy Policy
+We may share your information with third parties in connection with tailoring advertisements, measuring and improving our service offerings and advertising effectiveness, and enabling other enhancements.
 
-Alot reserves the right to change or update this Privacy Policy at any time by posting a notice at the Site explaining that we are changing our Privacy Policy.
+__Compliance with Laws, Legal Process and Authorities__
 
-### Users from outside the United States
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We must disclose your information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose information to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of us or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable. We may also disclose information to protect the rights, property, life, health, security and safety of us, the Service or any third party.
 
-**Information from Users Outside of the United States**
+__Business Transfers__
 
-Visitors to Alot from outside the United States will have their data transferred to and stored in our servers in the U.S. By using Alot, international users are consenting to our use and collection of their data as described herein.
+Circumstances may arise where, whether for strategic or other business reasons, we may sell, transfer or otherwise disclose some or all of our assets, including your information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-### Contacting the site
+__Consent and Disclosure__
 
-We listen to or read, as applicable, every message sent to us and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy or the practices of Alot, please feel free to contact us at [info@alot.com](mailto:info@alot.com).
+We may share your information for purposes disclosed to you and with your consent.
 
-Last updated: November 16, 2017
+Without limiting the foregoing, in our sole discretion, we may share information which does not identify you or de-identified information about you with third parties or affiliates for any purpose except as prohibited by applicable law. For information on your rights and choices regarding how we share your information, please see the section entitled “Your Rights and Choices” below.
+
+**INFORMATION SECURITY AND STORAGE**
+
+All information collected via information request forms or contact us emails is only used to respond to that inquiry. Once collected, we will store your information for a reasonable time for record-keeping purposes and promotional marketing efforts.
+
+All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes.
+
+We retain  information for use to more effectively match advertisements and website content to your interests for up to 60 days from the users last interaction with our Advertising Technology Platform(s) and for data analysis, audits, record keeping, and contractual compliance purposes for up to two years.  This data includes, but is not limited to, IP address, content viewed, ad interaction, interaction with other advertiser websites, browser type, Internet Service Provider, the time/date of the visit to our websites, the computer’s operating system (e.g., Windows XP), search terms used and other click and browsing behavior.
+
+**SECURITY**
+
+We use industry standard practices to safeguard the confidentiality of information and treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.
+
+**COMPLIANCE WITH THE NETWORK ADVERTISING INITIATIVE**
+
+Inuvo recognizes and complies with the self-regulatory policies of the Network Advertising Initiative (NAI) and is a member of the Network Advertising Initiative (NAI) – a coalition of more than 90 leading online advertising companies championing the responsible and transparent use of information for Interest-Based Advertising. Since 2000, the NAI has been working with the leaders in online advertising to build consumer awareness and to reinforce responsible business and data management practices and standards. Inuvo will sometimes use third-party data providers to complement its product offerings, and some of these companies are also fellow members of the NAI. For more information on the NAI, or to opt out of behavioral targeting delivered by NAI member companies, please visit  _[www.networkadvertising.org](http://www.networkadvertising.org/)_.
+
+Inuvo does not engage in retargeting campaigns that market prescription drugs. However, Inuvo may offer retargeting services for consumer health products that do not require a prescription. Examples of where retargeting might be offered include certain health categories such as fitness equipment, calorie counters, etc.
+
+**__TRUSTe__**
+
+Inuvo is a licensee of the TRUSTe Ads Program. TRUSTe is an independent organization with the mission to build a user’s trust and confidence in the Internet by promoting the use of fair information practices.
+
+If you have any questions or concerns regarding this statement, you should first contact Inuvo using the contact information provided at the bottom of this page. If you do not receive acknowledgment of your inquiry or your inquiry has not been addressed to your satisfaction, please contact TRUSTe by visiting the following site:  _<https://feedback-form.truste.com/watchdog/request>_. TRUSTe will function as a liaison with Inuvo to help resolve your concerns.
+
+**YOUR RIGHTS AND CHOICES**
+
+**__Opt-Out Or Update Your Information__**
+
+As an Account Holder, you will only receive email communications from us for business administration purposes, including website and platform service updates. Any promotional emails you may receive will have an opt-out option within the footer of the email. If you opt-out, you will be removed from the promotional email list, however, as an Account Holder, you will still receive any/all business administration emails applicable to your account. As an Account Holder, you can update your information by contacting your account representative.
+
+If you have voluntarily submitted your information via one of our websites through an information request form, newsletter sign up, or contact us email, then you may be receiving promotional marketing communications from Inuvo.
+
+At any time, you can unsubscribe directly from any of these communications by following the opt-out instructions included within the footer of the communication received.
+
+**__Opt-Out • Opt-Out Of Inuvo Interest Based Advertising__**
+
+If you would like to opt-out of Inuvo Interest Based Advertising, please click on this  _[link](https://www.netseer.com/netseer-inimage-ads/)_  and click on the “Opt out” button in the footer below. Upon clicking “Opt out,” Inuvo will place an opt-out cookie on your browser. The opt-out cookie means you will not be retargeted by ads served through Inuvo’s Advertising Technology Platform. If You delete, block or otherwise restrict cookies, or if you use a different computer, mobile device or Internet browser, you may need to renew this opt-out choice. However, if you do choose to opt-in, Inuvo will delete the opt-out cookie and you may again be retargeted with relevant advertisement based on your visits to websites of our advertising clients.
+
+**__Opt-Out •  Mobile Application Opt-Out__**
+
+Mobile devices allow users to opt-out of the collection of usage information within their mobile apps. You can choose to opt-out in your device settings by selecting “Opt out of Interest-Based Ads” on Android devices and “Limit Ad Tracking” on iOS devices.
+
+**INFORMATION RELATED TO CHILDREN**
+
+Our products and services are designated for a business audiences, and those that are 21 years of age or older. We do not knowingly collect data from children under the age of 13. If we are made aware that we have received data from anyone under the age of 13, we will take reasonable action to remove that information from our records.
+
+**USERS FROM OUTSIDE THE UNITED STATES**
+
+Visitors to our websites from outside the United States will have their data transferred to and stored in our servers in the U.S. By using our websites, international users are consenting to our use and collection of their data as described herein.
+
+**The EU General Data Protection Regulation (GDPR)**
+
+Effective May 25, 2018, a new data privacy law known as the EU General Data Protection Regulation (the “GDPR”) will be in effect through the EEA, Switzerland, and the UK. The GDPR requires us to provide users in the EEA, Switzerland or the UK with certain information about the processing of their “Personal Data.” “Personal Data” is a term used under the GDPR that means, generally, data that identifies or can identify a particular unique user or device – for instance, names, addresses, cookie identifiers, precise location data, and biometric data.
+
+__Legal Basis for Processing Personal Data__
+
+The legal grounds for us processing your Personal Data for the purposes set out in this Privacy Policy will typically be because:
+
+  * _You provided your consent._ On certain occasions, we rely on the consent of the individual to process Personal Data (for example, when the user inputs personal information into our websites).  We may choose to obtain consent in other cases as well, in which case we will adhere to applicable laws relating to such consent and its withdrawal;
+  * _The processing is in our legitimate interest._ In some cases, we rely on legitimate interest as a legal basis for processing Personal Data, in order to provide our and/or other data controllers’ services. We also rely on legitimate interest when we use Personal Data to maintain the security of our services, such as to detect fraud or to ensure that bugs are detected and fixed;
+  * _Contractual relationships._ Sometimes, we process certain data as necessary under a contractual relationship we have (such as our customer records and contact information);
+  * _Legal obligations._ Finally, some processing of data may be necessary for us to comply with our legal or regulatory obligations.
+
+
+
+__Transfers of Personal Data__
+
+We are based in the US and the information we is processed on our servers in the US and other jurisdictions.  When we transfer Personal Data outside of the EEA, Switzerland, or the UK, we take steps to ensure appropriate safeguards are in place to protect your Personal Data.
+
+__Your Rights as a Data Subject__
+
+The GDPR provides you with the right to access, rectify, or erase any personal data we have collected about you through the operation of our business. You also have the right to data portability and the right to restrict or object to our processing of personal data we have collected about you through the operation of our business. In addition, you have the right to ask us not to process your personal data (or provide it to third parties to process) for marketing purposes or purposes materially different than for which it was originally collected or subsequently authorized by you. You may withdraw your consent at any time for any data processing we do based on consent you have provided to us.
+
+To exercise any of these rights, contact us as set forth in the section entitled “Contact Us” below and specify which right you intend to exercise. We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Further, if we are processing your information on behalf of one of our clients, we will refer you to that client, and will support them to the extent required by applicable law in responding to your request. Please note that we store information as necessary to fulfil the purposes for which it was collected, and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+
+If you have any issues with our compliance, you have the right to lodge a complaint with a European supervisory authority.
+
+__Data Controller and a Data Processor__
+
+EU data protection law makes a distinction between organizations that process Personal Data for their own purposes (known as “data controllers”) and organizations that process Personal Data on behalf of other organizations (known as “data processors”). If you have a question or complaint about how your Personal Data is handled, we encourage you to direct your inquiry to the relevant data controller, since data controllers hold primary responsibility for your Personal Data.
+
+We may act as either a data controller or a data processor in handling your Personal Data, depending on the precise circumstances. For instance, for Personal Data that we collect from Account Holders, we are a data controller. But when we handle Personal Data strictly on behalf of our Publishers in order to provide our services to them we are a data processor. Thus, for instance, if you have questions about data that is collected and used primarily by Publishers you should contact those Publishers directly regarding questions about the Personal Data they handle and control.
+
+__Questions or Concerns__
+
+If you are a resident of the EEA, Switzerland, or the UK and have concerns regarding this Privacy Policy, you may contact our privacy officer by email at [privacy@inuvo.com](mailto:privacy@inuvo.com) or mailing the following address:
+
+Inuvo, Inc.
+
+500 President Clinton Avenue
+
+Suite 300
+
+Little Rock AR 72201
+
+  
+Attn: Privacy Officer
+
+**RIGHT TO CHANGE POLICY**
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently.
+
+**CONTACT US**
+
+If you have questions about our privacy policy, please contact us at privacy@inuvo.com or by mail at:
+
+Inuvo, Inc. Attn: Marketing and Communications, 500 President Clinton Ave, Suite 300, Little Rock, AR 72201
+
+Updated April 2019
