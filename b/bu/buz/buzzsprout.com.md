@@ -1,10 +1,58 @@
-> *The following text is extracted and transformed from the buzzsprout.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326180854id_/https%3A//www.buzzsprout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsprout.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224183609id_/https%3A//www.buzzsprout.com/privacy) for the most accurate reproduction.*
 
 # Buzzsprout Privacy Policy
 
-Buzzsprout (www.buzzsprout.com) is a Higher Pixels product. Higher Pixels is committed to protecting the privacy and data of those who visit the buzzsprout.com website and use the Buzzsprout Service.
+Buzzsprout (www.buzzsprout.com) is a Higher Pixels product. Higher Pixels is committed to protecting the privacy and data of those who visit the buzzsprout.com website, use the Buzzsprout Service, and listen to podcast episodes served from Buzzsprout servers.
 
 The data you put into Buzzsprout is yours. We’ll only ever access your account to help you with a problem or fix a software issue. We log access to accounts by IP address. This allows us to verify that no unauthorized access has happened for as long as the logs are kept.
+
+### Podcast Listener Privacy
+
+Buzzsprout believes protecting online privacy is important and that extends to podcast listeners. When you listen to a podcast served directly from Buzzsprout's servers, you can be assured your privacy is being respected. Buzzsprout only collects the minimum data necessary to validate a download, understand the application that was used to initiate the download, and get a general sense of where in the world that download was delivered.
+
+Buzzsprout does NOT use listener data to: 
+
+  * Programmatically target advertisements
+  * Track and/or identify individuals
+  * Create interest-based profiles
+  * Combine data pools to associate audience demographics
+  * Sell listener data to anyone for any purpose
+
+
+
+**What data does Buzzsprout collect from listeners on third-party distribution channels?**
+
+When a podcast episode is downloaded through any third-party distribution channel, listener data is recorded for analysis.
+
+  * IP Address
+  * User Agent
+  * Referring URL (in some cases)
+
+
+
+The data above is retrieved directly from server logs. Buzzsprout does not, by default, utilize any 3rd party tracking technologies on media downloads1.
+
+**Why is this listener data collected?**
+
+It's important for you to know not only what we collect, but why we collect it. Buzzsprout only collects listener data for the following three reasons.
+
+  1. To provide anonymized statistics to our podcast hosting customers
+  2. To discover and prevent fraudulent/illegal behavior
+  3. To comply with any legal obligation(s)
+
+
+
+**Content Delivery Networks**
+
+For performance and redundancy, we direct some listener traffic through the AWS CloudFront and Cloudflare networks. To perform this role, they have access to the same basic listener data as Buzzsprout. We have reviewed their privacy policies and have determined they are in line with the values of Buzzsprout. Links are provided for your convenience: [AWS CloudFront Privacy Notice](https://aws.amazon.com/privacy/) and [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/). 
+
+**What else can you do to protect your privacy as a podcast listener?**
+
+  1. Use a podcast app like [Overcast](https://overcast.fm/privacy) that prioritizes listener privacy
+  2. Ask your favorite podcasters where they host their podcast to ensure they are respecting your privacy
+  3. [Opt-out of interest-based tracking-based advertising](http://optout.networkadvertising.org/) (doesn't help much with podcasting apps 😢)
+
+
 
 ### Your Personal Information
 
@@ -49,6 +97,14 @@ Please see our [EU-US and Swiss-US Privacy Shield policy](https://web.archive.or
 ### Corrections and Updates
 
 Higher Pixels allows consumers who use the Buzzsprout Service to update or modify their information by clicking on the My Account link in the Buzzsprout navigation menu.
+
+### California Online Privacy Protection Act Compliance
+
+Buzzsprout complies with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+### Children’s Online Privacy Protection Act Compliance
+
+We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 ### Changes and Questions
 
