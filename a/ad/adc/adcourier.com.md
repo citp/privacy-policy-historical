@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adcourier.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117224650id_/http%3A//www.broadbean.com/uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcourier.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224165000id_/http%3A//www.broadbean.com/uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - broadbean.com - UK
+# Privacy Policy | Broadbean UK
 
 ### Personal Information
 
@@ -8,7 +8,7 @@ You may choose to provide personal information (such as your name, address, tele
 
 ### Contact Us
 
-If you contact us through the Contact Us form on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
+If you contact us through the [Contact Us](https://web.archive.org/uk/contact-us/) form on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
 
 ### Free Trial Application
 
@@ -70,14 +70,7 @@ Flash cookies - Broadbean does not serve Flash cookies but Adobe Flash Player ma
 
 **Cookie Name** | **Purpose** | **More Information**  
 ---|---|---  
-BEANSID | Used to log you in to our application. | Persistent   
-Duration 12 hours  
-USERNAME | Old login cookie used for backward compatibility when logging in to our application. | Persistent   
-Duration 12 months  
-PASSWORD | Old login cookie used for backward compatibility when logging in to our application. | Persistent   
-Duration 12 months  
-ADC | Holds an encrypted password of your login to our application. | Persistent   
-Duration 12 months  
+ADC | Holds and encrypted password of your login to our application | Persistent Duration 12 months.  
 Lang | To tailor the language display of our main website. | Persistent   
 Duration 12 months  
 Country | To tailor the language display of our main website. | Persistent   
@@ -99,7 +92,7 @@ Duration 2 years 6 months
   
 ### Web Beacons
 
-Certain pages on our site contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. We use log files to store the data that is collected through web beacons. Broadbean also uses third party web beacons to help manage online advertising. These web beacons are provided by our ad management partner Google Analytics. These files enable Google Analytics to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie on your web browser was placed by Broadbean, or by another advertiser who works with Google Analytics. With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about Google Analytics, including information about how to opt out of these technologies, go to [www.google-analytics.com](http://www.google.com/analytics/).
+Certain pages on our site contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. We use log files to store the data that is collected through web beacons. Broadbean also uses third party web beacons to help manage online advertising. These web beacons are provided by our ad management partner Google Analytics. These files enable Google Analytics to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie on your web browser was placed by Broadbean, or by another advertiser who works with Google Analytics. With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about Google Analytics, including information about how to opt out of these technologies, go to [www.google-analytics.com](http://www.google.com/analytics).
 
 ### Information We Share
 
@@ -123,15 +116,15 @@ We maintain administrative, technical and physical safeguards to protect against
 
 If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by:
 
-  * Visiting our Contact Form
-  * Calling us at +44 (0)20 7536 1661
+  * Visiting our [Contact Form](https://web.archive.org/uk/contact-us/)
+  * Calling us at 0800 169 6932
   * Writing to us at:
 
 
 
 Broadbean Technology  
-40 Marsh Wall,  
+189 Marsh Wall,  
 London,  
-E14 9TP
+E14 9SH
 
 **Please Note:** This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our online information practices.
