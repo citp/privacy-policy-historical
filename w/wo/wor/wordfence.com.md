@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the wordfence.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609190359id_/https%3A//www.wordfence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordfence.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224143021id_/https%3A//www.wordfence.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wordfence
 
 **Wordfence Privacy Policy**
 
-Last updated on May 22, 2018
+Last updated on December 18, 2019
 
 Defiant, Inc. (“Company,” “we,” “us,” “our”) understands your privacy is important. This Privacy Policy describes how we collect, use, store, process, and share your information in relation to www.wordfence.com (the “Site”) and the Wordfence services, including all media, document, updates, and support services associated with the Site and the Wordfence services (all collectively, the “Service”). By accessing or using the Service, including browsing the Site, you expressly consent to the collection, use, storage, processing, and disclosure of your information in accordance with this Privacy Policy. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU SHOULD NOT ACCESS OR USE THE SERVICE. Parts of the Terms of Use affect this Privacy Policy, so please be sure to review the Terms of Use prior to using the Site. Capitalized terms used but not defined herein have the definitions set forth in the Terms of Use.
+
+California Residents: If you are a resident of California you may have additional rights regarding your personal information. Please review our [California Consumer Privacy Act (“CCPA”) Notice](https://www.wordfence.com/ccpa-privacy-notice/) regarding your rights under the CCPA.
 
 **1\. Information Collection**
 
