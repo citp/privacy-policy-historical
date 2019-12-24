@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingenico.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202092015id_/https%3A//www.ingenico.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingenico.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225005638id_/https%3A//www.ingenico.com/privacy-policy) for the most accurate reproduction.*
 
 # Ingenico Group - INGENICO External Privacy Policy
 
@@ -107,7 +107,7 @@ _Use justification_ : legal obligations, legal claims, legitimate interests to c
 
 4.6. Where we transfer personal information from inside the European Economic Area (the EEA) to outside the EEA, we may be required to take specific additional measures to safeguard the relevant personal information.  Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections to EEA data protection laws and therefore no additional safeguards are required to export personal information to these jurisdictions. In countries which have not had these approvals (see the full list here http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm), we will establish legal grounds justifying such transfer, such as EU Commission-approved model contractual clauses, or other legal grounds permitted by applicable legal requirements.
 
-4.7. Please [contact us](mailto:contact.dataprotection@ingenico.com?subject=Ingenico%20Privacy%20Policy) if you would like to see a copy of the specific safeguards applied to the export of your personal information. 
+4.7. Please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#fb9894958f9a988fd59f9a8f9a8b89948f9e988f929495bb92959c9e95929894d5989496c4888e99919e988fc6b2959c9e95929894dec9cbab89928d9a9882dec9cbab9497929882) if you would like to see a copy of the specific safeguards applied to the export of your personal information. 
 
 **Data retention**
 
@@ -127,7 +127,7 @@ _Use justification_ : legal obligations, legal claims, legitimate interests to c
 
 **Your rights**
 
-5.3. If you have any questions in relation to our use of your personal information, you should first contact our [Data Protection Officers](mailto:contact.dataprotection@ingenico.com%20?subject=Ingenico%20Privacy%20Policy).  Under certain conditions, you may have the right to require us to:
+5.3. If you have any questions in relation to our use of your personal information, you should first contact our [Data Protection Officers](https://web.archive.org/cdn-cgi/l/email-protection#03606c6d776260772d6762776273716c776660776a6c6d436a6d64666d6a606c2d606c6e233c707661696660773e4a6d64666d6a606c26313353716a7562607a263133536c6f6a607a).  Under certain conditions, you may have the right to require us to:
 
 (a)    provide you with further details on the use we make of your information;
 
@@ -151,7 +151,7 @@ _Use justification_ : legal obligations, legal claims, legitimate interests to c
 
 5.6. Depending on where you are located, the “data controller” of your personal information processed by us under this Privacy Policy will be different.  
 
-5.7. If you have any questions in relation to this policy or want to exercise any of your subject rights described above, request, please contact our [Data Protection Officer](mailto:contact.dataprotection@ingenico.com?subject=Question%20about%20the%20Ingenico%20Privacy%20Policy).  
+5.7. If you have any questions in relation to this policy or want to exercise any of your subject rights described above, request, please contact our [Data Protection Officer](https://web.archive.org/cdn-cgi/l/email-protection#c8aba7a6bca9abbce6aca9bca9b8baa7bcadabbca1a7a688a1a6afada6a1aba7e6aba7a5f7bbbdaaa2adabbcf599bdadbbbca1a7a6edfaf8a9aaa7bdbcedfaf8bca0adedfaf881a6afada6a1aba7edfaf898baa1bea9abb1edfaf898a7a4a1abb1).  
 
 5.8. Please see here for a list of which group companies will be data controllers in which countries and obtain the contact details of the relevant Data Protection Officer.
 
