@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616224026id_/https%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224170650id_/https%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mother Jones
 
@@ -16,13 +16,13 @@ Upon request, we provide our users, including subscribers to the magazine, with 
 
 This Privacy Policy may change from time to time. The Revision Date below will show you when the Privacy Policy was last revised. By continuing to use this Site, you agree to all terms of the most recent version of this Privacy Policy.
 
-This Privacy Policy was last revised on **November 28, 2017**.
+This Privacy Policy was last revised on **October 22, 2019**.
 
 ### **2\. CONTENT YOU SUBMIT**
 
 The Site allows you to submit and post comments and to recommend comments posted by others (collectively "User Content"). User Content that you submit to _Mother Jones_ or post on the Site, including any personal information included in your User Content, becomes publicly available and can be seen, collected, and used by others.
 
-The comment function on the Site is provided by Disqus. To learn about how Disqus will handle your information, please see their privacy policy, located [here](http://help.disqus.com/customer/portal/articles/466259-privacy-policy).
+The comment function on the Site is provided by [Coral](https://coralproject.ne/). To learn about how Coral will handle your information, please see their privacy policy, located [here](https://www.voxmedia.com/pages/privacy-policy).
 
 The Site may also allow you to send email messages to other users. While the content of such messages will not be publicly displayed on the Site, the Foundation has no ability to control how the content of messages sent to other users is used or disseminated. You should assume that anything you put into an email message to another user may become public.
 
@@ -56,7 +56,7 @@ The Foundation does not retain or use any credit card or other financial account
 
 When you subscribe, we use the information you provide to deliver the magazine or newsletter, and to send you periodic reminders to renew your subscription. We may also use it to contact you about new products or upcoming events, to send you donation appeals, or to send you sponsored messages with offers from other organizations. In addition, we may share your information with reputable companies who may contact you via mail or email with products or services we think will be of interest to you. If you do not wish to receive such communications, you can contact us at the postal address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future.
 
-When you donate, we use the information you provide to process your donation. Online donations made to _Mother Jones_ are processed by [ICN](https://online.icnfull.com/) or [PayPal](http://www.paypal.com/). We do not share your name, address, email address, or any other personally identifiable information about your donation with anyone else. If you provide us with your postal address or email, we will use that information for the purpose of delivering any benefit or information you have requested, such as your magazine subscription, newsletter, or other premium content. We may also use that information to send you occasional messages about our projects or ways that you can support _Mother Jones_. If you do not wish to receive such communications, you can write to us at the postal or email address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future.
+When you donate, we use the information you provide to process your donation. Online donations made to _Mother Jones_ are processed by [SFG](https://www.sfgnetwork.com/) or [PayPal](http://www.paypal.com/). We do not share your name, address, email address, or any other personally identifiable information about your donation with anyone else. If you provide us with your postal address or email, we will use that information for the purpose of delivering any benefit or information you have requested, such as your magazine subscription, newsletter, or other premium content. We may also use that information to send you occasional messages about our projects or ways that you can support _Mother Jones_. If you do not wish to receive such communications, you can write to us at the postal or email address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future.
 
 ### **7\. PROMOTIONS AND SURVEYS**
 
