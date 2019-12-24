@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accengage.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619170639id_/https%3A//www.accengage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accengage.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224164334id_/https%3A//www.accengage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Accengage
 
