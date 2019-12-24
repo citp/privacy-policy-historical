@@ -1,115 +1,16 @@
-> *The following text is extracted and transformed from the diamondresorts.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812063827id_/https%3A//www.diamondresorts.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondresorts.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224113626id_/https%3A//www.diamondresorts.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Diamond Resorts
 
-Diamond Resorts™ is committed to protecting your personal information. We want all of our members, owners and other guests to have a fantastic vacation experience with us and to return to our worldwide holiday destinations. When you do so, we want you to be confident that we take as much care of your personal information as we do of you and your family when you are visiting us.
-
-This is a summary of our Privacy Policy providing you with the main details about how we collect and use your personal information. You can read the full policy here or you can follow the links in this document to navigate to relevant section of the full privacy policy to find out more.
-
-## Who we are
-
-Diamond Resorts™ is a global leader in the vacation ownership industry. Our group includes all subsidiaries of Diamond Resorts International Inc., a company incorporated in the State of Delaware in the United States of America and our main operating company in Europe is Diamond Resorts (Europe) Limited located in the United Kingdom. We operate across several jurisdictions, if you would like more information about our global structure please click [here](https://cmsprod.diamondresorts.com/sites/default/files/Diamond_organizational_chart.pdf).
-
-## Collecting your personal information
-
-We collect relevant personal information about you when you interact with us, for example, when you purchase a vacation ownership interest from us, make a reservation and stay with us or complete an online survey.
-
-We also collect the information you give us about other people (e.g. if you make a booking for them) and collect information about your interactions with our website via cookies.
-
-Additionally, we may also receive information about you from third parties. To read more about what information we collect, please click here.
-
-To read more about cookies and other web technologies we use, please click [here](https://web.archive.org/cookie-policy).
-
-To read more about how we collect your personal information click here.
-
-## How will we use your personal information?
-
-If you are a member or owner of one of our vacation ownership clubs, we use your personal information to carry out our obligations to you and act upon your requests.
-
-If you are a hotel guest, we use your personal information to fulfil your booking.
-
-If you are a website user, we use your personal information to help us provide you with technical assistance and to personalize your experience of our websites.
-
-If you enter into a sweepstake or contest, we use your personal information to administer the contest.
-
-To read more about how we use your personal information, please click here.
-
-## Legal bases for processing your personal information
-
-If you are in a country in the European Union, you are entitled to an explanation of the legal bases we rely on to process your personal information.
-
-We use your personal information to administer and perform the contract between us.
-
-When we have to meet certain legal obligations, we will use your personal information where necessary comply with those obligations.
-
-We will also use your personal information if doing so is necessary for our legitmate business interests. Examples of these include, ensure the safety of our guests and our properties, improve our products and services, and carry out fraud prevention activities.
-
-To read more about the legal bases we rely on please click here.
-
-## Your personal information and your rights
-
-If you are an individual in a country in the European Union, you have the right to make requests to:
-
-  * access the personal information we keep about you
-  * place restrictions on our use of your personal information
-  * object to our use of your personal information
-  * ask us to delete the personal information about you we hold
-  * have your personal information transferred to you or another party of your choosing
-  * make a complaint to the relevant supervising authority
-
-
-
-To read more about what these rights are and when they apply, please click here if you are in Europe or here if you are not.
-
-If you are a California Resident, you have the right to request certain information from us. To find out more please click here.
-
-Contact us at the address given here if you wish to exercise your rights.
-
-## Will we contact you for marketing purposes?
-
-Depending on your location (reflecting the local laws) we may ask you to indicate your preferences and provide us with consent to receive marketing communications. We will send such communications in accordance with those preferences. If you give us consent, you can withdraw it at any time.
-
-To read more about marketing, please click here.
-
-## How long will you keep my personal information?
-
-We only want to keep your personal information for as long as we need it for. This depends on what the personal information is and what it relates to. To find out more about the criteria we use to determine this click here.
-
-## Who will the information be shared with, if anyone?
-
-We sometimes need to share your personal information with third parties to fulfil your request for bookings, services and products and when other companies carry out services on our behalf.
-
-To read more about who your information may be shared with and how we protect it, please click here.
-
-## Cross-border data transfers from European Economic Area
-
-As a global organization, we use data servers located outside of the European Economic Area. We use Privacy Shield and standard contractual clauses to protect transfers of personal information from Europe. To read more about cross-border data transfers from the European Union, please click here.
-
-## Security
-
-We have appropriate technical and organizational measures in place to protect your personal information. To read more about how we keep your information secure, please click here.
-
-## Changes to the Privacy Policy
-
-We may update or revise this Privacy Policy at any time. When we do we will notify you in various ways. To read more about how we may update you, please click here.
-
-## Contacting us
-
-If you have any questions or complaints about this Privacy Policy or our use of your personal information, please contact us:
-
-In Europe by writing to our Customer Services Department at Citrus House, Caton Road, Lancaster, LA1 3UA, by telephoning our Customer Services Department at 0345 3590010, or by e-mailing our Customer Services Department at [euhsirm@diamondresorts.com](mailto:euhsirm@diamondresorts.com).
-
-Outside of Europe by writing to our Customer Service Department at 10600 W. Charleston Blvd, Las Vegas, Nevada 89135, by telephoning 877.374.2582, or by e-mailing our Customer Services Department at [THEClub@diamondresorts.com](mailto:THEClub@diamondresorts.com).
-
 ## 1\. Introduction
 
-Diamond Resorts™ is committed to protecting your personal information. We want all of our members, owners and non-member hotel guests to have a fantastic vacation experience with us and to return to our worldwide holiday destinations. When you do so, we want you to be confident that we take as much care of your personal information as we do of you and your family when you are visiting us.
+Diamond Resorts® is committed to protecting your personal information. We want all of our members, owners and non-member hotel guests to have a fantastic vacation experience with us and to return to our worldwide holiday destinations. When you do so, we want you to be confident that we take as much care of your personal information as we do of you and your family when you are visiting us.
 
-This Privacy Policy applies to our use of any personal information we collect from or about you through your use of any of our websites, including [www.diamondresortsandhotels.com](http://www.diamondresortsandhotels.com/), that link to this Privacy Policy (“ **Site** ” or “ **Sites** ”), when you buy any product or service from us, when you enter a sweepstake or contest provided by us, when you complete surveys or questionnaires about our service, when you visit any of our worldwide destinations, when you interact with us by writing or emailing us, telephoning us or interacting with us on social media.
+This Privacy Policy applies to our use of any personal information we collect from or about you through your use of any of our websites, including [www.diamondresortsandhotels.com](http://www.diamondresortsandhotels.com/), or mobile applications that link to this Privacy Policy (" **Site** " or " **Sites** "), when you buy any product or service from us, when you enter a sweepstake or contest provided by us, when you complete surveys or questionnaires about our service, when you visit any of our worldwide destinations, when you interact with us by writing or e-mailing us, telephoning us or interacting with us on social media.
 
-## 2\. Who is Diamond Resorts™?
+## 2\. Who is Diamond Resorts®?
 
-Diamond Resorts™ is a global leader in the vacation ownership industry. Our group includes all subsidiaries of Diamond Resorts International Inc., a company incorporated in the State of Delaware in the United States of America and our main operating company in Europe is Diamond Resorts (Europe) Limited located in the United Kingdom. We operate across several jurisdictions, if you would like more information about our global structure please click [here]. In this policy when we refer to “us”, “we” and “our” we are referring to the Diamond group as a whole or a particular company within it, depending on the context.
+Diamond Resorts® is a global leader in the vacation ownership industry. Our group includes all subsidiaries of Diamond Resorts International Inc., a company incorporated in the State of Delaware in the United States of America and our main operating company in Europe is Diamond Resorts (Europe) Limited located in the United Kingdom. We operate across several jurisdictions, if you would like more information about our global structure please click [here](https://cmsprod.diamondresorts.com/sites/default/files/Diamond_organizational_chart.pdf). In this policy when we refer to "us", "we" and "our" we are referring to the Diamond group as a whole or a particular company within it, depending on the context.
 
 ## 3\. Collecting your personal information
 
@@ -117,38 +18,40 @@ Diamond Resorts™ is a global leader in the vacation ownership industry. Our gr
 
 **3.1.1. When you make a reservation or purchase a product from us**
 
-  * If you buy a vacation ownership product from us, you will provide us with the following personal information: your name, address, telephone numbers and email address. This is a contractual requirement and if you do not provide us with this information we will not be able to enter into a contract with you.
-  * If you take out a loan (either directly from one of our group companies or from a third party finance provider through us as a broker) you will be asked to provide the following details about yourself to support your application: your name, address, telephone number, date of birth, marital status, email address, ages of dependent children, income, previous addresses, work history and home ownership status. We will also need your bank details so that we can set up regular payments or take payment card details from you. Provision of this information is a contractual or regulatory requirement. If you do not provide us with this information we will not be able to process your loan application.
-  * If you book accommodation with us direct as a rental or “hotel” guest we require your: name, address, telephone number and email address, and payment card information to make your booking. If you create an online account with us, you provide a unique login name and password as part of the registration process. We usually retain payment card information following your stay because we hope you will come back and enjoy further stays with is and having your details on file assists in making payments quickly without having to re-type the same information repeatedly. We retain payment card information in tokenized format However, if you would rather we did not store your payment card information following your stay you can opt out by enquiring at front desk or by contacting us (see section 21 headed **Contacting Us** ).
-  * If you are a Diamond Resorts™ owner or member, or own a vacation ownership interest at a Diamond-managed resort, and you create an account on line through the member area of our Site you will have to provide the following information to allow us to verify your identity: your name and two of the following: membership number, contract number, telephone number/ postcode as part of our registration process and you will be asked to create a unique login name and a password. You may also choose to provide us with information about your interests, which enable us to offer a more personalized service to you.
+  * If you buy a vacation ownership product from us, you will provide us with the following personal information: your name, address, telephone numbers and e-mail address. This is a contractual requirement and if you do not provide us with this information we will not be able to enter into a contract with you.
+  * If you take out a loan (either directly from one of our group companies or from a third party finance provider through us as a broker) you will be asked to provide the following details about yourself to support your application: your name, address, telephone number, date of birth, social security number, marital status, e-mail address, ages of dependent children, income, previous addresses, work history and home ownership status. We will also need your bank details so that we can set up regular payments or take payment card details from you. Provision of this information is a contractual, bank, and/or regulatory requirement. If you do not provide us with this information we will not be able to process your loan application.
+  * If you book accommodation with us direct as a rental or "hotel" guest we require your: name, address, telephone number and e-mail address, and payment card information to make your booking. If you create an online account with us, you provide a unique login name and password as part of the registration process. We usually retain payment card information following your stay because we hope you will come back and enjoy further stays with is and having your details on file assists in making payments quickly without having to re-type the same information repeatedly. We retain payment card information in tokenized format However, if you would rather we did not store your payment card information following your stay you can opt out by enquiring at front desk or by contacting us (see section 21 headed **Contacting Us** ).
+  * If you are a Diamond Resorts® owner or member, or own a vacation ownership interest at a Diamond-managed resort, and you create an account on line through the member area of our Site you will have to provide the following information to allow us to verify your identity: your name and two of the following: membership number, contract number, telephone number/ postcode as part of our registration process and you will be asked to create a unique login name and a password. You may also choose to provide us with information about your interests, which enable us to offer a more personalized service to you.
 
 
 
 **3.1.2. At the front desk and on resort property**
 
-When you check in at one of our resorts we will confirm your name, address, telephone number and email address. We will usually affirm payment information with you and ask to see or copy your identity documents if required by local law.
+When you check in at one of our resorts we will confirm your name, address, telephone number and e-mail address. We will affirm payment information with you and ask to see or copy your identity documents if required by local law.
 
-If you are taking part in an activity that we have arranged, we will need further information from you in order to arrange that activity. If a third party provides the activity we will pass some details on to them to fulfil your request. In addition, we will collect individual information from you in connection with on-property services, such as concierge services.
+If you are taking part in an activity that we have arranged, we will need further information from you in order to arrange that activity. If a third party provides the activity we will pass some details on to them to fulfil your request. In addition, we will collect individual information from you in connection with on-property services, including, but not limited to, sales presentations, concierge services, and room service.
 
-If you have an accident on site we will make a formal report as required by our insurers and we will ask you to provide details of the accident and any treatment you received. You may document this by using photographs and we will request a copy for our accident report.
+If you have an accident on site we will require a formal report and we will ask you to provide personal details as well as details of the accident.
 
-We also use closed circuit television and other security measures at some of our properties. Cameras may, because of their position, capture or record images of guests and visitors in public areas and record information related to your location. Other technologies (such as keycards) may also give information about your location. We may also use other technologies that record sound or video to protect our staff. Where we use any closed circuit television or any other technologies mentioned in this paragraph and the law requires it, we have signs in place to tell you these are in operation and who to contact in case you have a question or wish to request to exercise your rights.
+We also use closed circuit television and other security measures at some of our properties. Cameras may, because of their position, capture or record images of guests and visitors in public areas and record information related to your location. Other technologies (such as keycards) may also give information about your location. Where we use any closed circuit television or any other technologies mentioned in this paragraph and the law requires it, we may have signs in place to tell you these are in operation and who to contact in case you have a question or wish to request to exercise your rights.
+
+On some occasions, for quality assurance and other internal purposes, we may record (both audio and video) sales presentations in which you participate.
 
 **3.1.3. Sweepstakes and contests**
 
-Sometimes we run sweepstakes and contests to give you the opportunity to win great travel prizes. Sweepstakes and contests differ but usually we ask you to provide us with your contact information to participate.
+Sometimes we run sweepstakes and contests to give you the opportunity to win great prizes and discounted promotional offers. Sweepstakes and contests differ but usually we ask you to provide us with your contact information, marital status, age group for entrant and spouse/cohabitant (if applicable), home ownership, and household income range to participate. Additionally, we may ask you for your consent to contact you for future promotions and marketing offers, which is optional and not required to enter the sweepstakes/contest.
 
 **3.1.4. Online surveys**
 
-Diamond Resorts™ values opinions and comments from owners, members and guests so we frequently conduct online surveys. These surveys are optional for all owners, members and guests. We use information from surveys it to make improvements to Diamond Resorts™ products and services and to develop appealing content, features and promotions for customers.
+Diamond Resorts® values opinions and comments from owners, members and guests so we frequently conduct online surveys. These surveys are optional for all owners, members and guests. We use information from surveys it to make improvements to Diamond Resorts™ products and services and to develop appealing content, features and promotions for customers.
 
 **3.1.5. Other Sources of Personal Information**
 
 We also collect information from you when:
 
-  * you contact us:
+  * you contact us, including, but not limited to, through the Sites, through customer service and/or call centers, at our properties:
   * you use our mobile App;
-  * you log on as a member or guest to our Sites; and
+  * you log on as a member or guest to our Sites or otherwise use our Sites; and
   * you interact with any of our social media platforms, for instance by liking and sharing our posts on Facebook or Twitter. Please ensure you read the privacy policies in relation to your social media accounts as we are not responsible for their uses of your personal information.
 
 
@@ -159,11 +62,21 @@ If you’re making a booking on someone else’s behalf or asking us to make do 
 
 **3.3. Information we collect about you automatically**
 
-Like many other websites, our Sites use servers that automatically record information about your IP address, which ads you click on, the page that directed you to our Site and the browser type used while accessing our Sites. A server log stores the information collected so it can be analyzed to determine possible security threats and debug errors, to help us assess browser usage so we know when to deprecate older browsers, to allow us to detect broken site links, monitor the effectiveness of changes and assess what features on our Sites are relied on most heavily.
+Like many other websites, on our Sites, we, our service providers, or third-party services may automatically receive or collect from you certain information when you use the Sites. For example, we use servers that automatically record information about your IP address, which ads you click on, the page that directed you to our Site and the browser type used while accessing our Sites. A server log stores the information collected so it can be analyzed to determine possible security threats and debug errors, to help us assess browser usage so we know when to deprecate older browsers, to allow us to detect broken site links, monitor the effectiveness of changes and assess what features on our Sites are relied on most heavily. Other information that we may collect about you automatically may include:
+
+  * Your browser or operating system;
+  * Your manner of connecting to the Internet (including the type of device you are using) and the name of your Internet service provider or wireless carrier;
+  * Data relating to malfunctions or problems that occur when you use the Service;
+  * Log file information, including your Web request, Internet Protocol ("IP") address, browser type, referring/exit pages and URLs, number of clicks and how you interact with links on our service, domain names, landing pages, pages viewed, and other such information; and
+  * Information collected by cookies and other tracking technologies: cookies, web beacons (also known as "tracking pixels"), embedded scripts, location-identifying technologies, fingerprinting, device recognition technologies, in-app tracking methods and other tracking technologies now and hereafter developed ("Tracking Technologies") may be used to collect information about interactions with the Services or e-mails, including information about your browsing and purchasing behavior.
+
+
 
 We may combine some non-personal information with your personal information to further enhance your experience while on the Site.
 
 **3.4. Information third parties give us about you**
+
+In some instances, you provide your information to a third party, either in connection with the Sites, our properties, or otherwise in connection with our relationship with you or your use of our services, or independent of our relationship to you, or as otherwise described in this policy. These third parties provide us the information that you provided to them. The information you provide to such third parties is subject to the privacy statement of the applicable third party.
 
 **3.4.1. Exchange guests and guests booking through a third party travel agent**
 
@@ -171,13 +84,29 @@ If you visit one of our resorts as an exchange guest or make your booking at our
 
 **3.4.2. Credit history**
 
-If you purchase a vacation ownership product from us that you financed (whether by one of our group companies or through a third party brokered by us) we will require information about your credit history. If we require this information we will ask you to consent to us obtaining it from a credit referencing agency so we can complete your application.
+If you purchase a vacation ownership product from us that you financed (whether by one of our group companies or through a third party brokered by us), we may require information about your credit history. Where required, we will ask you to consent to us obtaining this information from a credit referencing agency so we can complete your application.
 
 ## 4\. If you do not provide personal information
 
 You should note that if you do not provide personal information we require we may not be able to provide you with the service or product you request.
 
 ## 5\. How will we use your personal information?
+
+**In general, we may use your information in the following ways (see below for more specific uses):**
+
+  * To process your registration, manage your account (including your payment information and preferences), and deliver our Sites and features desired by you (including any customization features requested by you);
+  * To improve our Sites;
+  * To fulfill other purposes disclosed to you at the time you provide us with your information or otherwise where we are legally permitted to do so;
+  * To personalize content and offers and serve you advertising that may be of interest to you;
+  * To respond to your inquiries;
+  * To fulfill your request for products or services;
+  * To provide you with updates and other information regarding the Sites;
+  * To understand your general location (i.e., not your specific geolocation), including based on your IP address and information you provide to third parties;
+  * To keep our Sites safe and secure and to prevent detect fraud and abuse;
+  * To comply with our legal obligations, policies, and procedures;
+  * To administer and manage our Sites including content and layout, site usage, troubleshooting, data analysis, testing, research, statistical and survey purposes
+
+
 
 **Members and Owners**
 
@@ -199,17 +128,23 @@ We use information based on your reservation history to send you information abo
 
 **Website users**
 
-We automatically capture information about users of our Sites in server logs (see section 3.3 headed **Information we collect about you automatically** for more information) and through the use of cookies (see our [cookie policy] for more information). This is so that we can provide you with technical assistance in the event of technical issues with our Sites, to allow us to personalize your experience of our Sites and generally to improve user experience on our Sites.
+We automatically capture information about users of our Sites in server logs (see section 3.3 headed **Information we collect about you automatically** for more information) and through the use of cookies (see our [cookie policy](https://www.diamondresorts.com/cookie-policy) for more information). This is so that we can provide you with technical assistance in the event of technical issues with our Sites, to allow us to personalize your experience of our Sites and generally to improve user experience on our Sites.
 
 **Entrants to sweepstakes or contests**
 
 If you enter one of our sweepstakes we will use your personal information to administer the contest and tell you whether or not you have been successful. We may use information provided when you entered a contest to send you information about our products and services you might be interested in. For more information on our use of your personal information for marketing see section 11 headed **Will you contact me for marketing purposes?**
 
+**Interest-Based Advertising**
+
+We may engage and work with third parties to serve advertisements on the Service and/or on third-party services. Some of these ads may be tailored to your interest based on your browsing of the Sites and elsewhere on the internet, which may include use of precise location and/or Cross-device Data, sometimes referred to as "interest-based advertising" and "online behavioral advertising" ("Interest-based Advertising"), which may include sending you an ad on a third-party service after you have left the Sites (i.e., "retargeting").
+
 **General**
 
 We use feedback from all of our customers to develop promotions and product improvements.
 
-## 6\. Legal bases for processing your personal information
+We will treat information that does not personally identify you as non-personal information, and we may de-identify, anonymize or otherwise convert your personal information to non-personal information. As permitted by applicable law, we reserve the right to use, process, share and otherwise exploit your non-personal information without limitation.
+
+## 6\. Legal bases for processing your personal information – Europe Only
 
 If you are in a country in the European Union, you are entitled to an explanation of the legal bases we rely on to process your personal information, which is set out below.
 
@@ -227,7 +162,7 @@ If you have an accident at one of our resorts, we will collect information about
 
 **6.4. Consent**
 
-During the booking or sales process we may ask you for your consent to send you specified kinds of marketing communications. If you have given your consent to receive marketing communications you may withdraw it at any time either by clicking through an unsubscribe link in an email or by contacting us by one of the methods set out in section 21 headed **Contacting us** (see section 11 headed **Will you contact me for marketing purposes?** for more information).
+During the booking or sales process we may ask you for your consent to send you specified kinds of marketing communications. If you have given your consent to receive marketing communications you may withdraw it at any time either by clicking through an unsubscribe link in an e-mail or by contacting us by one of the methods set out in section 21 headed **Contacting us** (see section 11 headed **Will you contact me for marketing purposes?** for more information). 
 
 **6.5. Our legitimate interests**
 
@@ -270,17 +205,29 @@ If you do exercise a valid right to have your personal information deleted, plea
 
 **7.4. The right to transfer your personal information to another service provider**
 
-You may request that we transfer some of the personal information you have provided to you or another service provider in electronic copy. This applies to personal information we are processing to service a contract with you and to personal information we are processing based on your consent.
+You may request that we transfer some of the personal information you have provided to you or another service provider in electronic copy. This applies to personal information we are processing to service a contract with you and to personal information we are processing based on your consent. 
 
-**7.5. Making a complaint**
+**7.5. The right of access to your personal information**
 
-If you have any concerns or complaints regarding our processing of your personal information, please contact us as described in section 21 headed **Contacting us** below and we will do our very best to answer any question and resolve any complaint to your satisfaction.
+You have the right to ask us for confirmation on whether we are processing your personal information, and access to the personal information and related information.
+
+**7.6. The right to correction.**
+
+You have the right to have your personal data corrected, as permitted by law.
+
+**7.7. The right to withdraw consent**
+
+You have the right to withdraw consent that you have provided.
+
+**7.8. Making a complaint**
+
+If you have any concerns or complaints regarding our processing of your personal information, please contact us as described in section 21 headed Contacting us below and we will do our very best to answer any question and resolve any complaint to your satisfaction.
 
 If, for whatever reason, you feel we do not meet the high standards you expect of us, you are also entitled to make a complaint to your local supervisory authority:
 
 Austria  
  **Österreichische Datenschutzbehörde**  
-<https://www.data-protection-authority.gv.at/>.
+[https://www.data-protection-authority.gv.at](https://www.data-protection-authority.gv.at/)
 
 France  
  **CNIL**  
@@ -288,7 +235,7 @@ France
 
 Italy  
  **Garante per la protezione dei dati personali**  
-<http://www.garanteprivacy.it/>
+[http://www.garanteprivacy.it](http://www.garanteprivacy.it/)
 
 Spain  
  **Agencia Española de Protección de Datos**  
@@ -296,7 +243,7 @@ Spain
 
 United Kingdom  
  **Information Commissioner’s Office**  
-<https://ico.org.uk/>
+[https://ico.org.uk](https://ico.org.uk/)
 
 ## 8\. Your personal information and your rights - excluding Europe
 
@@ -314,9 +261,9 @@ If you are a resident of California, California Civil Code section 1798.83 allow
 
 ## 10\. How to exercise your rights regarding your personal information
 
-Wherever you live, if you wish to exercise any of your rights regarding your personal information, please contact us as set out in section 21 headed **Contacting Us** and we will be pleased to help you with your request. Please note, that to protect your privacy we will contact you to verify your identity before we disclose any personal information to you or make any changes to the personal information we hold about you.
+Wherever you live, if you wish to exercise any of your rights regarding your personal information, please contact us as set out in section 21 headed Contacting Us and we will be pleased to help you with your request. Please note, that to protect your privacy we will contact you to verify your identity before we disclose any personal information to you or make any changes to the personal information we hold about you.
 
-## 11\. Will you contact me for marketing purposes?
+## 11\. Will you contact me for marketing purposes? How do I opt-out of marketing and other processing activities?
 
 As an owner, member or guest we would like to provide you with updates about promotions, special offers, new services and products which may be of interest to you based on what we know about you. If you have booked accommodation with us, we may send you information about offers for related travel services such as flights and rental cars.
 
@@ -324,11 +271,23 @@ Depending on your location (and reflecting applicable law), you may have been as
 
 Wherever you are located, we will send you marketing communication based on any preferences you may have expressed.
 
-**We only want to send you information you are interested in. If you do not want to receive these communications or would like to understand more about other unsubscribe options, please contact us as set out in section 21 headed “Contacting Us”.**
+**We only want to send you information you are interested in. If you do not want to receive these communications or would like to understand more about other unsubscribe options, see below under "Communications" in this section or please contact us as set out in section 21 headed "Contacting Us".**
 
-For email communications you can opt-out and/ or manage your preferences by clicking on the unsubscribe link provided at the bottom of any e-mail you receive from us. If we call you with information you do not want to receive you can advise us of this during the telephone call.
+We do not sell your personal information to third parties for marketing purposes and do not intend to do so in the future, except as expressly described in this policy.
 
-We do not sell your personal information to third parties for marketing purposes and do not intend to do so in the future.
+Communications. You can opt out of receiving certain promotional communications (e-mails, text messaging, phone calls, or push notifications) from us at any time by (i) for promotional e-mails, following the instructions provided in e-mails to click on the unsubscribe link, or if available by changing your communication preferences by logging onto your account; (ii) for text messages, following the instructions provided in text messages from us to text the word, "STOP"; (iii) for calls, you can advise us of this during the telephone call, and (iv) for app push notifications, turn off push notifications on the settings of your device and/or the app, as applicable. Please note that your opt-out is limited to the e-mail address or phone number used and will not affect subsequent subscriptions. If you opt-out of only certain communications, other subscription communications may continue. Even if you opt out of receiving promotional communications, we may, subject to applicable law, continue to send you non-promotional communications, such as those about your account, transactions, servicing, or our ongoing business relations.
+
+Mobile Apps. With respect to our mobile apps ("apps"), you can stop all collection of data generated by use of the app by uninstalling the app. Also, you may be able to exercise specific privacy choices, such as enabling or disabling certain features (e.g., location-based services, push notifications, accessing calendar/contacts/photos, etc.), by adjusting the permissions in your mobile device and/or the app’s settings. Beware that if GPS precise location services are disabled, other means of establishing or estimating location (e.g., connecting to or proximity to wi-fi, Bluetooth, beacons, or our networks) may persist. To learn more about how you can control location permissions using your mobile device’s operating system settings, please visit the following links depending on which device you use:
+
+Android:  
+For Android 6.0 and above:  
+\- <https://support.google.com/googleplay/answer/6270602?hl=en>  
+For earlier versions of Android:  
+\- <https://support.google.com/googleplay/answer/6014972>
+
+iOS: - <https://support.apple.com/en-us/HT207056>
+
+Certain Tracking Technologies and Interest-based Advertising. For information on how to opt out of processing by certain Tracking Technologies and processing related thereto, including Interest-based Advertising, Matched List Ads, and analytics, please visit our [cookie policy](https://www.diamondresorts.com/cookie-policy).
 
 ## 12\. How long will you keep my personal information?
 
@@ -336,23 +295,25 @@ We will retain your personal information for as long as necessary in order to fu
 
 ## 13\. Devices
 
-We use versions of our regular Sites that are optimized for mobile, which process the personal information you give us in much the same way as our Site does. We offer a Diamond App which allows you to use location services to find accommodations and facilities nearby. Our App is provided by Monscierge LLC.
+We use versions of our regular Sites that are optimized for mobile, which process the personal information you give us in much the same way as our Site does. We offer a Diamond App which allows you to use location services to find accommodations and facilities nearby.
 
 ## 14\. Who will the information be shared with, if anyone?
 
 We share your personal information with third parties to fulfil any request to us for bookings or services with them. Vacation ownership sales are protected by the use of a trustee who makes sure ownership is allocated correctly, so if you purchase a vacation ownership product from us we will pass your personal information onto the trustee. As you may expect, if you signed up for finance from a third party finance company we will pass documentation on to them after you have signed it. Like other vacation companies, we are sometimes obliged by law to disclose your personal information to governmental or customs/ immigration authorities in countries on your itinerary.
 
-Like many companies, we pass on customer personal information to external companies we use to carry out services on our behalf such as mailing campaigns, sales and conducting surveys. Sometimes these companies (and their sub-processors) conduct processing of your personal information in countries other than your home country. To learn more about how we protect your personal information when it is subject to a cross-border transfer see section 15 headed **Cross-border data transfers from the European Economic Area** and Section 16 headed **Cross-border data transfers (non EEA or Switzerland).**
+Like many companies, we pass on customer personal information to external companies we use to carry out services on our behalf such as mailing campaigns, sales and conducting surveys. Sometimes these companies (and their sub-processors) conduct processing of your personal information in countries other than your home country. To learn more about how we protect your personal information when it is subject to a cross-border transfer see section 15 headed **Cross-border data transfers from the European Economic Area** and Section 16 headed **Cross-border data transfers (non EEA or Switzerland)**.
 
 **14.1. Affiliate resorts**
 
-Affiliate resorts are resorts which we do not own or manage, but with whom we have agreements to allow members of our vacation ownership clubs to use their points to stay at those resorts. We have agreements with affiliate resorts all over the world to give our members an even greater choice for their perfect vacation. If you tell us you want to book an affiliate resort, we will make the booking on your behalf, providing information required by the affiliate to administer your booking and contact you if they need to. We will share your name and contact details, your status as a Diamond Resorts™ member and any access requirements or special requests you tell us about. When you check in and during your stay at an affiliate resort you may be asked for further information.
+Affiliate resorts are resorts which we do not own or manage, but with whom we have agreements to allow members of our vacation ownership clubs to use their points to stay at those resorts. We have agreements with affiliate resorts all over the world to give our members an even greater choice for their perfect vacation, including through promotional communications sent directly to you from the affiliate resorts. If you tell us you want to book an affiliate resort, we will make the booking on your behalf, providing information required by the affiliate to administer your booking and contact you if they need to. We will share your name and contact details, your status as a Diamond Resorts™ member and any access requirements or special requests you tell us about. When you check in and during your stay at an affiliate resort you may be asked for further information.
 
 Any personal information provided to the affiliate will be subject to their privacy policy, which you should read before making a booking.
 
 **14.2. Exchange companies**
 
-If you are a member or owner you may have signed up for a membership with a third party organization such as Interval International or RCI that allows you to “exchange” your week or points for vacations at non-Diamond resorts. If you signed up with an exchange company when you bought your product from us, we will send your signed contract on to the company along with your name, address, telephone number and email address to allow it to administer your membership. Any time you request an exchange we will confirm with the exchange company whether or not you are entitled to make the exchange and if you are not the reason why.
+If you are a member or owner you may have signed up for a membership with a third party organization such as Interval International or RCI that allows you to "exchange" your week or points for vacations at non-Diamond resorts. If you signed up with an exchange company when you bought your product from us, we will send your signed contract on to the company along with your name, address, telephone number and e-mail address to allow it to administer your membership.
+
+Any time you request an exchange we will confirm with the exchange company whether or not you are entitled to make the exchange and if you are not the reason why.
 
 **14.3. Providers of member benefits**
 
@@ -368,7 +329,7 @@ If you are making a booking that is fulfilled by a third party and require furth
 
 **14.5. Third party finance providers and providers of banking services**
 
-If you purchased third party finance brokered by us when you bought your vacation ownership product we will pass on to them any personal information you provided to us as part of the application process. Similarly, if we need to set up a direct debit to take an agreed regular payment from you, we will pass information about you to our bank to enable us to do this.
+If you purchased third party financing brokered by us when you bought your vacation ownership product we will pass on to them any personal information you provided to us as part of the application process. Similarly, if we need to set up a direct debit to take an agreed regular payment from you, we will pass information about you to our bank to enable us to do this.
 
 **14.6. First National Trustee Company Limited**
 
@@ -376,7 +337,7 @@ Information for Diamond European Members is shared with First National Trustee C
 
 **14.7. Third parties carrying out services on our behalf**
 
-We engage third parties to carry out services on our behalf that involve the processing of your personal information. For example, to process reservations, to conduct market research activities, to process the results of contests, to collect monies owed to us, to process payments, to send out mailings for billing or information about our services, to securely store archived or back up data for us and to carry out marketing campaigns on our behalf. In addition, we sometimes use third party providers of software on our websites to collect personal information from you, such as email sign ups and to allow you to share your comments on our resorts and services via social media.
+We engage third parties to carry out services on our behalf that involve the processing of your personal information. For example, to process reservations, to conduct market research activities, to process the results of contests, to collect monies owed to us, to process payments, to send out mailings for billing or information about our services, to securely store archived or back up data for us and to carry out marketing campaigns on our behalf. In addition, we sometimes use third party providers of software on our websites to collect personal information from you, such as e-mail sign ups and to allow you to share your comments on our resorts and services via social media.
 
 The personal information we provide to such third parties is protected by an appropriate legal agreement ensuring that your personal information is used solely for the purposes for which it was provided.
 
@@ -388,31 +349,33 @@ Laws introduced in the United States and other countries to give cross border co
 
 **14.9. Corporate transactions**
 
-We may disclose your information to a third party who acquires any part of Diamond Resorts™ or any of its affiliates, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of Diamond Resorts™ assets.
+We may disclose your information to a third party who acquires any part of Diamond Resorts® or any of its affiliates, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of Diamond Resorts™ assets.
 
 ## 15\. Cross-border data transfers from the European Economic Area
 
-**15.1.  **Diamond Resorts™ is a global organization headquartered in the United States. We process your personal information on servers located in a number of countries, including the United States. If you are located in the European Economic Area ( **EEA** ) or Switzerland, transfers of your personal information out of the EEA are protected by standard contractual clauses approved by the European Commission for the transfer of personal information and by Diamond Resorts’™ compliance with the EU-US and the Swiss – US Privacy Shield Framework.
+**15.1.** Diamond Resorts® is a global organization headquartered in the United States. We process your personal information on servers located in a number of countries, including the United States. If you are located in the European Economic Area (EEA) or Switzerland, transfers of your personal information out of the EEA are protected by standard contractual clauses approved by the European Commission for the transfer of personal information and by Diamond Resorts’™ compliance with the EU-US and the Swiss – US Privacy Shield Framework.
 
-**15.2.  **Diamond Resorts International, Inc.; Diamond Resorts Holding, LLC; Diamond Resorts Corporation; Diamond Resorts Centralized Services Company; Diamond Resorts International Marketing, Inc.; Diamond Resorts Management, Inc.; and Diamond Resorts International Club, Inc. (the "U.S. Diamond Entities") have entered into standard Model Contract Clauses agreements approved by the European Commission for the transfer of personal information out of the European Economic Area The U.S. Entities also comply with the EU-U.S. Privacy Shield Framework and with the Swiss – U.S. Privacy Shield Framework (collectively, "Privacy Shield") as set forth by the U.S. Department of Commerce regarding collection, use, and retention of personal information transferred from the European Economic Area (EEA) member countries or from Switzerland to the United States, respectively. The US Diamond Entities will adhere to the Privacy Shield Principles for as long as the U.S. Diamond Entities retain such personal information.
+**15.2.** Diamond Resorts International, Inc.; Diamond Resorts Holdings, LLC; Diamond Resorts Corporation; Diamond Resorts Centralized Services Company; Diamond Resorts International Marketing, Inc.; Diamond Resorts Management, Inc.; Diamond Resorts International Club, Inc.; and Diamond Resorts Financial Services, Inc. (the "U.S. Diamond Entities") have entered into standard Model Contract Clauses agreements approved by the European Commission for the transfer of personal information out of the European Economic Area The U.S. Entities also comply with the EU-U.S. Privacy Shield Framework and with the Swiss – U.S. Privacy Shield Framework (collectively, "Privacy Shield") as set forth by the U.S. Department of Commerce regarding collection, use, and retention of personal information transferred from the European Economic Area (EEA) member countries or from Switzerland to the United States, respectively. The U.S. Diamond Entities will adhere to the Privacy Shield Principles for as long as the U.S. Diamond Entities retain such personal information.
 
-The U.S. Diamond Entities have certified to the Department of Commerce that they adhere to the Privacy Shield Principles. You can visit our Privacy Shield certificate at [https://www.privacyshield.gov/participant?id=a2zt0000000TNNNAA4&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TNNNAA4&status=Active).If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. You can learn more about the Privacy Shield Framework by visiting the Privacy Shield website, <https://www.privacyshield.gov/>.
+The U.S. Diamond Entities have certified to the Department of Commerce that they adhere to the Privacy Shield Principles. You can visit our Privacy Shield certificate at [https://www.privacyshield.gov/participant?id=a2zt0000000TNNNAA4&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TNNNAA4&status=Active). If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. You can learn more about the Privacy Shield Framework by visiting the Privacy Shield website, [https://www.privacyshield.gov.](https://www.privacyshield.gov/)
 
-As part of the certification process with the U.S. Department of Commerce, the US Diamond Entities conduct in-house verification of their compliance with the Privacy Shield Principles, including periodic internal compliance reviews of this Privacy Policy.
+As part of the certification process with the U.S. Department of Commerce, the U.S. Diamond Entities conduct in-house verification of their compliance with the Privacy Shield Principles, including periodic internal compliance reviews of this Privacy Policy.
 
-If we become subject to an FTC or court order based on non-compliance, the US Diamond Entities shall make public any relevant Privacy Shield-related sections of any compliance or assessment report submitted to the U.S. Federal Trade Commission, to the extent consistent with confidentiality requirements.
+If we become subject to an FTC or court order based on non-compliance, the U.S. Diamond Entities shall make public any relevant Privacy Shield-related sections of any compliance or assessment report submitted to the U.S. Federal Trade Commission, to the extent consistent with confidentiality requirements.
 
-When the US Diamond Entities receive personal information under the Privacy Shield and then transfer it to third party service providers, we are liable for any processing of personal information by such third parties that is inconsistent with the Privacy Shield Principles unless we are not responsible for the event giving rise to any alleged damage.
+When the U.S. Diamond Entities receive personal information under the Privacy Shield and then transfer it to third party service providers, we are liable for any processing of personal information by such third parties that is inconsistent with the Privacy Shield Principles unless we are not responsible for the event giving rise to any alleged damage.
 
 Under the Privacy Shield you are entitled to access, correct, amend, or delete personal information about you that we hold where it is inaccurate, or when it has been processed in violation of the Privacy Shield Principles. You may access, amend, correct or delete your registration information by accessing your account on the Website. You may also exercise this right by contacting us as set forth in section 21 headed **Contacting us** below.
 
 With respect to personal information received or transferred pursuant to Privacy Shield, the U.S. Diamond Entities are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
-In certain situations, the U.S. Diamond Entities may be required to disclose your personal information in response to lawful requests by public authorities, including in order to meet national security or law enforcement requirements. For more information, please see section 14 headed **Who will the information be shared with, if anyone?**
+In certain situations, the U.S. Diamond Entities may be required to disclose your personal information in response to lawful requests by public authorities, including in order to meet national security or law enforcement requirements. For more information, please see section 14 headed
 
-The U.S. Diamond Entities have further committed to refer unresolved Privacy Shield complaints to our U.S.-based third party dispute resolution provider, the Better Business Bureau ("BBB"). If you do not receive timely acknowledgement of your complaint from us, or if we have not resolved your complaint, please contact or visit the BBB at [https://www.bbb.org/EU-privacy-shield/contact-us/ ](https://www.bbb.org/EU-privacy-shield/contact-us/)for more information or to file a complaint. The services of the BBB are provided at no cost to you.
+**Who will the information be shared with, if anyone?**
 
-Under certain limited circumstances, EEA and/or Swiss individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please visit <https://www.privacyshield.gov/>.
+The U.S. Diamond Entities have further committed to refer unresolved Privacy Shield complaints to our U.S.-based third party dispute resolution provider, the Better Business Bureau ("BBB"). If you do not receive timely acknowledgement of your complaint from us, or if we have not resolved your complaint, please contact or visit the BBB at [https://www.bbb.org/EU-privacy-shield/contact-us](https://www.bbb.org/EU-privacy-shield/contact-us/) for more information or to file a complaint. The services of the BBB are provided at no cost to you.
+
+Under certain limited circumstances, EEA and/or Swiss individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 ## 16\. Cross-border transfers (not EEA or Switzerland)
 
@@ -430,15 +393,15 @@ For online transactions, we use reasonable technological measures to protect per
 
 The transmission of personal information via the internet is never completely secure. While we endeavor to protect and maintain the confidentiality of the personal information you submit to us we cannot accept, and hereby expressly disclaim any liability from losses relating to the unauthorized disclosure or interception via the Internet of any information that you submit.
 
-For your own privacy protection, we encourage you to limit the personal information you send to us by email. In particular, please do not send payment card numbers to us by email.
+For your own privacy protection, we encourage you to limit the personal information you send to us by e-mail. In particular, please do not send payment card numbers to us by e-mail.
 
 ## 19\. Children
 
-We love to provide perfect family vacations and experiences, but our products are not aimed at children. You have to be at least 18 years old to transact with us. If you are under 13 years of age please do not send us any information about yourself. If we discover that we have collected any personal information online from a child under the age of 13 and have not received verifiable parental consent for such collection, we will remove that information from our databases as soon as possible.
+We love to provide perfect family vacations and experiences, but our products are not aimed at children. You have to be at least 18 years old to transact with us. If you are under 16 years of age please do not send us any information about yourself. If we discover that we have collected any personal information online from a child under the age of 16 and have not received verifiable parental consent for such collection, we will remove that information from our databases as soon as possible.
 
 ## 20\. Changes to this Privacy Policy
 
-Diamond Resorts™ may update or revise this Privacy Policy at any time. If we update this Privacy Policy, we will notify you by posting the revised Privacy Policy on our Sites and by providing the effective date of the updates or revisions at the bottom of this Policy. For revisions that materially expand the ways in which we use or share the personal information previously collected from you, we display an alert on our Sites or directly communicate with you in advance of and/or concurrently with the changes taking effect. Please do make sure you read any such notice carefully. ​
+Diamond Resorts® may update or revise this Privacy Policy at any time. If we update this Privacy Policy, we will notify you by posting the revised Privacy Policy on our Sites and by providing the effective date of the updates or revisions at the bottom of this Policy. For revisions that materially expand the ways in which we use or share the personal information previously collected from you, we display an alert on our Sites or directly communicate with you in advance of and/or concurrently with the changes taking effect. Please do make sure you read any such notice carefully.
 
 ## 21\. Contacting us
 
@@ -448,4 +411,8 @@ In Europe by writing to our Customer Services Department at Citrus House, Caton 
 
 In the United States or Canada by writing to our Customer Service Department at 10600 W. Charleston Blvd, Las Vegas, Nevada 89135, by telephoning 877.374.2582, or by e-mailing our Customer Services Department at [THEClub@diamondresorts.com](mailto:THEClub@diamondresorts.com).
 
-**Updated: May 24, 2018**
+## 22\. Do Not Sell Opt-Out Rights - Nevada Residents
+
+Under Nevada law, Nevada residents may opt out of the sale of certain “covered information” collected by operators of websites or online services. We currently do not sell covered information, as “sale” is defined by such law, and we don’t have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, please go to [NevadaPrivacy@DiamondResorts.com](mailto:NevadaPrivacy@DiamondResorts.com). You are responsible for updating any change in your email address by the same method and we are not obligated to cross-reference other emails you may have otherwise provided us for other purposes. We will maintain this information and contact you if our plans change. At that time we will create a process for verifying your identity and providing an opportunity to verified consumers to complete their opt-out. Please become familiar with our data practices as set forth in this privacy policy. We may share your data as explained in this privacy policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request. You may also have other choices regarding our data practices as set forth elsewhere in this privacy policy.
+
+Updated: October 1, 2019
