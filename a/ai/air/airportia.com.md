@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the airportia.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420223250id_/https%3A//www.airportia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportia.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224171823id_/http%3A//airportia.com/about/%23privacy) for the most accurate reproduction.*
 
-# Airportia Privacy Policy. The Airport Guide.
+# About Airportia. The Airport Guide.
 
-Airportia.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: www.airpotia.com
+## About Airportia
+
+Airportia is a leading Flight Tracker, Airport & Airline information website.
+
+Please note that Aiportia does not offer any way to contact Airports or Airlines. If you would like to contact an Airport or an Airline please visit their respective websites and use their contact forms or email addresses in order to contact them directly. If you send a message intended for an Airport or an Airline to the email below, your message will not reach the intended recipient and you will not get an answer.
+
+If you would like to contact the website Airportia.com please email us at [airportia.com@gmail.com](mailto:airportia.com@gmail.com)
+
+## Privacy Policy
+
+Airportia.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: www.airportia.com
 
 **Information Automatically Logged**
 
