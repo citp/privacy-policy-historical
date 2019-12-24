@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duplichecker.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611173730id_/https%3A//www.duplichecker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duplichecker.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224085940id_/https%3A//www.duplichecker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Security at Duplichecker.com
 
@@ -233,6 +233,42 @@ duplichecker
 
 | 
 
+dupli_bioep_shown_semrush 
+
+| 
+
+Trach ad popup 
+
+| 
+
+1 week 
+
+| 
+
+Tracking   
+  
+duplichecker 
+
+| 
+
+dupli_bioep_shown_session_semrush 
+
+| 
+
+Track ad popup shown 
+
+| 
+
+1, 2 second 
+
+| 
+
+Tracking   
+  
+duplichecker 
+
+| 
+
 ci_session 
 
 | 
@@ -428,6 +464,12 @@ If you have other queries or do not have a DupliChecker.com account, you may con
 As DupliChecker.com continue to improve our services, we may need to update this Policy in accordance to changes in our Site, Software, App, and Services, our business, and laws relevant to us and you. We will, however, always keep our commitment to respect and protect your privacy. We will immediately notify you should there be any changes that may impact your rights under this Policy via email or post any other modifications to this Policy, along with their effective date, in the most easy-to-find area of the Site. We highly recommend that you check back here from time to time to stay informed of any changes. Please note that your continued use of DupliChecker.com after any revision means that you agree with the changes, and consent to be bound by, the new Policy. If you don't agree with any of the changes in this Policy and do not wish your information to be subject to it, then you will need to delete your account with DupliChecker.com. 
 
 You will be notified of any changes in Privacy Policy on our Privacy Policy page. 
+
+### Content uploaded by users
+
+Images uploaded to DupliChecker.com are temporarily uploaded to our system for the processing. We do not intend to breach the privacy of any user and we have our own system which deletes the images after every 5 minutes. The purpose of this tool is to facilitate the users and all the content is uploaded by users. We do not support pirated material in any case. Copyright for all images submitted to DupliChecker.com remains with the original owner/author. 
+
+If you do not agree to any of the above terms, you may not use DupliChecker.com. 
 
 ### Contact Us
 
