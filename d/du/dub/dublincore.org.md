@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublincore.org privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610161300id_/http%3A//dublincore.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincore.org privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224193429id_/https%3A//www.dublincore.org/about/privacy) for the most accurate reproduction.*
 
 # DCMI: Dublin Core Metadata Initiative (DCMI) Privacy Statement
 
