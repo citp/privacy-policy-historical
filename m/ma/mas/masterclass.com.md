@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the masterclass.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610085747id_/https%3A//www.masterclass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterclass.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224010345id_/https%3A//www.masterclass.com/privacy) for the most accurate reproduction.*
 
 # MasterClass
 
-### _Date of Last Revision: November 27, 2018_
+### Date of Last Revision: November 27, 2018
 
-## Our Policy
+#### Our Policy
 
 This Privacy Policy describes the data protection practices of Yanka Industries, Inc., d/b/a MasterClass (“ **MasterClass,** ” “ **we,** ” “ **us,** ” or “ **our** ”). This Privacy Policy applies to information that we collect and use about you when you access or use the MasterClass website, mobile application, or other online or mobile service that links to or otherwise presents this Privacy Policy to you. We refer to these products and services collectively as the “ **Services**.”
 
@@ -30,7 +30,7 @@ This Privacy Policy contains the following sections:
 
 
 
-## Information We Collect
+#### Information We Collect
 
 We obtain information about you through the means discussed below when we provide the Services. Please note that we need certain types of information so that we can provide the Services to you. If you do not provide us with such information, or ask us to delete it, you may no longer be able to access or use our Services.
 
@@ -48,7 +48,7 @@ We collect a variety of information that you provide directly to us. For example
 
 
 
- While parts of the Services may not require you to provide any information that can directly identify you by name (such as if you choose to browse the website without logging in), the specific types of information we collect will depend upon the Services you use, how you use them, and the information you choose to provide. The types of data we collect directly from you includes:
+ **Information about you.**  While parts of the Services may not require you to provide any information that can directly identify you by name (such as if you choose to browse the website without logging in), the specific types of information we collect will depend upon the Services you use, how you use them, and the information you choose to provide. The types of data we collect directly from you includes:
 
   * Email address
   * Name, if you choose to provide it
@@ -62,17 +62,17 @@ We collect a variety of information that you provide directly to us. For example
 
 
 
- If you request that your purchase be provided to someone other than yourself (such as a gift recipient), we use the information you provide about the other person to fulfill the shipment.
+ **Information about others.**  If you request that your purchase be provided to someone other than yourself (such as a gift recipient), we use the information you provide about the other person to fulfill the shipment.
 
  **2\. Information We Collect Through Automated Means**
 
 When you use our Services, we collect certain information as described in this Section. As discussed further below, we and our service providers (which are third party companies that work on our behalf) may use a variety of technologies, including cookies and similar tools, to assist in collecting this information.
 
- When you use our website, we collect and analyze information such as your IP address, browser types, browser language, operating system, software and hardware attributes (including device IDs) referring and exit pages and URLs, the number of clicks, pages viewed and the order of those pages, the date and time you used the Services, error logs, and other similar information.
+ **Websites.**  When you use our website, we collect and analyze information such as your IP address, browser types, browser language, operating system, software and hardware attributes (including device IDs) referring and exit pages and URLs, the number of clicks, pages viewed and the order of those pages, the date and time you used the Services, error logs, and other similar information.
 
- When you use a MasterClass mobile application or software, we automatically receive certain information about the mobile phone, tablet, or computer used to access the application or software, including device identifiers, IP address, operating system, version, Internet service provider, browser type, domain name and other similar information, whether and when you update the app, date and time of use, and how you use the app.
+ **Mobile Applications and Software.**  When you use a MasterClass mobile application or software, we automatically receive certain information about the mobile phone, tablet, or computer used to access the application or software, including device identifiers, IP address, operating system, version, Internet service provider, browser type, domain name and other similar information, whether and when you update the app, date and time of use, and how you use the app.
 
- When you use the Services, we and our service providers may automatically collect general location information (e.g., IP address, city/state and or postal code associated with an IP address) from your computer or mobile device.
+ **Location Information.**  When you use the Services, we and our service providers may automatically collect general location information (e.g., IP address, city/state and or postal code associated with an IP address) from your computer or mobile device.
 
  **3\. Information We Collect From Social Media and Other Content Platforms**
 
@@ -82,7 +82,7 @@ If you access the Services through a third-party connection or log-in (e.g., thr
 
 We may receive additional information such as demographic and statistical information from third parties, such as business partners, marketers, researchers, analysts, and other parties that we may attribute to you based on your assignment to certain statistical groups. We use this information to supplement the information that we collect directly from you in order to derive your possible interests and to provide more relevant experiences for you and improve our products, analytics, and advertising.
 
-## HOW WE USE YOUR INFORMATION
+#### HOW WE USE YOUR INFORMATION
 
 We, or our service providers, use your information for various purposes depending on the types of information we have collected from and about you, in order to:
 
@@ -98,11 +98,11 @@ We, or our service providers, use your information for various purposes dependin
 
 
 
- For the purposes discussed in this Privacy Policy, we may combine the information that we collect through the Services with information that we receive from other sources, both online and offline, and use such combined information in accordance with this Privacy Policy.
+ **Combined Information.**  For the purposes discussed in this Privacy Policy, we may combine the information that we collect through the Services with information that we receive from other sources, both online and offline, and use such combined information in accordance with this Privacy Policy.
 
- We may aggregate and/or anonymize any information collected through the Services so that such information can no longer be linked to you or your device. We may use such information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, and sponsors.
+ **Aggregate/Anonymous Data.**  We may aggregate and/or anonymize any information collected through the Services so that such information can no longer be linked to you or your device. We may use such information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, and sponsors.
 
-## LEGAL BASES FOR USE OF YOUR INFORMATION
+#### LEGAL BASES FOR USE OF YOUR INFORMATION
 
 The legal bases for using your information as set out in this Privacy Policy are as follows:
 
@@ -113,13 +113,13 @@ The legal bases for using your information as set out in this Privacy Policy are
 
 
 
-## COOKIES AND SIMILAR TECHNOLOGIES
+#### COOKIES AND SIMILAR TECHNOLOGIES
 
 To collect the information in the “Information We Collect Through Automated Means” section above, we and our service providers use Internet server logs, cookies, tracking pixels, and other similar tracking technologies. We use these technologies in order to offer you a more tailored experience in the future, by understanding and remembering your particular browsing preferences. Cookies are small text files that are placed on your computer or mobile device when you visit a site that enable us to: (i) recognize your computer; (ii) store your preferences and settings; (iii) understand the web pages of the Services you have visited; (iv) enhance your user experience by delivering and measuring the effectiveness of content and advertising tailored to your interests; (v) perform searches and analytics; and (vi) assist with security and administrative functions. Some cookies are placed in your browser cache while those associated with Flash technologies are stored with your Adobe Flash Player files.
 
 As we adopt additional technologies, we may also gather information through other methods. Please note that you can change your settings to notify you when a cookie is being set or updated or to block cookies altogether. Please consult the “Help” section of your browser for more information (e.g., Internet Explorer; Google Chrome; Mozilla Firefox; or Apple Safari). You can also manage the use of Flash technologies, including flash cookies and local storage objects, with the Flash management tools available at Adobe's website. Please note that by blocking, disabling, or managing any or all cookies, you may not have access to certain features or offerings of the Services. For more information about our use of cookies, please see our[ Cookie Policy.](https://web.archive.org/cookiepolicy)
 
-## ONLINE ANALYTICS AND ADVERTISING
+#### ONLINE ANALYTICS AND ADVERTISING
 
  **1\. Analytics**
 
@@ -141,27 +141,27 @@ Please note that if you exercise the choices above, you will still see advertisi
 
 Do Not Track (“ **DNT** ”) is a privacy preference that users can set in certain web browsers. We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the variety of opt-out mechanisms listed above. However, we do not currently recognize or respond to browser-initiated DNT signals. To learn more about Do Not Track, you can do so[ here.](https://allaboutdnt.com/)
 
-## HOW WE SHARE AND DISCLOSE YOUR INFORMATION
+#### HOW WE SHARE AND DISCLOSE YOUR INFORMATION
 
 MasterClass will share your information in the following ways:
 
- We may share information we collect within the Yanka Industries family of companies to deliver products and services to you, ensure a consistent level of service, and enhance our products, services, and your customer experience.
+ **Affiliates and Subsidiaries.**  We may share information we collect within the Yanka Industries family of companies to deliver products and services to you, ensure a consistent level of service, and enhance our products, services, and your customer experience.
 
- We provide access to or share your information with select third parties who perform services on our behalf. They have access to perform these services but are prohibited from using your information for other purposes. They provide a variety of services to us, including billing, sales, marketing, product content and features, advertising, analytics, research, customer service, data storage, security, fraud prevention, payment processing, and legal services.
+ **Service Providers.**  We provide access to or share your information with select third parties who perform services on our behalf. They have access to perform these services but are prohibited from using your information for other purposes. They provide a variety of services to us, including billing, sales, marketing, product content and features, advertising, analytics, research, customer service, data storage, security, fraud prevention, payment processing, and legal services.
 
- By using the Services, you acknowledge and agree that we may access, retain and disclose the information we collect and maintain about you if required to do so by law or in a good faith belief that such access, retention or disclosure is reasonably necessary to: (a) comply with legal process (e.g. a subpoena or court order); (b) enforce our Terms of Service, this Privacy Policy, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; and/or (e) protect the rights, property or personal safety of MasterClass, its agents and affiliates, its users and/or the public. This includes exchanging information with other companies and organizations for fraud protection, and spam/malware prevention, and similar purposes.
+ **Protection of MasterClass and Others.**  By using the Services, you acknowledge and agree that we may access, retain and disclose the information we collect and maintain about you if required to do so by law or in a good faith belief that such access, retention or disclosure is reasonably necessary to: (a) comply with legal process (e.g. a subpoena or court order); (b) enforce our Terms of Service, this Privacy Policy, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; and/or (e) protect the rights, property or personal safety of MasterClass, its agents and affiliates, its users and/or the public. This includes exchanging information with other companies and organizations for fraud protection, and spam/malware prevention, and similar purposes.
 
- As we continue to develop our business, we may buy, merge, or partner with other companies. In such transactions (including in contemplation of such transactions), user information may be among the transferred assets. If a portion or all of our assets are sold or transferred to a third-party, customer information (including your email address) would likely be one of the transferred business assets. If such transfer is subject to additional mandatory restrictions under applicable laws, we will comply with such restrictions.
+ **Business Transfers.**  As we continue to develop our business, we may buy, merge, or partner with other companies. In such transactions (including in contemplation of such transactions), user information may be among the transferred assets. If a portion or all of our assets are sold or transferred to a third-party, customer information (including your email address) would likely be one of the transferred business assets. If such transfer is subject to additional mandatory restrictions under applicable laws, we will comply with such restrictions.
 
- Certain features of our Services make it possible for you to share comments publicly with other users. Any information that you submit through such features is not confidential, and we may use it for any purpose (including in testimonials or other marketing materials). Any information you post openly in these ways will be available to the public at large and potentially accessible through third-party search engines. Accordingly, please take care when using these features.
+ **Public Forums.**  Certain features of our Services make it possible for you to share comments publicly with other users. Any information that you submit through such features is not confidential, and we may use it for any purpose (including in testimonials or other marketing materials). Any information you post openly in these ways will be available to the public at large and potentially accessible through third-party search engines. Accordingly, please take care when using these features.
 
- From time to time, we may share Aggregate/Anonymous Information about use of the Services, such as by publishing a report on usage trends. The sharing of such data is unrestricted.
+ **Aggregate/Anonymous Information.**  From time to time, we may share Aggregate/Anonymous Information about use of the Services, such as by publishing a report on usage trends. The sharing of such data is unrestricted.
 
-## RETENTION OF YOUR INFORMATION
+#### RETENTION OF YOUR INFORMATION
 
 We keep your information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws.
 
-## DATA SUBJECT RIGHTS AND YOUR CHOICES
+#### DATA SUBJECT RIGHTS AND YOUR CHOICES
 
 You have certain rights with respect to your information as further described in this section.
 
@@ -185,15 +185,15 @@ We will consider all requests and provide our response within the time period st
 
 You may instruct us not to use your contact information to contact you by email, postal mail, or phone regarding products, services, promotions and special events that might appeal to your interests by contacting us using the information below. In commercial email messages, you can also opt out by following the instructions located at the bottom of such emails. Please note that, regardless of your request, we may still use and share certain information as permitted by this Privacy Policy or as required by applicable law. For example, you may not opt out of certain operational emails, such as those reflecting our relationship or transactions with you, or important notifications regarding classes in which you are enrolled.
 
-## THIRD PARTY LINKS AND FEATURES
+#### THIRD PARTY LINKS AND FEATURES
 
 The Services contain links to third-party websites such as social media sites, and also contain third-party plug-ins (such as the Facebook “like” button and Twitter “follow” button). If you choose to use these sites or features, you may disclose your information not just to those third-parties, but also to their users and the public more generally depending on how their services function. We are not responsible for the content or practices of those websites or services. The collection, use, and disclosure of your information will be subject to the privacy policies of the third party websites or services, and not this Privacy Policy. We urge you to read the privacy and security policies of these third-parties.
 
-## CHILDREN’S PRIVACY
+#### CHILDREN’S PRIVACY
 
 The Services are intended for general audiences and not for children under the age of 13. If we become aware that we have inadvertently collected “personal information” (as defined by the United States Children’s Online Privacy Protection Act) from children under the age of 13 without valid parental consent, we will take reasonable steps to delete it as soon as possible. We do not knowingly process data of EU residents under the age of 16 without parental consent. If we become aware that we have collected data from an EU resident under the age of 16 without parental consent, we will take reasonable steps to delete it as soon as possible. We also comply with other age restrictions and requirements in accordance with applicable local laws.
 
-## INTERNATIONAL USERS
+#### INTERNATIONAL USERS
 
 The information discussed in this Policy is processed in the United States by MasterClass, whose principal office in the United States is located at 660 4th Street #443, San Francisco, CA 94107.
 
@@ -205,19 +205,19 @@ If you are located in the European Union or other regions with laws governing da
 
 If applicable, you may make a complaint to the data protection supervisory authority in the country where you reside. Alternatively you may seek a remedy through local courts if you believe your rights have been breached.
 
-## HOW WE PROTECT YOUR INFORMATION
+#### HOW WE PROTECT YOUR INFORMATION
 
 MasterClass takes technical and organizational security measures to protect the information provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. Please keep this in mind when disclosing any information to MasterClass via the Internet.
 
-## CALIFORNIA PRIVACY RIGHTS
+#### CALIFORNIA PRIVACY RIGHTS
 
 California law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of “personal information” (as defined by applicable California law) with third parties for their direct marketing purposes. MasterClass does not share your personal information with third parties for their own direct marketing purposes.
 
-## CHANGES TO OUR PRIVACY POLICY
+#### CHANGES TO OUR PRIVACY POLICY
 
 We reserve the right to amend this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. We will make the revised Privacy Policy accessible through the Services, so you should review the Privacy Policy periodically. You can know if the Privacy Policy has changed since the last time you reviewed it by checking the “Date of Last Revision" included at the beginning of the document. If we make a material change to the Policy, you will be provided with appropriate notice in accordance with legal requirements. By continuing to use the Services, you are confirming that you have read and understood the latest version of this Privacy Policy.
 
-## CONTACT INFORMATION
+#### CONTACT INFORMATION
 
 Please feel free to contact us if you have any questions about MasterClass' Privacy Policy or the information practices of the Services.
 
