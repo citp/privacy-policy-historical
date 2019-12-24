@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apsalar.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618015522id_/http%3A//www.apsalar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsalar.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224174514id_/https%3A//apsalar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Apsalar
 
