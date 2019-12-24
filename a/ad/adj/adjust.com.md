@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the adjust.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617084131id_/https%3A//www.adjust.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjust.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224165401id_/https%3A//www.adjust.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adjust
 
-Last modified: January 18, 2019
+Last modified: November 27, 2019
 
-Adjust GmbH, adjust Inc., adjust KK, adjust Korea Ltd., adjust (Beijing) Co Ltd., and adjust Ltd. (collectively, “adjust” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy. With this privacy policy, We would like to inform you how we process your personal data whilst using this website.
+Adjust GmbH including all of its affiliates (collectively, “adjust” or “We”) respects your privacy and is committed to protecting it through our compliance with this policy. With this privacy policy, We would like to inform you how we process your personal data whilst using this website.
 
 For the privacy policy describing the data processing of our subsidiary Acquired IO LLC, please refer to <https://app.acquired.io/legal/privacy/>.
 
 The responsible body according to art. 4 European General Data Protection Regulation (“GDPR”) is Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, managing directors are Christian Henschel and Paul Müller.
 
-In case of any questions relating to data protection, please get in touch with us at [privacy@adjust.com](mailto:privacy@adjust.com) or contact our Data Protection Officer Prof. Dr. Christoph Bauer directly at Große Bleichen 21, 20354 Hamburg, Germany or via e-mail at [c.bauer@eprivacy.eu](mailto:c.bauer@eprivacy.eu).
+In case of any questions relating to data protection, please get in touch with us at [privacy@adjust.com](mailto:privacy@adjust.com).
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.adjust.com](http://www.adjust.com/) (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.adjust.com](https://www.adjust.com/) (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -30,7 +30,7 @@ It does not apply to information collected by:
 
 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. If you are a California resident, please also review our California Resident Privacy Notice.
 
 ### 1\. Collection and Use of Data on the Website
 
@@ -70,7 +70,7 @@ We may also use your information to contact you about goods and services that ma
 
 ### Children Under the Age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, Germany, via email at [privacy@adjust.com](mailto:privacy@adjust.com) or per phone at +49 172 153 501 1.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, Germany, via email at [privacy@adjust.com](mailto:privacy@adjust.com) or per phone at +49 173 801 480 5.
 
 ### Information We Collect About You When You Visit Our Website
 
@@ -188,7 +188,7 @@ In this case, please send an e-mail to [privacy@adjust.com](mailto:privacy@adjus
 
 ### Your California Privacy Rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@adjust.com](mailto:privacy@adjust.com) or write us at: Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, Germany.
+If you are a California resident, please review our California Resident Privacy Notice for information regarding your California privacy rights.
 
 ### Commitment to the EU-US Privacy Shield
 
@@ -250,25 +250,37 @@ VWO is operated by Wingfify Software Private Limited. VWO is a test and optimiza
 
 Drift Inc. is a conversation-driven marketing platform. With its rapidly evolving tools, Drift unlocks the hidden insights to accelerate business success. Drift records the email address you enter in our forms. For more information on how drift data is collected and processed please click [here](https://www.drift.com/privacy-policy/). To unsubscribe from drift tracking, please email [privacy@drift.com](mailto:privacy@drift.com).
 
-##### Raygun
+##### Amplitude
 
-Raygun is operated by Raygun Limited and is an online service providing us with error tracking and performance analytics for our Adjust Dashboard.  
-The only data that is shared with Raygun is the IP address of a Dashboard user. This information is used to compute geographic performance metrics limited to only the country of origin, that we use to improve the quality of our service. Raygun does not share data with any other third party.  
-If you would like to opt-out from our performance analysis and not to be tracked by Raygun please send a request to [dashboard+raygun@adjust.com](mailto:dashboard+raygun@adjust.com) specifying the email address associated with your Adjust Dashboard user.
+Amplitude is an analysis service of Amplitude Inc. (631 Howard Street, Suite 300, San Francisco, CA 94105, U.S.A.). This tool collects technical information, such as the type of your device (e.g., iPhone 7 or the operating system used (e.g., iOS 10.3). In addition, Amplitude tracks location data (e.g. country) and internal data (e.g. language, server upload time, session ID) that occur when using our Adjust Dashboard. Such events may, for example, be how long you were logged into our Dashboard and from which country. In other words, Amplitude helps us understand how you use our Dashboard so we can improve the experience.
+
+Data collected by Amplitude Inc. in the United States is transferred to servers of Amplitude Inc. in the United States, where they are stored. Amplitude is EU-US Privacy Shield certified.
+
+You will find additional information about the manner in which Amplitude processes data at:
+
+<https://amplitude.com/privacy>.
+
+#### Rollbar
+
+To better understand any possible errors in the source code of our dashboard, we share some data from our dashboard users with Rollbar, Inc., 51 Federal Street, San Francisco, CA 94107, United States. These data include the dashboard user's name, email address, and device information, such as a description of the error or bug the dashboard user experienced while using the dashboard.
+
+For further information please refer to Rollbar's privacy policy at  
+<https://docs.rollbar.com/docs/privacy-policy>
 
 ### 3\. Processing of data through the Adjust Technology
 
-Adjust GmbH, adjust Inc., adjust KK, adjust Korea Ltd., adjust (Beijing) Co Ltd., and adjust Ltd. (collectively, “Adjust” or “We”) provide mobile analytics and attribution services to mobile app providers (our “Customers”). In connection with these services, we may process certain data from the users of these mobile apps (collectively the “End User” or “You”), as further described hereafter. We process the data upon instructions from our Customers and do not have any kind of direct relationship with the You as the End User.
+We provide mobile analytics and attribution services to mobile app providers (our “Customers”). In connection with these services, we may process certain data from the users of these mobile apps (collectively the “End User” or “You”), as further described hereafter. We process the data upon instructions from our Customers and do not have any kind of direct relationship with the You as the End User.
 
 Customers who have [child-directed apps](https://www.adjust.com/terms/#child-directed) must choose the appropriate product settings and must not share any personal data with Partners or any third parties. Customers must agree to the section in our Terms and Conditions accordingly.
 
 Our SDK and APIs (collectively the “adjust technology”) may process some of the following data from You as the End User:
 
-  * Anonymized (hashed) IP address
+  * hashed IP address
   * Mobile identifiers such as the ID for Advertising for iOS (IDFA), Google Advertising ID or similar mobile identifiers
   * Installation and first opening of an app on Your mobile device
   * Your interactions within an app (e.g. in-app purchases, registration)
   * Information regarding which advertisements You have seen or clicked on
+  * For the Unbotify/Fraud product additionally: sensory data including touch events, counting text changes, accelerometer, gyroscope, battery, light sensor, device hardware specifications and operating system version
 
 
 
