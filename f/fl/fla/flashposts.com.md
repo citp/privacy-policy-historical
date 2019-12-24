@@ -1,100 +1,92 @@
-> *The following text is extracted and transformed from the flashposts.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashposts.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224204737id_/https%3A//www.flashposts.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Flashposts
 
-**Go Daddy Respects Your Privacy**
+We understand that privacy is very important to every internet user these days. That is why we’d like to inform you on this matter. What data we collect; how we collect it; what we do with this information and how we treat it: you will read all about it on this page. flashposts.com places a lot of value on the privacy of every visitor to our website. That’s why we make sure that the data you leave with us is kept completely confidential. Flashposts acts in accordance with the Personal Data Protection Act and, since May 25 2018, the General Data Protection Regulation, as far as this is applicable to us.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+At the present time our website does not offer the possibility to create user profiles, comment on articles, or buy products. We also don’t provide the option to register for a newsletter with your personal information. Only by filling in our contact form will we receive your personalized data, but this is limited to the information you fill in yourself. We do use (depersonalized) data to make sure our website runs properly/better. We collect this information through functional and analytical cookies. We also place marketing cookies, but only with your consent. You can read more about this in our Cookie Statement.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+It is obligatory for all of Flashposts’s employees to respect the confidentiality of your data.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+ **1\. Who are we?**
 
-**Information Collection and Use**
+Flashposts is a private company that deals with web content on interesting topics, stories and other events..
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+ **2\. What type of personal data do we collect and process?  
+**__Our services using personal data  
+__As stated before, Flashposts does not provide the possibility to create a user profile. It’s also impossible to comment on articles, buy products via our website or register for a newsletter. This already precludes a very common reason for collecting your personal data from applying to us.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+ _ _Collecting and processing contact information  
+__We do offer the possibility to fill in a contact form in order to contact our editorial team with a question or remark. This contact form requires you to fill in your email address, so our team can process the question/remark and provide you with an answer. Without this information, we can’t approach you. Before you send your contact form, you are asked to give permission for us to save your filled in information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+ _ _Collecting and processing automatically generated statistical data  
+__To make sure the website runs optimally and to keep improving, information about your use of our website is automatically processed. Optimizing our website mostly has to do with technical adjustments that, for example, make sure our pages are shown properly and that they are secure and protected. The information that is processed consists of, for example, the type of device you use (desktop, mobile, tablet), your IP address (your device’s internet address that is often linked to your general location), which browser you use, the operating system you use, the pages you visit on our website and where you came from before landing on our website. This is depersonalized data and it’s impossible to trace it back to you. This information is gathered through placing analytical cookies. You can read more about this in our Cookie Statement.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+ _ _Processing data for marketing purposes  
+__Of course, we hope that you visit our website because you’re interested in our content. To be able to finance new content appearing on our website on a frequent basis, we have to get our revenue from advertisements. Our goal is to make the advertisements we show you as relevant to you as possible. To be able to do this we turn to third parties for help, but only with your explicit permission. These third parties collect data about websites you’ve visited previously, products you’ve viewed, your clicking behavior or your online interests to consequently show you an advertisement you will find interesting. This data is processed, with your consent, by placing an advertisement. You can read more about this in our Cookie Statement. Flashposts does not have access to this information and does not save it anywhere.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+ _ _Processing data for social media purposes  
+__On our website, we provide the option to share articles, videos and images via social media. For this purpose we’ve placed social media share buttons for Facebook, Twitter and Pinterest. To make sure these buttons function properly social media cookies are placed, after you’ve given your consent. The minute you click one of the share buttons, Facebook, Twitter or Pinterest know who you are and you don’t have to log in to your social media account again. flashposts.com does not save or have access to the data used by these parties. You can read more about this in our Cookie Statement.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+ **3\. What do we use the collected data for and what legal bases do we rely on?**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+ _ _Purposes  
+__We’ve already described this above, but collecting and processing the necessary contact information and processing depersonalized statistical data is necessary to:
 
-**Security**
+  * Enable you using the website;
+  * Be able to respond to questions and remarks you send us via the contact form;
+  * Draw up anonymous statistical data;
+  * Protect, adjust and improve the website.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ _Collecting and processing contact information and processing statistical data is necessary for safeguarding the legitimate interests of Flashposts, and can therefore not be refused _.__
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+If you are okay with Flashposts providing information about you to third parties for marketing or social media purposes, you will need to give your explicit consent on our website. You can read more about this in our Cookie Statement. With your permission, depersonalized data will be processed to be able to:
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * Show relevant and interesting advertisements
+  * Share our articles
+  * Make sure the same advertisement isn’t shown again and again
+  * Track what other websites you visit
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+ _Processing depersonalized data intended for marketing and social media purposes is not obligatory and it up to you as a user of our website to give your permission or not. Flashposts is legally obligated to obtain your permission before processing this data._
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+ _ _Usage of your data by third parties  
+__The data we collect and process does not get shared with third parties, unless you have explicitly given us permission to do so. Personal information filled out by you in the contact form will _never_ be sent to third parties, _unless_ you have given your explicit permission to us. You can withdraw your permission at any time. You can do this by contacting us.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+In our Cookie Statement you will find a list of the partners with whom we share the depersonalized analytical and functional cookies and, only with your permission, the data used for marketing and social media purposes.
 
-**Compliance with Laws and Law Enforcement**
+Flashposts will make sure appropriate measures will be taken if we have provided your personal information to third parties. For example, Flashposts will, if need be, conclude a processing agreement with a third party. This agreement will include limits regarding the usage of your personal information as well as obligations regarding the protection of your personal information.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Finally, Flashposts can provide your personal information to third parties when we are obligated to do so based on laws and regulations, or if we are forced to do so due to a lawsuit and/or in case we deem it necessary for the protection of our own rights.
 
-**Third Party Service Providers**
+ _ _Hyperlinks by third parties  
+__Our website can contain hyperlinks. If you click this hyperlink you will leave our website and go to another company’s website. At that point, Flashposts does not have any influence on the services offered by the website in question or on the website’s methods. These websites have their own privacy policy that is completely separate from our privacy policy. Our privacy policy only refers to data processed by Flashposts.  Therefore, Flashposts does not accept any responsibility or liability for services and/or websites by third parties or their methods and/or contents.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+ **4\. How long do we keep your personal information for?**  
+The data that is collected automatically (so, the statistical, marketing and social media data) isn’t saved by us, but merely forwarded directly by us. You can check with the receiving party how long this data is saved for. Read more about this in our Cookie Statement.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We will only store your personal data submitted via the contact form for as long as necessary for the purposes they were collected and processed in the first place. Your personal information can often be deleted as soon as we’ve dealt with your question or remark. Only when we are legally obliged to do so or when we need it to defend our interests (for example, in case of a dispute between you and us) will we store your personal data for a longer period of time.
 
-**Supplementation of Information**
+ **5\. How is your personal information protected?**  
+Flashposts does everything in its power to make sure the collected data is stored safely. That is why we have a couple of very handy technical staff members who are always busy to take technical and organizational measures to enable this. We do this to protect your data from being lost or being processed unlawfully in any way. Do you want to know more about how we do this? Contact us via the contact form.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+ **6\. Cookies**  
+As stated before, we use cookies, pixels (or similar techniques) and social media plugins on ours website. Some of these cookies are necessary to make sure the websites functions properly and others help us to improve our website and to enable us to show you the right advertisements and articles. We provide you with an elaborate explanation in our Cookie Statement.
 
-**Contests/Surveys**
+ **7\. Access, improvement and transferability of your data**  
+If you want to know which of your personal data we have stored, you can submit a request via our contact form. This is only possible for the personal data we gather. The data we merely process cannot be called upon retroactively. This means that the only data you can have access to is the information you have submitted to us by means of the contact form. If you want to apply any changes to the information you have requested, you can let our member of staff who has helped you with the request know about it. You can request from them that Flashposts changes, improves, complements, deletes or screens off your data in another way.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+You also have the right to be supplied with the personal data you submitted in a common, structured and readable form and to consequently transfer this data yourself. The same procedure applies here: you can send your request to us via the contact form. Flashposts will respond to your request within one month. In exceptional cases, Flashposts has the legal right to respond to your request within a three month period, for example when the request is very complex. If this is the case, Flashposts will let you know within one month.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+If Flashposts refuses your request, we will notify you in writing.
 
-**Tell-A-Friend**
+ **8\. Can I refuse my personal data being used?**  
+We need the personal data you provide us with when you contact us to be able to respond to your question or remark. We cannot respond to anonymous submissions. The usage of depersonalized data we process for functional and analytical purposes cannot be refused, except by completely blocking the use of cookies in your web browser. Read more about this in our Cookie Statement. The usage of depersonalized data for marketing and social media purposes can be refused by not consenting to it when you are asked permission while visiting our website.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+ **9\. Can this Privacy Policy be changed?**  
+This privacy policy can be changed. This statement can be altered without our visitors actively being informed. That’s why we recommend you to regularly visit this page to find out if anything has changed since your last visit.
 
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We will be happy to answer your questions!
