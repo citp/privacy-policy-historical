@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crisp.im privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411074452id_/https%3A//crisp.chat/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisp.im privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224192523id_/https%3A//crisp.chat/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Crisp
 
@@ -46,4 +46,4 @@ The Crisp chatbox, that is running on the websites of our users, uses cookies. C
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-Ready to improve your customer engagement?
+## Ready to improve your customer engagement?
