@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighbours.com.au privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608020931id_/https%3A//tenplay.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighbours.com.au privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224032846id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy/network-10-highlights) for the most accurate reproduction.*
 
 # Privacy Policy Highlights :: CBS Interactive
 
@@ -104,6 +104,7 @@ CBS Australia Privacy Officer Network Ten Pty Limited 1 Saunders Street Pyrmont,
 
   * CBS Interactive Pty Limited (ABN 41 092 094 525)
   * Network Ten Pty Limited (ABN 91 052 515 250)
+  * Network Ten All Access Pty Limited (ABN 60 629 391 117)
 
 
 
