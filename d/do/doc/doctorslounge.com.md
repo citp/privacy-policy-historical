@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doctorslounge.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401145635id_/https%3A//www.doctorslounge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorslounge.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224182451id_/https%3A//www.doctorslounge.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement - Doctors Lounge(TM)
 
 [](https://www.doctorslounge.com/)
 
-[web.archive.org](https://web.archive.org/) / [web](https://web/) / [20190401145635id_](https://web.archive.org/web/20190401145635id_/) / [https%3A](https://web.archive.org/web/20190401145635id_/https%3A/) / [](https://web.archive.org/) / [www.doctorslounge.com](https://web.archive.org/web/20190401145635id_/https%3A//www.doctorslounge.com/) / [privacy.htm](https://web.archive.org/web/20190401145635id_/https%3A//www.doctorslounge.com/privacy.htm)
+[web.archive.org](https://web.archive.org/) / [web](https://web/) / [20191224182451id_](https://web.archive.org/web/20191224182451id_/) / [https%3A](https://web.archive.org/web/20191224182451id_/https%3A/) / [](https://web.archive.org/) / [www.doctorslounge.com](https://web.archive.org/web/20191224182451id_/https%3A//www.doctorslounge.com/) / [privacy.htm](https://web.archive.org/web/20191224182451id_/https%3A//www.doctorslounge.com/privacy.htm)
 
 * * *
 
