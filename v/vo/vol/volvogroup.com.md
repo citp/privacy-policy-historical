@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volvogroup.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401005606id_/https%3A//www.volvogroup.com/en-en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volvogroup.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224154538id_/https%3A//www.volvogroup.com/en-en/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Volvo Group
 
