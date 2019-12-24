@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatra.io privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512145226id_/https%3A//chatra.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatra.io privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224185451id_/https%3A//chatra.io/privacy-policy) for the most accurate reproduction.*
 
 # ··· Chatra - Privacy Policy
 
@@ -131,7 +131,7 @@ If your data is transferred to the United States, the transfer happens in accord
 
 Chatra complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield. 
 
-Chatra has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+Chatra has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)
 
 Chatra has certified that it adheres to each of the Privacy Shield Principles: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. 
 
