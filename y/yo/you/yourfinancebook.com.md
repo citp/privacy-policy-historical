@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfinancebook.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329013641id_/http%3A//yourfinancebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfinancebook.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224225103id_/https%3A//yourfinancebook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Finance Book
 
