@@ -1,97 +1,92 @@
-> *The following text is extracted and transformed from the edigitalsurvey.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612030127id_/https%3A//www.maruedr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edigitalsurvey.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224201024id_/https%3A//marumatchbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Maru/Matchbox UK
+# Maru/Matchbox Privacy Policy - Maru/Matchbox
 
-**2.1** The following sections set out why we are processing your information, what information we collect, the legal basis for and duration of our processing of your information and (if applicable) who your information will be shared with and where those recipients are based.
+Maru Group Canada Inc., Maru Group LLC, Maru/EDR Limited and Maru Group SRL (collectively “Maru”, “us” or “we”) are part of the Maru Group, a research and consulting company with offices in Canada, The United States, the United Kingdom and Argentina.  This document sets out our privacy policy (the “Policy”) and describes our practices regarding the use and processing of personal information that we collect via our website located at [www.marumatchbox.com](https://www.marumatchbox.com/) and other websites that directly link to this Policy (collectively the “Site”).
 
- **Which information do we process and for what purpose?**
+Should you have any questions regarding this Policy, you can contact our Privacy Officer by email at [privacy@marumatchbox.com](mailto:privacy@marumatchbox.com), or by mail at:
 
- **2.2** We process the following information from you:
+2 Bloor Street East, Suite 1600  
+Toronto, Ontario M4W 1A8  
+Attention: Privacy Officer
 
- **2.2.1  **Information you give us. This is information about you that you give us by filling in forms on our site. It includes information you provide when you register to use our site, request marketing information, use our online chat feature, enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, address, email address, phone number, date of birth and gender.
+You may also call us at any of our numbers listed at [www.marumatchbox.com/contact](https://web.archive.org/contact). 
 
- **2.2.2  **Surveys and Panels. Where information is volunteered and subsequently collected that can identify you this is used to provide insights and information that allow our clients to create more efficient and effective products and services for their customers. You will not be contacted by us unless you have specifically consented to us doing so.
+### INFORMATION COLLECTION
 
- **2.2.3  **Competitions and Draws. Where your information is required to identify whether you are the winner of a competition or draw this may be revealed to the appropriate client. Please refer to the individual competition rules which will refer to the requirements for publicity of winners’ names.
+_Automatically, passively submitted:_
 
- **2.2.4  **Information we collect about you. Like most other website operators, we collect non-personally identifying information of the sort that web browsers and servers typically make available. This includes technical information and information about your visit, such as records of how you navigate the pages on our site and how you interact with the pages.
+When you visit the Site, your browser and computer automatically provide to us information on how you arrive at the Site including the URL that referred you, your browser type and version, your device type, your internet protocol (IP) address, your location, the pages you visit as you navigate through the site (clickstream data), how long you stay on those pages, and the hyperlinks you click on. This information is collected using various technologies including server logs, cookies, web beacons, and other tracking technologies which are described in greater detail in our [Cookie Policy](https://web.archive.org/cookie-policy/).
 
- **2.2.5  **We process information you give us and that we collect about you for the following purposes:
+_Actively provided:_
 
- **2.2.5.1  **to fulfil our obligations under the contracts between us and our clients;
+You may also actively provide us with personal information when you use our Site or otherwise interact with us. For example, you will actively submit personal information to us when you fill out a form, sign up to become a member of our Market Communities, create an account, or send an email to us. In this context, we may ask you to provide contact information such as your name, email address, and physical address; social media information such as your social profile; login information such as user name and password; and other information such as survey responses, photo uploads, and forum posts. In each instance, you will know what data categories you provide, because you will be actively entering the information.
 
- **2.2.5.2  **to improve our services;
+_Combined:_
 
- **2.2.5.3  **to ensure that content from our site is presented in the most effective manner for you and for your computer; and
+We may link information that you automatically provide with information that you actively submit. When such a linkage occurs, we treat the combined data as personal data.
 
- **2.2.6  **Information obtained from or provided by third parties. We obtain or are provided with information, such as your name, address, email address, phone number, date of birth and gender which we have been supplied by third parties from whom you have recently purchased or used goods or services (“our clients”). We will also receive information about you if you use any of the other websites we operate, which include eMysteryShopper.com, eCustomerOpinions.com, eGlobalPanel.com, eDigitalCommunities.com, eDigitalForums.com, ePanelManager.com and eProductRating.com.
+### INFORMATION USE
 
- **2.2.7  **We process information we obtain from or are provided by third parties in order to fulfil the contractual obligation between us and our clients the purpose of which is to understand and improve the service provided by our clients.
+We use automatically, passively provided information on your technical environment and browsing history to operate and optimize our Site.
 
- **What are the grounds for processing your information?**
+We use your contact information including your email address and phone number to send you the information you have requested; for example, when you fill out the Contact Us or other forms on our site, subscribe to our blog or apply for a job. You may at any time choose to stop receiving emails from us by using one of the unsubscribe options we provide. Please see the Your Choices section of this Policy for more information about opting-out of communications.
 
- **2.3  **We are processing your data on the following ground(s):
+Your personal information is not retained by us for longer than necessary for the legally permissible purposes for which it was collected as outlined in this Policy, as required under applicable retention policies and as required or permitted in accordance with applicable law.
 
- **2.3.1  **you have previously given your consent to our client to the processing for the purposes stated in section 2.2, above; and/or
+### DATA RECIPIENTS
 
- **2.3.2  **the processing is necessary for achieving our clients’ legitimate interest of receiving your feedback in respect of the goods or services you have used or purchased from them. In accordance with data protection law, we have carefully weighed your interests and fundamental rights and freedoms against our clients’ interest to process your information and are satisfied that we are justified in processing your information for this purpose
+We do not share your personal information with third parties, except in the following cases:
 
- **Duration and further processing**
+  * with your consent 
+  * with affiliated and unaffiliated services providers that act on our behalf and under our instructions to help us operate our business (data processors)
+  * in redacted or aggregated form that cannot be used to identify you individually. 
+  * if required or permitted by law, including as necessary to comply with the law, to protect the rights or safety of our website, other users, or third parties (e.g., for fraud protection and credit risk reduction purposes; for protecting and defending the rights or property of Maru/Matchbox, its customers, other users, or member of the public), or 
+  * with a buyer of all or substantially all of our assets relating to a particular business line or division, or in connection with a merger, acquisition, reorganization or restructuring. 
 
- **2.4  **We will regularly review the personal data which we are holding about you, and will delete it as appropriate. We will store your personal data for no longer than is necessary for us to fulfil the purpose for which it was obtained, provided that we have a reasonable commercial case for doing so, and in any event for no longer than 2 years after the project has completed. If we need to keep your information for a longer period then we will notify you of the reason and grounds for doing so.
 
- **2.5  **To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. We maintain a data processing register for each project we undertake.
 
- **Who is your information shared with?**
+### YOUR CHOICES 
 
- **2.6  **In order to achieve the purpose(s) set out in section 2.2 above, we will share your data only with the following people or group of people:
+You have a variety of choices regarding which personal information we may collect, process and use and for what purposes. Wherever reasonably practical, we will provide you with the ability to use the features of the Site without submitting personal information to us or to use a pseudonym. Some areas of the Site however, such as registration forms, questionnaires and submissions to our [Careers section](https://web.archive.org/careers/) require you to provide accurate and up to date personal information and your choice is to not use such areas and features. You can contact us to request that we correct or stop using your personal information, or to find out what personal information we have collected about you:
 
- **2.6.1  **our clients to whom your personal data is relevant; 
+  * **Email Communications** – You may opt-out of receiving marketing and other promotional emails from us at any time by clicking the Unsubscribe links embedded within the emails we send, or by contacting us directly at [privacy@marumatchbox.com](mailto:privacy@marumatchbox.com). Members of our Market Communities and other communities we own can opt-out of participating by using the Unsubscribe links embedded in emails, or by using the Unsubscribe option in the Profile section of the member portal. Some emails are transactional in nature, including emails we send to our clients regarding the services they have purchased. These emails do not provide the ability to opt-out. 
+  * **Web Monitoring** – If you wish to browse the Site without being tracked by cookies, there are a number of options available to you depending on the specific type of opt-out you wish to perform. To learn more about your options, please visit our [Cookie Policy](https://web.archive.org/cookie-policy/). 
+  * **Data Access, Correction & Deletion** – You may request access to your personal information to confirm that it is in our possession, to ensure that it is accurate and to make corrections, or to request that it be removed/anonymized. We will respond to your request as quickly as possible and will need to verify your identity before providing you with access to the personal information we hold about you. 
 
- **2.6.2  **if necessary for the specific project in question, other companies within the Maru Group; and
 
- **2.6.3  **in the case of telephone interviews undertaken on our behalf, to The Telemarketing Company Ltd (“TTMC”), a company incorporated in England and Wales with company registration number 2475469. TTMC conduct telephone interviews on our behalf for the purpose of gathering your feedback in relation to goods or services you have purchased from our clients. Telephone interviews will be recorded and stored for monitoring purposes.
 
- **2.6.4** in the case of SMS surveys undertaken on our behalf, to Dynmark International Limited trading as Comapi (“Comapi”), a company incorporated in England and Wales with company registration number 4343332, or OpenMarket Ltd, a company registered in England and Wales with company registration number 04009908. Comapi and OpenMarket send SMS messages on our behalf for the purpose of gathering your feedback in relation to goods or services you have purchased from our clients, in accordance with our obligations under the contract between us and our clients.
+In some cases, we may be unable to accommodate your request if we are unable to verify your identity, if we are prohibited by law, if disclosure would result in the disclosure of the personal information of others, or if the request is unreasonable or impractical. If we are unable to process your request for these or any other reasons, we will provide you with an explanation of the reason for denial, and you will be permitted to request a review. 
 
- **2.7  **Subject to paragraph 2.6, we will never sell, share, or rent your personal data without your prior consent. It should be noted that, because we do not control the privacy practices of our clients, we advise that you read and fully understand their privacy policies in addition to this privacy policy.
+All requests for information should be sent by email to [privacy@marumatchbox.com](mailto:privacy@marumatchbox.com) or to the mailing address listed above. 
 
- **2.8  **We share aggregated demographic information with our partners and clients; this is not linked to any personal information that can identify any individual person or organisation.
+### INTERNATIONAL CONSIDERATIONS AND DATA TRANSFERS 
 
- **2.9  **We will disclose your personal information to third parties:
+Information collected on this Site may be processed outside of the country you are visiting from. Generally, we process personal information in Canada, the United States and the United Kingdom. Occasionally, we use service providers located in other jurisdictions to process data on our behalf and under our instructions. At all times, we take appropriate measures to ensure that your personal information is processed securely, and in accordance with international data transfer laws and this Policy. 
 
- **2.9.1  **in the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets; or
+### LINKS 
 
- **2.9.2  **if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or to protect our rights, property, or safety, or that of our clients, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+The Site contains links to websites not affiliated with us (“external websites”). Your use of an external website or any information or other content found on an external website is subject to and governed only by the terms and conditions of such website. Maru/Matchbox does not endorse or make any representations or warranties concerning, and will not in any way be liable for any content, products, services, or other materials available on or through an external website. Maru/Matchbox encourages you to review the privacy policies and terms of use of external websites before you submit any personal information to them. 
 
- **2.10  **The data that we collect from you will not be transferred to or stored at a destination outside the European Economic Area (“EEA”) without your prior consent. 
+### SECURITY 
 
- **Automated decision making**
+Maru/Matchbox has implemented commercially reasonable safeguards and precautions to protect your personal information, including technical and organizational measures against unauthorized access, improper use, alteration, unlawful or accidental destruction, and accidental loss. These measures include utilizing secure Transport Layer Security (“TLS”) connections for data collected via our platform, employee training, policies, and secure facilities. Access to personal information is restricted to employees and contractors who have a need to know and who are required to maintain the confidentiality and security of information. Failure to meet these requirements can result in termination and/or criminal prosecution where applicable.
 
- **2.11  **We do not make automated decisions about you based on your information.
+###  OUR CLIENTS 
 
- **2.12  **Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmission to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+This Policy does not apply to our collection, use and other processing of information for our clients under separate service agreements. Maru/Matchbox delivers strategic customer intelligence to our clients through a unique combination of expertise in Insight Community platforms and sector-specific research consulting. Our clients may maintain direct relationships with their customers, and any data they collect via our platform is governed solely by their own privacy policies. If you have any questions or concerns about our client’s use of your personal information, please contact them directly using the contact information provided within their privacy policy. If you prefer to contact us directly, you may email us at [privacy@marumatchbox.com](mailto:privacy@marumatchbox.com). 
 
-**3.1.**  Under data protection law you have the following rights:
+  * Reporting Abuse – Maru/Matchbox disclaims any responsibility for clients who use our services to engage in illegal or unethical behavior and will take any action we deem necessary should we discover such activity is taking place including suspension or termination of service. If you suspect a breach, or have concerns with the manner in which our clients are using our services, please immediately contact us at [privacy@marumatchbox.com](mailto:privacy@marumatchbox.com). If you have general questions including requesting to opt-out of any use of your data, please use the support link provided within your member portal. 
+  * Maru/Matchbox Communications to our Clients – When we are required to do so in order to provide services to our clients, we may send service related emails such as maintenance notifications, responses to Support inquiries, billing notices, account management emails, and password reset emails. Generally, you may not opt-out of these types of communications as they are not promotional in nature. We will occasionally send promotional emails as well, which do provide you the ability to opt-out of similar communications. We may also communicate with you by phone or postal mail.
 
- **3.1.1** the right to be informed as to what we do with your information. This includes but is not limited to the right to know what information we gather, process and store, what we do with it, who we share it with and how long we keep it for;
 
- **3.1.2  **if we are processing your data on the basis of your consent then you have the right to withdraw that consent at any time. Consent can be withdrawn by and notifying us using the details set out in section 8 below. The lawfulness of our historic processing based on your consent will not be retrospectively affected by your withdrawal of consent;
 
- **3.1.3  **the right to access a copy of your information which we hold. This is called a ‘subject access request’. Additional details on how to exercise this right are set out in section 5, below;
+### CHILDREN’S DATA 
 
- **3.1.4  **the right to object to processing of your information where it is likely to cause or is causing damage or distress. You can notify us of your objection to us processing your personal data using the contact details set out in section 8;
+This site is not intended for or directed at children and we do not knowingly collect personal information from any person under the age of 13. If we discover that we have inadvertently collected personal information from a person under 13 years of age, we will promptly take commercially reasonable measures to delete such information from our systems. 
 
- **3.1.5  **the right to prevent us processing your information for direct marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us using the details set out in section 8, below;
+### CHANGES TO THIS POLICY 
 
- **3.1.6  **the right to object to decisions being made about you by automated means. We will inform you if your information is subject to automated processing;
+Maru/Matchbox encourages you to periodically review this Policy to stay informed of how we manage your personal information. If any changes are made to this Policy, Maru/Matchbox will revise the “Last Updated” date that is indicated on the Policy. 
 
- **3.1.7  **the right, in certain circumstances, to have your information rectified, blocked, erased or destroyed if it is inaccurate; 
-
- **3.1.8  **the right, in certain circumstances, to claim compensation for damages caused by us breaching data protection law;
-
- **3.1.9  **enhanced rights to request that we erase, rectify, cease processing and/or delete your information; and
-
- **3.1.10** in certain circumstances, the right to request the information we hold on you in a machine readable format so that you can transfer it to other services. This right is called ‘data portability’. Additional details on how to exercise this right are set out in section 5, below.
-
- **3.2** For further information on your rights under data protection law and how to exercise them, you can contact Citizens Advice Bureau ( _www.citizensadvice.org.uk_ ) or the Information Commissioner’s Office ( _www.ico.org.uk_ ).
+Last Updated: June 26, 2019
