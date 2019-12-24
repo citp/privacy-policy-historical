@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dineout.co.in privacy policy that was archived on 2019-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190527170744id_/https%3A//www.dineout.co.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dineout.co.in privacy policy that was archived on 2019-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191224194815id_/https%3A//www.dineout.co.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <!--Let browser know website is optimized for mobile-->
@@ -34,7 +34,7 @@
 
         <!-- Desktop css -->
         
-           <link href="https://dn4.dineout-cdn.co.in/css/desktop-1acd07ceec.css" rel="stylesheet">
+           <link href="https://dn1.dineout-cdn.co.in/css/desktop-319cd02b38.css" rel="stylesheet">
         
         <!-- google analytics code -->
 <script>
@@ -55,7 +55,6 @@
         	do_category = typeof d_category !== "undefined" ? d_category : '';
         	do_action = typeof d_action !== "undefined" ? d_action : '';
         	do_label = typeof d_label !== "undefined" ? d_label : '';
-        	//console.log("Category: "+ do_category + " ------Action: "+  do_action +"---Label: "+ do_label);
             ga( 'send', 'event', do_category, do_action, do_label);
         }
     }
@@ -75,7 +74,8 @@
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
-        
+
+
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -122,7 +122,7 @@
             event.preventDefault();
         });
         $( "#location-auto-suggest" ).on('keyup',function(e){
-            var url='/pune-restaurants?search_str='+$( "#location-auto-suggest" ).val();
+            var url='/delhi-restaurants?search_str='+$( "#location-auto-suggest" ).val();
             $('form#form-auto-suggest').attr('action',url);
             var code = (e.keyCode ? e.keyCode : e.which);
             if (code == 13) {
@@ -136,7 +136,7 @@
                     url:'/auto_suggest',
 
                     data:{"term":$( "#location-auto-suggest" ).val(),
-                        "city":"Pune"
+                        "city":"Delhi"
                     }, 
                     beforeSend : function()    {           
                         if(xhr != null) {
@@ -171,7 +171,7 @@
     function redirect_search_sugg(jsonString){
         $.post('/redirect_auto_suggest', {
                 "urifilter":JSON.stringify(jsonString),
-                "city_name":"Pune"
+                "city_name":"Delhi"
             }, function (data) {
             window.location.href=data;
         });
@@ -199,7 +199,8 @@ if(typeof fbq === 'undefined') {
         
     </head>
     
-    <body data-spy="scroll" data-target="#myScrollspy">
+    
+    <body data-spy="scroll" class="" data-target="#myScrollspy">
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLCV9T"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -207,96 +208,132 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
        <div class="logo-loader">
             <div class="imgDiv">
-                <img src="/img/logo-loader.png" class="spinLoader" alt="Dineout" title="Dineout">
+                <img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Sep/16/logo-loader.png" class="spinLoader" alt="Dineout" title="Dineout">
             </div>
         </div>
 
         <header class="header show-search">
             <div class="container">
                 <div class="primary-header-sec clearfix">
+                    <div class="pull-left left">
+                        <div class="logo">
+                            <a href="/delhi" class="">
+                                <img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/25/website-logo.png" width="88" alt="Dineout" title="Dineout">
+                            </a>
+                        </div>
 
-          <div class="pull-left left">
-            <div class="logo">
-
-              <a href="/">
-                <img src="https://st1.dineout-cdn.co.in/images/uploads/mailer/2019/Jan/26/logo.png" width="80" alt="Dineout" title="Dineout">
-              </a>
-
-            </div>
-
-            <div class="city hidden-xs">
-              <div class="dropdown hidden-xs input-group-btn city-dd-wrap">
-                <button class="btn dd-btn btn-lg city-btn" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-                    <span class="do do-angle-down arrow"></span>
-                    <i class="do do-location-fill"></i>
-                    <span class="city-txt">Pune</span>
-                </button>
-                
-                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/delhi">Delhi</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/mumbai">Mumbai</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/bangalore">Bangalore</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/chennai">Chennai</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/hyderabad">Hyderabad</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/pune">Pune</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/kolkata">Kolkata</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/ahmedabad">Ahmedabad</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/chandigarh">Chandigarh</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/goa">Goa</a>
-                    </li>
-                </ul>
-                
-              </div>
-            </div>
-
-            
-            <div class="search-wrap">
-              <div class="pull-left search-icon hidden-sm">
-                  <i class="do do-search-icon"></i>
-              </div>
-              <input type="text" name="header_search" id="location-auto-suggest" placeholder="Search for Restaurants, Offers, Deals or Events..." onblur="toggle_search_div('seg_srch','hide');toggle_search_div('search_result','hide');">
-              <div id="suggest">
-                    <div class="dropdown-menu fill-auto-suggest result-auto-suggest" role="menu" style="display:none;" id="search_result">
+                    <div class="city hidden-xs">
+                      <div class="dropdown hidden-xs input-group-btn city-dd-wrap">
+                        <button class="btn dd-btn btn-lg city-btn" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                            <span class="do do-angle-down arrow"></span>
+                            <i class="do do-location-fill"></i>
+                            <span class="city-txt">Delhi</span>
+                        </button>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/delhi">Delhi</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/mumbai">Mumbai</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/bangalore">Bangalore</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/chennai">Chennai</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/hyderabad">Hyderabad</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/pune">Pune</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/kolkata">Kolkata</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/ahmedabad">Ahmedabad</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/chandigarh">Chandigarh</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/goa">Goa</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/jaipur">Jaipur</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/lucknow">Lucknow</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/indore">Indore</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/udaipur">Udaipur</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/agra">Agra</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/vadodara">Vadodara</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/nagpur">Nagpur</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/kochi">Kochi</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/surat">Surat</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/ludhiana">Ludhiana</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/vadodara">Vadodara</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/agra">Agra</a>
+                                </li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/udaipur">Udaipur</a>
+                                </li>
+                            </ul>
+                      </div>
                     </div>
-              </div>
-              <button type="submit" value="Submit">
-                <i class="do do-search-icon visible-sm"></i>
-                <span class="hidden-sm">Search</span>
-              </button>
-            </div>
-            
-            <div class="links clearfix pull-right">
-                    <ul class="links">
-                        
-                        
+
+                    
+                        <div class="search-wrap">
+                            <div class="pull-left search-icon hidden-sm">
+                                <i class="do do-search-icon"></i>
+                            </div>
+                            <input type="text" autocomplete="off" readonly="" name="header_search" id="location-auto-suggest" placeholder="Search for Restaurants, Offers, Deals or Events..." onblur="toggle_search_div('seg_srch','hide');toggle_search_div('search_result','hide');">
+                            <div id="suggest">
+                                <div class="dropdown-menu fill-auto-suggest result-auto-suggest" role="menu" style="display:none;" id="search_result">
+                                </div>
+                            </div>
+                            <button type="submit" value="Submit">
+                                <i class="do do-search-icon visible-sm"></i>
+                                <span class="hidden-sm">Search</span>
+                            </button>
+                        </div>
+                    
+                    <div class="links clearfix pull-right">
+                        <ul class="links">
+                            
+                            
                             <li class="login">
                                 <a href="javascript:void(0)" class="dflt_color" onclick="open_login_redirect('/privacy-policy')">Log in</a>
                             </li>
-                        
-        
-                        <li class="hide">
-                            +91 9212340202
-                        </li>
-                    </ul>
-                  </div>
-            </div>
-            </div>
+                            
+
+                            <li class="hide">
+                                +91 9212340202
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                </div>
                 <div class="header-list">
                     <ul>
-                        <li><a href="/pune-restaurants">Book a Table</a></li>
-                        <li><a href="/pune-restaurants/dineout-pay">Dineout Pay</a></li>
-                        <li><a href="/gourmet-passport">Gourmet Passport</a></li>
+                        <li>
+                            <a href="/delhi-restaurants">
+                                Book a Table
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/delhi-restaurants/dineout-pay">
+                                Dineout Pay
+                            </a>
+                        </li>
                         
-                        <li><a href="/pune-restaurants/super-savers">Super Saver</a></li>
+                            <li><a href="/gourmet-passport">Gourmet Passport</a></li>
+                       
+
+                        
+                        <li>
+                            <a href="/delhi-restaurants/super-savers">
+                                Super Saver
+                        </a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -346,7 +383,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     function redirect_search_sugg(jsonString){
         $.post('/redirect_auto_suggest', {
                 "urifilter":jsonString,
-                "city_name":"Pune"
+                "city_name":"Delhi"
             }, function (data) {
             window.location.href=data;
         });
@@ -357,7 +394,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 // name your elements here
                 var stickyElement   = '.panel-affix',   // the element you want to make sticky
-                    bottomElement   = '#address-panel'; // the bottom element where you want the sticky element to stop (usually the footer) 
+                    bottomElement   = '#address-panel'; // the bottom element where you want the sticky element to stop (usually the footer)
 
                 // make sure the element exists on the page before trying to initalize
                 if($( stickyElement ).length){
@@ -365,12 +402,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         // let's save some messy code in clean variables
                         // when should we start affixing? (the amount of pixels to the top from the element)
-                        var fromTop = $( this ).offset().top, 
+                        var fromTop = $( this ).offset().top,
                             // where is the bottom of the element?
                             fromBottom = $( document ).height()-($( this ).offset().top + $( this ).outerHeight()),
                             // where should we stop? (the amount of pixels from the top where the bottom element is)
                             // also add the outer height mismatch to the height of the element to account for padding and borders
-                            stopOn = $( document ).height()-( $( bottomElement ).offset().top)+($( this ).outerHeight() - $( this ).height()); 
+                            stopOn = $( document ).height()-( $( bottomElement ).offset().top)+($( this ).outerHeight() - $( this ).height());
 
                         // if the element doesn't need to get sticky, then skip it so it won't mess up your layout
                         if( (fromBottom-stopOn) > 80 ){
@@ -378,18 +415,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             $( this ).css('width', $( this ).width()).css('top', 0).css('position', '');
                             // assign the affix to the element
                             $( this ).affix({
-                                offset: { 
+                                offset: {
                                     // make it stick where the top pixel of the element is
-                                    top: fromTop - 59,  
+                                    top: fromTop - 59,
                                     // make it stop where the top pixel of the bottom element is
                                     bottom: stopOn
                                 }
                             // when the affix get's called then make sure the position is the default (fixed) and it's at the top
                             }).on('affix.bs.affix', function(){ $( this ).css('top', '-153px').css('position', ''); });
                         }
-                        // trigger the scroll event so it always activates 
-                        $( window ).trigger('scroll'); 
-                    }); 
+                        // trigger the scroll event so it always activates
+                        $( window ).trigger('scroll');
+                    });
                 }
 
             });
@@ -434,7 +471,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             });
 
            $( "#location-auto-suggest" ).bind('click keyup',function(e){
-               var url = '/pune-restaurants?search_str='+$( "#location-auto-suggest" ).val();
+            $( "#location-auto-suggest" ).removeAttr('readonly');
+            var url = '/delhi-restaurants?search_str='+$( "#location-auto-suggest" ).val();
                $('form#form-auto-suggest').attr('action',url);
                var code = (e.keyCode ? e.keyCode : e.which);
                 if (code == 13) {
@@ -509,7 +547,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 $.get('/auto_suggest',{
                   "term":$( "#location-auto-suggest" ).val(),
-                  "city": "Pune",
+                  "city": "Delhi",
                   "requested_from" : "ejs"
                 }, function (data) {
                    if(data){
@@ -636,9 +674,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </style>
 <div class="logo-loader hide">
 	<div class="imgDiv">
-		<img src="/img/logo-loader.png" class="spinLoader" alt="Dineout" title="Dineout">
+		<img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Sep/16/logo-loader.png" class="spinLoader" alt="Dineout" title="Dineout">
 	</div>
 </div>
+
 <footer class="footer" id="footerId">
     <div class="container">
         <div class="row">
@@ -652,27 +691,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <ul class="pull-left">
                                         
                                         <li>
-                                            <a href="/pune-restaurants/chinese-cuisine">Chinese</a>
+                                            <a href="/delhi-restaurants/chinese-cuisine">Chinese</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/italian-cuisine">Italian</a>
+                                            <a href="/delhi-restaurants/italian-cuisine">Italian</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/south-indian-cuisine">South Indian</a>
+                                            <a href="/delhi-restaurants/south-indian-cuisine">South Indian</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/mexican-cuisine">Mexican</a>
+                                            <a href="/delhi-restaurants/mexican-cuisine">Mexican</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/bengali-cuisine">Bengali</a>
+                                            <a href="/delhi-restaurants/bengali-cuisine">Bengali</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/thai-cuisine">Thai</a>
+                                            <a href="/delhi-restaurants/thai-cuisine">Thai</a>
                                         </li>
                                         
                                     </ul>
@@ -682,27 +721,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <ul class="pull-left">
                                         
                                         <li>
-                                            <a href="/pune-restaurants/romantic">Romantic</a>
+                                            <a href="/delhi-restaurants/romantic">Romantic</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/fine-dining">Fine Dining</a>
+                                            <a href="/delhi-restaurants/fine-dining">Fine Dining</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/buffet">Buffet</a>
+                                            <a href="/delhi-restaurants/buffet">Buffet</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/5-star">5 Star</a>
+                                            <a href="/delhi-restaurants/5-star">5 Star</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/pure-veg">Pure Veg</a>
+                                            <a href="/delhi-restaurants/pure-veg">Pure Veg</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/seafood">Sea Food</a>
+                                            <a href="/delhi-restaurants/roof-top">Roof Top</a>
                                         </li>
                                         
                                     </ul>
@@ -712,27 +751,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <ul class="pull-left">
                                         
                                         <li>
-                                            <a href="/pune-restaurants/east-pune/koregaon-park">Koregaon Park</a>
+                                            <a href="/delhi-restaurants/west-delhi/rajouri-garden">Rajouri Garden</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/east-pune/viman-nagar">Viman Nagar</a>
+                                            <a href="/delhi-restaurants/south-delhi/hauz-khas-village">Hauz Khas Village</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/west-pune/aundh">Aundh</a>
+                                            <a href="/delhi-restaurants/gurgaon/dlf-cyber-city">DLF Cyber City</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/north-pune/lonavala">Lonavala</a>
+                                            <a href="/delhi-restaurants/central-delhi/connaught-place">Connaught Place</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/west-pune/baner">Baner</a>
+                                            <a href="/delhi-restaurants/central-delhi/khan-market">Khan Market</a>
                                         </li>
                                         
                                         <li>
-                                            <a href="/pune-restaurants/north-pune/hinjewadi">Hinjewadi</a>
+                                            <a href="/delhi-restaurants/west-delhi/dwarka">Dwarka</a>
                                         </li>
                                         
                                     </ul>
@@ -741,55 +780,135 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </div>
                 
-                <div class="best-restnts"><span class="footer-title">Find Best Restaurants in:</span>
-                    
+
+				<div class="best-restnts">
+					<h4>Find Best Restaurants in:</h4>
+					<ul>
 						
-						    <a href="/delhi">
-                                Delhi
-                            </a>
+							
+								<li>
+									<a href="/delhi">
+										Delhi
+									</a>
+								</li>
+							
+								<li>
+									<a href="/mumbai">
+										Mumbai
+									</a>
+								</li>
+							
+								<li>
+									<a href="/bangalore">
+										Bangalore
+									</a>
+								</li>
+							
+								<li>
+									<a href="/chennai">
+										Chennai
+									</a>
+								</li>
+							
+								<li>
+									<a href="/hyderabad">
+										Hyderabad
+									</a>
+								</li>
+							
+								<li>
+									<a href="/pune">
+										Pune
+									</a>
+								</li>
+							
+								<li>
+									<a href="/kolkata">
+										Kolkata
+									</a>
+								</li>
+							
+								<li>
+									<a href="/ahmedabad">
+										Ahmedabad
+									</a>
+								</li>
+							
+								<li>
+									<a href="/chandigarh">
+										Chandigarh
+									</a>
+								</li>
+							
+								<li>
+									<a href="/goa">
+										Goa
+									</a>
+								</li>
+							
+								<li>
+									<a href="/jaipur">
+										Jaipur
+									</a>
+								</li>
+							
+								<li>
+									<a href="/lucknow">
+										Lucknow
+									</a>
+								</li>
+							
+								<li>
+									<a href="/indore">
+										Indore
+									</a>
+								</li>
+							
+								<li>
+									<a href="/udaipur">
+										Udaipur
+									</a>
+								</li>
+							
+								<li>
+									<a href="/agra">
+										Agra
+									</a>
+								</li>
+							
+								<li>
+									<a href="/vadodara">
+										Vadodara
+									</a>
+								</li>
+							
+								<li>
+									<a href="/nagpur">
+										Nagpur
+									</a>
+								</li>
+							
+								<li>
+									<a href="/kochi">
+										Kochi
+									</a>
+								</li>
+							
+								<li>
+									<a href="/surat">
+										Surat
+									</a>
+								</li>
+							
+								<li>
+									<a href="/ludhiana">
+										Ludhiana
+									</a>
+								</li>
+							
 						
-						    <a href="/mumbai">
-                                Mumbai
-                            </a>
-						
-						    <a href="/bangalore">
-                                Bangalore
-                            </a>
-						
-						    <a href="/chennai">
-                                Chennai
-                            </a>
-						
-						    <a href="/hyderabad">
-                                Hyderabad
-                            </a>
-						
-						    <a href="/pune">
-                                Pune
-                            </a>
-						
-						    <a href="/kolkata">
-                                Kolkata
-                            </a>
-						
-						    <a href="/ahmedabad">
-                                Ahmedabad
-                            </a>
-						
-						    <a href="/chandigarh">
-                                Chandigarh
-                            </a>
-						
-						    <a href="/goa">
-                                Goa
-                            </a>
-						
-						    <a href="/jaipur">
-                                Jaipur
-                            </a>
-						
-					
-                </div>
+					</ul>
+				</div>
 
                 <!--<div class="footer-link row">
                     <div class="footer-info col-md-2 col-sm-2 col-xs-2">
@@ -842,44 +961,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </ul>
                     </div>
                 </div>-->
-            
+
                 <div class="logo-section row">
                     <div class="logo-links col-md-4 col-sm-4 col-xs-4 pull-left row">
-                        <img src="https://im1.dineout.co.in/images/uploads/misc/2019/Apr/16/dineout-logo_red.png" width="100" alt="" title="">
+                        <img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/25/website-logo.png" width="100" alt="" title="">
                         <span>Find best Restaurants, Deals, Discounts &amp; Offers</span>
                     </div>
-                    <div class="logo-links col-md-5 col-sm-5 col-xs-5 pull-left center-align row">
-                        <a href="tel:9212340202" class="number">+91-9212340202</a>
-                        <span>Contact Us</span>
-                    </div>
-                    <div class="logo-links col-md-3 col-sm-3 col-xs-3 pull-right right row">
-                        <ul>
-                            <li>
-								<a href="https://play.google.com/store/apps/details?id=com.dineout.book&amp;hl=en" target="_blank"></a>
-								<img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2018/Dec/20/google-play.png" alt="" title="">
-								
-                            </li>
-                            <li>
-								<a href="https://itunes.apple.com/in/app/dineout/id779442711" target="_blank" class="marginL15">
-								<img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2018/Dec/20/app-store.png" alt="" title="">
-								</a>
-                            </li>
-                        </ul>
-                        <span>Available on Android &amp; iOS</span>
-                    </div>
+
+					
+						<div class="logo-links col-md-5 col-sm-5 col-xs-5 pull-left center-align row">
+							<a href="tel:9212340202" class="number">+91-9212340202</a>
+							<span>Contact Us</span>
+						</div>
+					
+
+
+					
+						<div class="logo-links col-md-3 col-sm-3 col-xs-3 pull-right right row">
+							<ul>
+								<li>
+									<a href="https://bnc.lt/6ZXm/C9aUhAiNAX" target="_blank"></a>
+									<img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2018/Dec/20/google-play.png" alt="" title="">
+									
+								</li>
+								<li>
+									<a href="https://bnc.lt/6ZXm/C9aUhAiNAX" target="_blank" class="marginL15">
+									<img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2018/Dec/20/app-store.png" alt="" title="">
+									</a>
+								</li>
+							</ul>
+							<span>Available on Android &amp; iOS</span>
+						</div>
+					
                 </div>
                 <div class="social-links-wrap row">
-                    <ul class="social-links">
-                        <li>
-                            <a href="https://www.facebook.com/dineout.co.in" class="do do-facebook"></a>
-                        </li>
-                        <li>
-                            <a href="https://twitter.com/dineout_india" class="do do-twitter"></a>
-                        </li>
-                        <li>
-                            <a href="https://www.instagram.com/dineout_india" class="do do-instagram"></a>
-                        </li>
-                    </ul>
+					
+						<ul class="social-links">
+							<li>
+								<a href="https://www.facebook.com/dineout.co.in" class="do do-facebook"></a>
+							</li>
+							<li>
+								<a href="https://twitter.com/dineout_india" class="do do-twitter"></a>
+							</li>
+							<li>
+								<a href="https://www.instagram.com/dineout_india" class="do do-instagram"></a>
+							</li>
+						</ul>
+					
                     <ul class="footer-link">
                         <li><a href="/add-your-restaurant">Add Restaurant</a></li>
                         <li><a href="https://www.dineout.co.in/blog">Blog</a></li>
@@ -893,11 +1021,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="logo-loader hide">
             <div class="imgDiv">
-                <img src="/img/logo-loader.png" class="spinLoader" alt="Dineout" title="Dineout">
+                <img src="https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Sep/16/logo-loader.png" class="spinLoader" alt="Dineout" title="Dineout">
             </div>
         </div>
-</footer>		
-	
+</footer>
+
 <script type="text/javascript">
 	var no_function =function(){
 };
@@ -961,10 +1089,7 @@ function open_login(success_callback, eData){
         }
         if(eData && typeof eData == 'object'){
         	eventData = eData;
-        }
-        //console.log(success_login_callback[succesCallBack]);
-        
-        
+        }        
     }
 
 function open_login_redirect(success_redirect, eData){
@@ -978,10 +1103,7 @@ function open_login_redirect(success_redirect, eData){
         }
         if(eData && typeof eData == 'object'){
         	eventData = eData;
-        }
-        //console.log(success_login_callback[succesCallBack]);
-        
-        
+        }        
     }
 
 
@@ -999,7 +1121,7 @@ function login(divid,passId,errorId){
 	$.ajax({
 			type: 'POST',
 			dataType:'json',
-			url: '/new-login',
+			url: (ajaxCall + "/new-login"),
 			data: { "username": inputype,"password":password},
 			success: (function (res) {
             loader_ajax_hide();	
@@ -1086,14 +1208,14 @@ function signup(){
 	var name=document.getElementById('sign_name').value;
 	var email=document.getElementById('sign_email').value;
 	var phone=document.getElementById('sign_phone').value;
-	var password=document.getElementById('sign_password').value;
-	var confirm_password=document.getElementById('sign_comfirm_password').value;
+	//var password=document.getElementById('sign_password').value;
+	//var confirm_password=document.getElementById('sign_comfirm_password').value;
 
 	$.ajax({
 			type: 'POST',
 			dataType:'json',
 			url: '/xhrajaxrequest/user_signup',
-			data: { "name": name,"email":email,"phone": phone,"password":password,"confirm_password":confirm_password},
+			data: { "name": name,"email":email,"phone": phone},
 			success: (function (res) {
 									loader_ajax_hide();	
 									if(res.status==false)
@@ -1152,7 +1274,7 @@ function validate_login(){
 	$.ajax({
 			type: 'POST',
 			dataType:'json',
-			url: '/validate_user_account',
+			url: '/validate_account',
 			data: { "input": input},
 			success: (function (res) {
 								loader_ajax_hide();
@@ -1173,7 +1295,7 @@ function validate_login(){
 									 if(type=='login' && email=='' && phone!='')
 									 {
 									 	hideWrap($('#validateBox'));
-									 	showWrap($('#login_phone_screen'));
+										 showWrap($('#login_phone_screen'));
 									 	
 									 }
 									 if(type=='create_account')//signup
@@ -1632,14 +1754,14 @@ $('input').bind('keyup', function(event){
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 
     <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/jquery-b8035b8a94.min.js"></script>
-    <script type="text/javascript" src="https://dn3.dineout-cdn.co.in/js/bootstrap-fb613417cd.min.js"></script>
-    <script type="text/javascript" src="https://dn3.dineout-cdn.co.in/js/photoswipe-b47a24fc0c.min.js"></script>
-    <script type="text/javascript" src="https://dn2.dineout-cdn.co.in/js/photoswipe-ui-default-7c31dd01c0.min.js"></script>
+    <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/bootstrap-fb613417cd.min.js"></script>
+    <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/photoswipe-b47a24fc0c.min.js"></script>
+    <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/photoswipe-ui-default-7c31dd01c0.min.js"></script>
     <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/slick-17e331f34d.min.js"></script>
-    <script type="text/javascript" src="https://dn4.dineout-cdn.co.in/js/eventManager-6d0fa57fb5.js"></script>
-    <script type="text/javascript" src="https://dn4.dineout-cdn.co.in/js/CommonUtils-79e0ff3aef.js"></script>
-    <script type="text/javascript" src="https://dn2.dineout-cdn.co.in/js/jquery-ui-127cdb8e8e.min.js"></script>
-    <script type="text/javascript" src="https://dn3.dineout-cdn.co.in/js/moment-8b162ba38c.min.js"></script>
+    <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/eventManager-6d0fa57fb5.js"></script>
+    <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/CommonUtils-0c4341b47d.js"></script>
+    <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/jquery-ui-127cdb8e8e.min.js"></script>
+    <script type="text/javascript" src="https://dn1.dineout-cdn.co.in/js/moment-8b162ba38c.min.js"></script>
 
 
 
@@ -1663,7 +1785,7 @@ $('input').bind('keyup', function(event){
             focusOnSelect: true,
             prevArrow: '<button type="button" class="slick-prev"><i class="fa fa-angle-left"></i></button>',
             nextArrow: '<button type="button" class="slick-next"><i class="fa fa-angle-right"></i></button>',
-        });	
+        });
     });
 </script>
 
@@ -1683,7 +1805,7 @@ $('input').bind('keyup', function(event){
 					    for(var i = 0; i < numNodes; i++) {
 					        el = thumbElements[i];
 
-					        // include only element nodes 
+					        // include only element nodes
 					        if(el.nodeType !== 1) {
 					          continue;
 					        }
@@ -1760,8 +1882,8 @@ $('input').bind('keyup', function(event){
 					        index;
 
 					    for (var i = 0; i < numChildNodes; i++) {
-					        if(childNodes[i].nodeType !== 1) { 
-					            continue; 
+					        if(childNodes[i].nodeType !== 1) {
+					            continue;
 					        }
 
 					        if(childNodes[i] === clickedListItem) {
@@ -1790,10 +1912,10 @@ $('input').bind('keyup', function(event){
 					        if(!vars[i]) {
 					            continue;
 					        }
-					        var pair = vars[i].split('=');  
+					        var pair = vars[i].split('=');
 					        if(pair.length < 2) {
 					            continue;
-					        }           
+					        }
 					        params[pair[0]] = pair[1];
 					    }
 
@@ -1821,7 +1943,7 @@ $('input').bind('keyup', function(event){
 					            // See Options->getThumbBoundsFn section of docs for more info
 					            var thumbnail = items[index].el.children[0],
 					                pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
-					                rect = thumbnail.getBoundingClientRect(); 
+					                rect = thumbnail.getBoundingClientRect();
 
 					            return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
 					        },
@@ -1834,13 +1956,13 @@ $('input').bind('keyup', function(event){
 								captionEl.children[0].innerHTML = item.title +  '<br/><small>Photo: ' + item.author + '</small>';
 								return true;
 					        },
-							
+
 					    };
 
 
 					    if(fromURL) {
 					    	if(options.galleryPIDs) {
-					    		// parse real index when custom PIDs are used 
+					    		// parse real index when custom PIDs are used
 					    		// http://photoswipe.com/documentation/faq.html#custom-pid-in-url
 					    		for(var j = 0; j < items.length; j++) {
 					    			if(items[j].pid == index) {
@@ -1906,7 +2028,7 @@ $('input').bind('keyup', function(event){
 						    		useLargeImages = true;
 						        	imageSrcWillChange = true;
 						    	}
-						        
+
 						    } else {
 						    	if(useLargeImages) {
 						    		useLargeImages = false;
@@ -1965,18 +2087,18 @@ $('input').bind('keyup', function(event){
 				}
 			    var pswpElement = document.querySelectorAll('.pswp')[0];
 			    // build items array
-			    
+
 			    // define options (if needed)
 			    var options = {
-						 // history & focus options are disabled on CodePen        
+						 // history & focus options are disabled on CodePen
 			      	history: false,
 			      	focus: false,
 
 			        showAnimationDuration: 0,
 			        hideAnimationDuration: 0
-			        
+
 			    };
-			    
+
 			    var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, menuImages, options);
 			    gallery.init();
 			};
@@ -1987,16 +2109,16 @@ $('input').bind('keyup', function(event){
 				$(this).tab('show')
 			});
 
-			//Navbar Box Shadow on Scroll 
+			//Navbar Box Shadow on Scroll
 			$(function(){
 			    var navbar = $('.detail-menu');
 			    $(window).scroll(function(){
 			        if($(window).scrollTop() <= 58){
 			       		navbar.removeClass('show-it');
 			        } else {
-			          navbar.addClass('show-it'); 
+			          navbar.addClass('show-it');
 			        }
-			    });  
+			    });
 			});
 
 			//Function from Bluthemes, lets you add li elemants to affix object without having to alter and data attributes set out by bootstrap
@@ -2004,7 +2126,7 @@ $('input').bind('keyup', function(event){
 
 				// name your elements here
 				var stickyElement   = '.panel-affix',   // the element you want to make sticky
-					bottomElement   = '#address-panel'; // the bottom element where you want the sticky element to stop (usually the footer) 
+					bottomElement   = '#address-panel'; // the bottom element where you want the sticky element to stop (usually the footer)
 
 				// make sure the element exists on the page before trying to initalize
 				if($( stickyElement ).length){
@@ -2012,12 +2134,12 @@ $('input').bind('keyup', function(event){
 
 						// let's save some messy code in clean variables
 						// when should we start affixing? (the amount of pixels to the top from the element)
-						var fromTop = $( this ).offset().top, 
+						var fromTop = $( this ).offset().top,
 							// where is the bottom of the element?
 							fromBottom = $( document ).height()-($( this ).offset().top + $( this ).outerHeight()),
 							// where should we stop? (the amount of pixels from the top where the bottom element is)
 							// also add the outer height mismatch to the height of the element to account for padding and borders
-							stopOn = $( document ).height()-( $( bottomElement ).offset().top)+($( this ).outerHeight() - $( this ).height()); 
+							stopOn = $( document ).height()-( $( bottomElement ).offset().top)+($( this ).outerHeight() - $( this ).height());
 
 						// if the element doesn't need to get sticky, then skip it so it won't mess up your layout
 						if( (fromBottom-stopOn) > 80 ){
@@ -2025,18 +2147,18 @@ $('input').bind('keyup', function(event){
 							$( this ).css('width', $( this ).width()).css('top', 0).css('position', '');
 							// assign the affix to the element
 							$( this ).affix({
-								offset: { 
+								offset: {
 									// make it stick where the top pixel of the element is
-									top: fromTop - 59,  
+									top: fromTop - 59,
 									// make it stop where the top pixel of the bottom element is
 									bottom: stopOn
 								}
 							// when the affix get's called then make sure the position is the default (fixed) and it's at the top
 							}).on('affix.bs.affix', function(){ $( this ).css('top', '-153px').css('position', ''); });
 						}
-						// trigger the scroll event so it always activates 
-						$( window ).trigger('scroll'); 
-					}); 
+						// trigger the scroll event so it always activates
+						$( window ).trigger('scroll');
+					});
 				}
 
 			});
@@ -2052,15 +2174,15 @@ $('input').bind('keyup', function(event){
 
 			$(window).on('scroll', function () {
 			  var cur_pos = $(this).scrollTop();
-			  
+
 			  sections.each(function() {
 			    var top = $(this).offset().top - nav_height - 1,
 			        bottom = top + $(this).outerHeight();
-			    
+
 			    if (cur_pos >= top && cur_pos <= bottom) {
 			      nav.find('a').removeClass('active');
 			      sections.removeClass('active');
-			      
+
 			      $(this).addClass('active');
 			      nav.find('a[href="#'+$(this).attr('id')+'"]').addClass('active');
 			    }
@@ -2070,11 +2192,11 @@ $('input').bind('keyup', function(event){
 			nav.find('a').on('click', function () {
 			  var $el = $(this)
 			    , id = $el.attr('href');
-			  
+
 			  $('html, body').animate({
 			    scrollTop: $(id).offset().top - nav_height
 			  }, 500);
-			  
+
 			  return false;
 			});
 
@@ -2175,7 +2297,7 @@ $('input').bind('keyup', function(event){
               $(this).html(html);
             }
           });
-       
+
           $(".morelink").click(function(){
             if($(this).hasClass("less")) {
               $(this).removeClass("less");
@@ -2213,5 +2335,6 @@ var google_remarketing_only = true;
 	</div>
 </noscript>
 	
+
 
 </body></html>
