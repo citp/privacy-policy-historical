@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milestoneinternet.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106010751id_/https%3A//www.milestoneinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milestoneinternet.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225000600id_/https%3A//www.milestoneinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,8 +32,8 @@ Should you choose to add a comment to any posts that we have published on blog s
 
 Your comments and it's associated personal data will remain on this site until we see fit to either 
 
-  * remove the comment or
-  * remove the blog post. Should you wish to have the comment and it's associated personal data deleted, please [email us here](mailto:privacy@milestoneinternet.com?subject=Blog%20post%20removal) using the email address that you commented with. 
+  * Remove the comment or
+  * Remove the blog post. Should you wish to have the comment and it's associated personal data deleted, please [email us here](mailto:privacy@milestoneinternet.com?subject=Blog%20post%20removal) using the email address that you commented with. 
 
 
 
