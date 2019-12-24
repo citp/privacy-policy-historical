@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designspark.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404182043id_/https%3A//www.rs-online.com/designspark/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designspark.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224194237id_/https%3A//www.rs-online.com/designspark/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,8 +72,6 @@ In addition, RS Components Ltd needs to share information with certain selected 
 
 
 RS Components Ltd may also disclose personal information in cases where we believe the disclosure is necessary to protect the rights, property or personal safety of RS, our customers, employees or the public, or where we are otherwise legally permitted to do so.
-
-If you register to use DesignSpark Electrical software, your registration information will be available to both RS Components Ltd and Trace Software International in the France. Trace Software International use of this information is subject to its own privacy practices, and is not covered by this policy statement. [Click here to view Trace International Software’s privacy policy](http://www.trace-software.com/conditions-of-use-and-privacy/) and how they may use your information.
 
 The Platform may contain links to websites operated by other third parties. If you click on these links, you will leave DesignSpark, and your personal information will be processed in accordance with the privacy practices of the operators of those websites. You should always read the privacy policies of these websites.
 
