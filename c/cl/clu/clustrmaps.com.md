@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clustrmaps.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630133533id_/http%3A//clustrmaps.com/bl/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clustrmaps.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224045128id_/http%3A//clustrmaps.com/bl/policy) for the most accurate reproduction.*
 
 # ClustrMaps.com Privacy Policy
 
