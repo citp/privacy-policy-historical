@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the grasshopper.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630151641id_/https%3A//secure.logmein.com/home/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasshopper.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224230838id_/https%3A//secure.logmein.com/home/en/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LogMeIn
 
-Last Updated on January 1, 2018
+Last Updated on January 1, 2018  
+Reviewed on November 30, 2018
 
 **Introduction**
 
