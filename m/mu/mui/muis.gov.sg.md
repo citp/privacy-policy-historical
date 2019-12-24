@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the muis.gov.sg privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505025821id_/https%3A//www.muis.gov.sg/Footer/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muis.gov.sg privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225002205id_/http%3A//muis.gov.sg/Footer/Privacy-Statement) for the most accurate reproduction.*
 
 # Muis: Majlis Ugama Islam Singapura - Home
+
+Muis Office and Counter Services will be closed from Tuesday, 24 December 2019, 1.00 PM until Wednesday, 25 December 2019. Normal operations will resume on Thursday, 26 December 2019. 
 
   * [Home](https://web.archive.org/)
   * Footer
@@ -20,10 +22,6 @@
   7. Please contact QSM@muis.gov.sg if you :  
 (a.) have any enquires or feedback on our data protection policies and procedures,  
 (b.) need more information on or access to data which you have provided to us in the past.
-
-
-
-Last updated on 26/3/2019
 
   
 
