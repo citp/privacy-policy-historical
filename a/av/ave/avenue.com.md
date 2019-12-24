@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the avenue.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202165903id_/http%3A//www.avenue.com/en_US/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avenue.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224232107id_/https%3A//www.avenue.com/en_US/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated: 01 March 2017
+Updated: 22 November 2019
 
 ### Introduction
 
-Please read this Privacy Policy to understand how we protect your privacy when interacting with Avenue Stores, LLC (collectively, “Avenue,” “we,” or “us”) through our retail stores, by telephone, through www.avenue.com or www.loralette.com (collectively, our “Website”) and through Social Media platforms we use to interact with you.  
+Please read this Privacy Policy to understand how we protect your privacy when interacting with Avenue Online, LLC (collectively, “Avenue,” “we,” or “us”) through our retail stores, by telephone, through www.avenue.com or www.loralette.com (collectively, our “Website”) and through Social Media platforms we use to interact with you.  
 The purpose of this Privacy Policy is to assist you in understanding the type of personal information we may collect from you, how such information may be used, and the choices that are available to you concerning the use of your information.  
 BY INTERACTING WITH US THROUGH OUR STORES, TELEPHONE, WEBSITE AND SOCIAL MEDIA PLATFORMS, YOU CONSENT TO THE USE OF INFORMATION THAT IS COLLECTED OR SUBMITTED AS DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS OF OUR PRIVACY POLICY, DO NOT PROVIDE PERSONAL INFORMATION TO US OR USE OUR WEBSITE OR COMMUNICATE WITH US ON SOCIAL MEDIA PLATFORMS.  
 WE MAY MAKE CHANGES FROM TIME TO TIME OR ADD TO THIS PRIVACY POLICY, SO WE ASK YOU TO REVIEW THIS PRIVACY POLICY FROM TIME TO TIME SO THAT YOU ARE FAMILIAR WITH OUR CURRENT PRIVACY PRACTICES.  
@@ -50,12 +50,11 @@ Finally, we will access, transfer, disclose, and preserve personal information, 
 
 ### How to Access and Update Your Registration Information
 
-In order to maintain the accuracy of your registration information, including related personal information, if you have registered on our Website, you may access and update your name, address, telephone number or email address any time by visiting our Website and clicking on the [My Account or Login](http://www.avenue.com/en_US/account) link at the top of any page and [registering/logging in](http://www.avenue.com/en_US/account) with your username/email address and password.
+In order to maintain the accuracy of your registration information, including related personal information, if you have registered on our Website, you may access and update your name, address, telephone number or email address any time by visiting our Website and clicking on the [My Account or Login](https://www.avenue.com/en_US/account) link at the top of any page and [registering/logging in](https://www.avenue.com/en_US/account) with your username/email address and password.
 
 ### Other Important Information Relating to Privacy
 
   * **Social Media**. Avenue uses various social media platforms (“Social Media,” including, without limitation, Facebook, Twitter, Pinterest, Instagram, Tumblr, YouTube) to communicate with its customers and others interested in the business. If you contact or interact with us through Social Media, we may contact you via direct message or use other Social Media tools to communicate with you. In these instances, Avenue’s interactions with you are governed by this Privacy Policy as well as the Privacy Policy of the Social Media provider used. Please note that various Social Media platforms utilize features, such as the Facebook Like button, that may collect information about your IP address and page you’re visiting on our Website, and they may employ tracking technologies, such as cookies.
-  * **Video Recording in Stores**. We may conduct video surveillance at our stores for security, fraud and loss prevention and incident reporting purposes. We use the images and information from such videos only as required for such purposes and for certain operational purposes, such as to measure traffic patterns in our stores.
   * **Data Aggregation**. Avenue also collects information about how users navigate through our Website or Social Media platforms. This statistical information is gathered in order to improve the Website and our product offerings. This aggregated information may be shared with Avenue vendors or other Avenue partners. This aggregated statistical and navigational information does not include individual names or personal information.
   * **Avenue-Branded Credit Cards**. Avenue-branded credit card accounts are issued and managed by a third party, [Comenity Bank](https://d.comenity.net/avenue/pub/Home.xhtml). When you apply for a credit card through the Website or at a store, you provide your financial and personal information needed for Comenity Bank to process your application. Avenue is independent of Comenity Bank. To obtain a financial Privacy Policy for the Avenue credit card, please [click here](https://d.comenity.net/avenue/common/privacy/FinancialPrivacy.xhtml).
   * **"Tell a Friend" and "Referral Programs".** If you elect to use our referral service to inform a friend about our products or services, we will ask you for the friend's contact information. We will then contact your friend, as you have directed, related to your referral request. We use the personal information you provide for your friend in this situation to send information that you have indicated your friend should see and to track the success of our referral program.
@@ -128,13 +127,6 @@ PLEASE NOTE THAT NORMAL EMAIL (SUCH AS USING CONTACT US OR YOUR HOME EMAIL) IS N
 
 Any personal information collected from or about individuals from outside the United States is processed and stored in the United States. When you provide personal information to Avenue, you consent to the processing, accessing, transmitting and storing of personal information in the United States. If you do not consent to providing your personal information to Avenue in the United States, then you should not use the Website or our Social Media accounts.
 
-### International Customer Privacy
-
-To sell and fulfill online purchases that customers choose to ship internationally or pay in a currency other than US Dollars, Avenue partners with Borderfree, Inc. ("Borderfree"). When you identify your order as being shipped internationally, Avenue will direct you to Borderfree for completion of the transaction.  
-Upon completion of your order (a purchase), Borderfree will notify Avenue of the approval of your order, and Avenue will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions to which you must agree in order to receive the product(s) you ordered.   
-Upon placing an Avenue order with Borderfree, Borderfree will share your order information with Avenue, and that information is protected by this Privacy Policy. Any personal information you provide directly to Avenue while on our Website is controlled and processed by Avenue (see Contact Information, below). Any personal information provided at checkout is controlled and processed by Borderfree, 55 West 39th Street, 18th Floor, New York, New York 10018. Borderfree agrees that it will not sell, transfer, or otherwise use your information other than for executing international shipping orders.  
-If you provide Avenue with personal information, directly or through Borderfree, you consent to the transfer and storage of that information on our servers located in the United States.
-
 ### Links to Other Websites
 
 Avenue occasionally provides links on our Website to other non-affiliated websites to enhance your shopping experience. These other websites operate independently from Avenue and will have their own privacy and security policies. We strongly encourage you to review these policies at any website you visit. Avenue does not take responsibility for such non-affiliated websites.
@@ -148,17 +140,17 @@ Avenue may from time to time make changes to its Privacy Policy to reflect chang
 To contact us regarding products, transactions and services, contact us at:
 
 > Avenue  
->  175 Heritage Drive  
->  Pataskala, OH 43062
+>  10300 Sanden Drive, Suite 100  
+>  Dallas, TX 75238
 > 
 > Customer Service Phone Number: (888) 843-2836  
->  International: 1 (740) 964-5847  
+>  International: (925) 273-6992  
 >  Fax Number: (740) 964-5850
 
 To contact us regarding this Privacy Policy, contact us at:
 
 > Avenue  
->  365 West Passaic Street, Suite 230  
->  Rochelle Park, NJ 07662  
+>  45 North Broad St.  
+>  Ridgewood, NJ 07451  
 >  Attn: Legal  
 >  Email: [privacy@avenue.com](mailto:privacy@avenue.com)
