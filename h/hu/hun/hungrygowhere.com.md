@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungrygowhere.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414074303id_/https%3A//www.hungrygowhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungrygowhere.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224220124id_/https%3A//www.hungrygowhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hungrygowhere.com
 
@@ -30,10 +30,9 @@ Provisioning & administration essential to the operation of the Site or App
       * Enable the use of the online Delivery service offered through our partners
     2. Provisioning & administration not essential to the operation of the Site or App 
 
-Non-essential services are services for which you can opt out of. You may opt out of the following non-essential services by logging in with your HungryGoWhere account and accessing your account settings. 
+Non-essential services are services for which you can opt out of. You may opt out of the following non-essential services by logging in with your HungryGoWhere account and accessing your account settings. If you want to opt out of email, opt out by emailing lost@hungrygowhere.com with your request and we will process it within 10 working days. 
 
       * Provide updates, offers, invitations to events and deliver relevant advertising through voice and SMS with your prior consent or if otherwise permitted under local laws and regulations 
-      * Offer rewards and promotions, and share promotional benefits and loyalty programs which you may qualify for (including promotions from restaurants that you have placed a booking with through the service) 
       * Sharing your personal data with related third parties outside of the Singtel Group for marketing of new products and services you may be interested in 
 
 If you choose to withhold your personal information, delete your account information, or disable application location permissions, you may be unable to access full services of the Site or App, including but not limited to: 
@@ -77,9 +76,9 @@ You can also opt out of optional news letters you have previouly subscribed to d
 
 HungryGoWhere  
 Singtel Digital Media Pte Ltd  
-31C Exeter Road  
-Comcentre 3 (Atrium) Level 2  
-Singapore 239734
+31B Exeter Road  
+Comcentre II Level 4  
+Singapore 239733
 
 or via email at lost@hungrygowhere.com 
 
