@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420050754id_/https%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224183025id_/https%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightEdge
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-Effective May 23, 2018
+Effective June 19, 2019
 
 Our Privacy Policy is intended to help you clearly and easily understand:
 
@@ -33,7 +33,9 @@ This Privacy Policy applies to personal data from the European Union and from Sw
 
 We collect the following types of information:
 
-  * Your username, first and last name, email and/or postal address, telephone number or other information that, alone or in combination can be used to identify you (“Personal Information”) that you provide when you create an account or fill out a form on the Site; 
+  * Your username, first and last name, email and/or postal address, telephone number or other information that, alone or in combination can be used to identify you (“Personal Information”) that you provide when you create an account or fill out a form on the Site;
+
+
   * Usage, viewing and technical data automatically collected from your computer or device through cookies and other technologies (described below), such as your device identifier or IP address, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data;
   * Comments or other information you post on the Site;
   * Location information when you visit the Site, including location information provided by a computer or device interacting with the Site. Location information is only used for security, monitoring, and troubleshooting purposes (most devices allow you to turn off location services); and
@@ -100,11 +102,11 @@ _EU - U.S. Privacy Shield_. BrightEdge participates in and has certified its com
 
 _Swiss - U.S. Privacy Shield_. BrightEdge complies with the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from Switzerland to the United States. BrightEdge has certified to the Department of Commerce it adheres to the Privacy Shield Principles. By using the Service, you consent to having your personal data transferred to and processed in the United States. 
 
-If there is any conflict between this Privacy Policy and the EU – U.S. or Swiss – U.S.  Privacy Shield Principles, the Privacy Shield Principles shall govern.  You can find BrightEdge’s Privacy Shield certification [here](https://www.privacyshield.gov/participant?id=a2zt00000004TydAAE&status=Active). You can also learn more about Privacy Shield at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+If there is any conflict between this Privacy Policy and the EU – U.S. or Swiss – U.S.  Privacy Shield Principles, the Privacy Shield Principles shall govern.  You can find BrightEdge’s Privacy Shield certification [here](https://www.privacyshield.gov/list). You can also learn more about Privacy Shield at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 _Transfer and Enforcement Mechanisms for EU - U.S. and Swiss – U.S. Privacy Shield_. BrightEdge may be accountable for the processing of personal data it receives, under the Privacy Shield Framework, and may subsequently transfer data to a third party acting as an agent on its behalf in the circumstances described in “[Sharing Your Information with Third Parties](https://www.brightedge.com/privacy#Sharing)” above.  If the agent processes personal data in a manner inconsistent with the Privacy Shield Principles, we are responsible if it does so and for the harm caused. BrightEdge complies with the Privacy Shield Principles for all onward transfers of personal data from the EU or Switzerland, including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, BrightEdge is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
-In compliance with the Privacy Shield Principles, BrightEdge commits to resolve complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact BrightEdge as indicated in “Contact Information” below.  When you contact us with a complaint, please include contact information and clearly describe your complaint.  We will respond to your request or complaint within a reasonable time and will let you know next steps in resolving your complaint. 
+In compliance with the Privacy Shield Principles, BrightEdge commits to resolve complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact BrightEdge as indicated in [“Contact Information](https://www.brightedge.com/privacy#Contact)” below.  When you contact us with a complaint, please include contact information and clearly describe your complaint.  We will respond to your request or complaint within a reasonable time and will let you know next steps in resolving your complaint. 
 
 As part of our participation in the Privacy Shield Framework, BrightEdge will resolve your dispute regarding our privacy policies and practices through JAMS, an alternative dispute resolution provider located in the United States. If you still have privacy or data use concerns that we have not addressed satisfactorily, please contact JAMS (free of charge) directly at <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. If your complaint is not resolved through these channels, under certain circumstances a binding arbitration option may be available before a Privacy Shield Panel, as described in Annex I to the Privacy Shield Principles (please visit: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>). Additionally, as part of the Privacy Shield Framework, the U.S. State Department Senior Coordinator serves as the Ombudsperson to facilitate the processing of requests relating to national security access to data transferred from the EU to the U.S. or Switzerland to the U.S.
 
@@ -132,7 +134,7 @@ Pursuant to the Privacy Shield Principles, the EU GDPR, and other applicable pri
 
 
 
-If you would like to review, correct, receive a copy of, or erase the Personal Information we have about you or withdraw your processing consent, please send us your request using the “Contact Information” below.  Unless a legal exemption applies, we will respond to all such requests within thirty (30) days.  If we refuse your request, we will notify you of our reasons for the refusal to the extent required and how you may complain about the refusal. 
+If you would like to review, correct, receive a copy of, or erase the Personal Information we have about you or withdraw your processing consent, please send us your request using the “[Contact Information](https://www.brightedge.com/privacy)” below.  Unless a legal exemption applies, we will respond to all such requests within thirty (30) days.  If we refuse your request, we will notify you of our reasons for the refusal to the extent required and how you may complain about the refusal. 
 
 We ask individual users to identify themselves and to specify the information requested to be accessed, corrected, or erased before processing such requests, and we may decline to process requests that are unreasonably repetitive and vexatious, require disproportionate technical effort (for instance, requests concerning information residing on backup tapes), jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.  However, we will not charge you for the making of the request or to correct, update, or erase your Personal Information.
 
@@ -148,7 +150,7 @@ If BrightEdge learns of a security breach that may affect your data, we will not
 
 This Site is not intended for use by anyone under the age of 13 nor does BrightEdge knowingly collect or solicit Personal Information from anyone under the age of 13.  In the event we confirm that we have collected Personal Information from someone under the age of 13, we will delete that information.  If you believe we have any information from a child under 13, please contact us using the contact details in “Contact Information” below.
 
-**12. Third Party Sites**
+**12.Third Party Sites**
 
 The Site may also contain links to third party websites.  This Privacy Policy applies solely to information collected by BrightEdge.  Even if the third party is affiliated with us through a business partnership or otherwise, we are not responsible for the privacy practices of other websites.  If you submit Personal Information to any third party site, your information is governed by that site’s privacy policy.  We encourage you to familiarize yourself with the privacy policies of such websites to determine how they handle any information separately collected from you.  Please be aware that we do not warn you when you have chosen to click through to another website or property when using the Site.
 
@@ -187,27 +189,14 @@ Fax: (650) 763-3894
 
 _EU – GDPR Contacts_.
 
-BrightEdge Technologies Limited  
-Company Number 08858492  
-1st Floor, The Cursitor Building  
-38 Chancery Lane  
-London WC2A 1LF  
+BrightEdge Technologies Limited
+
+Company Number 08858492
+
+1st Floor, The Cursitor Building
+
+38 Chancery Lane
+
+London WC2A 1LF
+
 Attention: EU Data Representative
-
-EU residents may lodge a data complaint about BrightEdge with this Data Protection Authority:
-
-Information Commissioner’s Office  
-Wycliffe House                                                         
-Water Lane  
-Wilmslow, Cheshire SK9 5AF UK
-
-Telephone: 0303 123 1113 or 01625 545 745  
-Fax: 01625 524 510
-
-**17.   Change Log:**
-
-**Sections 1, 2, 4, 7, 9, & 10.**  Modified or added language to comply with GDPR.
-
-**Section 16.**   Updated contact information to include contact information for BrightEdge’s UK office and GDPR required lead data protection authority.
-
-Miscellaneous changes were made to make the Privacy Policy easier to read and understand.
