@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straighttalk.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118172345id_/https%3A//www.straighttalk.com/wps/portal/home/h/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straighttalk.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224044954id_/https%3A//www.straighttalk.com/wps/portal/home/h/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Straight Talk Wireless
 
@@ -6,9 +6,9 @@
 
 **TracFone Wireless, Inc. Privacy Policy**[.](http://www.straighttalk.com/wps/portal/home#top)
 
-Effective Date: April 1, 2017
+Effective Date: May 7, 2019
 
-TracFone Wireless, Inc. ("TracFone") has instituted a comprehensive set of privacy policies and procedures to ensure that its customers and website visitors' privacy is never compromised and is kept private at all times. The purpose of this privacy notice is to inform our customers, website visitors, and mobile application users of the type of information that TracFone, or a credit card processing partner or other vendor acting on our behalf, collects, how the information is gathered, how it is utilized, how long it is retained, how it is secured and how customers and visitors can restrict its use or disclosure.
+TracFone Wireless, Inc. ("TracFone") has instituted a comprehensive set of privacy policies and procedures to ensure that its customers and website visitors' privacy is never compromised and is kept private at all times. The purpose of this privacy notice is to inform our customers, website visitors, and mobile application users of the type of information that TracFone, or a credit card processing partner or other vendor acting on our behalf, collects, how the information is gathered, how it is utilized, how long it is retained, how it is secured and how customers and visitors can restrict its use or disclosure. This privacy notice also describes your choices regarding use, access and correction of your personal information.
 
 **Types of Personal Information we collect:**
 
@@ -18,7 +18,7 @@ All of the following categories constitute Personal Information.
 
 **Customer Proprietary Network Information (CPNI) –** This information is a subset of the personal Information that is generated in connection with the telecommunications services we provide to you. CPNI includes, for example, call details, call location information, and certain information about your rate plans and features. CPNI does not include your name, address, and phone number.
 
-**Financial Information** – TracFone collects credit card information, including account number, card holder name and address for payment of products and services purchased by customers. 
+**Financial Information** – TracFone collects credit card information, including account number, card holder name and address for payment of products and services purchased by customers.
 
 **Health Information** – For those customers qualifying for the federal LifeLine Assistance Program, personal information may be appended with information obtained through third party sources, such as Health Maintenance Organizations (HMO), for the purpose of corroborating a potential customer’s enrollment eligibility. TracFone will share the mobile number with the HMO providers associated with those customers. If a child or other beneficiary is the qualifying recipient for the Lifeline Assistance Program, we will also collect the child’s or other beneficiary’s name, date of birth, and partial social security number to verify their eligibility in the program.
 
@@ -32,13 +32,15 @@ _Note: TracFone does not have access to the content of private e-mail communicat
 
 We collect personal and non-personal information from customers based upon our business relationship and the nature of the products and services we provide. You supply information to us when you use our products and services, when you visit our web site, make a purchase from us, or when you establish or modify an online account. Additionally, you may also provide us with information when you interact with our customer service representatives or participate in online surveys.
 
-We also automatically collect information associated with your use of your device and our products and services. When you visit our website, we may store information on your computer that allows us to identify you immediately. This process is often referred to as "cookie" technology. More specifically, a cookie is a commonly used Internet standard which stores, in a very small text file on the customer's hard disk, information specific to the customer. TracFone and its partners also use web beacons, widgets and server log files, in addition to cookies, to collect and or store demographic information about our user base as a whole. You can control the use of cookies at the individual browser level but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+We also automatically collect information associated with your use of your device and our products and services. When you visit our website, we may store information on your computer that allows us to identify you immediately. This process is often referred to as "cookie" technology. More specifically, a cookie is a commonly used Internet standard which stores, in a very small text file on the customer's hard disk, information specific to the customer. We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. TracFone and its partners also use web beacons, widgets and server log files, in addition to cookies, to collect and or store demographic information about our user base as a whole. You can control the use of cookies at the individual browser level but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 **How information is used:**
 
 TracFone uses your information for various purposes, including but not limited to, billing purposes such as the auto-refill program, to provide or change service, to anticipate and resolve problems with your service, or to inform you of products and services that better meet your needs. This means that TracFone may use your information in conjunction with information available from other sources, to market new services that may be of interest to you. We also use your information for market research, and for optimizing our systems in order to deliver the best customer experience possible.
 
- We and our authorized advertising partners use cookies and other similar technologies to collect information to help tailor the ads you see on our sites and to help make decisions about ads you see on other sites. We use third-party advertising companies to serve ads on our behalf. These companies employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://www.networkadvertising.org/choices/). To opt out of all IMM cookies [click here](http://imm.com/privacy/optout/). Please note that by "opting out" you will no longer receive targeted advertising. You will, however, continue to receive general advertising in the form of generic ads.
+We and our authorized advertising partners use cookies and other similar technologies to collect information to help tailor the ads you see on our sites and to help make decisions about ads you see on other sites. We use third-party advertising companies to serve ads on our behalf. These companies employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://www.networkadvertising.org/choices/). Please note that by "opting out" you will no longer receive targeted advertising. You will, however, continue to receive general advertising in the form of generic ads.
+
+All Tracfone Wireless Inc. brands participate in the Adobe Experience Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. Learn more <link to [ https://cross-device-privacy.adobe.com ](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcross-device-privacy.adobe.com&data=02%7C01%7Cramsey%40adobe.com%7C0683ba1059ce47aa2d8908d6c42faa23%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C636912106339366158&sdata=QSC5TNNHgA%2FtZ8jZakQxxfFpExFcbY8q6S9fz%2FPrB4o%3D&reserved=0) > about how Adobe does this.
 
 TracFone uses mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
@@ -48,10 +50,10 @@ Your wireless number may be appended in the context of text messaging services o
 
 When TracFone uses third parties to perform services on its behalf, such as marketing, fulfillment services and shipping to customers, TracFone will request that such third parties protect your customer identifiable information consistently with this privacy policy. TracFone will not, however, disclose your customer identifiable information to third parties who want to market products to you without your express, written or equivalent electronic consent. TracFone will not sell, trade, or disclose to third parties any customer identifiable information derived from the registration for, or use of, a TracFone product or service -- including customer names and addresses -- without the consent of the customer.
 
-TracFone may, however, use and/or disclose customer identifiable information to a third party:
+TracFone may, however, use and/or disclose customer identifiable information, which may include personal information, to a third party:
 
   * to investigate and help prevent potential fraud, other unlawful activity or activity that threatens a service network;
-  * as required by law, such as to comply with a subpoena, or similar legal process;
+  * as required by law, such as to comply with a subpoena, request by public authorities for meeting national security or law enforcement requirements, or other similar legal process;
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
   * to any other third party with your prior consent to do so;
   * if TracFone is involved in a merger, acquisition, or sale of all or a portion of its assets.
@@ -60,7 +62,7 @@ TracFone may, however, use and/or disclose customer identifiable information to 
 
 _Cobranding_
 
-If you are a Walmart Family Mobile customer, TracFone has partnered with Wal-Mart Stores, Inc. ("Walmart®") to offer the Walmart Family Mobile service. You should be aware that any information you provide directly to Walmart will be subject to Walmart's Privacy Policy. This includes information you provide to Walmart in connection with your device purchase, upgrade, return, or replacement, whether in its stores, by phone or online, including but not limited to, if you purchase a Family Mobile device or obtain technical support for the device at or from Walmart or its agents. In addition, if you activate Family Mobile communications services at a Walmart store, Walmart may request personal information from you that is passed to TracFone as part of the activation process, but which may also be retained by Walmart. For information on Walmart's privacy policy and practices, see [Walmart Privacy Policy](http://corporate.walmart.com/privacy-security/walmart-privacy-policy).
+If you are a Walmart Family Mobile customer, TracFone has partnered with Wal-Mart Stores, Inc. ("Walmart®") to offer the Walmart Family Mobile service. You should be aware that any information you provide directly to Walmart will be subject to Walmart's Privacy Policy. This includes information you provide to Walmart in connection with your device purchase, upgrade, return, or replacement, whether in its stores, by phone or online, including but not limited to, if you purchase a Family Mobile device or obtain technical support for the device at or from Walmart or its agents. In addition, if you activate Family Mobile communications services at a Walmart store, Walmart may request personal information from you that is passed to TracFone as part of the activation process, but which may also be retained by Walmart. For information on Walmart's privacy policy and practices, see [ Walmart Privacy Policy ](http://corporate.walmart.com/privacy-security/walmart-privacy-policy) .
 
 TracFone also partners with other companies who supply software applications for use on our website. The software is used to collect survey or feedback information or support real-time chat sessions from customers who visit our website and utilize these tools. Information from your web session, including your device serial number, phone number, and account email may be associated with your responses when utilizing these tools. This information is used by TracFone exclusively for analysis of survey or feedback results and will not be shared with any third parties for any other purposes.
 
@@ -98,7 +100,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 _Gift Purchases_
 
-If you purchase a gift, we will ask you for the recipient’s name, and mailing address in order to ship product to the individual. TracFone does not retain the recipient’s information or use it for any other purpose. 
+If you purchase a gift, we will ask you for the recipient’s name, and mailing address in order to ship product to the individual. TracFone does not retain the recipient’s information or use it for any other purpose.
 
 _Social Media Features_
 
@@ -120,21 +122,29 @@ TracFone reserves the right to change its privacy policy by publishing new terms
 
 **How Customers and Visitors can access and update personal information:**
 
-Upon request, TracFone will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into the “my Account” portal or by contacting a Customer Care agent by calling 1-800-867-7183. In some cases we may require answers to security questions to verify your identification before any information can be amended or deleted. Additionally, in certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
+You have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it. Upon request, TracFone will provide you with information about whether we hold any of your personal information. To make your request, provide us with your first and last name, cellular telephone number and email address. Make your request to [privacy@tracfone.com](mailto:privacy@tracfone.com). We will respond to your request within a reasonable timeframe.
 
-If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@tracfone.com](mailto:privacy@tracfone.com). We will respond to your request within a reasonable timeframe.
+You can verify your account and manage your data by logging into the “my Account” portal or by contacting Customer Service. To manage your personal account on line, log into the “my Account” portal and select the “Update Your Profile” link. Delete or change your personal information from the form and select “Submit” at the bottom of the page.
+
+If you do not remember or are not able to use your information to log onto the “my Account” portal, please contact a Customer Care agent by calling 1-800-867-7183. All requests for changes or deletion of account information require account verification by answering security questions or providing the Personal Identification Number (PIN) you set when you first activated your account.
+
+In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
 
 **Your California Privacy Rights**
 
 California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes. As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent.
 
-**California Web Site Data Collection & “Do Not Track” Notices**
+**California Web Site Data Collection & “Do Not Track” Notices **
 
 Web Site Data Collection: TracFone does not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services.
 
 **“Do Not Track” Notice:** The providers of “do not track”: and similar signals do not yet operate according to common, industry-accepted standards. Therefore, TracFone currently does not respond to those signals. For more information on Do Not Track, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 California customers who wish to request further information about our compliance with these requirements or have questions or concerns about our privacy practices and policies will find the contact information at the end of this policy.
+
+Nevada Privacy Law (SB 220)
+
+Nevada consumers have a right to submit a request to opt-out of sale of personal information, called under the Nevada Privacy Law as “covered information.” Upon receipt of a verified request, both as to the submission and the identity of the consumer, TracFone will ensure that no covered information is sold as defined under the Nevada Privacy Law. TracFone will further notify the customer within 60 days after receipt that the request has been processed. At this time, Nevada residents can only submit this request by calling 1-877-799-1999.
 
 **Questions?**
 
@@ -148,4 +158,4 @@ Attn: Privacy Policy Compliance
 9700 NW 112th Avenue  
 Miami, FL 33178
 
-If you have any unresolved privacy or data use concerns that we have not addressed to your satisfaction, please contact our U.S. based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have any unresolved privacy or data use concerns that we have not addressed to your satisfaction, please contact our U.S. based third party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request ](https://feedback-form.truste.com/watchdog/request) .
