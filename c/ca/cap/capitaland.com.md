@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the capitaland.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621090428id_/https%3A//www.capitaland.com/international/en/footer-links/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitaland.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224184207id_/https%3A//www.capitaland.com/international/en/footer-links/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CapitaLand
 
 **CapitaLand Group's Personal Data Protection Policy**
 
-**Personal Data Protection is important to us**
+**Personal Data Protection is important to us**  
 
-Protection of your Personal Data is important to us. This CapitaLand Personal Data Protection Policy (“ **Policy** ”) outlines how we manage the Personal Data we hold. The Policy applies to all departments and business units across the CapitaLand Group. CapitaLand Limited (Reg. No. 198900036N), and/or its related corporations and affiliates (referred to hereunder as “CapitaLand”, the “CapitaLand Group”, “we”, “us” or “our”) collectively or singularly as the context requires, recognise the importance of protecting Personal Data.
+
+Protection of your Personal Data is important to us. This CapitaLand Personal Data Protection Policy (“ **Policy** ”) outlines how we manage the Personal Data we hold. The Policy applies to all departments and business units across the CapitaLand Group. CapitaLand Limited (Reg. No. 198900036N), and/or its related corporations and affiliates (referred to hereunder as “CapitaLand”, the “CapitaLand Group”, “we”, “us” or “our”) collectively or singularly as the context requires, recognise the importance of protecting Personal Data.  
+
 
 We respect the confidentiality of Personal Data and privacy of individuals and are committed to complying with the Singapore Personal Data Protection Act (Act 26 of 2012) (“ **PDPA** ”) and other applicable data protection laws, including the European Union (“ **EU** ”) General Data Protection Regulation (“ **GDPR** ”) where applicable. Please read this Policy so that you know and understand the purposes for which we collect, use and disclose your Personal Data.
 
@@ -24,7 +26,8 @@ For the avoidance of doubt, to the maximum extent permitted under applicable law
 
 1.1.         “ **Personal Data** ” refers to any data or information about you from which you can be identified either (a) from that data alone; or (b) from that data combined with other information. Examples of such Personal Data which you may provide us include (depending on the nature of your interaction with us):
 
-a)            your name, NRIC number, passport number or other identification number, telephone number(s), mailing address, email address and any other information relating to you which you have provided us in any form you may have submitted to us, or in other forms of interaction with you;
+a)            your name, national registration identification number, passport number or other identification number, telephone number(s), mailing address, email address, facial image in a photograph or video recording, fingerprint and any other information relating to you which you have provided us in any form you may have submitted to us, or in other forms of interaction with you;  
+
 
 b)            information about your use of our websites and services, including cookies, IP addresses, subscription account details and membership details;
 
@@ -32,7 +35,7 @@ c)             your employment history, education background, and in
 
 d)            your payment related information, such as your bank account or credit card information, and your credit history.
 
-1.2.           In respect of our activities in the EU, Personal Data shall also include personal data revealing   racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation, criminal convictions and offences, and other information defined as personal data under GDPR such as internet protocol addresses and cookie identifiers (insofar as such information is capable of identifying individuals either directly or indirectly).  
+1.2.           In respect of our activities in the EU, the definition of Personal Data shall also include personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and genetic data or biometric data processed for the purpose of uniquely identifying a natural person such as facial images or fingerprints, data concerning health or data concerning a natural person's sex life or sexual orientation, criminal convictions and offences, and other information defined as personal data under GDPR such as internet protocol addresses and cookie identifiers (insofar as such information is capable of identifying individuals either directly or indirectly).  
 
 
 1.3.           In addition, if your Personal Data has been collected, used or disclosed by us in a particular jurisdiction which has specific requirements or exceptions to the definition of Personal Data, including sensitive Personal Data, we will comply with those requirements under the applicable data protection regulations in that jurisdiction.  
@@ -44,53 +47,86 @@ d)            your payment related information, such as your bank acc
 2.1.         Generally **,** we collect your Personal Data in the following ways:  
 
 
-a)            when you submit forms relating to any of our products or services, or submit any online queries;
-
-b)            when you register for or use any of our services on websites owned or operated by us or when you register as a member of websites owned and/or operated by us;
-
-c)             when you interact with our customer service officers or any of our staff, for example, via face-to-face meetings, telephone calls, letters, online forms (such as any “Contact Us” forms on our websites), reservation chat, social media platforms and emails;
-
-d)            when you use or purchase our services or products;
-
-e)            when you establish any online accounts with us;
-
-f)              when you request that we contact you;
-
-g)            when you respond to our request for additional Personal Data;
-
-h)            when you ask to be included in an email or other mailing list;
-
-i)              when you respond to our promotions and other initiatives;
-
-j)              when you respond to our market surveys;
-
-k)             when you submit a job application or a scholarship application;
-
-l)              when we receive references from business partners and third parties, for example, where you have been referred by them;
-
-m)           when you submit your Personal Data to us for any other reason; and
-
-n)            when you browse our website. Please refer to the Cookie Policy below at paragraph 8 for more information.
-
-We may monitor or record phone calls and customer-facing interactions for quality assurance, employee training and performance evaluation, identity verification purposes, feedback, respond to your queries and requests and resolve complaints and other related purposes. Such monitoring or recording will be in accordance with applicable law.  
+a)            when you submit forms relating to any of our products or services, or submit any online queries;  
 
 
-2.2.         If you provide Personal Data of a third party (e.g. information of your dependent, spouse, children and/or parents) to us, you represent and warrant that the collection, use and disclosure of that Personal Data to us, as well as the further processing of that Personal Data by us for the purposes set out below, is lawful.  
+b)            when you register for or use any of our services on websites owned or operated by us or when you register as a member on any of our websites owned and/or operated by us;
+
+c)             when you register for or use any of our services, including accessing our properties or registering for your stay at our serviced apartments or hotels, through self-service check-in booths or kiosks located at the properties;
+
+d)            when you interact with our customer service officers or any of our staff, for example, via face-to-face meetings, business interactions in events and exhibitions, telephone calls, letters, online forms (such as any “Contact Us” forms on our websites), online reservation chat, social media platforms and emails;
+
+e)            when you use or purchase our services or products;
+
+f)              when you establish any online accounts with us (such as Ascott Star Rewards accounts);
+
+g)            when you request that we contact you;
+
+h)            when you respond to our request for additional Personal Data;
+
+i)              when you ask to be included in an email or other mailing list;
+
+j)              when you respond to our promotions or other initiatives;
+
+k)             when you respond to our market surveys;
+
+l)              when you submit a job application or a scholarship application;
+
+m)           when we receive references from business partners and third parties, for example, where you have been referred by them;
+
+n)            when you submit your Personal Data to us for any other reason; and
+
+o)            when you browse our website. Please refer to paragraph 8 (Cookie Policy) below for more information.
+
+We may monitor or record phone calls and customer-facing interactions for quality assurance, employee training and performance evaluation, and identity verification purposes, and while receiving feedback responding to your queries, requests and complaints and other related purposes. Such monitoring or recording will be done in accordance with applicable law.  
 
 
-2.3.         In respect of our activities in the EU, CapitaLand Limited and The Ascott Limited are the ultimate primary data controllers for processing of the Personal Data.  
+2.2.         If you provide Personal Data of a third party (e.g. information of your dependent, spouse, children and/or parents) to us, you represent and warrant that the collection, use and disclosure of that Personal Data to us, as well as the further processing of that Personal Data by us for the purposes set out in this Policy, is lawful.  
 
 
-3.             Use and Disclosure of Personal Data  
+2.3.         In respect of our activities in the EU, CapitaLand Limited (the parent entity of The Ascott Limited), The Ascott Limited and Citadines SA (a wholly-owned subsidiary of The Ascott Limited) are the ultimate primary data controllers for processing Personal Data, and the respective contact details are as follows:   
 
 
-3.1.         Our business is to understand and meet your needs and provide you with the products and services that you require. To do this effectively, we need to collect a range of Personal Data about you as described in paragraph 1 above.
+**CapitaLand Limited**  
+
+
+Address: 168 Robinson Road #30-01 Capital Tower Singapore 068912
+
+Email Address: [data.protection@the-ascott.com](mailto:data.protection@the-ascott.com)
+
+Phone Number: +33 1 4105 7879
+
+Representative in EU: Mr Philippe de l’Espinay
+
+**The Ascott Limited**
+
+Address: 168 Robinson Road #30-01 Capital Tower Singapore 068912
+
+Email Address: [data.protection@the-ascott.com](mailto:data.protection@the-ascott.com)
+
+Phone Number: +33 1 4105 7879
+
+Representative in EU:  Mr Philippe de l’Espinay
+
+**Citadines SA**
+
+Address: 120 rue jean jaurès F-92532 Levallois-Perret cedex France
+
+Email Address: dpo.eu@the-ascott.com
+
+Phone Number: +33 (0)1 41 05 78 00
+
+Representative in EU: Mr Philippe de l’Espinay  
+       
+
+3.             Use and Disclosure of Personal Data
+
+3.1.         Our business is to understand and meet your needs and provide you with the products and services that you require. To do this effectively, we need to collect a range of Personal Data about you.
 
 3.2.         In general, we will, subject to applicable law, use and disclose your Personal Data for the following purposes:  
 
 
-a)            provide you with the products or services that have been requested;  
-
+a)            provide you with the products or services that you have requested;
 
 b)            help us review, develop, improve, manage the delivery of and – to the extent this requires the use of Personal Data – enhance our products and services, including analysing future customer needs, conducting market research and data analytics (which does not involve automated profiling or result in automated decision-making activity which is regulated under the GDPR);
 
@@ -116,7 +152,7 @@ j)              comply with any applicable rules, laws and regulati
 3.4.         In addition, **** we may use and disclose your Personal Data for the following purposes, depending on the nature of our relationship with you:  
 
 
-a)            **If you have a membership account with us (for example as a member of CAPITASTAR or Ascott Online Advantage):**  
+a)            **If you have a membership account with us (for example as a member of CapitaStar or Ascott Star Rewards):**  
 
 
 (i)            process your application for the account;  
@@ -136,8 +172,7 @@ a)            **If you have a membership account with us (for example
 
 (viii)        process your Personal Data in relation to any of the purposes stated above.
 
-b)            **If you download or use any of our mobile applications (apps):**  
-
+b)            **If you download or use any of our mobile applications (apps):**
 
 (i)            process your application for subscription services if they are provided in the apps;  
 
@@ -156,10 +191,10 @@ b)            **If you download or use any of our mobile applications
 
 (viii)        process your Personal Data in relation to any of the purposes stated above.
 
-c)             **If you are a prospective tenant or a tenant:**  
+c)             **If you are a prospective tenant or a tenant of any of our properties:**  
 
 
-(i)            conduct appropriate due diligence checks;  
+(i)            conduct due diligence checks;  
 
 
 (ii)           prepare lease and/or licence documentation and any other documents as may be required;
@@ -172,7 +207,7 @@ c)             **If you are a prospective tenant or a tenant:**
 
 (vi)          any other purpose related to any of the above.
 
-d)             **If you want to buy property from us or have indicated an interest in purchasing property from us:**  
+d)          **If you are purchasing property from us or have indicated an interest in purchasing property from us:**  
 
 
 (i)            conduct due diligence checks;  
@@ -212,47 +247,31 @@ e)            **If you are a resident at one of our serviced apartmen
 
 (ix)          any other purpose related to any of the above.
 
-f)              If you utilise our storage facilities:  
-
-
-(i)            conduct due diligence checks;  
-
-
-(ii)           process your application for the lease of the storage facilities;
-
-(iii)          prepare storage lease documentation and any other documents as may be required
-
-(iv)          perform administration of the storage lease;
-
-(v)           perform financial transactions such as payments for the lease of storage facility;
-
-(vi)          communicate with you changes and development to our policies, terms and conditions and other administrative information; and
-
-(vii)         any other purpose related to any of the above.
-
-g)            **If you are a shareholder or unitholder of our shares:**  
+f)              **If you are a shareholder or unitholder of our shares:**  
 
 
 (i)            administer the relationship, including the verification of your identity and/or the identity of your proxy (as may be applicable);  
 
 
-(ii)           inform you of our performance and the products and services that we provide to our customers through the sending of circulars, reports, newsletters and communications;
+(ii)           inform you of our performance and the products and services that we provide to our customers through circulars, reports, newsletters and communications;
 
 (iii)          communicate with you changes and development to our policies, terms and conditions and other administrative information; and
 
 (iv)          any other purpose related to any of the above.
 
-h)            **If you are a vendor, a prospective vendor or a contractor:**  
+g)            **If you are a vendor, a prospective vendor or a contractor:**  
 
 
-(i)            evaluate your proposal and to conduct background checks on you;  
+(i)            evaluate your proposal;  
 
 
-(ii)           communicate with your deployed staff, after award of contract, who are in our properties to carry out work or services, and for any emergency or/and security concerns; and
+(ii)           conduct background checks on you;
 
-(iii)          any other purpose related to any of the above.
+(iii)          communicate with your deployed staff, after award of contract, who are in our properties to carry out work or services, and for any emergency or/and security concerns; and
 
-i)              **If you submit an application to us as a candidate for employment:**  
+(iv)          any other purpose related to any of the above.
+
+h)            **If you submit an application to us as a candidate for employment:**  
 
 
 (i)            process your application including pre-recruitment checks;  
@@ -274,10 +293,10 @@ i)              **If you submit an application to us as a candidate
 
 (ix)          any other purposes related to the aforesaid.
 
-j)              **If you are an existing employee, CapitaLand Group’s Employee Personal Data Protection Policy would also apply to you.**  
+i)             **If you are an existing employee, CapitaLand Group’s Employee Personal Data Protection Policy would also apply to you.**  
 
 
-3.5.         The above purposes are not exhaustive, and depending on the nature of your relationship with us (for example, if you are a member of CapitaStar or Ascott Online Advantage), we may collect, use and disclose your Personal Data for additional purposes which you will be notified of, in accordance with applicable terms and conditions.  
+3.5.         The above purposes are not exhaustive, and depending on the nature of your relationship with us (for example, if you are a member of CapitaStar or Ascott Star Rewards), we may collect, use and disclose your Personal Data for additional purposes which you will be notified of, in accordance with applicable terms and conditions.  
 
 
 3.6.         When you apply for or hold a co-brand product which is offered jointly by us and our co-brand partner(s), we may also collect, use and disclose your Personal Data for the purpose of sharing your Personal Data with the co-brand partners for offering, marketing and promoting to you any products, services, offers or events which the co-brand partner thinks may be of interest to you.  We will only share your Personal Data with the co-brand partners where permitted by applicable law.  
@@ -286,12 +305,12 @@ j)              **If you are an existing employee, CapitaLand Group
 3.7.         Where you have provided us with specific consents, we may also use and disclose your Personal Data for the following purposes:  
 
 
-a)            providing services and extending benefits to you, including promotions, loyalty and reward programmes, sending you industry market updates (e.g. in real estate), newsletters (e.g. on property) and other information on our products, services, offers or promotions which may be of interest to you and conducting market research to develop special offers, promotional and/or marketing programmes; and  
+a)            provide services and extend benefits to you, including promotions, loyalty and reward programmes, send you industry market updates (e.g. in real estate), newsletters (e.g. on property) and other information on our products, services, offers or promotions which may be of interest to you and conduct market research to develop special offers, promotional and/or marketing programmes; and  
 
 
-b)            administering contests, competitions and conducting lucky draws, including, where necessary, announcing the results of these contests, competitions and lucky draws and identifying and contacting the winners.
+b)            administer contests, competitions and conducting lucky draws, including, where necessary, announcing the results of these contests, competitions and lucky draws and identifying and contacting the winners.
 
-3.8.         In relation to particular products or services or in your interactions with us, we may also notify or have specifically notified you of other purposes for which we collect, use or disclose your Personal Data. If so, we will collect, use and disclose your Personal Data for these additional purposes as well, unless we have specifically notified you otherwise.  
+3.8.         In relation to particular products or services or in your interactions with us, we may also notify or have specifically notified you of other purposes for which we collect, use or disclose your Personal Data. If so, we will collect, use and disclose your Personal Data for these additional purposes.  
 
 
 3.9.         Your Personal Data will be protected and kept confidential, but subject to the provisions of any applicable law, your Personal Data may, depending on the products or services concerned, be disclosed to third parties set out below. Such disclosure may be subject to additional legal requirements under applicable law, depending on the nature of such transfer to third parties. Your Personal Data will, in each case, only be disclosed to the extent necessary and proportionate.  
@@ -305,7 +324,7 @@ a)            other divisions or entities within the CapitaLand Group
 
 b)            our joint venture/ alliance partners;
 
-c)             our agents, contractors, third party service providers and specialist advisers who have been contracted to provide us with administrative, financial, research, operational or other services in pursuance of the purposes set out in this Policy, such as telecommunications, information technology, payment, payroll, processing, training, market research, storage and archival;
+c)             our agents, contractors, third party service providers and specialist advisers who have been contracted to provide us with administrative, financial, research, operational or other services such as telecommunications, information technology, payment, payroll, training, market research, storage and archival;
 
 d)            any third party business partners who offer goods and services or sponsor contests or other promotional programmes, whether in conjunction with us or not, and where permitted by applicable laws;
 
@@ -333,10 +352,10 @@ In the event that your Personal Data is shared with a third party that acts with
 
 4.             Transfer of Personal Data
 
-4.1        Your Personal Data may be stored in external servers located overseas. In addition, as described above, in carrying out our business, it may be necessary to share information about you with and between our related corporations and third party service providers, some of which may be located in countries outside your country of residence. Such countries may not afford a standard of protection similar to those in your country of residence. However, we will take reasonable steps to ensure that your Personal Data transmitted outside of your country of residence is adequately protected. In addition, we will ensure that such transfers comply with the requirements of the applicable data protection laws.  
+4.1        Your Personal Data may be stored in external servers located overseas. In addition, as described above, in carrying out our business, it may be necessary to share information about you with and between our related corporations and affiliates, and third party service providers, some of which may be located in countries outside your country of residence. Such countries may not afford a standard of protection similar to those in your country of residence. However, we will take reasonable steps to ensure that your Personal Data transmitted outside of your country of residence is adequately protected. In addition, we will ensure that such transfers comply with the requirements of the applicable data protection laws.  
 
 
-4.2        In respect of our activities in EU, where your Personal Data is transferred to locations outside the European Economic Area, we have entered into a special type of contract (called European Commission Model Contractual Clauses) with the recipients of your Personal Data to ensure that they will provide adequate levels of protection for your Personal Data. If you wish, you may request for more information about the transfers of your Personal Data and/or a copy of the European Commission Model Contractual Clauses by contacting the relevant Data Protection Officer at the contact details provided in paragraph 11.1 below.  
+4.2        In respect of our activities in EU, where your Personal Data is transferred to locations outside the European Economic Area, we have entered into a special type of contract (called European Commission Model Contractual Clauses) with the recipients of your Personal Data to ensure that they will provide adequate levels of protection for your Personal Data. If you wish, you may request for more information about the transfers of your Personal Data and/or a copy of the European Commission Model Contractual Clauses by contacting the relevant Data Protection Officer at the contact details provided in paragraph 12.1 below.  
 
 
 5.         Retention of Personal Data  
@@ -351,27 +370,32 @@ In the event that your Personal Data is shared with a third party that acts with
 6.1       You have the following rights, under applicable data protection laws (except where the exercise of these are restricted under applicable laws – for example, due to judicial proceedings or the carrying out of investigations), which can be exercised by contacting the relevant Data Protection Officer at the contact details provided in paragraph 12.1 below:  
 
 
-a)            you have the right to obtain from us confirmation as to whether or not your Personal Data is being processed and to request a copy of your information. Where legally required, we can provide your information in an easily accessible format and assist in transferring some of this information to third parties;
+a)            to obtain from us confirmation as to whether or not your Personal Data is being processed and request a copy of your information. Where legally required, we will provide your information in an easily accessible format and assist in transferring some of this information to third parties;
 
-b)            you are entitled to rectification of your Personal Data. We endeavour to ensure that all Personal Data we have about you is accurate and up-to-date. We understand that this information changes frequently with changes of address and other personal circumstances. We encourage you to contact us as soon as possible to enable us to update any Personal Data we have about you. Incomplete or outdated Personal Data may result in our inability to provide you with products and services you have requested;
+b)            rectification of your Personal Data. We endeavour to ensure that all Personal Data we have about you is accurate and up-to-date. We understand that this information changes frequently with changes of address and other personal circumstances. We encourage you to contact us as soon as possible to enable us to update any Personal Data we have about you. Incomplete or outdated Personal Data may result in our inability to provide you with products and services you have requested;
 
-c)            in certain circumstances, you have the right to request to have your Personal Data deleted or the processing of which restricted;
+c)            where the processing of your Personal Data is carried out by automated means, you have the right to receive your Personal Data you have provided us in a structured, commonly used and machine-readable format or to demand transmission to another controller;
 
-d)            if we process your information based on our legitimate interests explained above, or in the public interest, you can object to this processing in certain circumstances. In such cases, we will cease processing your information unless we have compelling legitimate grounds to continue processing or where it is necessary for legal reasons. Where we use your data for direct marketing purposes, you can always object using the unsubscribe link in such communications or by contacting us at the details below;
+d)            in certain circumstances, you can request to have your Personal Data deleted or restrict the processing of it;
 
-e)            to prevent any processing of Personal Data that is causing or is likely to cause unwarranted and substantial damage or distress to you or another individual;
+e)                  if we process your information based on our legitimate interests explained above, or in the public interest, you can object to this processing in certain circumstances. In such cases, we will cease processing your information unless we have compelling legitimate grounds to continue processing or where it is necessary for legal reasons. Where we use your data for direct marketing purposes, you can always object using the unsubscribe link in such communications or by contacting us at the details provided in paragraph 12.1 below;
 
-f)             to be informed about any use of your Personal Data to make automated decisions about you where such decisions produce legal effects or have similarly significant effects on you, and to obtain meaningful information about the logic involved, as well as the significance and the envisaged consequences of this processing; and
+f)             prevent any processing of Personal Data that is causing or is likely to cause unwarranted and substantial damage or distress to you or another individual;
 
-g)            to lodge a complaint about the way in which your Personal Data is being used to a supervisory authority.
+g)            be informed about any use of your Personal Data to make automated decisions about you where such decisions produce legal effects or have similarly significant effects on you, and to obtain meaningful information about the logic involved, as well as the significance and the envisaged consequences of this processing; and
 
-6.2       Where we rely on your consent to use your Personal Data, you have the right to withdraw that consent at any time.
+h)            to lodge a complaint about the way in which your Personal Data is being used to a supervisory authority. If you are located in the EU, you can contact the supervisory authority in the EU member state of your habitual residence or place of work or where the relevant member of the CapitaLand Group which has used your Personal Data is located.
+
+6.2       Where we rely on your consent to use your Personal Data, you have the right to withdraw that consent at any time. This withdrawal will however not affect the lawfulness of processing based on your consent before your withdrawal.  
+
 
 If you withdraw your consent to any or all purposes and depending on the nature of your request, we may not be in a position to continue to provide our products or services to you. Please note, however, that if you have provided us consent in respect of the use of your Singapore telephone number(s) for receiving marketing or promotional information, any such consent provided will not be affected by your withdrawal of your other consent in accordance with the terms set out in this Policy.  If you do not wish for your Singapore telephone number(s) to be used for receiving marketing or promotional information, please contact the relevant Data Protection Officer and specify that you wish to withdraw your consent for such purpose.
 
-6.3 **        **Where mandated under the applicable data protection laws, your exercise of the rights described or referred to above shall be free of charge. In all other situations, we may charge a fee to cover the cost of verifying the request and locating, retrieving and copying any material requested.
+6.3 **        **Where we process your Personal Data based on the legitimate interests referred to in paragraph 3.3 above, you can object to this processing in certain circumstances. In such cases, we will cease processing your information unless we have compelling legitimate grounds to continue processing or where it is necessary for legal reasons. ****
 
-6.4        If you want to exercise any of your rights or if you wish to raise a complaint on how CapitaLand Group has handled your Personal Data, you may contact the relevant Data Protection Officer at the contact details provided in paragraph 12.1 below.
+6.4       Where mandated under the applicable data protection laws, your exercise of the rights described or referred to above shall be free of charge. In all other situations, we may charge a fee to cover the cost of verifying the request and locating, retrieving and copying any material requested.
+
+6.5        If you want to exercise any of your rights or if you wish to raise a complaint on how CapitaLand Group has handled your Personal Data, you may contact the relevant Data Protection Officer at the contact details provided in paragraph 12.1 below.
 
 7\.         Management and Security  
 
@@ -381,7 +405,7 @@ If you withdraw your consent to any or all purposes and depending on the nature 
 8.         Cookie Policy  
 
 
-8.1        Please see our Cookie Policy for more details.  
+8.1        We use cookies when you use our websites. In many cases, the information we collect using cookies is used on an aggregated basis and in a non-identifiable manner. For example, we may use information collected to better understand website traffic patterns and to improve website experience for our users. Please see our [Cookie Policy](https://www.capitaland.com/international/en/legal-notices/cookie-policy.html) for more details.  
 
 
 9.         Third-Party Sites  
@@ -393,7 +417,7 @@ If you withdraw your consent to any or all purposes and depending on the nature 
 10.        Third Party Modules  
 
 
-10.1      Our website uses the Google Maps API from Google Inc (“ **Google** ”). For more information about the privacy practices of Google, please see Google’s Privacy Policy available at <http://www.google.com/policies/privacy> or such other URL as Google may provide from time to time. Subject to the requirements of applicable data protection laws, by using our website and/or such functionality built into the website, you agree that Google’s Privacy Policy and this Policy shall apply to the collection, use and disclosure of your Personal Data by Google and CapitaLand respectively.  
+10.1      Our website uses the Google Maps API from Google Inc (“ **Google** ”). For more information about the privacy practices of Google, please see Google’s Privacy Policy available at <http://www.google.com/policies/privacy> or such other URL as Google may provide from time to time. The collection, use and disclosure of your Personal Data by Google through such functionality built into our website, shall be subject to Google’s Privacy Policy.  
 
 
 11.        Telemarketing Policy  
@@ -410,15 +434,15 @@ a)            If you have registered your Singapore telephone number 
 
 b)            However, if you have previously consented to our sending you such messages to your Singapore telephone number(s), we will continue to do so until you withdraw such consent, regardless of your DNC nominations.
 
-c)             Also, if you currently have an existing, ongoing relationship with us, depending on the nature of that relationship, we may continue to send you promotional or marketing messages via SMS or fax about products and services which are related to that ongoing relationship notwithstanding your registration with the DNC Registry, unless you opt-out of receiving such messages.
+c)             Also, if you currently have an existing, ongoing relationship with us, depending on the nature of that relationship, we may continue to send you promotional or marketing messages via SMS, fax, calls or any means to your telephone number, about products and services which are related to that ongoing relationship notwithstanding your registration with the DNC Registry, unless you opt-out of receiving such messages.
 
-12.       How to contact us  
+12\.        How to contact us  
 
 
 12.1      If you have any questions about this Policy or any queries relating to your Personal Data, or you would like to obtain access and/or make corrections to your Personal Data records, please contact the relevant Data Protection Officers:  
 
 
-_All countries (except EU and Georgia)_  
+_**All countries (except EU and Georgia)**_  
 
 
 **Name:** Dr Freddie Tan, Group Data Protection Officer, CapitaLand Limited  
@@ -428,16 +452,17 @@ _All countries (except EU and Georgia)_
 
 **Number:** +65 6713 2705
 
-_EU and Georgia_  
+_**  
+EU and Georgia**_  
 
 
 For individuals residing in the EU (except Germany) and Georgia, please contact the Data Protection Officer below:  
 
 
-**Name:** Philippe De L’Espinay  
+**Name:** Philippe de l’Espinay  
 
 
-**Email:**[data.protection@the-ascott.com](mailto:data.protection@the-ascott.com)
+**Email:** dpo.eu@the-ascott.com
 
 **Number:** +33 1 4105 7879
 
@@ -446,11 +471,12 @@ For residents residing in Germany, please contact the Data Protection Officer be
 
 **Name:** Daniela Hartjes
 
-**Email:**[data.protection@the-ascott.com](mailto:data.protection@the-ascott.com)
+**Email:** dpo.eu@the-ascott.com
 
-**Number:** +33 1 4105 7881
+**Number:** \+ 33 1 4105 7881
 
-_Malaysia_  
+_**  
+Malaysia**_  
 
 
 For individuals residing in Malaysia, please contact the Data Protection Officer below:  
@@ -459,14 +485,14 @@ For individuals residing in Malaysia, please contact the Data Protection Officer
 **Name:** Fern Tan  
 
 
-**Email:**[cmamydpo@capitaland.com](mailto:CMAMYDPO@capitaland.com)
+**Email:**[CMAMYDPO@capitaland.com](mailto:CMAMYDPO@capitaland.com)
 
 **Number:** +60 3 2279 9888
 
-[You may also refer to a Malay version of this Policy available here.](https://web.archive.org/content/dam/capitaland-sites/international/legal-notices/BM_CapitaLand_Personal_Data_Protection_Policy_26022019.pdf)  
+[You may also refer to a Malay version of this Policy available here.](https://www.capitaland.com/content/dam/capitaland-sites/international/legal-notices/BM_CapitaLand_Personal_Data_Protection_Policy_26022019.pdf)  
 
 
-13.       Governing Law  
+13.        Governing Law  
 
 
 13.1      This Policy and your use of this website shall be governed in all respects by the laws of Singapore.  
@@ -484,5 +510,5 @@ For individuals residing in Malaysia, please contact the Data Protection Officer
 14.2      In the event of any inconsistencies between the English version and other translations of this Policy, the English version shall prevail.  
 
 
-(As at 21 May 2018)  
+(As at 1 July 2019)  
 
