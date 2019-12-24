@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623050352id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224152556id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Backblaze Online Backup
 
-Last updated: July 10, 2018 
+Last updated: August 27, 2019 
 
-We value your business and we know your privacy is important to you. Accordingly, we have implemented this Privacy Notice which describes: how we collect and use personal information that you provide to us when you create a Backblaze account, via our website or Apps; what we do with the information collected; and how you can exercise your privacy rights. 
+We value your business and we know privacy is important to you. Accordingly, we have implemented this Privacy Notice which describes how we collect and use your personal information, what we do with the information collected, and how you can exercise your privacy rights. We also have [terms and conditions](https://web.archive.org/company/terms.html) and [data processing addendum](https://web.archive.org/company/dpa.html) which describe what we can expect from each other when you use our products and services. 
 
-This Privacy Notice applies only to the information collected in respect of your account and does not apply to the content that customers store on our system, including any personal information. Backblaze will not disclose, move, access or use customer content except as provided in Backblaze's [terms and conditions](https://web.archive.org/company/terms.html), and our [data processing addendum](https://web.archive.org/company/dpa.html). 
-
-Backblaze is a US headquartered data storage provider that offers two different products: 
+Backblaze, Inc. (“Backblaze”) is a US headquartered data storage provider that offers two different products: 
 
   * [Computer Backup](https://www.backblaze.com/cloud-backup.html), which provides unlimited cloud backup for individuals and organizations using Macs or PCs (laptops and desktops); and 
   * [B2 Cloud Storage](https://www.backblaze.com/b2/cloud-storage.html), which provides low-cost cloud storage for individuals and organizations. 
 
 
+
+You can find our contact details below. 
+
+Under EU data protection legislation, commonly known as the GDPR, Backblaze is the controller of processing of personal information described below. With regard to the processing of files uploaded to our platform by our users when using our Computer Backup and B2 Cloud Storage services, however, Backblaze is the processor and the person or organization owning the Backblaze account is the controller. We explain more about the distinction between a controller and a processor under EU data protection legislation [here](https://help.backblaze.com/hc/en-us/articles/360004187753-Data-Processor-vs-Data-Controller). 
 
 When requesting to use Backblaze's services we may ask you to provide personal information to us. For example, when you create a Backblaze account, we will ask you for your email address and a password. We may also ask for your phone number for purposes such as two-factor verification or for sending you service alerts. If you choose to sign up for one of Backblaze's services, we will ask you for billing information. To order a physical item from us, such as a Restore by Mail, we will ask for shipping details. At times we may ask for other information such as your name or the name of your company name. 
 
@@ -127,4 +129,9 @@ If you have any questions or concerns regarding the use or disclosure of your pe
 San Mateo, CA 94401, U.S.   
 +1 650-352-3738 
 
-Please note that for the purposes of EU data protection legislation, Backblaze is the controller of your personal information. 
+Previous Version(s): 
+
+  * [July 10, 2018](https://web.archive.org/company/privacy-10july2018.html)
+
+  
+
