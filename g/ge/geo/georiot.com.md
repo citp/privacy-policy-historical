@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georiot.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904020319id_/https%3A//www.geni.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georiot.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224210955id_/https%3A//www.geni.us/privacy) for the most accurate reproduction.*
 
 # Genius Link Services Privacy Policy
 
@@ -9,7 +9,7 @@
 
 ## 1\. Overview
 
-GeoRiot provides a set of services ("Genius Link Services") to commercial customers ("Clients") for purposes of online marketing and sales of digital and physical products and services ("Products") to individual consumers. The Genius Link Services are provided to Clients worldwide, including in the United States ("US"), the member states of the European Union ("EU"), and Switzerland. The Genius Link Services are provided under the names "Genius Link" and "BookLinker.com." The Genius Link Services are not provided to individuals as consumers. 
+GeoRiot provides a set of services ("Genius Link Services") to commercial customers ("Clients") for purposes of online marketing and sales of digital and physical products and services ("Products") to individual consumers. The Genius Link Services are provided to Clients worldwide, including in the United States ("US"), the member states of the European Union ("EU"), and Switzerland. The Genius Link Services are provided under the names "Genius Link" and "BookLinker.net." The Genius Link Services are not provided to individuals as consumers. 
 
 The Genius Link Services are dynamic links that are used to connect consumers visiting or interacting with a Client's websites, applications, social media, electronic documents, eBooks, text messages and other online digital properties ("Digital Properties") to retail websites ("Storefronts") maintained by international goods and services retailers ("Retailers") where Products identified on the Client's Digital Property ("Products") can be purchased. These dynamic links are called "Geni.us Links." Digital Properties including Geni.us Links are accessed through a personal computer, laptop, smartphone or other device providing Internet access through a browser ("Device") when an individual follows the Geni.us Link to a Storefront. 
 
@@ -19,13 +19,11 @@ GeoRiot also collects information about individuals acting as or on behalf of Cl
 
 ## 2\. Adherence to Privacy Shield 
 
-GeoRiot and the Genius Link Services comply with the EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework and the Privacy Shield Principles (collectively "Privacy Shield") as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Information from EU member nations and Switzerland. 
+GeoRiot and the Genius Link Services comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. GeoRiot has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/
 
 This compliance includes both Potential Personal Information, whether or not such information is in fact Personal Data for purposes of EU data protection laws and Privacy Shield, and Client Personal Data. 
 
-GeoRiot has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. To learn more about Privacy Shield, and to view GeoRiot's certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
-
-GeoRiot will adhere to the Privacy Shield Principles, as they may be amended from time to time, with respect to and for as long as it retains Potential Personal Information or Client Personal Data collected or maintained while this Privacy Policy is in effect.
+GeoRiot shall adhere to the Privacy Shield Principles, as they may be amended from time to time, with respect to and for as long as it retains Potential Personal Information or Client Personal Data collected or maintained while this Privacy Policy is in effect.
 
 ## 3\. Collection and Processing of Potential Personal Information
 
@@ -39,7 +37,7 @@ When a Buyer clicks a Geni.us Link the following information is collected automa
 
   * Information identifying the language used by the Device for the Transaction ("Language Information").
 
-  * The Internet Protocol ("IP") address of the Device used for the Transaction, which allows identification of the logical and to some extent geographical location of the Device used in the Transaction ("Location Data"). An IP address is used for the initial processing of a click but after processing is no longer held. 
+  * The Internet Protocol ("IP") address of the Device used for the Transaction, which allows identification of the logical and to some extent geographical location of the Device used in the Transaction ("Location Data"). 
 
   * The URL of the Client's Digital Property on which the originating Geni.us Link is sited ("Client URL"). 
 
@@ -76,7 +74,7 @@ Geni.us Links may support the following uses of Potential Personal Information, 
 
 
 
-While Potential Personal Information may not be Personal Data within the meaning of Privacy Shield and the E.U. General Data Protection Regulation (“GDPR”), as a matter of prudence and due diligence and to help assure transparency, GeoRiot has elected to attest to its adherence to the E.U.-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield Framework. GeoRiot has also implemented policies and procedures to assure its compliance with the E.U. GDPR to the extent the GDPR applies to Potential Personal Information. In an effort to minimize the burden on our clients and ourselves, we've stopped storing IP addresses, effective May 9th, 2018, after the initially processing of the click. 
+While Potential Personal Information may not be Personal Data within the meaning of Privacy Shield and the GDPR, as a matter of prudence and due diligence and to help assure transparency, GeoRiot has elected to attest to its adherence to the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. GeoRiot has also implemented policies and procedures to assure its compliance with the E.U. General Data Protection Directive to the extent the GDPR applies to Potential Personal Information.
 
 ## 4\. Collection and Processing of Client Personal Data
 
@@ -86,7 +84,7 @@ GeoRiot may use Client Personal Data to communicate with the Client User and wit
 
 Client Personal Data is transferred to and stored by GeoRiot in the United States, according to GeoRiot's standard Data Retention policies.
 
-Client Personal Data is considered Personal Data within the meaning of Privacy Shield and the GDPR. GeoRiot has elected to attest to its adherence to the EU-U.S. Privacy Shield Framework and the Swiss–US Privacy Shield Framework with respect to Client Personal Data. GeoRiot has also implemented policies and procedures to assure its compliance with the GDPR with respect to Client Personal Data. 
+Client Personal Data is considered Personal Data within the meaning of Privacy Shield and the GDPR. GeoRiot has elected to attest to its adherence to the EU-U.S. Privacy Shield Framework and the Swiss-US Privacy Shield Framework with respect to Client Personal Data. GeoRiot has also implemented policies and procedures to assure its compliance with the GDPR with respect to Client Personal Data. 
 
 ## 5\. GeoRiot as Limited Data Controller and Data Processor
 
@@ -94,9 +92,9 @@ For Privacy Shield and GDPR purposes GeoRiot may be a Data Processor or a Joint 
 
 For purposes of this Policy a "Data Controller" is a party which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, while a "Data Processor" is a party which processes Personal Data on behalf of a Data Controller. 
 
-To the extent Privacy Shield and the GDPR apply to Potential Personal Information, for purposes of the Genius Link Services, GeoRiot and the applicable Client are Joint Data Controllers of Personal Data included in that Potential Personal Information as follows: 
+To the extent Privacy Shield and the GDPR apply to Potential Personal Information, for purposes of the Genius Link Services GeoRiot and the applicable Client are Joint Data Controllers of Personal Data included in that Potential Personal Information as follows: 
 
-  * GeoRiot offers Geni.us Links and the Genius Link Services to Clients, with pre-established coding and design which determines the information that is collected and the means by which information is processed. The Client determines whether to implement Geni.us Link and use the Genius Link Services, and by agreement with GeoRiot determines to utilize the information collection scope and processing means offered by GeoRiot. All Genius Link Services are provided for the benefit of the Client. The Client is therefore the Data Controller with respect to the determination of the scope of the information to be collected and the means of its processing. 
+  * GeoRiot offers Geni.us Links and the Genius Link Services to Clients, with pre-established coding and design which determines the information which is collected and the means by which information is processed. The Client determines whether to implement Geni.us Link and use the Genius Link Services, and by agreement with GeoRiot determines to utilize the information collection scope and processing means offered by GeoRiot. All Genius Link Services are provided for the benefit of the Client. The Client is therefore the Data Controller with respect to the determination of the scope of the information to be collected and the means of its processing. 
 
   * The Client determines where to site Geni.us Link(s) in the Client's Digital Properties, and the purpose(s) for which the information collected will be used (e.g., available Storefronts, implementation of routing alternatives, support for commissions, etc.). All Potential Personal Information is processed for the benefit of the Client. The Client is therefore the Data Controller with respect to the determination of siting of the Geni.us Link(s) and the purposes for which information is collected and processed. 
 
@@ -148,7 +146,7 @@ GeoRiot may collect and process the following information from the Device used t
 
 
 
-  * Limited Purchase Information such as the number of products purchased, a list of items (or categories of items), purchase prices, and timestamp of the Transaction ("Limited Purchase Information"). Limited Purchase Information is collected and provided to GeoRiot by Clients, who are responsible for ensuring that any individual consent or authorization required for GeoRiot to use it has been obtained. Limited Purchase Information is treated as if it were Potential Personal Information.
+  * Limited Purchase Information such as the number of products purchased, a list of items (or categories of items), purchase prices, and timestamp of the Transaction ("Limited Purchase Information"). Limited Purchase Information is collected and provided to GeoRiot by Clients, who are responsible for ensuring that any individual consent or authorization required for its use by GeoRiot has been obtained. Limited Purchase Information is treated as if it were Potential Personal Information.
 
   * Third Party Product Information including Product price, genre, name, developer, publisher, and other general information published by the Retailer, developer or other third party. Third Party Product Information is not treated as Personal Data. 
 
@@ -174,7 +172,7 @@ GeoRiot may use Potential Personal Information it obtains as follows:
 
 
 
-Subject to Section 6(c), below, Potential Personal Data may be retained by GeoRiot for any period that GeoRiot determines is necessary to ensure compliance with its legal responsibilities or protection of its legal interests, according to GeoRiot's Data Retention policies, except that the IP Address is only processed during the initial click on a Geni.us Link and is not stored after such processing. 
+Subject to the Section 6(c), Potential Personal Data may be retained by GeoRiot for any period GeoRiot determines is necessary to ensure compliance with its legal responsibilities or protection of its legal interests, according to GeoRiot's Data Retention policies, except that IP Address is only processed during the initial click on a Geni.us Link and is not stored after such processing. 
 
 **c. Buyer Choice with Respect to Potential Personal Information**
 
@@ -182,9 +180,9 @@ The Potential Personal Information GeoRiot maintains after processing a Geni.us 
 
 GeoRiot therefore can only provide a Buyer with an opportunity to exercise choice with respect to their Personal Data included in Potential Personal Information if the Buyer can provide GeoRiot with additional information regarding the Buyer's association with specific User Agent Information and/or Limited Purchase Information for GeoRiot to identify the Buyer with specific Potential Personal Information in GeoRiot's control, with a reasonably high degree of reliability. In the event a Buyer provides such information, GeoRiot will provide the opportunity to opt-in before any Personal Data included in Potential Personal Information associated with the Buyer is disclosed to a third party other than one disclosed in this Policy, or used for a purpose incompatible with the purpose for which it was originally collected or as otherwise permitted or authorized by the Buyer.
 
-For additional information and to request the opportunity to opt-in, please email GeoRiot [here](mailto:hi@geni.us?subject=Opt-out). 
+For additional information and to request the opportunity to opt-in, please email GeoRiot [_here_](mailto:hi@geni.us?subject=Opt-out). 
 
-GeoRiot may retain Device information that is subject to a Buyer's disclosure opt-in accordance with GeoRiot's Data Retention Policy. The purpose of retaining such information is for GeoRiot's internal management and administration or for fulfillment of its legal responsibilities or protection of its legal interests. Residual User Agent information may also remain within databases, access logs, and other records. 
+GeoRiot may retain Device information that is subject to a Buyer's disclosure opt-in accordance with GeoRiot's Data Retention Policy. The purpose of retaining such information is for GeoRiot's internal management and administration or fulfillment of its legal responsibilities or protection of its legal interests. Residual User Agent information may also remain within databases, access logs, and other records. 
 
 GeoRiot does not collect, use or disclose sensitive information, which is defined as personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual. In the event GeoRiot should do so, GeoRiot will give Buyer's an explicit opt-in choice if their sensitive information is to be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or as authorized by the individual. 
 
@@ -205,7 +203,7 @@ GeoRiot may disclose or provide Potential Personal Information to third parties 
 
 
 
-GeoRiot will not transfer Personal Data to a third-party Data Controller without the consent of the individuals, and before doing so, will enter into a contract with the Data Controller that provides:
+GeoRiot shall not transfer Personal Data to a third-party Data Controller without the consent of the individuals, and shall first enter into a contract with Data Controller that provides:
 
   * That the Potential Personal Information may only be processed for purposes consistent with such consents.
 
@@ -213,12 +211,12 @@ GeoRiot will not transfer Personal Data to a third-party Data Controller without
 
   * That the Data Controller will notify GeoRiot if the Data Controller makes a determination that it can no longer meet this obligation. 
 
-  * That the Data Controller will cease processing the Potential Personal Information or take other reasonable and appropriate steps to remediate in case of such a determination.
+  * That the Data Controller will cease processing the Potential Personal Information or takes other reasonable and appropriate steps to remediate in case of such a determination.
 
 
 
 
-Consent of the Buyer is not required when GeoRiot discloses Potential Personal Information to a third party that is acting as an agent to perform task(s) on behalf of and under the instructions of GeoRiot, such as a Data Processor. In the event of such a disclosure, GeoRiot will:
+Consent is not required when GeoRiot discloses Potential Personal Information to a third party that is acting as an agent to perform task(s) on behalf of and under the instructions of GeoRiot, such as a Data Processor. In the event of such a disclosure, GeoRiot shall:
 
   * Identify the purposes for which it is transferring such information. 
 
@@ -233,9 +231,9 @@ Consent of the Buyer is not required when GeoRiot discloses Potential Personal I
 
 
 
-GeoRiot will provide a summary or a representative copy of the relevant privacy provisions of its contract with any such agent to the U.S. Department of Commerce upon request.
+GeoRiot shall provide a summary or a representative copy of the relevant privacy provisions of its contract with any such agent to the U.S. Department of Commerce upon request.
 
-GeoRiot will remain responsible for the processing of Potential Personal Information it transfers to an agent acting on its behalf, and will be liable if the agent processes such Potential Personal Information in a manner inconsistent with the Privacy Shield unless GeoRiot proves that it is not responsible for the event giving rise to the damage, if any.
+GeoRiot shall remain responsible for the processing of Potential Personal Information it transfers to an agent acting on its behalf, and shall be liable if the agent processes such Potential Personal Information in a manner inconsistent with the Privacy Shield unless GeoRiot proves that it is not responsible for the event giving rise to the damage, if any.
 
 **e. Buyer Access to Potential Personal Information**
 
@@ -243,7 +241,7 @@ The Potential Personal Information GeoRiot maintains after processing a Geni.us 
 
 GeoRiot therefore can only provide a Buyer with an opportunity to review and request that GeoRiot update or delete their Personal Data included in Potential Personal Information if the Buyer can provide GeoRiot with additional information regarding the Buyer's association with specific User Agent Information and/or Limited Purchase Information for GeoRiot to identify the Buyer with specific Potential Personal Information in GeoRiot's control, with a reasonably high degree of reliability. In the event a Buyer provides such information, GeoRiot will upon request allow them to review and request that GeoRiot update or delete Potential Personal Information to the extent the information can be identified to the individual Buyer or is identifiable to a specific Device used by the Buyer for the Transaction(s) for which the information was collected. 
 
-For additional information and to request the opportunity to review and request update or deletion, please email GeoRiot [here](mailto:hi@geni.us?subject=Review%20Profile%20Info). 
+For additional information and to request the opportunity to review and request update or deletion, please email GeoRiot [_here_](mailto:hi@geni.us?subject=Review%20Profile%20Info). 
 
 **f. Security**
 
@@ -251,7 +249,7 @@ GeoRiot maintains reasonable and appropriate physical, electronic and procedural
 
 **g. Data Integrity and Purpose Limitation**
 
-GeoRiot will take reasonable steps to ensure that Potential Personal Information is accurate, complete, current, and reliable for its intended use, and to ensure that it does not process Potential Personal Information in a way that is incompatible with the purposes for which it was collected unless authorized by the Buyer. GeoRiot will take reasonable and appropriate measures to ensure that it does not retain Potential Personal Information which may identify an individual only for as long as is consistent with the purposes for which it was collected.
+GeoRiot will take reasonable steps to ensure that Potential Personal Information is accurate, complete, current, and reliable for its intended use, and to ensure that it does not process Potential Personal Information in a way that is incompatible with the purposes for which it was collected unless authorized by the individual. GeoRiot will take reasonable and appropriate measures to ensure that it does not retain Potential Personal Information which may identify an individual only for as long as is consistent with the purposes for which it was collected.
 
 **h. Disclosures for Law Enforcement and National Security Purposes**
 
@@ -277,7 +275,7 @@ Subject to Section 7(c), Client Personal Data may be retained by GeoRiot for any
 
 GeoRiot will provide Client Users the opportunity to opt-in if their Client Personal Data is to be disclosed to a third party other than one disclosed in this Policy, or used for a purpose incompatible with the purpose for which it was originally collected or as otherwise permitted or authorized by the Client User.
 
-A Client User may request to opt-out of any previously authorized or permitted disclosure of Client Personal Data information by GeoRiot, except disclosure to the Client with which the Client User is associated, by emailing us [here](mailto:hi@geni.us?subject=Opt-out). In order to opt-out GeoRiot may require the Client's approval, if the Client is not the same as the Client User.
+A Client User may request to opt-out of any previously authorized or permitted disclosure of Client Personal Data information by GeoRiot, except disclosure to the Client with which the Client User is associated, by emailing us [_here_](mailto:hi@geni.us?subject=Opt-out). In order to opt-out GeoRiot may require the Client's approval, if the Client is not the same as the Client User.
 
 GeoRiot may retain Client Personal Data that is subject to a Client User's disclosure opt-out in accordance with GeoRiot's Data Retention Policy. The purpose of retaining such information is for GeoRiot's internal management and administration or fulfillment of its legal responsibilities or protection of its legal interests. GeoRiot is not responsible for updating or removing Client Personal Data disclosed to third parties before the Client User's opt-out. 
 
@@ -298,7 +296,7 @@ GeoRiot may disclose or provide Client Personal Data to third parties as follows
 
 
 
-GeoRiot will not transfer Client Personal Data to a third-party Data Controller without the consent of the individuals, and will first enter into a contract with Data Controller that provides:
+GeoRiot shall not transfer Client Personal Data to a third-party Data Controller without the consent of the individuals, and shall first enter into a contract with Data Controller that provides:
 
   * That the Client Personal Data may only be processed for purposes consistent with such consents.
 
@@ -311,7 +309,7 @@ GeoRiot will not transfer Client Personal Data to a third-party Data Controller 
 
 
 
-Consent of the Client User is not required when GeoRiot discloses Client Personal Data to a third party that is acting as an agent to perform task(s) on behalf of and under the instructions of GeoRiot, such as a Data Processor. In the event of such a disclosure, GeoRiot will:
+Consent is not required when GeoRiot discloses Client Personal Data to a third party that is acting as an agent to perform task(s) on behalf of and under the instructions of GeoRiot, such as a Data Processor. In the event of such a disclosure, GeoRiot shall:
 
   * Identify the purposes for which it is transferring such information. 
 
@@ -326,13 +324,13 @@ Consent of the Client User is not required when GeoRiot discloses Client Persona
 
 
 
-GeoRiot will provide a summary or a representative copy of the relevant privacy provisions of its contract with any such agent to the U.S. Department of Commerce upon request.
+GeoRiot shall provide a summary or a representative copy of the relevant privacy provisions of its contract with any such agent to the U.S. Department of Commerce upon request.
 
-GeoRiot will remain responsible for the processing of Client Personal Data it transfers to an agent acting on its behalf, and will be liable if the agent processes such Client Personal Data in a manner inconsistent with the Privacy Shield unless GeoRiot proves that it is not responsible for the event giving rise to the damage, if any.
+GeoRiot shall remain responsible for the processing of Client Personal Data it transfers to an agent acting on its behalf, and shall be liable if the agent processes such Client Personal Data in a manner inconsistent with the Privacy Shield unless GeoRiot proves that it is not responsible for the event giving rise to the damage, if any.
 
 **e. Client User Access to Potential Personal Information**
 
-GeoRiot provides Client Users with the opportunity to review and request that GeoRiot update or delete Client Personal Data. Modification or deletion of Client Personal Data may be subject to Client notice and approval. To access this information, email us [here](mailto:hi@geni.us?subject=Review%20Profile%20Info). 
+GeoRiot provides Client Users with the opportunity to review and request that GeoRiot update or delete Client Personal Data. Modification or deletion of Client Personal Data may be subject to Client notice and approval. To access this information, email us [_here_](mailto:hi@geni.us?subject=Review%20Profile%20Info). 
 
 **f. Security**
 
@@ -346,31 +344,7 @@ GeoRiot will take reasonable steps to ensure that Client Personal Data is accura
 
 GeoRiot may be required to disclose Client Personal Data in response to lawful requests by public authorities with appropriate jurisdiction, including to meet national security or law enforcement requirements, if require by applicable law.
 
-## 8\. Third Party Cookies
-
-Many types of information is collected through cookies, web beacons, and other tracking technologies, as well as through your web browser or device (e.g., IP address, MAC address, browser version, etc.).  The tracking technologies employed when you use our Services may be first-party or third-party.
-
- 
-
-We use cookies to analyze how the GeoRiot websites are accessed, used or is performing. We use this information to maintain, operate and continually improve the GeoRiot websites. We may also obtain information from our e-mail newsletters, to learn whether you opened or forwarded the newsletter or clicked on any of the content. This information tells us about our newsletters’ effectiveness and helps us ensure that we’re delivering information that you find interesting. Third parties, including Google, Facebook, and other social media platforms, may use tracking technologies on our website to collect or receive information from the GeoRiot websites and elsewhere on the internet and use that information to provide measurement services and target ads.  
-
- 
-
-Google Analytics help us analyze how users interact with and use the Services, compile reports on the Services’ activity, and provide other services related to our Services’ activity and usage. To learn more about Google’s partner services and to learn how to opt out of tracking of analytics by Google, click here.
-
- 
-
-Most web browsers automatically accept cookies but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Services may not be available, work, or work as designed.
-
- 
-
-You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the Network Advertising Initiative, the Digital Advertising Alliance, and the European Interactive Digital Advertising Initiative. Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device.
-
- 
-
-Please note that opting-out of advertising networks services does not mean that you will not receive advertising after browsing our site, while using our Services or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.  If you delete your cookies, you may also delete your opt-out preferences. Your browser or device may include “Do Not Track” functionality.
-
-## 9\. Recourse, Enforcement and Liability
+## 8\. Recourse, Enforcement and Liability
 
 GeoRiot is subject to the jurisdiction of the United States Federal Trade Commission ("FTC") with respect to this Policy. The FTC may investigate violations of this Policy, and enforce compliance with the Privacy Shield and applicable law.
 
@@ -378,23 +352,28 @@ GeoRiot provides assurance of its compliance with this Policy by conducting inte
 
 Any employee GeoRiot finds has violated this Policy will be subject to disciplinary action up to and including termination of employment.
 
-Any complaints, questions or concerns about the use or disclosures of Potential Personal Information or Client Personal Data by GeoRiot or other matters subject to this Policy should be directed to the address given below. GeoRiot will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy, and will respond to any complaint within 30 days of receiving a complaint. 
-
-In the event you are not satisfied with the response to a complaint you may seek independent review by arbitration. In such an event the dispute will be subject to arbitration by the International Centre for Dispute Resolution of the American Arbitration Association ("ICDR"), under the rules of the ICDR, at no cost to you.
-
-In the event you have filed a complaint and pursued arbitration for a violation of this Policy or the Privacy Shield by GeoRiot and are not satisfied with the result, you have the right to seek arbitration by a Privacy Shield Panel. This panel may impose individual-specific, non-monetary equitable relief to remedy the violation of the Principles with respect to your rights. You may seek such arbitration through your nation's Data Protection Authority ("DPA").
-
-GeoRiot will respond promptly and appropriately to inquiries about this Policy and compliance with the Privacy Shield from the FTC or the U.S. Department of Commerce, including inquiries from DPAs. 
-
-## 10\. Amendment of Policy
-
-GeoRiot reserves the right to modify this Policy at any time without notice. If GeoRiot amends this Policy, notice of the amendment and the amended policy will be posted on the Genius Link website and such other sites as GeoRiot may deem appropriate. Any amendment will be consistent with the requirements of Privacy Shield and applicable E.U. law. The terms of this Privacy Policy in effect at the time Potential Personal Information is collected by GeoRiot will continue to apply to such information notwithstanding such amendment. 
-
-## 11\. Contact Information
-
-Please contact us at [hi@geni.us](mailto:hi@geni.us) with any questions, comments, or concerns. You may also mail us at:
+In compliance with the Privacy Shield Principles, (your organization name) commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact GeoRiot by email at [hi@geni.us](mailto:hi@geni.us) or by mail at:
 
 GeoRiot Networks, Inc.   
-Att'n: Data Protection  
-5506 6th Avenue S. #203  
-Seattle, WA 98108 
+Att'n: Data Protection   
+5506 6th Avenue S. #105   
+Seattle, WA 98108
+
+GeoRiot will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy, and will respond to any complaint within thirty (30) days of receiving a complaint. 
+
+GeoRiot has further committed to refer unresolved Privacy Shield complaints to International Centre for Dispute Resolution of the American Arbitration Association ("ICDR"), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit https://www.icdr.org/Supportfor more information or to file a complaint. The services of ICDR are provided at no cost to you. In the event you have filed a complaint and pursued arbitration for a violation of this Policy or the Privacy Shield by GeoRiot and are not satisfied with the result, you have the right to seek arbitration by a Privacy Shield Panel. This panel may impose individual-specific, non-monetary equitable relief to remedy the violation of the Principles with respect to your rights. 
+
+GeoRiot will respond promptly and appropriately to inquiries about this Policy and compliance with the Privacy Shield from the FTC or the U.S. Department of Commerce. 
+
+## 9\. Amendment of Policy
+
+GeoRiot reserves the right to modify this Policy at any time without notice. If GeoRiot amends this Policy, notice of the amendment and the amended policy will be posted on the Genius Link website and such other sites as GeoRiot may deem appropriate. Any amendment will be consistent with the requirements of Privacy Shield and applicable E.U. law. The terms of this Privacy Policy in effect at the time Potential Personal Information is collected by GeoRiot shall continue to apply to such information notwithstanding such amendment. 
+
+## 10\. Contact Information
+
+Please contact us at [_hi@geni.us_](mailto:hi@geni.us) with any questions, comments, or concerns. You may also mail us at:
+
+GeoRiot Networks, Inc.   
+Att'n: Data Protection   
+5506 6th Avenue S. #105   
+Seattle, WA 98108
