@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331033602id_/https%3A//www.lowkickmma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224233304id_/https%3A//www.lowkickmma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LowKickMMA.com
 
-**LowKick.com’s Privacy Policy**
+**LowKickMMA.com’s Privacy Policy**
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -20,6 +20,10 @@ Customers may prevent their information from being used for purposes other than 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
- **E-Mail Policy**
+**E-Mail Policy**
 
 LowKick.com does not sell, rent, exchange or otherwise disclosed personal e mail information collected on this site. Personal information is collected only with your permission.
+
+_This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The  _ _Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers.  Users can opt out of the Common ID tracking cookie._
+
+To change your privacy settings, click here
