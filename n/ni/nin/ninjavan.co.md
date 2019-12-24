@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninjavan.co privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422003319id_/https%3A//www.ninjavan.co/en-sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjavan.co privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225004522id_/https%3A//www.ninjavan.co/en-sg/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Ninja Van
 
 At Ninja Van, we take your privacy seriously. We are committed to complying with all data protection laws as are applicable to us. This Policy sets out how Ninja Van manages, collects, uses and discloses Personal Data belonging to you. This Policy also sets out the purposes for which Ninja Van collects, uses and discloses such Personal Data.
 
@@ -12,11 +12,11 @@ We will only be able to collect your personal information if you voluntarily sub
 
 If you provide personal information of any third party to us, we assume that you have obtained the required consent from the relevant third party to share and transfer his/her personal information to us.
 
-#### What does Ninja Van do?
+## What does Ninja Van do?
 
 Ninja Van is a third party logistics service provider. Our main business activity involves performing deliveries on behalf of both online and offline retailers / merchants (“Shippers”) to individuals, like yourself, who have purchased goods / products from these Shippers (“Individual Recipients”).
 
-#### What Personal Data does this Policy cover?
+## What Personal Data does this Policy cover?
 
 When you create a Ninja Van account, or otherwise provide us with your personal information through the Platform, the personal information we collect may include:
 
@@ -29,15 +29,15 @@ When you create a Ninja Van account, or otherwise provide us with your personal 
 
 
 
-#### How does Ninja Van obtain Personal Data?
+## How does Ninja Van obtain Personal Data?
 
 Because Ninja Van is a third party logistics service provider, we receive your Personal Data and Personal Data of other Individual Recipients from Shippers or other third party service providers that have engaged our services.
 
 Ninja Van may also, from time to time, contact you by email, over the phone or in person, to request for additional information that is reasonably required to facilitate the delivery of products to you. In such cases, by providing any Personal Data directly to Ninja Van, you shall be deemed to have consented to the terms of this Policy, including the purposes set out in this Policy for which Ninja Van collects, uses and discloses your Personal Data.
 
-#### What does Ninja Van require of our Shippers?
+## What does Ninja Van require of our Shippers?
 
-For every Shipper or third party providers that engages Ninja Van’s services and, in the process of such engagement, provides Ninja Van with Personal Data belonging to you and other Individual Recipients, Ninja Van requires a warranty from the Shipper that the Shipper acts in full compliance with the Protection of Personal Data in an Electronic System, laws of Singapore.
+For every Shipper or third party providers that engages Ninja Van’s services and, in the process of such engagement, provides Ninja Van with Personal Data belonging to you and other Individual Recipients, Ninja Van requires a warranty from the Shipper that the Shipper acts in full compliance with the Protection of Personal Data in an Electronic System, laws of Indonesia.
 
 Specifically, Ninja Van highlights the following that is required of Shippers before providing Ninja Van with any Personal Data:
 
@@ -47,7 +47,7 @@ Specifically, Ninja Van highlights the following that is required of Shippers be
 
 
 
-#### How does Ninja Van use Personal Data?
+## How does Ninja Van use Personal Data?
 
 The personal information we collect from you will be used, or shared with third parties (including related companies, third party service providers, and third party sellers), including purposes of serving you, ensuring timely and successful deliveries to you, and improving our service quality to you and for some or all of the following purposes (where applicable):
 
@@ -81,7 +81,7 @@ The personal information we collect from you will be used, or shared with third 
 
 When using your Personal Data for the above purposes, we may contact you via regular mail, fax, e-mail, SMS, telephone or any other electronic means.
 
-#### How is your Personal Data protected from unauthorized disclosure?
+## How is your Personal Data protected from unauthorized disclosure?
 
 At Ninja Van, we take all reasonable steps to protect your Personal Data against unauthorized Disclosure. We do not disclose your Personal Data to third parties except when required by law or to the following for the same purposes listed in the preceding section:
 
@@ -97,7 +97,7 @@ In the event your Personal Data is disclosed to third parties as per the above, 
 
 In addition, Ninja Van implements strict standards of security across our operations to prevent any leakage, loss, damage, or unauthorized copying of your Personal Data in our systems.
 
-#### Contact Us
+## Contact Us
 
 As we can only ensure absolute data protection with your help, we invite you to contact our Data Protection Officer at any time should you have any concerns, queries or feedback regarding our use, management and protection of your Personal Data. We would love to hear from you should you wish to:
 
@@ -110,12 +110,12 @@ As we can only ensure absolute data protection with your help, we invite you to 
 
 
 
-You may contact our **Data Protection Officer** at [privacy@ninjavan.co](mailto:privacy@ninjavan.co) and we will get back to you within 48 hours.
+You may contact our **Data Protection Officer** at [sg-privacy@ninjavan.co](mailto:sg-privacy@ninjavan.co) and we will get back to you within 48 hours.
 
-#### Changes to this Policy
+## Changes to this Policy
 
 Ninja Van reserves the right to amend this Policy from time to time, in accordance with the prevailing law. The amended Policy shall at all times be available on our website.
 
-#### Ninja Van's Right
+## Ninja Van's Right
 
 YOU ACKNOWLEDGE AND AGREE THAT NINJA VAN HAS THE RIGHT TO DISCLOSE YOUR PERSONAL INFORMATION TO ANY LEGAL, REGULATORY, GOVERNMENTAL, TAX, LAW ENFORCEMENT OR OTHER AUTHORITIES OR THE RELEVANT RIGHT OWNERS, IF NINJA VAN HAS REASONABLE GROUNDS TO BELIEVE THAT DISCLOSURE OF YOUR PERSONAL INFORMATION IS NECESSARY FOR THE PURPOSE OF MEETING ANY OBLIGATIONS, REQUIREMENTS OR ARRANGEMENTS, WHETHER VOLUNTARY OR MANDATORY, AS A RESULT OF COOPERATING WITH AN ORDER, AN INVESTIGATION AND/OR A REQUEST OF ANY NATURE BY SUCH PARTIES. TO THE EXTENT PERMISSIBLE BY APPLICABLE LAW, YOU AGREE NOT TO TAKE ANY ACTION AND/OR WAIVE YOUR RIGHTS TO TAKE ANY ACTION AGAINST NINJA VAN FOR THE DISCLOSURE OF YOUR PERSONAL INFORMATION IN THESE CIRCUMSTANCES.
