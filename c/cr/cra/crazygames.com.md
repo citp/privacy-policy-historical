@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the crazygames.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629185048id_/https%3A//www.crazygames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazygames.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224051516id_/https%3A//www.crazygames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## PRIVACY POLICY
 
-> Last updated: 28.06.2018
+> Last updated: 26.10.2019
 
-BVBA MAXFLOW, a limited liability company under Belgian law with registered office at 3000 Leuven, Lei 33 box 0402, Belgium, registered under company registration number 0550.758.377 (RLE Leuven), with trade name “Crazy Games” (hereinafter: “ **Crazy Games** ”, “ **us** ”, “ **we** ”, or “ **our** ”) operates [https://www.crazygames.com](https://www.crazygames.com/) (the “ **Site** ”). This privacy policy applies to all of Crazy Games services and products. You should be aware that Crazy Games cannot be held responsible for the privacy policy of other sites and sources.
+BV MAXFLOW, a limited liability company under Belgian law with registered office at 3000 Leuven, Lei 33 box 0402, Belgium, registered under company registration number 0550.758.377 (RLE Leuven), with trade name “Crazy Games” (hereinafter: “ **Crazy Games** ”, “ **us** ”, “ **we** ”, or “ **our** ”) operates [https://www.crazygames.com](https://www.crazygames.com/) (the “ **Site** ”). This privacy policy applies to all of Crazy Games services and products. You should be aware that Crazy Games cannot be held responsible for the privacy policy of other sites and sources.
 
 Crazy Games will act as the data controller in the framework of this Privacy Policy. By using this Site, you accept this Privacy Policy and you affirm that you are of legal age to agree to the terms of this Privacy Policy. 
 
@@ -62,6 +62,8 @@ Crazy Games is not responsible for any personal data collected via any third par
 
 You are advised not to use your real name or real e-mail address in any of the games provided on our Site including, without limitation, when engaging in multi-play.
 
+We have the right to share your data with all Google CPS Vendors so that Google DV360 may return GDPR compliant bids for ad delivery.
+
 ## III. DATA RETENTION PERIODS
 
 Your personal data will only be processed for as long as this is necessary for the purposes mentioned above. Unless there is a justified reason to retain the personal data, for example within the framework of customer relation management, your personal data will be deleted one month after you failed to visit our site during a consecutive period of [2] years.
@@ -74,11 +76,13 @@ If you do not wish to receive newsletters or information about our products or s
 
 Moreover, you have the right to data portability for the personal data you have provided to Crazy Games if any and to the extent that Crazy Games has retained your personal data. If you want more information on your rights, you can always contact us or take a look at the website of the Belgian Data Protection Authority:
 
-<https://www.privacycommission.be/en>.
+<https://www.dataprotectionauthority.be/>.
 
 To exercise these rights, we ask you to send a clear request, to the address mentioned below, that states clearly what it is you want to know, rectify or erase. This request needs to be signed and dated and contain a copy of the front side of your identity card or driver’s license.
 
 You should specifically motivate your request if you want to rectify or erase personal data or restrict the processing thereof. Once these conditions are fulfilled, Crazy Games will execute your request as soon as possible and send you a message on this matter.
+
+On desktop and mobile websites, the Opt-Out Mechanism shall be a link to at least one of the SRP opt-out pages, which are currently located at [http://www.networkadvertising.org/choices](), [http://www.aboutads.info](http://www.aboutads.info/), and [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
 ## V. COOKIES
 
@@ -111,13 +115,18 @@ The Site may therefore use third party cookies such as cookies from:
   * Appnexus - [Privacy Policy](https://www.appnexus.com/platform-privacy-policy)
   * Google Ad Exchange - [Privacy Policy](https://policies.google.com/technologies/ads)
   * Google Adsense - [Privacy Policy](https://policies.google.com/technologies/ads)
-  * OpenX - [Privacy Policy](https://www.openx.com/legal/privacy-policy/)
   * Rubicon - [Privacy Policy](https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/)
   * Index Exchange - [Privacy Policy](http://www.indexexchange.com/privacy/)
   * Pubmatic - [Privacy Policy](https://pubmatic.com/legal/privacy-policy/)
   * DistrictM - [Privacy Policy](https://districtm.net/en/page/data-and-privacy-policy/)
   * Amazon - [Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&nodeId=468496)
   * Telaria - [Privacy Policy](https://telaria.com/privacy-policy/)
+  * OpenX - [Privacy Policy](https://www.openx.com/legal/privacy-policy/)
+  * Improve Digital - [Privacy Policy](https://www.improvedigital.com/platform-privacy-policy/)
+  * GumGum - [Privacy Policy](https://gumgum.com/privacy-policy)
+  * EMX - [Privacy Policy](https://emxdigital.com/privacy/)
+  * Sovrn - [Privacy Policy](https://www.sovrn.com/privacy-policy/)
+  * Sonobi - [Privacy Policy](https://sonobi.com/privacy-policy/)
 
 
 
@@ -152,7 +161,7 @@ At no moment in time will we directly sell or rent out your personal data to thi
 For all your questions or complaints regarding this Privacy Policy, you should contact us at the following e-mail address: [data-protection@crazygames.com](mailto:data-protection@crazygames.com) or through [our contact form](https://web.archive.org/contact). If you have any complaints regarding the processing of Your personal data, you can also address this complaint to the following address by registered mail:
     
     
-    BVBA MAXFLOW
+    BV MAXFLOW
     Data Protection desk
     Lei 33 bus 0402
     3000 Leuven
