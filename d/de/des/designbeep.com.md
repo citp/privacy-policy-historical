@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designbeep.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528144453id_/http%3A//designbeep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbeep.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224114127id_/http%3A//designbeep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Designbeep
 
