@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the backblaze.com privacy policy that was archived on 2019-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190623050352id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backblaze.com privacy policy that was archived on 2019-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191224152556id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -42,6 +42,8 @@
 
 <script src="https://cdn.optimizely.com/js/8207352565.js"></script>
 <script src="/scripts/cookie-consent.js"></script>
+<script src="/scripts/conversion.js"></script>
+<script src="/scripts/page-id.js"></script>
 
 <script>
     function loadGoogleTagManager(global, ID) {
@@ -74,7 +76,7 @@
   $(document).ready(function() {
     var $signInLink = document.querySelector('nav li a#signIn');
     $signInLink.addEventListener('click', function(evt) {
-      evt.target.href = "/user_signin.htm?netid=" + new Date().getTime().toString();
+      evt.target.href = evt.target.href + "?netid=" + new Date().getTime().toString();
     });
   });
 </script>
@@ -101,7 +103,7 @@
 <li class="b2"><a href="/b2/cloud-storage.html" id="cloudStorage">B2 Cloud Storage</a></li>
 <li><a href="/blog/" id="blog">Blog</a></li>
 <li class="help"><a href="/help.html" id="help">Help</a></li>
-<li><a href="#" id="signIn">Sign In</a></li>
+<li><a href="/user_signin.htm" id="signIn">Sign In</a></li>
 </ul>
 </div>
 </div>
@@ -125,28 +127,21 @@
 </div>
 <div class="col-sm-8" style="margin-top:16px;">
 <h1>Backblaze Privacy Notice</h1>
-Last updated: July 10, 2018
+Last updated: August 27, 2019
 <br>
 <br>
-We value your business and we know your privacy is important to you.
-Accordingly, we have implemented this Privacy Notice which describes:
-how we collect and use personal information that you provide to us when
-you create a Backblaze account, via our website or Apps; what we do with
-the information collected; and how you can exercise your privacy rights.
-<br>
-<br>
-This Privacy Notice applies only to the information collected in respect of
-your account and does not apply to the content that customers store on our
-system, including any personal information. Backblaze will not disclose,
-move, access or use customer content except as provided in Backblaze's
-<a href="/company/terms.html">terms and conditions</a>, and our
-<a href="/company/dpa.html">data processing addendum</a>.
+We value your business and we know privacy is important to you. Accordingly,
+we have implemented this Privacy Notice which describes how we collect and use
+your personal information, what we do with the information collected, and how you
+can exercise your privacy rights. We also have
+<a href="/company/terms.html">terms and conditions</a> and <a href="/company/dpa.html">data processing addendum</a>
+which describe what we can expect from each other when you use our products and services.
 <br>
 <br>
 <br>
 <a name="section-2"></a>
 <h1 class="section-header">Who we are</h1>
-Backblaze is a US headquartered data storage provider that offers two different products:
+Backblaze, Inc. (“Backblaze”) is a US headquartered data storage provider that offers two different products:
 <ul>
 <li class="list-item">
 <a href="https://www.backblaze.com/cloud-backup.html">Computer Backup</a>, which
@@ -158,6 +153,16 @@ using Macs or PCs (laptops and desktops); and
 provides low-cost cloud storage for individuals and organizations.
 </li>
 </ul>
+<br>
+You can find our contact details <a href="#section-14">below</a>.
+<br>
+<br>
+Under EU data protection legislation, commonly known as the GDPR, Backblaze is the controller of processing of personal
+information described below. With regard to the processing of files uploaded to our platform by our users when using our
+Computer Backup and B2 Cloud Storage services, however, Backblaze is the processor and the person or organization owning
+the Backblaze account is the controller. We explain more about the distinction between a controller and a processor under
+EU data protection legislation <a href="https://help.backblaze.com/hc/en-us/articles/360004187753-Data-Processor-vs-Data-Controller">here</a>.
+<br>
 <br>
 <br>
 <a name="section-3"></a>
@@ -276,7 +281,7 @@ support and online Chat service.
 <li class="list-item">
 We may also disclose your information to third parties: (a) where required by law or regulatory requirement,
 court order or other judicial authorization, (b) in response to lawful requests by public authorities, including
- for the purposes of meeting national security and law enforcement requirements; (c) in connection with the sale,
+for the purposes of meeting national security and law enforcement requirements; (c) in connection with the sale,
 transfer, merger, bankruptcy, restructuring or other reorganization of a business; (d) to protect or defend our
 rights, interests or property, or that of third parties; (e) to investigate any wrongdoing in connection with our
 products and services; and (f) to protect the vital interests of an individual.
@@ -325,7 +330,7 @@ information, please contact us using the contact details provided under the <a h
 <br>
 <br>
 <a name="section-7"></a>
- <h1 class="section-header">Cookies and similar tracking technology</h1>
+<h1 class="section-header">Cookies and similar tracking technology</h1>
 Like all e-commerce websites we use cookies and similar tracking technology (collectively "Cookies") to collect and use personal
 information about you. For further information about the types of Cookies we and our partners' use, why and how you can control
 Cookies, please see our <a href="https://www.backblaze.com/company/cookies.html">Cookie Statement</a>.
@@ -364,7 +369,7 @@ For information on how to request access, rectification or deletion of your pers
 <br>
 <br>
 <a name="section-9"></a>
- <h1 class="section-header">How we protect your information</h1>
+<h1 class="section-header">How we protect your information</h1>
 The security of your personal information is very important to us.
 <br>
 <br>
@@ -467,7 +472,11 @@ San Mateo, CA 94401, U.S.
 +1 650-352-3738
 <br>
 <br>
-Please note that for the purposes of EU data protection legislation, Backblaze is the controller of your personal information.
+Previous Version(s):
+<ul>
+<li><a href="/company/privacy-10july2018.html">July 10, 2018</a></li>
+</ul>
+<br>
 </div>
 </div>
 </section>
@@ -519,4 +528,4 @@ Backblaze © 2019.
 </noscript>
 
 
-<div id="cookie-consent-banner"><div style="width:100%;text-align:center;position: fixed; bottom: 0; left: 0; z-index: 9999; background-color: #333333;  color: #e5e5e5; font-size: 12px;overflow: hidden; line-height: 16px; margin: 0px; padding-top: 6px; padding-bottom: 5px;"><div style="width: 100%; margin-left: auto; margin-right: auto; max-width: 1440px;">This website uses cookies for analytics, personalization and to improve the user experience.  Click <a style="color: #c2d8f2; text-decoration: none;" href="https://web.archive.org/web/20190330000104/https://www.backblaze.com/company/cookies.html">here</a> to learn more or change your cookie settings. By continuing to browse you agree to our use of cookies.<a id="give-consent" href="#" style="background-color:#3d87d2; border-radius: 3px; padding-left: 12px; padding-right: 12px;  display: inline; color: #c2d8f2; text-decoration: none; margin-left: 40px;">OK</a></div></div></div></body></html>
+<div id="cookie-consent-banner"><div style="width:100%;text-align:center;position: fixed; bottom: 0; left: 0; z-index: 9999; background-color: #333333;  color: #e5e5e5; font-size: 12px;overflow: hidden; line-height: 16px; margin: 0px; padding-top: 6px; padding-bottom: 5px;"><div style="width: 100%; margin-left: auto; margin-right: auto; max-width: 1440px;">This website uses cookies for analytics, personalization and to improve the user experience.  Click <a style="color: #c2d8f2; text-decoration: none;" href="https://web.archive.org/web/20190407121838/https://www.backblaze.com/company/cookies.html">here</a> to learn more or change your cookie settings. By continuing to browse you agree to our use of cookies.<a id="give-consent" href="#" style="background-color:#3d87d2; border-radius: 3px; padding-left: 12px; padding-right: 12px;  display: inline; color: #c2d8f2; text-decoration: none; margin-left: 40px;">OK</a></div></div></div></body></html>
