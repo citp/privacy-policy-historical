@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueletterbible.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617191929id_/https%3A//www.blueletterbible.org/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueletterbible.org privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224173552id_/https%3A//www.blueletterbible.org/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Blue Letter Bible Privacy Policy
 
