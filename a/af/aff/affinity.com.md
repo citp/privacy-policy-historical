@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinity.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629081547id_/http%3A//www.affinity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinity.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224171120id_/http%3A//www.affinity.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Affinity.com
 
@@ -36,6 +36,6 @@ By using the Site or our services, you consent to the collection and use of your
 
 **Who Can I Ask If I Have Additional Questions?**
 
-Feel free to [contact](https://web.archive.org/web/20190629081547id_/http%3A//www.affinity.com/contact.php) us at any time with any questions you may have regarding our privacy statement.
+Feel free to [contact](https://web.archive.org/web/20191224171120id_/http%3A//www.affinity.com/contact.php) us at any time with any questions you may have regarding our privacy statement.
 
 Effective 25, May 2018
