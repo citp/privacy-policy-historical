@@ -1,163 +1,304 @@
-> *The following text is extracted and transformed from the getapp.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611131107id_/https%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getapp.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224085147id_/https%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | GetApp®
 
-Please take time to read our Privacy Policy
+## GetApp Privacy Policy
 
-This Privacy Policy covers the privacy practices of GetApp (Nubera EBusiness, S.L.), a Barcelona company, and our Affiliates ("GetApp" "we" or "us"), along with the Sites on which this Privacy Policy is posted (the "Sites"). This Policy does not apply to those of our Affiliates, which due to their different business models, have developed their own privacy policies: CEB, Iconoculture, L2 and Gartner.
+Welcome to GetApp! Please take time to read our Privacy Policy ("policy") as it sets out important information relating to how we handle your personal information!
 
- **What We Do:** We help millions of users to research and evaluate the right software solutions and services for their organizations. As part of our comprehensive directory of products and services, we provide verified user reviews, original research and personalized guidance. Users may also connect directly with software vendors that choose to participate in our lead generation programs.
+In this Policy, references to "we", "us" or "GetApp" are references to Nubera eBusiness S.L., a subsidiary of Gartner Inc. References in this Policy to Gartner Digital Markets includes GetApp, together with Capterra Inc., and Software Advice, Inc., both subsidiaries of Gartner Inc. This Policy only applies to data collected by GetApp via www.getapp.com (the "Site"), and does not apply to Gartner Inc. and its other associated group companies, products, and/or services, www,gartner.com, or Gartner entities which have their own applicable privacy notices: Gartner Digital Performance Benchmarks, Gartner Consumer and Culture Insights, and Evanta.
 
- **Our Privacy Practices:** While using our Sites and Services, and as part of the normal course of business, we may collect personal information ("Information") about you. We want you to understand how we use the information we collect, and that you share with us, and how you may protect your privacy while using our Sites.
+### How To Contact Us
 
- **Your Consent:** When you provide your Information to us, you consent to the collection, storage and use of your Information by us, our Affiliates and third parties in accordance with the terms set out in this Policy. "Affiliate" is any legal entity that controls, is controlled by or is under common control with Gartner (our parent company).
+Questions, comments and requests regarding this Policy should be addressed to our Data Protection team through the following means:
 
- **Before submitting your Information to us, please read this Privacy Policy carefully. By accessing and using our Sites and Services, you are accepting the practices described herein.**
+Data Protection Team  
+Legal Department  
+56 Top Gallant Road  
+Stamford, CT 09602  
+USA  
+Email Address: [GDMPrivacy@gartner.com](mailto:GDMPrivacy@gartner.com)
 
-### This Privacy Policy Covers:
+### Introduction
 
-  * What information we collect from you and why we collect it.
-  * Cookies and other web technologies.
-  * Third-party use of cookies and other tracking technologies.
-  * How we use your Information.
-  * With whom we share your Information.
-  * How you may access your Information.
-  * Your choices with respect to the collection and use of your Information.
-  * How we safeguard your Information.
-  * Children's privacy.
-  * Visiting our Sites from outside the United States.
-  * Your California privacy rights.
-  * Changes to this Privacy Notice.
-  * How you may contact us.
+We will collect personal information when you use the Site and the associated services, and as part of the normal course of business. This Policy sets out how we collect and use personal information, and your rights regarding our use of your personal information.
 
+The GetApp website and services are provided for prospective software buyers. This Policy applies when users to interact with GetApp in different ways. For example:
 
+  * Creating a profile on our website using your LinkedIn account;
+  * Writing a review of a software product; and
+  * Contacting our customer support services.
 
-* * *
 
-### What information we collect from you and why we collect it
 
- **Types of Information:** To enable visitors to take advantage of our services, we collect certain types of Information from both software vendors and software buyers, such as during registration or when submitting a review. This Information may include your first and last name, job title, telephone number, postal/email addresses, billing information and social media profile information (including photo). We receive, store and share this Information with our Sites and Affiliates across the Gartner organization.
+Software vendors are able to create accounts and manage product listings for the various Gartner Digital Markets websites, through the Capterra site. Links on this Site for software vendor activities will redirect and be subject to the [Capterra Privacy Policy](https://www.capterra.com/legal/privacy-policy).
 
- **Legitimate Purpose:** We collect this Information to support our legitimate interests in conducting our business: (i) to operate our programs; (ii) to fulfill your requests; (iii) to administer services on behalf of our software vendors under contract with us; and (iv) to respond to your questions, concerns, or customer service inquiries. We retain this Information only for as long as is necessary for the purpose(s) for which it was collected.
+### 1\. Information That We Collect About You
 
- **Reviews & Content:** If you post reviews or participate in discussion forums or other social areas of our Sites, your participation (including the content you post, your name, and a link to your profile) may be shared with our Sites and Affiliates across the Gartner organization.
+Information we collect when you:
 
- **Social Media:** If you connect to our Sites through third party social media Sites like LinkedIn, we will receive Information from your social media account as further described below. You may choose not to provide Information to us, but some Information about you is required in order for you to enjoy the full benefits of being a registered user of our Sites.
+  * Write a review
+  * Register for an account with us
+  * Correspond with us (either by phone or email)
 
-If you log on to our Sites through your social media account, we will receive, where possible:
 
-  1. Your profile Information and will automatically populate your profile on our Sites with your name, job title, company name, profile photo, industry and company size (Note: you may request that this Information not be shown publicly on our Sites).
-  2. Access to your connections /network to show you reviews written by your connections (Note: we will not access your connections' contact information or send messages to your connections).
 
+This information is provided by you directly.
 
+#### Categories of information we collection about you include:
 
- **Third Parties:** We may also obtain Information about you from our Affiliates, business partners and independent third-parties. For example, if you visit our Sites by "clicking-through" from a site operated by one of our business partners, and you have registered with that partner, then Information you provided to that partner may be shared with us to improve and personalize your use of our Sites.
+  * Where you choose to register or log-in with your LinkedIn account, we receive your basic profile information, including your first name, last name, profile photo, and profile URL
+  * Information you may provide when writing a review.
+  * Other information you provide when you communicate with us including your full name, contact details and business email address, phone number and details of our communications
 
- **Cookies:** We automatically collect some information about your computer activity when you visit our Sites to help us customize your user experience. We will collect session data, including the time at which you visited our Sites, your IP address, web browser software, referring website and information collected through cookies, web beacons and other tracking technologies. We will also collect information about your online activity, such as content viewed, pages visited and keywords searched.
 
-The technologies we use for this automatic information collection may include:
 
-  *  **Cookies.** Cookies are small files placed on the hard drive of your computer. Unless you have adjusted your browser setting to refuse cookies, our system will issue cookies when you direct your browser to our Sites.
-  *  **Flash Cookies.** Flash Cookies are local stored objects used by certain features of our Sites to collect and store information about your preferences and navigation to, from and on our Sites. Flash cookies are not managed by the same browser settings as used for browser cookies.
-  *  **Web Beacons.** Web Beacons are small electronic files (clear gifs. pixel tags and single-pixel gifs), which may be used by parts of our Sites to track the number of users who have visited those pages and other related website statistics (e.g., verification of system and server integrity).
+#### We use this information for certain activities, including:
 
+  * Managing your profile and review(s);
+  * Verify the validity of your review(s) and ensure false or malicious reviews are not posted;
+  * Sending you service emails (e.g. service announcements and messages relating to your account);
+  * Providing consultation services and responding to service enquiries;
+  * Sending marketing to business contacts regarding Gartner Digital Markets services and products which may be of interest, and to promote our business and brand;
+  * Inviting you to provide reviews about other products and services, and to engage in other activities with the Gartner Digital Markets businesses.
+  * Administering our services and website, investigating any complaints and providing customer service;
+  * Responding to your questions and requests and otherwise customize your digital markets experience;
+  * Resolving disputes;
+  * For internal analysis and research to help us to measure interest in and improve our services;
+  * Preventing prohibited or illegal activities; and
+  * Enforcing our policies.
 
 
-We use these Web Technologies for the following general purposes:
 
-  * To help us recognize your browser as a previous visitor and save/remember any preferences you may have set while visiting our Sites. (e.g., we may use cookies to remember your registration information so you need not log into our Sites each time you visit.)
-  * To help us customize your user experience on our Sites and on other websites across the Internet. (e.g., when you access a web page on our Sites, a cookie is automatically set by us, our service providers or our partners to recognize your browser as you navigate the Internet and to present you with information we believe may be of interest.
-  * To help measure and research the effectiveness of Site features and offerings and advertisements (e.g., we work with third-party service providers to collect data about your use of the Sites for purposes of conversion tracking and serving ads targeted to your interests as you visit other websites across the Internet).
+#### We use this information because:
 
+  * We have a legitimate business interest to:
+    * Manage and promote our business and brand;
+    * Provide and improve our services;
+    * Operate our business;
+    * Improve the performance and user experience of our websites;
+    * Monitor, investigate and report any attempts to breach the security of our websites; and
+    * Resolve any concerns or disputes you may have.
+  * You have given your consent (where required under applicable law) to use your information for marketing. Where we rely upon your consent, you have the right to withdraw this consent by contacting us or unsubscribing via the opt-out functionality provided in our marketing communications to you.
 
 
-You may opt out of any of the above-referenced uses through the _Do Not Track_ functionality in your web browser. Some browsers offer similar settings for HTML5 local storage, and Flash storage can be managed [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). Please note, however, that if you refuse to accept cookies, you may not be able to accesssome of the benefits offered on our Sites. 
 
-### Third-party use of cookies and other tracking technologies
+### Information we collect about your use of our website and apps.
 
-Some content or applications, including ads on our Sites, are provided by third parties, such as advertisers and content providers. These third parties may use cookies in conjunction with other tracking technologies to collect Information about you and your activity when you use our Sites in order to provide you with interest-based (behavioral) advertising or other targeted content. To learn more about interest-based advertising generally, including how to opt out from the targeting of interest-based ads by some of our current ad service partners, [click here](http://optout.aboutads.info/#!/). For controls specific to advertising and analytics services offered by Google, [click here](https://adssettings.google.com/authenticated?hl=en#display_optout) and [here](https://adssettings.google.com/authenticated?hl=en).
+#### Categories of information we collect about you include:
 
-### How We Use Your Information to Support Our Business
+  * Information captured in our web logs such as device information (e.g. device brand and model, screen dimensions), unique identification numbers (e.g. IP address and device ID), browser information (e.g. URL, browser type, pages visited, date/time of access), website traffic and pages viewed, geo-location and other device-specific information, Internet connection information;
+  * Behavioral information (such as information on the behavior or presumed interests of individuals which are linked to those individuals and may be used to create a user profile); and
+  * Information captured by our cookies (see our [Cookie Policy](https://web.archive.org/cookie_settings)).
 
-We use the Information you share and we collect about you primarily for the legitimate interest of administering our business; (i) for registration and to manage your profiles and listings, including to facilitate your access to and use of our Sites; (ii) to enable us to publish your reviews and other submitted content; (iii) to respond to your questions and requests and otherwise customize your digital markets experience; (iv) to measure interest in and improve our products and services; (v) to notify you about special offers available from us, our Affiliates or Partners, which may be of interest to you; (vi) to resolve disputes and troubleshoot problems; (vii) to prevent prohibited or illegal activities and disclose to legal or government authorities upon lawful request; (viii) to enforce our policies; and as otherwise described to you at the point of collection.
 
-### With Whom We Share Your Information
 
-We may, in administering our Sites and Services to provide you the best possible online experience, share your Information with our Affiliates and with the following entities:
+#### We use this information for certain activities, including:
 
-  *  **Third-party vendors** who help us administer our Sites and Services may access and collect Information only as needed to perform their functions and are not permitted to share or use the Information for any other purpose (e.g., marketing, customer service, business analytics, payment processing).
-  *  **Software Vendors.** As part of our lead generation program, software buyers consent to allow us to share their Information with software vendors participating in the program who meet their business needs.
-  *  **Social Media Services.** If you opt to access social media websites and services through our Sites (such as LinkedIn), you are sharing your Information with those sites under their privacy policies.
-  *  **Legal Process.** We will share your Information in response to court orders and legal process; to defend against legal claims; or as otherwise required by law; when we believe it is necessary to investigate and prevent or protect and defend our rights, property, or safety as well as those of our customers; or in connection with a corporate transaction, such as a divestiture, investment, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+  * Personalizing the experience of our website;
+  * Administering our website and developing our products and services;
+  * Performing statistical and trend analysis to improve the user experience and performance of our website;
+  * Facilitate your access to and use of our Site; and
+  * Resolving disputes and troubleshooting problems
 
 
 
-We will notify you before we share your Information with third parties for reasons other than those listed above, and you will have an opportunity to opt out of such sharing. We also may share aggregate or anonymous information about you (which does not contain any personal information) to develop content andservices and further improve your digital markets experience.
+#### We use this information because:
 
-### How You May Access Your Information
+  * It is necessary for compliance with any legal or regulatory obligations;
+  * We have a legitimate business interest to: 
+    * Monitor, investigate and report any attempts to breach the security of our websites;
+    * Improve the performance and user experience of our websites; and
+    * Develop our product and service offerings for service users.
 
-We ensure that the Information we collect about you is accurate, complete and used for its intended purpose. You may access, review, correct and update your Information or close your account by sending an email to use per the notice section at the end of this Privacy Policy.
 
-While we generally retain Information for so long as it may be relevant to the purpose for which it was collected or submitted, we also may retain certain Information associated with your account in our archives for analytical, archival and business continuity purposes.
 
-Individuals in the European Union and some other jurisdictions outside the United States, in addition to the rights above, have certain legal rights (i) to obtain confirmation of whether we hold Information about them, (ii) to access the Information we hold about them (including, in some cases, in portable form), and (iii) to correct, update, amend or delete in appropriate circumstances such Information. These data subjects may also object to our uses or disclosures of their Information or exercise legal rights to withdraw their consent, though such actions typically will not have retroactive effect. They may also have the right to lodge a complaint with the relevant EU data protection supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
+#### 1.2 Further Information
 
-To exercise these rights, please contact us via the contact information at end of this Privacy Notice.
+Where we collect and use information for our legitimate interests as mentioned above, a legitimate interest will only apply when we consider that your interests or rights requiring protection of your personal information do not override our legitimate interests. For more information regarding our legitimate interests as applied to your personal information, please contact us.
 
-### Your Choices With Respect to the Collection and Use of Your Information
+Our websites and online services are for individuals who are at least 18 years of age. Our online services are not designed to be used by individuals under the age of 18.
 
-You have choices with regard to how your Information is collected and used.
+Your personal information may also be processed if it is necessary on reasonable request by a law enforcement or regulatory authority, body or agency, in the defense of legal claims or in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats, to the physical safety of any person or violations of any of our Site terms.
 
-  *  **Informed Consent.** We will always inform you at the point of collection as to how your Information will be used so that you can make an informed decision. You may choose not to provide us with any Information about yourself and your preferences, although it may be needed to customize and get the most value from your digital markets experience.
-  *  **Unsubscribe.** While data privacy laws permit us to send you communications related to administration of your services without including an unsubscribe option (e.g., service announcements and messages relating to your account), we will, where legally required, provide both registered and unregistered users with an option to unsubscribe from our non-administrative emails, such as our promotional and marketing communications.
-  *  **Access and Review.** As described above, you may access, review, correct, update and delete the Information we hold about you as described above.
-  *  **Set Preferences.** Also as described above, you may set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the Sites may be inaccessible or not function properly.
+#### 1.3 Recorded Communications with GetApp
 
+We may record calls for training, quality and research purposes. All recordings will be treated as confidential. If you do not want us to record your call, you will be given a chance to opt out. If your call is already in progress, you may ask us to turn off the recording at the start of the call.
 
+### 2\. When We Disclose Your Information
 
-### How We Safeguard Your Information
+#### Publication of Reviews
 
-We are committed to safeguarding the Information you share with us. While we, like any website provider, cannot guarantee your security on the internet, we have, in accordance with applicable law, implemented appropriate administrative, technical and physical security controls to help prevent unauthorized access, maintain data security and ensure proper and effective use of the data we collect.
+ **Verified User Reviews**
 
-In addition, only authorized employees are permitted to access Information, and only for permitted business functions. And we use encryption when transmitting your Information between your system and ours, and we, together with our Partners and third party providers, employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your Information.
+We allow individuals to submit software reviews and remain anonymous. If you choose this option, you are required to use your LinkedIn account to ensure we can appropriately verify the review source. Your LinkedIn profile details that GetApp receives will be made available to the Gartner Digital Markets Companies. Once submitted, the review will be displayed to our Site users as a "Verified User".
 
-In the end, you are responsible for activity on our Sites conducted with your credentials and for maintaining the secrecy of credentials that may be used to access your Account or Service; and you must immediately report to us, per the contact information at the end of this Policy, any suspected unauthorized activity.
+ **Attributed Reviews**
 
-### Children's Privacy
+If you do not choose to provide an anonymous review, or you provide the review without using the LinkedIn sign-in option, your review will be attributed to you when it is published on our Site. Your name and job information posted with your review on the Site, and other Gartner Digital Markets sites, as appropriate will be visible to Site users.
 
-Our Sites are intended for general business audiences and not for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we learn that we have collected or received Information from a child under 13 without parental consent, we will delete or destroy such Information as soon as reasonably possible. If you believe we have collected Information from a child under 13, please contact us via the contact information at the end of this Privacy Policy.
+We may also publish your review on any of the Gartner Digital Market websites that we determine appropriate and useful for our service users. For more information about how reviews are managed, please refer to the [GetApp Community Guidelines](https://web.archive.org/community_guidelines).
 
-### Site Visitors From Outside the US
+#### Further Information
 
-If you are visiting our Sites from outside the United States, you understand and agree that your Information may be transferred to, stored and used in the US where our servers are located and our central database is operated. While US data protection laws may not be as comprehensive as those in your country, we have taken steps in accordance with US law to ensure that your privacy is protected. By visiting our Sites or using our Services, you acknowledge and agree that your Information may be transferred to our US facilities and those third parties with whom we share it as described in this Privacy Policy.
+In addition to publishing reviews as set out above, we may disclose your personal information to third parties as follows:
 
-### California Privacy Rights
+  * To Gartner group companies in order to process the data for the above mentioned purposes;
+  * When we have your consent or authorization to do so;
+  * To third parties who work on our behalf to help us administer our Site, or to service or maintain business contact databases and other IT systems, such as suppliers of the IT systems which we use to process personal information, or who provide other technical services, such as printing;
+  * To third parties providing services to us who have a need to access your information, such as our professional advisors (e.g. auditors and lawyers);
+  * To comply with applicable laws, protect rights, safety and property, and respond to lawful requests from public authorities (such as disclosing data in appropriate situations for national security or law enforcement purposes);
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of their Information to third parties for direct marketing purposes. To make such a request, please contact us via the contact information at the end of this Policy.
 
-### Changes to this Privacy Policy
 
-We may update this Privacy Policy from time to time as our business practices or the law requires. We will notify you about material changes to this Privacy Policy by placing a prominent notice on our Sites.
+Capterra, GetApp and Software Advice are part of the Gartner Digital Markets network. We make your review(s) available through these individual websites and share your information within this network.
 
-### Please Don't Hesitate to Contact Us
+Your personal information will also be transferred to other third party organizations in certain scenarios (subject to applicable law):
 
-If you have questions regarding our Privacy practices or this Privacy Policy, or if you would like to send us requests or complaints relating to our use of your Information, please contact us via the contact information on the following page:
+  * If we sell, purchase or transfer any part or all of our business or assets (including in bankruptcy), or in the event of another corporate change, in which case we may disclose your Information to the prospective seller, buyer or administrator of such business or assets including for pre-transaction review under suitable terms as to confidentiality;
+  * If we are reorganized or sold, information may be transferred to a buyer who can continue to provide services to you;
+  * If we are defending a legal claim, our property, our website or other users, Information may be transferred as required in connection with defending such claim.
+  * If there is an emergency which requires us to share your data or for the health and safety of our Site's users or the general public.
 
-Website Operator| Main Website  
----|---  
-Nubera eBusiness S.L. ( **GetApp** )  
-Edificio SPACES  
-C/ Pallars 193, 2ª planta  
-08005 Barcelona, Spain  
-[legal@getapp.com](mailto:legal@getapp.com)| [www.getapp.com](https://web.archive.org/)  
-For all privacy incident reporting, please contact [privacy@gartner.com](mailto:privacy@gartner.com).  
-Website Operator  
----  
-Nubera eBusiness S.L. ( **GetApp** )  
-Edificio SPACES  
-C/ Pallars 193, 2ª planta  
-08005 Barcelona, Spain  
-[legal@getapp.com](mailto:legal@getapp.com)  
-Main Website  
-[www.getapp.com](https://web.archive.org/)  
-For all privacy incident reporting, please contact [privacy@gartner.com](mailto:privacy@gartner.com).
+
+
+We also may share aggregate or anonymous information about you (which does not contain any personal information) to develop content and services and further improve your digital markets experience.
+
+### 3\. Data Subject Rights
+
+We ensure that the personal information we collect about you is accurate, complete and used for its intended purpose. You may access, review, correct and update your Information or close your account by contacting us by email on the contact details above. If you a citizen of the European Union you also have the rights listed below. If you are a California resident, please refer to Section 10 below for more detailed information on your rights under California law.
+
+#### 3.1 European Union Residents
+
+In certain circumstances, you have certain rights regarding your personal information. A summary of each right and how you can exercise it is below. To exercise any of these rights, please contact us. Such requests should include information to allow us to verify your identity (e.g. your name, address, email address or other information reasonably required).
+
+Where we receive your request to exercise one of these rights, we will respond without undue delay within the time required by applicable law. This may be extended in certain circumstances, e.g. where requests are complex or numerous.
+
+We will provide the information free of charge, except where requests are manifestly unfounded or excessive, e.g. because of their repetitive character. In these circumstances we may charge a reasonable fee or may refuse to act on the request. We will advise you of any fees prior to proceeding with a request.
+
+We may ask for additional information to verify your identity before carrying out a request.
+
+#### Right to access and/or correct your personal information
+
+You have the right to access personal information we hold about you, and to be provided with a copy of the information (in most circumstances). You also have the right to correct any information we may hold about you that is inaccurate.
+
+#### Right to restrict use of your personal information
+
+You have the right to ask us to restrict processing of your personal information where one of the following applies:
+
+  * The processing is unlawful, but you want us to restrict use of the data instead of deleting it;
+  * Where you contest the accuracy of your personal information, the restriction will apply until we have verified the accuracy or corrected your personal information;
+  * We no longer require the personal information for the purposes of processing, but are required to keep it in connection with a legal claim;
+  * You have exercised your right to object to the processing. The restriction will apply until we have taken steps to verify whether we have compelling legitimate grounds to continue processing.
+
+
+
+#### Right to request deletion of your personal information
+
+You have the right to ask us to delete your personal information in most circumstances. If you want to opt-out from receiving marketing communications, the best way to do so is to allow us to retain your information with a “do not contact” tag so we know not to contact you in the future.
+
+There are also certain exceptions where we may refuse a request for erasure, for example, where the personal information is required to comply with a legal obligation or for the establishment, exercise or defense of legal claims.
+
+#### Right to object to processing of your personal information
+
+You may object to our use of your personal information for marketing purposes.
+
+You may also object to processing of your personal information in cases where we have used legitimate interests as the basis for processing. In such cases, we will stop processing your personal information until we verify that we have compelling legitimate grounds for processing that outweigh your interests, rights, and freedoms in asking us to stop processing the data, or in limited cases where we need to continue processing the data for the establishment, exercise, or defense of legal claims.
+
+#### Right to data portability
+
+In most cases, you have the right to receive all personal information you have provided to us in a structured, commonly used, and machine-readable format and to transmit this data to another data controller, where technically feasible.
+
+#### Right to lodge a complaint with a supervisory authority
+
+If you object to our processing of your personal information, you have the right to complain to the data protection authority in the country where you reside, where you work, or where an alleged infringement of data protection laws has taken place.
+
+### 4\. International Transfers
+
+GetApp may transfer your personal information to other Gartner group companies, including Gartner Digital Markets, or suppliers outside your home jurisdiction. We will take all reasonable steps to ensure that personal information is protected and any such transfers comply with applicable law.
+
+We may transfer and maintain the personal information of individuals covered by this Policy on servers or databases outside the European Economic Area (EEA). Some of these countries may not have the equivalent level of protection under their data protection laws as in the EEA.
+
+### 5\. Retention Periods
+
+We will retain your personal information for as long as required to perform the purposes for which the data was collected, depending on the legal basis for which that data was obtained and/or whether additional legal/regulatory obligations require us to retain it.
+
+In general terms, this will mean that your personal information will be kept for the duration of our relationship with you and:
+
+  * the period required by tax and company laws and regulations; and
+  * as long as it is necessary for you to be able to bring a claim against us and for us to be able to defend ourselves against any legal claims. This will generally be the length of the relationship plus the length of any applicable statutory limitation period under local laws.
+
+
+
+### 6\. Choices About Your Information
+
+We believe it is important to give you choices about the use of your Information. We will use your personal information as described in this Policy. If we want to use your information for a purpose not described in this Policy, we will first get your consent to do so.
+
+#### Marketing Communications
+
+We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at [GDMprivacy@gartner.com](mailto:GDMprivacy@gartner.com). Please note that we will continue to send you service-related communications regardless of any opt-out request. We will not sell or share your information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
+
+### 7\. Security
+
+We have implemented administrative, technical, and physical security measures to help prevent unauthorized access. Despite these measures, no data transmission over the Internet can be entirely secure, and we cannot guarantee or warrant the security of any information you transmit via our websites or apps. Please note that you are responsible for maintaining the security of your credentials used to access any Digital Markets service or account, and you must report suspected unauthorized activity to us.
+
+We make reasonable efforts to restrict access to information to only those employees, contractors, and agents who need such access in order to operate, develop, improve, or deliver our programs, products, and services.
+
+### 8\. Cookies and Similar Technologies
+
+A cookie is a small text file which includes a unique identifier that is sent by a web server to the browser on your computer, mobile phone or any other internet enabled device when you visit an on-line site. Cookies and similar technologies are widely used to make websites work efficiently and to collect information about your online preferences. For simplicity, we refer to all these technologies as "cookies".
+
+Some of our website pages may contain electronic images known as web beacons (also known as clear gifs, tags or pixels) that allow us to count users who have visited our pages. Web beacons collect only limited information, e.g. a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any information that could directly identify you.
+
+We also include web beacons in e-mail messages or newsletters to track whether you open the messages. We use this information to customize our services and measure the overall effectiveness of our online content, advertising campaigns, and products and services we offer through the Site. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at the Global Privacy Settings Panel.
+
+More detailed information on how we use cookies and other web technologies can be found [here](https://web.archive.org/cookie_settings).
+
+### 9\. Miscellaneous
+
+#### 9.1 Links
+
+We provide links to other websites or resources that are not part of the products, programs, or services run by GetApp. We do not control these websites or their privacy practices, and any information you provide to these sites is subject to the privacy notices of those sites and not this Policy.
+
+#### 9.2 Changes to this Policy
+
+From time to time, we may change and/or update this Policy. If this Policy changes in any way, we will post an updated version on the Site. We recommend you regularly review the Site to ensure that you are always aware of our information practices and any changes to such. Any changes to this Policy will go into effect on posting to this page.
+
+### 10\. California Privacy Rights
+
+California law requires us to provide California residents with additional information regarding how we collect, use, and share your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).
+
+ **Categories of personal information we collect.** Throughout this Policy, we discuss in detail the specific pieces of information we collect from and about users. Below are the categories of personal information we collect:
+
+  * Identifiers (such as name and title, contact details, and company name);
+  * Internet or other network or device activity (such as browsing history or app usage);
+  * Inference data about you; and
+  * Other information that identifies or can be reasonably associated with you.
+
+
+
+ **Use of categories of personal information.** We may disclose the categories of personal information identified above for our operational purposes where the use is reasonably necessary and proportionate to achieve the operational purpose for which it was collected or processed, or for another compatible operational purpose.
+
+ **Sale of Personal Information.** The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we do not believe we engage in such activity and have not engaged in such activity in the past twelve months (including that we do not “sell” the personal information of minors under 16 years of age). We do share certain information as set forth in Sections 1 and 2 of this Policy, and allow third parties to collect certain information about your activity, for example through cookies, as explained in our Cookie Policy.
+
+ **Individual Rights.** California law may provide you with certain rights and permit you to request the following:
+
+  * Provide you the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we shared personal information.
+  * Provide access to and/or a copy of certain information we hold about you.
+  * Delete certain information we have about you.
+
+
+
+You may have the right to receive information about the financial incentives that we offer to you (if any). You also have the right to not be discriminated against (as provided for in applicable law) for exercising certain of your rights. Certain information may be exempt from such requests under applicable law. For example, we need certain types of information so that we can provide the Services to you and for compliance with applicable law. If you ask us to delete certain information, you may no longer be able to access or use the Services.
+
+If would like to exercise any of these rights, please email us at [GDMprivacy@gartner.com](mailto:GDMprivacy@gartner.com) or send your written request to Data Protection Counsel, Americas, Gartner, 1201 Wilson Blvd., Arlington, VA. You will be required to verify your identify before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
+
+Subject to certain limits under California Civil Code § 1798.83, California residents may request certain information regarding our disclosure of information to third parties for their direct marketing purposes. To make such a request, please contact us as specified at the beginning of this Privacy Policy.
+
+#### California Online Privacy Protection Act Notice Concerning Do Not Track Signals
+
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-related DNT signals, as the industry is currently working toward a common approach to responding to DNT. To learn more about Do Not Track, please click [here](https://allaboutdnt.com/).
+
+### 11\. Nevada Privacy Rights
+
+Nevada law requires us to provide certain Nevada consumers the ability to opt out of the “sale” of “personally identifiable information” as such terms are defined under Nevada law. We do not engage in such activity; however, if you are a Nevada resident who has purchased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing [GDMprivacy@gartner.com](mailto:GDMprivacy@gartner.com). Once verified, we will maintain your request in the event our practices change.
