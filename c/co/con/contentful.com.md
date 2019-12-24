@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the contentful.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401111025id_/https%3A//www.contentful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentful.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224191624id_/https%3A//www.contentful.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Legal
-
-[ ](https://web.archive.org/)
+# Privacy Policy | Contentful
 
 _We’ve updated our Privacy Policy, which will be effective starting March 15, 2017. Old versions of the document are available in the sidebar._
 
