@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eversign.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129050811id_/https%3A//eversign.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversign.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224202701id_/https%3A//eversign.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - eversign
 
 At eversign we are committed to protecting your privacy. Please review this Privacy Policy carefully before using this service. 
 
-_Last modified: 25-05-2018_
+_Last modified: 12-08-2019_
 
 ## 1\. General
 
@@ -18,8 +18,8 @@ _Last modified: 25-05-2018_
 
 **Company address:**   
 apilayer GmbH   
-Hoerlgasse 12/4   
-1090 Vienna, Austria   
+Elisabethstraße 15 / Top 5   
+1010 Vienna, Austria   
 
 
 ## 2\. Data We Process
