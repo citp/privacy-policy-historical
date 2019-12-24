@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624212234id_/https%3A//www.helpscout.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224214832id_/https%3A//www.helpscout.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Help Scout
 
@@ -195,9 +195,7 @@ For more information about how Help Scout stores and secures customer and compan
 
 Back to top
 
-### Is Help Scout Safe Harbor and Privacy Shield compliant?
-
-_The EU-U.S. Privacy Shield Framework has replaced the EU-U.S. Safe Harbor Framework as of July 12, 2016. The Swiss-U.S. Privacy Shield Framework has replaced the Swiss-U.S. Safe Harbor Framework as of April 12, 2017._
+### Is Help Scout Privacy Shield compliant?
 
 #### EU-U.S. and Swiss-U.S. Privacy Shield Framework
 
@@ -259,7 +257,7 @@ Back to top
 
 ### Applicable Law
 
-This Privacy Policy is governed by the laws of Delaware, USA without regard to its conflict of laws provision. You consent to the exclusive jurisdiction of the courts in connection with any action or dispute arising between the parties under or in connection with this Privacy Policy except for those individuals who may have rights to make claims under Safe Harbor, Privacy Shield, or the Swiss-US framework.
+This Privacy Policy is governed by the laws of Delaware, USA without regard to its conflict of laws provision. You consent to the exclusive jurisdiction of the courts in connection with any action or dispute arising between the parties under or in connection with this Privacy Policy except for those individuals who may have rights to make claims under Privacy Shield, or the Swiss-US framework.
 
 By using the Help Scout website or contacting us directly, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you should not engage with our website, or use our services. Continued use of the website, direct engagement with us, or following the posting of changes to this Privacy Policy that do not significantly affect the use or disclosure of your personal information will mean that you accept those changes.
 
