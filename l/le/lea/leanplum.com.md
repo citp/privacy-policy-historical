@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanplum.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329021919id_/https%3A//www.leanplum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanplum.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224231239id_/https%3A//www.leanplum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leanplum
 
