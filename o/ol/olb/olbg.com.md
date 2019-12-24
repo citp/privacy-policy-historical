@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olbg.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030025115id_/https%3A//www.olbg.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olbg.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225005745id_/https%3A//members.olbg.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Online Betting Guide (OLBG)
 
@@ -162,6 +162,9 @@ intercom-lou-ufflspyj, intercom-session-ufflspyj
 new_menu_tooltip   
 | Determine if a tooltip on side menu was shown or not (10 years)   
   
+october_session   
+| Estimate our audience size and usage pattern (1 day)   
+  
 hstpconfig   
 | Visit tracking (6 months)   
   
@@ -204,6 +207,11 @@ Facebook Pixel
 Twitter Conversion Tracker   
 | This Cookie is placed by Twitter. It enables OLBG to learn how our users have interacted with OLBG advertising served to them on Twitter. It also enables OLBG to identify users who have used their mobile device to view OLBG advertising on Twitter and later came to the OLBG website on a desktop computer. For further information about the Twitter Conversion Tracker please see:  [](https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html)<https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html>   
   
+MUID, MUIDB, SRCHD, SRCHHPGUSR, SRCHUID, SRCHUSR, _EDGE_S, _SS   
+| Cookies placed by bing.com (1 month)   
+  
+_dc_gtm_UA-159821-1, _dc_gtm_UA-159821-56, _gat_UA-159821-1   
+| Internal tracking user visits (1 day)  
   
 ## Security
 
