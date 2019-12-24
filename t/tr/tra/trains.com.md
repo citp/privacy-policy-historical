@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404074918id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224042324id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Kalmbach Media
+
+Skip to content
+
+Privacy Policy[kpcadmin](https://www.kalmbach.com/author/kpcadmin/ "Posts by kpcadmin")2019-03-18T19:53:25+00:00
 
 Updated March 15, 2019
 
