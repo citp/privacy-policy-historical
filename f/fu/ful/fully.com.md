@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fully.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520162700id_/https%3A//www.fully.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fully.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224214334id_/https%3A//www.fully.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fully
 
@@ -148,9 +148,9 @@ You may also send us an email at [privacy@fully.com](mailto:privacy@fully.com) t
 
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](https://web.archive.org/terms#general).
 
-#### Your California Privacy Rights
+#### Information for California Residents
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We DO NOT disclose personal information to third parties for their direct marketing purposes.
+California Civil Code Sections 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicate that organizations should disclose whether certain categories of information are collected, “sold” or transferred for an organization’s “business purpose”(as those terms are defined under California law). You can find a list of the categories of information that we collect and share [here](https://web.archive.org/california-information-sharing-disclosure). Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the "Contacting Us" section below. We do not discriminate against California residents who exercise any of their rights described in this Privacy Policy.
 
 #### Data Security
 
