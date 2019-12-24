@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innity.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818093149id_/https%3A//www.innity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innity.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224222435id_/https%3A//www.innity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Innity - Right Audience, Real Engagement
 
@@ -161,4 +161,4 @@ The terms of this privacy policy may be updated periodically and Innity reserves
 
 If you have any queries or comments concerning this policy, please contact us for more information.
 
-E-mail: [privacy@innity.com](http://innity.com/mailto) Phone: +603 7880 5611 Address:C501&502,Kelana Square,17,Jalan SS7/26,Kelana Jaya,Petaling Jaya,Selangor,Malaysia.
+E-mail: [privacy@innity.com](https://www.innity.com/mailto) Phone: +603 7880 5611 Address:C501&502,Kelana Square,17,Jalan SS7/26,Kelana Jaya,Petaling Jaya,Selangor,Malaysia.
