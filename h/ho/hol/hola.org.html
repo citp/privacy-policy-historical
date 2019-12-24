@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the hola.org privacy policy that was archived on 2019-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190413075320id_/http%3A//hola.org/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hola.org privacy policy that was archived on 2019-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191224215431id_/https%3A//hola.org/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class=" async-hide"><head>
     
 <title translate="{{title ? title : 'Privacy Policy – Hola' || 'Hola Free VPN - Unblock Any Website'}}">Privacy Policy – Hola</title>
 
-<link rel="canonical" href="http://hola.org/" ng-if="!title">
+<link rel="canonical" href="https://hola.org/" ng-if="!title">
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" translate="" translate-attr-content="Unblock sites censored in your country and accelerate your Internet with Hola – Free!" content="Unblock sites censored in your country and accelerate your Internet with Hola – Free!">
 <meta name="p:domain_verify" content="46e0fba547ae8266503fc0ea165e49ad">
@@ -30,25 +32,59 @@
 
 <meta property="og:site_name" content="Hola Free VPN - Unblock Any Website">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.facebook.com">
+<link rel="preconnect" href="https://connect.facebook.net">
+<!-- Anti-flicker snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NH398RP"></script><script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+  h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+  (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+  })(window,document.documentElement,'async-hide','dataLayer',4000,
+  {'GTM-NH398RP':true});
+</script>
+<!-- Google Tag Manager -->
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NH398RP');
+</script>
+
+
+
+<script>
 try {
-    if (window.name=='social_login' && window.opener)
+    if (window.opener && (window.name=='social_login' ||
+        window.opener.hola_sl_callback))
     {
-        if (typeof window.sl_callback=='function')
-            window.sl_callback();
+        if (typeof window.opener.hola_sl_callback=='function')
+          window.opener.hola_sl_callback();
+        else if (typeof window.hola_sl_callback=='function')
+            window.hola_sl_callback();
         else
             window.opener.location.href = location.href;
         window.close();
     }
-} catch(e){}
+} catch(e){
+  console.error(e);
+  if (window.opener && window.name=='social_login')
+  {
+      window.opener.location.href = location.href;
+      window.close();
+  }
+}
 </script>
 
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet" href="//cdn4.hola.org/www/hola/pub/css/hola.css?md5=297425-e10026cb">
+<link rel="stylesheet" href="//cdn4.hola.org/www/hola/pub/css/hola.css?md5=319783-f04873cc">
+<link rel="stylesheet" href="//cdn4.hola.org/www/hola/pub/css/react.css?md5=76234-019326f6">
 <link rel="publisher" href="https://plus.google.com/113076818286953987497">
-<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gkojfkhlekighikafcpjkiklfbnlmeio">
-<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/lalfpjdbhpmnhfofkckdpkljeilmogfl">
-<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/chgpmaaockmdehmidghebcjafhihlgha">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular-csp.css">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Noto+Sans:400,700">
@@ -71,7 +107,8 @@ else
 </script>
 
 
-    <link rel="stylesheet" href="//cdn4.hola.org/www/hola/pub/css/hola_ab.css?md5=66149-6b794ef1">
+
+    <link rel="stylesheet" href="//cdn4.hola.org/www/hola/pub/css/hola_ab.css?md5=66233-b6eb2ad6">
   </head>
   <body>
     <div class="wrap">
@@ -85,7 +122,7 @@ else
 
 
 
-<div class="navbar navbar-default navbar_new navbar-hola-org  " role="navigation" hola-navbar="">
+<div class="navbar navbar-default navbar_new navbar-hola-org vpn " role="navigation" hola-navbar="">
   <div class="container navbar-wrap">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -96,12 +133,97 @@ else
       </button>
       <span class="navbar-brand-container">
         <a class="navbar-brand" href="/" target="_self">
-          <img src="//cdn4.hola.org/www/hola/pub/img/hola_logo.svg?md5=3571-1b6f7d94">
+          <img src="//cdn4.hola.org/www/hola/pub/img/hola_vpn.svg?md5=4482-0f11284c">
         </a>
+        
+        <ul class="brand-dropdown">
+          <li>
+            <a class="brand-item brand-browser detect-install2-vpn" href="/download" data-product="vpn" data-source="" rel="windows" data-simple_download_initialized="true">
+              <div class="brand-item-container">
+                <div class="brand-icon">
+                  <svg width="100%" height="100%">
+                    <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#chrome_logo_svg" width="50px" y="-17px" x="8px">
+                    </use>
+                    <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#firefox_logo_svg" width="50px" y="17px" x="8px">
+                    </use>
+                  </svg>
+                </div>
+                <div class="brand-action">Hola for Chrome &amp; Firefox browsers</div>
+              </div>
+              <div class="brand-item-arrow-container"><div class="brand-item-arrow"></div></div>
+            </a>
+          </li>
+          <li>
+            <a class="brand-item brand-windows" href="/download">
+              <div class="brand-item-container">
+                <div class="brand-icon">
+                  <svg width="100%" height="100%">
+                    <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#windows_logo_svg"></use>
+                  </svg>
+                </div>
+                <div class="brand-action">Hola for Windows</div>
+              </div>
+              <div class="brand-item-arrow-container"><div class="brand-item-arrow"></div></div>
+            </a>
+          </li>
+          <li>
+            <a class="brand-item brand-android" href="https://play.google.com/store/apps/details?id=org.hola&amp;referrer=utm_source=hola_web_hp">
+              <div class="brand-item-container">
+                <div class="brand-icon">
+                  <svg width="100%" height="100%">
+                    <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#android_logo_svg"></use>
+                  </svg>
+                </div>
+                <div class="brand-action">Hola for Android</div>
+              </div>
+              <div class="brand-item-arrow-container"><div class="brand-item-arrow"></div></div>
+            </a>
+          </li>
+          <li>
+            <a class="brand-item brand-ios" href="/ios?ref=hp_ios">
+              <div class="brand-item-container">
+                <div class="brand-icon">
+                  <svg width="100%" height="100%">
+                    <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#ios_logo_svg"></use>
+                  </svg>
+                </div>
+                <div class="brand-action">Hola for iOS</div>
+              </div>
+              <div class="brand-item-arrow-container"><div class="brand-item-arrow"></div></div>
+            </a>
+          </li>
+          <li>
+            <a class="brand-item brand-mac" href="/mac?ref=hp_mac">
+              <div class="brand-item-container">
+                <div class="brand-icon">
+                  <svg width="100%" height="100%">
+                    <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#mac_logo_svg"></use>
+                  </svg>
+                </div>
+                <div class="brand-action">Hola for MacOS &amp; AppleTV</div>
+              </div>
+              <div class="brand-item-arrow-container"><div class="brand-item-arrow"></div></div>
+            </a>
+          </li>
+          <li>
+            <a class="brand-item brand-smarttv" href="/plus?ref=hp_smarttv">
+              <div class="brand-item-container">
+                <div class="brand-icon">
+                  <svg width="100%" height="100%">
+                    <use transform="translate(15, 15) scale(0.5714)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#smarttv_logo_svg"></use>
+                  </svg>
+                </div>
+                <div class="brand-action">Hola for Smart TV</div>
+              </div>
+              <div class="brand-item-arrow-container"><div class="brand-item-arrow"></div></div>
+            </a>
+          </li>
+        </ul>
         
       </span>
       <label class="env-label"><div class="label"></div></label>
     </div>
+    
     <div class="collapse navbar-collapse">
       <div class="user_nav_container navbar-right">
         <ul class="user-status nav navbar-nav navbar-right loading_placeholder">
@@ -133,7 +255,7 @@ else
                 <div class="prom-icon"></div>
                 <div class="prom-action">
                   <div class="prom-content">
-                    <h1>Hola ad blocker</h1>
+                    <h1>Hola ad remover</h1>
                     <p>Block annoying ads, malware and tracking</p>
                   </div>
                   <span class="link">Start</span>
@@ -178,7 +300,7 @@ else
                 <div class="prom-action">
                   <div class="prom-content">
                     <h1>Hola browser</h1>
-                    <p>Unblocker, ad blocker and video accelerator in one</p>
+                    <p>Unblocker, ad remover and video accelerator in one</p>
                   </div>
                   <span class="link">Start</span>
                 </div>
@@ -200,11 +322,216 @@ else
           </div>
         </li>
         
+        
         <li><a href="/faq" translate="">FAQ</a></li>
+        
         
       </ul>
       
+        <ul class="vpn_icons_promo_container nav navbar-nav navbar-right hide_on_load" ng-if="!app_mode" navbar-vpn-icons="">
+          <li class="prom-generic prom-plus" ng-hide="is_already_plus">
+            <a href="/plus?ref=homepage_header_icon">
+              <img class="prom-btn" src="//cdn4.hola.org/www/hola/pub/img/icon_plus.svg?md5=5758-834813f4">
+            </a>
+            <a href="/plus?ref=homepage_header_icon" class="prom-popover" data-source="tooltip">
+              <div class="prom-icon">
+                <img width="100%" height="100%" src="//cdn4.hola.org/www/hola/pub/img/prom_popover_vpn.svg?md5=4485-78ec99c7">
+              </div>
+              <div class="prom-action">
+                <div class="prom-content">
+                  <h1>Hola VPN PLUS</h1>
+                </div>
+                <span class="link">Start</span>
+              </div>
+            </a>
+          </li>
+          <li class="prom-generic prom-chrome">
+            <a class="vpn_icon_link" href="https://chrome.google.com/webstore/detail/hola-free-vpn-proxy-unblo/gkojfkhlekighikafcpjkiklfbnlmeio">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use transform="translate(-6, -6) scale(1.65, 1.65)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#chrome_logo_svg">
+                </use>
+              </svg>
+            </a>
+            <a class="prom-popover" href="https://chrome.google.com/webstore/detail/hola-free-vpn-proxy-unblo/gkojfkhlekighikafcpjkiklfbnlmeio" data-source="tooltip">
+              <div class="prom-icon">
+                <svg width="100%" height="100%">
+                  <use transform="translate(-10, -10) scale(1.5, 1.5)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#chrome_logo_svg">
+                  </use>
+                </svg>
+              </div>
+              <div class="prom-action">
+                <div class="prom-content">
+                  <h1>Hola for Chrome</h1>
+                </div>
+                <span class="link">Start</span>
+              </div>
+            </a>
+          </li>
+          <li class="prom-generic prom-firefox">
+            <a class="vpn_icon_link" href="https://addons.mozilla.org/en-US/firefox/addon/hola-unblocker/">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use transform="translate(-6, -6) scale(1.65, 1.65)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#firefox_logo_svg">
+                </use>
+              </svg>
+            </a>
+            <a class="prom-popover" href="https://addons.mozilla.org/en-US/firefox/addon/hola-unblocker/" data-source="tooltip">
+              <div class="prom-icon">
+                <svg width="100%" height="100%">
+                  <use transform="translate(-10, -10) scale(1.5, 1.5)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#firefox_logo_svg">
+                  </use>
+                </svg>
+              </div>
+              <div class="prom-action">
+                <div class="prom-content">
+                  <h1>Hola for Firefox</h1>
+                </div>
+                <span class="link">Start</span>
+              </div>
+            </a>
+          </li>
+          <li class="prom-generic prom-opera">
+            <a class="vpn_icon_link" href="https://addons.opera.com/en/extensions/details/hola-better-internet/">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use transform="translate(-6, -6) scale(1.65, 1.65)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#opera_logo_svg"></use>
+              </svg>
+            </a>
+            <a class="prom-popover" href="https://addons.opera.com/en/extensions/details/hola-better-internet/" data-source="tooltip">
+              <div class="prom-icon">
+                <svg width="100%" height="100%">
+                  <use transform="translate(-10, -10) scale(1.5, 1.5)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#opera_logo_svg">
+                  </use>
+                </svg>
+              </div>
+              <div class="prom-action">
+                <div class="prom-content">
+                  <h1>Hola for Opera</h1>
+                </div>
+                <span class="link">Start</span>
+              </div>
+            </a>
+          </li>
+          <li class="prom-generic prom-edge">
+            <a class="vpn_icon_link" href="https://microsoftedge.microsoft.com/addons/detail/nfjgmgjhcihmkobljembcfodkajehoej">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#edge_new_logo_svg"></use>
+              </svg>
+            </a>
+            <a class="prom-popover" href="https://microsoftedge.microsoft.com/addons/detail/nfjgmgjhcihmkobljembcfodkajehoej" data-source="tooltip">
+              <div class="prom-icon">
+                <svg width="100%" height="100%">
+                  <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#edge_new_logo_svg">
+                  </use>
+                </svg>
+              </div>
+              <div class="prom-action">
+                <div class="prom-content">
+                  <h1>Hola for Edge</h1>
+                </div>
+                <span class="link">Start</span>
+              </div>
+            </a>
+          </li>
+          <li class="prom-generic prom-windows">
+            <a class="vpn_icon_link" href="/download">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use transform="translate(-6, -6) scale(1.65, 1.65)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#windows_logo_svg">
+                </use>
+              </svg>
+            </a>
+            <a href="/download" class="prom-popover" data-source="tooltip">
+              <div class="prom-icon">
+                <svg width="100%" height="100%">
+                  <use transform="translate(-10, -10) scale(1.5, 1.5)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#windows_logo_svg">
+                  </use>
+                </svg>
+              </div>
+              <div class="prom-action">
+                <div class="prom-content">
+                  <h1>Hola for Windows</h1>
+                </div>
+                <span class="link">Start</span>
+              </div>
+            </a>
+          </li>
+          <li class="prom-android" ng-if="!user_status.is_member">
+            <a class="vpn_icon_link" href="https://play.google.com/store/apps/details?id=org.hola&amp;referrer=utm_source=p">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use transform="translate(-6, -6) scale(1.65, 1.65)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#android_logo_svg">
+                </use>
+              </svg>
+            </a>
+            <a class="prom-popover" href="https://play.google.com/store/apps/details?id=org.hola&amp;referrer=utm_source=p">
+              <img src="//cdn4.hola.org/www/hola/pub/img/playmarket_button.svg?md5=8231-7a599a12">
+            </a>
+          </li>
+          <li class="prom-android" ng-if="user_status.is_member">
+            <a class="vpn_icon_link" href="https://play.google.com/store/apps/details?id=org.hola.prem&amp;referrer=utm_source=p">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use transform="translate(-6, -6) scale(1.65, 1.65)" xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#android_logo_svg">
+                </use>
+              </svg>
+            </a>
+            <a class="prom-popover" href="https://play.google.com/store/apps/details?id=org.hola.prem&amp;referrer=utm_source=p">
+              <img src="//cdn4.hola.org/www/hola/pub/img/playmarket_button.svg?md5=8231-7a599a12">
+            </a>
+          </li>
+          <li class="prom-apple">
+            <a class="vpn_icon_link" href="https://itunes.apple.com/us/app/hola-privacy-vpn-app-browser/id903869356?mt=8">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#apple_logo_svg"></use>
+              </svg>
+            </a>
+            <a class="prom-popover" href="https://itunes.apple.com/us/app/hola-privacy-vpn-app-browser/id903869356?mt=8">
+              <img src="//cdn4.hola.org/www/hola/pub/img/appstore_button.svg?md5=6210-f0312d6b">
+            </a>
+          </li>
+          <li class="prom-generic">
+            <a class="vpn_icon_link" href="/download">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#mac_logo_svg2"></use>
+              </svg>
+            </a>
+            <a href="/download" class="prom-popover" data-source="tooltip">
+              <div class="prom-icon">
+                <svg width="100%" height="100%">
+                  <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#mac_logo_svg2">
+                  </use>
+                </svg>
+              </div>
+              <div class="prom-action">
+                <div class="prom-content">
+                  <h1>Hola for MacOS</h1>
+                </div>
+                <span class="link">Start</span>
+              </div>
+            </a>
+          </li>
+          <li class="prom-generic prom-smarttv">
+            <a class="vpn_icon_link" href="/plus_setup?platform=smarttv">
+              <svg width="100%" height="100%" class="prom-btn">
+                <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#smarttv_logo_svg">
+                </use>
+              </svg>
+            </a>
+            <a href="/plus_setup?platform=smarttv" class="prom-popover" data-source="tooltip">
+              <div class="prom-icon">
+                <svg width="100%" height="100%">
+                  <use xlink:href="/www/hola/pub/img/homepage/platforms_icons.svg?md5=22159-e8f250bd#smarttv_logo_svg">
+                  </use>
+                </svg>
+              </div>
+              <div class="prom-action">
+                <div class="prom-content">
+                  <h1>Hola for Smart TV</h1>
+                </div>
+                <span class="link">Start</span>
+              </div>
+            </a>
+          </li>
+        </ul>
+      
     </div>
+    
   </div>
 </div>
 
@@ -426,7 +753,7 @@ else
     </div>
     <div id="spacer" style="height:200px"></div>
     
-  <script>
+<script>
     (function(){
         // LICENSE_CODE ZON
 'use strict'; /*jslint browser:true*/
@@ -495,11 +822,17 @@ window.require = window.require||require;
 }());
 
         // LICENSE_CODE ZON
-'use strict'; /*jslint browser:true*/
+'use strict'; /*jslint node:true, browser:true*/
+var define;
+var is_node = typeof module=='object' && module.exports;
+if (is_node)
+    define = require('../../../util/require_node.js').define(module, '..');
+else
+    define = self.define;
 define('hola_opt', function(){
     var opt;
     // jshint ignore:start
-    opt = {"version":"1.130.732","user_ip":3488737194,"user_ip_vpn":false,"user_isp":"Internet Archive","user_country":"US","user_city":{"city":"Phoenix","region":"AZ","postal_code":"85050","latitude":33.6861,"longitude":-112.0007,"tz":"America/Phoenix"},"notify_upgrade_min_version":"1.2.676","enable_new_installer":true,"www_hola":{"faq_support_active":false,"purechat_active":false,"vpn_signup_require":false,"download_flow":"blue","svc_check":false,"exclude_rating":[],"pages_override":{"/plus.html":"order.html","/premium.html":"order.html","/trialsignup.html":"order.html","/uninstall.html":"uninstall_premium.html"},"enable_new_installer":true,"www_hide_plans":false,"homepage_plus_top":true,"plus_timer_sec":34749,"price_widget":0,"price_widget_6m":1,"test_placebo":0,"check_agree_ts":false,"disable_silent_install":false,"disable_install_exe_flow_win":false,"disable_install_exe_flow_mac":false,"new_login":true,"new_login_layout":true,"enable_install_exe_agreed_win":true}};
+    opt = {"version":"1.161.131","user_ip":3488737370,"user_ip_vpn":false,"user_isp":"Internet Archive","user_country":"US","user_city":{"city":"","region":"","postal_code":"","latitude":37.751,"longitude":-97.822,"tz":"America/Chicago"},"notify_upgrade_min_version":"1.2.676","enable_new_installer":true,"www_hola":{"faq_support_active":false,"vpn_signup_require":false,"download_flow":"blue","svc_check":false,"exclude_rating":[],"pages_override":{"/plus.html":"join_n.html","/premium.html":"join_n.html","/trialsignup.html":"join_n.html","/uninstall.html":"uninstall_premium.html","/check_your_email.html":"check_your_email2.html","/thank_you.html":"thank_you3.html"},"enable_new_installer":true,"www_hide_plans":true,"homepage_plus_top":true,"plus_timer_sec":34749,"price_widget":0,"price_widget_6m":1,"test_placebo":0,"check_agree_ts":false,"disable_silent_install":false,"disable_install_exe_flow_win":false,"disable_install_exe_flow_mac":false,"new_login_layout":true,"enable_install_exe_agreed_win":true,"main_install_flow":"join2","video_chat":{"enable":false,"match":"popular.*","track_mouse":true,"type":"popup3","position":{"position":"center","x":"10px","y":"10px"},"texts":{"title_text":"Chat with us for a quick introduction","bn_text":"Chat with us","bn_voice_text":"Chat with us"}},"www_react":{},"react_ssr":{},"show_cookies_alert":true,"hotjar":{"match":["/vpn/.*"]},"adroll":{"enabled":false},"email_blacklist":[{"ref":{},"email":{}},{"email":{}},{"email":{}},{"cc_country":"MX","email_types":["basic"]}],"gtm":{"enabled":true,"id":"GTM-NH398RP","test_id":""},"promo_banner":{"enabled":false,"timer":3600000},"popup_banner":{"enabled":false,"pages":["^/$","^/plus$","^/unblock/popular"]}},"login_sync":{"enabled":true,"sync_restricted":true,"test_accounts":["basic/volodymyr@hola.org","facebook/1964549193837211"]},"all_plans":[{"period":"3 Y","id":"3y_143_64","bluesnap_id":3505426,"price":143.64,"is_active":false},{"period":"2 Y","id":"2y_119_76","bluesnap_id":3505430,"price":119.76,"is_active":false},{"period":"1 Y","id":"1y_95_88","bluesnap_id":3249287,"price":95.88,"is_active":false},{"period":"3 Y","id":"3y","price":107.55,"is_active":true,"avangate_id":16241620,"bluesnap_id":3497134,"bluesnap_test_id":2425795},{"period":"2 Y","id":"2y","price":95.75,"is_active":true,"avangate_id":14166685,"bluesnap_id":3497132,"bluesnap_test_id":2425793},{"period":"1 Y","id":"1y","price":83.88,"is_active":true,"avangate_id":4621810,"bluesnap_id":3497130,"bluesnap_test_id":2425791,"paypal_id":"P-5GP12483RR459984DLWYVPHI","paypal_test_id":"P-88U39284PA049131WLWSMYJI"},{"period":"6 M","id":"6m","price":54,"is_active":true,"avangate_id":4731595,"bluesnap_id":3497128,"bluesnap_test_id":2425789,"paypal_id":"P-3KN103492F659032ALWYVO4I","paypal_test_id":"P-8CM77782KL3463515LWSJMTQ"},{"period":"1 M","id":"1m","price":11.95,"is_active":true,"avangate_id":4615369,"bluesnap_id":3497126,"bluesnap_test_id":2425771,"paypal_id":"P-4RN722846R664340TLWYVOHY","paypal_test_id":"P-76B29810MG184263NLWSJNVA"},{"period":"1 D","id":"1d","price":1,"is_active":true,"avangate_id":22237051,"bluesnap_id":3553444,"bluesnap_test_id":2464767}],"install_flow":{"plan_ids":["1m","free","3y"]},"payment":{"plan_ids":["1m","1y","3y"]},"join_n":{"plan_ids":["free","3y","1y","1m"]},"join_plus":{"plan_ids":["3y","2y","1y","1m"]},"paypal_client_id":{"test":"AWRYG4sa-f3ETgstktBr3Sv9o5wEGJLJAOPE5rMmsPd7YQAifcjKX-RnpsOB-b2qkJ_9k9jScNvFocnE","live":"AUH78IOQiyEAfCWkusX8x-IfUR0IvdksFiksSdewMOprggFZZzUAMFNkDLIhm07T31mfog3wEtOoMPrs"}};
     // jshint ignore:end
     if (typeof window.ga=='function')
     {
@@ -519,8 +852,8 @@ var has_window = typeof window=='object';
 var ua = /[( ]MSIE ([789]|10).\d[);]/.exec(navigator.userAgent||'');
 var default_callbacks = {
     after_init: function(){
-        define('virt_jquery_all', ['jquery', '/util/jquery_ajax_ie.js',
-            'jquery_url_parser'], function(j){ return j; });
+        define('virt_jquery_all', ['jquery', '/util/jquery_ajax_ie.js'],
+            function(j){ return j; });
     },
 };
 E.get_config = function(params, callbacks){
@@ -574,6 +907,8 @@ E.get_config = function(params, callbacks){
             return _E.config.paths[url];
         return url;
     };
+    _E.get_hola_extension_info = get_hola_extension_info;
+    _E.set_hola_extension_info = set_hola_extension_info;
     _E.init_angular_config = function(mod){
         mod.factory('$exceptionHandler', ['$log', function($log){
             var sent = [];
@@ -700,41 +1035,49 @@ function raw_perr(opt){
         xhr.send(null);
     } catch(e){ console.error('raw_perr failed '+e.stack); }
 }
+function get_hola_extension_info(){
+    if (window.hola_extension_info)
+        return window.hola_extension_info;
+    try {
+        var a;
+        if (a = document.documentElement.getAttribute('hola_extension_info'))
+            return JSON.parse(a);
+    } catch(e){}
+}
+
+function set_hola_extension_info(data){
+    if (data==null)
+    {
+        document.documentElement.removeAttribute('hola_extension_info');
+        delete window.hola_extension_info;
+        return;
+    }
+    window.hola_extension_info = data;
+    try {
+        document.documentElement.setAttribute('hola_extension_info',
+            JSON.stringify(data||''));
+    } catch(e){}
+}
 function perr_prepare(opt){
     var build = build_info();
     /* XXX antonp: better to do deep copy of opt before changing it */
     try {
         opt.uuid = opt.uuid || has_window &&
-            (window.hola_extension_info && window.hola_extension_info.uuid ||
-                localStorage.getItem('uuid'));
+            ((get_hola_extension_info()||{}).uuid ||
+            localStorage.getItem('uuid'));
     } catch(err){ console.error('perr failed '+err.stack); }
     opt.cid = opt.cid || has_window && window.hola_svc_info &&
         window.hola_svc_info.cid;
-    opt.rmt_ver = build.server_version;
     opt.ver = build.version;
     opt.browser = opt.browser||E.browser();
     opt.build = opt.build||build_str();
+    opt.info = typeof opt.info=='object' ? JSON.stringify(opt.info) : opt.info;
     return opt;
 }
 /* XXX antonp: sync pre_loader.js <-> util.js (need to rm code duplication) */
 function build_info(){
-    var rmt, mode;
-    if (has_window && window.RMT)
-        rmt = window.RMT;
-    else if (has_window && window.ui_popup)
-        rmt = window.ui_popup.R;
-    mode = rmt && rmt.be_mode;
     var zconf = has_window && window.zon_config || defaults.zon_config;
     var info = {version: zconf.ZON_VERSION};
-    if (rmt)
-    {
-        info.server_version = rmt.get('ver')+
-            (!rmt.get('inited') ? ' Not initialized' : '');
-    }
-    if (mode && mode.get('svc.version'))
-        info.svc_version = mode.get('svc.version');
-    if (mode && mode.get('plugin.enabled'))
-        info.plugin_enabled = true;
     info.makeflags = zconf.CONFIG_MAKEFLAGS;
     if (chrome)
         info.product_type = get_conf().type;
@@ -796,8 +1139,11 @@ require.onError = function(err){
     // sent perr only once for each error
     if (perr_sent.indexOf(id)<0)
     {
+        var stack = err.stack;
+        delete err.stack;
         var fh = mods.map(function(m){ return require.toUrl(m); }).join('\n');
-        E.perr({id: id, info: _mods||(''+err), bt: err.stack, filehead: fh});
+        E.perr({id: id, info: {err: _mods||(''+err), location: location.href,
+            error: err}, bt: stack, filehead: fh});
         perr_sent.push(id);
     }
     if (!err.fallback)
@@ -809,15 +1155,14 @@ return E; });
 'use strict'; /*zlint node, br*/
 (function(){
 var define;
-var is_node_ff = typeof module=='object' && module.exports;
-if (!is_node_ff)
+var is_node = typeof module=='object' && module.exports && module.children;
+if (!is_node)
     define = self.define;
 else
     define = function(setup){ module.exports = setup(); };
 define(function(){
 var E = {};
 
-// XXX arik: sync: util/user_agent.js <-> svc/cdn/pub/play_loader.js
 var win_versions = {
     '10.0': '10.0',
     '6.3': '8.1',
@@ -844,8 +1189,16 @@ var check_edge = /\bEdge\b\/(\d+)/i;
 var check_xbox = /\bxbox\b/i;
 var check_ucbrowser = /\bUCBrowser\b\/(\d+)/i;
 var check_webview = / Version\/(\d+)(\.\d)/;
+var check_chromium_edge = /\bEdg\/(\d+)/i;
 
-var is_browser = !is_node_ff && typeof window!='undefined';
+var is_browser = !is_node && typeof window!='undefined';
+
+// starting iOS13 iPad returns the same user-agent as MacOS Safari, but
+// we still need to detect it as mobile (install links to AppStore etc)
+function is_ipad_os(ua){
+    return /Macintosh/.test(ua) && typeof navigator=='object' &&
+        navigator.maxTouchPoints>1;
+}
 
 function ios_ua(ua, safari_ver){
     var res;
@@ -880,7 +1233,7 @@ function ios_ua(ua, safari_ver){
 
 function check_chromium(ua){
     if (check_webview.test(ua) || /Android/.test(ua) || / Mobile /.test(ua) ||
-        check_opera.test(ua))
+        check_opera.test(ua) || check_chromium_edge.test(ua))
     {
         return false;
     }
@@ -915,6 +1268,7 @@ E.guess_browser = function(ua){
             hola_app: check_android_cdn.test(ua),
             hola_player_app: check_hola_player_app.test(ua),
             chromium_based: chromium_based,
+            edge: check_chromium_edge.test(ua),
             opera: opera && !!opera[1],
             opera_version: opera ? opera[1] : undefined,
             ucbrowser: ucbrowser && !!ucbrowser[1],
@@ -980,6 +1334,8 @@ E.browser_to_string = function(browser){
         s += ' chromium_based';
     if (browser.samsung_browser)
         s += ' samsung';
+    if (browser.edge)
+        s += ' edge';
     if (browser.opera)
     {
         s += ' opera';
@@ -1025,10 +1381,17 @@ E.guess = function(ua, platform){
     }
     if (/Windows Phone/.exec(ua))
         return {os: 'winphone', mobile: true};
-    if (res = /Macintosh.*; (?:Intel|PPC) Mac OS X (\d+[._]\d+)/.exec(ua))
-        return {os: 'macos', version: res[1].replace('_', '.'), mobile: false};
     if (/Macintosh/.exec(ua))
+    {
+        if (is_ipad_os(ua))
+            return {os: 'ios', mobile: true};
+        if (res = /Macintosh.*; (?:Intel|PPC) Mac OS X (\d+[._]\d+)/.exec(ua))
+        {
+            return {os: 'macos', version: res[1].replace('_', '.'),
+                mobile: false};
+        }
         return {os: 'macos', mobile: false};
+    }
     if (/Web0S.*SmartTV/.exec(ua))
     {
         return {os: 'webos', version: /Chrome/.test(ua) ? '3' : '2',
@@ -1068,6 +1431,8 @@ E.guess_device = function(ua){
     ua = ua || (is_browser ? navigator.userAgent : '');
     if (res = /(iPhone|iPad|iPod)/.exec(ua))
         return {device: res[1].toLowerCase()};
+    if (/Macintosh/.test(ua))
+        return {device: is_ipad_os(ua) ? 'ipad' : 'mac'};
     return {};
 };
 
@@ -1086,72 +1451,15 @@ E.support_hover = function(){
 };
 return E; }); }());
 
-                'use strict'; /*jslint node:true*//*global define*/
-        let _data_versions_js = {
-    "windows": "1.127.714",
-    "windows_beta": "1.130.692",
-    "windows_0_percent": "1.130.692",
-    "windows_5_percent": "1.127.714",
-    "windows_20_percent": "1.127.714",
-    "windows_50_percent": "1.127.714",
-    "opera": "1.130.232",
-    "chrome": "1.130.482",
-    "chrome_dll": "1.7.333",
-    "torch_dll": "1.94.972",
-    "firefox_bootstrap_last": "1.31.414",
-    "firefox_signed0": "1.72.142",
-    "firefox_web_ext": "1.130.686",
-    "firefox_web_ext_self": "1.107.60",
-    "android": "1.129.677",
-    "android_5_percent": "1.129.677",
-    "android_premium": "1.129.677",
-    "android_premium_5_percent": "1.126.92",
-    "lum_android_sdk": "1.130.443",
-    "lum_android_sdk_5_percent": "1.130.443",
-    "lum_windows_sdk": "1.129.29",
-    "lum_windows_sdk_beta": "1.101.793",
-    "lum_windows_sdk_5_percent": "1.129.29",
-    "lum_net_svc": "1.129.929",
-    "lum_net_svc_beta": "1.129.929",
-    "lum_net_svc_5_percent": "1.129.929",
-    "lum_net_svc_macos": "1.127.496",
-    "lum_net_svc_macos_beta": "1.127.496",
-    "lum_net_svc_macos_5_percent": "1.127.496",
-    "android_vpn_api": "1.122.712",
-    "android_vpn_api_beta": "1.121.410",
-    "android_vpn_api_5_percent": "1.122.712",
-    "android_va": "1.130.249",
-    "android_va_5_percent": "1.130.443",
-    "android_phone_0_percent": "1.90.363",
-    "android_lum_va": "1.116.529",
-    "android_lum_va_md5": "10445955-2ede46d4",
-    "android_lum_va_5_percent": "1.116.529",
-    "android_lum_va_5_percent_md5": "10403095-de713a88",
-    "android_gps": "1.130.249",
-    "android_phone": "1.90.363",
-    "android_gps_5_percent": "1.130.249",
-    "ios": "2.06",
-    "chromium_br": "72.0.3626.119.1",
-    "web_installer": "1.0.7016.22981",
-    "chrome_adblock": "1.21.624",
-    "chrome_va": "1.103.95",
-    "lumext_chrome": "1.130.677",
-    "lumext_chrome_www": "1.56.287",
-    "mac": "1.0.22",
-    "mac_signature": "MC0CFCpM4+WbDnqLIw4dpY7M/97jnDxTAhUA1bh1dweIDdYSax/80PUOs7RUr48=",
-    "mac_svc": "1.129.427",
-    "cdn_hap_hls": "1.0.150",
-    "cdn_hola_player": "1.0.165",
-    "lum_local": "1.130.708",
-    "lum_local_md5": "15fa69afb4e30450fb26b560b03a0d0e"
-}
-;
-        if (typeof define=='function')
-            define('/svc/versions.js', _data_versions_js);
-        else
-            module.exports = _data_versions_js;
+        define('/svc/versions.js', {"windows":"1.160.790","windows_beta":"1.160.790","windows_0_percent":"1.160.790","windows_5_percent":"1.160.790","windows_20_percent":"1.160.790","windows_50_percent":"1.160.790","opera":"1.157.429","chrome":"1.161.72","chrome_dll":"1.7.333","torch_dll":"1.94.972","firefox_bootstrap_last":"1.31.414","firefox_signed0":"1.72.142","firefox_web_ext":"1.160.369","firefox_web_ext_self":"1.107.60","edge":"1.160.731","android":"1.159.830","android_5_percent":"1.160.972","android_premium":"1.159.830","android_premium_5_percent":"1.160.972","lum_android_sdk":"1.165.320","lum_android_sdk_5_percent":"1.166.21","lum_windows_sdk":"1.156.145","lum_windows_sdk_beta":"1.101.793","lum_windows_sdk_5_percent":"1.156.145","lum_macos_sdk":"1.160.80","lum_net_svc":"1.148.602","lum_net_svc_beta":"1.148.602","lum_net_svc_5_percent":"1.148.602","lum_net_svc_macos":"1.139.913","lum_net_svc_macos_beta":"1.139.913","lum_net_svc_macos_5_percent":"1.139.913","android_vpn_api":"1.122.712","android_vpn_api_beta":"1.121.410","android_vpn_api_5_percent":"1.122.712","android_va":"1.160.867","android_va_5_percent":"1.160.867","android_phone_0_percent":"1.90.363","android_lum_va":"1.116.529","android_lum_va_md5":"10445955-2ede46d4","android_lum_va_5_percent":"1.116.529","android_lum_va_5_percent_md5":"10403095-de713a88","android_gps":"1.160.831","android_phone":"1.90.363","android_gps_25_percent":"1.160.831","ios":"2.17","hola_ios":"1.159.727","chromium_br":"79.0.3945.79.1","web_installer":"1.0.7292.30340","chrome_adblock":"1.160.654","chrome_va":"1.103.95","lumext_chrome":"1.155.475","lumext_chrome_www":"1.56.287","mac":"1.0.25","mac_signature":"MC4CFQDGECXpatJb9J9M83CRpB+gz5D5ggIVAIX2RsHwy2tedvwvOd/CKOEyFYYH","mac_svc":"1.137.816","cdn_hap_hls":"1.0.150","cdn_hola_player":"1.0.165","lum_local":"1.156.236","lum_local_md5":"1.143.567"});
         // LICENSE_CODE ZON
-'use strict'; /*jslint browser:true*/
+'use strict'; /*jslint node:true, browser:true*/
+var define;
+var is_node = typeof module=='object' && module.exports;
+if (is_node)
+    define = require('../../../util/require_node.js').define(module, '..');
+else
+    define = self.define;
 define('/www/hola/pub/site_load.js', ['/util/user_agent.js', 'hola_opt',
     '/www/util/pub/inc_config.js', '/svc/versions.js'],
     function(user_agent, hopt, inc_config, hola_versions){
@@ -1168,7 +1476,7 @@ E.GDL = {
         cls: 'chrome',
         url: 'https://chrome.google.com/webstore/detail/hola-better-internet'
         +'/gkojfkhlekighikafcpjkiklfbnlmeio',
-        adblock_url: 'https://chrome.google.com/webstore/detail/hola-adblock'
+        adremover_url: 'https://chrome.google.com/webstore/detail/hola-adblock'
         +'/lalfpjdbhpmnhfofkckdpkljeilmogfl',
         va_url: 'https://chrome.google.com/webstore/detail/hola-video-'
         +'accelerator/chgpmaaockmdehmidghebcjafhihlgha',
@@ -1178,11 +1486,14 @@ E.GDL = {
         url: 'https://addons.opera.com/en/extensions/details/hola-better-'
         +'internet/',
         id: 'ekmmelpnmfdegjhnmadddcfjcahpajnm',
-    }, cws_plugin: {
-        name: 'Chrome',
-        cls: 'chrome',
-        url: 'https://chrome.google.com/webstore/detail/hola-better-internet'
-        +'/mhcmfkkjmkcfgelgdpndepmimbmkbpfp',
+    }, edge: {
+        name: 'Edge',
+        cls: 'edge',
+        url: 'https://microsoftedge.microsoft.com/addons/detail/'
+            +'nfjgmgjhcihmkobljembcfodkajehoej',
+        adremover_url: 'https://microsoftedge.microsoft.com/addons/detail/'
+            +'pejdjolhgfenbjfjoejgllffflbbgecm',
+        id: 'nfjgmgjhcihmkobljembcfodkajehoej',
     }, android: {
         name: 'Android',
         cls: 'android',
@@ -1211,11 +1522,11 @@ E.GDL = {
     }, xbox: {
         name: 'Xbox/Xbox 360/Xbox One',
         cls: 'xbox',
-        url: '/plus?ref=xbox',
+        url: '/plus_setup?platform=console&version=xbox',
     }, ps: {
         name: 'Playstation/Playstation 2/Playstation 3/Playstation 4',
         cls: 'ps',
-        url: '/plus?ref=playstation',
+        url: '/plus_setup?platform=console&version=ps4',
     },
 };
 function ga_send(type, category, action, label, non_interaction){
@@ -1229,13 +1540,8 @@ E.get_inline_url = function(url){
     var tokens = /\/(?:hola-adblock|hola-better-internet|hola-video-accelerator)/gi;
     return url.replace(tokens, ''); };
 E.inline_install_url = E.get_inline_url(E.GDL.chrome.url);
-E.inline_adblock_url = E.get_inline_url(E.GDL.chrome.adblock_url);
+E.inline_adremover_url = E.get_inline_url(E.GDL.chrome.adremover_url);
 E.inline_va_url = E.get_inline_url(E.GDL.chrome.va_url);
-
-function use_new_setup(_hopt, sys){
-    return _hopt.enable_new_installer &&
-        ['7', '8', '8.1', '10.0'].indexOf(sys.version)!=-1;
-}
 
 function is_agreed(_hopt, opt){
     return opt && opt.agree && (_hopt.www_hola.enable_install_exe_agreed_win
@@ -1243,35 +1549,23 @@ function is_agreed(_hopt, opt){
 }
 
 E.get_exe_link = function(_hopt, sys, versions, opt){
-    if (sys.os!='macos' && is_agreed(_hopt, opt))
-    {
-        return '//hola.org/static/'+versions.web_installer
-            +'/Hola-Setup-Agreed.exe';
-    }
-    var static_path = use_new_setup(_hopt, sys) ?
-        '/setup/'+versions.web_installer : '';
-    return '//'+E.cdn4+'/static'+static_path+'/'+
-        E.get_exe_filename(_hopt, sys, versions, opt);
+    var filename = E.get_exe_filename(_hopt, sys, versions, opt);
+    if (sys.os=='macos')
+        return '//'+E.cdn4+'/static/'+filename;
+    if (is_agreed(_hopt, opt))
+        return '//hola.org/static/'+versions.web_installer+'/'+filename;
+    return '//'+E.cdn4+'/static/setup/'+versions.web_installer+'/'+filename;
 };
 
-E.get_exe_filename = function(hopts, sys, versions, opt){
+E.get_exe_filename = function(_hopt, sys, versions, opt){
     if (sys.os=='macos')
         return 'HolaVPN-'+versions.mac+'.dmg';
-    return E.get_windows_exe_filename(hopts, sys, versions, opt);
-};
-
-E.get_windows_exe_filename = function(_hopt, sys, versions, opt){
-    var prefix = 'Hola-Setup';
-    if (use_new_setup(_hopt, sys))
-        return prefix+'.exe';
-    var suffix = '-'+versions.windows+'.exe';
-    if (sys.arch=='64')
-        return prefix+'-x64'+suffix;
-    return prefix+suffix;
+    return is_agreed(_hopt, opt) ? 'Hola-Setup-Agreed.exe' : 'Hola-Setup.exe';
 };
 
 var b = user_agent.guess_browser();
-E.select_dl = function(install_cws_plugin, flow, premium){
+// XXX arik: simplify select_dl api and rm obsolete xxx_cws_plugin
+E.select_dl = function(xxx_cws_plugin, flow, premium){
     var os = user_agent.guess().os;
     if (os=='android')
     {
@@ -1292,35 +1586,11 @@ E.select_dl = function(install_cws_plugin, flow, premium){
     {
         if (os=='windows')
             return E.GDL.windows;
-        return install_cws_plugin ? E.GDL.cws_plugin : E.GDL.chrome;
+        return E.GDL.chrome;
     }
     if (os=='macos')
         return E.GDL.mac;
     return E.GDL.windows;
-};
-
-E.install_chrome = function(event, url, inline_url){
-    if (!window.chrome||!window.chrome.webstore||+b.version<31)
-        return;
-    if (event)
-        event.preventDefault();
-    if (E.install_chrome.pending)
-        return;
-    if (E.redirect_to_store_needed())
-        return location.href = url;
-    E.install_chrome.pending = true;
-    function success(){}
-    function error(msg, code){
-        E.install_chrome.pending = false;
-        if (msg=='User cancelled install')
-            return;
-        location.href = url;
-    }
-    window.chrome.webstore.install(inline_url, success, error);
-};
-
-E.install_chrome_ext = function(event){
-    E.install_chrome.call(this, event, E.GDL.chrome.url, E.inline_install_url);
 };
 
 E.install_chrome_adblock = function(event){
@@ -1328,12 +1598,7 @@ E.install_chrome_adblock = function(event){
     {
         if (event)
             event.preventDefault();
-        location.href='/adblocker';
-    }
-    else
-    {
-        E.install_chrome.call(this, event, E.GDL.chrome.adblock_url,
-            E.inline_adblock_url);
+        location.href='/adremover';
     }
 };
 
@@ -1344,11 +1609,6 @@ E.install_chrome_va = function(event){
             event.preventDefault();
         location.href='/accelerator';
     }
-    else
-    {
-        E.install_chrome.call(this, event, E.GDL.chrome.va_url,
-            E.inline_va_url);
-    }
 };
 
 E.init_simple_download = function(){
@@ -1356,7 +1616,6 @@ E.init_simple_download = function(){
     E.init_simple_download_by_class('detect-install2-browser');
     E.init_simple_download_by_class('detect-install2-adblock');
     E.init_simple_download_by_class('detect-install2-accelerator');
-    E.init_simple_download_by_class('detect-install2-windows');
 };
 
 function mousedown_cb(evt){
@@ -1374,9 +1633,6 @@ E.init_simple_download_by_class = function(_class){
     var is_adblock = /adblock/.test(_class) && b.browser=='chrome';
     var is_va = /accelerator/.test(_class) && b.browser=='chrome';
     var product = is_adblock ? 'ab' : is_va ? 'va' : 'vpn';
-    var exe_link;
-    if (/windows/.test(_class))
-        exe_link = E.get_exe_link(hopt, user_agent.guess(), hola_versions);
     var tag;
     for (var i=0; i<tags.length; i++)
     {
@@ -1386,33 +1642,18 @@ E.init_simple_download_by_class = function(_class){
         {
             continue;
         }
-        if (exe_link)
-        {
-            tag.href = exe_link;
-            tag.setAttribute('data-simple_download_initialized', true);
-            continue;
-        }
         tag.setAttribute('data-product', tag.getAttribute('data-product')
             ||product);
         tag.setAttribute('data-source', tag.getAttribute('data-source')
             ||tag.getAttribute('id')||'');
         tag.addEventListener('mousedown', mousedown_cb, false);
         if (is_adblock)
-            tag.href = E.GDL.chrome.adblock_url;
+            tag.href = E.GDL[b.edge ? 'edge' : 'chrome'].adremover_url;
         else if (is_va)
             tag.href = E.GDL.chrome.va_url;
         else
             tag.href = dl.url;
         tag.rel = dl.cls;
-        if (dl.cls=='chrome'||is_adblock||is_va)
-        {
-            var install_chrome = E.install_chrome_ext;
-            if (is_adblock)
-                install_chrome = E.install_chrome_adblock;
-            else if (is_va)
-                install_chrome = E.install_chrome_va;
-            tag.addEventListener('click', install_chrome, false);
-        }
         tag.setAttribute('data-simple_download_initialized', true);
     }
     init_reinstall_hover_behavior(_class);
@@ -1434,9 +1675,6 @@ function init_reinstall_hover_behavior(_class){
 E.uninit_simple_download = function(a){
     for (var i=0; i<a.length; i++)
     {
-        a[i].removeEventListener('click', E.install_chrome_ext, false);
-        a[i].removeEventListener('click', E.install_chrome_adblock, false);
-        a[i].removeEventListener('click', E.install_chrome_va, false);
         a[i].removeEventListener('mousedown', mousedown_cb, false);
         a[i].removeAttribute('data-simple_download_initialized');
     }
@@ -1453,32 +1691,28 @@ return E; });
 </script>
 
 
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NH398RP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <script>
-  
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  function hola_get_cookie(name){
-      var match = document.cookie.match(new RegExp('hola_'+name+'=([^;]*)'));
-      if (match && match[1])
-          return match[1];
-  }
-
-  window.ga('create', hola_get_cookie('ga_id')||'UA-36775596-1', 'hola.org');
-
-  window.ga('send', 'pageview');
 </script>
 
 <script src="//cdn4.hola.org/require.js?md5=87352-b27ac35d"></script>
 <script>
 // LICENSE_CODE ZON
-'use strict'; /*jslint browser:true*/
+'use strict'; /*jslint node:true, browser:true*/
+var define;
+var is_node = typeof module=='object' && module.exports;
+if (is_node)
+    define = require('../../../util/require_node.js').define(module, '..');
+else
+    define = self.define;
 define('hola_opt', function(){
     var opt;
     // jshint ignore:start
-    opt = {"version":"1.130.732","user_ip":3488737194,"user_ip_vpn":false,"user_isp":"Internet Archive","user_country":"US","user_city":{"city":"Phoenix","region":"AZ","postal_code":"85050","latitude":33.6861,"longitude":-112.0007,"tz":"America/Phoenix"},"notify_upgrade_min_version":"1.2.676","enable_new_installer":true,"www_hola":{"faq_support_active":false,"purechat_active":false,"vpn_signup_require":false,"download_flow":"blue","svc_check":false,"exclude_rating":[],"pages_override":{"/plus.html":"order.html","/premium.html":"order.html","/trialsignup.html":"order.html","/uninstall.html":"uninstall_premium.html"},"enable_new_installer":true,"www_hide_plans":false,"homepage_plus_top":true,"plus_timer_sec":34749,"price_widget":0,"price_widget_6m":1,"test_placebo":0,"check_agree_ts":false,"disable_silent_install":false,"disable_install_exe_flow_win":false,"disable_install_exe_flow_mac":false,"new_login":true,"new_login_layout":true,"enable_install_exe_agreed_win":true}};
+    opt = {"version":"1.161.131","user_ip":3488737370,"user_ip_vpn":false,"user_isp":"Internet Archive","user_country":"US","user_city":{"city":"","region":"","postal_code":"","latitude":37.751,"longitude":-97.822,"tz":"America/Chicago"},"notify_upgrade_min_version":"1.2.676","enable_new_installer":true,"www_hola":{"faq_support_active":false,"vpn_signup_require":false,"download_flow":"blue","svc_check":false,"exclude_rating":[],"pages_override":{"/plus.html":"join_n.html","/premium.html":"join_n.html","/trialsignup.html":"join_n.html","/uninstall.html":"uninstall_premium.html","/check_your_email.html":"check_your_email2.html","/thank_you.html":"thank_you3.html"},"enable_new_installer":true,"www_hide_plans":true,"homepage_plus_top":true,"plus_timer_sec":34749,"price_widget":0,"price_widget_6m":1,"test_placebo":0,"check_agree_ts":false,"disable_silent_install":false,"disable_install_exe_flow_win":false,"disable_install_exe_flow_mac":false,"new_login_layout":true,"enable_install_exe_agreed_win":true,"main_install_flow":"join2","video_chat":{"enable":false,"match":"popular.*","track_mouse":true,"type":"popup3","position":{"position":"center","x":"10px","y":"10px"},"texts":{"title_text":"Chat with us for a quick introduction","bn_text":"Chat with us","bn_voice_text":"Chat with us"}},"www_react":{},"react_ssr":{},"show_cookies_alert":true,"hotjar":{"match":["/vpn/.*"]},"adroll":{"enabled":false},"email_blacklist":[{"ref":{},"email":{}},{"email":{}},{"email":{}},{"cc_country":"MX","email_types":["basic"]}],"gtm":{"enabled":true,"id":"GTM-NH398RP","test_id":""},"promo_banner":{"enabled":false,"timer":3600000},"popup_banner":{"enabled":false,"pages":["^/$","^/plus$","^/unblock/popular"]}},"login_sync":{"enabled":true,"sync_restricted":true,"test_accounts":["basic/volodymyr@hola.org","facebook/1964549193837211"]},"all_plans":[{"period":"3 Y","id":"3y_143_64","bluesnap_id":3505426,"price":143.64,"is_active":false},{"period":"2 Y","id":"2y_119_76","bluesnap_id":3505430,"price":119.76,"is_active":false},{"period":"1 Y","id":"1y_95_88","bluesnap_id":3249287,"price":95.88,"is_active":false},{"period":"3 Y","id":"3y","price":107.55,"is_active":true,"avangate_id":16241620,"bluesnap_id":3497134,"bluesnap_test_id":2425795},{"period":"2 Y","id":"2y","price":95.75,"is_active":true,"avangate_id":14166685,"bluesnap_id":3497132,"bluesnap_test_id":2425793},{"period":"1 Y","id":"1y","price":83.88,"is_active":true,"avangate_id":4621810,"bluesnap_id":3497130,"bluesnap_test_id":2425791,"paypal_id":"P-5GP12483RR459984DLWYVPHI","paypal_test_id":"P-88U39284PA049131WLWSMYJI"},{"period":"6 M","id":"6m","price":54,"is_active":true,"avangate_id":4731595,"bluesnap_id":3497128,"bluesnap_test_id":2425789,"paypal_id":"P-3KN103492F659032ALWYVO4I","paypal_test_id":"P-8CM77782KL3463515LWSJMTQ"},{"period":"1 M","id":"1m","price":11.95,"is_active":true,"avangate_id":4615369,"bluesnap_id":3497126,"bluesnap_test_id":2425771,"paypal_id":"P-4RN722846R664340TLWYVOHY","paypal_test_id":"P-76B29810MG184263NLWSJNVA"},{"period":"1 D","id":"1d","price":1,"is_active":true,"avangate_id":22237051,"bluesnap_id":3553444,"bluesnap_test_id":2464767}],"install_flow":{"plan_ids":["1m","free","3y"]},"payment":{"plan_ids":["1m","1y","3y"]},"join_n":{"plan_ids":["free","3y","1y","1m"]},"join_plus":{"plan_ids":["3y","2y","1y","1m"]},"paypal_client_id":{"test":"AWRYG4sa-f3ETgstktBr3Sv9o5wEGJLJAOPE5rMmsPd7YQAifcjKX-RnpsOB-b2qkJ_9k9jScNvFocnE","live":"AUH78IOQiyEAfCWkusX8x-IfUR0IvdksFiksSdewMOprggFZZzUAMFNkDLIhm07T31mfog3wEtOoMPrs"}};
     // jshint ignore:end
     if (typeof window.ga=='function')
     {
@@ -1491,8 +1725,8 @@ define('hola_opt', function(){
 </script>
 
     <script>
-  require(['//cdn4.hola.org/www/hola/pub/config.js?md5=108490-57709b59'], function(config){
-      config.init({"ver":"1.130.732","cdn_path":"//ajax.cdnjs.com/ajax/libs"});
+  require(['//cdn4.hola.org/www/hola/pub/config.js?md5=114313-0f9f8a40'], function(config){
+      config.init({"ver":"1.161.131","cdn_path":"//ajax.cdnjs.com/ajax/libs"});
       require(['/www/hola/pub/site.js'], function(site){
           site.generic_page({"country_code":"US","template":"/legal/privacy.html"});
       });
