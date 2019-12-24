@@ -1,111 +1,119 @@
-> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330175722id_/https%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224172817id_/https%3A//www.amazon.ae/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D201909010%26ref_%3Dfooter_privacy) for the most accurate reproduction.*
 
-# Souq.com | Privacy policy
+# amazon.ae Help: Amazon Privacy Notice
 
-**Souq.com Privacy Policy**
+Last updated: May 1, 2019.
 
-**Introduction**
+Souq.com FZ LLC and/or its affiliates ("Amazon") knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.ae, you are accepting the practices described in this Privacy Notice.**
 
-  1. Our privacy policy describes the ways in which we collect, store, use and protect your personal information and it is important for you to review this privacy policy. By "personal information", we mean information that can be associated with a specific person and can be used to identify that person.
-  2. We do not consider anonymised information to constitute personal information, as it cannot be used to identify a specific person. We collect personal information from you when you use souq.com or its related websites and services ("Site") (including, without limitation, when you buy and sell items or when you telephone or email our customer support team). By providing us with your personal information, you expressly consent to us processing your personal information in accordance with the terms of our privacy policy.
-  3. We may amend our privacy policy at any time by posting a revised version on the Site. The revised version will be effective at the time we post it and, following such posting, your continued use of the Site will constitute your express consent to us continuing to process your personal information in accordance with the terms of our revised privacy policy.
-  4. We would encourage you to check the Site regularly for the announcement of any amendments to our privacy policy.
-
-
-
-**Our privacy policy covers the following topics:**
-
-  1. our collection of your personal information
-  2. our use of your personal information
-  3. your use of your and other users’ personal information
-  4. accessing, reviewing and amending your personal information
-  5. third party website links
-  6. cookies
-  7. no spam or spoof emails
-  8. protecting your personal information
-  9. how you can contact us about privacy questions
+  * What Personal Information About Customers Does Amazon Gather?
+  * What About Cookies?
+  * Does Amazon Share the Information It Receives?
+  * How Secure Is Information About Me?
+  * Which Information Can I Access?
+  * What About Third Party Advertisers and Links to Other Websites?
+  * What Choices Do I Have?
+  * Are Children Allowed to Use Amazon.ae?
+  * Conditions of Use & Sale, Notices, and Revisions
+  * Examples of Information Collected
 
 
 
-**Our collection of your personal information**
+## What Personal Information About Customers Does Amazon Gather? 
 
-  1. As part of your registration on or use of the Site, you will be asked to provide us with certain personal information, such as your name, shipping address, email address and/or telephone number and other similar information as well as some additional information about you such as your date of birth or other identifying information.  
-Additionally, in order for us to verify your identity, we may need to request from you valid proof of identification (e.g. in the form of a copy of your passport, resident’s visa or permit, national ID card and/or driver’s license).
-  2. We will also need to collect selected financial information from you, such as your credit card and/or bank account details.
-  3. You will need to input this financial information into the "My Account" section of the Site.   
-We use this financial information for billing purposes and for the fulfilment of your orders.   
-Following your registration on the Site, you should not post any personal information (including any financial information) anywhere on the Site other than on the My Account section of the Site.   
-Restricting the posting of personal information to the My Account section of the Site protects you from the possibility of fraud or identity theft. The posting by you of any personal information anywhere on the Site other than on the My Account section of the Site may lead to the suspension of your use of the Site.
-  4. We will collect transactional information based on your activities using the Site (such as buying and selling items).
-  5. Please note that we may use your Internet protocol (or IP) address (which is a unique number assigned to your computer server or your Internet service provider (or ISP)) to analyse user trends and improve the administration of the Site.
-  6. We may also collect information about your computer (for example, browser type) and navigation information (for example, the pages you visit on the Site) along with the times that you access the Site.
+The information we learn from customers helps us personalize and continually improve your Amazon experience. Here are the types of information we gather.
+
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.ae or advertisements and other content served by or on behalf of Amazon on other Web sites. Click here to see examples of the information we receive.
+  * **Mobile** : When you download or use apps created by Amazon or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, click here.
+  * **E-mail Communications** : To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.ae/gp/cpc/homepage?ie=UTF8&ref=gss_to_cpc&#). 
+  * **Information from Other Sources** : We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
 
 
-Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey. We may also collect feedback ratings and other comments relating to your use of the Site. Where we aggregate personal information for statistical purposes, such aggregated personal information shall be anonymized.
+## What About Cookies?
 
-**Our use of your personal information**
-
-We share customer information only as described below and with Amazon.com, Inc. and its subsidiaries.
-
-  1. We use your personal information to provide services and customer support to you; to measure and improve our services to you; to prevent illegal activities and implement our user agreement with you ("User Agreement"); troubleshoot problems; collect fees; provide you with promotional emails and verify information you give us with third parties. For example, we may share some of the personal information you give us with banks or credit card authorisation, processing and verification services or with third parties for fraud screening purposes.
-  2. Though we make every effort to preserve your privacy, we may need to disclose your personal information to law enforcement agencies, government agencies or other third parties where we are compelled so to do by court order or similar legal procedure; where we are required to disclose your personal information to comply with law; where we are cooperating with an ongoing law enforcement investigation or where we have a good faith belief that our disclosure of your personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate a possible violation of our User Agreement and other agreements; or protect the rights, property, or safety of Souq, our users or others.
-  3. In the event of a sale of Souq.com FZ-LLC, any of its affiliates and subsidiaries or any related business assets, your personal information may be disclosed to any potential purchaser for the purposes of the continued provision of the Site or otherwise in relation to any such sale. We may share your personal information with our other group companies for the purposes outlined in this privacy policy.   
-This contact information will be the personal information provided by you to us on registration and, as a result, should always be kept up-to-date.
-  4. Additionally, information relating to items you are buying or selling will be displayed on the Site. This information can include details of your user ID, feedback ratings and associated comments relating to your use of the Site. Otherwise, we will only disclose your personal information to a third party with your express permission.
-  5. We do not sell or rent any of your personal information to third parties in the normal course of doing business and will only share your personal information with third parties in accordance with this privacy policy.
-  6. By registering on or using the Site, you give us your express consent to receive promotional emails about our services and emails announcing changes to, and new features on, the Site. If, at any time, you decide that you do not wish to receive any such emails, you can opt out of receiving such emails by clicking on the link at the bottom of any of the emails or by going to the My Account section of the Site.
-  7. Additionally, we do use comments made by you about the Site for marketing purposes and by making such comments you expressly consent to our using such comments for marketing purposes.
+  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as [Recommended for You](https://www.amazon.ae/gp/yourstore/card?noRecsRedirect=1), personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits.
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon products and services that require you to Sign in. 
 
 
 
-**Your use of your and other users’ personal information.**
+## Does Amazon Share the Information It Receives? 
 
-  1. Site members may need to share personal information (including financial information) with each other to complete transactions on the Site. You should respect, at all times, the privacy of other Site members.
-  2. We cannot guarantee the privacy of your personal information when you share personal information with other Site members so you should always seek information on the privacy and security policies of any other Site members with whom you are transacting prior to sharing any of your personal information with another Site member.
-  3. This privacy policy does not cover your release of your personal information to another Site member.
-  4. You agree to use any personal information received from another Site member in relation to a transaction on the Site solely in relation to such transaction and shall not use the information received from another Site member for any other purposes (except with the express consent of the other Site member).
-  5. You acknowledge and agree that you shall use personal information received from another Site member in accordance with all applicable laws.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-
-
-**Accessing, reviewing and amending your personal information**
-
-  1. You can access and review your personal information in the My Account section of the Site. If your personal information changes in any way or is incorrectly presented on the Site you should immediately update or correct your personal information (as applicable) by accessing the My Account section on the Site or, alternatively, by contacting our customer support team. The "Customer Support" link at the top of each Site webpage contains our customer support email and phone details.
-  2. Please note that we shall retain your personal information during and following the end of your use of the Site as required to comply with law, for technical troubleshooting requirements, to prevent fraud, to assist in any legal investigations and to take any other actions otherwise permitted by law.
+  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.ae or sell offerings to you at Amazon.ae. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
+  * **Third-Party Service Providers** : We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Promotional Offers** : Sometimes we send offers to selected groups of Amazon customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences](https://www.amazon.ae/gp/cpc/homepage?ie=UTF8&ref=gss_to_cpc&#). 
+  * **Business Transfers** : As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  * **Protection of Amazon and Others** : We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use & Sale](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201909000) and other agreements; or protect the rights, property, or safety of Amazon, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+  * **With Your Consent** : Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
 
 
-**Third party website links**
+## How Secure Is Information About Me?
 
-The Site may contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage you when you leave the Site to read the privacy statements of each and every website you visit if you intend to provide personal information to that website. Our privacy policy applies solely to your personal information that we collect on the Site.
-
-**Cookies**
-
-  1. Like many websites, the Site uses 'cookie' technology (small computer files placed on your computer’s hard drive). When you go to particular website pages on the Site, the cookie identifies your browser with a unique, random number.
-  2. The cookies we use do not reveal any personal information about you. Cookies help us improve your experience of the Site and also help us understand which parts of the Site are the most popular. You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site.
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.[ Click here](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201945360) for more information on how to sign off. 
 
 
 
-**No spam or spoof emails**
+## Which Information Can I Access? 
 
-We do not tolerate spam. To report Site related spam or spoof emails, please forward the email to spam@souq.com or spoof@souq.com. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content.
+Amazon gives you access to a broad range of information about your account and your interactions with Amazon.ae for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. 
 
-**Protecting your personal information**
+## What About Third Party Advertisers and Links to Other Websites?
 
-  1. By providing us with personal information, you consent to the transfer of your personal information outside of the Kingdom of Saudi Arabia. We take every precaution to safeguard all your personal information from unauthorized access, use or disclosure.
-  2. All personal information is encrypted. However, the Internet is not a secure medium and we cannot guarantee the privacy of your personal information.
-  3. You must enter your username and password each time you want to access your account or make transactions on the Site.
-  4. Choose your password carefully using unique numbers, letters and special characters.
-  5. Never share your username and password with anyone.
-  6. If you are concerned that your username or password has been compromised, please contact our customer support team immediately and ensure you change your password by logging onto the My Account section of the Site.
+Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.ae, including personalized or interest-based ads, please read our[ Interest-Based Ads](https://www.amazon.ae/gp/help/customer/display.html?nodeId=202075050) policy.
+
+## What Choices Do I Have?
+
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon features as [Your Profile](https://www.amazon.ae/gp/profile/onboard?ie=UTF8&ref=pc_ob), [Wish Lists](https://www.amazon.ae/hz/wishlist/ls) and [Customer Reviews](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201929990).
+  * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the prior version for our records.
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.ae/gp/cpc/homepage?ie=UTF8&ref=gss_to_cpc&#). (If you do not want to receive [Conditions of Use & Sale](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201909000) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.ae, and it is your responsibility to review them for changes.)
+  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.ae/adprefs/ref=hp_468496_advertisingpref2). 
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.ae's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon products and services that require you to Sign in.
 
 
 
-**How you can contact us about privacy questions**
+## Are Children Allowed to Use Amazon.ae? 
 
-If you have questions or concerns about our collection and use of your personal information, please contact our customer support team at the "Customer Support" link at the top of any Site webpage.
+Amazon does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 21, you may use Amazon.ae only with the involvement of a parent or guardian. 
 
-Souq.com FZ LLC, Riyadh, Saudi Arabia - P.O.Box 250414 - Tel 920002302 
+##  Conditions of Use & Sale, Notices, and Revisions
 
-**Last update: September 20, 2018**
+If you choose to visit Amazon.ae, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use & Sale](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201909000), including limitations on damages, resolution of disputes, and application of the law of the Dubai International Finance Center. If you have any concern about privacy at Amazon.ae, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use & Sale](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201909000) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+Related Practices and Information
+
+  * [Conditions of Use and Sale](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201909000)
+  * [Help department](https://www.amazon.ae/gp/help/customer/display.html?nodeId=508510&ref_=nav_top_cs_help)
+  * [Most Recent Purchases](https://www.amazon.ae/gp/your-account/order-history?)
+  * [Your Profile and Community Guidelines](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201929730)
+
+
+
+##  Examples of Information Collected
+
+**Information You Give Us**
+
+You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Amazon.ae or one of our third-party sellers; provide information in [Your Account](https://www.amazon.ae/your-account) (and you might have more than one if you have used more than one e-mail address when shopping with us) or [Your Profile;](https://www.amazon.ae/gp/profile/onboard?ie=UTF8&ref=pc_ob) communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services; compile [Wish Lists](https://www.amazon.ae/hz/wishlist/ls); other community features; provide and rate [Reviews](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201929990). As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in[ Your Profile](https://www.amazon.ae/gp/profile/onboard?ie=UTF8&ref=pc_ob); information and documents regarding identity and standing; and financial information.
+
+**Automatic Information**
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like [Top Sellers](https://www.amazon.ae/gp/bestsellers); the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call us . 
+
+We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+
+**Mobile**
+
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices,[ click here](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201909310). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer.
+
+**Information from Other Sources**
+
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
+
+**Information You Can Access**
+
+Examples of information you can access easily at Amazon.ae include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, and address book); payment settings (including credit card information and gift card balances); e-mail notification settings (including Deliveries, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); Wish Lists; Seller accounts; and Your Profile (including your product Reviews, Recommendations, lists, Reminders, personal profile, and Wish List). 
