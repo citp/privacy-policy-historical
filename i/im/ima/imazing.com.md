@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imazing.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611161939id_/https%3A//imazing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imazing.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224221441id_/https%3A//imazing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iMazing
 
@@ -161,6 +161,13 @@ _Shared Data:_ e-mail, name if submitted when purchasing, purchased product name
 [Mailchimp's Privacy Policy](http://mailchimp.com/legal/privacy/)  
 _Opting Out:_ Unsubscribe [here.](http://digidna.us4.list-manage1.com/unsubscribe?u=9820780b9ca506ece36277a8c&id=112355e150)
 
+  6. **Microsoft App Center**
+
+We use Microsoft App Center to handle crash reporting in all our apps.  
+_Collected data_ : Crash reporter details if a crash report is submitted. Environment data (OS version, system status). In-app navigation events (no user data included). All data is strictly tied to an anonymous user ID only.  
+[Microsoft Privacy Policy](https://support.imazing.com/hc/en-us/articles/%20https://privacy.microsoft.com/en-us/privacystatement)  
+
+
 
 
 
@@ -170,7 +177,12 @@ Our websites may contain hypertext links towards other websites unrelated to Dig
 
 ## _10\. Updates to this Privacy Policy_
 
-Updates and modifications to our Privacy Policy will be posted here. Last updated on the 23rd of May, 2018.
+Updates and modifications to our Privacy Policy will be posted here. Update history:
+
+  * **2019/11/29:** added information regarding Microsoft App Center.
+  * **2018/05/23:** restructured the document, adding a detailed break down of partners and collected data.
+
+
 
 ## _11\. Contact_
 
