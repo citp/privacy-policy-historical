@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailerlite.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605215729id_/https%3A//www.mailerlite.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailerlite.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225000906id_/https%3A//www.mailerlite.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MailerLite
 
