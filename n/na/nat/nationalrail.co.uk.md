@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nationalrail.co.uk privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506134207id_/http%3A//www.nationalrail.co.uk/46389.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalrail.co.uk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225003115id_/https%3A//www.nationalrail.co.uk/46389.aspx) for the most accurate reproduction.*
 
-# National Rail Enquiries - Privacy Policy
+# National Rail Enquiries - Privacy Notice
 
 The purpose of this notice is to make you aware of how we will manage and protect your personal data. You can use the short cut links below to go directly to specific sections.
 
 ## Who we are
 
-Train Information Services Limited (TISL) manages the National Rail Enquiries (NRE) website on behalf of Britain’s train companies. TISL is the data controller and, as such, is responsible for ensuring the lawful and appropriate handling of all the personal data that you provide to National Rail Enquiries.  
+Train Information Services Limited (TISL) manages the National Rail Enquiries (NRE) website on behalf of [Britain’s train companies](https://www.nationalrail.co.uk/tocs_maps/tocs/TrainOperators.aspx). TISL is the data controller and, as such, is responsible for ensuring the lawful and appropriate handling of all the personal data that you provide to National Rail Enquiries.  
 National Rail Enquiries is a trade mark of TISL.  TISL also trades under the name Rail Delivery Group.  
-To contact us regarding our use of your data, please click here. Alternatively, you can write to us at TISL,200 Aldersgate Street, London EC1A 4HD.
+To contact us regarding our use of your data, please [click here](https://app-eu.onetrust.com/app/#/webform/ad1e1d5b-4c16-4f89-bb91-f590011deb67). Alternatively, you can write to us at TISL,200 Aldersgate Street, London EC1A 4HD.
 
 ## Our lawful basis for collecting your data
 
@@ -22,14 +22,15 @@ If you use this site to search for journeys without using an account, we do not 
 If you register for an account then we request your name and optionally some contact information.  
 If you also choose to add journey alerts, specific journeys and/or stations to your account, we will save the information you provide so you do not have to repeat it.
 
-  
-We use cookies across our website to improve your experience and our website’s performance. To find out more about cookies, read our Cookie Policy.
+We use cookies across our website to improve your experience and our website’s performance. To find out more about cookies, read our [Cookie Policy](https://www.nationalrail.co.uk/191702.aspx).
+
+Cookie Settings
 
 ## Sharing information with other data processors
 
 Any information you provide will only be used by NRE, train operating companies and by our suppliers: AWS (website hosting), IMImobile (digital provider for iPad app and SMS alerting), KCOM (support our website hosting and mobile apps), Eckoh, (automated phone service), Indicia (who provide out customer database), Salesforce (who send our marketing emails), Vodafone (who send out txt messages), Teleperformance (who provide customer support) and Thales (digital services provider).  
 If you participate in a survey with us your survey responses will be processed by our survey supplier (Survey Monkey).  
-We will not share your details with any other third parties for marketing purposes unless you provide us with your consent. If you consent to marketing, you can find out more about the communications you’ll receive in our Marketing & Contact Policy.
+We will not share your details with any other third parties for marketing purposes unless you provide us with your consent. If you consent to marketing, you can find out more about the communications you’ll receive in our [Marketing & Contact Policy](https://web.archive.org/190222.aspx).
 
 ## Keeping your data safe
 
@@ -49,7 +50,7 @@ If you set up an account but do not validate it using the email we send you, the
 
 ## Your rights
 
-You have several rights to data protection which are set out below. To contact us in relation to your rights regarding how we use your data, please click here to submit a request.
+You have several rights to data protection which are set out below. To contact us in relation to your rights regarding how we use your data, please [click here to submit a request](https://app-eu.onetrust.com/app/#/webform/ad1e1d5b-4c16-4f89-bb91-f590011deb67).
 
 ## Subject access request
 
@@ -69,13 +70,13 @@ You have the right to request that we restrict processing of your information if
 
 ## Right to rectification
 
-If your details are incorrect, incomplete or have changed, you can change these at any time by logging in to your account.
+If your details are incorrect, incomplete or have changed, you can change these at any time by logging in to [your account](https://ojp.nationalrail.co.uk/personal/login/secure).
 
-Alternatively, please click here and complete our online form to request changes to the data that we hold on you.
+Alternatively, please [click here](https://app-eu.onetrust.com/app/#/webform/ad1e1d5b-4c16-4f89-bb91-f590011deb67) and complete our online form to request changes to the data that we hold on you.
 
 ## How to contact us
 
-To exercise any of your rights set out above, please click here and complete our online form or contact us using the details provided below:
+To exercise any of your rights set out above, please [click here](https://app-eu.onetrust.com/app/#/webform/ad1e1d5b-4c16-4f89-bb91-f590011deb67) and complete our online form or contact us using the details provided below:
 
 Data Protection Lead for NRE  
 ATOC Ltd, 200 Aldersgate Street, London EC1 4HD.
