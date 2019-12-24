@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the planbox.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302043351id_/https%3A//www.planbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbox.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224201808id_/https%3A//www.planbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Planbox
+
+  
+Skip to content
+
+[ ](https://www.planbox.com/)
+
+Privacy Policy[jamie](https://www.planbox.com/author/jamie/ "Posts by jamie")2018-08-17T12:20:49+00:00
 
 Last updated: May 23, 2018
 
@@ -12,11 +19,11 @@ This privacy statement and the procedures outlined herein comply with EU General
 
 If you submit your personal data to Planbox (irrespective of the manner or form), you agree to the terms of this Policy and to its processing in accordance with the Regulations.
 
-**International data transfers**
+ **International data transfers**
 
 Planbox operates in multiple jurisdictions some which are located outside the European Economic Area (EEA). Countries located outside the EEA may have data protection laws which do not provide the same level of protection for personal data as within the EEA. Planbox transfers personal data outside the EEA only to the extent required for legitimate business purposes. Planbox utilizes standard means under the Regulations to legitimize data transfers outside the EEA.
 
-**Information we collect**
+ **Information we collect**
 
 In general, you can browse planbox.com without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular feature.
 
@@ -26,7 +33,7 @@ We currently use cookies on our site to check your language preference and to ma
 
 If you send us personal correspondence, such as emails or letters, we may collect such information into a file specific to you.
 
-**Our use of your information**
+ **Our use of your information**
 
 We collect personal information (Personal Information) for the following purposes (“Purposes”):
 
@@ -41,7 +48,7 @@ We only collect personal information about you that we consider necessary for ac
 
 As you browse planbox.com or our other Sites, cookies will be placed on your computer so that we can cache some information and understand what you are interested in. For our website at www.planbox.com, our partners, then enable us to present you with retargeting advertising on other sites based on your previous interaction with www.planbox.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number.
 
-**Legal basis for collecting Personal Information**
+ **Legal basis for collecting Personal Information**
 
 Our legal basis for collecting and using the Personal Information described above will depend on the personal information concerned and the specific context in which we collect it.
 
@@ -51,7 +58,7 @@ In some cases, we may also have a legal obligation to collect personal informati
 
 If we ask you to provide Personal Information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your Personal Information is mandatory or not (as well as of the possible consequences if you do not provide your Personal Information).
 
-**Our disclosure of your information**
+ **Our disclosure of your information**
 
 As a matter of this Policy, we do not sell or rent any of your personal information to third parties for their marketing purposes.
 
@@ -63,15 +70,15 @@ Legal Requests. We cooperate with law enforcement inquires, as well as other thi
 
 Planbox will keep Personal Information only as long as necessary for the purposes described in this policy or as required by law. Planbox will follow internally set guidelines and use care in the disposal, destruction, or de-identification of personal information to prevent unauthorized parties from gaining access to personal information.
 
-**Advertising and tracking**
+ **Advertising and tracking**
 
 Planbox, our trusted service partners and permitted third parties may also advertise our products and services on third-party websites. Third-party websites may also use cookies or other tracking devices. Planbox, our trusted service partners and permitted third parties do not have control over the tracking technologies utilized by third-party websites. As such, you should carefully review the privacy policies of those third-party sites to understand their tracking activities, if any.
 
-**Links to other websites**
+ **Links to other websites**
 
-Our Sites may contain links to other websites that are not operated by Planbox. PLANBOX IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEBSITES, INCLUDING WEBSITES OPERATED BY AFFILIATED ENTITIES. We provide such links only as a convenience and the [inclusion](https://www.planbox.com/glossary/inclusion/) of a link on any of our Sites does not imply endorsement of the linked to website by Planbox. If you provide any personal information through any such third party websites, your transaction will occur on such third party website (and not on our Sites) and the personal information you provide will be collected by and controlled by the privacy policy of that third party. Planbox recommends that you review the privacy policies of third party websites arrived at from links on our Sites before using those websites.
+Our Sites may contain links to other websites that are not operated by Planbox. PLANBOX IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEBSITES, INCLUDING WEBSITES OPERATED BY AFFILIATED ENTITIES. We provide such links only as a convenience and the inclusion of a link on any of our Sites does not imply endorsement of the linked to website by Planbox. If you provide any personal information through any such third party websites, your transaction will occur on such third party website (and not on our Sites) and the personal information you provide will be collected by and controlled by the privacy policy of that third party. Planbox recommends that you review the privacy policies of third party websites arrived at from links on our Sites before using those websites.
 
-**Site analytics**
+ **Site analytics**
 
 Planbox Sites may use Google Analytics to collect information about your use of our websites. This consists of information that your web browser automatically sends to Google, such as the web address of the page that you visit and your IP address. Google may also set cookies or read preexisting cookies. This information is stored on Google´s servers. Google uses this information to provide us with reports about traffic to our websites and your visit to our websites (such as the domain from which you access the internet, the web address of the website from which you linked to our site, the time, date and duration of your visit to the web pages that you view and click through). We use this data to improve our website structure, content and user experience.
 
@@ -79,7 +86,7 @@ Google may also use this data in accordance with their Privacy Policy, which can
 
 You may opt-out of our use of Google Analytics by visiting the Google Analytics opt-out page and installing the Google Analytics browser add-on, currently made available by Google at https://tools.google.com/dlpage/gaoptout.
 
-**Advertising features**
+ **Advertising features**
 
 Planbox Sites may also use the following Google Analytics Advertising Features: Google Analytics Demographics and Interest Reporting. Google Analytics Demographics and Interest Reporting uses a third party cookie to collect information about our website traffic by tracking users across websites and across time, which generates a report for us to better understand our websites’ users.
 
@@ -87,19 +94,19 @@ If you do not want Google to collect and use this information you may visit the 
 (http://www.google.com/safetycenter/tools/#manage-your-ads-preferences)  
 or you can also visit the website http://www.networkadvertising.org/choices to change your consumer preferences with respect to certain online ads and to obtain further information about third party ad networks and online behavioral advertising. For the Google Analytics Advertising Features, you may also opt-out of our use of Google Analytics as described above. Please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across browsers and other ad networks.
 
-**Security**
+ **Security**
 
 Your Personal Information is stored and processed on computers maintained by Microsoft Azure or Amazon Web Services at various locations throughout the world depending on which Planbox Sites and services you access and use. Planbox uses strict security processes and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and data encryption at transit and at rest. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, please bear in mind that the Internet cannot be guaranteed to be 100% secure.
 
-**Data Controller for Website Services**
+ **Data Controller for Website Services**
 
 Planbox is considered a data controller under the Regulations for all services related to the general Planbox (www.planbox.com) website services (“Website Services”).
 
-**Data Processor for[Innovation Management](https://www.planbox.com/glossary/innovation-management/) and [Agile](https://www.planbox.com/glossary/agile/) Project Management Software and Services**
+ **Data Processor for Innovation Management and Agile Project Management Software and Services**
 
-For [innovation management](https://www.planbox.com/glossary/innovation-management/) software services and [agile](https://www.planbox.com/glossary/agile/) project management services (“Application Services”), Planbox only processes data stored in Planbox applications (“Application Data”) as per our Customer’s instructions. For purposes of the GDPR and the Swiss Federal Act on Data Protection, Planbox is the processor and not the controller of the Application Data. When Planbox acts as the data processor, a separately executed Master Service Agreement or Data Processing Addendum (“DPA”) between Planbox and the Customer defines Planbox’S data processing and privacy management obligations.
+For innovation management software services and agile project management services (“Application Services”), Planbox only processes data stored in Planbox applications (“Application Data”) as per our Customer’s instructions. For purposes of the GDPR and the Swiss Federal Act on Data Protection, Planbox is the processor and not the controller of the Application Data. When Planbox acts as the data processor, a separately executed Master Service Agreement or Data Processing Addendum (“DPA”) between Planbox and the Customer defines Planbox’S data processing and privacy management obligations.
 
-**Rights of data subjects**
+ **Rights of data subjects**
 
 If Planbox is a data processor for the services you access, please contact the data controller to find out what rights and services you have access to. With your consent, we will forward any request you make to Planbox to the appropriate data controller.
 
@@ -109,7 +116,7 @@ As a data subject whose personal data is processed by Planbox for the Purposes m
 
 You have the right to lodge a complaint with the competent personal data protection authority if you believe that the processing of your Personal Information is not in compliance with Regulations, or if Planbox does not respond to your requests in timely and/or appropriate manner, or if they are not answered at all.
 
-**Data retention**
+ **Data retention**
 
 When Planbox acts as the data processor, a separately executed Master Service Agreement or Data Processing Addendum (“DPA”) between Planbox and the Customer defines Planbox retention policy and data processing obligations.
 
@@ -126,7 +133,7 @@ When Planbox acts as the data controller, you have the right to exercise your Ri
 
 
 
-**Contact details and further information**
+ **Contact details and further information**
 
 If you have any questions in connection with this notification or the processing of personal data by Planbox in general, or if you have questions or requests for information, you can contact Planbox ’s Data Protection Officer as follows:
 
@@ -134,6 +141,6 @@ Data Protection Officer
 Address: 3090 Boul. le Carrefour #750 Laval QC, Canada H7T 2J7  
 Email: dpo@planbox.com
 
-**Notice**
+ **Notice**
 
 This policy is an overview of information about our policies and practices relating to the management of personal information. We may amend this Policy at any time by posting the amended terms on planbox.com. Any changes or modifications to our privacy practices will be posted in this policy for 30 days before they take effect.
