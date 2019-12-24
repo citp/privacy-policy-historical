@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livehelpnow.net privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129191753id_/https%3A//www.livehelpnow.net/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livehelpnow.net privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224232528id_/https%3A//www.livehelpnow.net/policies/privacy) for the most accurate reproduction.*
 
 # LiveHelpNow Privacy policy
 
@@ -12,7 +12,13 @@
     * [Application](https://web.archive.org/downloads "Applications")
     * [Plugins & Integrations](https://web.archive.org/downloads/plugins "Plugins & Integrations")
     * [Documentation](http://help.livehelpnow.net/ "Documentation")
-  * [Company](https://web.archive.org/company)
+  * Resources
+    * [Company](https://web.archive.org/company "Company")
+    * [Blog](https://www.livehelpnow.net/blog/ "Blog")
+    * [Agent  Handbook](https://web.archive.org/agent-handbook "Agent Handbook")
+    * [Agent  Test](https://helpsquad.com/challenge/ "Agent Test")
+    * [Ebooks ](https://web.archive.org/ebooks "Ebooks")
+    * [#SmallBizCX19](https://web.archive.org/conference "Conference")
   * * * *
 
   * [Login](https://web.archive.org/lhn/agent/login.aspx "Login")
