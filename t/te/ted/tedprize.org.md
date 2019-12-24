@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the tedprize.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629225851id_/https%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedprize.org privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224133028id_/https%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Our policies + terms | Our Organization | About | TED
 
 About  ›  [Our Organization](https://web.archive.org/about/our-organization)  ›  [Our policies + terms](https://web.archive.org/about/our-organization/our-policies-terms)  ›  
 
-Updated: February 5, 2019
+Updated: December 4, 2019
 
 **Introduction**  
-TED is a global community, welcoming people from every discipline and culture who seek a deeper understanding of the world. While gathering information about the people who use TED.com, our apps, platforms and related sites (collectively referred to as “TED Sites”), we take your privacy very seriously and make every effort to safeguard your personal data. This privacy policy is intended to inform you of what information we collect, how this information is used and what steps we take to protect this information, as well as providing you a process to update, change or delete your personal data.
+TED is a global community, welcoming people from every discipline and culture who seek a deeper understanding of the world. While gathering information about the people who use TED.com, our mobile apps, platforms and related sites (collectively referred to as “TED Sites”), we take your privacy very seriously and make every effort to safeguard your personal data. This privacy policy is intended to inform you of what information we collect, how this information is used and what steps we take to protect this information, as well as providing you a process to update, change or delete your personal data.
 
 By using TED Sites, you agree to our privacy policy. If you wish to update your personal information or any specific consent that you have provided to TED on any of TED Sites, please contact TED at [privacy@ted.com](mailto:privacy@ted.com). 
 
@@ -17,7 +17,7 @@ By using TED Sites, you agree to our privacy policy. If you wish to update your 
 
 We collect three (3) types of information:
 
-  1. Personal information that you provide directly to us when you create an account with us and save items to your profile or submit information through a form based on a specific request or purpose. 
+  1. Personal information that you provide directly to us when you create an account and save items to your profile or submit information through a form based on a specific request or purpose. 
   2. Data collected automatically such as tracking information, IP addresses or other data related to usage on TED Sites. 
   3. Cookies, to help us understand what areas of TED Sites are most useful and interesting to our audience.
 
@@ -33,7 +33,7 @@ We collect three (3) types of information:
 
 ##### Account information
 
-At account registration, you provide personal information, such as your name, email address, and password, and you have the option to provide other information. If you create an account through a user profile (such as Facebook, or other social media sites) then your information is sent from your profile to use in accordance with our privacy policy. We also collect information on your site activity when you favorite, save or watch talks.
+At account registration, you provide personal information, such as your name, email address and password, and you have the option to provide other information. If you create an account through a user profile (such as Facebook, or other social media sites), then your information is sent from your profile to use in accordance with our privacy policy. We also collect information on your site activity when you favorite, save or watch talks.
 
 * * *
 
@@ -44,6 +44,10 @@ At account registration, you provide personal information, such as your name, em
 ##### Conference information
 
 When required for TED Conference registration, we collect and process your personal information including your name, address, telephone number and email address, and other preferences such as profile, photos, workshop and activity choices. At times, you may be asked to provide additional information, such as payment to provide under a secure conference registration process. When you provide your credit card number, it will only be shared with verified third parties who perform tasks required to complete the purchase transaction, and only the last four digits will be stored. 
+
+##### Masterclass information
+
+When required for TED Masterclass, we collect and process your personal information including your name, address, telephone number, email address and other preferences, such as profile information, mobile app preferences, activity and logged information and details, such as prompts and notes collected within the Masterclass mobile app and/or your corresponding TED.com account. No personal payment information is collected, as it is only provided directly to the platform provider for TED Masterclass for consumers and via your organization for TED Masterclass for organizations. 
 
 * * *
 
@@ -77,7 +81,7 @@ This type of information relates to how many views are counted for each TED Talk
 
 ##### Device data
 
-We may collect non-personal information about the computer, mobile device or other device you use to access TED Sites, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other preferences automatically collected.
+We may collect non-personal information about the computer, mobile device or other device you use to access TED Sites, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other preferences automatically collected. Also, if using our TED Masterclass app, other personal information, including preferences and uploaded data may be collected and reviewed by TED to understand how you use the app. 
 
 * * *
 
@@ -89,13 +93,13 @@ We may collect non-personal information about the computer, mobile device or oth
 
 ##### Tracking usage
 
-We use various technologies, such as Google Analytics cookies, to manage TED.com and track use of the content we provide, as well as Facebook to help us better target advertising on platforms that market TED to their users, including:
+We use various technologies, such as Google Analytics cookies, to manage TED.com and track use of the content we provide, as well as Facebook to help us better target advertising on platforms that market TED offerings to their users, including:
 
-  * standard web analytics information,
-  * behavioral advertising which allows third parties to collect cookies to help TED advertise offerings more efficiently,
-  * aggregated data about email click-through rates and video viewing,
-  * data collected through HTML cookies, flash cookies, web beacons and similar technologies, and
-  * demographics and other details to help us customize our sites based on your preferences.
+  * standard web analytics information
+  * behavioral advertising which allows third parties to collect cookies to help TED advertise offerings more efficiently
+  * aggregated data about email click-through rates and video viewing
+  * data collected through HTML cookies, flash cookies, web beacons and similar technologies
+  * demographics and other details to help us customize our sites based on your preferences
 
 
 
@@ -151,6 +155,16 @@ In addition to the uses identified above, we may use your personal information f
 
 * * *
 
+###### Countdown
+
+TED collects and processes personal information related to Countdown to:
+
+  * send information regarding the Countdown Summit to individuals 
+  * provide participants assistance such as a toolkit to connect with others to join the Countdown initiative 
+  * contact individuals where applicable to help in the Countdown initiative 
+
+
+
 ###### The Audacious Project
 
 TED collects and processes personal information to:
@@ -204,11 +218,22 @@ TED collects and processes personal information to:
 
 
 
+###### TED-Ed for Masterclass
+
+TED collects and processes personal information to:
+
+  * manage user accounts and evaluate the user’s progress while utilizing TED’s Masterclass app
+  * understand how the TED Masterclass app is used, and the nature and scope of how TED Masterclass impacts its users and inspires outcomes and results
+  * connect the TED Masterclass community with events and details that may help enhance users’ experience with the app 
+  * help improve TED Masterclass with suggestions and updates provided by users regarding the functionality and features of the app 
+
+
+
 ###### TED Translators
 
 TED collects and processes personal information to:
 
-  * evaluate applications for individuals that want to volunteer to translate and/or review TED talks in multiple languages 
+  * evaluate applications for individuals that want to volunteer to translate and/or review TED Talks in multiple languages 
   * manage and communicate with selected volunteers once applicants are selected
 
 
@@ -291,11 +316,11 @@ We do not knowingly collect personal information from children under 13 without 
 
 ##### Changes to this privacy policy
 
-This privacy policy may be updated from time to time, and when the policy is updated, the version date will appear at the top of this privacy policy. If we make material changes, you will be notified here for a period of 30 - 60 days based on our last update. As of July 2016, we added information to our privacy policy to define cookies and outline how we use this data to optimize our website based on your preferences, and made a change to our policy update section. As of May 2018, we added information to our privacy policy based on new requirements from GDPR, including more details pertaining to: what type of personal information TED collects, how TED uses this information and a process in which users can update their information. As of February, 2019, we added details on how TED uses cookies to help TED with targeted marketing on third party platforms, such as Facebook, as well as information on how to deactivate cookies when browsing the TED website based on industry tools and sites that help you personalize your settings with respect to cookies and advertising. 
+This privacy policy may be updated from time to time, and when the policy is updated, the version date will appear at the top of this privacy policy. If we make material changes, you will be notified here for a period of 30 - 60 days based on our last update. As of July 2016, we added information to our privacy policy to define cookies and outline how we use this data to optimize our website based on your preferences, and made a change to our policy update section. As of May 2018, we added information to our privacy policy based on new requirements from GDPR, including more details pertaining to: what type of personal information TED collects, how TED uses this information and a process in which users can update their information. As of February, 2019, we added details on how TED uses cookies to help TED with targeted marketing on third party platforms, such as Facebook, as well as information on how to deactivate cookies when browsing the TED website based on industry tools and sites that help you personalize your settings with respect to cookies and advertising. As of September 13, 2019, we added details pertaining to the TED Masterclass app which collects information from users, and is separately available through an organizational license or directly for consumers via a platform where the TED Masterclass app is available. 
 
 ##### Deactivating your account and managing privacy settings
 
-You can request that your account be deactivated at any time by contacting us. When your account is deactivated, your user profile and all public activities (such as comments) will be hidden. You can also manage who can view your TED.com profile activity in the Privacy tab of your profile's account settings. To unsubscribe from our newsletters, click on the link at the bottom of a newsletter you have received, or you can manage your subscriptions from your TED.com profile. For any other changes regarding your personal data, please contact [privacy@ted.com](mailto:privacy@ted.com) with your request and we will respond to you promptly. 
+You can request that your account be deactivated at any time by contacting us. When your account is deactivated, your user profile and all public activities (such as comments) will be hidden. You can also manage who can view your TED.com profile activity in the Privacy tab of your profile's account settings. To unsubscribe from our newsletter, click on the link at the bottom of the newsletter you have received, or you can manage your subscriptions from your TED.com profile. For any other changes regarding your personal data, please contact [privacy@ted.com](mailto:privacy@ted.com) with your request and we will respond to you promptly. 
 
 ##### Deactivating target advertising
 
