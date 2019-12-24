@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628115918id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224173301id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Amplitude
+
+Last Updated: May 24, 2018
 
 Amplitude, Inc. (“Amplitude,” “we,” or “us”) is a cloud-based product-analytics platform that helps customers build better products. Amplitude respects the privacy of individuals and is committed to protecting the information of visitors to the website (“Visitors”) and individuals or entities that register to use the Amplitude products and services through the Website (“Customers”). This privacy policy describes Amplitude’s practices for collecting, using, maintaining, protecting, and disclosing information in relation to Visitors of the website, amplitude.com (“Website”), Amplitude’s marketing activities, and Customers accessing and using the products and services available on the Website (collectively, “Product”).
 
