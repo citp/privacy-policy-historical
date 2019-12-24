@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relationshipscience.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402222512id_/https%3A//www.relsci.com/consumerprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshipscience.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224161848id_/https%3A//www.relsci.com/consumerprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Notice for relationshipscience.com 22.05.18
 
