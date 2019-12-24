@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inbenta.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501113255id_/https%3A//www.inbenta.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbenta.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224221737id_/https%3A//www.inbenta.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inbenta
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=9b207c96-c411-409e-93d3-abf615471625)
 
-_Effective Date: November 21, 2018_
+_Effective Date: November 13, 2019_
 
 This privacy policy applies to our website ( [https://www.inbenta.com ](https://www.inbenta.com/)) and our service ( [https://backstage.inbenta.com ](https://backstage.inbenta.com/)) owned and operated by Inbenta Technologies Inc. (“We”, “Our”, “Us”) This privacy policy describes how Inbenta Technologies Inc. collects and uses the personal information you provide. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Inbenta Technologies Inc.
 
@@ -17,7 +17,7 @@ All data related to personal information is processed at INBENTA HOLDINGS INC. S
 
 The EU-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce, and the European Commission and Swiss Administration, respectively, to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
 
-Inbenta Technologies Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, <https://www.privacyshield.gov/list>.
+Inbenta Technologies Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, the United Kingdom and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, <https://www.privacyshield.gov/list>.
 
 Inbenta Technologies Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
