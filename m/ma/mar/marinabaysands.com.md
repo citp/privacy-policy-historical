@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422185308id_/https%3A//www.marinabaysands.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224234316id_/https%3A//www.marinabaysands.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Marina Bay Sands
-
-Effective Date of Privacy Policy: 25 May 2018
-
-As the world’s premier provider of high-end integrated resorts, Las Vegas Sands Corp. (together with its subsidiaries, “Sands”) values the information that you share with us and information that we collect about you. We strive to secure that information and ensure that the information is used for proper purposes, including enhancing your use and enjoyment of our services and properties.
-
-This Privacy Policy sets forth the principles that govern our treatment of personal data. We expect all employees and those with whom we share personal data to adhere to this Privacy Policy.  Sands is committed to protecting the information that our guests, prospective guests, patrons, employees, and suppliers have entrusted to us.  This Privacy Policy applies to all personal data in any format or medium, relating to all guests, prospective guests, patrons, employees, suppliers and others who do business with Sands.
-
-  * Privacy Policy
-
-
 
 ## Application of This Policy
 
@@ -46,7 +36,7 @@ _How We Use Cookies_ : We may use cookies so that we can improve your online exp
 
 _How We Use Internet Technologies:_ In addition to cookies, we may also use other internet technologies such as web beacons, pixel tags and other similar technologies to deliver or communicate with cookies and track your use of our website.  We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon, and how.  The information we obtain in this manner enables us to customize the services we offer and measure the overall effectiveness of our online content, advertising campaigns, and the products and services we offer through our website.  By accessing our website and agreeing to receive our e-mail messages or newsletters, you agree that we can use other internet technologies such as those mentioned above on your device.
 
-_Your Control of Our use of Cookies_ : You have many choices on how to manage cookies on your device.  Most web browsers allow some control of cookies through your browser settings.  Generally, you may block or delete cookies from your system, or set your browser to prevent cookies from being placed on your devices If you do this, however, you may have to manually adjust preferences every time you visit our websites and it may not be possible to use the full functionality of our websites.  To learn more about your ability to manage cookies, please consult the privacy features in your browser.  Alternatively, you may opt out of cookies and advertising related to the same by visiting the Network Advertising Initiative opt-out page: <http://www.networkadvertising.org/choices>.  
+_Your Control of Our use of Cookies_ : You have many choices on how to manage cookies on your device.  Most web browsers allow some control of cookies through your browser settings.  Generally, you may block or delete cookies from your system, or set your browser to prevent cookies from being placed on your devices. If you do this, however, you may have to manually adjust preferences every time you visit our websites and it may not be possible to use the full functionality of our websites.  To learn more about your ability to manage cookies, please consult the privacy features in your browser.  Alternatively, you may opt out of cookies and advertising related to the same by visiting the Network Advertising Initiative opt-out page: <http://www.networkadvertising.org/choices>.  
 
 _How Third Parties Use Cookies and Other Internet Technologies_ : Our website may allow third parties to download cookies onto your device.  Third parties, such as analytics firms and business partners (including Google) may use cookies and other technologies (including Google Analytics) to collect information about your online activities while you are on our website.  This information may be used to measure usage of our website and personalise advertising content on our website.  We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy.  Please refer to the privacy policies of those third parties to better understand their activities and practices.
 
@@ -59,22 +49,6 @@ We may collect certain types of personal data. As used in this Policy, “person
 We may collect additional personal data about you that you knowingly and voluntarily provide in connection with certain activities at or transactions with MBS or our website, such as participation in certain meetings and events, participation in social media offerings (such as signing up through our Facebook pages), use of MBS’ mobile applications, reservations for or use of on-site services (such as entertainment, gaming and other activities), applications for employment, and liability claims.  For example, if you apply for credit at MBS or our websites, we may collect information to process your credit line request, including your identification number, bank account and other financial information, and employment information.  The additional information that we collect depends on the nature of the activity or transaction or how you are interacting with our website.
 
 We may also collect information that is not personally identifiable by themselves, but can be linked to personal data you provide to us. Such information includes the type of Internet browser you are using, your device MAC address, the pages you visited on our websites, how you arrived at our websites ( _i.e_., through a search engine or a referring website), etc.
-
-**Situations where we collect your information:**
-
-_When you enroll in our loyalty program_ , we may collect your name, title, date of birth, and email address.
-
-_When you inform us of your application for credit extension_ , we may collect your credit information including your name, mailing address, email address, phone number, date of birth, credit score, employment information, financial information, including bank account and bank rating information, supporting your eligibility to receive credit, other lines of casino credit in your name, and other information you provide to us to assist us in making a determination concerning extending credit to you.
-
-_When you are at the MBS property, we_ use closed circuit television and other security systems to monitor other public or sensitive areas of our properties for safety and security, as well as, all gaming areas as required by the applicable local regulatory gaming authorities.  Video surveillance cameras are used to protect us, our guests, and our employees.  We monitor our surveillance cameras, and may share surveillance footage with law enforcement and/or regulatory authorities.
-
-_When you complete an employment application_ , we may collect your name or aliases, current and previous, mailing address information, current and previous, email address, phone number, date of birth, employment history, credit history, education, training, and skills, including licenses and certificates, convictions for felonies or misdemeanors, proof of eligibility to work in the United States, military service, and any other information provided in your employment application form.
-
-_When you make a reservation booking at the MBS hotel, we may collect your_ personal data, whether it be through our websites, by phone, or in person at one of our properties, to complete your reservation request.  We also may need to collect information to comply with local laws, including your full name, nationality and passport number.  If you choose to provide it, we also may collect additional information from you, including your frequent flyer or travel partner program information.
-
-When you check in _at the MBS hotel, we may_ ask whether you wish to receive promotional and other marketing materials, including your interest in participating in contests, promotional offers, or using certain services we can provide to you, such as membership in our loyalty program.  We also may send surveys to you to learn more about your stay and preferences.  You may withdraw your consent to receive marketing and promotional materials at any time.
-
-_During your_ stay _at the MBS hotel,_ we record your itemised spending related to your reservation.  This includes your room rate, other expenses billed to your room, food and beverage preferences, and other special requests.  We collect and record this information to keep a record of your expenses and preferences during your stay and provide it to you upon check-out.
 
 **Situations where we collect your information:**
 
