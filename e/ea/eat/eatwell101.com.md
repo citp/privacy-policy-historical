@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eatwell101.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614031824id_/https%3A//www.eatwell101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwell101.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224200621id_/https%3A//www.eatwell101.com/privacy-policy) for the most accurate reproduction.*
 
-# — Eatwell101
+# 1“ — Eatwell101
 
 **Editorial Policy  
 ** Eatwell 101’s recommendations are selected by our editorial staff and trusted contributors.  
@@ -16,6 +16,12 @@ Eatwell101.com is committed to maintaining the privacy and protection of your pe
 
 **Children Under 13:**  
 We care about protecting the privacy of children. We won’t knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you’re under 13, please do not provide us with any personally identifying information (such as your name, your email address or your phone number).
+
+### **COPPA (Children Online Privacy Protection Act):**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+WE DO NOT SPECIFICALLY MARKET TO CHILDREN UNDER THE AGE OF 13 YEARS OLD.
 
 **Information We Collect:**  
 The information we gather falls into two categories: (1) information you supply when you register to receive emails or comment on the website, and (2) tracking information collected as you navigate through our site.
@@ -67,7 +73,18 @@ Eatwell101.com may include interactive forms such as comments. Please remember t
 **Third Party Websites**  
 Eatwell101.com may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
 
-**European Economic Area Residents**
+### **Your California Privacy Rights**
+
+Residents of California may request a list of third parties to which certain personal information (as defined by applicable California law) obtained through a Digital Service was disclosed by Reach Media Inc. during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at:
+
+Reach Media Group atn “Your California Privacy Rights”  
+1330 Avenue of the Americas  
+Suite #23A  
+New York, NY 10019
+
+For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In your request, you need to attest to the fact that you are a California resident and provide a current California address for our response. Please also indicate in your request the name of the Digital Service to which your request applies. Please note that we will NOT accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+### **European Economic Area Residents**
 
 If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us related to advertising on the Site, you can contact us at hello AT eatwell101 DOT com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
