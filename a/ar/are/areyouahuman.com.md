@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areyouahuman.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407044457id_/https%3A//www.distilnetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areyouahuman.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224174658id_/https%3A//www.distilnetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Distil Networks
 
@@ -96,7 +96,9 @@ Information disclosed for legal purposes and the protection of others: We may di
 
 “Cookies” are small text files that are placed on your device when you visit (i) our Website or (ii) our Customers’ websites who have integrated Distil’s Services. Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide certain device and other analytical information.
 
-For more information regarding our use of Cookies, please visit our [“Cookies and Similar Technologies” page](https://www.distilnetworks.com/cookie-policy/).
+For more information regarding our use of Cookies, please visit our [“Cookies and Similar Technologies” page](https://www.distilnetworks.com/cookie-policy/)
+
+.
 
 ## 9\. Security
 
