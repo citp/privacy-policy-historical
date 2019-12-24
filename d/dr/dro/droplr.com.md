@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droplr.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630050544id_/https%3A//droplr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droplr.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224195952id_/https%3A//droplr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Droplr™
 
