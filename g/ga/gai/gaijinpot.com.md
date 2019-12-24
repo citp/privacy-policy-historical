@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224053858id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224210409id_/https%3A//gaijinpot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy ‹ GaijinPot Jobs
+# Privacy Policy - GaijinPot
 
 ### 1\. Definitions and Parties
 
-The treatment of the information collected through the use of [jobs.gaijinpot.com](https://jobs.gaijinpot.com/) and through GaijinPot Jobs Partner Sites, herein collectively referred to as the Service, is governed by this Privacy Policy.
+The treatment of the information collected through the use of [gaijinpot.com](https://web.archive.org/) and through partner sites, herein collectively referred to as the Service, is governed by this Privacy Policy.
 
 This is a legal document between GPlusMedia Inc., the administrator of this Service, and you, the user of this Service.
 
@@ -26,42 +26,113 @@ In this document you will find information about:
 
 
 
-Should you have any question, please feel free to [contact us](https://web.archive.org/contact/index/lang/en).
+Should you have any question, please feel free to [contact us](https://web.archive.org/contact).
+
+* * *
 
 ### 2\. Personal Information
 
-This Service’s public content is visible to everybody. However, in order to use certain features, you have to register by providing the following personal information:
+This Service’s public content is visible to everybody. However, in order to use certain features, you may have to register by providing the following personal information:
 
   * Email address
-  * Password
 
 
 
-In order to build resumes to apply to jobs, you have to provide the following personal information:
+Further personal information you provide will depend on the exact service you use across the GaijinPot platform. Please refer to the service’s individual Privacy Policy where applicable.
 
-  * Name
-  * Birth date
-  * Gender
-  * Nationality
-  * Country, state and city of residence
-  * Japan visa status
+* * *
 
+### 3\. Collection of Personal Information
 
+We collect information from your web traffic in order to maintain the quality of the Service and to facilitate your navigation. The collection methods are:
 
-You may choose to provide these additional pieces of information to further your chance of getting a job.
-
-  * Phone number
-  * Closest train station
-  * Education
-  * Work history
+  * Log files
+  * Cookies
+  * Web beacons
+  * Google Analytics
+  * Facebook Pixel
 
 
 
-When posting a resume, you can control the level of visibility by choosing to:
+If you choose to register with one of our services we will also collect certain personal information from that service. Please refer to the service’s individual Privacy Policy where applicable.
 
-  1. Keep it private: Employers cannot look at this resume unless you apply to one of their job postings. This is the default.
-  2. Make it searchable by employers: Employers will be able to look at an abridged version of your resume and send you an invitation via this Service. Your personal information will only become visible once you accept the invitation or apply to one of their job postings. 
+* * *
+
+### 4\. Use of Personal Information
+
+Your personal information is used in the following cases:
+
+  * Service communication: email newsletters and notifications
+  * Anonymised data for statistical research
 
 
 
-You can change the level of visibility of your resume at any time.
+If you choose to register with one of our services we will also collect certain personal information from that service. Please refer to the service’s individual Privacy Policy where applicable.
+
+* * *
+
+### 5\. Disclosure of Personal Information
+
+Your personal information is never disclosed without your consent to third parties except in the following cases:
+
+  * If ordered by governmental authorities
+  * If it is required by law
+
+
+
+For pieces of personal information we may hold about you please contact us.
+
+* * *
+
+### 6\. Modification of Personal Information
+
+You can modify your registered accounts at any time.
+
+Please contact us through our [contact form](https://web.archive.org/contact) if you need any assistance.
+
+* * *
+
+### 7\. Removal of Personal Information
+
+You can close your registered account, after which you have a six month grace period to reactivate it before it is permanently removed.
+
+Please contact us through our [contact form](https://web.archive.org/contact) if you need any assistance.
+
+* * *
+
+### 8\. Links
+
+This Service contains links to external sites administered by third parties. GPlusMedia Inc. shall not be held responsible for any Privacy Policy issues related to such external sites.
+
+When redirected to an external site, you should check the applicable Privacy Policy.
+
+* * *
+
+### 9\. Information Protection Measures
+
+GPlusMedia Inc.’s internal privacy and security policies are reviewed on a regular basis. Our staff receive training on information protection measures accordingly.
+
+We use industry standard procedures and technologies to keep your personal information safe.
+
+* * *
+
+### 10\. Data Protection and Privacy Laws
+
+We aim to protect your personal information in compliance with all relevant data protection and privacy laws such as the General Data Protection Regulation (GDPR). 
+
+The same privacy protection measures will be taken even if we transfer information outside of the legal administrative region in which you are based, for example the EU.
+
+Please contact us through our [contact form](https://web.archive.org/contact) if you have any inquiries.
+
+* * *
+
+### 11\. Modification of Privacy Policy
+
+GPlusMedia Inc. reserves the right to modify this Privacy Policy without prior notice.  
+Your continued use of the Service after the revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy.
+
+* * *
+
+### 12\. Date
+
+Last updated: October 1, 2018
