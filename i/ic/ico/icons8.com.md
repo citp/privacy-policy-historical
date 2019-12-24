@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icons8.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613160955id_/https%3A//icons8.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icons8.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224220639id_/https%3A//icons8.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
