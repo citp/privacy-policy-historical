@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landtransportguru.net privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324052024id_/https%3A//landtransportguru.net/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landtransportguru.net privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224230739id_/https%3A//landtransportguru.net/terms) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy | Land Transport Guru
 
