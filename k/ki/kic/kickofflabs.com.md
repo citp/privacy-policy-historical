@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickofflabs.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426232220id_/https%3A//kickofflabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickofflabs.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224225637id_/https%3A//kickofflabs.com/privacy-policy) for the most accurate reproduction.*
 
 # KickoffLabs LLC Privacy Policy | KickoffLabs
 
@@ -169,9 +169,9 @@ KickoffLabs Sub-Processors
 KickOffLabs uses a range of third party Sub-processors to assist it in providing the Services (as described in the Terms of Service).  These Sub-processors set out below provide cloud hosting and storage services; content delivery and review services; assist in providing customer support; as well as incident tracking, response, diagnosis and resolution services. 
 
   * BugSnag – [https://www.bugsnag.com/](https://www.bugsnag.com/) – For incident tracking and diagnoses. 
-  * Drip  – [https://www.drip.com/](https://www.drip.com/) – For ongoing communication. 
+  * ConvertKit  – [https://www.convertkit.com/](https://www.convertkit.com/) – For ongoing communication. 
   * Facebook – [https://facebook.com](https://facebook.com/) – For advertising. 
-  * Perfect Audience – [http://www.perfectaudience.com/](http://www.perfectaudience.com/) – For Advertising. 
+  * Twitter – [https://twitter.com](https://twitter.com/) – For advertising. 
   * Heroku – [https://www.heroku.com/home](https://www.heroku.com/home) – Storage of our databases. 
   * Braintree – https://www.braintreepayments.com/ – To manage recurring billing. 
   * Elastic – [https://www.elastic.co/](https://www.elastic.co/) – To enable search and analytics. 
