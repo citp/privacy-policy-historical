@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercyforanimals.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330101257id_/https%3A//mercyforanimals.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercyforanimals.org privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224185622id_/https%3A//mercyforanimals.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mercy For Animals
 
