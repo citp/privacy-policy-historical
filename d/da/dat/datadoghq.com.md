@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the datadoghq.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623162538id_/https%3A//www.datadoghq.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadoghq.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224193523id_/https%3A//www.datadoghq.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Datadog
 
-Current as of
-
-## Privacy Policy
-
- **Privacy Policy**
+**Privacy Policy**
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Datadog, Inc. (collectively, “Datadog,” “we” or “us”) when you use our website [<https://www.datadoghq.com/>] (“Website”), online products and monitoring services (“Platform”) (collectively, “Services”), or when you otherwise interact with us. This Privacy Policy also describes your choices regarding use, access and correction of personal information collected about you through our Services. Please read this Privacy Policy carefully and ensure that you understand it before you start to use our Services.
 
