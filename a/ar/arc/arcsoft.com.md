@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcsoft.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608040719id_/http%3A//www.arcsoft.com/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcsoft.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224010309id_/http%3A//www.arcsoft.com/corporate/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
