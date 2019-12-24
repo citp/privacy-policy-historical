@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbtc.top privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902152731id_/https%3A//adbtc.top/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbtc.top privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224185426id_/https%3A//adbtc.top/index/privacy) for the most accurate reproduction.*
 
 # Privacy - Bitcoin advertising - adbtc.top
 
