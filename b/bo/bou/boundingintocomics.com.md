@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boundingintocomics.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620083645id_/https%3A//boundingintocomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boundingintocomics.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224135658id_/https%3A//boundingintocomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bounding Into Comics
 
@@ -118,4 +118,4 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](http://intermarkets.net/advertisers/index.html).
 
-(Visited 800 times, 1 visits today)
+(Visited 1,486 times, 2 visits today)
