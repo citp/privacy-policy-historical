@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kkwbeauty.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609014828id_/https%3A//kkwbeauty.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kkwbeauty.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224141408id_/https%3A//kkwbeauty.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY – KKW BEAUTY by Kim Kardashian West
+# PRIVACY – KKW BEAUTY
 
 ## 
 
@@ -628,3 +628,17 @@ This Privacy Policy is based on a General Data Protection Regulation (Regulation
 The copyright in this Privacy Policy is either owned by, or licensed to, us and is protected by copyright laws around the world and copyright protection software. All intellectual property rights in this document are reserved.
 
 Where we display the GDPR Privacy Policy logo on our website, this is used to indicate that we have adopted a privacy policy template provided by GDPR Privacy Policy as the basis for this Privacy Policy.
+
+SMS/MMS MOBILE MESSAGING MARKETING PROGRAM
+
+We respect your privacy. We will only use information you provide through the Program to transmit your mobile messages and respond to you, if necessary. This includes, but is not limited to, sharing information with platform providers, phone companies, and other vendors who assist us in the delivery of mobile messages.  WE DO NOT SELL, RENT, LOAN, TRADE, LEASE, OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE PROGRAM TO ANY THIRD PARTY. Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property. When you complete forms online or otherwise provide Us information in connection with the Program, you agree to provide accurate, complete, and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If, in Our sole discretion, We believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
+
+California Civil Code Section 1798.83 permits Users of the Program that are California residents to request certain information regarding our disclosure of the information you provide through the Program to third parties for their direct marketing purposes.  To make such a request, please contact us at the following address:
+
+[KKW BEAUTY. INC.]
+
+[21731 Ventura Blvd Suite 300 Woodland Hills, CA 91364]
+
+[HELP@KKWBEAUTY.COM]
+
+This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
