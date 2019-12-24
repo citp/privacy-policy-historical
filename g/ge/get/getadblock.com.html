@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the getadblock.com privacy policy that was archived on 2019-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190216093036id_/https%3A//getadblock.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getadblock.com privacy policy that was archived on 2019-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191224211113id_/https%3A//getadblock.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script>adblockGeo={"countryCode":"US"};</script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="keywords" content="">
@@ -14,7 +14,7 @@
     <!-- Open Graph attributes for better Facebook sharing - http://ogp.me -->
     <meta property="og:title" content="AdBlock">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="//getadblock.com/images/dark_banner.png">
+    <meta property="og:image" content="//getadblock.com/images/dark_banner.png?v=1564022898">
     <meta property="og:url" content="//getadblock.com">
     <meta property="og:description" content="AdBlock is a user-supported browser extension that lets you surf the web ad-free.">
 
@@ -23,36 +23,33 @@
     <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <link rel="stylesheet" type="text/css" href="../css/style.css?v=1550176663">
     <link rel="stylesheet" type="text/css" href="style.css?v=1550176663">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="../js/jquery-1.8.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/updateStyle.css?v=1566425655">
+    <script src="../js/jquery-1.8.min.js"></script>
     <script src="/js/main.js?v=1540413026"></script>
     <script src="../js/jquery-ui.js"></script>
+
+    <!-- Lato Font Link (added by Zack 5/6/19)-->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
 
     <!-- Google Analytics  -->
     <script src="../js/ga.js"></script>
   </head>
 
-  <body id="home">
-    <header id="header">
-      <div class="wrap clearfix">
-        <nav id="main_nav" class="right">
-          <button class="mobile_nav_toggle"></button>
-          <ul>
-            <li></li>
-            <li></li>
-            <li class="social"><a class="twitter no_transition" href="//twitter.com/getadblock" target="_blank"></a></li>
-            <li class="social"><a class="facebook no_transition" href="//www.facebook.com/heres.adblock" target="_blank"></a></li>
-          </ul>
-        </nav>
-        <a href="/" class="adblock_logo left"><img src="/images/logo_adblock.png" width="256" height="64"></a>
+  <body class="subPage">
+    <!-- Header -->
+      <div class="subPageTopBar">
+          <div class="subPageTopBarContent">
+                <a href="/"><img id="topBarLogo" src="../images/updateAssets/core_logo_full.svg"></a>
+          </div>
       </div>
-    </header>
 
-    <div id="main_content">
-        <div class="wrap">
-            <div class="wrap-all">
-                <section class="privacy" id="privacy">
-                    <h1>Privacy Policy</h1>
-                    <p style="font-size: 13px"><span>Effective Date:</span> November 5, 2018</p>
+    <!-- Main Text Content -->
+    <div id="mainContent">
+                <section class="privacyText" id="privacyText">
+                    <div class="privacySubheader">
+                        <h1>Privacy Policy</h1>
+                        <p id="privacyDate"><span>Effective Date:</span> November 24, 2019</p>
+                    </div>
                     <p>
                         This Privacy Policy describes AdBlock's information practices for its website and browser extension. We take your privacy seriously
                         and want you to understand exactly what information we collect, how we process that information, which pieces of information you can
@@ -107,6 +104,36 @@
                         AdBlock uses both Stripe and PayPal as payment processors when you donate to AdBlock. To learn more about their data collection policies,
                         please consult their respective privacy policies when using them.
                     </p>
+
+                    <p><b>AdBlock Premium</b></p>
+                    <p>
+                        When you purchase or otherwise obtain a AdBlock Premium license AdBlock will store information regarding the license, including:
+                        unique extension identifiers associated with the license, email associated with the license, last license check timestamp and license 
+                        status. This data will be stored during the active lifetime of the license and for a period after cancellation.
+                    </p>
+                    <p>
+                        The same data that is stored when you make a donation to AdBlock is stored when you purchase Premium. 
+                    </p>
+
+                    <p><b>AdBlock Premium - Sync</b></p>
+                    <p>
+                        If you elect to use the Sync feature of AdBlock Premium then AdBlock collects information about the particular extension installation, including: unique
+                        extension identifier, sync device name and the timestamp of when the sync enrollment was made. This data will be stored during the active lifetime of
+                        the license and for a period after cancellation.
+                    </p>
+                    <p>
+                        AdBlock also stores the entire set of extension settings in plain text on our servers to accomodate the sync functionality across multiple extension
+                        installations. This storage location has restricted access and is only made available to AdBlock employees to diagnose and fix errors with the sync
+                        service. Every reasonable precaution is taken to secure this storage location but no database or server is 100% secure, and we cannot guarantee the
+                        absolute security of the extension settings data. If you have concerns about the AdBlock extension settings data being compromised, since there is
+                        no current mechanism to encrypt the data from the user's end, please carefully consider whether you want to use this feature.
+                    </p>
+                    <p>
+                        Finally, AdBlock Premium - Sync uses PubNub for real time sync notifications. Please refer to the <a href="https://www.pubnub.com/privacy-policy/">
+                        PubNub privacy policy</a> for information on their data collection policies. PubNub is used to alert the extension of a new settings version only 
+                        and does not have access to the extension settings information.
+                    </p>
+
                     <p><b>Anonymous information</b></p>
                     <p>
                         The AdBlock extension captures anonymous usage information including, but not limited to, the version number of the extension, preferred language,
@@ -145,7 +172,7 @@
                     <p>
                         AdBlock uses Google Analytics to aggregate information about traffic patterns and how our website and extension are used. We limit the data
                         sent to Google Analytics, and only do so to improve our extension and website. You can find information about Google Analytics’ data collection
-                        practices, as well as its privacy policy <a href="https://support.google.com/analytics/answer/6004245">here</a>.
+                        practices, as well as its privacy policy <a class="mainContentLink" href="https://support.google.com/analytics/answer/6004245">here</a>.
                     </p>
 
                     <p><b>For users in the European Union and European Economic Area</b></p>
@@ -159,7 +186,7 @@
                     </p>
                     <p>
                         <b>You can deactivate Google Analytics by means of a browser add-on if you do not want to participate in Website analysis. You can download this
-                        here: <a href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a></b>
+                        here: <a class="mainContentLink" href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a></b>
                     </p>
 
                     <h2>How AdBlock processes and discloses collected information</h2>
@@ -180,7 +207,7 @@
                     <p>
                         AdBlock cooperates with all valid United States law enforcement requests and court orders. If possible, we'll notify you of requests for
                         your information using the email stored in our system. Some circumstances prohibit us from contacting you about a request or order (e.g.
-                        an order under 18 U.S.C. § 2705(b) or § 215 of the Patriot Act). <a href="http://en.wikipedia.org/wiki/Warrant_canary">"Warrant canary"</a>:
+                        an order under 18 U.S.C. § 2705(b) or § 215 of the Patriot Act). <a class="mainContentLink" href="http://en.wikipedia.org/wiki/Warrant_canary">"Warrant canary"</a>:
                         AdBlock has never received an order under Section 215 of the Patriot Act, and if this sentence ever disappears, you'll know it's because we
                         have received such an order -- or similar order -- and the U.S. Government made us delete it.
                     </p>
@@ -200,8 +227,8 @@
                     <h2>External services</h2>
                     <p>
                         AdBlock uses external services that may require you to enter personal information. We currently use
-                        FreshDesk (privacy policy <a href="https://www.freshworks.com/privacy/">here</a>) for AdBlock's
-                        <a href="https://help.getadblock.com">knowledge base and support system</a>. AdBlock has used other services in the past
+                        FreshDesk (privacy policy <a class="mainContentLink" href="https://www.freshworks.com/privacy/">here</a>) for AdBlock's
+                        <a class="mainContentLink" href="https://help.getadblock.com">knowledge base and support system</a>. AdBlock has used other services in the past
                         and may use more in the future. We do not control the data on these external services and can not remove or delete the data;
                         any data given to external services is not bound by this policy, and you should read the external service's privacy policy before providing any information.
                     </p>
@@ -282,7 +309,7 @@
                     <h2>Personal information in connection with payments</h2>
                     <p>
                         If you have attempted a payment on the AdBlock website then you can request to have your email and name removed from our system. To
-                        do this, please open a private ticket <a href="https://help.getadblock.com/">on our support site</a> that contains
+                        do this, please open a private ticket <a class="mainContentLink" href="https://help.getadblock.com/">on our support site</a> that contains
                         your Order ID or email for the purchase. Please note that AdBlock can only remove information from our own systems and cannot
                         make changes to data that you give to a payment processor.
                     </p>
@@ -304,7 +331,7 @@
                     </p>
                     <p><b>How to exercise your rights</b></p>
                     <p>
-                        To exercise your rights, please contact us <a href="https://help.getadblock.com/">here</a>.
+                        To exercise your rights, please contact us <a class="mainContentLink" href="https://help.getadblock.com/">here</a>.
                     </p>
 
                     <h2>Changes and updates to this policy</h2>
@@ -318,23 +345,38 @@
 
                     <h2>Contact</h2>
                     <p>
-                        You can always contact us with questions or feedback about our privacy policy <a href="https://help.getadblock.com/">here</a>.
+                        You can always contact us with questions or feedback about our privacy policy <a class="mainContentLink" href="https://help.getadblock.com/">here</a>.
                     </p>
                     <br>
                     <br>
 
                 </section>
-            </div>
-        </div>
-        <!--end wrap-->
     </div>
 
-    <footer id="footer">
-      <a href="/">home</a>
-      <a href="/contributors">contributors</a>
-      <a href="https://help.getadblock.com">support</a>
-      <a href="https://blog.getadblock.com">blog</a>
-    </footer>
+    <!-- Footer  -->
+    <div class="footer">
+      <div class="footerContent">
+        <div class="footerLinks">
+          <ul id="footerList">
+            <li><a href="/privacy" i18n="privacy_policy_nav_btn">Privacy Policy</a></li>
+            <li>•</li>
+            <li><a href="https://help.getadblock.com" i18n="help_btn_text">Help</a></li>
+            <li>•</li>
+            <li><a href="http://code.getadblock.com" i18n="license_gplv3_camelcase">License (GPLv3)</a></li>
+            <li>•</li>
+            <li><a href="/contributors/" i18n="contributors_btn_text">Contributors</a></li>
+          </ul>
+          <h1 i18n="copyright_text" i18n_replacement_text="2019">
+            © Copyright 2009 - 2019, All Rights Reserved
+          </h1>
+        </div>
+        <div class="socialIcons">
+          <a href="https://www.facebook.com/heres.adblock/"><img src="/images/updateAssets/facebook_icon.svg"></a>
+          <a href="https://twitter.com/getadblock"><img src="/images/updateAssets/twitter_icon.svg"></a>
+          <a href="https://www.linkedin.com/company/adblock/"><img src="/images/updateAssets/linkedin_icon.svg"></a>
+        </div>
+      </div>
+    </div>
   
 
 </body></html>
