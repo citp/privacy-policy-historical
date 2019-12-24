@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621122042id_/https%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224182814id_/https%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Apptentive
 
