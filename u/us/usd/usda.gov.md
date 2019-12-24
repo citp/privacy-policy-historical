@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612153559id_/https%3A//www.usda.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224092411id_/https%3A//www.usda.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USDA
 
