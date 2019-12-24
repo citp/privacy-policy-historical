@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footprintnetwork.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625221609id_/https%3A//www.footprintnetwork.org/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footprintnetwork.org privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224171024id_/https%3A//www.footprintnetwork.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Global Footprint Network
 
@@ -10,13 +10,15 @@ Global Footprint Network will not share or sell an online or offline donor’s p
 
  **Information We Collect**
 
-When you visit the Global Footprint Network website, Global Footprint Network may collect personal information that you provide, such as your name, address, email address, and payment information. For instance, Global Footprint Network gathers information when you fill out the email newsletter signup form and donation form.
+When you visit the Global Footprint Network website, Global Footprint Network may collect personal information that you provide, such as your name, address, email address, and payment information. For instance, Global Footprint Network gathers information when you fill out the email newsletter signup form and donation form. We are GDPR compliant.
 
 In addition, Global Footprint Network and its service providers use a variety of techniques to gather other information about your use of the sites, including, among other things, your IP address, browser type, mobile device type, content visited while on the sites, and the duration of your visit to the sites.
 
 We use Google Analytics, which uses cookies and other, similar technologies to collect information about site use anonymously and reports website trends, without identifying individual visitors.
 
 We also collect information about your interactions with email messages, such as the links clicked and whether the messages were opened or forwarded.
+
+When Global Footprint Network developed its Footprint calculator at [www.footprintcalculator.org](http://www.footprintcalculator.org/) it made efforts to make it GDPR (EU General Data Protection Regulation) compliant.
 
 We may share aggregate statistics and other non-personally identifiable information with third parties for marketing, advertising, research, or similar purposes. These aggregate statistics will not allow anyone to identify you.
 
@@ -38,4 +40,4 @@ This Privacy Policy shall apply to the following websites and all associated sub
 
 If you have any questions about this Privacy Policy or wish to opt out of receiving communications from us, please contact Global Footprint Network at [info@footprintnetwork.org](mailto:info@footprintnetwork.org). Please allow 10 business days for us to respond to your request.
 
- **Last updated:** May 9, 2017
+ **Last updated:** May 9, 2019
