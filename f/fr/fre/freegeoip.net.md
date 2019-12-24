@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegeoip.net privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508143623id_/https%3A//ipstack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegeoip.net privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224223349id_/https%3A//ipstack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ipstack
 
@@ -8,7 +8,7 @@ _Last modified: 25-05-2018_
 
 #### 1\. General
 
-1.1. We, apilayer GmbH, FN 443956b (the “Company“), e-mail address: [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)] (the „E-Mail Address“), process your personal data as part of your use of our products (“Products”) or platform (“Platform” and, together with the Products, “Services”). We deal with your personal data in a confidential and responsible way. The processing of your personal data takes place in compliance with the General Data Protection Regulation („GDPR“) and the Austrian data protection act in its current form.
+1.1. We, apilayer GmbH, FN 443956b (the “Company“), e-mail address: [support@ipstack.com] (the „E-Mail Address“), process your personal data as part of your use of our products (“Products”) or platform (“Platform” and, together with the Products, “Services”). We deal with your personal data in a confidential and responsible way. The processing of your personal data takes place in compliance with the General Data Protection Regulation („GDPR“) and the Austrian data protection act in its current form.
 
 1.2. In this Privacy Policy we want to provide you with information about the company, the nature, scope and purposes of the data collection and use, trying to offer you an insight into the processing of your personal data.
 
@@ -18,8 +18,8 @@ _Last modified: 25-05-2018_
 
 **Company address:**   
 apilayer GmbH   
-Hoerlgasse 12/4   
-1090 Vienna, Austria   
+Elisabethstrasse 15/5   
+1010 Vienna, Austria   
 
 
 #### 2\. Data We Process
