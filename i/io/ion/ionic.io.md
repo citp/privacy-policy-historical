@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ionic.io privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417212026id_/https%3A//ionicframework.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ionic.io privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224223124id_/https%3A//ionicframework.com/privacy) for the most accurate reproduction.*
 
 # Ionic Framework - Privacy
 
