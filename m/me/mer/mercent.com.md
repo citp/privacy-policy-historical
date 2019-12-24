@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315041454id_/http%3A//www.commercehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224235835id_/https%3A//www.commercehub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommerceHub
 
@@ -53,7 +53,7 @@ _To Provide Our Services and Related Information_. CommerceHub uses information 
   * to provide you with information on our products and services (note that, when you provide us with your contact information, you expressly consent to our communicating with you about our products or services);
   * to measure and improve our Properties, products and services;
   * to refer you to a business partner that provides services in which you have expressed an interest on behalf of your company, or which we believe may benefit your business
-  * to develop, use, publish and otherwise commercialize Anonymous Information as defined and described below; and 
+  * to develop, use, publish and otherwise commercialize Anonymous Information as defined and described below; and
   * for any other lawful purposes as disclosed to you at the time you provide your information, with your consent, and as disclosed to you in this Policy.
 
 
@@ -155,6 +155,8 @@ United States of America
   
 ### Enforcement and Dispute Resolution
 
-In compliance with the US-EU Privacy Shield Principles, CommerceHub commits to respond promptly to complaints about your privacy and our collection or use of your personal information. Individuals with questions or concerns about the use of their personal data should contact CommerceHub at [privacy@commercehub.com](mailto:privacy@commercehub.com).
+In compliance with the Privacy Shield Principles, CommerceHub commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact CommerceHub at: [privacy@commercehub.com](mailto:privacy@commercehub.com).
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. As a last resort and in limited situations, individuals residing in the European Union may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
+CommerceHub  has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under the Privacy Shield Principals, there is  the possibility, under certain conditions, for the individual to invoke binding arbitration. Under the US-EU Privacy Shield, CommerceHub is liable for its onward transfer of personal information to its service providers.
