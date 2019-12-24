@@ -1,40 +1,44 @@
-<!--The following is the downloaded HTML source of the bazaarvoice.com privacy policy that was archived on 2019-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624005415id_/https%3A//www.bazaarvoice.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bazaarvoice.com privacy policy that was archived on 2019-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191224180647id_/https%3A//www.bazaarvoice.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M9KDV5T"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1158.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M9KDV5T"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"2987cccfc6",applicationID:"46145041"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
     <meta name="copyright" content="© Bazaarvoice. All rights reserved.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="rdBvts8OkhOrJUqrnO5wNRO0uJ2cMx5WD6Yp84XLRJw">
     <link rel="shortcut icon" href="https://www.bazaarvoice.com/wp-content/themes/bazaarvoice/images/UI/favicon.png">
     <meta name="msapplication-tap-highlight" content="no">
     <!-- Header Meta -->
-<title>
-  Privacy Policy | Bazaarvoice</title>
-<meta name="description" content="Bazaarvoice connects you to consumers so they can discover you, be inspired to choose you, and buy with confidence. Data and content from our shopping network power insights that help you understand and delight consumers.">
-<!-- Open graph meta -->
-<meta property="og:title" content="Privacy Policy | Bazaarvoice">
-<meta property="og:url" content="https://www.bazaarvoice.com/legal/privacy-policy/">
-<!-- Social SEO Values -->
-<meta property="og:description" content="Bazaarvoice connects you to consumers so they can discover you, be inspired to choose you, and buy with confidence. Data and content from our shopping network power insights that help you understand and delight consumers.">
-<meta property="og:image" content="https://media-misc.bazaarvoice.com/cards/BV18-EN-card-540x282.png">
-<!-- Site Meta values -->
-<meta property="og:site_name" content="Bazaarvoice">
-<meta property="og:type" content="website">
-<!-- Twitter specific, which also supports OG above -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@bazaarvoice">
-<meta name="twitter:creator" content="@bazaarvoice">
-    <link rel="dns-prefetch" href="//www.bazaarvoice.com">
+      <title>Privacy Policy | Bazaarvoice</title>
+<meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://www.bazaarvoice.com/legal/privacy-policy/">
+  <meta name="description" content="Bazaarvoice connects you to consumers so they can discover you, be inspired to choose you, and buy with confidence. Data and content from our shopping network power insights that help you understand and delight consumers.">
+  <!-- Open graph meta -->
+  <meta property="og:title" content="Privacy Policy | Bazaarvoice">
+  <meta property="og:url" content="https://www.bazaarvoice.com/legal/privacy-policy/">
+  <!-- Social SEO Values -->
+  <meta property="og:description" content="Bazaarvoice connects you to consumers so they can discover you, be inspired to choose you, and buy with confidence. Data and content from our shopping network power insights that help you understand and delight consumers.">
+  <meta property="og:image" content="https://media-misc.bazaarvoice.com/cards/BV18-EN-card-540x282.png">
+  <!-- Site Meta values -->
+  <meta property="og:site_name" content="Bazaarvoice">
+  <meta property="og:type" content="website">
+  <!-- Twitter specific, which also supports OG above -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@bazaarvoice">
+  <meta name="twitter:creator" content="@bazaarvoice">
+    
+<!-- This site is optimized with the Yoast SEO plugin v12.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//www.bazaarvoice.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="wp-block-library-css" href="https://www.bazaarvoice.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="bazaarvoice-css" href="https://www.bazaarvoice.com/wp-content/themes/bazaarvoice/bv-a3f77e47.css?ver=1" type="text/css" media="all">
-<link rel="canonical" href="https://www.bazaarvoice.com/legal/privacy-policy/">
-<link rel="shortlink" href="https://www.bazaarvoice.com/?p=14">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.bazaarvoice.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="bazaarvoice-css" href="https://www.bazaarvoice.com/wp-content/themes/bazaarvoice/bv-68f48e9f.css?ver=1" type="text/css" media="all">
 <link rel="alternate" type="application/json+oembed" href="https://www.bazaarvoice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bazaarvoice.com%2Flegal%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.bazaarvoice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bazaarvoice.com%2Flegal%2Fprivacy-policy%2F&amp;format=xml">
-        <!-- URL for ajax requests -->
+    
+    <!-- URL for ajax requests -->
     <script type="text/javascript">const ajaxurl = 'https://www.bazaarvoice.com/wp-admin/admin-ajax.php';</script>
     <!-- END URL for ajax requests -->
     <!-- Marketo API -->
@@ -43,6 +47,9 @@
         document.write(unescape("%3Cscript src='//munchkin.marketo.net/munchkin-beta.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="//munchkin.marketo.net/munchkin-beta.js" type="text/javascript"></script>
     <!-- End Marketo API -->
+    <!-- dataLayer Snippet -->
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({'event': 'dataLayer-initialized'});</script>
+    <!-- End dataLayer Snippet -->
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -78,7 +85,7 @@
     <header>
         <div class="container">
             <nav class="columns">
-                <a href="https://www.bazaarvoice.com/" class="header-logo column is-3-mobile is-1-tablet">
+                <a href="https://www.bazaarvoice.com/" data-click-type="header" data-click-text="Home" class="header-logo column is-3-mobile is-1-tablet">
                     <svg viewBox="0 0 55 51" width="20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="logo">
@@ -91,23 +98,27 @@
     </g>
 </svg>
                 </a>
-                <ul id="navigation" class="header-navigation column"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://www.bazaarvoice.com/the-bazaarvoice-advantage/">The Bazaarvoice Advantage</a></li>
-<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38"><a href="#">Products &amp; Services</a>
+                <ul id="navigation" class="header-navigation column"><li id="menu-item-3789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3789"><a href="#">Why Bazaarvoice</a>
 <ul class="sub-menu">
-	<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://www.bazaarvoice.com/ratings-and-reviews/"><i class="icon-ratings-reviews"></i><span>Ratings &amp; Reviews</span><span class="description">Leverage authentic opinions, photos, and videos to sell your product.<span></span></span></a></li>
-	<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.bazaarvoice.com/questions-and-answers/"><i class="icon-q-a"></i><span>Questions &amp; Answers</span><span class="description">Activate and respond to questions on your own site.<span></span></span></a></li>
-	<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://www.bazaarvoice.com/connections/"><i class="icon-connections"></i><span>Connections</span><span class="description">Respond to questions and reviews across our retail network.<span></span></span></a></li>
-	<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a href="https://www.bazaarvoice.com/curations/"><i class="icon-social-curations"></i><span>Curations</span><span class="description">Display authentic moderated social content directly on your site.<span></span></span></a></li>
-	<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://www.bazaarvoice.com/sampling/"><i class="icon-sampling"></i><span>Sampling</span><span class="description">Create and manage your own product sampling program.<span></span></span></a></li>
-	<li id="menu-item-997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-997"><a href="https://www.bazaarvoice.com/personalization/"><i class="icon-personalization"></i><span>Personalization Data</span><span class="description">Know what your visitors are shopping for before they hit your site.<span></span></span></a></li>
-	<li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a target="_blank" rel="noopener noreferrer" href="http://brandedge.bazaarvoice.com"><i class="icon-brand-edge"></i><span>Brand Edge</span><span class="description">Drive sales by collecting and distributing reviews to retail sites.<span></span></span></a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://www.bazaarvoice.com/the-bazaarvoice-advantage/" data-click-type="header" data-click-text="Our Advantage"><i><img src="https://www.bazaarvoice.com/wp-content/themes/bazaarvoice/images/UI/icon-advantage.svg"></i><span>Our Advantage</span><span class="description">A powerful content engine + a strategic, trusted partner.<span></span></span></a></li>
+	<li id="menu-item-3790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3790"><a href="https://www.bazaarvoice.com/network/" data-click-type="header" data-click-text="Our Network"><i><img src="https://www.bazaarvoice.com/wp-content/themes/bazaarvoice/images/UI/icon-network.svg"></i><span>Our Network</span><span class="description">The world’s largest, so your reviews go further.<span></span></span></a></li>
 </ul>
 </li>
-<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://www.bazaarvoice.com/success-stories/">Success Stories</a></li>
-<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://www.bazaarvoice.com/resources/">Resources</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38"><a href="#">Products &amp; Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://www.bazaarvoice.com/ratings-and-reviews/" data-click-type="header" data-click-text="Ratings &amp; Reviews"><i class="icon-ratings-reviews"></i><span>Ratings &amp; Reviews</span><span class="description">Leverage authentic opinions, photos, and videos to sell your product.<span></span></span></a></li>
+	<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.bazaarvoice.com/questions-and-answers/" data-click-type="header" data-click-text="Questions &amp; Answers"><i class="icon-q-a"></i><span>Questions &amp; Answers</span><span class="description">Activate and respond to questions on your own site.<span></span></span></a></li>
+	<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://www.bazaarvoice.com/connections/" data-click-type="header" data-click-text="Connections"><i class="icon-connections"></i><span>Connections</span><span class="description">Respond to questions and reviews across our retail network.<span></span></span></a></li>
+	<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a href="https://www.bazaarvoice.com/curations/" data-click-type="header" data-click-text="Curations"><i class="icon-social-curations"></i><span>Curations</span><span class="description">Display authentic moderated social content directly on your site.<span></span></span></a></li>
+	<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://www.bazaarvoice.com/sampling/" data-click-type="header" data-click-text="Sampling"><i class="icon-sampling"></i><span>Sampling</span><span class="description">Create and manage your own product sampling program.<span></span></span></a></li>
+	<li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a target="_blank" rel="noopener noreferrer" href="http://brandedge.bazaarvoice.com" data-click-type="header" data-click-text="Brand Edge"><i class="icon-brand-edge"></i><span>Brand Edge</span><span class="description">Drive sales by collecting and distributing reviews to retail sites.<span></span></span></a></li>
+</ul>
+</li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://www.bazaarvoice.com/success-stories/" data-click-type="header" data-click-text="Success Stories">Success Stories</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://www.bazaarvoice.com/resources/" data-click-type="header" data-click-text="Resources">Resources</a></li>
 </ul>                <div class="header-sidelinks column is-2-tablet is-narrow-desktop">
-                    <ul id="menu-login" class="login-menu"><li id="menu-item-370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370"><a href="https://login.bazaarvoice.com/portal/app">Log in</a></li>
-<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="https://www.bazaarvoice.com/contact/">Contact Us</a></li>
+                    <ul id="menu-login" class="login-menu"><li id="menu-item-370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370"><a href="https://portal.bazaarvoice.com/" data-click-type="header" data-click-text="Log in">Log in</a></li>
+<li id="menu-item-3802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3802"><a href="#global-modal" class="global-modal-link" data-target="global-modal" data-click-type="header" data-click-text="Get started">Get started</a></li>
 </ul>                </div>
                 <button class="header-hamburger-icon is-hidden-tablet">
                     <span></span>
@@ -140,9 +151,11 @@
                         <div class="page-content-sidebar-block"><p class="card-type">In this section</p><div class="related-pages-list"><ul id="menu-in-this-section" class="menu"><li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-236"><a href="https://www.bazaarvoice.com/legal/">Legal</a></li>
 <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-238"><a href="https://www.bazaarvoice.com/legal/privacy-policy/" aria-current="page">Privacy Policy</a></li>
 <li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://www.bazaarvoice.com/legal/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-3551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3551"><a href="https://www.bazaarvoice.com/legal/code-of-conduct/">Code of Conduct</a></li>
 <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="https://www.bazaarvoice.com/legal/client-agreements/">Client Agreements</a></li>
 <li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://www.bazaarvoice.com/legal/service-descriptions/">Service Descriptions</a></li>
 <li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="https://www.bazaarvoice.com/legal/terms-of-use/api/">API Terms of Use</a></li>
+<li id="menu-item-3696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3696"><a href="https://www.bazaarvoice.com/legal/vulnerability-disclosure-policy/">Vulnerability Disclosure Policy</a></li>
 </ul></div></div>                    </aside>
                 
                 <!-- page content -->
@@ -435,7 +448,7 @@ To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, 
         <div class="modal global-modal" id="global-modal">
   <div class="modal-background"></div>
   <div class="modal-content">
-    <a href="#" class="global-modal-close small-link" target="global-modal">Close</a>
+    <a href="#" class="global-modal-close small-link" data-target="global-modal">Close</a>
     <div class="columns modal-content-inner">
       <div class="column is-12">
         <div id="form">
@@ -445,7 +458,7 @@ To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, 
               <p class="global-subtitle">Tell us a little about yourself, and our sales team will be in touch shortly.</p>
             </div>
           </div>
-                          <form class="flag marketo-request-demo-form" data-formid="2234" id="mktoForm_2234">
+                          <form class="flag marketo-request-demo-form" data-form-type="demo" data-formid="2234" id="mktoForm_2234">
                 </form>
                       </div>
         <div class="form-completed" id="form-completed-2234" style="display: none">
@@ -462,45 +475,44 @@ To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, 
 
       <!-- Column 1 -->
       <div class="column is-3 toogle-footer-menu">
-        <p class="footer-titles">The Bazaarvoice Advantage</p><div class="footer-nav"><ul id="menu-the-bazaarvoice-advantage" class="menu"><li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82"><a href="/the-bazaarvoice-advantage/#proactive-strategy-expertise">Proactive Strategy &amp; Expertise</a></li>
-<li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a href="/the-bazaarvoice-advantage/#single-platform-innovation">Single Platform Innovation</a></li>
-<li id="menu-item-84" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-84"><a href="/the-bazaarvoice-advantage/#largest-shopper-network">Largest Shopper Network</a></li>
-<li id="menu-item-85" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85"><a href="/the-bazaarvoice-advantage/#content-integrity-security">Content Integrity &amp; Security</a></li>
-<li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86"><a href="/the-bazaarvoice-advantage/#exceptional-service-support">Exceptional Service &amp; Support</a></li>
+        <p class="footer-titles">The Bazaarvoice Advantage</p><div class="footer-nav"><ul id="menu-the-bazaarvoice-advantage" class="menu"><li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82"><a href="/the-bazaarvoice-advantage/#proactive-strategy-expertise" data-click-type="footer" data-click-text="Proactive Strategy &amp; Expertise">Proactive Strategy &amp; Expertise</a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a href="/the-bazaarvoice-advantage/#single-platform-innovation" data-click-type="footer" data-click-text="Single Platform Innovation">Single Platform Innovation</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-84"><a href="/the-bazaarvoice-advantage/#largest-shopper-network" data-click-type="footer" data-click-text="Largest Shopper Network">Largest Shopper Network</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85"><a href="/the-bazaarvoice-advantage/#content-integrity-security" data-click-type="footer" data-click-text="Content Integrity &amp; Security">Content Integrity &amp; Security</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86"><a href="/the-bazaarvoice-advantage/#exceptional-service-support" data-click-type="footer" data-click-text="Exceptional Service &amp; Support">Exceptional Service &amp; Support</a></li>
 </ul></div>      </div>
 
       <!-- Column 2 -->
       <div class="column is-3 toogle-footer-menu">
-        <p class="footer-titles">Products &amp; Services</p><div class="footer-nav"><ul id="menu-products-services" class="menu"><li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://www.bazaarvoice.com/ratings-and-reviews/">Ratings &amp; Reviews</a></li>
-<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://www.bazaarvoice.com/questions-and-answers/">Questions &amp; Answers</a></li>
-<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="https://www.bazaarvoice.com/curations/">Curations</a></li>
-<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://www.bazaarvoice.com/sampling/">Sampling</a></li>
-<li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a target="_blank" rel="noopener noreferrer" href="http://resources.bazaarvoice.com/personalization.html">Personalization</a></li>
-<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a target="_blank" rel="noopener noreferrer" href="http://brandedge.bazaarvoice.com">Brand Edge</a></li>
+        <p class="footer-titles">Products &amp; Services</p><div class="footer-nav"><ul id="menu-products-services" class="menu"><li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://www.bazaarvoice.com/ratings-and-reviews/" data-click-type="footer" data-click-text="Ratings &amp; Reviews">Ratings &amp; Reviews</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://www.bazaarvoice.com/questions-and-answers/" data-click-type="footer" data-click-text="Questions &amp; Answers">Questions &amp; Answers</a></li>
+<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="https://www.bazaarvoice.com/curations/" data-click-type="footer" data-click-text="Curations">Curations</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://www.bazaarvoice.com/sampling/" data-click-type="footer" data-click-text="Sampling">Sampling</a></li>
+<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a target="_blank" rel="noopener noreferrer" href="http://brandedge.bazaarvoice.com" data-click-type="footer" data-click-text="Brand Edge">Brand Edge</a></li>
 </ul></div>      </div>
 
       <!-- Column 3 -->
       <div class="column is-2 toogle-footer-menu">
-        <p class="footer-titles">Company</p><div class="footer-nav"><ul id="menu-company" class="menu"><li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.bazaarvoice.com/about/">About</a></li>
-<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.bazaarvoice.com/careers/">Careers</a></li>
-<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://www.bazaarvoice.com/press/">Press</a></li>
-<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://www.bazaarvoice.com/events/">Events</a></li>
-<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a href="http://blog.bazaarvoice.com/">Blog</a></li>
-<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://www.bazaarvoice.com/contact/">Contact</a></li>
+        <p class="footer-titles">Company</p><div class="footer-nav"><ul id="menu-company" class="menu"><li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.bazaarvoice.com/about/" data-click-type="footer" data-click-text="About">About</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.bazaarvoice.com/careers/" data-click-type="footer" data-click-text="Careers">Careers</a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://www.bazaarvoice.com/press/" data-click-type="footer" data-click-text="Press">Press</a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://www.bazaarvoice.com/events/" data-click-type="footer" data-click-text="Events">Events</a></li>
+<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a href="https://www.bazaarvoice.com/blog/" data-click-type="footer" data-click-text="Blog">Blog</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://www.bazaarvoice.com/contact/" data-click-type="footer" data-click-text="Contact">Contact</a></li>
 </ul></div>      </div>
 
       <!-- Column 4 -->
       <div class="column is-2 toogle-footer-menu">
-        <p class="footer-titles">Support</p><div class="footer-nav"><ul id="menu-support" class="menu"><li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a href="https://support.bazaarvoice.com/">Customer Support</a></li>
-<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a href="https://knowledge.bazaarvoice.com/">Knowledge Base</a></li>
-<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="https://developer.bazaarvoice.com/">Developers</a></li>
-<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://status.bazaarvoice.com/">System Status</a></li>
+        <p class="footer-titles">Support</p><div class="footer-nav"><ul id="menu-support" class="menu"><li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a href="https://support.bazaarvoice.com/" data-click-type="footer" data-click-text="Customer Support">Customer Support</a></li>
+<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a href="https://knowledge.bazaarvoice.com/" data-click-type="footer" data-click-text="Knowledge Base">Knowledge Base</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="https://developer.bazaarvoice.com/" data-click-type="footer" data-click-text="Developers">Developers</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://status.bazaarvoice.com/" data-click-type="footer" data-click-text="System Status">System Status</a></li>
 </ul></div>      </div>
 
       <!-- Social Media -->
       <div class="column is-2">
         <ul class="footer-social has-text-right-tablet is-hidden-mobile">
-          <li><a class="icon-facebook" href="https://www.facebook.com/bazaarvoice" target="_blank"></a></li><li><a class="icon-twitter" href="https://twitter.com/bazaarvoice" target="_blank"></a></li><li><a class="icon-linkedin" href="https://www.linkedin.com/company/bazaarvoice/" target="_blank"></a></li><li><a class="icon-instagram" href="https://www.instagram.com/bazaarvoice/" target="_blank"></a></li>        </ul>
+            <li><a class="icon-facebook" href="https://www.facebook.com/bazaarvoice" target="_blank"></a></li><li><a class="icon-twitter" href="https://twitter.com/bazaarvoice" target="_blank"></a></li><li><a class="icon-linkedin" href="https://www.linkedin.com/company/bazaarvoice/" target="_blank"></a></li><li><a class="icon-instagram" href="https://www.instagram.com/bazaarvoice/" target="_blank"></a></li>        </ul>
         <div class="has-text-right-tablet">
           <bvselect selected="en">
         </bvselect></div>
@@ -509,7 +521,7 @@ To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, 
         <div class="footer-language">
                       <div class="dropdown-filter same-mobile">
               <span class="dropdown-filter-selection"></span>
-              <div class="filter-fields"><ul id="menu-language-toggle" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a href="/"><span class="selected">USA</span></a></li>
+              <div class="filter-fields"><ul id="menu-language-toggle" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a href="/"><span class="selected">North America</span></a></li>
 <li id="menu-item-88" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a href="/uk/">United Kingdom</a></li>
 <li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89"><a href="/fr/">France</a></li>
 <li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a href="/de/">Germany</a></li>
@@ -518,24 +530,24 @@ To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, 
                   </div>
 
         <ul class="footer-social has-text-right-tablet is-hidden-tablet">
-          <li><a class="icon-facebook" href="https://www.facebook.com/bazaarvoice"></a></li><li><a class="icon-twitter" href="https://twitter.com/bazaarvoice"></a></li><li><a class="icon-linkedin" href="https://www.linkedin.com/company/bazaarvoice/"></a></li><li><a class="icon-instagram" href="https://www.instagram.com/bazaarvoice/"></a></li>        </ul>
+            <li><a class="icon-facebook" href="https://www.facebook.com/bazaarvoice" target="_blank"></a></li><li><a class="icon-twitter" href="https://twitter.com/bazaarvoice" target="_blank"></a></li><li><a class="icon-linkedin" href="https://www.linkedin.com/company/bazaarvoice/" target="_blank"></a></li><li><a class="icon-instagram" href="https://www.instagram.com/bazaarvoice/" target="_blank"></a></li>        </ul>
       </div>
     </div>
 
     <div class="columns footer-legal-nav">
-      <div class="column is-6 no-border"><ul id="menu-footer-legal" class="menu"><li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-custom-parent menu-item-77"><a href="https://www.bazaarvoice.com/legal/">Legal</a></li>
-<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-78"><a href="https://www.bazaarvoice.com/legal/privacy-policy/" aria-current="page">Privacy</a></li>
-<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.bazaarvoice.com/legal/terms-of-use/">Terms</a></li>
-<li id="menu-item-678" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-678"><a href="/legal/privacy-policy/#optout" aria-current="page">Opt out</a></li>
-<li id="menu-item-693" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-693"><a href="/legal/privacy-policy/#certifications-and-codes-of-conduct" aria-current="page">Ad choices</a></li>
+      <div class="column is-6 no-border"><ul id="menu-footer-legal" class="menu"><li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-custom-parent menu-item-77"><a href="https://www.bazaarvoice.com/legal/" data-click-type="footer" data-click-text="Legal">Legal</a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-78"><a href="https://www.bazaarvoice.com/legal/privacy-policy/" aria-current="page" data-click-type="footer" data-click-text="Privacy">Privacy</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.bazaarvoice.com/legal/terms-of-use/" data-click-type="footer" data-click-text="Terms">Terms</a></li>
+<li id="menu-item-678" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-678"><a href="/legal/privacy-policy/#optout" aria-current="page" data-click-type="footer" data-click-text="Opt out">Opt out</a></li>
+<li id="menu-item-693" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-693"><a href="/legal/privacy-policy/#certifications-and-codes-of-conduct" aria-current="page" data-click-type="footer" data-click-text="Ad choices">Ad choices</a></li>
 </ul></div>      <div class="column has-text-right-tablet">
-        <p class="pullquote-title" property="dc:rights">© Bazaarvoice. All rights reserved.</p>      </div>
+        <p class="pullquote-title" property="dc:rights"></p>      </div>
     </div>
 
   </div>
 </footer>
-        <script type="text/javascript" src="https://www.bazaarvoice.com/wp-content/themes/bazaarvoice/js/bv-846210f0.js?ver=1"></script>
-<script type="text/javascript" src="https://www.bazaarvoice.com/wp-includes/js/wp-embed.min.js?ver=5.2.1"></script>
+        <script type="text/javascript" src="https://www.bazaarvoice.com/wp-content/themes/bazaarvoice/js/bv-db7b3007.js?ver=1"></script>
+<script type="text/javascript" src="https://www.bazaarvoice.com/wp-includes/js/wp-embed.min.js?ver=5.2.4"></script>
     <!-- Cookie Consent, pt.2 -->
         <!-- End Cookie Consent -->
     <script>window.page_template = '';</script>
@@ -544,6 +556,6 @@ To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, 
     <div class="bounce2"></div>
     <div class="bounce3"></div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2987cccfc6","applicationID":"46145041","transactionName":"YANXYxQDWRVRUUddVllJdFQSC1gIH0JSU1w=","queueTime":0,"applicationTime":229,"atts":"TERUFVwZShs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2987cccfc6","applicationID":"46145041","transactionName":"YANXYxQDWRVRUUddVllJdFQSC1gIH0JSU1w=","queueTime":0,"applicationTime":273,"atts":"TERUFVwZShs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
