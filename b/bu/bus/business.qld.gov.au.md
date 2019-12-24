@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.qld.gov.au privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406075450id_/https%3A//www.business.qld.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.qld.gov.au privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224174053id_/https%3A//www.business.qld.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Business Queensland
 
