@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the getadblock.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216093036id_/https%3A//getadblock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getadblock.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224211113id_/https%3A//getadblock.com/privacy) for the most accurate reproduction.*
 
 # AdBlock Privacy Policy
-
-Effective Date: November 5, 2018
 
 This Privacy Policy describes AdBlock's information practices for its website and browser extension. We take your privacy seriously and want you to understand exactly what information we collect, how we process that information, which pieces of information you can request us to remove, and how to contact us about this policy. Please read this policy carefully. When it comes to your personal information, most of this policy applies to users who choose to donate to support AdBlock. If all you do is use the extension then you're practically, except for an anonymous, unique ID, invisible to us. 
 
@@ -41,6 +39,20 @@ When you visit the AdBlock website we collect IP address, unique ID, logging of 
 When you donate from the AdBlock website, we collect and store all information, excluding the credit card number, given during the payment process. This includes IP address, unique ID, logging some of the button clicks (payment, download buttons) and user event logging. AdBlock does not handle or have access to full credit card numbers, bank account details or payment account login information. Each payment processor stores and uses the data you provide them differently. 
 
 AdBlock uses both Stripe and PayPal as payment processors when you donate to AdBlock. To learn more about their data collection policies, please consult their respective privacy policies when using them. 
+
+**AdBlock Premium**
+
+When you purchase or otherwise obtain a AdBlock Premium license AdBlock will store information regarding the license, including: unique extension identifiers associated with the license, email associated with the license, last license check timestamp and license status. This data will be stored during the active lifetime of the license and for a period after cancellation. 
+
+The same data that is stored when you make a donation to AdBlock is stored when you purchase Premium. 
+
+**AdBlock Premium - Sync**
+
+If you elect to use the Sync feature of AdBlock Premium then AdBlock collects information about the particular extension installation, including: unique extension identifier, sync device name and the timestamp of when the sync enrollment was made. This data will be stored during the active lifetime of the license and for a period after cancellation. 
+
+AdBlock also stores the entire set of extension settings in plain text on our servers to accomodate the sync functionality across multiple extension installations. This storage location has restricted access and is only made available to AdBlock employees to diagnose and fix errors with the sync service. Every reasonable precaution is taken to secure this storage location but no database or server is 100% secure, and we cannot guarantee the absolute security of the extension settings data. If you have concerns about the AdBlock extension settings data being compromised, since there is no current mechanism to encrypt the data from the user's end, please carefully consider whether you want to use this feature. 
+
+Finally, AdBlock Premium - Sync uses PubNub for real time sync notifications. Please refer to the [ PubNub privacy policy](https://www.pubnub.com/privacy-policy/) for information on their data collection policies. PubNub is used to alert the extension of a new settings version only and does not have access to the extension settings information. 
 
 **Anonymous information**
 
