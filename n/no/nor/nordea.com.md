@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordea.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330233053id_/https%3A//www.nordea.com/en/privacy-policy-new.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordea.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225004724id_/https%3A//www.nordea.com/en/general-terms-and-policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | nordea.com
 
@@ -156,7 +156,7 @@ We use cookies and similar technologies to deliver products and services to you,
 
 You can set or amend your web browser controls to accept or reject cookies. If you choose to reject cookies, you may still use our websites and some services, however your access to some functionality and areas of our website or services may be restricted substantially. 
 
-For more information, see cookies at the footer of our local website Nordea.fi.
+For more information, see cookies at the footer of our website [Nordea.com](https://web.archive.org/en/cookies.html "Cookies - General")
 
 ## [8.]() How long we process your personal data
 
