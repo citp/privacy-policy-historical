@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkmarx.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906180114id_/https%3A//www.checkmarx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmarx.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224185504id_/https%3A//www.checkmarx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
