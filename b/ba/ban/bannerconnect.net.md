@@ -1,170 +1,129 @@
-> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828050422id_/http%3A//bannerconnect.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224213443id_/https%3A//www.greenhousegroup.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Bannerconnect
+# Greenhouse
 
-This privacy policy has been developed by Bannerconnect B.V. (“Bannerconnect”) to inform you about the information collected and processed through the services provided by Bannerconnect to or on behalf of our clients (“Services”), as well as during your visit to the website of Bannerconnect ([www.bannerconnect.net](http://www.bannerconnect.net/)) and all underlying subpages (“Website”).
+How and why we collect data and covering your choices.
 
-#### Who is Bannerconnect?
+(last update, 29th January 2019)
 
-Bannerconnect is a digital media specialist, specialized in making advertising more relevant, informative and useful by getting digital advertisement seen by the right person in the right time and place. The Services offered by Bannerconnect in this regard include: media planning, buying and selling; marketing communications planning; campaign analytics and research; advertisement serving; and data management. Our clients use our Services in order to show you the most useful and relevant advertisement. We believe that such advertising is a crucial element of the Internet ecosystem, providing information to users and helping to subsidize online content and services.
+ **Who are we?**
 
-You can find Bannerconnect at:  
+Greenhouse Group BV and its subsidiaries (Blue Mango Interactive BV, Fresh Fruit Digital BV, We Are Blossom BV and BannerConnect BV) are part of GroupM. GroupM is a global media investment business and is the umbrella for a group of companies, including media planning and buying companies such as Mindshare, Mediacom, Wavemaker, Essence, Greenhouse and technology providers including: [m]Platform, Xaxis and LemonPi. For more details about these technologies, please refer to the FAQ section of this notice which provides links to their own privacy notices.
 
+In the European Economic Area (EEA) and Switzerland the GroupM legal entity responsible for the data that GroupM collects is GroupM UK Limited. Outside of the EEA and Switzerland the responsible legal entity is GroupM Worldwide, LLC.
 
-#### Which information is collected/received by Bannerconnect?
+This notice outlines how and why GroupM (“GroupM”) collects and uses personal data from visitis to this website (“Website”). It also explains your rights as someone who may provide personal data to GroupM through the Websites and how to exercise these rights. If you are an individual residing in the EEA or Switzerland you should be aware that our DPO can be contacted at DPO@GroupM.com. 
 
-Bannerconnect may collect and/or receive information about you when you visit our Website, or websites of third parties using our Services. Which information is collected about you may vary in these two instances. In this paragraph we enumerate this information.
+**What information is collected and used by GroupM?**
 
-_The Website_ : when you visit our Website, we collect information about your visit. This information consists of the following data:
+We collect information that enables us to identify your browser and device and tell us which pages within our Website you visit and on which pages you spend the most time. We do this by using the following:
 
-  * Your browsing, web usage and interactions on that website;
-  * Your Internet browser;
-  * Your computer operating system;
-  * Your computer’s Internet protocol address (IP-address);
-  * The Uniform Resource Locator (URL) of the websites you have visited before and after viewing an advertisement;
-  * The websites and webpages you are viewing when an advertisement is shown.
+  * Cookie: is a small alphanumeric text file that we automatically assign to visitors to our website. It is stored in your browser and allows us to identify you. Sometimes a cookie resides on your device for just the single time you’re visiting our Website; this is called a session cookie. Sometimes a cookie remains on your device until you delete it or it expires automatically; this is called a persistent cookie. Both types of cookies are used on our Website. 
+  * IP address: means Internet protocol address.
+  * Pixel: is a line of code that sits within our webpages and which we use to record that you have visited a particular page within our website.
 
 
 
-If you wish to apply for a job offer, posted on our Website, you may do so electronically using the application form provided on our Website. To complete the form, we ask you to provide the following information:
+We use some, or all, of this information to improve your website experience by delivering content that you are likely to prefer on future visits. Our lawful basis for this type of processing is that we have a legitimate interest in understanding and improving your experience of our Website. 
 
-  * First and last name;
-  * Email address;
-  * Telephone number;
-  * Address;
-  * Cover Letter (optional);
-  * Resume;
-  * Date Available (optional);
-  * Desired Pay;
-  * Website, Blog or Portfolio (optional);
-  * LinkedIn Profile URL (optional);
-  * Highest Education Obtained, including College / University (optional);
-  * How you found the vacancy.
+If you don’t agree to us using cookies and the above information, you may prevent their use through your browser settings or you may choose to opt out HERE. By choosing not to accept cookies, certain Website features may not work as we have intended.
+
+ **Specific Cookie Types used by GroupM**
+
+  * Performance Analytics Tracking: This type of cookie provides aggregated information about where a user may go on the Website.
+  * Google Analytics (persistent): GroupM uses Google Analytics to help us analyze how visitors use the Website. Among other things, Google Analytics uses cookies to collect information about the number of visits to the Website, the webpage that referred visitors to the Website, language, device, browser and operating system, the pages visitors view within the Website and other similar details. We do not share this information with third parties. When used this way the Google Analytics cookie is a persistent cookie, and will remain on your device until the cookie expires or you delete it. These cookies may appear as _utma, _utmb, _utmc, _utmz, _utmv, _utmt.
+  * Google Analytics (session): This cookie may appear as has_js. We do not retain this data as it is deleted upon closing of your browser, and therefore we cannot share it with any third parties.
+  * Social media/Social Sharing: These are cookies that help with the Website’s functionality. These are third party cookies, and they allow you to share comments, pages, bookmarks, and likes, and help to provide access to social networking tools easily.
+  * Widgets: Social media widgets used on this Website include LinkedIn, Twitter, and YouTube. These social media widgets collect information about your visit to the Website and your use of the social platform services (for example, buttons or likes) on the Website. We do not share information with these social platforms, however please keep in mind the social networks collect the data of your site visit and interaction with the social widget directly.
 
 
 
-If you wish to contact us, you may do so _inter alia_ by using the contact form provided on our Website. To send in the form, we ask you to complete the following information:
+**Collection and Use of Contact Information.**
 
-  * Name;
-  * Company;
-  * Job title (optional);
-  * Email;
-  * Message (optional);
-  * Team.
+There are a few instances where we may collect your name and contact details (such as e-mail address, telephone number and postal address). But, we won’t collect this information without consent and never use it in online advertising placement. Examples where you might voluntarily provide your name and contact details include: 
 
+• Responding to requests: we keep a record of information, including email address and other contact information, solely for responding to a user’s request. For example: 
 
+o If you click on the “contact us” link and submit a question or comment, we will collect your name, e-mail address, and phone number to send you a reply.
 
-_The Services_ : the Services provided by Bannerconnect may include that advertisement is shown on websites of third parties. If you visit such a website operated by a third party and possibly interact with the advertisement, information about your visit and use of the website and/or advertisement will be collected by Bannerconnect, or passed to Bannerconnect by that third party. This information includes the following data:
+o If you voluntarily ask to be added to our newsletter list, we will collect your e-mail address to send you our email newsletter.
 
-  * Identifiers, including IP-address, cookie-id or device-id;
-  * Information about your connection to the website, webpages and/or the ad server, including the date, time and type of the connection;
-  * Internet browser details, including browser type and language settings;
-  * Operating system details, including OS type and language settings;
-  * Device details, including location and (in case of mobile device) longitude, latitude, model and carrier;
-  * Use of and interaction with the website, webpage or advertisement, including your interests;
-  * Information on the advertisements presented to you;
-  * Details of panel members of market(ing)- research companies, including panel member number, gender and age.
+By entering your contact information as noted above you are consenting to GroupM using that information to contact you regarding your request. This consent is our legal basis for using the information in this way.
 
+If at any time you decide to withdraw your consent and like would us to remove you from our marketing e-mails or newsletters, or to unsubscribe from our database, you can contact us using the details provided at the bottom of this Privacy Notice. You must include your name, e-mail address, and clear instructions regarding changes you are requesting. You may also unsubscribe from e-mail newsletters by clicking on the “unsubscribe” link found at the bottom of the e-mail.
 
+GroupM is a data controller responsible for your personal data (as this term or similar term is defined by applicable law) when you visit our Website or provide us with contact information. 
 
-It is possible that a client of Bannerconnect wishes Bannerconnect to process additional information in the course of the Services. Please consult the privacy statements of the websites you visit to obtain more information on any (additional) information that is collected.
+**California**
 
-#### What are cookies and are they used by Bannerconnect?
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. To request a list of companies, if any, to which GroupM has provided personal information for its own marketing purposes, please email us at DPO@groupm.com . Please allow 30 days for a response.
 
-A cookie is a small text file that is stored in a browser by a website or ad server which allows the website or ad server to recognize and remember the browser, user preferences and other information. Cookies do not harm your computer or any files on your computer. For more information about the use of cookies by Bannerconnect, please [click here](http://www.bannerconnect.net/cookie-declaration/).
+ **Frequently Asked Questions**
 
-#### For which purposes and on which grounds will the information be processed? **  
-**
+ **Does GroupM share any information with other vendors or partners?**
 
-The information we collect and receive will be used for the following purposes:
+We may provide access to information we collect to our vendors and contractors (also known as third parties) who are performing services on our behalf to enable the uses of your information that we have described above. These vendors are not permitted to use this information for any other purpose. As noted above the Website uses social media widgets including, but not limited to, YouTube, Twitter, and LinkedIn so users can easily share information about their visits with “likes” or “shares.” Always review the privacy policy of social media sites as their data collection practices are separate from GroupM practices. Additionally, we must disclose information when we believe we’re legally obliged to, or in order to investigate, prevent, or take action regarding prohibited activities, such as incidents of hacking, misuse, or other prohibited activities.
 
-  * To perform our Services to our clients, which includes collection and (statistical) analyzing of information for individual profiling;
-  * To monitor and calculate the revenue generated with a Service;
-  * To optimize and (statistically) analyze the Services and the Website;
-  * To analyze and categorize (Internet) domains visited;
-  * To identify the “Customer Journey”, the trajectory of the customer form the moment of first contact to the sale/use and possible repeated sale/use;
-  * To perform optimization in respect to a campaign or Service, including to measure the amount of contact moments (e.g. frequency cap);
-  * To secure, amend and improve our Services and Website;
-  * To process your application for a job offer you have submitted through the Website;
-  * To contact you regarding your application for a job offer, or following a contact form you have submitted through the Website;
-  * To provide your information to third parties in accordance with this Privacy Policy.
+ **Does GroupM transfer your Personal Data outside the European Union?**
 
+If you provide us with personal data, we may transfer that personal data to our affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world to enable us to use that personal data as described above. Our standard practice is to use European Union model clauses for the transfer of data from the EEA & Switzerland to other non-EEA countries.
 
+ **Use of this site by Children & Children’s data:**
 
-In the course of our Services, we will analyze your information to build individual profiles. These profiles will be used to predict future interests and display targeted (online) advertisement. The aim is to provide you with offers that are relevant and interesting for you. The profiling is based on your (surfing)behaviour on the internet. This includes the viewing of advertisements, any interaction with it and the overlap between desktop and mobile usage. As your name is not collected in the course of our Services, we expect that our Services will have no further impact, other than providing you with a more pleasant user experience when surfing the Internet.
+We’re sensitive to children's privacy. Our Website is not developed for or directed at children under age 13. We specifically request that children not provide information about themselves through our Website. If you believe your child has provided this kind of information and would like it deleted from our database, you can contact us at DPO@groupm.com . If we become aware we’ve collected information about a child under the age of 13, we’ll delete it.
 
-Bannerconnect will obtain your prior consent before processing your information for its own purposes, unless Bannerconnect has a legitimate interest to process your information. If you have given your consent to the processing, you have the right to withdraw your consent at any time, by sending an email to that extent to: [_privacy@bannerconnect.net_](mailto:privacy@bannerconnect.net).  Bannerconnect will discontinue the processing of your information upon receipt of your withdrawal. However, any processing performed prior to your withdrawal remains a legitimate processing based on a valid consent at the time. Bannerconnect will not be under the obligation to reverse the processing. **  
-**
+ **Data retention and storage**
 
-#### Will the information be shared with third parties?
+We will keep your information that we collect on the Website for a reasonable period for the purposes set out above. We follow generally accepted online advertising industry standards to ensure that your personal data disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used. These standards include undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use.
 
-Bannerconnect will only share your information, or information derived therefrom, with third parties in one of the following events:
+ **Information Security**
 
-  * Disclose your information to our client in the course of providing our Services;
-  * Disclose your information to our service providers, which process the information on our behalf, in the course of our Services and/or the Website;
-  * Disclose your information if we are required to do so on account of national or international law or legislation and/or to comply with an authorized request or demand, or if necessary in order to defend Bannerconnect’s own rights or interests.
+Maintaining the privacy of our users’ information is very important to us which means we take care and pay special attention to our security measures to protect this information from data breaches. We follow industry standards to protect against the unauthorized access to, retention of, and disclosure of information. This includes physical, electronic, and management activities to protect information integrity, access, and use. 
 
+**Linking to other websites/Third party sites:**
 
+A link from our Website to another website does not imply our endorsement of affiliates or websites, and we do not control third party websites to which we link, nor assume responsibility for their content or privacy policies. Once you follow a link to another website, the GroupM Privacy Notice no longer applies. It’s important to always read the privacy policy of any website you are visiting.
 
-If Bannerconnect wishes to share your information with any other third party and/or for any other purpose, we will first obtain your explicit consent.
+ **Transfer of data upon change of control:**
 
-_Third party websites_
+In the event that another company acquires us, or all or substantially all of the assets of our business, through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any information you may have provided through the “contact us” page) that is in our possession or under our control to the acquiring party, and that information may be used by the acquiring party in its business.
 
-The Website may contain links that lead you from our Website to another website. Such a link does not imply our endorsement of that website. We do not control the websites to which we link and assume no responsibility for their content or privacy policies. Therefore, you should carefully review the privacy policies that apply to any websites you access from our Website.
+ **Data Subject Rights of individuals in the EEA and Switzerland:**
 
-#### Who is responsible for the processing of your information?
+You have the right to access, update, change, delete, restrict the use of, or obtain a copy of your Personal Data in an easily readable format. In certain circumstances, you may also request that GroupM transfer your Personal Data to a third party, and the right to object to its use for marketing purposes. If you wish to exercise any of these rights please contact our DPO at DPO@GroupM.com.
 
-The Services of Bannerconnect include various different types of services. Furthermore, in the course of providing it’s Services, Bannerconnect may cooperate with different parties. In this regard, Bannerconnect may be acting as a _controller_ , the party who determines the purposes and means of the processing of personal data and is therefore responsible for the processing, or as a _processor_ , the party acting on behalf of the controller. The following distinction may be made between the various Services, in which Bannerconnect has in general the following role:
+Where our processing of your personal data is based on your consent, you also have the right to withdraw this consent at any time by contacting our DPO at DPO@GroupM.com. Please note that your withdrawal of consent will not affect the lawfulness of our processing of your personal data prior to withdrawal of consent.
 
-Service*| Role  
----|---  
-Service provided to the advertiser/intermediary directly, using BC technology| Controller  
-Service provided to the advertiser/Intermediary directly, using advertiser’s/intermediary’s technology| Processor  
-Service provided to the advertiser directly, using a combination of BC-technology and advertiser’s/intermediary’s technology| Controller for BC technology, Processor for operating on the advertiser’s technology  
-Service provided to intermediary, consisting of data as a service through BC-technology.| Processor  
-Service provided to research partners, consisting of data collection, analyses and reporting.| Processor  
-  
-_*_ _any reference to technology in this table should be read as technology that is owned or contracted_
+ **GroupM Technology Companies & Privacy Notice Links**
 
-In so far as Bannerconnect is the controller for a processing, Bannerconnect will ensure that the processing is in accordance with the applicable law and legislation. Where Bannerconnect is a processor, its is the responsibility of the controller on who’s behalf Bannerconnect processes your information to comply with the applicable legislation. Nonetheless, Bannerconnect will of course also handle your information with due care when acting as processor.
-
-#### How long will the information be retained?
-
-The information collected and processed by Bannerconnect is kept for a period of no more than six months. After this period, the information will be anonymized. It is possible that our clients set a different retention period for the information collected and processed on their behalf. Please consult the privacy statements of these clients to learn more about the retention periods maintained.
-
-#### What are your rights regarding the information collected and processed?
-
-With regard to your information that is collected and/or processed by Bannerconnect, you may exercise the following rights:
-
-  * _Right of access_ : you may request Bannerconnect to confirm if information about you is processed. If such is the case, you will receive access to your information.
-  * _Right of rectification_ : if our information about you is incorrect, you may request Bannerconnect to rectify your information. This includes the right to have incomplete information completed, taking into account the purpose of the processing.
-  * _Right to erasure_ : you may request Bannerconnect to erase your information, for instance if the information is unlawfully processed, or if you have withdrawn your consent.
-  * _Right to restrict processing_ : you may request Bannerconnect to restrict the processing of your information, if (i) the information is inaccurate, (ii) the processing is unlawful, (iii) you need us to retain the information after the retention period for a legal claim, or (iv) you have objected to the processing and a verification of our legitimate interests is pending.
-  * _Right to data portability_ : you may request Bannerconnect to provide you with an electronic file of your information, or to transfer your personal data to a third party if such is technically feasible.
+  * [m]Platform https://www.groupm.com/mplatform-privacy-policy
+  * Xaxis https://www.xaxis.com/privacy-policy/
+  * LemonPi https://www.lemonpi.io/privacy-policy/
 
 
 
-We will respond to your requests without undue delay, but within one month. If permitted under applicable legislation, Bannerconnect may extend the response period with two further months if such is necessary due to the complexity and number of requests. Bannerconnect will notify you of any extension and the reason thereof. If Bannerconnect denies your request, we shall inform you on the reasons for such a denial.
+ **Changes to this Privacy Notice**
 
-You may (in addition to the rights above) lodge a complaint regarding the processing of your information by Bannerconnect, or regarding the denial of a request as meant above, with the Dutch Data Protection Authority.
+Please note that because of the changing nature of privacy laws and regulations, digital technologies, and our business, we may modify this Privacy Notice from time to time. Please review this Privacy Notice periodically to become aware of any changes that may have occurred (we will update the effective date at the top of the page to help you know when changes have been made). 
 
-If information about you is processed by Bannerconnect on behalf of one of our clients, we will forward your request to the relevant client. We will inform you that we have forwarded your request and provide you with the contact details of the relevant client.
+**If you have any Complaints or wish to contact us:**
 
-#### Will information be transferred to countries outside the EU? **  
-**
+Please use the details set out below depending on where you are located and we will do our best to address any complaints or worries you may have about how we collect and handle your Personal Data.
 
-Due to technical and operational reasons Bannerconnect will transfer your information to third parties outside of the European Economical Area (“EEA”). This is the case if our client is vested in a country outside of the EEA, when we use services of third parties vested outside the EEA in the course of our Services or the Website, or if Bannerconnect is required to provide information to foreign authorities. The countries outside the EEA where these third parties are vested may not provide the same level of data protection as provided in the EEA. Bannerconnect will take the measures required in accordance with applicable legislation to ensure the lawful transfer of your information, for instance to enter into the _European Model Clauses_. **  
-**
+If for whatever reason you don’t feel like we have adequately addressed your concerns you can contact the Data Protection Authority in your jurisdiction and make a formal complaint.
 
-#### May this Privacy Policy be amended? **  
-**
+ **Europe:**
 
-Bannerconnect may amend this Privacy Policy. We will notify you of any changes through our Website and/or through a message to you. **  
-**
+GroupM UK Limited 
 
-#### Questions? **  
-**
+DPO@GroupM.com 
 
-Should you have any questions regarding this Privacy Policy, you can send an email to: [_privacy@bannerconnect.net_](mailto:privacy@bannerconnect.net).
+GroupM, 40 The Strand, London WC2N 5RW – Attn: Data Protection Officer
 
-Last updated: January 2017
+ **Outside Europe:**
+
+GroupM Worldwide LLC
+
+Privacy@groupm.com 
+
+GroupM, 498, 7th Avenue, New York, NY, 10018, USA - Attn: Director of Privacy
