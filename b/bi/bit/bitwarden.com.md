@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitwarden.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417014257id_/https%3A//bitwarden.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitwarden.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224181739id_/https%3A//bitwarden.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bitwarden
 
