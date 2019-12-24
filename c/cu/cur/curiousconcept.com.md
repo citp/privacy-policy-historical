@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the curiousconcept.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817151703id_/https%3A//curiousconcept.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curiousconcept.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224192849id_/https%3A//curiousconcept.com/privacy) for the most accurate reproduction.*
 
-# Curious Concept | Privacy Policy
+# Curious Concept
 
-_Last updated: October 26, 2014_.
+_Last updated: August 6, 2019_.
 
 This privacy policy attempts to outline how Curious Concept websites collect and use information from their users.
 
@@ -12,7 +12,7 @@ Like most other websites, Curious Concept websites collect non-personal informat
 
 ### Cookies
 
-Cookies are files with small amount of data which are sent to your browser from a website and stored on your computer's hard drive. They can be used for tracking purposes, however Curious Concept websites specifically uses them to enhance user experiences by remembering preferences. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
+Cookies are files with small amount of data which are sent to your browser from a website and stored on your computer's hard drive. Curious Concept websites uses them to to track preferences and AB testing experiments. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
 
 ### Forms
 
@@ -24,7 +24,7 @@ Curious Concept websites use reputable third party vendors to provide traffic an
 
 ### Traffic Analytics
 
-Traffic analysis and monitoring of Curious Concept websites is provided by Google Analytics and Clicky Web Analtyics. This information is used to direct resources, plan maintenance windows and improve usability. Both Google and Clicky use cookies, in addition Google may use the data it collects to contextualize and personalize the ads of its own advertising network.
+Traffic analysis and monitoring of Curious Concept websites is provided by Google Analytics. This information is used to direct resources, plan maintenance windows and improve usability. Google uses cookies and may use the data it collects to contextualize and personalize the ads of its own advertising network.
 
 ### Security
 
@@ -32,7 +32,7 @@ Additional security measures on Curious Concept websites are enabled by CloudFla
 
 ### Advertising
 
-Ads appearing on Curious Concept websites are delivered to you by Google Adsense and VigLink. Through it's DoubleClick cookie, Google and its partners are able recognize user's computers and serve targeted advertisements based on their prior visitation to Curious Concept websites and/or other sites on the Internet. For more information about Google Advertising, cookies, and how to opt-out, please visit [Google's Advertising Privacy & Terms](http://www.google.com/policies/technologies/ads/). For more information about VigLink, including how to opt-out, please visit [What’s VigLink](http://www.viglink.com/legal/disclosures/for-users/).
+Ads appearing on Curious Concept websites are delivered to you through our partners Newor Media or BuySellAds Carbon.
 
 ### Changes
 
