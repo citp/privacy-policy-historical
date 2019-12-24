@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adasiaholdings.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105054159id_/https%3A//anymindgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adasiaholdings.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224164901id_/https%3A//anymindgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # AnyMind Group | Privacy Policy
 
