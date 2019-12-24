@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadtools.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326093827id_/https%3A//www.leadtools.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadtools.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224031225id_/https%3A//www.leadtools.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LEAD Technologies, Inc.
 
