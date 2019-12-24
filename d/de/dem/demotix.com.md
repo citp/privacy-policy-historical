@@ -1,181 +1,67 @@
-> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2016-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160107233058id_/http%3A//www.demotix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224224435id_/https%3A//demotix.com/wpautoterms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Demotix.com
+# Privacy Policy - DemotiX
 
-### Demotix
+Last updated: September 13, 2019
 
-  
+DemotiX (“us”, “we”, or “our”) operates the DemotiX website (the “Service”).
 
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-This Demotix website (“website”) is operated by Demotix Ltd whose address is:   
-Demotix  
-111 Salusbury Road  
-London, NW6 6RG  
-England
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms “Demotix Ltd”, “we”, “us”, “our” and “ours” when used in this Privacy Policy mean Demotix Ltd which includes both subsidiaries, divisions, branches, affiliates or companies under the control of Demotix Ltd. The terms “you”, “your” and “yours” when used in this Privacy Policy mean any user of this website.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://demotix.com
 
-Privacy Policy last updated 7 December 2011.
+## Information Collection And Use
 
-### Introduction to Privacy Policy
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
 
-  
+## Log Data
 
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-We are committed to the privacy and confidentiality of information provided by you to us. This Privacy Policy describes our current policies and practices with regard to Personal Data collected by us from you directly and/or through the website where such Personal Data is protected by the Data Protection Act 1998 (“DPA”). The term “Personal Data” refers to personally identifiable information about you, such as your name, job description, health related data, birthday, e-mail address, certain location data or mailing address. 
+## Google AdSense & DoubleClick Cookie
 
-Please note that by submitting Personal Data manually or in electronic form to us and/or by using our website you give your consent that all Personal Data on each occasion that you submit may be processed by, and/or shared within the Demotix Ltd Group, in the manner and for the purposes described in this Privacy Policy.
+Google, as a third party vendor, uses cookies to serve ads on our Service.
 
-You may be accessing our website from a computer or mobile phone device (through an iPhone application, for example) and this policy governs your use of our website regardless of the means of access. We also like to interact with you on third party sites where we post content or invite your feedback, such as www.facebook.com/demotix and www.twitter.com/demotix ("Third Party Sites").
+## Cookies
 
-### Notification of changes to this Privacy Policy
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-We are continually improving our methods of communication and adding new functionality and features to this website and to our existing services. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change from time to time. If and when our data practices change, we will notify you of the changes via this page. We encourage you to check this Privacy Policy frequently.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-### Collection of Personal Data
+## Service Providers
 
-  
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-You may provide us with your Personal Data in order to receive information, advice, or services from us. We may request personal information about you such as your name, postal address, email address, telephone numbers and we may ask for information which enables us to provide a personalised service to you. The information you give us is either manually or electronically stored in our databases.
+## Security
 
-If you register with us, you will share some personal information, such as your name, address, date of birth and e-mail address. You do not have to be a registered user to visit the website. But, you will have to register if you want to upload images, interact with the website or make full use of our services. Once you register, you will have an account with Demotix and a password to access that account. You may never use another person's account without permission and you may not use anyone else's password. You should keep your registration current and complete. You are responsible for maintaining the confidentiality of your account and password. Please also let us know if there is any unauthorized use of your account or password. We recommend that you always log out from your account at the end of a session with us to prevent other people from accessing your account without your permission. You represent and warrant that all the information you provide in your public profile and user account is accurate and complete. You are solely responsible for any activity occurring on your user account.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate post codes are received, we will use third party software to fix them. 
+## Links To Other Sites
 
-We also reserve the right to monitor and/or record your communication with us by mail, voice, email or any other form of transmission for the purposes of quality control, security and other business needs. Any Personal Data contained in such recorded information will be processed in accordance with the terms of this Privacy Policy.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-We may also receive your Personal Data from other members of the Demotix Ltd Group, our service providers, agents, advisers or business partners, including, without limitation, news agencies. Where Personal Data is disclosed to us by third parties, it is the obligation of the disclosing party to ensure such Personal Data is disclosed with requisite authority and consent and we will process such Personal Data in accordance with this Privacy Policy.
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-### Your public profile
+## Children’s Privacy
 
-Once you become a registered user, you may provide additional information to your Demotix profile describing your skills, experience, background and other information. Providing additional information about yourself beyond what is minimally required at registration is entirely up to you. Any information you provide at registration or in your profile section may be used by us as described our Terms of Use and this Privacy Policy. You can review the personal information you provide to us and make any desired changes to the information you publish, or to the settings for your account including your email and contact preferences, at any time by logging in to your account on the website. We will also offer functionality that allows you to opt-out of public indexing of your profile information at the registration stage. Please be aware that even after your request for a change is processed we may, for a time, retain residual information about you in its backup and/or archival copies of its database. 
+Our Service does not address anyone under the age of 18 (“Children”).
 
-### Use of Personal Data
+We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we discover that a child under 18 has provided us with Personal Information, we will delete such information from our servers immediately.
 
-  
+## Compliance With Laws
 
+We will disclose your Personal Information where required to do so by law or subpoena.
 
-We process your Personal Data, and share your Personal Data with other members of the Demotix Ltd Group, or others, only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. Some of these purposes may include the following:
+## Changes To This Privacy Policy
 
-  * For the purposes of managing your account and content that you upload or licence from the site
-  * To process your request for information or advice
-  * To help diagnose any problems with our server and administer our website
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
+## Contact Us
 
-We will also collect billing and financial information necessary to process your payments, which may include your postal and e-mail addresses. We may also receive the billing and payment information that you provide when your purchase is processed by another party, such as Paypal or Moneybookers. Our Terms of Business explain our policies and terms relevant to our charges and billing practices. 
-
-### Publically Accessible Information
-
-We offer you the opportunity to post, submit and exchange content and information on publicly accessible areas of our website. You should exercise caution if you choose to disclose personally identifiable information in a publicly accessible area. Remember that this information may remain indefinitely in the publicly accessible area of the website. Also, other users may also be able to view two or more of your individual postings collectively. You are solely responsible for any information that you disclose and disseminate on publicly accessible areas. If you have a concern about any personally identifiable information you have posted on any publicly accessible areas and are unable to delete or edit it, please contact us.
-
-### Anonymous data collected through this website
-
-  
-
-
-In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our website. For example, we use technology to track which pages of our website our visitors view. We also use technology to determine which Web browsers our visitors use. This technology does not identify you personally; it simply enables us to compile statistics about our visitors and their use of our website. 
-
-We use this anonymous data to improve the content and functionality of our website and our e-mail updates, to better understand our customers and visitors, and to improve the services we offer.
-
-### Cookies
-
-In order to collect the anonymous data described in the preceding paragraph, we may use temporary “cookies” that remain in the cookies file of your browser until the browser is closed. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. We also use your IP address to help diagnose problems with our server and to administer our website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many of our visitors are from outside of the UK. We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics.
-
-### Disclosure of your Personal Data
-
-  
-
-
-We do not share with, nor sell nor distribute your Personal Data to unrelated third parties, except under these limited circumstances:
-
-  * Personal Data may occasionally be transferred to third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have consented or otherwise in accordance with this Privacy Policy. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf.
-  * We will provide your information to third party companies to perform services on our behalf, including payment processing, data analysis, e-mail delivery, hosting services and customer service. We direct all such third party service providers to maintain the confidentiality of the information disclosed to them and to not use your information for any purpose other than to provide services on our behalf. Please note that payments made by third party payment providers may also be subject to additional policies.
-  * Unless you have given us your consent to the processing of your Personal Data in accordance with our Privacy Policy (which includes sharing or other disclosing), we will not share or disclose your Personal Data to any unrelated third parties for their own marketing purposes.
-  * We may share or transfer the information in our databases to comply with a legal or regulatory requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, reorganisation, transfer of business, dissolution or similar event.
-  * If we sell or buy any business or assets, in which case we may disclose your Personal Data to the prospective seller or buyer of such business or assets.
-
-
-
-Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law.
-
-### Data Integrity and Security
-
-  
-
-
-We strive to maintain the reliability, accuracy, completeness and currency of Personal Data in our databases and to protect the privacy and security of our databases. The security measures in place on our website and computer systems, aim to protect the loss, misuse or alteration of the information you provide to us. We keep your Personal Data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or regulatory requirements, or our data retention policy.
-
-We use industry-standard Secure Sockets Layer ("SSL") authentication to guarantee the confidentiality of sensitive information, in this instance, the tax identification number you may provide on our registration page. SSL authentication and encryption of the information that you send to us over the Internet help protect such online information from third party interception.
-
-We urge you to protect your own privacy. We recommend that you do not share your password with anyone or share your password in an unsolicited phone call or e-mail.
-
-Unfortunately, despite all of our efforts, there is always a risk that third parties may unlawfully intercept transmissions. For example, we cannot ensure the security of your data during transmission to us or the security of your data on an iPhone, Android (or other telephone device that can use phone applications) or on another computer. This reality is true of all Internet or data transmission use. As a result, we cannot ensure the security of any information you transmit, and you transmit all information at your own risk. 
-
-### Location-Based Services
-
-When you upload news stories, data and/or images including photographs (“Content”) using the Demotix app on a device we collect location information. We collect two forms of location data, in both instances pertaining to the Content you submit: (i) General Geographic Location Data: we collect this information to enable us to accurately display the geographic location of your Content when we post on our website. We only publish the general geographic location of the Content, for example city, town or country. (ii) Image File Data: we collect EXIF file metadata, this metadata is usually automatically tagged to your Content (for example images/photographs), we collect and use this information to verify the geo-location of the Content you submit, we also pass this information to our third party media buyers for the same purpose. We obtain your consent to collect this data on the registration page of our website, and on the first instance you use the Demotix app on your device.
-
-### Data Access
-
-  
-
-
-Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will (subject to the exceptions to the requirement to disclose under the DPA) disclose to you the Personal Data we hold about you, for which we may make a small charge. Requests to delete Personal Data are subject to any applicable legal and regulatory requirements or document retention obligations and any of our current contracts which are still in force. If you wish to make a subject access request, relating to Personal Data held about you by Demotix Ltd, please write to: 
-
-Demotix Newcombe House 10th Floor, 45 Notting Hill Gate London, W11 3LQ
-
-### Inaccurate Data
-
-We encourage you to ensure that your Personal Data is accurate and kept up to date so please regularly update any information you have given to us by sending an email to info@demotix.com, or by writing to us. We will correct, amend or delete any Personal Data that you notify us is inaccurate and notify any third party recipients of necessary changes.
-
-### Links to other websites
-
-  
-
-
-Our website may contain hyperlinks to websites that are not operated by us. Any such hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. We do not control these websites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself. 
-
-Our website contains hyperlinks to other pages on our website. We may use technology to track how often these links are used and which pages on our website our visitors choose to view. Again this technology does not identify you personally – it simply enables us to compile statistics about the use of these hyperlinks.
-
-### Transfer of Data Abroad
-
-  
-
-
-We may transfer data between members of the Demotix Ltd Group, and our offices and third party processors which may be located outside the EEA. Where your Personal Data is transferred outside the EEA we will ensure that the recipient agrees to keep your information confidential and hold it securely in accordance with the requirements of the DPA.
-
-If you are visiting our website from a country other than the country in which our servers are located, the various communications will necessarily result in the transfer of information across international boundaries. 
-
-By providing us with your Personal Data, you consent to the processing and transfer of your data as set out in this section.
-
-### Unsubscribe
-
-  
-
-
-We hope you will be delighted with our services. If you no longer wish to receive information from us and want to be removed from our standard mailing list you can "unsubscribe" by email or post by contacting us at the address given below. Please allow twenty eight days for the unsubscribe process to be completed.
-
-Remember that by stopping the information that you receive from us about our products and services may not benefit you.
-
-If you do not want to receive unsolicited mail from any source, you can stop this by registering with the "Mailing Preference Service". There are also telephone, fax and email preference services. For more information on the preference services, please visit the Direct Marketing Association's website.
-
-### Governing Law
-
-This Privacy Policy forms part of our website Terms of Use and as such shall be governed by and construed in accordance with the laws of England. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England.
-
-### Feedback
-
-  
-
-
-We welcome comments about this Privacy Policy. If you have any questions about this Privacy Policy, or any part of our service, you may contact us by emailing info@demotix.com
-
-Our address is:   
-Demotix  
-111 Salusbury Road  
-London, NW6 6RG  
-England
-
-0207 6447501
+If you have any questions about this Privacy Policy, please contact us.
