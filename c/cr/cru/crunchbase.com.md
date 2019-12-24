@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunchbase.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630185228id_/https%3A//about.crunchbase.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchbase.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224014524id_/https%3A//about.crunchbase.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crunchbase
 
