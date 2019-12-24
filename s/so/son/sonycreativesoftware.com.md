@@ -1,181 +1,204 @@
-> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520165119id_/https%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224071126id_/https%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
 
-# Sony Creative Software - Corporate - Privacy Policy
+# Privacy Policy
 
-Privacy Policy
+**Last Revised: November 15, 2019**
 
-Last Update: February 2015
+## What does this policy cover?
 
-At Sony, we believe you have a right to know what type of information we may collect when you interact with us and our practices with respect to that information. The guidelines contained herein apply only to information collected by or for Sony Creative Software Inc. ("SCS"). This includes, among other things, websites operated by or for SCS ("Sites"). Websites which are linked to/from these Sites (including websites of other Sony affiliated companies, e.g., Sony Electronics Inc., Sony Music Entertainment, Sony Pictures Entertainment, Sony Computer Entertainment America) and via banner ads may have different policies; therefore, please review the privacy policy notices on those websites for details.
+This statement describes **Sony Creative Software Inc. (“SCS”)** and its affiliates’ use of your data. References in this policy to **SCS,** **we, our** or **us** shall mean **Sony Creative Software Inc.**
 
-While SCS does not generally require that you provide us with personally identifiable information (for example, in order to visit and use the SCS Sites), please note that in order to participate in some activities, it will be necessary for you to provide such information. If you choose not to provide it for those activities, you may not be able to participate in them.
+This Privacy Policy applies to the information collected by **SCS** both offline and online, including through **www.sonycreativesoftware.com** and through any interactive features, applications, widgets, blogs, social networks and any other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology (collectively, “ **SCS** Websites”)
 
-  
-
-
-## Notice to California Residents. Your California Privacy Rights:
-
-California resident, you have the right to receive: a) information identifying any third party company(ies) to whom SCS may have disclosed, within the previous calendar year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please [send us a message](https://www.sonycreativesoftware.com/privacyinfo).
+Please note that when you enter any subsites accessible through **www.sonycreativesoftware.com** , such subsites may have their own specific privacy statements. Additionally, the websites of affiliated **SCS** companies, including some that are linked to/from the **SCS** Websites, and internet domains that are linked to/from the **SCS** Websites, may have different policies; therefore, please review the privacy policy notices on those websites if you visit them.
 
   
 
 
-## Collection of Information:
+## What information do we collect?
 
- ** _SCS may ask you to provide Personal Information,_** meaning individually identifiable information, such as your email address, name, mailing address, telephone number, social security number, credit card number, or persistent identifier (such as a customer number held in a cookie) which is associated with individually identifiable information, to, among other things, enable you to participate in contests, chat rooms, on bulletin boards, to obtain product or service support, to fill out a registration, to download certain software or to order products and services. SCS may combine the information you provide with other information we may collect from you or your devices or from third parties so that we can more effectively tailor our Sites, services and offerings to you.
+ **Information You Provide.**
 
- ** _SCS will not share the Personal Information you provide with any other parties, except_** (a) to other Sony "Affiliates" (i.e., (i) Sony Corporation, (ii) any company of which 50% or more of its outstanding shares are owned by Sony Corporation, directly or indirectly, and (iii) any company with the name "SONY" as a part of its trade name) who may want to contact you about products, services or other offerings that may be of interest to you (SCS and such Affiliates being collectively referred to as "Sony"), (b) with your consent (see below), (c) as may be required by law or court order, (d) to persons or companies SCS engages to carry out or provide support for our products and services or for the operation of our Sites or our business (in connection with joint marketing arrangements, co-branded relationships, or otherwise), or (e) to appropriate third parties, including law enforcement or other government agencies, in connection with a criminal investigation, fraud prevention, or other legal action or if SCS reasonably believes it is necessary to do so to protect SCS, its customers, or the public. SCS may also provide data from transactions that it believes to be fraudulent to third parties that provide fraud prevention services to SCS and other merchants.
+While **SCS** does not generally require that you provide us with personal data in order to visit and use **SCS** Websites, please note that in order to participate in some activities, we may ask you to provide information that could reasonably be used to contact you or to identify you personally (such as first and last name, e-mail address, mailing address and telephone number). **SCS** may also ask you to provide other information about yourself, which includes categories such as demographic information (such as gender, geographic region, age, etc.) or certain information about your preferences and interests.
 
- ** _Co-Branded Sites_**. When you visit or use a part of any website that is co-branded (i.e., including both Sony and non-Sony branding) or that is a part of a joint promotion involving SCS and one or more third parties (each a "Co-Branded Party"), you are providing and consenting to provide and are transmitting the Personal Information and other information collected, provided or obtained to SCS and to each of the Co-Branded Parties involved, without any other notice or further consent. Please note that we do not control any Co-Branded Parties' use or treatment of information you provide to them and you should consult each of their privacy policies or any separate Co-Branded privacy policy posted on or linked from the Co-Branded Site to determine your rights with respect to their use and treatment of your information. You will need to communicate with us and each Co-Branded Party directly, as applicable, if you decide you no longer wish to receive communications or if you wish to change any information you have supplied.
+Therefore, the information that we collect and process may include:
 
- ** _Unless you instruct us otherwise,_** SCS may contact you to provide information about products, services, promotions, contests, or other activities or offerings that may be of interest to you. You can instruct us whether or not you wish to receive such information by checking or unchecking the box indicating your preference, as applicable, at the place where your information is collected. In addition, with each commercial email you receive from SCS or any of its business units, you will be given the opportunity to indicate if you do not wish to receive future commercial emails from SCS or the SCS business unit which sent it to you.
+  * your name;
+  * your address, e-mail address and phone number;
+  * your marketing preferences, including any consents you have given us;
+  * a password you create for use on the website
 
- **To adjust your preferences related to Sony Creative Software products, click[here.](https://www.sonycreativesoftware.com/mailprefs)**
 
- ** _With your consent,_** SCS may share your Personal Information with third parties outside of the Sony group of companies who may want to contact you about products, services or other offerings that may be of interest to you. SCS will seek to obtain your consent at the place where the information is collected either by an "opt-out" or "opt-in" method, or by other means (such as an email request). Each of these companies may have their own privacy policies. We do not control and are not responsible for these other parties, their privacy policies or their use or treatment of your Personal Information or other information. We and our Affiliates make no representation regarding how any third parties use, manage, store, treat or maintain your Personal Information or other information and you should therefore carefully review all such third parties' privacy policies. If you consent to receiving communications from any of these third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications. If you wish to withdraw your consent from any further sharing of your Personal Information with non-affiliated third parties for marketing purposes you may do so by clicking on the link provided above and providing the requested information.
 
-For instructions on how to request changes to the Personal Information you have provided to SCS, please [send us a message](https://www.sonycreativesoftware.com/privacyinfo), or write to us at:
+ **Information We Collect Automatically**
 
-Privacy Office  
-Sony Creative Software  
-8215 Greenway Blvd  
-Suite 400  
-Middleton, WI 53562
+In addition to any personal data or other information that you choose to provide to us via the SCS Websites, whenever you visit or interact with the SCS Websites, **SCS** automatically collects certain information such as your IP address and/or another unique identifier ("Device Identifier") for the computer, mobile device, technology or other device ("Device") you use to access the SCS Websites and any referring website. (A Device Identifier is a number that is automatically assigned to your Device when you access a website or its servers. Our computers identify your Device by its Device Identifier.) Some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the Device used to access the SCS Websites.
 
- **System Information.** We may collect your computers', network enabled devices', systems' and/or networks' IP addresses and message information for system administration, record keeping, capacity planning, volume and other operational reasons, as well as for advertising and royalty reporting as necessary in the conduct of our business. When you use our services, our systems may record this information, which may be stored with your registration, order or other information you provide to us. This may allow us, among other things, to determine which other websites linked you to us.
+In addition, **SCS** , as well as certain third-party analytics and other service providers, may use a variety of technologies that automatically or passively collect information about how you use the SCS Websites ("Usage Information"). Usage Information may include, in part, browser type, operating system, the page served, the time at which a page was accessed and/or the time spent on a page, and the preceding page views.
 
-We collect and maintain Personal Information and/or other information about visitors to our Sites, devices and users of devices that access or use our services and Sites, as well as anyone who sends us information or communications, and recipients of our communications. Much of this information we may gather directly by asking (e.g., hobbies, interests, purchasing habits, music preferences, difficulties in using a particular feature), but we also use technology to collect anonymous information, for example, regarding the content you view through our Sites, products and services and the devices you use to connect to them. We use such information to, among other things, enhance and customize our Sites and services and the advertising and promotions we make available to attempt to create a better experience. We also aggregate information (meaning it does not identify any individual) to analyze trends and statistics to improve your online experiences, our Sites, services, and customer support. If you visit or use the Sites or have registered or provided us with Personal Information about yourself, it is likely that "cookies" allow us to identify you and associate you with your registration, your devices, your applicable Account, user name or ID, information and preferences. For a description of how we use "cookies" see the section below entitled "Cookies."
+ **SCS** may receive information about you from third parties. In addition, if you are on another website and you opt-in to receive information from us that website will forward to us your e-mail address and other information about you so that we may contact you as requested. We may also supplement the information we collect about you with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. When we obtain personal data from third parties, we will apply this Privacy Policy to the personal data received, unless we have disclosed otherwise.
 
- **Device ID.** Some of the applications used in connection with our products and services generate a device identification ("ID") value during installation or use. This is a number that serves to identify your computer or other device (e.g., for licensing purposes), and which contains no specific information about you, your device, or any files or other data on your system. Among other things, these ID values serve as an effective way to combat software piracy.
+Therefore, the information that we may automatically collect from you and process may include:
 
- **Cookies.** When you visit any of our Sites, advertisements appearing thereon, use one or more of our services, or receive emails from SCS, we may use technology commonly referred to as a "cookie" which stores small bits of data on your computer. While actual "cookie" technology is currently among the most common, we may use a wide variety of technological tools, means and mechanisms (e.g., XML technology, clickstream data, etc.) to help us to customize your experience to better match your interests and preferences and otherwise improve and enhance the services we provide. We will use the term "cookie" to refer to any and or all of these tools, means and mechanisms, whether they are currently available and in use, developed or discovered in the future or otherwise. We use cookies in a variety of ways. For example, we use cookies to save your user ID, Account number or other information (so you do not have to re-enter it each time you visit or use our services) and to help us keep count of your return visits to our Sites and, in some cases, to our advertisers' or partners' or co-branded websites, which helps us determine which services, promotions, features, content and functions users like best. In general, browsers or separately purchased software tools may allow you to erase cookies from your hard drive. You acknowledge and understand that erasing cookies may limit or restrict your ability to use any or all the features and functions of our Sites, Co-Branded Sites and services. We may also use technology to detect the absence or presence of any versions of software or software updates installed on your computer and to track and monitor content you are downloading, streaming, using or otherwise accessing. Any or all of these activities can occur periodically or when necessary, without any other specific notice to you. We may also use cookies to identify your computer each time we automatically update or attempt to update your software. Cookies allow us to transmit and arrange for automatic installation of updates, modifications and even full re-installations of software on your computer to address security, digital rights management, interoperability or performance issues or to enhance the range of features and functions available through our Sites. Any or all of these activities can occur periodically or when necessary, without any other specific notice to you.
-
- **Third Party Ads and Personal Information.** Without limiting or amending any other provisions or terms described in our Privacy Policy, you should be aware that on some of our Sites, we use third parties to post and serve advertisements. Some of these third parties (e.g., Google's AdSense) use their own cookies and/or other technology to collect information about you and your visit to our Site(s) and your use of our services. We do not always control the advertisements you may see and while these third parties do not collect Personal Information about you (such as name, address, telephone number or email), they may collect other data (e.g., 'context-related' information such as which browser is being used, which domain you came to our Sites from, and what time and which pages are being accessed on our Sites, and other websites you may visit before or after leaving our Sites) and system information such as IP addresses. If you would like more information about Google's AdSense — including whether and how this information may be used by Google, [click here](http://www.google.com/privacy_ads.html). Your continued use of our Sites and services will constitute your agreement to this Privacy Policy and the data collection and advertising practices that apply when you use our services or visit our Sites.
-
- **Research and Tracking Techniques.** Web beacons, pixel tags, passive capture technologies or other technologies may be used by SCS, third parties we engage or third party application providers for purposes such as researching and tracking certain usage, site interaction, and other activities on our Sites, on certain network enabled devices, and in emails you receive from us. Information collected through these technologies is typically in an aggregate, non-personally identifiable form. However, in some cases, the information collected may include personally identifiable information provided by the user where it is deemed advantageous to collect such information for purposes such as improving the usability of our Sites, providing customer support, and enabling users to access third party content and applications.
+  * Your IP address or another unique identifier, such as a Device Identifier
+  * Information related to your Device such as the platform, operating system, browser type, or physical location
+  * Your Usage Information such as the content served, the time at which the content was accessed and/or the time spent using the content, and the preceding content views
 
   
 
 
- **"Do Not Track" Signals.** Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, SCS currently does not alter its practices when it receives a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+## How do we use this information, and what is the legal basis for this use?
 
-In addition, note that third parties may collect personal information about your online activities over time and across different websites when you visit our websites or other online websites and services.
+We process this personal data for the following purposes:
+
+  * As required for business purposes or to establish and fulfill a contract with you, for example **fulfilling an online software purchase or product registration**. This may include verifying your identity, communicating with you and providing services relevant to our business, including providing customer services and arranging the delivery or other provision of products, prizes or services.
+  * As required by **SCS** to enable our business and pursue our legitimate interests, in particular: 
+    * we will use your information to provide services you have requested, and respond to any comments or complaints you may send us;
+    * we monitor use of the **SCS** Websites, and may use your information to help us monitor, improve and protect our content, services and SCS Websites, both online and offline;
+    * we may use information you provide to tailor your experience on our SCS Websites or personalize our services for you;
+    * we may use your information to provide you with information about contests, sweepstakes or other promotions (collectively, “Promotions”) or other offerings that may be of interest to you;
+    * we will use your information to provide you with support and answer questions or other requests;
+    * we may monitor any customer account to prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime, in accordance with applicable law;
+    * we may use information you provide to investigate any complaints received from you or from others, about the **SCS** Websites or our products or services;
+    * we may use your information to invite you to take part in market research or surveys;
+    * we may also use the information we collect to improve the **SCS** Websites and our content and services, for internal business purposes, and to contact you with regard to your use of the **SCS** Websites and, in our discretion, changes to any of our policies.
+  * For compliance with applicable laws and protection of **SCS’s** legitimate business interests and legal rights, including, but not limited to, use in connection with legal claims, compliance, regulatory, and investigative purposes (including disclosure of such information in connection with legal process or litigation).
+
+
+
+In addition, we may send you direct marketing in relation to our services, or other services provided by our Affiliates and carefully selected partners. You will be able to opt-out of those materials by following the instructions in the communication **. To control your direct marketing settings, please visit** [https://www.sonycreativesoftware.com/mailprefs](https://web.archive.org/mailprefs)
 
   
 
 
-## Use and Disclosure of Anonymous Information
+## Who will we share this data with, and where?
 
-Anonymous information about you, such as your hobbies, interests, purchases, music and viewing preferences, downloads, burns, transfers, page visits and other information related to your user activity may be collected, and in some cases aggregated, by SCS and/or third parties whose applications you may access through your devices. This data can then be used to, among other things, tailor promotions, advertising, and communications that may be relevant to you. Such anonymous information may also be shared with advertisers, business partners, sponsors, licensors, content rights holders and other third parties, for example, to inform them about demographics or content preferences of visitors to our Sites and users of our products, or to ensure proper royalty reporting.
+ **To Affiliates**
+
+SCS may share the personal data we collect from you to other Sony affiliated companies ("Affiliates") (Affiliates include: (i) Sony Corporation, (ii) any company of which 50% or more of its outstanding shares are owned by Sony Corporation, directly or indirectly, and (iii) any company with the name "SONY" as a part of its trade name) who may provide services to us, assist us with fulfilling your requests or improving our content, services or advertising, or want to contact you about products, services or other offerings that may be of interest to you ( **SCS** and such Affiliates being collectively referred to as "Sony").
+
+ **To Third-Party Service Providers Providing Services on SCS’s Behalf**
+
+We may from time to time employ third-parties to perform functions on our behalf, and thus, we may also share your personal data with third-party service providers that assist us with providing content, fulfilling your requests, improving our content, services or advertising, or otherwise performing services for us. Example: if you access content or services that are published, developed or supported by an Affiliate or third-party, your personal data may be shared with that Affiliate or third-party for purposes related to that content or those services, including service administration and/or development.
+
+Additionally, we may share your information in order to host or operate the **SCS** Website, for data analysis purposes, and for the administration of Promotions, such as in connection with winner selection and prize fulfillment on our own or jointly with a third party. Such Promotions may require registration and the disclosure of both personal data and non-personal data. In the event that a Promotion is offered jointly with a third party, as a result of your participation in such Promotion, your personal data and non-personal data may be shared with such third party, which sharing we will disclose to you at the time you provide your information. By entering a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor and/or other third parties connected to the Promotion to use your name, voice and/or likeness in advertising and marketing materials. Therefore, always carefully read the rules of the Promotion before entering.
+
+ **When You Consent to Have Your Personal Data Shared or Otherwise Request That We Share Your Information**
+
+We may offer you the opportunity to consent to the sharing of your information with third-parties, for example so you are able to receive information and/or marketing offers from third parties. Additionally, you may request, sometimes through your use of an interactive feature or third- party application, that we share personal data about you with a third-party, and we will typically do so in those circumstances. If you consent or request to receive communications from third-parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications.
+
+The provisions above apply to our sharing of personal data with Affiliates and third-party service providers. They do not cover use of personal data that those Affiliates and third-party service providers collect directly from you. Such use of personal data is covered by the relevant Affiliate’s and/or third-party’s privacy policy and not this Privacy Policy.
+
+ **Business Transactions**
+
+We may share your personal data with Affiliates for internal reasons, primarily for business and operational purposes, including any corporate reorganization, restructuring or other corporate change. In addition, **SCS** or any of its assets, including the **SCS** Websites may be sold, or other transactions may occur in which your personal data is one of the key business assets in the transaction. In such a case, your personal data may be one of the business assets we transfer. Hence, **SCS** reserves the right to disclose and transfer user information, including personal data, in connection with any activity and/or transaction described above.
+
+ **Legal Protections and Law Enforcement**
+
+We may transfer and disclose information, including your personal data, (including Usage Information and Device Identifier (including IP address)), to third-parties: (i) to comply with legal obligations; (ii) when we believe in good faith that the law requires it; (iii) at the request of governmental authorities conducting an investigation; (iv) to verify or enforce our Terms of Service ([https://www.sonycreativesoftware.com/corporate/terms](https://web.archive.org/corporate/terms)) or other applicable policies; (v) to respond to an emergency; or (vi) to otherwise protect the rights, property, safety or security of third-parties, visitors to the **SCS** Websites or the public. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you.
+
+  
+
+
+## Cookies & Other Tracking Technologies
+
+We use cookies and other technologies to track the use of **SCS** Websites. We allow third-parties to place such technologies on **SCS** Websites for analytics and other purposes.
+
+Cookies are files that web servers place on your device. The use of cookies on **SCS** Websites allows you to enjoy more seamless visits and more accurately measures your behavior on the **SCS** Websites. You can learn more about the cookies and web beacons we use and how you can disable cookies and web beacons in our _[Cookies Policy](https://web.archive.org/cookiepolicy)._
+
+"Do Not Track" Signals. Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, **SCS** currently does not alter its practices when it receives a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+In addition, note that third parties may collect personal data about your online activities over time and across different websites when you visit the **SCS** Websites or other online websites and services.
+
+  
+
+
+## Social Media Applications
+
+You may choose to participate in a third-party application or feature (such as one of our Facebook applications or a similar application or feature on a third-party property) through which you allow us to collect and share (or the third-party to share) information about you, including personal data. The third-party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their “connections,” or if information about you is otherwise accessible through your “connections” web page, profile page, or similar page on a social networking or other third-party website or interactive service
 
   
 
 
 ## Security
 
-SCS seeks to maintain reasonable commercial precautions designed to help protect the security of your Personal Information and in preventing unauthorized access, misuse, loss or accidental disclosure of it through the use of appropriate technology and internal procedures. However, SCS cannot and does not guarantee the security of your Personal Information or that any communications means will be uninterrupted, error free or not intercepted by others improperly and without authorization.
+ **SCS** uses commercially reasonable safeguards to help protect and secure your personal data, and we use reasonable efforts to obtain the agreement of our Affiliates and third-party service providers to take steps to protect the confidentiality, security, and integrity of personal data we share with them. However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure. Please be careful to avoid ‘phishing’ schemes, where someone may send you an e-mail that looks like it is from **SCS** asking for your personal data. You understand that any message or information you send to **SCS** Website may be read or intercepted by others. **SCS** does not ensure or warrant the security of any information you transmit to us, and you use the **SCS** Websites and provide us with your information at your own risk.
+
+To help protect you and others, we monitor use of the **SCS** Websites, and we use the information we collect, including personal data, to identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the **SCS** Websites; ensure compliance with the terms of service ([https://www.sonycreativesoftware.com/corporate/terms](https://web.archive.org/corporate/terms)) and this Privacy Policy; investigate violations of or enforce these agreements; and otherwise to protect the rights and property of **SCS** , its partners, and customers. Monitoring may result in the collection, recording, and analysis of online activity or communications through the **SCS** Websites. If you do not consent to these conditions, you must discontinue your use of the **SCS** Websites.
 
   
 
 
-## Retention
+## How do we treat children’s personal data?
 
-SCS may retain information about you as long as it is necessary for us to fulfill the purposes outlined in this Privacy Policy. In addition, we may retain your information for an additional period as is permitted or required by law in order to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements. Where and when required by law, we shall delete your information. However, even if we delete your information from active databases, the information may remain on backup or storage media.
+Sony is committed to complying with all applicable laws and regulations regarding the collection, storage and use of personal information concerning children, including the Children's Online Privacy Protection Act in the United States and applicable local legislation in other countries. If you are a parent or guardian and are concerned that your child has provided us with personal information without your consent, you should contact us as set out below.
 
-  
+The **SCS** Websites are open to all individuals, though some Promotions may have age restrictions. We do not knowingly collect or permit the collection, storage or use of any personal data from anyone under 16. If SCS learns that you are under 16 years of age, SCS will not maintain or use any personal data about you except as allowed by law.
 
+ **For Residents of the United States**
 
-## Notice To/Regarding Children Under the Age of 13
-
-SCS believes that children using the Internet require special protection, and we urge parents or guardians to explain Internet safety to their children. Parents are urged to spend time online with their children to become familiar with the types of content available on the SCS Sites and the Internet in general. Control tools are available from online services and software manufacturers to help create a safer environment for children.
-
-If you are under 13 years of age, you should not provide any Personal Information (for example, your last name, home address or e-mail address) on these Sites without the knowledge and permission of your parent or guardian. If SCS learns that you are under 13 years of age, SCS will not maintain or use any Personal Information about you without the verifiable consent of your parent or guardian, except as allowed by law. This may mean that you will be unable to participate in some activities on the Sites without that verifiable consent. If a child under 13 years of age wishes to participate in any SCS Site activity, or wishes to take advantage of a product or service offering available to children, and to do so necessitates the furnishing of any of the child's Personal Information, please note the following:
-
-(i) The name, address, telephone number, and email address of the operator collecting or maintaining Personal Information from children through these Sites are as follows:
-
-Privacy Office  
-Sony Creative Software  
-8215 Greenway Blvd  
-Suite 400  
-Middleton, WI 53562  
-[send us a message](https://www.sonycreativesoftware.com/privacyinfo)
-
-(ii) The types of Personal Information collected from children may include the name, email address, home address, telephone number and/or any other information reasonably necessary for the child to participate in a particular activity. This information may be collected directly and/or passively (e.g., through a Web server that automatically recognizes and stores information such as a visitor's IP address/domain name combination).
-
-(iii) The information collected may be used for purposes such as fulfillment of a requested transaction, record keeping, marketing back to the child, or making it publicly available through a chat room or by other means.
-
-(iv) Unless specific consent is obtained from the child's parent or guardian, the child's Personal Information will not be disclosed to third parties who are not contractors hired to carry out the internal operations of the Sites, other than as may be required or permitted by law. We have required, or will require, such contractors to agree to use Personal Information of Site visitors only for the purposes of carrying out these operations and to keep such information confidential. A parent or guardian has the option of consenting to the collection and use of the child's Personal Information without consenting to the disclosure of that information to third parties.
-
-(v) SCS is prohibited from conditioning a child's participation in an activity on the child's disclosing more Personal Information than is reasonably necessary to participate in such activity; and
-
-(vi) A parent can review and request deletion of the child's Personal Information, can refuse to permit further collection or use of the child's information, and can revoke or limit consents previously given. For instructions on how to do so, please send an email to:
-
-Privacy Office  
-Sony Creative Software  
-8215 Greenway Blvd  
-Suite 400  
-Middleton, WI 53562  
-[send us a message](https://www.sonycreativesoftware.com/privacyinfo)
-
-Except as permitted by law, before any collection of a child's Personal Information takes place at a Site directed to children or where SCS is knowingly collecting children's Personal Information, the child will be asked to provide his/her parent's or guardian's e-mail address so that SCS can contact the child's parent or guardian. SCS will then send an email (the "Initial Notification") to the parent/guardian indicating, among other things, the information that the child is requested to provide, the intended use(s) of the information and information on how the parent/guardian can, at their election, delete the child's information from SCS's database or records. Upon receipt of the Initial Notification, a parent or guardian may respond back to SCS to grant his/her consent or to deny consent in which case SCS will delete the parent/guardian's email address and any other Personal Information, if any, previously obtained for securing parental consent. Upon SCS's receipt of the parent/guardian consent, SCS will send a confirming email to the parent/guardian's email address or take such other action as may be required to verify the consent.
-
-If SCS desires to use a child's information for purposes other than that for which the parent/guardian consent was previously given, SCS will not do so without first getting the parent/guardian consent.
+If you are a parent or guardian who knows or has discovered that your child under the age of 13 has submitted his or her personal data or other information without your consent, permission or authorization, upon request, we will promptly: (a) provide direct notice to you indicating what, if any, personal data of your child has been collected and how it has been used and/or disclosed; (b) remove your child’s personal data or other information from our database, cease the use of such information and direct any other party with access to such information to do the same; and (c) by notice to you, confirm compliance with the foregoing.
 
   
 
 
-## Consent to Processing:
+## Notice to California Residents – Your California Privacy Rights
 
-By providing any Personal Information to SCS, all persons, including without limitation persons in the member states of the European Union, fully understand and unambiguously consent to the collection and processing of such information in the United States of America, and/or in territories or countries outside of the United States of America, and understand and acknowledge their consent, notwithstanding that some governmental authorities may consider the level of protection of such data in the United States not equivalent to that required within the European Union or any other jurisdiction.
-
-  
-
-
-## Consent to Assignment:
-
-By providing any Personal Information to SCS, you will be deemed to have consented to SCS's disclosure and transfer to, as well as the use by, (a) any party who acquires all or any portion of any SCS service or business unit, whether through merger, acquisition, assignment, or sale, of your Personal Information or other information about you that we have obtained and that is governed by this Privacy Policy and which is related to such service or business unit ; and (b) any party who acquires all or substantially all of the assets of SCS, whether through merger, acquisition, assignment or sale, of your Personal Information or other information about you that we have obtained and that is governed by this Privacy Policy.
+Your California Privacy Rights:   Sony Creative Software Inc. only shares personal data with third parties (i.e., other than Affiliates) for those third parties’ direct marketing purposes if you specifically opt-in or are offered the opportunity to opt-out and elect not to opt-out from such sharing at the time you provide personal data or at the time you choose to participate in a feature. Pursuant to California Civil Code Section 1798.83, if you are a California resident, you have the right to receive from SCS, within thirty (30) days or your request: (a) information identifying any such third party(ies) to whom SCS may have disclosed, within the preceding calendar year, your Personal Information for that third party’s own direct marketing purposes; and (b) a description of the categories of Personal Information disclosed.
 
   
 
 
-## Your Communications:
+## Notice to Nevada Residents – Your Nevada Privacy Rights
 
-Unless otherwise required by law, we are no responsible for monitoring or recording any activity on our Sites, including communications, but we reserve the right to do so.
-
-To help protect you and others, we may monitor the use of the Sites, and we use the Personal Information and other information we collect in order to: ensure that our policies regarding use and our terms and conditions are being complied with and not being violated (e.g., no obscenity, defamation or abusive language, no content that may infringe rights); identify fraudulent activities and transactions; prevent abuse of and investigate any potential threats or misuse of our Sites; and otherwise protect the rights and property of SCS, its partners and customers. Monitoring may result in the collection, recording, and analysis of online activity or communication through our Sites. We have the right to block, remove and/or report any such communications and activities as appropriate. We may analyze and keep records of users' messages and, among other things, the email addresses involved. If you do not consent to these conditions, you must discontinue your use of our Sites.
+If you are a Nevada resident, you have the right to opt-out of the sale of certain personally identifiable information we have collected about you to third parties. SCS does not currently sell your personally identifiable information as those terms are defined under Nevada law. However, if you wish to submit a request to opt-out of the sale of such information if SCS were to engage in such a sale in the future, you may submit your request in writing to: [privacy@am.sony.com](mailto:privacy@am.sony.com), or as described in the Contact Us section. Your request must reference your Nevada rights and include your name, mailing address, zip code, and email address. Your request is subject to verification of your identity by us and validation of your request. We are not responsible for requests that do not come through the designated request mechanism or do not contain sufficient information to allow us to process your request. SCS will respond to valid requests within sixty (60) days.
 
   
 
 
-## Links to Other Websites:
+## Policy governs use: Changes to Privacy Policy
 
-From time to time we may offer links to other websites from our Sites. Other websites may also reference, advertise, or link to our Sites. However, we do not endorse or sponsor other websites, are not responsible for the privacy policies, practices or the content of such websites, expressly disclaim any statements or assertions made on such websites, and deny all liability associated with your use of, and the content on, such other websites. You may arrive at one of these websites through clicking on a banner advertisement, as part of a co-branding arrangement, or simply by selecting a link on any of our Site pages. These websites might issue their own cookies or collect Personal Information, so please use caution when visiting an external website. You should also be aware we sometimes permit third parties to offer subscription and registration-based services on our services. We are not responsible for the actions or policies of such third parties with respect to Personal Information or other information you may give them, and you should carefully read and understand the applicable privacy policy whenever you provide Personal Information to anyone.
-
-  
-
-
-## Policy Governs Use: Changes to Privacy Policy
-
-The terms of this Privacy Policy will govern the use of any information collected while it is in place. SCS reserves the right to change this Privacy Policy at any time, so please re-visit this page often. In case of any material change, we will change the "Last Update Date" in this Privacy Policy and/or post a notice on the Sites. Changes to this Privacy Policy are effective as of the stated "Last Update Date" and your continued use of the Sites on or after the "Last Update Date" will constitute acceptance of, and agreement to be bound by, those changes.
+The terms of this Privacy Policy will govern the use of any information collected while it is in place. **SCS** reserves the right to change this Privacy Policy at any time, without prior notice to you, and any changes will become effective immediately upon posting. Thus, please review this Privacy Policy periodically.
 
   
 
 
-## Questions:
+## Contact Us
 
-If you have any questions or comments about our Personal Information practices or about this Privacy Policy, please feel free to [send us a message](https://www.sonycreativesoftware.com/privacyinfo) or write us at:
-
+If you have any questions or comments about our practices regarding personal data or about this Privacy Policy, please contact us at: [https://www.sonycreativesoftware.com/contact/privacy](https://web.archive.org/contact/privacy)  
+Or you may write to us at:  
 Privacy Office  
 Sony Creative Software  
 8215 Greenway Blvd  
 Suite 400  
 Middleton, WI 53562
 
-If you have questions regarding products or services, please click [here](https://web.archive.org/custcenter/home) for further information.
-
   
 
 
-Not a U.S. resident? [Click here](https://www.sonycreativesoftware.com/corporate/noticetoeu) to learn more about our data protection practices.
+## Further Information for EEA Individuals
 
-© 2003-2019 Sony Creative Software Inc. All Rights Reserved.
+ **What rights do I have in relation to my personal data?**
+
+You may be entitled to ask **SCS** for a copy of your information, to correct it, erase or restrict its processing, or to ask us to transfer some of this information to other organizations. You may also have rights to object to some processing, such as profiling we perform for the purposes of direct marketing, and, where we have asked for your consent to process your data, to withdraw this consent. These rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your data. In some instances, this may mean that we are able to retain data even if you withdraw your consent.
+
+Where we require personal data to comply with legal or contractual obligations, then provision of such data is mandatory: if such data is not provided, then we will not be able to manage our contractual relationship, or to meet obligations placed on us. In all other cases, provision of requested personal data is optional.
+
+We hope that we can satisfy queries you may have about the way we process your data. If you have any concerns about how we process your data, or would like to opt out of marketing, you can get in touch at [https://www.sonycreativesoftware.com/contact/privacy](https://web.archive.org/contact/privacy)
+
+If you have unresolved concerns, you also have the right to complain to your local data protection authorities.
+
+ **Which SCS entity is my data controller?**
+
+The data controller for your personal data is Sony Creative Software Inc.
+
+ **How long will you hold my data?**
+
+Where you are a customer, **SCS** will keep your information for the length of any contractual relationship you have with us, and, to the extent permitted, after the end of that relationship for as long as necessary to perform the purposes set out in this Privacy Policy. For data about your visits to the SCS Websites, **SCS** will retain this data in accordance with our retention policy. Laws may require **SCS** to hold certain information for specific periods. In other cases, **SCS** may retain data for an appropriate period after any relationship with you ends to protect itself from legal claims, or to administer its business.
+
+ **Where will you send my data?**
+
+By providing any personal data to **SCS** , all persons, including without limitation persons in the member states of the European Union, fully understand and unambiguously consent to the collection and processing of such information in the United States of America, and/or in territories or countries outside of the United States of America, and understand and acknowledge their consent, notwithstanding that some governmental authorities may consider the level of protection of such data in the United States not equivalent to that required within the European Union or any other jurisdiction.
+
+  
+
