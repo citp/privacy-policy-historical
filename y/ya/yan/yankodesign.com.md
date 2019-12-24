@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yankodesign.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331212223id_/https%3A//www.yankodesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankodesign.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224212103id_/https%3A//www.yankodesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yanko Design
 
