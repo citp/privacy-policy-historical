@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murthy.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111231330id_/https%3A//www.murthy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murthy.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224172902id_/https%3A//www.murthy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Murthy Law Firm | U.S Immigration Law
 
