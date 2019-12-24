@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617143513id_/https%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224104120id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Tmart: Thousands of Products, Manufacturer Price, Free Shipping Worldwide
 
@@ -40,8 +40,3 @@ Choice and Opt-Out
 If you no longer wish to receive the promotional communications from Tmart.com, you may "opt-out" of receiving them by following the instructions included in each communication or [contact us](http://www.tmart.com/HelpCenter/Contact_Us.html).
 
 **Company Info**
-
-Address: Tmart Limited, Flat/RM 1502, Easey Commercial Building, 253-261 Hennessy Road, WanChai, HK  
-Company Registration Number: 52276817-000-05-16-9     
-TEL: +852 8197 7220  
-Email Address: service@tmart.com 
