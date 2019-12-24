@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elfsight.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608113158id_/https%3A//elfsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elfsight.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224201512id_/https%3A//elfsight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Elfsight
 
