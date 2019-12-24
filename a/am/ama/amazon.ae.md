@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.ae privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529060118id_/https%3A//www.amazon.ae/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D201909010%26ref_%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.ae privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224172817id_/https%3A//www.amazon.ae/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D201909010%26ref_%3Dfooter_privacy) for the most accurate reproduction.*
 
 # amazon.ae Help: Amazon Privacy Notice
 
