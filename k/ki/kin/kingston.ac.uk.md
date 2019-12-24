@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417120550id_/https%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224225745id_/https%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Kingston University London
 
