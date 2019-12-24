@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidgear.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413231109id_/https%3A//www.bidgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidgear.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224181351id_/https%3A//www.bidgear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
