@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627232718id_/https%3A//www.flexerasoftware.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224222639id_/https%3A//www.flexerasoftware.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Flexera Software
 
-We appreciate your interest in our offered services and products and our websites ([www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexera.com](https://www.flexera.com/),[www.flexerasoftware.com](), [www.flexera.cn](https://www.flexera.cn/), [www.flexera.de](https://www.flexera.de/), [www.flexera.fr](https://www.flexera.fr/), [www.flexera.jp](https://www.flexera.jp/), [www.flexnetmanager.com](https://www.flexnetmanager.com/), [https://secuniaresearch.flexerasoftware.com](https://secuniaresearch.flexerasoftware.com/), <https://flexeracommunity.force.com/partner>, [https://store.flexerasoftware.com](https://store.flexerasoftware.com/), [http://consumer.installshield.com](http://consumer.installshield.com/), <https://flexeracommunity.force.com/customer/>, [www.brainwaregroup.com](https://www.brainwaregroup.com/), [https://blogs.flexera.com](https://blogs.flexera.com/), [https://community.flexerasoftware.com](https://community.flexerasoftware.com/), [https://community.flexera.com](https://community.flexera.com/), [https://support.palamida.com](https://support.palamida.com/), [www.secunia.com](https://www.secunia.com/) and [portal.technopedia.com](https://portal.technopedia.com/)), online communities, service platforms, owned and operated by Flexera (collectively, our “ **Websites** ” and together with our services and products, our “ **Services** ”). Privacy protection is very important to us and we are committed to protecting and respecting your privacy. This privacy policy sets out information about how we collect, store, process, transfer and use data that identifies you or makes you identifiable, as a natural person (hereinafter " **personal information** ”). The notion of “personal information” covers all information defined as personal data under Art. 4 (1) European Data Protection Regulation (GDPR).
+We appreciate your interest in our offered services and products and our websites ([www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexera.com](https://www.flexera.com/),[www.flexerasoftware.com](), [www.flexera.cn](https://www.flexera.cn/), [www.flexera.de](https://www.flexera.de/), [www.flexera.fr](https://www.flexera.fr/), [www.flexera.jp](https://www.flexera.jp/), [www.flexnetmanager.com](https://www.flexnetmanager.com/), [https://secuniaresearch.flexerasoftware.com](https://secuniaresearch.flexerasoftware.com/), <https://flexeracommunity.force.com/partner>, [https://store.flexerasoftware.com](https://store.flexerasoftware.com/), [http://consumer.installshield.com](http://consumer.installshield.com/), <https://flexeracommunity.force.com/customer/>, [www.brainwaregroup.com](https://www.brainwaregroup.com/), [https://blogs.flexera.com](https://blogs.flexera.com/), [https://community.flexera.com](https://community.flexera.com/), [https://support.palamida.com](https://support.palamida.com/), [www.secunia.com](https://www.secunia.com/) and [portal.technopedia.com](https://portal.technopedia.com/)), online communities, service platforms, owned and operated by Flexera (collectively, our “ **Websites** ” and together with our services and products, our “ **Services** ”). Privacy protection is very important to us and we are committed to protecting and respecting your privacy. This privacy policy sets out information about how we collect, store, process, transfer and use data that identifies you or makes you identifiable, as a natural person (hereinafter " **personal information** ”). The notion of “personal information” covers all information defined as personal data under Art. 4 (1) European Data Protection Regulation (GDPR).
 
 This privacy policy is designed to apply to our Website visitors, users of our Services and other companies and users on a global basis. The privacy policy will thus provide various information that is required in specific jurisdictions only. We have in the following marked with “ **GDPR Notice** ”, the information applying to our activities subject to the GDPR and marked otherwise the notices specifically required under other laws.
 
@@ -29,7 +29,7 @@ In the context of rendering our Services, we may collect information about you. 
   * **If you order any Service from us or ask for a quote (via our Websites or via phone, email or letter):**  Name, company name, company address, billing contact, billing address, company email address, company phone number, job title, information from our correspondence with you, information on your order, such as price and Service information, information on defects or erroneous Services, your feedback and complaints, quotes we offer you, customer ID, information on your Flexera customer account, payment information such as bank account details or check information, information on outstanding payments.
 
 
-  * **If you register on our Websites.**  Name, company name, company address, company email address, company phone number, job title, job function, industry, your interest(s) in Flexera and/or its Services.
+  * **If you register on our Websites.**  Company name, company address, company website, information on the size of company, public or non-public company identification numbers and similar company related information as well as your name, your company email address, company phone number, job title, job function, industry, your interest(s) in Flexera and/or its Services.
 
 
   * **If you post on our blogs or forums.**  You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Websites, such as forums or blogs, for example, our community forum (https://flexeracommunity.force.com/customer/)  (collectively, "User Contributions"). We may collect any of your User Contributions, your name, company name, company email address as well as your IP address. Please note that we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by other persons.
@@ -82,19 +82,26 @@ We do not use your personal information for automated individual decision-making
 As required in accordance with how we use it, we will share your personal information with the following third parties:
 
   * **Our subsidiaries.**  To support our sales and marketing efforts, as well as in the performance of the Services, your personal information may be disclosed to our affiliates:
-    * Flexera Software LLC
-    * Flexera Software Limited
-    * Flexera Software GK
-    * Flexera Software Pty Limited
-    * Flexera Software India LLP
-    * Guangzhou BDNA Software Technology Limited
-    * Flexera Software GmbH
-    * Spider Lifecycle Management Systeme GmbH
-    * Brainware Technologies Ltd. International House
+    * BDNA Corporation
+    * BDNA UK Limited
     * Brainware JP
     * Brainware Solutions AG
+    * Brainware Technologies Ltd. International House
+    * Flexera Software GK
+    * Flexera Software GmbH
+    * Flexera Software India LLP
+    * Flexera Software Limited
+    * Flexera Software LLC
+    * Flexera Software Pty Limited
+    * Guangzhou BDNA Software Technology Limited
+    * Meta SaaS, Inc.
     * Nova Ratio AG
+    * Palamida, Inc.
     * RightScale, Inc.
+    * RISC Networks, Inc.
+    * Secunia ApS
+    * Secunia Inc.
+    * Spider Lifecycle Management Systeme GmbH
   * **Service providers and advisors.**  We may use third party vendors and other service providers to perform services on our behalf. Such services may include marketing campaign services, providing mailing or email services, tax and accounting services, product fulfilment, payment processing, conducting surveys or contests, performing customer service, performing data enhancement services, performing fraud prevention services, performing web hosting services , or providing analytic services. These third parties with respect to Flexera LLC include: Eloqua, SalesForce.com, Lithium, Gainsight, and Melissa Data. Any such service providers will by appropriate data processing agreements be bound to only process the data on Flexera’s behalf and under its instructions.
   * **Promotional partners.**  Third parties with whom we partner to provide promotional activities, which will be identified by name in the context of these activities. We may, for example, share contact details with Reseller Partners.[EM1] [SD2] 
   * **Purchasers and third parties in connection with a business transaction.**  Third parties in connection with a Flexera-related transaction, such as a merger, sale of Flexera assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business, or in the event of a bankruptcy or similar proceedings.
@@ -171,7 +178,7 @@ _
     * _[Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)_
     * _[Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies)_
     * _[Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)_
-    * _[Cookie settings in Safari](https://support.apple.com/kb/PH21411?locale=en_GB&viewlocale=en_US)_
+    * _[Cookie settings in Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)_
   * **Google Analytics.**  We use Google Analytics to recognize you and link the devices you use when you visit our Websites on your browser or mobile device, login to your account on our Websites, or otherwise engage with us. Google Analytics allows us to better understand how our users interact with our Services and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's site "How Google uses data when you use our partners' sites or apps" located at  _[www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)_. You can learn about Google Analytics' currently available opt-outs, including the Google Analytics Browser Add-On here  _<https://tools.google.com/dlpage/gaoptout/>_.
 
 
