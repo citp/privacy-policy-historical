@@ -1,17 +1,132 @@
-<!--The following is the downloaded HTML source of the georiot.com privacy policy that was archived on 2018-09-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180904020319id_/https%3A//www.geni.us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the georiot.com privacy policy that was archived on 2019-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191224210955id_/https%3A//www.geni.us/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><head>
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,700italic,700,800" rel="stylesheet" type="text/css">
+<!DOCTYPE html><html class="no-js" lang="en"><head>
+
+  <!-- Google Tag Manager - content manipulation (Optimize) only -->
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NXTVPCP"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NXTVPCP');</script>
+  <!-- End Google Tag Manager -->
+
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>Genius Link Services Privacy Policy</title>
   <meta name="description" content="Check out full details on the Genius Link Privacy Policy. Our goal is to keep your information secure, and help you understand how we use your data.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="fb:app_id" content="451685931862362">
-
-
   <meta property="og:description" content="Check out full details on the Genius Link Privacy Policy. Our goal is to keep your information secure, and help you understand how we use your data.">
+  <link rel="stylesheet" href="/css/main.css?rev=1030">
+
+  <script>
+    /**** Define Scripts we need consent for, from Cookie Control ****/
+
+    function consentableAnalyticsScripts() {
+      /* Google Tag Manager: Analytics */
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+          'gtm.start':
+              new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-5659RJ');
+      /* End Google Tag Manager: Analytics */
+
+    }
+
+
+    function consentableMarketingScripts() {
+      /* Google Tag Manager: Marketing */
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-N8SCH69');
+      /* End Google Tag Manager: Marketing */
+    }
+
+  </script>
+
+  <script>
+    /* Utils */
+    var pageVariant = 'none';
+    var cookieDomainString = '';
+    if ( location.hostname.includes("geni.us") ) {
+      cookieDomainString = 'domain=geni.us;';
+    }
+
+    //Cookie setting and getting
+    function setGeniuslinkCookie(cname, cvalue, exdays) {
+      var d = new Date();
+      d.setTime(d.getTime() + (exdays*24*60*60*1000));
+      var expires = "expires="+ d.toUTCString();
+      document.cookie = cname + "=" + cvalue + "; "+ cookieDomainString + expires + ";path=/"; //Make it cross-subdomain
+    }
+
+    function getCookie(cname) {
+      var name = cname + "=";
+      var decodedCookie = decodeURIComponent(document.cookie);
+      var ca = decodedCookie.split(';');
+      for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return "";
+    }
+
+
+    // Get url params
+    function getUrlVars() {
+      var vars = {};
+      var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,
+          function(m,key,value) {
+            vars[key] = value;
+          });
+      return vars;
+    }
+    /* This just makes sure url vars are set to defaults if the  don't exist */
+    function getUrlParam(parameter, defaultvalue){
+      var urlparameter = defaultvalue;
+      if(window.location.href.indexOf(parameter) > -1){
+        urlparameter = getUrlVars()[parameter];
+      }
+      return urlparameter;
+    }
+
+    /* End utils */
+
+    /** A/B Base values **/
+    //Set up A/B parameters
+    var variantCodeA = "a76t3";  //Code used in URLs and cookies
+    var variantCodeB = "b76t3";  //Code used in URLs and cookies
+    var pageVariant = "none";
+
+    //Set up cookie properties
+    var vCookie = getCookie('geniuslink_pvariant');
+    var vCookieDaysToLive = 365;
+
+    //Since we have some conditional content, check cookie to determine which variant to show
+    //Price page may override this
+    if(vCookie ===  variantCodeA) {
+        pageVariant = "a";
+    } else if(vCookie === variantCodeB){
+        pageVariant = "b";
+    }
+
+    /** End A/B Values **/
+
+
+  </script>
+
+
   <meta property="og:image" content="https://www.geni.us/img/geniuslogo-og-image.png">
 
   <!-- Favicons -->
@@ -36,163 +151,107 @@
   <meta name="theme-color" content="#ffffff">
   <!-- End Favicons -->
 
+<style id="cookieControl-styling" type="text/css">#ccc{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-family:Arial,sans-serif;font-size:12px;font-smooth:antialised;line-height:1.4em;position:fixed;z-index:2147483647}@media (min-width:1024px){#ccc{font-size:16px}}#ccc-overlay{-webkit-backface-visibility:hidden;-webkit-perspective:1000;-webkit-transform:translate3d(0,-100%,0);backface-visibility:hidden;background:rgba(0,0,0,.4);bottom:0;left:0;opacity:0;perspective:1000;position:fixed;right:0;top:0;transform:translate3d(0,-100%,0);transition:opacity .4s,-webkit-transform 0s;transition:transform 0s,opacity .4s;transition:transform 0s,opacity .4s,-webkit-transform 0s;will-change:transform,opacity;z-index:1}#ccc[open] #ccc-overlay{-webkit-transform:translateZ(0);opacity:1;transform:translateZ(0)}#ccc-icon{background:transparent;border:0;bottom:0;cursor:pointer;height:80px;padding:0;position:fixed;width:80px;z-index:10}#ccc[left] #ccc-icon{left:0}#ccc[right] #ccc-icon{right:0}#ccc-icon[hidden]{display:none}#ccc[dark] #ccc-icon{fill:#000025}#ccc[dark] #ccc-icon #star path{fill:#fff}#ccc[light] #ccc-icon{fill:#555}#ccc[light] #ccc-icon #star path{fill:#f4f4f4}#ccc-module{-webkit-backface-visibility:hidden;-webkit-perspective:1000;backface-visibility:hidden;height:100%;perspective:1000;position:fixed;transition:-webkit-transform .6s;transition:transform .6s;transition:transform .6s,-webkit-transform .6s;width:100%;will-change:transform;z-index:2}#ccc[slideout] #ccc-module{bottom:0;max-width:420px;top:0;width:90%}#ccc[slideout][left] #ccc-module{-webkit-transform:translateZ(0);left:auto;right:100%;transform:translateZ(0)}#ccc[slideout][left][open] #ccc-module{-webkit-transform:translate3d(100%,0,0);right:100%;transform:translate3d(100%,0,0)}#ccc[slideout][right] #ccc-module{-webkit-transform:translateZ(0);left:100%;right:auto;transform:translateZ(0)}#ccc[slideout][right][open] #ccc-module{-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}#ccc[popup] #ccc-module{-webkit-transform:translateZ(0);bottom:0;left:0;right:0;top:100%;transform:translateZ(0)}#ccc[popup][open] #ccc-module{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}#ccc-content{box-sizing:border-box;overflow-y:auto;padding:24px;position:absolute}#ccc[slideout] #ccc-content{bottom:0;left:0;right:0;top:0}#ccc[popup] #ccc-content{-webkit-transform:translate(-50%,-50%);border-radius:12px;height:90%;left:50%;max-height:600px;max-width:600px;top:50%;transform:translate(-50%,-50%);width:90%}#ccc[dark] #ccc-content{background-color:#313147;color:#fff;fill:#fff}#ccc[light] #ccc-content{background-color:#f4f4f4;color:#333;fill:#333}#ccc-close{align-items:center;background-color:transparent;border:0;cursor:pointer;display:flex;padding:0!important;position:absolute;right:16px;top:16px}#ccc-title{font-size:1.2em;font-weight:700;line-height:1.5em;margin:0;padding-right:32px;text-align:left}#ccc #ccc-recommended-settings{clear:both;float:none;margin-left:0}#ccc h3{font-weight:700;margin:0;padding-right:120px}#ccc h3,#ccc p{font-size:1em;line-height:1.5em;text-align:left}#ccc p{font-weight:400;margin:1em 0}#ccc hr{border:0;height:1px;margin:24px 0;opacity:.25}#ccc .ccc-svg-element{display:inline-block;height:16px;margin-left:8px;position:relative;top:6px;width:16px}#ccc[dark] hr{background-color:#fff}#ccc[dark] a,#ccc[dark] h2,#ccc[dark] h3,#ccc[dark] p,#ccc[dark] span{color:#fff;fill:#fff}#ccc[light] hr{background-color:#333}#ccc[light] a,#ccc[light] h2,#ccc[light] h3,#ccc[light] p,#ccc[light] span{color:#333;fill:#333}#ccc .optional-cookie{position:relative}.checkbox-toggle{margin:0;position:absolute;right:0;top:-3px}#ccc .checkbox-toggle-input{bottom:0;display:block;height:100%;left:0;margin:0;padding:0;position:absolute;right:0;top:0;width:100%;z-index:-1}#ccc[checkbox-optin] .checkbox-toggle{border:2px solid #fff;border-radius:4px}#ccc[checkbox-optin] .checkbox-toggle-label{display:block;height:24px;width:24px}#ccc[checkbox-optin] .checkbox-toggle-off,#ccc[checkbox-optin] .checkbox-toggle-on{display:none}#ccc[checkbox-optin] .checkbox-toggle-toggle{border-radius:4px;display:block;height:100%;position:relative;width:100%}#ccc[checkbox-optin] .checkbox-toggle input:checked~.checkbox-toggle-toggle:after{-webkit-transform:rotate(45deg);border:solid #fff;border-width:0 3px 3px 0;content:"";height:10px;left:9px;position:absolute;top:5px;transform:rotate(45deg);width:5px}#ccc[slider-optin] .checkbox-toggle{border:4px solid #fff;border-radius:50px}#ccc[slider-optin] .checkbox-toggle-label{cursor:pointer;display:flex;margin:0;z-index:1}#ccc[slider-optin] .checkbox-toggle-off,#ccc[slider-optin] .checkbox-toggle-on{flex:1;flex-basis:50%;font-size:.75em;font-weight:700;min-width:40px;padding:0 6px;text-align:center;white-space:nowrap;width:50%;z-index:2}#ccc[slider-optin] .checkbox-toggle-off{opacity:.65}#ccc[slider-optin] .checkbox-toggle-toggle{background-color:#000;border-radius:50px;cursor:pointer;display:block;height:100%;left:0;position:absolute;top:0;transition:all .4s ease;width:50%;z-index:3}#ccc[slider-optin] .checkbox-toggle input:checked~.checkbox-toggle-toggle{left:50%}#ccc[dark][slider-optin] .checkbox-toggle{background-color:#111125;border-color:#111125}#ccc[dark][checkbox-option] .checkbox-toggle{background-color:#111125;border-color:#fff}#ccc[dark] .checkbox-toggle-toggle{background-color:#2f2f5f}#ccc[light] .checkbox-toggle{background-color:#555;border-color:#555}#ccc[light] .checkbox-toggle-toggle{background-color:#000}#ccc[light] .checkbox-toggle-on,#ccc[slider-optin][light] .checkbox-toggle-off{color:#fff}#ccc .ccc-alert{border-radius:8px;height:0;margin:-16px 0 0;overflow:hidden}#ccc .ccc-alert[visible]{height:auto;margin:24px 0;padding:16px 16px 0}#ccc .ccc-alert-title{align-items:center;display:flex;padding:0}#ccc .ccc-alert-icon{display:inline-block;flex-shrink:0;height:30px;margin:0 8px 0 0;width:30px}#ccc .ccc-alert-break{margin:12px 0}.third-party-cookie-link{align-items:center;display:flex;margin:16px 0}.third-party-cookie-name{font-size:1em;font-weight:700}.third-party-cookie-icon{display:inline-block;height:16px;margin-left:16px;width:16px}#ccc[dark] .ccc-alert{fill:#fff}#ccc[dark] .ccc-alert,#ccc[dark] .third-party-cookie-link{background:#111125;color:#fff}#ccc[light] .ccc-alert,#ccc[light] .third-party-cookie-link{background:#eaeaea}#ccc #ccc-notify{-webkit-transform:translate3d(0,100%,0);border-radius:0;bottom:0;display:flex;flex-direction:column;height:auto;justify-content:space-between;left:0;margin:0;min-height:48px;overflow:hidden;padding:16px;position:fixed;right:0;transform:translate3d(0,100%,0);transition:-webkit-transform .4s;transition:transform .4s;transition:transform .4s,-webkit-transform .4s;z-index:12}#ccc #ccc-notify:empty{height:0;padding:0}#ccc #ccc-notify[visible]{-webkit-transform:translateZ(0);transform:translateZ(0)}#ccc #ccc-notify h3{padding:0}#ccc #ccc-notify p{font-size:.9em;margin:0;opacity:.8}#ccc .ccc-notify-buttons{margin-top:16px;position:relative}#ccc .ccc-notify-button{background:transparent;border:2px solid;border-radius:4px;cursor:pointer;font-size:1em;font-weight:400;line-height:1.5em;margin:4px 8px 4px 0;padding:8px 16px!important}#ccc #ccc-notify-dismiss{background-color:transparent;border:0;cursor:pointer;display:inline-flex;height:24px;padding:0!important;position:absolute;right:0;top:-4px;width:24px}@media (min-width:400px){#ccc #ccc-notify-dismiss{position:relative;right:auto}}@media (min-width:600px){#ccc #ccc-notify{align-items:center;flex-direction:row;font-size:12px}#ccc .ccc-notify-buttons{flex-shrink:0;margin-top:0;white-space:nowrap}}@media (min-width:1200px){#ccc #ccc-notify{font-size:16px;padding:16px 100px;z-index:0}}#ccc[dark] #ccc-notify{background-color:#313147;color:#fff;fill:#fff}#ccc[dark] .ccc-notify-button{border-color:#fff;color:#fff}#ccc[dark] .ccc-button-solid{background:#fff;color:#111125;font-weight:700}#ccc[light] #ccc-notify{background:#f4f4f4;color:#000;fill:#000}#ccc[light] .ccc-notify-button{border-color:#000;color:#000}#ccc[light] .ccc-button-solid{background:#000;color:#fff;font-weight:700}#ccc-info-link{font-size:.8em;font-weight:700;text-decoration:none}#ccc-info-link .svg-element{height:14px;margin-left:6px;width:14px}#ccc[slideout] #ccc-info{height:100px}#ccc[popup] #ccc-info{height:40px}@media print{#ccc{display:none!important}}#ccc-close-label{display:none}#ccc[labelled] #ccc-title{padding-right:96px}#ccc[labelled] #ccc-close{padding:8px!important;right:0;top:0}#ccc[labelled][light] #ccc-close{background-color:#eaeaea}#ccc[labelled][dark] #ccc-close{background-color:#111125}#ccc[labelled] #ccc-close-label{display:block;font-size:16px}#ccc[close-button] #ccc-close{display:none}#ccc[close-button] #ccc-title{padding-right:0}#ccc-dismiss-button{display:none}#ccc[close-button] #ccc-dismiss-button{display:block;margin:16px 0 32px}#ccc[highlight-focus] .ccc-tabbable,#ccc[highlight-focus] .ccc-tabbable:focus{outline:0}#ccc[highlight-focus] .ccc-link.ccc-tabbable:focus{-webkit-filter:invert(100%);filter:invert(100%);padding:8px}#ccc[light][highlight-focus] .ccc-link.ccc-tabbable:focus{background-color:#eaeaea!important;border-color:#eaeaea!important}#ccc[dark][highlight-focus] .ccc-link.ccc-tabbable:focus{background-color:#111125!important;border-color:#111125!important}#ccc[highlight-focus] .ccc-button-solid:focus,#ccc[highlight-focus] .checkbox-toggle-input:focus~.checkbox-toggle-toggle,#ccc[highlight-focus] .third-party-cookie-link:focus,#ccc[labelled][highlight-focus] #ccc-close:focus{-webkit-filter:invert(100%);filter:invert(100%)}#ccc[light][highlight-focus] .ccc-tabbable:focus{box-shadow:0 4px 8px 0 hsla(0,0%,100%,.2),0 6px 20px 0 hsla(0,0%,100%,.2)}#ccc[dark][highlight-focus] .ccc-tabbable:focus{box-shadow:0 4px 8px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.2)}#ccc[highlight-focus] #ccc-icon:focus{-webkit-filter:invert(100%);filter:invert(100%);outline:none}#ccc[highlight-focus] #ccc-icon:active,#ccc[highlight-focus] #ccc-icon:hover,#ccc[highlight-focus] #ccc .ccc-tabbable:active,#ccc[highlight-focus] #ccc .ccc-tabbable:hover{-webkit-filter:none!important;box-shadow:none!important;filter:none!important}#ccc-accessibility{-webkit-clip-path:inset(50%);border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important}</style></head>
 
-  <link rel="stylesheet" href="/css/main.css?rev=1010">
-
-</head>
-<body class="section- pagestyle- showing-top-bar-info-notice">
+<body class="section- pagestyle-">
 
 
+
+
+<!-- Cookie Control Script Inline, MUST BE IN BODY, from <script src="https://cc.cdn.civiccomputing.com/8/cookieControl-8.1.min.js"></script> -->
 <script>
-  /**** Define Scripts we need consent for ****/
-
-  function consentableAnalyticsScripts() {
-    /* Google Tag Manager: Analytics */
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-            new Date().getTime(), event: 'gtm.js'
-      }); var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-          '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-5659RJ');
-    /* End Google Tag Manager: Analytics */
-
-    /* HotJar */
-    (function (h, o, t, j, a, r) {
-      h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
-      h._hjSettings = { hjid: 624574, hjsv: 5 };
-      a = o.getElementsByTagName('head')[0];
-      r = o.createElement('script'); r.async = 1;
-      r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
-      a.appendChild(r);
-    })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
-    /* End HotJar */
-
-
-  function consentableMarketingScripts() {
-    /* Google Tag Manager: Marketing */
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-N8SCH69');
-    /* End Google Tag Manager: Marketing */
-  }
-
-  function consentableChatScripts() {
-    /* Drift */
-    !function () {
-      var t;
-      if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
-          t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"],
-          t.factory = function (e) {
-            return function () {
-              var n;
-              return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
-            };
-          }, t.methods.forEach(function (e) {
-        t[e] = t.factory(e);
-      }), t.load = function (t) {
-        var e, n, o, i;
-        e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
-            o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
-            n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
-      });
-    }();
-    drift.SNIPPET_VERSION = '0.3.1';
-    drift.load('shzm8n7fmexf');
-    /* End Drift */
-  }
+    var CookieControl=function(){var L="accepted",S="revoked",T=null,r="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz".split("");Math.uuid=function(t,e){var o,c,i=r,n=[];if(e=e||i.length,t)for(o=0;o<t;o++)n[o]=i[0|Math.random()*e];else for(n[8]=n[13]=n[18]=n[23]="-",n[14]="4",o=0;o<36;o++)n[o]||(c=0|16*Math.random(),n[o]=i[19==o?3&c|8:c]);return n.join("")};var A=null,M={necessaryCookies:[],optionalCookies:{},initialState:{},statement:{},consentDate:Date.now(),consentExpiry:90,interactedWith:!1},I=JSON.parse(c("CookieControl"))||M,o=JSON.parse(c("CookieControl")).user||Math.uuid();I.user=o;var z={COMMUNITY:"CookieControl Free",PRO:"CookieControl Single-Site",PRO_MULTISITE:"CookieControl Multi-Site"},a=["BE","BG","CZ","DK","DE","EE","IE","GR","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","GB"],l=["Belgium","Bulgaria","Czech Republic","Denmark","Germany","Estonia","Ireland","Greece","Spain","France","Croatia","Italy","Cyprus","Latvia","Lithuania","Luxembourg","Hungary","Malta","Netherlands","Austria","Poland","Portugal","Romania","Slovenia","Slovakia","Finland","Sweden","United Kingdom"],i=["branding","excludedCountries","locales"],O={iconLeft:'<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 72.5 72.5" enable-background="new 0 0 72.5 72.5" xml:space="preserve"><g id="triangle"><path d="M0,0l72.5,72.5H0V0z"/></g><g id="star"><path d="M33.2,51.9l-3.9-2.6l1.6-4.4l-4.7,0.2L25,40.6l-3.7,2.9l-3.7-2.9l-1.2,4.5l-4.7-0.2l1.6,4.4l-3.9,2.6l3.9,2.6l-1.6,4.4l4.7-0.2l1.2,4.5l3.7-2.9l3.7,2.9l1.2-4.5l4.7,0.2l-1.6-4.4L33.2,51.9z M24.6,55.3c-0.3,0.4-0.8,0.8-1.3,1s-1.1,0.3-1.9,0.3c-0.9,0-1.7-0.1-2.3-0.4s-1.1-0.7-1.5-1.4c-0.4-0.7-0.6-1.6-0.6-2.6c0-1.4,0.4-2.5,1.1-3.3c0.8-0.8,1.8-1.1,3.2-1.1c1.1,0,1.9,0.2,2.6,0.7s1.1,1.1,1.4,2L23,50.9c-0.1-0.3-0.2-0.5-0.3-0.6c-0.1-0.2-0.3-0.4-0.5-0.5s-0.5-0.2-0.7-0.2c-0.6,0-1.1,0.2-1.4,0.7c-0.2,0.4-0.4,0.9-0.4,1.7c0,1,0.1,1.6,0.4,2c0.3,0.4,0.7,0.5,1.2,0.5c0.5,0,0.9-0.1,1.2-0.4s0.4-0.7,0.6-1.2l2.3,0.7C25.2,54.3,25,54.8,24.6,55.3z"/></g></svg>',iconRight:'<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 72.5 72.5" enable-background="new 0 0 72.5 72.5" xml:space="preserve"><g id="triangle"><path d="M72.5,72.5H0L72.5,0V72.5z"/></g><g id="star"><path d="M62.2,51.9l-3.9-2.6l1.6-4.4l-4.7,0.2L54,40.6l-3.7,2.9l-3.7-2.9l-1.2,4.5l-4.7-0.2l1.6,4.4l-3.9,2.6l3.9,2.6l-1.6,4.4l4.7-0.2l1.2,4.5l3.7-2.9l3.7,2.9l1.2-4.5l4.7,0.2l-1.6-4.4L62.2,51.9z M53.6,55.3c-0.3,0.4-0.8,0.8-1.3,1s-1.1,0.3-1.9,0.3c-0.9,0-1.7-0.1-2.3-0.4s-1.1-0.7-1.5-1.4c-0.4-0.7-0.6-1.6-0.6-2.6c0-1.4,0.4-2.5,1.1-3.3c0.8-0.8,1.8-1.1,3.2-1.1c1.1,0,1.9,0.2,2.6,0.7s1.1,1.1,1.4,2L52,50.9c-0.1-0.3-0.2-0.5-0.3-0.6c-0.1-0.2-0.3-0.4-0.5-0.5s-0.5-0.2-0.7-0.2c-0.6,0-1.1,0.2-1.4,0.7c-0.2,0.4-0.4,0.9-0.4,1.7c0,1,0.1,1.6,0.4,2c0.3,0.4,0.7,0.5,1.2,0.5c0.5,0,0.9-0.1,1.2-0.4s0.4-0.7,0.6-1.2l2.3,0.7C54.2,54.3,54,54.8,53.6,55.3z"/></g></svg>',iconClose:'<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>',iconLink:'<svg xmlns="http://www.w3.org/2000/svg" version="1.1" data-icon="external-link" viewBox="0 0 32 40" x="0px" y="0px"><path d="M32 0l-8 1 2.438 2.438-9.5 9.5-1.063 1.063 2.125 2.125 1.063-1.063 9.5-9.5 2.438 2.438 1-8zm-30 3c-.483 0-1.047.172-1.438.563-.391.391-.563.954-.563 1.438v25c0 .483.172 1.047.563 1.438.391.391.954.563 1.438.563h25c.483 0 1.047-.172 1.438-.563.391-.391.563-.954.563-1.438v-15h-3v14h-23v-23h15v-3h-16z"/></svg>',iconWarning:'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89.96 80.65"><path d="M88.59,65.27,71.23,35.19,53.86,5.12a10.26,10.26,0,0,0-17.76,0L18.73,35.19,1.37,65.27a10.26,10.26,0,0,0,8.88,15.38H79.71a10.26,10.26,0,0,0,8.88-15.38ZM84.26,73a5.16,5.16,0,0,1-4.55,2.63H10.25A5.26,5.26,0,0,1,5.7,67.77L23.06,37.69,40.43,7.62a5.26,5.26,0,0,1,9.1,0L66.9,37.69,84.26,67.77A5.15,5.15,0,0,1,84.26,73Z"/><rect x="41.72" y="59.8" width="6.52" height="6.52"/><polygon points="39.32 33.25 41.76 56.38 48.2 56.38 50.64 33.25 50.64 28.39 39.32 28.39 39.32 33.25"/></svg>'},t=document.createElement("style");t.id="cookieControl-styling",t.type="text/css";t.appendChild(document.createTextNode('#ccc{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-family:Arial,sans-serif;font-size:12px;font-smooth:antialised;line-height:1.4em;position:fixed;z-index:2147483647}@media (min-width:1024px){#ccc{font-size:16px}}#ccc-overlay{-webkit-backface-visibility:hidden;-webkit-perspective:1000;-webkit-transform:translate3d(0,-100%,0);backface-visibility:hidden;background:rgba(0,0,0,.4);bottom:0;left:0;opacity:0;perspective:1000;position:fixed;right:0;top:0;transform:translate3d(0,-100%,0);transition:opacity .4s,-webkit-transform 0s;transition:transform 0s,opacity .4s;transition:transform 0s,opacity .4s,-webkit-transform 0s;will-change:transform,opacity;z-index:1}#ccc[open] #ccc-overlay{-webkit-transform:translateZ(0);opacity:1;transform:translateZ(0)}#ccc-icon{background:transparent;border:0;bottom:0;cursor:pointer;height:80px;padding:0;position:fixed;width:80px;z-index:10}#ccc[left] #ccc-icon{left:0}#ccc[right] #ccc-icon{right:0}#ccc-icon[hidden]{display:none}#ccc[dark] #ccc-icon{fill:#000025}#ccc[dark] #ccc-icon #star path{fill:#fff}#ccc[light] #ccc-icon{fill:#555}#ccc[light] #ccc-icon #star path{fill:#f4f4f4}#ccc-module{-webkit-backface-visibility:hidden;-webkit-perspective:1000;backface-visibility:hidden;height:100%;perspective:1000;position:fixed;transition:-webkit-transform .6s;transition:transform .6s;transition:transform .6s,-webkit-transform .6s;width:100%;will-change:transform;z-index:2}#ccc[slideout] #ccc-module{bottom:0;max-width:420px;top:0;width:90%}#ccc[slideout][left] #ccc-module{-webkit-transform:translateZ(0);left:auto;right:100%;transform:translateZ(0)}#ccc[slideout][left][open] #ccc-module{-webkit-transform:translate3d(100%,0,0);right:100%;transform:translate3d(100%,0,0)}#ccc[slideout][right] #ccc-module{-webkit-transform:translateZ(0);left:100%;right:auto;transform:translateZ(0)}#ccc[slideout][right][open] #ccc-module{-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}#ccc[popup] #ccc-module{-webkit-transform:translateZ(0);bottom:0;left:0;right:0;top:100%;transform:translateZ(0)}#ccc[popup][open] #ccc-module{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}#ccc-content{box-sizing:border-box;overflow-y:auto;padding:24px;position:absolute}#ccc[slideout] #ccc-content{bottom:0;left:0;right:0;top:0}#ccc[popup] #ccc-content{-webkit-transform:translate(-50%,-50%);border-radius:12px;height:90%;left:50%;max-height:600px;max-width:600px;top:50%;transform:translate(-50%,-50%);width:90%}#ccc[dark] #ccc-content{background-color:#313147;color:#fff;fill:#fff}#ccc[light] #ccc-content{background-color:#f4f4f4;color:#333;fill:#333}#ccc-close{align-items:center;background-color:transparent;border:0;cursor:pointer;display:flex;padding:0!important;position:absolute;right:16px;top:16px}#ccc-title{font-size:1.2em;font-weight:700;line-height:1.5em;margin:0;padding-right:32px;text-align:left}#ccc #ccc-recommended-settings{clear:both;float:none;margin-left:0}#ccc h3{font-weight:700;margin:0;padding-right:120px}#ccc h3,#ccc p{font-size:1em;line-height:1.5em;text-align:left}#ccc p{font-weight:400;margin:1em 0}#ccc hr{border:0;height:1px;margin:24px 0;opacity:.25}#ccc .ccc-svg-element{display:inline-block;height:16px;margin-left:8px;position:relative;top:6px;width:16px}#ccc[dark] hr{background-color:#fff}#ccc[dark] a,#ccc[dark] h2,#ccc[dark] h3,#ccc[dark] p,#ccc[dark] span{color:#fff;fill:#fff}#ccc[light] hr{background-color:#333}#ccc[light] a,#ccc[light] h2,#ccc[light] h3,#ccc[light] p,#ccc[light] span{color:#333;fill:#333}#ccc .optional-cookie{position:relative}.checkbox-toggle{margin:0;position:absolute;right:0;top:-3px}#ccc .checkbox-toggle-input{bottom:0;display:block;height:100%;left:0;margin:0;padding:0;position:absolute;right:0;top:0;width:100%;z-index:-1}#ccc[checkbox-optin] .checkbox-toggle{border:2px solid #fff;border-radius:4px}#ccc[checkbox-optin] .checkbox-toggle-label{display:block;height:24px;width:24px}#ccc[checkbox-optin] .checkbox-toggle-off,#ccc[checkbox-optin] .checkbox-toggle-on{display:none}#ccc[checkbox-optin] .checkbox-toggle-toggle{border-radius:4px;display:block;height:100%;position:relative;width:100%}#ccc[checkbox-optin] .checkbox-toggle input:checked~.checkbox-toggle-toggle:after{-webkit-transform:rotate(45deg);border:solid #fff;border-width:0 3px 3px 0;content:"";height:10px;left:9px;position:absolute;top:5px;transform:rotate(45deg);width:5px}#ccc[slider-optin] .checkbox-toggle{border:4px solid #fff;border-radius:50px}#ccc[slider-optin] .checkbox-toggle-label{cursor:pointer;display:flex;margin:0;z-index:1}#ccc[slider-optin] .checkbox-toggle-off,#ccc[slider-optin] .checkbox-toggle-on{flex:1;flex-basis:50%;font-size:.75em;font-weight:700;min-width:40px;padding:0 6px;text-align:center;white-space:nowrap;width:50%;z-index:2}#ccc[slider-optin] .checkbox-toggle-off{opacity:.65}#ccc[slider-optin] .checkbox-toggle-toggle{background-color:#000;border-radius:50px;cursor:pointer;display:block;height:100%;left:0;position:absolute;top:0;transition:all .4s ease;width:50%;z-index:3}#ccc[slider-optin] .checkbox-toggle input:checked~.checkbox-toggle-toggle{left:50%}#ccc[dark][slider-optin] .checkbox-toggle{background-color:#111125;border-color:#111125}#ccc[dark][checkbox-option] .checkbox-toggle{background-color:#111125;border-color:#fff}#ccc[dark] .checkbox-toggle-toggle{background-color:#2f2f5f}#ccc[light] .checkbox-toggle{background-color:#555;border-color:#555}#ccc[light] .checkbox-toggle-toggle{background-color:#000}#ccc[light] .checkbox-toggle-on,#ccc[slider-optin][light] .checkbox-toggle-off{color:#fff}#ccc .ccc-alert{border-radius:8px;height:0;margin:-16px 0 0;overflow:hidden}#ccc .ccc-alert[visible]{height:auto;margin:24px 0;padding:16px 16px 0}#ccc .ccc-alert-title{align-items:center;display:flex;padding:0}#ccc .ccc-alert-icon{display:inline-block;flex-shrink:0;height:30px;margin:0 8px 0 0;width:30px}#ccc .ccc-alert-break{margin:12px 0}.third-party-cookie-link{align-items:center;display:flex;margin:16px 0}.third-party-cookie-name{font-size:1em;font-weight:700}.third-party-cookie-icon{display:inline-block;height:16px;margin-left:16px;width:16px}#ccc[dark] .ccc-alert{fill:#fff}#ccc[dark] .ccc-alert,#ccc[dark] .third-party-cookie-link{background:#111125;color:#fff}#ccc[light] .ccc-alert,#ccc[light] .third-party-cookie-link{background:#eaeaea}#ccc #ccc-notify{-webkit-transform:translate3d(0,100%,0);border-radius:0;bottom:0;display:flex;flex-direction:column;height:auto;justify-content:space-between;left:0;margin:0;min-height:48px;overflow:hidden;padding:16px;position:fixed;right:0;transform:translate3d(0,100%,0);transition:-webkit-transform .4s;transition:transform .4s;transition:transform .4s,-webkit-transform .4s;z-index:12}#ccc #ccc-notify:empty{height:0;padding:0}#ccc #ccc-notify[visible]{-webkit-transform:translateZ(0);transform:translateZ(0)}#ccc #ccc-notify h3{padding:0}#ccc #ccc-notify p{font-size:.9em;margin:0;opacity:.8}#ccc .ccc-notify-buttons{margin-top:16px;position:relative}#ccc .ccc-notify-button{background:transparent;border:2px solid;border-radius:4px;cursor:pointer;font-size:1em;font-weight:400;line-height:1.5em;margin:4px 8px 4px 0;padding:8px 16px!important}#ccc #ccc-notify-dismiss{background-color:transparent;border:0;cursor:pointer;display:inline-flex;height:24px;padding:0!important;position:absolute;right:0;top:-4px;width:24px}@media (min-width:400px){#ccc #ccc-notify-dismiss{position:relative;right:auto}}@media (min-width:600px){#ccc #ccc-notify{align-items:center;flex-direction:row;font-size:12px}#ccc .ccc-notify-buttons{flex-shrink:0;margin-top:0;white-space:nowrap}}@media (min-width:1200px){#ccc #ccc-notify{font-size:16px;padding:16px 100px;z-index:0}}#ccc[dark] #ccc-notify{background-color:#313147;color:#fff;fill:#fff}#ccc[dark] .ccc-notify-button{border-color:#fff;color:#fff}#ccc[dark] .ccc-button-solid{background:#fff;color:#111125;font-weight:700}#ccc[light] #ccc-notify{background:#f4f4f4;color:#000;fill:#000}#ccc[light] .ccc-notify-button{border-color:#000;color:#000}#ccc[light] .ccc-button-solid{background:#000;color:#fff;font-weight:700}#ccc-info-link{font-size:.8em;font-weight:700;text-decoration:none}#ccc-info-link .svg-element{height:14px;margin-left:6px;width:14px}#ccc[slideout] #ccc-info{height:100px}#ccc[popup] #ccc-info{height:40px}@media print{#ccc{display:none!important}}#ccc-close-label{display:none}#ccc[labelled] #ccc-title{padding-right:96px}#ccc[labelled] #ccc-close{padding:8px!important;right:0;top:0}#ccc[labelled][light] #ccc-close{background-color:#eaeaea}#ccc[labelled][dark] #ccc-close{background-color:#111125}#ccc[labelled] #ccc-close-label{display:block;font-size:16px}#ccc[close-button] #ccc-close{display:none}#ccc[close-button] #ccc-title{padding-right:0}#ccc-dismiss-button{display:none}#ccc[close-button] #ccc-dismiss-button{display:block;margin:16px 0 32px}#ccc[highlight-focus] .ccc-tabbable,#ccc[highlight-focus] .ccc-tabbable:focus{outline:0}#ccc[highlight-focus] .ccc-link.ccc-tabbable:focus{-webkit-filter:invert(100%);filter:invert(100%);padding:8px}#ccc[light][highlight-focus] .ccc-link.ccc-tabbable:focus{background-color:#eaeaea!important;border-color:#eaeaea!important}#ccc[dark][highlight-focus] .ccc-link.ccc-tabbable:focus{background-color:#111125!important;border-color:#111125!important}#ccc[highlight-focus] .ccc-button-solid:focus,#ccc[highlight-focus] .checkbox-toggle-input:focus~.checkbox-toggle-toggle,#ccc[highlight-focus] .third-party-cookie-link:focus,#ccc[labelled][highlight-focus] #ccc-close:focus{-webkit-filter:invert(100%);filter:invert(100%)}#ccc[light][highlight-focus] .ccc-tabbable:focus{box-shadow:0 4px 8px 0 hsla(0,0%,100%,.2),0 6px 20px 0 hsla(0,0%,100%,.2)}#ccc[dark][highlight-focus] .ccc-tabbable:focus{box-shadow:0 4px 8px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.2)}#ccc[highlight-focus] #ccc-icon:focus{-webkit-filter:invert(100%);filter:invert(100%);outline:none}#ccc[highlight-focus] #ccc-icon:active,#ccc[highlight-focus] #ccc-icon:hover,#ccc[highlight-focus] #ccc .ccc-tabbable:active,#ccc[highlight-focus] #ccc .ccc-tabbable:hover{-webkit-filter:none!important;box-shadow:none!important;filter:none!important}#ccc-accessibility{-webkit-clip-path:inset(50%);border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important}')),document.head.appendChild(t);var n=document.body,E=document.createElement("section");E.id="ccc",E.style.zIndex=21474836475,E.innerHTML='<div id="ccc-accessibility" role="alert" aria-live="assertive"></div><div id="ccc-overlay"></div><button id="ccc-icon" aria-controls="ccc-module"></button><div id="ccc-notify" role="region"></div><div id="ccc-module" role="region"><div id="ccc-content"><button id="ccc-close" class="ccc-link ccc-tabbable" tabindex="0"><span id="ccc-close-label"></span>'+O.iconClose+'</button><h2 id="ccc-title"></h2><p id="ccc-intro"></p><div id="ccc-statement"></div><button id="ccc-recommended-settings" class="ccc-notify-button ccc-button-solid ccc-tabbable" onclick="CookieControl.notifyAccept()"></button><hr /><h3 id="ccc-necessary-title"></h3><p id="ccc-necessary-description"></p><hr /><div id="ccc-optional-categories"></div><div id="ccc-end"><button id="ccc-dismiss-button" class="ccc-notify-button ccc-button-solid ccc-tabbable" onclick="CookieControl.hide()"></button></div><div id="ccc-info"></div></div></div>';var N={accessibility:E.querySelector("#ccc-accessibility"),title:E.querySelector("#ccc-title"),intro:E.querySelector("#ccc-intro"),necessaryTitle:E.querySelector("#ccc-necessary-title"),necessaryDescription:E.querySelector("#ccc-necessary-description"),optionalCookies:E.querySelector("#ccc-optional-categories"),hrs:E.querySelectorAll("hr"),widget:E.querySelector("#ccc-module"),button:E.querySelector("#ccc-icon"),content:E.querySelector("#ccc-content"),close:E.querySelector("#ccc-close"),closeLabel:E.querySelector("#ccc-close-label"),overlay:E.querySelector("#ccc-overlay"),aboutInfo:E.querySelector("#ccc-info"),statement:E.querySelector("#ccc-statement"),notify:E.querySelector("#ccc-notify"),recommendedSettings:E.querySelector("#ccc-recommended-settings"),end:E.querySelector("#ccc-end"),dismissButton:E.querySelector("#ccc-dismiss-button")},q={title:N.title,intro:N.intro,necessaryTitle:N.necessaryTitle,necessaryDescription:N.necessaryDescription,acceptRecommended:N.recommendedSettings,closeLabel:N.closeLabel};function H(){E.setAttribute("open",""),E.removeAttribute("closed"),N.notify.removeAttribute("visible"),N.close.focus()}function D(){E.setAttribute("closed",""),E.removeAttribute("open"),!1===I.interactedWith&&(I.interactedWith=!0,s())}function s(){if(I.consentDate=Date.now(),U("CookieControl",JSON.stringify(I),Z.consentCookieExpiry),1==A.record_consent_state&&1==Z.logConsent){var t="https://clapi.civiccomputing.com/1/log?d="+encodeURIComponent(document.location.hostname)+"&u="+o+"&c="+JSON.stringify(I),e=new XMLHttpRequest;e.open("GET",t),e.onload=function(){e.status},e.send()}}function P(){N.accessibility.innerHTML=W("accessibilityAlert"),N.accessibility.setAttribute("visible","")}function B(t){return t.replace(/[\s()<>@,;:"?={}\/\\\[\]]/g,"")}function c(t){var e=d(),o="false";for(var c in e)if(c===B(t)){o=e[c];break}return o}function R(t,e){return c(t).toLowerCase()===e.toLowerCase()}function U(t,e,o){for(var c=0,i=location.hostname.split("."),n=B(t)+"="+e+";path=/;";c<i.length&&!1===R(t,e);){domainTest=i.slice(-1-++c).join(".");var r=new Date,a=new Date(r.setDate(r.getDate()+o));document.cookie=n+"domain="+domainTest+";expires="+a.toUTCString()+";"}}function d(){var t={};if(!document.cookie.trim())return{};for(var e=document.cookie.split(/\s*;\s*/),o=0;o<e.length;o++){var c=e[o].split(/\s*=\s*/);c&&(t[c[0]]=unescape(c[1]))}return t}function F(t){document.cookie=B(t)+"=;expires=Thu, 01-Jan-1970 00:00:01 GMT;",document.cookie=B(t)+"=;path=/;expires=Thu, 01-Jan-1970 00:00:01 GMT;";for(var e=location.hostname.split(".");e.length;){var o=e.join(".");document.cookie=B(t)+"=;expires=Thu, 01-Jan-1970 00:00:01 GMT;domain="+o,document.cookie=B(t)+"=;path=/;expires=Thu, 01-Jan-1970 00:00:01 GMT;domain="+o,document.cookie=B(t)+"=;expires=Thu, 01-Jan-1970 00:00:01 GMT;domain=."+o,document.cookie=B(t)+"=;path=/;expires=Thu, 01-Jan-1970 00:00:01 GMT;domain=."+o,e.shift()}}function J(t){var e=d(),o=Object.keys(e);if(!0===t)for(var c=0;c<o.length;c++)F(o[c]);else{var i=[];i.push("CookieControl");for(var n=0;n<Z.necessaryCookies.length;n++){i=p(Z.necessaryCookies[n],o,i)}if(null!=Z.optionalCookies)for(var r=0;r<Z.optionalCookies.length;r++){var a=Z.optionalCookies[r];if((I.optionalCookies[B(a.name)]===L||"legitimate interest"===I.optionalCookies[B(a.name)])&&(i.push(B(a.name)),null!=a.cookies))for(var l=0;l<a.cookies.length;l++)i=p(a.cookies[l],o,i)}for(var s=0;s<o.length;s++)i.indexOf(o[s])<0&&F(o[s])}}function p(t,e,o){if(t.lastIndexOf("*")==t.length-1)for(var c=t.slice(0,-1),i=0;i<e.length;i++)0==e[i].indexOf(c)&&o.push(e[i]);else o.push(t);return o}function G(t,e){var o,c,i=Z.optionalCookies[t],n=document.querySelector('#ccc .optional-cookie[data-index="'+t+'"] .checkbox-toggle-input');I.optionalCookies[B(i.name)]="legitimateInterest"===e?"legitimate interest":L,null!=i.thirdPartyCookies&&(o=t,(c=E.querySelector('#ccc-optional-categories [data-index="'+o+'"] .ccc-alert')).innerHTML="",c.removeAttribute("visible")),null!=i.onAccept&&i.onAccept(),!0===e&&(I.interactedWith=!0,s()),!1===e&&(n.checked=!0)}function u(t,e){var o=Z.optionalCookies[t],c=document.querySelector('#ccc .optional-cookie[data-index="'+t+'"] .checkbox-toggle-input');I.optionalCookies[B(o.name)]=S,J(),null!=o.thirdPartyCookies&&function(t){var e=Z.optionalCookies[t],o=E.querySelector('#ccc-optional-categories [data-index="'+t+'"] .ccc-alert');o.setAttribute("visible",""),o.innerHTML="",o.innerHTML='<h3 class="ccc-alert-title"><span class="ccc-alert-icon">'+O.iconWarning+"</span>"+W("thirdPartyTitle")+'</h3><hr class="ccc-alert-break"/><p class="ccc-alert-description">'+W("thirdPartyDescription")+"</p>";for(var c=0;c<e.thirdPartyCookies.length;c++){var i=e.thirdPartyCookies[c],n=document.createElement("a");n.className="third-party-cookie-link ccc-tabbable",n.href=i.optOutLink,n.target="_blank",n.innerHTML='<span class="third-party-cookie-name">'+i.name+'</span><span class="third-party-cookie-icon">'+O.iconLink+"</span>",o.appendChild(n)}}(t),null!=o.onRevoke&&o.onRevoke(),!0===e&&s(),!1===e&&(c.checked=!1)}function e(t){var e;if(null!=t&&t.product&&z[t.product.toUpperCase()]){var o="https://apikeys.civiccomputing.com/c/v?d="+encodeURIComponent(document.location.hostname)+"&p="+encodeURIComponent(z[t.product.toUpperCase()])+"&v=8&k="+encodeURIComponent(t.apiKey)+"&format=json",c=new XMLHttpRequest;c.open("GET",o),c.onload=function(){200===c.status?(e="API VERIFICATION PASSED",function(t,e){if(function(t,e){if(t&&A.product.toLowerCase()!==z.COMMUNITY.toLowerCase()){var o=A.geo.countryName,c=A.geo.country;if(""===c||""===o)return!1;if(0<=a.indexOf(c)||0<=l.indexOf(o))return!1;if(0<=t.indexOf("all")||0<=t.indexOf(c)||0<=t.indexOf(o)){void 0===e&&(e=[]);for(var i=0;i<e.length;i++){var n=e[i];null!=n.onAccept&&n.onAccept()}return!0}}return!1}(e.excludedCountries,e.optionalCookies))return;if(null==document.querySelector("#ccc")){if(null==n)return console.error("Cookie Control cannot be rendered. Please ensure the script is added inside the <body> of your page instead of <head>.");n.appendChild(E)}if(t.product.toLowerCase()===z.COMMUNITY.toLowerCase())for(var o=0;o<i.length;o++)e[i[o]]&&(console.warn("Cookie Control: Users with a community license cannot use the "+i[o]+" option."),delete e[i[o]]);g(e)}(A=JSON.parse(c.responseText),t)):(e="API VERIFICATION FAILED",console.error("Cookie Control failed to verify your API key.\nPlease refer to https://www.civicuk.com/cookie-control/v8/documentation."))},c.send()}else e="FAILED",console.error("Cookie Control failed to verify your settings.\nPlease refer to https://www.civicuk.com/cookie-control/v8/documentation.");return e}N.button.addEventListener("click",function(){E.hasAttribute("open")?D():H();this.blur()},!1),N.close.addEventListener("click",D,!1);var Z=JSON.parse(JSON.stringify({logConsent:!0,initialState:"closed",notifyOnce:!1,position:"right",layout:"slideout",theme:"dark",closeStyle:"icon",toggleType:"slider",branding:{},statement:{},necessaryCookies:[],consentCookieExpiry:90,accessibility:{accessKey:"c",highlightFocus:!1},text:{accessibilityAlert:"This site uses cookies to store information. Press accesskey C to learn more about your options.",title:"This site uses cookies to store information on your computer.",intro:"Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.",necessaryTitle:"Necessary Cookies",necessaryDescription:"Necessary cookies enable core functionality such as page navigation and access to secure areas. The website cannot function properly without these cookies, and can only be disabled by changing your browser preferences.",thirdPartyTitle:"Some cookies require your attention",thirdPartyDescription:"Consent for the following cookies could not be automatically revoked. Please follow the link(s) below to opt out manually.",notifyTitle:"Your choice regarding cookies on this site",notifyDescription:"We use cookies to optimise site functionality and give you the best possible experience.",on:"On",off:"Off",accept:"Accept",acceptRecommended:"Accept Recommended Settings",settings:"Cookie Preferences",closeLabel:"Close"}}));function g(t){for(var e=Object.keys(t),o=0;o<e.length;o++)if("object"==typeof t[e[o]]&&!1===Array.isArray(t[e[o]])){if("branding"===e[o].toLowerCase()&&A.product.toLowerCase()===z.COMMUNITY.toLowerCase())continue;for(var c=Object.keys(t[e[o]]),i=0;i<c.length;i++)Z[e[o]][c[i]]=t[e[o]][c[i]]}else"initialstate"===e[o].toLowerCase()&&"notify"===t[e[o]].toLowerCase()&&A.product.toLowerCase()===z.COMMUNITY.toLowerCase()?console.warn("Cookie Control: Users with a community license cannot use the notify option."):"layout"===e[o].toLowerCase()&&"popup"===t[e[o]].toLowerCase()&&A.product.toLowerCase()===z.COMMUNITY.toLowerCase()?console.warn("Cookie Control: Users with a community license cannot use the popup layout option."):Z[e[o]]=t[e[o]];!function(t){for(var e=["light","dark","popup","slideout","left","right","labelled","close-button","highlight-focus","custom-branding","slider-optin","checkbox-optin"],o=0;o<e.length;o++)E.removeAttribute(e[o]);!0===t.accessibility.highlightFocus&&E.setAttribute("highlight-focus","");N.button.setAttribute("accesskey",t.accessibility.accessKey),"slider"===t.toggleType?E.setAttribute("slider-optin",""):E.setAttribute("checkbox-optin","");I.necessaryCookies=t.necessaryCookies,I.consentExpiry=t.consentCookieExpiry,"light"===t.theme.toLowerCase()?E.setAttribute("light",""):E.setAttribute("dark","");"popup"===t.layout.toLowerCase()?E.setAttribute("popup",""):E.setAttribute("slideout","");"left"===t.position.toLowerCase()?E.setAttribute("left",""):E.setAttribute("right","");"labelled"===t.closeStyle?(E.setAttribute("labelled",""),q.closeLabel=N.closeLabel):"button"===t.closeStyle&&(E.setAttribute("close-button",""),q.closeLabel=N.dismissButton);var c="";null!=t.branding.fontFamily&&(c+="#ccc, #ccc button {font-family: "+t.branding.fontFamily+" !important;}");null!=t.branding.fontColor&&(c+="#ccc, #ccc #ccc-content, #ccc #ccc-notify, #ccc h2, #ccc h3, #ccc p, #ccc span, #ccc a {color: "+t.branding.fontColor+" !important; fill: "+t.branding.fontColor+" !important;} #ccc hr {background-color: "+t.branding.fontColor+" !important;}");null!=t.branding.backgroundColor&&(c+="#ccc #ccc-content, #ccc #ccc-notify { background-color: "+t.branding.backgroundColor+" !important;}");null!=t.branding.fontSizeHeaders&&(c+="#ccc h2, #ccc h3 { font-size: "+t.branding.fontSizeHeaders+" !important;}");null!=t.branding.fontSize&&(c+="#ccc, #ccc p, #ccc .third-party-cookie-link { font-size: "+t.branding.fontSize+" !important;}");null!=t.branding.fontSizeTitle&&(c+="#ccc #ccc-title { font-size: "+t.branding.fontSizeTitle+" !important;}");null!=t.branding.toggleText&&(c+="#ccc .checkbox-toggle-on, #ccc .checkbox-toggle-off { color: "+t.branding.toggleText+" !important;}");null!=t.branding.toggleColor&&(c+="#ccc .checkbox-toggle-toggle { background-color: "+t.branding.toggleColor+" !important;}");null!=t.branding.toggleBackground&&(c+="#ccc .checkbox-toggle { background-color: "+t.branding.toggleBackground+" !important; border-color: "+t.branding.toggleBackground+" !important;}");null!=t.branding.alertText&&(c+="#ccc .ccc-alert, #ccc .ccc-alert a, #ccc .ccc-alert svg { color: "+t.branding.alertText+" !important; fill : "+t.branding.alertText+" !important;}");null!=t.branding.alertBackground&&(c+="#ccc #ccc-icon { fill: "+t.branding.alertBackground+" !important;} #ccc .ccc-alert { background-color: "+t.branding.alertBackground+" !important;}");null!=t.branding.acceptText&&(c+="#ccc .ccc-notify-button.ccc-button-solid { color: "+t.branding.acceptText+" !important;}");null!=t.branding.acceptBackground&&(c+="#ccc .ccc-notify-button.ccc-button-solid { background-color: "+t.branding.acceptBackground+" !important; border-color: "+t.branding.acceptBackground+" !important;}");if(""!=c){E.setAttribute("custom-branding","");var i=document.getElementById("cookieControl-styling"),n=document.createTextNode(c);i.appendChild(n)}if(!0===t.branding.removeIcon)N.button.setAttribute("hidden",""),N.button.innerHTML="";else{var r;N.button.removeAttribute("hidden"),r="left"===t.position.toLowerCase()?O.iconLeft:O.iconRight,null!=t.branding.buttonIcon&&(r='<img src="'+t.branding.buttonIcon+'" alt="Cookie Control toggle icon" style="width: '+t.branding.buttonIconWidth+"; height: "+t.branding.buttonIconHeight+';" />',N.button.style.width=t.branding.buttonIconWidth,N.button.style.height=t.branding.buttonIconHeight),N.button.innerHTML=r}!0!==t.branding.removeAbout&&(N.aboutInfo.innerHTML='<a id="ccc-info-link" class="ccc-link ccc-tabbable" href="https://www.civicuk.com/cookie-control" target="_blank" rel="noopener">About this tool <span class="ccc-svg-element">'+O.iconLink+"</span></a>");if(null!=t.locales&&A.product.toLowerCase()!==z.COMMUNITY.toLowerCase()){var a=window.navigator.userLanguage||window.navigator.language,l=(a=a.replace("-","_")).substring(0,2),s=t.locales.filter(function(t){return t.locale.toLowerCase()===a}),d=t.locales.filter(function(t){return t.locale.toLowerCase()===l});0<s.length?T=s[0]:0<d.length&&(T=d[0])}if(function(){var t;for(var e in t=null!=T&&null!=T.text?T.text:Z.text,q)q[e].innerHTML=t[e]||Z.text[e]}(),N.optionalCookies.innerHTML="",null!=t.optionalCookies&&0<t.optionalCookies.length)for(var p=0;p<t.optionalCookies.length;p++){var u=t.optionalCookies[p],g=document.createElement("div"),f=u.label||"Purpose "+(parseInt(p)+1),h=u.description||"A description for "+f+" has not been provided.";null!=T&&null!=T.text&&null!=T.text.optionalCookies&&null!=T.text.optionalCookies[p]&&null!=T.text.optionalCookies[p].label&&(f=T.text.optionalCookies[p].label),null!=T&&null!=T.text&&null!=T.text.optionalCookies&&null!=T.text.optionalCookies[p]&&null!=T.text.optionalCookies[p].label&&(h=T.text.optionalCookies[p].description),g.setAttribute("data-index",p),g.className="optional-cookie",g.innerHTML='<h3 class="optional-cookie-header">'+f+'</h3><div class="checkbox-toggle ccc-tabbable"><label class="checkbox-toggle-label"><input class="checkbox-toggle-input" type="checkbox" onchange="CookieControl.toggleCategory('+p+', true)" /><span class="checkbox-toggle-on">'+W("on")+'</span><span class="checkbox-toggle-off">'+W("off")+'</span><span class="checkbox-toggle-toggle" data-index="'+p+'"></span></label></div><p>'+h+'</p><div class="ccc-alert"></div><hr />';var b=g.querySelector("input");g.querySelector(".toggle");I.optionalCookies[B(u.name)]===L?(b.setAttribute("checked",""),null!=u.onAccept&&u.onAccept()):"string"==typeof(m=u).lawfulBasis&&"legitimate interest"===m.lawfulBasis.toLowerCase()&&!1===(k=u.name,I.optionalCookies[B(k)]===S||R(k,S))&&(b.setAttribute("checked",""),G(p,"legitimateInterest")),N.optionalCookies.appendChild(g)}else console.warn("Please provide at least one optional cookie category.");var k;var m;var x=t.statement;null!=T&&null!=T.text&&null!=T.text.statement&&(x=T.text.statement);if(null!=x&&null!=x.description&&null!=x.name&&null!=x.url&&null!=x.updated){I.statement={shown:!0,updated:x.updated};var y=document.createElement("p");y.innerHTML=x.description+' <a target="_blank" rel="noopener" href="'+x.url+'" class="ccc-link ccc-tabbable">'+x.name+'<span class="ccc-svg-element">'+O.iconLink+"</span></a>",N.statement.innerHTML="",N.statement.appendChild(y)}if(null!=x&&null!=x.updated){var v=x.updated.split("/"),C=new Date(v[2],parseInt(v[1])-1,v[0]).getTime();C>I.consentDate&&(J(!0),F("CookieControl"),I=M)}var w=!1===I.interactedWith;!0===t.notifyOnce&&(w=null==I.initialState.type);"open"===t.initialState.toLowerCase()&&w?(I.initialState={type:"open"},window.setTimeout(function(){H(),P()},800)):"notify"===t.initialState.toLocaleLowerCase()&&w?(I.initialState={type:"notify"},window.setTimeout(function(){N.notify.innerHTML='<div class="ccc-notify-text"><h3>'+W("notifyTitle")+"</h3><p>"+W("notifyDescription")+'</p></div><div class="ccc-notify-buttons"><button id="ccc-notify-accept" class="ccc-notify-button ccc-button-solid ccc-tabbable" onclick="CookieControl.notifyAccept()">'+W("accept")+'</button><button aria-controls="ccc-module" class="ccc-notify-button ccc-link ccc-tabbable" onclick="CookieControl.open()">'+W("settings")+'</button><button id="ccc-notify-dismiss" class="ccc-link ccc-tabbable" onclick="CookieControl.notifyDismiss()" tabindex="0">'+O.iconClose+"</button></div>",N.notify.setAttribute("visible",""),P()},800)):(I.initialState={type:"closed"},D());null!=t.onLoad&&"function"==typeof t.onLoad&&t.onLoad();U("CookieControl",JSON.stringify(I),t.consentCookieExpiry)}(Z),J()}function W(t){return(null!=T&&null!=T.text?T.text:Z.text)[t]||Z.text[t]}return{info:function(){return"Cookie Control Version: "+8.11.toFixed(1)},load:function(t){return e(t)},update:function(t){return g(t),"Cookie Control - update complete"},saveCookie:function(t,e,o){return U(t,e,o)},getCookie:function(t){return c(t)},getAllCookies:function(){return d()},delete:function(t){return F(t),"Cookie Control - "+t+" cookie successfully deleted."},deleteAll:function(t){return J(t),"Cookie Control - all cookies successfully deleted."},toggleCategory:function(t,e){var o,c,i;void 0===e&&(e=!1),o=t,c=e,i=Z.optionalCookies[o],I.optionalCookies[B(i.name)]===L||"legitimate interest"===I.optionalCookies[B(i.name)]?u(o,c):G(o,c)},config:function(){return Z},open:function(){return H(),"Cookie Control Opened"},hide:function(){return D(),"Cookie Control Closed"},notifyAccept:function(){return function(){if(N.notify.removeAttribute("visible"),null!=Z.optionalCookies&&0<Z.optionalCookies.length)for(var t=0;t<Z.optionalCookies.length;t++){var e=Z.optionalCookies[t];("string"==typeof(o=e).initialConsentState&&"on"===o.initialConsentState.toLowerCase()||"boolean"==typeof o.initialConsentState&&!0===o.initialConsentState||"string"==typeof o.recommendedState&&"on"===o.recommendedState.toLowerCase()||"boolean"==typeof o.recommendedState&&!0===o.recommendedState)&&G(t,!1)}var o;I.initialState={type:"notify",action:"accepted"},I.interactedWith=!0,D(),s()}(),"Cookie Notification Accepted"},notifyDismiss:function(){return N.notify.removeAttribute("visible"),I.initialState={type:"notify",action:"dismissed"},I.interactedWith=!0,s(),"Cookie Notification Dismissed"},geoInfo:function(){return{country:A.geo.country,countryName:A.geo.countryName,withinEU:0<=a.indexOf(A.geo.country)}}}}();
 </script>
 
-<!-- Cookie Control Configuration-->
-<script src="https://cc.cdn.civiccomputing.com/8.0/cookieControl-8.0.min.js"></script>
-<style>
-  body #ccc[dark] .ccc-button-solid {
-    background-color: #00b9ee;
-    border-color: #00b9ee;
-    color: #fff;
-  }
-  body #ccc {
-    font-family: "Open Sans";
-  }
-  body #ccc #ccc-notify {
-    font-size: 14px;
-  }
 
+
+<!-- Cookie Control Configuration -->
+
+<style>
+    body #ccc[dark] .ccc-button-solid {
+        background-color: #00b9ee;
+        border-color: #00b9ee;
+        color: #fff;
+    }
+    body #ccc {
+        font-family: "Open Sans";
+    }
+    body #ccc #ccc-notify {
+        font-size: 14px;
+    }
+    body #ccc .ccc-notify-button {
+    }
+    #ccc[dark] .ccc-notify-button {
+        border: 1px solid;
+        border-color: rgba(255,255,255,.4);
+    }
+    #ccc-notify-dismiss {
+        opacity: .6;
+    }
+    #ccc-notify-dismiss:hover {
+        opacity: 1;
+    }
 </style>
 <script>
-  var config = {
-    apiKey: 'dd61620418d9309689d83001793f38f3379b80b9',
-    product: 'PRO_MULTISITE',
-    initialState: "NOTIFY",
-    optionalCookies: [
-      {
-        name: 'analytics',
-        label: 'Analytics',
-        description: 'Helps us measure website traffic.',
-        initialConsentState: 'on',
-        cookies: ['_ga', '_gid', '_gat', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv', '__cfduid', 'fr', 'personalization_id', 'test_cookie'],
-        onAccept : function(){
-          consentableAnalyticsScripts();
+    var config = {
+        apiKey: 'dd61620418d9309689d83001793f38f3379b80b9',
+        product: 'PRO_MULTISITE',
+        initialState: "NOTIFY",
+        optionalCookies: [
+            {
+                name: 'analytics',
+                label: 'Analytics',
+                description: 'Helps us measure website traffic.',
+                recommendedState: 'on',
+                cookies: ['_ga', '_gid', '_gat', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv', '__cfduid', 'fr', 'personalization_id', 'test_cookie'],
+                onAccept : function(){
+                    consentableAnalyticsScripts();
+                },
+                onRevoke: function(){}
+            },
+            {
+                name: 'marketing',
+                label: 'Marketing',
+                description: 'Helps us measure the effectiveness of our promotions.',
+                initialConsentState: 'on',
+                cookies: ['driftt_aid', 'driftt_sid'],
+                onAccept : function(){
+                    consentableMarketingScripts();
+                },
+                onRevoke: function(){
+                }
+            },
+        ],
+        layout: 'POPUP',
+        position: 'LEFT',
+        theme: 'DARK',
+        branding: {
+            fontColor: "#FFF",
+            fontSizeTitle: "1.0em",
+            fontSizeIntro: "1.0em",
+            fontSizeHeaders: "1.0em",
+            fontSize: ".9em",
+            backgroundColor: "#1d1d21",
+            toggleText: "#fff",
+            toggleColor: "#00b9ee",
+            toggleBackground: "#43434c",
+            buttonIcon: null,
+            buttonIconWidth: "64px",
+            buttonIconHeight: "64px",
+            removeIcon: true,
+            removeAbout: true
         },
-        onRevoke: function(){}
-      },{
-        name: 'chat',
-        label: 'Live Chat',
-        description: 'Allows you to visit with a Geniuslink expert while you browse our site.',
-        initialConsentState: 'on',
-        cookies: ['driftt_aid', 'driftt_sid'],
-        onAccept : function(){
-          consentableChatScripts();
-        },
-        onRevoke: function(){
-        }
-      },{
-        name: 'marketing',
-        label: 'Marketing',
-        description: 'Helps us measure the effectiveness of our promotions.',
-        initialConsentState: 'on',
-        cookies: ['driftt_aid', 'driftt_sid'],
-        onAccept : function(){
-          consentableMarketingScripts();
-        },
-        onRevoke: function(){
-        }
-      }
-    ],
-    layout: 'POPUP',
-    position: 'LEFT',
-    theme: 'DARK',
-    branding: {
-      fontColor: "#FFF",
-      fontSizeTitle: "1.0em",
-      fontSizeIntro: "1.0em",
-      fontSizeHeaders: "1.0em",
-      fontSize: ".9em",
-      backgroundColor: "#1d1d21",
-      toggleText: "#fff",
-      toggleColor: "#00b9ee",
-      toggleBackground: "#43434c",
-      buttonIcon: null,
-      buttonIconWidth: "64px",
-      buttonIconHeight: "64px",
-      removeIcon: true,
-      removeAbout: true
-    },
-    excludedCountries: ["all"]
+        excludedCountries: ["all"]
 
-  };
+    };
 
-  CookieControl.load( config );
+    CookieControl.load( config );
 </script>
 
 <!-- End Cookie Control -->
 
-
 <!-- Floating Navigation -->
-<header class="affix-top">
+<header>
 
   <div class="container">
 
@@ -216,8 +275,8 @@
           <span class="icon-bar"></span>
         </button>
         <a href="/" class="navbar-brand">
-          <img class="inside-only" src="/img/geniuslink-logo-white-blue.svg" alt="Geniuslink: The world's most intelligent link shortener for marketing products across a fragmented audience." height="33" width="132">
-          <img class="home-only" src="/img/geniuslink-logo-white.svg" alt="Geniuslink: The world's most intelligent link shortener for marketing products across a fragmented audience." height="33" width="132">
+          <img class="nonsplash-only" src="/img/geniuslink-logo-white-blue.svg" alt="Geniuslink: The world's most intelligent link shortener for marketing products across a fragmented audience." height="33" width="132">
+          <img class="splash-only" src="/img/geniuslink-logo-white.svg" alt="Geniuslink: The world's most intelligent link shortener for marketing products across a fragmented audience." height="33" width="132">
         </a>
       </div>
 
@@ -231,17 +290,6 @@
           <li id="nav-login"><a href="https://my.geni.us">LOG IN</a></li>
           <li id="nav-support"><a href="https://help.geni.us">SUPPORT</a></li>
           <li id="nav-blog"><a href="https://blog.geni.us">BLOG</a></li>
-          <!--
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">HOW IT WORKS <span class="caret"></span></a>
-            <ul class="dropdown-menu" role="menu">
-              <li><a href="#">Apps</a></li>
-              <li><a href="#">Music</a></li>
-              <li><a href="#">Books</a></li>
-              <li><a href="#">Products</a></li>
-            </ul>
-          </li>
-          -->
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container -->
@@ -261,12 +309,12 @@
           <h1>GeoRiot Privacy Policy</h1>
 
           <h2>1. Overview</h2>
-          <p>GeoRiot provides a set of services ("Genius Link Services") to commercial customers ("Clients")
-            for purposes of online marketing and sales of digital and physical products and services ("Products")
-            to individual consumers. The Genius Link Services are provided to Clients worldwide, including in the United
-            States ("US"), the member states of the European Union ("EU"), and Switzerland. The
-            Genius Link Services are provided under the names "Genius Link" and "BookLinker.com." The Genius Link
-            Services are not provided to individuals as consumers. </p>
+          <p><a name="_GoBack"></a> GeoRiot provides a set of services ("Genius Link Services") to commercial
+            customers ("Clients") for purposes of online marketing and sales of digital and physical products
+            and services ("Products") to individual consumers. The Genius Link Services are provided to
+            Clients worldwide, including in the United States ("US"), the member states of the European Union
+            ("EU"), and Switzerland. The Genius Link Services are provided under the names "Genius Link" and
+            "BookLinker.net." The Genius Link Services are not provided to individuals as consumers. </p>
           <p>The Genius Link Services are dynamic links that are used to connect consumers visiting or interacting with
             a Client's websites, applications, social media, electronic documents, eBooks, text messages and other
             online digital properties ("Digital Properties") to retail websites ("Storefronts") maintained by
@@ -284,24 +332,24 @@
             Genius Link Services ("Client Personal Data"). Client Personal Data may be collected in the course of Client
             account registration and in communications and transactions between the Client and GeoRiot. The core terms
             applicable to Client Personal Data are provided in Section 4, 5, 7 and 8.</p>
-
-
-          <h2>2. Adherence to Privacy Shield </h2>
-          <p>GeoRiot and the Genius Link Services comply with the EU-US Privacy Shield Framework and the Swiss-U.S.
-            Privacy Shield Framework and the Privacy Shield Principles (collectively "Privacy Shield") as set forth by
-            the US Department of Commerce regarding the collection, use, and retention of Personal Information from EU
-            member nations and Switzerland. </p>
+          <p>
+          </p><h2>2. Adherence to Privacy Shield </h2>
+          <p>GeoRiot and the Genius Link Services comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S.
+            Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and
+            retention of personal information transferred from the European Union to the United States. GeoRiot has
+            certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any
+            conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield
+            Principles shall govern. To learn more about the Privacy Shield program, and to view our certification,
+            please visit https://www.privacyshield.gov/</p>
+          <p>
+          </p>
           <p>This compliance includes both Potential Personal Information, whether or not such information is in fact
             Personal Data for purposes of EU data protection laws and Privacy Shield, and Client Personal Data. </p>
-          <p>GeoRiot has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability
-            for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and
-            liability. To learn more about Privacy Shield, and to view GeoRiot's certification, please visit <a href="https://www.privacyshield.gov">https://www.privacyshield.gov</a>. </p>
-          <p>GeoRiot will adhere to the Privacy Shield Principles, as they may be amended from time to time, with
+          <p>
+          </p>
+          <p>GeoRiot shall adhere to the Privacy Shield Principles, as they may be amended from time to time, with
             respect to and for as long as it retains Potential Personal Information or Client Personal Data collected or
             maintained while this Privacy Policy is in effect.</p>
-
-
-
           <h2>3. Collection and Processing of Potential Personal Information</h2>
           <p>GeoRiot does not provide any products or services to individuals or engage in transactions or
             communications with them. GeoRiot also does not collect or use information such as names, addresses or other
@@ -325,7 +373,7 @@
             </li><li>
               <p>The Internet Protocol ("IP") address of the Device used for the Transaction, which allows
                 identification of the logical and to some extent geographical location of the Device used in the
-                Transaction ("Location Data"). An IP address is used for the initial processing of a click but after processing is no longer held. </p>
+                Transaction ("Location Data"). </p>
             </li><li>
               <p>The URL of the Client's Digital Property on which the originating Geni.us Link is sited ("Client
                 URL"). </p>
@@ -380,16 +428,10 @@
               </p>
           </li></ul>
           <p>While Potential Personal Information may not be Personal Data within the meaning of Privacy Shield and the
-            E.U. General Data Protection Regulation (“GDPR”), as a matter of prudence and due diligence and to help assure transparency, GeoRiot has elected to
-            attest to its adherence to the E.U.-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield
+            GDPR, as a matter of prudence and due diligence and to help assure transparency, GeoRiot has elected to
+            attest to its adherence to the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield
             Framework. GeoRiot has also implemented policies and procedures to assure its compliance with the E.U.
-            GDPR to the extent the GDPR applies to Potential Personal Information.
-
-            In an effort to minimize the burden on our clients and ourselves, we've stopped storing IP addresses, effective May 9th, 2018, after the initially processing of the click.
-          </p>
-
-
-
+            General Data Protection Directive to the extent the GDPR applies to Potential Personal Information.</p>
           <h2>4. Collection and Processing of Client Personal Data</h2>
           <p>When a Client creates a Genius Link account the Client must provide GeoRiot with contact information for an
             individual user authorized to use the Genius Link Services and communicate with GeoRiot, either as an
@@ -406,12 +448,9 @@
           <p>Client Personal Data is transferred to and stored by GeoRiot in the United States, according to GeoRiot's
             standard Data Retention policies.</p>
           <p>Client Personal Data is considered Personal Data within the meaning of Privacy Shield and the GDPR. GeoRiot
-            has elected to attest to its adherence to the EU-U.S. Privacy Shield Framework and the Swiss–US Privacy
+            has elected to attest to its adherence to the EU-U.S. Privacy Shield Framework and the Swiss-US Privacy
             Shield Framework with respect to Client Personal Data. GeoRiot has also implemented policies and procedures
             to assure its compliance with the GDPR with respect to Client Personal Data. </p>
-
-
-
           <h2>5. GeoRiot as Limited Data Controller and Data Processor</h2>
           <p><a name="_Hlk514674106"></a> For Privacy Shield and GDPR purposes GeoRiot may be a Data Processor or a
             Joint Data Controller with respect to Potential Personal Information subject to this Policy. GeoRiot is a
@@ -420,12 +459,12 @@
             the purposes and means of the processing of Personal Data, while a "Data Processor" is a party which
             processes Personal Data on behalf of a Data Controller. </p>
           <p>To the extent Privacy Shield and the GDPR apply to Potential Personal Information, for purposes of the
-            Genius Link Services, GeoRiot and the applicable Client are Joint Data Controllers of Personal Data included
+            Genius Link Services GeoRiot and the applicable Client are Joint Data Controllers of Personal Data included
             in that Potential Personal Information as follows: </p>
           <ul>
             <li>
               <p><a name="_Hlk514595356"></a>GeoRiot offers Geni.us Links and the Genius Link Services to Clients, with
-                pre-established coding and design which determines the information that is collected and the means by
+                pre-established coding and design which determines the information which is collected and the means by
                 which information is processed. The Client determines whether to implement Geni.us Link and use the
                 Genius Link Services, and by agreement with GeoRiot determines to utilize the information collection
                 scope and processing means offered by GeoRiot. All Genius Link Services are provided for the benefit of
@@ -444,9 +483,6 @@
           </li></ul>
           <p>GeoRiot alone controls the processing of Client Personal Data and is therefore the Data Controller with
             respect to such information.</p>
-
-
-
           <h2>6. Provision of Notice to Buyers</h2>
           <p>This Policy is published to provide notice of GeoRiot's data collection and privacy practices to
             individuals including Buyers. However, GeoRiot does not typically interact directly with individuals, since
@@ -515,7 +551,7 @@
               <p>Limited Purchase Information such as the number of products purchased, a list of items (or categories
                 of items), purchase prices, and timestamp of the Transaction ("Limited Purchase Information"). Limited
                 Purchase Information is collected and provided to GeoRiot by Clients, who are responsible for ensuring
-                that any individual consent or authorization required for GeoRiot to use it has been obtained. Limited
+                that any individual consent or authorization required for its use by GeoRiot has been obtained. Limited
                 Purchase Information is treated as if it were Potential Personal Information.</p>
             </li><li>
               <p>Third Party Product Information including Product price, genre, name, developer, publisher, and other
@@ -549,9 +585,9 @@
               <p>For purposes of GeoRiot's internal management and administration, and fulfillment of its legal
                 responsibilities or protection of its legal interests. </p>
           </li></ul>
-          <p>Subject to Section 6(c), below, Potential Personal Data may be retained by GeoRiot for any period that GeoRiot
+          <p>Subject to the Section 6(c), Potential Personal Data may be retained by GeoRiot for any period GeoRiot
             determines is necessary to ensure compliance with its legal responsibilities or protection of its legal
-            interests, according to GeoRiot's Data Retention policies, except that the IP Address is only processed during
+            interests, according to GeoRiot's Data Retention policies, except that IP Address is only processed during
             the initial click on a Geni.us Link and is not stored after such processing. </p>
           <p><strong>c. Buyer Choice with Respect to Potential Personal Information</strong></p>
           <p>The Potential Personal Information GeoRiot maintains after processing a Geni.us Link click is limited to
@@ -569,10 +605,10 @@
             Information associated with the Buyer is disclosed to a third party other than one disclosed in this Policy,
             or used for a purpose incompatible with the purpose for which it was originally collected or as otherwise
             permitted or authorized by the Buyer.</p>
-          <p>For additional information and to request the opportunity to opt-in, please email GeoRiot <a href="mailto:hi@geni.us?subject=Opt-out">here</a>. </p>
+          <p>For additional information and to request the opportunity to opt-in, please email GeoRiot <a href="mailto:hi@geni.us?subject=Opt-out"><u>here</u></a>. </p>
           <p>GeoRiot may retain Device information that is subject to a Buyer's disclosure opt-in accordance with
             GeoRiot's Data Retention Policy. The purpose of retaining such information is for GeoRiot's internal
-            management and administration or for fulfillment of its legal responsibilities or protection of its legal
+            management and administration or fulfillment of its legal responsibilities or protection of its legal
             interests. Residual User Agent information may also remain within databases, access logs, and other
             records. </p>
           <p>GeoRiot does not collect, use or disclose sensitive information, which is defined as personal information
@@ -601,8 +637,8 @@
                 client and account information with affiliate program's account management teams in order to ensure
                 compliance with the affiliate program.</p>
           </li></ul>
-          <p>GeoRiot will not transfer Personal Data to a third-party Data Controller without the consent of the
-            individuals, and before doing so, will enter into a contract with the Data Controller that provides:</p>
+          <p>GeoRiot shall not transfer Personal Data to a third-party Data Controller without the consent of the
+            individuals, and shall first enter into a contract with Data Controller that provides:</p>
           <ul>
             <li>
               <p>That the Potential Personal Information may only be processed for purposes consistent with such
@@ -614,12 +650,12 @@
               <p>That the Data Controller will notify GeoRiot if the Data Controller makes a determination that it can
                 no longer meet this obligation. </p>
             </li><li>
-              <p>That the Data Controller will cease processing the Potential Personal Information or take other
+              <p>That the Data Controller will cease processing the Potential Personal Information or takes other
                 reasonable and appropriate steps to remediate in case of such a determination.</p>
           </li></ul>
-          <p>Consent of the Buyer is not required when GeoRiot discloses Potential Personal Information to a third party that is
+          <p>Consent is not required when GeoRiot discloses Potential Personal Information to a third party that is
             acting as an agent to perform task(s) on behalf of and under the instructions of GeoRiot, such as a Data
-            Processor. In the event of such a disclosure, GeoRiot will:</p>
+            Processor. In the event of such a disclosure, GeoRiot shall:</p>
           <ul>
             <li>
               <p>Identify the purposes for which it is transferring such information. </p>
@@ -638,10 +674,10 @@
                 its obligation to provide the same level of protection as is required under Privacy Shield, to take
                 reasonable and appropriate steps to stop and remediate unauthorized processing. </p>
           </li></ul>
-          <p>GeoRiot will provide a summary or a representative copy of the relevant privacy provisions of its contract
+          <p>GeoRiot shall provide a summary or a representative copy of the relevant privacy provisions of its contract
             with any such agent to the U.S. Department of Commerce upon request.</p>
-          <p>GeoRiot will remain responsible for the processing of Potential Personal Information it transfers to an
-            agent acting on its behalf, and will be liable if the agent processes such Potential Personal Information
+          <p>GeoRiot shall remain responsible for the processing of Potential Personal Information it transfers to an
+            agent acting on its behalf, and shall be liable if the agent processes such Potential Personal Information
             in a manner inconsistent with the Privacy Shield unless GeoRiot proves that it is not responsible for the
             event giving rise to the damage, if any.</p>
           <p><strong>e. Buyer Access to Potential Personal Information</strong></p>
@@ -661,7 +697,7 @@
             identifiable to a specific Device used by the Buyer for the Transaction(s) for which the information was
             collected. </p>
           <p>For additional information and to request the opportunity to review and request update or deletion, please
-            email GeoRiot <a href="mailto:hi@geni.us?subject=Review%20Profile%20Info">here</a>. </p>
+            email GeoRiot <a href="mailto:hi@geni.us?subject=Review%20Profile%20Info"><u>here</u></a>. </p>
           <p><strong>f. Security</strong></p>
           <p>GeoRiot maintains reasonable and appropriate physical, electronic and procedural safeguards to protect
             Potential Personal Information from loss, misuse and unauthorized access, disclosure, alteration and
@@ -672,16 +708,13 @@
           <p>GeoRiot will take reasonable steps to ensure that Potential Personal Information is accurate, complete,
             current, and reliable for its intended use, and to ensure that it does not process Potential Personal
             Information in a way that is incompatible with the purposes for which it was collected unless authorized by
-            the Buyer. GeoRiot will take reasonable and appropriate measures to ensure that it does not retain
+            the individual. GeoRiot will take reasonable and appropriate measures to ensure that it does not retain
             Potential Personal Information which may identify an individual only for as long as is consistent with the
             purposes for which it was collected.</p>
           <p><strong>h. Disclosures for Law Enforcement and National Security Purposes</strong></p>
           <p>GeoRiot may be required to disclose Potential Personal Information in response to lawful requests by public
             authorities with appropriate jurisdiction, including to meet national security or law enforcement
             requirements, if require by applicable law.</p>
-
-
-
           <h2>7. Provision of Notice to Client Users</h2>
           <p>This Policy is also published to provide notice of GeoRiot's data collection and privacy practices to
             Client Users. GeoRiot interacts directly with Client Users in the course of account registration and
@@ -712,7 +745,7 @@
             User.</p>
           <p>A Client User may request to opt-out of any previously authorized or permitted disclosure of Client
             Personal Data information by GeoRiot, except disclosure to the Client with which the Client User is
-            associated, by emailing us <a href="mailto:hi@geni.us?subject=Opt-out">here</a>. In order to opt-out
+            associated, by emailing us <a href="mailto:hi@geni.us?subject=Opt-out"><u>here</u></a>. In order to opt-out
             GeoRiot may require the Client's approval, if the Client is not the same as the Client User.</p>
           <p>GeoRiot may retain Client Personal Data that is subject to a Client User's disclosure opt-out in accordance
             with GeoRiot's Data Retention Policy. The purpose of retaining such information is for GeoRiot's internal
@@ -741,8 +774,8 @@
             </li><li>
               <p>To governmental authorities or their legal designees, if required by applicable law. </p>
           </li></ul>
-          <p>GeoRiot will not transfer Client Personal Data to a third-party Data Controller without the consent of the
-            individuals, and will first enter into a contract with Data Controller that provides:</p>
+          <p>GeoRiot shall not transfer Client Personal Data to a third-party Data Controller without the consent of the
+            individuals, and shall first enter into a contract with Data Controller that provides:</p>
           <ul>
             <li>
               <p>That the Client Personal Data may only be processed for purposes consistent with such consents.</p>
@@ -756,9 +789,9 @@
               <p>That the Data Controller will cease processing the Client Personal Data or takes other reasonable and
                 appropriate steps to remediate in case of such a determination.</p>
           </li></ul>
-          <p>Consent of the Client User is not required when GeoRiot discloses Client Personal Data to a third party that is acting as an
+          <p>Consent is not required when GeoRiot discloses Client Personal Data to a third party that is acting as an
             agent to perform task(s) on behalf of and under the instructions of GeoRiot, such as a Data Processor. In
-            the event of such a disclosure, GeoRiot will:</p>
+            the event of such a disclosure, GeoRiot shall:</p>
           <ul>
             <li>
               <p>Identify the purposes for which it is transferring such information. </p>
@@ -776,16 +809,16 @@
                 its obligation to provide the same level of protection as is required under Privacy Shield, to take
                 reasonable and appropriate steps to stop and remediate unauthorized processing. </p>
           </li></ul>
-          <p>GeoRiot will provide a summary or a representative copy of the relevant privacy provisions of its contract
+          <p>GeoRiot shall provide a summary or a representative copy of the relevant privacy provisions of its contract
             with any such agent to the U.S. Department of Commerce upon request.</p>
-          <p>GeoRiot will remain responsible for the processing of Client Personal Data it transfers to an agent acting
-            on its behalf, and will be liable if the agent processes such Client Personal Data in a manner inconsistent
+          <p>GeoRiot shall remain responsible for the processing of Client Personal Data it transfers to an agent acting
+            on its behalf, and shall be liable if the agent processes such Client Personal Data in a manner inconsistent
             with the Privacy Shield unless GeoRiot proves that it is not responsible for the event giving rise to the
             damage, if any.</p>
           <p><strong>e. Client User Access to Potential Personal Information</strong></p>
           <p>GeoRiot provides Client Users with the opportunity to review and request that GeoRiot update or delete
             Client Personal Data. Modification or deletion of Client Personal Data may be subject to Client notice and
-            approval. To access this information, email us <a href="mailto:hi@geni.us?subject=Review%20Profile%20Info">here</a>. </p>
+            approval. To access this information, email us <a href="mailto:hi@geni.us?subject=Review%20Profile%20Info"><u>here</u></a>. </p>
           <p><strong>f. Security</strong></p>
           <p>GeoRiot maintains reasonable and appropriate physical, electronic and procedural safeguards to protect
             Client Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction,
@@ -802,46 +835,7 @@
           <p>GeoRiot may be required to disclose Client Personal Data in response to lawful requests by public
             authorities with appropriate jurisdiction, including to meet national security or law enforcement
             requirements, if require by applicable law.</p>
-
-
-
-          <h2>8. Third Party Cookies</h2>
-          <p>Many types of information is collected through cookies, web beacons, and other tracking technologies, as
-            well as through your web browser or device (e.g., IP address, MAC address, browser version, etc.).&nbsp; The
-            tracking technologies employed when you use our Services may be first-party or third-party.</p>
-          &nbsp;
-          <p>We use cookies to analyze how the GeoRiot websites are accessed, used or is performing. We use this
-          information to maintain, operate and continually improve the GeoRiot websites. We may also obtain information
-          from our e-mail newsletters, to learn whether you opened or forwarded the newsletter or clicked on any of the
-          content. This information tells us about our newsletters’ effectiveness and helps us ensure that we’re
-          delivering information that you find interesting. Third parties, including Google, Facebook, and other social
-          media platforms, may use tracking technologies on our website to collect or receive information from the
-          GeoRiot websites and elsewhere on the internet and use that information to provide measurement services and
-          target ads. &nbsp;</p>
-          &nbsp;
-          <p>Google Analytics help us analyze how users interact with and use the Services, compile reports on the
-          Services’ activity, and provide other services related to our Services’ activity and usage. To learn more
-          about Google’s partner services and to learn how to opt out of tracking of analytics by Google, click&nbsp;here.</p>
-          &nbsp;
-          <p>Most web browsers automatically accept cookies but, if you prefer, you can usually modify your browser
-          setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies,
-          some features of the Services may not be available, work, or work as designed.</p>
-          &nbsp;
-          <p>You can learn more about ad serving companies and the options available to limit their collection and use
-          of your information by visiting the websites for the&nbsp;Network Advertising Initiative, the&nbsp;Digital Advertising
-          Alliance, and the European Interactive Digital Advertising Initiative. Similarly, you can learn about your
-          options to opt-out of mobile app tracking by certain advertising networks through your device settings and by
-          resetting the advertiser ID on your Apple or Android device.</p>
-          &nbsp;
-          <p>Please note that opting-out of advertising networks services does not mean that you will not receive
-            advertising after browsing our site, while using our Services or on other websites, nor will it prevent the
-            receipt of interest-based advertising from third parties that do not participate in these programs. It will,
-            however, exclude you from interest-based advertising conducted through participating networks, as provided
-            by their policies and choice mechanisms.&nbsp; If you delete your cookies, you may also delete your opt-out
-            preferences. Your browser or device may include “Do Not Track” functionality.</p>
-
-
-          <h2>9. Recourse, Enforcement and Liability</h2>
+          <h2>8. Recourse, Enforcement and Liability</h2>
           <p>GeoRiot is subject to the jurisdiction of the United States Federal Trade Commission ("FTC") with respect
             to this Policy. The FTC may investigate violations of this Policy, and enforce compliance with the Privacy
             Shield and applicable law.</p>
@@ -851,41 +845,43 @@
             plans to maintain compliance.</p>
           <p>Any employee GeoRiot finds has violated this Policy will be subject to disciplinary action up to and
             including termination of employment.</p>
-          <p>Any complaints, questions or concerns about the use or disclosures of Potential Personal Information or
-            Client Personal Data by GeoRiot or other matters subject to this Policy should be directed to the address
-            given below. GeoRiot will investigate and attempt to resolve complaints and disputes regarding use and
-            disclosure of personal information in accordance with the principles contained in this Policy, and will
-            respond to any complaint within 30 days of receiving a complaint. </p>
-          <p>In the event you are not satisfied with the response to a complaint you may seek independent review by
-            arbitration. In such an event the dispute will be subject to arbitration by the International Centre for
-            Dispute Resolution of the American Arbitration Association ("ICDR"), under the rules of the ICDR, at no cost
-            to you.</p>
-          <p>In the event you have filed a complaint and pursued arbitration for a violation of this Policy or the
-            Privacy Shield by GeoRiot and are not satisfied with the result, you have the right to seek arbitration by a
-            Privacy Shield Panel. This panel may impose individual-specific, non-monetary equitable relief to remedy the
-            violation of the Principles with respect to your rights. You may seek such arbitration through your nation's
-            Data Protection Authority ("DPA").</p>
-          <p>GeoRiot will respond promptly and appropriately to inquiries about this Policy and compliance with the
-            Privacy Shield from the FTC or the U.S. Department of Commerce, including inquiries from DPAs. </p>
-
-
-          <h2>10. Amendment of Policy</h2>
-          <p><a name="_GoBack"></a> GeoRiot reserves the right to modify this Policy at any time without notice. If
-            GeoRiot amends this Policy, notice of the amendment and the amended policy will be posted on the Genius Link
-            website and such other sites as GeoRiot may deem appropriate. Any amendment will be consistent with the
-            requirements of Privacy Shield and applicable E.U. law. The terms of this Privacy Policy in effect at the
-            time Potential Personal Information is collected by GeoRiot will continue to apply to such information
-            notwithstanding such amendment. </p>
-
-          <h2>11. Contact Information</h2>
-          <p>Please contact us at <a href="mailto:hi@geni.us">hi@geni.us</a> with any questions, comments, or
-            concerns. You may also mail us at:</p>
+          <p>In compliance with the Privacy Shield Principles, (your organization name) commits to resolve complaints
+            about our collection or use of your personal information. EU and Swiss individuals with inquiries or
+            complaints regarding our Privacy Shield policy should first contact GeoRiot by email at <a href="mailto:hi@geni.us">hi@geni.us</a> or by mail at:</p>
           <p>
-          GeoRiot Networks, Inc. <br>
-          Att'n: Data Protection<br>
-          5506 6th Avenue S. #203<br>
-          Seattle, WA 98108
-          </p>
+            GeoRiot Networks, Inc.
+            <br>Att'n: Data Protection
+            <br>5506 6th Avenue S. #105
+            <br>Seattle, WA 98108</p>
+          <p>GeoRiot will investigate and attempt to resolve complaints and disputes regarding use and disclosure of
+            personal information in accordance with the principles contained in this Policy, and will respond to any
+            complaint within thirty (30) days of receiving a complaint. </p>
+          <p>GeoRiot has further committed to refer unresolved Privacy Shield complaints to International Centre for
+            Dispute Resolution of the American Arbitration Association ("ICDR"), an alternative dispute resolution
+            provider located in the United States. If you do not receive timely acknowledgment of your complaint from
+            us, or if we have not addressed your complaint to your satisfaction, please contact or visit
+            https://www.icdr.org/Supportfor more information or to file a complaint. The services of ICDR are provided
+            at no cost to you. In the event you have filed a complaint and pursued arbitration for a violation of this
+            Policy or the Privacy Shield by GeoRiot and are not satisfied with the result, you have the right to seek
+            arbitration by a Privacy Shield Panel. This panel may impose individual-specific, non-monetary equitable
+            relief to remedy the violation of the Principles with respect to your rights. </p>
+          <p>GeoRiot will respond promptly and appropriately to inquiries about this Policy and compliance with the
+            Privacy Shield from the FTC or the U.S. Department of Commerce. </p>
+          <h2>9. Amendment of Policy</h2>
+          <p>GeoRiot reserves the right to modify this Policy at any time without notice. If GeoRiot amends this Policy,
+            notice of the amendment and the amended policy will be posted on the Genius Link website and such other
+            sites as GeoRiot may deem appropriate. Any amendment will be consistent with the requirements of Privacy
+            Shield and applicable E.U. law. The terms of this Privacy Policy in effect at the time Potential Personal
+            Information is collected by GeoRiot shall continue to apply to such information notwithstanding such
+            amendment. </p>
+          <h2>10. Contact Information</h2>
+          <p><a name="_Hlk517959322"></a> Please contact us at <a href="mailto:hi@geni.us"><u>hi@geni.us</u></a> with
+            any questions, comments, or concerns. You may also mail us at:</p>
+          <p>
+            GeoRiot Networks, Inc.
+            <br>Att'n: Data Protection
+            <br>5506 6th Avenue S. #105
+            <br>Seattle, WA 98108</p>
 
         </div>
     </section>
@@ -907,7 +903,7 @@
     <section class="row">
       <div class="col-sm-5">
         <h2>Blog</h2>
-        <ul class="blog-list" id="newsteasers"><li><span class="date">Jan 16 2020</span><a href="http://blog.geni.us/why-onelink-doesnt-work-on-youtube/" target="_blank">Why OneLink Doesn’t Work on YouTube</a></li><li><span class="date">Jan 3 2020</span><a href="http://blog.geni.us/adam-weiss/" target="_blank">An Interview with Adam Weiss</a></li><li><span class="date">Jan 3 2020</span><a href="http://blog.geni.us/andy-feliciotti/" target="_blank">An Interview with Andy Feliciotti</a></li><li><span class="date">Dec 19 2019</span><a href="http://blog.geni.us/geniuslink-at-affiliate-summit-west-2020-asw20/" target="_blank">Geniuslink at Affiliate Summit West 2020 #ASW20</a></li><li><span class="date">Dec 17 2019</span><a href="http://blog.geni.us/target-affiliate-program-geniuslink/" target="_blank">Target Affiliate Program + Geniuslink</a></li><li><span class="date">Dec 14 2019</span><a href="http://blog.geni.us/newegg-affiliate-program-geniuslink/" target="_blank">Newegg Affiliate Program + Geniuslink</a></li></ul>
+        <ul class="blog-list" id="newsteasers"></ul>
       </div>
       <div class="col-sm-7 sitemap">
         <h2>Site Map</h2>
@@ -935,19 +931,21 @@
             <h4><a href="/about">About us</a></h4>
             <ul>
                 <li><a id="About" href="/about">The Team</a></li>
-              <li><a id="Jobs" href="/jobs">Jobs</a></li>
-              <li><a id="Contact" href="/contact">Contact</a></li>
-              <li><a id="Testimonials" href="/happy-clients">Testimonials</a></li>
+                <li><a id="Jobs" href="/jobs">Jobs</a></li>
+                <li><a id="Contact" href="/contact">Contact</a></li>
+                <li><a id="Testimonials" href="/happy-clients">Testimonials</a></li>
             </ul>
           </div>
         </div>
         <div class="row meta-area ">
           <div class="col-sm-12">
+              <a class="approved-logos" href="/gdpr"><img title="GDR compliant and approved participant with EU-US and Swiss-US Privacy Shield frameworks" src="/img/privacy-participation.png" height="106" width="88"></a>
             <h4><a href="/about">Meta</a></h4>
             <ul>
               <li><a href="/amazon-safe">"Is Geniuslink safe to use for Amazon Associates?"</a></li>
               <li><a href="/terms">Terms of Service</a></li>
-              <li><a href="/privacy">Privacy Policy</a> </li>
+                <li><a href="/privacy">Privacy Policy</a> </li>
+                <li><a href="/gdpr">GDPR &amp; Privacy Shield</a> </li>
               <li><a href="/affiliate-disclosure">Affiliate Disclosure</a> </li>
               <li><a href="/spam-policy">Spam Policy</a> </li>
               <li> <a href="#!" onclick="CookieControl.open()">Manage your cookie preferences (EU only)</a></li>
@@ -967,21 +965,21 @@
         </div>
 
         <div class="copyright">
-          <a href="/"><img src="/img/logo.svg" alt="Geniuslink: The world's most intelligent link shortener for marketing products across a fragmented audience." height="20" width="80"></a>
-          <br> © 2018 by GeoRiot Networks
+          <a href="/"><img class="lazy" src="" data-src="/img/logo.svg" data-srcset="/img/logo.svg 1x" alt="Geniuslink: The world's most intelligent link shortener for marketing products across a fragmented audience." height="20" width="80"></a>
+            <br> © <noscript>2019</noscript> <script>document.write(new Date().getFullYear());</script>2020 by GeoRiot Networks
         </div>
 
       </div>
       <div class="col-sm-7">
-      </div>
+      </div> 
     </section>
   </div>
 </div>
 
 
-<script src="/js/built/built.js?v=1008" defer=""></script>
+<script src="/js/built/built.js?v=1026" defer=""></script>
 
 
 
 
-<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
+</body></html>
