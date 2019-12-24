@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the 3dprint.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154446id_/https%3A//3dprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dprint.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224015735id_/https%3A//3dprint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing
+# Privacy Policy - 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the 3DPrint.com. The 3DPrint.com includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by 3DPrint.com and each of its wholly-owned subsidiaries (collectively the “Site”) home page (collectively hereafter 3DPrint.com). By accessing the 3DPrint.com, you are consenting to the information collection and use practices described in this Privacy Policy.
-
-We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the 3DPrint.com. The 3DPrint.com includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by 3DPrint.com and each of its wholly-owned subsidiaries (collectively the “Site”) home page (collectively hereafter 3DPrint.com). By accessing the 3DPrint.com, you are consenting to the information collection and use practices described in this Privacy Policy.We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:
 
 ### What information are you collecting and how are you collecting it?  
 Do you collect IP addresses?
