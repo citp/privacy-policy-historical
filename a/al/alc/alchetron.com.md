@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alchetron.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531025637id_/https%3A//alchetron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alchetron.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224172011id_/https%3A//alchetron.com/privacy-policy) for the most accurate reproduction.*
 
 # Alchetron - Privacy Policy
 
