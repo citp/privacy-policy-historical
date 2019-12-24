@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418122112id_/https%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225005532id_/https%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
 
 # FAQ | moshtix
 
 **Moshtix Privacy Policy**
 
-**Last updated: 19 December 2018** ****
+**Last updated:  14 October 2019** ****
 
-This is the Privacy Policy for Moshtix PTY LTD
+For tickets purchased for events located in Australia using Moshtix platforms and tickets purchased for events located in New Zealand using Moshtix platforms, the Moshtix PTY Ltd privacy policy applies to the data processing.
 
 Moshtix's primary role is to provide event publishing, registration, ticketing, and related software, goods and services to Australian and New Zealand users of Moshtix and the Moshtix platforms.
 
@@ -63,8 +63,7 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be to
 
 You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.
 
-You can access or correct your personal information by logging onto your account on the Moshtix website at [www.moshtix.com.au](http://www.moshtix.com.au/). You can also use the link which is at the bottom of every email to log in to your Moshtix account.
-
+You can access or correct your personal information by logging onto your account on the Moshtix website at [www.moshtix.co.nz](https://www.moshtix.co.nz/) or [www.moshtix.com.au](https://www.moshtix.com.au/). You can also use the link which is at the bottom of every email to log in to your Moshtix account.  
 Should you encounter any issue with accessing your personal information, please contact our privacy officer as set out below.
 
 **Complaints**
