@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617140837id_/https%3A//www.nvidia.com/en-us/about-nvidia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225005251id_/https%3A//www.nvidia.com/en-us/about-nvidia/privacy-policy) for the most accurate reproduction.*
 
 # NVIDIA PRIVACY POLICY
 
@@ -68,6 +68,8 @@ NVIDIA has committed to cooperate with the panel established by the EU data prot
 
 We take special care to protect the privacy of children who use our products and services. The NVIDIA [Kids Privacy Policy](https://www.nvidia.com/object/privacy_policy_children.html) contains more details.  
 
+
+### TRANSLATED PRIVACY POLICIES
 
 ### CONTACT US
 
