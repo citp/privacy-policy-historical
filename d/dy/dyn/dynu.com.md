@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynu.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603065047id_/https%3A//www.dynu.com/en-US/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynu.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224183002id_/https%3A//www.dynu.com/en-US/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Dynu Systems, Inc.
 
