@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationliberation.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521114946id_/http%3A//www.informationliberation.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationliberation.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224080458id_/http%3A//www.informationliberation.com/%3Fprivacy) for the most accurate reproduction.*
 
 # InformationLiberation | The news you're not supposed to know...
 
@@ -23,9 +23,9 @@ Google, as a third party vendor, uses cookies to serve ads on our site.
 
 Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy: <http://www.google.com/privacy_ads.html>
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-**What do we use your information for?**
+ **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways: 
 
@@ -51,7 +51,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
  **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website, including Amazon Affiliate links. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website, including Amazon Affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
  **California Online Privacy Protection Act Compliance**
 
@@ -65,12 +65,12 @@ We do not intend, and the Site is not designed, to collect personal information 
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.informationliberation.com/?disclaimer>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.informationliberation.com/?disclaimer](https://www.informationliberation.com/?disclaimer)
 
-**Changes to our Privacy Policy**
+ **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
 
-This policy was last modified on _Wednesday, February 24th, 2016._
+This policy was last modified on _Tuesday, August 20th, 2019._
 
 If you have any questions about this Policy, or the practices of or your dealings with the Site, please email us at: webmaster(at)informationliberation.com
