@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gidsy.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515193448id_/https%3A//www.getyourguide.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gidsy.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224211358id_/https%3A//www.getyourguide.com/privacy_policy) for the most accurate reproduction.*
 
-# GetYourGuide Privacy
+# Privacy Policy | GetYourGuide
 
 **Privacy statement**  
 GetYourGuide Deutschland GmbH (hereinafter only referred to as “GetYourGuide” or ”we”) takes the protection of your personal data as the Data Controller very seriously. We treat your personal data confidentially and in accordance with the provisions of data protection law. This privacy statement informs you about how, to what extent and for what purposes we process the personal data of customers using the GetYourGuide website and App.  
@@ -29,9 +29,9 @@ We collect, process and use your personal data, which you have provided us with 
 
 If you provide us with personal data for the purpose of contacting us, this data will be used by us as this is necessary for the purpose of the respective communication.
 
-### 3\. Marketing
+### 3\. Marketing and Opinion Research
 
-GetYourGuide may process and use your personal data for marketing purposes, e.g. to send emails with general information or of an advertising nature (newsletter), on the basis of the declaration of consent you have given us.  
+GetYourGuide may process and use your personal data for marketing and opinion research purposes, e.g. to send emails with general information or of an advertising nature (newsletter), on the basis of the declaration of consent you have given us.  
 You can revoke the declarations of consent granted to us in this regard at any time with effect for the future. If you wish to opt-out of receiving these emails from us, please follow the instructions contained in an applicable email you receive from us, which will allow you to opt-out of receiving these types of email communications from us. In addition, you can object to this use - insofar as we use your personal data within the legally permissible framework for e.g. postal marketing measures. In both cases, an email to the following address is sufficient: support@getyourguide.com.
 
 ### 4\. Information you provide to Payment Processors
@@ -183,13 +183,13 @@ We do not use your personal data for automated individual decisions.
 You will find our contact details as the responsible body in the imprint.   
 If you wish to exercise your rights mentioned under item XIV or if you have any questions about our privacy policy or this privacy statement, you can contact us at the following address:  
 GetYourGuide GmbH   
-Erich-Weinert-Strasse 145C   
-10409 Berlin   
+Sonnenburger Strasse 73  
+10437 Berlin   
 Germany  
 Phone: +49 (0) 30 568 394 45  
 Or by email: service@getyourguide.com  
-You can contact our Data protection Officer at: dataprotectionof-ficer@getyourguide.com.
+You can contact our Data protection Officer at: dataprotectionofficer@getyourguide.com.
 
 ## XVIII. CHANGES TO THE PRIVACY STATEMENT
 
-From time to time, we may need to update or modify this Privacy State-ment, to reflect changes in our business practices, data collection practices or organization. We reserve the right to amend this Privacy Statement at any time, for any reason, without notice to you, other than the posting of the amended Privacy Statement on our website, or, if you have provided your email address to us, sending you an email notifying you of the amended Privacy Statement. It is strongly recommended to check the Website often, referring to the date of the last modification listed at the top. We will in any case not reduce your rights under this Privacy Statement without your explicit and informed consent. If you do not agree to the changes, you should discontinue your use of the Website, and cease providing personal information to us, prior to the time the modified Privacy Statement takes effect. If you continue using the Website or provide personal information after the modified Privacy Statement takes effect, you will be bound by the modified Privacy Statement. 
+From time to time, we may need to update or modify this Privacy State-ment, to reflect changes in our business practices, data collection practices or organization. We reserve the right to amend this Privacy Statement at any time, for any reason, without notice to you, other than the posting of the amended Privacy Statement on our website, or, if you have provided your email address to us, sending you an email notifying you of the amended Privacy Statement. It is strongly recommended to check the Website often, referring to the date of the last modification listed at the top. We will in any case not reduce your rights under this Privacy Statement without your explicit and informed consent. If you do not agree to the changes, you should discontinue your use of the Website, and cease providing personal information to us, prior to the time the modified Privacy Statement takes effect. If you continue using the Website or provide personal information after the modified Privacy Statement takes effect, you will be bound by the modified Privacy Statement.
