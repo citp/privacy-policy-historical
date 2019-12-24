@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addthisevent.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620015933id_/https%3A//www.addevent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addthisevent.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224165103id_/https%3A//www.addevent.com/privacy) for the most accurate reproduction.*
 
 # AddEvent.com - Privacy Policy
 
@@ -14,7 +14,7 @@ We are an “Add to Calendar” service and registration platform. Through our p
 
 When this Privacy Policy uses the term "Organizer" we mean event creators using the Services to create events for consumers using our Services (a) to consume information about or attend, events ("Consumers"), or (b) for any other reason. Organizers, Consumers and third parties using our Services are all referred to in these Terms collectively as "Users", "you" or "your".
 
-AddEvent, Inc. is a Delaware corporation. Its principal place of business is at 18 Bartol Street #1070, San Francisco, CA 94133, Reg. No. 47-5092344 ("AddEvent," "us," "we" or "our"). If you are resident in the EEA or Switzerland, AddEvent, Inc. is the responsible party with respect to Personal Data (as described below) collected through the Services. AddEvent's representative for European data protection law purposes is AddEvent, Inc. with its principal place of business at 18 Bartol Street #1070, San Francisco, CA 94133, USA.
+AddEvent, Inc. is a Delaware corporation. Its principal place of business is at 400 Concar Drive, San Mateo, CA 94402, Reg. No. 47-5092344 ("AddEvent," "us," "we" or "our"). If you are resident in the EEA or Switzerland, AddEvent, Inc. is the responsible party with respect to Personal Data (as described below) collected through the Services. AddEvent's representative for European data protection law purposes is AddEvent, Inc. with its principal place of business at 400 Concar Drive, San Mateo, CA 94402, USA.
 
 If you have any questions or concerns at any time, please contact us at the address above or by contacting us at privacy@addevent.com.
 
@@ -108,9 +108,9 @@ We may share your Personal Data with our contractors and service providers who p
 
 When you register for an event through the event page, or through a page on the Services, we provide the Personal Data entered (if available) on the Organizers of the event. In some instances, an Organizer may appoint a third party, which may or may not be affiliated with the Organizer, to create an event on its behalf (we call these third parties ("Third Party Organizers"). For example, and without limitation, a concert venue (the Organizer, in this case) may allow third-party promoters or production companies (the Third Party Organizers) to create events that will be hosted at the Organizer's venue using its AddEvent account. In that case, we may provide your Personal Data to the Third Party Organizers on behalf of the Organizers. We are not responsible for the actions of these Organizers, or their Third Party Organizers, with respect to your Personal Data. It is important that you review the applicable policies of the Organizers, and if applicable and available, their appointed Third Party Organizers, of an event (and the related fundraising page, if applicable) before providing Personal Data or other information in connection with that event.
 
-### 5.6 Facebook and other third-party connections.
+### 5.6 Third-party connections - information from Sign-On Services like Facebook, LinkedIn, and Google.
 
-You can sign in to your AddEvent account using third-party services like Facebook, in which case we may collect, use, disclose, transfer and store/retain information relating to your account with such third party services in accordance with this Privacy Policy. For example, if you connect with Facebook, we store your Facebook App id, and initially transfer your name and email to your AddEvent account. Name and email can be changed at any time.
+You can sign in to your AddEvent account using third-party services like Facebook, LinkedIn or Google, in which case we may collect, use, disclose, transfer and store/retain information relating to your account with such third party services in accordance with this Privacy Policy. For example, if you connect with your Google account, we store your Google App ID, and initially transfer your name and email to your AddEvent account. Name and email can be changed at any time.
 
 ### 5.7 Legal requirements.
 
@@ -193,7 +193,7 @@ Please review this policy periodically, and especially before you provide any Pe
 
 If you have a complaint about AddEvent's privacy practices you should write to us at:
 
-AddEvent, Inc., Attn: Privacy Officer, 18 Bartol Street #1070, San Francisco, CA 94133, USA, or by email. We will take reasonable steps to work with you to attempt to resolve your complaint.
+AddEvent, Inc., Attn: Privacy Officer, 400 Concar Drive, San Mateo, CA 94402, USA, or by email. We will take reasonable steps to work with you to attempt to resolve your complaint.
 
 ## 16\. EEA, Switzerland, and UK only
 
