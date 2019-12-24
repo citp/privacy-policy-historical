@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybrhome.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515230502id_/http%3A//www.cybrhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybrhome.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224232306id_/https%3A//www.cybrhome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,13 +8,13 @@ Thank you for using CybrHome! We wrote this policy to help you understand what i
 
 We collect information in a few different ways:
 
-**1\. When you give it to us or give us permission to obtain it**
+ **1\. When you give it to us or give us permission to obtain it**
 
 When you sign up for or use our products, you voluntarily give us certain information. This can include your name, profile photo, Pins, comments, likes, email address you used to sign up, and any other information you provide us. If you’re using CybrHome on your mobile device, you can also choose to provide us with location data.
 
 You also may give us permission to access your information in other services. For example, you may link your Facebook or Twitter account to CybrHome, which allows us to obtain information from those accounts (like your friends or contacts). The information we get from those services often depends on your settings or their privacy policies, so be sure to check what those are.
 
-**2\. We also get technical information when you use our products**
+ **2\. We also get technical information when you use our products**
 
 These days, whenever you use a website, mobile application, or other internet service, there’s certain information that almost always gets created and recorded automatically. The same is true when you use our products. Here are some of the types of information we collect:
 
