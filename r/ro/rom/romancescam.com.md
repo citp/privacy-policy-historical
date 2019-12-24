@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancescam.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415150340id_/https%3A//www.romancescam.com/forum/app.php/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancescam.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224134315id_/https%3A//www.romancescam.com/forum/app.php/page/privacy-policy) for the most accurate reproduction.*
 
 # Romance Scam - Privacy Policy
 
