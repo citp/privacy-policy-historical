@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereportertimes.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329153352id_/https%3A//www.thereportertimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereportertimes.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224201445id_/https%3A//www.thereportertimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Reporter Times
 
