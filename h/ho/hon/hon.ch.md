@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hon.ch privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619020655id_/https%3A//www.hon.ch/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hon.ch privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224215411id_/https%3A//www.hon.ch/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Health On the Net Foundation's Privacy policy
 
