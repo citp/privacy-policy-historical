@@ -1,26 +1,57 @@
-> *The following text is extracted and transformed from the atos.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417111413id_/https%3A//atos.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atos.net privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224175510id_/https%3A//atos.net/en/privacy) for the most accurate reproduction.*
 
 # Privacy - Atos
 
 You are currently visiting the Atos website.  
 Atos considers your personal data and you privacy at the utmost importance. Our privacy notice explains what personal data we collect and how we process them. We invite you to read them.  
-Atos processes your personal data for this website in order to provide you a helpful and adapted resource to better know Atos.
+Atos processes your personal data for this website in order to provide you a helpful and adapted resource that will help you know Atos better.
 
 ## What is personal data?
 
-Personal data may be any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, identification number, location data, an online identifier or to one or more factors specific to that natural person.
+Personal data may be any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, identification number, location data, an online identifier or to one or more factors specific to that natural person.
 
 ## Data collection
 
 Your personal data on this website can be collected either directly or indirectly.  
-It can be collected directly when, for instance, you voluntarily submit it for subscribing to our newsletter, when registering for Atos’ Premium Services or when completing the contact form. When accessing to these pages, you will be provided information about the collection of your personal data and will be able to give – or not – your consent.  
+It can be collected directly when, for instance, you voluntarily submit it for subscribing to our newsletter, when registering for Atos’ Premium Services or when completing the contact form. When accessing to these pages, you will be provided information about the collection of your personal data and will be able to give – or decline to give – your consent.
+
+To provide such information, we collect – or may collect – your name, telephone number, e-mail address, job title, Company, country, and any other data that you might communicate in your message.
+
 Your personal data can be collected indirectly when using cookies and other technologies. Atos intends to collect information such as the number of visitors, as well as user’s last visit date and consulted page. Please refer to the “cookies and other tracking technologies” part below.
 
 ## Purpose of the processing
 
-The purpose of the processing of your personal data is explained in this privacy policy. The personal data collected when you subscribe to a newsletter, or to get in contact with an Atos representative, or want to receive a white paper will be used to provide you with the requested services or materials and can be used for further processing for marketing purposes with your explicit consent.  
+We use your personal data for the following purposes:
+
+  * We use your identification data to enable you to (a) contact us via the website, (b) receive marketing related emails based on information you request on our website.
+
+
+
+These personal data are collected when you subscribe to a newsletter, when you get in contact with an Atos representative, or want to receive a white paper. These data will be used to provide you with the requested services or materials and can be used for further processing for marketing purposes with your explicit consent.
+
+Your interests regarding these collects:
+
+  * Get access to personalized and precise information when you ask for it
+  * Receive our newsletter when you explicitly give your consent for it
+  * Receive a white paper when you ask for it
+  * Be provided with requested services or materials
+  * Present you Atos’ new products and/or services if you have explicitly given your consent to receive such information
+
+
+
 The purposes of the cookies is explained in the cookies section available [here](https://atos.net/en/privacy#cookies).
 
+## Data retention period
+
+The period for which we process your personal data is shown in the table below:
+
+ **Category of data  
+**| **Data retention period  
+**  
+---|---  
+Identification Data| 2 years  
+Anonymized browsing data| 2 years  
+  
 ## Atos and your personal data
 
 For the processes stemming from this website, Atos is the data controller, deciding their purposes and means. Because data protection and security matter, Atos has adopted a Privacy Policy internal data protection processes [Binding Corporate Rules (BCR)](https://atos.net/content/dam/global/documents/atos-binding-corporate-rules.pdf).  
@@ -31,9 +62,28 @@ Atos’ website is hosted in the European Union and application support may be m
 
 As stated in our BCR, any personal data processed by Atos is kept on secure servers. Atos uses reasonable administrative, technical, personnel, and physical measures to safeguard personal data against loss, unauthorized access, use, disclosure, or modification and to ensure the integrity of the personal data. Additionally, Atos ensures to process your personal data only for the purposes mentioned in this privacy notice and to keep data no longer than necessary.
 
+## Who can access your data?
+
+Your personal data can be accessed by:
+
+  * Our external service providers such as [Salesforce](https://www.salesforce.com/) (customer relationship management solution) which have been specifically authorized to store Data. You can access Salesforce’s certifications standards and regulations which contain Salesforce’s personal data protection policy [here](https://compliance.salesforce.com/en).
+  * Atos’ employees that have been formally authorized.
+
+
+
 ## Your rights
 
-You have the right to request access, rectification or erasure of your Personal Data. You may also have the right to ask for a portable format of your personal data or restrict or object to the processing of your personal data. To exercise these rights, please complete this [online form to contact the Atos Data Protection Office](https://atos.net/en/privacy/exercise-rights-regarding-personal-data). This Privacy Notice was published on 26 April 2018 and may be amended from time to time. We invite you to consult this page regularly.
+You have:
+
+  * the right to information regarding how your personal data is processed.
+  * The right of access your personal data processed by Atos.
+  * The right to erasure which allows you to require your personal data to be deleted by Atos.
+  * The right to restriction of processing which allows you to control how your data is processed.
+  * The right to object the processing of your personal data which means that you can require that Atos ceases to process your personal data
+
+
+
+You may also have the right to ask for a portable format of your personal data or restrict or object to the processing of your personal data. To exercise these rights, please complete this [online form to contact the Atos Data Protection Office](https://atos.net/en/privacy/exercise-rights-regarding-personal-data). This Privacy Notice was published on December 13, 2019 and may be amended from time to time. We invite you to consult this page regularly.
 
 ## Cookies and other tracking technologies
 
@@ -66,10 +116,10 @@ Find more information below about Atos cookies.
 
 2\. Utility
 
-  * **Necessary cookies**. There are essential for the user navigation and allow to give access to certain functionalities such as secured zones accesses. Without these cookies, it won’t be possible to provide the service.
-  * **‘Performance’ cookies** collect information about your use of the website, such as webpages visited and any error messages; they do not collect personally identifiable information, and the information collected is aggregated such that it is anonymous. Performance cookies are used to improve how a website works.
-  * **‘Functionality’ cookies** allow the website to remember any choices you make about the website (such as changes to text size, customized pages, user name, language) or enable services such as commenting on a blog.
-  * **Targeting cookie** : cookies used to deliver advertisements more relevant for you, limit the number of times you see an advertisement; help measure the effectiveness of the advertising campaign; and understand people’s behavior after they view an advertisement.
+  *  **Necessary cookies**. There are essential for the user navigation and allow to give access to certain functionalities such as secured zones accesses. Without these cookies, it won’t be possible to provide the service.
+  *  **‘Performance’ cookies** collect information about your use of the website, such as webpages visited and any error messages; they do not collect personally identifiable information, and the information collected is aggregated such that it is anonymous. Performance cookies are used to improve how a website works.
+  *  **‘Functionality’ cookies** allow the website to remember any choices you make about the website (such as changes to text size, customized pages, user name, language) or enable services such as commenting on a blog.
+  *  **Targeting cookie** : cookies used to deliver advertisements more relevant for you, limit the number of times you see an advertisement; help measure the effectiveness of the advertising campaign; and understand people’s behavior after they view an advertisement.
 
 
 
@@ -86,12 +136,4 @@ Download the [Atos.net cookie table](https://atos.net/wp-content/uploads/2018/05
 
 ## How can I control or delete cookies?
 
-Most internet browsers are initially set up to automatically accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. There are a number of ways to manage cookies. Please refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings.
-
-  * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-  * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
-  * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-  * [Cookie settings in Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-  * [Cookie settings in Safari (iPhone, iPad, iPod touch)](http://support.apple.com/kb/HT1677)
-
-
+To delete your cookies or change your preferences, please click here.
