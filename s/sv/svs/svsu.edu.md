@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the svsu.edu privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607231626id_/https%3A//svsu.edu/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svsu.edu privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224111329id_/https%3A//svsu.edu/privacystatement) for the most accurate reproduction.*
 
-# SVSU - Privacy Statement
+# Privacy Statement - Saginaw Valley State University
 
 ## Privacy Statement for Saginaw Valley State University
 
