@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chartable.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409015019id_/https%3A//chartable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartable.com privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224185830id_/https%3A//chartable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Chartable
 
 Privacy Policy
 
-Last Updated: November 28, 2018
+Last Updated: November 27, 2019
 
   * Introduction
   * Information We Collect and How We Collect Information
@@ -21,13 +21,14 @@ Last Updated: November 28, 2018
   * Children Under the Age of 13
   * International Users
   * Information Applicable to EU Users
+  * Information for California Residents (CCPA Privacy Policy)
   * Contact Information
 
 
 
 Introduction 
 
-Chartable, Inc. (“Chartable”, “Company”, “we” or “us”) is committed to protecting your privacy. The following policy (“Privacy Policy”) describes our practices for collecting, using, maintaining, and disclosing information that we collect from you or that you provide to us when you visit our website (our “Site”) or use any other products and services made available by us (collectively with the Site, the “Services”).
+Chartable Holding, Inc. (“Chartable”, “Company”, “we” or “us”) is committed to protecting your privacy. The following policy (“Privacy Policy”) describes our practices for collecting, using, maintaining, and disclosing information that we collect from you or that you provide to us when you visit our website (our “Site”) or use any other products and services made available by us (collectively with the Site, the “Services”).
 
 We ask that you read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. The use of information collected through our Services will be limited to the purposes described under this Privacy Policy and our Terms of Service (or other relevant customer contracts). By accessing or using the Services, you agree to this Privacy Policy. Please be aware that if you are using the Services on behalf of an entity, you are agreeing to this Privacy Policy for that entity and are representing to us that you have the authority to do so (in which case “you” will refer to that entity). If you do not agree with our policies and practices, your choice is not to use the Services.
 
@@ -79,7 +80,7 @@ Pixel tags are very small images or small pieces of data embedded in images, als
 
 Third-Party Information Collection
 
-We may allow third parties to place and read their own cookies, web beacons, and other technologies to collect information through the Services. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics.
+We may allow third parties to place and read their own cookies, web beacons, and other technologies to collect information through the Services. For example, our third-party service providers may use these technologies to collect information about your visits to this and other websites, mobile websites and/or mobile applications across your various devices. This information is used for traffic measurement, research, analytics and behavioral advertising. 
 
 The information collected and stored by third parties remains subject to their policies and practices. We do not control these third parties’ tracking technologies or how they may be used.
 
@@ -91,12 +92,13 @@ We currently use the services of the following third-party vendors, who may coll
   * [FullStory](https://www.fullstory.com/legal/privacy/)
   * [Stripe](https://stripe.com/us/privacy)
   * [Calendly](https://calendly.com/pages/privacy)
+  * [Tapad](https://www.tapad.com/privacy-policy)
 
 
 
 How We Use Your Information
 
-We may use information that we collect about you or that you provide to us, including Personal Information, to measure usage of the Services, to analyze the effectiveness of our Services, to conduct research, to improve and enhance functionality of the Services, to provide support for the Services and respond to requests and inquiries, to provide you with notices, such as updates or changes that we may make to the Services, and to market and advertise the Services, including through promotional e-mail messages, directly or in partnership with other parties, and by displaying our advertisements on other websites that you visit or use. We may also use this information to offer you targeted advertising in order to personalize your experience by showing you advertisements for products and services that are more likely to appeal to you (a practice known as behavioral advertising).
+We may use information that we collect about you or that you provide to us, including Personal Information, to measure usage of the Services, to analyze the effectiveness of our Services, to conduct research, to improve and enhance functionality of the Services, to provide support for the Services and respond to requests and inquiries, to provide you with notices, such as updates or changes that we may make to the Services, and to market and advertise the Services, including through promotional e-mail messages, directly or in partnership with other parties, and by displaying our advertisements on other websites that you visit or use. We may also use this information to offer you targeted advertising in order to personalize your experience by showing you advertisements for products and services that are more likely to appeal to you (a practice known as behavioral advertising). Data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected.
 
 We may from time to time aggregate information in certain data analysis, reports, or other interpretations of trends for both internal and external purposes.
 
@@ -108,6 +110,7 @@ We strive to provide you with choices regarding our collection, use and disclosu
   * **Cookies.** You have the option to accept or disable cookies at any time through your browser. You may refuse to accept browser cookies by activating the appropriate setting on your browser. If you choose to disable your cookies, your user experience may be limited. 
   * **Google Analytics.** You can opt out of tracking by Google Analytics by using Google’s Ads Settings or going to https://tools.google.com/dlpage/gaoptout/. You may also opt out of Google marketing products, but please note that this does not opt you out of being served generic ads. 
   * **Third-Party Advertising.** If you are interested in more information about tailored advertising and your choices to prevent third parties from delivering tailored web advertisements, you may visit the following websites: http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/. These opt-out tools are provided by third parties. We do not control or operate these tools or the choices that advertisers and others provide through these tools. 
+  * **Cross-Device Data Collection.** You can opt out of cross-device data collection by emailing us at help@chartable.com. 
 
 
 
@@ -162,7 +165,7 @@ To request any other changes or information about our collection, use or disclos
 
 Children Under the Age of 13
 
-Our Services are intended for users who are 13 years of age and older. If you are under the age of 13, you are not permitted to submit any Personal Information to us. If you believe we might have any information from or about a child under 13, please contact us at help@chartable.com.
+Our Services are intended for users who are 13 years of age and older. If you are under the age of 13, you are not permitted to submit any Personal Information to us. If you believe we might have any information from or about a child under 13, please contact us at privacy@chartable.com.
 
 International Users
 
@@ -177,7 +180,10 @@ The General Data Protection Regulation or "GDPR" gives certain rights to individ
   * Right to Erasure - the right to request that we delete your personal data;
   * Right to Restrict - the right to request that we temporarily or permanently stop processing all or some of your personal data;
   * Right to Object:
-o The right, at any time, to object to us processing your personal data on o grounds relating to your particular situation; o The right to object to your personal data being processed for direct marketing purposes; 
+
+  * The right, at any time, to object to us processing your personal data on grounds relating to your particular situation;
+  * The right to object to your personal data being processed for direct marketing purposes;
+
   * Right to Data Portability - the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service; and
   * Right not to be subject to Automated Decision-making - the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
 
@@ -185,6 +191,55 @@ o The right, at any time, to object to us processing your personal data on o gro
 
 If you wish to exercise any of the above rights, please contact us at help@chartable.com. 
 
+Information Applicable to California residents (CCPA Privacy Policy)
+
+California Consumers’ Rights and Choices
+
+If you are a California resident, California law permits you to request Information regarding the: 
+
+  * Categories of Personal Information (as defined by applicable California law) collected, sold or disclosed by us;
+  * Purposes for which categories of Personal Information collected by us are used;
+  * Sources of information from which we collect Personal Information; and
+  * Specific pieces of Personal Information we have collected about you.
+
+
+
+In addition, if you are a California resident you may: 
+
+  * Opt-out of the sale or disclosure of your Personal Information, in some circumstances;
+  * Opt-out of receiving marketing communications from us; however, you may still receive administrative communications regarding the Services;
+  * Opt-in to certain financial incentive programs we may offer related to the collection, sale, or deletion of your Personal Information; and
+  * Request deletion of your Personal Information by us and our service providers, in some circumstances.
+
+
+
+Collection and Disclosure of Personal Information from California Residents
+
+The table below outlines how we handle personal information from California residents. 
+
+Personal information collected   
+---  
+How we collect personal information  |  Signing up for our website, Visiting our website, RSS analytics prefix in podcast feeds, Website pixel   
+Categories of personal information we’ve collected in the past 12 months  |  Identifiers, Internet/Electronic Activity, Professional Information, Inferences   
+Categories of personal information we sell  |  Inferences   
+Categories of personal information we otherwise share  |  Identifiers, Internet/Electronic Activity, Professional Information, Inferences   
+  
+Requests
+
+You can make requests related to your California privacy rights at the attached links: 
+
+  * [Access My Personal Information](https://www.requesteasy.com/5dcc2d4877702b00045328a0)
+  * [Delete My Personal Information](https://www.requesteasy.com/5dcc2d4877702b00045328a0)
+  * [Do Not Sell My Personal Information](https://www.requesteasy.com/5dcc2d4877702b00045328a0)
+
+
+
+You may also make those requests by calling 800-373-9053. 
+
+Please be aware that we do not accept or process requests through other means (e.g., via fax, social media, email addresses, etc.). 
+
+We will review the information provided and may request additional information to ensure we are interacting with the correct individual. Please also be aware that making any such request does not ensure complete or comprehensive removal or deletion of Personal Information or content you may have posted, and there may be circumstances in which the law does not require or allow us to fulfill your request. 
+
 Contact Information
 
-If you have any questions about this Privacy Policy, please contact us at help@chartable.com. 
+If you have any questions about this Privacy Policy, please contact us at privacy@chartable.com. 
