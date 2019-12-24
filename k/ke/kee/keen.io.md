@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429043015id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224225406id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Keen
-
-## Keen Privacy Policy
 
 This Privacy Policy describes how Keen.io LLC (“Keen,” “KEEN IO,” “we,” or “our”) collects information from and about you as a visitor to our website (the “Site”), how we use that information, and the circumstances under which we share information with others.
 
