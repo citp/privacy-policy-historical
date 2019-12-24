@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522132255id_/https%3A//www.nuigalway.ie/footer-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2019-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191224065838id_/https%3A//www.nuigalway.ie/footer-links/privacy.html) for the most accurate reproduction.*
 
 # Privacy - NUI Galway
 
