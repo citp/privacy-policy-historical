@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendpulse.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424083925id_/https%3A//sendpulse.com/legal/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendpulse.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225024413id_/https%3A//sendpulse.com/legal/pp) for the most accurate reproduction.*
 
 # Privacy Policy | SendPulse
 
@@ -91,7 +91,7 @@ Be aware that our Cookie Statement is an integral part of this Privacy Policy.
 
 ## 5.4. List and email information
 
-When you add a Mailing List or create an email with the Services, we have and may access the data on your list and the information in your email.
+When you add a Mailing List or create an email with the Services, we may access the data on your list and the contents of the email you are sending using SendPulse service.
 
 ## 5.5. Web beacons
 
