@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190523id_/https%3A//www.whattoexpect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225110201id_/https%3A//www.whattoexpect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | What to Expect
+# Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c) [  
-](https://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)Effective: April 15, 2019
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c) [ ](https://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
+
+Effective: April 15, 2019
 
 If you have any questions about our Privacy Policy, you can contact us at [privacy@everydayhealth.com](mailto:Privacy@everydayhealth.com) and include "Privacy Policy" in the subject line.
 
@@ -395,8 +396,6 @@ Summary – Terms of Use
 For more information concerning your use of the What to Expect website and application, please see our [Terms of Use](https://www.whattoexpect.com/terms-of-use/).
 
 For more information concerning your use of the What to Expect website and application, please consult the [Terms of Use](https://www.whattoexpect.com/terms-of-use/), which is incorporated by reference into this Privacy Policy.  We recommend that you review the Terms of Use regularly, in order to review any changes we might make from time to time.
-
-## 17\. Contact Details
 
 Summary – Contact Details  
 You may contact us at the addresses set out below or by emailing [privacy@everydayhealth.com](mailto:privacy@everydayhealth.com)
