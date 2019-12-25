@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailjet.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621215905id_/https%3A//www.mailjet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailjet.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225203454id_/https%3A//www.mailjet.com/privacy-policy) for the most accurate reproduction.*
 
 # Mailjet Personal Data Protection and Privacy Policy - Email Marketing - SMTP services - Mailjet
 
@@ -6,7 +6,8 @@
 
 as of May 31, 2019
 
-  
+**_New Privacy Policy will be effective from 27 December 2019, check the new version[here](https://www.mailjet.com/wp-content/uploads/2019/11/Mailjet_Privacy_Policy_EN.pdf)._**
+
 Privacy and security are of utmost importance to Mailjet and we strive to ensure that our technical and organisational measures in place respect your data protection rights.
 
 This Privacy Policy describes how we manage, process and store personal data submitted in the context of providing our services. _**“Personal data”**_ refers to any information relating to an identifiable individual or his or her personal identity.
