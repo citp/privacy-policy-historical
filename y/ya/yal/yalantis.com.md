@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yalantis.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507125601id_/https%3A//yalantis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yalantis.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225053625id_/https%3A//yalantis.com/privacy-policy) for the most accurate reproduction.*
 
 # Yalantis Privacy Policy
 
@@ -26,9 +26,9 @@ When you apply to join our team, we collect information from your CV and any add
 
       1. #### Third-party services
 
-Our website and subdomains use third-party services to collect standard internet log information and details about visitors’ behavior patterns. To collect this information, we use Google Analytics and Pipedrive. We do this to improve your experience on our website and to provide you with the most relevant information. Google Analytics gives us information about user behavior such as platforms and browsers used to access the website and subdomains, pages visited on the website and subdomains, the region from which a visitor is accessing the website and subdomains, how a visitor accessed our website and subdomains (e.g. via search engines, referring pages, direct visits), and other behavioral information.
+Our website and subdomains use third-party services to collect standard internet log information and details about visitors’ behavior patterns. To collect this information, we use Google Analytics, Pipedrive, and Crazy Egg. We do this to improve your experience on our website and to provide you with the most relevant information. Google Analytics gives us information about user behavior such as platforms and browsers used to access the website and subdomains, pages visited on the website and subdomains, the region from which a visitor is accessing the website and subdomains, how a visitor accessed our website and subdomains (e.g. via search engines, referring pages, direct visits), and other behavioral information.
 
-This information is processed strictly anonymously. You can find more detailed information about how Google uses information from sites or apps that use their services here: <https://policies.google.com/technologies/partner-sites>. Pipedrive gives us information about referring pages of those who have filled out the contact form on the website, including the path of these users on the website. You can find more detailed information about Pipedrive GDPR compliance here: <https://support.pipedrive.com/hc/en-us/articles/360000335129-Pipedrive-and-GDPR>.
+This information is processed strictly anonymously. You can find more detailed information about how Google uses information from sites or apps that use its services here: <https://policies.google.com/technologies/partner-sites>. Pipedrive gives us information about referring pages of those who have filled out the contact form on the website, including the path of these users on the website. You can find more detailed information about Pipedrive GDPR compliance here: <https://support.pipedrive.com/hc/en-us/articles/360000335129-Pipedrive-and-GDPR>. Crazy Egg provides us with data on user behavior on our website pages. This information is displayed as heatmaps showing us the most frequently read and clicked parts of each page and is tracked safely and anonymously. You can find more info about data usage and protection here: <https://www.crazyegg.com/privacy>
 
 We carefully investigate all third-party services that we use to make sure they are compliant with all current regulations.
 
@@ -76,11 +76,12 @@ To ensure the security of your sensitive information, we carefully select third-
 
     1. ### Third-party services
 
-Your data may be transferred to third-party services including Google Analytics, Pipedrive, and MailChimp, all of which are compliant with GDPR and other regulations. Their privacy policies can be found here:  
+Your data may be transferred to third-party services including Google Analytics, Pipedrive, Doscify, Crazy Egg, and SendinBlue all of which are compliant with GDPR and other regulations. Their privacy policies can be found here:  
 Google Analytics – <https://policies.google.com/privacy>  
 Pipedrive – <https://www.pipedrive.com/en/privacy>  
-MailChimp – <https://mailchimp.com/legal/privacy>  
-Docsify – [https://docsify.net/privacy-policy](https://docsify.net/privacy-policy/)
+Docsify – [https://docsify.net/privacy-policy](https://docsify.net/privacy-policy/)  
+Crazy Egg – [https://www.crazyegg.com/privacy](https://www.crazyegg.com/privacy/)  
+SendinBlue – [https://www.sendinblue.com/legal/privacypolicy](https://www.sendinblue.com/legal/privacypolicy/)
 
     2. ### Subcontractors
 
@@ -125,8 +126,10 @@ You can raise a complaint be sending an email to [privacy@yalantis.com](mailto:p
 We will update this Privacy Policy from time to time. Updates may be in response to changes to existing law or changes to security standards and best practices for third-party services or tools that we use. We will update this Privacy Policy as we consider it necessary. 
 
 
-[](https://web.archive.org/)
 
-### Liked the article? You will like our email too!
 
-Thank you for your contact
+We use cookies to personalize our service and to improve your experience on the website and its subdomains. We also use this information for analytics.
+
+### Learn about digitalization with our newsletter
+
+We’ll send how-to articles, case studies, and Yalantis updates to your inbox every Thursday!
