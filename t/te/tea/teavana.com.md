@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teavana.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630122532id_/https%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teavana.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200444id_/https%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
@@ -151,7 +151,7 @@ We do not intend for our websites or online services to be used by anyone under 
 
 **California Residents**
 
-If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks Customer Service, P.O. Box 93490 Albuquerque, NM 87199. We will make every effort to promptly respond to your request.
+If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks Customer Service, P.O. Box 60650 San Angelo, TX. 76906. We will make every effort to promptly respond to your request.
 
 **Privacy Shield**
 
@@ -169,6 +169,6 @@ Under certain conditions, more fully described on the Privacy Shield website her
 
 **Contact Us**
 
-We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at [http://customerservice.starbucks.com](http://customerservice.starbucks.com/) (by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, P.O. Box 93490 Albuquerque, NM 87199. You can also contact our privacy team us by submitting this [form](https://app.smartsheet.com/b/form?EQBCT=95280ab14628466a84fd49da2d7865f5). 
+We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at [http://customerservice.starbucks.com](http://customerservice.starbucks.com/) (by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, P.O. Box 60650 San Angelo, TX. 76906. You can also contact our privacy team us by submitting this [form](https://app.smartsheet.com/b/form?EQBCT=95280ab14628466a84fd49da2d7865f5). 
 
 View the Privacy Policies for our mobile applications: [iOS](https://www.starbucks.com/about-us/company-information/online-policies/ios-privacy-policy) and [Android](https://www.starbucks.com/about-us/company-information/online-policies/android-privacy-policy).
