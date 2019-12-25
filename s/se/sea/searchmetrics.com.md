@@ -1,197 +1,278 @@
-> *The following text is extracted and transformed from the searchmetrics.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624060221id_/https%3A//www.searchmetrics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmetrics.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200446id_/https%3A//www.searchmetrics.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Searchmetrics
 
-We provide information on the collection of personal information when using our website below. Personal data is any data that personally refers to you, so for example, name, address, email addresses, user behaviour. We have taken extensive technical and operational precautions to protect your data from accidental or intentional manipulation, loss, destruction or access by unauthorized persons. Our safety procedures are regularly checked and adapted with the latest technological advancements. Items starting with number 8 below that refer to the website are marked with W and those that refer to our Suite are marked with S. Items 1 through 7 refer to the website and the Searchmetrics Suite.
+Privacy Statement
 
-#### 1 Those responsible for data processing
+Our company attaches great importance to the protection of personal data and respects your desire for privacy. In the following we inform you about the collection of personal data when using our website, our platform and our app. Should you have any further questions regarding the handling of your personal data, please do not hesitate to contact our Data Protection Officer (see contact information below).
 
-Responsible parties in accordance with Article 4 Paragraph 7 EU General Data Protection Regulation (GDPR) is Searchmetrics GmbH, Greifswalder Straße 212, 10405 Berlin, Tel: 030/ 322 95 35 – 0 Email address: data.protection@searchmetrics.com
+1 Who is responsible for the processing (Art. 4 No.7 GDPR)?
 
-#### 2 Contact option for the data protection officer
+For Customers/ Vistors of our Homepage worldwide (excluding USA & Canada)
 
-You can contact our data protection officer at SSchmidbauer@intersoft-consulting.de or at our postal address with the heading “the data protection officer”.]
+Searchmetrics GmbH  
+Greifswalder Straße 212  
+10405 Berlin  
+Germany
 
-#### 3 Your rights
+For Customers/ Visitors of our Homepage in the USA and Canada:
 
-You have the following rights towards us regarding your personal data: 3.1 General rights You have a right to access, rectification, cancellation, restriction of processing, objection to processing and data transferability. If a processing is based on your consent, you have the right to revoke this consent with effect for the future.
+Searchmetrics Inc.  
+1100 Park Place  
+Suite 150  
+San Mateo, CA 94403  
+USA
 
-##### 3.2 Rights in data processing according to the legitimate interest
+2 Contact option 
 
-You have the right, pursuant to Art. 21 Paragraph 1 GDPR, for reasons arising from your particular situation, to object at any time to the processing of personal data relating to you on the basis of Art. 6 Paragraph 1e GDPR (data processing in the public interest) or on the basis of Article 6 paragraph1f GDPR (data processing to safeguard a legitimate interest), including profiling based on this provision based on these provisions. In the event of your objection, we will no longer process your personal data unless we can show compelling grounds for processing that outweigh your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims.
+Worldwide (excluding USA & Canada)
 
-##### 3.3 Rights related to direct advertising
+Searchmetrics GmbH  
+Greifswalder Straße 212  
+10405 Berlin  
+Germany  
+Phone: +4930/ 322 95 35 – 0  
+[data.protection@searchmetrics.com](mailto:data.protection@searchmetrics.com)
 
-If we process your personal data in order to carry out direct advertising, you have the right pursuant to Art. 21 Paragraph 2 GDPR to object at any time to the processing of personal data concerning you for the purpose of such advertising, including profiling in so far as it is related to such direct marketing. In the event of your objection to processing for direct marketing purposes, we will no longer process your personal data for these purposes
+Data Protection Officer: Katharina Schluckebier (intersoft consulting services AG)  
+Beim Strohhause 17  
+20097 Hamburg  
+[data.protection@searchmetrics.com](mailto:data.protection@searchmetrics.com)
 
-##### 3.4 The right of appeal to a supervisory authority
+In the USA and Canada:  
+Searchmetrics Inc.  
+1100 Park Place  
+Suite 150  
+San Mateo, CA 94403  
+USA
 
-You also have the right to lodge a complaint to a data protection supervisory authority concerning our processing of your personal data. 4 Collection of personal data when visiting our website If you use the website for information purposes only, i.e. if you do not register or otherwise provide us with information, we only collect the personal data that your browser transmits to our server. If you wish to view our website, we collect the following data, which are technically necessary for us to display our website to you and to guarantee stability and security. The legal basis for this is Art. 6 Paragraph 1f GDPR:
+Phone: +1-8664119494 (please choose option 5)  
+[data.protection@searchmetrics.com](mailto:data.protection@searchmetrics.com)
 
-IP address, date and time of the request, time zone difference to Greenwich Mean Time (GMT), content of the request (specific page), access status/HTTP status code, amount of data transferred in each case, website from which the request comes, browser, operating system, and its interface, language and version of the browser software, Dwell time, click path / actions / interactions with the website.
+3 Which (personal) data do we collect?
 
-Website information:
+  * name, email address
+  * IP address
+  * date and time of the request
+  * time zone difference to Greenwich Mean Time (GMT)
+  * content of the request (specific page)
+  * access status/HTTP status code
+  * amount of data transferred in each case
+  * visiting time – How long a user was on the site and how long on each subpage
+  * referrer – From which source a user comes to the website
+  * inferences about personal preferences and attributes drawn from profiling (via cookies)
+  * browser information (name of the browser used, Viewport, Screen resolution, JavaScript, Operating system, Language)
 
-  * URL – the URL of the page viewed by a user
-  * Title – the page title of the page viewed by a user
-  * Visiting Time – How long a user was on the site and how long on each subpage
-  * Referrer – From which source a user comes to the website
 
 
+4 Legal bases of our data processing
 
-Browser information:
+The processing of personal data can be based on different legal bases. If we need your data to fulfil a contract with you or to answer your queries regarding a contract, the legal basis for this data processing is i.a. Art. 6 (1) S. 1 lit. b GDPR. If we obtain your consent for certain data processing, the legal basis is i.a. Art. 6 (1) S. 1 lit. a GDPR. We carry out some data processing on the basis of our legitimate interest, whereby a balance is always made between your interests of protection and our legitimate interests. The legal basis for this is i.a. Art. 6 (1) lit. f GDPR. Insofar as processing is necessary to fulfil a legal obligation to which we are subject, the legal basis is i.a. Art. 6 (1) lit. c GDPR.
 
-  * Browser – Name of the browser used
-  * Viewport – size of the browser window
-  * Screen resolution – the screen resolution that the user uses
-  * JavaScript – whether the user uses JavaScript or not
-  * Operating system – name of the operating system used User information:
-  * Location – based on the IP address, which is anonymized by not passing the last octet of the address. The determination of location is thus only approximately possible
-  * Language – language of the user, based on the language setting of the browser
+In the following, we explain how we process personal data via our website, the platform and the app.
 
+5 Cookies
 
+Cookies are data that are stored on your computer by a website that you visit which enable reassignment to your browser. Cookies transmit information to the website that uses the cookie. Cookies can store various information, such as your language setting, the duration of your visit to our website or the information you have entered there. This avoids, for example, that you have to reenter the required data each time you use our website. The information stored in cookies can also be used to identify preferences and align content according areas of interest.
 
-#### 5 Contact us by e-mail or through the contact form
+There are different types of cookies: session cookies are data that are only stored temporarily and deleted when you close your browser. Permanent or persistent cookies are automatically deleted after a specified period, which may vary depending on the cookie. With this type of cookie, the information can also be stored in text files on your computer. However, you can also delete these cookies at any time in your browser settings.
 
-When you contact us by e-mail or via a contact form, the data you provide (your e-mail address, and if applicable your name and your telephone number) will be stored by us in order to answer your questions. If we use our contact form to request information that is not required to establish contact, it will always be marked as optional. These details help us answer your inquiry and to improve the processing of your request. This information is provided expressly on a voluntary basis and with your consent, Art. 6 Paragraph1a GDPR. If this includes information on communication channels (e.g. e-mail address, telephone number), you also agree that we may contact you via this communication channel in order to respond to your request. You can of course revoke this consent at any time in the future. We delete the data arising in this context after the storage is no longer necessary or limit the processing if statutory retention obligations exist.
+First-party cookies are set by the website you are visiting. Only this website can read information from these cookies. Third party cookies are not set by operators of the website that you are visiting. These cookies are used by marketing companies for example.
 
-#### 6 Newsletter
+The legal basis for processing personal data using cookies and their storage duration may vary. If you have given us your consent, the legal basis is Art. 6 (1) lit.a GDPR. If data processing is carried out on the basis of our legitimate interests, the legal basis is Art. 6 (1) lit.f GDPR. The stated purpose then corresponds to our legitimate interest.
 
-##### 6.1 General information
+We use cookies to ensure the proper operation of our website, to provide basic functionalities, to measure the range and – with your consent – to tailor our services to preferred areas of interest.
 
-With your consent according to Art. 6 Paragraph 1a GDPR you can subscribe to our newsletter, in which we inform you about our current offers. To register for our newsletter, we use the “double opt-in” procedure. This means that after your registration we will send you an e-mail to the specified e-mail address in which we ask you to confirm that you would like the newsletter to be sent. In addition, we store your IP addresses and the time of registration and confirmation. The purpose of the procedure is to be able to prove your registration and, if necessary, to clarify a possible misuse of your personal data. The only required information for sending the newsletter is your name, surname and email address. The disclosure of further, separately marked data is voluntary and is used to be able to address you personally. After your confirmation we will save your e-mail address for the purpose of sending you the newsletter. The legal basis is Art. 6 Paragraph 1a GDPR. You can revoke your consent to receive the newsletter at any time and unsubscribe from the newsletter. You can declare your revocation by clicking on the link provided in every newsletter e-mail or by sending a contact request to the data protection officer specified above.
+You can delete cookies already stored on your device at any time. If you want to prevent the storage of cookies, you can change the settings in your Internet browser accordingly. Instructions for common browsers settings can be found here: Internet Explorer, Firefox, Google Chrome, Google Chrome mobile, Microsoft Edge, Safari, Safari mobile. Alternatively, you can install so-called ad blockers. Please note that some functions of our website may not work if you have deactivated the use of cookies.
 
-##### 6.2 Newsletter tracking
+When visiting our website, an information banner informs all vistors of our website about our use of cookies and refers to this privacy statement. As a vistor, you will be asked for your consent to the use of certain cookies, which are relevant in particular for the personalisation of services and for marketing measures. Once you have given your consent, you can revoke it at any time with effect for the future.
 
-We would like to point out that we evaluate your user behaviour when sending the newsletter. For this analysis, the e-mails sent contain so-called web beacons or tracking pixels, which are stored on our website. For evaluation purposes, we link the above data and web beacons to your e-mail address and an individual ID. With the data obtained in this way, we create a user profile to tailor the newsletter to your individual interests. This means we can record when you read our newsletter, which links you click on in it, and keep track of your personal interests. We link these data with how you use our website. You can object to this tracking at any time by clicking on the separate link provided in each e-mail. The information is stored for as long as you have subscribed to the newsletter. After a cancellation we store the data purely statistically and anonymously. Such tracking is also not possible if you have deactivated the display of images in your e-mail program by default. In this case the newsletter will not be displayed completely and you may not be able to use all functions. If you display the images manually, the above-mentioned tracking will occur.
+6 Marketo Munchkin Cookie
 
-#### 7 Registration and use of the portal (S)
+We use the services of Marketo EMEA Limited to collect statistical data on the use of our website and to optimize our website accordingly, as well as to conduct email marketing.
 
-You have the possibility to register with us and create a customer account. For registration we collect and store the following data from you: – First name – Last name – Email (username) – Password – Country We use the “double opt-in” procedure for registration, i.e. your registration is not complete until you have confirmed your registration via a confirmation email sent to you for this purpose by clicking on the link contained therein. It is obligatory to provide the aforementioned data; all further information can be provided voluntarily by using our portal. After successful registration, you will receive a personal, password-protected access and you can view and manage the data you have provided. Registration is voluntary, but may be a prerequisite for using our services. If you use our portal, we store any data from you that is necessary for the fulfilment of the contract, potentially along with information on the method of payment, until you delete your access with final effect. Furthermore, we will store the optional data provided by you for the duration of your use the of portal, unless you delete it prior to this. You can manage and change all information in the protected customer area. The legal basis is Art. 6 Paragraph 1 a, b and f GDPR.
+We want to point out that Marketo when sending out the newsletter or other requested information evaluates your user behavior on our behalf. To enable this evaluation, the emails sent out contain so-called web beacons, also called tracking pixels. These are one-pixel image files that link to our website and thus enable us to evaluate your user behavior. With the data obtained in this way, we create a user profile in order to provide you with the newsletter tailored to your interests. In doing so, we record when you read our newsletters and which links you click. We link this data with the actions you have taken on our website. Marketo stores the collected information on its server in the EU / EEA.
 
-#### 8 Online orders – Shop (W)
+You can prevent the storage of cookies by certain browser settings; in this case you may not be able to use all the functions of this website. You can also prevent tracking by disabling the display of images by default in your email program. In this case, the newsletter will not be displayed in full and you may not be able to use all functions. If you display the images manually, the above-mentioned tracking takes place.
 
-When you place an online order on our website, we collect the various data required to conclude the contract. The legal basis is the conclusion and execution of a contract in accordance with Art. 6 Paragraph 1b GDPR. The data will be stored for the duration of the contract and in accordance with legal obligations. For payment processing, we use various payment service providers who are always identified and who directly accept your entries and are therefore recipients of your personal data collected in connection with the payment transaction. The legal basis for the involvement of payment service providers is the execution of the contract in accordance with Art. 6 Paragraph 1b GDPR. The storage for the purpose of payment takes place for the duration of the payment processing.
+7  Twitter Advertising (Retargeting or Conversion Tracking)
 
-#### 9 Participation in competitions (W)
+We use the services of Twitter Inc, 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Within the EU/EEA, responsible for dealing with data subjects’ rights is
 
-When you participate in sweepstakes, we collect the data necessary to conduct the sweepstake. These are usually an individual competition entry (e.g. a comment or a photo), as well as name and contact details. We may pass on your data to our competition partners, e.g. to send you the prize. The processing and transfer of data may vary depending on the competition and is therefore described in detail in the respective conditions of participation. Participation in the competition and the related data collection is of course voluntary. The legal basis for data processing is your consent pursuant to Art. 6 Paragraph 1a GDPR. Your data will be deleted after the end of the competition.
+Twitter International Company  
+Attn: Data Protection Officer  
+One Cumberland Place, Fenian Street  
+Dublin 2, D02 AX07 IRELAND.
 
-#### 10 Job applications (W)
+Twitter Ads allows advertisers to collect data from users who visit their website. Cookies and code are used to connect the website to another third-party platform such as Twitter. A non-reversible and non-personal hash value is generated from your usage data and transmitted to Twitter for analysis and marketing purposes. In addition, a so-called “Twitter pixel” can be used to track the actions of users after they have seen or clicked on a Twitter ad.
 
-You can apply to our company electronically, in particular via e-mail or web forms. We will of course use your details exclusively for processing your application and will not pass them on to third parties. Please note that unencrypted e-mails are not transmitted with access protection. You can also apply via our online application portal. Your online application will be forwarded directly to the HR department via an encrypted connection and will of course be treated confidentially. We will of course use your details exclusively for processing your application and will not pass them on to third parties. Further information on data processing within the application procedure can be found in the data protection declaration of our application portal. If you have applied for a specific position and it has already been filled or if we consider you suitable for another position, we would be happy to forward your application within the company. Please let us know if you do not agree to this forwarding. Your personal data will be deleted immediately after completion of the application process or after a maximum of 6 months, unless you have expressly given us your consent to store your data for longer or a contract has been concluded. The legal basis is Art. 6 Paragraph 1 a, b and f GDPR and § 26 BDSG.
+User behaviour, such as websites visited, content accessed, time of visit, etc., as well as device-related data, such as applications and operating systems used, are recorded. Your IP address is stored and used for the geographical control of advertising. With “cross-device personalization”, Twitter also tries to link all devices of a user. Since the data is stored and processed by Twitter, a connection to the respective user profile on twitter.com is also possible.
 
-#### 11 Use of Social Plugins (W)
+In the course of processing, the data may be transmitted to a Twitter Inc. server in the USA. Twitter Inc. is certified under the EU-US Privacy Shield and thus ensures an adequate level of protection of your data in accordance with European data protection law. You can download the certificate here: [https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active)
 
-This site uses social plugins. These plugins usually collect data from you by default and transmit them to the servers of the respective provider. In order to guarantee the protection of your privacy, we have taken technical measures to ensure that your data cannot be collected by the providers of the respective plugin without your consent. When visiting a page on which the plugins are integrated, these are initially deactivated. Only when you click on the respective symbol are the plugins activated and you thereby give your consent that your data can be transferred to the respective provider. The legal basis for the use of the plugins is Art. 6 Paragraph 1 a and f GDPR. After activation, the plugins also collect personal data such as your IP address and send it to the servers of the respective provider, where it is stored. Furthermore, activated social plugins use a cookie with a unique identifier when connecting to the respective website. This also allows providers to create profiles of your usage behaviour. This also happens if you are not a member of the social network of the respective provider. If you are a member of the social network of the provider and you are logged in to the social network during your visit to this website, your data and information about your visit to this website may be linked to your profile on the social network. We have no influence on the exact extent of the data collected from you by the respective provider. For more information about the scope, type and purpose of data processing and about rights and setting options for the protection of your privacy, please refer to the data protection information of the respective provider of the social network. These can be found at the following addresses:
+Anonymized data will be deleted within 6 months. Data that can possibly identify a specific user on Twitter will be deleted within 90 days. Further information on the duration of the storage can be obtained from the provider or at <https://legal.twitter.com/ads-terms/international.html>.
 
-Facebook:  
-We use plugins from the social network facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”). The link to Facebook’s Privacy Policy can be found here: <https://www.facebook.com/about/privacy/>
+You can object to Twitter’s data collection by adjusting the settings in your Twitter account or at https://twitter.com/personalization. If you would like to opt out of interest-based advertising from certain third-party advertisers, you can do so at [https://optout.aboutads.info](https://optout.aboutads.info/) and [https://optout.networkadvertising.org](https://optout.networkadvertising.org/).
 
-Twitter:  
-We use Twitter social plug-ins, which are operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA (“Twitter”). The link to the privacy policy of Twitter can be found here: <https://twitter.com/en/privacy>
+For more information about the purpose and scope of the data collection and the further processing and use of the data, as well as the privacy settings, please refer to Twitter’s privacy policy: <https://twitter.com/privacy>.
 
-Pinterest:  
-We use plugins from the Pinterest social network operated by Pinterest Inc., 635 High Street, Palo Alto, CA, USA (“Pinterest”). The link to Pinterest’s Privacy Policy can be found here: <https://policy.pinterest.com/en/privacy-policy>
+8 Twitter Analytics
 
-#### 12 Use of cookies (W/S)
+We use “Twitter Analytics” on our website. Twitter Analytics stores and processes information about your user behavior on our website.
 
-When using our website, cookies are stored on your computer. Cookies are small text files that are stored on your hard disk in association with the browser you are using and by which the body which sets the cookie transmits certain information. Cookies cannot run programmes or deliver viruses to your computer. They serve to make our web offer more user-friendly and effective. We also use cookies to identify you for follow-up visits if you have an account with us. Otherwise you would have to log in again for each visit. This website uses the following types of cookies, the scope and functionality of which are explained below:
+We use Twitter Analytics for marketing and optimization purposes, in particular to analyze the usage of our website and to be able to continuously improve individual functions and offers as well as the user experience. By statistically evaluating user behavior, we can improve our services and make it more interesting for you as a user.
 
-##### 12.1 Transient Cookies
+9 DoubleClick by Google
 
-These cookies are automatically deleted when you close your browser. These include session cookies, in particular. These store a session ID which assigns the various requests made by your browser during the joint session. This allows your computer to be recognized when you return to the site. Session cookies are deleted when you log out or close the browser.
+We use on our website the online marketing tool DoubleClick by Google. DoubleClick uses cookies to display ads that are relevant to users, to improve campaign performance reports, or to prevent users from seeing the same ads more than once. For this purpose, Google uses a cookie ID to track which ads appear in which browser. This prevents the same ad from being displayed more than once. In addition, DoubleClick can with the use of cookie IDs track so-called conversions in relation to ads. For example, if a user sees a DoubleClick ad and later visits the advertiser’s website with the same browser to buy something.
 
-##### 12.2 Persistent cookies
+When you visit a page that uses DoubleClick and has the DoubleClick script enabled, your browser automatically connects directly to Google’s server. We as website operator, have no influence on the extent and further use of the data collected by Google through the use of this tool. We inform you according to our state of knowledge: By integrating DoubleClick Google receives the information that you visited certain parts of our website or clicked on an ad from us. If you’re registered with a service provided by Google, Google may connect the visit with your account. Even if you are not registered with Google or have not logged in, there is a chance that the provider will find out and store your IP address.
 
-These cookies are automatically deleted after a specified period, which may vary depending on the cookie. You can delete the cookies in your browser’s security settings at any time.
+Google has submitted to the EU-US Privacy Shield: <https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI>.
 
-##### 12.3 Flash cookies
+There are several ways how to prevent your data from being captured by this tracking procedure: (a) by changing your browser settings accordingly. Suppressing third party cookies means that you will not see any third-party ads. (b) By deactivating cookies for conversion tracking which will prevent interest-related advertisements from being displayed. To do this, you must block cookies from the domain “www.googleadservices.com” in your browser. (c) At <https://www.google.de/settings/ads> you can set an opt-out cookie. However, this setting will be deleted if you delete all your cookies. (d) By deactivating the interest-related ads of the providers that are part of the self-regulation campaign “About Ads” via the link <http://www.aboutads.info/choice>s. This setting is deleted if you delete your cookies. (e) By permanently deactivating cookies in your browser settings: <https://www.google.com/settings/ads/plugin>. Please note that in this case you may not be able to use all functions of our website to their full extent.
 
-The Flash cookies used are not recorded by your browser, but by your Flash plug-in. We also use HTML5 storage objects that are stored on your mobile device. These objects store the required data independently of your browser and do not have an automatic expiry date. If you do not wish the Flash cookies to be processed, you must install an appropriate add-on, e.g. “Better Privacy” for Mozilla Firefox (<https://addons.mozilla.org/de/firefox/addon/betterprivacy/>) or the Adobe Flash killer cookie for Google Chrome. You can prevent the use of HTML5 storage objects by using private mode in your browser. We also recommend that you regularly delete your cookies and your browser history manually.
+Further information on DoubleClick by Google can be found at <https://www.google.de/doubleclick> and <https://support.google.com/adsense/answer/2839090>,  
+or in general: <https://www.google.de/intl/de/policies/privac>y. Alternatively you can visit the website of the Network Advertising Initiative (NAI) at [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-##### 12.4 Prevention of cookies
+10 Google Ads (formerly Google AdWords), Remarketing and Conversion Tracking
 
-You can configure your browser settings according to your needs and, for example, refuse to accept third-party cookies or all cookies. Please note that you may not be able to use all functions of this website.
+We use the service Google Ads. Google Ads is an online advertising program of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“Google”).
 
-##### 12.5 Legal bases and storage period
+This means we display Google ads and use Google remarketing and conversion tracking. The ads are displayed on Google’s advertising network web pages in response to search queries. We also use Google ads remarketing lists for search ads. This allows us to customize search ad campaigns for users who have visited our website before. This service allows us to combine our ads with specific search terms or to display ads to previous visitors promoting our services. We may therefore display interest-based ads on other websites within the Google advertising network (as “Google ads” in Google search or on other sites) to users of our website.
 
-The legal bases for possible processing of personal data and their storage duration vary and are described in the following sections.
+For interest-related offers, an analysis of the online user behaviour is necessary. Google uses cookies to perform this analysis. Google sets a cookie on the user’s computer when the user clicks on an advertisement or visits our website. These cookies have a duration of 90 days. The information collected respectively is used to specifically target the visitor in a later search query. Further information on the cookie technology used can also be found in Google’s information on website statistics and in the data protection provisions. With this technology, Google and we receive information that a user clicked on an advertisement and was directed to our website. The information obtained from this is used exclusively for statistical evaluation to optimize the ad. We do not receive any information which allows us to identify a visitor. Your IP address is transmitted to Google, since we use Google’s IP masking on this website in the context of Google Analytics, your IP address is anonymised. The statistics provided to us by Google include the total number of users who clicked on one of our ads and, if applicable, whether they were forwarded to a page of our website with a conversion tag. These statistics enable us to track which keywords were particularly frequently entered and which ads lead to the user contacting us via the contact form.
 
-#### 13 Website analysis
+You can find more information on data protection in the context of Google Ads at: <https://policies.google.com/technologies/ads?hl=de>
 
-For the purpose of analysing and optimising our websites we use various services, which are described below. For example, we can analyze how many users visit our site, which information is most in demand or how users find the offer. Among other things, we collect data about the website from which a person has accessed a website (so-called referrer), which subpages of the website were accessed or how often and for how long a subpage was viewed. This helps us to design and improve our offers in a user-friendly way. The data collected is not used to personally identify individual users. Anonymous or at most pseudonymous data is collected. The legal basis for this is Art. 6 Paragraph 1f GDPR.
+The personal data may be transferred to the USA under the EU-US Privacy Shield on the basis of the European Commission’s adequacy decision. You can download the certificate here:  
+<https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI>.
 
-##### 13.1 Google Analytics (W)
+If you do not wish your data to be processed, you can prevent the cookies by changing your browser settings. In this case, your visit will not be included in the user statistics.
 
-This website uses Google Analytics, a web analysis service of Google Inc, (1600 Amphitheatre Parkway Mountain View, CA 94043, USA). The use includes the Universal Analytics mode. This makes it possible to assign data, sessions and interactions across multiple devices to a pseudonymous user ID and thus analyze a user’s activities across devices. Google Analytics uses cookies, which enable how you use the website to be analysed. As a rule, the cookie-generated data regarding your use of this website will be forwarded to a Google server in the USA and stored there. However, if IP anonymisation is enabled on this website, your IP address will first be abbreviated by Google within the member states of the European Union or other parties to the agreement on the European Economic Area. Only in exceptional cases will the full IP address be transferred to a Google server in the USA and truncated there. The IP address transmitted by your browser as part of Google Analytics is not conflated with other Google data. Google will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity, and to provide other services regarding website activity and Internet usage for the website operator. Our legitimate interest in data processing also lies in these purposes. The legal basis for the use of Google Analytics is § 15 Paragraph 3 TMG (Telemedia Act) and Art. 6 Paragraph 1f GDPR. The data sent by us and linked with cookies are not deleted automatically as we do not collect user identifiers (e.g., user IDs) or promotional IDs, and only aggregated data. For more information on terms of use and data protection, visit <https://www.google.com/analytics/terms/de.html> or <https://policies.google.com/?hl=de> You can prevent cookies from being stored by selecting the appropriate settings in your browser; however, we wish to point out that by doing so, you may not be able to enjoy the full functionality of this website. Furthermore, you can prevent the collection of data generated by the cookie and related to the usage of the website (including your IP address) and the processing of this data by Google by downloading and installing the browser plug that is available at the following link <http://tools.google.com/dlpage/gaoptout?hl=de>. Opt-out cookies prevent future acquisition of your data when you visit this website, if you click on this link: deactivate Google Analytics 
+You also have the option of selecting the types of Google ads or deactivating interest-related ads on Google via the ad settings (<https://adssettings.google.com/authenticated?hl=de>). Alternatively, you can deactivate the use of cookies by third-party providers by using the deactivation help of the network advertising initiative.
 
-##### 13.2 Matomo (formerly Piwik) (W/S)
+However, we and Google continue to receive statistical information about how many users visited this site and when. If you also do not want to be included in these statistics, you can prevent this with the help of additional browser settings (e.g. the add-on Privacy Badger).
 
-This SUITE and Website uses the web analysis service Matomo (formerly Piwik) to analyse and regularly improve the use of our SUITE. We can improve our offer and make it more interesting for you as a user. The legal basis for the use of Matomo is Art. 6 Paragraph 1f GDPR.
+11 Google Analytics
 
-Cookies are stored on your computer for this evaluation. This SUITE uses Matomo with the extension “AnonymizeIP”. Your IP address is never stored in Matomo and not used for further processing. The Matomo program is an open source project. You can obtain information on data protection from the third-party provider at https://matomo.org/privacy/. Users can activate the DoNotTrack functionality in their web browser if they want to prevent us from gathering any usage data in Matomo.
+This website uses Google Analytics, a web analytics service provided by Google LLC, (1600 Amphitheatre Parkway Mountain View, CA 94043, USA). Responsible authority for users in the EU/EEA and Switzerland is Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland. Usage includes the operation mode Universal Analytics. This makes it possible to assign data, sessions and interactions across several devices to a pseudonymous user ID and thus to analyse the activities of a user across all devices.
 
-##### 13.3 Suite analysis (S)
+Google Analytics uses cookies, which enable an analysis of the website usage. The information generated will generally be transmitted to and stored by Google on servers in the United States. However, within member states of the European Union or in other contracting states of the Agreement on the European Economic Area your IP address will be shortened by Google due to the activation of IP anonymisation on this website. Only in exceptional cases will the full IP address be transmitted to a Google server in the United States, where it will be shortened accordingly.
 
-For the purpose of analysing and optimising our SUITE we use various services, which are described below. For example, we can analyze how many users visit our site, which information is most in demand or how users find the offer. Among other things, we collect data about the website from which a person has accessed a website (so-called referrer), which subpages of the website were accessed or how often and for how long a subpage was viewed. This helps us to design and improve our offers in a user-friendly way. Anonymous or at most pseudonymous data is collected. The legal basis for this is Art. 6 Paragraph 1f GDPR.
+Personal data is transmitted to the USA under the EU-US Privacy Shield on the basis of the European Commission’s adequacy decision. You can download the certificate here:  
+<https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI>.
 
-In addition, in order to provide better service to users we analyze how the SUITE is used regarding the modules used and the projects accessed. To archive this, we combine user-IDs and license-IDs from Matomo with registered-user data from our SUITE to archive this. Visitors with the DoNotTrack-flag int their browser are (by design) excluded from this data merger.
+The IP address transmitted by your browser as part of Google Analytics is not combined with other data from Google. Google will use this information to evaluate your use of the website on our behalf, to compile reports on website activity and to provide other services related to website activity and internet usage. Our legitimate interest results from these purposes.  
+The data sent by us and linked to cookies or user IDs (e.g. user ID) are automatically deleted after 14 months. Data whose retention period has been reached is automatically deleted once a month.
 
-##### 13.4 Double Click By Google
+The data sent and linked to cookies or user IDs will be automatically deleted after 14 months. Data whose retention period has expired is automatically deleted once a month.
 
-Doubleclick by Google is a service of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). Doubleclick by Google uses cookies to show you advertisements that are relevant to you. Your browser will be assigned a pseudonymous identification number (ID) to check which ads have appeared in your browser and which ads have been viewed. The cookies do not contain any personal information. Using the DoubleClick cookie allows Google and its affiliate websites to serve ads based on previous visits to our or other websites on the Internet. The information generated by the cookies is transmitted by Google for evaluation to a server in the USA and stored there. A transfer of the data by Google to third parties takes place only due to legal regulations or in the context of order data processing. In no case will Google match its data with other data collected by Google. By using our web pages, you agree to the processing of the data collected about you by Google and according to the manner described above, as to the data processing and to the stated purpose. You can prevent the storage of cookies by a setting of your browser software; However, we would like to point out that in this case you may not be able to use all the functions of our web pages in full. You may also prevent the collection by Google of the data generated by the cookies and related to your use of the website as well as the processing of this data by Google by using the following link (<https://support.google.com/ads/answer/7395996?hl=en>) download and install the available browser plugin. Alternatively, you can disable the Doubleclick cookies on the Digital Advertising Alliance website at the following link (<http://optout.aboutads.info/?c=2#!/>). For more information about privacy and cookies for advertising with DoubleClick, please refer to the Google Privacy Policy, especially the following links: <https://policies.google.com/technologies/partner-sites> <https://policies.google.com/technologies/ads?hl=de>
+You can prevent the use of cookies by changing your browser settings. Please note that you may not be able to use the full functionality of this website. In addition, you can prevent Google from collecting data generated by the cookie and related to your use of the website (including your IP address) by downloading and installing <https://tools.google.com/dlpage/gaoptout?hl=de>.
 
-##### 13.5 Using the Remarketing or “Like Audiences” feature of Google Inc. (W)
+For more information about Google Analytics’ terms of use and Google’s privacy policy, please visit <https://www.google.com/analytics/terms/de.html> or <https://policies.google.com/?hl=de>.
 
-We use the Remarketing or “Like Audiences” feature of Google Inc. (1600 Amphitheater Parkway, Mountain View, CA 94043, USA; “Google”) on our website. This feature has the purpose of analyzing visitor behavior and visitor interests.
+12 Google Re/Marketing Services
 
-Google uses cookies to carry out the analysis of the website usage, which forms the basis for the creation of interest-based advertisements. The cookies are used to record site visits and anonymous data on the use of the website. There is no storage of personal data of visitors to the website. If you visit another website on the Google Display Network, you’ll see ads that are likely to include previously viewed product and information areas.
+We use the marketing and remarketing services (“Google Marketing Services”) of the provider Google Ireland Limited (registration number: 368047), Gordon House, Barrow Street, Dublin 4, Ireland (“Google”) for the optimisation and economic operation of our online services.
 
-If necessary, your data will also be transmitted to the USA. There is an adequacy decision by the European Commission for data transfers to the US.
+Google Marketing Services allows us to better target advertisements for our website in order to present you only with advertisements that potentially match your interests. For example, if you see ads for our services on other websites, this is referred to as “remarketing”. For these purposes, when you visit a websites where Google marketing services are active, Google immediately runs a Google code and incorporates (re)marketing tags (invisible graphics or code, also known as “web beacons”) into the website. With their help, an individual cookie, i.e. a small file, is stored on your device (comparable technologies can be used instead of cookies). Cookies can be set by various domains, including google.com, doubleclick.net, invitemedia.com, admeld.com, googlesyndication.com and googleadservices.com. It is recorded in this file which websites you visited, what content you are interested in and what offers you have clicked on and all technical information on the browser and operating system, referring websites, visiting times and other details of the use of the online offer. Your IP address is also recorded and shortened within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases is it transmitted entirely to a Google server in the USA and shortened there. The IP address will not be combined with your data within other Google offers. The above information may also be linked by Google with such information from other sources. If you subsequently visit other websites, you may see ads tailored to your interests, according to your interests.
 
-Processing is based on Art. 6 (1) lit. f DSGVO for the legitimate interest in targeting visitors to the Website through advertising by showing personalized, interest-based advertising ads to visitors to the Provider’s website when visiting other websites on the Google Display Network.
+We process your data within the Google marketing services framework pseudonymously. This means that Google does not store and process your name or e-mail address but processes the cookie-related data within pseudonymous user profiles. This information is transmitted to Google and stored on Google’s servers in the USA.
 
-You can permanently deactivate the use of cookies by Google by following the link below and downloading and installing the plug-in provided there: <https://support.google.com/ads/answer/7395996?hl=en>
+The Google marketing services we use includes the online advertising program “Google Ads” (formerly: “Google AdWords”). Within the usage of Google Ads, each ads customer receives a different “conversion cookie”. This means that cookies cannot be tracked via the websites of ads customers. The information obtained through this cookie is used to generate conversion statistics for ads customers who have opted for conversion tracking. Ads customers will know the total number of users who clicked on their ad and were directed to a conversion tracking tag page. However, they do not receive any information that personally identifies users.
 
-Alternatively, you may opt out of third-party cookies by visiting the Network Advertising Initiative deactivation page at <https://www.networkadvertising.org/choices/> and implementing the opt-out information listed there.
+Google is certified under the Privacy Shield Agreement, providing a guarantee of compliance with European data protection law ([https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active)).
 
-For more information about Google Remarketing and its privacy policy, please visit: <https://www.google.com/privacy/ads/>
+13 Google Tag Manager
 
-##### 13.6 Marketo (W)
+For reasons of transparency we would like to point out that we use the Google Tag Manager of the provider Google Ireland Limited (registration number: 368047), Gordon House, Barrow Street, Dublin 4, Ireland. The Google Tag Manager does not collect any personally identifiable information. The Google Tag Manager makes it easy for us to integrate and manage our tags. Tags are small pieces of code used, among other things, to measure traffic and visitor behavior, track the impact of online advertising and social channels, establish remarketing and targeting, and test and optimize websites. We use the Tag Manager for the Google Analytics service. If you have made a opt-out, the Google Tag Manager will take that opt-out into account. For more information about the Google Tag Manager, please visit: <https://www.google.com/intl/de/tagmanager/use-policy.html>.
 
-(1) We use the services of the company Marketo EMEA Limited to collect statistical data on the use of our web site and to optimize our offerings accordingly, as well as to operate e-mail marketing.
+14 Facebook Connect
 
-(2) Processing of personal data upon registration If you register for an event, request the newsletter or other information, or otherwise provide us with personal information through a registration form, the registration form will ask you to consent to the processing of your personal information.
+We offer you the opportunity to register and log in via your Facebook account. If you sign up via Facebook, Facebook will ask you for your permission to share certain information in your Facebook account with us. This may include your first name, last name, and email address to verify your identity and gender, as well as your general location, a link to your Facebook profile, your time zone, your date of birth, your profile picture, your “Like” information, and your friends list.
 
-(3) Cookies Marketo also uses so-called “cookies”, text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is transmitted to a server of Marketo (in an EU / EEA country) and stored there. On behalf of the operator of this website, Marketo uses this information to evaluate the use of the website by registered persons and to compile reports on website activity. You can prevent the storage of cookies by a corresponding setting of your browser software; however, please note that if you do this, you may not be able to use all the features of this website to the fullest extent possible.
+This information is collected by Facebook and transmitted to us in accordance with Facebook’s (<https://de-de.facebook.com/privacy/explanation>) Privacy Policy. You can control the information we receive from Facebook through the privacy settings in your Facebook account.
 
-(4) Tracking pixel We point out that Marketo evaluates your user behavior when sending the newsletter or other requested information on our behalf. For this evaluation, the emails sent contain so-called web beacons, also called tracking pixels. These are one-pixel image files that link to our website, allowing us to evaluate your user behavior. With the data obtained in this way, we create a user profile in order to provide you with the newsletter tailored to your interests. In doing so, we record when you read our newsletters, which links you click in and conclude your personal interests. We link this data with actions you have taken on our website. The collected information are stored by Marketo on its server in the EU / EEA. Tracking is not possible if you have disabled the display of images in your e-mail program by default. However, in this case the newsletter will not be displayed completely and you may not be able to use all the features. If you display the images manually, the above mentioned tracking occurs.
+This information is used to set up, provide and personalize your account.
 
-(5) You can prevent the storage of cookies and tracking via tracking pixels. You can prevent the storage of cookies by a corresponding setting of your browser software; however, please note that if you do this, you may not be able to use all the features of this website to the fullest extent possible. You can prevent tracking by disabling the display of images by default in your e-mail program. However, in this case the newsletter will not be displayed completely and you may not be able to use all the features. If you display the images manually, the above tracking is done.
+If you sign up with us via Facebook, this registration will automatically be linked to your Facebook account and information about your activities on our websites may be shared on Facebook and published in your History and Friends News Feed.
 
-(6) Address of Marketo and URL with their privacy notices: Marketo EMEA Ltd. Cairn House South County Business Park Leopardstown Road Dublin 18 Ireland [legal.marketo.com/vertrauen/legal/datenschutz/](https://documents.marketo.com/toutapp/privacy/)
+15 Facebook Custom Audiences (Facebook pixels)
 
-Opt-out cookies prevent future acquisition of your data when you visit this website, if you click on this link: deactivate Marketo pixel
+We use the Custom Inc. services of Facebook, Inc. (1601 S. California Avenue, Palo Alto, CA 94304, USA) as part of our on-demand online advertising. We use the Facebook Ad Manager to determine user target groups to display ads within the Facebook Network. Facebook selects users based on the profile information and other data provided. If a user clicks on an advertisement and then visits our website, Facebook receives information from the Facebook pixel embedded on our website that the user clicked on the advertising banner. In principle, a non-reversible and non-personal hash value is generated from your usage data and transmitted to Facebook for analysis and marketing purposes. Thereby a Facebook cookie is set which collects information about your activities on our website (e.g. surfing behaviour, subpages visited, etc.). In addition, your IP address is stored and used for the geographical control of advertising. We do not use Facebook Custom Audiences via the customer list or the “extended comparison” function.
 
-#### 14 Advertisement (W)
+Further information about the purpose and scope of the data collection and the further processing and use of the data by Facebook as well as your setting options to protect your privacy can be found in Facebook’s privacy policy. You can make settings regarding which advertisements are displayed to you on Facebook under this link and in the Facebook account settings.
 
-We use cookies for marketing purposes, in order to address our users with interest-fair advertisement. In addition, we use cookies to limit the likelihood of an advertisement being played and to measure the effectiveness of our advertising measures. This information may also be shared with third parties, such as ad networks. The legal basis for this is Art. 6 paragraph 1 a and f GDPR. Direct marketing has a legitimate interest in data processing. You have the right to object at any time to the processing of your data for the purpose of such advertising. In the following, we provide you with opt-out options for the respective services. Alternatively, you can prevent cookies from being set in your browser settings.
+The transmission of data to the USA is permitted according to Art. 45 GDPR as Facebook is Privacy Shield-certified and therefore an adequate level of data protection exists according to the implementing decision of the Commission (EU) 2016/1250 ([https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016D1250&from=DE](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016D1250&from=DE)). Certification can be obtained at [https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active)
 
-##### 14.1 Facebook Pixel, Custom Audiences and Facebook Remarketing
+For more information about Facebook’s Custom Audiences service, please visit:  
+<https://de-de.facebook.com/business/help/449542958510885>
 
-Within our online offer and due to our legitimate interests in the analysis, optimization and economic operation of the online offering, the so-called “Facebook Pixel” of the social network Facebook, which is owned by Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, or if you are located in the EU, Facebook Ireland, 4 Grand Canal, Grand Canal Harbor, Dublin 2, Ireland is used. With the help of the Facebook pixel, it is on the one hand possible for Facebook to designate the visitors of our offer as a target group for the presentation of advertisements, the so-called “Facebook ads”. Accordingly, we use the Facebook pixel in order to show our Facebook ads only to Facebook users who are relevant to us as a target group.Opt-out cookies prevent future acquisition of your data when you visit this website, if you click on this link: deactivate Facebook Pixel
+For more information on data processing and storage times, please contact the provider or visit <https://www.facebook.com/about/privacy>.
 
-Opt-out cookies prevent future acquisition of your data when you visit this website, if you click on this link: deactivate Twitter pixel
+Deactivation of the “Facebook Custom Audiences” function is possible for logged in users at <https://www.facebook.com/settings/?tab=ads#>.
 
-Opt-out cookies prevent future acquisition of your data when you visit this website, if you click on this link: deactivate LinkedIn pixel
+You can also prevent the storage of cookies by changing your browser settings. However, we would like to point out that in this case you may not be able to use all the functions of our website to their full extent. Further options for deactivating cookies by third-party providers can be found at www.networkadvertising.org/managing/opt_out.asp or on the Digital Advertising Alliance Opt-Out platform at [http://optout.aboutads.info/?c=2&lang=en](http://optout.aboutads.info/?c=2&lang=en).
 
-#### 15 Transmission of data (W/S)
+16 LinkedIn Services
 
-A transfer of your data to third parties does not take place, unless we are legally obliged to do so, or the transfer of data is necessary for the execution of the contractual relationship, or you have previously expressly consented to the transfer of your data. External service providers and partner companies such as online payment providers or the shipping company commissioned with the delivery will only receive your data if this is necessary to process your order. In these cases, the amount of data disclosed is limited to the required minimum. Insofar as our service providers come into contact with your personal data, we ensure in the context of order processing acc. to Art. 28 DSGVO that they comply with the provisions of data protection laws in the same way. Please also note the respective data protection information of the providers. The respective service provider is responsible for the content of external services, whereby we check the compliance of the services with the legal requirements within the scope of reasonableness. It is important to us to process your data within the EU/EEA. However, we may use service providers who process data outside the EU/EEA. In these cases, we ensure that an appropriate level of data protection is established at the recipient prior to the transfer of your personal data. This means that a data protection level comparable to the standards within the EU is achieved via EU standard contracts or an adequacy decision, such as the EU Privacy Shield.
+This website uses LinkedIn services to enhance the user experience on our website, to enable you to apply through LinkedIn, to facilitate the use of the LinkedIn social network and to contact other LinkedIn users. The provider is LinkedIn Corporation, 599 N Mathilda Ave, Sunnyvale, CA 94085, USA.
 
-#### 16 Data security (W/S)
+LinkedIn receives information about your visits and interactions within the LinkedIn services we offer, e.g. when you sign up via LinkedIn or use plug-ins (e.g., “Share with LinkedIn” or “Apply with LinkedIn”). When using the LinkedIn services on our website, LinkedIn uses your login information, cookies, device information and Internet Protocol (“IP”) addresses to identify you and log your use. For more information about the cookies used by LinkedIn, please visit: <https://www.linkedin.com/legal/cookie-policy>.
 
-Your personal data is securely transmitted by encryption. We use the coding system SSL (Secure Socket Layer). We have taken extensive technical and operational precautions to protect your data from accidental or intentional manipulation, loss, destruction or access by unauthorized persons. Our safety procedures are regularly checked and adapted with the latest technological advancements.
+If you are a member of the provider’s social network and are logged into the social network during your visit to this website, your data and information about your visit to this website may be linked to your social network profile. We do not have any influence on the extent of the data collected by the provider. For more information about the scope, nature, purpose, retention periods, and your rights and privacy preferences, please see the LinkedIn Privacy Notices at <https://www.linkedin.com/legal/privacy-policy> and <https://www.linkedin.com/legal/privacy-policy-summary>.
 
-As of August 2018
+In cases where you expressly agree to the processing of your data, e.g. if you as a LinkedIn member agree to our request for access to your resources on LinkedIn, your consent is the legal basis for the data processing (Art. 7 GDPR). In other cases, e.g. if you apply to us via LinkedIn, the processing of your personal data is necessary for the establishment of the employment relationship (Art.6 (1) lit.b GDPR and § 26 BDSG).
+
+To prevent LinkedIn from collecting data for advertising purposes, you can set a cookie via this link: <https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out>  
+In addition, you can make further data protection adjustments via this link: <https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences?lang=en>
+
+17 LinkedIn Marketing Solutions
+
+We use LinkedIn Marketing Solutions on our website. LinkedIn Marketing Solutions stores and processes information about your user behavior on our website.
+
+We use LinkedIn Marketing Solutions for marketing and optimization purposes, in particular to analyze the use of our website and to be able to continuously improve individual functions and offers as well as the user experience.
+
+You can prevent the installation of cookies by deleting existing cookies and deactivating the storage of cookies in the settings of your web browser. We would like to point out that in this case you may not be able to use all functions of our website to their full extent.
+
+18 Contact via e-mail or through the contact form
+
+When you contact us by e-mail or via a contact form, the data you provide (your e-mail address, your name and your telephone number) will be saved by us to answer your questions. If the use of our contact form requests further information that is not required to contact you, we have always marked it as optional. This information helps us to clarify your request and to improve the handling of your request. This information is expressly given on a voluntary basis and with your consent. Insofar as this information is about communication channels (e.g. e-mail address, phone number), you also agree that we may also contact you via this communication channel to answer your request. You can of course revoke this consent at any time for the future. We delete the data collected in this context after storage is no longer necessary or restrict the processing if there are statutory retention requirements.
+
+19 Newsletter
+
+You can subscribe to our newsletter, which we use to inform you about our current offers. We use the so-called double opt-in procedure to register for our newsletter. This means that after you register, we will send you an email to the email address you have given, asking you to confirm that you would like to receive the newsletter. In addition, we store your IP address and time of registration and confirmation. The purpose of the procedure is to prove your registration and, if necessary, to clarify a possible misuse of your personal data. Mandatory information for sending the newsletter is your name and surname and your e-mail address. The provision of further, separately marked data is voluntary and is used to address you personally. After your confirmation, we will save your email address for the purpose of sending you the newsletter. You can revoke your consent at any time and unsubscribe from the newsletter by clicking on the link.
+
+20 What rights do you have in connection with the processing of your data?
+
+Every data subject has the right of access (i.a. Article 15 GDPR), the right to rectification (i.a. Article 16 GDPR), the right to erasure (i.a. Article 17 GDPR), the right to restriction of processing (i.a. Article 18 GDPR), the right to object (i.a. Article 21 GDPR) and the right to data portability (i.a. Article 20 GDPR).
+
+20.1 Right to object 
+
+**What right do you have in the event of data processing for legitimate or public Interest?**
+
+Pursuant to i.a. Art. 21 para. 1 GDPR, you have the right to object at any time for reasons arising from your particular situation to the processing of your personal data on the basis of i.a. Art. 6 para.1 lit. e GDPR (data processing in the public interest) or i.a. Article 6 para. 1 lit. f GDPR (data processing to protect a legitimate interest), this also applies to profiling based on this provision.  
+In the event of your objection, we will no longer process your personal data unless we can prove compelling grounds for processing that outweigh your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims.
+
+20.2 Revocation of consent
+
+You can revoke your consent to the processing of your personal data at any time. Please note that the revocation is only valid for the future.
+
+20.3 Right to information
+
+You may request information as to whether we have stored personal data about you. If you wish, we will inform you of the data concerned, the purposes for which the data is processed, to whom this data is disclosed, how long the data is stored and what further rights you are entitled to with regard to this data.
+
+20.4 Further rights 
+
+In addition, you have the right to have your data corrected or deleted. If there is no reason for further storage, we will delete your data, otherwise we will restrict processing. You may also request that we provide all personal information that you have provided to us in a structured, current and machine-readable format either to you or to a person or company of your choice.
+
+In addition, there is a right to lodge a complaint to the responsible data protection supervisory authority (Art. 77 GDPR).
+
+20.5 Assertion of your rights
+
+To exercise your rights, you can contact the controller or the data protection officer using the contact details provided above.
+
+21 Data Transmission
+
+Your data will not be transferred to third parties unless we are legally obliged to do so, or data transfer is necessary to carry out the contractual relationship or you have given your prior express consent to the transfer of your data. **We don´t sell your data.**
