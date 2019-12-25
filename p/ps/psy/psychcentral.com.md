@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220849id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225202252id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us - Psych Central
 
@@ -24,8 +24,6 @@ We value your privacy and rights to data protection. As a part of our continued 
 
 
 * * *
-
- 
 
 ### The Fine Print
 
@@ -105,11 +103,11 @@ We process personal information for certain legitimate business purposes that ma
 
 You have the right to object to this processing if you wish by writing to us at:
 
-Chief Privacy Officer  
-Psych Central  
-PO Box 5464  
-Bradford, MA 01835  
-USA
+  * Chief Privacy Officer
+  * Psych Central
+  * PO Box 5464
+  *     * Bradford, MA 01835
+
 
 
  **Third Party Privacy Statements**
@@ -132,11 +130,11 @@ Would you like to opt out of our advertising? Learn [how to opt out here](http:/
 
 Psych Central regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Psych Central’s treatment of personal information by contacting us through our website or by writing us at:
 
-Chief Privacy Officer  
-Psych Central  
-PO Box 5464  
-Bradford, MA 01835  
-USA
+  * Chief Privacy Officer
+  * Psych Central
+  * PO Box 5464
+  * Bradford, MA 01835
+
 
 
 When we receive formal written complaints at this address, it is Psych Central’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Psych Central and an individual.
