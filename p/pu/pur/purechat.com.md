@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purechat.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331063022id_/https%3A//purechat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purechat.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225014900id_/https%3A//www.purechat.com/privacy) for the most accurate reproduction.*
 
 # Pure Chat Privacy Policy
 
