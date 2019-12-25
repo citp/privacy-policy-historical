@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ah-me.com privacy policy that was archived on 2019-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624060526id_/https%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ah-me.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225115654id_/https%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Ah-me Videos, policy</title><link href="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/style.v1.1.81.min.css" rel="stylesheet" type="text/css">
+		<title>Ah-me Videos, policy</title><link href="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/style.v1.1.110.min.css" rel="stylesheet" type="text/css">
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.google.com/recaptcha/api.js"></script>
 <script type="text/javascript" src="https://ahmestatic3.fuckandcdn.com/ah-me/ahmestatic/v30/common/js/jquery.1.7.1.min.js"></script>
@@ -11,15 +11,6 @@
 <script type="text/javascript" src="https://ahmestatic1.fuckandcdn.com/ah-me/ahmestatic/v30/common/js/jquery.cookie.js"></script>
 
 <script>
-	var BaseEditor = {
-		COMMAND_SUCCEEDED: 'success',
-		COMMAND_FAILED: 'error'
-	};
-	
-	var Form = {
-		WRONG: 1,
-		MISSING: 2	};
-	
     var PROJECT_ID = 'ah-me';
     var BASE_PROJECT_ID = 'ah-me';
     
@@ -36,7 +27,8 @@
     var ADV_CDN_URL = '//spots.fuckandcdn.com/sp/delivery/js.php';
 	var PATH_WEB = 'https://www.ah-me.com/';
     var PATH_WEB_ACTUAL = 'https://www.ah-me.com/';
-	var PATH_WEB_STATISTIC = 'https://st.ah-me.com/';
+	var PATH_WEB_STATISTIC = 'https://st1.ah-me.com/';
+    var PATH_WEB_AD = 'https://st.ah-me.com/';
     var PATH_WEB_STAR_PHOTO = 'https://sunstatic.fuckandcdn.com/sun/sunthumbs/pornstars/';
 	var PATH_MOBILE = 'https://m.ah-me.com/';
 	var EMBED_URL = 'https://embeds.ah-me.com/';
@@ -47,9 +39,11 @@
 	var ROOT_DOMAIN = 'ah-me.com';
 	var COOKIE_LANGUAGE_SITE_NAME = 'language_site_name';
     var COOKIE_HISTORY_NAME = 'hst';
-    var THUMB_PREVIEW_CDN_URL = 'https://ahmestatic.fuckandcdn.com/ah-me/thumbs/previews/';
-
     var MOVIE_VIEWS_LOG_COOKIE = 'ml';
+    var THUMB_PREVIEW_CDN_URL = 'https://ahmestatic.fuckandcdn.com/ah-me/thumbs/previews/';
+    var ExLname = 'AH_XER';
+    var PATH_WEB_CHAT_IMAGES = '/chat/images/';
+
     var uid = '';
     var moviesData = {};
     
@@ -85,6 +79,9 @@
 	var loggedMember = false;
 	var USERPIC_IMG = 'male';
 
+    var NotificationType = {
+        MESSAGE: 1    };
+
 	var MemberActivityType = {};
     MemberActivityType.MEMBER_FELLOW_REQUEST = { id: '17', name: 'Friend request' };
     MemberActivityType.MEMBER_FELLOW_REQUEST_DECLINED = { id: '19', name: 'Decline friend request' };
@@ -103,6 +100,16 @@
 			console[consoleMethods[x]] = function() {};
 		}
 
+    if (typeof(AH_XER) === 'undefined')
+        AH_XER = {
+            addZone: function (params) {
+                console.error('catch Exception:', 'AH_XER.addZone', params);
+            },
+            serve: function (params) {
+                console.error('catch Exception:', 'AH_XER.serve', params);
+            }
+        };
+
 
 	function _(str)
 	{
@@ -112,6 +119,10 @@
 			return str;
 		}
 	}
+
+	function makeUrl(url) {
+        return url + '?v=' + (debug ? (new Date()).getTime() : '1.1.110');
+    }
 </script>
 
 
@@ -131,7 +142,7 @@
             content: _("Sorry, the action couldn't be completed")
         }
     };
-</script>		<script type="text/javascript" src="https://ahmestatic1.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/guest.v1.1.81.min.js"></script>
+</script>		<script type="text/javascript" src="https://ahmestatic1.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/guest.v1.1.110.min.js"></script>
 
 <script>
 var ppath       = [];
@@ -169,7 +180,7 @@ var mp          = [];
 
 <body class="ah-me page">
 
-<script type="text/javascript" src="https://www.ah-me.com/js/fl.js"></script>
+<script src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/fl.3.6.v1.1.110.min.js"></script>
 
 
 
@@ -421,11 +432,11 @@ request us to do so by contacting us at privacy@ah-me.com.<br><br>
 <!-- FOOTER 1ST LINE ENDS -->
 
 
-<script src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/jcore.v1.1.81.min.js"></script>
+<script src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/jcore.v1.1.110.min.js"></script>
 <script>
     $.fn.ajaxCallback
-    || document.write('<script src="https://www.ah-me.com/common/ah-me/compiled/jcore.v1.1.81.min.js"><\/script>')
-        && document.write('<link rel="stylesheet" href="https://www.ah-me.com/common/ah-me/compiled/style.v1.1.81.min.css" \/>')
+    || document.write('<script src="https://www.ah-me.com/common/ah-me/compiled/jcore.v1.1.110.min.js"><\/script>')
+        && document.write('<link rel="stylesheet" href="https://www.ah-me.com/common/ah-me/compiled/style.v1.1.110.min.css" \/>')
 </script>
 
 <!-- custom script -->
@@ -434,24 +445,27 @@ request us to do so by contacting us at privacy@ah-me.com.<br><br>
 
 <script>
     $(document).ready(function() {
-        (function () {
-            var myEl = {el: null}; var event = new CustomEvent('getexoloader', {"detail": myEl}); window.document.dispatchEvent(event); var ExoLoader = myEl.el || window['ExoLoader'];
-            
-            ExoLoader.serve({ "script_url": "/br.php", "force": true });
-        })();
+        setTimeout(function () {
+            (function () {
+                var myEl = {el: null}; var event = new CustomEvent('getAH_XER', {"detail": myEl}); window.document.dispatchEvent(event); var AH_XER = myEl.el || window['AH_XER'];
+
+                AH_XER.serve({ "script_url": "/br.php", "force": true });
+            })();
+        });
     });
 </script>
 
-<script src="/js/script.js"></script>
-<script src="/js/license.14.js"></script>
 <script>
-BetterJsPop
-.add('//cool.ah-me.com/api/direct/4172', {
-cookieExpires: 21600})
-.bindTo(['.moviec a', '.th2 a', '.piciec a', '.album-content > a', 'a.close-invid']);
+loadScript({
+    src: 'https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/script.v1.1.110.min.js',
+    onload: function() {
+        BetterAhPop            .add('//cool.ah-me.com/api/direct/4172', { cookieExpires: 21600 })
+            .bindTo(['.moviec a', '.th2 a', '.piciec a', '.album-content > a', 'a.close-invid']);
+    }
+});
 </script>
 
-<!--493386-->
+<!--533433-->
 
 
 
