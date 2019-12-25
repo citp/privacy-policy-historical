@@ -1,35 +1,46 @@
-<!--The following is the downloaded HTML source of the hypebeast.com privacy policy that was archived on 2019-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190627062100id_/https%3A//hypebeast.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hypebeast.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225115827id_/https%3A//hypebeast.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html data-theme="light" class=" async-hide"><head>
             <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-68NN"></script><script type="text/javascript">
-            // var themeCookie = 'light';
-            // var cookiearray = document.cookie.split(';');
-            //
-            // // Now take key value pair out of this array
-            // for (var i = 0; i < cookiearray.length; i++) {
-            //     var name = cookiearray[i].split('=')[0].trim();
-            //     var value = cookiearray[i].split('=')[1].trim();
-            //
-            //     if (name === 'hb-theme') {
-            //         themeCookie = value;
-            //     }
-            // }
-            //
-            // function SetDarkMode() {
-            //     if(themeCookie) {
-            //         document.querySelector('html').setAttribute('data-theme', themeCookie);
-            //     }
-            // }
-            //
-            // SetDarkMode();
+            var themeCookie = 'light';
 
-            document.querySelector('html').setAttribute('data-theme', 'light');
+            var cookieName = 'hb-theme';
+
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                themeCookie = 'dark';
+            } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+                themeCookie = 'light';
+            }
+
+            var cookiearray = document.cookie.split(';');
+
+            // Now take key value pair out of this array
+            if (document.cookie) {
+                for (var i = 0; i < cookiearray.length; i++) {
+                    var name = cookiearray[i].split('=')[0].trim();
+                    var value = cookiearray[i].split('=')[1].trim();
+
+                    if (name === cookieName) {
+                        themeCookie = value;
+                    }
+                }
+            }
+
+            function SetDarkMode() {
+                if (themeCookie) {
+                    document.querySelector('html').setAttribute('data-theme', themeCookie);
+                }
+            }
+
+            SetDarkMode();
+
+            // document.querySelector('html').setAttribute('data-theme', 'light');
 
         </script>
     
     
-                <meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no"><title>Privacy Policy | HYPEBEAST</title><meta name="description" content="HYPEBEAST is the leading online destination for men's contemporary fashion and streetwear. Shop at our store and also enjoy the best in daily editorial content."><link rel="stylesheet" href="https://static.hypebeast.com/dist/styles/hypebeast.css?omco88k1"><link rel="stylesheet" href="https://static.hypebeast.com/dist/hypebeast/sprite.css?omco88k1"><script type="text/javascript">
+                <meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no"><title>Privacy Policy | HYPEBEAST</title><meta name="description" content="HYPEBEAST is the leading online destination for men's contemporary fashion and streetwear. Shop at our store and also enjoy the best in daily editorial content."><link rel="stylesheet" href="https://static.hypebeast.com/dist/styles/hypebeast.css?z8r15msv"><link rel="stylesheet" href="https://static.hypebeast.com/dist/hypebeast/sprite.css?z8r15msv"><script type="text/javascript">
                 var hypebeast = hypebeast || {};
                                 hypebeast.dfpID = '1015938';
                                 hypebeast.hypebeastLogUrl = 'https://log.hypebeast.com/v1/systems/hypebeast/batchEvents/';
@@ -44,7 +55,7 @@
                 "@context" : "http://schema.org",
                 "@type" : "Organization",
                 "url" : "https://hypebeast.com/",
-                "logo" : "https://static.hypebeast.com/images/hypebeast2018/logo.png?omco88k1",
+                "logo" : "https://static.hypebeast.com/images/hypebeast2018/logo.png?z8r15msv",
                 "sameAs" : [
                     "https://www.facebook.com/hypebeast",
                     "https://www.twitter.com/hypebeast",
@@ -65,8 +76,6 @@
                 },
                 "telephone": "+852 3563 9035"
             }
-
-
             </script><script>
                 dataLayer = window.dataLayer || [];
                 dataLayer.push({ 'userRegion': 'AMER' });
@@ -135,22 +144,23 @@
 
     <meta property="fb:app_id" content="143325845706356">
             <meta property="fb:pages" content="10862404186,317794296932,373577572727153,675268962502985,1037470986391901,324555257962235,898679466908196,137598866658599,191202487943746,1749452888713309">
-            <link rel="icon" type="image/x-icon" href="https://static.hypebeast.com/images/hypebeast/favicon/favicon.ico?omco88k1">
-        <link href="https://static.hypebeast.com/images/hypebeast/favicon/apple-icon-120x120.png?omco88k1" rel="apple-touch-icon">
-        <link href="https://static.hypebeast.com/images/hypebeast/favicon/apple-icon-152x152.png?omco88k1" rel="apple-touch-icon" sizes="152x152">
-        <link href="https://static.hypebeast.com/images/hypebeast/favicon/apple-icon-180x180.png?omco88k1" rel="apple-touch-icon" sizes="180x180">
-        <link href="https://static.hypebeast.com/images/hypebeast/favicon/android-icon-192x192.png?omco88k1" rel="icon" sizes="192x192">
-        <link rel="manifest" href="https://static.hypebeast.com/manifest.json?omco88k1">
+            <link rel="icon" type="image/x-icon" href="https://static.hypebeast.com/images/hypebeast/favicon/favicon.ico?z8r15msv">
+        <link href="https://static.hypebeast.com/images/hypebeast/favicon/apple-icon-120x120.png?z8r15msv" rel="apple-touch-icon">
+        <link href="https://static.hypebeast.com/images/hypebeast/favicon/apple-icon-152x152.png?z8r15msv" rel="apple-touch-icon" sizes="152x152">
+        <link href="https://static.hypebeast.com/images/hypebeast/favicon/apple-icon-180x180.png?z8r15msv" rel="apple-touch-icon" sizes="180x180">
+        <link href="https://static.hypebeast.com/images/hypebeast/favicon/android-icon-192x192.png?z8r15msv" rel="icon" sizes="192x192">
+        <link rel="manifest" href="https://static.hypebeast.com/manifest.json?z8r15msv">
         <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="https://static.hypebeast.com/images/hypebeast/favicon/android-icon-192x192.png?omco88k1">
+        <meta name="msapplication-TileImage" content="https://static.hypebeast.com/images/hypebeast/favicon/android-icon-192x192.png?z8r15msv">
         <meta name="theme-color" content="#ffffff">
     
             <meta name="Googlebot-News" content="noindex, nofollow">
     
     <script type="text/javascript">
-        hypebeast.firebaseServiceWorkerUrl = '/firebase-messaging-sw.js?omco88k1';
+        hypebeast.firebaseServiceWorkerUrl = '/firebase-messaging-sw.js?z8r15msv';
         hypebeast.firebaseSubscribeUrl = 'https://hypebeast.com/firebase-subscribe';
-        hypebeast.firebaseConfig = {"apiKey":"AIzaSyD3Dh6DNyw-4N3P-SypwBqW1-5B1e2uBQI","messagingSenderId":"438709611408"};
+        hypebeast.firebaseConfig = {"messagingSenderId":"438709611408"};
+        hypebeast.firebaseVAPID = 'BHow_6ysEDZAvfQGt_GGhX7FB9LLDysN4ouhd91lUxeD7eHMEpWH6JatF-xexZunANRlGq-s2feHvrcuoyygfiQ';
         hypebeast.facebookOauthUrl = "https://hypebeast.com/login/facebook";
         hypebeast.systemName = 'hypebeast';
         hypebeast.token = '';
@@ -171,7 +181,7 @@
                             </div>
         
                     <header id="page-header">
-                        <div id="header-wrapper" class="switch"><div id="main-header" class="container-fluid switch"><div class="hamburger d-md-none" ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_burger_icon"><a href="#" id="mobile-menu-toggle"><span class="sprite sprite-hamburger"></span></a></div><div class="logo"><a href="https://hypebeast.com/"><img class="img-fluid" src="https://static.hypebeast.com/images/hypebeast2018/hypebeast-logo.svg?omco88k1" alt="HYPEBEAST"></a></div><div class="categories"><ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="nav main"><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/fashion" class="category d-none d-md-inline nav-item"><a href="https://hypebeast.com/fashion" title="FASHION" itemprop="url">Fashion</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/footwear" class="category d-none d-md-inline nav-item"><a href="https://hypebeast.com/footwear" title="FOOTWEAR" itemprop="url">Footwear</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/music" class="category d-none d-xl-inline nav-item"><a href="https://hypebeast.com/music" title="MUSIC" itemprop="url">Music</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/videos" class="category d-none d-lg-inline nav-item"><a href="https://hypebeast.com/videos" title="VIDEOS" itemprop="url">Videos</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/radio" class="category d-none d-lg-inline nav-item"><a href="https://hypebeast.com/radio" title="RADIO" itemprop="url">Radio</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/editorial" class="category d-none d-lg-inline nav-item"><a href="https://hypebeast.com/editorial" title="EDITORIAL" itemprop="url">Editorial</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/drops" class="category d-none d-lg-inline nav-item"><a href="https://hypebeast.com/drops" title="DROPS" itemprop="url">Drops</a></li><li class="category dropdown more-section d-none d-md-inline nav-item"><a href="#" class="d-flex align-items-center"><span class="sprite sprite-more-menu"></span></a><ul class="header-dropdown-menu more-section-menu"><li class="categories dropdown-item"><ul><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/music"><a href="https://hypebeast.com/music" title="Music" class="d-block d-xl-none">Music</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/videos"><a href="https://hypebeast.com/videos" title="Videos" class="d-block d-lg-none">Videos</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/radio"><a href="https://hypebeast.com/radio" title="Radio" class="d-block d-lg-none">Radio</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/editorial"><a href="https://hypebeast.com/editorial" title="Editorial" class="d-block d-lg-none">Editorial</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/arts"><a href="https://hypebeast.com/arts" title="Arts" class="">Arts</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/design"><a href="https://hypebeast.com/design" title="Design" class="">Design</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/tech"><a href="https://hypebeast.com/tech" title="Tech" class="">Tech</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/entertainment"><a href="https://hypebeast.com/entertainment" title="Entertainment" class="">Entertainment</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/automotive"><a href="https://hypebeast.com/automotive" title="Automotive" class="">Automotive</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/food-beverage"><a href="https://hypebeast.com/food-beverage" title="Food-beverage" class="">Food &amp; Beverage</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/travel"><a href="https://hypebeast.com/travel" title="Travel" class="">Travel</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/sports"><a href="https://hypebeast.com/sports" title="Sports" class="">Sports</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/magazine" class="sub-categories"><a href="/magazine" title="Magazine">Magazine</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/brands" class="sub-categories"><a href="/directory" title="Directory">Directory</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/guides" class="sub-categories"><a href="/guides" title="Guides">Guides</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="/hb100/2018" class="sub-categories"><a href="/hb100/2018" title="HB100" class="hb100" target="_blank" rel="noopener">HB100</a></li><li class="third-categories"><a href="/about" title="About Us">About Us</a></li><li class="third-categories"><a href="/jobs" title="Jobs">Jobs</a></li></ul></li></ul></li></ul></div><div class="aside"><ul class="nav aside"><li class="social dropdown d-none d-md-flex nav-item"><a href="#" class="d-flex align-items-center">Follow <span class="sprite sprite-angle-down-16"></span></a><ul class="header-dropdown-menu social-menu"><li class="dropdown-item"><ul class="social-icons mb-3"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://www.facebook.com/hypebeast"><a class="facebook social" target="_blank" rel="noopener" href="https://www.facebook.com/hypebeast"><span class="sprite sprite-social-facebook-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://instagram.com/hypebeast"><a class="instagram social" target="_blank" rel="noopener" title="Instagram" href="https://instagram.com/hypebeast"><span class="sprite sprite-social-instagram-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://www.youtube.com/hypebeast?sub_confirmation=1"><a class="youtube social" target="_blank" rel="noopener" title="Youtube" href="https://www.youtube.com/hypebeast?sub_confirmation=1"><span class="sprite sprite-social-youtube-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://twitter.com/HYPEBEAST"><a class="twitter social" target="_blank" rel="noopener" title="Twitter" href="https://twitter.com/HYPEBEAST"><span class="sprite sprite-social-twitter-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://www.snapchat.com/add/HYPEBEAST"><a class="snapchat social" target="_blank" rel="noopener" title="Snapchat" href="https://www.snapchat.com/add/HYPEBEAST"><span class="sprite sprite-social-snapchat-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://flipboard.com/@hypebeast"><a class="flipboard social" target="_blank" rel="noopener" title="Flipboard" href="https://flipboard.com/@hypebeast"><span class="sprite sprite-social-flipboard-black-32"></span></a></li></ul></li><li class="dropdown-item"><ul class="newsletter-menu"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_newsletter_signup" ga-event-label=""><div class="newsletter-msg">Subscribe To HYPEBEAST</div><div class="newsletter-description">With instant updates and exclusive deals</div><form class="header-newsletter-signup-form" action="/newsletter" method="POST" rel="noopener"><div class="input-group"><input class="newsletter-email" name="email" size="16" type="email" placeholder="Enter your email address" required=""><input name="source" value="Newsletter Main Nav" type="hidden"><button class="input-group-btn" type="submit">Subscribe</button></div></form></li></ul></li><li class="dropdown-item"><ul class="app-icons"><li><a class="" target="_blank" href="https://hypebeast.com/app/"><span class="sprite sprite-app-store-en"></span></a></li><li><a class="" target="_blank" href="https://hypebeast.com/app/"><span class="sprite sprite-google-play-en"></span></a></li></ul></li></ul></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_hbx_store" ga-event-label="Clicks" class="store d-none d-md-flex nav-item"><a href="https://hbx.com?utm_source=hypebeast.com&amp;utm_medium=referral&amp;utm_campaign=hypebeast.com_top_area_button" title="HBX. Curated Fashion Products From Around The World" target="_blank">Store</a></li><li class="locale dropdown d-none d-md-flex nav-item"><a href="#" class="current-locale d-flex align-items-center"><span class="sprite sprite-globe-na"></span></a><ul class="header-dropdown-menu locale-menu"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=en">English</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=hk">繁體中文</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=cn">简体中文</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=jp">日本語</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=kr">한국어</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=fr">Français</a></li></ul></li><li class="account dropdown d-none d-lg-flex nav-item"><a href="/register?_target_path=https%3A//hypebeast.com/privacy" class="current-account d-flex align-items-center"><span class="sprite sprite-login"></span></a><ul class="header-dropdown-menu account-menu"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_account_login" ga-event-label=""><a href="/login?_target_path=https%3A//hypebeast.com/privacy" class="login d-flex justify-content-between"><span>Login</span><span class="sprite sprite-arrow-right"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_account_register" ga-event-label=""><a href="/register?_target_path=/register/success&amp;_locale=en" class="register d-flex justify-content-between"><span>Register</span><span class="sprite sprite-arrow-right"></span></a></li><li><span class="register-msg">For instant updates and exclusive deals at our store</span></li></ul></li><li ga-on="click" ga-event-category="search" ga-event-action="clicks_search" ga-event-label="Clicks" class="search nav-item"><a href="/search" class="d-flex align-items-center"><span class="sprite sprite-search"></span></a></li></ul></div></div></div>            </header>
+                        <div id="header-wrapper" class="switch"><div id="main-header" class="container-fluid switch"><div class="hamburger d-md-none" ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_burger_icon"><a href="#" id="mobile-menu-toggle"><span class="sprite sprite-hamburger"></span></a></div><div class="logo"><a href="https://hypebeast.com/"><img class="img-fluid" src="https://static.hypebeast.com/images/hypebeast2018/hypebeast-logo.svg?z8r15msv" alt="HYPEBEAST"></a></div><div class="categories"><ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="nav main"><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/fashion" class="category d-none d-md-inline nav-item"><a href="https://hypebeast.com/fashion" title="FASHION" itemprop="url">Fashion</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/footwear" class="category d-none d-md-inline nav-item"><a href="https://hypebeast.com/footwear" title="FOOTWEAR" itemprop="url">Footwear</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/music" class="category d-none d-xl-inline nav-item"><a href="https://hypebeast.com/music" title="MUSIC" itemprop="url">Music</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/videos" class="category d-none d-lg-inline nav-item"><a href="https://hypebeast.com/videos" title="VIDEOS" itemprop="url">Videos</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/radio" class="category d-none d-lg-inline nav-item"><a href="https://hypebeast.com/radio" title="RADIO" itemprop="url">Radio</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/arts" class="category d-none d-lg-inline nav-item"><a href="https://hypebeast.com/arts" title="ARTS" itemprop="url">Arts</a></li><li itemprop="name" ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/drops" class="category d-none d-lg-inline nav-item"><a href="https://hypebeast.com/drops" title="DROPS" itemprop="url">Drops</a></li><li class="category dropdown more-section d-none d-md-inline nav-item"><a href="#" class="d-flex align-items-center"><span class="sprite sprite-more-menu"></span></a><ul class="header-dropdown-menu more-section-menu"><li class="categories dropdown-item"><ul><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/music"><a href="https://hypebeast.com/music" title="Music" class="d-block d-xl-none">Music</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/videos"><a href="https://hypebeast.com/videos" title="Videos" class="d-block d-lg-none">Videos</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/radio"><a href="https://hypebeast.com/radio" title="Radio" class="d-block d-lg-none">Radio</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/arts"><a href="https://hypebeast.com/arts" title="Arts" class="d-block d-lg-none">Arts</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/editorial"><a href="https://hypebeast.com/editorial" title="Editorial" class="">Editorial</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/design"><a href="https://hypebeast.com/design" title="Design" class="">Design</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/tech"><a href="https://hypebeast.com/tech" title="Tech" class="">Tech</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/entertainment"><a href="https://hypebeast.com/entertainment" title="Entertainment" class="">Entertainment</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/gaming"><a href="https://hypebeast.com/gaming" title="Gaming" class="">Gaming</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/automotive"><a href="https://hypebeast.com/automotive" title="Automotive" class="">Automotive</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/food-beverage"><a href="https://hypebeast.com/food-beverage" title="Food-beverage" class="">Food &amp; Beverage</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/travel"><a href="https://hypebeast.com/travel" title="Travel" class="">Travel</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/sports"><a href="https://hypebeast.com/sports" title="Sports" class="">Sports</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/magazine" class="sub-categories"><a href="/magazine" title="Magazine">Magazine</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/brands" class="sub-categories"><a href="https://hypebeast.com/directory" title="Directory">Directory</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/guides" class="sub-categories"><a href="/guides" title="Guides">Guides</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_category" ga-event-label="https://hypebeast.com/hb100/2019" class="sub-categories"><a href="https://hypebeast.com/hb100/2019" title="HB100" class="hb100" target="_blank" rel="noopener">HB100</a></li><li class="third-categories"><a href="/about" title="About Us">About Us</a></li><li class="third-categories"><a href="/jobs" title="Jobs">Jobs</a></li></ul></li></ul></li></ul></div><div class="aside"><ul class="nav aside"><li class="social dropdown d-none d-md-flex nav-item"><a href="#" class="d-flex align-items-center">Follow <span class="sprite sprite-angle-down-16"></span></a><ul class="header-dropdown-menu social-menu"><li class="dropdown-item"><ul class="social-icons mb-3"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://www.facebook.com/hypebeast"><a class="facebook social" target="_blank" rel="noopener" href="https://www.facebook.com/hypebeast"><span class="sprite sprite-social-facebook-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://instagram.com/hypebeast"><a class="instagram social" target="_blank" rel="noopener" title="Instagram" href="https://instagram.com/hypebeast"><span class="sprite sprite-social-instagram-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://www.youtube.com/hypebeast?sub_confirmation=1"><a class="youtube social" target="_blank" rel="noopener" title="Youtube" href="https://www.youtube.com/hypebeast?sub_confirmation=1"><span class="sprite sprite-social-youtube-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://twitter.com/HYPEBEAST"><a class="twitter social" target="_blank" rel="noopener" title="Twitter" href="https://twitter.com/HYPEBEAST"><span class="sprite sprite-social-twitter-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://discordapp.com/invite/RTNQmeX"><a class="discord social" target="_blank" rel="noopener" title="Discord" href="https://discordapp.com/invite/RTNQmeX"><span class="sprite sprite-social-discord-black-32"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_socials" ga-event-label="https://flipboard.com/@hypebeast"><a class="flipboard social" target="_blank" rel="noopener" title="Flipboard" href="https://flipboard.com/@hypebeast"><span class="sprite sprite-social-flipboard-black-32"></span></a></li></ul></li><li class="dropdown-item"><ul class="newsletter-menu"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_newsletter_signup" ga-event-label=""><div class="newsletter-msg">Subscribe To HYPEBEAST</div><div class="newsletter-description">With instant updates and exclusive deals</div><form class="header-newsletter-signup-form" action="/newsletter" method="POST" rel="noopener"><div class="input-group"><input class="newsletter-email" name="email" size="16" type="email" placeholder="Enter your email address" required=""><input name="source" value="Newsletter Main Nav" type="hidden"><button class="input-group-btn" type="submit">Subscribe</button></div></form></li></ul></li><li class="dropdown-item"><ul class="app-icons"><li><a class="" target="_blank" href="https://hypebeast.com/app/"><span class="sprite sprite-app-store-en"></span></a></li><li><a class="" target="_blank" href="https://hypebeast.com/app/"><span class="sprite sprite-google-play-en"></span></a></li></ul></li></ul></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_hbx_store" ga-event-label="Clicks" class="store d-none d-md-flex nav-item"><a href="https://hbx.com?utm_source=hypebeast.com&amp;utm_medium=referral&amp;utm_campaign=hypebeast.com_top_area_button" title="HBX. Curated Fashion Products From Around The World" target="_blank">Store</a></li><li ga-on="click" ga-event-category="dark_mode" ga-event-action="clicks_dark_mode" ga-event-label="Clicks" class="dark-mode d-none d-md-flex nav-item"><a href="#" class="d-flex align-items-center"><span class="sprite sprite-nav-dark-outline"></span><span class="sprite sprite-nav-sun"></span></a></li><li class="locale dropdown d-none d-md-flex nav-item"><a href="#" class="current-locale d-flex align-items-center"><span class="sprite sprite-globe-na"></span></a><ul class="header-dropdown-menu locale-menu"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=en">English</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=hk">繁體中文</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=cn">简体中文</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=jp">日本語</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=kr">한국어</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=fr">Français</a></li></ul></li><li class="account dropdown d-none d-lg-flex nav-item"><a href="/register?_target_path=https%3A//hypebeast.com/privacy" class="current-account d-flex align-items-center"><span class="sprite sprite-login"></span></a><ul class="header-dropdown-menu account-menu"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_account_login" ga-event-label=""><a href="/login?_target_path=https%3A//hypebeast.com/privacy" class="login d-flex justify-content-between"><span>Login</span><span class="sprite sprite-arrow-right"></span></a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_account_register" ga-event-label=""><a href="/register?_target_path=/register/success&amp;_locale=en" class="register d-flex justify-content-between"><span>Sign Up</span><span class="sprite sprite-arrow-right"></span></a></li><li><span class="register-msg">For instant updates and exclusive deals at our store</span></li></ul></li><li ga-on="click" ga-event-category="search" ga-event-action="clicks_search" ga-event-label="Clicks" class="search nav-item"><a href="/search" class="d-flex align-items-center"><span class="sprite sprite-search"></span></a></li></ul></div></div></div>            </header>
 
             <div id="page-header-sticky-position"></div>
         
@@ -180,225 +190,166 @@
     <a class="breadcrumb-item" href="https://hypebeast.com/">Home</a><span class="breadcrumb-item active">Privacy</span></nav>
         
     </div>
-    <div class="container" id="static-page-container">
-        <h1>About</h1>
+            <div class="container" id="static-page-container">
+            <h1>About</h1>
 
-        <div class="static-page-wrapper">
-            <div id="static-page-nav">
-                <ul class="nav">
-                    <li class="nav-item">
-                        <a class="nav-link scroll-link " data-target="#editorial-about" href="https://hypebeast.com/about">
-                            About Us
-                        </a>
-                    </li>
-                    <li class="nav-item" ga-on="click" ga-event-category="about page" ga-event-action="clicks_our_team">
-                        <a class="nav-link scroll-link" data-target="#editorial-team" href="https://hypebeast.com/about#editorial-team">
-                            Our Team
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link scroll-link" data-target="#editorial-contact" href="https://hypebeast.com/about#editorial-contact">
-                            Contact Us
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link " href="https://hypebeast.com/advertise">
-                            Advertising
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link " href="https://hypebeast.com/terms">
-                            Terms &amp; Conditions
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="https://hypebeast.com/privacy">
-                            Privacy Policy
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link " href="https://hypebeast.com/gdpr">
-                            GDPR
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link " href="https://hypebeast.com/allow-ads">
-                            Allow Ads
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link " href="https://hypebeast.com/subscription">
-                            Manage Subscriptions
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-                            <div id="content">
-                        <div class="section privacy editorial-privacy">
+            <div class="static-page-wrapper">
+                                    <div id="static-page-nav">
+                        <ul class="nav">
+                            <li class="nav-item">
+                                <a class="nav-link scroll-link " data-target="#editorial-about" href="https://hypebeast.com/about">
+                                    About Us
+                                </a>
+                            </li>
+                            <li class="nav-item" ga-on="click" ga-event-category="about page" ga-event-action="clicks_our_team">
+                                <a class="nav-link scroll-link" data-target="#editorial-team" href="https://hypebeast.com/about#editorial-team">
+                                    Our Team
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link scroll-link" data-target="#editorial-contact" href="https://hypebeast.com/about#editorial-contact">
+                                    Contact Us
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="https://hypebeast.com/advertise">
+                                    Advertising
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="https://hypebeast.com/terms">
+                                    Terms &amp; Conditions
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="https://hypebeast.com/privacy">
+                                    Privacy Policy
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="https://hypebeast.com/gdpr">
+                                    GDPR
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="https://hypebeast.com/allow-ads">
+                                    Allow Ads
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="https://hypebeast.com/subscription">
+                                    Manage Subscriptions
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                
+                                    <div id="content">
+                            <div class="section privacy editorial-privacy">
         <div class="static-page-section-title">Privacy Policy</div>
 
-<span class="paragraph">
-<p><em>For website visitors, app users, account holders and customers from the European Union (“EU”), please click <u>here</u> for details to see to how we are complaint with the EU’s General Data Protection Regulation Policy (“GDPR”). </em></p>
-<p>The following Privacy Policy covers our websites, HYPEBEAST.com,<br>
-    HYPEBEAST.CN, HYPEBEAST.KR, HBX.com,<br>
-    HYPEBAE.com, HYPEKIDS.com, POPBEE.com, POPBEE.CN, HYPEDB.com,<br>
-    HYPEMAKER.com, HYPEBEAST.XYZ, HYPEFEST.com and THEBERRICS.com</p>
-<p>(collectively, the “Hypebeast Sites”), which are owned and operated by Hypebeast Hong Kong Limited, a body corporate doing business in the Hong Kong Special Administrative Region of the People’s Republic of China (referred to as “Hypebeast Hong Kong”, “HYPEBEAST”, “we”, “us”, or “our”). It is our goal to bring you information tailored to your personal interests but, at the same time, protect your privacy. Please read the following to learn more about our privacy policy.</p>
-<p>By using the 101 Sites, submitting information or using any of our products and/or services, you are agreeing with and accepting the terms and the practices outlined in this Privacy Policy. If you do not agree with and accept this Privacy Policy, please do not use the 101 Sites, provide information to us or use our products and/or services.</p>
-<p>This Privacy Policy covers Hypebeast Hong Kong’s collection and use of any personal data that we gather when you are on the Hypebeast Sites and when you are using our services. Also, this Privacy Policy covers Hypebeast Hong Kong’s use of any personal data that our business partners may share with us. This Privacy Policy does not cover personal data (if any) that may be collected elsewhere, including without limitation offline and on other sites linked to and from the Hypebeast Sites as well as the practices of third parties that Hypebeast Hong Kong does not control or own, or individuals that Hypebeast Hong Kong does not employ or manage.</p>
-<p>In addition to this Privacy Policy, please read our Terms &amp; Conditions (available at hypebeast.com/terms). This Privacy Policy is incorporated into, and is part of, our Terms &amp; Conditions.</p>
-<p>This Privacy Policy may be modified from time to time so check back often. Your continued access of the 101 Sites or provision of your personal data to us or continued use of our products or services (as the case may be) following the posting of changes or revisions to the terms of our Privacy Policy will constitute your agreement with and acceptance of the changes or revisions to the Privacy Policy.</p>
-</span>
+<p>This Privacy Policy (“Policy”) covers Hypebeast websites, including but not limited to:</p>
+
+<div class="row justify-content-md-around">
+    <div class="col-md-4">
+        HYPEBEAST.com<br>
+        HYPEBEAST.cn<br>
+        HYPEBEAST.kr<br>
+        HBX.com<br>
+        HBXCN.com,<br>
+        HYPEBAE.com<br>
+        HYPEKIDS.com<br>
+        POPBEE.com
+    </div>
+    <div class="col-md-4">
+        POPBEE.CN<br>
+        HYPEDB.com,<br>
+        HYPEMAKER.com<br>
+        HYPEBEAST.ltd<br>
+        HYPEBEAST.xyz<br>
+        HYPEFEST.com<br>
+        THEBERRICS.com
+    </div>
+</div>
+
+<p>(collectively “Hypebeast Sites”), owned and/or operated by Hypebeast Hong Kong Limited, a body corporate doing business in the Hong Kong Special Administrative Region of the People’s Republic of China (“we” or “Hypebeast”). Our goal is to bring you information related to collect and use of personal data, but at the same time, protect your privacy. Please read through our Policy to learn more. </p>
+
+<p>This Policy covers Hypebeast’s collection and use of any personal data which we may collect when you access or use any of Hypebeast Sites and/or Hypebeast services, and Hypebeast’s use of personal data that our business partner(s) may share with us. This Policy does not cover personal data (if any) collected from elsewhere, including but not limited to offline and/or other sites linked to and from Hypebeast Sites, as well as from third parties that Hypebeast does not control and/or own, or individual(s) not employed or managed by Hypebeast. </p>
+
+<p>This Policy is complementary to our website Terms &amp; Conditions (hypebeast.com/terms). Please refer to the link for further information. </p>
+
+<p>We may modify this Policy from time to time, so please come back often for updates. Your continuing access and use on any of Hypebeast Sites, providing personal data and/or use of our products and/or services after any changes made to this Policy constitutes your acceptance to all of the change(s) made. </p>
+
 <h3>1. Introduction</h3>
-<span class="paragraph">
-<p>Thank you for visiting 101 Sites. This Privacy Policy is written to better explain how we collect and use your personal data. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms &amp; Conditions in order to use our services.</p>
-</span>
+
+<p>Thank you for visiting Hypebeast Sites. This Policy is to provide details on how we collect and use your personal data. Use of our Hypebeast Sites, our products and/or services, constitutes your acceptance to all provisions in this Policy. If you do not agree and accept this Policy, please do not or cease to use any of Hypebeast Sites, provide information to us or use any of our products and/or services. </p>
+
+<p>For website visitors, app users, account holders and customers from European Union (“EU”), please refer to our GDPR webpage on details of how we comply with EU’s General Data Protection Regulation Policy (“GDPR”). </p>
+
+
 <h3>2. Personal Data You Provide to Us</h3>
-<span class="paragraph">
-<p>The 101 Sites generally collect personally identifying information (such as, for example, your name, email address, contact address, phone number,etc.) with your specific knowledge and consent. This includes but is not limited to when you place orders with us, subscribe to our newsletter mailing list, create an account with us, enter a raffle sweepstakes or giveaway and complete a survey, etc.. You can choose not to provide us with certain personal data, but we may not be able to process your orders, transactions or applications, or you may not be able to take advantage of many of our special features.</p>
-<p>Registration: In order to use select parts of our websites such as the HYPEBEAST.com Forum, you must complete a registration form. As part of this registration form, we require your email address and date of birth. Please note that if you do not provide all the required personal data to us or if the data provided is inaccurate, we may not be able to process your registration and you may not be able to post on our forum or use selected parts of our website. Optional information such as your referrer or time zone may also be requested.</p>
-</span>
+
+<p>Hypebeast Sites generally collect personally identifying information (such as, for example, your name, email address, contact address, phone number,etc.) (“Personal Data”) with your specific knowledge and consent. This includes but is not limited to when you place orders with us, subscribe to our newsletter mailing list, create an account with us, enter a raffle sweepstakes or giveaway and complete a survey, etc.. You can choose not to provide us with certain personal data, but we may not be able to process your orders, transactions or applications, or you may not be able to take advantage of many of our special features.</p>
+
+<p>Registration: To use select parts of our websites such as HYPEBEAST.com Forum, you must complete a registration form. As part of this registration form, we require your email address and date of birth. Please note that if you do not provide all the required personal data to us or if the data provided is inaccurate, we may not be able to process your registration and you may not be able to post on our forum or use selected parts of our website. Optional information such as your referrer or time zone may also be requested.</p>
 
 <h3>3. Public Areas</h3>
 
-<span class="paragraph">
-<p>When you post, contribute or share any content to a public area of the 101 Sites such as our comments sections, the
-    content you submit will be made available to the general public. To protect your privacy, we would recommend that
-    you exercise caution when submitting, sharing or posting on such public area any personal data or sensitive
-    information such as but not limited to your full name, address, phone number, or any other information that would
-    allow other users or third parties to locate you or obtain information about you. You are entirely responsible for
-    your use of our websites, for all of the contents that you submit or post on our websites, for any and all
-    activities that occur under your account, and for ensuring, protecting and safeguarding the confidentiality and the
-    security of your account. We shall not be held liable for any claims, loss or damage resulting from a breach of the
-    foregoing, or your use of and contributions on our websites, or any unauthorized use of your account.</p>
-</span>
+<p>When you post, contribute or share any content to a public area on any of the Hypebeast Sites such as our comments sections, the content(s) you submit will be made available to general public. To protect your privacy, we recommend you exercise caution in submitting, sharing or posting any personal data or sensitive information on such public area, such as your full name, address, phone number, or any other information that may allow other users or third parties to locate you or obtain information about you.</p>
+
+<p>You are entirely responsible for your use on any of Hypebeast Sites, for all of the contents that you submit or post on our websites, for any and all activities that occur under your account, and for ensuring, protecting and safeguarding confidentiality and security of your account. We shall not be held liable in any event for any and all claims, loss or damage resulting from a breach of the foregoing, or your use of and contributions on our Sites, or any unauthorized use of your account.</p>
 
 <h3>4. Personal Data We Collect When You Buy from Us</h3>
-<span class="paragraph">
-<p>In order for you to place an order with us, you must provide us your name, e-mail address, telephone number,
-    residence address, shipping address, payment type, shipment type and credit card details.. If you do not provide the
-    required personal data to us or if the data provided is inaccurate, we may not be able to process your order or
-    provide adequate order servicing upon your customer service inquiry. We will use your personal data to process your
-    order and for the purposes as set out in this Privacy Policy, and we will not disclose any personal data that you
-    provide to us except in accordance with the provisions of this Privacy Policy.</p>
-</span>
+
+<p>When you place an order with us, you may be required to provide your legal name, e-mail address, telephone number, residential and shipping address, payment type and details (such as credit card details), and shipment type. If you do not provide us with the requested personal data, or if data provided is inaccurate, we may not be able to process your order or provide sufficient customer service upon receiving your order inquiry. We will use your personal data provided to process your order and for the purposes set out in this Policy. In no event shall we disclose any personal data given except as otherwise stated herein or notified.</p>
 
 <h3>5. Automatic Information</h3>
-<span class="paragraph">
-<p>Our servers may automatically collect automatic and/or aggregate information about your computer or electronic device
-    when you visit our websites, including but without limited to the website that referred you, Internet Protocol (“IP”)
-    address, the type and configuration of the internet browser of your computer or electronic device, browsing
-    preference such as language settings and font size, geo-location information and operating system of the computer or
-    electronic device used for accessing our websites, and other usage and traffic information. Hypebeast Hong Kong uses this
-    automatic and/or aggregate information to analyze trends, gather and prepare statistics or demographic information
-    and administer our websites so that we may provide improved web experiences to our users. Such automatic and/or
-    aggregate information is not collected in a manner that would identify you personally. We may provide automatic
-    and/or aggregate information, which are not personal data, to our partners about how our users, collectively use our
-    websites. We may share this information with our partners, so that they may further understand the usage of their
-    areas and our websites, so that they too can provide you with a better web experience. There may also be occasions
-    when we are legally required to disclosure or provide access to our database in order to cooperate with police
-    investigations or other legal proceedings or otherwise comply with any applicable laws or regulations, court order
-    or lawful requests from any government authority. In those instances, the data is provided only for that purpose.
-    For the avoidance of doubt, this Privacy Policy in no way restricts or limits our collection and use of such
-    automatic and/or aggregate information.</p>
-</span>
+
+<p>Our servers may automatically collect automatic, individual and/or aggregate information about your electronic device (such as phone, computer) used when you visit Hypebeast Sites, such as the website that referred you, internet Protocol (“IP”) address, type and configuration of the internet browser of your electronic device, browsing preference such as language settings, font size, geo-location, operating system, and other usage and traffic information. </p>
+
+<p>Hypebeast uses this automatic, individual and/or aggregate information to analyse trends, gather and prepare statistics or demographic information and administer our websites so we may provide improved online web experiences to our users and visitors.</p>
+
+<p>Information collected will not identify you personally. We may provide such information (not necessarily personal data) to our partners about how our users collectively use our Sites, so they may further understand how their areas are used and our websites, in order to provide you with improved web experience.</p>
+
+<p>We may also be legally required to disclose or provide access to our database so to cooperate with the applicable laws, regulations, court order and/or request from government authority, which we will provide for those specific request.</p>
+
+<p>For the avoidance of doubt, this Policy does not restrict or limit our collection and use of such automatic and/or aggregated information.</p>
 
 <h3>6. Use and Provision of Personal Data</h3>
-<span class="paragraph">
-<p>We may collect, use, store and provide your personal data for any of the following purposes, including:</p>
+
+<p>We may collect, use, store and provide your personal data in conducting our business activities, including for the following purpose:</p>
+
 <ul>
-    <li>To enhance or improve user experience, the 101 Sites and/or our products and/or services, or to facilitate our
-        performance of our services or any services offered on the 101 Sites.
-    </li>
-    <li>To register, verify, process and maintain your account on the 101 Sites.</li>
-    <li>To process, verify, operate, manage, administer and maintain membership programs for our users, including but
-        not limited to the HBX VIP Membership Program, HBX Referral Program, etc.
-    </li>
-    <li>To process your orders and/or transactions on the 101 Sites and/or for our products and/or services.</li>
-    <li>To conduct and process any contests, raffle sweepstakes, giveaways and/or surveys that we may from time to time
-        organize in relation to the 101 Sites, our business, products and/or services, and to announce the winners of
-        the relevant contests and/or sweepstakes (as the case may be) on the 101 Sites or any other medium/channels as
-        may be required under the applicable laws.
-    </li>
-    <li>To communicate with you about changes/revisions to our Privacy Policy, Terms &amp; Conditions, our websites or
-        respond to inquiries.
-    </li>
-    <li>To send e-mails and/or other marketing communications about our websites and/or other news, product, or
-        promotional sale alerts,&nbsp;related products and/or services, or updates for 101 Sites, provided that we have
-        obtained your explicit consent to do so.
-    </li>
-    <li>To detect, investigate, identify and protect against and/or preventing fraudulent transactions and other misuses
-        of our websites and/or other activities on the 101 Sites which may violate our Privacy Policy, Terms &amp;
-        Conditions or may be illegal.
-    </li>
+    <li>To enhance or improve user experience, Hypebeast Sites and/or our products and/or services, or facilitate and improve our performance over any of our products or services offered on our Sites.</li>
+    <li>To register, verify, process and maintain your account on Hypebeast Sites.</li>
+    <li>To process, verify, operate, manage, administer and maintain membership programs for our users, including but not limited to the HBX VIP Membership Program, HBX Referral Program, etc.</li>
+    <li>To process your orders and/or transactions on Hypebeast Sites and/or for our products and/or services.</li>
+    <li>To conduct and process any contests, raffle sweepstakes, giveaways and/or surveys that we may from time to time organize via Hypebeast Sites, our business, products and/or services, and to announce the winners of the relevant contests and/or sweepstakes (as the case may be) on Hypebeast Sites or any other medium/channels as may be required under the applicable laws.</li>
+    <li>To communicate with you about changes/revisions to our Privacy Policy, Terms &amp; Conditions, our websites or respond to inquiries.</li>
+    <li>To send e-mails and/or other marketing communications about our websites and/or other news, product, or promotional sale alerts,&nbsp;related products and/or services, or updates for Hypebeast Sites, provided that we have obtained your explicit consent to do so.</li>
+    <li>To detect, investigate, identify and protect against and/or preventing fraudulent transactions and other misuses of our websites and/or other activities on Hypebeast Sites which may violate our Privacy Policy, Terms &amp; Conditions or may be illegal.</li>
     <li>To enforce our Terms &amp; Conditions and Privacy Policy.</li>
-    <li>To provide third party service provider(s) engaged by us to provide services for or in relation to the 101
-        Sites, to process data on our behalf, to provide information technology support to us and/or conduct maintenance
-        of our servers, data banks and databases, including but not limited to IT contractor(s), website analytic
-        service provider(s), data processor(s) and service provider(s) for database management systems.
-    </li>
-    <li>To provide third party content provider(s) engaged by us, including interactive and social media providers, to
-        provide services for or in relation to the 101 Sites, to allow the provider to host the content on our sites
-    </li>
-    <li>To provide our third-party advertising and promotional agencies and consultants and those organisations or
-        online platforms selected by us to carry out marketing campaigns on our behalf and to measure the delivery and
-        effectiveness of such advertisements (for example, client campaign tracking)
-    </li>
+    <li>To provide third party service provider(s) engaged by us to provide services for or in relation to Hypebeast Sites, to process data on our behalf, to provide information technology support to us and/or conduct maintenance of our servers, data banks and databases, including but not limited to IT contractor(s), website analytic service provider(s), data processor(s) and service provider(s) for database management systems.</li>
+    <li>To provide third party content provider(s) engaged by us, including interactive and social media providers, to provide services for or in relation to the 101 Sites, to allow the provider to host the content on our sites</li>
+    <li>To provide our third-party advertising and promotional agencies and consultants and those organisations or online platforms selected by us to carry out marketing campaigns on our behalf and to measure the delivery and effectiveness of such advertisements (for example, client campaign tracking)</li>
     <li>To purchaser(s)/assignee(s) as part of any re-organization, merger, transfer or sale of our business.</li>
-    <li>To comply with or as permitted by any applicable laws or regulations, court order or lawful request from any
-        government authority.
-    </li>
+    <li>To comply with or as permitted by any applicable laws or regulations, court order or lawful request from any government authority.</li>
 </ul>
-</span>
 
 <h3>7. Cookies</h3>
-<span class="paragraph">
-<p>In order to distinguish you from other users—especially other users on the same network as you— we would
-    use cookies to track your specific computer or electronic device. Cookies are small computer text files that are
-    sent from a website to the browser of your computer or electronic device and are stored on your device. Generally,
-    cookies do not recognize you personally and are not harmful to your device. Cookies are used by websites that you
-    visit and browse to improve your website browsing experience and provide the website operators with non-personal
-    data or analytical information to help improve the quality of their websites for their users’ website browsing
-    experience. For example, we use cookies to save your device’s browsing preferences and settings. For these
-    reasons we require that you keep cookies enabled when using our websites. Please note that if you choose to disable
-    cookies on your computer or electronic device, you may find that some of the features and functionality of our
-    websites may not work properly. Additionally, our cookies may be accessible by third parties or provided by third
-    parties including, for example, Google via Google AdSense on our websites. We do not have any control over and are
-    not responsible or liable for such third parties’ collection and use of the cookies. Please refer to those
-    third parties’ relevant policies regarding their collection and use of cookies for further information.</p>
+
+<p>To distinguish you from other users—especially other users on the same network as you— we would use cookies to track your specific computer or electronic device. Cookies are small computer text files that are sent from a website to the browser of your computer or electronic device and are stored on your device. Generally, cookies do not recognize you personally and are not harmful to your device. Cookies are used by websites that you visit and browse to improve your website browsing experience and provide the website operators with non-personal data or analytical information to help improve the quality of their websites for their users’ website browsing experience. For example, we use cookies to save your device’s browsing preferences and settings. For these reasons we require that you keep cookies enabled when using our websites. Please note that if you choose to disable cookies on your computer or electronic device, you may find that some of the features and functionality of our websites may not work properly. Additionally, our cookies may be accessible by third parties or provided by third parties including, for example, Google via Google AdSense on our websites. We do not have any control over and are not responsible or liable for such third parties’ collection and use of the cookies. Please refer to those third parties’ relevant policies regarding their collection and use of cookies for further information.</p>
+
 <h3>8. Third Party Websites</h3>
-<p>The 101 Sites may contain links to third party websites, advertisers or services that are not owned or controlled by
-    us. We have no control over and assume no responsibility for the content, privacy policies or practices of any third
-    party websites, advertisers or services or their use of your personal data. If you access a third party website from
-    our websites, you do so at your own risk and you understand that neither this Privacy Policy nor our Terms &amp;
-    Conditions apply to your use of such sites. We would encourage you to review the privacy policies and terms of use
-    of any third party website, advertisers or service that you visit or use before providing your personal data to
-    those third parties, and we shall not be liable in relation to your activities on or with those other third party
-    websites, advertisers or services.</p>
-</span>
+
+<p>Hypebeast Sites may contain links to third party websites, advertisers or services that are not owned or controlled by us. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party websites, advertisers or services or their use of your personal data. If you access a third party website from our websites, you do so at your own risk and you understand that neither this policy nor our Terms &amp; Conditions apply to your use of such sites. We would encourage you to review the privacy policies and terms of use of any third party website, advertisers or service that you visit or use before providing your personal data to those third parties, and we shall not be liable in relation to your activities on or with those other third party websites, advertisers or services.</p>
 
 <h3>9. Third Party Access to Your Personal Data</h3>
-<span class="paragraph">
-<p>Without prejudice to the provisions in Clause 6 above, we endeavor to do our best to protect your personal data from
-    being accessed by third parties. However, since we may employ outside maintenance personnel or use third party
-    service providers to provide website, information technology and/or data processing services to us or to host our
-    material, there are third party entities which may have custody or access to your information. Because of this, it
-    is necessary that you permit us to give access to your personal data to such third party entities to the same extent
-    that you authorize us to do so. For greater certainty, every authorization which you grant to us in this Privacy
-    Policy, you also grant to any third party entities that we may hire, contract, instruct or otherwise retain the
-    services of for the purpose of operating, hosting, maintaining, repairing, or otherwise improving or preserving our
-    websites or its underlying files or systems, or for data processing on our behalf, or for providing information
-    technology support to us, and/or for conducting maintenance of our servers, data banks and/or databases (as the case
-    may be). To the fullest and maximum extent as is permitted under the applicable laws, you agree not to hold us
-    liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their
-    actions, and that you must take legal action against them directly should they commit any tort or other actionable
-    wrong against you.</p>
-<p>Additionally, we may store your personal data or share them with other third parties as set out in Clause 6 for the
-    relevant purposes as set out in this Privacy Policy. Please refer to Clause 6 above for further information
-    regarding our purposes of use and transfer of personal data and the relevant data transferees that may be involved.
-    Without prejudice to the foregoing, the following is a non-exhaustive list of other entities that we may store,
-    share, or transfer your information with in accordance with the provisions of this Privacy Policy:</p>
+
+<p>Without prejudice to the provisions in Clause 6 above, we endeavor to do our best to protect your personal data from being accessed by third parties. However, since we may employ outside maintenance personnel or use third party service providers to provide website, information technology and/or data processing services to us or to host our material, there are third party entities which may have custody or access to your information. Because of this, it is necessary that you permit us to give access to your personal data to such third party entities to the same extent that you authorize us to do so. For greater certainty, every authorization which you grant to us in this Policy, you also grant to any third party entities that we may hire, contract, instruct or otherwise retain the services of for the purpose of operating, hosting, maintaining, repairing, or otherwise improving or preserving our websites or its underlying files or systems, or for data processing on our behalf, or for providing information technology support to us, and/or for conducting maintenance of our servers, data banks and/or databases (as the case may be). To the fullest and maximum extent as is permitted under the applicable laws, you agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you.</p>
+
+<p>Additionally, we may store your personal data or share them with other third parties or reason related to Clause 6 above. Without prejudice to the foregoing, the following is a non-exhaustive list of other entities that we may store, share, or transfer your information with in accordance with the provisions of this Policy:</p>
+
 <ul>
     <li>Google Analytics (Anonymous version)</li>
     <li>Google Tag Manager</li>
@@ -426,92 +377,78 @@
     <li>Commission Junction</li>
     <li>Affiliate Gateway</li>
 </ul>
-</span>
 
 <h3>10. Marketing &amp; Communication</h3>
-<span class="paragraph">
-<p>When registering for a HYPEBEAST Forum or 101 Sites account, you will be given the option to opt-in to receiving our
-    promotional and direct marketing materials and/or updates through the 101 Sites newsletter. If you would prefer to
-    opt-out from these e-mails, you can do so at any time by using the unsubscribe link at the bottom of the e-mail.</p>
-<p>We will also be using your personal data for our direct marketing. Please refer to Clause 6 above for further
-    information regarding the relevant purposes of use of personal data for our direct marketing and the classes of
-    marketing subjects concerned. We would use your personal data for direct marketing in accordance with the provisions
-    of this Privacy Policy, and we will not use or provide your personal data to third parties for direct marketing
-    unless we have obtained your explicit or written consent to do so (as the case may be) in accordance with the
-    requirements of Hong Kong’s Personal Data (Privacy) Ordinance.</p>
-</span>
+
+<p>When registering for a HYPEBEAST Forum or signing up for Hypebeast Sites account, you will be given the option to opt-in to receiving our promotional and direct marketing materials and/or updates through the Hypebeast Sites newsletter. If you would prefer to opt-out from these e-mails, you can do so at any time by using the unsubscribe link at the bottom of the e-mail.</p>
+
+<p>We will also be using your personal data for our direct marketing. Please refer to Clause 6 above for further information regarding the relevant purposes of use of personal data for our direct marketing and the classes of marketing subjects concerned. We would use your personal data for direct marketing in accordance with the provisions of this Privacy Policy, and we will not use or provide your personal data to third parties for direct marketing unless we have obtained your explicit or written consent to do so (as the case may be) in accordance with the requirements of Hong Kong’s Personal Data (Privacy) Ordinance.</p>
 
 <h3>11. Law Enforcement</h3>
-<span class="paragraph">
-<p>We may disclose your personal data to a third party to comply with or as permitted by any applicable laws or
-    regulations, court order or lawful request from any government authority. In the event that we receive a subpoena
-    affecting your privacy, unless there are any prohibitions/ restrictions under the applicable laws, we may elect to
-    notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it
-    ourselves, but we are not obligated to do either.</p>
-</span>
+
+<p>We may disclose your personal data to a third party to comply with or as permitted by any applicable laws or regulations, court order or lawful request from any government authority. In the event that we receive a subpoena affecting your privacy, unless there are any prohibitions/ restrictions under the applicable laws, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.</p>
 
 <h3>12. Security of Information</h3>
-<span class="paragraph">
-<p>We use SSL certificates to help secure the 101 Sites. However, we make no representations as to the security or
-    confidentiality of your personal data. You understand and agree that no transmission of data over the internet is
-    guaranteed to be completely secure. It is in our interest to keep our websites secure, but we recommend that you use
-    anti-virus software, firewalls, and other precautions to protect yourself from security threats.</p>
-</span>
 
-<h3>13. California Online Privacy Protection Act</h3>
-<span class="paragraph">
-<p>We are not located in California, but we do permit California residents to access our websites and order from us. It
-    is our intent to comply with the California Business and Professions Code §§ 22575-22579. If you are a
-    California resident you may request certain information regarding our disclosure of personal information to any
-    third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address
-    requirements of the act. In summary, you must presume that we collect electronic information from all visitors. You
-    may contact us at info@hypebeast.com with any questions.</p>
-</span>
+<p>We use SSL certificates to help secure the Hypebeast Sites. However, we make no representations as to the security or confidentiality of your personal data. You understand and agree that no transmission of data over the internet is guaranteed to be completely secure. It is in our interest to keep our websites secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.</p>
+
+<h3>13. California Consumer Privacy Act</h3>
+
+<p>This section is specifically to those residing in California. It is our intent to comply with California Consumer Privacy Act of 2018 (“CCPA”). CCPA may provide you with additional rights over our use of your personal data. You may find more information on: <a href="https://oag.ca.gov/privacy/privacy-laws">https://oag.ca.gov/privacy/privacy-laws</a></p>
+
+<p>Type of Data Hypebeast hold: Hypebeast will only collect personal information that is in accordance with this Policy. In particular, within the last twelve (12) months, the categories of Personal Data which Hypebeast has collected are:</p>
+
+<ul>
+    <li>Identifiers (examples include your real name, Internet Protocol address, personal email address or other information which can identify yourself)</li>
+
+    <li>Personal Information as categorised by the California Customer Records statute (Cal. Civ. Code § 1798.80(e)). Examples of data under this category can be your name, address, email address, account name or information that can identify you personally. Some personal information in this category may also overlap with other categories.</li>
+
+    <li>Internet activity (examples include your browsing history, information on you interact with our Sites and contents)</li>
+
+    <li>Geolocation data (example include when you submit the location you are in when creating your profile on our Sites)</li>
+
+    <li>Inference on personal preference and attributed from profiling (this can be in the form of cookies)</li>
+</ul>
+
+<p>Personal information under the CCPA does not include any information that is either publicly available, aggregated consumer information, or those not covered under the CCPA.</p>
+
+<p><strong>Personal information provided by those under age of 16</strong></p>
+
+<p>Hypebeast may receive information from individuals who voluntarily identify themselves to us as under the age of 16. In complying with CCPA, if you are of 16 years of age or older, you have the right to request us not to sell your personal information. For individuals who are under the age of 16 years, we will not sell your personal information unless having obtained express written authorization (i.e. opt in to sell), from either: the person him/herself if he/she is between age 13 to 16 years old; or for individuals below age 13 years, written authorization from that individual’s parent or guardian is needed. You have the right to opt in or out of selling personal information at any time. To exercise your opt-out of selling personal information right, you may submit your request by sending us a message at [CONTACT EMAIL].</p>
+
+<p><strong>Request for Personal Information</strong></p>
+
+<p>We offer the right to access your personal information and make changes to it. Simply refer to the below for more details.</p>
 
 <h3>14. Amendments</h3>
-<span class="paragraph">
-<p>We may amend this Privacy Policy from time to time, and the amended version will be posted on our website in place of
-    the old version. We will also include the date that the currently displayed Privacy Policy took effect to help you
-    determine whether there have been any changes since you last used the website. The changes in this Privacy Policy
-    become effective as soon as the changes are published to the website. If you continue to use the website after the
-    changes become effective, it will signify your agreement to be bound by such modifications or revisions.</p>
-<p>If you do not agree with the revised/updated Privacy Policy, you must immediately cease using our website and
-    service.</p>
-</span>
+
+<p>We may amend this Privacy Policy from time to time, and the amended version will be posted on our website in place of the old version. We will also include the date that the currently displayed Privacy Policy took effect to help you determine whether there have been any changes since you last used the website. The changes in this Privacy Policy become effective as soon as the changes are published to the website. If you continue to use the website after the changes become effective, it will signify your agreement to be bound by such modifications or revisions.</p>
+
+<p>If you do not agree with the revised/updated Privacy Policy, you must immediately cease using our website and service.</p>
 
 <h3>15. Validity</h3>
-<span class="paragraph">
-    <p>Severance of any provision of this Privacy Policy is held to be invalid or unenforceable for any reason by a court of
-    competent jurisdiction, such provision shall be deemed to be severed from this Privacy Policy. Such unenforceability
-    or invalidity shall not in any way affect the enforceability and/or validity of the remaining provisions of this
-    Privacy Policy which shall continue in full force and effect.</p>
-</span>
+
+<p>Severance of any provision of this Privacy Policy is held to be invalid or unenforceable for any reason by a court of competent jurisdiction, such provision shall be deemed to be severed from this Privacy Policy. Such unenforceability or invalidity shall not in any way affect the enforceability and/or validity of the remaining provisions of this Privacy Policy which shall continue in full force and effect.</p>
 
 <h3>16. Contact</h3>
-<span class="paragraph">
-<p>Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be
-    directed to info@hypebeast.com. You have the right to request access to and/or correction of your personal data held
-    by us. If you wish to make such request, please contact us by email marking “Attention: Personal Data Access /
-    Correction Request” on your correspondence.</p>
-</span>
 
-<span class="terms-footer">
-<p>Last Updated Date: May 25, 2018</p>
-</span>
+<p>Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be directed to info@hypebeast.com. You have the right to request access to and/or correction of your personal data held by us. If you wish to make such request, please contact us by email marking “Attention: Personal Data Access / Correction Request” on your correspondence.</p>
+
+<p>Last Updated Date: January 1, 2020</p>
     </div>
-                </div>
                     </div>
-    </div>
-
-                <footer id="page-footer" ga-impression-event-category="footer" ga-impression-event-action="impressions"><div class="container-fluid"><div class="row footer-upper"><div class="footer-about-us col-2 d-none d-md-block"><div class="footer-headers">About Us</div><ul class="nav"><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/about" class="nav-item"><a href="/about">About Us</a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/about" class="nav-item"><a href="/about#editorial-team">Our Team</a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/about" class="nav-item"><a href="/about#editorial-contact">Contact Us</a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/jobs" class="nav-item"><a href="/jobs">Jobs</a></li></ul></div><div class="footer-misc col-2 d-none d-md-block"><div class="footer-headers">More</div><ul class="nav"><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/advertise" class="nav-item"><a href="/advertise">Advertising</a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/gdpr" class="nav-item"><a href="/gdpr">GDPR</a></li><li class="nav-item"><a href="https://hypebeast.xyz/investor-relations">Investor Relations</a></li></ul></div><div class="footer-language col-2 d-none d-md-block"><div class="footer-headers">Language</div><ul class="nav"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=en">English</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=hk">繁體中文</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=cn">简体中文</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=jp">日本語</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=kr">한국어</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=fr">Français</a></li></ul></div><div class="footer-channels col-2 d-none d-md-block"><div class="footer-headers">Elsewhere</div><ul class="nav"><li ga-on="click" ga-event-category="footer (desktop only)" ga-event-action="clicks_elsewhere_sites" ga-event-label="https://hypebae.com/"><a href="https://hypebae.com/" title="HYPEBAE" class="hypebae" target="_blank" rel="noopener">
+                            </div>
+        </div>
+    
+                <footer id="page-footer" ga-impression-event-category="footer" ga-impression-event-action="impressions"><div class="container-fluid"><div class="row footer-upper"><div class="footer-about-us col-2 d-none d-md-block"><div class="footer-headers">About Us</div><ul class="nav"><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/about" class="nav-item"><a href="/about">About Us</a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/about" class="nav-item"><a href="/about#editorial-team">Our Team</a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/about" class="nav-item"><a href="/about#editorial-contact">Contact Us</a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/jobs" class="nav-item"><a href="/jobs">Jobs</a></li></ul></div><div class="footer-misc col-2 d-none d-md-block"><div class="footer-headers">More</div><ul class="nav"><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/advertise" class="nav-item"><a href="/advertise">Advertising</a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_101media" ga-event-label="/gdpr" class="nav-item"><a href="/gdpr">GDPR</a></li><li class="nav-item"><a href="https://hypebeast.ltd/investors">Investor Relations</a></li></ul></div><div class="footer-language col-2 d-none d-md-block"><div class="footer-headers">Language</div><ul class="nav"><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=en">English</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=hk">繁體中文</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=cn">简体中文</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=jp">日本語</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=kr">한국어</a></li><li ga-on="click" ga-event-category="navigation bar" ga-event-action="clicks_languages" ga-event-label=""><a href="/change-language?locale=fr">Français</a></li></ul></div><div class="footer-channels col-2 d-none d-md-block"><div class="footer-headers">Elsewhere</div><ul class="nav"><li ga-on="click" ga-event-category="footer (desktop only)" ga-event-action="clicks_elsewhere_sites" ga-event-label="https://hypebae.com/"><a href="https://hypebae.com/" title="HYPEBAE" class="hypebae" target="_blank" rel="noopener">
                     HYPEBAE
-                </a></li><li ga-on="click" ga-event-category="footer (desktop only)" ga-event-action="clicks_elsewhere_sites" ga-event-label="https://hbx.com?utm_source=hypebeast.com&amp;utm_medium=referral&amp;utm_campaign=hypebeast.com_top_area_button"><a href="https://hbx.com?utm_source=hypebeast.com&amp;utm_medium=referral&amp;utm_campaign=hypebeast.com_top_area_button" title="HBX" class="hbx" target="_blank" rel="noopener">
+                </a></li><li ga-on="click" ga-event-category="footer (desktop only)" ga-event-action="clicks_elsewhere_sites" ga-event-label="https://hbx.com?utm_source=https:hypebeast.com&amp;utm_medium=referral&amp;utm_campaign=https:hypebeast.com_top_area_button"><a href="https://hbx.com?utm_source=https:hypebeast.com&amp;utm_medium=referral&amp;utm_campaign=https:hypebeast.com_top_area_button" title="HBX" class="hbx" target="_blank" rel="noopener">
                     HBX
                 </a></li></ul></div><div class="footer-app col-md-5 col-12"><a class="footer-downlad-app" href="https://hypebeast.com/app/">
                         Download Our App
                     </a><span class="footer-newsletter"><form action="//hypebeast.com/newsletter" method="POST" rel="noopener"><input name="source" value="Newsletter Footer" type="hidden"><button ga-on="click" ga-event-category="footer" ga-event-action="clicks_newsletter_signup_footer" ga-event-label="#" type="submit">Subscribe to Our Newsletter</button></form></span></div></div><div class="row footer-lower"><div class="footer-copyright col-lg-9 col-12"><div>
                             2019 <a href="http://hypebeast.xyz/">Hypebeast Limited</a>. All Rights Reserved.
-                        </div><div class="footer-links"><span><a href="https://hypebeast.com/terms">Terms &amp; Conditions</a></span><span><a href="https://hypebeast.com/privacy">Privacy Policy</a></span></div><div>HYPEBEAST® is a registered trademark of Hypebeast Hong Kong Ltd.</div></div><div class="footer-social col-lg-3 col-12"><ul class="nav"><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://www.facebook.com/hypebeast"><a class="facebook social" target="_blank" rel="noopener" href="https://www.facebook.com/hypebeast"><span class="sprite sprite-social-facebook-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://instagram.com/hypebeast"><a class="instagram social" target="_blank" rel="noopener" title="Instagram" href="https://instagram.com/hypebeast"><span class="sprite sprite-social-instagram-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://www.youtube.com/hypebeast?sub_confirmation=1"><a class="youtube social" target="_blank" rel="noopener" title="Youtube" href="https://www.youtube.com/hypebeast?sub_confirmation=1"><span class="sprite sprite-social-youtube-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://twitter.com/HYPEBEAST"><a class="twitter social" target="_blank" rel="noopener" title="Twitter" href="https://twitter.com/HYPEBEAST"><span class="sprite sprite-social-twitter-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://www.snapchat.com/add/HYPEBEAST"><a class="snapchat social" target="_blank" rel="noopener" title="Snapchat" href="https://www.snapchat.com/add/HYPEBEAST"><span class="sprite sprite-social-snapchat-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://flipboard.com/@hypebeast"><a class="flipboard social" target="_blank" rel="noopener" title="Flipboard" href="https://flipboard.com/@hypebeast"><span class="sprite sprite-social-flipboard-white-20"></span></a></li></ul></div></div></div></footer>    
+                        </div><div class="footer-links"><span><a href="https://hypebeast.com/terms">Terms &amp; Conditions</a></span><span><a href="https://hypebeast.com/privacy">Privacy Policy</a></span></div><div>HYPEBEAST® is a registered trademark of Hypebeast Hong Kong Ltd.</div></div><div class="footer-social col-lg-3 col-12"><ul class="nav"><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://www.facebook.com/hypebeast"><a class="facebook social" target="_blank" rel="noopener" href="https://www.facebook.com/hypebeast"><span class="sprite sprite-social-facebook-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://instagram.com/hypebeast"><a class="instagram social" target="_blank" rel="noopener" title="Instagram" href="https://instagram.com/hypebeast"><span class="sprite sprite-social-instagram-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://www.youtube.com/hypebeast?sub_confirmation=1"><a class="youtube social" target="_blank" rel="noopener" title="Youtube" href="https://www.youtube.com/hypebeast?sub_confirmation=1"><span class="sprite sprite-social-youtube-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://twitter.com/HYPEBEAST"><a class="twitter social" target="_blank" rel="noopener" title="Twitter" href="https://twitter.com/HYPEBEAST"><span class="sprite sprite-social-twitter-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://discordapp.com/invite/RTNQmeX"><a class="discord social" target="_blank" rel="noopener" title="Discord" href="https://discordapp.com/invite/RTNQmeX"><span class="sprite sprite-social-discord-white-20"></span></a></li><li ga-on="click" ga-event-category="footer" ga-event-action="clicks_social" ga-event-label="https://flipboard.com/@hypebeast"><a class="flipboard social" target="_blank" rel="noopener" title="Flipboard" href="https://flipboard.com/@hypebeast"><span class="sprite sprite-social-flipboard-white-20"></span></a></li></ul></div></div></div></footer>    
 
         
 <div id="mobile-gradient-fade" class="hide switch">
@@ -521,7 +458,7 @@
     <div id="mobile-menu-container" class="container-fluid">
         <div class="mobile-menu-header">
             <div id="mobile-menu-header-logo">
-                <img class="img-fluid" src="https://static.hypebeast.com/images/hypebeast/hypebeast-logo.svg?omco88k1">
+                <img class="img-fluid" src="https://static.hypebeast.com/images/hypebeast/hypebeast-logo.svg?z8r15msv">
             </div>
             <button id="mobile-menu-header-close" ga-on="click" ga-event-category="burger menu" ga-event-action="exit_burger_icon">
                 <span class="sprite sprite-close"></span>
@@ -529,10 +466,10 @@
         </div>
         <div class="mobile-menu-categories d-flex">
             <div class="categories">
-                <ul class="list-unstyled "><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/fashion"><a href="/fashion">Fashion</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/footwear"><a href="/footwear">Footwear</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/music"><a href="/music">Music</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/arts"><a href="/arts">Arts</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/design"><a href="/design">Design</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/editorial"><a href="/editorial">Editorial</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/tech"><a href="/tech">Tech</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/entertainment"><a href="/entertainment">Entertainment</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/automotive"><a href="/automotive">Automotive</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/food-beverage"><a href="/food-beverage">Food &amp; Beverage</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/travel"><a href="/travel">Travel</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/sports"><a href="/sports">Sports</a></li></ul>
+                <ul class="list-unstyled "><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/fashion"><a href="/fashion">Fashion</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/footwear"><a href="/footwear">Footwear</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/music"><a href="/music">Music</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/arts"><a href="/arts">Arts</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/design"><a href="/design">Design</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/editorial"><a href="/editorial">Editorial</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/tech"><a href="/tech">Tech</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/entertainment"><a href="/entertainment">Entertainment</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/gaming"><a href="/gaming">Gaming</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/automotive"><a href="/automotive">Automotive</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/food-beverage"><a href="/food-beverage">Food &amp; Beverage</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/travel"><a href="/travel">Travel</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/sports"><a href="/sports">Sports</a></li></ul>
             </div>
             <div class="other-categories">
-                <ul class="list-unstyled"><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_feeds" ga-event-label="/"><a href="/#latest-posts" title="latest" class="">Latest</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_feeds" ga-event-label="/rising"><a href="/#rising-posts" title="rising" class="">Rising</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_feeds" ga-event-label="/popular"><a href="/#popular-posts" title="popular" class="">Popular</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_feeds" ga-event-label="/most-commented"><a href="/#most-commented" title="most-commented" class="">Commented</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/drops" class="sub-categories first"><a href="/drops" title="drops">Drops</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/videos" class="sub-categories"><a href="/videos" title="videos">Videos</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/radio" class="sub-categories"><a href="/radio" title="radio">Radio</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/directory" class="sub-categories"><a href="/directory" title="directory">Directory</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/magazine" class="sub-categories"><a href="/magazine" title="magazine">Magazine</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/guides" class="sub-categories"><a href="/guides" title="guides">Guides</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/2017/12/hb100-2017"><a href="/2017/12/hb100-2017" title="HB100" class="hb100" target="_blank" rel="noopener">HB100</a></li></ul>
+                <ul class="list-unstyled"><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_feeds" ga-event-label="https://hypebeast.com/"><a href="https://hypebeast.com/#latest-posts" title="latest" class="">Latest</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_feeds" ga-event-label="/rising"><a href="https://hypebeast.com/#rising-posts" title="rising" class="">Rising</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_feeds" ga-event-label="/popular"><a href="https://hypebeast.com/#popular-posts" title="popular" class="">Popular</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_feeds" ga-event-label="/most-commented"><a href="https://hypebeast.com/#most-commented" title="most-commented" class="">Commented</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/drops" class="sub-categories first"><a href="/drops" title="drops">Drops</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/videos" class="sub-categories"><a href="/videos" title="videos">Videos</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/radio" class="sub-categories"><a href="/radio" title="radio">Radio</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/directory" class="sub-categories"><a href="/directory" title="directory">Directory</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/magazine" class="sub-categories"><a href="/magazine" title="magazine">Magazine</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/guides" class="sub-categories"><a href="/guides" title="guides">Guides</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_category" ga-event-label="/2017/12/hb100-2017"><a href="/2017/12/hb100-2017" title="HB100" class="hb100" target="_blank" rel="noopener">HB100</a></li></ul>
             </div>
         </div>
                     <div class="mobile-menu-store d-flex align-items-center">
@@ -557,11 +494,11 @@
             <span class="dropdown-menu-title">Account</span>
             <span class="dropdown-sprite sprite sprite-arrow-down align-bottom"></span>
         </div>
-        <ul class="list-unstyled mobile-menu-dropdown"><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_account_login" ga-event-label="/login?_target_path=https%3A//hypebeast.com/privacy"><a href="/login?_target_path=https%3A//hypebeast.com/privacy">Login</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_account_register" ga-event-label="/register?_target_path=https%3A//hypebeast.com/privacy"><a href="/register?_target_path=https%3A//hypebeast.com/privacy">Register</a></li></ul>
+        <ul class="list-unstyled mobile-menu-dropdown"><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_account_login" ga-event-label="/login?_target_path=https%3A//hypebeast.com/privacy"><a href="/login?_target_path=https%3A//hypebeast.com/privacy">Login</a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_account_register" ga-event-label="/register?_target_path=https%3A//hypebeast.com/privacy"><a href="/register?_target_path=https%3A//hypebeast.com/privacy">Sign Up</a></li></ul>
             </div>
         
         <div class="mobile-menu-social">
-            <ul class="nav"><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://www.facebook.com/hypebeast"><a class="facebook social" target="_blank" rel="noopener" href="https://www.facebook.com/hypebeast"><span class="sprite sprite-social-facebook-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://instagram.com/hypebeast"><a class="instagram social" target="_blank" rel="noopener" title="Instagram" href="https://instagram.com/hypebeast"><span class="sprite sprite-social-instagram-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://www.youtube.com/hypebeast?sub_confirmation=1"><a class="youtube social" target="_blank" rel="noopener" title="Youtube" href="https://www.youtube.com/hypebeast?sub_confirmation=1"><span class="sprite sprite-social-youtube-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://twitter.com/HYPEBEAST"><a class="twitter social" target="_blank" rel="noopener" title="Twitter" href="https://twitter.com/HYPEBEAST"><span class="sprite sprite-social-twitter-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://www.snapchat.com/add/HYPEBEAST"><a class="snapchat social" target="_blank" rel="noopener" title="Snapchat" href="https://www.snapchat.com/add/HYPEBEAST"><span class="sprite sprite-social-snapchat-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://flipboard.com/@hypebeast"><a class="flipboard social" target="_blank" rel="noopener" title="Flipboard" href="https://flipboard.com/@hypebeast"><span class="sprite sprite-social-flipboard-black-32"></span></a></li></ul>
+            <ul class="nav"><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://www.facebook.com/hypebeast"><a class="facebook social" target="_blank" rel="noopener" href="https://www.facebook.com/hypebeast"><span class="sprite sprite-social-facebook-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://instagram.com/hypebeast"><a class="instagram social" target="_blank" rel="noopener" title="Instagram" href="https://instagram.com/hypebeast"><span class="sprite sprite-social-instagram-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://www.youtube.com/hypebeast?sub_confirmation=1"><a class="youtube social" target="_blank" rel="noopener" title="Youtube" href="https://www.youtube.com/hypebeast?sub_confirmation=1"><span class="sprite sprite-social-youtube-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://twitter.com/HYPEBEAST"><a class="twitter social" target="_blank" rel="noopener" title="Twitter" href="https://twitter.com/HYPEBEAST"><span class="sprite sprite-social-twitter-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://discordapp.com/invite/RTNQmeX"><a class="discord social" target="_blank" rel="noopener" title="Discord" href="https://discordapp.com/invite/RTNQmeX"><span class="sprite sprite-social-discord-black-32"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_socials" ga-event-label="https://flipboard.com/@hypebeast"><a class="flipboard social" target="_blank" rel="noopener" title="Flipboard" href="https://flipboard.com/@hypebeast"><span class="sprite sprite-social-flipboard-black-32"></span></a></li></ul>
         </div>
 
         <div class="mobile-menu-email">
@@ -578,9 +515,20 @@
             <ul class="app-icons"><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_app" ga-event-label="https://hypebeast.com/app/"><a class="" target="_blank" href="https://hypebeast.com/app/"><span class="sprite sprite-app-store-en"></span></a></li><li ga-on="click" ga-event-category="burger menu" ga-event-action="clicks_app" ga-event-label="https://hypebeast.com/app/"><a class="" target="_blank" href="https://hypebeast.com/app/"><span class="sprite sprite-google-play-en"></span></a></li></ul>
         </div>
 
-        
-                                                                                                                                                                                        
-        
+                <div class="mobile-dark-mode">
+            <div class="mobile-dark-mode-wrapper">
+                <div class="sprite sprite-nav-dark-outline"></div>
+                <div class="sprite sprite-nav-dark"></div>
+                <span class="menu-title">Dark Mode</span>
+                <span class="dark-mode-toggle-switch">
+                    <label class="switch">
+                        <input type="checkbox">
+                        <span class="slider round"></span>
+                    </label>
+                </span>
+            </div>
+        </div>
+
                     <div class="mobile-menu-other">
                 <div class="mobile-dropdown-toggle">
                     <div class="dropdown-menu-sprite sprite-hamburger-more"></div>
@@ -652,7 +600,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <img src="https://static.hypebeast.com/images/hypebeast/wechat-qr-code.png?omco88k1">
+                    <img src="https://static.hypebeast.com/images/hypebeast/wechat-qr-code.png?z8r15msv">
                 </div>
                 <div class="modal-footer">
                 </div>
@@ -660,36 +608,37 @@
         </div>
     </div>
 
-                
+                            
+
 
 
     <div id="newsletter-popup-fixed">
         <div class="modal-close-btn">
-            <img src="https://static.hypebeast.com/images/hypebeast/icons/close_white@2x.png?omco88k1">
+            <img src="https://static.hypebeast.com/images/hypebeast/icons/close_white@2x.png?z8r15msv">
         </div>
-        <div id="editorial-newsletter" class="impression-tracker" ga-impression-event-category="newsletter/ app popup" ga-impression-event-action="impressions_newsletter" ga-impression-event-label="#">
-            <div class="wrapper">
-                <header>
-                    <span>Subscribe to our Newsletter</span>
-                </header>
-                <p class="intro">Receive the latest in Footwear, Fashion, Music and Creativity in our newsletters.</p>
-
-                <form id="modal-newsletter-form" class="newsletter-signup-form" action="//hypebeast.com/newsletter" method="POST" rel="noopener" data-ga-action="">
-                    <div class="input-group">
-                        <input class="form-control newsletter-email" name="email" size="16" type="email" placeholder="Enter your email address" required="required">
-                                                    <input name="source" value="Newsletter Popup" type="hidden">
-                                                                        <span class="input-group-btn">
-                        <button class="btn btn-default" type="submit" ga-on="click" ga-event-category="newsletter/ app popup" ga-event-action="clicks_popup_signup" ga-event-label="#">
-                            Subscribe
-                        </button>
-                    </span>
-                    </div>
-                </form>
-                <div class="agreement-wrapper">
-                                <span>By Subscribing, you agree to our <a href="/terms" target="_blank">Terms of Use</a> and <a href="/privacy" target="_blank">Privacy Policy</a>.</span>
-                </div>
-            </div>
+            <div id="editorial-newsletter" class="impression-tracker" ga-impression-event-category="newsletter/ app popup" ga-impression-event-action="impressions_newsletter" ga-impression-event-label="#">
+        
+<div class="wrapper">
+            <header>
+            <span>Subscribe to our Newsletter</span>
+        </header>
+        <p class="update"></p>
+    <p class="intro">Gain access to exclusive interviews with industry creatives, think pieces, trend forecasts, guides and more.</p>
+    <form id="modal-newsletter-form" class="newsletter-signup-form" action="//hypebeast.com/newsletter" method="POST" rel="noopener" data-ga-action="">
+        <div class="input-group">
+            <input class="form-control newsletter-email" name="email" size="16" type="email" placeholder="Enter your email address" required="required">
+                            <input name="source" value="Newsletter Popup" type="hidden">
+                                    <span class="input-group-btn">                <button class="btn btn-default" type="submit" ga-on="click" ga-event-category="newsletter/ app popup" ga-event-action="clicks_popup_signup" ga-event-label="#">
+                    Subscribe
+                </button>
+            </span>
         </div>
+    </form>
+    <div class="agreement-wrapper">
+                                <span>By subscribing, you agree to our <a href="/terms" target="_blank">Terms of Use</a> and <a href="/privacy" target="_blank">Privacy Policy</a>.</span>
+    </div>
+</div>
+    </div>
     </div>
 
 <div id="newsletter-popup" class="modal fade" tabindex="-1" data-app-cookie="app_popup_hypebeast_en" data-newsletter-cookie="newsletter_popup_hypebeast_en">
@@ -697,17 +646,17 @@
         <div class="modal-content app-modal">
                                     <div class="row">
                 <div class="modal-close-btn">
-                    <img src="https://static.hypebeast.com/images/hypebeast/icons/close_white@2x.png?omco88k1">
+                    <img src="https://static.hypebeast.com/images/hypebeast/icons/close_white@2x.png?z8r15msv">
                 </div>
                 <div class="col-12 register-form">
                     <div id="editorial-app" class="section impression-tracker active" ga-impression-event-category="newsletter/ app popup" ga-impression-event-action="impressions_app" ga-impression-event-label="#">
                         <div class="wrapper">
                             <header>
                                 <div class="app-icon">
-                                    <img class="logo" src="https://static.hypebeast.com/images/hypebeast/app/app-icon-with-border.png?omco88k1" alt="HYPEBEAST">
+                                    <img class="logo" src="https://static.hypebeast.com/images/hypebeast/app/app-icon-with-border.png?z8r15msv" alt="HYPEBEAST">
                                 </div>
                                 <div class="hypebeast-icon">
-                                    <img class="logo" src="https://static.hypebeast.com/images/hypebeast/logo-white.png?omco88k1" alt="HYPEBEAST">
+                                    <img class="logo" src="https://static.hypebeast.com/images/hypebeast/logo-white.png?z8r15msv" alt="HYPEBEAST">
                                     <span>Free for iPhone, iPad and Android phones.</span>
                                 </div>
                             </header>
@@ -716,10 +665,10 @@
                             </p>
                             <div class="app-stores">
                                 <a class="download" target="_blank" href="https://click.google-analytics.com/redirect?tid=UA-546583-25&amp;aid=com.hypebeast.app&amp;cs=hypebeast&amp;cm=web&amp;cn=app_page&amp;url=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fhypebeast%2Fid986768161%3Fpt%3D2303216%26mt%3D8%26ct%3DApp%2520Page" ga-on="click" ga-event-category="newsletter/ app popup" ga-event-action="clicks_app" ga-event-label="https://click.google-analytics.com/redirect?tid=UA-546583-25&amp;aid=com.hypebeast.app&amp;cs=hypebeast&amp;cm=web&amp;cn=app_page&amp;url=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fhypebeast%2Fid986768161%3Fpt%3D2303216%26mt%3D8%26ct%3DApp%2520Page">
-                                    <img src="https://static.hypebeast.com/images/app/app-store@2x.png?omco88k1">
+                                    <img src="https://static.hypebeast.com/images/app/app-store@2x.png?z8r15msv">
                                 </a>
                                 <a class="download" target="_blank" href="https://play.google.com/store/apps/details?id=com.hypebeast.editorial&amp;referrer=utm_source%3Dhypebeast%26utm_medium%3Dweb%26utm_campaign%3Dapp_page" ga-on="click" ga-event-category="newsletter/ app popup" ga-event-action="clicks_app" ga-event-label="https://play.google.com/store/apps/details?id=com.hypebeast.editorial&amp;referrer=utm_source%3Dhypebeast%26utm_medium%3Dweb%26utm_campaign%3Dapp_page">
-                                    <img src="https://static.hypebeast.com/images/app/google-play@2x.png?omco88k1">
+                                    <img src="https://static.hypebeast.com/images/app/google-play@2x.png?z8r15msv">
                                 </a>
                             </div>
                         </div>
@@ -730,7 +679,7 @@
     </div>
 </div>
 
-    
+            
         
 <div id="ad-blocker-popup" class="impression-tracker" ga-impression-event-category="ad block message" ga-impression-event-action="impressions_adblockmessage" ga-impression-event-label="#">
     <div class="ad-blocker-container">
@@ -738,11 +687,11 @@
             <header>
                 <div class="spacer"></div>
                 <div class="logo-container">
-                    <img class="logo" src="https://static.hypebeast.com/images/hypebeast2018/hypebeast-logo.svg?omco88k1" alt="HYPEBEAST">
+                    <img class="logo" src="https://static.hypebeast.com/images/hypebeast2018/hypebeast-logo.svg?z8r15msv" alt="HYPEBEAST">
                 </div>
                 <div class="close-btn-container">
                     <button class="btn btn-link" ga-on="click" ga-event-category="ad block message" ga-event-action="clicks_x" ga-event-label="#">
-                        <img src="https://static.hypebeast.com/images/hypebeast/icons/close_white@2x.png?omco88k1" alt="close">
+                        <img src="https://static.hypebeast.com/images/hypebeast/icons/close_white@2x.png?z8r15msv" alt="close">
                     </button>
                 </div>
             </header>
@@ -770,10 +719,10 @@
             
     <div data-adunit="Hypebeast_ROS_Background" class="adunit background" data-targeting="{&quot;HBSiteLoc&quot;:[&quot;category&quot;,&quot;ros&quot;],&quot;HBSiteCat&quot;:&quot;all&quot;,&quot;HBSitePage&quot;:&quot;0&quot;,&quot;HBSiteLang&quot;:&quot;en&quot;,&quot;country&quot;:&quot;us&quot;,&quot;region&quot;:&quot;amer&quot;}" data-outofpage="true">
     </div>
-                                           <script type="application/javascript" src="https://static.hypebeast.com/dist/scripts/commons.js?omco88k1"></script>
-    <script type="application/javascript" src="https://static.hypebeast.com/dist/scripts/main.js?omco88k1"></script>
+                                           <script type="application/javascript" src="https://static.hypebeast.com/dist/scripts/commons.js?z8r15msv"></script>
+    <script type="application/javascript" src="https://static.hypebeast.com/dist/scripts/main.js?z8r15msv"></script>
 
-    <script type="application/javascript" src="https://static.hypebeast.com/dist/scripts/hypebeast/main.js?omco88k1"></script>
+    <script type="application/javascript" src="https://static.hypebeast.com/dist/scripts/hypebeast/main.js?z8r15msv"></script>
 
 
 
