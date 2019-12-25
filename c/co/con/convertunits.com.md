@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630040827id_/https%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225103606id_/https%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,10 @@ Advertisements on the Website are served by third-parties, including advertisers
   * YourOnlineChoices: <http://youronlinechoices.com/>
 
 
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking here.
+
+When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking here.
 
 Ads displayed by Google may include their system of "interest based targeting" using DoubleClick DART cookies. These ads may take into account your previous browsing history, but they will not track any personally identifiable information. You can read more about their policies at the [Google Privacy Center](http://www.google.com/privacy/ads/).
 
