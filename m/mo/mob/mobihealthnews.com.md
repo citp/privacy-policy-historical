@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530072718id_/https%3A//www.mobihealthnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225040026id_/https%3A//www.mobihealthnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for MobiHealthNews and HIMSS Media | MobiHealthNews
 
@@ -57,7 +57,6 @@ By accessing a webinar or white paper content asset, you agree to your contact i
 
 **Disclaimer**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. Your use of our website indicates to us that you have read and accepted our privacy policy. This policy is subject to change. We will change the date on this page noting when the policy was last updated. If you have questions or comments on this privacy policy, we would like to hear them. Please email us at [news@mobihealthnews.com](mailto:news@mobihealthnews.com)
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. Your use of our website indicates to us that you have read and accepted our privacy policy. This policy is subject to change. We will change the date on this page noting when the policy was last updated. If you have questions or comments on this privacy policy, we would like to hear them. Please email us at [Stephen.Wellman@himssmedia.com](mailto:Stephen.Wellman@himssmedia.com).
 
-Updated: May 24, 2018  
- 
+Updated: May 24, 2018
