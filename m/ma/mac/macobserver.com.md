@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macobserver.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518235208id_/https%3A//www.macobserver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macobserver.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225093734id_/https%3A//www.macobserver.com/privacy) for the most accurate reproduction.*
 
 # TMO Privacy Policy - The Mac Observer
 
@@ -50,29 +50,29 @@ If you have an account on this site, or have left comments, you can request to r
 
 Visitor comments may be checked through an automated spam detection service.
 
-##  **Registration Information**
+## **Registration Information**
 
 Our site’s registration forms may require users to give us contact information (like their name and email address). The customer’s contact information is used solely by The Mac Observer, Inc. to contact the visitor when necessary. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specifically requested purposes such as receiving our e-mail newsletters or being notified if they have won one of our contests. Each e-mail newsletter always contains instructions on how to unsubscribe from the newsletter. We do not sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or contest submission unless specifically noted during the submission process. This information is used to better understand visitors’ use of our sites and to support related transactions made on the site.
 
-##  **Third party links**
+## **Third party links**
 
 In an attempt to provide increased value to our visitors, our sites provide links to various third party web sites from our own site. However, even if the third party is affiliated with The Mac Observer, Inc., The Mac Observer, Inc. has no control over these linked sites who each have separate privacy and data collection practices, independent of The Mac Observer, Inc.. The Mac Observer, Inc. has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, The Mac Observer, Inc. seeks to protect the integrity of its web site and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work).
 
-##  **Online Surveys**
+## **Online Surveys**
 
 Our online surveys ask visitors for contact information (including, but not limited to, their email address) and demographic information (including, but not limited to, their zip code, age, or income level). The user’s contact information is used to contact the visitor when necessary. Users may cancel future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
-##  **Site Advertisers**
+## **Site Advertisers**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
 Additionally, these ads may contain cookies. While we use cookies in other parts of our Web site, cookies received from banner ads are collected by our ad partner companies, and we do not necessarily have access to this information.
 
-##  **Public Forums**
+## **Public Forums**
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-##  **Security**
+## **Security**
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
@@ -80,5 +80,5 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-[Privacy Info](mailto:privacy@macobserver.com)  
+[Privacy Info](https://www.macobserver.com/cdn-cgi/l/email-protection#6010120916010319200d01030f021305121605124e030f0d)  
 The Mac Observer, Inc.
