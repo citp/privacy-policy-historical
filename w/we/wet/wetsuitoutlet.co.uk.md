@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wetsuitoutlet.co.uk privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508033514id_/https%3A//www.wetsuitoutlet.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetsuitoutlet.co.uk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225051627id_/https%3A//www.wetsuitoutlet.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Wetsuit Outlet - Privacy
 
 _Wetsuit Outlet are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and General Data Protection Regulations 2018). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future._
 
-_Last updated 24th May 2018_
+_Last updated 31st May 2019_
 
 * * *
 
@@ -16,7 +16,7 @@ The type of information we will collect about you when you place an order or reg
 \- Email address  
 \- IP Address 
 
-This information is already stored on our internal systems and our website simply verifies you as a customer of Wetsuit Outlet. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting your account or emailing us. If you find any inaccuracies, we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, you should email us at [info@wetsuitoutlet.co.uk](mailto:info@wetsuitoutlet.co.uk). 
+This information is already stored on our internal systems and our website simply verifies you as a customer of Wetsuit Outlet. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting your account or emailing us. If you find any inaccuracies, we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not sell your information. We will only transfer your information to complete your order (e.g. 3rd party payment processiong) or may use technology to track the patterns of behaviour of visitors to our site using selected third party technology providers. If you have any questions/comments about privacy, you should email us at [info@wetsuitoutlet.co.uk](mailto:info@wetsuitoutlet.co.uk). 
 
 ## Use of personal information
 
@@ -29,6 +29,8 @@ We use the information you provide for the following purposes:
 \- To perform other general marketing and promotional activities focused on our products and services 
 
 When you place an order, we need to know your name, email address, and delivery address. This allows us to process and fulfill your order and to notify you of the status of your request. We may also ask for your telephone number, which enables us to contact you urgently if there is a problem with your order. 
+
+In order to be able to offer you Klarna's payment options, we will pass to Klarna certain personal information, such as contact and order details, in order for Klarna to assess whether you qualify for their payment options and to tailor the payment options for you. General information on Klarna can be found [here](https://www.klarna.com/uk). Your personal data is handled in accordance with applicable data protection law and in accordance with the information in Klarnas [privacy statement](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy). 
 
 ## Your Consent
 
@@ -62,7 +64,7 @@ Wetsuit Outlet may from time to time share your details with third party analyti
 
 ## Social Media Plug-ins
 
-Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes. This included the ability to track an audience across device for advertising purposes in line with the Terms of each social media platform. 
+Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes. This includes the ability to track an audience across device for advertising purposes in line with the Terms of each social media platform. 
 
 ## International Privacy
 
@@ -78,4 +80,4 @@ The above privacy statement may not be applicable in all countries of Wetsuit Ou
 
 ## Disclosures
 
-We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by [clicking here](https://www.wetsuitoutlet.co.uk/contact_us.php). If you have any queries about our Privacy Statement you should contact us by e-mail [info@wetsuitoutlet.co.uk](mailto:info@wetsuitoutlet.co.uk). 
+You can also email us to stop receiving any information about us and our services by [clicking here](https://www.wetsuitoutlet.co.uk/contact_us.php). If you have any queries about our Privacy Statement you should contact us by e-mail [info@wetsuitoutlet.co.uk](mailto:info@wetsuitoutlet.co.uk). 
