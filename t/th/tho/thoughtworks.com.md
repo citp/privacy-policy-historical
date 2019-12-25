@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the thoughtworks.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330043122id_/https%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtworks.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225071225id_/https%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThoughtWorks
 
 ## **ThoughtWorks Privacy Policy**
 
-This Privacy Policy discloses how we gather, use and protect your personal data. 
+This Privacy Policy discloses how we gather, use and protect your personal data.
 
-This Privacy Policy applies to personal data collected by ThoughtWorks® through its website www.thoughtworks.com or, as described below, by other means during the course of its business. 
+This Privacy Policy applies to personal data collected by ThoughtWorks® through its website www.thoughtworks.com or, as described below, by other means during the course of its business.
 
-### **1\. Controller**
+###  **1\. Controller**
 
 Responsible data controller in the meaning of Art. 4 No. 7 GDPR is:
 
-ThoughtWorks, Inc., 200 E Randolph St, 25th Floor, Chicago, Illinois 60601, USA; Phone: +1312 373 1000; E-Mail: info-us@thoughtworks.com; Website: [www.thoughtworks.com](https://www.thoughtworks.com/)
+ThoughtWorks, Inc., 200 E Randolph St, 25th Floor, Chicago, Illinois 60601, USA; Phone: +1312 373 1000; E-Mail: info-us@thoughtworks.com; Website: [www.thoughtworks.com](https://www.thoughtworks.com/)
 
 You can contact the data protection officer via email at: **privacyofficer@thoughtworks.com**
 
 ###  **2\. General Information**
 
-During the course of carrying out our business and performing our services, ThoughtWorks collects personal data to conduct our business, provide and market our services, and meet our legal obligations. Likewise, we may also collect personal data for other purposes, which we would describe in more detail to you at the point we collect the personal data. 
+During the course of carrying out our business and performing our services, ThoughtWorks collects personal data to conduct our business, provide and market our services, and meet our legal obligations. Likewise, we may also collect personal data for other purposes, which we would describe in more detail to you at the point we collect the personal data.
 
-You may refuse to provide us with some or all of your personal data; however, this may limit the ways in which we can interact with you, including providing you with our services. 
+You may refuse to provide us with some or all of your personal data; however, this may limit the ways in which we can interact with you, including providing you with our services.
 
-### **3\. Logfiles**
+###  **3\. Logfiles**
 
 We collect personal data through our internet access logs. When you access our website, your internet address is automatically collected and is placed in our internet access logs (i.e., log files on server). We also record the URLs of the websites and pages you visit, the times and dates of such visits, information about the computer hardware and software you use.
 
@@ -147,21 +147,7 @@ Amazon CloudFront is a web service of Amazon Web Services, Inc., P.O. Box 81226,
 
 CloudFront captures information about each request that includes system logs which captures the following information: IP address, lat/long of the server which served the request, country and date and time. More information about AWS's privacy practices can be found at <https://aws.amazon.com/privacy/>.
 
-####  _12.3 Crazy Egg_
-
-This website uses from time to time the web analytics service of Crazy Egg, Inc., 16220 E. Ridgeview Lane, La Mirada, CA 90638 – USA, [www.crazyegg.com](https://www.crazyegg.com/) (“Crazy Egg”) in order to better understand the usage patterns of our customers and continually improve our website performance. 
-
-With this tool, the usage behavior of visitors to this website is analyzed on the basis of a cookie. The data collected will be stored anonymously and aggregated in statistics. 
-
-The data collection can always be deactivated by disabling the use of cookies in your browser settings. More about the privacy policy of Crazy Egg can be found at <https://www.crazyegg.com/privacy>, and you always have the possibility to opt out of the use of cookies related to Crazy Egg using the following link - [www.crazyegg.com/opt-out](https://www.crazyegg.com/opt-out).
-
-You can completely prevent the use of the service with add-ons for your browser, for example with the script blocker "NoScript" (<https://noscript.net/getit>).
-
-####  _12.4 dataxu_
-
-The website uses services provided by dataxu, inc. , 281 Summer Street, 4th FLR Boston, MA 02210, [www.dataxu.com ](https://www.dataxu.com/)(“dataxu”) which gathers statistical data on the use of web offers in order to optimize advertising. For this purpose, dataxu collects and analyzes anonymized browser data via cookies. dataxu collects no personal data which can be used to identify you, and further information on data use and the privacy practices of dataxu can be found at <https://www.dataxu.com/about-us/privacy/>
-
-####  _12.5 Disqus_
+####  _12.3 Disqus_
 
 Disqus is an online service provider of Disqus, Inc, 301 Howard St, San Francisco, CA 94105, USA, <https://disqus.com/> (“Disqus“), which provides a centralized discussion platform for websites. In our online services, we have integrated Disqus plugins that allow website visitors to post comments on our websites and link comments across multiple sites (including third party websites).
 
@@ -173,15 +159,15 @@ If you want to block the transmission and storage of your data and your behaviou
 
 To post a comment on our website (using a Disqus plug-in), you must log into your Disqus account. When you post a comment on the website, Disqus collects information about your visit to our website and other websites, including the information you post and your IP address. Your comment will be sent directly to the Disqus servers through an iframe.
 
-For more information about Disqus, visit [https://help.disqus.com/customer/portal/articles/466187](https://web.archive.org/web/20190330043122id_/https%3A//www.thoughtworks.com/visit%20https://help.disqus.com/customer/portal/articles/466187) and for more information about the Disqus privacy policy visit <https://help.disqus.com/customer/portal/articles/466259-privacy>.
+For more information about Disqus, visit [https://help.disqus.com/customer/portal/articles/466187](https://web.archive.org/web/20191225071225id_/https%3A//www.thoughtworks.com/visit%20https://help.disqus.com/customer/portal/articles/466187) and for more information about the Disqus privacy policy visit <https://help.disqus.com/customer/portal/articles/466259-privacy>.
 
-####  _12.6 Facebook conversion pixels_
+####  _12.4 Facebook conversion pixels_
 
 We use the “Custom Audience pixel” of Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”) on our website. With its help, we can keep track of what users do after they see or click on a Facebook advertisement. This enables us to monitor the effectiveness of Facebook ads for purposes of statistics and market research. Data collected in this way is anonymous to us, which means we cannot see the personal data of individual users. However, this data is saved and processed by Facebook. Facebook can connect this data with your Facebook account and use it for its own advertising purposes, in accordance with Facebook’s Data Policy which can be found at <https://www.facebook.com/about/privacy/>. You can allow Facebook and its partners to place ads on and outside of Facebook. A cookie can also be saved on your device for these purposes.
 
 Please click here if you would like to withdraw your consent <https://www.facebook.com/settings/?tab=ads#_=_>
 
-####  _12.7 Google Analytics_
+####  _12.5 Google Analytics_
 
 Our website uses Google Analytics, a web analysis service of Google, Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, [www.google.com](https://www.google.com/) (“Google Analytics” or “Google”). Google Analytics employs cookies that are stored to your computer in order to facilitate an analysis of your use of the site. The information generated by these cookies, such as time, place and frequency of your visits to our site, including your IP address, is transmitted to Google’s location in the US and stored there. 
 
@@ -197,7 +183,7 @@ You can find additional information on how to install the browser add-on referen
 
 For the cases in which personal data is transferred to the US, Google has self-certified pursuant to the EU-US Privacy Shield (<https://www.privacyshield.gov/EU-US-Framework)>. 
 
-#### _12.8 Google Tag Manager (GTM)_
+#### _12.6 Google Tag Manager (GTM)_
 
 Google Tag Manager (GTM”) is a tag management system to manage JavaScript and HTML tags used for tracking and analytics on websites. Tags are small code elements that, among other things, are used to measure traffic and visitor behaviour: to understand the effect of online advertising and social channels; to set up remarketing and orientation towards target groups; and to test and optimize websites. GTM makes it easier for us to integrate and manage our tags. We use GTM on our website to include the following tracking tools (as in described in detail this Section 12):
 
@@ -207,15 +193,41 @@ Google Tag Manager (GTM”) is a tag management system to manage JavaScript and 
 
 ● Facebook Conversion Pixels
 
-● dataxu
-
 ● Twitter tailored audience
-
-● Crazy Egg
 
 If you have performed deactivation, GTM takes this deactivation into account. For more information about GTM’s privacy practices can be found at <https://policies.google.com/privacy?hl=en> and terms of use at <https://www.google.com/analytics/tag-manager/use-policy/>.
 
-####  _12.9 Marketo Munchkin_
+ **12.7 Greenhouse Tracking Links**
+
+When a job application is submitted through our Greenhouse forms, we capture certain pieces of information (see Section 6 for details). In some marketing campaigns, we use ‘Greenhouse Tracking Links,’ which are URL parameters attached to inbound links to our job posts. When a job application is submitted, Greenhouse captures this parameter and is able to determine which advertising or promotional channel directed you to that job posting. This enables ThoughtWorks to gauge which channels are most effective.
+
+ **12.8 Libsyn**
+
+Libsyn <https://libsyn.com/> is an audio hosting service and publishing tool. 
+
+5001 Baum Blvd., Suite 770, Pittsburgh, PA 15213
+
+We use Libsyn to host our external-facing podcasts on Apple Podcasts, Spotify, Google Play and other platforms. We also embed a Libsyn-generated web player onto our podcast landing pages. 
+
+Ready more on Libsyn’s privacy policy here: <https://libsyn.com/privacy-policy/>[ ](https://libsyn.com/privacy-policy/)
+
+ **12.9 LinkedIn Insight Tags**
+
+We use the “LinkedIn Insight Tag” of LinkedIn Corporation, 1000 W Maude Ave, Sunnyvale, CA 94085, USA (“LinkedIn”) on our website. It helps us with in-depth campaign reporting and insights about our website visitors. It can also be used to track conversions, retarget website visitors, and unlock additional insights about members interacting with our ads on LinkedIn.
+
+The LinkedIn Insight Tag enables the collection of data regarding members’ visits to our website, including the URL, referrer, IP address, device and browser characteristics (User Agent), and timestamp. This data is encrypted, the IP addresses are truncated, and members’ direct identifiers are removed within seven days in order to make the data pseudonymous. This remaining, pseudonymized data is then deleted within 90 days.
+
+LinkedIn does not share personal data with us, it only provides aggregated reports about the website audience and ad performance. LinkedIn also provides retargeting for website visitors, enabling us to show personalized ads off our website by using this data, but without identifying the member. LinkedIn members can control the use of their personal data for advertising purposes through their account settings. 
+
+All this in accordance with LinkedIn [terms](https://www.linkedin.com/legal/sas-terms#additional-terms-for-optional-conversion-tracking) and [cookie policies.](https://www.linkedin.com/legal/cookie-policy)
+
+ **12.10 LinkedIn SlideShare**
+
+LinkedIn SlideShare is a Web 2.0–based slide hosting service of LinkedIn Corporation, 1000 W. Maude Avenue, Sunnyvale, CA 94085 USA, [www.linkedin.com](https://www.linkedin.com/). Users can upload files privately or publicly in the following file formats: PowerPoint, PDF, or OpenDocument presentations. Slide decks can then be viewed on the site itself, on hand held devices or embedded on other sites. Our website uses the plugins offered by LinkedIn Slideshare to primarily share presentations and PDFs.
+
+Regarding the use of LinkedIn Slideshare’s plugins (and all plugins offered by LinkedIn products) see the LinkedIn Slideshare’s Privacy Policy stating: “We log usage data when you visit or otherwise use our Services, including our sites, app and platform technology (e.g., our off-site plugins), such as when you view or click on content (e.g., learning video) or ads (on or off our sites and apps), perform a search, install or update one of our mobile apps, share articles or apply for jobs. We use log-ins, cookies, device information and internet protocol (“IP”) addresses to identify you and log your use.” More information about LinkedIn's privacy practices can be read at [https://www.linkedin.com/legal/privacy-policy.](https://www.linkedin.com/legal/privacy-policy)
+
+####  _12.11 Marketo Munchkin_
 
 We use third party marketing software from Marketo to send our emails. This is a service provided by Marketo, Inc., 901 Mariners Island Boulevard, Suite 500, San Mateo, CA 94404 USA, [www.marketo.com](https://www.marketo.com/) (“Marketo”). We use Marketo cookies as part of tracking so we have information on email open rates and click through rate as well as tracking activity on the website. For registered users (see Section 5), this data may be linked to your user profile.
 
@@ -239,15 +251,26 @@ When on a page, Munchkin automatically gathers the following information:
 
 ● Our cookie ID.
 
-If you prefer that we do not place this cookie on your web browser you may opt out by clicking the Do Not Track (DNT) feature in your browser. This prevents tracking for your particular browser and device. 
+If you prefer that we do not place this cookie on your web browser you may opt out by clicking the Do Not Track (DNT) feature in your browser. This prevents tracking for your particular browser and device.
 
-#### _12.10 LinkedIn Slideshare_
+ **12.12 Salesforce**
 
-LinkedIn SlideShare is a Web 2.0–based slide hosting service of LinkedIn Corporation, 1000 W. Maude Avenue, Sunnyvale, CA 94085 USA, [www.linkedin.com](https://www.linkedin.com/). Users can upload files privately or publicly in the following file formats: PowerPoint, PDF, or OpenDocument presentations. Slide decks can then be viewed on the site itself, on hand held devices or embedded on other sites. Our website uses the plugins offered by LinkedIn Slideshare to primarily share presentations and PDFs.
+Salesforce.com, Inc. (usually abbreviated as SF or SFDC) is an American cloud-based software company headquartered in San Francisco, California. Salesforce is the primary enterprise offering within the Salesforce platform. It provides companies with an interface for case management and task management, and a system for automatically routing and escalating important events. The Salesforce customer portal provides customers the ability to track their own cases, includes a social networking plug-in that enables the user to join the conversation about their company on social networking Web sites, provides analytical tools and other services including email alert, Google search, and access to customers' entitlement and contracts.
 
-Regarding the use of LinkedIn Slideshare’s plugins (and all plugins offered by LinkedIn products) see the LinkedIn Slideshare’s Privacy Policy stating: “We log usage data when you visit or otherwise use our Services, including our sites, app and platform technology (e.g., our off-site plugins), such as when you view or click on content (e.g., learning video) or ads (on or off our sites and apps), perform a search, install or update one of our mobile apps, share articles or apply for jobs. We use log-ins, cookies, device information and internet protocol (“IP”) addresses to identify you and log your use.”  More information about LinkedIn's privacy practices can be read at <https://www.linkedin.com/legal/privacy-policy>.
+For our marketing purposes, the personal data which is stored in Marketo is passed over to Salesforce, where it is viewed and managed by our sales team.
 
-####  _12.11 SoundCloud_
+More information about 
+
+Salesforce’s privacy practices can be read at [https://www.salesforce.com/in/company/privacy/.](https://www.salesforce.com/in/company/privacy/)
+
+ **12.13 Siftrock**
+
+Siftrock is a Drift.com company, with headquarters at 625 1st Avenue Suite 300 Seattle, WA 98104 United States. The Company manages and mines marketing email replies to improve database hygiene and deliverability, as well as renders email reply management for marketing automation.
+
+Siftrock enables us to parse the direct emails received by our marketing team, and update the information of the sender in Marketo and Salesforce. Details about Siftrock's policy for collecting and processing the user information can be found at <https://siftrock.com/about/privacy/>[ ](https://siftrock.com/about/privacy/)
+
+ _12.14 SoundCloud_  
+
 
 SoundCloud is an online audio distribution platform provided by SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin, Germany, c/o JAG Shaw Baker, Berners House, 47-48 Berners Street, London W1T 3NF, UK; [www.soundcloud.com](https://www.soundcloud.com/), (“SoundCloud”). SoundCloud enables its users to upload, record, promote and share their originally-created sounds. On our website we use SoundCloud to share podcasts in posts, and use SoundCloud plugins on our website. When you visit our website, a connection is established with the SoundCloud servers and the plugin is shown. This provides the SoundCloud server with information about the sites you have visited on our website. If you are logged onto SoundCloud as a member, then SoundCloud may automatically assign this information to your personal user account. When you activate the plugin (e.g., by clicking the start button of an audio file), the corresponding information is also assigned to your user account. You can prevent the automatic assignment of this information by logging out of your SoundCloud account and deleting its respective cookies before logging onto our website.
 
@@ -263,7 +286,7 @@ User interaction with the embedded player includes the following functionality:
 
 However, all the information will be at an aggregated level and specificity is abstracted out. More information about SoundCloud’s privacy practices can be found at <https://soundcloud.com/pages/privacy>.
 
-####  _12.12 SumoLogic_
+####  _12.15 SumoLogic_
 
 Sumo Logic is a cloud-based log management and analytics service of Sumo Logic, Inc., 305 Main Street, Redwood City, CA 94063, USA, [www.sumologic.com](https://www.sumologic.com/) (“Sumo Logic”) that leverages machine-generated big data to deliver real-time IT insights. Sumo Logic uses a piece of software called an “Installed Collector”. An Installed Collector is a Java agent that receives logs and metrics from its sources and then encrypts, compresses, and sends the data to the Sumo service. As its name implies, an Installed Collector is installed in your environment, as opposed to a Hosted Collector, which resides on the Sumo service. After installing an Installed Collector, you add sources, to which the Installed Collector connects to obtain data to send to the Sumo service.
 
@@ -281,17 +304,17 @@ A Sumo source is an object, configured for a specific collector that scans a par
 
 The above information is used by developers on ThoughtWorks’ digital team for debugging/monitoring purposes. Sumo Logic’s privacy policy can be found at <https://www.sumologic.com/privacy-statement/>.
 
-####  _12.13 Twitter tailored audience_
+####  _12.16 Twitter tailored audience_
 
 Tailored audiences is the tool of Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA, [www.twitter.com](https://www.twitter.com/) (“Twitter”), used to target existing users and customers to create remarketing campaigns. Targeting activity can include directly reaching out to users or visitors to the ThoughtWorks website and campaign pages and/or retargeting previous customer lists. Twitter sets a minimum size limit for a tailored audience to 500 users. If the tailored audience does not match 500 Twitter users, it will display as "audience too small" and will not be available for targeting. Details about Twitter’s policies for conversion tracking and tailored audiences can be found at <https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html>.
 
-####  _12.14 Urchin Tracking Module (UTM)_
+####  _12.17 Urchin Tracking Module (UTM)_
 
 UTM tags are not tools. UTM works as a custom URL for marketing campaigns and reports can be viewed in platforms like Google Analytics. UTM tags are appended as part of the visible URL in marketing programs to understand the specific instance of a link. UTM tag reports are observed in Google Analytics/Marketo (see Sections 12.7 and 12.9) for understanding visitors to our website – for example, if they have visited the website, clicked on a link or signed up to a conference/event. These details are collected at an aggregated level. Customizing the URL with UTM tags allows us to better understand the marketing activity, which then allows us to better serve our audience.
 
 The tracking occurs via the UTM parameters that are appended in the URL. When a user clicks an UTM tagged URL, based on the parameters set, we will be able to track from which end source the user has interacted with that URL. 
 
-#### _12.15 Wistia/Tencent_
+#### _12.18 Wistia/Tencent_
 
 Wistia provides software for creating, managing, and sharing videos for business with a customizable player and detailed analytics. Our website uses Wistia, provided by Wistia, Inc., 17 Tudor Street, Cambridge, MA 02139, USA, [www.wistia.com](https://www.wistia.com/) (“Wistia”) to host videos. Wistia includes features such as an integrated CDN (content delivery network) for faster loading, and improved quality control depending on the device type and internet speed of the user. It also features the ability to add subtitles for better clarity of the video content. Whenever you interact with any videos on our website, Wistia automatically receives and records information on its server logs from your browser including your IP address, cookie information, and the page you requested. 
 
@@ -327,17 +350,27 @@ As soon as the purpose for data storage is achieved, or the appropriate term of 
 
 ###  **15\. Your rights as data subject**
 
-You have the following rights: 
+You have the following rights:
 
-● Right of access;
+● Right of access (Art. 15 GDPR)
 
-● Right to rectification or erasure;
+In principle, you have the right to receive information on the points mentioned in Art. 15 GDPR. You also have the right to request a copy of your personal data in accordance with Art. 15 (3) GDPR.
 
-● Right to restriction of processing;
+● Right to rectification or erasure (Art. 16 and 17 GDPR)
 
-● Right to object;
+You have the right to have incorrect personal data corrected. In addition, you have the right to demand that your personal data is deleted if further processing is no longer necessary, if processing is unlawful or if you have withdrawn your consent.
 
-● Right to data portability.
+● Right to restriction of processing (Art. 18 GDPR)
+
+If the conditions in Art. 18 GDPR are met, you have the right to have the processing of your personal data restricted, i.e. to prevent further processing for the time being.
+
+● Right to object (Art. 21 GDPR)
+
+If the processing of your personal data is based on Art. 6 (1)e or f GDPR, you have the right to object to the processing if the further requirements of Art. 21 GDPR are met.
+
+● Right to data portability (Art. 20 GDPR)
+
+Within the limits of Art. 20 GDPR, you have the right to receive your personal data in a machine-readable format in order to forward it or have it forwarded to another controller.
 
 You can require this by sending us an email at privacyofficer@thoughtworks.com.
 
