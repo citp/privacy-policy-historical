@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204012350id_/https%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225012107id_/http%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Episerver
+# Privacy statement | Episerver
 
 Episerver takes your privacy seriously and is committed to protecting your privacy rights. We want you to know why we collect your personal information, what we collect, how we use it, and for how long we store it. We also want you to know how you can access, amend, correct, and in some cases delete your information.
 
 This is a high-level overview of our privacy policy. Please scroll down read the full privacy policy.
 
-## Who we are
+### Who we are
 
 When we speak of Episerver, we mean the Episerver group of companies which currently comprises the following legal entities:
 
@@ -14,7 +14,7 @@ Episerver AB, Episerver Inc., Episerver GmbH, Episerver UK Ltd., Episerver Resea
 
 Episerver has achieved Privacy Shield certification. To learn more about the Privacy Shield program, please visit <https://www.privacyshield.gov/>.
 
-## Why we collect information
+### Why we collect information
 
   * We collect personal information when you request our content marketing assets, in order to provide useful content and follow up on its effectiveness for marketing purposes.
   * We collect information when you contact us to respond to your request, question, or issue, and to follow up on the resolution.
@@ -25,7 +25,7 @@ Episerver has achieved Privacy Shield certification. To learn more about the Pri
 
 Read more about why we collect information 
 
-## What we collect
+### What we collect
 
   * We collect name, email, phone, address, job title, company, and if you use Episerver products or services and what those are.
   * We may collect other data you have provided while contacting us, especially using the contact, download, or signup forms on our website.
@@ -40,7 +40,7 @@ Read more about the information we collect when you fill out a form on our websi
 
 Read more about the information we collect if you attend an event or contact us at an industry event
 
-## How we use information
+### How we use information
 
   * _We never sell or rent your personal information to third parties._ If you have given us your express permission, we may share your personal information to select partners that you decide. (Non-EU: We may share your personal information to select partners. We always make clear when we share that information.)
   * If you have requested a marketing asset or have participated in a marketing event, we use your personal information to follow up on the effectiveness of the marketing activity.
@@ -53,7 +53,7 @@ Read more about the information we collect if you attend an event or contact us 
 
 Read more about how we share information with data processors; vendors that act on our behalf
 
-## How long we keep information
+### How long we keep information
 
   * We keep your information only for as long as it is warranted from to fulfill our commitments to you, or to adhere to legal or regulatory requirements.
   * If you are a customer or partner, we keep the information for the duration of our relationship. Certain information may be kept for longer though, for instance contracts will be archived even when terminated.
@@ -64,7 +64,7 @@ Read more about how we share information with data processors; vendors that act 
 
 Read more about how long we keep your information
 
-## Digital Experience Cloud and other products and services
+### Digital Experience Cloud and other products and services
 
   * We provide software and services to our customers. This software and these services allows our customers to build websites, ecommerce sites, and manage marketing campaigns, and it may be used to collect personal information.
   * In these cases, it is our customers that control the processing of personal information, and we act on their behalf as a processor.
@@ -74,7 +74,7 @@ Read more about how long we keep your information
 
 Read more about Digital Experience Cloud and other products and services
 
-## Your choices and rights
+### Your choices and rights
 
   * You can choose to opt out of marketing communications at any time, regardless if you are a customer, partner, or none of the above.
   * You can request a copy of your personal information and you can update any incorrect information. (EU only.)
@@ -86,7 +86,7 @@ Read more about Digital Experience Cloud and other products and services
 
 
 
-## How to contact us
+### How to contact us
 
 Episerver AB  
 c/o Legal Department  
@@ -94,7 +94,7 @@ Box 7007
 103 86 Stockholm  
 Sweden
 
-## Information for individuals not based in the EU
+### Information for individuals not based in the EU
 
   * Generally, the same terms apply for you as for individuals based in the European Union.
   * Some provisions regarding your rights to access, delete, or limit the processing of data may be different.
@@ -104,6 +104,8 @@ Sweden
 
 
 Read more about what applies to you as an individual not based in the EU.
+
+## Complete privacy policy
 
 ## Who we are
 
@@ -277,7 +279,7 @@ With regards to the Digital Experience Cloud and other products and services we 
 
 
 
-### **Your choices and rights**
+### Your choices and rights
 
   * You can choose to opt out of marketing communications at any time, regardless if you are a customer, partner, or none of the above.
   * If you are an individual based in the EU you can request a copy of your personal information and you can update any incorrect information.
@@ -285,7 +287,7 @@ With regards to the Digital Experience Cloud and other products and services we 
 
 
   * **How you can opt out of marketing**
-    * If you don’t want to receive marketing communications from us, you can at any time use the “Unsubscribe” link present in all marketing emails from us, or go to our [unsubscribe page](https://web.archive.org/actions/unsubscribe/).
+    * If you don’t want to receive marketing communications from us, you can at any time use the “Unsubscribe” link present in all marketing emails from us, or go to our [unsubscribe page](https://web.archive.org/unsubscribe/).
     * Please note that opting out of email marketing typically doesn’t mean that you won’t see ads from us – please see the section below on how you can opt out of web tracking, although it doesn’t mean that you will opt out of ads altogether.
 
 
@@ -333,8 +335,6 @@ Stockholm
 E-mail: [datainspektionen@datainspektionen.se](mailto:datainspektionen@datainspektionen.se)
 
 Telephone: +46 8 657 61 00
-
-## How to contact us
 
   * Send email to: [compliance@episerver.com](mailto:compliance@episerver.com).
   * You can contact our Data Protection Officer at [dpo@episerver.com](mailto:dpo@episerver.com).
