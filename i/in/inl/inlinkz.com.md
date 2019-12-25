@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlinkz.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624051029id_/https%3A//fresh.inlinkz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlinkz.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225193018id_/https%3A//fresh.inlinkz.com/privacy) for the most accurate reproduction.*
 
 # InLinkz - Privacy and refund policy
 
@@ -111,7 +111,7 @@ InLinkz Services are not directed to individuals under 16. If we become aware th
 
 ## Refund Policy
 
-In case of extended (paid) subscriptions, if you are not 100% satisfied with your purchase, within 30 days from the purchase date, we will fully refund the cost of your order.
+In case of extended (paid) subscriptions, if you are not 100% satisfied with your purchase, within 30 days from the first purchase date, we will fully refund the cost of your order.
 
 ## Contact Us
 
