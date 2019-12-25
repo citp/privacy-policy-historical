@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyummylife.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317234449id_/https%3A//www.theyummylife.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyummylife.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225040628id_/https%3A//www.theyummylife.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TheYummyLife.com
 
