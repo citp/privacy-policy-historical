@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311232403id_/https%3A//www.loqate.com/en-gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225011959id_/https%3A//www.loqate.com/en-gb/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Loqate, a GBG solution
 
@@ -6,7 +6,7 @@
 
 GB Group Plc (‘GBG’) take the protection and security of your personal information very seriously and this policy sets out our responsibilities under The General Data Protection Regulation 2016 (‘GDPR’) and other applicable laws in England and Wales relating to the processing and security of personal information.
 
-This policy explains to you how GBG uses and secures your personal information whilst you are using the GBG website [www.loqate.com](http://www.gbgplc.com/) or when you enter into a contract with GBG to provide services to your organisation.
+This policy explains to you how GBG uses and secures your personal information whilst you are using the GBG website [www.loqate.com](https://www.gbgplc.com/) or when you enter into a contract with GBG to provide services to your organisation.
 
 GBG are global specialists in identity intelligence we have customers located in over 70 countries.  GBG uses data under licence to support our customers with their business needs, such as locating people, identity verification, reducing fraud and marketing solutions.
 
@@ -30,7 +30,7 @@ This policy was last updated on 12th June 2018.
 
 ### **What personal information do GBG collect and why?**
 
-**Browsing our website:** When you browse our website [www.loqate.com](http://www.loqate.com/), we will collect the Internet Protocol (IP) address of the PC you are using, this data is anonymous and we cannot identify you at this point. We collect this data so that we can identify where customers are dropping out of the website and to identify areas of improvement to make the experience more engaging for our customers.
+**Browsing our website:** When you browse our website [www.loqate.com](https://www.loqate.com/), we will collect the Internet Protocol (IP) address of the PC you are using, this data is anonymous and we cannot identify you at this point. We collect this data so that we can identify where customers are dropping out of the website and to identify areas of improvement to make the experience more engaging for our customers.
 
 We use Cookies on our website so please see the Cookies section for more information.
 
