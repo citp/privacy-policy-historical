@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podtrac.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428125502id_/https%3A//analytics.podtrac.com/privacy-policy-gdrp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podtrac.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225013349id_/https%3A//analytics.podtrac.com/privacy-policy-gdrp) for the most accurate reproduction.*
 
 # Privacy Policy GDRP - Podtrac
 
