@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginejournal.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624055248id_/https%3A//www.searchenginejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginejournal.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225114439id_/https%3A//www.searchenginejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Journal
 
@@ -84,4 +84,4 @@ Additionally, you may opt-out from use of your personally identifiable informati
 ### Changes
 
 SEJ reserves the right to update this Privacy Policy at any time.  
- _Updated on May 25 2018_
+ _Updated on May 25 2019_
