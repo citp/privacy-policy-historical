@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagearn.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517101332id_/http%3A//imagearn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagearn.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225044049id_/http%3A//imagearn.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Image Earn
 
@@ -136,7 +136,7 @@ The Company may use information that it collects about you or that you provide t
 
 
 
-The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email at [privacy@imagearn.com](mailto:privacy@imagearn.com). For more information, see _**What choices do you have about how the Company uses and discloses your information**_. 
+The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb9b99829d8a8892ab82868a8c8e8a9985c5888486). For more information, see _**What choices do you have about how the Company uses and discloses your information**_. 
 
 The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers’ target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
@@ -187,9 +187,9 @@ When you post information about yourself, the amount of personal information you
 The Company strives to provide you with choices about the personal information you provide to the Company. The Company has created mechanisms to provide you with the following control over your information:
 
   * _**Tracking Technologies and Advertising**_. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s [website](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html). To learn how you can manage your other cookies, visit [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/). If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly. 
-  * _**Disclosure of Your Information for Third-Party Advertising**_. _ ****_ If you do not want the Company to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt out by sending the Company an email stating your request to [privacy@imagearn.com](mailto:privacy@imagearn.com). 
-  * _**Promotional Offers from the Company**_. If you do not want to have your email address used by the Company to promote its own or third parties’ products or services, you can opt out by sending the Company an email stating your request to [privacy@imagearn.com](mailto:privacy@imagearn.com). If the Company has sent you a promotional email, you may send the Company a return email asking to be omitted from future email distributions or click on the “unsubscribe” link at the bottom of the email. This opt out does not apply to information provided to the Company as a result of a purchase or other transactions. 
-  * _**Targeted Advertising**_. If you do not want the Company to use information that it collects or that you provide to it to deliver advertisements according to its advertisers’ target-audience preferences, you can opt out by sending the Company an email stating your request to [privacy@imagearn.com](mailto:privacy@imagearn.com). For this opt out to function, you must have your browser set to accept browser cookies. 
+  * _**Disclosure of Your Information for Third-Party Advertising**_. _ ****_ If you do not want the Company to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt out by sending the Company an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f3f3d26392e2c360f26222e282a2e3d21612c2022). 
+  * _**Promotional Offers from the Company**_. If you do not want to have your email address used by the Company to promote its own or third parties’ products or services, you can opt out by sending the Company an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1666647f6077756f567f7b7771737764783875797b). If the Company has sent you a promotional email, you may send the Company a return email asking to be omitted from future email distributions or click on the “unsubscribe” link at the bottom of the email. This opt out does not apply to information provided to the Company as a result of a purchase or other transactions. 
+  * _**Targeted Advertising**_. If you do not want the Company to use information that it collects or that you provide to it to deliver advertisements according to its advertisers’ target-audience preferences, you can opt out by sending the Company an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6414160d1205071d240d0905030105160a4a070b09). For this opt out to function, you must have your browser set to accept browser cookies. 
 
 
 
@@ -200,7 +200,7 @@ The Company does not control third parties’ collection or use of your informat
 
 
 
-You can review and change your personal information by logging into the Website and visiting your “My Profile” page and clicking “Edit Profile.” You may also send the Company an email at [privacy@imagearn.com](mailto:privacy@imagearn.com) to request access to, correct, or delete any personal information that you have provided to the Company. The Company cannot delete your personal information except by also deleting your account. The Company will not accommodate a request to change information if it believes the change would violate any law or legal requirement or cause the information to be incorrect.
+You can review and change your personal information by logging into the Website and visiting your “My Profile” page and clicking “Edit Profile.” You may also send the Company an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4535372c3324263c052c2824222024372b6b262a28) to request access to, correct, or delete any personal information that you have provided to the Company. The Company cannot delete your personal information except by also deleting your account. The Company will not accommodate a request to change information if it believes the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your user contributions from the Website, copies of your user contributions might remain viewable in cached and archived pages, or might have been copied or stored by other users of the Website. The Website’s terms of use govern proper access and use of information provided on the Website, including user contributions.
 
@@ -234,9 +234,9 @@ Do Not Track (“DNT”) is a privacy preference that you can set in your browse
 
 
 
-California Civil Code § 1798.83 permits users of the Website that are California residents to request certain information about the Company’s disclosure of personal information to third parties for their direct marketing purposes. To make this request, please send an email to [privacy@imagearn.com](mailto:privacy@imagearn.com). 
+California Civil Code § 1798.83 permits users of the Website that are California residents to request certain information about the Company’s disclosure of personal information to third parties for their direct marketing purposes. To make this request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3343415a4552504a735a5e52545652415d1d505c5e). 
 
-Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for marketing purposes, please send an email to [privacy@imagearn.com](mailto:privacy@imagearn.com). Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law. 
+Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for marketing purposes, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0474766d7265677d446d6965636165766a2a676b69). Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law. 
 
   12. **Links to Other Websites**
 
@@ -273,4 +273,4 @@ The Company will post any changes it makes to this policy on this page. If the C
 
 
 
-To ask questions or comment about this policy and the Company’s privacy practices, contact the Company at [privacy@imagearn.com](mailto:privacy@imagearn.com). 
+To ask questions or comment about this policy and the Company’s privacy practices, contact the Company at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80f0f2e9f6e1e3f9c0e9ede1e7e5e1f2eeaee3efed). 
