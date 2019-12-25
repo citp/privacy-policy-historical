@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fullsail.edu privacy policy that was archived on 2019-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624192433id_/https%3A//www.fullsail.edu/policies-and-guidelines/your-privacy-rights) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fullsail.edu privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225111347id_/https%3A//www.fullsail.edu/policies-and-guidelines/your-privacy-rights) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -22,7 +22,6 @@
 <meta property="og:image:type" content="image/jpg">
 <meta property="fb:page_id" content="7513286285">
 <meta property="fb:app_id" content="202914123108562">
-<meta name="google-site-verification" content="uPeq5BF4cwkSeA987H4BMxxkvTZZwtxtUjkHxwtuRss">
 <meta name="y_key" content="6f05bf2addb3d938">
 <meta name="msvalidate.01" content="91BA66FFA31F66EBC0ED9C48E79A0D02">
 
@@ -123,6 +122,7 @@
 
 
 <script src="/assets/js/skeletor.js?v=1.0.1"></script>
+
 
 <script>
     loadCSS("https://fast.fonts.net/cssapi/9ebb529a-e030-4c68-b305-988c19ca2226.css");
@@ -487,73 +487,72 @@
 
 <script>
 
-var fmf = Object();
+var fmf = {};
 
-fmf.get_cookie_obj = function()
-{
-  var cookie_obj = Object();
-  cookie_obj['affiliatecode'] = fmf.get_cookie('AFFILIATECODE');
-  cookie_obj['subid']         = fmf.get_cookie('SUBID');
-  cookie_obj['formid']        = fmf.get_cookie('FORMID');
-  cookie_obj['landingpage']   = fmf.get_cookie('LANDINGPAGE');
-  cookie_obj['utm_content']   = fmf.get_cookie('UTM_CONTENT');
-  cookie_obj['mncid']         = fmf.get_cookie('MNCID');
-  cookie_obj['mnc']           = fmf.get_cookie('MNC');
-  cookie_obj['mnckeyword']    = fmf.get_cookie('MNCKEYWORD');
-  cookie_obj['kw']            = fmf.get_cookie('KW');
-  cookie_obj['programid']     = fmf.get_cookie('PROGRAMID');
-  //cookie_obj['step']        = fmf.get_cookie('STEP');
-  cookie_obj['groupid']       = fmf.get_cookie('GROUPID');
-  cookie_obj['isinlb']        = fmf.get_cookie('ISINLB');
-  cookie_obj['gclid']         = fmf.get_cookie('CLICKID');
-  cookie_obj['msclkid']       = fmf.get_cookie('CLICKID');
-  cookie_obj['nan_pid']       = fmf.get_cookie('CLICKID');
+fmf.get_cookie_obj = function() {
+  var cookie_obj = {};
+  cookie_obj.affiliatecode = fmf.get_cookie("AFFILIATECODE");
+  cookie_obj.subid         = fmf.get_cookie("SUBID");
+  cookie_obj.formid        = fmf.get_cookie("FORMID");
+  cookie_obj.landingpage   = fmf.get_cookie("LANDINGPAGE");
+  cookie_obj.utm_content   = fmf.get_cookie("UTM_CONTENT");
+  cookie_obj.mncid         = fmf.get_cookie("MNCID");
+  cookie_obj.mnc           = fmf.get_cookie("MNC");
+  cookie_obj.mnckeyword    = fmf.get_cookie("MNCKEYWORD");
+  cookie_obj.kw            = fmf.get_cookie("KW");
+  cookie_obj.programid     = fmf.get_cookie("PROGRAMID");
+  //cookie_obj.step        = fmf.get_cookie("STEP");
+  cookie_obj.groupid       = fmf.get_cookie("GROUPID");
+  cookie_obj.isinlb        = fmf.get_cookie("ISINLB");
+  cookie_obj.ct_cl         = fmf.get_cookie("CT_CL");
+  cookie_obj.gclid         = fmf.get_cookie("CLICKID");
+  cookie_obj.msclkid       = fmf.get_cookie("CLICKID");
+  cookie_obj.nan_pid       = fmf.get_cookie("CLICKID");
   return cookie_obj;
 };
 
-fmf.get_cookie = function(cname)
-{
+fmf.get_cookie = function(cname) {
   var name = cname + "=";
-  var ca = document.cookie.split(';');
-  for(var i=0; i<ca.length; i++)
-  {
+  var ca = document.cookie.split(";");
+  for(var i=0; i<ca.length; i++) {
     var c = ca[i];
-    while (c.charAt(0)==' ') c = c.substring(1);
+    while (c.charAt(0)==" ") c = c.substring(1);
     if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
   }
   return "";
-}
+};
 
-fmf.set_cookie = function(cname, cvalue, exdays)
-{
-  var cstr = '';
+fmf.set_cookie = function(cname, cvalue, exdays) {
+  var cstr = "";
   var d = new Date();
   d.setTime(d.getTime() + (exdays*24*60*60*1000));
-  var cdomain = '.fullsail.edu';
+  var cdomain = ".fullsail.edu";
+  if(window.location.hostname.indexOf("fullsail.edu") !== -1) {
+    cdomain = ".fullsail.edu";
+  } else {
+    cdomain = window.location.hostname;
+  }
   cstr = cstr + cname + "=" + cvalue + ";";
   cstr = cstr + "expires=" + d.toUTCString() + ";";
   cstr = cstr + "domain=" + cdomain + ";";
   cstr = cstr + "path=/";
   document.cookie = cstr;
-}
+};
 
-fmf.get_querystring_obj = function()
-{
-  var querystring_obj = Object();
-  var urlquery = unescape(location.search);
+fmf.get_querystring_obj = function() {
+  var querystring_obj = {};
+  var urlquery = decodeURI(window.location.search);
 
-  if(!urlquery)
-  {
+  if(!urlquery) {
     return querystring_obj;
   }
 
   //remove leading ?
   urlquery = urlquery.substring(1);
 
-  var kv_stack = urlquery.split('&');
+  var kv_stack = urlquery.split("&");
 
-  for( var x = 0; x < kv_stack.length; x++)
-  {
+  for( var x = 0; x < kv_stack.length; x++) {
     var kv_item = kv_stack[x].split("=");
     var kv_key = kv_item[0];
     var kv_val = kv_item[1];
@@ -563,317 +562,257 @@ fmf.get_querystring_obj = function()
   }
 
   return querystring_obj;
-}
+};
 
-fmf.get_qstring_obj = function()
-{
+fmf.get_qstring_obj = function() {
   var qs = fmf.get_querystring_obj();
-  var qstring_obj = Object();
-  qstring_obj['affiliatecode'] = (qs['affiliatecode'] ? qs['affiliatecode'] : '');
-  qstring_obj['subid']         = (qs['subid']         ? qs['subid']         : '');
-  qstring_obj['formid']        = (qs['formid']        ? qs['formid']        : '');
-  qstring_obj['landingpage']   = (qs['landingpage']   ? qs['landingpage']   : '');
-  qstring_obj['utm_content']   = (qs['utm_content']   ? qs['utm_content']   : '');
-  qstring_obj['mncid']         = (qs['mncid']         ? qs['mncid']         : '');
-  qstring_obj['mnc']           = (qs['mnc']           ? qs['mnc']           : '');
-  qstring_obj['mnckeyword']    = (qs['mnckeyword']    ? qs['mnckeyword']    : '');
-  qstring_obj['kw']            = (qs['kw']            ? qs['kw']            : '');
-  qstring_obj['programid']     = (qs['programid']     ? qs['programid']     : '');
-  qstring_obj['step']          = (qs['step']          ? qs['step']          : '');
-  qstring_obj['groupid']       = (qs['groupid']       ? qs['groupid']       : '');
-  qstring_obj['isinlb']        = (qs['isinlb']        ? qs['isinlb']        : '');
-  qstring_obj['gclid']         = (qs['gclid']         ? qs['gclid']         : '');
-  qstring_obj['msclkid']       = (qs['msclkid']       ? qs['msclkid']       : '');
-  qstring_obj['nan_pid']       = (qs['nan_pid']       ? qs['nan_pid']       : '');
+  var qstring_obj = {};
+  qstring_obj.affiliatecode = (qs.affiliatecode ? qs.affiliatecode : "");
+  qstring_obj.subid         = (qs.subid         ? qs.subid         : "");
+  qstring_obj.formid        = (qs.formid        ? qs.formid        : "");
+  qstring_obj.landingpage   = (qs.landingpage   ? qs.landingpage   : "");
+  qstring_obj.utm_content   = (qs.utm_content   ? qs.utm_content   : "");
+  qstring_obj.mncid         = (qs.mncid         ? qs.mncid         : "");
+  qstring_obj.mnc           = (qs.mnc           ? qs.mnc           : "");
+  qstring_obj.mnckeyword    = (qs.mnckeyword    ? qs.mnckeyword    : "");
+  qstring_obj.kw            = (qs.kw            ? qs.kw            : "");
+  qstring_obj.programid     = (qs.programid     ? qs.programid     : "");
+  qstring_obj.step          = (qs.step          ? qs.step          : "");
+  qstring_obj.groupid       = (qs.groupid       ? qs.groupid       : "");
+  qstring_obj.isinlb        = (qs.isinlb        ? qs.isinlb        : "");
+  qstring_obj.ct_cl         = (qs.ct_cl         ? qs.ct_cl         : "");
+  qstring_obj.gclid         = (qs.gclid         ? qs.gclid         : "");
+  qstring_obj.msclkid       = (qs.msclkid       ? qs.msclkid       : "");
+  qstring_obj.nan_pid       = (qs.nan_pid       ? qs.nan_pid       : "");
 
   //override certain querystrings with old names
   //put subid into affiliatecode if affiliatecode does not exist and subid does
-  if(qstring_obj['affiliatecode'])
-  {
-    qstring_obj['affiliatecode'] = qstring_obj['affiliatecode'];
-  }
-  else if(qstring_obj['subid'])
-  {
-    qstring_obj['affiliatecode'] = qstring_obj['subid'];
-  }
-  else
-  {
-    qstring_obj['affiliatecode'] = '';
+  if(qstring_obj.affiliatecode) {
+    qstring_obj.affiliatecode = qstring_obj.affiliatecode;
+  } else if(qstring_obj.subid) {
+    qstring_obj.affiliatecode = qstring_obj.subid;
+  } else {
+    qstring_obj.affiliatecode = "";
   }
 
   //put utm_content into landingpage if landingpage does not exist and utm_content does
-  if(qstring_obj['landingpage'])
-  {
-    qstring_obj['landingpage'] = qstring_obj['landingpage'];
-  }
-  else if(qstring_obj['utm_content'])
-  {
-    qstring_obj['landingpage'] = qstring_obj['utm_content'];
-  }
-  else
-  {
-    qstring_obj['landingpage'] = '';
+  if(qstring_obj.landingpage) {
+    qstring_obj.landingpage = qstring_obj.landingpage;
+  } else if(qstring_obj.utm_content) {
+    qstring_obj.landingpage = qstring_obj.utm_content;
+  } else {
+    qstring_obj.landingpage = "";
   }
 
   //put mnc into mncid if mncid does not exist and mnc does
-  if(qstring_obj['mncid'])
-  {
-    qstring_obj['mncid'] = qstring_obj['mncid'];
-  }
-  else if(qstring_obj['mnc'])
-  {
-    qstring_obj['mncid'] = qstring_obj['mnc'];
-  }
-  else
-  {
-    qstring_obj['mncid'] = '';
+  if(qstring_obj.mncid) {
+    qstring_obj.mncid = qstring_obj.mncid;
+  } else if(qstring_obj.mnc) {
+    qstring_obj.mncid = qstring_obj.mnc;
+  } else {
+    qstring_obj.mncid = "";
   }
 
   //put kw into mnckeyword if mnckeyword does not exist and kw does
-  if(qstring_obj['mnckeyword'])
-  {
-    qstring_obj['mnckeyword'] = qstring_obj['mnckeyword'];
-  }
-  else if(qstring_obj['kw'])
-  {
-    qstring_obj['mnckeyword'] = qstring_obj['kw'];
-  }
-  else
-  {
-    qstring_obj['mnckeyword'] = '';
+  if(qstring_obj.mnckeyword) {
+    qstring_obj.mnckeyword = qstring_obj.mnckeyword;
+  } else if(qstring_obj.kw) {
+    qstring_obj.mnckeyword = qstring_obj.kw;
+  } else {
+    qstring_obj.mnckeyword = "";
   }
 
   // put gclid, msclkid, or nan_pid into clickid if they exist
-  if(qstring_obj['gclid'])
-  {
-    qstring_obj['gclid'] = qstring_obj['gclid'];
-  }
-  else if(qstring_obj['msclkid'])
-  {
-    qstring_obj['msclkid'] = qstring_obj['msclkid'];
-  }
-  else if(qstring_obj['nan_pid'])
-  {
-    qstring_obj['nan_pid'] = qstring_obj['nan_pid'];
-  }
-  else
-  {
-    // qstring_obj['clickid'] = '';
+  if(qstring_obj.gclid) {
+    qstring_obj.gclid = qstring_obj.gclid;
+  } else if(qstring_obj.msclkid) {
+    qstring_obj.msclkid = qstring_obj.msclkid;
+  } else if(qstring_obj.nan_pid) {
+    qstring_obj.nan_pid = qstring_obj.nan_pid;
+  } else {
+    // qstring_obj.clickid = "";
   }
 
   return qstring_obj;
-}
+};
 
-fmf.get_combo_obj = function()
-{
-  var combo_obj = Object();
+fmf.get_combo_obj = function() {
+  var combo_obj = {};
   var qo = fmf.get_qstring_obj();
   var co = fmf.get_cookie_obj();
-  combo_obj['affiliatecode'] = (qo['affiliatecode'] ? qo['affiliatecode'] : co['affiliatecode']);
-  combo_obj['subid']         = (qo['subid']         ? qo['subid']         : co['subid']);
-  combo_obj['formid']        = (qo['formid']        ? qo['formid']        : co['formid']);
-  combo_obj['landingpage']   = (qo['landingpage']   ? qo['landingpage']   : co['landingpage']);
-  combo_obj['utm_content']   = (qo['utm_content']   ? qo['utm_content']   : co['utm_content']);
-  combo_obj['mncid']         = (qo['mncid']         ? qo['mncid']         : co['mncid']);
-  combo_obj['mnc']           = (qo['mnc']           ? qo['mnc']           : co['mnc']);
-  combo_obj['mnckeyword']    = (qo['mnckeyword']    ? qo['mnckeyword']    : co['mnckeyword']);
-  combo_obj['kw']            = (qo['kw']            ? qo['kw']            : co['kw']);
-  combo_obj['programid']     = (qo['programid']     ? qo['programid']     : co['programid']);
-  combo_obj['step']          = (qo['step']          ? qo['step']          : '');
-  combo_obj['groupid']       = (qo['groupid']       ? qo['groupid']       : co['groupid']);
-  combo_obj['isinlb']        = (qo['isinlb']        ? qo['isinlb']        : co['isinlb']);
-  combo_obj['gclid']         = (qo['gclid']         ? qo['gclid']         : co['gclid']);
-  combo_obj['msclkid']       = (qo['msclkid']       ? qo['msclkid']       : co['msclkid']);
-  combo_obj['nan_pid']       = (qo['nan_pid']       ? qo['nan_pid']       : co['nan_pid']);
+  combo_obj.affiliatecode = (qo.affiliatecode ? qo.affiliatecode : co.affiliatecode);
+  combo_obj.subid         = (qo.subid         ? qo.subid         : co.subid);
+  combo_obj.formid        = (qo.formid        ? qo.formid        : co.formid);
+  combo_obj.landingpage   = (qo.landingpage   ? qo.landingpage   : co.landingpage);
+  combo_obj.utm_content   = (qo.utm_content   ? qo.utm_content   : co.utm_content);
+  combo_obj.mncid         = (qo.mncid         ? qo.mncid         : co.mncid);
+  combo_obj.mnc           = (qo.mnc           ? qo.mnc           : co.mnc);
+  combo_obj.mnckeyword    = (qo.mnckeyword    ? qo.mnckeyword    : co.mnckeyword);
+  combo_obj.kw            = (qo.kw            ? qo.kw            : co.kw);
+  combo_obj.programid     = (qo.programid     ? qo.programid     : co.programid);
+  combo_obj.step          = (qo.step          ? qo.step          : "");
+  combo_obj.groupid       = (qo.groupid       ? qo.groupid       : co.groupid);
+  combo_obj.isinlb        = (qo.isinlb        ? qo.isinlb        : co.isinlb);
+  combo_obj.ct_cl         = (qo.ct_cl         ? qo.ct_cl         : co.ct_cl);
+  combo_obj.gclid         = (qo.gclid         ? qo.gclid         : co.gclid);
+  combo_obj.msclkid       = (qo.msclkid       ? qo.msclkid       : co.msclkid);
+  combo_obj.nan_pid       = (qo.nan_pid       ? qo.nan_pid       : co.nan_pid);
   return combo_obj;
-}
+};
 
-fmf.get_monster_obj = function()
-{
+fmf.get_monster_obj = function() {
   var combo_obj = fmf.get_combo_obj();
-  var monster_obj = Object();
+  var monster_obj = {};
 
   //set affiliatecode or convert alternative subid or blankit
-  if( combo_obj['affiliatecode'] )
-  {
-    monster_obj['affiliatecode'] = combo_obj['affiliatecode'];
-  }
-  else if( combo_obj['subid'] )
-  {
-    monster_obj['affiliatecode'] = combo_obj['subid'];
-  }
-  else
-  {
-    monster_obj['affiliatecode'] = '';
+  if( combo_obj.affiliatecode ) {
+    monster_obj.affiliatecode = combo_obj.affiliatecode;
+  } else if( combo_obj.subid ) {
+    monster_obj.affiliatecode = combo_obj.subid;
+  } else {
+    monster_obj.affiliatecode = "";
   }
 
   //set formid or blankit
-  if( combo_obj['formid'] )
-  {
-    monster_obj['formid'] = combo_obj['formid'];
-  }
-  else
-  {
-    monster_obj['formid'] = '';
+  if( combo_obj.formid ) {
+    monster_obj.formid = combo_obj.formid;
+  } else {
+    monster_obj.formid = "";
   }
 
   //set landingpage or convert utm_content or blankit
-  if( combo_obj['landingpage'] )
-  {
-    monster_obj['landingpage'] = combo_obj['landingpage'];
-  }
-  else if( combo_obj['utm_content'] )
-  {
-    monster_obj['landingpage'] = combo_obj['utm_content'];
-  }
-  else
-  {
-    monster_obj['landingpage'] = '';
+  if( combo_obj.landingpage ) {
+    monster_obj.landingpage = combo_obj.landingpage;
+  } else if( combo_obj.utm_content ) {
+    monster_obj.landingpage = combo_obj.utm_content;
+  } else {
+    monster_obj.landingpage = "";
   }
 
-  //set mncid or convert alternative mnc or 1348
-  if( combo_obj['mncid'] )
-  {
-    monster_obj['mncid'] = combo_obj['mncid'];
-  }
-  else if( combo_obj['mnc'] )
-  {
-    monster_obj['mncid'] = combo_obj['mnc'];
-  }
-  else
-  {
-    monster_obj['mncid'] = '1348';
+  //set mncid or convert alternative mnc
+  if( combo_obj.mncid ) {
+    monster_obj.mncid = combo_obj.mncid;
+  } else if( combo_obj.mnc ) {
+    monster_obj.mncid = combo_obj.mnc;
+  } else {
+    if(window.location.hostname.indexOf("www.fullsail.edu") !== -1) {
+      monster_obj.mncid = "1348";
+    } else if(window.location.hostname.indexOf("hub.fullsail.edu") !== -1) {
+      monster_obj.mncid = "11542";
+    }
   }
 
   //set mnckeyword or convert alternative kw or blankit
-  if( combo_obj['mnckeyword'] )
-  {
-    monster_obj['mnckeyword'] = combo_obj['mnckeyword'];
-  }
-  else if( combo_obj['kw'] )
-  {
-    monster_obj['mnckeyword'] = combo_obj['kw'];
-  }
-  else
-  {
-    monster_obj['mnckeyword'] = '';
+  if( combo_obj.mnckeyword ) {
+    monster_obj.mnckeyword = combo_obj.mnckeyword;
+  } else if( combo_obj.kw ) {
+    monster_obj.mnckeyword = combo_obj.kw;
+  } else {
+    monster_obj.mnckeyword = "";
   }
 
   //set programid or blankit
-  if( combo_obj['programid'] )
-  {
-    monster_obj['programid'] = combo_obj['programid'];
-  }
-  else
-  {
-    monster_obj['programid'] = '';
+  if( combo_obj.programid ) {
+    monster_obj.programid = combo_obj.programid;
+  } else {
+    monster_obj.programid = "";
   }
 
   //set step or blankit
-  if( combo_obj['step'] )
-  {
-    monster_obj['step'] = combo_obj['step'];
-  }
-  else
-  {
-    monster_obj['step'] = '';
+  if( combo_obj.step ) {
+    monster_obj.step = combo_obj.step;
+  } else {
+    monster_obj.step = "";
   }
 
-  if( combo_obj['step'] == 'input' && !combo_obj['landingpage'].length && !combo_obj['utm_content'].length )
-  {
-    if (window.location.pathname == "/")
-    {
-      var path = "home";
+  var path = "";
+  if( combo_obj.step == "input" && !combo_obj.landingpage.length && !combo_obj.utm_content.length ) {
+    if (window.location.pathname == "/") {
+      path = "home";
+    } else {
+      path = window.location.pathname;
     }
-    else
-    {
-      var path = window.location.pathname;
-    }
-    monster_obj['landingpage'] = path;
+    monster_obj.landingpage = path;
   }
 
   //set groupid or blankit
-  if( combo_obj['groupid'] )
-  {
-    monster_obj['groupid'] = combo_obj['groupid'];
-  }
-  else
-  {
-    monster_obj['groupid'] = '';
+  if( combo_obj.groupid ) {
+    monster_obj.groupid = combo_obj.groupid;
+  } else {
+    monster_obj.groupid = "";
   }
 
   //set isinlb or blankit
-  if( combo_obj['isinlb'] )
-  {
-    monster_obj['isinlb'] = combo_obj['isinlb'];
-  }
-  else
-  {
-    monster_obj['isinlb'] = '';
+  if( combo_obj.isinlb ) {
+    monster_obj.isinlb = combo_obj.isinlb;
+  } else {
+    monster_obj.isinlb = "";
   }
 
-  if( combo_obj['gclid'] )
-  {
-    monster_obj['gclid'] = combo_obj['gclid'];
+  //set ct_cl or blankit
+  if( combo_obj.ct_cl ) {
+    monster_obj.ct_cl = combo_obj.ct_cl;
+  } else {
+    monster_obj.ct_cl = "";
   }
 
-  if( combo_obj['msclkid'] )
-  {
-    monster_obj['msclkid'] = combo_obj['msclkid'];
+  if( combo_obj.gclid ) {
+    monster_obj.gclid = combo_obj.gclid;
   }
 
-  if( combo_obj['nan_pid'] )
-  {
-    monster_obj['nan_pid'] = combo_obj['msclkid'];
+  if( combo_obj.msclkid ) {
+    monster_obj.msclkid = combo_obj.msclkid;
+  }
+
+  if( combo_obj.nan_pid ) {
+    monster_obj.nan_pid = combo_obj.msclkid;
   }
 
   return monster_obj;
-}
+};
 
 //simple check so that we only set cookies
 //when we have a non empty value
 //and value is different from cookie
-fmf.checkc = function(cofv, mofv)
-{
-  if(mofv)
-  {
-    if(mofv != cofv)
-    {
+fmf.checkc = function(cofv, mofv) {
+  if(mofv) {
+    if(mofv != cofv) {
       return true;
     }
   }
   return false;
-}
+};
 
 //step is temporal and as such is not put in a cookie
 //isinlb is set by tealium
-fmf.monster_to_cookie = function()
-{
+//ct_cl is set by tealium
+fmf.monster_to_cookie = function() {
   var mo = fmf.get_monster_obj();
   var co = fmf.get_cookie_obj();
-  if(fmf.checkc(co['subid'],       mo['affiliatecode']) ) { fmf.set_cookie('SUBID',       mo['affiliatecode'], 14); }
-  if(fmf.checkc(co['formid'],      mo['formid'])        ) { fmf.set_cookie('FORMID',      mo['formid'],        14); }
-  if(fmf.checkc(co['landingpage'], mo['landingpage'])   ) { fmf.set_cookie('LANDINGPAGE', mo['landingpage'],   14); }
-  if(fmf.checkc(co['mnc'],         mo['mncid'])         ) { fmf.set_cookie('MNC',         mo['mncid'],         14); }
-  if(fmf.checkc(co['mnckeyword'],  mo['mnckeyword'])    ) { fmf.set_cookie('MNCKEYWORD',  mo['mnckeyword'],    14); }
-  if(fmf.checkc(co['programid'],   mo['programid'])     ) { fmf.set_cookie('PROGRAMID',   mo['programid'],     14); }
-  //if(fmf.checkc(co['step'],        mo['step'])          ) { fmf.set_cookie('STEP',        mo['step'],          14); }
-  if(fmf.checkc(co['groupid'],     mo['groupid'])       ) { fmf.set_cookie('GROUPID',     mo['groupid'],       14); }
-  //if(fmf.checkc(co['isinlb'],      mo['isinlb'])        ) { fmf.set_cookie('ISINLB',      mo['isinlb'],        14); }
-  if(fmf.checkc(co['gclid'],       mo['gclid'])         ) { fmf.set_cookie('CLICKID',     mo['gclid'],         14); }
-  if(fmf.checkc(co['msclkid'],     mo['msclkid'])       ) { fmf.set_cookie('CLICKID',     mo['msclkid'],       14); }
-  if(fmf.checkc(co['nan_pid'],     mo['nan_pid'])       ) { fmf.set_cookie('CLICKID',     mo['nan_pid'],       14); }
-}
+  if(fmf.checkc(co.subid,       mo.affiliatecode) ) { fmf.set_cookie("SUBID",       mo.affiliatecode, 14); }
+  if(fmf.checkc(co.formid,      mo.formid)        ) { fmf.set_cookie("FORMID",      mo.formid,        14); }
+  if(fmf.checkc(co.landingpage, mo.landingpage)   ) { fmf.set_cookie("LANDINGPAGE", mo.landingpage,   14); }
+  if(fmf.checkc(co.mnc,         mo.mncid)         ) { fmf.set_cookie("MNC",         mo.mncid,         14); }
+  if(fmf.checkc(co.mnckeyword,  mo.mnckeyword)    ) { fmf.set_cookie("MNCKEYWORD",  mo.mnckeyword,    14); }
+  if(fmf.checkc(co.programid,   mo.programid)     ) { fmf.set_cookie("PROGRAMID",   mo.programid,     14); }
+  //if(fmf.checkc(co.step,        mo.step)          ) { fmf.set_cookie("STEP",        mo.step,          14); }
+  if(fmf.checkc(co.groupid,     mo.groupid)       ) { fmf.set_cookie("GROUPID",     mo.groupid,       14); }
+  if(fmf.checkc(co.isinlb,      mo.isinlb)        ) { fmf.set_cookie("ISINLB",      mo.isinlb,        14); }
+  if(fmf.checkc(co.ct_cl,       mo.ct_cl)         ) { fmf.set_cookie("CT_CL",       mo.ct_cl,         14); }
+  if(fmf.checkc(co.gclid,       mo.gclid)         ) { fmf.set_cookie("CLICKID",     mo.gclid,         14); }
+  if(fmf.checkc(co.msclkid,     mo.msclkid)       ) { fmf.set_cookie("CLICKID",     mo.msclkid,       14); }
+  if(fmf.checkc(co.nan_pid,     mo.nan_pid)       ) { fmf.set_cookie("CLICKID",     mo.nan_pid,       14); }
+};
 
-fmf.monster_to_dlayer = function()
-{
+fmf.monster_to_dlayer = function() {
   var mo = fmf.get_monster_obj();
   dataLayer = [];
   dataLayer.push(mo);
-}
+};
 
 fmf.monster_to_cookie();
 fmf.monster_to_dlayer();
+
 
 </script>
 
@@ -919,16 +858,26 @@ fmf.monster_to_dlayer();
   })();
 </script>
 <noscript><p><img src="https://logdepo.fullsail.edu/i/?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+
+<script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+   var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+   sz.src = '//siteimproveanalytics.com/js/siteanalyze_90778262.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script>
 <h1 class="hidden-text">Full Sail University</h1>
 <div class="wrapper">
 
 <div class="metabar">
 <div class="container">
 <ul>
-<li class="metabar__item" id="metabar_request"><a href="https://hello.fullsail.edu/request_info" aria-label="Metabar: Request Info" target="_blank">Request Info <i class="fs fs-info"></i></a></li>
-<li class="metabar__item" id="metabar_chat"><a href="#" onclick="popChatLive(); analyticsTrigger('/chatlive'); return false;" rel="nofollow" aria-label="Metabar: Chat Live">Chat Live <i class="fs fs-chat"></i></a></li>
-<li class="metabar__item" id="metabar_apply"><a href="https://apply.fullsail.edu/" aria-label="Metabar: Apply" target="_blank">Apply <i class="fs fs-pencil"></i></a></li>
-<li class="metabar__item" id="metabar_phone"><a href="tel:8002267625" aria-label="Metabar: Phone">800.226.7625</a></li>
+<li class="metabar__item" id="metabar_request"><a href="https://hello.fullsail.edu/request_info" id="meta-request" aria-label="Metabar: Request Info" target="_blank">Request Info <i class="fs fs-info"></i></a></li>
+<li class="metabar__item" id="metabar_chat"><a href="#" id="meta-chat" onclick="popChatLive(); analyticsTrigger('/chatlive'); return false;" rel="nofollow" aria-label="Metabar: Chat Live">Chat Live <i class="fs fs-chat"></i></a></li>
+<li class="metabar__item" id="metabar_apply"><a href="https://apply.fullsail.edu/" id="meta-apply" aria-label="Metabar: Apply" target="_blank">Apply <i class="fs fs-pencil"></i></a></li>
+<li class="metabar__item" id="metabar_phone"><a href="tel:8002267625" id="meta-phone" aria-label="Metabar: Phone">800.226.7625</a></li>
 </ul>
 </div>
 </div>
@@ -1019,7 +968,7 @@ fmf.monster_to_dlayer();
 <ul class="nav__dropdown">
 <div class="container">
 <li class="nav__block">
-<a href="/we-are-different">See How We're Different </a>
+<a href="/we-are-different">See How We're Different</a>
 </li>
 <li class="nav__block">
 <a href="/we-are-different/learning-at-full-sail">Learning at Full Sail</a>
@@ -1057,6 +1006,9 @@ fmf.monster_to_dlayer();
 </li>
 <li class="nav__block">
 <a href="/campus-and-online/campus-degrees">Campus Programs</a>
+</li>
+<li class="nav__block">
+<a href="/campus-explorer">Campus Gallery</a>
 </li>
 <li class="nav__block">
 <a href="/campus-and-online/visit-campus">Plan Your Visit</a>
@@ -1150,7 +1102,7 @@ Below, you’ll find information about our accreditation, gainful employment, pr
 <ul class="filter__link-list">
 <li><a href="/policies-and-guidelines/accreditation">Accreditation</a></li>
 <li><a href="/policies-and-guidelines/campus-safety">Campus Safety</a></li>
-<li><a href="/policies-and-guidelines/gedt">Consumer Disclosures</a></li>
+<li><a href="/policies-and-guidelines/consumer-disclosures">Consumer Disclosures</a></li>
 <li><a href="/policies-and-guidelines/copyright-trademark">Copyright and Trademark</a></li>
 <li><a href="/policies-and-guidelines/disability-services">Disability Services</a></li>
 <li><a href="/policies-and-guidelines/code-of-conduct">Financial Aid Code of Conduct</a></li>
@@ -1272,7 +1224,7 @@ Otherwise with your consent.</li>
 </div>
 
 <div class="faq-block">
- <div class="sub-headline">3.4 LINKS TO OTHER SITES </div>
+<div class="sub-headline">3.4 LINKS TO OTHER SITES </div>
 <p>The Sites may include links to other websites maintained or controlled by Third Parties unrelated to Full Sail. If you click on such a link, you will be directed to that Third Party’s website. The fact that we link to a website is not an endorsement or representation of our affiliation with that Third Party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over Third Party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other websites follow different rules regarding the use or disclosure of personally identifiable information. We advise you to review the individual privacy policies of each external site that you use. Visiting these other websites or applications is at your own risk.</p>
 <p>Full Sail’s Services may include publicly accessible blogs, community forums, or private messaging features. The Site and our other Services may also contain links and interactive features with various social media platforms (e.g., widgets). If you already use these platforms, their cookies may be set on your device when using our Site or other Services. You should be aware that Personal Information which you voluntarily include and transmit online in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a social media platform, and by using such services you assume the risk that the Personal Information provided by you may be viewed and used by third parties for any number of purposes.</p>
 </div>
@@ -1413,11 +1365,11 @@ Otherwise with your consent.</li>
 <div class="footer__contact-phone">
 <div class="block">
 <div class="footer__contact-phone-label">Phone</div>
-<a href="tel:8002267625" aria-label="Footer: Phone" class="footer__contact-phone-number">800.226.7625</a>
+<a href="tel:8002267625" id="footer-phone-1" aria-label="Footer: Phone" class="footer__contact-phone-number">800.226.7625</a>
 </div>
 <div class="block">
 <div class="footer__contact-phone-label">Local</div>
-<a href="tel:4076796333" aria-label="Footer: Local" class="footer__contact-phone-number">407.679.6333</a>
+<a href="tel:4076796333" id="footer-phone-2" aria-label="Footer: Local" class="footer__contact-phone-number">407.679.6333</a>
 </div>
 </div>
 
@@ -1428,10 +1380,10 @@ Otherwise with your consent.</li>
 <div class="footer__links">
 <ul class="footer__links-group">
 <li>
-<a href="https://hello.fullsail.edu/request_info" aria-label="Footer: Request Info" target="_blank">Request Info</a>
+<a href="https://hello.fullsail.edu/request_info" id="footer-request" aria-label="Footer: Request Info" target="_blank">Request Info</a>
 </li>
 <li>
-<a href="https://apply.fullsail.edu/" aria-label="Footer: Apply Now" target="_blank">Apply Now</a>
+<a href="https://apply.fullsail.edu/" id="footer-apply" aria-label="Footer: Apply Now" target="_blank">Apply Now</a>
 </li>
 <li>
 <a href="/admissions/scholarships" aria-label="Footer: Scholarships">Scholarships</a>
@@ -1511,9 +1463,9 @@ Otherwise with your consent.</li>
 
 <div class="fixed-cta">
 <div class="fixed-cta__button-container">
-<a href="tel:8002267625" class="fixed-cta__call btn" aria-label="Fixed CTA: Call"><i class="fs fs-phone"></i> <span class="fixed-cta__button-text">Call</span></a>
-<a href="#" onclick="popChatLive(); analyticsTrigger('/chatlive'); return false;" rel="nofollow" aria-label="Fixed CTA: Chat" class="fixed-cta__chat btn"><i class="fs fs-chat"></i> <span class="fixed-cta__button-text">Chat</span></a>
-<a href="https://hello.fullsail.edu/request_info" class="fixed-cta__info btn" aria-label="Fixed CTA: Request Info" id="fixed-cta_info"><i class="fs fs-info"></i> <span class="fixed-cta__button-text">Request Info</span></a>
+<a href="tel:8002267625" id="fixed-phone" class="fixed-cta__call btn" aria-label="Fixed CTA: Call"><i class="fs fs-phone"></i> <span class="fixed-cta__button-text">Call</span></a>
+<a href="#" id="fixed-chat" onclick="popChatLive(); analyticsTrigger('/chatlive'); return false;" rel="nofollow" aria-label="Fixed CTA: Chat" class="fixed-cta__chat btn"><i class="fs fs-chat"></i> <span class="fixed-cta__button-text">Chat</span></a>
+<a href="https://hello.fullsail.edu/request_info" id="fixed-request" class="fixed-cta__info btn" aria-label="Fixed CTA: Request Info"><i class="fs fs-info"></i> <span class="fixed-cta__button-text">Request Info</span></a>
 </div>
 </div>
 
@@ -1553,35 +1505,56 @@ if(typeof fmf === 'undefined')
   //problems
 }
 
-mbw.check_isinlb = function()
+mbw.dynamic_page_flippen = function()
 {
   var mo = fmf.get_monster_obj();
-  if( mo['isinlb'] == 1)
+  var fixed_request_obj = false;
+  var fs_stories_side_cta_obj = false;
+
+  if( (mo["isinlb"] == 1) || (mo["ct_cl"]) )
   {
-    //change the fixed mobile cta
-    var domobj = document.getElementById("fixed-cta_info");
-    domobj.innerHTML = '<i class="fs fs-pencil"></i> <span class="fixed-cta__button-text">Apply Now</span>';
-    domobj.href = 'https://apply.fullsail.edu/';
-  }
-  else
-  {
-    //do nothing
+    fixed_request_obj = document.getElementById("fixed-request");
+    fs_stories_side_cta_obj = document.getElementById("fs-stories-side-cta");
+
+    if(fs_stories_side_cta_obj)
+    {
+      if(mo["ct_cl"] == "l")
+      {
+        fs_stories_side_cta_obj.innerHTML = '<div class="cta__title">Apply Now</div>';
+        fs_stories_side_cta_obj.href = "https://apply.fullsail.edu/";
+      }
+      else if(mo["ct_cl"] == "e")
+      {
+        fs_stories_side_cta_obj.innerHTML = '<div class="cta__title">Continue Your Enrollment Process</div>';
+        fs_stories_side_cta_obj.href = "https://launch2.fullsail.com/";
+      }
+    }
+
+    if(fixed_request_obj)
+    {
+      if(mo["isinlb"] == 1)
+      {
+        fixed_request_obj.innerHTML = '<i class="fs fs-pencil"></i> <span class="fixed-cta__button-text">Apply Now</span>';
+        fixed_request_obj.href = "https://apply.fullsail.edu/";
+      }
+      if(mo["ct_cl"] == "l")
+      {
+        fixed_request_obj.innerHTML = '<i class="fs fs-pencil"></i> <span class="fixed-cta__button-text">Contact Admissions</span>';
+        fixed_request_obj.href = "https://hello.fullsail.edu/miniform";
+      }
+      else if(mo["ct_cl"] == "e")
+      {
+        fixed_request_obj.innerHTML = '<i class="fs fs-pencil"></i> <span class="fixed-cta__button-text">Contact Admissions</span>';
+        fixed_request_obj.href = "https://hello.fullsail.edu/miniform";
+      }
+    }
+
   }
 };
 
 
 
-mbw.check_isinlb();
-</script>
-
-<script type="text/javascript">
-  /*<![CDATA[*/
-  (function() {
-   var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
-   sz.src = '//siteimproveanalytics.com/js/siteanalyze_90778262.js';
-   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
-  })();
-  /*]]>*/
+mbw.dynamic_page_flippen();
 </script>
 
 
