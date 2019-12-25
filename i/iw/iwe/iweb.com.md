@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iweb.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184715id_/https%3A//iweb.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iweb.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225204406id_/https%3A//iweb.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iWeb
 
-Last Updated: August 27, 2018
+Last Updated: December 18, 2019
 
-This Privacy Policy applies to the information that Internap Corporation and its affiliates, including but not limited to SingleHop LLC, iWeb Technologies Inc., Funio, Ubersmith, Inc., and Internap Japan Co., Ltd. (collectively “INAP”) collect through inap.com and other websites, online features, applications and widgets owned or controlled by INAP and that post a link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected at the Site and does not cover any information collected offline by INAP (unless specifically stated otherwise) and does not apply to the services we provide to clients. Please review this Privacy Policy carefully.
+This Privacy Policy applies to the information that Internap Corporation and its affiliates, including but not limited to SingleHop LLC, iWeb Technologies Inc., Ubersmith, Inc., and Internap Japan Co., Ltd. (collectively “INAP”) collect through inap.com and other websites, online features, applications and widgets owned or controlled by INAP and that post a link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected at the Site and does not cover any information collected offline by INAP (unless specifically stated otherwise) and does not apply to the services we provide to clients. Please review this Privacy Policy carefully.
 
 ## **Summary**
 
