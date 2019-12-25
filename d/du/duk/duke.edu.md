@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duke.edu privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630162156id_/https%3A//oarc.duke.edu/privacy/duke-university-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke.edu privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225204508id_/https%3A//oarc.duke.edu/privacy/duke-university-privacy-statement) for the most accurate reproduction.*
 
 # Duke University Privacy Statement | Audit, Risk and Compliance
 
@@ -6,12 +6,12 @@ Duke University is committed to fairly and appropriately managing and safeguardi
 
 The following describes how information is collected, used and maintained at Duke, including how websites in the Duke.edu domain collect, use and share information about those who engage with Duke University sites. This privacy statement covers all Duke.edu websites unless a particular website indicates otherwise.
 
-For information specific to jurisdictions with additional notice requirements, including the European Economic Area (EEA), please click here for the [full policy](https://oarc.duke.edu/sites/default/files/documents/GDPR_Privacy%20Policy_REVISED.10.29.18.pdf) and the [data subject request form](https://oarc.duke.edu/sites/default/files/documents/EU%20GDPR_Data%20Subject%20Request_10.2018--without%20fillables.pdf). In addition, and for ease of reference, please see the following for Duke’s privacy practices in specific areas at the University.
+For information specific to jurisdictions with additional notice requirements, including the European Economic Area (EEA), please click here for the [full policy](https://oarc.duke.edu/sites/default/files/documents/GDPR_Privacy%20Policy_REVISED.10.17.19.pdf) and the [data subject request form](https://oarc.duke.edu/sites/default/files/documents/EU%20GDPR_Data%20Subject%20Request_10.2018--without%20fillables.pdf). In addition, and for ease of reference, please see the following for Duke’s privacy practices in specific areas at the University.
 
-[Admissions/Financial Aid](https://oarc.duke.edu/privacy-policy-regarding-admissions-financial-aid) |   |   |   |   | [Duke University Press Customers](https://oarc.duke.edu/privacy-policy-regarding-duke-university-press-customers) |   |   |   |   | [Patients](https://oarc.duke.edu/privacy-policy-regarding-patients) |   |   |   | [Website](https://oarc.duke.edu/privacy-policy-regarding-website)  
+[Admissions/Financial Aid](https://oarc.duke.edu/privacy-policy-regarding-admissions-financial-aid) |   |   |   |   | [Duke University Press Customers](https://oarc.duke.edu/privacy-policy-regarding-duke-university-press-customers) |   |   |   |   | [Research](https://oarc.duke.edu/privacy-policy-regarding-research) |   |   |   |    
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-[Alumni](https://oarc.duke.edu/privacy-policy-regarding-alumni) |   |   |   |   | [Human Resources](https://oarc.duke.edu/privacy-policy-regarding-human-resources) |   |   |   |   | [Research](https://oarc.duke.edu/privacy-policy-regarding-research) |   |   |   |    
-[Donors](https://oarc.duke.edu/privacy-policy-regarding-donors) |   |   |   |   | [Online/Non-credit Education](https://oarc.duke.edu/privacy-policy-regarding-onlinenon-credit-education) |   |   |   |   | [Students](https://oarc.duke.edu/privacy-policy-regarding-students) |   |   |   |    
+[Alumni](https://oarc.duke.edu/privacy-policy-regarding-alumni) |   |   |   |   | [Human Resources](https://oarc.duke.edu/privacy-policy-regarding-human-resources) |   |   |   |   | [Students](https://oarc.duke.edu/privacy-policy-regarding-students) |   |   |   |    
+[Donors](https://oarc.duke.edu/privacy-policy-regarding-donors) |   |   |   |   | [Online/Non-credit Education](https://oarc.duke.edu/privacy-policy-regarding-onlinenon-credit-education) |   |   |   |   | [Website](https://oarc.duke.edu/privacy-policy-regarding-website) |   |   |   |    
   |   |   |   |   |   |   |   |   |   |   |   |   |   |    
   |   |   |   |   |   |   |   |   |   |   |   |   |   |    
   
