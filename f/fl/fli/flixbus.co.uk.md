@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixbus.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624011306id_/https%3A//www.flixbus.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixbus.co.uk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225231736id_/https%3A//www.flixbus.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy → FlixBus
 
@@ -10,13 +10,13 @@ The processing of your personal data is based on the following legal basis:
 
 ### 1.1 Contractual relationship pursuant to Art. 6 (1) letter b of GDPR
 
-We process the personal data voluntarily communicated to us (name, pursuant to Article 6 (1) letter b of GDPR) for the contractual processing of ticket orders, for carrying out transport and opening of a customer account or in the context of pre-contractual measures.
+We process the personal data voluntarily communicated to us (first name and last name, e-mail address, mobile phone number) pursuant to Article 6 (1) letter b GDPR for the contractual processing of ticket orders, for carrying out transportation, for opening a customer account or within the context of pre-contractual measures.
 
-To do this, we need your first name, surname and mobile telephone number. For the required payment processing, the following data may be required in addition: For payment of a booked trip with the credit card, FlixMobility requires your full name, email address and credit card data.
+We save the mobile phone number voluntarily communicated to us in order to establish contact in the event of delays or to provide notification of changes of itinerary. For the required payment processing, the following data is additionally required: For the credit card payment of a booked trip, FlixMobility requires your full name, e-mail address and credit card data.
 
 ### 1.2 Legitimate interests pursuant to Art. 6 (1) letter f of GDPR
 
-Due to a legitimate interest in accordance with Art. 6 (1) letter f and possibly letter b of GDPR, we process the necessary data for the following purposes:
+The necessary data is forwarded to FlixMobility GmbH in order to carry out administrative activities (IT services, customer service, accounting, etc.) and to efficiently design the internal administration of our company. In this respect, we process the necessary data in accordance with Art. 6 (1) letter f and, as applicable, letter b GDPR, for the following purposes:
 
   * The data stored for the contract processing and for carrying out the bus trips is forwarded to the operating bus companies and other third parties (e.g., service providers for IT, transport, customer service, sending emails and newsletters, and payment processing) in the course of registration and for processing the ticket sale. In justified cases (e.g., damage to the buses), we reserve the right to forward the customer data to the respective bus transport partners. The data forwarded in this way may only be used by our service providers to fulfil their task and not for other purposes. Insofar as orders are processed, processing takes place in compliance with the requirements for order processing pursuant to Art. 28 of GDPR.
   * In addition to processing ticket orders, FlixMobility GmbH also uses your data for advertising purposes and for market and opinion research to inform you about offers tailored to your interests via regular mail or newsletters. To this end, we conduct advertising scoring for interest-based advertising based on legitimate interests pursuant to Art. 6 (1) letter f of GDPR. You may withdraw consent for the use of your data for advertising purposes, market and opinion research and advertising scoring can be countermanded at any time by a communication to FlixMobility GmbH, Birketweg 33, 80639 Munich or to [data.protection@flixbus.com](mailto:data.protection@flixbus.com).
@@ -48,11 +48,12 @@ A deletion does not affect the personal data required by legal storage periods f
 
 ## 3.  Newsletter
 
-The personal data collected at registration of the newsletter with your consent pursuant to Art. 6 (1) letter a of GDPR is used for communication with you (e.g., service messages, system notifications, email confirming your registration, sending user account information, information about your tickets and itineraries, or your travel profiles) as well as for mailing newsletters.
+The e-mail address/personal data collected during ticket ordering is used in accordance with Art. 6 (1) letter a GDPR for communication with you (e.g. service messages, system notifications, e-mail for confirming your registration, for sending user account information, information about your tickets and itineraries, or your travel profiles).
 
-When we receive your email address in connection with the sale of goods or services and you have not opted out of this, we reserve the right to send you offers regularly via email for products from our range that are similar to those already purchased.
+We also use the e-mail address obtained in connection with the booking or trip in accordance with Article 7 (3) UWG (Unfair Competition Act) to send you offers regularly via e-mail for products from our product range that are similar to those already purchased. You may countermand the use of your e-mail address at any time by sending a message to [unsubscribe@flixbus.com](mailto:unsubscribe@flixbus.com) or via the newsletter’s cancellation link. 
 
-You can withdraw consent for the use of your email address and the processing and use of the data to create user profiles at any time by sending a message to [unsubscribe@flixbus.com](mailto:unsubscribe@flixbus.com) or via the cancel registration link of the newsletter.
+If you register for the newsletter via our registration link, the registration occurs with your permission in accordance with Art. 6 (1) letter a GDPR. You may revoke the permission to use your e-mail address at any time by writing to [unsubscribe@flixbus.com](mailto:unsubscribe@flixbus.com) or via the newsletter’s cancellation link.  
+ 
 
 ## 4.  Data security
 
@@ -75,7 +76,7 @@ The entity responsible for processing personal data is FlixMobility GmbH, Birket
 
 ## 8.  Information and complaint rights
 
-Pursuant to the basic data protection regulation, you have a right to free information about your stored data and, where applicable, a right to rectification, deletion, limitation of processing and objection to your stored data. In this context, please contact FlixMobility GmbH, Birketweg 33, 80639 Munich or send us an email at [data.protection@flixbus.com](mailto:data.protection@flixbus.com).       
+Pursuant to the General Data Protection Regulation, you have a right to free information about your stored data and, where applicable, a right to rectification, erasure, restriction of processing, and a right to data portability (Art. 20 GDPR) and to objection with regard to your stored data. For such matters, please contact FlixMobility GmbH, Birketweg 33, 80639 Munich or e-mail us at [data.protection@flixbus.com](mailto:data.protection@flixbus.com).       
 
 You can contact our data protection officer at [data.protection@flixbus.com](mailto:data.protection@flixbus.com).
 
@@ -135,15 +136,9 @@ This website also uses the AB TASTY SAS web analytics service AB Tasty, which is
 
 To improve your user experience on our internet pages we use software by Hotjar (http://www.hotjar.com, 3 Lyons Range, 20 Bisazza Street, Sliema SLM 1640, Malta, Europe). Using the software, we can measure and evaluate user behaviour (mouse movements, clicks, keystrokes, scroll height, etc.) on our websites. For this purpose, cookies are placed on users’ terminals and data from users such as browser information, operating system, time spent on the page, etc. can be stored. You can find more information about the processing of data by hotjar at <http://www.hotjar.com/privacy>. You can object to the use of Hotjar’s services at <https://www.hotjar.com/opt-out>.
 
-### 9.11 BSmartData
+### 9.11 Snowplow
 
-This website uses the services of BSmartData GmbH to optimize and deliver advertising based on your usage data and browsing interests. This service uses cookies to gather statistics on visited sites and products, without linking this to an identifiable person. You will find further information on the collected information on <https://ad.bsmartdata.com/privacy.php>. This page also provides guidance on how to disable tracking at any time.
-
-### 9.12 InviteBox
-
-This website also uses the tool InviteBox to reward customers for referring their friends and tracks whether those friends make a purchase after the referral. Rewards will be sent to you via an email from Invitebox. No contact details are used if they are not explicitly provided by each individual themselves.   
-If you as a visitor enter your e-mail address through the widget, we will pass this on to the widget operator who can use the address for the contest(s) and program(s) promoted with the widget. The widget records data about its distribution and use, and transmits this to InviteBox for statistical purposes, but does not harvest personally identifiable information about users. InviteBox only receives contact details for the purpose of sending a message to selected persons, and sends only that message to those persons. You can find more information about the processing of data by Invitebox at [https://invitebox.com/privacy](https://invitebox.com/privacy/)/ , there you can also object to the use of your contact data at any time and ask to be blacklisted at Invitebox in the future.  
- 
+This website/app uses Snowplow Opensource, an analysis technology of Snowplow Analytics Limited (The Rome Building, 32-38 Scrutton Street, London, EC2A 4RQ, United Kingdom). With the help of this analysis technology, we collect statistical data about the use of our website. Information which your browser transmits is collected and evaluated in the context of the use of this website. This is done by cookie technology and pixels, which are incorporated into each web page. The data collected in this way are used to create usage profiles that form the basis for web statistics. You can prevent cookies being stored on your computer via a corresponding setting of your browser software. However, we point out that you might not be able to use all functions of this website to their full extent in this case. You can also prevent FlixMobility from collecting the data generated by the cookie with respect to your use of the website, as well as the processing of this data by FlixMobility, by objecting to such collection and processing using the following link: [data.protection@flixbus.com](mailto:data.protection@flixbus.com)
 
 ## 10\. Social Plugins
 
