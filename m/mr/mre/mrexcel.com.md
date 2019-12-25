@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrexcel.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503113948id_/https%3A//www.mrexcel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrexcel.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225031941id_/https%3A//www.mrexcel.com/privacy-policy) for the most accurate reproduction.*
 
 # MrExcel Privacy Policy - MrExcel Publishing
 
