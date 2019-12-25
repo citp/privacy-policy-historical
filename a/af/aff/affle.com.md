@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affle.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329090208id_/https%3A//affle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affle.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225031621id_/https%3A//affle.com/privacy-policy) for the most accurate reproduction.*
 
 # About Affle | Consumer Focused Mobile Advertising | Mobile Marketing
 
