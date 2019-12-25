@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zorinos.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606225114id_/https%3A//zorinos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zorinos.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225055113id_/https%3A//zorinos.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zorin OS
 
@@ -14,7 +14,7 @@ For the purpose of applicable data protection legislation, the data controller i
 
 ## Information we collect
 
-We may collect the following types of personally identifiable information from you:
+We may collect the following types of information from you:
 
 **Account registration.** When you register to use certain parts of our Services, we may ask for personal information such as your name, email address, age, and a password. We keep this information as so long as reasonably required to provide our Service.
 
@@ -32,9 +32,12 @@ We may also collect the following types of anonymous and non-personally identifi
 
 **Online usage logs and analytics.** When visiting our websites or online applications, we may collection information about your interaction including but not limited to the device type, browser version, date & time of the site visit, referring website, pages visited on our websites, and visit duration. Please note that we may use a third party analytics service to collect some usage information from our websites and online applications. For more information about how we use cookies, please see the “Cookies policy” section below. We keep this information as so long as reasonably required.
 
-**Error reports.** When you choose to send an error report in our software, it includes an anonymous unique identifier for your computer. The unique identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately.
+**Error reports.** When you choose to send an error report in our software, it includes an anonymous unique identifier for your computer. The unique identifier does not identify you unless you (or someone acting on your behalf) discloses it separately.
 
-**Anonymous pings.** When using Zorin OS, your computer may occasionally send us a ping which includes an anonymous unique identifier for your computer. We use this information to count the number of active users of Zorin OS. The unique identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. You may choose to disable these pings by uninstalling the “zorin-os-census” package from your computer.
+**Census.** When using Zorin OS, your computer may send us a ping which only includes the number of users, an anonymous identifier for the installation, Zorin OEM partner batch (if applicable), and your OS version on an hourly basis. We use this information to count the number of active users of Zorin OS. The identifier is only used for the census (to prevent double-counting) and does not personally identify you unless you (or someone acting on your behalf) discloses it separately. Below is a sample of the contents of the ping:  
+{id:"68f2d95b-f51f-4a5d-9b48-a99c28691b89", usercount:"1", oembatch:"", version:"15"}  
+You may choose to disable these pings by selecting the "Don't participate in the census" option in the Zorin OS installer or entering this Terminal command after installing Zorin OS:  
+sudo apt remove zorin-os-census
 
 * * *
 
