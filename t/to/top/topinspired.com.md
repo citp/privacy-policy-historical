@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topinspired.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203173639id_/https%3A//www.topinspired.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topinspired.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225053704id_/https%3A//www.topinspired.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Inspired
 
