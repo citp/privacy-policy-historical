@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uum.edu.my privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605233542id_/http%3A//www.uum.edu.my/privacy-security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uum.edu.my privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225234952id_/http%3A//www.uum.edu.my/privacy-security-policy.html) for the most accurate reproduction.*
 
 # Universiti Utara Malaysia - Privacy & Security Policy
 
