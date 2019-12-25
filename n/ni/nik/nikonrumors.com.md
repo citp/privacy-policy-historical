@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonrumors.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624040218id_/https%3A//nikonrumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonrumors.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225232425id_/https%3A//nikonrumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Nikon Rumors
 
