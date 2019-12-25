@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelosco.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620161513id_/https%3A//www.jewelosco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelosco.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225211643id_/https%3A//www.albertsonscompanies.com/about-us/our-policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -184,8 +184,10 @@ We are based in the United States.  When we obtain information about you, we ma
 
 If you have questions or comments about this Privacy Policy or other privacy-related matters, you may contact us as follows:
 
-**Mailing Address:**   Albertsons Companies, Attn: Albertson’s Customer Service, 250 Parkcenter Blvd., Boise, ID 83706  
-**Email Address:**   AlbertsonsCustomerInquiries@albertsons.com  
-**Customer Interaction Center:** (877) 723-3929
+**Mailing Address:**   Albertsons Companies, Attn: Privacy Office, 250 Parkcenter Blvd., Boise, ID 83706  
+**Email Address:**   [privacyoffice@albertsons.com](mailto:privacyoffice@albertsons.com)  
+**Customer Interaction Center:** (877) 251-6559 (toll free)
+
+Nevada Consumers – Use our online form to [submit a privacy request](https://privacyportal-cdn.onetrust.com/dsarwebform/ea30fd57-7c9b-4aa0-b3c2-5ff790e3550f/d9e04a3f-8f08-47d9-8390-77437d081649.html?State=NV).
 
 © 2018 Albertsons Companies. All rights reserved. 
