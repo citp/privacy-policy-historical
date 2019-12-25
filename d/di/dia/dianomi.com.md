@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516152524id_/https%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225234546id_/https%3A//www.dianomi.com/legal/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - dianomi - intelligent customer acquisition
 
@@ -187,7 +187,7 @@ Tracking mechanisms operate at the device and browser level, so if you would lik
 
 ### **Cookie Policy**
 
-To enhance your online experience we use "cookies." Cookies are text files placed by the Website in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information. However, once you choose to furnish the Website with personal information (such as signing up to receive one of the offers made by our third party advertising partners), this information may be linked to the data stored in the cookie. We use cookies to understand Internet usage, enhance the performance of the Website, activate special web features and security mechanisms. In addition, we may use cookies to offer you products, programs or services which may be part of client retargeting campaigns.
+To enhance your online experience we use "cookies." Cookies are small text files placed by the Website in your computer's browser to make a user’s experience more efficient. Cookies, by themselves, do not tell us your e-mail address or other personal information. However, once you choose to furnish the Website with personal information (such as signing up to receive one of the offers made by our third party advertising partners), this information may be linked to the data stored in the cookie. We use cookies to understand Internet usage, enhance the performance of the Website, activate special web features and security mechanisms. In addition, we may use cookies to offer you products, programs or services which may be part of client retargeting campaigns.
 
 You always have the option of setting your browser to warn you when a cookie is being accessed on your computer, to delete cookies that are currently on your computer or to decline cookies altogether. However, to take full advantage of the Website and its features, your browser will need to accept cookies.
 
@@ -195,63 +195,75 @@ Web beacons (also known as clear gifs) are small, invisible graphic images that 
 
 You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. 
 
-**Cookies table**
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
 
-session
+This site uses different types of cookies which are listed in the below table. Some cookies are placed by third party services that appear on our pages.
 
-| 
+Your consent applies to the following domains:   
+www.dianomi.com, www.marketviews.com, my.dianomi.com, help.dianomi.com 
 
-An id to the user in our data management platform  
+### Necessary Cookies
+
+##### Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+Name | Provider | Purpose | Expiry  
+---|---|---|---  
+IFAdisclaimer (for marketviews.com) | Dianomi | For directing a user to correct part of site | Session  
+PHPSESSIONID | Marketviews | Set by the Advanced Polls plugin to detect and prevent duplicate poll votes  | Session  
+_cfduid (x4) | Cloudflare | Security  (See the following for more info: <https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies>) | 30 days  
+cookielawinfo-checkbox-analytics | Dianomi, Marketviews | Accepted analytics cookies | 1 year  
+cookielawinfo-checkbox-marketing | Dianomi, Marketviews | Accepted marketing cookies | 1 year  
+cookielawinfo-checkbox-necessary | Dianomi, Marketviews | Accepted necessary cookies | 1 year  
+player | Vimeo |  Necessary for the implementation of the Vimeo embedded player for video-content on the website.  (See the following for more info: <https://vimeo.com/cookie_policy>) | 1 year   
+viewed_cookie_policy | Dianomi | Working of site | 1 year  
   
----|---  
+### Analytics Cookies
+
+##### Analytics cookies help website owners to understand how visitors interact with websites by collecting and reporting information in a way that does not directly identify you.
+
+Name | Provider | Purpose | Expiry  
+---|---|---|---  
+IFAdisclaimerGT (for marketviews.com) | Dianomi | For analytics and pushing to correct part of site | Session   
+SESSION_KEY (for my.dianomi.com) | Dianomi | Log in tracking | Session  
+Sites (for my.dianomi.com) | Dianomi | Site visitor tracking | Session  
+_ga (x3) | Google | google analytics tracking | 2 years  
+_gat_UA-187050-10 (x3) | Google | google analytics tracking | 1 minute  
+_gid (x3) | Google | Registers a unique ID that is used to generate statistical data | 24 hours  
   
-session2
+### Marketing Cookies
 
-| 
+##### Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
 
-Used for interest based advertising  
+Name | Provider | Purpose | Expiry  
+---|---|---|---  
+Visitor_[number] | Salesforce/Pardot | Site visitor tracking from Pardot | 10 years  
+Visitor_[number]-hash | Salesforce/Pardot | Site visitor tracking from Pardot | 10 years  
+_gads (on marketviews.com) | Google | Google ads manager – measuring and serving of ads | 2 Years  
+dnt (on marketviews.com) | Dianomi | Indicates a user has opted out of targeting for interest based advertising | 5 years  
   
-dnt
+### Third Party Sites
 
-| 
+##### Cookies placed by Dianomi via third party websites with that website owner’s permission:
 
-Indicates a user has opted out of targeting for interest based advertising  
-  
-sites
-
-| 
-
-Used to list different dianomi sites a user has visited (internal sites and my.dianomi.com )  
-  
-hex/HEX
-
-| 
-
-Used to track details of users who have filled in lead generation forms (no longer used)  
-  
-UID
-
-| 
-
-Used to track details of users who have filled in lead generation forms (no longer used)  
-  
-USER_UUID
-
-| 
-
-Used to track details of users who have filled in lead generation forms  
-  
-CLICK_ID
-
-| 
-
-Used to track users who have clicked on ads  
-  
-DIANOMI-CLICK-COOKIE
-
-| 
-
-Used to track users who have clicked on ads  
+Name | Provider | Purpose | Expiry  
+---|---|---|---  
+CLICK_ID | Dianomi | track users who have clicked on ads. | 3 years  
+DIANOMI-CLICK-COOKIE | Dianomi | track users who have clicked on ads. | 3 years  
+GED_PLAYLIST_ACTIVITY | flowplayer |  Playing of video ads | Session  
+Set by a2.adform.net / track.adform.net | adform | Advertiser analytics | Set by Provider  
+Set by ads.doubleclick.net | DoubleClick | Advertiser analytics | Set by Provider  
+Set by ads.revjet.com | Revjet | Advertiser analytics | Set by Provider  
+Set by bs.serving-sys.com | Serving Sys | Advertiser analytics | Set by Provider  
+Set by pixel.adsafeprotected.com | Integral Ad Science | Advertiser analytics | Set by Provider  
+Set by tps.doubleverify.com | Double Verify | Advertiser analytics | Set by Provider  
+_cfduid (x3) | Cloudflare | Security | 30 Days  
+ab | Neustar | user tracking | 1 year  
+dnt (on marketviews.com) | Dianomi | Indicates a user has opted out of targeting for interest based advertising | 5 years  
+session | Dianomi | dmp session id | 180 days  
+session2 | Dianomi | track whether data synced with 3rd parties | 180 days  
+sites | Dianomi | Which dianomi sites publishers, advertisers and staff have logged in to | 1 month  
+third party cookie sync | Dianomi | Cookie Sync | 1 to 5 years  
+u | Neustar | user tracking | 1 year  
   
 **Change of purpose**
 
