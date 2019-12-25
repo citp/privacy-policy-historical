@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourminutebooks.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329072754id_/https%3A//fourminutebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourminutebooks.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225025724id_/https%3A//fourminutebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Four Minute Books
 
@@ -68,6 +68,10 @@ We, along with third-party vendors, such as Google use first-party cookies (such
 
 Opting out:  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+###  **RightMessage**
+
+We use the functions of the RightMessage platform. Provider is Rightmessage, Inc. 2035 Sunset Lake Road Suite B-2 Newark, DE 19702, USA. Each time you access any of our pages that contain RightMessage functionality, you will be connected to RightMessage servers. We use RightMessage to customize our site for anonymous and identifiable visitors to enhance the user experience. Privacy Policy: https://rightmessage.com/privacy.
 
 ###  **California Online Privacy Protection Act**
 
