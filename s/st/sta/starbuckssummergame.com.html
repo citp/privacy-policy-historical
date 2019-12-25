@@ -1,0 +1,688 @@
+<!--The following is the downloaded HTML source of the starbuckssummergame.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225200444id_/https%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="  js no-touch csstransitions generatedcontent localstorage boxsizing nthchild" lang="en-US"><!--<![endif]--><head>
+		<meta charset="utf-8"><iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script src="https://js-agent.newrelic.com/nr-spa-1158.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NQ2H5B"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"671cca5e0f","applicationID":"23303312","transactionName":"NQMBZkJRXEAEAhJQCgxJLmRzH3NRChQSbBYhCQ1GQl9eXwATSWkEBQM=","queueTime":0,"applicationTime":56,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUHVlNSARACV1JSBAIGVA==",licenseKey:"671cca5e0f",applicationID:"23303312"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(24),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(25),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){L++,C=g.hash,this[u]=y.now()}function o(){L--,g.hash!==C&&i(0,!0);var t=y.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+g,e])}function a(t,e){t.on(e,function(){this[e]=y.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,g=w.location,y=t("loader");if(w[v]&&y.xhrWrappable){var x=t(10),b=t(11),E=t(8),O=t(6),R=t(13),P=t(7),N=t(14),T=t(9),M=t("ee"),S=M.get("tracer");t(16),y.features.spa=!0;var C,L=0;M.on(u,r),M.on(p,r),M.on(d,o),M.on(l,o),M.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),R.buffer(["setTimeout"+c,"clearTimeout"+s,u]),N.buffer([u,"new-xhr","send-xhr"+s]),P.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),x.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),T.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(N,"send-xhr"+s),a(M,"xhr-resolved"),a(M,"xhr-done"),a(P,m+s),a(P,m+"-done"),a(T,"new-jsonp"),a(T,"jsonp-end"),a(T,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,L>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(8),"addEventListener"in window&&t(6);var x=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),o.on(v,function(t,e){var n=t[0];n instanceof x&&i("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+l,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=i(arguments),e={};o.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return o.emit(n+"start",[t,a],s),s.then(function(t){return o.emit(n+"end",[null,t],s),t},function(t){throw o.emit(n+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(25),a=t(24);e.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,p=s.Response,l=s.fetch,h="prototype",m="nr@context";d&&p&&l&&(a(u,function(t,e){r(d[h],e,f),r(p[h],e,f)}),r(s,"fetch",c),o.on(c+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(c+"done",[null,e],n)}else o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t("wrap-function")(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t("wrap-function")(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?f.inPlace(Node.prototype,l,"dom-"):(f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-")),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t("wrap-function")(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t("wrap-function"),a=t("ee").get("promise"),s=i(a),c=t(24),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,x),x.prototype=l.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){if(!i(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,s=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,n,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,e,n,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:e,ti:n}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var e=!1,n=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,n=!!r.enabled),n)if(t.sameOrigin)e=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return n&&e}var a=t(22),s=t(17);e.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(p[r],this.listener,!1);e.aborted||(n.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):a(this,t),n.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return v(r)}function i(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=f(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function a(t,e){t.params.status=e.status;var n=o(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(17),u=t(15).generateTracePayload,d=t("ee"),p=["load","error","abort","timeout"],l=p.length,h=t("id"),m=t(20),v=t(19),w=window.XMLHttpRequest;s.features.xhr=!0,t(14),t(7),d.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){a(e,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=u(this.parsedOrigin);n&&n.header&&(e.setRequestHeader("newrelic",n.header),this.dt=n)}),d.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=v(r);i&&(n.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{d.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<l;a++)e.addEventListener(p[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,e],e)}),d.on("fetch-before-start",function(t){var e,n=t[1]||{};"string"==typeof t[0]?e=t[0]:t[0]&&t[0].url&&(e=t[0].url),e&&(this.parsedOrigin=f(e),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=u(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in n)i[a]=n[a];i.headers=new Headers(n.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],17:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,o={};e.href=t,o.port=e.port;var i=e.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=e.hostname||n.hostname,o.pathname=e.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,s=e.hostname===document.domain&&e.port===n.port;return o.sameOrigin=a&&(!e.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],18:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(24),s=t(25),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],19:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],20:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],21:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?a("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&a("timing",["fcp",Math.floor(t.startTime)])})}function o(t){if(t instanceof c&&!u){var e,n=Math.round(t.timeStamp);e=n>1e12?Date.now()-n:s.now()-n,u=!0,a("timing",["fi",n,{type:t.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var i,a=t("handle"),s=t("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){i=new PerformanceObserver(r);try{i.observe({entryTypes:["paint"]})}catch(f){}}if("addEventListener"in document){var u=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(t){document.addEventListener(t,o,!1)})}}},{}],22:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],23:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],24:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],25:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],26:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function l(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(24),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(24),u=t("ee"),d=t(23),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1158.min.js"},x=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(18),t(21),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(26)},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(25),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,16,5,3,4]);</script>
+		<title>Privacy Policy | Starbucks Coffee Company</title>
+		
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		
+		
+	
+
+<meta content="Starbucks, Starbucks Coffee Company, Starbucks.com, Starbucks Corporation, Starbuck, SBUX, Seattle, Seattle’s Best, Seattle’s Best Coffee, SBC, Pike Place" name="keywords">
+<meta content="Privacy Policy" property="og:title">
+<meta content="company" property="og:type">
+<meta content="https://www.starbucks.com/about-us/company-information/online-policies/privacy-policy" property="og:url">
+<meta content="https://www.starbucks.com/static/images/global/logo.png" property="og:image">
+<meta content="Starbucks Coffee Company" property="og:site_name">
+<meta content="338375791266" property="fb:app_id">
+
+
+
+		
+		
+
+	<link rel="shortcut icon" type="image/x-icon" href="/static/images/favicon.ico">
+	<link rel="apple-touch-icon" href="/static/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/static/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/static/images/touch-icon-iphone4.png">
+			<link rel="stylesheet" href="/static/resource/global_css/-554735318_en-US" media="screen, print">
+
+
+    <link href="//fonts.googleapis.com/css?family=Lato:400,700|Crete+Round:400,400italic" rel="stylesheet" type="text/css">
+
+
+		
+	
+		
+
+		<!--[if IE 6]><link rel="stylesheet" href="/static/css/fix/ie6.css" media="screen, print" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/static/css/fix/ie7.css" media="screen, print" /><![endif]-->
+		<!--[if IE 8]><link rel="stylesheet" href="/static/css/fix/ie8.css" media="screen, print" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="/static/css/fix/ie9-or-lt.css" media="screen, print" /><![endif]-->
+			<!-- PartialRequest:{"controller":"Master","action":"JsHead"} -->
+
+
+
+<script src="/static/js/library/modernizr.custom.js"></script>
+<!--[if lte IE 8]><script src="/static/js/library/respond.min.js"></script><![endif]-->
+
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        //Following: GA
+        'gaAccount': 'UA-9155837-1',
+        'gaSetDomainName': '.starbucks.com',
+        'gaIgnoredRef': 'starbucks.com',
+
+        //Following:user and session details, when applicable (afterlogin)
+        'userLoyalty': 'NotMember',
+        'sessionId': 'gdmdcd1',
+        'visitorId': 'anonymous',
+        'hasPaymentMethod': 'False',
+
+        //Following:required
+        'visitorLoginState': 'False',
+        'locale': 'en-US',
+        'region': 'US',
+        'platform': 'Starbucks Global Web',
+        'event': 'datalayer-initialized'
+    })
+</script>
+
+	<script src="//cdn.optimizely.com/js/6558036.js"></script>
+<!-- /PartialRequest:{"controller":"Master","action":"JsHead"} -->
+
+		
+	
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"true","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-11b5ba1c-ee81-4e74-a213-11bc2470f7b6","rua.cook":"true","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
+  <script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+  <script>!function(e){var a="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,a="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="HHB3F-A7T87-EXZWT-MGPRQ-KZYBS",function(){function n(a){e.BOOMR_onload=a&&a.timeStamp||(new Date).getTime()}if(!e.BOOMR||!e.BOOMR.version&&!e.BOOMR.snippetExecuted){e.BOOMR=e.BOOMR||{},e.BOOMR.snippetExecuted=!0;var i,o,r,_=document.createElement("iframe");if(e[t])e[t]("load",n,!1);else if(e.attachEvent)e.attachEvent("onload",n);_.src="javascript:void(0)",_.title="",_.role="presentation",(_.frameElement||_).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(_,r);try{o=_.contentWindow.document}catch(O){i=document.domain,_.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=_.contentWindow.document}o.open()._l=function(){var e=this.createElement("script");if(i)this.domain=i;e.id="boomr-if-as",e.src=a+"HHB3F-A7T87-EXZWT-MGPRQ-KZYBS",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var a="true"=="true"?1:0,t="cookiepresent",n="z7y6ksyx36ssixqdydoa-f-8d1db2add-clientnsv4-s.akamaihd.net",i={"ak.v":25,"ak.cp":"609049","ak.ai":parseInt("372024",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"","ak.rid":"3bb8e4b8","ak.r":29520,"ak.a2":a,"ak.m":"a","ak.n":"essl","ak.bpcip":"207.241.229.0","ak.cport":55648,"ak.gh":"65.123.11.191","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1577304284"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(a){var t="http.initiator";if(a&&(!a[t]||"spa_hard"===a[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var e=BOOMR.subscribe;e("before_beacon",o.av,null,null),e("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body>
+		<!-- PartialRequest:{"controller":"Master","action":"JsTrackingStart"} -->
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NQ2H5B" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+	</noscript>
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+				new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+			'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-NQ2H5B');
+	</script>
+
+<!-- /PartialRequest:{"controller":"Master","action":"JsTrackingStart"} -->
+		
+
+<!--[if lte IE 8]>
+	<div class="container">
+		<div class="fields">
+			<div class="region size1of1">
+				<div class="validation_summary warning validation_large"><h2>You may want to update your browser</h2><p>It appears you&rsquo;re using an older browser. Starbucks will work better for you if you <a href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie">upgrade your browser</a> or switch to another browser.</p></div>
+			</div>
+		</div>
+	</div>
+<![endif]-->
+			
+		
+		
+                
+
+<div class="header_bar has_cta">
+        <div class="container">
+            <div class="grid">
+                <div class="column size12of12 clear_padding lg_restore_padding">
+                    <p class="wrapper">
+                            <a href="https://www.starbucks.com/rewards"><span class="promo_text"><span class="lead_in"></span><span class="pagetop_cta">Exciting updates to Starbucks® Rewards</span> »</span></a>
+                    </p>
+                </div><!--end column-->
+            </div><!--end grid-->
+        </div>
+</div>
+                <div class="header_container">
+
+			    
+			
+				    <div class="container">
+					    <div class="grid">
+						    <div class="column size12of12">
+							    <div id="header">
+									
+										<ul class="skip">
+	<li><a href="#nav">skip to Main Navigation</a></li>
+	<li><a href="#content">skip to Main Content</a></li>
+	<li><a href="#footer">skip to Footer</a></li>
+</ul>
+
+
+								    
+
+	<a id="logo" href="/" rel="home"><span class="hidden_visually">Starbucks Coffee Company</span></a>
+
+
+									        <!-- PartialRequest:{"controller":"Master","action":"Utilities"} -->
+    
+    <div id="utilities">
+        <ul class="utility_list">
+            
+            <li class="utility_link store_locator">
+                    <a href="/store-locator"><span aria-hidden="true" data-icon="✪"></span><span class="hidden_visually med_render_visually">Find a Store</span></a>
+                </li>
+        
+                    <li class="utility_link signin"><a href="/account/signin" id="signIn">Sign In</a></li>
+                    <li class="utility_link joinnow"><a href="/account/create" id="registrationForm">Join Now</a></li>
+             
+        </ul>
+    </div><!--#utilities-->
+    
+<!-- /PartialRequest:{"controller":"Master","action":"Utilities"} -->
+
+								        
+									        
+	<div id="nav" class="content_box_sizing full">
+		<div class="nav_control">
+			<a href="#nav"><span class="hamburger"></span><span class="hidden_visually">Navigation</span></a>
+		</div>
+		<div class="nav_menu">
+			<ul>
+
+	<li id="nav_menu"><div class="null_left">
+
+	</div><a class="tab" href="/menu"><strong>Menu</strong></a><div class="null_right">
+
+	</div></li>
+	<li id="nav_rewards"><div class="null_left">
+
+	</div><a class="tab" href="https://www.starbucks.com/rewards"><strong>Rewards</strong></a><div class="null_right">
+
+	</div></li>
+	<li id="nav_gift_cards"><div class="null_left">
+
+	</div><a class="tab" href="https://www.starbucks.com/shop/card/egift"><strong>Gift Cards</strong></a><div class="null_right">
+
+	</div></li>
+</ul>
+		</div>
+	</div>
+
+
+						            
+
+							    </div><!--end #header-->
+					        </div><!--end .column-->
+				        </div><!-- end .grid -->
+			        </div><!-- end .container -->
+
+                    
+						    
+
+                        
+						    
+
+                    
+
+                </div><!-- end .header_container -->
+		
+
+		
+			
+	<div id="menus">
+		<ol class="container">
+			
+<li class="fields" id="menu_menu"><div class="region size4of5 menu_content">
+	<ol class="blocks blocks-four-up">
+		<li><p>Drinks</p><ol>
+			<li><a href="https://www.starbucks.com/menu/drinks/hot-coffees">Hot Coffees</a></li><li><a href="https://www.starbucks.com/menu/drinks/hot-teas">Hot Teas</a></li><li><a href="https://www.starbucks.com/menu/drinks/hot-drinks">Hot Drinks</a></li><li><a href="/menu/drinks/frappuccino-blended-beverages">Frappuccino® Blended Beverages</a></li><li><a href="https://www.starbucks.com/menu/drinks/cold-coffees">Cold Coffees</a></li><li><a href="https://www.starbucks.com/menu/drinks/iced-teas">Iced Teas</a></li><li><a href="https://www.starbucks.com/menu/drinks/cold-drinks">Cold Drinks</a></li>
+		</ol></li><li><p>Food</p><ol>
+			<li><a href="/menu/food/hot-breakfast">Hot Breakfast</a></li><li><a href="/menu/food/bakery">Bakery</a></li><li><a href="https://www.starbucks.com/menu/food/lunch">Lunch</a></li><li><a href="https://www.starbucks.com/menu/food/snacks-and-sweets">Snacks &amp; Sweets</a></li><li><a href="https://www.starbucks.com/menu/food/yogurt-and-custard">Yogurts &amp; Custards</a></li>
+		</ol></li><li><p>At Home Coffee</p><ol>
+			<li><a href="https://www.starbucks.com/menu/at-home-coffee/whole-bean">Whole Bean</a></li><li><a href="https://www.starbucks.com/menu/at-home-coffee/verismo-pods">Verismo® Pods</a></li><li><a href="https://www.starbucks.com/menu/at-home-coffee/via-instant">Via® Instant</a></li><li><a href="https://www.starbucks.com/menu/at-home-coffee/cold-brew">Cold Brew</a></li>
+		</ol></li><li><p><a href="/promo/nutrition">Nutrition</a></p></li>
+	</ol>
+
+</div>
+</li>
+
+<li class="fields" id="menu_rewards"><div class="region size4of5 menu_content">
+	<ol class="blocks blocks-four-up">
+		<li><p><a href="https://www.starbucks.com/rewards">Starbucks® Rewards</a></p><ol>
+			<li><a href="https://www.starbucks.com/account/create">Join Starbucks Rewards</a></li><li><a href="https://app.starbucks.com/">View Your Stars</a></li><li><a href="https://www.starbucks.com/rewards/terms">Rewards Program Terms of Use</a></li><li><a href="https://www.starbucks.com/rewards#starcode">Enter a Star Code</a></li><li><a href="https://starbucks.com/starbucks-rewards/credit-card?utm_source=megamenu&amp;utm_medium=referral&amp;utm_campaign=6500&amp;spid=G2NW&amp;cell=6J8F">Starbucks® Rewards Visa® Card</a></li><li><a href="https://www.starbucks.com/starbucks-rewards/prepaid-card?utm_source=megamenu&amp;utm_medium=referral&amp;utm_campaign=prepaid&amp;spid=SPPC&amp;cell=S42">Starbucks® Rewards Visa® Prepaid Card</a></li>
+		</ol></li>
+	</ol>
+
+</div>
+</li>
+
+<li class="fields" id="menu_gift_cards"><div class="region size4of5 menu_content">
+	<ol class="blocks blocks-four-up">
+		<li><p><a href="https://www.starbucks.com/shop/card/egift">Buy a Card</a></p><ol>
+			<li><a href="/shop/card/egift">Give a Gift by Email</a></li><li><a href="https://www.starbuckscardb2b.com/">Gift Cards for Businesses</a></li><li><a href="/Card#cardBalanceWrapper">Check Gift Card Balance</a></li><li><a href="https://starbucks.cashstar.com/self_service/register/">eGift Support</a></li>
+		</ol></li><li><p><a href="https://app.starbucks.com/">Manage Your Card</a></p><ol>
+			<li><a href="/Card#cardBalanceWrapper">Check Balance</a></li><li><a href="https://www.starbucks.com/account/card/reload">Reload Your Card</a></li><li><a href="https://www.starbucks.com/account/card/transfer">Transfer Funds</a></li><li><a href="https://www.starbucks.com/account/card/loststolen">Report Lost/Stolen</a></li><li><a href="/gift-cards/manage/card-terms-and-conditions">Card Terms and Conditions</a></li>
+		</ol></li>
+	</ol>
+
+</div>
+</li>
+
+		</ol>
+	</div>
+
+
+    
+        
+		<div class="container main_content" id="content" tabindex="0">
+			
+	<div class="fields"><h1 class="region size2of3 page_heading">STARBUCKS PRIVACY STATEMENT</h1></div>
+	
+
+	<div class="fields">
+		<div class="region size2of3">
+			<p class="note">Last Revised: November 29, 2018</p>
+<p>This Privacy Statement ("Statement") applies to the website located at starbucks.com, store.starbucks.com, Starbucks mobile applications, and any other websites or applications associated with Starbucks brands or products that direct the viewer or user to this Statement. In this Statement, the terms "Starbucks," "we," and "us" refers to Starbucks Corporation and its respective subsidiaries and affiliated companies. The term “your device" refers to any computer, tablet, smart phone or other device you are using to access our websites or to operate the Starbucks mobile applications. Websites that are owned and operated by Starbucks may contain links to websites that are owned and operated by other companies. This Statement does not apply to websites and services that are owned and operated by third parties. </p>
+<p>This Statement went into effect on the date noted at the top of this webpage. We may update this Statement from time to time. If we make material changes, we will post the updated Statement on this page and change the date at the top of this Statement webpage. We encourage you to look for updates and changes to this Statement by checking this date when you access our websites and mobile applications. We will notify you of any modifications to this Statement that might materially affect the way we use or disclose your personal information prior to the change becoming effective by means of a message on this website. </p>
+<p><a href="#collect">Information We Collect</a><br>
+<a href="#use">How We Use Your Information</a><br>
+<a href="#share">How We Share Your Information</a><br>
+<a href="#otherscollect">How We May Allow Others to Collect Your Information</a><br>
+<a href="#cookies">Cookies, Web Beacons, and Similar Technologies</a><br>
+<a href="#choices">Your Choices</a><br>
+<a href="#manage">How to Manage Your Account Information</a><br>
+<a href="#children">Use by Children</a><br>
+<a href="#california">California Residents</a><br>
+<a href="#privacy">Privacy Shield</a><br>
+<a href="#contact">Contact Us</a></p>
+<p><strong><span style="text-decoration: underline;"><a name="collect">Information We Collect</a></span></strong></p>
+<p>As you use our websites and mobile applications or visit one of our stores, we collect information about you and the services you use. The information we collect falls into three different categories: (1) information you give us; (2) information we collect from you automatically; and (3) information we collect from other sources. Some examples of when we collect this information include when you browse or make a purchase on one of our websites; create a Starbucks account; use our website or mobile application to purchase, reload or redeem a Starbucks Card; use the remote order and pay functionality in our mobile applications; buy or send a gift card or e-gift; or participate in a survey or promotion. </p>
+<p><strong>Information You Give Us</strong></p>
+<p>Some information we collect is provided when you use our services. This may include your first and last name, username, password, email address, postal address, phone number, financial account information such as a credit card number, birthday, demographic information (such as your gender), and any other information you give us. You may also permit us to access information directly from your device, such as information in the “contacts list". You may also provide us information about other people, including when you direct us to send a gift card or e-gift. </p>
+<p><strong>Information We Collect Automatically</strong></p>
+Some information is collected by us automatically, including when you access our websites, download and use our Starbucks mobile applications or otherwise use our services or install our applications. This information includes:
+<p>&nbsp;</p>
+<p><strong>Purchasing Information</strong> – We may collect information about your transactions in our stores, on our websites or via our Starbucks mobile applications including what products you purchase, how frequently you purchase them, any rewards or promotions associated with a purchase, and the products you have placed on your “Wishlist" or “My Bag" for future purchase. </p>
+<p><strong>Device and Usage Information</strong> –We may collect information about your browser or device. This information may include the type of device you are using, your operating system, your browser, your internet service provider, your domain name, your internet protocol (IP) address, your device and mobile ad identifiers, the website that referred you to our website, the web pages you view (including the date and time you viewed them), the services or functionality you access or use (including the date and time of your access or use), and the subject of the ads you click or scroll over. To collect this information, we use <a href="#cookies">cookies, web beacons and similar technologies</a>. </p>
+<p><strong>Location Information</strong> –We may collect information about the location of your device, including GPS location, for purposes of enhancing or facilitating our services, such as enabling the functionality of our websites or mobile applications that provide you with information about stores near you, enabling you to remotely order and pay for our products and services, or have certain Starbucks products delivered by a third-party vendor. We may also use information about the location of the device you are using to help us understand how our websites, mobile applications, and other services and functionality are being used and to deliver more relevant advertising. If you want to opt out of the collection of this location information, please see the section below titled "<a href="#choices">Your Choices</a>." </p>
+<p><strong>Information We Collect from Other Sources</strong></p>
+<p>Some information we collect is publicly available. For example, we may collect information you submit to a blog, a chat room, or a social network like Facebook, Twitter or Google+. We may also collect information about you from other companies and organizations. By gathering additional information about you, we can correct inaccurate information, enhance the security of your transactions, and give you product recommendations and special offers that are more likely to interest you. </p>
+<p><strong><span style="text-decoration: underline;"><a name="use">How We Use Your Information </a></span></strong></p>
+<p>We may use the information we collect about you in a variety of ways, including to: </p>
+<ul class="basic">
+    <li>process your purchases of or requests for products and services; </li>
+    <li>communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes; </li>
+    <li>respond to your customer service inquiries and requests for information; </li>
+    <li>post your comments or statements on our websites; </li>
+    <li>send you personalized promotions and special offers; </li>
+    <li>inform you about our brands, products, events, or other promotional purposes; </li>
+    <li>maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer; </li>
+    <li>detect, prevent, or investigate security breaches or fraud; </li>
+    <li>maintain appropriate records for internal administrative purposes; </li>
+    <li>facilitate the functionality of our websites and mobile applications; </li>
+    <li>deliver gift cards or e-gifts in accordance with your instructions; </li>
+    <li>provide important product safety information and notice of product recalls. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;"><a name="share">How We Share Your Information </a></span></strong></p>
+<p>We may share your information in the following circumstances: </p>
+<p><strong>When We Work Together</strong> – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliated companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliated companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings. </p>
+<p><strong>When We Work with Service Providers</strong> – We may share your information with service providers that provide us with support services, such as credit card processing, website hosting, email and postal delivery, location mapping, product and service delivery, analytics services, or conducting academic research. </p>
+<p><strong>When We Work on Business Transactions</strong> – If we become involved with a merger or another situation involving the transfer of some or all of our business assets, we may share your information with business entities or people involved in the negotiation or transfer. </p>
+<p><strong>When Sharing Helps Us Protect Lawful Interests</strong> – We may disclose your information if we believe that the disclosure is required by law, if we believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that the disclosure will help us protect the rights, property, or safety of Starbucks or our customers or partners. </p>
+<p><strong>When We Work with Marketing Service Providers</strong> – We may share your information with marketing service providers to assess, develop and provide you with promotions and special offers that may interest you, administer contests, sweepstakes and events or for other promotional purposes. </p>
+<p><strong>When You Give Consent</strong> – We may share information about you with other companies if you give us permission or direct us to share the information. </p>
+<p><strong>When the Information Does Not Identify You</strong> – We may share your information in a way that does not directly identify you. For example, we may share information about your use of our websites and mobile applications in a manner that does not identify you or may combine information about the nature or frequency of your transactions with similar information about other people and share the aggregated information for statistical analysis and other business purposes. </p>
+<p><strong>When You Post on Our Websites</strong> – If you post information on a blog or another part of our websites, the information that you post may be seen by other visitors to our websites, including your user name. </p>
+<p><strong><span style="text-decoration: underline;"><a name="otherscollect">How We May Allow Others to Collect Your Information</a></span></strong></p>
+<p>When you use our websites or mobile applications, we may allow third parties to collect device and usage information and location information across your different devices through mobile software development kits, <a href="#cookies">cookies, web beacons and other similar technologies</a>. These third parties collect this information for the following purposes and for other purposes consistent with their own privacy policies: </p>
+<p><strong>To Display Ads for Products or Services</strong> – We allow some advertising companies to collect this information in order to display ads that are most relevant to you across your different devices and on our own and others’ websites and mobile apps. Please see the "<a href="#choices">Your Choices</a>" section of this Statement for more information about opting out of targeted advertising and controlling the use of <a href="#cookies">cookies, web beacons and other similar technologies</a>. </p>
+<p><strong>To Understand the Use of Our Services</strong> – We allow certain service providers to collect this information to help us understand how our websites and mobile applications are used and to assist us in improving the content and operation of our online properties. These service providers collect aggregate statistical usage data that is not matched or linked to any individual user. </p>
+<p><strong>To Make the Services of Other Companies Work on Our Websites</strong> – We allow companies to use <a href="#cookies">cookies, web beacons, and other similar technologies</a> to enhance the operations of particular services and functionality of our websites and mobile applications. For example, we allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. These cookies are called Flash cookies. </p>
+<p><strong>To Link Your Activity on Our Websites to Your Social Networks</strong> – We have added certain features to our websites and mobile applications that allow social networks (such as Facebook, Twitter, and Google+) to track the activities of their members or collect certain information when they use our website or mobile applications. These features may include technologies called "plug-ins" and "widgets." Plug-ins create a direct link between two websites, and widgets are interactive mini-programs that provide other companies’ services on our websites. If you are concerned about the way a social network is tracking your activity, please contact the social network or review its privacy policy. For example, you can review Facebook’s data-use policy at <a href="https://www.facebook.com/about/privacy/">https://www.facebook.com/about/privacy/</a>. </p>
+<p><strong><span style="text-decoration: underline;"><a name="cookies">Cookies, Web Beacons and Similar Technologies</a></span></strong></p>
+<p>We and others may use a variety of technologies to collect information about your device and use of our websites and mobile applications. These technologies include cookies, web beacons, java scripts, entity tags, and HTML local storage. Most web browsers can be programmed to accept or reject the use of some or all of these technologies, although you must take additional steps to disable or control other technologies. For more information, please see the section of this Statement titled "<a href="#choices">Your Choices</a>"</p>
+<p><strong>Cookies</strong> – Cookies are small data files that are sent from a website’s server and are stored on your device’s hard drive either for only the duration of your visit ("session cookies") or for a fixed period ("persistent cookies"). Cookies contain information that can later be read by a web server. </p>
+<p><strong>Web Beacons</strong> – Web beacons are small, transparent images that are embedded in web pages, applications, and emails that are sometimes called “clear gifs," “single pixel gifs", "page tags" or “web bugs." We use web beacons to track the web pages you visit, to test the effectiveness of our marketing, and to find out if an email has been opened and acted on. </p>
+<p><strong>Java Scripts</strong> – Java scripts are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components. </p>
+<p><strong>Entity Tags</strong> -- Entity Tags are HTTP code mechanisms that allow portions of websites to be stored or “cached" within your browser and validates these caches when the website is opened, accelerating website performance since the web server does not need to send a full response if the content has not changed. </p>
+<p><strong>HTML5 Local Storage</strong> – HTML5 local storage allows data from websites to be stored or “cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited. </p>
+<p>These and similar technologies are used for the following purposes: </p>
+<p><strong>Services and Functionality</strong> – Some of these technologies are required to allow you to access and use our websites or mobile applications and the various services and functionality we offer. Without these technologies, some of the services and functionality on our websites and mobile applications would not work properly. </p>
+<p><strong>Performance Monitoring</strong> – Some of these technologies help us analyze and estimate traffic and assess the volume of use of services and functionality on websites and mobile applications. They show us how visitors and customers interact with our digital properties, whether there are any errors, the degree to which certain web pages, applications, services or functionality are accessed and used and how they are performing or operating. When these technologies are used for performance monitoring, no information that identifies you is collected. </p>
+<p><strong>User Convenience</strong> – Some of these technologies enhance the ease of use of our websites and mobile applications and the services and functionality they make available by accelerating load and refresh times and remembering information that you have provided on prior visits to our websites or when you last used a website or mobile application service or functionality. </p>
+<p><strong>Marketing</strong> – Some of these technologies are used to tailor your experience on our website, within our mobile applications, or across your applications or devices by controlling the promotions, advertisements and other marketing messages that may appear when you access or use these or other digital properties. These technologies also help us learn which services and functionality you are using and how you are accessing information about us. We may use this information to personalize your visit to a website or use of a mobile application or to send you relevant promotions and advertisements. </p>
+<p><strong><span style="text-decoration: underline;"><a name="choices">Your Choices</a></span></strong></p>
+<p><strong>Promotional Communication Choices</strong></p>
+<p>You can opt out of receiving promotional emails and mailings by informing us of your preference at the time you sign up for a Starbucks account, modifying your promotional preferences online in your account’s profile management section, or following the opt out instructions in the promotional emails we send you. Similarly, you may opt in to receive text messages, telephone calls and mailings. Where our mobile applications allow for the delivery of “push notifications" you can also opt out of receiving these notifications by toggling the “Notifications" switches within our mobile applications to "off." By downloading and using our mobile application, you may receive promotional messages, offers, news and information about Starbucks or our business partners within the mobile application itself. These “in app" messages are part of our mobile application’s functionality and cannot be turned off. If you do not want to receive “in app" messages, offers, news and information, do not download or use our mobile application. </p>
+<p>Please note that if you opt out of receiving promotional communications from us, we may still send you transactional communications, including emails about your accounts or purchases. </p>
+<p><strong>Location Information</strong> –You may be able to adjust the settings of your device so that information about your physical location is not sent to us or third parties by (a) disabling location services within the device settings; or (b) denying certain websites or mobile applications permission to access location information by changing the relevant preferences and permissions in your mobile device or browser settings. Please note that your location may be derived from your WiFi, Bluetooth, and other device settings. See your device settings for more information. </p>
+<p><strong>Voice Transmissions</strong> –You can ensure you do not send us or any third parties any transmissions of your voice by not using the voice ordering feature. In addition, you may be able to adjust the settings of your device so that your voice transmissions cannot be sent to us or third parties by (a) disabling microphone and speech recognition services within the device settings; or (b) denying certain websites or mobile applications permission to access microphone and speech recognition services by changing the relevant preferences and permissions in your mobile device or browser settings. </p>
+<p><strong>Cookies, Web Beacons and Similar Technologies</strong> – You may be able to reject cookies, web beacons, entity tags and HTML5 local storage by adjusting the appropriate settings in your browser. Each browser is different, but many common browsers (Internet Explorer, Chrome, Firefox, and Safari) have preferences or options that may be adjusted to allow you to either accept or reject cookies and certain other technologies before they are set or installed or allow you to remove or reject the use or installation of certain technologies altogether. If you want to learn the correct way to modify your browser settings, please use the Help menu in your browser. </p>
+<p><strong>Interest-Based Ads</strong> -- Many advertising companies that collect information for interest-based advertising are members of the Digital Advertising Alliance or the Network Advertising Initiative, both of which maintain websites where people can opt out of interest-based advertising from their members. To opt-out on these pages, visit <a href="http://www.AboutAds.info">www.AboutAds.info</a> and <a href="http://www.networkadvertising.org">www.networkadvertising.org</a>. </p>
+<p><strong>Adobe Flash Player Technology</strong> – We allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. You cannot remove Flash cookies simply by changing your browser settings. If you would like to limit the websites that can store information in Flash cookies on your device, you must visit the Adobe website: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>. </p>
+<p><strong>"Do Not Track" Technology</strong> – Some newer web browsers have a "Do Not Track" preference that transmits a "Do Not Track" header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser "Do Not Track" signals. </p>
+<p><strong><span style="text-decoration: underline;"><a name="manage">How to Manage Your Account Information</a></span></strong></p>
+<p>Upon request we will provide you with information about whether we hold any of your personal information. You may access, correct, or remove your personal information by visiting <a href="http://www.Starbucks.com/Account">www.Starbucks.com/Account</a>. As required by law for taxes and other record keeping purposes, we are unable to completely delete an account. </p>
+<p><strong>How We Protect Your Information</strong></p>
+<p>Starbucks protects your information using technical, physical, and administrative security measures to reduce the risk of loss, misuse, unauthorized access, disclosure or modification of your information. When you transmit highly sensitive information (such as a credit card number) through our website or in one of our mobile applications, we encrypt the transmission of that information using the Secure Sockets Layer (SSL) protocol. While we have employed security technologies and procedures to assist safeguarding your personal information, no system or network can be guaranteed to be 100% secure. </p>
+<p><strong><span style="text-decoration: underline;"><a name="children">Use by Children</a></span></strong></p>
+<p>We do not intend for our websites or online services to be used by anyone under the age of 13. If you are a parent or guardian and believe we may have collected information about your child, please contact us as described in the "<a href="#contact">Contact Us</a>" section of this Statement. </p>
+<p><strong><span style="text-decoration: underline;"><a name="california">California Residents</a></span></strong></p>
+<p>If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks Customer Service, P.O. Box 60650 San Angelo, TX. 76906. We will make every effort to promptly respond to your request.</p>
+<p><strong><span style="text-decoration: underline;"><a name="privacy">Privacy Shield</a></span></strong></p>
+<p>Starbucks Corporation participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. Starbucks is committed to subjecting all personal data received from European Union (EU) member countries, and Switzerland, in reliance on the Privacy Shield Frameworks, to the applicable Principles. To learn more about Privacy Shield, visit the U.S. Department of Commerce’s Privacy Shield List here: <a href="https://www.privacyshield.gov/list">https://www.privacyshield.gov/list</a>.</p>
+<p>Starbucks is responsible for the processing of personal data it receives, and subsequently transfers to a third party acting as an agent on its behalf, under the Privacy Shield Framework. Starbucks complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.</p>
+<p>With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Starbucks is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Starbucks may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.</p>
+<p>Under certain conditions, more fully described on the Privacy Shield website here: <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+<div><a href="//privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8" title="TRUSTe" target="_blank"><img style="border: medium none;" alt="TRUSTe" src="//privacy-policy.truste.com/privacy-seal/seal?rid=625f045f-b082-4cd8-af08-fcf9445e95d8"></a></div>
+<br>
+<p><strong><span style="text-decoration: underline;"><a name="contact">Contact Us</a></span></strong></p>
+<p>We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at <a href="http://customerservice.starbucks.com">http://customerservice.starbucks.com</a> (by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, P.O. Box 60650 San Angelo, TX. 76906. You can also contact our privacy team us by submitting this <a href="https://app.smartsheet.com/b/form?EQBCT=95280ab14628466a84fd49da2d7865f5">form</a>. </p>
+<p>View the Privacy Policies for our mobile applications:&nbsp;<a href="https://www.starbucks.com/about-us/company-information/online-policies/ios-privacy-policy">iOS</a> and <a href="https://www.starbucks.com/about-us/company-information/online-policies/android-privacy-policy">Android</a>.</p>
+			
+			
+
+			
+		</div>
+
+		<div class="region size1of3">
+			<div class="section_navigation ">
+<h3><a href="/about-us/company-information/online-policies">Online Policies</a></h3>
+</div>
+
+			
+		</div>
+	</div>
+
+			
+			
+
+			
+				
+			
+		</div>
+	
+
+		
+			
+    
+	<div id="footer" tabindex="0" class="footer">
+
+		<!-- PartialRequest:{"controller":"Master","action":"FooterTop"} -->
+
+    <div class="footer-top">
+    <div class="container">
+        <div class="grid">
+            
+            <ul class="sb-social-icons column size12of12 
+                 med_size4of12 ">
+                
+                    <li class="facebook">
+                        <a href="http://www.facebook.com/starbucks">
+                            <span class="hidden_visually">Facebook</span>
+                        </a>
+                    </li>
+                
+                    <li class="twitter">
+                        <a href="http://www.twitter.com/starbucks">
+                            <span class="hidden_visually">Twitter</span>
+                        </a>
+                    </li>
+                
+                    <li class="googleplus">
+                        <a href="https://plus.google.com/117575809843355974839/" rel="publisher">
+                            <span class="hidden_visually">Google Plus</span>
+                        </a>
+                    </li>
+                
+                    <li class="pinterest">
+                        <a href="https://www.pinterest.com/starbucks/">
+                            <span class="hidden_visually">Pinterest</span>
+                        </a>
+                    </li>
+                
+                    <li class="instagram">
+                        <a href="https://instagram.com/starbucks/">
+                            <span class="hidden_visually">Instagram</span>
+                        </a>
+                    </li>
+                
+            </ul>
+            
+        <div class="promo column size12of12 med_size8of12" aria-live="polite">
+            <form action="/email-prospect?requesturl=/about-us/company-information/online-policies/privacy-policy" class="AjaxForm required_form NewsletterSignup" name="NewsletterSignup" method="post" novalidate="novalidate">
+                <fieldset>
+                    <legendz class="hidden_visually i18n_text" data-email_required="Please enter your email address." data-email_invalid="Please enter a valid email address." data-zipcode_required="Please enter your zip code." data-zipcode_invalid="Please enter a valid zip code.">
+                        Join our email list
+                    </legendz>
+                            <label for="newsletter_signup">Join our email list</label>
+                        <ol class="form">
+                            <li class="input ">
+                                    <input class="newsletter_signup" name="newsletter_signup_email" type="email" placeholder="Email address" value="" maxlength="50">
+                                                            </li>
+                            <li>
+                                <label for="newsletter_signup_zipcode" class="hidden_visually">Zip code</label>
+                            </li>
+                            <li class="input newsletter_signup_zipcode ">
+                                    <input class="newsletter_signup newsletter_signup_zipcode" name="newsletter_signup_zipcode" type="text" pattern="\d*" placeholder="Zip code" value="" maxlength="5">
+                                                            </li>
+                            <li class="newsletter_signup_submit">
+                                <span class="button form_button"><button type="submit" aria-describedby="EmailSignupInfo">Get Started</button></span>
+                            </li>
+                        </ol>
+                        <p class="mt_5 clearfix" id="EmailSignupInfo">By clicking "GET STARTED" I agree to receive news, promotions, information, and offers from Starbucks. See our <a href="https://www.starbucks.com/about-us/company-information/online-policies/privacy-policy">Privacy Statement</a> and <a href="https://customerservice.starbucks.com">Customer Service</a>.</p>
+                    </fieldset>
+                <span class="hidden_visually"><input name="newsletter_placement" maxlength="50" value="footer"></span>
+            </form>
+        </div>
+
+            </div>
+        </div>
+    </div>
+
+<!-- /PartialRequest:{"controller":"Master","action":"FooterTop"} -->
+<div class="footer-main">
+    <div class="container">
+        <div class="grid">
+            <div class="footer_global accordion">
+                    <div class="info_block column size12of12 med_size4of12 lg_size2of12">
+
+                        <h4>
+<span>About Us</span>                        </h4>
+                        <ol>
+                                <li>
+<a href="https://www.starbucks.com/about-us/company-information">Our Heritage</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/coffee">Our Coffee</a>                            </li>
+                                <li>
+<a href="https://stories.starbucks.com/">Stories and News</a>                            </li>
+                                <li>
+<a href="https://investor.starbucks.com">Investor Relations</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/responsibility/global-report/policies">Policies and Standards</a>                            </li>
+                                <li>
+<a href="https://customerservice.starbucks.com/">Customer Service</a>                            </li>
+                        </ol>
+                    </div>
+                    <div class="info_block column size12of12 med_size4of12 lg_size2of12">
+
+                        <h4>
+<span>Careers</span>                        </h4>
+                        <ol>
+                                <li>
+<a href="https://www.starbucks.com/careers/working-at-starbucks/culture-and-values">Culture and Values</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/responsibility/community/diversity-and-inclusion">Diversity and Inclusion</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/careers/working-at-starbucks/education">College Achievement Plan</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/careers/">U.S. Careers</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/careers/international-careers">International Careers</a>                            </li>
+                        </ol>
+                    </div>
+                    <div class="info_block column size12of12 med_size4of12 lg_size2of12">
+
+                        <h4>
+<span>Social Impact</span>                        </h4>
+                        <ol>
+                                <li>
+<a href="https://www.starbucks.com/responsibility/sourcing">Ethical Sourcing</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/responsibility/environment">Leading in Sustainability</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/responsibility/community">Strengthening Communities</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/responsibility/community/opportunity-youth">Creating Opportunities</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/responsibility/global-report">Global Social Impact Report</a>                            </li>
+                        </ol>
+                    </div>
+                    <div class="info_block column size12of12 med_size4of12 lg_size2of12">
+
+                        <h4>
+<span>For Business Partners</span>                        </h4>
+                        <ol>
+                                <li>
+<a href="https://www.starbucks.com/business/landlord-faq">Landlord Support Center</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/business/suppliers">Suppliers</a>                            </li>
+                                <li>
+<a href="https://www.starbuckscardb2b.com/">Corporate Gift Card Sales</a>                            </li>
+                        </ol>
+                    </div>
+                    <div class="info_block column size12of12 med_size4of12 lg_size2of12">
+
+                        <h4>
+<span>Ways To Order</span>                        </h4>
+                        <ol>
+                                <li>
+<a href="https://www.starbucks.com/menu">Order on the Web</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/coffeehouse/mobile-order">Download the App</a>                            </li>
+                                <li>
+<a href="https://delivery.starbucks.com/">Delivery</a>                            </li>
+                                <li>
+<a href="https://www.starbucks.com/promo/googleassistant">Google Assistant</a>                            </li>
+                        </ol>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+		<div class="footer-bottom">
+            <div class="container">
+                <div class="grid">
+		            
+
+
+<div class="column size12of12">
+    <ul class="site_selection">
+        <li class="utility_link store_locator">
+            <a href="/store-locator">
+                <span aria-hidden="true" data-icon="✪"></span>
+                <span class="hidden_visually med_render_visually">Find a Store</span>
+            </a>
+        </li>
+        
+            <li class="only language">English </li>
+	    
+    </ul>
+</div>
+
+                        <div class="column size12of12">
+                            <ul class="footer_sub">
+                                <li><a href="/about-us/company-information/online-policies/privacy-policy">Privacy Policy</a></li><li><a href="/about-us/company-information/online-policies/terms-of-use">Terms of Use</a></li><li><a href="https://globalassets.starbucks.com/assets/A2A072E3411C4A6ABAEB8D6BCF286F43.pdf">CA Supply Chain Act</a></li><li><a href="https://ideas.starbucks.com/">Submit Your Idea</a></li>
+                            </ul>
+                        </div><!--.column-->
+                    
+                    <div class="column size12of12">
+			            <p class="footer_copyright">© 2019 Starbucks Coffee Company.  All rights reserved.</p>
+                    </div><!--.column-->
+                </div><!--.grid-->
+            </div><!--.container-->
+		</div><!--.footer-bottom-->
+	</div><!--#footer-->
+
+
+		<!-- PartialRequest:{"controller":"Master","action":"TestingInfo"} --><!-- /PartialRequest:{"controller":"Master","action":"TestingInfo"} -->
+			
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/static/js/jquery-1.7.2.min.js"><\/script>')</script><script src="/static/js/jquery-1.7.2.min.js"></script>
+	<script src="/static/resource/framework_js/193746790_en-US"></script>
+    
+
+<script>
+    sb.namespace("config");
+    
+
+    sb.config.ecomm = {
+        StarbucksStoreApiBaseUrl: "store.starbucks.com/s/Sites-Starbucks-Site/dw/shop/v14_6",
+        StarbucksStoreApiClientId: "347a0322-12dc-45b2-9a69-5be11f47c4ea",
+        StarbucksStoreHostName: "store.starbucks.com",
+        StarbucksStoreCartPath: "on/demandware.store/Sites-Starbucks-Site/default/Cart-Show",
+        MarketHasOnlineStore: true,
+        EnableSharedCart: false
+    };
+    sb.config.search = {
+        EnableSearchAsYouType: true
+    };
+    sb.config.globalTextResources = {
+        closeButtonText: 'Close'
+    };
+
+        
+            sb.config.facebook = {
+                defaultAvatarPath: "/static/images/account/profile_image_generic.svg",
+                cookieName: "facebookID",
+                graphUrl: "//graph.facebook.com"
+            };
+        
+</script>
+    
+	<script>sb.i18n.culture.fromISOString('en-US');</script>
+    <script src="/static/resource/global_js_store_enabled_markets/-1883104326_en-US"></script>
+    
+
+<script>
+    $(function () {
+        
+        $(document).on('facebookLoaded', function () {
+            // The place to run a global function once the Facebook SDK is loaded, such as getLoginStatus
+            sb.facebook.isLoaded = true;
+            sb.facebook.getLoginStatus();
+            // This would be the place to put global authStatusChange subscribers if needed, eg:
+            // FB.Event.subscribe('auth.statusChange', authStatusChangeCallback);
+
+        });
+
+        //when both jQuery and Facebook are loaded fire sdkLoaded function
+        function sdkLoaded() {
+            FB.init({
+                appId      : 338375791266,
+                xfbml      : true,
+                cookie     : true,
+                version    : 'v2.3'
+            });
+            $(document).trigger("facebookLoaded");
+        }
+
+        if (window.FB) {
+            //FB sdk, which is requested asynchronously, has already been loaded;
+            //fire the sdkLoaded method
+            sdkLoaded();
+        } else {
+            //this script loaded before FB sdk loaded;
+            //when the sdk is loaded it looks for window.fbAsyncInit;
+            //point Facebook's fbAsyncInit to our sdkLoaded method
+            window.fbAsyncInit = sdkLoaded;
+        }
+
+        // For future reference -- turn any link/button into a "logout from Facebook" by adding .fbLogout class
+        //$(document).on('click', '.fbLogout', sb.facebook.logout);
+    });
+</script>
+
+		
+			
+
+<script>
+    sb.mobilePromoInit && sb.mobilePromoInit([{"Content":"<div class=\"sb_native_app_promo\" id=\"android_banner\">\u000d\u000a<div class=\"fields\" id=\"sb_app_promo_banner\">\u000d\u000a<div class=\"button\"><a href=\"https:\/\/play.google.com\/store\/apps\/details?id=com.starbucks.mobilecard&utm_source=dotcom&utm_medium=banner&utm_content=banner-bar-link&utm_campaign=android-surge\" class=\"visit_app_store\" id=\"visit_app_store\">View<\/a><\/div>\u000d\u000a<ul>\u000d\u000a    <li class=\"banner_close\"><a id=\"close_app_banner\" class=\"close_app_promo\">x<\/a><\/li>\u000d\u000a    <li class=\"visit_app_store\" id=\"app_logo\"><img alt=\"\" src=\"\/static\/images\/touch-icon-iphone.png\" \/><\/li>\u000d\u000a    <li class=\"visit_app_store\" id=\"app_description\">\u000d\u000a    <ul>\u000d\u000a        <li>Starbucks<\/li>\u000d\u000a        <li>Starbucks Coffee Company<\/li>\u000d\u000a        <li>Free &mdash; in Google Play<\/li>\u000d\u000a    <\/ul>\u000d\u000a    <\/li>\u000d\u000a<\/ul>\u000d\u000a<\/div>\u000d\u000a<\/div>","CookieName":"Android-Banner","Enabled":true,"Filter":"\/Android\/gi"},{"Content":"<div id=\"sb_app_promo_overlay\" style=\"display: none;\"><\/div>\u000a<div id=\"sb_app_promo_wrapper\">\u000a<div id=\"android_full\" class=\"sb_native_app_promo\">\u000a<img class=\"visit_app_store\" src=\"\/static\/images\/touch-icon-iphone4.png\" alt=\"Starbucks Coffee Company\">\u000a<h1><a class=\"visit_app_store\" href=\"https:\/\/play.google.com\/store\/apps\/details?id=com.starbucks.mobilecard\">Starbucks for Android<\/a><\/h1>\u000a<p class=\"heading_promo visit_app_store\">Pay with your phone, get your rewards.<\/p>\u000a<p><span class=\"button\"><button class=\"close_app_promo\" id=\"close_app_full\">Visit Site<\/button><\/span><span class=\"button\"><a id=\"visit_app_store\" class=\"visit_app_store\" href=\"https:\/\/play.google.com\/store\/apps\/details?id=com.starbucks.mobilecard\">Install App<\/a><\/span><\/p>\u000a<img height=\"417\" alt=\"Starbucks for Android\" width=\"231\" src=\"\/\/globalassets.starbucks.com\/assets\/971386c8ea52459aa0acbe148b5f82a3.png\">\u000a<\/div>\u000a<\/div>","CookieName":"Android-Full","Enabled":false,"Filter":"\/Android\/gi"}]);
+</script>
+
+
+		
+			<script src="/static/resource/email_prospect_signup_js/-215593670_en-US"></script>
+
+		
+	
+
+	
+</body></html>
