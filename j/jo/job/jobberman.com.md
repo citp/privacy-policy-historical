@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624235246id_/https%3A//www.jobberman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225202825id_/https%3A//www.jobberman.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Learn How We Use Your Data | Jobberman
 
