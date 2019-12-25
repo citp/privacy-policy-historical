@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setaswall.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212005339id_/http%3A//setaswall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setaswall.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225112753id_/https%3A//www.setaswall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ##### Advertising
 
-We use third-party advertising companies to serve advertisements and collect non-personally identifiable information when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on our website, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve advertisements and collect non-personally identifiable information when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on our website, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [here](https://www.networkadvertising.org/managing/opt_out.asp).
 
 ##### Children’s Online Privacy Protection Act Compliance
 
