@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the alistapart.com privacy policy that was archived on 2019-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629094636id_/https%3A//alistapart.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alistapart.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225103849id_/https%3A//alistapart.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
-	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1158.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"949ceaf672",applicationID:"156780203"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
@@ -12,9 +12,9 @@
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="A List Apart » Feed" href="https://alistapart.com/main/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/alistapart.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://alistapart.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/alistapart.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://alistapart.com/wp-includes/js/wp-emoji-release.min.js?ver=5.3.2" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -29,12 +29,12 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet" id="all-css-0" href="http://alistapart.com/_static/??-eJyNjtEKgzAMRX9oNYhzb2PfUttMo2ktTYv496vWt8HYS7hwz7kEtqDIG84WBYwIWJIEA69mUUxD1HEHSTtj48g3BbhBMczqE/oEaUJXPM36gn4As0CIJK7eL9JlFTiP5AVmTEGbBdxqMxd7IztiEhDU0UznlzWq2qh3PEfsP6OHfeUDf7ln2z/atuu77v4BafNjxQ==" type="text/css" media="all">
-<script type="text/javascript" src="http://alistapart.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZdVrKOPT4FubmZ6UWJJql5uZh5QsX2uraGpmaGhsamxsVkWACVYIKg="></script>
+	<link rel="stylesheet" id="all-css-0" href="https://alistapart.com/_static/??-eJyNjksKwzAMRC9URzWlzar0LI6tJk5kx1gyIbev89kVSjdiYN4bBEtSPloqDhksMzjPAh3NdlLku2zyCiwrYRN8bCpwgWrYOQpGARkwVM+QOaEfwMiQsudw3C8yFJWo9D4yjCjJ2AnC7ApVe/GuR2FgNNkO+5dHVEej3nkfcf+MbvaZN/wVnvrePlqtrzf9AWocY8U=" type="text/css" media="all">
+<script type="text/javascript" src="https://alistapart.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZdVrKOPT4FubmZ6UWJJql5uZh5QsX2uraGpuZm5oaGBsWEWACV9IKY="></script>
 <link rel="https://api.w.org/" href="https://alistapart.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://alistapart.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://alistapart.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 5.2.2">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://alistapart.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.3.2">
 <link rel="canonical" href="https://alistapart.com/about/privacy-policy/">
 <link rel="shortlink" href="https://wp.me/PaHlEW-4U8">
 <link rel="alternate" type="application/json+oembed" href="https://alistapart.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falistapart.com%2Fabout%2Fprivacy-policy%2F">
@@ -58,21 +58,105 @@ img.emoji {
 <meta property="article:published_time" content="2018-05-24T11:52:00+00:00">
 <meta property="article:modified_time" content="2019-03-25T13:37:46+00:00">
 <meta property="og:site_name" content="A List Apart">
-<meta property="og:image" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg">
+<meta property="og:image" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=512%2C512">
 <meta property="og:image:width" content="512">
 <meta property="og:image:height" content="512">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:site" content="@alistapart">
 <meta name="twitter:text:title" content="Privacy Policy">
-<meta name="twitter:image" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=240">
+<meta name="twitter:image" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=240%2C240">
 <meta name="twitter:card" content="summary">
 
 <!-- End Jetpack Open Graph Tags -->
-<link rel="icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=32" sizes="32x32">
-<link rel="icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=192" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=180">
-<meta name="msapplication-TileImage" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=270">
-</head>
+<link rel="icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=32%2C32" sizes="32x32">
+<link rel="icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=192%2C192" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=180%2C180">
+<meta name="msapplication-TileImage" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=270%2C270">
+			<style type="text/css" id="wp-custom-css">
+				@media only screen and (max-width: 47.9375em) {
+	/* ----------------------	RESPONSIVE TABLES	---------------------- */
+	figure:not(.not-rwd) table {
+	    display: block;
+	    width: 100%;
+	    border-bottom: 1px solid #bfbfbf;
+	}
+
+	figure:not(.not-rwd) table caption {
+		display: block;
+	}
+
+	figure:not(.not-rwd) table thead {
+		display: none;
+		visibility: hidden;
+	}
+
+	figure:not(.not-rwd) table tbody, figure:not(.not-rwd) table tr, figure:not(.not-rwd) table th, figure:not(.not-rwd) table td {
+		border: 0;
+		display: block;
+		padding: 0;
+		text-align: left;
+		white-space: normal;
+	}
+
+	figure:not(.not-rwd) table tr {
+		margin: 1em 0;
+	}
+	
+	figure:not(.not-rwd) .gist table {
+		display: table;
+	}
+
+	figure:not(.not-rwd) .gist table tr {
+		display: table-row;
+		margin-bottom: 0;
+	}
+
+	figure:not(.not-rwd) .gist table td {
+		display: table-cell;
+	}
+
+	table th[data-title]:before,
+	table td[data-title]:before {
+		content: attr(data-title) ": ";
+		font-weight: bold;
+		font-family: "Franklin ITC", sans-serif;
+	}
+
+	table th:not([data-title]) {
+		font-weight: bold;
+		font-family: "Franklin ITC", sans-serif;
+	}
+
+	table td:empty {
+		display: none;
+	}
+	.main-content > figure:not(.not-rwd) table tbody tr:nth-child(odd) td {
+     	background: none; 
+	}
+
+.col-1 tr :nth-child(1):not(code), .col-2 tr :nth-child(2):not(code), .col-3 tr :nth-child(3):not(code):not(span), .col-4 tr :nth-child(4):not(code) {
+		border: none;
+	}
+
+	caption {
+		border: none;
+		border-bottom: 1px solid #bfbfbf;
+	}
+
+	.main-content > figure table th, .main-content > figure table td {
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+	
+	figure.not-rwd {
+		overflow: auto;
+	}
+	
+	.entry-content>figure table tbody tr:nth-child(2n+1) td, .entry-content>table tbody tr:nth-child(2n+1) td {
+    background: transparent;
+}
+}			</style>
+		</head>
 
 <body class="privacy-policy page-template-default page page-id-18856 page-child parent-pageid-14971 wp-custom-logo page-privacy-policy" itemscope="" itemtype="http://schema.org/WebPage">
 <div id="page" class="site">
@@ -80,18 +164,18 @@ img.emoji {
 
 	<header id="masthead" class="site-header">
 		<div class="site-branding">
-			<a href="https://alistapart.com/" class="custom-logo-link" rel="home"><img width="960" height="98" src="https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png" class="custom-logo" alt="A List Apart" srcset="https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png 960w, https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big-300x31.png 300w, https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big-768x78.png 768w" sizes="(max-width: 960px) 100vw, 960px"></a>				<p class="site-title"><a href="https://alistapart.com/" rel="home" itemscope="" itemtype="http://schema.org/ImageObject">A List Apart</a></p>
+			<a href="https://alistapart.com/" class="custom-logo-link" rel="home"><img width="960" height="98" src="https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?fit=960%2C98" class="custom-logo" alt="A List Apart" srcset="https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?w=960 960w, https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?w=300 300w, https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?w=768 768w" sizes="(max-width: 960px) 100vw, 960px"></a>				<p class="site-title"><a href="https://alistapart.com/" rel="home" itemscope="" itemtype="http://schema.org/ImageObject">A List Apart</a></p>
 								<p class="site-description">For people who make websites</p>
 					</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span></button>
-			<div class="menu-site-header-container"><ul id="primary-menu" class="menu"><li id="menu-item-6000493" class="ala-home-url menu-item menu-item-type-custom menu-item-object-custom menu-item-6000493"><a href="https://alistapart.com" itemprop="url"><span itemprop="name">Home</span></a></li>
+			<div class="menu-site-header-container"><ul id="primary-menu" class="menu"><li id="menu-item-6000493" class="ala-home-url menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-6000493"><a href="https://alistapart.com" itemprop="url"><span itemprop="name">Home</span></a></li>
 <li id="menu-item-6000494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000494"><a href="https://alistapart.com/articles/" itemprop="url"><span itemprop="name">Articles</span></a></li>
 <li id="menu-item-6000495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000495"><a href="https://alistapart.com/events/" itemprop="url"><span itemprop="name">Events</span></a></li>
 <li id="menu-item-6000496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000496"><a href="https://alistapart.com/topics/" itemprop="url"><span itemprop="name">Topics</span></a></li>
 <li id="menu-item-6000497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000497"><a href="https://alistapart.com/about/contribute/" itemprop="url"><span itemprop="name">Write for Us</span></a></li>
-</ul></div>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" class="mlp-language-nav"><span itemprop="name">Language (English) <i class="arrow-down"></i></span></a><ul class="sub-menu mlp-languages"><li class="site-id-" 2"="" mlp-language-nav-item="" menu-item="" menu-item-type-mlp_language="" menu-item-object-mlp_language"=""><a rel="alternate" href="https://alistapart.com/it" itemprop="url"><span itemprop="name">Italian</span></a></li></ul></li></ul></div>
 			<form role="search" method="get" class="search-form" action="https://alistapart.com/">
 				<label>
 					<span class="screen-reader-text">Search for:</span>
@@ -167,9 +251,9 @@ img.emoji {
 <li id="menu-item-6000537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000537"><a href="https://alistapart.com/about/copyright/" itemprop="url">Permissions &amp; Copyright</a></li>
 <li id="menu-item-6000538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000538"><a href="https://alistapart.com/about/sponsor/" itemprop="url">Sponsorships</a></li>
 </ul><section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="banner">
-	<a href="http://cloudinary.rocks/ala">		
-		<img src="https://alistapart.com/wp-content/uploads/2019/06/cloudinary_vertical_logo_for_white_bg.jpg" alt="Cloudinary Logo" class="banner-logo">
-		<p>Want the best way to store and serve images and videos? Try Cloudinary. Get your own free account.</p>		
+	<a href="http://sps.northwestern.edu/ala">
+	<img class="banner-logo" src="https://alistapart.com/wp-content/uploads/2019/10/NorthWestern_IDS_700x200_Logo.gif" alt="NorthWestern IDS MS logo">
+	<p>Northwestern’s Online MS in Information Design and Strategy. Choose from tracks in content strategy, data science and analytics, and learning design.</p>
 	</a>
 </div>
 
@@ -190,12 +274,11 @@ img.emoji {
 
 	<div class="widget-area header-widget">
 		<section id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="banner">
-	<a href="http://cloudinary.rocks/ala">		
-		<img src="https://alistapart.com/wp-content/uploads/2019/06/cloudinary_vertical_logo_for_white_bg.jpg" alt="Cloudinary Logo" class="banner-logo">
-		<p>Want the best way to store and serve images and videos? Try Cloudinary. Get your own free account.</p>		
+	<a href="http://sps.northwestern.edu/ala">
+	<img class="banner-logo" src="https://alistapart.com/wp-content/uploads/2019/10/NorthWestern_IDS_700x200_Logo.gif" alt="NorthWestern IDS MS logo">
+	<p>Northwestern’s Online MS in Information Design and Strategy. Choose from tracks in content strategy, data science and analytics, and learning design.</p>
 	</a>
-</div>
-</div></section>	</div><!-- .header-widget -->
+</div></div></section>	</div><!-- .header-widget -->
 	
 <footer id="colophon" class="site-footer" itemscope="" itemtype="https://schema.org/WebPage">
 	<nav class="footer-navigation footer navigation-top" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
@@ -267,20 +350,19 @@ img.emoji {
 	ga('send', 'pageview');  
 </script>
 <!-- End Google Analytics -->
-	<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201926"></script>
-<script type="text/javascript" src="https://secure.gravatar.com/js/gprofiles.js?ver=2019Junaa"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
+	<script type="text/javascript" src="https://alistapart.com/wp-content/mu-plugins/jetpack/_inc/build/photon/photon.min.js?m=1573161126g"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201952"></script>
+<script src="https://secure.gravatar.com/js/gprofiles.js?ver=2019Decaa"></script>
+<script>
 var WPGroHo = {"my_hash":""};
-/* ]]> */
 </script>
-<script type="text/javascript" src="http://alistapart.com/_static/??-eJx9kEsKwzAMRC9UR4SQdlV6FtVWYvlPbDc9fvOh0E29EQPzRgwDaxIyhkKhgK8iuTpzyGCoJJQWfFTVUYY1zUvUsTP5Aj+JoslvLjoEkyHgi2csHEObSwtnf942mC0n4ThYMUVZs5j43Q6gkpqkxTblIqp/ZGsDVjOVrRXhIvXR71DiNL6fOEhX1cabfTZB/kmq87xv8vD3frz2/TAOw818AFvQi7I="></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201926.js" async="async" defer="defer"></script>
+<script type="text/javascript" src="https://alistapart.com/_static/??-eJx9kEsOwjAMRC9EMAVBV4izmMRNnOanJqEcn36ExIZsrJHmjTUamJOQMRQKBXwVyVXNIYOlklCO4KOqjjLMSU/RxKPNB/hJFEN+cdEh2AwBX6yxcAxtLk2c/X7bYB45CcdhFEOUNYuB3+0AKmlIjtimXET1j2xtwEpTWVoRTtJs/TYlduP7iYN0VS28XWcT5J+kjp7XTR7+3l37W991p8vZfgBb9Yuw"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201952.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:7.4',blog:'158094726',post:'18856',tz:'-4',srv:'alistapart.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:8.0',blog:'158094726',post:'18856',tz:'-5',srv:'alistapart.com'} ]);
 	_stq.push([ 'clickTrackerInit', '158094726', '18856' ]);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"156780203","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFhJVUVE=","queueTime":0,"applicationTime":80,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"156780203","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFhJVUVE=","queueTime":0,"applicationTime":155,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
