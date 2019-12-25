@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215509id_/https%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225201047id_/https%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
 
 # SmugMug's Privacy Policy
 
 For Flickr's Privacy Policy click [here](https://web.archive.org/about/privacy-flickr).
 
-**Date of Last Revision: August 15, 2018**
+ **Date of Last Revision: August 15, 2018**
 
 SmugMug, Inc. and its subsidiaries, including Flickr, Inc. ( ** _"SmugMug"_** , **_"we"_** or **_"us"_** ), are passionately committed to the privacy of our customers.
 
@@ -37,10 +37,10 @@ You have the option of telling us how you wish to be identified in connection wi
 
 When you access or use our Services, we automatically collect information about your use of the Services, including:
 
-  * **Log Information** : We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
-  * **Device Information** : We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, screen resolution, color and depth, device identifiers and mobile network information.
-  * **Photo Location Information** : When you upload a photo with geographical data (i.e. from a mobile device) or manually geotag your photo, we collect the location of that photo. With your consent, we collect information about your location if you take a photo within the SmugMug mobile application to add to your photo’s metadata.
-  * **Exif Data** : Exchangeable Image File Format (“EXIF”) data is a record of the settings and other relevant metadata inserted by a digital camera when you take a photo or video such as camera type, aperture, shutter speed, focal length, and location, among other information. Unless you turn off EXIF data on your camera or device or remove it from the picture before uploading to SmugMug, SmugMug receives and stores EXIF data.
+  *  **Log Information** : We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  *  **Device Information** : We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, screen resolution, color and depth, device identifiers and mobile network information.
+  *  **Photo Location Information** : When you upload a photo with geographical data (i.e. from a mobile device) or manually geotag your photo, we collect the location of that photo. With your consent, we collect information about your location if you take a photo within the SmugMug mobile application to add to your photo’s metadata.
+  *  **Exif Data** : Exchangeable Image File Format (“EXIF”) data is a record of the settings and other relevant metadata inserted by a digital camera when you take a photo or video such as camera type, aperture, shutter speed, focal length, and location, among other information. Unless you turn off EXIF data on your camera or device or remove it from the picture before uploading to SmugMug, SmugMug receives and stores EXIF data.
 
 
 
