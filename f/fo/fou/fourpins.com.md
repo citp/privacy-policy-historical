@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourpins.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624100844id_/https%3A//www.complex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourpins.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225143234id_/https%3A//www.complex.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Complex
 
