@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231151137id_/https%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225203932id_/https%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Ebuyer.com
 
@@ -26,7 +26,7 @@ Ebuyer (UK) Limited together with any group companies (“we” “us” “our�
 
 ### Cookies
 
-2.2.2 Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
+2.2.2 Our Site uses cookies and similar technology to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
 
 2.3 We may use your personal data for our legitimate interests in order to: 
 
@@ -50,7 +50,7 @@ Our Site may, from time to time, contain links to and from the websites of third
 
 3.1 We will collect details such as your name, address, phone number and email address when you order goods or services from us either via our Site or linked social media sites / other third party partner sites. We will use this information to process your order and comply with our contractual obligations. 
 
-3.2 In order to perform our contract with you, we may also need to share personal data with third parties such as payment providers and postal service organisations to assist in the delivery of goods or services you have ordered; this could include third party couriers or warranty providers.
+3.2 In order to perform our contract with you, we may also need to share personal data with third parties such as payment providers and postal service organisations to assist in the delivery of goods or services you have ordered; this could include EDI partners, third party couriers, or warranty providers. 
 
 3.3 We may also advertise your feedback on our website and marketing materials (subject to obtaining your prior consent where necessary);
 
@@ -82,7 +82,7 @@ Where we need to collect personal data by law, or under the terms of a contract 
 
 ## 7\. MONITORING AND RECORDING 
 
-We may monitor and record communications with you (such as telephone communications and emails) for the purpose of training, fraud prevention and compliance. We also have CCTV cameras installed in our premises for the purpose of crime prevention and for health and safety reasons. Please contact [dpo@ebuyer.com](mailto:dpo@ebuyer.com) for details on how long we store this information for.
+We may monitor and record communications with you (such as telephone communications and emails) for the purpose of training, fraud prevention and compliance. We also have CCTV cameras installed in our premises for the purpose of crime prevention and for health and safety reasons. Please contact [dpo@ebuyer.com](mailto:dpo@ebuyer.com) for details on how long we store this information for. 
 
 ## 8\. AUTOMATED PROCESSING
 
@@ -112,9 +112,17 @@ We may monitor and record communications with you (such as telephone communicati
 
 9.1.4 for our legitimate interests (as described within this policy) and your interests and fundamental rights do not override these interests.
 
+9.2 Ebuyer explicitly rely on a basis of legitimate interests when processing data in the following ways. This basis is balanced against your rights and interests and does not override your right to object.
+
+9.2.1 Ebuyer may supply email addresses to fulfilment partners and couriers in order to improve the service of package delivery.
+
+9.2.2 Ebuyer may monitor opening of marketing emails in order to improve the service of supplying marketing communications.
+
+9.2.3 Ebuyer may contact customers with details of goods that the customer prepared for purchase where the purchase did not complete successfully in order to improve the service of purchasing.
+
 ## 10\. DISCLOSURE OF PERSONAL DATA TO THIRD PARTIES
 
-10.1 In addition to the third parties mentioned above, we may disclose your information to third parties for our following legitimate interests as follows: 
+10.1 In addition to the third parties mentioned above, we may disclose your information to third parties for our legitimate interests as follows: 
 
 10.1.1 to staff members in order to facilitate the provision of goods or services to you;
 
