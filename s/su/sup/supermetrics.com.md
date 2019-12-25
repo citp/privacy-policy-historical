@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the supermetrics.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629023432id_/https%3A//supermetrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermetrics.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226003036id_/https%3A//supermetrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Supermetrics
+
+#### Effective: 4 September 2019
 
 ### 1\. Introduction
 
@@ -23,7 +25,7 @@ This section summarizes our commitments to you where we are a Data Processor (wh
   *  Most other services we connect to also work with OAuth, and provide their own interface for revoking access rights.
   *  There are a few services that still require you to type your username and password, or API key, into our tools. Any tokens, keys or passwords are stored encrypted in our systems.
   *  Our data processing and storage happens in monitored and highly scalable, best-in-class data centers managed by Amazon, Microsoft and Google.
-  *  Our security is regularly audited by Silverskin Information Security.
+  *  Our security is audited annually by an external third party.
 
 
 
