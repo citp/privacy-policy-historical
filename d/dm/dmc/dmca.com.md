@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmca.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616203006id_/https%3A//www.dmca.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmca.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225112643id_/https%3A//www.dmca.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of DMCA.com
 
