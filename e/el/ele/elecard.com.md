@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elecard.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307023331id_/https%3A//www.elecard.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elecard.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225145736id_/https%3A//www.elecard.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elecard: Video Compression Guru
 
