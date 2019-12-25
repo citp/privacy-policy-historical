@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downy.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624082725id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downy.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226004413id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
 
 # P&G Global Consumer Privacy Policy
 
@@ -180,11 +180,15 @@ France
 [ Click here ](mailto:fluocarilprofessional@pg.com)  
   
   
-Belgium
+Belgium 
 
 | 
 
-For P&G Healthcare:  P&G Health Belgium BVBA, Temselaan 100,  1853 Strombeek-Bever  
+N/A 
+
+| 
+
+[ Click here ](mailto:oralbprofessionalBNL@pg.com)  
   
 Netherlands 
 
@@ -263,7 +267,7 @@ When you visit our partner sites, we can show you ads or other content we believ
 
 **we may know you across all of your computers, tablets, phones, and devices.** We may know that cookie ID ABC12345 is from a computer that that may be connected to the same person or household owning the mobile phone with device ID EFG15647. This means that you may search for diapers on your laptop, click on a Google search result link which we have sponsored, and then later see an ad for our Pampers® brand diapers on your mobile phone. We might assume or deduce that the same person owns the computer and phone because, for example, they sign on to the same WiFi network every day at the same time. Understanding what devices seem to be used by a person or household helps us limit the number of times you see the same ad across all of your devices. And this is important because that way you don’t get annoyed at us for spamming you with the same ad and we don’t pay for such repetitive ads that we don’t want you to receive. 
 
-**how you can stop receiving interest-based ads.** **** To stop receiving P&G interest-based advertising, you can [ click here ](http://optout.networkadvertising.org/) or click on the WebChoices or AppChoices icons on one of our sites or in one of our mobile applications. **** You can also prevent getting interest-based ads on websites by declining cookies in your browser(s), declining the “access to data” requests that apps usually present when you install them, or by adjusting the ad tracking settings on your device. 
+**how you can stop receiving interest-based ads.** **** To stop receiving P&G interest-based advertising, you can [ click here ](http://optout.aboutads.info/) or click on the WebChoices or AppChoices icons on one of our sites or in one of our mobile applications. **** You can also prevent getting interest-based ads on websites by declining cookies in your browser(s), declining the “access to data” requests that apps usually present when you install them, or by adjusting the ad tracking settings on your device. 
 
 **you will still see “contextual” ads even if you opt out of interest-based ads.** Even if we stop sending you interest-based ads, you will still get ads from our brands on your computer or mobile devices. These ads, however, are based on the context of the sites you visit and are called contextual ads. Unlike interest-based ads which are based on pages you visit on your mobile phone or computer viewing activities, contextual ads are ads shown to you based on the context of the specific site you are visiting. For example, you still may see an ad for one of our baby care brands while looking at nursery products online because these sites traditionally have had mostly new or expecting parents as visitors. You should also know that we may still collect information from your computer or devices and use it for other purposes like evaluating how our websites work, for consumer research, or detecting fraud. 
 
@@ -307,11 +311,12 @@ Poland
 
 Procter and Gamble DS Polska sp z o.o.   
   
-Belgium
+Belgium 
 
 | 
 
-For P&G Healthcare:  P&G Health Belgium BVBA, Temselaan 100,  1853 Strombeek-Bever  
+Procter & Gamble Distribution Company (Europe) BVBA  
+For P&G Healthcare: P&G Health Belgium BVBA, Temselaan 100, 1853 Strombeek-Bever   
   
 Czech Republic 
 
@@ -341,13 +346,15 @@ France
 
 | 
 
+Procter & Gamble France SAS/Procter & Gamble Pharmaceuticals France SAS”   
 For P&G HealthCare as of 1 July ‘19 : P&G Health France S.A.S.,   163 Quai Aulagnier, 92600 Asnières-sur-Seine   
   
-Germany
+Germany ****
 
 | 
 
-For P&G HealthCare: P&G Consumer Health Germany GmbH,  Sulzbacher Strasse 40, 65824 Schwalbach am Taunus  
+Procter & Gamble Service GmbH  
+For P&G Health: P&G Health Germany GmbH, Sulzbacher Strasse 40, 65824 Schwalbach am Taunus   
   
 Greece 
 
@@ -385,17 +392,18 @@ Spain
 
 Procter & Gamble España, S.A.   
   
+United Kingdom 
+
+| 
+
+Procter & Gamble UK  
+Seven Seas Limited, The Heights, Brooklands, Weybridge, Surrey KT13 0XP   
+  
 EU Countries Not Listed 
 
 | 
 
 Procter & Gamble International Operations SA   
-  
-United Kingdom
-
-| 
-
-Seven Seas Limited, The Heights, Brooklands, Weybridge, Surrey KT13 0XP  
   
 **processing and retention.** As a general rule, we keep your data for only as long as it is needed to complete the purpose for which it was collected or as required by law. We may need to keep your data for longer than our specified retention periods to honor your requests, including to continue keeping you opted out of marketing emails, or to comply with legal or other obligations. This chart tells you the type of data we collect, the purposes for which we use it, why such uses comply with the law (legal basis), and how long we usually keep it (retention period). 
 
@@ -517,7 +525,7 @@ Our legitimate business interests in serving you with relevant advertising. We w
 
 We will retain this data for thirteen months from the date we collect it or until you opt out, whichever is earlier.   
   
-**transfers of your data to other countries.** Your personal information may be transferred to, stored, and processed in a country other than the one in which it was collected, including the United States. For example, we may store your data on a server in the United States because that is where a particular database is hosted; and that data may be “transferred” again when one of our marketers accesses that data from Switzerland to send you a product sample. We perform such transfers, both between P&G entities and between P&G and our service providers, using contractual protections that EU regulators have pre-approved to ensure your data is protected (known as model contract clauses). If you would like a copy of a transfer agreement, [contact us](mailto:euprivacy@pg.com). 
+**transfers of your data to other countries.** Your personal information may be transferred to, stored, and processed in a country other than the one in which it was collected, including the United States. For example, we may store your data on a server in the United States because that is where a particular database is hosted; and that data may be “transferred” again when one of our marketers accesses that data from Switzerland to send you a product sample. We perform such transfers, both between P&G entities and between P&G and our service providers, using contractual protections that EU regulators have pre-approved to ensure your data is protected (known as model contract clauses). If you would like a copy of a transfer agreement, [contact us](mailto:corporateprivacy.im@pg.com). 
 
 **plugins.** Our websites may include plugins from other companies such as social networks. An example of a plugin is the Facebook “Like” button. These plugins may collect information (e.g., the url of the page you visited) and send it back to the company that created them. This may happen even if you do not click on the plugin. These plugins are governed by the privacy policy and terms of the company that created them, even though they appear on our sites. These plug-ins are non-essential cookies and will only work on our EU sites if you accept cookies. 
 
@@ -530,6 +538,8 @@ We will retain this data for thirteen months from the date we collect it or unti
 **children’s online privacy laws.** We follow all applicable data protection laws when collecting personal information online from children. For example, in the EU we do not collect personal information from children under 16 years of age unless we get consent from a parent. Similarly, in the U.S., we obtain verified parental consent when collecting personal information from children younger than 13. 
 
 **california notice for minors.** We may offer interactive services which allow teens under the age of 18 to upload their own content (e.g., videos, comments, status updates, or pictures). This content can be removed or deleted any time by following the instructions on our sites. If you have questions about how to do this, [ contact us](https://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) Be aware that such posts may have been copied, forwarded, or posted elsewhere by others and we are not responsible for any such actions. You will, in such cases, have to contact other site owners to request removal of your content. 
+
+As of January 1, 2020, California residents will have new privacy rights pursuant to the California Consumer Privacy Act. Please check back on that date to learn more.
 
 Please [ contact us](https://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) directly with any questions or concerns you may have about your privacy and our data protection practices.
 
