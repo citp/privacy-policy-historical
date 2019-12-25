@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webceo.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232324id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webceo.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200509id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
 
 # Web CEO Privacy Policy
 
@@ -40,17 +40,17 @@ If you are subscribed to the Service and you wish to log in to your Service acco
 
 ### Connecting to Google Applications via the WebCEO service
 
-WebCEO provides several tools that grant the ability for users to connect to certain Google products, like Google Analytics and Google Search Console. Different WebCEO tools may ask for different permissions, so it is important to review the requested permissions before allowing access.
+WebCEO provides several tools that grant the ability for users to connect to certain Google products, like Google Analytics, Search Console and Google My Business. Different WebCEO tools may ask for different permissions, so it is important to review the requested permissions before allowing access.
 
 In order for these WebCEO applications to work properly, a user must begin the process by clicking the 'Connect' button. The user will be taken to a secure page on Google.com via a pop-up window or tab, where the permissions the tool requires will be displayed. If the user consents to grant WebCEO permission, Google will issue a token that our tools can use to access the requested information.
 
-After receiving permission, WebCEO can, within the scope of the approved access, request information about, or data from, any profile the user has access to. For these tools, WebCEO uses a short-lived access token to request user Google Analytics or Search Console data.
+After receiving permission, WebCEO can, within the scope of the approved access, request information about, or data from, any profile the user has access to. For these tools, WebCEO uses a short-lived access token to request user Google Analytics, Search Console or Google My Business data.
 
-The information that we request is used by our tools in calculations and visualizations about your selected data. We store the requested data up to 30 days to build reports and provide additional analytics data in various WebCEO tools. At the end of the specified period we delete the data and make a new request. If a user revokes access to the Google Analytics or Search Console data, we delete all previously requested data.
+The information that we request is used by our tools in calculations and visualizations about your selected data. We store the requested data up to 30 days to build reports and provide additional analytics data in various WebCEO tools. At the end of the specified period we delete the data and make a new request. If a user revokes access to the Google Analytics, Search Console or Google My Business data, we delete all previously requested data.
 
-By default, our tools are able to see the email address of the user’s account. Our tools do not ever see or store a user’s password, as that is entered on a secure pop-up window or tab on Google’s website and not visible to us. At any time the user can revoke access to their Google Analytics or Search Console data in the WebCEO settings.
+By default, our tools are able to see the email address of the user’s account. Our tools do not ever see or store a user’s password, as that is entered on a secure pop-up window or tab on Google’s website and not visible to us. At any time the user can revoke access to their Google Analytics, Search Console or Google My Business data in the WebCEO settings.
 
-We shall not disclose, sell or rent your Google Analytics or Search Console data to any third party. We shall share your Google Analytics or Search Console data with the third parties only if you instruct us to and only if such information is required to provide you with specific services.
+We shall not disclose, sell or rent your Google Analytics, Search Console or Google My Business data to any third party. We shall share your Google Analytics, Search Console or Google My Business data data with the third parties only if you instruct us to and only if such information is required to provide you with specific services.
 
 To monitor which tools by WebCEO and others tools, have been granted access to your information, and to see which permissions have been granted, review your connected applications here: [myaccount.google.com/permissions](https://myaccount.google.com/permissions)
 
