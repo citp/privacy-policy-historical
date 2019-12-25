@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526144004id_/https%3A//www.mynrma.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225112609id_/https%3A//www.mynrma.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The NRMA
 
@@ -140,7 +140,7 @@ We will not sell or rent your personal information without your consent. We may 
 
 ### 10\. Overseas disclosure of personal information
 
-NRMA is likely to disclose some of your personal information, for the purposes described above, to organisations in the United Kingdom, the Philippines, the Netherlands, Ireland and the United States of America.
+NRMA is likely to disclose some of your personal information, for the purposes described above, to organisations in the United Kingdom, South Africa, the Philippines, the Netherlands, Ireland and the United States of America.
 
 Personal information provided to organisations in the Philippines, Ireland and the United States of America may not have the same protection as set out in this privacy policy and the Australian Privacy Principles, and NRMA may not take any steps to ensure such protection.
 
