@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangahere.co privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220647id_/http%3A//www.mangahere.cc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangahere.co privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225201959id_/http%3A//www.mangahere.cc/privacypolicy) for the most accurate reproduction.*
 
 # Manga Here: Privary Policy
 
@@ -26,7 +26,7 @@ At MangaHere we make reasonable efforts to protect personal information such as 
 
 Third Parties
 
-Third Party websites may collect information from users of MangaHere, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
+Third Party websites may collect information from users of MangaHere, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 Website Policy Changes
 
