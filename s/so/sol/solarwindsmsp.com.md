@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarwindsmsp.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629213715id_/https%3A//www.solarwindsmsp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarwindsmsp.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225024831id_/https%3A//www.solarwindsmsp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | SolarWinds MSP
 
