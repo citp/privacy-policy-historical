@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330084345id_/https%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225012347id_/https%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PETA
 
@@ -61,6 +61,8 @@ If you are a PETA donor and you don’t want to have your information exchanged 
 The easiest way to correct or change other information regarding your membership is to visit the [members’ section](https://www.peta.org/donate/membership-services/information/) of our website. You can also contact our membership services at [Donations@peta.org](mailto:Donations@peta.org) or 757-622-7382.
 
 If you are not a PETA member and you have provided personal contact information on one of our websites through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the U.S., we may share your contact details with PETA’s international affiliates as described above. Please e-mail [Info@peta.org](mailto:info@peta.org) if you don’t want your information to be shared in this manner.
+
+We may also share some personal contact information with PETA’s international affiliates to optimize the effectiveness of their campaigning activities. PETA ensures that each such affiliate complies with privacy standards and safeguards that are at least as stringent as those that exist in the U.S. Please e-mail [Info@peta.org](mailto:Info@peta.org) if you don’t want your information to be shared in this manner.
 
 Please be aware that your personal information may be transferred to U.S.-based third party service providers that we engage to support our activities. We take reasonable measures to ensure that any personal information collected, used, disclosed, or otherwise processed by us or by these service providers on our behalf is protected and not used or disclosed for purposes other than as directed by us, subject to applicable federal legal requirements, such as, for example, lawful requirements to disclose personal information to government authorities.
 
