@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applytojob.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610222504id_/https%3A//www.jazzhr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applytojob.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225202322id_/https%3A//www.jazzhr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JazzHR
 
@@ -6,11 +6,11 @@ Welcome to the JazzHR Privacy Policy (“ **Privacy Policy** ”). We take the s
 
  **When you interact with the JazzHR Services, you consent to such collection, use and sharing of information as described in this Privacy Policy and our Terms of Service. If you do not consent to the terms of this Privacy Policy and our Terms of Service, do not continue to interact with or use the JazzHR Services.  **
 
-EUROPEAN RESIDENTS: Please see our [European Privacy Policy](http://www.jazzhr.com/eur-privacy-policy/) for residents of the European Union, the European Economic Area or Switzerland.
+EUROPEAN RESIDENTS: Please see our [European Privacy Policy](https://www.jazzhr.com/eur-privacy-policy/) for residents of the European Union, the European Economic Area or Switzerland.
 
 ###  **1\. INFORMATION WE MAY COLLECT**
 
-The JazzHR Services gather certain information automatically, some of which may be considered personal information under applicable law. Access our data processing addendum [here.](http://www.jazzhr.com/data-processing-addendum/)
+The JazzHR Services gather certain information automatically, some of which may be considered personal information under applicable law. Access our data processing addendum [here.](https://www.jazzhr.com/data-processing-addendum/)
 
 We may collect, among other things, the following types of information:
 
@@ -106,7 +106,7 @@ We may use the following types of cookies and similar technologies:
 
 Most internet browsers accept cookies by default. You can block cookies by activating the setting on your browser that allows you to reject all or some cookies.  The help and support area on your internet browser should have instructions on how to block or delete cookies. Some web browsers (including some mobile web browsers) provide settings that allow you to control or reject cookies or to alert you to when a cookie is placed on your computer, tablet or mobile device. Although you are not required to accept cookies, if you block or reject them, you may not have access to all of the features available through the JazzHR Services.
 
-For more information, visit the help page for your web browser or see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) which has further information about behavioral advertising and online privacy.
+For more information, visit the help page for your web browser or see [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) or visit [www.youronlinechoices.com](https://www.youronlinechoices.com/) which has further information about behavioral advertising and online privacy.
 
 We may use third party analytics such as Google Analytics or similar analytics services. For information on how Google processes and collects your information regarding Google Analytics and how you can opt-out, please see <https://tools.google.com/dlpage/gaoptout>
 
@@ -144,7 +144,7 @@ Where required under applicable law or by contract, we will notify the appropria
 
 ###  **11\. CHILDREN**
 
- ** ** We recognize the importance of protecting the privacy and safety of children. The JazzHR Services are not intended for children under 13 years of age – and for European residents, for children under 16 years of age – see our [European Privacy Policy](https://www.jazzhr.com/privacy-policy/#Euro). We do not knowingly collect personal information from children under 13. Anyone under 13 should not use the JazzHR Services. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us as set forth below.
+ ** ** We recognize the importance of protecting the privacy and safety of children. The JazzHR Services are not intended for children under 13 years of age – and for European residents, for children under 16 years of age – see our [European Privacy Policy](https://www.jazzhr.com/eur-privacy-policy). We do not knowingly collect personal information from children under 13. Anyone under 13 should not use the JazzHR Services. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us as set forth below.
 
 ###  **12\. INTERNATIONAL DATA TRANSFERS**
 
@@ -171,3 +171,5 @@ Phone: +1 (888) 353-0887
 JazzHR may update this Privacy Policy from time to time in our sole discretion to reflect changes to our information and privacy practices. JazzHR will post any updated Privacy Policy on this page at https://www.jazzhr.com/privacy-policy  or in the JazzHR Services, or with any notice to individual users if required by applicable law. Continued use of the JazzHR Services after any such modifications constitutes acceptance to any such modified Privacy Policy. JazzHR encourages you to review this Privacy Policy regularly for any changes. The date of last revision is shown at the “ _Last Updated_ ” legend at the top of this page.
 
 If you have any questions regarding our Privacy Policy, the practices of this site, or your dealings with us, please feel free to email us at [privacy@jazzhr.com](mailto:privacy@jazzhr.com).
+
+Last updated January 29th, 2019.
