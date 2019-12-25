@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrchat.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626050002id_/http%3A//vrchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrchat.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225060004id_/https%3A//vrchat.com/privacy) for the most accurate reproduction.*
 
 # VRChat - Privacy
 
