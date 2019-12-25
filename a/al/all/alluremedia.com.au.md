@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629010238id_/http%3A//www.fairfaxmedia.com.au/company/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225040605id_/http%3A//www.fairfaxmedia.com.au/company/privacy/privacy) for the most accurate reproduction.*
 
 # Privacy - Fairfax Media Limited
 
