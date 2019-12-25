@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdprojektred.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609235047id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdprojektred.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225125122id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -78,7 +78,7 @@ We respect your right to privacy and will only process personal data in accordan
 
 | 
 
-We recognize we have a special obligation to protect personal data obtained from children. We do not and will not knowingly collect personal data from any child under 16 without consent from their parent or guardian. If you are a parent or guardian and are concerned about the transfer of personal data about your child, please contact [privacy@cdprojektred.com](https://web.archive.org/web/20190609235047id_/http%3A//regulations.cdprojektred.com/en/privacy@cdprojektred.com). 
+We recognize we have a special obligation to protect personal data obtained from children. We do not and will not knowingly collect personal data from any child under 16 without consent from their parent or guardian. If you are a parent or guardian and are concerned about the transfer of personal data about your child, please contact [privacy@cdprojektred.com](https://web.archive.org/web/20191225125122id_/http%3A//regulations.cdprojektred.com/en/privacy@cdprojektred.com). 
 
 | 
 
@@ -166,7 +166,7 @@ If you contact our technical support (directly or using crash reporting function
 
 | 
 
-For the purposes of competitions organized by CD PROJEKT RED, we may process additionally your correspondence address, phone number, social networks identifiers, image of yourself, bank account number.
+For the purposes of events and competitions organized by CD PROJEKT RED, we may process additionally your correspondence address, phone number, social networks identifiers, image of yourself, bank account number.
 
 | 
 
