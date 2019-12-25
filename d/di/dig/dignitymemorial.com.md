@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dignitymemorial.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628210338id_/https%3A//www.dignitymemorial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dignitymemorial.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225235435id_/https%3A//www.dignitymemorial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dignity Memorial
 
