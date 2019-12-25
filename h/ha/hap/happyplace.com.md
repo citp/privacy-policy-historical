@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001752id_/https%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225210056id_/https%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | someecards.com
 
@@ -82,7 +82,7 @@ Please note that if you do not want to receive legal notices from us, such as th
 
 Here are the choices you have regarding the information collected by third parties on our website:
 
-  1. For more information about your option to not accept advertiser cookies [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+  1. For more information about your option to not accept advertiser cookies [click here](https://www.networkadvertising.org/consumer/opt_out.asp).
   2. To opt-out of having interest-based ad targeting [click here](http://www.aboutads.info/choices/).
 
 
