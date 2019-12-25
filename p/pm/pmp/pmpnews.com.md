@@ -1,144 +1,228 @@
-> *The following text is extracted and transformed from the pmpnews.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626075918id_/https%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmpnews.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225080733id_/http%3A//www.informamarkets.com/privacy-policy) for the most accurate reproduction.*
 
-# UBM - UBM LLC Privacy Policy
+# Privacy Policy
 
-Last Updated: April 25, 2017
+####  Our commitment to protecting your personal information
 
-## Scope
+This website (the “Site”) is operated by Informa Markets (“we/our/us”), which is a trading division of the Informa Group.  The parent company of the Informa Group is Informa PLC.  A full list of entities within the Informa Group is available on request.
 
-This Privacy Policy covers information which you give us, UBM LLC ("UBM Tech" or "we"), about yourself and your professional background as you register for or attend our face-to-face events around the world, visit or participate in any of our web sites or online venues hosted on servers in the United States or volunteer information in any social media context. We will post or display a link to this UBM Privacy Policy on all forms and all online pages to which it is applicable.
+As an international Business-to-Business Information Services Group, data and information is at the heart of what Informa does. 
 
-Our business includes creating opportunities for you to connect with other companies either by accessing information and resources online or at face to face events. When we work with other companies to build co-branded web sites, virtual events, sponsored webinars, or in any way that allows you to connect directly with that other company, we will include a link to the other company's Privacy Policy if possible. Our Policy will govern our collection and use of information about you. In any case, we recommend that you find and read the other company's policy as well to learn how that company will treat the information about you.
+We take the privacy and protection of data and information seriously and are committed to handling the personal information of all those we engage with, whether customers, suppliers, colleagues or any other community, responsibly and in a way that meets the legal requirements of the countries in which we operate. 
 
-## Information That Identifies You
+As part of using Informa’s products and services, browsing our websites and contacting the business, data and information is collected. This privacy policy (the “Privacy Policy”) sets out Informa’s approach to safeguarding and maintaining the privacy of that personal information, and explains what data is collected, how it is used, the legal basis for its use, and the rights individuals have over that data.
 
-We rely on the information you provide to us as you register, contact us, participate in surveys, post comments to public areas of and interact with our web sites, respond to our email campaigns, and participate in webinars or online events. We may also add data from external sources including your professional interests on web sites other than ours. We will add information about how you interact with our offerings, your subscriptions, the events you attend, the content you download or read, and the like.
+Informa is an international Business-to-Business Information Services Group, operating in over 20 countries. We serve commercial, professional and academic communities by helping them connect and learn, and by creating and providing access to content and intelligence that helps people and businesses work smarter and make better decisions faster. 
 
-We may work to expand our communities by acquiring names and contact details from other sources that have compiled contact information. This information might be public information or data you provided with necessary permissions. We may also invite you to join our communities via third party social and professional networking sites.
+Informa is organised into five Operating Divisions; Informa Connect, Informa Intelligence, Informa Markets, Informa Tech and Taylor & Francis.
 
-## Automatic Data Collection Technologies
+_Informa Markets is the world’s leading exhibitions organiser, delivering more than 550 trade shows and experiences annually. Beyond our exhibitions, Informa Markets has highly actionable, market-specific data, as well as a suite of digital products that help communities engage 365 days a year. We provide customers and partners around the globe with platforms in key regions and market verticals to engage, do business, create compelling experiences and make powerful connections. Using our industry insight and entrepreneurial approach, we unlock global markets and enable new opportunities for businesses to come to life._
 
-We also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis.
+This Privacy Policy explains how Informa Markets collects, uses and protects your personal information. This includes products and services provided by brands such as AMWC, Arab Health, China Beauty Expo, Cityscape, CPhI, Decorex, Fan Expo, Hospitalar, IFSEC, Intermodal, Magic, MD&M Middle East Electricity, Monaco Yacht Show, SupplySide, Seatrade, TOC, Vitafoods and World of Concrete. Informa Markets’ central data team, which operates through Informa Middle East Limited (Dubai Branch), controls all decision-making with respect to how Informa Markets processes personal information. 
 
-Some of our web sites use Adobe Flash to provide video content, and the Adobe Flash Player has the ability to separately store information about that particular Flash application. We do not associate this Adobe Flash stored information with you as an individual. Please see the [Adobe Flash Player Help](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) page for additional information about controlling the settings of the Adobe Flash Player on your computer.
+This Privacy Policy is issued on behalf of Informa Markets, and where “Informa Markets”, "we", "us" or "our" appears, it includes the relevant Informa Markets brand/product/service processing your data.
 
-We gather date, time, certain information about a user's browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
+This section explains the personal information that may be collected when using our products and services, and the other personal data we may receive from other sources.
 
-Please see More Information About Cookies, for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages, and how to control cookies or their use for targeted advertising or marketing.
+In this Privacy Policy, the term “personal information” refers to the types of information we may collect and use, which includes: 
 
-## How We Use Information That Identifies You
+  * Contact details, such as your name, e-mail address, postal address and telephone number;
+  * Educational, nationality and professional background information;
+  * Usernames and passwords; 
+  * Payment information, such as a credit or debit card number, bank details and billing address; 
+  * Comments, feedback, posts and other content you submit; 
+  * Identity verifying information such as passport details to comply with our legal obligations in certain countries and to provide Visa invitation letters where requested; 
+  * Interests and communication preferences, including marketing permissions where appropriate; and 
+  * Location information (e.g. through mobile apps). 
 
-We use information about you:
 
-  * to provide the services, publications, and information you request and to manage your account with us.
-  * to deliver or display content that matches your professional interests and responsibilities.
-  * to contact you with information about and invitations for products and services - ours and other companies - directed to your professional interests and responsibilities.
-  * to contact you, advertise to you or invite you to join us on social media platforms on which you participate.
-  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you.
-  * for any other purpose that we tell you about when you give us the information.
 
+We collect and use your personal information in the following main categories: 
 
+  * As customer data, related to transactions, prospective sales or analytics; 
+  * As contact data, which includes corporate customer contact data such as details of an account manager/key contact at corporate customers, and subscriber/user data; 
+  * In connection with digital products/publications, for instance as an application user, subscriber or as part of a circulation list; 
+  * In connection to an event, for instance exhibition or conference visitors, delegates, exhibitors sponsors and speakers; and 
+  * Product/intelligence data, collected through customer and market research surveys. 
 
-Please help us keep your account information up to date. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
 
-## How We Share Information About You
 
-We share information about you so that we can connect you directly with other companies.
+**Sensitive personal data**
 
-In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to the other companies. We will put you in direct contact with other companies when you choose to:
+If collecting or storing sensitive personal data such as information relating to health, beliefs or political affiliation, we typically ask for your explicit consent. However, there are some situations where it will not be possible to request consent, such as if you have an accident at one of our events. If this does occur, we will ensure your privacy rights are protected. 
 
-  * Access a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by other companies. If you have enabled our automatic recognition cookie, as described below, you need only click to download or register for the asset or opportunity. You can learn about the sponsors and co-sponsors of the event for which you are registering on the registration website. Please visit our website frequently because the sponsors and co-sponsors for webcasts, online events, web sites, newsletters, and other offerings may be updated from time to time.
-  * Register for one of our virtual events with our exhibitor(s). We may give all exhibitors at the event your name and contact details and we may give the exhibitor(s) whose booths and resources you accessed a record of your visit(s) to the exhibitor’s booth, including your interactions with the content from that exhibitor.
-  * Attend one of our face-to-face events. An event attendance list may be given to all exhibitors at the event. It is up to you, however, to decide whether to leave your business card or allow your badge to be read by a particular exhibitor. Badges cannot be read remotely. If you allow your badge to be read by a particular exhibitor, we will share certain information about your use and enjoyment of our sites, including webinar participation, white papers downloaded, and clicks to our proprietary articles, and information about what sessions you attended at our event. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor.
-  * Register online for one of our face-to-face events using an exhibitor-specific registration code that you received from that exhibitor. If you register for our events using an exhibitor-specific registration code, we may share certain non-sensitive information about you with that exhibitor.
+**Children’s personal data**
 
+Our products and services are generally not intended for children under the age of 13 and we do not knowingly collect personal data from this age group. If any information is collected from a child under the age of 13 without verification of parental consent, it will be deleted.
 
+#### How & why personal information is used
 
-We may also disclose information about you to other third parties, including, for example, vendors that work on our behalf, law enforcement or other entities in order to respond to court orders or valid subpoenas, or to protect human safety or our networks or property, and third parties as part of a merger or sale of some or all of our business assets.
+This section explains in detail how and why we use personal information.
 
-## Making information you provide public.
+#### Lawful processing in Europe
 
-  * We offer web sites that allow you to publish content. Many of these blog sites require that you have registered if you wish to comment. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well.
-  * Our online event venues also require that you be registered with UBM Tech and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices.
-  * Increasingly, we offer apps at our face to face events, allowing you to communicate and publish to others who have also downloaded the app.
-  * These apps and online communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide.
+Informa Markets collects and uses personal information in providing and promoting our products and services. The lawful bases we use for this activity in Europe, as required under European data protection laws, are:
 
+  * Where it is necessary for entering into or performing a contract with you; 
+  * Where we have a legitimate interest to do so, provided your rights do not override these interests; 
+  * Where you have consented to its use; 
+  * Where our colleagues believe it is in your vital interests to share your personal details, for example with emergency services; and 
+  * Where required to comply with our legal obligations.
 
 
-## Your Choices.
 
-You have a choice about:
+#### Product enquires, sales and administration
 
-**Email Messages from Us**
+As part of a purchase, product enquiry, request for information and for account administration, we collect information such as your name, country, job title, company information, postal address, e-mail address, telephone number as well as details about your company and business role.
 
-  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all UBM Tech email marketing you may click on this [UBM Tech-wide opt out link](https://web.archive.org/opt-out/), or you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com).
-  * Please note that you may receive email marketing messages from us about other companies' offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program.
+If you provide registration/login details for one of our online services, once registered your details may be retained to identify you and remove the need for  
+repeated logins on/across our sites.
 
+If you have made an enquiry about us or our products or services, either online, face to face or over the phone, we will use your personal information to respond to the enquiry or to take other steps at your request, before you enter into a contract. For example, we collect the e-mail addresses and additional contact details of those who send e-mails to request information. Where a sales representative speaks to you over the phone, the calls may be recorded for training and monitoring purposes only.
 
+If you have registered for or purchased a product or service, including on a trial basis, your personal information will be used to provide that product or service, communicate about it and handle payments, as is necessary for the performance of the contract entered into.
 
-**Our Cookies**
+For purchases, payment information, including credit/debit card number/bank details and billing addresses are also collected. Where payment card processors are used to facilitate payment card transactions on our website, your data will be collected and used according to that data processors’ privacy policy. We take steps to ensure that any payment processor we use will provide a high standard of privacy and security controls.
 
-We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
+If your personal information is relevant to certain products and is freely available through public sources, such as on a website related to your work or profession, we may use this personal information to promote our products, as part of our legitimate interests as a commercial organisation.
 
-  * to recognize you automatically when you return to any of our web sites or online offerings or registration pages.
-  * to understand your interests in content, both our own content and that of other companies, on or across our web sites.
-  * to control access to gated online events including webinars and virtual events.
-  * to make an automated record of your interests within a virtual event.
-  * to manage and follow up on email campaigns.
+#### Event and exhibition management
 
+If you have agreed to participate in one of our events as a speaker, sponsor, exhibitor or visitor, personal information is used in connection with the organisation of the event, to handle payments or for other purposes, as is necessary for performing the contract entered into. We will also use your personal information to maintain our databases, assess your qualities as a speaker or sponsor/exhibitor, promote events and encourage further engagement at our events, as part of the legitimate interests we have as a commercial organisation. 
 
+In addition, we sometimes take photos and videos at our events, which may feature visitor, speakers, sponsors or exhibitors. Where photos and videos are taken that feature you as an visitor, speaker, sponsor or exhibitor, we may use those photos and videos for promotional purposes.
 
-You may use the tools in your browser to decline, disable, or delete any cookies.
+We will use your personal information to send you newsletters, offers or other marketing e-mails to keep you up to date with our news, events and products and services that may be of interest. Depending on the nature of your interaction with us and the laws of the country where you live, you may have actively given your consent for this by opting in, or we may be entitled to rely on your implied consent or our legitimate interests. 
 
-You may choose to be recognized automatically when you visit any UBM Tech online property or access any co-branded or sponsored content or opportunity, for example, a webinar. We hope this capability makes your experience with us easier. If you do not enable the automatic recognition cookie, or block it after you have allowed it, you will simply be asked to log in or register on every site and as you access or register to attend any co-branded or sponsored offering.
+The opportunity to opt out of future marketing e-mails will be provided on every marketing email and we will provide information on how to opt out when your personal information is collected. You have the right to amend your marketing preferences at any time. 
 
-We use two separate cookies to record your professional interests on our properties. The first records your behavior on our sites and any online offerings, primarily what content you read or download. The second allows us to manage email campaigns and to record your interests in email content. We use these two tracking cookies to tailor the marketing messages we send to you and to begin to personalize what you see when you visit our web sites. If you use your browser tools to block or disable either cookie then we will not be able to tailor your experience to your interests.
+To make a request to amend your details/preferences, please send an e-mail to: [imdatateam@informa.com](mailto:imdatateam@informa.com "Informa Markets Data Team Email") or to write us at: IM Database Team Manager, Informa Markets, L20, World Trade Center Tower, PO Box 9428, Dubai, United Arab Emirates.
 
-You must accept the session cookie used to manage access to registration-only online events for the duration of your participation in the event.
+#### Customer and prospects management (including analytics and product management)
 
-**Third party Advertising Cookies**
+We may use your personal information, combined with publicly available data and your demographic data, to deliver products and services, to choose relevant offers that may be of interest to you, to improve our existing products and services, and to develop new products and services, as part of our legitimate interests as a commercial organisation. 
 
-We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices
+We may also use your data in advertising campaigns on Social Media platforms such as Linked In, Instagram and Facebook in order to provide information about upcoming events/new products and to ensure that you only receive relevant advertising about our products and services.
 
-UBM LLC currently allows the following third party ad servers to serve ads on our web pages: AdRoll, [Bizo, Inc.](http://www.bizo.com/businessProfessionals/privacy_policy), and [Google AdSense](http://www.google.com/intl/en/privacy/ads/). Some companies, such as Bizo, Inc. and Google AdSense, may offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices.
+#### Analytics – websites, emails and database (including location data)
 
-We also use data supplied by a third party server, Madison Logic, to send marketing emails tailored to the interests of our registered users in content on websites other than our own. You may opt out of the Madison Logic cookie by using the [mechanism](http://www.madisonlogic.com/privacy/#tab-1380136766-2-91) it provides. Your continued use of our web sites will indicate your consent for our use of data collected by Madison Logic for email marketing purposes.
+We may combine visitor session information, or other information collected through tracking technologies with personally identifiable information, to understand and measure your online experiences and determine what products, promotions and services are likely to be of interest.
 
-Each of the third parties that serve ads to or advertising cookies on our web sites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/).
+Technical methods are also used in HTML e-mails, for purposes including: (i) to determine whether recipients have opened or forwarded e-mails and/or clicked on links in those e-mails, (ii) to customise the display of banner advertisements and other messages after closing an e-mail, and (iii) to determine whether a visitor has made an enquiry or a purchase in response to a particular e-mail.
 
-We may add or change the list of Third Party Advertisers from time to time. We urge you to check this section for changes regularly.
+In compliance with the California Online Privacy Protection Act (CalOPPA) (e.g. Browsers Do Not Track Signals), while we strive to offer you choice when using our website and mobile applications, we do not promise that we will be able to receive or honour web browser Do Not Track signals.
 
-## Important Information
+#### Bulletin boards or chat areas
 
-UBM LLC is a subsidiary of UBM plc.
+When you disclose personal information on any public bulletin board or chat areas of this website, or any other website used as a result of use of this website, such personal information can be collected and used by anyone who views that board or area. This may result in unsolicited messages from other participants or other parties, which we are not responsible for. 
 
-We collect and process information on servers around the world.
+Where you engage on our customer enquiry chat areas, we will use any information provided to help recommend our products and services and/or assist with confirming any order you wish to place.
 
-We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
+#### Automated decision-making (including profiling)
 
-This Privacy Policy covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.
+We use algorithm-based technologies to personalise dynamic web content based on your stated and/or inferred interests. We carry out general profiling such as segmentation, non-automated and automated decision-making based on profiling for the purpose of providing you with a more relevant experience and for the purposes of our legitimate interests as a commercial organisation. Solely automated decision making is never used in any way that produces a legal or similarly significant effect. This automated decision-making is never based on sensitive personal data and we make efforts to ensure any profiling is non-discriminatory. 
 
-Please note that virtual events may mimic face-to-face events by automatically displaying information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what choices you have within the environment.
+Depending on the laws of the country where you live, you may have rights related to our decision. For example, if you live in the European Union, you may have the right not to be subject to automated decision-making, or you may have the right to insist on human intervention in the process, express your point of view or contest the decision. If you wish to exercise any such right, please contact us via one of the methods set out in the ‘Contacting us’ section below. In some cases, we may have the right to continue with our decision, in accordance with applicable laws. This will be explained if it is the case. Otherwise, we will respond to your request as promptly as reasonably possible.
 
-Our products, services, events and offerings are directed to professionals. If we create a special offering for children under the age of thirteen, we will also create privacy practices and policies appropriate for that age group.
+#### Compliance with our legal obligations
 
-## Changes
+To ensure compliance with international trade sanction laws and regulations, we screen customers, vendors and other business partners against US, OFAC, BIS, UN, EU, UK and other applicable sanctions lists. Should any screening checks flag an issue where we cannot continue in a contract or other interaction with a customer, vendor or other business partner, they will always be informed. 
 
-We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your consent to the practices in place at the time of your use.
+#### How we protect personal information
 
-## How to Contact Us
+**Any personal information given to us will be treated with the utmost care and security. This section sets out some of the security measures in place.**
 
-For questions about this Privacy Policy, please contact:
+A variety of physical and technical measures are used to keep data safe and prevent unauthorised access to, or use or disclosure of personal information. Electronic data and databases are stored on secure computer systems and we control who has access to information, using both physical and electronic means. Our colleagues receive data protection training, and we have detailed security and data protection policies that colleagues are required to follow when handling personal data. 
 
-[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com), or
+All reasonable steps are taken to ensure that your personal information is kept secure from unauthorised access, but we cannot guarantee it will be secure during the transmission process to this website because this transmission is not controlled by us. We make use of HTTPS (HTTP Secure) whereby the communication protocol is encrypted via Transport Layer Security for secure communication over a computer network. The website is loaded via HTTPS, represented by the lock icon in your web browser, which ensures the transmission is secure and is demonstrated by a certificate issued by an official security certificate authority to Informa Markets.
 
-**UBM LLC**   
-Attn: UBM Legal  
-2 Penn Plaza, 15th Floor  
-New York, New York, 10121
+#### International transfer of personal information
 
-  * [Terms of Service](http://legal.us.ubm.com/terms-of-service/)
-  * [Contact Us](http://legal.us.ubm.com/contact-us/)
-  * [WebMaster](mailto:webmaster@ubm-us.com)
+As an international business and because of the technologies we use, personal information may be accessed by our colleagues and third-party service providers from locations outside of the European Economic Area, whose data protection laws may not be as extensive as those in Europe. 
 
+To ensure the same level of protection is in place when processing is conducted outside the European Economic Area, we use appropriate safeguards approved by the European Commission. 
 
+We apply appropriate protection to make sure your personal data remains adequately protected and is treated in line with this Privacy Policy. Informa has international data transfer agreements between its group companies and with relevant third-party service providers based on standard contractual clauses approved by the European Commission.
+
+A cookie is a small text file containing a user ID that is automatically placed on a user’s computer or other device when visiting a website. Cookies record the pages visited and the actions taken on a website, but do not contain any personal information. From time to time, we may use cookies for purposes including administering the website; tracking your activity on the website; gathering broad demographic information for aggregate use to improve the website; and offering time-saving or personalised features on the website.
+
+For more information, please visit our [Cookie Policy](https://web.archive.org/en/cookie-policy.html "Cookie Policy").
+
+This website contains links to websites of other businesses, including potentially websites of other businesses within Informa. These businesses will have their own privacy policies, tailored to their particular business practices and the sectors in which they operate, and if following those links, we recommend reviewing the privacy policy of each website to understand how personal data is used in that instance. The inclusion of links to these websites does not imply an endorsement or validation of their content, and we are not responsible for their privacy practices, nor do we accept any liability in connection with the content on such websites.
+
+#### Who we share personal information with
+
+**As an international company, to provide you with products and services we may share your information for specific reasons. This section explains how and why we share personal data with other companies within Informa, suppliers and other third parties.**
+
+**Sharing with Informa Group companies**
+
+We may share your personal information with certain other companies within Informa for specific purposes. For example, other Informa companies may assist in providing products and services to you, carry out internal analysis of the usage of products and services, or offer relevant products and services which may be of interest. 
+
+**Sharing with service providers**
+
+We may share personal information with third parties to assist in providing products and services to you and/or to offer ancillary add-ons that are complementary to such products and services. These third party data processors are bound to compliance with data protection legislation through contracts that protect the personal information shared with us. They may include: IT and marketing technology host suppliers, web and data hosting providers, mailing houses, ad servers, logistics and general service contractors, hotel/housing partners, freight forwarders, onsite health and safety partners, event registration partners, sales platform providers, communication tool providers, stand designers/builders/fitters, suppliers of sponsorship/marketing/PR collateral and other event collaboration partners. 
+
+We make use of web chat services including Intercom, LiveAdmins, Live Chat, Casengo etc. These web chat services allow us to connect with you and answer sales and customer services questions quickly and directly. We ensure that these service providers protect your data but you should not provide any sensitive information (e.g. bank or credit card details) in these chats, which are intended to provide you with quick answers to basic service questions only. 
+
+**Sharing with other organisations**
+
+We may share your personal information with our trusted partner organisations for their marketing purposes in accordance with local data laws and where appropriate your permissions. 
+
+If you use one of our virtual products, e.g. Virtual Exhibitions, Directory Sites, Webinars etc., or choose to allow your badge to be scanned at an event, we may pass the information you provide to third parties. Generally, this will be via a process whereby you, as the user, visit or interact with a third party, e.g. visit a stand at an online exhibition, have your badge scanned or click on an asset branded and provided by a third party. In some instances, for example, a products listing site, you may reach out directly to a supplier or exhibitor, who may contact you in return. In other instances, our virtual products are sponsored and, in such cases, the data you provided to us will be given to the sponsor. Generally, we will let you know at the time of collection if a product is sponsored. 
+
+We may share your personal information with third parties outside Informa including the Securities Exchange in the event of a sale, merger, acquisition, partnership, joint venture, collaboration, or negotiations related to the same with respect to all or part of our business. 
+
+**Sharing with government departments or agencies**
+
+In some circumstances, we may be legally required to disclose your personal information because a court, the police, another judicial or law enforcement body or government entity has asked us for it. 
+
+For events specifically held in regions of the Middle East, we are required by law to supply your personal information (full name, DOB, nationality and e-mail address) to the Dubai Department of Tourism and Commerce Marketing (DTCM) and Abu Dhabi Municipality. These government bodies state they will not disclose data to any third parties. Informa Markets cannot accept any liability in this regard.
+
+#### How long information is kept
+
+**We will only retain your personal information for as long as is necessary and as permitted by applicable laws.**
+
+We will retain your personal information while we are using it, as described in the section above, and may continue to retain it after these uses have ended where we have a legitimate business purpose. For example, if you have opted out of marketing communications from us, we will retain limited details about you to ensure the opt out request is honoured. We may also continue to retain your personal information to meet our legal requirements or to defend or exercise our legal rights. The length of time for which we will retain personal information will depend on the purposes for which it is retained. After we no longer need to retain your personal information, it will be deleted or securely destroyed.
+
+#### How to update your information and marketing preferences
+
+**We want to ensure you remain in control of your personal information. We try to ensure that the personal information held about you is accurate and up-to-date, and will always give the opportunity to opt out of future marketing communications.**
+
+Information on how to opt out will be given to you when we collect your personal information and specified on every marketing e-mail sent to you. If at any stage you would like to update or correct such personal information, or opt out of future marketing communications, e-mail: [imdatateam@informa.com](mailto:imdatateam@informa.com "Informa Markets Data Team Email") or write to us at: IM Database Team Manager, Informa Markets, L20, World Trade Center Tower, PO Box 9428, Dubai, United Arab Emirates.
+
+**Informa Markets operates in countries with data protection laws that may provide individuals the right to be able to access and control their information. We will always enable you to exercise the rights provided by data protection laws.**
+
+EU data protection laws give individuals a number of rights, where their data and information is collected and used by companies that are active and operating in Europe. Under the General Data Protection Regulation, these are:
+
+  * The right to confirmation of whether or not we have your personal data and, if we do, to obtain a copy of the personal information we hold. This is known as a subject access request; 
+  * The right to have inaccurate data rectified; 
+  * The right to have your data erased. This does not however apply where it is necessary for us to continue to use the data for a lawful reason; 
+  * The right to request the restriction or suppression of your personal data (such as, we will stop using the data but we may continue storing it); 
+  * The right to obtain your personal data that you have provided to us, on the basis of consent or performance of a contract, and where technically feasible, transmitted in a common electronic format to you or directly to another company; 
+  * The right to object to the use of your data. Specifically, you have the right to object to our use for marketing and in relation to automated decision making, including profiling where there may be legal or similarly significant effects. 
+
+
+
+There are exceptions to the rights above. Where you make a request to us as part of these rights, we will always try to respond to your satisfaction, although there may be situations where we are unable to do so. 
+
+California Civil Code Section 1798.83, known as the “Shine the Light” law, permits members of our community who are California residents to request and obtain from us a list of what personal information (if any) we may have disclosed to third parties for direct marketing purposes in the preceding calendar year, including the names and addresses of those third parties. Requests may be made once a year and are free of charge. If you would like to make a request pursuant to California Civil Code Section 1798.83, please do so in writing via email to [imdatateam@informa.com](mailto:imdatateam@informa.com "Informa Markets Data Team Email"); please include the phrase “Request for California Privacy Information” in the subject line and in the body of your message. 
+
+Depending on the laws of the country where you live, you may have other rights in respect of your personal information. If you wish to exercise any legal right in respect of your personal information, please contact us via one of the methods set out in the ‘Contacting us’ section below. 
+
+In some cases, we may be entitled to decline a request you have made regarding your personal information, in accordance with applicable laws. We will explain if that is the case. Otherwise, we will meet your request as promptly as we reasonably can. If you have requested that we stop sending you marketing messages, please note that you may still receive them for a short period while the request is processed. If you would like further information on your rights or wish to exercise them, please write to the Informa Group Data Protection Officer at 5 Howick Place, London, SW1P 1WG or e-mail [compliance.officer@informa.com.](mailto:compliance.officer@informa.com "Informa PLC Compliance Email")
+
+**If you have any questions about this Privacy Policy or our use of your information, e-mail imdatateam@informa.com or write to our Global Database Team at the below address:**
+
+IM Database Team Manager, Informa Markets, L20, World Trade Center Tower, PO Box 9428, Dubai, United Arab Emirates.
+
+You can also contact the Informa Group Data Protection Officer at 5 Howick Place, London, SW1P 1WG or e-mail [compliance.officer@informa.com](mailto:compliance.officer@informa.com "Informa PLC Compliance Email").
+
+We hope to resolve any privacy concerns you may have. If you are not happy with our response, or you believe that your data protection or privacy rights have been infringed, you can complain to any supervisory authority or other public body with responsibility for enforcing privacy laws. In the UK, the UK Information Commissioner’s Office regulates and enforces data protection law. Their procedures can be found at [www.ico.org.uk](http://www.ico.org.uk/ "ICO website").
+
+**Changes to this Privacy Policy**
+
+To keep up with changing legislation, best practice and changes in how we process personal data, this Privacy Policy may be revised at any time without notice by posting an updated version on this website. Checking back periodically will mean you are aware of any changes. This Privacy Policy should be read in conjunction with, and is also subject to, the website’s [Terms of Use](https://web.archive.org/en/terms-of-use.html "Informa Markets Terms of Use").
+
+This Privacy Policy was last updated in April 2019.
+
+**This page will be updated regularly as and when further modifications are made to the website.**
