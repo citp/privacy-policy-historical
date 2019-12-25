@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sailthru.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220840id_/https%3A//www.sailthru.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailthru.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225022722id_/https%3A//www.sailthru.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Sailthru
 
-Sailthru, Inc. and its affiliates worldwide (“Sailthru”, “we”, or “us”) provide Software-as-a-Service (SaaS) and software products (“Services”) to our customers and clients (“Customers”).
+Sailthru is part of the **[CM Group](https://www.cmgroupglobal.com/)** family of brands (“Sailthru”, “we”, or “us”) that provides Software-as-a-Service (SaaS) and software products (“Services”) to our customers and clients (“Customers”). We may disclose your information to affiliates within the CM Group for customer support, marketing, technical operations, and account management purposes.
 
-This Privacy Statement (“Privacy Statement”) describes how Sailthru collect, uses, discloses, and transfers information, including personal information, from users accessing and using our websites that display a link to this Privacy Statement (“Sites”). The Privacy Statement also describes Sailthru’s collection and use of information in providing the Services. This Privacy Statement does not govern collection or use of information by third parties, including our Customers. You should refer to these third parties’ separate privacy policies to learn about their collection and use of your information.
+This Privacy Statement (“Privacy Statement”) describes how Sailthru collect, uses, discloses, and transfers information, including personal information, from users accessing and using our websites that display a link to this Privacy Statement (“Sites”). The Privacy Statement also describes Sailthru’s collection and use of information in providing the Services. This Privacy Statement does not govern collection or use of information you provide to third parties, such as our Customers. You should refer to these third parties’ separate privacy policies to learn about their collection and use of your information.
 
 ### Information we collect:
 
@@ -102,20 +102,27 @@ If you believe Sailthru maintains your personal data, you may direct any inquiri
 
 #### International Centre For Dispute Resolution
 
-<http://info.adr.org/safeharbor/>  
+<http://go.adr.org/privacyshield.html>  
 International Centre for Dispute Resolution Case Filing Services  
 1101 Laurel Oak Road, Suite 100, Voorhees, NJ 080403  
 Email: [casefiling@adr.org](mailto:casefiling@adr.org)
 
 ### Right to access data:
 
-EU and Swiss individuals have rights to access personal data about them, and to limit use and disclosure of their personal data. With our Privacy Shield certification, Sailthru has committed to respect those rights.
+EU and Swiss individuals have the right to access the personal data Sailthru processes pertaining to them and to limit use and disclosure of their personal data. EU and Swiss data subjects may receive notice of Sailthru's processing of their personal data, access to that personal data, and seek to amend that personal data by request to privacy@sailthru.com. 
 
-If you believe a Sailthru Customer transferred your personal data to Sailthru, in making a request please provide the name of the Customer. We will refer your request to that customer, and assist them as needed in responding to your request.
+If you believe a Sailthru Customer transferred your personal data to Sailthru, in making a request please provide the name of the Customer. We will refer your request to that Customer, and assist them as needed in responding to your request.
 
 ### Third Parties:
 
-In providing access and use of our Services and Sites, Sailthru utilizes third parties that may access, process, or store personal information in the course of providing their services. Our agreements with these third parties require their access, use, and processing of personal information is in compliance with our Privacy Shield obligations. If either Sailthru or these third parties fail to meet our obligations under Privacy Shield, Sailthru may be liable.
+In providing access and use of our Services and Sites, Sailthru utilizes third parties that may access, process, or store personal information in the course of providing their services. Our agreements with these third parties require their access, use, and processing of personal information is in compliance with our Privacy Shield obligations. If either Sailthru or these third parties  processes such personal data in a manner inconsistent with the Privacy Shield Principles, Sailthru will be liable. In the following limited situations, we may disclose information that we collect or that you provide to us:
+
+  1. to our contractors, service providers and other third parties who provide data processing services to us and with whom the sharing of your personal information is necessary to undertake the work e.g. to process billing, to analyze data, host data, deliver content and to provide customer support and other business related functions; 
+  2. to comply with any court order, law or legal process, including responding to a governmental or regulatory request;
+  3. to affiliates of our corporate group for customer support, technical operations, and account management purposes; and
+  4. to a buyer or other successor in the event of a merger, sale or transfer of some or all of Sailthru’s assets.
+
+
 
 ### Compelled disclosure to public authorities:
 
@@ -129,10 +136,10 @@ For more information: <http://www.allaboutdnt.com/>.
 
 ### Privacy Statement Last Updated
 
-October 1, 2017
+April 18, 2019
 
  _What did we change?_
 
-We last updated our Privacy Statement on October 1, 2017. We made changes to reflect compliance with the Swiss-U.S. Privacy Shield Framework
+We last updated our Privacy Statement on April 18, 2019. We made changes to add additional information about your right to access your personal data.
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to keep up to date with any changes. If you do not agree to any changes, you should immediately stop using the Services.
