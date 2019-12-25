@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the uservoice.com privacy policy that was archived on 2019-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331184553id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uservoice.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225044711id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="uv-com" class="webkit chrome chrome69 linux js async-hide orientation_landscape maxw_768"><head>
+<!DOCTYPE html><html id="uv-com" class="webkit chrome chrome69 linux js orientation_landscape maxw_768"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="globalsign-domain-verification" content="2XxFAjhBLiWOnFZMe1WD4JOyao3tjG9IBjVZuuw2X9">
-  
+
   <title>Privacy Policy | UserVoice</title>
-  
+
   
 <!-- Canonical -->
 <link rel="canonical" href="https://www.uservoice.com/privacy/">
@@ -26,10 +26,11 @@
 <meta property="og:title" content="UserVoice: Privacy Policy">
 
 
-  <link href="/assets/css/main.css?1553857852" rel="stylesheet" type="text/css">
+  <link href="/assets/css/main.css?1577132601" rel="stylesheet" type="text/css">
+  <link href="/assets/css/tailwind.css" rel="stylesheet" type="text/css">
 
   <!-- Start of Async Drift Code -->
-<script type="text/javascript" async="" src="//widget.uservoice.com/eXsHEVVnSPiNttZmV3X5Bw.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Jv2P2ZPHXvmjTRx1vKz0GMuXVjn1d2mM/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://js.driftt.com/include/1582533900000/mf6tviaiy5gi.js"></script><script>
+<script type="text/javascript" async="" src="//widget.uservoice.com/eXsHEVVnSPiNttZmV3X5Bw.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Jv2P2ZPHXvmjTRx1vKz0GMuXVjn1d2mM/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://js.driftt.com/include/1580363100000/mf6tviaiy5gi.js"></script><script>
 "use strict";
 
 !function() {
@@ -62,7 +63,7 @@ drift.load('mf6tviaiy5gi');
 <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
 h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-})(window,document.documentElement,'async-hide','dataLayer',4000,
+})(window,document.documentElement,'async-hide','dataLayer',1000,
 {'GTM-K4K532L':true});</script>
 
   <!-- Google Analytics -->
@@ -78,19 +79,6 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
     'siteSpeedSampleRate': 100
   });
   ga('require', 'displayfeatures');
-  // ga('require', 'Clearbit', {
-  //   mapping: {
-  //     companyName:           'dimension3',
-  //     companyEmployeesRange: 'dimension4',
-  //     companyTags:           'dimension5',
-  //     companyTech:           'dimension6',
-  //     companySubIndustry:    'dimension7',
-  //     companyIndustry:       'dimension8',
-  //     companyIndustryGroup:  'dimension9',
-  //     companySector:         'dimension10',
-  //     companyType:           'dimension11'
-  //   }
-  // });
 
   var pixelRatio = (window.devicePixelRatio >= 1.5) ? "Retina" : "Non Retina";
   if (window.devicePixelRatio){
@@ -99,7 +87,35 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 
   ga('require', 'GTM-K4K532L');
   ga('send', 'pageview');
+
+  ga(function(){
+    ga_trackers=[];
+    ga.getAll().forEach(function(x,i){ ga_trackers.push(x.get('name')) });
+    ga_trackers.forEach(function(gaName){
+      ga(gaName + '.require', 'Clearbit', {"mapping":{
+        "companyType":"dimension11",
+        "companyName":"dimension3", 
+        "companyDomain":"dimension13", 
+        "companyIndustry":"dimension8", 
+        "companySubIndustry":"dimension7", 
+        "companyEmployeesRange":"dimension4", 
+        "companyEstimatedAnnualRevenue":"dimension15", 
+        "companyAlexaRank":"dimension14",
+        "companyCity":"dimension16",
+        "companyState":"dimension17",
+        "companyCountry":"dimension18",
+        "companySicCode":"dimension19",
+        "companyTech":"dimension6",
+        "companyTags":"dimension5",
+        "companyIndustryGroup":"dimension9",
+        "companySector":"dimension10",
+        "companyEmployees":"dimension20"
+      }});
+    });
+  });
 </script>
+
+<script async="" src="https://ga.clearbit.com/v1/ga.js?authorization=pk_9256b5f82eda75856f3ec0a578a50cdc"></script>
 
   <!-- Riveted -->
 <script>
@@ -113,10 +129,6 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 </script>
 <script>riveted.init();</script>
 
-  <!-- Infer -->
-<script src="https://lib.infer.com/inferga.js"></script>
-<script>infer.init(2);</script>
-
   <!-- Segment -->
 <script>
   !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
@@ -125,38 +137,79 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
   }}();
 </script>
 
+  <!-- ZenDesk Widget -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5ca40ce4-128b-456a-80ed-3fb04755ab38"></script>
+<script>
+  zE(function(){zE.hide();});
+  window.zESettings = {
+    cookies: false,
+    webWidget: {
+      position: {horizontal: 'left'}
+    }
+  };
+</script>
+
 </head>
 
 <body class="page-privacy privacy_index " id="top">
 
   <div id="fb-root"></div>
-  
-  	<div class="home-roadmap-banner-mobile">
-	<a href="https://community.uservoice.com/blog/new-in-uservoice-introducing-new-ways-to-follow-up/"><span class="new-orange">New!</span> Private Follow-ups</a>
-	</div>
-<header class="topbar " role="banner">
-	<div class="topbar-in container">
+
+  <header class="topbar " role="banner">
+	<style>
+		.homepage-banner {
+			display: none;
+		}
+
+		.the-homepage .homepage-banner {
+			display: block;
+		}
+		/* Temporary Workaround Until Header Gets Refactored */
+		@media all and (max-width: 415px) {
+			.topbar-in {
+				margin-top: 36px;
+			}
+
+			.homepage-banner {
+				left: 0;
+				position: fixed;
+				right: 0;
+				text-align: center;
+				top: 0;
+			}
+		}
+	</style>
+	<div class="topbar-in container tw-flex tw-items-stretch tw-relative">
 		<div class="grid3">
-			<h1 class="uv-logo">
-				<a href="/" class="uv-logo-target">
-					<img src="/assets/img/logos/uservoice/rebrand/logo-solid.svg" alt="UserVoice" class="uv-logo-img">
-					<img src="/assets/img/logos/uservoice/rebrand/uservoice-white.svg" alt="UserVoice" class="uv-logo-img white">
+			<h1 class="tw-relative uv-logo">
+				<a href="/" class="tw-block uv-logo-target">
+					<img src="/assets/img/logos/uservoice/rebrand/white-bg-logo.svg" alt="UserVoice" class="uv-logo-img">
+					<img src="/assets/img/logos/uservoice/rebrand/dark-bg-logo.svg" alt="UserVoice" class="uv-logo-img white">
+				</a>
+				<a class="homepage-banner tw-text-sm tw-absolute tw-bg-orange_fade tw-inline-block tw-px-15 tw-py-10 tw-whitespace-no-wrap" href="https://community.uservoice.com/blog/uservoice-slack-integration/" id="homepage-banner">
+					<div class="tw-border-transparent caret tw-absolute tw-block tw-border-solid tw-border-b-10 tw-border-l-20 tw-border-r-0 tw-border-t-0 tw-left-0 tw-h-0 tw-w-0 "></div>
+					<span class="tw-inline-block tw-text-orange-new tw-uppercase tw-font-medium tw-tracking-wider">
+						 New in UserVoice:
+					</span>
+					<span class="tw-text-gray-text">
+						Slack Integration
+					</span>
+					<span class="tw-inline-block tw-ml-2 tw-text-gray-text tw-font-medium" style="transform: scale(.8, 1.55);">&gt;</span>
 				</a>
 			</h1>
-				<a href="https://community.uservoice.com/blog/new-in-uservoice-introducing-new-ways-to-follow-up/" class="home-roadmap-banner"><span class="new-orange">New!</span> Private Follow-ups</a>
 		</div>
-		
-		<div class="grid9 mobile-l-up-text-right">
-			<p class="mobile-nav-trigger-open" data-mobile-nav-trigger="">Menu</p>
+
+		<div class="tw-relative grid9 mobile-l-up-text-right">
+			<p class="mobile-nav-trigger-open" data-mobile-nav-trigger="data-mobile-nav-trigger">Menu</p>
 
 <nav class="navigation" role="navigation">
   <img src="/assets/img/logos/uservoice/rebrand/logo-solid.svg" alt="UserVoice" class="nav-logo" width="134">
-  <i class="iconz-x mobile-nav-trigger-close" data-mobile-nav-trigger="" aria-hidden="true"></i>
+  <i class="iconz-x mobile-nav-trigger-close" data-mobile-nav-trigger="data-mobile-nav-trigger" aria-hidden="true"></i>
 
   <ul class="main-nav">
 
     <li class="main-nav-item has-dropdown">
-    	<span class="main-nav-target ">Product</span>
+      <span class="main-nav-target ">Product</span>
 
       <div class="dropdown product">
         <ul class="dropdown-nav">
@@ -187,9 +240,12 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
               </div>
             </a>
           </li>
+          <li style="padding-left: 42px;">
+            <a href="http://community.uservoice.com/blog/category/uservoice-updates/" class="dropdown-nav-target fixed-click">Product Updates</a>
+          </li>
         </ul>
 
-        <div class="dropdown-highlight product">
+        <div class="dropdown-highlight product no-bottom-padding">
           <h3 class="dropdown-highlight-headline">View the product overview</h3>
           <p class="dropdown-highlight-body">Follow along as Amanda takes you on a guided tour of UserVoice</p>
 
@@ -237,7 +293,7 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
           </li>
         </ul>
 
-        <div class="dropdown-highlight solutions">
+        <div class="dropdown-highlight solutions no-bottom-padding">
           <h3 class="dropdown-highlight-headline">Customer Snapshot</h3>
           <p class="dropdown-highlight-body">Learn how UserVoice provides Procore with a single source of truth to drive product decisions</p>
 
@@ -261,23 +317,78 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 
       <div class="dropdown resources">
         <ul class="dropdown-nav">
-          <li><a href="https://community.uservoice.com/" class="dropdown-nav-target">Blog</a></li>
-          <li><a href="/library/" class="dropdown-nav-target">Library</a></li>
-          <li><a href="/library/#article" class="dropdown-nav-target filter" data-filter=".article">Articles</a></li>
-          <li><a href="/library/#data-sheet" class="dropdown-nav-target filter" data-filter=".data-sheet">Data Sheets</a></li>
-          <li><a href="/library/#video" class="dropdown-nav-target filter" data-filter=".video">Videos</a></li>
-          <li><a href="/library/#ebook" class="dropdown-nav-target filter" data-filter=".ebook">eBooks</a></li>
-          <li><a href="https://developer.uservoice.com/" class="dropdown-nav-target">Developer Docs</a></li>
+          <li>
+            <a href="https://community.uservoice.com/" class="dropdown-nav-target fat-nav">
+              <img src="/assets/img/nav/icon-blog.svg" width="32" alt="" class="dropdown-nav-target-icon">
+              <div class="dropdown-nav-target-body">
+                <h3 class="dropdown-nav-target-heading">Blog</h3>
+                <p>Your source for product feedback tips &amp; tricks</p>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/ebooks/" class="dropdown-nav-target fat-nav">
+              <img src="/assets/img/nav/icon-ebooks.svg" width="32" alt="" class="dropdown-nav-target-icon">
+              <div class="dropdown-nav-target-body">
+                <h3 class="dropdown-nav-target-heading">eBooks</h3>
+                <p>FREE how-to guides for making the most of product feedback</p>
+              </div>
+            </a>
+          </li>
+          <!-- <li>
+            <a href="#" class="dropdown-nav-target fat-nav">
+              <img src="/assets/img/nav/icon-sales-faq.svg" width="32" alt="" class="dropdown-nav-target-icon">
+              <div class="dropdown-nav-target-body">
+                <h3 class="dropdown-nav-target-heading">Sales FAQs</h3>
+                <p>The most common questions people have before they purchase UserVoice</p>
+              </div>
+            </a>
+          </li> -->
+          <li>
+            <a href="/security-compliance/" class="dropdown-nav-target fat-nav">
+              <img src="/assets/img/nav/icon-security-comp.svg" width="32" alt="" class="dropdown-nav-target-icon">
+              <div class="dropdown-nav-target-body">
+                <h3 class="dropdown-nav-target-heading">Security &amp; Compliance</h3>
+                <p>We're enterprise ready: Pen Tests, SOC II, 503C, GDPR, PII and more</p>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="https://developer.uservoice.com/" class="dropdown-nav-target fat-nav">
+              <img src="/assets/img/nav/icon-developer-doc.svg" width="32" alt="" class="dropdown-nav-target-icon">
+              <div class="dropdown-nav-target-body">
+                <h3 class="dropdown-nav-target-heading">Developer Docs</h3>
+                <p>API how-to's &amp; documentation, data integrations, widgets, and single sign-on</p>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="https://feedback.uservoice.com/knowledgebase" class="dropdown-nav-target fat-nav last">
+              <img src="/assets/img/nav/icon-knowledgebase.svg" width="32" alt="" class="dropdown-nav-target-icon">
+              <div class="dropdown-nav-target-body">
+                <h3 class="dropdown-nav-target-heading">Knowledge Base</h3>
+                <p>Documentation &amp; FAQs on setting up UserVoice</p>
+              </div>
+            </a>
+          </li>
         </ul>
 
         <div class="dropdown-highlight resources">
           <h3 class="dropdown-highlight-headline">Why the future of product management is customer-centric</h3>
-          <div class="wistia_embed wistia_async_j3m14nk0pr popover=true popoverContent=link dropdown-highlight-target-block">
+          <div class="wistia_embed wistia_async_j3m14nk0pr popover=true popoverContent=link">
             <span class="dropdown-highlight-more">Watch the Video</span>
-            <span class="dropdown-vid">
+            <span class="dropdown-vid add-play-button">
               <p class="dropdown-vid-runtime">1:31</p>
-              <img src="/assets/img/nav/customer-centric-2x.jpg" alt="">
+              <img src="/assets/img/nav/rich-thumbnail-2x.jpg" alt="">
+              <div class="dropdown-vid-bottom-left">
+                <p class="color-white">Richard White</p>
+                <p class="uppercase color-uv-orange">CEO / Co-Founder</p>
+              </div>
             </span>
+          </div>
+          <div class="dropdown-highlight-bottom-img two-column">
+            <img src="/assets/img/nav/success-thumbnail-2x.jpg" alt="">
+            <img src="/assets/img/nav/office-thumbnail-2x.jpg" alt="">
           </div>
         </div>
       </div>
@@ -289,23 +400,35 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
       <div class="dropdown contact narrow">
         <ul class="dropdown-nav dktop-mb5">
           <li class="test-drift-a">
-            <a href="http://www6.uservoice.com/l/17202/2017-03-06/7whzwj" class="dropdown-nav-target" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Talk to Sales</a>
+            <a href="https://www6.uservoice.com/l/17202/2017-03-06/7whzwj" class="dropdown-nav-target" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Talk to Sales</a>
           </li>
           <li class="test-drift-b">
             <a href="#talktosales" class="dropdown-nav-target" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales Drift&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Talk to Sales</a>
           </li>
-          <li><a href="https://feedback.uservoice.com/knowledgebase/" id="widget-customer-support" class="dropdown-nav-target fixed-click">Customer Support</a></li>
-          <li><a href="https://feedback.uservoice.com/knowledgebase/" id="widget-other-inquiries" class="dropdown-nav-target fixed-click">Other Inquiries</a></li>
+          <li>
+            <a href="javascript:void(0)" onclick="zE(function() {zE.activate()})" class="dropdown-nav-target fixed-click">Customer Support</a>
+          </li>
+          <li>
+            <a href="https://feedback.uservoice.com/knowledgebase/" class="dropdown-nav-target fixed-click">Other Inquiries</a>
+          </li>
         </ul>
 
         <div class="dropdown-footer">
-          <p>San Francisco<br> 655 Montgomery St<br> Suite 1170<br> San Francisco, CA 94111</p>
-          <p>Raleigh<br> 234 Fayetteville St<br> 3rd Floor<br> Raleigh, NC 27601</p>
+          <p>San Francisco<br>
+            655 Montgomery St<br>
+            Suite 1170<br>
+            San Francisco, CA 94111</p>
+          <p>Raleigh<br>
+            234 Fayetteville St<br>
+            3rd Floor<br>
+            Raleigh, NC 27601</p>
         </div>
       </div>
     </li>
 
-    <li class="main-nav-item is-button"><a href="http://www6.uservoice.com/l/17202/2016-07-29/52wtrp/" class="nav-button test-pfh-b" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Free Trial&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Sign Up</a></li>
+    <li class="main-nav-item is-button">
+      <a href="https://www6.uservoice.com/l/17202/2019-04-15/mgf577" class="nav-button test-pfh-b" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Free Trial&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Main nav&quot;}">Sign Up</a>
+    </li>
 
   </ul>
 </nav>
@@ -325,7 +448,10 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
     <div class="row">
       <article class="main typeset grid9 border">
 
-        <p><i>Effective as of June 1, 2017.</i></p>
+        <p>
+          <i>Effective as of December 9, 2019.</i>
+          <span class="tw-block">* Added a statement describing California privacy rights. No other changes.</span>
+        </p>
 
 <h3 id="introduction">Introduction</h3>
 
@@ -408,6 +534,12 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 <p>UserVoice complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy
 Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. UserVoice has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <a href="https://www.privacyshield.gov/" rel="nofollow">privacyshield.gov</a>.</p>
 
+<h3 id="california-privacy-rights">Your California privacy rights</h3>
+
+<p>Under California Civil Code Section 1798.82, UserVoice customers who are California residents may request information about the disclosure of your personal information by UserVoice or its subsidiaries to a third party for the third party's direct marketing purposes. UserVoice does not sell personal data to any entity. If you would like to request more information, you may send an email to <a href="mailto:privacy@uservoice.com">privacy@uservoice.com</a>.</p>
+
+<p>You may exercise your rights, including export and deletion of data, by visiting <a href="https://www.uservoice.com/gdpr-compliance/" rel="nofollow">https://www.uservoice.com/gdpr-compliance/</a></p> 
+
 <h3 id="resolution-of-disputes">Resolution of disputes and complaint mechanism</h3>
 
 <p>In compliance with the US-EU and Swiss-US Privacy Shield Principles, UserVoice commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact UserVoice at:</p>
@@ -446,7 +578,7 @@ Attn:  Chief Executive Officer<br>
         <a href="/privacy-shield/" class="secondary-nav-target ">Privacy Shield Framework</a>
       </li>
       <li class="secondary-nav-item">
-        <a href="/security-compliance/gdpr-compliance/" class="secondary-nav-target">GDPR Compliance</a>
+        <a href="/gdpr-compliance/" class="secondary-nav-target">GDPR Compliance</a>
       </li>
     </ul>
   </nav>
@@ -468,100 +600,169 @@ Attn:  Chief Executive Officer<br>
       </div>
 
       <div class="grid3">
-        <a href="http://www6.uservoice.com/l/17202/2016-07-29/52wtrp/" class="button expand" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Free Trial&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Above Footer&quot;}">Try it Now!</a>
+        <a href="https://www6.uservoice.com/l/17202/2019-04-15/mgf577" class="button expand" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Free Trial&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Above Footer&quot;}">Try it Now!</a>
       </div>
     </div>
   </div>
 </section>
 
 
-  <footer class="footer" role="contentinfo">
+  <footer role="contentinfo">
 	<div class="container">
 
-    <div class="row">
-      <section class="grid6 footer-section">
-        <h3 class="footer-heading">Customer Resources</h3>
+		<div class="footer-top grid">
 
-        <ul class="footer-nav col">
-          <li><a href="http://app.uservoice.com/signin">Sign in</a></li>
-    			<li><a href="https://feedback.uservoice.com/">Feedback Forum</a></li>
-    			<li><a href="https://feedback.uservoice.com/knowledgebase">Knowledge Base</a></li>
-          <li><a href="https://developer.uservoice.com/">Developer Docs</a></li>
-          <li><a href="https://status.uservoice.com/">System Status</a></li>
-          <li><a href="https://translate.uservoice.com/">Translation Editor</a></li>
-    			<li><a href="https://releases.uservoice.com/">Product Updates</a></li>
-    			<li><a href="/integrations/">Integrations</a></li>
-        </ul>
-      </section>
+				<nav class="footer-section">
+					<h3 class="footer-heading">Resources</h3>
+					<ul class="footer-nav">
+						<li><a href="#talktosales">Talk to Sales</a></li>
+						<li>—</li>
+						<li><a href="https://developer.uservoice.com/">Developer Docs</a></li>
+						<li><a href="/security-compliance/">Security &amp; Compliance</a></li>
+						<li>—</li>
+						<li><a href="https://feedback.uservoice.com/">Give Feedback</a></li>
+						<li><a href="https://feedback.uservoice.com/knowledgebase/">Knowledge Base</a></li>
+						<li>—</li>
+						<li><a href="/what-is-customer-centricity/">What is Customer Centricity?</a></li>
+						<li><a href="/customer-feedback-saas-products/">Customer Feedback<br> for SaaS Products</a></li>
+					</ul>
+				</nav>
 
-    	<section class="grid3 footer-section">
-        <h3 class="footer-heading">Company</h3>
+				<nav class="footer-section">
+					<h3 class="footer-heading">Product</h3>
+					<ul class="footer-nav">
+						<li><a href="/product/">Accumulate</a></li>
+						<li><a href="/product/analyze/">Analysis</a></li>
+						<li><a href="/product/activate/">Activate</a></li>
+						<li>—</li>
+						<li><a href="/integrations/">Integrations</a></li>
+						<li>—</li>
+						<li><a href="https://releases.uservoice.com/">Product Updates</a></li>
+						<li><a href="https://status.uservoice.com/">System Status</a></li>
+					</ul>
+				</nav>
 
-        <ul class="footer-nav">
-    			<li><a href="/about/">About Us</a></li>
-    			<li><a href="/about/team/">Executive Team</a></li>
-    			<li><a href="/jobs/">Careers</a></li>
-    			<li><a href="/about/press/">Press &amp; Media</a></li>
-        </ul>
-      </section>
+				<nav class="footer-section">
+					<h3 class="footer-heading">Use Cases</h3>
+					<ul class="footer-nav">
+						<li><a href="/solutions/product-manager/">Product Manager</a></li>
+						<li><a href="/solutions/product-executive/">Product Executive</a></li>
+						<li><a href="/solutions/feedback-manager/">Feedback Manager</a></li>
+						<li><a href="/customers/">Customer Stories</a></li>
+					</ul>
+				</nav>
 
-    	<section class="grid3 footer-section">
-        <h3 class="footer-heading">Talk to Us</h3>
+				<nav class="footer-section">
+					<h3 class="footer-heading">eBooks</h3>
+					<ul class="footer-nav">
+						<li><a href="http://www6.uservoice.com/l/17202/2017-01-20/74plc2?UTM_Campaign=Old%20Way%20New%20Way&amp;UTM_Form_Factor=eBook&amp;UTM_Medium=Website&amp;UTM_Source=UserVoice.com&amp;UTM_Action=Form%20Fill%20-%20Lead&amp;UTM_SFDC_Campaign_ID=70134000001N935">Transforming Your Product Management</a></li>
+						<li><a href="http://www6.uservoice.com/l/17202/2016-01-22/3gld72/">Building a Feedback Machine</a></li>
+						<li><a href="http://www6.uservoice.com/l/17202/2016-01-29/3hzqwb/">Product Features</a></li>
+						<li><a href="http://www6.uservoice.com/l/17202/2016-01-29/3hzqz4/">Get Your Priorities Straight</a></li>
+						<li><a href="https://www.uservoice.com/surveys/the-influence-of-customer-feedback-on-the-product-development-process/">The Influence of Customer Feedback</a></li>
+						<li><a href="https://www6.uservoice.com/l/17202/2016-08-29/56tx7h/">Best Practices for Collecting Feedback</a></li>
+					</ul>
+				</nav>
 
-        <ul class="footer-nav">
-          <li><a class="value" href="tel:+18888400280">1 (888) 840.0280</a></li>
-          <li class="test-drift-a">
-            <a href="http://www6.uservoice.com/l/17202/2017-03-06/7whzwj" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Footer&quot;}">Talk to Sales</a>
-          </li>
-          <li class="test-drift-b">
-            <a href="#talktosales" data-track="CTA" data-track-properties="{&quot;action&quot;:&quot;Click&quot;, &quot;subject&quot;:&quot;Contact Sales Drift&quot;, &quot;origin&quot;:&quot;/privacy/&quot;, &quot;placement&quot;:&quot;Footer&quot;}">Talk to Sales</a>
-          </li>
-        </ul>
-      </section>
+				<nav class="footer-section">
+					<h3 class="footer-heading">From the Blog</h3>
+					<ul class="footer-nav">
+						<li><a href="https://community.uservoice.com/blog/category/product-feedback/popular/">Most Popular</a></li>
+						<li><a href="https://community.uservoice.com/blog/category/product-feedback/tips-tricks/">Tips &amp; Tricks</a></li>
+						<li><a href="https://community.uservoice.com/blog/category/product-feedback/how-to/">How-To</a></li>
+						<li><a href="https://community.uservoice.com/blog/category/product-feedback/internal-feedback/">Internal Feedback</a></li>
+						<li><a href="https://community.uservoice.com/blog/category/product-feedback/expert-advice/">Expert Advice</a></li>
+						<li><a href="https://community.uservoice.com/blog/">Recent Posts</a></li>
+					</ul>
+				</nav>
+
+				<nav class="footer-section">
+					<ul class="footer-nav blog-preview">
+						<a href="https://community.uservoice.com/blog/surprise-insights-coping-with-unexpected-product-feedback/">
+							<div class="img-container">
+								<img src="/assets/img/footer/blog-preview.png" alt="Surprise Insights: Coping with Unexpected Product Feedback">
+							</div>
+						</a>
+						<a class="blog-title" href="https://community.uservoice.com/blog/surprise-insights-coping-with-unexpected-product-feedback/">Surprise Insights: Coping with Unexpected Product Feedback</a>
+						<a class="blog-link" href="https://community.uservoice.com/blog/surprise-insights-coping-with-unexpected-product-feedback/">9 MIN READ <!--?xml version="1.0" encoding="UTF-8"?-->
+						<svg width="5px" height="10px" viewBox="0 0 5 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+								<!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+								<title>Path 4</title>
+								<desc>Created with Sketch.</desc>
+								<g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+										<g id="Desktop" transform="translate(-1237.000000, -7289.000000)" stroke="#FF671F" stroke-width="2">
+												<g id="Group-5" transform="translate(1140.000000, 7287.000000)">
+														<polyline id="Path-4" points="98 11 101 7.13406767 98 3.5"></polyline>
+												</g>
+										</g>
+								</g>
+						</svg></a>
+					</ul>
+				</nav>
+
+		</div>
+
+    <div class="footer-bottom row">
+      <ul class="utility-links mla">
+        <li class="utility-link"><a href="http://app.uservoice.com/signin" class="utility-link-target sign-in">Sign in</a></li>
+        <li class="utility-link"><a href="/about/" class="utility-link-target">About Us</a></li>
+        <li class="utility-link"><a href="/about#join-us" class="utility-link-target">Careers</a></li>
+				<li class="utility-link"><a href="/tos/" class="utility-link-target">Terms</a></li>
+				<li class="utility-link"><a href="/privacy/" class="utility-link-target">Privacy</a></li>
+      </ul>
+
+      <ul class="social-links mla">
+				<li class="footer-social-item">© 2019 UserVoice</li>
+        <li class="footer-social-item">
+          <a href="https://twitter.com/uservoice">
+						<!--?xml version="1.0" encoding="UTF-8"?-->
+						<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+						    <title>footer-twitter-icon</title>
+						    <desc>Created with Sketch.</desc>
+						    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+						        <g id="Desktop" transform="translate(-1236.000000, -7528.000000)" fill="#253746" fill-rule="nonzero">
+						            <g id="footer-twitter-icon" transform="translate(1235.000000, 7528.000000)">
+						                <path d="M19,1.7 C18.3,2 17.6,2.2 16.9,2.3 C17.7,1.9 18.2,1.2 18.5,0.3 C17.8,0.7 17,1 16.2,1.1 C15.5,0.4 14.5,0 13.5,0 C11.5,0 9.8,1.6 9.8,3.5 C9.8,3.8 9.8,4 9.9,4.3 C6.8,4.2 4.1,2.8 2.3,0.6 C1.9,1.2 1.8,1.8 1.8,2.4 C1.8,3.6 2.5,4.7 3.4,5.3 C2.8,5.3 2.2,5.1 1.7,4.9 L1.7,4.9 C1.7,6.6 3,8 4.7,8.4 C4.4,8.5 4.1,8.5 3.7,8.5 C3.5,8.5 3.2,8.5 3,8.4 C3.5,9.8 4.8,10.8 6.4,10.9 C5.1,11.8 3.5,12.4 1.8,12.4 C1.5,12.4 1.2,12.4 0.9,12.4 C2.5,13.4 4.5,14 6.6,14 C13.4,14 17.1,8.6 17.1,3.9 C17.1,3.7 17.1,3.6 17.1,3.4 C17.9,3 18.5,2.4 19,1.7" id="Path"></path>
+						            </g>
+						        </g>
+						    </g>
+						</svg>
+          </a>
+        </li>
+        <li class="footer-social-item">
+          <a href="https://www.linkedin.com/company/356606?trk=vsrp_companies_res_name&amp;trkInfo=VSRPsearchId%3A1803180341422920317209%2CVSRPtargetId%3A356606%2CVSRPcmpt%3Aprimary">
+						<!--?xml version="1.0" encoding="UTF-8"?-->
+						<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+						    <title>footer-linkedin-icon</title>
+						    <desc>Created with Sketch.</desc>
+						    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+						        <g id="Desktop" transform="translate(-1284.000000, -7526.000000)" fill="#253746" fill-rule="nonzero">
+						            <g id="footer-linkedin-icon" transform="translate(1284.000000, 7526.000000)">
+						                <path d="M1.9,0 C3,0 3.8,0.9 3.8,1.9 C3.8,3 3,3.9 1.9,3.9 C0.9,3.9 0,3 0,1.9 C0,0.9 0.9,0 1.9,0 L1.9,0 Z M0.3,5.3 L3.6,5.3 L3.6,16 L0.3,16 L0.3,5.3 Z" id="Shape"></path>
+						                <path d="M5.7,5.3 L8.9,5.3 L8.9,6.8 L8.9,6.8 C9.3,5.9 10.4,5 12,5 C15.4,5 16,7.2 16,10.1 L16,16 L12.7,16 L12.7,10.8 C12.7,9.6 12.7,8 11,8 C9.3,8 9,9.4 9,10.7 L9,16 L5.7,16 L5.7,5.3 Z" id="Path"></path>
+						            </g>
+						        </g>
+						    </g>
+						</svg>
+          </a>
+        </li>
+      </ul>
     </div>
-
-    <div class="divider-gradient bottom-up">
-      <div class="row flex cross-end main-between mt8">
-        <div class="tagline">
-          <img class="tagline-logo" src="/assets/img/logos/uservoice/rebrand/uservoice-badge-solid.svg" alt="">
-
-        </div>
-
-        <ul class="utility-links mla">
-          <li class="utility-link"><a href="/tos/" class="utility-link-target">Terms of Service</a></li>
-          <li class="utility-link"><a href="/privacy/" class="utility-link-target">Privacy Policy</a></li>
-          <li class="utility-link"><a href="/security-compliance/" class="utility-link-target">Security and Compliance</a></li>
-        </ul>
-
-        <ul class="social-links mla">
-          <li class="footer-social-item">
-            <a href="https://twitter.com/uservoice">
-              <i class="iconz-twitter midnight-gray" aria-hidden="true"></i>
-              <span class="visuallyhidden">Twitter</span>
-            </a>
-          </li>
-          <li class="footer-social-item">
-            <a href="https://www.linkedin.com/company/356606?trk=vsrp_companies_res_name&amp;trkInfo=VSRPsearchId%3A1803180341422920317209%2CVSRPtargetId%3A356606%2CVSRPcmpt%3Aprimary">
-              <i class="iconz-linkedin midnight-gray" aria-hidden="true"></i>
-              <span class="visuallyhidden">LinkedIn</span>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-
 	</div>
 </footer>
 
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
   <!-- UserVoice -->
 <script>
   UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/eXsHEVVnSPiNttZmV3X5Bw.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
   UserVoice.push(['set', 'locale', 'en']);
 </script>
 
-  <script src="/assets/js/main.js?1551825449" type="text/javascript"></script>
+  <script src="/assets/js/main.js?1577132603" type="text/javascript"></script>
 
   <script src="//fast.wistia.com/assets/external/E-v1.js" async=""></script>
   <script src="//fast.wistia.com/embed/medias/1eyd7243z0.jsonp" async=""></script> <!-- Procore Video -->
@@ -571,11 +772,75 @@ Attn:  Chief Executive Officer<br>
   <script>
   (function($, window, undefined) {
     if ( $('#featuredCarousel').length ) {
-      $('#featuredCarousel').flickity({
-        cellAlign: 'left',
-        groupCells: true,
-        pageDots: true,
-        watchCSS: false
+      $('#featuredCarousel').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        nextArrow: '<button class="flickity-prev-next-button next"><svg viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button>',
+        prevArrow: '<button class="flickity-prev-next-button previous"><svg viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button>',
+        variableWidth: true,
+        infinite: false,
+        responsive: [
+        {
+          breakpoint: 1000,
+          settings: {
+            slidesToShow: 2,
+            arrows: false,
+            dots: true,
+            variableWidth: false
+          }
+        },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 1,
+            arrows: false,
+            dots: true,
+            variableWidth: false,
+            adaptiveHeight: true
+          }
+        }
+        ]
+      });
+    }
+  })(jQuery, this);
+  (function($, window, undefined) {
+    if ( $('#ebookImgCarousel').length ) {
+      $('#ebookImgCarousel').slick({
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        adaptiveHeight: true,
+        arrows: false,
+        centerMode: true,
+        focusOnSelect: true,
+        asNavFor: '#ebookContentCarousel',
+        responsive: [
+        {
+          breakpoint: 1025,
+          settings: {
+            slidesToShow: 3
+          }
+        },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 1
+          }
+        }
+        ]
+      });
+    }
+  })(jQuery, this);
+  (function($, window, undefined) {
+    if ( $('#ebookContentCarousel').length ) {
+      $('#ebookContentCarousel').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        asNavFor: '#ebookImgCarousel',
+        arrows: true,
+        nextArrow: '<button class="flickity-prev-next-button next"><svg viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button>',
+        prevArrow: '<button class="flickity-prev-next-button previous"><svg viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button>',
+        fade: true
       });
     }
   })(jQuery, this);
