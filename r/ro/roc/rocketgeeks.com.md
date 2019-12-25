@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketgeeks.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629140301id_/http%3A//www.rocketgeeks.com/privacy-policy-user-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketgeeks.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225205938id_/http%3A//www.rocketgeeks.com/privacy-policy-user-agreement) for the most accurate reproduction.*
 
 # Privacy Policy | Rocket Geeks
 
