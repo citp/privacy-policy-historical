@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the thecalculatorsite.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506001657id_/https%3A//www.thecalculatorsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecalculatorsite.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225053339id_/https%3A//www.thecalculatorsite.com/privacypolicy.php) for the most accurate reproduction.*
 
 # The Calculator Site Privacy Policy
 
 The Calculator Site respects the confidentiality of the information relating to its individual users and visitors and the laws governing the privacy of information that apply in the country and state where the web site is located. Information identifying a user will not be disclosed by The Calculator Site staff to anyone unless specifically authorized by that individual.
 
-In order for The Calculator Site to count visitor numbers, a unique "cookie" may be placed on your browser. We also track IP addresses for the purposes of attaining demographic data. This data is used by us for statistical purposes only.
+To help with your productivity, The Calculator Site may place the following cookies in your browser: 
 
-For the purposes of remembering options such as your chosen currency in our finance calculators (to allow us to select the option for you), we place a "cookie" to store this information. 
+  * **currVal** : This cookie stores your chosen currency, in order to remember it and auto-select it for you on calculators during future visits.
+  * **conversion cookie** : For each of the main unit category converters, a cookie is placed to store the index of the last options chosen for 'Convert From' and 'Convert To'. This is to auto-select them for your future visits (to save you time). They will be named as the converter name (energy, power, etc).
+  * **roundingNum** : This cookie stores the number of digits you have chosen to round to, to auto-select the appropriate option when you next visit.
+
+
 
 * * *
 
@@ -44,7 +48,7 @@ More information on how to opt out of the use of the these cookies can be found 
 
 ## Calculator and converter forms on this website
 
-Information entered into the converter and calculator forms on this website is not stored. Results are simply calculated and returned to you on the screen based upon the data you have entered. 
+Individual information you enter into the converter and calculator forms on this website is not stored. Results are simply calculated and returned to you on the screen based upon the data you have entered. The only exceptions to this are the productivity cookies mentioned at the top of this page. 
 
 * * *
 
