@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcisecuritystandards.org privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511155748id_/https%3A//www.pcisecuritystandards.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcisecuritystandards.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225012007id_/https%3A//www.pcisecuritystandards.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
