@@ -1,0 +1,946 @@
+<!--The following is the downloaded HTML source of the airship.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225044428id_/https%3A//www.airship.com/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="js"><head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1158.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5GRR3PG"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"f4cd81e018",applicationID:"154190532"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>Privacy Statement | Airship</title>
+
+	
+<!-- This site is optimized with the Yoast SEO Premium plugin v12.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://www.airship.com/legal/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Statement | Airship">
+<meta property="og:url" content="https://www.airship.com/legal/privacy/">
+<meta property="og:site_name" content="Airship">
+<meta property="og:image" content="https://www.airship.com/wp-content/uploads/2019/04/airship-og-image.jpg">
+<meta property="og:image:secure_url" content="https://www.airship.com/wp-content/uploads/2019/04/airship-og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Statement | Airship">
+<meta name="twitter:image" content="https://www.airship.com/wp-content/uploads/2019/04/airship-og-image.jpg">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.airship.com/#website","url":"https://www.airship.com/","name":"Airship","potentialAction":{"@type":"SearchAction","target":"https://www.airship.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.airship.com/legal/privacy/#webpage","url":"https://www.airship.com/legal/privacy/","inLanguage":"en-US","name":"Privacy Statement | Airship","isPartOf":{"@id":"https://www.airship.com/#website"},"datePublished":"2019-03-28T22:48:25+00:00","dateModified":"2019-12-09T17:26:40+00:00","breadcrumb":{"@id":"https://www.airship.com/legal/privacy/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://www.airship.com/legal/privacy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.airship.com/legal/","url":"https://www.airship.com/legal/","name":"Legal"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.airship.com/legal/privacy/","url":"https://www.airship.com/legal/privacy/","name":"Privacy Statement"}}]}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//cc.cdn.civiccomputing.com">
+<link rel="dns-prefetch" href="//www.airship.com">
+<link rel="dns-prefetch" href="//app-sj21.marketo.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.airship.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="theme-fonts-css" href="https://www.airship.com/wp-content/themes/airship/css/fonts.css?ver=e2d1183a2253157d7e07fadcb20b2c42d7e5522f" type="text/css" media="all">
+<link rel="stylesheet" id="theme-master-css" href="https://www.airship.com/wp-content/themes/airship/css/master.css?ver=2d6d2d1fffad78e62209d0f76f146b99d4f57649" type="text/css" media="all">
+<link rel="stylesheet" id="patterns-fonts-css" href="https://www.airship.com/wp-content/mu-plugins/flickerbox-patterns/css/fonts.css?ver=d85f1bf888d13018d2907f784acade573a49d156" type="text/css" media="all">
+<script type="text/javascript" src="https://www.airship.com/wp-content/mu-plugins/flickerbox-patterns/js/utilities/polyfill.js?ver=d09727abf4bf72ef3121753c16345e742592f3c8"></script>
+<script type="text/javascript" defer="defer" src="https://www.airship.com/wp-content/themes/airship/js/jquery-3.3.0.min.js"></script>
+<script type="text/javascript">
+var Patterns = Patterns || {};
+Patterns.settings = Patterns.settings || {};
+Patterns.settings['api'] = Patterns.settings['api'] || {};
+Patterns.settings['api'] = Object.assign(Patterns.settings['api'], {"site_url":"https:\/\/www.airship.com","namespace":"patterns\/v2"});
+</script>
+<script type="text/javascript" defer="defer" src="https://www.airship.com/wp-content/themes/airship/js/master.js?ver=16744b6b931058dfdea33fd973195b7af89a4e82"></script>
+<link rel="https://api.w.org/" href="https://www.airship.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.airship.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.airship.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.3.2">
+<link rel="shortlink" href="https://www.airship.com/?p=3801">
+<link rel="alternate" type="application/json+oembed" href="https://www.airship.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.airship.com%2Flegal%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.airship.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.airship.com%2Flegal%2Fprivacy%2F&amp;format=xml">
+		<script>
+document.documentElement.classList.remove('no-js');
+document.documentElement.classList.add('js');
+</script><link rel="shortcut icon" type="image/x-icon" href="https://www.airship.com/wp-content/themes/airship/images/favicon/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.airship.com/wp-content/themes/airship/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.airship.com/wp-content/themes/airship/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.airship.com/wp-content/themes/airship/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.airship.com/wp-content/themes/airship/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.airship.com/wp-content/themes/airship/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.airship.com/wp-content/themes/airship/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.airship.com/wp-content/themes/airship/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.airship.com/wp-content/themes/airship/images/favicon/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.airship.com/wp-content/themes/airship/images/favicon/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.airship.com/wp-content/themes/airship/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.airship.com/wp-content/themes/airship/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="196x196" href="https://www.airship.com/wp-content/themes/airship/images/favicon/favicon-196x196.png">
+<meta name="msapplication-TileImage" content="https://www.airship.com/wp-content/themes/airship/images/favicon/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="https://www.airship.com/wp-content/themes/airship/images/favicon/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="https://www.airship.com/wp-content/themes/airship/images/favicon/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="https://www.airship.com/wp-content/themes/airship/images/favicon/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="https://www.airship.com/wp-content/themes/airship/images/favicon/mstile-310x310.png">
+<script>
+var _linkedin_data_partner_id = "244164";
+var adroll_adv_id = "NXGAGACCGZEDBMCF6WB55S";
+var adroll_pix_id = "W5J6R7ZJDBBGLC35YWWRYZ";
+</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GRR3PG');</script>
+<!-- End Google Tag Manager -->
+<script src="https://aswpsdkus.com/notify/v1/ua-sdk.min.js" async="" id="_uasdk"></script></head>
+
+<body class="patterns-legal-template-default single single-patterns-legal postid-3801">
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GRR3PG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<page class="Page">
+
+		<div>
+
+	<notifications-prompt content="Urban Airship is now Airship! Opt in to Web Notifications to stay up-to-date." accept="Opt In" dismiss="Not Now" :delay="14" :interval="1">
+</notifications-prompt></div>
+
+		<page-header class="Header">
+			<div class="Wrap">
+
+				<page-logo class="Logo"><a href="https://www.airship.com"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="357" height="51" viewBox="0 0 357 51">
+  <defs>
+    <path id="logo-horizontal-a" d="M56.8415888,3.02095862 L61.682243,7.59724138 L48.2943925,21.0334552 C42.4640187,14.253269 33.6665888,9.9537931 24.0420561,9.9537931 C14.4178738,9.91862069 5.90116822,14.253269 0.0711448598,21.0334552 C8.93306075,8.40515172 23.4935748,0 40.0535047,0 C45.9177896,0 51.5404937,1.03490324 56.7524366,2.93148567 L56.8415888,3.02095862 Z"></path>
+    <path id="logo-horizontal-d" d="M56.7524365,2.93148561 C51.5404936,1.03490322 45.9177896,1.0658141e-14 40.0535047,1.0658141e-14 C23.4935748,1.0658141e-14 8.93306075,8.40515172 0.0711448598,21.0334552 L-13.317757,7.5975931 L24.0420561,-29.8965517 L56.7524365,2.93148561 L56.7524365,2.93148561 Z"></path>
+    <filter id="logo-horizontal-c" width="165.6%" height="170.7%" x="-16.4%" y="-22.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="18" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"></feGaussianBlur>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0.501960784  0 0 0 1 0"></feColorMatrix>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill="#020202" transform="translate(94 8)">
+      <path d="M255.953991,12.1836783 C255.953991,14.8208957 253.825357,16.9569826 251.199704,16.9569826 L245.426021,16.9569826 L245.426021,7.08441739 L251.199704,7.08441739 C253.825357,7.08441739 255.953991,9.22124348 255.953991,11.8584609 L255.953991,12.1836783 Z M251.199704,0.501721739 L238.871308,0.501721739 L238.871308,33.4129826 L245.426021,33.4129826 L245.426021,23.5396783 L251.199704,23.5396783 C257.445773,23.5396783 262.508704,18.4552 262.508704,12.1836783 L262.508704,11.8584609 C262.508704,5.5862 257.445773,0.501721739 251.199704,0.501721739 L251.199704,0.501721739 Z"></path>
+      <polygon points="211.462 33.414 218.016 33.414 218.016 .502 211.462 .502"></polygon>
+      <polygon points="184.891 .502 184.891 13.903 173.073 13.903 173.073 .502 166.518 .502 166.518 33.413 173.073 33.413 173.073 20.485 184.891 20.485 184.891 33.413 191.446 33.413 191.446 .502"></polygon>
+      <path d="M141.95204 16.5040435C141.004371 15.7796957 139.940054 15.1913478 138.784448 14.7537826 137.618699 14.3117826 136.483379 13.9008261 135.41544 13.537913 134.690922 13.3028696 134.00915 13.0633913 133.38534 12.8253913 132.783991 12.5947826 132.252919 12.336087 131.812412 12.0566957 131.36466 11.775087 131.01834 11.4358261 130.782148 11.0544348 130.547404 10.6678696 130.426409 10.1822609 130.426409 9.61091304 130.426409 8.94495652 130.577834 8.38765217 130.87561 7.95747826 131.169765 7.53395652 131.536371 7.1836087 131.969633 6.91308696 132.401445 6.647 132.894117 6.46369565 133.429536 6.36908696 133.959159 6.27595652 134.486608 6.22865217 135.002464 6.22865217 136.005922 6.22865217 137.057922 6.48808696 138.134555 6.99882609 139.166993 7.48665217 140.021925 8.14891304 140.680511 8.9663913L145.407991 3.87821739C144.034305 2.62095652 142.420803 1.65343478 140.610958 1.00226087 138.755467.337782609 136.914467 0 135.1365 0 133.651963 0 132.163079.191434783 130.712594.569869565 129.261385.947565217 127.942762 1.55069565 126.789329 2.36521739 125.638795 3.18047826 124.696197 4.23078261 123.989792 5.49321739 123.284112 6.75565217 122.9262 8.296 122.9262 10.0706522 122.9262 11.5141739 123.157321 12.7566522 123.613043 13.7626087 124.06804 14.7685652 124.679533 15.6348261 125.430858 16.3384783 126.182908 17.0480435 127.053054 17.6371304 128.009418 18.0857826 128.978823 18.5425652 129.981555 18.9424348 130.990809 19.2743043 132.066718 19.6194783 132.986131 19.9276957 133.804112 20.2159565 134.631511 20.5086522 135.336467 20.8383043 135.897969 21.1923478 136.461644 21.550087 136.903599 21.9551304 137.213693 22.3956522 137.528134 22.8428261 137.687528 23.392 137.687528 24.0283913 137.687528 24.6862174 137.560737 25.262 137.313677 25.7387391 137.061544 26.2154783 136.723194 26.6005652 136.306597 26.8836522 135.887825 27.1682174 135.395878 27.375913 134.846693 27.4986087 134.299682 27.6227826 133.73166 27.6863478 133.157842 27.6863478 131.884139 27.6863478 130.585803 27.3485652 129.29906 26.6848261 128.064481 26.0484348 127.042911 25.2472174 126.263329 24.304087L121.397467 29.3538261C122.777674 30.7921739 124.520864 31.920087 126.584291 32.7065217 128.690464 33.5077391 130.903142 33.9135217 133.157842 33.9135217 134.70179 33.9135217 136.21893 33.6991739 137.669415 33.274913 139.119175 32.8543478 140.422583 32.1965217 141.544137 31.3236087 142.664966 30.4514348 143.569889 29.3301739 144.233547 27.9908696 144.897206 26.6530435 145.231933 25.0417391 145.231933 23.2013043 145.231933 21.6099565 144.92039 20.2625217 144.305999 19.2011304 143.685812 18.1338261 142.893189 17.226913 141.95204 16.5040435M91.0362545 16.9573522L85.2618468 16.9573522 85.2618468 7.08404783 91.0362545 7.08404783C93.6619074 7.08404783 95.7898165 9.22087391 95.7898165 11.8580913L95.7898165 12.1833087C95.7898165 14.8205261 93.6619074 16.9573522 91.0362545 16.9573522M91.0362545.501352174L79.0643207.501352174 78.7071333 33.412613 85.2618468 33.412613 85.2618468 23.5400478 90.1059736 23.5400478 94.8124419 33.6203087 102.301059 33.6661348 96.6679322 21.9723522C97.3192738 21.5747 98.0039433 21.1134826 98.1133455 21.0225696 100.802756 18.8495261 102.34453 15.6269174 102.34453 12.1833087L102.34453 11.8580913C102.34453 5.58583043 97.2815989.501352174 91.0362545.501352174"></path>
+      <polygon points="50.82 33.414 57.375 33.414 57.375 .502 50.82 .502"></polygon>
+      <path d="M11.9538209,20.2101174 L16.0487961,8.4002913 L16.062562,8.43503043 L16.2328237,8.92285652 L20.1756501,20.2101174 L11.9538209,20.2101174 Z M24.7864821,33.4124652 L32.1620744,33.4124652 L20.3654738,0.501204348 L11.8118154,0.501204348 L-1.42108547e-14,33.4124652 L7.37414325,33.4124652 L9.87300551,26.2096391 L22.2651598,26.1941174 L24.7864821,33.4124652 Z"></path>
+    </g>
+    <path fill="#0034B3" d="M-2.84217094e-14,37.4941448 L37.3598131,0 L70.1593458,32.9175103 L75,37.4937931 L61.6121495,50.9300069 C55.7817757,44.1498207 46.9843458,39.8503448 37.3598131,39.8503448 C27.7356308,39.8151724 19.2189252,44.1498207 13.3889019,50.9300069 L-2.84217094e-14,37.4941448 Z M41.2296729,19.0933448 C41.2296729,17.0048069 39.5425234,15.3119586 37.4617991,15.3119586 C35.3807243,15.3119586 33.6939252,17.0048069 33.6939252,19.0933448 C33.6939252,21.1822345 35.3807243,22.8754345 37.4617991,22.8754345 C39.5425234,22.8754345 41.2296729,21.1822345 41.2296729,19.0933448 Z"></path>
+    <path fill="#004BFF" d="M70.0701935,32.8280373 C64.8582506,30.9314549 59.2355466,29.8965517 53.3712617,29.8965517 C36.8113318,29.8965517 22.2508178,38.3017034 13.3889019,50.9300069 L-2.84217094e-14,37.4941448 L37.3598131,-2.84217094e-14 L70.0701935,32.8280373 Z M41.2296729,19.0933448 C41.2296729,17.0048069 39.5425234,15.3119586 37.4617991,15.3119586 C35.3807243,15.3119586 33.6939252,17.0048069 33.6939252,19.0933448 C33.6939252,21.1822345 35.3807243,22.8754345 37.4617991,22.8754345 C39.5425234,22.8754345 41.2296729,21.1822345 41.2296729,19.0933448 Z"></path>
+    <g transform="translate(13.318 29.897)">
+      <mask id="logo-horizontal-b" fill="#fff">
+        <use xlink:href="#logo-horizontal-a"></use>
+      </mask>
+      <g fill="#000" mask="url(#logo-horizontal-b)" opacity=".5">
+        <use filter="url(#logo-horizontal-c)" xlink:href="#logo-horizontal-d"></use>
+      </g>
+    </g>
+  </g>
+</svg>
+</a></page-logo>
+				<div class="Header-inner">
+
+					<pacnav class="Header-nav" :items="[{&quot;item_id&quot;:3541,&quot;item_parent&quot;:0,&quot;object_id&quot;:3541,&quot;link&quot;:&quot;&quot;,&quot;linkTitle&quot;:&quot;Solutions&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3618,&quot;item_parent&quot;:3541,&quot;object_id&quot;:3552,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/&quot;,&quot;linkTitle&quot;:&quot;Lifecycle&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3620,&quot;item_parent&quot;:3618,&quot;object_id&quot;:3558,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/acquire\/&quot;,&quot;linkTitle&quot;:&quot;Acquire&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3629,&quot;item_parent&quot;:3620,&quot;object_id&quot;:3561,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/acquire\/welcome-series\/&quot;,&quot;linkTitle&quot;:&quot;Welcome Series&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3630,&quot;item_parent&quot;:3620,&quot;object_id&quot;:3564,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/acquire\/onboarding\/&quot;,&quot;linkTitle&quot;:&quot;Onboarding&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3631,&quot;item_parent&quot;:3620,&quot;object_id&quot;:3567,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/acquire\/cross-channel-acquisition\/&quot;,&quot;linkTitle&quot;:&quot;Cross Channel Acquisition&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]},{&quot;item_id&quot;:3621,&quot;item_parent&quot;:3618,&quot;object_id&quot;:3570,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/retain\/&quot;,&quot;linkTitle&quot;:&quot;Retain&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3632,&quot;item_parent&quot;:3621,&quot;object_id&quot;:3573,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/retain\/loyalty\/&quot;,&quot;linkTitle&quot;:&quot;Loyalty&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3633,&quot;item_parent&quot;:3621,&quot;object_id&quot;:3576,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/retain\/churn-prevention\/&quot;,&quot;linkTitle&quot;:&quot;Churn Prevention&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3634,&quot;item_parent&quot;:3621,&quot;object_id&quot;:3579,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/retain\/win-back\/&quot;,&quot;linkTitle&quot;:&quot;Win Back&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]},{&quot;item_id&quot;:3622,&quot;item_parent&quot;:3618,&quot;object_id&quot;:3582,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/grow\/&quot;,&quot;linkTitle&quot;:&quot;Grow&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3635,&quot;item_parent&quot;:3622,&quot;object_id&quot;:3585,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/grow\/upsell-cross-sell\/&quot;,&quot;linkTitle&quot;:&quot;Upsell \/ Cross Sell&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3636,&quot;item_parent&quot;:3622,&quot;object_id&quot;:3588,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/grow\/retargeting\/&quot;,&quot;linkTitle&quot;:&quot;Retargeting&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3637,&quot;item_parent&quot;:3622,&quot;object_id&quot;:3591,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/lifecycle\/grow\/abandoned-cart\/&quot;,&quot;linkTitle&quot;:&quot;Abandoned Cart&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]}]},{&quot;item_id&quot;:3619,&quot;item_parent&quot;:3541,&quot;object_id&quot;:3555,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/industries\/&quot;,&quot;linkTitle&quot;:&quot;Industries&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3623,&quot;item_parent&quot;:3619,&quot;object_id&quot;:3594,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/industries\/airlines\/&quot;,&quot;linkTitle&quot;:&quot;Airlines&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3624,&quot;item_parent&quot;:3619,&quot;object_id&quot;:3597,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/industries\/finance\/&quot;,&quot;linkTitle&quot;:&quot;Finance&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3625,&quot;item_parent&quot;:3619,&quot;object_id&quot;:3600,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/industries\/media\/&quot;,&quot;linkTitle&quot;:&quot;Media&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3626,&quot;item_parent&quot;:3619,&quot;object_id&quot;:3603,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/industries\/retail\/&quot;,&quot;linkTitle&quot;:&quot;Retail&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3627,&quot;item_parent&quot;:3619,&quot;object_id&quot;:3606,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/industries\/sports\/&quot;,&quot;linkTitle&quot;:&quot;Sports&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3628,&quot;item_parent&quot;:3619,&quot;object_id&quot;:3609,&quot;link&quot;:&quot;https:\/\/www.airship.com\/solutions\/industries\/telecom\/&quot;,&quot;linkTitle&quot;:&quot;Telecom&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]}]},{&quot;item_id&quot;:3546,&quot;item_parent&quot;:0,&quot;object_id&quot;:3546,&quot;link&quot;:&quot;&quot;,&quot;linkTitle&quot;:&quot;Platform&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3702,&quot;item_parent&quot;:3546,&quot;object_id&quot;:3638,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/&quot;,&quot;linkTitle&quot;:&quot;Platform Overview&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;linkAttributes&quot;:{&quot;class&quot;:&quot;has-sub-max-3&quot;},&quot;children&quot;:[{&quot;item_id&quot;:3704,&quot;item_parent&quot;:3702,&quot;object_id&quot;:3644,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/&quot;,&quot;linkTitle&quot;:&quot;Channels&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3707,&quot;item_parent&quot;:3704,&quot;object_id&quot;:3653,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/mobile-app\/&quot;,&quot;linkTitle&quot;:&quot;Mobile App&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:6428,&quot;item_parent&quot;:3707,&quot;object_id&quot;:3656,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/mobile-app\/push-notifications\/&quot;,&quot;linkTitle&quot;:&quot;Push Notifications&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:6429,&quot;item_parent&quot;:3707,&quot;object_id&quot;:3659,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/mobile-app\/in-app-messaging\/&quot;,&quot;linkTitle&quot;:&quot;In-App Messaging&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:6430,&quot;item_parent&quot;:3707,&quot;object_id&quot;:3662,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/mobile-app\/message-center\/&quot;,&quot;linkTitle&quot;:&quot;Message Center&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]},{&quot;item_id&quot;:3708,&quot;item_parent&quot;:3704,&quot;object_id&quot;:3665,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/sms\/&quot;,&quot;linkTitle&quot;:&quot;SMS&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3709,&quot;item_parent&quot;:3704,&quot;object_id&quot;:3668,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/web-notifications\/&quot;,&quot;linkTitle&quot;:&quot;Web Notifications&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3710,&quot;item_parent&quot;:3704,&quot;object_id&quot;:3671,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/mobile-wallet\/&quot;,&quot;linkTitle&quot;:&quot;Mobile Wallet&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3711,&quot;item_parent&quot;:3704,&quot;object_id&quot;:3675,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/email\/&quot;,&quot;linkTitle&quot;:&quot;Email&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3712,&quot;item_parent&quot;:3704,&quot;object_id&quot;:3678,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/channels\/open-channel-api\/&quot;,&quot;linkTitle&quot;:&quot;Open Channel API&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]},{&quot;item_id&quot;:3705,&quot;item_parent&quot;:3702,&quot;object_id&quot;:3647,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/orchestration\/&quot;,&quot;linkTitle&quot;:&quot;Orchestration&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:11906,&quot;item_parent&quot;:3705,&quot;object_id&quot;:11418,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/orchestration\/journeys\/&quot;,&quot;linkTitle&quot;:&quot;Journeys - NEW&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3717,&quot;item_parent&quot;:3705,&quot;object_id&quot;:3681,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/orchestration\/channel-coordination\/&quot;,&quot;linkTitle&quot;:&quot;Channel Coordination&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3718,&quot;item_parent&quot;:3705,&quot;object_id&quot;:3684,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/orchestration\/automation\/&quot;,&quot;linkTitle&quot;:&quot;Automation&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3719,&quot;item_parent&quot;:3705,&quot;object_id&quot;:3687,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/orchestration\/personalization\/&quot;,&quot;linkTitle&quot;:&quot;Personalization&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3720,&quot;item_parent&quot;:3705,&quot;object_id&quot;:3690,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/orchestration\/optimization\/&quot;,&quot;linkTitle&quot;:&quot;Optimization&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]},{&quot;item_id&quot;:3706,&quot;item_parent&quot;:3702,&quot;object_id&quot;:3650,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/analytics-data\/&quot;,&quot;linkTitle&quot;:&quot;Analytics &amp; Data&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3721,&quot;item_parent&quot;:3706,&quot;object_id&quot;:3693,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/analytics-data\/predictive-ai\/&quot;,&quot;linkTitle&quot;:&quot;Predictive AI&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3722,&quot;item_parent&quot;:3706,&quot;object_id&quot;:3696,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/analytics-data\/performance-analytics\/&quot;,&quot;linkTitle&quot;:&quot;Performance Analytics&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3723,&quot;item_parent&quot;:3706,&quot;object_id&quot;:3699,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/analytics-data\/real-time-data-streaming\/&quot;,&quot;linkTitle&quot;:&quot;Real-Time Data Streaming&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]}]},{&quot;item_id&quot;:3703,&quot;item_parent&quot;:3546,&quot;object_id&quot;:3641,&quot;link&quot;:&quot;https:\/\/www.airship.com\/platform\/pricing\/&quot;,&quot;linkTitle&quot;:&quot;Pricing&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}],&quot;featured_post&quot;:{&quot;image&quot;:&quot;https:\/\/www.airship.com\/wp-content\/uploads\/2019\/11\/Screen-Shot-2019-11-18-at-6.10.18-AM.png&quot;,&quot;label&quot;:&quot;Airship Journeys - our groundbreaking new customer journey solution - is here!&quot;,&quot;url&quot;:&quot;https:\/\/www.airship.com\/platform\/orchestration\/journeys\/&quot;}},{&quot;item_id&quot;:3548,&quot;item_parent&quot;:0,&quot;object_id&quot;:3533,&quot;link&quot;:&quot;https:\/\/www.airship.com\/services\/&quot;,&quot;linkTitle&quot;:&quot;Services&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:6156,&quot;item_parent&quot;:0,&quot;object_id&quot;:3536,&quot;link&quot;:&quot;https:\/\/www.airship.com\/customers\/&quot;,&quot;linkTitle&quot;:&quot;Customers&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3547,&quot;item_parent&quot;:0,&quot;object_id&quot;:3547,&quot;link&quot;:&quot;&quot;,&quot;linkTitle&quot;:&quot;Resources&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3549,&quot;item_parent&quot;:3547,&quot;object_id&quot;:40,&quot;link&quot;:&quot;https:\/\/www.airship.com\/resources\/&quot;,&quot;linkTitle&quot;:&quot;Resource Center&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3550,&quot;item_parent&quot;:3549,&quot;object_id&quot;:38,&quot;link&quot;:&quot;https:\/\/www.airship.com\/blog\/&quot;,&quot;linkTitle&quot;:&quot;Blog&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3752,&quot;item_parent&quot;:3549,&quot;object_id&quot;:3752,&quot;link&quot;:&quot;https:\/\/docs.airship.com\/&quot;,&quot;linkTitle&quot;:&quot;Documentation&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;linkAttributes&quot;:{&quot;target&quot;:&quot;_blank&quot;}},{&quot;item_id&quot;:3753,&quot;item_parent&quot;:3549,&quot;object_id&quot;:3753,&quot;link&quot;:&quot;https:\/\/support.urbanairship.com\/hc\/en-us&quot;,&quot;linkTitle&quot;:&quot;Support&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;linkAttributes&quot;:{&quot;target&quot;:&quot;_blank&quot;}}]}],&quot;featured_post&quot;:{&quot;image&quot;:&quot;https:\/\/www.airship.com\/wp-content\/uploads\/2019\/10\/Gartner-CClanding-page.jpg&quot;,&quot;label&quot;:&quot;Download Gartner Inc.'s 2019 Critical Capabilities for Mobile Marketing Platforms report &amp; see why Airship scored highest in all three use cases.&quot;,&quot;url&quot;:&quot;https:\/\/www.airship.com\/resources\/analyst-report\/gartner-inc-2019-critical-capabilities-for-mobile-marketing-platforms\/&quot;}},{&quot;item_id&quot;:3786,&quot;item_parent&quot;:0,&quot;object_id&quot;:3786,&quot;link&quot;:&quot;&quot;,&quot;linkTitle&quot;:&quot;Company&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:4555,&quot;item_parent&quot;:3786,&quot;object_id&quot;:3754,&quot;link&quot;:&quot;https:\/\/www.airship.com\/company\/&quot;,&quot;linkTitle&quot;:&quot;Company Overview&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null,&quot;children&quot;:[{&quot;item_id&quot;:3784,&quot;item_parent&quot;:4555,&quot;object_id&quot;:3760,&quot;link&quot;:&quot;https:\/\/www.airship.com\/company\/leadership\/&quot;,&quot;linkTitle&quot;:&quot;Leadership&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3783,&quot;item_parent&quot;:4555,&quot;object_id&quot;:3763,&quot;link&quot;:&quot;https:\/\/www.airship.com\/company\/events\/&quot;,&quot;linkTitle&quot;:&quot;Events&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3782,&quot;item_parent&quot;:4555,&quot;object_id&quot;:3766,&quot;link&quot;:&quot;https:\/\/www.airship.com\/company\/careers\/&quot;,&quot;linkTitle&quot;:&quot;Careers&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3781,&quot;item_parent&quot;:4555,&quot;object_id&quot;:3769,&quot;link&quot;:&quot;https:\/\/www.airship.com\/company\/newsroom\/&quot;,&quot;linkTitle&quot;:&quot;Newsroom&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3780,&quot;item_parent&quot;:4555,&quot;object_id&quot;:3772,&quot;link&quot;:&quot;https:\/\/www.airship.com\/company\/partners\/&quot;,&quot;linkTitle&quot;:&quot;Partners&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null},{&quot;item_id&quot;:3779,&quot;item_parent&quot;:4555,&quot;object_id&quot;:3775,&quot;link&quot;:&quot;https:\/\/www.airship.com\/contact-us\/&quot;,&quot;linkTitle&quot;:&quot;Contact Us&quot;,&quot;description&quot;:&quot;&quot;,&quot;icon&quot;:null}]}]}]" :min-width="880"><ul><li><a href="">Solutions</a><ul><li><a href="https://www.airship.com/solutions/lifecycle/">Lifecycle</a><ul><li><a href="https://www.airship.com/solutions/lifecycle/acquire/">Acquire</a><ul><li><a href="https://www.airship.com/solutions/lifecycle/acquire/welcome-series/">Welcome Series</a></li>
+<li><a href="https://www.airship.com/solutions/lifecycle/acquire/onboarding/">Onboarding</a></li>
+<li><a href="https://www.airship.com/solutions/lifecycle/acquire/cross-channel-acquisition/">Cross Channel Acquisition</a></li></ul></li>
+<li><a href="https://www.airship.com/solutions/lifecycle/retain/">Retain</a><ul><li><a href="https://www.airship.com/solutions/lifecycle/retain/loyalty/">Loyalty</a></li>
+<li><a href="https://www.airship.com/solutions/lifecycle/retain/churn-prevention/">Churn Prevention</a></li>
+<li><a href="https://www.airship.com/solutions/lifecycle/retain/win-back/">Win Back</a></li></ul></li>
+<li><a href="https://www.airship.com/solutions/lifecycle/grow/">Grow</a><ul><li><a href="https://www.airship.com/solutions/lifecycle/grow/upsell-cross-sell/">Upsell / Cross Sell</a></li>
+<li><a href="https://www.airship.com/solutions/lifecycle/grow/retargeting/">Retargeting</a></li>
+<li><a href="https://www.airship.com/solutions/lifecycle/grow/abandoned-cart/">Abandoned Cart</a></li></ul></li></ul></li>
+<li><a href="https://www.airship.com/solutions/industries/">Industries</a><ul><li><a href="https://www.airship.com/solutions/industries/airlines/">Airlines</a></li>
+<li><a href="https://www.airship.com/solutions/industries/finance/">Finance</a></li>
+<li><a href="https://www.airship.com/solutions/industries/media/">Media</a></li>
+<li><a href="https://www.airship.com/solutions/industries/retail/">Retail</a></li>
+<li><a href="https://www.airship.com/solutions/industries/sports/">Sports</a></li>
+<li><a href="https://www.airship.com/solutions/industries/telecom/">Telecom</a></li></ul></li></ul></li>
+<li><a href="">Platform</a><ul><li><a class="has-sub-max-3" href="https://www.airship.com/platform/">Platform Overview</a><ul><li><a href="https://www.airship.com/platform/channels/">Channels</a><ul><li><a href="https://www.airship.com/platform/channels/mobile-app/">Mobile App</a><ul><li><a href="https://www.airship.com/platform/channels/mobile-app/push-notifications/">Push Notifications</a></li>
+<li><a href="https://www.airship.com/platform/channels/mobile-app/in-app-messaging/">In-App Messaging</a></li>
+<li><a href="https://www.airship.com/platform/channels/mobile-app/message-center/">Message Center</a></li></ul></li>
+<li><a href="https://www.airship.com/platform/channels/sms/">SMS</a></li>
+<li><a href="https://www.airship.com/platform/channels/web-notifications/">Web Notifications</a></li>
+<li><a href="https://www.airship.com/platform/channels/mobile-wallet/">Mobile Wallet</a></li>
+<li><a href="https://www.airship.com/platform/channels/email/">Email</a></li>
+<li><a href="https://www.airship.com/platform/channels/open-channel-api/">Open Channel API</a></li></ul></li>
+<li><a href="https://www.airship.com/platform/orchestration/">Orchestration</a><ul><li><a href="https://www.airship.com/platform/orchestration/journeys/">Journeys - NEW</a></li>
+<li><a href="https://www.airship.com/platform/orchestration/channel-coordination/">Channel Coordination</a></li>
+<li><a href="https://www.airship.com/platform/orchestration/automation/">Automation</a></li>
+<li><a href="https://www.airship.com/platform/orchestration/personalization/">Personalization</a></li>
+<li><a href="https://www.airship.com/platform/orchestration/optimization/">Optimization</a></li></ul></li>
+<li><a href="https://www.airship.com/platform/analytics-data/">Analytics &amp; Data</a><ul><li><a href="https://www.airship.com/platform/analytics-data/predictive-ai/">Predictive AI</a></li>
+<li><a href="https://www.airship.com/platform/analytics-data/performance-analytics/">Performance Analytics</a></li>
+<li><a href="https://www.airship.com/platform/analytics-data/real-time-data-streaming/">Real-Time Data Streaming</a></li></ul></li></ul></li>
+<li><a href="https://www.airship.com/platform/pricing/">Pricing</a></li></ul></li>
+<li><a href="https://www.airship.com/services/">Services</a></li>
+<li><a href="https://www.airship.com/customers/">Customers</a></li>
+<li><a href="">Resources</a><ul><li><a href="https://www.airship.com/resources/">Resource Center</a><ul><li><a href="https://www.airship.com/blog/">Blog</a></li>
+<li><a target="_blank" href="https://docs.airship.com/">Documentation</a></li>
+<li><a target="_blank" href="https://support.urbanairship.com/hc/en-us">Support</a></li></ul></li></ul></li>
+<li><a href="">Company</a><ul><li><a href="https://www.airship.com/company/">Company Overview</a><ul><li><a href="https://www.airship.com/company/leadership/">Leadership</a></li>
+<li><a href="https://www.airship.com/company/events/">Events</a></li>
+<li><a href="https://www.airship.com/company/careers/">Careers</a></li>
+<li><a href="https://www.airship.com/company/newsroom/">Newsroom</a></li>
+<li><a href="https://www.airship.com/company/partners/">Partners</a></li>
+<li><a href="https://www.airship.com/contact-us/">Contact Us</a></li></ul></li></ul></li></ul><div slot="item-1"><a class="Nav-featured" href="https://www.airship.com/platform/orchestration/journeys/">
+
+	<div class="Nav-featuredThumbnail">
+		<div style="background-image: url(https://www.airship.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-18-at-6.10.18-AM.png);"></div>
+	</div>
+
+	<h4 class="Nav-featuredTitle">Airship Journeys - our groundbreaking new customer journey solution - is here!</h4>
+
+</a>
+</div>
+<div slot="item-4"><a class="Nav-featured" href="https://www.airship.com/resources/analyst-report/gartner-inc-2019-critical-capabilities-for-mobile-marketing-platforms/">
+
+	<div class="Nav-featuredThumbnail">
+		<div style="background-image: url(https://www.airship.com/wp-content/uploads/2019/10/Gartner-CClanding-page.jpg);"></div>
+	</div>
+
+	<h4 class="Nav-featuredTitle">Download Gartner Inc.'s 2019 Critical Capabilities for Mobile Marketing Platforms report &amp; see why Airship scored highest in all three use cases.</h4>
+
+</a>
+</div></pacnav>
+					<page-search class="Header-search" value="">
+						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19">
+  <g fill="#7B7C84" transform="translate(.08 .08)">
+    <path d="M12.4205556,13.1604347 C9.29444613,15.8779202 4.55727646,15.546665 1.839791,12.4205556 C-0.877694477,9.29444612 -0.546439305,4.55727646 2.57967013,1.83979099 C5.70577955,-0.877694469 10.4429492,-0.54643931 13.1604347,2.57967012 C15.8779202,5.70577954 15.546665,10.4429492 12.4205556,13.1604347 Z M11.1084375,11.6510155 C13.4009177,9.65819287 13.6438382,6.18426842 11.6510155,3.89178818 C9.65819286,1.59930793 6.18426842,1.35638748 3.89178819,3.34921015 C1.59930794,5.34203283 1.35638748,8.81595725 3.34921016,11.1084375 C5.34203282,13.4009177 8.81595726,13.6438382 11.1084375,11.6510155 Z"></path>
+    <polygon points="13.176 11.504 15.176 11.504 15.176 18.854 13.176 18.854" transform="rotate(-41 14.176 15.18)"></polygon>
+  </g>
+</svg>
+					</page-search>
+
+				</div>
+
+				<div class="Header-cta">
+
+	<a href="https://go.airship.com/accounts/login" class="login">Login</a>
+<a href="#get-started" class="getademo">Get a Demo</a>
+
+</div>
+
+			</div>
+		</page-header>
+
+		<div class="Page-content">
+<div class="Section">
+
+	<div class="Wrap">
+
+		<div class="Section-content">
+
+			<h1 class="Legal-title">Legal</h1>
+
+			<div id="Breadcrumbs"><span><span><a href="https://www.airship.com/legal/">Legal</a> › <span class="breadcrumb_last" aria-current="page">Privacy Statement</span></span></span></div>
+		</div>
+
+	</div>
+
+</div>
+
+<div class="SectionLegal">
+
+	<div class="Wrap">
+
+		<div class="SectionLegal-content Grid with-12">
+
+			<aside class="is-4 is-12--small">
+				<h2 class="Legal-section-title">
+					Legal
+				</h2>
+
+				<ul id="menu-legal-subnav" class="Legal-menu-sidebar-legal"><li id="menu-item-5265" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-5265"><a>Airship Corporate</a>
+<ul class="sub-menu">
+	<li id="menu-item-5351" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5351"><a href="https://www.airship.com/legal/terms-of-use/">Website Terms of Use</a></li>
+	<li id="menu-item-5352" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal current-menu-item menu-item-5352"><a href="https://www.airship.com/legal/privacy/" aria-current="page">Privacy Statement</a></li>
+	<li id="menu-item-5266" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5266"><a href="https://www.airship.com/legal/cookie-notice/">Cookie Notice</a></li>
+</ul>
+</li>
+<li id="menu-item-4876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4876"><a>Airship Products and Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-5353" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5353"><a href="https://www.airship.com/legal/subscription-terms/">Terms of Subscription Service</a></li>
+	<li id="menu-item-5354" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5354"><a href="https://www.airship.com/legal/support-services/">Support Services Description</a></li>
+	<li id="menu-item-5355" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5355"><a href="https://www.airship.com/legal/acceptable-use/">Acceptable Use Policy</a></li>
+	<li id="menu-item-7046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7046"><a href="https://docs.urbanairship.com/reference/billing/#contact">Definition of Billing Metrics</a></li>
+	<li id="menu-item-7048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7048"><a href="http://docs.urbanairship.com/reference/general/#data-retention-schedule">Data Retention Schedule</a></li>
+	<li id="menu-item-5269" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5269"><a href="https://www.airship.com/legal/gdpr-ccpa/">Global Data Privacy GDPR &amp; CCPA</a></li>
+	<li id="menu-item-5270" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5270"><a href="https://www.airship.com/legal/data-processing-addendum/">Airship Data Processing Addendum</a></li>
+	<li id="menu-item-5357" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5357"><a href="https://www.airship.com/legal/subprocessors/">Subprocessors</a></li>
+	<li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5271"><a href="https://www.airship.com/legal/security-measures/">Security Measures</a></li>
+	<li id="menu-item-5275" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5275"><a href="https://www.airship.com/legal/full-disclosure-security-policy/">Full Disclosure Security Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-4882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4882"><a>Airship Intellectual Property</a>
+<ul class="sub-menu">
+	<li id="menu-item-5358" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-5358"><a href="https://www.airship.com/legal/trademarks-and-patents/">Trademark and Patent Notice</a></li>
+</ul>
+</li>
+</ul>
+			</aside>
+
+			<div class="is-8 is-12--small">
+
+				<block-section name="Section" view-mode="default" class="Block Section is-default u-bgColor--white u-textColor--black u-paddingBottom--medium u-paddingTop--medium" style="">
+
+	
+	<div slot="before_content">
+			</div>
+
+	<div class="Wrap" slot="content">
+
+		
+		<div class="Section-content">
+
+			<block-header name="HeaderBlock" view-mode="default" class="Block HeaderBlock has-h2" style="max-width:1062px">
+
+	
+	<div slot="content">
+
+		
+				<h2 class="HeaderBlock-title h2">Privacy Statement</h2>
+		
+		
+	</div>
+
+	
+</block-header>
+
+<p>Posted on November 15, 2019.&nbsp;&nbsp;</p>
+
+<p>Effective as of December 1, 2019. —&nbsp;<a href="https://www.airship.com/legal/privacy-statement-through-nov-19/">Previous Version</a></p>
+
+<p>Urban Airship, Inc. d/b/a Airship and its affiliates, including, Apptimize, LLC., Urban Airship UK Ltd., Urban Airship Germany GmbH, and Urban Airship India Private Ltd. (collectively, “Airship,”“we” or “us”) are committed to protecting the privacy of Personal Information you provide to us. Accordingly, Airship provides this privacy and information practices statement to inform you about our information practices, the kinds of information we may collect, how we intend to use and share that information, and how you can correct or change such information (“Privacy Statement”).&nbsp;</p>
+
+<p class="has-large-font-size">1.&nbsp;What this Privacy Statement covers.</p>
+
+<p>This Privacy Statement applies to information that we collect when you: (i) visit our websites including <a href="http://www.airship.com">www.airship.com</a> and <a href="http://www.apptimize.com">www.apptimize.com</a> (the “Sites”); (ii) use our mobile applications, mobile wallet passes, and other software applications made available by us for use on or through computers and mobile devices that link to this Privacy Statement; (iii) visit our branded social media pages; (iv) visit our offices; (v) receive communications from us, including emails, phone calls or texts; (vi) register for, attend and/or otherwise take part in our events, webinars or contests; (vii) submit a job application to us; or (vii) use the Airship Platform as an authorized user (for example, as an employee of one of our customers who provided you with login access to the Airship Platform where we act as a controller of your data (collectively, including the Sites, the “Services”).&nbsp; “You” refers to any individuals who visits or uses the Services.</p>
+
+<p>In general, with respect to the Personal Information we collect directly from Sites or other Services, Airship is a data controller. This means that as a data controller we determine the purposes for which and the manner in which the Personal Information we collect is to be processed. “Personal Information” is any information relating to an identified or identifiable natural person.</p>
+
+<p>This Privacy Statement does not apply to the extent we process Personal Information in the role of a data processor or service provider on behalf of our business customers, such as information we receive and process through Airship’s technology platforms (including the Airship Customer Engagement Platform, and the Apptimize Testing Platform) and related services (collectively, “Airship Platform”).&nbsp; For privacy information related to our business customer’s use of the Airship Platform in connection with their mobile application, websites, emails, texts or other digital properties, please reach out to the respective business customer directly.</p>
+
+<p>California residents and Customers with business in the State of California may read our<a href="https://www.airship.com/ccpa/"> CCPA Privacy Notice here</a>.</p>
+
+<p class="has-large-font-size">2. What Personal Information does Airship collect?</p>
+
+<p>In general, we collect information from you based upon our business relationship, your use of our Services, and includes information that may be deemed Personal Information, such as title, name, address, phone number, email address, user name, IP address, and billing and payment information related to payments for Services.</p>
+
+<p><strong>2.1</strong><strong>	</strong><strong>Personal Information we collect directly.</strong></p>
+
+<p><strong>Site usage.</strong> When you use the Services or fill out forms on our Site, we may provide you with opportunities to sign up to receive specific information or Services, download a white paper, or register for an event or webinar, and we may ask for your contact information (e.g., name, title, company name, company address, phone number or email address).&nbsp; We also automatically collect information as described in Section 5 below.</p>
+
+<p><strong>Registering for and attending an event.</strong>&nbsp; If you register to attend an event, we may ask for your contact information. If you attend an event, we may with your consent scan your attendee badge, which will provide us with your information, such as name, title, company name, address, country, phone number and email address.</p>
+
+<p><strong>Your communications with us.</strong> We collect Personal Information from you such as email address, phone number, or mailing address when you request information about our Services, register for our newsletter, request customer or technical support, apply for a job or otherwise communicate with us.</p>
+
+<p><strong>Surveys.</strong> We may contact you to participate in surveys. If you decide to participate, you may be asked to provide certain information which may include Personal Information.&nbsp;</p>
+
+<p><strong>Social media content.</strong> We may offer forums, blogs, or social media pages. Any content you provide on these channels will be considered “public” and is not subject to privacy protections.</p>
+
+<p><strong>Registration for sweepstakes or contests.</strong> We may run sweepstakes and contests.&nbsp; Contact information you provide may be used to reach you about the sweepstakes or contest and for other promotional, marketing and business purposes, if permitted by law. In some jurisdictions, we are required to publicly share information of winners.&nbsp;</p>
+
+<p><strong>Visiting our offices.</strong>&nbsp; If you visit our offices, you may be required to register as a visitor and provide your name, email address, phone number, company name and time and date of arrival.</p>
+
+<p><strong>2.2</strong><strong>	</strong><strong>Personal Information collected from others.</strong></p>
+
+<p>We may also receive your Personal Information from third parties who provide us with contact information for prospects or leads. When acquiring information from third parties, we will obtain contractual commitments from the third parties that the information was acquired lawfully and with the appropriate level of consent.</p>
+
+<p class="has-large-font-size">3. How does Airship use Personal Information?</p>
+
+<p>We use Personal Information that we collect about you or that you provide to us for a range of different business purposes.&nbsp; Depending on how you interact with us, we and our  third party service providers use Personal Information in a variety of ways, including:</p>
+
+<p><strong>Providing information and Services you requested.</strong> We may use the Personal Information about you to fulfill requests for programs, Services, or information that you may request, including information about potential or future Services, including to: (a) generally manage your information and accounts; (b) respond to questions, comments and requests; (c) provide access to certain areas and features of the Services; (d) link or combine information we get from others to help understand your needs and provide you with better Service;&nbsp; and (e) allow you to register for events, participate in a contest or promotion, post in a forum or participate in webinars, and provide related information and communications.</p>
+
+<p><strong>Administrative purposes.</strong> We may use the Personal Information about you for administrative purposes, including, without limitation, to: (a) measure interest in the Services; (b) perform internal quality control; (c) maintain and improve our Services; (d) verify identity; (e) send communications regarding the Services, your account, or any changes to any Airship policy or terms of use; (e) process payments; (f) prevent potentially prohibited or illegal activities and fraud; (g) process and deliver contest entries and rewards; (h) monitor and analyze trends, usage and activities in connection with our Services, (i) enforce our Terms of Use, (j) promote safety and security of the Services and in protecting our rights and the rights of others, and (k) register and manage visitors to our offices.</p>
+
+<p><strong>Marketing products and services.</strong> We may use the Personal Information about you to provide you with materials about offers, products and services offered by us, including new content or information about future services. We may provide you with these materials by phone, postal mail, facsimile, text or email, as permitted by applicable law. Such uses include: (a) to tailor content, advertisements, and offers; (b) to notify you about offers, products, and services that may be of interest to you; (c) to provide Services to you; (d) for other purposes disclosed at the time that you provide Personal Information; or (e) otherwise with your consent. If you do not wish us to use your Personal Information for marketing purposes, you may contact us at any time to opt out of the use of your Personal Information for such purposes, as further described below.</p>
+
+<p><strong>Research and development.</strong> We may use your Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products, processes and services.</p>
+
+<p><strong>Deidentified and aggregated data.</strong> We may use your Personal Information and other information about you to create deidentified or aggregated information, such as deidentified demographic information, deidentified location information, information about the computer or device from which you access the Sites or other online Services, or other analyses we create. Deidentified or aggregated information is used for a variety of functions, including the measurement of visitors’ interest in and use of various portions or features of the Services. Deidentified or aggregated information is not Personal Information, and Airship may use such information in a number of ways, including research, internal analysis, analytics and any other legally permissible purposes. We may share this information within Airship and with third parties&nbsp; for our or their purposes in a de-identified or aggregated form that is designed to prevent anyone from identifying.&nbsp;</p>
+
+<p><strong>Public content.</strong> If you post any content to our website forums, we may publish this content and make it generally available to any user or visitor of our website.</p>
+
+<p><strong>Complying with legal obligations.</strong>&nbsp; We may use your Personal Information when cooperating with public and government authorities, courts or regulators in accordance with our legal obligation under applicable laws to protect our rights or is necessary to protect against misuse or abuse of our Sites or Services, pursuing remedies available to us and limiting our damages, complying with judicial proceedings, court orders or legal processes or to respond to lawful requests.</p>
+
+<p><strong>Other Uses.</strong> We may use your Personal Information for other purposes disclosed to you at the time you provide Personal Information or with your consent.</p>
+
+<p class="has-large-font-size">4. With whom does Airship share Personal Information?</p>
+
+<p>We may share your Personal Information as follows:</p>
+
+<p><strong>Service Providers.</strong> Airship may share Personal Information with our service providers that we have retained to perform Services on our behalf including (i) provision of IT and related Services; (ii) provision of information and Services you have requested; (iii) payment processing; and (iv) customer service activities. Payment information will be used and shared only to effectuate your order and may be stored by a service provider for purposes of future orders. Airship has executed appropriate contracts with our service providers that prohibit service providers from using or sharing your personal information except as necessary to perform the contracted services on our behalf or to comply with applicable legal requirements.</p>
+
+<p><strong>Business Partners.</strong> From time to time, Airship may partner with other companies to jointly offer products, services or programs (such as webinars, events or downloadable content). If you purchase, specifically express interest in or register for a jointly-offered product, service or program from or through Airship,&nbsp; we may share your Personal Information with our business partners. Airship does not control our business partners’ use of shared Personal Information and their use of such Personal Information will be in accordance with their own privacy policies. If you do not wish for your Personal Information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.</p>
+
+<p><strong>Affiliates.</strong> We may share personal information with our affiliated companies.&nbsp;</p>
+
+<p><strong>Advertising Partners.</strong> Through our Services, we may allow third party advertising partners to set technologies and other tracking tools to collect information regarding your activities and your device (e.g., your IP address, mobile identifiers, page(s) visited, location, time of day). We may also combine and share such information and other information (such as demographic information and past purchase history) with third party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit third party websites within their networks. This practice is commonly referred to as “interest-based advertising” or “online behavioral advertising. We may allow access to other data collected by the Services to share information that may be useful, relevant, valuable or otherwise of interest to you. If you prefer not to share your personal information with third party advertising partners, you may follow the instructions below.&nbsp;</p>
+
+<p><strong>Protection of Airship and others.</strong> We may disclose Personal Information about you: (i) if we are required to do so by law, court order or legal process; (ii) in response to lawful requests by public authorities, including to meet national security or law enforcement requirements; (iii) under the discovery process in litigation; (iv) to enforce Airship policies or contracts; (v) to collect amounts owed to Airship; (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or (vii) if we, in good faith, believe that disclosure is otherwise necessary or advisable.</p>
+
+<p>In addition, from time to time, server logs and other systems may be reviewed for security purposes – e.g., to detect unauthorized activity on the Services. In such cases, records containing Personal Information may be shared with service providers, third parties and law enforcement bodies in order that they may prevent fraud and/or identify users in connection with their investigation of the unauthorized activities.</p>
+
+<p><strong>Business Transfers.</strong> We reserve the right to disclose or transfer any information we have about you in the event of a proposed or actual purchase, any reorganization, sale, lease, merger, joint venture, assignment, amalgamation or any other type of acquisition, disposal or financing of all or any portion of our business or of any of the business assets or shares (including in connection with any bankruptcy or similar proceeding).&nbsp;</p>
+
+<p class="has-large-font-size">5. What device and usage data does Airship process?</p>
+
+<p>We use common information-gathering tools for collecting usage data, cookies, web beacons and similar technologies to automatically collect information that may contain Personal Information from your computer or mobile device as you navigate our Sites or use our Services.</p>
+
+<p><strong>5.1 Cookies, web beacons and other tracking technologies in our Services.&nbsp; &nbsp;</strong></p>
+
+<p>As you navigate the Sites and use the Services, certain passive information may also be collected through the use of cookies, web beacons and other tracking technologies to obtain certain information about your computer, device, browsing actions, and patterns. This includes IP addresses, cookies IDs, navigational data, contents clicked, the name of the domain and host from which you access the Internet, the browser software you use and your operating system, your browser settings, your device type and similar information, the date and time you access our Services and other device identifiers. This type of information is used for the purposes of gathering data to provide improved administration of our Services and to improve the quality of your experience when interacting with our Services (see Your Privacy Rights section below for more information).</p>
+
+<p><strong>Cookies.</strong> A cookie is a small text file that a website saves on your computer or mobile device when you visit the website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie, to develop a record of the user’s online activity. When you visit our Sites, we or an authorized third party may place a cookie on your browser and/or device, which collects information, including Personal Information, about your online activities over time and across different sites.&nbsp; Cookies allow us to track usage, determine your browsing preferences and improve and customize your browsing experience.&nbsp;&nbsp;</p>
+
+<p>We use both session-based and persistent cookies on our Sites.&nbsp; Session-based cookies exist only during one session and disappear from your computer when you close your browser or turn off your computer or device.&nbsp; Persistent cookies remain on your computer or device after you close or turn off.  You can control the use of cookies at the individual browser level, but choosing to disable cookies may limit your use of certain features or functions on our Services.&nbsp;&nbsp;</p>
+
+<p><strong>Types of cookies on our Sites.</strong></p>
+
+<ul><li><strong>Essential Cookies.</strong> These cookies are necessary for the Sites to function and cannot be switched off. Some examples include: session cookies needed to transmit the website, authentication cookies and security cookies. These cookies also support certain features on the Sites, such as the live chat feature. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.&nbsp;&nbsp;</li><li><strong>Functional Cookies.</strong>&nbsp; These cookies enhance functions, performance and services on the Sites. They allow us to count visits and traffic sources so we can measure and improve the performance of our Sites. Functional cookies also allow us to improve how our Sites function and to help us provide you with more relevant communications, including marketing communications.&nbsp; They help us to know which pages are the most and least popular and see how visitors move around and use the Sites.  We may use our own technology or third party technology to track and analyze usage information to provide enhanced interactions and more relevant communications and to enable certain features on the Sites.</li><li><strong>Targeting Cookies.</strong>&nbsp; These cookies track activity across websites in order to understand a visitor’s interest, and to direct specific marketing to them.&nbsp; Targeting and advertising cookies may be set through our Site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.&nbsp;&nbsp;</li></ul>
+
+<p>To change your cookie settings and preferences for the Site you are visiting use the Cookie Preference link at the bottom of the webpage.</p>
+
+<p><strong>Web beacons.</strong> We also use web beacons (sometimes called “pixel tags” or “tracking pixels”). These are tiny graphics files that contain a unique identifier that is embedded in our Sites and in our emails or other communications that are sent through our Services. This allows us, for example, to monitor the traffic patterns of users from one page within our Site to another, to track access to the communications sent through our services, to understand whether you have come to our Sites from an online advertisement displayed on a Third-Party website or whether you have viewed advertisements on our Sites or through the Services, or to improve our Sites’ performance. For more information about cookies, and how to disable them, please see “Your Privacy Choices” below.</p>
+
+<p><strong>SDKs.</strong> We may use third party APIs and software development kits (“SDKs”) as part of the functionality of our Services. APIs and SDKs may allow third parties including analytics and advertising partners to collect your personal information for various purposes including to provide analytics services and content that is more relevant to you.&nbsp; For more information about our use of APIs and SDKs, please contact us as set forth below</p>
+
+<p><strong>5.2</strong><strong>	</strong><strong>Social Media Features.&nbsp; </strong>&nbsp;</p>
+
+<p>Airship may collect Personal Information to enable individuals to use online social media resources offered either by Airship or a third party. We may also enable you to use these social media resources to post or share Personal Information with others. When using social media resources, you should take into careful consideration what Personal Information you share with others.</p>
+
+<p>In addition, social media buttons such as Facebook, LinkedIn, Twitter, Instagram and YouTube (that might include widgets such as the “share this” button or other interactive mini-programs) may be on our Site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a third party or hosted directly on our site. Your interactions with these features apart from your visit to our site are governed by the privacy policy of the company providing it.</p>
+
+<p><strong>5.3</strong><strong>	</strong><strong>Analytics.&nbsp; </strong>&nbsp;</p>
+
+<p>We may also use Google Analytics and Google Analytics Demographics and Interest Reporting and other similar providers to collect information regarding visitor behavior and visitor demographics on some of our Sites, and to develop website content. For more information about Google Analytics, please visit&nbsp;<a href="http://www.google.com/policies/privacy/partners/"><strong>www.google.com/policies/privacy/partners/</strong></a>. You can opt out of Google’s collection and processing of data generated by your use of the Services by going to&nbsp;<a href="http://tools.google.com/dlpage/gaoptout"><strong>http://tools.google.com/dlpage/gaoptout</strong></a>. You can also opt out of our analytics partners by setting your preference in the Cookie Preference link at the bottom of the web page of the Site you are visiting.</p>
+
+<p class="has-large-font-size">6. International data transfers</p>
+
+<p>We primarily store Personal Information sent or collected via or by us in the United States, in the cloud, our servers, the servers of our affiliates or the servers of our service providers. To facilitate our global operations, we may transfer, store and access such information from around the world. Your Personal Information may be accessible to law enforcement or other authorities pursuant to a lawful request. By providing information to us, you consent to the storage of your Personal Information in these locations.</p>
+
+<p class="has-large-font-size">7. Privacy Shield Framework</p>
+
+<p>Airship companies, Urban Airship, Inc. and Apptimize, Inc., comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, Switzerland and the United Kingdom to the United States in reliance on Privacy Shield. Urban Airship, Inc. and Apptimize, Inc.&nbsp; have certified to the Department of Commerce that they adhere to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit&nbsp;<a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>.</p>
+
+<p>In compliance with the Privacy Shield Principles, Urban Airship, Inc. and Apptimize, Inc. commit to resolve complaints about our collection or use of your Personal Information. EU, Swiss and UK individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at:&nbsp;<a href="mailto:privacy@airship.com">privacy@airship.com</a>.</p>
+
+<p>If your Personal Information was received in reliance on the Privacy Shield Framework and you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider JAMS, at no cost to you, at&nbsp;<a href="https://www.jamsadr.com/eu-us-privacy-shield"><strong>https://www.jamsadr.com/eu-us-privacy-shield</strong></a>. Under certain conditions, more fully described on the Privacy Shield website,<a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint"><strong>https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</strong></a>, you may be entitled to invoke binding arbitration after other dispute resolution procedures have been exhausted.</p>
+
+<p>Urban Airship, Inc. and Apptimize, Inc. remain liable for the processing of Personal Information received under the Privacy Shield and subsequently transferred to a third party acting on our behalf if this entity processes such Personal Information in a manner inconsistent with the Privacy Shield Principles.</p>
+
+<p>With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Urban Airship, Inc. and Apptimize, Inc. are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+
+<p class="has-large-font-size">8. What security measures does Airship have in place?</p>
+
+<p>The security of all Personal Information provided to us is important to us, and we take reasonable steps designed to protect your Personal Information. Unfortunately, no data transmission over the Internet or storage of information can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of information you transmit to Airship. You are responsible for maintaining the secrecy of your own passwords. If you have reason to believe that your passwords or Personal Information is no longer secure, please promptly notify us at&nbsp;<a href="mailto:privacy@airship.com"><strong>privacy@airship.com</strong></a></p>
+
+<p class="has-large-font-size">9. How long does Airship retain Personal Information?</p>
+
+<p>We retain the Personal Information we receive as described in this Privacy Statement for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our products and Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements and comply with applicable laws.</p>
+
+<p class="has-large-font-size">10. Are Airship’s Sites for Children?</p>
+
+<p>Due to the nature of our business, Services are not marketed to or intended for minors under the age of 18. Airship does not knowingly solicit or collect Personal Information from children under the age of 16. If you are a parent or guardian and believe your child has provided us with Personal Information without your consent, please contact us by using the Contact Us information nelow, and we will take steps to delete such Personal Information from our Services.</p>
+
+<p class="has-large-font-size">11. Your privacy rights</p>
+
+<p><strong>Opt-out.</strong> Where you have consented to our processing of your Personal Information, you may withdraw that consent at any time and opt out by following the instructions in this section. Note that, due to the nature of the Services, you may have to login to your account or provide the email and/or other identifying value that is associated with your Personal Information in order for us to complete your request.</p>
+
+<p><strong>Email unsubcribe.</strong> An “Unsubscribe” button will be provided in each email communications sent by us so that you can opt-out. However, we may continue to send transaction-related emails regarding products or Services you have requested in response to such request. We may also need to send you certain communications regarding our programs and Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Use or this Privacy Statement.</p>
+
+<p><strong>Opt-out of cookies and ads.</strong> You may stop or restrict the placement of technologies on your device or remove them by adjusting your preferences as your browser or device permits. The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these and learn more about targeted advertising and consumer choice and privacy, at www.networkadvertising.org/managing/opt_out.asp, http://www.youronlinechoices.eu/, https://youradchoices.ca/choices/, and www.aboutads.info/choices/.&nbsp; To separately make choices for mobile apps on a mobile device, you can download DAA’s AppChoices application from your device’s app store. Alternatively, for some devices you may use your device’s platform controls in your settings to exercise choice.</p>
+
+<p>Please note you must separately opt out in each browser and on each device. Advertisements on third party websites that contain the AdChoices link may have been directed to you based on information collected by advertising partners over time and across websites. These advertisements provide a mechanism to opt out of the advertising partners’ use of this information for interest-based advertising purposes.</p>
+
+<p><strong>Do Not Track.</strong> Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. Airship does not recognize or respond to browser-initiated DNT signals, whether that signal is received on a computer or a mobile device. For information about “do-not-track”, visit&nbsp;<a href="http://www.allaboutdnt.org/"><strong>http://www.allaboutdnt.org</strong></a>.</p>
+
+<p><strong>Access, correct, amend or delete Personal Information.</strong> You may seek confirmation regarding whether we are processing Personal Information about you, request access to Personal Information, and ask that we correct, amend or delete your Personal Information where it is inaccurate or has been processed in violation of applicable data protection laws. You have the right to control or change certain uses and disclosures of your Personal Information, as set out in this Privacy Statement.</p>
+
+<p>Where otherwise permitted by applicable law, you may log into your account or email&nbsp;<a href="mailto:privacy@airship.com">privacy@airship.com</a>&nbsp;to request access to, receive (port), restrict processing, seek rectification or request erasure of Personal Information held about you by us. Such requests will be processed in accordance with local laws. Although we make good faith efforts to provide individuals with access to their Personal Information, there may be circumstances in which we are unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question or where it is commercially proprietary. If we determine that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, we will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Information.</p>
+
+<p><strong>EU residents.</strong> If you are located in the European Economic Area or the UK, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your Personal Information violates applicable law.</p>
+
+<p><strong>CA residents.</strong> Please refer to the California Privacy Rights page <a href="https://www.airship.com/legal/ccpa/">here</a>.</p>
+
+<p><strong>Customer Data.</strong> As a data processor for our business customers, we processe data that may include Personal Information of our business customer’s end user clients (“Customer Data”). We will not review, share, distribute or reference any such Customer Data except as provided in the agreements between us and our business customers, or as may be required by law. If Personal Information pertaining to you as an individual has been submitted to us by our business customer and you wish to exercise any rights you may have to access, correct, amend or delete such data, please inquire with the relevant customer directly. Because Airship personnel have limited ability to access Customer Data, if you wish to make your request directly to us, please provide the name of the relevant Airship customer. We will refer your request to that customer and will support them as needed in responding to your request.</p>
+
+<p><strong>Redress, compliance and accountability.</strong> If after reviewing this Privacy Statement, you would like to submit a request or you have any questions or privacy concerns, please contact:</p>
+
+<p><a href="mailto:privacy@airship.com"><strong>privacy@airship.com</strong></a></p>
+
+<p>Airship will address your concerns and attempt to resolve any privacy issues in a timely manner.</p>
+
+<p>If you are an EU, Swiss or UK citizen and feel that Airship is not abiding by the terms of this Privacy Statement, please contact us at the contact information provided below. If any request remains unresolved, you may contact the national data protection authority for your EU Member State, Switzerland or United Kingdom.</p>
+
+<p class="has-large-font-size">12. Third Party Sites</p>
+
+<p>Please note that our Services may contain links to other websites or digital properties for your convenience and information. We do not control third party websites, digital properties or their privacy practices, which may differ from those set out in this Privacy Statement. We do not endorse or make any representations about third party websites or digital properties. Any Personal Information you choose to give to unrelated third party is not covered by this Privacy Statement. We encourage you to review the privacy policy of any company, website or digital property before submitting your Personal Information. Some third parties may choose to share their users’ Personal Information with us; that sharing is governed by that company’s privacy policy, not this Privacy Statement.</p>
+
+<p class="has-large-font-size">13. Changes to this Privacy Statement</p>
+
+<p>We may update this Privacy Statement from time to time as it deems necessary in our sole discretion. We will provide notification of any material changes to this Privacy Statement through our Sites or as otherwise required by applicable law. We encourage you to review this Privacy Statement periodically to be informed regarding how We are using and protecting your Personal Information and to be aware of any policy changes. Your continued relationship with us after the posting or notice of any amended Privacy Statement shall constitute your agreement to be bound by any such changes. Any changes to this Privacy Statement take effect immediately after being posted or otherwise provided by us.</p>
+
+<p class="has-large-font-size">14. Contact Us</p>
+
+<p>If you have any questions about our privacy practices or this Privacy Statement, or if you wish to submit a request to exercise your rights, please contact us at:<br></p>
+
+<p>Airship</p>
+
+<p>1225 West Burnside, Suite 401</p>
+
+<p>Portland, OR&nbsp; 97209</p>
+
+<p>privacy@airship.com</p>
+
+<p>1-855-385-3155<br></p>
+
+		</div>
+
+		
+	</div>
+
+	<div slot="after_content">
+			</div>
+
+	
+</block-section>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+		</div>
+
+		
+		<page-footer class="Footer">
+			<div class="Wrap">
+
+				
+				<div class="Grid with-4 has-wideGaps">
+
+					<div class="is-1 is-4--small">
+
+						<page-logo class="Logo"><a href="https://www.airship.com"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="357" height="51" viewBox="0 0 357 51">
+  <defs>
+    <path id="logo-horizontal-a" d="M56.8415888,3.02095862 L61.682243,7.59724138 L48.2943925,21.0334552 C42.4640187,14.253269 33.6665888,9.9537931 24.0420561,9.9537931 C14.4178738,9.91862069 5.90116822,14.253269 0.0711448598,21.0334552 C8.93306075,8.40515172 23.4935748,0 40.0535047,0 C45.9177896,0 51.5404937,1.03490324 56.7524366,2.93148567 L56.8415888,3.02095862 Z"></path>
+    <path id="logo-horizontal-d" d="M56.7524365,2.93148561 C51.5404936,1.03490322 45.9177896,1.0658141e-14 40.0535047,1.0658141e-14 C23.4935748,1.0658141e-14 8.93306075,8.40515172 0.0711448598,21.0334552 L-13.317757,7.5975931 L24.0420561,-29.8965517 L56.7524365,2.93148561 L56.7524365,2.93148561 Z"></path>
+    <filter id="logo-horizontal-c" width="165.6%" height="170.7%" x="-16.4%" y="-22.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="18" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"></feGaussianBlur>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0.501960784  0 0 0 1 0"></feColorMatrix>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g fill="#020202" transform="translate(94 8)">
+      <path d="M255.953991,12.1836783 C255.953991,14.8208957 253.825357,16.9569826 251.199704,16.9569826 L245.426021,16.9569826 L245.426021,7.08441739 L251.199704,7.08441739 C253.825357,7.08441739 255.953991,9.22124348 255.953991,11.8584609 L255.953991,12.1836783 Z M251.199704,0.501721739 L238.871308,0.501721739 L238.871308,33.4129826 L245.426021,33.4129826 L245.426021,23.5396783 L251.199704,23.5396783 C257.445773,23.5396783 262.508704,18.4552 262.508704,12.1836783 L262.508704,11.8584609 C262.508704,5.5862 257.445773,0.501721739 251.199704,0.501721739 L251.199704,0.501721739 Z"></path>
+      <polygon points="211.462 33.414 218.016 33.414 218.016 .502 211.462 .502"></polygon>
+      <polygon points="184.891 .502 184.891 13.903 173.073 13.903 173.073 .502 166.518 .502 166.518 33.413 173.073 33.413 173.073 20.485 184.891 20.485 184.891 33.413 191.446 33.413 191.446 .502"></polygon>
+      <path d="M141.95204 16.5040435C141.004371 15.7796957 139.940054 15.1913478 138.784448 14.7537826 137.618699 14.3117826 136.483379 13.9008261 135.41544 13.537913 134.690922 13.3028696 134.00915 13.0633913 133.38534 12.8253913 132.783991 12.5947826 132.252919 12.336087 131.812412 12.0566957 131.36466 11.775087 131.01834 11.4358261 130.782148 11.0544348 130.547404 10.6678696 130.426409 10.1822609 130.426409 9.61091304 130.426409 8.94495652 130.577834 8.38765217 130.87561 7.95747826 131.169765 7.53395652 131.536371 7.1836087 131.969633 6.91308696 132.401445 6.647 132.894117 6.46369565 133.429536 6.36908696 133.959159 6.27595652 134.486608 6.22865217 135.002464 6.22865217 136.005922 6.22865217 137.057922 6.48808696 138.134555 6.99882609 139.166993 7.48665217 140.021925 8.14891304 140.680511 8.9663913L145.407991 3.87821739C144.034305 2.62095652 142.420803 1.65343478 140.610958 1.00226087 138.755467.337782609 136.914467 0 135.1365 0 133.651963 0 132.163079.191434783 130.712594.569869565 129.261385.947565217 127.942762 1.55069565 126.789329 2.36521739 125.638795 3.18047826 124.696197 4.23078261 123.989792 5.49321739 123.284112 6.75565217 122.9262 8.296 122.9262 10.0706522 122.9262 11.5141739 123.157321 12.7566522 123.613043 13.7626087 124.06804 14.7685652 124.679533 15.6348261 125.430858 16.3384783 126.182908 17.0480435 127.053054 17.6371304 128.009418 18.0857826 128.978823 18.5425652 129.981555 18.9424348 130.990809 19.2743043 132.066718 19.6194783 132.986131 19.9276957 133.804112 20.2159565 134.631511 20.5086522 135.336467 20.8383043 135.897969 21.1923478 136.461644 21.550087 136.903599 21.9551304 137.213693 22.3956522 137.528134 22.8428261 137.687528 23.392 137.687528 24.0283913 137.687528 24.6862174 137.560737 25.262 137.313677 25.7387391 137.061544 26.2154783 136.723194 26.6005652 136.306597 26.8836522 135.887825 27.1682174 135.395878 27.375913 134.846693 27.4986087 134.299682 27.6227826 133.73166 27.6863478 133.157842 27.6863478 131.884139 27.6863478 130.585803 27.3485652 129.29906 26.6848261 128.064481 26.0484348 127.042911 25.2472174 126.263329 24.304087L121.397467 29.3538261C122.777674 30.7921739 124.520864 31.920087 126.584291 32.7065217 128.690464 33.5077391 130.903142 33.9135217 133.157842 33.9135217 134.70179 33.9135217 136.21893 33.6991739 137.669415 33.274913 139.119175 32.8543478 140.422583 32.1965217 141.544137 31.3236087 142.664966 30.4514348 143.569889 29.3301739 144.233547 27.9908696 144.897206 26.6530435 145.231933 25.0417391 145.231933 23.2013043 145.231933 21.6099565 144.92039 20.2625217 144.305999 19.2011304 143.685812 18.1338261 142.893189 17.226913 141.95204 16.5040435M91.0362545 16.9573522L85.2618468 16.9573522 85.2618468 7.08404783 91.0362545 7.08404783C93.6619074 7.08404783 95.7898165 9.22087391 95.7898165 11.8580913L95.7898165 12.1833087C95.7898165 14.8205261 93.6619074 16.9573522 91.0362545 16.9573522M91.0362545.501352174L79.0643207.501352174 78.7071333 33.412613 85.2618468 33.412613 85.2618468 23.5400478 90.1059736 23.5400478 94.8124419 33.6203087 102.301059 33.6661348 96.6679322 21.9723522C97.3192738 21.5747 98.0039433 21.1134826 98.1133455 21.0225696 100.802756 18.8495261 102.34453 15.6269174 102.34453 12.1833087L102.34453 11.8580913C102.34453 5.58583043 97.2815989.501352174 91.0362545.501352174"></path>
+      <polygon points="50.82 33.414 57.375 33.414 57.375 .502 50.82 .502"></polygon>
+      <path d="M11.9538209,20.2101174 L16.0487961,8.4002913 L16.062562,8.43503043 L16.2328237,8.92285652 L20.1756501,20.2101174 L11.9538209,20.2101174 Z M24.7864821,33.4124652 L32.1620744,33.4124652 L20.3654738,0.501204348 L11.8118154,0.501204348 L-1.42108547e-14,33.4124652 L7.37414325,33.4124652 L9.87300551,26.2096391 L22.2651598,26.1941174 L24.7864821,33.4124652 Z"></path>
+    </g>
+    <path fill="#0034B3" d="M-2.84217094e-14,37.4941448 L37.3598131,0 L70.1593458,32.9175103 L75,37.4937931 L61.6121495,50.9300069 C55.7817757,44.1498207 46.9843458,39.8503448 37.3598131,39.8503448 C27.7356308,39.8151724 19.2189252,44.1498207 13.3889019,50.9300069 L-2.84217094e-14,37.4941448 Z M41.2296729,19.0933448 C41.2296729,17.0048069 39.5425234,15.3119586 37.4617991,15.3119586 C35.3807243,15.3119586 33.6939252,17.0048069 33.6939252,19.0933448 C33.6939252,21.1822345 35.3807243,22.8754345 37.4617991,22.8754345 C39.5425234,22.8754345 41.2296729,21.1822345 41.2296729,19.0933448 Z"></path>
+    <path fill="#004BFF" d="M70.0701935,32.8280373 C64.8582506,30.9314549 59.2355466,29.8965517 53.3712617,29.8965517 C36.8113318,29.8965517 22.2508178,38.3017034 13.3889019,50.9300069 L-2.84217094e-14,37.4941448 L37.3598131,-2.84217094e-14 L70.0701935,32.8280373 Z M41.2296729,19.0933448 C41.2296729,17.0048069 39.5425234,15.3119586 37.4617991,15.3119586 C35.3807243,15.3119586 33.6939252,17.0048069 33.6939252,19.0933448 C33.6939252,21.1822345 35.3807243,22.8754345 37.4617991,22.8754345 C39.5425234,22.8754345 41.2296729,21.1822345 41.2296729,19.0933448 Z"></path>
+    <g transform="translate(13.318 29.897)">
+      <mask id="logo-horizontal-b" fill="#fff">
+        <use xlink:href="#logo-horizontal-a"></use>
+      </mask>
+      <g fill="#000" mask="url(#logo-horizontal-b)" opacity=".5">
+        <use filter="url(#logo-horizontal-c)" xlink:href="#logo-horizontal-d"></use>
+      </g>
+    </g>
+  </g>
+</svg>
+</a></page-logo>
+						<div class="Footer-copyright">
+
+							© 2019 Airship. All rights reserved.
+						</div>
+
+						<div class="SocialMedia has-5">
+	<ul>
+
+				<li class="is-linkedin">
+
+			<a href="https://www.linkedin.com/company/airship-social/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+				<i class="fab fa-linkedin"></i><span class="screen-reader-text">LinkedIn</span>
+			</a>
+
+		</li>
+				<li class="is-twitter">
+
+			<a href="https://twitter.com/airship" title="Twitter" target="_blank" rel="noopener noreferrer">
+				<i class="fab fa-twitter"></i><span class="screen-reader-text">Twitter</span>
+			</a>
+
+		</li>
+				<li class="is-facebook">
+
+			<a href="https://www.facebook.com/airshipsocial/" title="Facebook" target="_blank" rel="noopener noreferrer">
+				<i class="fab fa-facebook"></i><span class="screen-reader-text">Facebook</span>
+			</a>
+
+		</li>
+				<li class="is-instagram">
+
+			<a href="https://www.instagram.com/airshipsocial" title="Instagram" target="_blank" rel="noopener noreferrer">
+				<i class="fab fa-instagram"></i><span class="screen-reader-text">Instagram</span>
+			</a>
+
+		</li>
+				<li class="is-youtube">
+
+			<a href="https://www.youtube.com/urbanairship" title="YouTube" target="_blank" rel="noopener noreferrer">
+				<i class="fab fa-youtube"></i><span class="screen-reader-text">YouTube</span>
+			</a>
+
+		</li>
+		
+	</ul>
+</div>
+
+					</div>
+
+					<div class="is-3 is-4--small">
+
+						<div class="Grid with-4 has-wideGaps FooterNav">
+
+							<div class="is-1 is-2--medium">
+
+								<ul id="menu-footer-left" class="Footer-menu"><li id="menu-item-6059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6059"><a>Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-3825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3825"><a href="https://www.airship.com/solutions/lifecycle/">Lifecycle</a></li>
+	<li id="menu-item-3826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3826"><a href="https://www.airship.com/solutions/industries/">Industries</a></li>
+</ul>
+</li>
+</ul>
+							</div>
+
+							<div class="is-1 is-2--medium">
+
+								<ul id="menu-footer-center-left" class="Footer-menu"><li id="menu-item-3814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3814"><a>Platform</a>
+<ul class="sub-menu">
+	<li id="menu-item-3813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813"><a href="https://www.airship.com/platform/">Overview</a></li>
+	<li id="menu-item-3815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815"><a href="https://www.airship.com/platform/channels/">Channels</a></li>
+	<li id="menu-item-3816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3816"><a href="https://www.airship.com/platform/orchestration/">Orchestration</a></li>
+	<li id="menu-item-3817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817"><a href="https://www.airship.com/platform/analytics-data/">Analytics &amp; Data</a></li>
+	<li id="menu-item-3818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3818"><a href="https://www.airship.com/platform/pricing/">Pricing</a></li>
+</ul>
+</li>
+</ul>
+							</div>
+
+							<div class="is-1 is-2--medium">
+
+								<ul id="menu-footer-center-right" class="Footer-menu"><li id="menu-item-3819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3819"><a href="https://www.airship.com/services/">Services</a></li>
+<li id="menu-item-3820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3820"><a href="https://www.airship.com/customers/">Customers</a></li>
+<li id="menu-item-3821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3821"><a href="https://www.airship.com/resources/">Resources</a></li>
+<li id="menu-item-3822" class="hide-small menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3822"><a href="https://www.airship.com/blog/">Blog</a></li>
+<li id="menu-item-3823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3823"><a href="https://www.airship.com/company/">Company</a></li>
+</ul>
+							</div>
+
+							<div class="is-1 is-2--medium">
+
+								<ul id="menu-footer-right" class="Footer-menu"><li id="menu-item-6149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6149"><a href="https://www.airship.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-6150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6150"><a href="https://support.urbanairship.com/hc/en-us">Support</a></li>
+</ul>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				
+			</div>
+		</page-footer>
+
+		<page-coda class="Coda">
+			<div class="Wrap">
+
+				<ul id="menu-legal" class="Coda-menu-legal"><li id="menu-item-3812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3812"><a href="https://www.airship.com/legal/overview/">Legal</a></li>
+<li id="menu-item-3811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3811"><a href="https://www.airship.com/legal/terms-of-use/">Website Terms of Use</a></li>
+<li id="menu-item-3810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810"><a href="https://www.airship.com/security/">Security</a></li>
+<li id="menu-item-3809" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3801 current_page_item menu-item-3809"><a href="https://www.airship.com/legal/privacy/" aria-current="page">Privacy Statement</a></li>
+<li id="menu-item-6083" class="menu-item menu-item-type-post_type menu-item-object-patterns-legal menu-item-6083"><a href="https://www.airship.com/legal/cookie-notice/">Cookie Notice</a></li>
+</ul>
+			</div>
+		</page-coda>
+
+		
+<ui-modal name="getStartedModal">
+
+	<div class="GetStarted">
+
+		<div class="GetStarted-content">
+
+			<div class="Grid with-12 has-wideGaps">
+
+				<div class="GetStarted-content-text is-6 is-12--small">
+
+					<div class="GetStarted-content-kicker">See for Yourself</div><h3 class="GetStarted-content-title"><span class="hide-small">Get a Personalized Demo of Our Customer Engagement Platform</span><span class="show-small">Get a Demo</span></h3>
+				</div>
+
+				<div class="is-6 is-12--small">
+
+					<block-marketo base_url="//app-sj21.marketo.com" munchkin_id="313-QPJ-195" :form_id="1126"></block-marketo>
+
+					<div id="MarketoBlock-thank-you-1126" class="Marketo-thank-you hidden">
+						<h3>Thanks so much! We’ll be in touch shortly.</h3>
+<p>Want more? Check out our <a href="https://www.airship.com/blog/">blog</a> for our latest thinking on creating more value for your brand and your customers at every stage of the customer journey.</p>
+<p>&nbsp;</p>
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+
+		<footer class="GetStarted-footer">
+			<div class="GetStarted-footer-dots"></div>
+
+			<h4>If you want to talk to us right away give us a call</h4>
+			<div class="GetStarted-footer-numbers">
+				<span>+1 (855) 385-3155</span><span>+44 (0)300 303 8796</span>			</div>
+
+		</footer>
+
+	</div>
+
+</ui-modal>
+		
+		
+	</page>
+
+		<script type="text/javascript" src="//cc.cdn.civiccomputing.com/8/cookieControl-8.x.min.js?ver=5.3.2"></script>
+<script type="text/javascript" src="//app-sj21.marketo.com/js/forms2/js/forms2.js?ver=5.3.2"></script>
+<script type="text/javascript" src="https://www.airship.com/wp-content/themes/airship/js/optinout.js?ver=150a52a18c447aa416649418d0539ff16274c1b6"></script>
+<script type="text/javascript">
+// 86acbd31cd7c09cf30acb66d2fbedc91daa48b86:1557871339.46
+!function(n,t,c,e,u){function r(n){try{f=n(u)}catch(n){return h=n,void i(p,n)}i(s,f)}function i(n,t){for(var c=0;c<n.length;c++)d(n[c],t);
+}function o(n,t){return n&&(f?d(n,f):s.push(n)),t&&(h?d(t,h):p.push(t)),l}function a(n){return o(!1,n)}function d(t,c){
+n.setTimeout(function(){t(c)},0)}var f,h,s=[],p=[],l={then:o,catch:a,_setup:r};n[e]=l;var v=t.createElement("script");
+v.src=c,v.async=!0,v.id="_uasdk",v.rel=e,t.head.appendChild(v)}(window,document,'https://aswpsdkus.com/notify/v1/ua-sdk.min.js',
+  'UA', {
+    vapidPublicKey: 'BAHJ96VS_1vEoPIFDOUQ6kg2DxXPsALyWughmunm5eKYeA8-sQwDqL2mkH_Tole70BwqrBK_6YAqi0XEholutj0=',
+    websitePushId: 'web.com.chapterthree.safari',
+    appKey: 'eMDVmwPuRPqxjK-bqGNsCw',
+    token: 'MTplTURWbXdQdVJQcXhqSy1icUdOc0N3Ojl6ZG1vNF82MVF2WXFQSEFBRC1GRnQyeVZQckRSTzVRTEVGZkxmVC1Td0E'
+  });
+
+</script><script>
+//<!--
+document.addEventListener("DOMContentLoaded", function() 
+{ 
+	var submitForm = parseInt(1126);
+	
+	if ( typeof MktoForms2 !== 'undefined' && ! isNaN(submitForm) ) {
+			
+		MktoForms2.whenReady(function (form){
+			
+			
+			form.onSuccess(function(values, followUpUrl){
+									
+				var formValues = form.getValues();
+				var formId = formValues.formid;
+				
+				if (submitForm == formId) {
+					
+					document.querySelector('#mktoForm_' + formId).classList.add('hidden');
+										
+					if ( null === document.getElementById('#MarketoBlock-thank-you-' + formId) ) {
+						document.querySelector('#MarketoBlock-thank-you-' + formId).classList.remove('hidden');
+					} else {
+						document.getElementById('#MarketoBlock-thank-you-' + formId).classList.remove('hidden');
+					}
+										
+					return false;
+				}
+				
+			});
+		});
+	}	
+});
+
+//-->
+</script>
+<script type="text/javascript">
+  var config = {
+    apiKey: '97e34f1d23d5b83528ee977678ae7c5849c90c0c',
+    product: 'PRO',
+    logConsent : false,    
+    
+    notifyOnce: false,
+    initialState: 'NOTIFY',
+    position: 'LEFT',
+    theme: 'LIGHT',
+    layout: 'SLIDEOUT',
+    toggleType: 'slider',
+    closeStyle: 'icon',
+    consentCookieExpiry: 90,
+    
+    accessibility : {
+      accessKey: 'C',
+      highlightFocus: false,      
+    },
+        
+    text : {
+      title: 'Cookie Notice',
+      intro:  'Cookies help us enhance your experience when using the Sites. Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience.',
+      necessaryTitle : 'Essential Cookies',
+      necessaryDescription : 'These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but if you do, some parts of the site will work. These cookies do not store any personally identifiable information.',
+      thirdPartyTitle : 'Third Party Cookies',
+      thirdPartyDescription : 'Third Party cookie description - we can\'t automatically opt out of these once consent has been given.',
+      on : 'On',
+      off : 'Off',
+      accept : 'Accept',
+      settings : 'Cookie Preferences',
+      acceptRecommended : 'Accept Recommended Settings',
+      notifyTitle : '',
+      notifyDescription : 'We use cookies to optimize site functionality, to make interactions easy and meaningful, and to better understand usage. By continuing to use this site or closing this banner, you indicate your agreement. Our Cookie Notice provides more information. You can change your settings in the Cookie Preference Center.',
+      closeLabel : 'Close',
+      accessibilityAlert : 'This site uses cookies to store information. Press accesskey C to learn more about your options.',
+    },
+    
+    
+    branding : {
+      fontColor: '#000000',
+      fontFamily: 'Arial,sans-serif',
+      fontSizeTitle: '1.3em',
+      fontSizeHeaders: '1.2em',
+      fontSize: '1em',
+      backgroundColor: '#EFEFEF',
+      toggleText: '#000000',
+      toggleColor: '#EFEFEF',
+      toggleBackground: '#CCCCCC',
+      alertText: '#CCCCCC',
+      alertBackground: '#CCCCCC',
+      acceptText: '',
+      acceptBackground: '',
+              buttonIcon: null,
+        
+      buttonIconWidth: '64px',
+      buttonIconHeight: '64px',
+      removeIcon: false,
+      removeAbout: true    },
+
+    
+                    
+        excludedCountries: [
+			'US', 'AE', 'AF', 'AG', 'AI', 'AL', 'AM', 'AO',
+			'AQ', 'AS', 'AT', 'AU', 'AW', 'AX', 'AZ', 'BA', 'BB', 'BD', 'BE', 'BF',
+			'BG', 'BH', 'BI', 'BJ', 'BL', 'BM', 'BN', 'BO', 'BQ', 'BR', 'BS', 'BT',
+			'BV', 'BW', 'BY', 'BZ', 'CC', 'CD', 'CF', 'CG', 'CI', 'CK', 'CL', 'CM',
+			'CN', 'CO', 'CR', 'CU', 'CV', 'CW', 'CX', 'CY', 'CZ', 'DE', 'DJ', 'DK',
+			'DM', 'DO', 'DZ', 'EC', 'EE', 'EG', 'EH', 'ER', 'ES', 'ET', 'FI', 'FJ',
+			'FK', 'FM', 'FR', 'GA', 'GB', 'GD', 'GE', 'GF', 'GH', 'GI', 'GL', 'GM',
+			'GN', 'GP', 'GQ', 'GR', 'GS', 'GT', 'GU', 'GW', 'GY', 'HK', 'HM', 'HN',
+			'HR', 'HT', 'HU', 'ID', 'IE', 'IN', 'IO', 'IQ', 'IR', 'IS', 'IT', 'JM',
+			'JO', 'KE', 'KG', 'KH', 'KI', 'KM', 'KN', 'KP', 'KW', 'KY', 'KZ', 'LA',
+			'LB', 'LC', 'LI', 'LK', 'LR', 'LS', 'LT', 'LU', 'LV', 'LY', 'MA', 'MC',
+			'MD', 'ME', 'MF', 'MG', 'MH', 'MK', 'ML', 'MM', 'MN', 'MO', 'MP', 'MQ',
+			'MR', 'MS', 'MT', 'MU', 'MV', 'MW', 'MX', 'MY', 'MZ', 'NA', 'NC', 'NE',
+			'NF', 'NG', 'NI', 'NL', 'NO', 'NP', 'NR', 'NU', 'OM', 'PA', 'PE', 'PF',
+			'PG', 'PH', 'PK', 'PL', 'PM', 'PN', 'PR', 'PS', 'PT', 'PW', 'PY', 'QA',
+			'RE', 'RO', 'RS', 'RU', 'RW', 'SA', 'SB', 'SC', 'SD', 'SE', 'SG', 'SH',
+			'SI', 'SJ', 'SK', 'SL', 'SM', 'SN', 'SO', 'SR', 'SS', 'ST', 'SV', 'SX',
+			'SY', 'SZ', 'TC', 'TD', 'TF', 'TG', 'TH', 'TJ', 'TK', 'TL', 'TM', 'TN',
+			'TO', 'TR', 'TT', 'TV', 'TW', 'TZ', 'UA', 'UG', 'UM', 'UZ', 'VA', 'VC',
+			'VE', 'VG', 'VI', 'VN', 'VU', 'WF', 'WS', 'YE', 'YT', 'ZA', 'ZM', 'ZW',
+		],
+        
+          
+      
+      
+    
+            
+                    
+        
+      necessaryCookies: [ 'wordpress_*','wordpress_logged_in_*','CookieControl','wordpress_logged_in_*','wordpress_test_cookie','wp-settings-*','__cfduid','CookieControl','wordpress_sec_*','mkto_opt_out' ],
+                
+        optionalCookies: [
+                          {
+            name: 'performance',
+            label: 'Performance Cookies',
+            description: 'These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. The information collected by these cookies is used to create aggregated, anonymous analytics reports. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.',
+            cookies: [ '_gat', '_gid', '_ga' ],
+            onAccept : function(){
+              toggle_google_analytics(true);            },
+            onRevoke : function(){
+              toggle_google_analytics(false);            },
+             
+            recommendedState : 'on',
+            lawfulBasis : 'c',
+          },
+                                    {
+            name: 'functional',
+            label: 'Functional Cookies',
+            description: 'These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.',
+            cookies: [ '_BUID', '_mkto_trk', 'driftt_aid' ],
+            onAccept : function(){
+              toggle_marketo_munchkin(true);
+toggle_bizible(true);
+toggle_drift(true);            },
+            onRevoke : function(){
+              toggle_marketo_munchkin(false);
+toggle_bizible(false);
+toggle_drift(false);            },
+             
+            recommendedState : 'on',
+            lawfulBasis : 'c',
+          },
+                                    {
+            name: 'advertising',
+            label: 'Advertising Cookies',
+            description: 'These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.  They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.',
+            cookies: [ 'MR', 'MUID', 'MUIDB', '_fbp', 'fr', 'lang', 'lidc', 'personalization_id' ],
+            onAccept : function(){
+              toggle_linked_in_remarketing(true);
+toggle_facebook_pixel(true);
+toggle_twitter_tag(true);
+toggle_adroll(true);
+toggle_bing_remarketing(true);            },
+            onRevoke : function(){
+              toggle_linked_in_remarketing(false);
+toggle_facebook_pixel(false);
+toggle_twitter_tag(false);
+toggle_adroll(false);
+toggle_bing_remarketing(false);            },
+             
+            recommendedState : 'on',
+            lawfulBasis : 'c',
+          },
+                    ],
+    
+    statement:  {
+      description: 'For further details please reference our',
+      name: 'Cookie Notice',
+      url: '/legal/cookie-notice/',
+      updated: 'May 21, 2018'
+    },
+    
+      
+  };
+
+  CookieControl.load( config );
+</script>
+
+	<!-- Twitter universal website tag code -->
+	<script>
+		// !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+		// 	a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+		// 	t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+		// 	s.parentNode.insertBefore(t,s))}(window,document,'script');
+		//
+		// twq('init','nv0jy');
+		// twq('track','PageView');
+	</script>
+	<!-- End Twitter universal website tag code -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f4cd81e018","applicationID":"154190532","transactionName":"NVRUZhRWWkMFUE0KCQwed1ESXlteS19cBAcO","queueTime":0,"applicationTime":752,"atts":"GRNXEFxMSU0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+</body></html>
