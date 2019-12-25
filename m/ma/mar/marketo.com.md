@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528164456id_/https%3A//www.marketo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225041736id_/https%3A//www.marketo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice » Marketo Documents
 
@@ -10,9 +10,9 @@ Marketo, Inc. and its Affiliates (Marketo International, Ltd.; Marketo EMEA, Ltd
 
 This Privacy Notice does not apply to the practices of third parties that Marketo does not own or control, or to individuals that Marketo does not employ or manage. 
 
-This Privacy Notice also does not apply to information that we receive or handle on behalf of our subscribers in our role as a service provider, such as information that we receive through Marketo’s marketing automation software services or other Marketo services, including any apps we make available for use by services subscribers (collectively, the “Subscription Services”). Such information is governed by the terms of the applicable subscription services agreement, rather than this Privacy Notice. 
+This Privacy Notice also does not apply to information that we receive or handle on behalf of our subscribers in our role as a service provider, such as information that we receive through Marketo’s marketing automation software services or other Marketo services, including any apps we make available for use by services subscribers (collectively, the “Subscription Services”).  Such information specifically includes, without limitation, Google user information that we receive though plugins, apps, and extensions of Google products and services included within the Subscription Services, and is governed by the terms of the applicable subscription services agreement, rather than this Privacy Notice.
 
-You can request a copy of this Privacy Notice by contacting us at privacyofficer@marketo.com. 
+You can request a copy of this Privacy Notice by contacting us at [[email protected]](https://documents.marketo.com/cdn-cgi/l/email-protection) 
 
 ### 1\. What Types of Information Does Marketo Collect?
 
@@ -100,7 +100,7 @@ We have implemented appropriate organizational, technical, and administrative me
 
 ### 7\. How Can I Access, Correct, Amend or Remove Information About Me? 
 
-If you would like to access, correct, amend, remove or limit the use or disclosure of any Personal Data about you that has been collected and stored by Marketo, or have it transferred to another organization, please notify us at privacyofficer@marketo.com so that we may consider and respond to your request in accordance with applicable law. If you would like to object to the processing of your Personal Data for direct marketing purposes, please use the mechanisms outlined in Section 9 (“What Choices Do I Have?”). 
+If you would like to access, correct, amend, remove or limit the use or disclosure of any Personal Data about you that has been collected and stored by Marketo, or have it transferred to another organization, please notify us at [[email protected]](https://documents.marketo.com/cdn-cgi/l/email-protection) so that we may consider and respond to your request in accordance with applicable law. If you would like to object to the processing of your Personal Data for direct marketing purposes, please use the mechanisms outlined in Section 9 (“What Choices Do I Have?”). 
 
 For your protection, we only implement requests with respect to the Personal Data associated with the particular email address that you use to send us your request, and we need to verify your identity before implementing your request. We will respond to your request within 30 days. 
 
@@ -114,11 +114,11 @@ We will retain your Personal Data for a period of time consistent with the origi
 
 You can always opt not to disclose information. However, if you elect to do so, we will likely be limited in responding to your inquiry or providing services to you. 
 
-You can opt-out of receiving marketing messages from Marketo or our Affiliates by unsubscribing through the unsubscribe or opt-out link in an email, or by unsubscribing via the Marketo Subscription Center at <https://pages2.marketo.com/emailsubscription>, or by sending an email to privacyofficer@marketo.com. We will comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages. 
+You can opt-out of receiving marketing messages from Marketo or our Affiliates by unsubscribing through the unsubscribe or opt-out link in an email, or by unsubscribing via the Marketo Subscription Center at <https://pages2.marketo.com/emailsubscription>, or by sending an email to [[email protected]](https://documents.marketo.com/cdn-cgi/l/email-protection) We will comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages. 
 
 ### 10\. Can Children Use Marketo's Sites? 
 
-The Sites are not intended for minors under the age of 18. Marketo does not knowingly or specifically collect information about minors under the age of 18 and believes that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Data. If you believe that we have mistakenly or unintentionally collected such information, please notify us at privacyofficer@marketo.com so that we can delete the information from our servers. 
+The Sites are not intended for minors under the age of 18. Marketo does not knowingly or specifically collect information about minors under the age of 18 and believes that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Data. If you believe that we have mistakenly or unintentionally collected such information, please notify us at [[email protected]](https://documents.marketo.com/cdn-cgi/l/email-protection) so that we can delete the information from our servers. 
 
 ### 11\. Third Party Sites 
 
@@ -154,7 +154,7 @@ If there is any conflict between the terms in this Privacy Notice and the Privac
 
 ### 15\. Questions, Concerns or Complaints 
 
-Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information as a data Controller, please contact our Data Protection Officer (DPO) by email at [privacyofficer@marketo.com](mailto:privacyofficer@marketo.com), or by mail at: 601 Townsend St, San Francisco, CA 94103 ATTN: Privacy, Legal. Or, you may contact Marketo’s Representative to the European Union, Marketo EMEA Ltd, by email at [privacyofficer@marketo.com](mailto:privacyofficer@marketo.com) or by mail at: Level 2, Red Oak North, South County Business Park, Leopardstown, Dublin 18 Ireland.
+Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information as a data Controller, please contact our Data Protection Officer (DPO) by email at [[email protected]](https://documents.marketo.com/cdn-cgi/l/email-protection#1d6d6f746b7c7e64727b7b747e786f5d707c6f76786972337e7270), or by mail at: 601 Townsend St, San Francisco, CA 94103 ATTN: Privacy, Legal. Or, you may contact Marketo’s Representative to the European Union, Marketo EMEA Ltd, by email at [[email protected]](https://documents.marketo.com/cdn-cgi/l/email-protection#3e4e4c57485f5d47515858575d5b4c7e535f4c555b4a51105d5153) or by mail at: Level 2, Red Oak North, South County Business Park, Leopardstown, Dublin 18 Ireland.
 
 Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us. 
 
