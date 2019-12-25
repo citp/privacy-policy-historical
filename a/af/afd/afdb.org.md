@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the afdb.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331124937id_/https%3A//www.afdb.org/en/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afdb.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225021604id_/https%3A//www.afdb.org/en/cookies-privacy-policy) for the most accurate reproduction.*
 
-# Cookies & Privacy Policy - African Development Bank
+# Cookies & Privacy Policy | African Development Bank - Building today, a better Africa tomorrow
 
-We are the African Development Bank (“we”, “us” or “our”) and we are committed to keeping your personal information safe and secure. If you have any questions regarding our Cookies & Privacy Policy, please [email us](mailto:afdb@afdb.org) at: [afdb@afdb.org](mailto:afdb@afdb.org), or write to: 
+We are the African Development Bank (“we”, “us” or “our”) and we are committed to keeping your personal information safe and secure. If you have any questions regarding our Cookies & Privacy Policy, please [email us](mailto:afdb@afdb.org) at: [afdb@afdb.org](mailto:afdb@afdb.org), or write to: 
 
 External Relations and Communication Department (PCER)/Media Section)  
 01 BP 1387 Abidjan 01,  
@@ -17,7 +17,7 @@ Phone (Standard): +225 2026 3900
 
 This privacy policy relates to
 
-  * How we handle information received or collected about you as an individual through our Website, [www.afdb.org](https://www.afdb.org/en/) (the “Website”);
+  * How we handle information received or collected about you as an individual through our Website, [www.afdb.org](https://www.afdb.org/fr/) (the “Website”);
   * How we communicate with you as an individual; and
   * Your rights as an individual in respect to such information and communications.
 
@@ -25,15 +25,15 @@ This privacy policy relates to
 
 ## 2\. Collection and Use of Your Personal Information
 
-a. Any information about you as an individual which we collect from the Website will be used in accordance with applicable laws. **If you would like a copy of your personal information, please[email us](mailto:afdb@afdb.org). **
+a. Any information about you as an individual which we collect from the Website will be used in accordance with applicable laws. If you would like a copy of your personal information, please [email us](mailto:afdb@afdb.org). 
 
 b. We will only collect your information when we have your consent.
 
-c. Your personal information may be collected if you subscribe to our [newsletters](https://www.afdb.org/en/register/): we therefore collect your name, email address and profile information as necessary to add you to our newsletters mailing lists. We will use this information to send you email newsletters containing the latest news and African Development Bank related information. You will be able to request your information at any time by clicking on the link in the confirmation email sent and the option to unsubscribe will be included in every newsletter you receive from us.
+c. Your personal information may be collected if you subscribe to our [newsletters](https://www.afdb.org/en/user/register): we therefore collect your name, email address and profile information as necessary to add you to our newsletters mailing lists. We will use this information to send you email newsletters containing the latest news and African Development Bank related information. You will be able to request your information at any time by clicking on the link in the confirmation email sent and the option to unsubscribe will be included in every newsletter you receive from us.
 
-d. Your personal information will be collected if you enrol in the Young Professionals Programme (YPP) or Internship Programme, register as a consultant in the E-Consultant service or respond to an Expression of Interest for Consultants. We would collect your name, email address and profile information.  We will use this information strictly to assess your candidacy.  We may disclose or share personal data with third parties with your prior consent only for the purposes of assessing a candidacy, in which case we will take steps to ensure that your privacy rights continue to be protected. 
+d. Your personal information will be collected if you enroll in the Young Professionals Programme (YPP) or Internship Programme, register as a consultant in the E-Consultant service or respond to an Expression of Interest for Consultants. We would collect your name, email address and profile information.  We will use this information strictly to assess your candidacy.  We may disclose or share personal data with third parties with your prior consent only for the purposes of assessing a candidacy, in which case we will take steps to ensure that your privacy rights continue to be protected. 
 
-e. Your personal information will be collected if you participate in the Website’s Site contains bulletin boards, chat rooms, access to mailing lists or other message or communication facilities (collectively, "Forums"). We may collect your name, email address, telephone number, and company name, as well as any other personal data you may include in your messages. This information will be used to communicate with you and / or your company to discuss your query. Your data will be stored until such contact has been made and we may continue to store your data in accordance with the African Development Bank’s Disclosure and Access to Information Policy (https://www.afdb.org/en/disclosure-and-access-to-information/). 
+e. Your personal information will be collected if you participate in the Website’s Site contains bulletin boards, chat rooms, access to mailing lists or other message or communication facilities (collectively, "Forums"). We may collect your name, email address, telephone number, and company name, as well as any other personal data you may include in your messages. This information will be used to communicate with you and / or your company to discuss your query. Your data will be stored until such contact has been made and we may continue to store your data in accordance with the African Development Bank’s Disclosure and Access to Information Policy ([https://www.afdb.org/en/disclosure-and-access-to-information/](https://www.afdb.org/en/disclosure-and-access-to-information/)). 
 
 f. Your IP Address, a string of numbers unique to your computer, is recorded by our web server when you request any page or component of the Website. This information is used to monitor your usage of the Website.
 
@@ -55,7 +55,7 @@ b. You can share your personal data with us in a number of ways, for instance by
 
 
 
-c. Your **personal** data internally may be used by the HR department and hiring department.
+c. Your personal data internally may be used by the HR department and hiring department.
 
 d. We may also share your personal data with third party service providers or agents to perform certain processing activities on behalf of the African Development Bank. We will not sell, rent, lease, or provide your personal data to third parties. We require these service providers to protect your personal data diligently.
 
@@ -83,10 +83,22 @@ a. We will not use your IP address to identify you and your personal information
 
 b. Cookies are used by the Website to allow us to recognize your preferred settings e.g. to store your ID and password for future sessions. This saves you from re-entering information on return visits to the Website. 
 
-For further explanation of cookies, see the [All About Cookies](http://www.allaboutcookies.org/) website: <http://www.allaboutcookies.org/>.
+For further explanation of cookies, see the [All About Cookies](http://www.allaboutcookies.org/) website: [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/).
 
 You can set your browser not to accept cookies.
 
-If you have any questions regarding the use of cookies please [contact us](https://www.afdb.org/en/contact-us/).
+If you have any questions regarding the use of cookies please [contact us](https://www.afdb.org/en/contacts).
 
 c. Below is a table of all cookies on this website – their name, type and purpose:
+
+Cookie Type | Cookie Name | Cookie Purpose  
+---|---|---  
+Session & Drupal 7 Content Management Cookie | session cookie | We use session cookies to record an individual users preferences that the user has specified, so that each time the user returns their preferences remain. Commonly this would be language settings, anything where you have indicated a preference. Where forms are used on the site, we hold the information in a session cookie so that we can improve the user experience on the site. Should a user, for example, forget to fill in parts of a form when submitting a form, we can auto-fill the values for those fields that have been filled in, thereby reducing the amount of fields a user needs to amend. This information is stored only in your browser and is destroyed once your browser is closed.  
+Google Analytics | __utmz  
+__utmc  
+__utmb  
+__utma | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site for you. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+  
+## 6\. Other Websites
+
+This privacy policy only covers the Website. Any other websites which may be linked to by the Website may be subject to their own privacy policy, which may differ from ours and we are not responsible for the content provided on any third party web sites.
