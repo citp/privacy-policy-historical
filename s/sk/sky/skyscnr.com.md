@@ -1,77 +1,33 @@
-> *The following text is extracted and transformed from the skyscnr.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531015210id_/https%3A//www.skyscanner.net/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscnr.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225030510id_/https%3A//www.skyscanner.com/media/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Skyscanner
 
-Last updated 15 May 2018
+### Sharing personal data with third parties who process it only under our instruction
 
- **No surprises!**
+We share information relating to our users with selected third parties who provide us with a variety of different services that support the delivery of our services (let's call them "Third Party Processors"). These Third Party Processors range from providers of technical infrastructure to customer service and authentication tools. We require any Third Party Processor which handles information on our behalf to do so pursuant to contractual terms which require that the information is kept secure, is processed in accordance with applicable data protection laws, and used only as we have instructed and not for that Third Party Processor's own purposes (unless you have explicitly consented to them doing so).
 
-We’ll only ever collect, use and share your information in ways that are described in this policy.
+Third Party Processors may be located in, or process your information, outside of the country in which you are based. Where our use of a Third Party Processor involves the transfer of personal data from within Europe to a location outside of the European Economic Area, we will put in place appropriate measures to ensure that the personal data is adequately protected in that location, most often by applying European Commission-approved standard contractual clauses alongside robust security checks.
 
- **We'll keep your information safe**
+The types of Third Party Processors we may share elements of your personal data with include:
 
-We're committed to the confidentiality and security of the personal data you give us.
+### Sharing your information with third parties, or allowing them to collect it, for processing outside of our control
 
- **You're always in control**
+If you are purchasing travel with a Travel Supplier from within our services' booking platform, any personal data you submit as part of the booking process will be shared with the relevant Travel Supplier and/or a third party contracted to provide services on their behalf, in order to enable the booking to processed. When we share your personal data in this way, you'll get an opportunity to review the Travel Supplier's privacy policy and terms and conditions first. Before completing any purchase, we recommend that you carefully review these documents in order to understand how that Travel Supplier will use your information. We may also share personal data with the Travel Supplier for their, or our, standard verification and fraud-detection purposes.
 
-Update your profile and communication preferences at any time.
+In order to prevent and detect fraud, we may share information about you with the fraud prevention services providers we cooperate with ("Fraud Prevention Providers").
 
-## About this policy
+Travel Suppliers and Fraud Prevention Providers may be located in, or process your information, outside of the country in which you are based. For example, if you are booking a flight that operates within a particular country you should expect that your personal information will be transferred to, and be processed by Travel Suppliers that are located in that country. The regulations in these countries may not provide the same level of protection of personal data as the regulations in your own country of residence.
 
-> Along with our [Terms of Service](https://www.skyscanner.net/termsofservice.aspx) and [Cookie Policy](https://www.skyscanner.net/cookiepolicy.aspx), this policy explains how we collect and handle your information across all of our websites, mobile apps and other services. We’ll review this policy from time to time to make sure it’s up-to-date. If we make changes, we’ll post the latest version here. When we make significant changes, we’ll let you know when you next access our services, or by other communications.
-> 
-> Learn more about this policy
+We will share personal data with third parties where you expressly authorise us to, such as where we run a promotion in conjunction with a partner and you instruct us to share your email address with that third party for the purpose of receiving promotional emails.
 
-## Why and how do we use your personal data?
+Publicly accessible personal data included in User Content such as your name, likeness and the content of reviews and posts may be shared and/or made available to carefully selected third parties with whom we have a contractual relationship for the purpose of displaying this content for their similar travel-related services.
 
-> We only use your information where you've given us your consent, where its necessary to deliver the services you've requested, where it’s necessary to exercise or comply with legal rights or obligations, or for normal business purposes of the kind set out in this policy.
-> 
-> Learn more about why and how we use your personal data
+We may share and/or make available your publicly accessible personal data such as your name, profile picture, reviews, traveller photos and posts to carefully selected third parties with whom we have a contractual relationship. 
 
-## What personal data do we collect?
+Find out more about how you can manage your personal data when it is shared in this way in the What are your choices and rights? section of this policy.
 
-## How long do we store your personal data?
+Certain information may also be collected from you by third parties such as advertisers, marketing networks and affiliates (see the How do we advertise? section below) using cookies and similar technologies. For example your IP address and events relating to your activity like searches you have carried out or pages you have viewed on Skyscanner may be collected and transmitted to these third parties to allow them to serve relevant advertising to you across the web. The information that is collected in this way will never include your name, contact details or other information that would enable you to be identified in the offline world. You can find out more about advertising in Skyscanner, including how you can opt out of certain types of advertising in the How do we advertise? section of this policy and in our [Cookie Policy](https://www.skyscanner.com/media/cookie-policy).
 
-> We only keep your data for as long as we need it, or are required to for legal reasons. We’ll then either delete it or anonymise it so it doesn’t identify you. We treat data differently depending on what it’s used for, but you can ask us to delete your personal data at any time.
-> 
-> Learn more about how long we store your personal data 
+### Disclosing information for legal and other reasons
 
-## When is your information shared with or collected by third parties?
-
-> We share your information only where you ask us to, where it’s a necessary part of doing business with you and providing you with the services, or where we need to for legal reasons. Companies you book with via Skyscanner (like airlines or hotels) will collect your data in line with their own policies. Sometimes companies that advertise via our services may also collect your information (see Do we use cookies or other similar technologies?). Finally, companies that help us deliver our services will also collect and use your data on our behalf.
-> 
-> Learn more about how we share or allow others to collect your information
-
-## How do we keep your personal data secure?
-
-## Where do we store your information?
-
-> Your data is securely stored in data centres around the world - the exact location depends on where you are when you use Skyscanner. Your data will only be processed by suppliers who provide appropriate contractual safeguards for the information they process. Sometimes your data may be stored in countries with different levels of security to your own but we always make sure their standards meet ours.
-> 
-> Learn more about where we store your information 
-
-## How is your information used for advertising?
-
-> You’ll see various adverts when you use our services and might also see adverts about Skyscanner when you’re on other platforms. These adverts might come from us or from third parties and may be personalised to make them more relevant to you. The information used to personalise adverts you see may include your details of what you’ve searched for on Skyscanner or general location information at a city or airport level, but will never include your name, contact details or other information that would enable you to be identified in the offline world. If you want to manage how your information is used for advertising purposes, you can find out more below and in our [Cookie Policy](https://www.skyscanner.net/cookiepolicy.aspx).
-> 
-> Learn more about how your information is used for advertising
-
-##  Do we use cookies or similar technologies?
-
-## What are your choices and rights?
-
-> If you’ve got a Skyscanner account, you can access, edit, download or delete the key personal data associated with your profile at any time by going to your Profile. From here you can also manage your subscription and marketing preferences. 
-> 
-> You also have rights in relation to the personal data we have about you, which we explain in more detail below. You can exercise these rights by getting in touch with us via our [Help Centre](https://help.skyscanner.net/hc/requests/new).
-> 
-> Learn more about your choices and rights
-
-##  Who are we and how can you contact us? 
-
-> Skyscanner is provided by Skyscanner Limited, a company registered in the UK.
-> 
-> Skyscanner Limited is the Data Controller of any information collected from you by us. 
-> 
-> Our company number is: 04217916 
-> 
-> Our registered office address is: Floor 6, The Avenue, 1 Bedford Avenue, London, United Kingdom, WC1B 3AU.
+We may disclose your information where necessary to enforce our [Terms of Service](https://www.skyscanner.com/termsofservice.aspx) or other agreements, or to a prospective or ultimate buyer if Skyscanner itself (or part of our business) is sold. We may also disclose your information if necessary to prevent, detect or prosecute illegal or suspected illegal activities, including fraud, or to prevent other damage or where necessary in response to legally binding requests, legal action against us, or to enforce our rights and claims.
