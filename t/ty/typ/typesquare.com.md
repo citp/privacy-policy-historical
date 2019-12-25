@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the typesquare.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211125227id_/http%3A//typesquare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typesquare.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225043437id_/https%3A//typesquare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TypeSquare
 
-    * [TypeSquare](https://web.archive.org/en/)
+    * [TypeSquare](https://web.archive.org/)
     * Privacy Policy
 
 
