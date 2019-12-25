@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129045620id_/https%3A//www.taylorstitch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225035317id_/https%3A//www.taylorstitch.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Classic Men’s Clothing | Taylor Stitch
+
+Chat BubbleSpeech bubble launch icon for LiveChat customer service application.TAYLOR STITCHTrademarked word mark.
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from <https://www.taylorstitch.com/> (the “Site”).
 
