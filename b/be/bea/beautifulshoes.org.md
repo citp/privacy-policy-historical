@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautifulshoes.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221455id_/http%3A//beautifulshoes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulshoes.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225225819id_/http%3A//beautifulshoes.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BEAUTIFUL SHOES
 
