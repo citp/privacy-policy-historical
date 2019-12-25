@@ -1,105 +1,331 @@
-> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624060145id_/https%3A//www.advfn.com/common/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225114151id_/https%3A//www.advfn.com/common/legal/privacy) for the most accurate reproduction.*
 
 # Free share alerts by email - price, news and forum
 
-## ADVFN Cookie Policy
+This privacy policy covers ADVFN's use of personal information that ADVFN collects when you use ADVFN.com. The policy also gives you information about how we collect and process your personal data, your rights under General Data Protection Regulation (GDPR) and cookies, ADVFN and third parties' use of cookies, and how you may reject such cookies. 
 
-### What is a cookie?
+##  Who we are 
 
-A cookie is a small file used by your web browser. It is stored on your computer and allows a website to remember certain information about your activity on that website. For more information on cookies, please visit http://goo.gl/hOqNb or http://allaboutcookies.org. 
+"ADVFN" means ADVFN PLC, a company registered in England and Wales, company number 2374988 of Suite 27 Essex Technology Centre, The Gables, Fyfield Road, Ongar, Essex, CM5 0GA, trading from 26 Throgmorton Street, London EC2N 2AN, its subsidiary companies and associated companies and its agents and employees. 
 
-### What does ADVFN use cookies for?
+If you have any questions or queries you can contact our data protection officer by: 
 
-We use cookies to: 
-
-  1. Provide you with customised content, such as the live price data you are entitled to as part of your premium subscriptions and the stocks you have added to your Monitor. 
-  2. Make our website run more efficiently. 
-  3. Note when you visit the website and which pages you visit. This allows us to see how you and other people use the website, helping us to plan site improvements and additions. 
-  4. Provide and administer advertising. 
+  * Writing to: Data protection officer, Suite 27 Essex Technology Centre, The Gables, Fyfield Road, Ongar, Essex, CM5 0GA 
+  * Emailing: dpo@advfn.com 
 
 
 
-### How do I turn cookies off?
+##  Information we collect 
 
-Your browser should let you control whether websites you visit can use cookies or not. If you are unsure how to do this, please consult the help files available via the Help menu in your browser. 
+####  _Traffic Data_
+
+ADVFN collects a series of traffic data and information when you use the website. We collect the following types of traffic data: 
+
+  * Web browser type and version 
+  * Operating system 
+  * Specific web page on ADVFN 
+  * Referrer URL. (The URL from which you reach our website) 
+  * IP address 
+  * Date and time of access 
+  * Geo location based on IP address 
+
+
+
+Such data only enables ADVFN to: 
+
+  * Provide non-identifiably analytics data 
+  * Improve the content of our website 
+  * Monitor any gaps in service delivery 
+  * Monitor and prohibit malicious activity on our website 
+
+
+
+Such data is stored on secure servers in a web server file format. 
+
+  
+
+
+####  _Google Analytics_
+
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. 
+
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network. 
+
+Personal Data collected: Cookies and Usage Data. 
+
+To opt out of Google analytics [click here.](https://tools.google.com/dlpage/gaoptout)
+
+####  _ComScore_
+
+ComScore is media measurement and analytics company providing marketing data and analytics to advertisers. Advertiser's on ADVFN may use ComScore to target users based on their demographics. The data held by ComScore is governed by their [privacy policy](https://www.comscore.com/About-comScore/Privacy-Policy). You can opt-out of browser tracking [here](http://www.scorecardresearch.com/preferences.aspx). ADVFN does not share your personal data with ComScore and does not take responsibility of processing and storage of your personal information if any of our advertising partners obtain your data from ComScore. 
+
+####  _Facebook_
+
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc. 
+
+This type of service allows interaction with the Facebook platforms directly from ADVFN. 
+
+The interaction and information obtained through ADVFN are always subject to the User's privacy settings for Facebook. 
+
+Facebook might collect traffic data for the pages where the service is installed, even when Users do not use it. 
+
+####  _Twitter_
+
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc. 
+
+Twitter may collect cookie and usage data even when the service is not used. 
+
+  
+
+
+###  Personal Information 
+
+  
+
+
+####  _Data collected upon registration_
+
+When creating a user account on ADVFN, the following personal information is collected, including but not limited to: 
+
+  * First Name 
+  * Last Name 
+  * Username 
+  * Password 
+  * Email Address 
+  * Tracking Cookie (Optional if you registered via an ADVFN marketing campaign) 
+  * Date and Time 
+  * Your consent to process this information 
+  * Your consent to receive our email services 
+  * IP address 
+
+
+
+If you have consented for us to process your information, ADVFN will process, use and store this data for the following purposes: 
+
+  * Our authentication service to log you into the website; 
+  * Our marketing service to evaluate which campaigns work best; 
+  * To allow the use of all personalised functionality on the website; 
+  * For fraud protection and quality control; 
+  * Shared to relevant stock exchanges. 
+
+
+
+If we do not receive your consent to store and process the above information we will be unable to provide any of our personalised (i.e login required) services. 
+
+####  _Data collected upon activation_
+
+After registering with ADVFN, you will be sent an email with a links to activate your account. By clicking on service activation link, we will collect the following information: 
+
+  * Username 
+  * Email Address 
+  * Activation code within the email 
+  * Date and time 
+  * Your Country based on your IP Address 
+  * Reference to the email content we sent to you 
+  * (Optional) Your consent to receive our email service 
+
+
+
+The activation email verifies that you have access to the email address you supplied which will be used to communicate the purchase of our service subscription or major site affecting issues. 
+
+You may also give consent to receive our email services. 
+
+####  _Data collected when purchasing an ADVFN subscription:_
+
+  * First Name 
+  * Last Name 
+  * Residential Address 
+  * Payment card details 
+  * Date & Time 
+  * IP Address 
+
+
+
+JP Morgan Chase & Co and Mastercard are used by ADVFN to process your card payments. ADVFN may introduce other payment processors in the future. Your personal information collected for buying our service subscription is stored in a secure database for re-occurring billing. Your personal information is shared with with payment processors for billing purposes only. 
+
+We may also use information about your purchases for marketing our products or third-party products and services to you. 
+
+You can manage the types of communications you receive under the "Email Services" as provided in this policy. 
+
+####  _Data collected when signing an end-user contract for a data provider_
+
+When you purchase a subscription which includes an exchange license to gain stock market information, the following information is collected and shared with the relevant exchange, including but not limited to: 
+
+  * First Name 
+  * Last Name 
+  * Residential Address 
+  * Date & Time 
+  * IP Address 
+  * Confirmation that you are a private investor 
+  * Acceptance of our terms and conditions 
+
+
+
+Each exchange contract requires different set of information from you and varies from the other exchanges. These exchanges help us providing the service you subscribe for and process and store your data for such purposes. We will continue to store your data and periodically send your data to the relevant exchanges to verify your subscriptions for licensing purposes. ADVFN holds no responsibility on how these exchanges will process your data for the purposes other than provided in our service subscription contract. 
+
+The personal information we collect from you may be transferred, stored and processed by the exchanges based outside the EU. The laws of those jurisdictions may be differing from the laws applicable in the UK and the EU. For example, information collected in the European Economic Area (EEA) may be transferred to, stored and processed at a destination outside the EEA. Any processing of such information will be undertaken by our systems maintained to provide our services to you, or the systems of those third parties. By submitting your personal information at our website, you agree to the transfer, storing or processing of data outside the EEA. 
+
+  
+
+
+###  Email Services 
+
+If you give consent to receive our email services, ADVFN will distribute the following types of emails to you: 
+
+  * News and periodical reports - We send snapshots on the recent market activity. 
+  * Service Announcements - Updates for improvement to our website and special offer to our subscriptions. 
+  * Third party communications - Content provided by third parties. 
+  * Newswire - Press releases, investment opinion reports or marketing pieces provided by third parties. 
+
+
+
+You can manage the email services and the types of communications you receive by: 
+
+  * Clicking the unsubscribe link at the bottom of our email; 
+  * Visiting [ https://www.advfn.com/p.php?pid=unsubscribe ](https://www.advfn.com/p.php?pid=unsubscribe) and entering your email address in the space provided; 
+  * Contacting customer services at [help@advfn.com](mailto:help@advfn.com) or telephone 1-888-992-3836 
+
+
+
+###  Third party marketing webpages 
+
+With your explicit consent your personal information will be stored and shared with the respective third parties. They may use your personal information for further marketing of their products and services. ADVFN will store your personal information and your consent only for our records. ADVFN is not responsible to obtain consent for further marketing from the respective third party. 
+
+##  Advertising
+
+ADVFN may show you personalised adverts from one or more of our advertising partners. We do not share personal information like your name, address, email address or phone number with our advertising partners. 
+
+Our advertising partners will store information about your interactions with their adverts. They will use this information to show you more relevant adverts or limit the adverts you see. Generally, advertiser would track your interactions by using cookies. (To understand what cookies are and how ADVFN uses them please see "ADVFN cookies" in this policy.) Information processed and stored by our advertising partners will be held and governed in accordance with their privacy policy. 
+
+It may seem like ADVFN have passed or received information about you by the clever way adverts work. 
+
+For example, you may have browsed Amazon's website before checking ADVFN. Amazon will have access to your information and all the products you nearly purchased. Amazon will also have placed a cookie to identify you. When ADVFN shows to a generic Amazon advert, Amazon would be able to identify you by their cookie and be able to personalise the advert for you. At no point is the information in the advert passed to ADVFN or information from ADVFN passed to Amazon. 
+
+  
+
+
+### You can manage our advertiser's cookies by using our consent management tool. Click here to open the consent management tool.
+
+Here is a list of ADVFN's advertising partners who are not integrated with the consent management tool: 
+
+Advertiser | Privacy Policy | Opt Out  
+---|---|---  
+[Google](https://www.doubleclickbygoogle.com/solutions/revenue-management/ad-exchange/) | [Privacy policy](https://policies.google.com/?hl=en) | [Opt out](https://www.google.com/settings/ads/onweb/)  
+[Amazon](https://www.amazon.co.uk/) | [Privacy policy](https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010) | [Opt out](https://www.amazon.co.uk/adprefs)  
+  
+Additionally, you can find out more and opt out of third party advertisers here: 
+
+  * [youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices)
+  * [optout.networkadvertising.org/](http://optout.networkadvertising.org/)
+
+  
+
+
+##  How your data is stored 
+
+We will retain your personal information in accordance with our terms and conditions and this privacy policy for the duration of your business relationship with us and afterwards where it is required by any laws applicable to us. 
+
+The data is stored in databases with limited access to employees. The databases are located in secure networks which are monitored and maintained on a continuous basis. 
+
+##  Your right to access and update your personal information 
+
+You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to [help@advfn.com](mailto:help@advfn.com) or write to us at ADVFN Data Department, 26 Throgmorton Street, London, EC2N 2AN. 
+
+If there are any changes to your personal data or if you believe that the personal data we have about you is inaccurate, incomplete, misleading or not up-to-date, please contact [help@advfn.com](mailto:help@advfn.com) so that we may take steps to update your personal data. 
+
+You have a right to ask for your data to be ported to another data controller. Where we receive such a request from you we will transfer your personal information in a generic machine-readable format to the other data controller. ADVFN is not responsible for the other data controller's system's ability to store and process the ported data. 
+
+You have the right to withdraw your consent for us to process your data. Doing so would result in termination of our client agreement with you and limited access to our services. Please contact [help@advfn.com](mailto:help@advfn.com) if you would like to withdraw consent. 
+
+You have the right to request personal data erasure. Doing so will automatically withdraw your consent for us to process and store your personal identifiable data. 
+
+##  Disclosure of personal information 
+
+ADVFN does not sell or share your personal information. 
+
+Your personal information is only shared with third parties when you access their adverts through our website and give explicit consent to those third parties to process and hold your personal information for that specific advert. If you consent to receive future adverts from those third parties, they will process and store your personal information for future communications. Information processed and stored by those third parties will be held and governed in accordance with their privacy policy. 
+
+We may share your information with any group of companies of ours as defined under the companies act 2006 so that they can provide products and services to you where you consented. 
+
+As a part of providing you with our services, and for the management and operations of these services, and to comply with legal and regulatory requirements, we may be required or need to disclose your personal information to the following third parties: 
+
+  * Organisations that assist us in processing and providing our services to you (e.g. Stock exchanges) 
+  * Law enforcement, governmental or administrative agencies or directed to do so by court or tribunal. 
+
+
+
+##  Data breach reporting 
+
+If a data security breach occurs, we will notify this to the relevant regulatory body (ICO) promptly and in any event no later than 72 hours of discovery. Where we are unable to make such notification within 72 hours we will provide the reason for such delay. 
+
+Any individual impacted will be informed where there exists a high risk to the rights and freedom of the client. We will do so without undue delay. 
+
+##  Revision of privacy policy 
+
+ADVFN may revise this privacy policy from time to time on this page. Please check back regularly for updates. 
+
+  
+
+
+### What is a cookie
+
+A cookie is a small text file that is store on your computer/device. They can be read by the site that created the cookie and yourself. A Website will use the cookie to read and write information to make the website work, or work in a better more efficient way.
+
+Type of Cookie | Description & Example  
+---|---  
+Essential |  These are cookies are required for the operation of the website. 
+
+  * CookiePrompt - Used to check if you have seen the consent management tool
+  * ADVFNUID - A unique id used to validate your browsing session with the website
+  * SID - A secure unique id for logged in users
+  * AFNTZ - This stores which timezone you are accessing the site from
+  * __cfduid - The __cfduid cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. [More info](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-)
+  * username - This is used to store your username during and between visiting our site
+  * euconsent - used to store your cookie preferences
+  * responsive_mobile_view - Is used to show the website in a mobile friendly view
+  * dfid - Unique id used for security purposes
+
+  
+Personalised | These cookies are used to store choices you make on the website which enables us to personalise our content for you. 
+
+  * recent_stocks - Stores a list of your last viewed stocks
+  * broker_listing_advert - Stores which broker listing type was displayed to you
+  * BBTfilter - Used to store your forum filter settings
+  * BBPfilter - Used to store a bookmark on each post to help you find your place
+  * monitor_columns - Stores your monitor column preferences
+
+  
+Analytics & Performance |  They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily and speed up high volume pages. 
+
+  * Google Analytics is Google’s analytics tool that helps website and app owners to understand how their visitors engage with their properties. It may use a set of cookies to collect information and report website usage statistics without personally identifying individual visitors to Google. To view more infomation about the cookies used by Google Anayltics [click here](https://policies.google.com/technologies/types?hl=en-US)
+
+  
+Advertising |  These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. ADVFN operates an in-house advertising system which does not share any information with third parties. 
+
+  * OASISID, MKTA_THEOASIS, MKTA_GT - These cookies are used by ADVFN's legacy advertising system
+  * aas_vid, im - These cookies are used by ADVFN’s current advertising system
+
+
+
+**To manage or find out more about third party advertising cookies please see ouradvertising section in our privacy policy.**
+
+  
+  
+  
+##  How do you turn off cookies?
+
+Your browser should let you control whether websites you visit can use cookies or not. If you are unsure how to do this, please consult the help files available via the Help menu in your browser or go to [allaboutcookies.org/manage-cookies/index.html](http://www.allaboutcookies.org/manage-cookies/index.html) for online help. 
 
 Please note that turning cookies off will restrict your use of the website, stopping you from accessing many features that require you to be logged in. 
 
-### Third party cookies
+##  Third party cookies 
 
-A large proportion of the advertisements you see on the website are generated by third parties. These third parties will have their own privacy policies. 
+Third party partners of ADVFN use their own cookies and have their own privacy policies. 
 
-These third party cookies are used to gather statistics, but cannot be used to identify individuals. We allow our advertisers to serve these third party cookies, but we do not have other access to them. 
+Third party cookies are used to gather statistics but cannot be used to identify individuals. We allow our partners to serve these third-party cookies, but we do not have access to them. 
 
-Cookies are often used by these third party advertisers to allow them to track the number of people who have clicked on or seen a particular advert and how many people have seen the advert more than once. Parts of this statistical data may be shared with us by third parties, allowing us to improve the targeting and placement of adverts on the website. 
+A large proportion of the advertisements you see on the website are generated by third parties. 
 
-Your browser should let you disable third party cookies. If you are unsure how to do this, please consult the help files available via the Help menu in your browser. 
+Cookies are often used by these third-party partners to allow them to track the number of people who have clicked on or seen a particular advert or page and how many people have seen the advert or page more than once. Parts of this statistical data may be shared with us by third parties, allowing us to improve the targeting and placement of adverts on the website. 
 
-For more information, visit the IAB’s website http://youronlinechoices.com/uk. 
-
-### What kind of information do we hold about you?
-
-When registering, we ask for information to identify you by, including your name, email and postal address. If you take out a premium subscription we will ask you to confirm these details. The IP addresses you access the site from are also collected and stored, allowing us to serve content to you, monitor how the site is used and implement site improvements. These details are held securely and are associated with your username and account. 
-
-We also collect and store information that does not identify you; for instance, which pages you visit and how often. This data is collected to help us evaluate how the website is used and to ensure we are paid by our advertisers for showing their content. 
-
-### What do we use this information for?
-
-The information we hold could be used to: 
-
-  1. Note when you visit the website and which pages you view. See the section How do I turn cookies off? if you would like to stop this. 
-  2. Make sure you are receiving the services and products you are entitled to as part of your premium or free subscription. 
-  3. Keep you updated on premium services you have subscribed to. 
-  4. Present the website’s content in the most effective manner for your device (for instance, a PC or phone) and browser. 
-  5. Get in touch with you via email, phone or post to provide technical support. 
-  6. Get in touch with you via email, phone or mail to let you know about products or services provided by us or third parties. 
-  7. Monitor how the website is used. 
-  8. How can I change my details or email preferences? 
-
-
-
-You can subscribe or unsubscribe from our newsletter and marketing emails via the website, by clicking the Unsubscribe link at the bottom of any email we have sent you. You can also change your preferences by emailing support@advfn.com or by writing to us at ADVFN Data Department, 26 Throgmorton Street, London, EC2N 2AN. You can update your personal details by emailing support@advfn.com or by writing to us at ADVFN Data Department, 26 Throgmorton Street, London, EC2N 2AN. Please make sure to include your name, username and postcode in your initial correspondence; this helps us protect the details and preferences on your account from unauthorised access. 
-
-How can I access my personal information? You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to support@advfn.com or write to us at ADVFN Data Department, 26 Throgmorton Street, London, EC2N 2AN. There will be an administrative charge of £10 for providing a copy of this information. 
-
-Please make sure to include your name, username and postcode in your initial correspondence; this helps us protect the details and preferences on your account from unauthorised access. 
-
-How secure is my data? The password you provide when registering on the website is encrypted to ensure your account is protected against unauthorised access. Any subsequent password changes are also encrypted. We do not store previous passwords you might have used on ADVFN, we only store the last change. 
-
-We take data security very seriously and have invested much time and money in creating systems to protect your personal information, in accordance with the requirements of the Data Protection Act 1998. Neither ADVFN nor any of its group companies shall be liable for any unlawful attempt to gain access to any part of this website including any of your information. 
-
-If you think we have not adhered to this policy, please get in touch by email to support@advfn.com or write to us at ADVFN Data Department, 26 Throgmorton Street, London, EC2N 2AN expressing your concerns. We will endeavour to solve the problem for you promptly. 
-
-Disclosing your information ADVFN does not sell your personal information to third parties (unless you specifically opt in to an ADVFN partner offer such as a third party email subscription). When required by law, it may be necessary for us to disclose your personal information to third parties. Future policy changes Changes to the ADVFN Cookie and Privacy Policy will be posted on this page. Please check back regularly for updates. 
-
-## PRIVACY POLICY
-
-This policy covers ADVFN's use of personal information that ADVFN collects when you use ADVFN.com. The policy also gives you information about cookies; ADVFN and third parties' use of cookies; and how you may reject such cookies. 
-
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include newsletters, competitions, live chats, message boards and ADVFN.com membership. 
-
-By entering your details in the fields requested, you enable ADVFN and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information ADVFN will act in accordance with current legislation and aim to meet current Internet best practice. 
-
-Visitor Information During the course of any visit to ADVFN.com, the pages you see, along with a short text file called a 'cookie', are downloaded to your computer. Many websites do this, because cookies enable website publishers to do useful things like find out whether the computer (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit. 
-
-Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits. 
-
-What is a cookie? A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computer and stored on your computer's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
-
-Many sites do this whenever a user visits their website in order to track online traffic flows. 
-
-Cookies record information about your online preferences. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user user and accordingly you may not be able to take full advantage of all of ADVFN.com features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. 
-
-If you have set your computer to reject cookies you can still browse ADVFN.com anonymously until such time as you wish to register for ADVFN.com services. For further information on cookies please visit www.aboutcookies.org. 
-
-Use and storage of your personal information When you supply any personal information to ADVFN.com (e.g. for competitions, ADVFN.com Community services or ADVFN.com membership) we have legal obligations towards you in the way we use those data. We must collect the information fairly, that is, we must explain how we will use it (see the notices on particular webpages that let you know why we are requesting the information) and tell you if we want to pass the information on to anyone else. 
-
-In general, any information you provide to ADVFN will only be used within the ADVFN and by its agents and service providers. Your information will be disclosed where we are obliged or permitted by law. Also, if you post or send offensive, inappropriate or objectionable content anywhere on or to ADVFN.com or otherwise engage in any disruptive behaviour on ADVFN.com, ADVFN can use whatever information that is available to it about you to stop such behaviour. This may involve informing relevant third parties such as your employer, school e- mail/Internet provider and law enforcement agencies about the content and your behaviour. 
-
-We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of ADVFN.com membership you no longer wish to continue your registration as a ADVFN.com member. For safety reasons, however, ADVFN may store messaging transcript data (including message content, member names, times and dates) arising from the use of ADVFN.com Community services such as Connector for a period of six months. Where personal information is held for people who are not yet registered but have taken part in other ADVFN.com services (e.g. competitions), that information will be held as long as is necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998. 
-
-If you are notified on a ADVFN.com site that your information may be used to allow ADVFN to contact you for "service administration purposes", this means that ADVFN may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that the particular service has been suspended for maintenance. We will contact you for promotional purposes, such as notifying you of improvements to the service or new services on ADVFN.com. You can alter your email settings by going to https://www.advfn.com/p.php?pid=subscriptions 
-
-Access to your personal information You have the right to request a copy of the personal information ADVFN holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) Please address requests to the Data Protection Officer, ADVFN.com, 26 Throgmorton Street, London, EC2N 2AN. 
-
-Users 16 and under If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to ADVFN's website. Users without this consent are not allowed to provide us with personal information. 
+Your browser should let you disable third party cookies. If you are unsure how to do this, please see the advertising section in our privacy policy or How do you turn off cookies above. 
