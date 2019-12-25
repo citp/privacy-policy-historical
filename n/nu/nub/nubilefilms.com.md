@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nubilefilms.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603191659id_/https%3A//nubilefilms.com/page/privacy_policy%3Fcoupon%3D58729%26c%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubilefilms.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225111230id_/https%3A//nubilefilms.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Nubile Films - Privacy Policy
 
@@ -7,7 +7,7 @@ I. General
 A. The operative parties referred to in this policy are COMPANY and you, the user of these sites.  
 1\. NF Media Inc., is the publisher and operator of the following websites:
 
-• Nubilefilms.com 
+• NubileFilms.com 
 
 Hereinafter NF Media Inc., shall be referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to NF Media Inc., d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy. 
 
