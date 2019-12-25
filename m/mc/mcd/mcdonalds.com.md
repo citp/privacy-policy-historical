@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624021923id_/https%3A//www.mcdonalds.com/us/en-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226001223id_/https%3A//www.mcdonalds.com/us/en-us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | McDonald's
 
