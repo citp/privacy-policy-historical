@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629115258id_/https%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225193210id_/https%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
 
-# ScreenRant
+# Privacy Policy | ScreenRant
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
