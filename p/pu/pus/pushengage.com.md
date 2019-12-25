@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushengage.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120080340id_/https%3A//www.pushengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushengage.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225014947id_/https%3A//www.pushengage.com/privacy) for the most accurate reproduction.*
 
 # PushEngage Privacy and Copyright
 
