@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managewp.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626020524id_/https%3A//managewp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managewp.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225204433id_/https%3A//managewp.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ManageWP
 
@@ -167,10 +167,25 @@ You may update at any time the information about you and your personal preferenc
 
 #### WHO CAN YOU CONTACT FOR MORE INFORMATION?
 
-Should you feel that your privacy or security is being compromised, or have any other questions regarding our privacy practices or this Privacy Policy, please notify us using the following email:
+**Data Protection Authority**  
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to your local supervisory authority or our lead supervisory authority, the UK’s Information Commissioner’s Office, as noted below:  
+[www.ico.org.uk](http://www.ico.org.uk/)  
+Information Commissioner’s Office  
+Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom  
+Phone: 0303 123 1113
 
-[helpdesk@managewp.com](mailto:helpdesk@managewp.com)
+**Contact us**  
+If you have any privacy-related questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at [privacy@godaddy.com](mailto:privacy@godaddy.com).
+
+In the alternative, you may contact us by either of the following means:  
+• By Mail:  
+Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA,  
+or for customers established in the EEA,  
+Attn: Legal, Office of the DPO, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA, UK.
+
+• By Phone:  
+US DPO office: (480) 505-8877.
 
 **YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND CONSENT TO THE PRIVACY PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND AGREE TO BE BOUND BY THE TERMS OF USE REFERENCED HEREIN**.
 
-_Last revised: May 3, 2018_
+_Last revised: Aug 27, 2019_
