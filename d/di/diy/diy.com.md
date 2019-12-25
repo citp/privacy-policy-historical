@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diy.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224153id_/https%3A//www.diy.com/customer-support/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diy.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225203322id_/https%3A//www.diy.com/customer-support/policies/privacy) for the most accurate reproduction.*
 
 # Customer support | Privacy | DIY at B&Q
 
@@ -6,7 +6,7 @@
 
 In this Privacy Policy, references to **we** , **us** or **our** mean the B&Q company that processes your personal information and interacts with you. The relevant B&Q entities are:
 
-  * B&Q plc, a limited company registered in England (company number: 00973387), whose registered office is B&Q House, Chestnut Avenue, Chandler's Ford, Eastleigh, Hampshire SO53 3LE, United Kingdom;
+  * B&Q Limited, a limited company registered in England (company number: 00973387), whose registered office is B&Q House, Chestnut Avenue, Chandler's Ford, Eastleigh, Hampshire SO53 3LE, United Kingdom;
   * B&Q Ireland Limited, a limited company registered in the Republic of Ireland (company number: 156844), whose registered office is 6th Floor, 2 Grand Canal Square, Dublin 2, Republic of Ireland;
   * B&Q (Retail) Jersey Limited, a limited company registered in Jersey (company number: 9769), whose registered office is Gaspé House, 66-72 Esplanade, St Helier JE2 3QT, Jersey; and
   * B&Q (Retail) Guernsey Limited, a limited company registered in Guernsey (company number: 2572), whose registered office is Canada Court, Upland Road, St Peter Port GY1 3BQ, Guernsey.
@@ -78,13 +78,14 @@ When you shop with us instore, online, browse our Websites or other organisation
 
 
 
-Please note that if you register an account online with us, we will be able to link the information collected from you before registration (such as your online browsing behaviour) to your account and future information that we collect after registration.
+Please note that if you register an account and/or shop online with us, we will be able to link the information collected from you before registration and/or your online purchase (such as your online browsing behaviour) to your account and future information that we collect after registration and/or your online purchase.
 
 If you provide us with personal information about another person, you must ensure that before you provide us with their personal information, you have their agreement to do so and that they are aware of the ways in which we use personal information as set out in this Privacy Policy.
 
 * ## Why do we ask for this information?
 
   * When you place an order we need your contact and payment information to enable us to take payment and fulfil your order. You can browse our website without providing us with any of this information. When you want to place an order via the website, we ask you to login or register so you can open a customer profile and upload and save images, save your browsing information and your preferences and retrieve them from any of your devices.
+  * When you book an appointment via our website, we will ask for your name and contact details to manage your booking.
   * We ask for information (for example your tastes in colour and style, the size of your house) to better guide you in the viewing of our offering and use of our services.
   * You may also provide us with personal information via our forums, product questions and reviews, customer support video chat, survey responses or competition entries.
   * We will ask for or collect your personal information when you use our customer support services, including telephone support, instant messaging and video chats.
@@ -118,9 +119,13 @@ We have set out below the purposes for which we use your personal information.We
 
 | Legitimate interests – we use your personal information in order to remind you of your partial registration or order and so that you can (if you wish) complete the registration or order.  
   
-  * communicate with you about your order for a product or service
+  * communicate with you about your order for a product or service;
 
 | Contractual necessity – we use your personal information in order to meet our obligations under our contract with you (for example, to deliver a product you have ordered). We use feedback from customers as part of improving our products and services.  
+  
+  * contact you about an appointment you have booked on diy.com;
+
+| Legitimate interests – we use your personal information to contact you with details of the appointment.  
   
   * contact you about leaving a review on a product or service or providing feedback once your order has been completed or the service has been provided;
 
@@ -188,9 +193,9 @@ We may share your personal information with other members of the Kingfisher Grou
 
 We may disclose your personal information to third parties, including in the following circumstances:
 
-  * We use third parties to carry out certain activities on our behalf that involve the processing of personal information. For example, we may engage third party service providers to fulfil orders, deliver packages, send postal mail, SMS text messages and email, maintain and update our databases of customer details (including the removal of repetitive or incorrect information), analyse data to help us develop, provide and improve our products and services, provide marketing assistance, process card payments, process payments online, carry out surveys and installations, provide customer service and handle claims. These third parties have access to personal information needed to perform their functions, but may not use it for other purposes. We may use the information we receive from third parties to supplement, improve and add to our databases of customer details, for purposes such as credit checking and fraud prevention.
+  * We use third parties to carry out certain activities on our behalf that involve the processing of personal information. For example, we may engage third party service providers to fulfil orders, deliver packages, send postal mail, SMS text messages and email, maintain and update our databases of customer details (including the removal of repetitive or incorrect information), analyse data to help us develop, provide and improve our products and services, provide marketing assistance, process card payments, process payments online, carry out surveys and installations, provide customer service, process the booking of appointments and handle claims. These third parties have access to personal information needed to perform their functions, but may not use it for other purposes. We may use the information we receive from third parties to supplement, improve and add to our databases of customer details, for purposes such as credit checking and fraud prevention.
   * Where we allow customers to pay for products and services via our Digital Services using online payment methods and digital wallets, customer personal information may be shared with providers of those services for payment purposes in order to process the transaction.
-  * We may share information that we hold about you (for example, your email address and information about your purchases) with third parties that also hold your information or have an existing online relationship with you in order to identify you and to enable us (or Kingfisher Group companies or other third parties on our behalf) to provide you with relevant marketing online. For instance, we may share your information with social networking sites such as Facebook so that they can identify you as a customer of ours and can tailor the marketing we send you via their sites and products.
+  * We may share information that we hold about you (for example, your email address and information about your purchases) with third parties that also hold your information or have an existing online relationship with you in order to identify you and to enable us (or Kingfisher Group companies or other third parties on our behalf) to provide you with relevant marketing online. For instance, we may share your information with social networking sites such as Facebook and Google so that they can identify you as a customer of ours and can tailor the marketing we send you via their sites and products.
   * We may pass personal information to external agencies and organisations (including the police and other law enforcement agencies) for the purpose of preventing and detecting fraud (including fraudulent transactions) and criminal activity. These external agencies may check the information we give them against public and private databases and may keep a record of such checks to use in future security checks. We may also disclose personal information to the police and other law enforcement authorities in connection with the prevention and detection of crime.
   * We may pass personal information to our insurers in the event that a claim is made or could be made against us. For example, we may send CCTV footage and information contained in our accident logs to our insurers.
   * In the event that we sell or buy any business or assets, we may disclose personal information held by us to the prospective seller or buyer of such business or assets. If we or substantially all of our assets are acquired by a third party (or subject to a reorganisation within our corporate group), personal information held by us will be one of the transferred assets.
@@ -244,10 +249,10 @@ You also have the right to make a complaint to the supervisory authority if you�
 
 B&Q Entity | Supervisory authority | Supervisory authority contact information  
 ---|---|---  
-B&Q plc | The Information Commissioner's Office | https://ico.org.uk/  
-B&Q Ireland Limited | The Data Protection Commissioner | https://www.dataprotection.ie  
-B&Q (Retail) Jersey Limited | The Office of the Information Commissioner | https://oicjersey.org/  
-B&Q (Retail) Guernsey Limited | The Office of the Data Protection Commissioner | https://dataci.gg/  
+B&Q Limited | The Information Commissioner's Office | https://ico.org.uk/  
+B&Q Ireland Limited | The Data Protection Commission | https://www.dataprotection.ie  
+B&Q (Retail) Jersey Limited | The Office of the Information Commissioner | https://jerseyoic.org/  
+B&Q (Retail) Guernsey Limited | The Office of the Data Protection Authority | https://odpa.gg/  
 * ## How to contact us?
 
 To update your details or ask for a copy of your personal information:
@@ -256,7 +261,7 @@ To update your details or ask for a copy of your personal information:
   * where you are a registered user of our Website, by using the My Account section on our Website and logging in using your username and password;
   * You can write to us at: B&Q Customer Services, B&Q House, Chestnut Avenue, Chandler's Ford, Eastleigh, Hampshire SO53 3LE, United Kingdom or by using the Contact Us enquiry form on our Website;
   * You can email us at [dataprotection@b-and-q.co.uk](mailto:dataprotection@b-and-q.co.uk)
-  * If you would like to contact our Data Protection Officer please email: [dataprotection@b-and-q.co.uk](mailto:dataprotection@b-and-q.co.uk) or write to Data Protection Officer, B&Q plc, B&Q House, Chestnut Avenue, Chandlers Ford, Eastleigh, Hampshire SO53 3LE.
+  * If you would like to contact our Data Protection Officer please email: [dataprotection@b-and-q.co.uk](mailto:dataprotection@b-and-q.co.uk) or write to Data Protection Officer, B&Q Limited, B&Q House, Chestnut Avenue, Chandlers Ford, Eastleigh, Hampshire SO53 3LE.
 
 
 * ## Protecting your personal information
