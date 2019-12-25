@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025174458id_/https%3A//www.commerce.gov/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225234212id_/https%3A//www.commerce.gov/about/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Department of Commerce
+# Privacy policy | U.S. Department of Commerce
 
 _Visit[www.commerce.gov/privacy](http://www.osec.doc.gov/opog/privacy/default.html) for more information on the Department of Commerce's Privacy Office and its policies, resources and reports._
 
