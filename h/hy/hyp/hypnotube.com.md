@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypnotube.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502162749id_/https%3A//hypnotube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypnotube.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225214219id_/https%3A//hypnotube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hypnotube
 
