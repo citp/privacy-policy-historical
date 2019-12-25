@@ -1,67 +1,126 @@
-> *The following text is extracted and transformed from the prismic.io privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523160800id_/https%3A//prismic.io/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prismic.io privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225014318id_/https%3A//prismic.io/legal/privacy) for the most accurate reproduction.*
 
-# prismic.io
+# Prismic
 
-This Privacy Policy applies to information collected by our website, [www.prismic.io](https://www.prismic.io/) (the “Site”) or through our other commercial solution offerings (collectively, our “Service”). Zengularity has created this Privacy Policy to explain what information we gather from you when you use our Service, how we may use this information, and the security approaches we use to protect your information. 
+_**Revision: 20190931 - Effective Date: Sep 17th, 2019**_
 
-By using the Service, you consent to the collection and use of your information by Zengularity in accordance with this Privacy Policy. If we decide to change our privacy policy, we will post those changes on the Site. Policy changes will apply only to information collected after the date of the change.
+Prismic.io Inc. (“Prismic”) knows that you care about how your Personal Data is used and shared and we take your privacy seriously. We've put together the following information so that you can learn about our Privacy Policy. By using or accessing Prismic’s Website or by using any of Prismic’s materials or services (the “Prismic Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and consent to the fact that we may collect, use, and share your information in any ways outlined in this Policy.
 
-## 1\. What information do we collect?
+## What does this Privacy Policy cover?
 
-We collect information from you when you register for a Service, place an order, respond to communication such as e-mail, or participate in another site feature.   
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Data”) that we may gather when you are accessing or using our Website or the Prismic Services, but not the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Data from our users and we use this Personal Data internally as explained in more detail below. In certain cases, we may also share some Personal Data with third parties, but only as described below.
+
+We do not knowingly collect or solicit Personal Data from anyone under the age of thirteen (13) years old. If you are under thirteen, please do not attempt to send any Personal Data to us. If we learn that we have collected Personal Data from a child under the age of thirteen we will delete that information as quickly as possible. If you believe that a child under thirteen may have provided us with Personal Data please contact us at [dataprivacy@prismic.io](mailto:dataprivacy@prismic.io).
+
+### EU-U.S. Privacy Shield
+
+Prismic Io Inc complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. Under certain conditions described on the [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction) website, you may invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other dispute resolution procedures. Prismic's compliance with the Privacy Shield Principles is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+### California Online Privacy Protection Act Compliance
+
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Data which we share with our affiliates and/or third parties for marketing purposes and for us to provide contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [dataprivacy@prismic.io](mailto:dataprivacy@prismic.io).
+
+## What information do we collect?
+
+If you are a registered Prismic user, we collect the following Personal Data from you: your name, email address, and the IP address used when accessing the Prismic Services.
+
+If you visit our Website or a website powered by the Prismic Services, we collect and store your IP address in accordance with applicable legal regulations.
+
+### Information that You provide to us
+
+We may receive and store any information you knowingly provide to us, including information you post on our website and information in correspondence with us. Certain information may be required to take advantage of some of our features.
+
+### Information received from third parties
+
+We may receive information about you from third parties who have represented to us that they have the authority and the legal right to collect and provide us with that information.  Those third parties may include customers of Prismic with whom you have a relationship, and providers of information who may have collected your information through a separate relationship with you, or from public records.
+
+### Information collected automatically
+
+Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser or device. This may include your IP address, device identification, “cookie” information, the type of browser and/or device you’re using to access our Website, and the page or feature that you have requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Website are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. If you click on a link to a third-party website or service, such third party may also transmit cookies to you. Again, this Privacy Policy does not cover the use of cookies by any third parties and we aren’t responsible for their privacy policies and practices.
+
+In addition, if you use any Prismic Services, we may collect information regarding your login, your account, and data you may process using the Prismic Services.  When we collect the usage information described above, other than to provide support related to your use of the Prismic Services, we only use this data in anonymized, aggregate form, and not in a manner that would identify you personally. For example, this aggregate data can tell us how often users use a particular feature of the Website and we can use that knowledge to adapt the Website to user needs and interests.
+
+If Prismic has your Personal Data as a result of your relationship with one of Prismic’s customers, you should first contact that customer before contacting Prismic.
+
+## What do we use your information for?
+
+We use the data we collect to operate our business and to provide the Prismic Services to you. This includes using the data to improve our services and to personalize your experiences. We may also use the data to communicate with you about your account, to provide security updates, or, among other things, to give you information about Services. We may also use the data to manage your email subscriptions, improve the relevance and security of our website, respond to user enquiries, send you periodic marketing communications about our Services, and improve the relevance of our advertising.
+
+## Will Prismic share any of your Personal Data?
+
+We neither rent nor sell your Personal Data in personally identifiable form to anyone. However, we may share your Personal Data with third parties as described in this section.
+
+**Aggregated Anonymized Personal Data.** We may anonymize your Personal Data so that you are not individually identifiable and provide that information to our partners to understand how often and in what ways people use our Website and the Prismic Services. However, we never disclose aggregate information to a partner in a manner that would allow an individual to be identified.
+
+**Agents:** We may employ other companies and people to perform tasks on our behalf and may need to share your information with them in order to provide products or services to you; for example, we may use Google Analytics to track your usage of our Website. Unless we tell you otherwise, our agents do not have any right to use the Personal Data we share with them beyond what is necessary to assist us, unless otherwise described in this Privacy Policy.
+
+**Business Transfers:** We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Data could be one of the assets transferred to or acquired by a third party.
+
+**Prismic Customers:**  If you are using the Prismic Services in connection with your work or relationship with one of Prismic’s customers, Prismic may disclose your Personal Data or any information related to your use of the Prismic Services to that company or organization.
+
+**Protection of Prismic and Others:** We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply other agreements; or protect the rights, property, or safety of Prismic, our employees, our users, or others.
+
+**Promotional Activities:**  We may use your Personal Data to contact you regarding Prismic products and services which we believe may be of interest to you or your organization.  You have the right to opt-out of receiving these messages as noted below.
+
+Under the Privacy Shield Framework and in the context of an onward transfer, Prismic has responsibility for the processing of Personal Data it receives and subsequently transfers to a third party acting as an agent on its behalf. We shall remain liable under the Privacy Shield Principles if an agent processes such Personal Data in a manner inconsistent with the said principles unless we prove that we are not responsible for the event giving rise to the damage.
+
+## Is my Personal Data secure?
+
+We endeavor to protect the privacy of your account and other Personal Data we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. In particular, you acknowledge that Prismic is not responsible for any loss of any passwords or login information which you receive for access to Prismic Services which results from your failure to keep that information secure.
+
+Prismic uses the methods specified [here](https://prismic.io/legal/prismic-data-security-agreement) to ensure and maintain the security of our Services.  Although we believe these methods are adequate, you acknowledge that no security measures are perfect or impenetrable and that any transfer of information is at your own risk.
+
+## What choices do I have?
+
+You can always opt not to disclose information to us, but keep in mind some information may be needed to take advantage of some of our special features or may be required by your relationship with one of Prismic’s customers.
+
+You have the right to request access or change to any Personal Data which Prismic may have by contacting us at dataprivacy@prismic.io. The information will be provided in a machine-readable format. You may also ask that we transfer the Personal Data to a third party, which we will do if technically feasible.
+
+You also have the right to review, add, and update your Personal Data.  You may also request the deletion of your Personal Data where :
+
+  * the Personal Data is no longer necessary in relation to the purposes for which it was collected or otherwise processed,
+  * you withdraw consent for Prismic’s possession of the information on which the processing is based and where there is no other legal ground for Prismic’s retention of the information,
+  * you object to Prismic’s possession of the information and there is no overriding legitimate basis for the retention,
+  * the Personal Data has been unlawfully obtained or processed, or
+  * the Personal Data has to be erased for compliance with a legal obligation in the European Union or other law to which Prismic is subject.
 
 
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site without providing such information.
-  * We use IP addresses and session identifiers to analyze trends, to administer the site, to track user activities, to infer user interests, and to otherwise induce, deduce, and gather information about individual users and market segments.
-  * Like many websites, our Site uses "cookies" to enhance your experience and gather information about visitors and visits. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+
+However, keep in mind that when you update information we may maintain a copy of the unrevised information in our records. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Data after you update or delete it, but not in a manner that would identify you personally.
+
+If Prismic has your Personal Data as a result of your relationship with one of Prismic’s customers, you should first contact that customer before contacting Prismic.
+
+In compliance with the Privacy Shield Principles, Prismic commits to resolve complaints about our collection or use of your Personal Data.  European Union and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Prismic : 
+
+  * by email at : [dataprivacy@prismic.io](mailto:dataprivacy@prismic.io)
+  * by mail at:  
+Data Privacy Office  
+New Prismic   
+9 rue de la Pierre Levée   
+75011 PARIS France
 
 
 
-## 2\. How do we use your information?
+Prismic has further committed to cooperate with the panel established by the European Union data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning data transferred from the EU and Switzerland.
 
-We may use the information we collect from you when you register, purchase products, respond to a survey or marketing communication, surf the Site, or use certain other Service features in the following ways: 
+## Marketing communications
 
-  * To personalize the Service and to allow us to deliver the type of content and product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests. 
-  * To quickly process your transactions.
-  * To administer a promotion, survey or other Service feature. 
+If you provide us with an email address, you expressly consent to receive marketing communications from Prismic about your use of the Website, the Prismic Services, and our Products.  You can always choose whether or not you want to receive marketing communications from Prismic. You can also opt-out from marketing communications by using the opt-out link featured at the bottom of all of our communications.
 
+## Rights to Object or Restrict Processing of Personal Data.
 
+If Prismic has your Personal Data as a result of your relationship with one of Prismic’s customers, you should first contact that customer before contacting Prismic. You may, however, at any time revoke your consent to the collection, processing, and use of your Personal Data by emailing dataprivacy@prismic.io.  Upon receipt of your request, Prismic will delete your personal data provided Prismic may retain any data which is required for billing and accounting purposes or which is subject to legal retention requirements. In addition, if you discover any errors in our data, you may contact us by emailing dataprivacy@prismic.io and we will correct it.
 
-## 3\. Do we disclose the information we collect to outside parties?
+## Right to be informed of the appropriate safeguards where Personal Data is transferred to a third country or to an international organization
 
-We may sell, trade, or otherwise transfer to outside parties your personally identifiable information to outside parties for marketing, advertising, or other uses, so long as those parties agree to keep this information confidential for their own purposes. In the event that we sell our company, or otherwise transfer any assets of our company, we may provide your information to the purchaser so that you may continue the relationship or business with us and our products. We may also release your information when we believe release is appropriate to comply with the law, enforce our policies, or protect ours or others' rights, property, or safety.
+If Prismic has your Personal Data as a result of your relationship with one of Prismic’s customers, you should first contact that customer before contacting Prismic.
 
-## 4\. Correction/Updating Personal Information
+Prismic enters into agreements with its customers regarding the safeguards that have been put in place to protect your Personal Data for transfer outside of the European Economic Area. For transfers to countries without an adequacy decision by the European Commission, Prismic puts appropriate safeguards through contractual obligations.
 
-You can correct or update your personally identifiable information by re-registering or by contacting us by electronic-mail **contact@prismic.io**.
+## What if I have questions about this policy or if I want to report an abuse of this policy?
 
-## 5\. Do we use "cookies" on the Site?
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to dataprivacy@prismic.io and we will try to address your concerns.
 
-Yes. We use Cookies on the Site. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. Cookies are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+## Will Prismic ever change this Privacy Policy?
 
-We may contract with third-party service providers to assist us in better understanding our Site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Google Chrome, Mozilla Firefox or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Site experience more efficient and some of our services will not function properly.
-
-## 6\. Safeguarding Your Personal Information
-
-Zengularity follows generally accepted industry security standards to safeguard and help prevent unauthorized access, maintain data security and correctly use such Personal Information. However, no commercial method of information transfer over the Internet or electronic data storage is known to be 100% secure. As a result, we cannot guarantee the absolute security of that information during its transmission or its storage in our systems.
-
-## 7\. Third Party Links
-
-In an attempt to provide you with increased value, we may include third party links on our Site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these linked sites (including if a specific link does not work).
-
-## 8\. Questions and feedback
-
-We welcome your questions, comments, and concerns about our privacy practices. Please send us any and all feedback or questions pertaining to the Site to prismic.io with "PRIVACY POLICY" in the subject line. 
-
-## 9\. Important Notices to Non-United States Residents
-
-It is important to note that our Services are operated in the United States. If you are located outside of the United States, please be aware that any Visitor Information you provide to us will be transferred to the United States. By using our Services and/or providing us with any information, you consent to this transfer.
-
-## 10\. Your California Privacy Rights
-
-Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2013 will receive information regarding 2012 sharing activities).
-
-To obtain this information from Zengularity please send an email message to **contact@prismic.io** with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+We’re constantly trying to improve our Website and the Prismic Services, so we may need to change this Privacy Policy from time to time.  We will provide notice of any changes on the Website by sending you an email and/or by some other means. Please note that those legal notices will still govern your use of the Website, and you are still responsible for reading and understanding them even if you haven’t provided us with your email, or if you have told us you do not want to receive emails from us. If you use the Website or the Prismic Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.
