@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uncrate.com privacy policy that was archived on 2019-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624004955id_/https%3A//uncrate.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uncrate.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225225820id_/https%3A//uncrate.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -14,7 +14,7 @@
 
 
   <link rel="stylesheet" type="text/css" href="//cloud.typography.com/81102/691166/css/fonts.css">
-<link rel="stylesheet" type="text/css" href="/css/min.css?v=180">
+<link rel="stylesheet" type="text/css" href="/css/min.css?v=222">
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="https://feeds.feedburner.com/uncrate">
 
@@ -49,6 +49,7 @@ function getParameterByName(name) {
   }
   var bb_one;
   var bb_two;
+  var bb_three;
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
   var adBasenames = [];
@@ -72,8 +73,9 @@ function getParameterByName(name) {
             if ( showRect ) {
               googletag.defineSlot('/1014223/Uncrate-300x250', [300, 250], 'lead-story-rectangle').addService(googletag.pubads());
             }
-            bb_two = googletag.defineSlot('/1014223/Uncrate-970x250_row2', [[970, 90], [970, 250]], 'leaderboard').defineSizeMapping(mapping).addService(googletag.pubads());
-            bb_one = googletag.defineSlot('/1014223/Uncrate-970x250', [970, 250], 'billboard').defineSizeMapping(mapping).addService(googletag.pubads());
+            bb_three = googletag.defineSlot('/1014223/Uncrate-970x250_row3', [[970, 250], [320, 150]], 'sss').defineSizeMapping(mapping).addService(googletag.pubads());
+            bb_two = googletag.defineSlot('/1014223/Uncrate-970x250_row2', [[970, 250], [320, 150]], 'leaderboard').defineSizeMapping(mapping).addService(googletag.pubads());
+            bb_one = googletag.defineSlot('/1014223/Uncrate-970x250', [[970, 250], [320, 150]], 'billboard').defineSizeMapping(mapping).addService(googletag.pubads());
             googletag.defineSlot('/1014223/Uncrate-728x90-roadblock', [728, 90], 'leaderboard-roadblock').addService(googletag.pubads());
             googletag.defineSlot('/1014223/Uncrate-300x250-roadblock', [300, 250], 'lead-story-rectangle-roadblock').addService(googletag.pubads());
             googletag.pubads().enableSingleRequest(); 
@@ -151,7 +153,8 @@ function getParameterByName(name) {
                       <li><a href="http://www.youtube.com/uncrate">Youtube</a></li>
                       <li><a href="http://www.facebook.com/uncrate">Facebook</a></li>
                       <li><a href="http://uncrate.tumblr.com">Tumblr</a></li>
-                    </ul>   
+                    </ul>  
+                   
                 </li>
               
               <li class="pull-right">
@@ -193,13 +196,13 @@ function getParameterByName(name) {
                 
               </li>
               <li class="pull-right dropdown">
-                <a href="/" class="dropdown-toggle"><span>Language:</span> English
-                </a><ul class="dropdown-menu"><a href="/" class="dropdown-toggle">
-                  </a><li><a href="/" class="dropdown-toggle"></a><a href="/es/">Español</a></li>
-                  <li><a href="/fr/">Français</a></li>
-                  <li><a href="/de/">Deutsche</a></li>
-                  <li><a href="/jp/">日本語</a></li>
-                  <li><a href="/cn/">中文</a></li>
+                <a href="/" class="dropdown-toggle lang-toggle en"><span>Language:</span> English
+                </a><ul class="dropdown-menu lang-dropdown"><a href="/" class="dropdown-toggle lang-toggle en">
+                  </a><li><a href="/" class="dropdown-toggle lang-toggle en"></a><a href="/es/" class="es">Español</a></li>
+                  <li><a href="/fr/" class="fr">Français</a></li>
+                  <li><a href="/de/" class="de">Deutsche</a></li>
+                  <li><a href="/jp/" class="ja">日本語</a></li>
+                  <li><a href="/cn/" class="zh">中文</a></li>
                 </ul>
 
 
@@ -216,7 +219,9 @@ function getParameterByName(name) {
 
 
 
-<img src="//uncrate.com/img/uncrate-logo-r.png" alt="Uncrate">
+
+  <img src="//uncrate.com/img/uncrate-logo-r.png" alt="Uncrate">
+
 
 
 
@@ -313,7 +318,7 @@ function getParameterByName(name) {
 
 
 
-<div class="main-footer-wrapper">
+<div class="main-footer-wrapper lazy">
   <footer class="main-footer">
     <!-- Upper footer modules. -->
     <div class="footer-modules upper-footer">
@@ -360,11 +365,11 @@ function getParameterByName(name) {
           </div>
 -->
           <div class="footer-app-devices">
-            <img src="//uncrate.com/img/app-devices.png">
+            <img src="//uncrate.com/img/app-devices.png" class="footer-lazy">
           </div>
           <div class="footer-app-buttons">
-            <a href="http://un.cr/appleapp" target="_blank" class="footer-app-button"><img src="/img/app-store.jpg"></a>
-            <a href="http://un.cr/androidapp" target="_blank" class="footer-app-button"><img src="/img/google-play.jpg"></a>
+            <a href="http://un.cr/appleapp" target="_blank" class="footer-app-button"><img src="/img/app-store.jpg" class="footer-lazy"></a>
+            <a href="http://un.cr/androidapp" target="_blank" class="footer-app-button"><img src="/img/google-play.jpg" class="footer-lazy"></a>
           </div>
         </div>
       </div>
@@ -478,9 +483,15 @@ function getParameterByName(name) {
 
 
     <div class="copyright">
-      <div class="footer-logo"><img src="//uncrate.com/img/footer-uncrate-logo.png"></div>
+      <div class="footer-logo"><img src="//uncrate.com/img/footer-uncrate-logo.png" class="footer-lazy"></div>
       <p role="contentinfo">© 2019 
-        Uncrate LLC. All rights reserved. <br>Independently published since 2005.</p>
+        Uncrate LLC. All rights reserved. <br>Independently published since 2005.
+      </p>
+      <p role="contentinfo">
+        <!-- All items on Uncrate are hand-chosen by editors for quality and relevance to our readers. Some articles may be sponsored by brands, while others may have an affiliate link that allows us to receive a commission. Both help support Uncrate and keep it free to read.
+        -->
+        All items on Uncrate are hand-chosen by editors for quality and relevance to our readers. Supply items are stocked and shipped by Uncrate. Some editorial may be sponsored or allow us to receive a commission.
+      </p>
     </div>
 
   </footer>
@@ -492,7 +503,8 @@ function getParameterByName(name) {
 
 
 
-  <div id="mobile-nav-wrapper" class="animated">
+  
+    <div id="mobile-nav-wrapper" class="animated">
 <ul id="mobile-nav" class="family-mobile-nav">
   <li class="block"><a href="https://uncrate.com/">uncrate.com&nbsp;<sup class="uncrate-badge-count badge" data-count="0">0</sup></a></li>
   <li><a href="https://uncrate.com/">Latest</a></li>
@@ -578,8 +590,45 @@ function getParameterByName(name) {
   padding: 0;
 }
  
-</style>
+</style>  
 
+
+
+ <!-- Begin Newsletter Optin -->
+      <div id="newsletter-optin" class="newsletter-optin">
+        <div class="newsletter-optin__inner">
+          <div class="newsletter-optin__text">
+            <h4 class="newsletter-optin__headline">Get Uncrate Delivered To Your Inbox &amp; Receive 15% Off Your Next Uncrate Supply Order. Some exclusions apply.</h4>
+          </div>
+
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup" class="newsletter-optin__form">
+            <form action="https://uncrate.us1.list-manage.com/subscribe/post?u=125c5c5823653b64c4aee90cc&amp;id=e896b3ec40" method="post" id="mc-embedded-subscribe-form-optin" name="mc-embedded-subscribe-form-optin" novalidate="">
+              <div id="mc_embed_signup_scroll" class="newsletter-optin__fields">
+                <div class="newsletter-optin__field">
+                  <div class="mc-field-group">
+                    <label for="mce-EMAIL" class="visuallyhidden">Email Address </label>
+                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="YOUR EMAIL" onfocus="this.placeholder = ''">
+                  </div>
+                  <div id="mce-responses" class="clear">
+                    <div class="response mce-error-response" id="mce-error-response-optin" style="display:none"></div>
+                    <div class="response mce-existing-response" id="mce-error-response-optin" style="display:none">YOU'RE ALREADY ON THE LIST. Use code <span class="gold">DOSSIER</span> to receive 15% off almost anything.</div>
+                    <div class="response mce-success-response" id="mce-success-response" style="display:none">YOU’RE NOW ON THE LIST. Use code <span class="gold">BLACKLISTED</span> to receive 15% off almost anything.</div>
+                  </div>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_125c5c5823653b64c4aee90cc_e896b3ec40" tabindex="-1" value=""></div>
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button newsletter-optin__button">
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
+                    
+       </div>
+
+    		<button id="newsletter-optin-dismiss" class="newsletter-optin__dismiss close">&nbsp;</button>
+      </div>
+      <!-- End Newsletter Optin -->
 
  </div><!-- .site-wrapper -->
 
@@ -612,9 +661,10 @@ function getParameterByName(name) {
   				<div class="cart-actions-container cart-section type--center">
   						<input type="submit" class="btn btn--cart-checkout" id="checkout" name="checkout" value="Checkout">
   				</div>
-  				<p class="cart-fine-print">
+  				<p class="cart-fine-print" style="padding: 0 20px;" data-promo-style="color: #e74e3c; padding: 0 20px;">
   						Free shipping over $25 in the U.S.
   						<br> International rates at checkout.
+              <!-- Take 20% off most items. Discount automatically applied at checkout. -->
   				</p>
   		</div>
   		<!-- .cart-bottom end -->
@@ -622,11 +672,6 @@ function getParameterByName(name) {
   <!-- .cart-form end -->
 </div>
 <!-- .cart end -->
-  
-<a class="btn--cart-tab js-prevent-cart-listener">
-  <span class="btn__counter"></span>
-  <img src="/img/bag.svg" alt="Crate">
-</a>
 
 <script id="CartItemTemplate" type="text/template">
   <div class="cart-item">
@@ -666,8 +711,8 @@ function getParameterByName(name) {
 <script src="//sdks.shopifycdn.com/js-buy-sdk/latest/shopify-buy.polyfilled.globals.min.js"></script>
 <script type="text/javascript">var blogURL = 'https://uncrate.com/';</script>
 <script type="text/javascript">
-  var badges = {"now":1561337395,"uncrate":[1561327200,1561240800,1561219253,1561154416,1561150843,1561147200,1561143600,1561140001,1561136472,1561132800,1561129201,1561125600,1561068000,1561064456,1561060802,1561057200,1561053600,1561050045,1561046401,1561043412],"tv":[1561146695,1561139873,1561134758,1561125114,1561122237,1561060208,1561055476,1561048161,1561039948,1561036645,1560977174,1560969019,1560965957,1560952862,1560885434,1560876518,1560873119,1560868008,1560799215,1560796463],"supply":[1561219253,1561140001,1561129201,1561060802,1561046401,1560978011,1560956401,1560888039,1560883467,1560798027,1560456006,1560372982,1560274213,1560117649,1559930454,1559925012,1559916044,1559862008,1559844001,1559658057]}</script>
-<script type="text/javascript" src="/js/min.js?v=76"></script>
+  var badges = {"now":1577314701,"uncrate":[1577145600,1577145467,1577142040,1577138409,1577134841,1577131501,1577131200,1577127620,1577124032,1577120448,1577116800,1577115547,1577055605,1577044804,1577034022,1577016600,1576969254,1576958415,1576947601,1576886400],"tv":[1577129793,1577121434,1576855717,1576790128,1576782383,1576772138,1576692611,1576685219,1576684037,1576618679,1576610655,1576602267,1576529691,1576524064,1576508938,1576506157,1576506049,1576272963,1576263845,1576249195],"supply":[1577145467,1577142040,1577131501,1577128919,1577120448,1576969254,1576958415,1576882852,1576872001,1576857625,1576792804,1576782001,1576771201,1576720801,1576713601,1576688455,1576681251,1576681201,1576630801,1576623600]}</script>
+<script type="text/javascript" src="/js/min.js?v=99"></script>
 
 
 
@@ -691,7 +736,7 @@ function getParameterByName(name) {
 <script type="text/javascript">
   var sssServed = false;
   googletag.cmd.push(function() {
-    console.log('ad_basenames', adBasenames);
+    //console.log('ad_basenames', adBasenames);
     googletag.pubads().setTargeting('ad_basenames', adBasenames);
     googletag.pubads().setTargeting('lead_basename', leadBasename);
     googletag.pubads().addEventListener('slotRenderEnded', function(event) {
@@ -704,6 +749,10 @@ function getParameterByName(name) {
         if (event.slot === bb_two) {
           $("#supply-slider-two").show();
           activateSlider('supply-slider-two');
+          sssServed = true;
+        }
+        if (event.slot === bb_three) {
+          activateSlider('supply-slider-middle');
           sssServed = true;
         }
       }
@@ -720,11 +769,8 @@ function getParameterByName(name) {
 
 
 
-  <script async="" type="text/javascript" src="//s.skimresources.com/js/54000X1299460.skimlinks.js"></script>
+  <script defer="" type="text/javascript" src="//s.skimresources.com/js/54000X1299460.skimlinks.js"></script>
 
-
-
-  <script type="text/javascript" src="//code.kutoku.com/385af37706.js"></script>
 
 
 <!-- Quantcast Tag -->
