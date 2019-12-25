@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimenow.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624233913id_/http%3A//www.thetimenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimenow.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225201640id_/http%3A//www.thetimenow.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy | The Time Now
 
