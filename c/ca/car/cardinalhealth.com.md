@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardinalhealth.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301052124id_/https%3A//www.cardinalhealth.com/en/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardinalhealth.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225070803id_/https%3A//www.cardinalhealth.com/en/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -104,7 +104,7 @@ Cardinal Health also has legal grounds to use your Personal Data:
 
 We also may use information collected as described in this Privacy Policy with your “opt-in” consent where required by law, in order to provide you with information about goods or services we think might interest you.  If you do not want us to use your Personal Data, for example, to send you newsletters or directly market our products of services, you can opt out at any time by contacting us at the details in Section 16 below.  
 
-**Resume Submission** : Cardinal Health posts available jobs on the Site and allows you to submit your resume to us.  Cardinal Health will ask for your name, street address, phone number, e-mail address, position applied for, education, work experience, and skills.  The information and the resume you submit will be used by Cardinal Health only to determine whether you would be a good candidate for the requested job.  The information may be saved in our files in case you would be a good candidate for a future job.  The information will be shared internally on a need-to-know basis, and will not be given to any third parties other than our service providers who process information on our behalf.  You can obtain more information about Personal Data collected for job applicants by visiting our Applicant Privacy Policy, available at [ **INSERT** ].
+**Resume Submission** : Cardinal Health posts available jobs on the Site and allows you to submit your resume to us.  Cardinal Health will ask for your name, street address, phone number, e-mail address, position applied for, education, work experience, and skills.  The information and the resume you submit will be used by Cardinal Health only to determine whether you would be a good candidate for the requested job.  The information may be saved in our files in case you would be a good candidate for a future job.  The information will be shared internally on a need-to-know basis, and will not be given to any third parties other than our service providers who process information on our behalf.  You can obtain more information about Personal Data collected for job applicants by visiting our Applicant Privacy Policy.
 
 ### 5\. What about sensitive personal data?
 
@@ -147,13 +147,13 @@ The information we collect automatically is statistical data that helps us impro
 
 **Cookies**.  We use cookies, web beacons/pixel tags, and other technology (collectively “cookies”) to recognize you when you visit our Site or interact with our e-mails.  “Cookies” are small bits of data cached or stored on your computer based on Internet activity.  These cookies may be delivered in a first party or third party context.  For example, we may collect information about your browser type and version, operating system, user language, ISP, viewed web pages, links that are clicked, IP address, the presence or absence of “flash” plugs-ins, screen resolution, connection type, sites visited before and after visiting our Site, details about items purchased, and e-mails we send that you open, forward, or click through to our Site.
 
-By collecting this information, we can better understand how you interact with our Site; give you a more personal and optimized online experience by tracking your preferences; improve our Site; fulfill contracts with our business partners; help confirm receipt of and response to our e-mails; and provide more effective customer service.  For more information on the cookies we collect and how to disable them, please visit our [Cookie Policy](https://www.cardinalhealth.co.uk/en_uk/cookie-policy.html) and Section 9 below.
+By collecting this information, we can better understand how you interact with our Site; give you a more personal and optimized online experience by tracking your preferences; improve our Site; fulfill contracts with our business partners; help confirm receipt of and response to our e-mails; and provide more effective customer service.  For more information on the cookies we collect and how to disable them, please visit our [Cookie Policy](https://web.archive.org/en/support/cookie-policy.html) and Section 9 below.
 
 **Social Media Plug-In.** Our Site uses what are called social plugins (“plugins”) from social networks Facebook, Twitter and LinkedIn.  These plugins are indicated by the social networks’ respective logos.  When you access the Site, your browser establishes a direct connection with the servers of these social networks.  The plugin content is transferred by the social network directly to your browser, which then integrates it into the Site.
 
 Integration of the plugin allows the social media networks to receive the information that you have loaded onto the corresponding page of Site.  If you are logged in with Facebook, for example, it will be able to assign your visit to your account.  An exchange of this information already takes place when you visit our Site, regardless of whether you interact with the plugin or not.  If you interact with the plugins, the corresponding information is sent directly to Facebook by your browser and saved there.  You can find information how the data is used by the social networks, together with your rights and optional settings to protect your privacy on the social networks websites.
 
-If you do not want social networks to gather data about you via our Site, you must log out on the social network domain before visiting Site.  To prevent information being exchanged with the social networks during your visit to our Site, you can opt out of cookies through your browser settings and other tools.  For more information, please visit our [cookie policy](https://www.cardinalhealth.co.uk/en_uk/cookie-policy.html).
+If you do not want social networks to gather data about you via our Site, you must log out on the social network domain before visiting Site.  To prevent information being exchanged with the social networks during your visit to our Site, you can opt out of cookies through your browser settings and other tools.  For more information, please visit our [cookie policy](https://web.archive.org/en/support/cookie-policy.html).
 
 ### 8\. How do we share information?
 
@@ -165,7 +165,7 @@ We may share your Personal Data as required or permitted by law as follows:
   * With our contractors, suppliers and vendors who provide services for us on our behalf, such as processing and fulfilling orders; data analytics and storage; assistance with direct marketing and distribution of e-mails and other communications; fraud prevention services; delivery and logistics; and to accomplish the other purposes for collection described above;
   * In the event we or any of our affiliates file for bankruptcy, or where there is a transfer of ownership (or assets) in connection with proposed or consummated corporate reorganizations of Cardinal Health or any of our affiliates, such as actual or potential mergers, acquisitions, or sales of business units;
   * To comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions;
-  * To combat fraud or criminal activity, and to protect our rights or those of our affiliates, users, and business partners, or as part of legal proceedings affecting Cardinal Health, include to enforce our [Terms and Conditions](https://web.archive.org/en/support/terms-and-conditions-english.html); 
+  * To combat fraud or criminal activity, and to protect our rights or those of our affiliates, users, and business partners, or as part of legal proceedings affecting Cardinal Health, include to enforce our [Terms and Conditions](https://web.archive.org/en/support/terms-and-conditions-english.html);
   * In response to a subpoena, court order, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate;
   * With your consent.
 
@@ -181,7 +181,7 @@ We also may disclose information we collect automatically:
 
 Access to your Personal Data is limited by need.  Only a restricted number of Cardinal Health employees, and individuals and entities with whom Cardinal Health contracts to carry out business will have access to your Personal Data for the purposes described above.
 
-We do not provide your Personal Data to any third party for their own direct marketing purposes. Our third-party advertising partners may, however, may use cookies to collect information about your visit to our Site and other sites.  You can learn more about, and opt out of being targeted by certain third-party advertising cookies on Cardinal Health’s Site in by visiting and our [Cookie Policy.](https://www.cardinalhealth.co.uk/en_uk/cookie-policy.html)
+We do not provide your Personal Data to any third party for their own direct marketing purposes. Our third-party advertising partners may, however, may use cookies to collect information about your visit to our Site and other sites.  You can learn more about, and opt out of being targeted by certain third-party advertising cookies on Cardinal Health’s Site in by visiting and our [Cookie Policy.](https://web.archive.org/en/support/cookie-policy.html)
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
@@ -195,7 +195,7 @@ If you wish to opt out of receiving offers directly from our third-party busines
 
 **Cookies and Tracking** :  You can disable cookies at any time by adjusting your browser settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available.
 
-Please be aware, however, that if you turn off cookies, you will not be able to take full advantage of all of our Site features.  For example, we will not be able to recognize you as a registered user to allow you access to your account information.  For more information on how to control and disable cookies, please visit our [Cookie Policy](https://www.cardinalhealth.co.uk/en_uk/cookie-policy.html).
+Please be aware, however, that if you turn off cookies, you will not be able to take full advantage of all of our Site features.  For example, we will not be able to recognize you as a registered user to allow you access to your account information.  For more information on how to control and disable cookies, please visit our [Cookie Policy](https://web.archive.org/en/support/cookie-policy.html).
 
 **Do Not Track** : ****  Currently, we do not alter our data collection and use practices in response to DO NOT TRACK signals.
 
