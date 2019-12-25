@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509091023id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225131455id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BookBub
 
