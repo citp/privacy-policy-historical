@@ -1,19 +1,29 @@
-> *The following text is extracted and transformed from the atariage.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205414id_/http%3A//www.atariage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atariage.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225012229id_/https%3A//www.atariage.com/privacy.php) for the most accurate reproduction.*
 
 # AtariAge - Privacy Policy
 
-|  | 
+The privacy of visitors to AtariAge.com is important to us.
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+At AtariAge.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit AtariAge.com, and how we safeguard your information. We never sell your personal information to third parties. 
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+**Log Files**
 
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Google Chrome or Firefox), the time you visited our site and which pages you visited throughout our site.
 
+**Cookies and Web Beacons**
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+We use third party advertisements on AtariAge.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in your browser. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+**Advertising Privacy Statement**
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies. 
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. 
+
+_For European Economic Area Residents_
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#31545558455e437150455043585056541f525e5c) and contact AdThrive at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97fef9f1f8d7f6f3e3ffe5fee1f2b9f4f8fa). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
