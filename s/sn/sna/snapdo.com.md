@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapdo.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626224245id_/http%3A//www.snapdo.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapdo.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225031753id_/http%3A//snapdo.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
 # Resoft Privacy
 
