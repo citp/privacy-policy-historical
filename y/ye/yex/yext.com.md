@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330191600id_/https%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225053753id_/https%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - yext.com
 
 ### **Yext Privacy and Cookies Policy  
 **
 
-**(Effective Date: May 17, 2018)**
+**(Effective Date: May 17, 2019)**
 
 This Yext Privacy & Cookies Policy (this “ **Privacy Policy** ”) explains how your personal information is collected, used and disclosed by Yext, Inc. and the Yext affiliates listed in the “Data Controllers and Contacting Us” section below (“ **Yext** ”, “ **us** ”, or “ **we** ”) and how we collect information through the use of cookies and related technologies. It also tells you how you can access and update your personal information and describes the data protection rights that may be available under your country’s laws, including a right to object to some processing that we carry out or, where we rely on consent, how to withdraw that consent.
 
@@ -93,66 +93,29 @@ The table below sets out the cookies we use on the Sites, their purpose, and how
 **Managing Settings**  
   
 ---|---|---  
-  
-Required/Technical cookies
-
-| 
-
-Required cookies enable you to navigate the Sites and use its features, such as accessing secure areas of the Sites and using the Yext products and services.
+Required/Technical cookies | Required cookies enable you to navigate the Sites and use its features, such as accessing secure areas of the Sites and using the Yext products and services. 
 
 If you have chosen to identify yourself to us, we use cookies containing encrypted information to allow us to uniquely identify you. Each time you log into the Sites, a cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These cookies allow us to uniquely identify you when you are logged into the Sites and to process your online transactions and requests.
 
 Technical cookies can be grouped into session cookies, which allow you to navigate and use the Sites, and functionality cookies, as described below.
 
-| 
-
-Because required cookies are essential to operate the Sites and the Yext products, there is no option to opt out of these cookies.  
-  
-Functionality cookies
-
-| 
-
-Functionality cookies allow the Sites to remember information you have entered or choices you make (such as your username, language, or your region) and provide you with more personal features.  These cookies also enable you to optimize your use of the Yext products after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
-
-| 
-
-To learn how to opt out of functionality cookies using your browser settings click [here](http://www.aboutcookies.org/). Note that opting out may impact the functionality you receive when using the Sites.  
+| Because required cookies are essential to operate the Sites and the Yext products, there is no option to opt out of these cookies.  
+Functionality cookies | Functionality cookies allow the Sites to remember information you have entered or choices you make (such as your username, language, or your region) and provide you with more personal features.  These cookies also enable you to optimize your use of the Yext products after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. | To learn how to opt out of functionality cookies using your browser settings click [here](http://www.aboutcookies.org/). Note that opting out may impact the functionality you receive when using the Sites.  
   
 Targeting/Advertising cookies
 
-| 
-
-From time-to-time we engage third-parties to track and analyse usage and volume statistical information from individuals who visit the Sites.  We sometimes use cookies delivered by third-parties to track the performance of our advertisements.  For example, these cookies remember which browsers have visited the Sites.
+| From time-to-time we engage third-parties to track and analyse usage and volume statistical information from individuals who visit the Sites.  We sometimes use cookies delivered by third-parties to track the performance of our advertisements.  For example, these cookies remember which browsers have visited the Sites. 
 
 We also contract with third-party advertising networks that collect IP addresses and other information from Web beacons (see above) on the Sites and from emails. Ad networks follow your online activities over time and across different sites or other online services by collecting website navigation information through automated means, including through the use of cookies. These technologies may recognize you across the different devices you use, such as a desktop or laptop computer, smartphone or tablet. We may use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other websites or mobile applications on any of your devices. This process also helps us manage and track the effectiveness of our marketing efforts. Third-parties, with whom we partner to provide certain features on the Sites or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information.  Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.
 
-| 
-
-If you wish to not have this information collected and used for targeted advertising, you may opt-out by clicking [here](http://preferences-mgr.truste.com/?pid=truste01&aid=preference_manager01&type=public) for partners that participate in the TRUSTe opt-out tool (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). If you wish to opt out from this type of advertising for companies that participate in the Digital Advertising Alliance (DAA), you can do so by clicking [here](http://www.aboutads.info/choices).
+| If you wish to not have this information collected and used for targeted advertising, you may opt-out by clicking [here](http://preferences-mgr.truste.com/?pid=truste01&aid=preference_manager01&type=public) for partners that participate in the TRUSTe opt-out tool (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). If you wish to opt out from this type of advertising for companies that participate in the Digital Advertising Alliance (DAA), you can do so by clicking [here](http://www.aboutads.info/choices). 
 
 Please note that this does not opt you out of being served ads. You will continue to receive generic ads.  Yext adheres to the DAA’s Self-Regulatory Principles when we allow third parties to collect data on the Sites for such advertising.
 
 To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).  
   
-Analytics cookies
-
-| 
-
-Analytics cookies collect aggregate information on the number of visitors and the pattern of visits to the Sites and other sites over time for non-advertising purposes.
-
-| 
-
-To manage and opt-out of analytics cookies based on Google Analytics solution click [here](https://tools.google.com/dlpage/gaoptout/?hl=en).  
-  
-Social Media Cookies
-
-| 
-
-In order to enhance your Internet experience and to make the sharing of content easier, some of the pages on our website may contain tools or applications that are linked to third-party social media service providers such as Facebook or Twitter (see the ‘Social Media Widgets’ section, below). Through these tools or applications, the social media service provider may set its own cookies on your device.
-
-| 
-
-We do not control these cookies and you should check the social media service provider’s website for further details about how they use cookies and how to manage these cookies.  
+Analytics cookies | Analytics cookies collect aggregate information on the number of visitors and the pattern of visits to the Sites and other sites over time for non-advertising purposes. | To manage and opt-out of analytics cookies based on Google Analytics solution click [here](https://tools.google.com/dlpage/gaoptout/?hl=en).  
+Social Media Cookies | In order to enhance your Internet experience and to make the sharing of content easier, some of the pages on our website may contain tools or applications that are linked to third-party social media service providers such as Facebook or Twitter (see the ‘Social Media Widgets’ section, below). Through these tools or applications, the social media service provider may set its own cookies on your device. | We do not control these cookies and you should check the social media service provider’s website for further details about how they use cookies and how to manage these cookies.  
   
 You can also change your cookie settings via your browser. For further information, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -218,7 +181,7 @@ We will share your personal information with the third-parties listed below for 
 
 **Publishers.** If you have requested us to do so, we may provide personal information to third-party publishers that we work with. For example, if you have provided your name or a biography to be published on a third-party publisher’s website.
 
-**Third-Party Partners.   **We may share your personal information with selected third-party partners, including for their direct marketing purposes. We will obtain your prior consent for such a transfer where required by applicable law. 
+**Third-Party Partners.   **We may share your personal information with selected third-party partners, including for their direct marketing purposes. We will obtain your prior consent for such a transfer where required by applicable law.
 
 **International Transfers of** **Personal Information.** Your personal information is stored on servers in the US and is supported from the US. We may also transfer your personal information to our affiliates and other service providers who perform functions on our behalf which are based around the world, including in countries outside of the European Economic Area (EEA) and Switzerland which may have different data protection standards to those which apply to your country of residence. You can click [here](https://www.yext.com/terms/subprocessors/) to see a list of countries where we may access or transfer your personal information. Where your personal information is transferred from Japan (and subject to Japanese privacy laws), you hereby agree to the transfer of your personal information to Yext, Inc., Yext affiliates and service providers located in the countries listed in Section 7.
 
@@ -275,7 +238,6 @@ When you use the Facebook, Twitter or LinkedIn share buttons, your device will a
 **Responsible for:**  
   
 ---|---  
-  
 **Yext, Inc.**
 
 1 Madison Ave.
@@ -290,9 +252,7 @@ Yext, Inc.’s European representative:
 
 Yext SAS (see address below)
 
-| 
-
-Yext.com
+| Yext.com 
 
 All other activities (both online and offline)  
   
@@ -306,10 +266,7 @@ Ottawa, ON K1P 1C3
 
 Canada
 
-| 
-
-Yext.ca  
-  
+| Yext.ca  
 **Yext Limited**
 
 12 Golden Square
@@ -318,10 +275,7 @@ London W1F 9JE
 
 United Kingdom
 
-| 
-
-Yext.co.uk  
-  
+| Yext.co.uk  
 **Yext GmbH**
 
 Kantstraße 164, 30. Stock
@@ -330,20 +284,19 @@ Kantstraße 164, 30. Stock
 
 Germany
 
-cc: **Yext GmbH Data Protection Officer**
+cc: **Yext GmbH External Data Protection Officer**
 
-Kinast & Partner Rechtsanwälte
+Attorney at Law Dr. Karsten Kinast, LL.M
 
-Venloer Str. 24
+KINAST Rechtsanwaltsgesellschaft mbH
 
-50672 Köln
+Hohenzollernring 54
+
+50672 Cologne
 
 Germany
 
-| 
-
-Yext.de  
-  
+| Yext.de  
 **Yext Sàrl**
 
 c/o Genint SA
@@ -354,10 +307,7 @@ rue Jean-Calvin 12
 
 Switzerland
 
-| 
-
-Responsible for processing orders and invoicing and (with your consent, where required) providing information about other Yext products and services that may be of interest.  
-  
+| Responsible for processing orders and invoicing and (with your consent, where required) providing information about other Yext products and services that may be of interest.  
 **Yext SAS**
 
 33 Rue la Fayette
@@ -366,10 +316,7 @@ Responsible for processing orders and invoicing and (with your consent, where re
 
 France
 
-| 
-
-Yext.fr  
-  
+| Yext.fr  
 **Yext KK**
 
 Ginsen Shimbashi Bldg. II, 8F
@@ -378,8 +325,6 @@ Ginsen Shimbashi Bldg. II, 8F
 
 Japan
 
-| 
-
-Yext.co.jp
+| Yext.co.jp 
 
 Under the Act on the Protection of Personal Information in Japan, Yext KK is a business operator handling personal information obtained through Yext.co.jp or all other activities (both online and offline) in Japan and is primarily responsible for management of such personal information.
