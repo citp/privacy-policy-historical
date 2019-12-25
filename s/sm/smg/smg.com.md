@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smg.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609033805id_/https%3A//www.smg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smg.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225031206id_/https%3A//www.smg.com/privacy-policy) for the most accurate reproduction.*
 
 # SMG | Privacy Policy
 
 ## SMG Website and App Privacy Policy
 
-##### Effective Date: May, 2018
+##### Effective Date: July, 2019
 
 Your privacy is important to us, and we want to make sure you understand exactly how we use your data when you entrust your information with us.
 
@@ -171,7 +171,7 @@ Cookies are small computer files sent or accessed from your web browser on your 
   *  **Other Service Providers:** We may share your information, including your Personal Data, with other service providers we use to perform the functions for which we engage them, such as hosting, data storage, and security. We may also share your Personal Data as needed to operate other related SMG Sites and Apps, such as ratings and reviews websites that we operate.
 
 
-  *  **Clients:** If you access SMG’s services to take a survey regarding your consumer experience with one of our clients, we share the Personal Data we collect from you about and relating to your survey responses with that client. We also may use this Personal Data to derive market research insights and provide consumer behavior analytics and business intelligence to our clients. For information concerning how the client for which we are collecting your Personal Data uses, protects, and otherwise processes Personal Data, read such client’s privacy policy. We and our clients also may combine different types of information, including Personal Data collected from or about you by us, our client, or third-party sources. SMG may use the combined information for any of the purposes described in this Privacy Policy, and our clients may use the combined information for any purposes described in their privacy policies.
+  *  **Clients:** If you access SMG’s services to take a survey regarding your consumer experience with one of our clients, we share the Personal Data we collect from you about and relating to your survey responses with that client. We also may use this Personal Data to  derive market research insights and provide consumer behavior analytics and business intelligence to our clients. For information concerning how the client for which we are collecting your Personal Data uses, protects, and otherwise processes Personal Data, read such client’s privacy policy. We and our clients also may combine different types of information, including Personal Data collected from or about you by us, our client, or third-party sources. SMG may use the combined information for any of the purposes described in this Privacy Policy, and our clients may use the combined information for any purposes described in their privacy policies.
 
 
   *  **Third Parties Viewing Your Posts or Receiving Your Communications:**  We may use and share your Personal Data in order to perform services you request or actions you initiate, such as when you post information on message boards, forums, or on our Social Media pages. In addition, when you give us permission, we may disclose your Personal Data in order to identify you to anyone to whom you send communications through the SMG Sites and Apps. 
@@ -192,7 +192,7 @@ Any transfers of Personal Data from the European Economic Area (“EEA”) to th
 
 Service Management Group, LLC is subject to the oversight of the U.S. Federal Trade Commission, and will remain responsible for any processing of Personal Data transferred pursuant to the EU-U.S. Privacy Shield that is inconsistent with the Privacy Shield Principles by any third parties to which Service Management Group, LLC has transferred Personal Data unless Service Management Group, LLC proves it is not in any way responsible for the event giving rise to the damage. Any and all such transfers of Personal Data outside the EEA shall be in accordance with this Privacy Policy and all applicable laws. 
 
-If you live in the EU and you have a complaint about our Privacy Shield compliance, contact our Data Protection Officer by email at [privacyofficer@smg.com](mailto:privacyofficer@smg.com) or by writing to Data Protection Officer, Service Management Group, LLC, 1737 McGee Street, Kansas City, MO 64108. If your complaint cannot be resolved through SMG’s internal processes, you can refer a complaint, free of charge, to our chosen independent dispute resolution body, [American Arbitration Association](http://go.adr.org/privacyshield.html), and in certain circumstances, invoke the [Privacy Shield arbitration process](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+If you live in the EU and you have a complaint about our Privacy Shield compliance, contact our Data Protection Officer by email at [privacyofficer@smg.com](mailto:privacyofficer@smg.com) or by writing to Data Protection Officer, Service Management Group, LLC, 1737 McGee Street, Kansas City, MO 64108. If your complaint cannot be resolved through SMG’s internal processes, you can refer a complaint, free of charge, to our chosen independent dispute resolution body, [American Arbitration Association](http://go.adr.org/privacyshield.html), and in certain circumstances, invoke the [Privacy Shield binding arbitration process](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 #### Children’s Privacy
 
