@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622064742id_/https%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225072831id_/https%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
 
 # PowerArchiver – Privacy Policy – PowerArchiver
 
 We at ConeXware, Inc. are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
-
-By participating in the Council of Better Business Bureau’s BBB _OnLine_ ® Privacy Program we have made a commitment to meet the programs’ strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [bbbonline.org](http://www.bbbonline.org/).
 
 ConeXware, Inc. has established this Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
 
