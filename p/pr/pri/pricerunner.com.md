@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190728id_/https%3A//www.pricerunner.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225234330id_/https%3A//www.pricerunner.com/info/privacy) for the most accurate reproduction.*
 
 # PriceRunner Privacy Policy
 
@@ -30,8 +30,6 @@ PriceRunner Sweden AB, Swedish corporate ID number: 556586-1415, address: Kungsb
 
  **Storage period:** Until the purchase has been completed (including delivery and payment). If the consumer is a registered/logged in member, the data may be saved as long as the member is an active member of PriceRunner, to enable processing any returns/complaints and warranty issues.
 
-* * *
-
  **Purpose:** In order to process service issues.
 
  **Processing performed:** Communication and answering any questions via phone or via digital channels, including social media. Identification. Investigating any complaints and support cases (including technical support).
@@ -41,8 +39,6 @@ PriceRunner Sweden AB, Swedish corporate ID number: 556586-1415, address: Kungsb
  **Legal basis:** Legitimate interest. The processing is necessary to meet our and your legitimate interest in processing service matters.
 
  **Storage period:** Until the service case has been completed. Valid personal data for retailers - so the data will be saved as long as the company is a customer of PriceRunner.
-
-* * *
 
  **Purpose:** In order to implement and manage participation in competitions and/or events.
 
@@ -54,8 +50,6 @@ PriceRunner Sweden AB, Swedish corporate ID number: 556586-1415, address: Kungsb
 
  **Storage period:** For the duration of the contest/event (including any evaluation).
 
-* * *
-
  **Purpose:** In order to evaluate, develop and improve our services, products and systems for customers and users.
 
  **Processing performed:** Adaptation of services to be more user-friendly (e.g. change the user interface to simplify the flow of information or to highlight features commonly used by customers in our digital channels). Analyses of data in order to improve features and tools. Analyses of data to develop, broaden and change product categories and product data to make the service more relevant to users and customers. Analyses of data in order to develop and improve our resource efficiency from an environmental and sustainability perspective (e.g. by informing about efficient resource utilisation per category, environmentally-friendly products and more efficient deliveries). Analyses of data in order to prioritise and plan the choice of retailers on the site. Analyses of data to enable our users and customers to influence the appearance and contents of our services. Analyses of data to improve IT systems in order to improve performance or enhance security for PriceRunner, its users and customers. Based on the data we collect (e.g. clicks to retailers, age and gender) you can be sorted into a user group, upon which analyses are then performed on an aggregate level using non-identifiable or pseudonymised data without any link to you as an individual. The insights from the analyses form the basis for which products, product categories, and the design of tools for which users and customers have access to. 
@@ -65,8 +59,6 @@ PriceRunner Sweden AB, Swedish corporate ID number: 556586-1415, address: Kungsb
  **Legal basis:** Legitimate interest. The processing is necessary to meet PriceRunner's, the users' and our customers' legitimate interest in evaluating, developing and improving our services and systems.
 
  **Storage period:** From the time of collection and for a period of 36 months thereafter.
-
-* * *
 
  **Purpose:** In order to prevent abuse of a service or to prevent, avoid and investigate crimes against the company.
 
@@ -90,8 +82,6 @@ PriceRunner Sweden AB, Swedish corporate ID number: 556586-1415, address: Kungsb
 
  **Storage period:** Until membership is terminated under ‘My pages’ on PriceRunner's website.
 
-* * *
-
  **Purpose:** In order to manage your membership level in the services based on "gamification", points or bonuses.
 
  **Processing performed:** Registration and calculation of points based on your browsing and purchasing behaviour in PriceRunner controlled services. Communication about your membership and offers.
@@ -102,8 +92,6 @@ PriceRunner Sweden AB, Swedish corporate ID number: 556586-1415, address: Kungsb
 
  **Storage period:** Until membership is terminated under ‘My pages’ on PriceRunner's website.
 
-* * *
-
  **Purpose:** In order to process benefits, offers and relevant recommendations for you who are logged in as a member.
 
  **Processing performed:** Creation of your personal offers and general member offers, customised view of new items, product recommendations, inspiration, benefits linked to your membership level, and invitations to events or competitions. Analyses of the data we collect for the purpose: We look for example at your user history, age, gender, town/city, specified preferences (about products and communications channels), visited product categories, and results from customer satisfaction or market research surveys. Analyses of the data we collect for the purpose: Based on the data we collect (e.g. purchase history, age, gender, and specified preferences), we perform an individual-level analysis that may result in you being sorted into a user segment. The insights from the analyses form the basis for your personal offers, relevant recommendations, and customised benefits etc. Various members may therefore receive different benefits, offers, and various page appearances and features on PriceRunner's website and in its communication to them.
@@ -113,8 +101,6 @@ PriceRunner Sweden AB, Swedish corporate ID number: 556586-1415, address: Kungsb
  **Legal basis:** Full implementation of promised membership benefits and services. This collection of your personal data is required in order to meet our obligations to our PriceRunner members. If the data is not provided, we refuse to give you membership or access to services.
 
  **Storage period:** Until membership is terminated under ‘My pages’ on PriceRunner's website.
-
-* * *
 
  **Purpose:** In order to deliver a personalised experience of our services.
 
