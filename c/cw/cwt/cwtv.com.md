@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the cwtv.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052109id_/http%3A//cwtv.com/thecw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwtv.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225131600id_/https%3A//www.cwtv.com/thecw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CWTV.com
 
-Updated April 14, 2014
+_**CW Privacy Policy**_
 
-CW Privacy Policy
+Effective Date: January 1, 2020
+
+To see the prior version of this Privacy Policy, go to _[https://www.cwtv.com/privacy-policy-2019](http://www.cwtv.com/privacy-policy-2019)_.
+
+**INTRODUCTION**
 
 Thank you for visiting The CW. The CW Network is a joint venture between Warner Bros. Entertainment and CBS Corporation (collectively "we" or "us"). Your privacy is important to us. To help protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information collected on our online and mobile websites, services, and applications (“Site” or “Sites”). By using the Sites, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this notice.
 
 For certain offerings on our Sites, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you. 
+
+Finally, we note that California law requires us to provide certain information about how we collect and use the personal information of California residents and to grant those California residents certain rights with respect to their data. If you are a California resident, please see the section of this Policy titled “California and CCPA Privacy Rights and Disclosures” for these disclosures and a description of your privacy rights, including a right to access, delete, or opt out of the sale of your personal information.
 
 **THE INFORMATION WE COLLECT**
 
@@ -52,11 +58,11 @@ We use the information that you provide about others to enable us to send them i
 
 **INFORMATION SHARING AND DISCLOSURE**
 
-**Legal Process, Law Enforcement, and Corporate Transactions**. We and our agents, contractors, and service providers may disclose information we maintain when required to do so by applicable US or other law, for example, in response to a court order, subpoena, legal process, or other claim or inquiry. We also may disclose such information in response to a US or other law enforcement agency’s request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the rights, property, or physical safety of any person, violations of our terms of use, and to verify or enforce compliance with the policies governing our Sites and applicable laws, or as otherwise required or permitted by US or other law or legal requirements. In addition, we may transfer information about our visitors in the event of a business transaction or reorganization, such as if we or one of our business units or our relevant assets are reorganized, acquired by, sold to, or merged with another company.
+**Legal Process, Law Enforcement, and Corporate Transactions.** We and our agents, contractors, and service providers may disclose information we maintain when required to do so by applicable US or other law, for example, in response to a court order, subpoena, legal process, or other claim or inquiry. We also may disclose such information in response to a US or other law enforcement agency’s request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the rights, property, or physical safety of any person, violations of our terms of use, and to verify or enforce compliance with the policies governing our Sites and applicable laws, or as otherwise required or permitted by US or other law or legal requirements. In addition, we may transfer information about our visitors in the event of a business transaction or reorganization, such as if we or one of our business units or our relevant assets are reorganized, acquired by, sold to, or merged with another company.
 
 **Service providers.** Our agents, contractors and other service providers may have access information, including personally identifiable information to help carry out the services they are performing for us. 
 
-**Affiliates and other third parties.** We may disclose information, including personally identifiable information about you to companies whose practices are not covered by this Privacy Policy. For example, we may share such information we collect with our affiliates to provide, improve and communicate with you about their own products and services.  A list of affiliates of Warner Bros. Entertainment is available in the WARNER BROS. AFFILIATES section below.  A list of affiliates of CBS Corporation is available at [www.cbscorporation.com/portfolio.php](http://www.cbscorporation.com/portfolio.php). 
+**Affiliates and other third parties.** We may disclose information, including personally identifiable information about you to companies whose practices are not covered by this Privacy Policy. For example, we may share such information we collect with our affiliates to provide, improve and communicate with you about their own products and services.  A list of affiliates of Warner Bros. Entertainment is available here [https://policies.warnerbros.com/privacy/en-us/affiliates].  A list of affiliates of CBS Corporation is available at _[www.cbscorporation.com/portfolio.php](http://www.cbscorporation.com/portfolio.php)_. 
 
 We may also share such information with business partners and third parties (e.g., other marketers, magazine publishers, retailers, application developers, participatory databases and non-profit organizations) that want to market products or services to you. If we share personally identifiable information with such unaffiliated third parties for their own marketing purposes, we will provide you with an opportunity to opt out or block such uses. 
 
@@ -64,24 +70,23 @@ We may also share such information with business partners and third parties (e.g
 
 **Sponsors, joint-offerings and co-promotions.** We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information, which is covered by their own privacy policies. The Site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-**Advertising.** At some of our Sites, reputable third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your computer or mobile device, the sites you visit, and other information about you or your computer or device in order to help analyze and serve anonymous targeted advertising on the Site and elsewhere. For more information about third party ad networks at our Sites and your ability to opt-out of targeted advertising from such third parties, please visit the Network Advertising Initiative ([www.networkadvertising.org](http://www.networkadvertising.org/)) and/or the Self-Regulatory Program for Online Behavioral Advertising ([www.aboutads.info/choices](http://www.aboutads.info/choices)). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.
+**Advertising.** At some of our Sites, reputable third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your computer or mobile device, the sites you visit, and other information about you or your computer or device in order to help analyze and serve anonymous targeted advertising on the Site and elsewhere. For more information about third party ad networks at our Sites and your ability to opt-out of targeted advertising from such third parties, please visit the Network Advertising Initiative ( _[www.networkadvertising.org](http://www.networkadvertising.org/)_ ) and/or the Self-Regulatory Program for Online Behavioral Advertising ( _[www.aboutads.info/choices](http://www.aboutads.info/choices)_ ). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.
 
-**With consent**. We may also share or disclose your information for any other purposes pursuant to your consent or at your direction.
+**With consent.** We may also share or disclose your information for any other purposes pursuant to your consent or at your direction.
 
 **YOUR CHOICES  **
 
-**Marketing communications.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you may: (i) log into your account if you have created an account with us at one of our Sites to adjust your settings, (iii) follow the “unsubscribe” instructions provided in any marketing email you receive from us, (iii) send us an email at [privacy@wb.com](mailto:privacy@wb.com) and we will modify your preferences accordingly, or (iv) opt-out of targeted advertising as set forth in the Advertising section above. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device.
+**Marketing communications.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you may: (i) log into your account if you have created an account with us at one of our Sites to adjust your settings, (iii) follow the “unsubscribe” instructions provided in any marketing email you receive from us, (iii) send us an email at _[WMPrivacy@warnermediagroup.com](mailto:WMPrivacy@warnermediagroup.com)_ and we will modify your preferences accordingly, or (iv) opt-out of targeted advertising as set forth in the Advertising section above. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device.
 
 **Uninstalling a mobile application.** If you no longer wish to have any information collected by a mobile application, you may uninstall the application by using the standard uninstall processes available on your mobile device or via the mobile application marketplace or network.
 
-**CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS  **   
-If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [privacy@wb.com](mailto:privacy@wb.com). 
+**Nielsen.** The properties may feature Nielsen proprietary measurement software, which will allow users to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
 
 **COOKIES AND OTHER TECHNICAL INFORMATION  **
 
 **Cookies and web beacons.** We, and our affiliates, third party service providers, and our business partners may send "cookies" to your computer or use similar technologies to support and enhance your online experience at our Sites, including by helping us collect and understand usage and performance information and to display and measure advertisements. For example, "cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).
 
-Some of our Sites may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from Adobe's website at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+Some of our Sites may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from Adobe's website at _[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)_.
 
 We may also use "web beacons" that monitor your use of our Sites. Web beacons (or web bugs) are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the web beacon appears, the URL (Uniform Resource Locator) of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the types of browser that fetched the web beacon and the identification number of any cookie on the computer previously placed by that server. 
 
@@ -93,63 +98,197 @@ On their own, cookies or web beacons generally do not contain or reveal any pers
 
 For more information about cookies and how browser settings can be changed to reject them, you should go to your web browser’s Help menu. 
 
-Google Analytics, one of our service providers, provides its own opt-out process. You can find out more information about Google Analytics’ cookies at <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies>. You can control the use of Google Analytics relating to your use of our Sites, by downloading an installing the browser-plug in available at <http://tools.google.com/dlpage/gaoptout?hl=en>.
+Google Analytics, one of our service providers, provides its own opt-out process. You can find out more information about Google Analytics’ cookies at _[https://developers.google.com/analytics/resources/concepts/gaConceptsCookies](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)_. You can control the use of Google Analytics relating to your use of our Sites, by downloading an installing the browser-plug in available at _[http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en)_.
 
 To set your preferences and opt-out of certain tracking and targeted advertising on your mobile device, follow the device and/or applicable settings on your mobile device.
 
 If you decide not to accept cookies from our Sites or disable certain technologies, you may not be able to take advantage of all of the features of our Sites.  
 
-**OUR COMMITMENT TO SECURITY**   
+**OUR COMMITMENT TO SECURITY**
+
 We have put in place physical, technical, and administrative procedures designed to protect the information we collect online at the Sites. However, we cannot assure you that personally identifiable information that we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Policy.
 
-**HOW YOU CAN ACCESS OR CORRECT INFORMATION**   
-To access the personally identifiable information that our Sites have collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your account if you have created one with us or send an email to [privacy@wb.com](mailto:privacy@wb.com).
+**HOW YOU CAN ACCESS OR CORRECT INFORMATION**
+
+To access the personally identifiable information that our Sites have collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your account if you have created one with us or send an email to WMPrivacy@warnermediagroup.com.
 
 To help protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-**ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY**   
+Additionally, California law grants California residents the right to, among other things, access, delete, and opt out of the sale of certain personal information. For a description of these rights, please see the section of this policy titled “California and CCPA Privacy Rights and Disclosures.”
+
+**ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY**
+
 This privacy policy governs Sites or portions of Sites that are directed to a general audience and that are not designed or intended for use by children. For more information about our online privacy practices for Sites or portions of Sites that are directed to children, please review the privacy policy posted there.
 
-**NOTIFICATION REGARDING UPDATES**   
+**CALIFORNIA AND CCPA PRIVACY RIGHTS AND DISCLOSURES**
+
+This California Privacy Rights and Disclosure section addresses legal obligations and rights laid out in the California Consumer Privacy Act, or CCPA. These obligations and rights apply to businesses doing business in California and to California residents and information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with California consumers or households (“California Information”).
+
+**California Information We Collected and Shared** **.** This section provides the information California residents need to exercise their rights over their California Information. Here is information about the California Information we have collected from and shared about consumers over the twelve months prior to the Effective Date of this Privacy Policy.
+
+_California Information We Collected_
+
+In the year before the date this policy was issued, on some Sites we may have collected the following categories of California Information:
+
+  * Address and other identifiers – such as name, postal address, zip code, email address, account name, Social Security number, driver’s license number, payment card numbers, passport number, or other similar identifiers
+
+  * Unique and online identifiers – such as IP address, device IDs, or other similar identifiers
+
+  * Characteristics of protected classifications – such as race, ethnicity, or sexual orientation
+
+  * Commercial information – such as products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+
+  * Internet, gaming or other electronic network activity information – such as browsing history, search history and information regarding an individual’s interaction with an internet website, application, or advertisement
+
+  * Professional or educational Information
+
+  * Biometric information
+
+  * Video footage (e.g., CCTV); Audio recordings; Photographs; Calendar information
+
+  * Location information – (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
+
+  * In game or online viewing activities (e.g., videos viewed, pages viewed)
+
+  * Inferences drawn from California Information, such as individual profiles, preferences, characteristics, behaviors.
+
+
+
+
+We may have collected these categories of California Information for the following purposes:
+
+  * Performing services on behalf of the business, such as customer service, processing or fulfilling orders, providing content recommendations, and processing payments
+
+  * Auditing customer transactions
+
+  * Fraud and crime prevention
+
+  * Debugging errors in systems
+
+  * Marketing and advertising
+
+  * Internal research, analytics and development – e.g., user-preference analytics
+
+  * Developing, maintaining, provisioning or upgrading networks, products, services, or devices.
+
+
+
+
+We may have obtained California Information from a variety of sources, including:
+
+  * Directly from you, including technical and usage information when you use our Sites
+
+  * Linked sites, such as Social Media Sites, and third-party platforms
+
+  * Our affiliates
+
+  * Our joint-ventures and promotional and strategic partners
+
+  * Information suppliers
+
+  * Distributors and other vendors
+
+  * Marketing mailing lists
+
+  * Other users submitting California Information about you, such as to invite you to participate in an offering, make recommendations, or share content
+
+  * Publicly available sources.
+
+
+
+
+_California Information We Shared_
+
+In the year before the date this policy was issued, for some Sites we may have shared these categories of California Information for operational purposes with providers who provide services for us, like processing your bill:
+
+  * Address and other identifiers – such as name, postal address, email address, account name, Social Security number, driver’s license number, payment card numbers passport number, or other similar identifiers
+
+  * Unique and online identifiers – IP address, device IDs, or other similar identifiers
+
+  * Commercial information – such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+
+  * Internet, gaming or other electronic network activity information – such as browsing history, search history, and information regarding an individual’s interaction with an internet website, application, or advertisement
+
+  * Professional or educational Information
+
+  * Biometric information
+
+  * Video footage (e.g., CCTV); Audio recordings; Photographs; Calendar information
+
+  * Location information – (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
+
+  * In game or online viewing activities (e.g., videos viewed, pages viewed)
+
+  * Inferences drawn from California Information, such as individual preferences, characteristics, behaviors.
+
+
+
+
+The California Consumer Privacy Act defines ‘sale’ very broadly. It includes the sharing of California Information in exchange for anything of value. According to this broad definition, in the year before the date this policy was issued, for some Sites we may have sold the following categories of California Information:
+
+  * Address and other identifiers – such as name, postal address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers
+
+  * Unique and online identifiers – IP address, device IDs, or other similar identifiers
+
+  * Commercial information – such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+
+  * Internet, gaming or other electronic network activity information – such as browsing history, search history, and information regarding an individual’s interaction with an internet website, application, or advertisement
+
+  * Location information - (e.g. if you access our Sites on your mobile device we may collect Information about your device’s precise location.)
+
+  * Inferences drawn from California Information, such as individual profiles, preferences, characteristics, behaviors.
+
+
+
+
+**Your California Privacy Rights to Request Disclosure of Information We Collect and Share About You.** If you are a California resident, California Civil Code Section 1798.83 permits you to request information about our practices related to the disclosure of your personal information by certain members of the Warner Bros. Family of Companies to certain third parties for their direct marketing purposes. You may be able to opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes in certain circumstances. Please send your request (along with your full name, email address, postal address, and the subject line labeled “Your California Privacy Rights”) by email at WMPrivacy@warnermediagroup.com.
+
+In addition, if you are a California resident, the CCPA grants you the right to request certain information about our practices with respect to California Information. In particular, you can request the following:
+
+  * The categories and specific pieces of your California Information that we’ve collected
+
+  * The categories of sources from which we collected California Information
+
+  * The business or commercial purposes for which we collected or sold California Information
+
+  * The categories of third parties with which we shared California Information.
+
+
+
+
+You can submit a request to us for the following additional information:
+
+  * The categories of third parties to which we’ve sold California Information, and the category or categories of California Information sold to each.
+
+  * The categories of California Information that we’ve shared with service providers who provide services for us, like processing your bill.
+
+
+
+
+To exercise your CCPA rights with respect to this information, either visit here [https://privacycenter.wb.com/] or contact us toll free at 833-WB-PRVCY (833-927-7829) or TTY: 833-PRVCY-TT (833-778-2988). These requests for disclosure are generally free.
+
+**Your Right to Request the Deletion of California Information**. Upon your request, we will delete the California Information we have collected about you, except for situations when that information is necessary for us to: provide you with a product or service that you requested; perform a contract we entered into with you; maintain the functionality or security of our systems; comply with or exercise rights provided by the law; or use the information internally in ways that are compatible with the context in which you provided the information to us, or that are reasonably aligned with your expectations based on your relationship with us.
+
+To exercise your right to request the deletion of your California Information, either visit here [https://privacycenter.wb.com/] or contact us toll free at 833-WB-PRVCY (833-927-7829) or TTY: 833-PRVCY-TT (833-778-2988). These requests are generally free.
+
+**Your Right to Ask Us Not to Sell Your California Information.** You can always tell us not to sell your California Information by visiting here: [https://privacycenter.wb.com/do-not-sell]
+
+Once we receive and process your request, we will not sell your California Information unless you later allow us to do so.
+
+**Do Not Track Notice.** We do not currently take actions to respond to Do Not Track signals and similar signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+See the Your Choices section to learn how to control data collection for certain purposes.
+
+**Our Support for the Exercise of Your Data Rights.** We are committed to providing you control over your California Information. If you exercise any of these rights explained in this section of the Privacy Policy, we will not disadvantage you. You will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services.
+
+**Consumers Under 16 Years Old.** CCPA has specific rules regarding the use of California Information from consumers under 16 years of age. In particular, consistent with the CCPA, if we knowingly collect the California Information of a consumer under the age of 16, we will not sell the information unless we receive affirmative permission to do so. If the consumer is between the ages of 13 and 16 years of age, the consumer may provide that permission; if the consumer is under the age of 13, the consumer’s parent or guardian must provide the permission.
+
+If you would like further information on how we handle California Information from consumers under the age of 16 years of age, or if you have questions about these information practices, you may contact us here [wmprivacy@warnermediagroup.com], or at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522.
+
+**NOTIFICATION REGARDING UPDATES**
+
 From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our Sites or by sending you an email message. We encourage you to periodically check back and review this policy so that you always will know our current privacy practices.
 
-**HOW TO CONTACT US**   
-If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [privacy@wb.com](mailto:privacy@wb.com).
+**HOW TO CONTACT US**
 
-You may also contact us at any time at:    
-The CW Network, LLC    
-Attn: Chief Privacy Officer (WB)   
-3300 West Olive Avenue   
-Burbank, CA 91505   
-(818) 977-2500
-
-**WARNER BROS. ENTERTAINMENT AFFILIATES**   
-Below is a list of some of the Warner Bros. Entertainment companies that currently may have access to the information collected from users on our Sites as set forth in the Privacy Policy. We may update this list from time-to-time, so please check back periodically to keep up-to-date. 
-
-Flixster, Inc.   
-DC Entertainment   
-New Line Productions, Inc.   
-Telepictures Production Inc.   
-TMZ Productions Inc.   
-Turbine, Inc.   
-WB Games Inc.   
-Warner Bros. Advanced Digital Services, a division of Warner Bros. Technical Operations Inc.   
-Warner Bros. Animation Inc.   
-Warner Bros. Consumer Products Inc.   
-Warner Bros. Digital Distribution, a division of Warner Bros. Home Entertainment Inc.   
-Warner Bros. Distributing Inc.   
-Warner Bros. Entertainment Inc.   
-Warner Bros. Interactive Entertainment, a division of Warner Bros. Home Entertainment Inc.   
-Warner Bros. International Television Distribution Inc.   
-Warner Bros. Pictures, a division of WB Studio Enterprises Inc.   
-Warner Bros. Studio Facilities, a division of WB Studio Enterprises Inc.   
-Warner Bros. Worldwide Television Distribution Inc.   
-Warner Bros. Television, a division of WB Studio Enterprises Inc.   
-Warner Bros. Television, a division of WB Studio Enterprises Inc.   
-Warner Home Video, a division of Warner Bros. Home Entertainment Inc. 
-
-Below is a list of some of the Time Warner companies that are affiliated with the Warner Bros. Entertainment Group companies and with whom we may share information we collect at our Sites. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.
-
-The Cartoon Network, Inc.   
-Home Box Office, Inc.   
-Turner Broadcasting System, Inc.
+If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at WMPrivacy@warnermediagroup.com; at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522; or at 833-WB-PRVCY (833-927-7829) or TTY: 833-PRVCY-TT (833-778-2988).
