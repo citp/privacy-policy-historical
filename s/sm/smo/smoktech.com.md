@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smoktech.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231080625id_/https%3A//www.smoktech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smoktech.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225133716id_/https%3A//www.smoktech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SMOK® Innovation keeps changing the vaping experience!
+# Privacy Policy - SMOK® | Innovation Keeps Changing the Vaping Experience
 
 ## WHAT INFORMATION DO WE COLLECT?
 
