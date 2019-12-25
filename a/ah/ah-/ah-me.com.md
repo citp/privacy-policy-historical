@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ah-me.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624060526id_/https%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ah-me.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225115654id_/https%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.*
 
 # Ah-me Videos, policy
 
