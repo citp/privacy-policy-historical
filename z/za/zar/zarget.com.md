@@ -1,162 +1,280 @@
-> *The following text is extracted and transformed from the zarget.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020182357id_/https%3A//zarget.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarget.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225191659id_/https%3A//www.freshworks.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Zarget
+# Refreshing Cloud Business Suite | Privacy Notice Freshworks Inc
 
-Privacy Policy 
+###### Effective Date  
+October 1, 2019
 
-This Privacy Policy is effective as of Oct 1, 2015.
+For prior version, please click [here](https://www.freshworks.com/privacy/18-mar-2019/).
 
-## Privacy and Communications
+Freshworks, Inc and its group companies (collectively “ **Freshworks** ”, "we", "us", and "ours") is committed to protecting your privacy. This Privacy Notice (“ **Notice** ”) describes how Freshworks processes Personal Data in its capacity as a controller (i.e. Freshworks decides what Personal Data is collected and what it is used for) or processor (i.e. Freshworks only processes the data as per the controller's instructions), as the case may be. It also describes your choices regarding use, access and correction of your Personal Data.
 
-Osmnez Technologies Inc. (“Osmnez”) is committed to protecting your privacy. This Privacy Policy (“Policy”) applies to those who visit our website zarget.com (“Website”), as well as users of our on-demand help desk platform, tools and services offered by Zarget (“Service”).
+#### QUICK LINKS
 
-## How Do We Collect, Use and Share Your Personal Information and Other Information?
+We recommend that you read this Notice in full to ensure you are fully informed. However, if you only want to access a particular section of this Notice, then you can click on the relevant link below to jump to that section.
 
-### Information Collected From You
+Definitions
 
-We collect the email addresses of those who communicate with us via email, information about the pages users access on the Website, and information voluntarily submitted by the user (for example, filling out a survey or service registration form). The types of information that may be requested include your name, company name, designation, email address, telephone number and billing information. The information we collect is used to provide the Service to you, to improve the quality of the Website and Service, to communicate information about the Service, to provide you with support when you are using our Website, to bill your account for the Service provided and to contact you about your account when necessary. Your information will never be sold to or shared with other companies or organizations for commercial purposes or otherwise, except as outlined in this Policy. It is clarified that information for the purposes of applicability of this Policy does not include information available in the public domain or received by us from a third party source. 
+Whom does this Notice Apply to?
 
-Osmnez may transfer personal information to companies that help us provide our Service such as third-party payment processors etc. Transfers to these third parties are covered by the provisions in this Policy regarding notice and choice, and the service agreements with such third parties. 
+Any Questions?
 
-Osmnez collects information on behalf of our clients, and has no direct relationship with the individuals with whom our clients may interact using the Service. If you are a customer of one of our clients and would no longer like to be contacted by that Client, please contact the client that you interact with directly. If client requests Osmnez to correct, amend or delete data, we will respond to this request as soon as possible. 
+What Personal Data does Freshworks collect and why?
 
-We host and process data, including personal information, in the United States and the European Economic Area and possibly in other countries through third parties that we use to operate and manage the Service. When you access or use our Website or the Service, or otherwise provide information to us, you are consenting, on behalf of you and your authorized agents or end-users, (and representing that you have the authority to provide such consent) to the processing and transfer of information in and to the United States and other countries which may have different privacy laws from your or their country of residence. By using this Site, you represent and warrant to us that any and all information collected and shared with us is in accordance with all applicable laws, rules and regulations, and do not violate any privacy or other rights of third parties. By using this Site, you acknowledge that we have no responsibility or obligation with respect to the legal compliance of your collection practices with respect to such information and that you have informed your customers and business associates that their information is being shared with us and about this policy. By using the Site, you agree to indemnify us, and all our officers, directors, shareholders, employees and agents, with respect to any claim, suit or liability (including attorney’s fees and related costs), arising from information shared by you. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy. 
+  * Personal Data we collect and process for our own purposes: Collected Data
+  * What is our legal basis for processing Personal Data (EEA and Swiss visitors only)?
 
-###  Use of Cookies 
 
-When you use the Osmnez website or Service we may store some information on your computer. This information will be in the form of a “cookie” or similar file. Cookies are small pieces of information stored on your hard drive, not on the Osmnez website. We do not use cookies to spy on you or otherwise invade your privacy. They cannot invade your hard drive and steal information. We use cookies to help you navigate the Osmnez website and Service as easily as possible, and to remember information about your current session. These are the Session Cookies and they are removed from your system when you close the web browser or turn off the computer. You must enable cookies on your web browser to use the Osmnez Service. 
 
-We also use persistent cookies to analyze information about visitors to the Osmnez website. No personal information is collected during this process. A persistent cookie remains on your hard drive after closing the web browser or turning off the computer. 
+Data we process on your behalf: Service Data
 
-Various categories of cookies (including third party cookies) are used in the Osmnez website and Service. These are listed below along with the options to manage them. 
+Single Sign-On
 
-###  Essential Cookies 
+Social Media Features
 
-These cookies are essential for the basic functionalities offered by the Service. These class of cookies helps in keeping a user logged in to the Service and remember relevant information when they return to the Service. 
+Sharing of Personal Data
 
-###  Insight Cookies 
+Information that we obtain from third parties
 
-These are used for tracking the user activities within the Service, which in turn helps us in improving your user experience 
+Privacy Shield Compliance
 
-###  Marketing Cookies 
+How does Freshworks keep Personal Data secure?
 
-The cookies (our own and third party) we may use in connection with our Website and the Services provided are: 
+EEA and Swiss Specific Rights
 
-Name  |  Purpose  |  Privacy Policy   
----|---|---  
-Google analytics  |  Website analytics cookie for visitor information and source.  |  <https://www.google.com/intl/en/policies/privacy/>  
-Adwords Conversion  |  Conversion tracking cookie for ads delivered by Google Adwords  |  <https://www.google.com/intl/en/policies/privacy/>  
-Capterra  |  Conversion tracking cookie for ads delivered by Capterra  |  <https://www.capterra.com/legal_privacy_policy>  
-Facebook  |  Facebook tracking to track people interactions with the Like button.  |  <https://www.facebook.com/about/privacy/>  
-Google Interest Based Ads  |  Cookie to serve ads based on a user’s prior visits to our website.  |  <https://www.google.com/intl/en/policies/privacy/>  
-Criteo  |  Track information about which pages you viewed, and in certain cases which products you bought.  |  https://www.criteo.com/privacy/  
-Doubleclick  |  Service for accessing multiple sources of online display advertising inventory.  |  <https://www.google.com/intl/en/policies/privacy/>  
-Getapp  |  Getapp partners with third party ad networks to provide you targeted advertising based upon your interests.  |  <https://www.getapp.com/privacy_policy>  
-Acquisio  |  Acquisio uses third parties to assist us in measuring statistical information about users of the service.  |  <https://www.acquisio.com/privacy-policy>  
-Chango  |  User data tracking to deliver consumers more relevant advertising.  |  <https://www.chango.com/privacy/policy/>  
-Quantcast  |  QuantCast cookies collect data for the purpose of interest-based advertising.  |  <https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>  
-Bing  |  Used to track the pages you view and links you click when using Microsoft's and its advertising partners' web sites and services.  |  <https://www.microsoft.com/en-us/privacystatement/default.aspx>  
-Magnetic  |  A unique, random identifier to anonymously track users for targeted advertising.  |  https://www.magnetic.com/privacy/corporate-privacy-policy/  
-Shareasale  |  A third party affiliate marketing network.  |  [https://www.shareasale.com/agreement.cfm,](https://www.shareasale.com/agreement.cfm) [ https://www.shareasale.com/w3c/policy.html](https://www.shareasale.com/w3c/policy.html)  
-Bizible  |  A plug-in that brings marketing and sales data together.  |  https://www.bizible.com/privacy-policy  
-Bizo (Linkedin)  |  LinkedIn cookies for the purpose of interest-based advertising.  |  <https://www.linkedin.com/legal/cookie_policy>  
-  
-By use of our Website or Service, you also accept the terms of the Privacy Policy of the respective cookies as enumerated above. You can set your browser to either reject all cookies, to allow only “trusted” websites to set them, or to accept only those cookies from those websites you are currently on. 
+Other Communications
 
-For more information on controlling cookie settings in your browser, please refer to the following links: 
+Retention of Personal Data
 
-More information on ["Incognito" mode and cookie setting in Google Chrome](https://support.google.com/chrome/answer/95464?hl=en)
+Link to Third Party Sites
 
-More information on ["InPrivate" and cookie setting in Internet Explorer](https://windows.microsoft.com/en-in/windows-vista/what-is-inprivate-browsing)
+Children’s Personal Data
 
-More information on ["Private Browsing" and cookie setting in FireFox](https://support.mozilla.org/en-US/kb/settings-privacy-browsing-history-do-not-track)
+Amendments
 
-More information on ["Private Browsing" and cookies setting in Safari](https://support.apple.com/kb/ht1677)
+Legal Disclosure
 
-Please note that if you wish to turn off the cookies in your web browser, you might not be able to take advantage of many features of our Service. 
+Contacting Freshworks
 
-To learn how to delete or disable cookies in general, visit 
+#### DEFINITIONS
 
-[www.allaboutcookies.org/manage-cookies.](https://www.allaboutcookies.org/manage-cookies)
+The capitalized terms used in this Notice but not defined herein shall have the same meaning as defined in the Terms of Service at [https://freshworks.com/terms/(“Terms”)](https://www.freshworks.com/terms/).
 
-Osmnez clients have the responsibility to inform the individuals with whom they interact with via the help of the Service about the cookies used by Osmnez and by themselves and should obtain individuals’ consent, if necessary. 
+#### WHOM DOES THIS NOTICE APPLY TO?
 
-###  Clear Gifs and Log Files 
+This Notice applies to (i) entities or individuals, excluding End-Users and Users, who have subscribed to our Service(s) and have agreed to the Terms (hereinafter referred to as the “ **Customer** ”) and (ii) individuals (“ **Individuals** ”) from whom Freshworks collects data as a controller as specified below.
 
-We and our third party advertising partners may also employ a software technology called clear gifs (a.k.a. web beacons/web bugs), that help us better manage content on our Website by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users of our Website. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages. We tie the information gathered by clear gifs to our customers’ personal information. 
+#### ANY QUESTIONS?
 
-We use clear gifs in our HTML-based emails to let us know which emails recipients open. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+If you have questions or complaints regarding our privacy notice or practices, please contact us at [support@freshworks.com](mailto:support@freshworks.com).
 
-Do Not Track. Do Not Track (“DNT”) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third parties. We do not use technology that recognizes DNT signals from your web browser. 
+#### WHAT PERSONAL DATA DOES FRESHWORKS COLLECT AND WHY?
 
-###  Social Media Features and Features 
+###### A) Personal Data we collect and process for our own purposes: Collected Data
 
-Our Website includes social media features, such as the Facebook “Like” button, the “Share This” button or interactive mini-programs. These features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the Privacy Policy of the company providing them. 
+When you visit our Websites or participate in Freshworks’s events, Freshworks may collect information, which may include Personal Data, from Individuals as set forth below (collectively referred to as “Collected Data”). For the purposes of General Data Protection Regulation (GDPR), Freshworks shall be the controller for the Collected Data – this means that Freshworks decides what Collected Data is processed and why.
 
-###  Links to Third Party Sites 
+When does Freshworks process Collected Data?
 
-Our Website contains links to other websites that are not owned or controlled by Osmnez. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that collects personal information. 
+###### 1) Sign-up, billing and Account information.
 
-###  Public Forums 
+When you subscribe and sign-up to any of our Service(s), we may collect your (i) contact information such as name, e-mail address, mailing address, IP address, geographic location, or phone number of the Account admin; (ii) billing information, such as credit card number and billing address; (iii) name and e-mail address when Account admin/Agent(s) provide feedback from within the Service(s); and (iv) unique identifiers, such as username, account number or password.
 
-Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@zarget.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Subject to this Notice and the Terms, we will use such data, including without limitation, to (i) provide you the Service(s); (ii) send you communication from the Service(s); (iii) assess needs of your business to determine or suggest suitable Service(s); (iv) send you requested information about the Service(s); (v) respond to customer service requests, questions and concerns; (vi) administer your Account; (vii) send you promotional and marketing communications (where you have requested us to do so); and (viii) facilitate your transactions with other users when you use our Service(s).
 
-###  Single Sign-On 
+###### 2) Freshworks Careers.
 
-You can log in to our Website using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address. Services like Facebook Connect give you the option to post information about your activities on our Website to your profile page and to share information with others within your network. 
+When you apply for an open position by populating the application form, we may collect your (i) contact information, such as name, email address, mailing address, phone number, links to your social networking profiles; and (ii) any other information contained in the resume that you submit to us.
 
-###  Communications from the Website 
+Subject to this Notice, we will use such data to evaluate you for the open position that you have applied for or any position that we consider you suitable for at the time you submit your resume or at any later date. Unless you notify us otherwise by an e-mail to [support@freshteam.com](mailto:support@freshteam.com), we will retain such data for a period of 1 year for archival purposes. If you wish to update the data you provided to us, you may do so by contacting us at [support@freshteam.com](mailto:support@freshteam.com).
 
-We may use your email address to send our newsletters and/or marketing communications. If you no longer wish to receive these communications you can opt out by following the instructions contained in the emails you receive or by contacting us at [privacy@zarget.com.](mailto:privacy@zarget.com)
+For the purposes of evaluating you for an open position, you understand that we may internally rate you based on parsing of your resume and your information. If you do not wish to be rated by us, please do not provide us your information.
 
-We will send you announcements related to the Service on occasions when it is necessary to do so. For instance, if our Service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you may deactivate your account. 
+###### 3) Events.
 
-###  Advertising 
+When you attend an event conducted by Freshworks, including webinars or seminars, we may collect your contact information such as name, e-mail address, designation and company name.
 
-We partner with third-party advertising networks to either display advertising on our Website or to manage our advertising on other websites. Our ad network partner may use cookies and Web beacons to collect information about your activities on our Website and other websites to provide you targeted advertising based upon your interests. 
+Subject to this Notice, we will use such data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you requested information about the Service(s); (iii) send you promotional and marketing communications (where you have requested us to do so); and (iv) respond to your questions and concerns.
 
-###  Protection of Information 
+###### 4) Referrals via Glowboard.
 
-The Website and Service have industry standard security measures in place to protect against the loss, misuse, and alteration of the information under our control. When you provide us with sensitive information (such as credit card information or login credentials), we will encrypt that information via Secure Socket Layer (SSL). 
+To help refer our Service, Customers can provide us with contacts within the Service. We may collect contact information such as name, e-mail address, mailing address, or phone number of such contact from our Customer. By providing us this information about third parties, you warrant you have complied with all necessary legal requirements to provide us with this information, including obtaining all necessary consents and providing the third party with a copy of this Notice.
 
-While there is no such thing as “perfect security” on the Internet, we take all reasonable steps to ensure the safety of your personal information in accordance with standard market practices applicable to similar businesses. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website or via the Service and any transmission is at your own risk. Once we receive your personal information, we will use strict procedures and security features to try to prevent unauthorised access. 
+If you have been referred by our Customer, then, subject to this Notice, we will use such data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you promotional and marketing communications (where you have requested us to do so); and (iii) respond to your questions and concerns.
 
-Additionally, you retain all rights of ownership to your personal data we collect. Except as set forth herein, we will not sell or share your personal data with any third parties or use your personal data to compete with you. Your privacy and the privacy of your clients are of utmost importance to us. If you have questions about our security you can contact us at [privacy@zarget.com](mailto:privacy@zarget.com)
+###### 5) Program Registrations.
 
-###  Testimonials 
+When you register for any of our programs through a registration form on our Websites, we may collect information such as name, e-mail address, company name and website URL, company details, location and contact information. Subject to this Notice, we will use such data, including without limitation, to (i) facilitate your use of the program portal for which you have registered; (ii) send you communication from within the Service(s); (iii) send you requested information about our Service(s); (iv) respond to your requests, questions and concerns; and (v) send you promotional and marketing communications (where you have requested us to do so).
 
-We post customer testimonials/comments/reviews on our Website which may contain personal information. Prior to posting the testimonial, we obtain the customer's consent to post their name along with their testimonial. If you want your testimonial removed, please contact us at [privacy@zarget.com](mailto:privacy@zarget.com)
+###### 6) Public forums, Forms and Newsletters.
 
-###  Corrections and Updates 
+When you visit our publicly accessible community forums and blogs or submit any forms on our Website, you should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Further, we may collect your (i) contact information such as name, e-mail address, mailing address, or phone number; (ii) information about your business, such as company name, company size, business type; and (iii) a short bio about you to identify you as the author of the post. When you actively subscribe to our newsletters, we collect your e-mail address to share our newsletters with you.
 
-We allow users of the Services or Website to access, update or modify their information by clicking on the My Account link in the navigation menu or by contacting us at [privacy@zarget.com](mailto:privacy@zarget.com). We seek to respond to requests for access or modification as soon as possible and within timescales prescribed by applicable law. 
+Subject to this Notice, we will use such data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you requested information about the Service(s); (iii) send you promotional and marketing communications (where you have requested us to do so); and (iv) respond to your questions and concerns.
 
-We retain personal data we process for as long as an account is active or as needed to provide the Service. If you wish to cancel your account and request that we no longer use your data, please contact us at [privacy@zarget.com](mailto:privacy@zarget.com). We will retain your data as necessary to comply with our legal obligations, maintain accurate financial and other records, resolve disputes, and enforce our agreements. Subject to the above, we delete all customer data on the expiry of 14 days after the termination or cancellation of the customer’s account, except as otherwise prohibited by applicable law. 
+###### 7) Cookies and Similar Technologies.
 
-###  Children’s Personal Information 
+We and our third party advertising partners use cookies and similar technologies in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Most web browsers support cookies and users can control the use of cookies at the individual browser level. Please note that if you choose to disable cookies, it may limit your use of certain features or functions on our Websites and services.
 
-Osmnez does not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our Website or Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal information through our Service or Website without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to Osmnez through our Website or Service, please contact us. 
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our Website (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data. We link this automatically collected data to other data we collect about you. We do this mainly to improve services We offer you, to improve marketing, analytics, and/or Website performance and functionality.
 
-###  Amendments 
+Please see our [Cookies Policy](https://www.freshworks.com/list-of-cookies/) for further information about our use of Cookies and similar technologies.
 
-Amendments to this Policy will be posted to this URL and will be effective when posted. You should frequently visit this Policy to check for amendments. Your continued use of this Website or the Service following the posting of any amendment, modification, or change to this Policy shall constitute your acceptance of the amendments to this Policy. You can choose to discontinue use of the Website or Service, if you do not accept the terms of this Policy, or any modified version of this Policy. 
+###### 8) Analytics.
 
-###  Legal Disclosure 
+Apart from the aforementioned information collected by us, we automatically receive and record certain Personal Data of yours when You visit our Websites. This includes device model, IP address, the type of browser being used, usage pattern through cookies and browser settings, query logs and product usage logs. We also collect clicks, scrolls, conversion and drop-off on our Websites and Service(s) to render user journey at real-time. Subject to this Notice, we will use such data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you requested information about the Service(s); (iii) respond to customer service requests, questions and concerns; and (iv) for analytical purposes.
 
-We reserve the right to disclose your personal data and other confidential information provided by you as required by applicable law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or other legal process served on us. Your personal data will also be shared between the Osmnez group companies for the activities permitted under this Policy. In addition, reserve our right to disclose your personal information and other confidential information provided by you under the following circumstances: 
+You authorize Freshworks and its service providers to perform analytics on such Collected Data, to (i) improve, enhance, support and operate the Websites; and (ii) compile statistical reports and record insights into usage patterns. You acknowledge that Freshworks uses Collected Data, as the case may be, for the aforementioned purposes.
 
-Providing the information to our trusted partners who work on our behalf or with us under confidentiality agreements. These partners may use your information to help us communicate with you about our Site and our other products and services; 
+###### 9) Testimonials.
 
-Providing the information to our advisors and consultants for billing, business, legal and taxation purposes; 
+We may post your testimonials/comments/reviews on our Websites which may contain your Personal Data. Prior to posting the testimonial, we will obtain your consent to post your name along with the testimonial. If you want your testimonial removed, please contact us at [support@freshworks.com](mailto:support@freshworks.com).
 
-Sharing the information with third parties who we may be in discussions with for investments in or financing of our projects; 
+You understand that we will not be liable to any person for unauthorized publishing of testimonials by customers of Glowboard. If you, as a Customer of our Service Glowboard, wish to publish on your websites, any testimonials you have received from third parties via e-mails or widgets, it is your responsibility to obtain consent from such third parties prior to publishing the testimonials.
 
-Transferring information about you if we are acquired by or merged with another company or transfer a part of our business to a third party. Any third party or resultant entity that receives your information pursuant to a merger, demerger or business transfer shall have the right to continue to use your information. 
+###### 10) Marketing communications.
 
-Publishing information as may be required to perform the services you have engaged us to perform. 
+When you have agreed to, we may use your e-mail address, collected as part of Collected Data, to send our newsletters and/or marketing communications about our products and services. Where you have so requested, we will also send you marketing communications about our third party partners. If you no longer wish to receive these communications, you can opt out by following the instructions contained in the e-mails you receive or by contacting us at [support@freshworks.com](https://www.freshworks.com/privacy/support@freshworks.com).
 
-In the event Osmnez goes through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, your user account and personal data will likely be among the assets transferred. You will be notified via [privacy@zarget.com](mailto:privacy@zarget.com) and via a prominent notice on our Website of any such change in ownership or control and your continued use of this Website or the Service following such notification shall constitute your continued acceptance of the terms of this Policy. 
+###### What is our legal basis for processing Personal Data (EEA and Swiss visitors only)?
 
-###  Contacting Osmnez 
+If you are a visitor from the European Economic Area or Switzerland, our legal basis for collecting and using the Personal Data described above will depend on the Personal Data concerned and the specific context in which we collect it.
 
-If you have any questions about this Privacy Policy or your dealings with the Osmnez website, you can contact us at [privacy@zarget.com](mailto:privacy@zarget.com) or via postal mail at Osmnez Technologies Inc, 340 S Lemon Ave #3891, Walnut, CA 91789. 
+However, we will normally collect Personal Data from you only where we need the Personal Data to perform a contract with you, or where the processing is in our legitimate interests or rely upon your consent where we are legally required to do so and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect Personal Data from you or may otherwise need the Personal Data to protect your vital interests or those of another person.
+
+If we ask you to provide Personal Data to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your Personal Data is mandatory or not (as well as of the possible consequences if you do not provide your Personal Data).
+
+Similarly, if we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Data, please contact us using the contact details provided below.
+
+##### B) Data we process on your behalf: Service Data
+
+We only process Service Data as per our Customer's instructions. For purposes of the GDPR and the Swiss Federal Act on Data Protection, we are the processor and not the controller of the Service Data. Service Data, as defined in the Terms, means all electronic data, text, messages or other materials, including Personal Data of Users and End-Users, submitted to the Service(s) by our Customers through Customer’s Account in connection with Customer’s use of the Service(s), including data collected under “Other Information” and “Mobile Applications” below. Our EEA or Switzerland based Customers are the “controllers” of that data and are responsible for compliance with the applicable data protection law. We work with our Customers to help them provide notice to their customers concerning the purpose for which Personal Data is processed by Freshworks.
+
+If you are our Customer from EEA or Switzerland, then in your role as a controller, you are authorizing, on behalf of you and your authorized agents and End-Users, and representing that you have the authority to provide such authorization to the processing and transfer of Personal Data in and to the United States and other countries which may have different privacy laws from your or their country of residence. We will take all steps reasonably necessary to ensure that the Service Data is treated securely and in accordance with this Notice.
+
+We do not own, control or direct the use of Service Data, and in fact we are largely unaware of what information is being stored on our platform and only access such information as reasonably necessary to provide the Service(s) (including to respond to support requests), as otherwise authorized by Customers or as required by law. Unless we explicitly agree otherwise in writing, you will not process sensitive personal data (such as health data) on our platform.
+
+As the controller, it shall be your responsibility to inform the End-Users about the processing, and, where required, obtain necessary consent or authorization for any Personal Data that is collected as part of the Service Data through your use of the Service(s). As the processors of Personal Data on behalf of our Customers, we follow Customer’s instructions with respect to the Service Data to the extent consistent with the functionality of our Service(s). In doing so, we implement technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, Personal Data.
+
+###### Other Information.
+
+Where an User or End-User uses the Service(s), we automatically receive and record certain information of such user. This information includes device model, IP address, the type of browser being used, usage pattern through cookies and browser settings, query logs and product usage logs (collectively referred to as “ **Other Information** ”). If you are a customer of Freshchat, please note that you will have the option to opt out of tracking certain events from within Freshchat.
+
+###### Mobile Applications.
+
+When you download, install and use our Mobile Applications, we automatically collect information on the type of device you use, operating system version, and the device identifier (or “ **UDID** ”).
+
+We use mobile analytics software to allow Us to better understand the functionality of our Mobile Software on your phone. This Software may record certain information such as how often you use the application, the events that occure within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the Mobile Applications.
+
+Subject to this Notice, we will use such data to (i) provide and manage Mobile Application; (ii) if you have opted in to receiving push notifications, send you push notifications from time-to-time in order to update you about any events or promotions that we may be running and/or update you about new features to our Service(s); (iii) send you promotional and marketing communications (where you have requested us to do so). If you no longer wish to receive these types of communications, you may turn them off at the device level.
+
+###### Improving and enhancing our Service(s).
+
+You expressly authorize us and the service providers we use to process the Service Data in our systems to (i) provide, improve, enhance, support and operate the Service(s) and its availability; (ii) develop new products and services; and (iii) compile statistical reports and record insights into usage patterns.
+
+#### SINGLE SIGN-ON
+
+You can log in to our Websites using sign-in services such as Google, Facebook Connect and LinkedIn. These services will authenticate your identity and provide you the option to share certain Personal Data with us such as your name and e-mail address. Services like Google, Facebook Connect, Twitter, LinkedIn give you the option to post information about your activities on our Websites to your profile page and to share information with others within your network.
+
+#### SHARING OF PERSONAL DATA
+
+We process Personal Data in the United States and the European Economic Area (“ **EEA** ”) and in other countries through third parties that we may use. You may refer to the page [here](https://www.freshworks.com/privacy/data-hosting/) for more information on hosting options.
+
+We may also share your Personal Data as follows:
+
+  * With third party assisting Freshworks in providing you the Service(s) ( **“Sub-Processors"**  listed [here](https://www.freshworks.com/privacy/sub-processor/)). Our Sub-Processors are given access to Customer’s Account and Service Data only as reasonably necessary to provide the Service(s) and will be subject to confidentiality obligations in their service agreements;
+  * With third party service providers providing services, such as research and analytics, marketing and data enrichment or for them to reach out to you on our behalf;
+  * With third-party payment processors who process your credit card and other payment information for Freshworks but are otherwise not permitted to store, retain or use such information;
+  * With third party partners for the purpose of assisting us in onboarding you and providing any further support needed to use our Service(s);
+  * With sponsors of contests for which you register;
+  * With third-party social media networks, advertising networks and websites;
+  * With affiliates within Freshworks and companies that we will acquire in the future when they are made part of the Freshworks group for customer support, marketing, technical operations, account management or organizational purposes and to provide, enhance and improve the Service(s);
+  * If we are involved in a merger, reorganization or other fundamental corporate change with a third party, or sell/buy a business unit to/from a third party, or if all or a portion of our business, assets or stock are acquired by a third party, with such third party including at the due diligence stage. In accordance with applicable laws, we will use reasonable efforts to notify you of any transfer of Personal Data to unaffiliated third party.
+
+
+
+All such transfers are covered by the service agreements with the relevant recipients and we have taken appropriate safeguards to ensure that your Personal Data will remain protected in accordance with this Privacy Notice. Further details can be provided upon request.
+
+#### INFORMATION THAT WE OBTAIN FROM THIRD PARTIES
+
+From time to time, we may receive personal information about you from third party sources like databases and social media but only where we have checked that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us.
+
+The types of information we obtain from such third parties include your name, e-mail address, postal address, location, designation, telephone number and we use the information we receive from these third parties to maintain and improve customer support experience, improve the accuracy of the records we hold about you and for our sales and marketing purposes.
+
+[ ](http://privacy.truste.com/privacy-seal/validation?rid=75865c4b-6ed5-4e4b-90bd-69c12be8dccf)
+
+#### Privacy Shield Compliance
+
+Freshworks, Inc. participates in and has certified its compliance with the EU-U.S. and Swiss-US Privacy Shield Framework. Freshworks, Inc. is committed to subjecting all Personal Data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List [<https://www.privacyshield.gov/list>]. Freshworks, Inc. complies with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and United Kingdom and/or Switzerland, as applicable, to the United States in reliance on Privacy Shield. Freshworks, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+Freshworks, Inc. is responsible for the Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Freshworks, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, and Switzerland including the onward transfer liability provisions. Freshworks further commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+
+With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, Freshworks, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Freshworks, Inc. and/or its Group Companies may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+#### HOW DOES FRESHWORKS KEEP PERSONAL DATA SECURE?
+
+We use appropriate technical and organizational measures to protect the Personal Data that we collect and process. The measures we use are designed to provide a level of security appropriate to the risk of processing your Personal Data.
+
+While information security risks are always evolving, so are the controls. The controls, so implemented, are periodically reviewed as part of internal and external audits. If you have questions about the security of your Personal Data, please contact us immediately as described in this Privacy Notice. 
+
+#### EEA AND SWISS SPECIFIC RIGHTS
+
+###### A) Collected Data
+
+If you are an individual resident in EEA or Switzerland, you have the following data protection rights regarding Collected Data:
+
+  * If you wish to  **access, correct, update or request deletion**  of your Personal Data, you can do so at any time by contacting us.
+  * You can  **object to processing  **of your Personal Data, ask us to  **restrict processing**  of your Personal Data or  **request portability**  of your Personal Data. Again, you can exercise these rights by contacting us.
+  * You have the right to  **opt-out of marketing communications**  we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you. To opt-out of other forms of marketing (such as postal marketing or telemarketing), please contact us.
+  * Similarly, if we have collected and process your Personal Data with your consent, then you can  **withdraw your consent**  at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
+  * You have the  **right to complain to a data protection authority**  about our collection and use of your Personal Data. For more information, please contact your local data protection authority.
+
+
+
+If you seek access to, or wish to correct, update, modify or delete Personal Data (hereinafter referred to as a “ **Request** ”) which forms a part of Collected Data, please contact us at [support@freshworks.com](mailto:support@freshworks.com). We respond to all requests we receive from individuals wishing to exercise their data protection rights within a reasonable timeframe in accordance with applicable data protection laws.
+
+###### B) Service Data
+
+We acknowledge that you have the right to access your Personal Data. Freshworks has no direct relationship with the individuals whose Personal Data it processes. If you seek access to, or wish to correct, update, modify or delete Personal Data (hereinafter referred to as a “ **Request** ”) which is part of the Service Data and processed by us on behalf of our Customer or if you are an End-User of one of our Customers and would no longer like to be contacted by one of our Customers that uses our Service(s), you should direct your query to our Customer i.e, the controller. if requested to remove data, We will respond within a reasonable timeframe.
+
+If you are a Customer of our Service(s) and wish to raise a Request on behalf of your Users and End-Users in connection with Service Data, you may raise a ticket on the support portal of the relevant Service. Please note that if a Customer has subscribed to more than one Service, a Request on a particular Service support portal is specific to that Service only and separate Requests need to be raised across other relevant Service support portals.
+
+#### OTHER COMMUNICATIONS
+
+If you are our Customer, we will send you announcements related to the Service(s) on occasions when it is necessary to do so. For instance, if our Service(s) is temporarily suspended for maintenance, we might send you an e-mail. Generally, you may not opt-out of communications which are not promotional in nature. If you do not wish to receive them, you may deactivate your Account.
+
+#### RETENTION OF PERSONAL DATA
+
+If you wish to request that we no longer use your Collected Data, please contact us at [support@freshworks.com](mailto:support@freshworks.com).
+
+Personal Data contained in the Service Data is retained and deleted in accordance with the Terms.
+
+Notwithstanding the foregoing, we will retain Collected Data and Service Data as necessary to comply with our legal obligations, for litigation/defense purposes, maintain accurate financial and other records, resolve disputes, and enforce our agreements.
+
+#### LINKS TO THIRD PARTY SITES
+
+Our Websites contain links to other websites that are not owned or controlled by Freshworks. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Websites and to read the privacy policies of each and every website that collects Personal Data.
+
+#### CHILDREN'S PERSONAL DATA
+
+Freshworks does not knowingly collect any Personal Data from children under the age of 16. If you are under the age of 16, please do not submit any Personal Data through our Websites or Service(s). We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Notice by instructing their children never to provide Personal Data through our Service(s) or Websites without their permission. If you have reason to believe that a child under the age of 16 has provided Personal Data to us through our Websites or Service(s), please contact us and we will endeavor to delete that information and terminate the child's account from our databases.
+
+#### AMENDMENTS
+
+Amendments to this Notice will be posted to this URL and will be effective when posted. If we make any material changes, we will notify you by means of a notice on this Website prior to the change becoming effective and if you are our Customer, via e-mail (specified in your Account). Provided we will not be notifying you if we amend the Notice to make addition, deletions or modifications to the list of cookies from time to time to keep the list of cookies current and accurate. You should frequently visit this Notice to check for amendments. Your continued use of our Websites or the Service(s) following the posting of any amendment, modification, or change to this Notice shall constitute your acceptance of the amendments to this Notice. You can choose to discontinue use of the Websites or Service(s), if you do not accept the terms of this Notice, or any modified version of this Notice.
+
+#### LEGAL DISCLOSURE
+
+We, including our Group Companies reserve the right to disclose your personal data contained in Collected Data and Service Data as required by applicable law, in response to lawful requests by public authorities, including meeting national security or law enforcement requirements and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or other legal process served on us. Collected Data and Service Data will also be shared between our Group Companies for the activities permitted under the Terms and this Notice.
+
+In the event Freshworks goes through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, Customer’s Account, Collected Data and Service Data will likely be among the assets transferred. A prominent notice will be displayed on our Websites to intimate you of any such change in ownership or control and Customers will be notified via an e-mail from [support@freshworks.com](mailto:support@freshworks.com).
+
+#### CONTACTING FRESHWORKS
+
+If you have any questions about this privacy notice or your dealings with the Freshworks, you can contact us at [dpo@freshworks.com](mailto:dpo@freshworks.com) or [support@freshworks.com](mailto:support@freshworks.com) or  _via_ postal mail at Freshworks, Inc., 2950 S.Delaware Street, Suite 201, San Mateo, CA 94403 for the attention of the Data Protection Officer with a CC to [legal@freshworks.com](mailto:legal@freshworks.com).
