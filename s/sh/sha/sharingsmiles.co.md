@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sharingsmiles.co privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405161433id_/https%3A//sharingsmiles.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharingsmiles.co privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225025216id_/https%3A//sharingsmiles.co/privacy-policy) for the most accurate reproduction.*
 
 # sharingsmiles.co - Privacy Policy
 
-_Last updated:_ May 201 _7_
+_Last updated:_ July 2019
 
 Welcome to Sharingsmiles’s internet website, at [sharingsmiles.co](https://sharingsmiles.co/) (the **“Site”** ). The Site and its owners ( **“Us** **“** or “ **We** “) are committed to your right to privacy. This privacy policy applies to information collected via the Site and/or the services available through the Site or otherwise provided by Us (the “ **Services** ”).
 
@@ -96,6 +96,10 @@ Non-Personal Information, aggregated information or Personal Information in non-
 Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties via our Service (whether our website or application; e.g. by clicking on a link to any other website or location) or via other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. We prompt you to review the privacy policies of those sites before providing your Personal Information to them.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+   
+Publisher Common ID: Opt-Out  
+ 
 
 **5\. For how long we retain the information** **we collect?**
 
