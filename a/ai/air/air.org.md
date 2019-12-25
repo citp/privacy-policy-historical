@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the air.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620213219id_/https%3A//www.air.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225121947id_/http%3A//www.air.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Institutes for Research
 
