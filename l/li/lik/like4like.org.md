@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the like4like.org privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102025339id_/https%3A//www.like4like.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like4like.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225115009id_/https%3A//www.like4like.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Like4Like.org
 
@@ -69,20 +69,20 @@ Like4Like.org believes in helping its customers as far as possible and has, ther
 
   * Cancellations will be considered only if the request is made within 24 hours of placing an order. However, the cancellation request will not be entertained if the orders have been communicated to the vendors/merchants and they have initiated the process of shipping them.
   * There is no cancellation of orders placed under the Same Day Delivery category.
-  * Like4Like.org does not accept cancellation requests for items(points) that you are already used.
+  * Like4Like.org does not accept cancellation requests for items (points, credits, tokens) that you are already used.
   * In case you feel that the product received is not as shown on the site or as per your expectations, you must bring it to the notice of our customer service within 24 hours of receiving the product. The Customer Service Team after looking into your complaint will take an appropriate decision.
 
 
 
 ### Refund Policy
 
-When you buy our products/services, your purchase is covered by our 1-day money-back guarantee. If you are, for any reason, not entirely happy with your purchase and/or haven't used all purchased points, we will cheerfully issue a full refund. To request a refund, simply contact us with your purchase details within one (1) day of your purchase. Please include your order number (sent to you via email after ordering) and optionally tell us why you’re requesting a refund – we take customer feedback very seriously and use it to constantly improve our products and quality of service. Refunds are not being provided for services that you already have used because our network fills your account balance (adding points) immediately after purchase is done. Refunds are being processed within 7 days period.
+When you buy our products/services, your purchase is covered by our 1-day money-back guarantee. If you are, for any reason, not entirely happy with your purchase and/or haven't used all purchased points (credits, tokens), we will cheerfully issue a full refund. To request a refund, simply contact us with your purchase details within one (1) day of your purchase. Please include your order number (sent to you via email after ordering) and optionally tell us why you’re requesting a refund – we take customer feedback very seriously and use it to constantly improve our products and quality of service. Refunds are not being provided for services that you already have used because our network fills your account balance (adding points/credits/tokens) immediately after purchase is done. Refunds are being processed within 7 days period.
 
 ## Contact Information
 
 For questions, further information, requests or comments please feel free to contact us via support center.
 
-#### Date of Last Revision: March 1, 2018
+#### Date of Last Revision: November 26, 2019
 
 Like4Like.org
 
@@ -96,4 +96,6 @@ is a network that will help you grow your social presence for FREE.
 \- We will never request for usernames or passwords of your social network accounts and will never post, tweet or update status from your accounts.  
 \- We have a strict NO Bot, NO Macro, and NO Automation policy.
 
-[](https://www.like4like.org/user/login.php?v=register "Register To Like4Like.org")
+[](https://www.like4like.org/user/login.php?v=register "Register To Like4Like")
+
+[](https://www.hit4hit.org/ "Buy Website Traffic 50% Off - Hit4Hit.org")
