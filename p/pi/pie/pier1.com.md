@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626015231id_/https%3A//www.pier1.com/privacy_policy.html%3Ficid%3Dfooter-nav-privacy_policy%23nav%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225125422id_/https%3A//www.pier1.com/privacy_policy.html%3Fglid%3Dfooter-nav-privacy_policy%23nav%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Pier 1
 
