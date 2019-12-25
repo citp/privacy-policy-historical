@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the flowplayer.org privacy policy that was archived on 2019-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190609193942id_/https%3A//flowplayer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flowplayer.org privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225112100id_/https%3A//flowplayer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
 <meta charset="utf-8">
 <title>Privacy Policy</title>
-<meta name="description" content="Flowplayer: Online video that works.">
+<meta name="description" content="Last updated: October 17, 2018">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -30,10 +30,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="msapplication-config" content="/user/themes/n/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 <!-- meta -->
-  <meta property="og:url" content="http://flowplayer.com/privacy-policy">
+  <meta property="og:url" content="https://flowplayer.com/privacy-policy">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Flowplayer | Privacy Policy">
-<meta property="og:description" content="Flowplayer: Online video that works.">
+<meta property="og:description" content="Last updated: October 17, 2018">
 <meta property="og:image" content="https://flowplayer.com/images/flowplayer-logo.png">
 <meta property="og:image:secure_url" content="https://flowplayer.com/images/flowplayer-logo.png">
 <meta name="twitter:image" content="https://flowplayer.com/images/flowplayer-logo.png">
@@ -53,14 +53,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "Organization",
-  "name": "Flowplayer",
+  "@type": "Corporation",
+  "@id": "https://corporation.flowplayer.com/",  
+  "legalName": "Flowplayer",
   "url": "https://flowplayer.com/",
   "logo": "https://flowplayer.com/images/logo.png",
   "sameAs": [
     "https://www.facebook.com/flowplayer/",
     "https://twitter.com/flowplayer",
-    "https://www.linkedin.com/company/flowplayer/"
+    "https://www.linkedin.com/company/flowplayer/",
+    "https://enlyft.com/tech/products/flowplayer",
+    "https://www.crunchbase.com/organization/flowplayer",
+    "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=145194836",
+    "https://www.owler.com/company/flowplayer1",
+    "https://discovery.hgdata.com/product/flowplayer",
+    "https://nordic9.com/companies/flowplayer-company5240252899/",
+    "https://vainu.io/company/flowplayer-oy-taloustiedot-ja-liikevaihto/494188/yritystiedot",
+    "https://nordic9.com/companies/flowplayer-company5240252899/",
+    "https://discovery.hgdata.com/product/flowplayer",
+    "https://www.producthunt.com/posts/flowplayer-video-platform"
   ],
   "address": [
     {
@@ -120,12 +131,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <nav class="center nowrap">
       <span id="nav_search"></span>
-      <a href="/features?a" id="feat-trigger">Features</a>
-      <a href="/demos">Demos</a>
-      <a href="/help">Help</a>
-      <a href="/blog">Blog</a>
-      <a href="/pricing">Pricing</a>
-    </nav>
+              <a href="/features?a" id="features-trigger" class="subnav">Features</a>
+              <a href="/demos">Demos</a>
+              <a href="/help">Help</a>
+              <a href="/developers">Developers</a>
+              <a href="/blog">Blog</a>
+              <a href="/pricing">Pricing</a>
+          </nav>
 
     <div class="right account-login" id="acc">
       <a href="/login">Log in</a>
@@ -139,22 +151,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </header>
 
 
-<!-- features -->
-<nav id="feat-drop">
-  <a href="/features"><img src="/images/icons/svg/videos.svg"><span>Video platform</span></a>
-  <a href="/features/player"><img src="/images/icons/svg/players.svg"><span>Video player</span></a>
-  <a href="/features/live-streaming"><img src="/images/icons/svg/streaming.svg"><span>Live-streaming</span></a>
-  <a href="/features/advertising"><img src="/images/icons/svg/advertising.svg"><span>Monetization</span></a>
-  <a href="/features/analytics"><img src="/images/icons/svg/analytics.svg"><span>Analytics</span></a>
-</nav>
-
-
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
+  function subNav(subnav) {
 
     /// feature dropdown
-    $('#feat-trigger').forEach(function(el) {
-      var panel = $('#feat-drop')[0]
+    $('#'+subnav+'-trigger').forEach(function(el) {
+      var panel = $('#'+subnav+'-drop')[0]
 
       function close() {
         panel.classList.remove('is-active')
@@ -173,12 +175,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         if (e.relatedTarget != el) close()
       }
 
-      if (location.pathname.startsWith('/features')) el.classList.add('selected')
+      if (location.pathname.startsWith('/'+subnav)) el.classList.add('selected')
 
     })
 
-  })
+  }
 </script>
+
+<!-- subnavs -->
+<nav id="features-drop" class="subnav-drop">
+    <a href="/features"><img src="/images/icons/svg/videos.svg"><span>Video platform</span></a>
+    <a href="/features/player"><img src="/images/icons/svg/players.svg"><span>Video player</span></a>
+    <a href="/features/live-streaming"><img src="/images/icons/svg/streaming.svg"><span>Live-streaming</span></a>
+    <a href="/features/advertising"><img src="/images/icons/svg/advertising.svg"><span>Monetization</span></a>
+    <a href="/features/analytics"><img src="/images/icons/svg/analytics.svg"><span>Analytics</span></a>
+  </nav>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  subNav('features')
+});
+</script>
+
 <main>
 <section class="section top wide left-sidebar">
 
@@ -201,13 +218,52 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </aside>
 
     <section id="content">
-      <h1>Privacy Policy</h1>
-<h6>Last updated: October 17, 2018</h6>
-<h4>Definitions</h4>
+      <h1 id="privacy-policy" class="headeranchor">Privacy Policy</h1>
+<p><span style="font-size: 14px;">Last updated: October 17, 2018</span></p>
+<nav class="toc" role="navigation">
+          <h3>Table of contents</h3>
+  
+                                                          
+  <ul>
+      
+        
+        
+              <li><a href="#definitions" class="toclink" title="Definitions">Definitions</a></li>
+      
+        
+        
+              <li><a href="#acceptance-and-updates" class="toclink" title="Acceptance and Updates">Acceptance and Updates</a></li>
+      
+        
+        
+              <li><a href="#information-collected-by..." class="toclink" title="Information collected by Flowplayer">Information collected by Flowplayer</a></li>
+      
+        
+        
+              <li><a href="#use-of-information-collected" class="toclink" title="Use of Information collected">Use of Information collected</a></li>
+      
+        
+        
+              <li><a href="#disclosure-of-information" class="toclink" title="Disclosure of Information">Disclosure of Information</a></li>
+      
+        
+        
+              <li><a href="#use-of-the-service" class="toclink" title="Use of the Service">Use of the Service</a></li>
+      
+        
+        
+              <li><a href="#other-important-notices..." class="toclink" title="Other Important Notices Regarding Our Privacy Practices">Other Important Notices Regarding Our Privacy Practices</a></li>
+      
+    
+  </ul>
+</nav>
+
+
+<h2 id="definitions" class="headeranchor">Definitions</h2>
 <p>This policy describes how Flowplayer AB (“Flowplayer”) collect, use and disclose Personal Information and Non-Personal Information (each as defined below). This Privacy Policy describes our practices in connection with information that we collect through our website located at www.flowplayer.com, other Flowplayer websites where this Privacy Policy is provided and through Flowplayer’s online video platform known as the “Service”. These are collectively referred to as the “Site”. This Privacy Policy does not address the collection, use or disclosure of information by any third parties.</p>
-<h4>Acceptance and Updates</h4>
+<h2 id="acceptance-and-updates" class="headeranchor">Acceptance and Updates</h2>
 <p>By using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. We reserve the right to change this Privacy Policy without prior notice. You can find out when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.</p>
-<h4>Information collected by Flowplayer</h4>
+<h2 id="information-collected-by..." class="headeranchor">Information collected by Flowplayer</h2>
 <ol>
 <li><strong>Personal Information</strong> is information that identifies an individual. In order for you to take advantage of particular opportunities provided through the Site (for example, to receive white papers, participate in certain forums on the Site or sign-up for the Service), we may require that you furnish Personal Information. We collect Personal Information from you, such as your name, postal address, telephone number and email address, only when you voluntarily provide it to us. We may also combine Personal Information you provide to us with publicly available information, such as your organization’s name, in the event you provide us with an email address from your organization.</li>
 <li><strong>Non-Personal Information</strong> is aggregated information, demographic information and any other information that does not reveal an individual’s specific identity.
@@ -217,7 +273,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 1.1. <strong>Information That You Provide.</strong> We may also collect Non-Personal Information, such as your interests, geographic location and website address, when you provide it to us. Unless combined with Personal Information, this information does not personally identify you. In addition, we may aggregate Personal Information in a manner such that the end product does not identify you or any other Site user. Such aggregate information is considered Non-Personal Information for purposes of this Privacy Policy.</li>
 <li><strong>IP Addresses.</strong> Your Internet Protocol (IP) address is a number that is automatically assigned to the computer you are using by your Internet Service Provider (ISP), and in many cases, IP addresses are shared by multiple people. This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) you visited. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.</li>
 </ol>
-<h4>Use of Information collected</h4>
+<h2 id="use-of-information-collected" class="headeranchor">Use of Information collected</h2>
 <ol>
 <li><strong>Personal Information.</strong> We may use Personal Information:
 1.1. to fulfill your requests, such as to create a Service account, send a requested white paper, send online video updates or complete your purchases;
@@ -230,7 +286,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 1.1. <strong>Third Party Advertisements.</strong> Third parties may display advertisements on the Site or offer you products and services in connection with the Site. Any such party’s use of cookies and other technologies is subject to such party’s own privacy policy. Third parties that are not our service providers do not have access to our cookies.</li>
 <li><strong>IP Addresses.</strong> We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law.</li>
 </ol>
-<h4><strong>Disclosure of Information</strong></h4>
+<h2 id="disclosure-of-information" class="headeranchor">Disclosure of Information</h2>
 <ol>
 <li>We may disclose Personal Information:
 1.1. to our affiliates and any future corporate subsidiaries or affiliates, so that they may use such Personal Information for the purposes described in this policy. Flowplayer AB is the party responsible for the management of the jointly-used Personal Information;
@@ -242,11 +298,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 1.1. to an affiliate or other third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including, without limitation, in connection with any bankruptcy or similar proceedings); and
 1.1. as we believe appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain.</li>
 </ol>
-<h4><strong>Use of the Service</strong></h4>
+<h2 id="use-of-the-service" class="headeranchor">Use of the Service</h2>
 <ol>
 <li>The Service, which is accessible through the Site, enables customers to upload, manage and publish videos to a customer’s own website or to third party websites. Please note that any information you disclose through videos uploaded via the Service may become public information and may be available to visitors to the website where they are posted and to the general public. We urge you to exercise discretion and caution when deciding to disclose Personal Information, or any other sensitive information, via the Service. <strong>We are not responsible for the use of any Personal Information you disclose through your use of the Service.</strong></li>
 </ol>
-<h4><strong>Other Important Notices Regarding Our Privacy Practices</strong></h4>
+<h2 id="other-important-notices..." class="headeranchor">Other Important Notices Regarding Our Privacy Practices</h2>
 <ol>
 <li><strong>Payment Processing.</strong> We use a third party payment service (“<strong>Payment Service”</strong>) to process credit card payments for certain editions of the Service. When you provide credit card information on the Site, that information is sent directly to the Payment Service. Flowplayer does not have access to your full credit card number and does not store such information in its own systems. You acknowledge and agree that any Personal Information that you provide in connection with such credit card payments will be transmitted directly to the Payment Service. Information transmitted to the Payment Service is encrypted using SSL software. The Payment Service is required to comply with all applicable privacy and security laws and the rules and regulations issued by the credit card companies, however, <strong>Flowplayer is not responsible for the Payment Service’s failure to comply with such laws, rules and/or regulations.</strong></li>
 <li><strong>Forums and Profiles.</strong> We may make other services available through the Site (for example, message boards, forums, chat functionality, “profile pages” and blogs) to which you are able to post information and materials (collectively referred to as the “Forums”). Please note that any information you disclose through the Forums may be available to visitors to the Site and to the general public. We urge you to exercise discretion and caution when deciding to disclose Personal Information, or any other information, via the Forums. <strong>We are not responsible for the use of any Personal Information you disclose through the Forums.</strong></li>
@@ -278,20 +334,33 @@ Mäster Samuelsgatan 36
 
     <section>
       <p><img class="logo" src="/images/logo-blue.png"></p>
-      <nav>
+            <nav>
+         
         <a href="/features">Features</a>
+         
         <a href="/demos">Demos</a>
+         
         <a href="/pricing">Pricing</a>
+         
         <a href="/help">Help</a>
+         
+        <a href="/compare/jwplayer-vs-flowplayer">Compare</a>
+              
+      </nav>
+            <nav>
+         
         <a href="/about">About</a>
-      </nav>
-      <nav>
+         
         <a href="/blog">Blog</a>
+         
         <a href="/partners">Partners</a>
-        <a href="/contact">Contact us</a>
+         
         <a href="/media-kit">Media kit</a>
+         
+        <a href="/contact">Contact us</a>
+              
       </nav>
-    </section>
+          </section>
 
     <section>
       <form class="smaller notify">
@@ -447,8 +516,7 @@ $('#nav_search').forEach(function(link) {
 })
 </script>
 
-
-
+        <!-- This page was cached on Sat, 21 Dec 2019 17:17:17 -->
 
 
 </body></html>
