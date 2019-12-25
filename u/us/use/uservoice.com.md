@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331184553id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225044711id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UserVoice
 
-_Effective as of June 1, 2017._
+_Effective as of December 9, 2019._ * Added a statement describing California privacy rights. No other changes.
 
 ### Introduction
 
@@ -83,6 +83,12 @@ Your UserVoice accounts may be secured by member-created passwords, in which cas
 ### UserVoice’s commitment to comply with US-EU and Swiss-US Privacy Shield Principles
 
 UserVoice complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. UserVoice has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [privacyshield.gov](https://www.privacyshield.gov/).
+
+### Your California privacy rights
+
+Under California Civil Code Section 1798.82, UserVoice customers who are California residents may request information about the disclosure of your personal information by UserVoice or its subsidiaries to a third party for the third party's direct marketing purposes. UserVoice does not sell personal data to any entity. If you would like to request more information, you may send an email to [privacy@uservoice.com](mailto:privacy@uservoice.com).
+
+You may exercise your rights, including export and deletion of data, by visiting <https://www.uservoice.com/gdpr-compliance/>
 
 ### Resolution of disputes and complaint mechanism
 
