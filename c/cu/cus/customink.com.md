@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the customink.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613055800id_/https%3A//www.customink.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customink.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225104548id_/https%3A//www.customink.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Custom Ink
 
-_Last Modified: July 23, 2018_
+_Last Modified: December 26, 2019_
 
 CustomInk, LLC ("Custom Ink", “we” or “us”) understands that security and privacy are important issues for users of our services available at [www.customink.com](https://web.archive.org/about) (the "Site"). The following Privacy Policy (the "Policy") describes how we collect, use and share the information that we gather about the users of our Site.
 
@@ -128,7 +128,7 @@ For purposes of the GDPR, we are a “controller” and you are a “data subjec
 
 ## Your California privacy rights
 
-If you are a California resident, you may request certain information regarding our disclosure of your Personal Information to third parties for their direct marketing purposes under California’s “Shine the Light” law ([Cal. Civ. Code § 1798.83](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=civ&group=01001-02000&file=1798.80-1798.84)). You may make one (1) request per calendar year. In your request, please affirm that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: [privacy@customink.com](mailto:privacy@customink.com). Please allow up to thirty (30) days for a response.
+If you are a California resident, California law provides you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [CCPA PRIVACY NOTICE FOR CALIFORNIA RESIDENTS.](https://web.archive.org/about/ccpa)
 
 ## Children’s privacy
 
