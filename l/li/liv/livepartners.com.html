@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livepartners.com privacy policy that was archived on 2019-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190528013718id_/https%3A//www.livepartners.com/confidentiality.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livepartners.com privacy policy that was archived on 2019-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191225220754id_/https%3A//www.livepartners.com/confidentiality.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js backgroundsize"><head>
         <meta charset="utf-8">
@@ -63,6 +63,7 @@
 <li><a href="https://www.livepartners.com/br/"><img src="img/br.png" alt="Brazil"> Brazil</a></li>
  <li><a href="https://www.livepartners.com.mx/"><img src="img/mx.png" alt="Mexico"> Mexico</a></li>
  <li><a href="https://www.livepartners.ng/"><img src="img/ng.png" alt="Nigeria"> Nigeria</a></li>
+ <li><a href="https://www.livepartners.fi/"><img src="img/fi.png" alt="Finland"> Finland</a></li>
 				</ul>
 			</div>
 			<a href="#modal-connexion" class="btn btn-red pull-right" data-toggle="modal">Login / Register</a>
@@ -474,39 +475,68 @@ lang_name = ('en').trim();
 		}else if(	lang_name =="nl") {
 			$("#aff-adv-guide").attr('href', 'richtlijnen-voor-affiliate-reclame.html');
 			$('#aff-adv-guide').text('Richtlijnen Voor Affiliate Reclame');
+			$('#aff-adv-guide').parent('li').hide();
 		}else if(	domain == "www.livepartners.com" ){
 			$("#aff-adv-guide").attr('href', 'affiliate-advertising-guidelines.html');
 			$('#aff-adv-guide').text('Affiliate Advertising Guidelines');
+			$('#aff-adv-guide').parent('li').hide();
+		}else if(	domain == "www.livepartners.com/br" ){
+			$('#aff-adv-guide').parent('li').hide();
 		}else if(	domain == "www.livepartners.ie" ){
 			$("#aff-adv-guide").attr('href', 'affiliate-advertising-guidelines.html');
 			$('#aff-adv-guide').text('Affiliate Advertising Guidelines');
-		}else if(	domain == "www.livepartners.fr" ||  domain == "www.livepartners.be" ){
+			$('#aff-adv-guide').parent('li').hide();
+		}else if(	domain == "www.livepartners.be" ){
 			$("#aff-adv-guide").attr('href', 'regles-sur-la-publicite-daffiliation.html');
 			$('#aff-adv-guide').text('Règles Sur La Publicité D’affiliation');
+			$('#aff-adv-guide').parent('li').hide();
+		}else if(	domain == "www.livepartners.fr"  ){
+			$("#aff-adv-guide").attr('href', 'charte-deontologique-affiliation.html');
+			$('#aff-adv-guide').text('Charte Deontologique Affiliation');
 		}else if(	domain == "www.livepartners.jp" ){
 			$("#aff-adv-guide").attr('href', 'affiliate-advertising-guidelines-jp.html');
 			$('#aff-adv-guide').text('アフィリエイト広告ガイドライン');
+			$('#aff-adv-guide').parent('li').hide();
 		}else if(	domain == "www.livepartners.de" ){
 			$("#aff-adv-guide").attr('href', 'richtlinien-fur-affiliate-werbung.html');
 			$('#aff-adv-guide').text('Richtlinien Für Affiliate-werbung');
+			$('#aff-adv-guide').parent('li').hide();
 		}else if(	domain == "www.livepartners.at" ){
 			$("#aff-adv-guide").attr('href', 'richtlinien-fur-affiliate-werbung.html');
 			$('#aff-adv-guide').text('Richtlinien Für Affiliate-werbung');
-		}else if(	domain == "www.livepartners.ch" ){
+			$('#aff-adv-guide').parent('li').hide();
+		}else if(	domain == "www.livepartners.ch" &&	lang_name =="en-CH"){
+			$("#aff-adv-guide").attr('href', 'affiliate-advertising-guidelines.html');
+			$('#aff-adv-guide').text('Affiliate Advertising Guidelines');
+			$('#aff-adv-guide').parent('li').hide();
+		}else if(domain == "www.livepartners.ch" &&	lang_name =="de-CH") {
 			$("#aff-adv-guide").attr('href', 'richtlinien-fur-affiliate-werbung.html');
-			$('#aff-adv-guide').text('Richtlinien Für Affiliate-werbung');
+			$('#aff-adv-guide').text('Richtlijnen Voor Affiliate Reclame');
+			$('#aff-adv-guide').parent('li').hide();
+		}else if(domain == "www.livepartners.ch" &&	lang_name =="fr-CH") {
+			$("#aff-adv-guide").attr('href', 'regles-sur-la-publicite-daffiliation.html');
+			$('#aff-adv-guide').text('Charte Deontologique Affiliation');
+			$('#aff-adv-guide').parent('li').hide();
+		}else if(domain == "www.livepartners.ch" &&	lang_name =="it-CH") {
+			$("#aff-adv-guide").attr('href', 'linee-guida-sulla-pubblicita-per-gli-affiliati.html');
+			$('#aff-adv-guide').text('Linee Guida Sulla Pubblicità Per Gli Affiliati');
+			$('#aff-adv-guide').hide();
 		}else if(	domain == "www.livepartners.cn" ){
 			$("#aff-adv-guide").attr('href', 'affiliate-advertising-guidelines-cn.html');
 			$('#aff-adv-guide').text('合作伙伴广告准则');
+			$('#aff-adv-guide').parent('li').hide();
 		}else if(	domain == "www.livepartners.es" ){
 			$("#aff-adv-guide").attr('href', 'guia-de-publicidad-para-afiliados.html');
 			$('#aff-adv-guide').text('Guía De Publicidad Para Afiliados');
+			$('#aff-adv-guide').parent('li').hide();
 		}else if(	domain == "www.livepartners.ro" ){
 			$("#aff-adv-guide").attr('href', 'ghid-de-publicitate-pentru-afiliati.html');
 			$('#aff-adv-guide').text('Ghid De Publicitate Pentru Afiliații din UK');
+			$('#aff-adv-guide').parent('li').hide();
 		}else if(	domain == "www.livepartners.it" ){
 			$("#aff-adv-guide").attr('href', 'linee-guida-sulla-pubblicita-per-gli-affiliati.html');
 			$('#aff-adv-guide').text('Linee Guida Sulla Pubblicità Per Gli Affiliati');
+			$('#aff-adv-guide').parent('li').hide();
 		}else{
 			document.getElementById("legal").children[2].style.display = "none";
 		}
@@ -583,7 +613,7 @@ lang_name = ('en').trim();
 		if(lang_name==="gr" || lang_name==="el"){     $("#london_aff").removeAttr('href');    $("#berlin_aff").removeAttr('href');   $("#amsterdam_aff").removeAttr('href');    }
 		//           if(lang_name==="ro"){    /* $("#london_aff").removeAttr('href'); */  $("#berlin_aff").removeAttr('href');     }
 		if(lang_name==="ro"){     $("#amsterdam_aff").removeAttr('href');       }
-		if(lang_name==="de" || lang_name==="at" || lang_name==="ch"){     $("#london_aff").removeAttr('href');     $("#berlin_aff").removeAttr('href');   $("#amsterdam_aff").removeAttr('href');   }
+		if(lang_name==="de" || lang_name==="at" || lang_name==="en-CH" || lang_name==="de-CH"|| lang_name==="fr-CH"|| lang_name==="it-CH"){     $("#london_aff").removeAttr('href');     $("#berlin_aff").removeAttr('href');   $("#amsterdam_aff").removeAttr('href');   }
 		if(lang_name==="fr"){     $("#london_aff").removeAttr('href');     $("#berlin_aff").removeAttr('href');  $("#amsterdam_aff").removeAttr('href');  }
 
 	});
@@ -671,17 +701,20 @@ lang_name = ('en').trim();
 <!-- check pass  start -->
 <script>
 
-	lang_name = ('en').trim();
+	 lang_name = ('en').trim();
 
 	// done due to for admin.live fr and be has same language
 
-	if(lang_name=='be'){
+	if(lang_name=='be' || lang_name=='de-CH' ){
 		lang_name1='fr';
 	}else if(lang_name=='ie'){
 		lang_name1='en';
-	}
-	else if(lang_name=='at' || lang_name=='ch'){
+	}else if(lang_name=='at' || lang_name=='de-CH'){
 		lang_name1='de';
+	}else if(lang_name=='en-CH'){
+		lang_name1='en';
+	}else if(lang_name=='it-CH'){
+		lang_name1='it';
 	}
 //else if(lang_name=='pt'){  // pt for .com.be BR language
 //	lang_name1='en';
@@ -1169,8 +1202,10 @@ lang_name = ('en').trim();
 		}
 	}
 </script>
-<!-- recatcha start -->
+<!-- recatcha start-->
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit&amp;hl=en" async="" defer=""></script>
+
+console.log(lang_name1);
 <script type="text/javascript">
 	var verification_recatcha=false;
 	var verifyCallback = function(response) {
@@ -1399,6 +1434,25 @@ lang_name = ('en').trim();
 			$("#cap_sport_2").hide();
 		}
 
+
+		if( domain == "www.livepartners.fi" ){
+			$("#cap_casino_1").hide();
+			$("#cap_casino_2").hide();
+			$("#cap_sport_1").hide();
+			$("#cap_sport_2").hide();
+		}
+
+
+		// Hide CPA Sports,Casino, Revenue for CH all language en,de,fr, it
+		if( domain == "www.livepartners.ch" ){
+			$("#cap_sport_1").hide();
+			$("#cap_sport_2").hide();
+			$("#cap_casino_1").hide();
+			$("#cap_casino_2").hide();
+			$("#cap_revenue_1").hide();
+			$("#cap_revenue_2").hide();
+		}
+
 		// Hide CPA Casino for FR
 		if(lang_name==="fr"){
 			$("#cap_casino_1").hide();
@@ -1439,6 +1493,10 @@ lang_name = ('en').trim();
 			$("#cap_revenue_1").hide();
 			$("# cpa_message").hide();
 		}
+
+
+
+
 		// Change link for review Page
 		if(lang_name!=="fr" && lang_name!=="it" && lang_name!=="de" && lang_name!=="be" && lang_name!=="ru" && lang_name!=="ja" ) {
 			$('#review_netbet_1').attr('href', 'https://www.netbet.com/');
