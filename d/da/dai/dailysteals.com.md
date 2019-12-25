@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailysteals.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624000045id_/https%3A//www.dailysteals.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysteals.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226001153id_/https%3A//www.dailysteals.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Daily Steals
+# Privacy Policy
 
 Daily Steals Privacy Policy
 
