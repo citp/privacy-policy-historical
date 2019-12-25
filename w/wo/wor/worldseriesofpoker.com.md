@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606140558id_/http%3A//www.wsop.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225101242id_/https%3A//www.wsop.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # WSOP | Legal | Our Privacy Policy
 
