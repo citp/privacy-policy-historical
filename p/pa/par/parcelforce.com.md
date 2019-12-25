@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parcelforce.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421114449id_/https%3A//www.parcelforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcelforce.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225011653id_/https%3A//www.parcelforce.com/privacy) for the most accurate reproduction.*
 
 # Find out about the privacy policy from Parcelforce Worldwide
 
@@ -634,7 +634,11 @@ We may use your personal data to enable us to provide you with targeted marketin
 
 **To personalise your experience**
 
-We want to ensure that marketing communications relating to our products and services, including online advertising, are relevant to your interests. To do this, we may use your personal data to understand your interests better, so that we can try to predict what other products, services and information you might be most interested in. This enables us to tailor our communications to make them more relevant and interesting for you. Looking at your browsing behaviour and purchases helps us to understand you as a customer better and it allows us to provide you with personalised services and communications. We may also measure your responses to marketing communications relating to products and services we offer, which enables us to offer you products and services that better meet your needs as a customer.
+We want to ensure that marketing communications relating to our products and services, including online advertising, are relevant to your interests. To do this, we may use your personal data to understand your interests better, so that we can try to predict what other products, services and information you might be most interested in.
+
+This enables us to tailor our communications to make them more relevant and interesting for you. Looking at your browsing behaviour and purchases helps us to understand you as a customer better and it allows us to provide you with personalised services and communications. We may also measure your responses to marketing communications relating to products and services we offer, which enables us to offer you products and services that better meet your needs as a customer.  
+
+If you don’t want us to personalise in this way you can opt-out of personalisation [here.](https://www.parcelforce.com/profiling-opt-out)  If you opt-out of personalisation we will also stop sending out marketing communications to you.
 
 **Changing your marketing preferences:**
 
@@ -644,10 +648,14 @@ You may still receive service-related communications from us. For example, you m
 
 If you have registered through our royalmail.com or parcelforce.com websites, you can change your marketing preferences online at any time:
 
-  * Marketing preferences provided through royalmail.com 
+  * Marketing preferences provided through royalmail.com
+
     * You can change your preferences for receiving marketing communications through the ‘My Account’ section of the Royal Mail website: <https://www.royalmail.com/user/login>
-  * Marketing preferences provided through parcelforce.com 
+
+  * Marketing preferences provided through parcelforce.com
+
     * Account customers can change their preferences for receiving marketing communications through the 'My Profile’ section of the Parcelforce website, [login here](https://www.parcelforce.com/user/login)
+
 
 
 
@@ -686,10 +694,15 @@ Personal data may be shared with regulators, such as the Information Commissione
 If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies. Information may be shared through the Cifas National Fraud Database (<https://www.cifas.org.uk/services/national-fraud-database>). Law enforcement agencies may access and use this information. Royal Mail Group and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
 
   * Checking details on applications for credit and credit-related or other facilities
+
   * Managing credit and credit-related accounts or facilities
+
   * Recovering debt
+
   * Checking details on proposals and claims for all types of insurance
+
   * Checking details of job applicants and employees
+
 
 
 
@@ -702,8 +715,11 @@ We may send transfer personal data outside of the UK where a Royal Mail Group co
 We may send information outside of the UK where we use a service provider or technology provider based overseas. Where we send personal data outside the European Economic Area ("EEA") we will ensure that suitable safeguards are in place to protect the information. For example, these safeguards might include:
 
   * We’ll use the model contractual clauses provided by the European Commission
+
   * The European Commission will decide that the country or international organisation has an adequate level of personal data protection
+
   * The information will be handled by an organisation that is providing a level of protection that’s approved by the European Commission. For example, the Privacy Shield scheme for organisations based in the USA
+
 
 
 
