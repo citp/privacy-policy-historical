@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dimemag.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627074220id_/https%3A//uproxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimemag.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225194747id_/https%3A//uproxx.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – UPROXX
 
 Updated: May 23, 2017
 
