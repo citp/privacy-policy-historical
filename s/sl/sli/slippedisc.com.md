@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slippedisc.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412235425id_/https%3A//slippedisc.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slippedisc.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225163910id_/https%3A//slippedisc.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Slipped Disc | Cookies & Privacy Policy
 
