@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215605id_/https%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200816id_/https%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Yoast
 
@@ -24,7 +24,7 @@ Some of our products will ask you to identify with either Google or Facebook so 
 
 ## Personal Information
 
-When you comment or subscribe to an email list, we ask for your name & email address. When you buy a product, we will ask for your name and email address as well, and we might gain some other info like your website’s URL. Your email and any other information will only be used to contact you about updates on Yoast. Your **personal information will not be distributed** to anyone for any purpose.
+When you comment or subscribe to an email list, we ask for your name & email address. When you buy a product, we will ask for your name, address and email address as well, and we might gain some other info like your website’s URL. Your email and any other information will only be used to contact you about updates on Yoast. Your **personal information will not be distributed** to anyone for any purpose.
 
 ## Security
 
