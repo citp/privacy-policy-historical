@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elitepvpers.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191655id_/https%3A//www.elitepvpers.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitepvpers.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225110109id_/https%3A//www.elitepvpers.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Los Hermanos S.A. collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.elitepvpers.com](http://www.elitepvpers.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Los Hermanos S.A..
+This Privacy Policy governs the manner in which Los Hermanos S.A. collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.elitepvpers.com](https://www.elitepvpers.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Los Hermanos S.A..
 
 **Personal identification information**
 
@@ -45,7 +45,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google Inc. ("Google"). Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. [Privacy Policy](http://www.google.com/privacy_ads.html)
+Some of the ads may be served by Google Inc. ("Google"). Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. [Privacy Policy](https://www.google.com/privacy_ads.html)
 
 **Google Analytics**
 
