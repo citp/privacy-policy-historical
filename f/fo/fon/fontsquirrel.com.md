@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fontsquirrel.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624073232id_/https%3A//www.fontsquirrel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontsquirrel.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225200012id_/https%3A//www.fontsquirrel.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Font Squirrel
+# Privacy Policy | Font Squirrel
 
 ### What Personal Information Do We Collect?
 
