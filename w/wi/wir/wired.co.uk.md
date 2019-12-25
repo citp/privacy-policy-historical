@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wired.co.uk privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616213748id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired.co.uk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225205151id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Condé Nast Publications Ltd.
 
@@ -67,7 +67,7 @@ When you purchase a product or service from us, such as subscribing to one of ou
 
 ### Online identifiers
 
-When you visit one of our websites, we collect information about your web visit, such as how long you visited, what sites you visited or pages you looked at, your IP address and where you were when you visited, what sort of device you were using when you visited (such as a mobile phone or type of desktop PC, Mac etc).
+When you visit one of our websites, we collect information about your web visit, such as how long you visited, what sites you visited or pages you looked at, your IP address and where you were when you visited, what sort of device you were using when you visited (such as a mobile phone or type of desktop PC, Mac etc), and information identifying the language used by your Device.
 
 ### Behavioural data
 
