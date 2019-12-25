@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wootric.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905152546id_/https%3A//www.wootric.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wootric.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225052604id_/https%3A//www.wootric.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Wootric
 
 Effective day 25 May 2018  
 If you are a visitor to a Wootric Website or a customer of a Wootric Service, then except as expressly set forth below, this Privacy Policy applies to your use of such Website or Service.  
