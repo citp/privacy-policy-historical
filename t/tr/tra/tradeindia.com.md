@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624180831id_/https%3A//www.tradeindia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225114750id_/https%3A//www.tradeindia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Infocom Network Limited Privacy Policy
 
@@ -23,7 +23,7 @@ We are committed to respecting Your online privacy. We further recognize Your ne
 
 
  **a.** Personal data such as, but not limited to, Name, Location, Password, Email ID, Mobile Number, etc.  
-**b.** Tracking Information such as, but not limited to the IP address of your device and Device ID when connected to the Internet. [This information may include the URL that you just came from (whether this URL is on the Website or not), which URL you next go to (whether this URL is on the Website or not), your computer browser information,and other information associated with your interaction with the Site. 
+ **b.** Tracking Information such as, but not limited to the IP address of your device and Device ID when connected to the Internet. [This information may include the URL that you just came from (whether this URL is on the Website or not), which URL you next go to (whether this URL is on the Website or not), your computer browser information,and other information associated with your interaction with the Site. 
 
 This privacy policy also applies to data we collect from users who are not registered as members of this site,including, but not limited to, browsing behaviour, pages viewed etc. We also collect and store personal information provided by you from time to time on the Site. We only collect and use such information from you that we consider necessary for achieving a seamless, efficient and safe experience, customized to your needs including:
 
@@ -73,10 +73,10 @@ We use data collection devices such as "cookies" on certain pages of our Website
  **a.** You only need to log in once if you're navigating secure areas of the site.  
  **b.** Our server can distinguish between your computer and other users, so you can see the information that you have requested. You can choose to accept or decline cookies by modifying your browser settings if you prefer. This may prevent you from taking full advantage of the Website. We also use various third-party cookies for usage, behavioral, analytics and preferences data. The following are the different types of Cookies used on the Website.
 
-**a. cookies:** To identify the user and share the content that he or she requested for.
+ **a. cookies:** To identify the user and share the content that he or she requested for.
 
-**b. Functionality cookies:** For customized user experience and resuming past course progress.  
-**c. Tracking, optimization and targeting cookies:** To capture usage metric on device, operating system,browser etc. To capture behavioral metrics for better content delivery. To cater and suggest most suited products and services.
+ **b. Functionality cookies:** For customized user experience and resuming past course progress.  
+ **c. Tracking, optimization and targeting cookies:** To capture usage metric on device, operating system,browser etc. To capture behavioral metrics for better content delivery. To cater and suggest most suited products and services.
 
 Cookies table:
 
@@ -86,7 +86,7 @@ The Website uses the following Cookies:
 
 | 
 
- **TRADE_INDIA_SESSION_COOKIE**  
+ **TI_SESSION_COOKIE**  
   
 ---|---  
   
@@ -158,7 +158,7 @@ Due to the existing regulatory environment, we cannot ensure that all of your pr
 
 As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However,the following describes some of the ways that your personally identifiable information may be disclosed:  
  **a.** External Service Providers: There may be a number of services offered by external service providers that help you use our Websites. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy.  
-**b.** Law and Order: We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
+ **b.** Law and Order: We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
 
 12\. ACCESSING, REVIEWING AND CHANGING YOUR PROFILE
 
@@ -193,4 +193,4 @@ To withdraw your consent, or to request the download or delete your data with us
 If you have any questions or concerns regarding this privacy policy, you should contact us by sending an e-mail to [helpdesk@tradeindia.com](mailto:helpdesk@tradeindia.com) .
 
 Please note that this policy may be changed and or updated at future dates so do check periodically.  
-**Last Updated : 25/05/2018**
+ **Last Updated : 25/05/2018**
