@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartrip.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050710id_/https%3A//www.cleartrip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartrip.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225193157id_/https%3A//www.cleartrip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cleartrip
 
@@ -22,9 +22,9 @@ If you have any questions about our Privacy Policy, you can contact us at [priva
 
 2.1 On your accessing of the Booking Platform, we may process the following categories of information about you, such as:
 
-  * **Personal details** : your username or login details; e-mail id; contact number(s); 
+  * **Personal details** : your username or login details; e-mail id; contact number(s);
   * **Booking information** : which includes information about your travel, PNR details, bookings, co-passengers, travel preferences etc.
-  * **Demographic information** : gender; age/date of birth; nationality; 
+  * **Demographic information** : gender; age/date of birth; nationality;
   * **Location information** : location data that describes the precise geographic location of your device (“Precise Location Data”).
   * **Purchase and payment details** : records of travel services purchases and prices; invoice records; payment records; payment method; cardholder or account-holder name; payment amount; and payment date.
   * Other information that may be requested or gathered while you visit, access or use the Booking Platform.
@@ -35,14 +35,14 @@ If you have any questions about our Privacy Policy, you can contact us at [priva
 2.2 We also collect other kinds of information from you or other sources, which we refer to as “ **Other Information** ” in this Policy, which may include but is not limited to:
 
   * Information about your use of the Services, such as usage data and statistical information, which may be aggregated.
-  * Browsing history on the Booking Platform; 
+  * Browsing history on the Booking Platform;
   * Non-precise information about the approximate physical location (for example, at the city) of a user’s computer or device derived from the IP address of such computer or device (“GeoIP Data”).
   * Device identification (“ID”), which is a distinctive number associated with a smartphone or similar handheld device, but is different than a hardware serial number.
   * Internet Protocol (“IP”) address, which is a unique string of numbers automatically assigned to your device whenever you access the Internet.
-  * Internet connection means, such as internet service provider (“ISP”), mobile operator, WiFi connection, service set identifier (“SSID”), International Mobile Subscriber Identity (“IMSI”) and International Mobile Equipment Identity (“IMEI”). 
+  * Internet connection means, such as internet service provider (“ISP”), mobile operator, WiFi connection, service set identifier (“SSID”), International Mobile Subscriber Identity (“IMSI”) and International Mobile Equipment Identity (“IMEI”).
   * Information collected through the use of cookies, eTags, Javascript, pixel tags, device ID tracking, anonymous identifiers and other technologies, including information collected using such methods and technologies about (i) your visits to the Booking Platform and engagement with, the Services, content and ads on third party websites, applications, platforms and other media channels (“Channels”), and (ii) your interaction with emails including the content and ads therein (collectively, “Online Data”).
   * Device type, settings and software used.
-  * Log files, which may include IP addresses, browser type, ISP referring/exit pages, operating system, 
+  * Log files, which may include IP addresses, browser type, ISP referring/exit pages, operating system,
   * Web Beacons, which are electronic files that allow a website to count users who have visited that page or to access certain cookies.
   * Pixel Tags, also known as clear GIFs, beacons, spotlight tags or web bugs, which are a method for passing information from the user’s computer to a third party website.
   * Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5.
@@ -60,7 +60,7 @@ Under certain circumstances and depending on applicable law, some of this Other 
 
 3.1 We do not seek to collect or otherwise Process your Sensitive Personal Information. Where we need to Process your Sensitive Personal Information for legitimate purpose, we do so in accordance with applicable law. The Services are not intended for use by children.
 
-3.2 We do not collect or otherwise Process Personal Information about race, religion, sexual orientation or health or any other information that may be deemed to be sensitive under GDPR (collectively, “ **Sensitive Personal Information** ”) in the ordinary course of our business. 
+3.2 We do not collect or otherwise Process Personal Information about race, religion, sexual orientation or health or any other information that may be deemed to be sensitive under GDPR (collectively, “ **Sensitive Personal Information** ”) in the ordinary course of our business.
 
 3.3 Children: The Travel Services are not intended for the use by Children below the age of 18 years. For availing the services on Booking Platform by the children below 18 years, parental consent will be necessary.
 
@@ -92,7 +92,7 @@ We may process your User Information to contact you via email, telephone, SMS or
 
 ## 9\. What Information We Disclose to Third Parties
 
-9.1 We may disclose your User Information to other entities within the Company group, for legitimate business purposes (including operating the Services, and providing services to you), in accordance with applicable law. 
+9.1 We may disclose your User Information to other entities within the Company group, for legitimate business purposes (including operating the Services, and providing services to you), in accordance with applicable law.
 
 In addition, we may disclose your User Information to:
 
@@ -103,13 +103,13 @@ In addition, we may disclose your User Information to:
   * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defence of legal rights;
   * any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security;
   * any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganisation, dissolution or liquidation);
-  * to third parties whose practices are not covered by this Privacy Policy (e.g., third party providers of goods and services, marketing and advertising companies and agencies, content publishers and retailers). 
+  * to third parties whose practices are not covered by this Privacy Policy (e.g., third party providers of goods and services, marketing and advertising companies and agencies, content publishers and retailers).
 
 
 
 9.2 When you use a co-branded service (a service operated with a partner of Cleartrip), or register or otherwise provide information on a co-branded site, you grant us permission to pass the collected information back to that partner, which may include third party service providers whose services are embedded into and/or appear within the Services;
 
-9.3 Cleartrip may use third party advertising service companies for online behavioral advertising (“ **OBA** ”) or otherwise, and perform related services when you use our Services. Often, these third party advertising companies employ cookies and other technologies to measure the effectiveness of website, app and to understand the booking behavior of the User. We also engage third party providers to assist with the segmentation of this data. 
+9.3 Cleartrip may use third party advertising service companies for online behavioral advertising (“ **OBA** ”) or otherwise, and perform related services when you use our Services. Often, these third party advertising companies employ cookies and other technologies to measure the effectiveness of website, app and to understand the booking behavior of the User. We also engage third party providers to assist with the segmentation of this data.
 
 9.4 We may engage third party providers to assist with the collection, storage and segmentation of Online Data and the providers are required to maintain the confidentiality of this information. These third party providers may collect User Information from our Services for their own purposes, including but not limited to monitoring fraud around the web.
 
@@ -123,9 +123,9 @@ In addition, we may disclose your User Information to:
 
 ## 11\. Data Security
 
-11.1 We have implemented reasonable technical and organizational security measures to protect your User Information. Please ensure that any Personal Information that you send to us is send securely. 
+11.1 We have implemented reasonable technical and organizational security measures to protect your User Information. Please ensure that any Personal Information that you send to us is send securely.
 
-11.2 In certain instances we may use Secure Sockets Layer encryption and/or transfer certain User Information in a non-human readable format to provide protection. However, we cannot guarantee there will not be a breach, and we are not responsible for any breach of security or for the actions of any third parties. 
+11.2 In certain instances we may use Secure Sockets Layer encryption and/or transfer certain User Information in a non-human readable format to provide protection. However, we cannot guarantee there will not be a breach, and we are not responsible for any breach of security or for the actions of any third parties.
 
 11.3 Because the internet is an open system, the transmission of information via the internet is not completely secure. Although we will implement reasonable measures to protect your information, we cannot guarantee the security of your data transmitted to us using the internet. Any such transmission is at your own risk and you are responsible for ensuring that any Personal Information that you send to us are sent securely.
 
@@ -145,7 +145,7 @@ We take every reasonable step to ensure that your User Information that we Proce
 
 ## 15\. What Can I Do to Control My Information?
 
-You can directly take steps to unsubscribe to the newsletters that you receive from us. Please allow fifteen to thirty business days for change to take effect. On some services, pertaining to transactional communication, you may continue to receive emails as a part of the travel booking Service availed on the Booking Platform. 
+You can directly take steps to unsubscribe to the newsletters that you receive from us. Please allow fifteen to thirty business days for change to take effect. On some services, pertaining to transactional communication, you may continue to receive emails as a part of the travel booking Service availed on the Booking Platform.
 
 If you are an EU resident, you may have certain rights including: the right not to provide your Personal Information to us; the right to access your Personal Information; the right to request erasure, or restricting of Processing of your Personal Information; the right to have your Personal Information transferred to another controller; the right to withdraw your consent; and the right to lodge complaints with supervisory authorities. We may require proof of or need to verify your identity before we can give effect to these rights.
 
@@ -159,10 +159,11 @@ If you are an EU resident, you may have certain rights including: the right not 
 
 If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of User Information carried out by us, or on our behalf, please contact:
 
-Cleartrip Private Limited Kind Attn: Legal Department  
-Unit No.1, Ground Floor, DTC Building  
-Sitaram Mill Compound, Delisle Road  
-Lower Parel (East), Mumbai 400011  
+Cleartrip Private Limited  
+Kind Attn: Legal Department  
+06, Godrej Business District  
+Pirojshanagar Vikhroli  
+Mumbai 400079  
 Maharashtra, India
 
 Email: [privacy@cleartrip.com](mailto:privacy@cleartrip.com)
