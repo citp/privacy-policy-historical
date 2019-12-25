@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629150040id_/https%3A//www.zuora.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225055252id_/https%3A//www.zuora.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Zuora
 
@@ -6,7 +6,7 @@
 
 In this Privacy Statement (“Statement”), we, Zuora, Inc. (“Zuora”), describe our data collection and usage practices with respect to personal data we collect through [http://www.zuora.com](http://www.zuora.com/) and other publicly-available web pages that directly link to this Statement (collectively the “Site”). This Statement describes how Zuora collects, uses, and stores the personal information and other information you provide on the Site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. If you are a resident of the European Economic Area (“EEA”) additional terms can be found in our EEA Supplemental Privacy Statement (<https://www.zuora.com/EEA-supplemental-statement/>). This Statement only covers information collected through the Site and not information that we collect offline, through other websites, or through our subscription services. Zuora will use data loaded by customers into our subscription services in accordance with the contractual agreement(s) between Zuora and that customer.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=8d0ca0a2-de3a-4ed6-bf00-afb402bdeed2 "TRUSTe Privacy")
+[](https://privacy.truste.com/privacy-seal/validation?rid=37823b36-afb9-4c4b-9825-9e8d9ac113bc)
 
 **Information That You Provide**
 
