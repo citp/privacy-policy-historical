@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the wepay.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303044139id_/https%3A//go.wepay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wepay.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225143706id_/https%3A//go.wepay.com/privacy-policy) for the most accurate reproduction.*
 
-# WePay | Privacy Policy for US, Canada, UK
-
-All WePay users must read and agree to the Terms of Service and Privacy Policy for the country in which they are located.
+# Privacy Policy | WePay
 
 ## JPMorgan Chase Merchant Services’ Online Privacy Policy for the United States and Canada
+
+For the UK Privacy Policy, click here.
+
+Last update: October 24, 2018.
 
 Your privacy is important to us. This Online Privacy Policy explains how we collect, share, use, and protect information when you visit or use this online service (our "online service").
 
@@ -16,25 +18,25 @@ As you review this Online Privacy Policy, here are a few general principles to k
 
 
 
-### **Information We Collect**
+## Information We Collect
 
-_Personal Information_
+Personal Information
 
 When you visit or use our online services, we may collect personal information from or about you such as your name, email address, mailing address, telephone number(s), account numbers, limited location information (for example, a postal code), user name and password. We may also collect payment card information, tax identification numbers, driver’s license numbers (or comparable information) when you provide such information while using our online services and where we believe it is reasonably required for ordinary business purposes.
 
-_Usage and Other Information_
+Usage and Other Information
 
 In addition to the personal information described above, we may collect certain information about your use of our online services. For example, we may capture the IP address of the device you use to connect to the online service, the type of operating system and browser you use, and information about the site you came from, the parts of our online service you access, and the site you visit next. We or our third-party partners may also use cookies, web beacons or other technologies to collect and store other information about your visit to, or use of, our online services. In addition, we may later associate the usage and other information we collect online with personal information about you.
 
-_Chase Mobile_
+Chase Mobile
 
 For your convenience, Chase offers you the ability to access some of our products and services through mobile applications and mobile-optimized websites ("Chase Mobile"). When you interact with us through Chase Mobile, we may collect information such as unique device identifiers for your mobile device, your screen resolution and other device settings, information about your location, and analytical information about how you use your mobile device. We may ask your permission before collecting certain information (such as precise geo-location information) through Chase Mobile.
 
-_Additional Sources of Information_
+Additional Sources of Information
 
 We may also collect information about you from additional online and offline sources including from co-branded partner sites or commercially available third-party sources, such as credit reporting agencies. We may combine this information with the personal and other information we have collected about you under this Online Privacy Policy.
 
-### **Use of Information**
+## Use of Information
 
 We use the information discussed above in a number of ways, such as:
 
@@ -53,7 +55,7 @@ We use the information discussed above in a number of ways, such as:
 
 We may also use data that we collect on an aggregate or anonymous basis (such that it does not identify any individual customers) for various business purposes, where permissible under applicable laws and regulations.
 
-### **Disclosure of Information**
+## Disclosure of Information
 
 We may share the information we collect from and about you with our affiliates and other third parties. For example, we may share your information with:
 
@@ -62,12 +64,11 @@ We may share the information we collect from and about you with our affiliates a
   * Other companies to bring you co-branded services, products or programs;
   * Third parties or affiliates in connection with a corporate transaction, such as a sale, consolidation or merger of Chase businesses; and
   * Other third parties to comply with legal requirements such as the demands of applicable subpoenas and court orders; to verify or enforce our terms of use, our other rights, or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect the rights, property or security of our customers or third parties.
+  * We may share anonymous or aggregated information with third parties to help deliver products, services, and content that are better tailored to the users of our online services and for other purposes.
 
 
 
-We may share anonymous or aggregated information with third parties to help deliver products, services, and content that are better tailored to the users of our online services and for other purposes.
-
-### **Understanding Cookies, Web Beacons and Other Tracking Technologies**
+## Understanding Cookies, Web Beacons and Other Tracking Technologies
 
 We, or our service providers, and other companies we work with may deploy and use cookies, web beacons, local shared objects and other tracking technologies for various purposes, such as fraud prevention and monitoring our advertising and marketing campaign performance. Some of these tracking tools may detect characteristics or settings of the specific device you use to access our online services.
 
@@ -77,25 +78,28 @@ We, or our service providers, and other companies we work with may deploy and us
 
 
 
-### **Linking to Third-Party Websites**
+## Linking to Third-Party Websites
 
 Chase Merchant Services may provide links to websites that are owned or operated by other companies ("third-party websites"). When you use a link online to visit a third-party website, you will be subject to that website’s privacy and security practices, which may differ from ours. You should familiarize yourself with the privacy policy, terms of use and security practices of the linked third-party website before providing any information on that website.
 
-### **Security**
+## Security
 
 We use reasonable physical, electronic, and procedural safeguards that comply with industry standards to protect and limit access to personal information. This includes device safeguards and secured files and buildings. Please note that information you send to us electronically may not be secure when it is transmitted to us. We recommend that you do not use unsecure channels to communicate sensitive or confidential information (such as your tax identification number) to us.
 
-### **Changes to this Online Privacy Policy**
+## Changes to this Online Privacy Policy
 
 We may change this Online Privacy Policy from time to time. When we do, we will let you know by appropriate means such as by posting the revised policy on this page with a new "Last Updated" date. Any changes to this Online Privacy Policy will become effective when posted unless indicated otherwise.
 
-### **Canadian Users**
+## Canadian Users
 
 The file containing your personal information is maintained on our servers or those of our service providers and will be accessible authorized employees, representatives and agents. You may request access to or correction of the personal information in our custody or control, or ask any questions about our personal information handling practices (including our use of service providers outside of Canada) by writing to our Chief Privacy Officer at:
 
-100 Consilium Place, Suite 1700  
-Toronto (Ontario)  
-M1H 3E3
+100 Consilium Place, Suite 1700
+
+Toronto (Ontario)
+
+M1H 3E3  
+
 
 ## JPMorgan Chase Merchant Services’ Online Privacy Policy for the UK
 
@@ -105,13 +109,13 @@ Last updated: May 21, 2018
 
 Your privacy is important to us. This Online Privacy Policy explains what and how we collect, share, use, and protect your personal information when you visit or use this and other online services offered by the JPMorgan Chase & Co. family of companies ("J.P. Morgan") that link to or reference this Policy (collectively, our "online services"). Contact details are provided below. Other privacy principles or policies could apply depending on how you interact with us, the financial products or services you may ultimately obtain from us, or the jurisdiction in which we are doing business with you. You can access many of these policies using the links at the bottom of this page.
 
-### We work hard to protect your information.
+## We work hard to protect your information.
 
   * We take our responsibility to protect the privacy and confidentiality of your information, including personal information, very seriously. We maintain physical, electronic and procedural safeguards that comply with applicable legal standards to secure such information from unauthorized access and use, accidental or unlawful alteration and destruction, and other unlawful or unauthorized forms of Processing. We hold our employees accountable for complying with relevant policies, procedures, rules and regulations concerning the privacy and confidentiality of information.
 
 
 
-### We want you to understand the type of information we collect and how we use it.
+## We want you to understand the type of information we collect and how we use it.
 
   * The types of personal information we collect from you when you visit or use our online services include your name, email address, mailing address, telephone number(s), account numbers, limited location information (for example, a zip code to help you find a J.P. Morgan office near you), user name and password. We may also collect payment card information, Social Security numbers, driver’s license numbers (or comparable), gender, race, nationality, and biometric identifiers when you provide it directly to us while using our online services and where we believe it is reasonably required for ordinary business purposes. In some instances, we create personal information about you, such as records of your interactions with us, and details of your accounts. We do not seek to collect or process sensitive personal information unless it is required or permitted by law; necessary for the detection or prevention of crime; necessary to establish, exercise or defend legal rights; or we have your prior explicit consent.
   * In addition to the personal information described above, we collect certain information about your use of our online services. For example, we capture the IP address of the device you use to connect to the online service, the type of operating system and browser you use, and information about the site you came from, the parts of our online service you access, and the site you visit next. As explained in more detail in our [Cookies Policy](https://www.jpmorgan.com/country/GB/EN/cookies), we and our third-party partners use cookies (as well as web beacons or other technologies) to collect and store this and other information about your visit to, or use of, our online services. We may later associate the usage and other information we collect online with personal information about you, as permitted or required by law.
@@ -121,7 +125,7 @@ Your privacy is important to us. This Online Privacy Policy explains what and ho
 
 
 
-### We aim to collect only what we need, keep it up-to-date and remove it when we no longer need it.
+## We aim to collect only what we need, keep it up-to-date and remove it when we no longer need it.
 
   * We take reasonable steps to ensure that the personal information we process is limited to what we require in connection with the purposes set out in this Policy; it is accurate and, where necessary, kept up to date; and it is erased or rectified without delay if it is inaccurate. From time to time we may ask you to confirm the accuracy of your personal information.
   * For some of our online services, you can review or update certain account information by logging in and accessing the "Client Center" or a similar user profile section. If you cannot change the incorrect information online, or you prefer to request changes offline, please contact your J.P. Morgan representative using the contact information listed on your account statements, records, or other account materials.
@@ -146,7 +150,7 @@ Your privacy is important to us. This Online Privacy Policy explains what and ho
 
 
 
-### We transmit, transfer or process information to, or through, other countries in the world, as we deem necessary, appropriate or consistent with legal or regulatory obligations.
+## We transmit, transfer or process information to, or through, other countries in the world, as we deem necessary, appropriate or consistent with legal or regulatory obligations.
 
   * As a global company, we strive to provide you with access to the highest quality financial products and services wherever you are. To do this, we sometimes share your personal information among members of the JPMorgan Chase & Co. family of companies or service providers and other third parties that are located outside your home country. These countries may have different laws and data protection compliance requirements, with some providing more protection than others. J.P. Morgan will take appropriate steps to ensure your personal information is handled as described in this Online Privacy Policy.
   * Where required, we comply with applicable legal frameworks relating to the transfer of personal information. For example, under the European rules designed to adequately protect personal information transferred outside the European Economic Area we transfer personal information on the basis of determinations by the European Commission that certain countries adequately protect personal information, our Binding Corporate Rules, approved Model Contractual Clauses, and other valid transfer mechanisms.
@@ -163,42 +167,26 @@ Your privacy is important to us. This Online Privacy Policy explains what and ho
     * have personal information transferred to another party;
     * withdraw consent to processing; and
     * lodge complaints with a data protection authority regarding any processing by us or on our behalf.
-  
-To exercise one or more of these rights or to ask a question about them, please use the contact details provided below.
+  * To exercise one or more of these rights or to ask a question about them, please use the contact details provided below.
   * In addition to the rights you have under applicable data protection laws, we may give you choices regarding the sharing of personal information with affiliates and third parties based on your relationship(s) with us as a financial institution. Choices you have about the sharing of your personal information will be described in the privacy policies or notices you receive from us, such as those provided in connection with particular financial products or services you obtain from us.
 
 
 
 ### We respect your decisions about the collection of personal information related to your online activities over time and across different websites for advertising purposes.
 
-  * J.P. Morgan does not allow unaffiliated third parties to collect personal information about your online activities when you visit our online services. Nor do we use personal information collected across non-affiliated websites for the purpose of serving you advertising related to your browsing behavior. If we engage in this practice in the future, we will provide appropriate notice and choice so that you can opt-out of the practice.
+  * J.P. Morgan does not allow unaffiliated third parties to collect personal information about your online activities when you visit our online services. Nor do we use personal information collected across non-affiliated websites for the purpose of serving you advertising related to your browsing   behavior. If we engage in this practice in the future, we will provide appropriate notice and choice so that you can opt-out of the practice.
 
 
 
 ### We tell you when our privacy policies and practices change.
 
-  * We may change this Online Privacy Policy from time to time. When we do, we will let you know by appropriate means such as by posting the revised text on this page with a new "Last Updated" date. All changes will become effective when posted unless indicated otherwise. We encourage you to regularly check this page to review any changes we might make.
+  * We may change this Online Privacy Policy from time to time. When we do, we will let you know by appropriate means such as by posting the revised text on this page with a new "Last Updated" date. All changes will become effective when posted unless indicated otherwise. We encourage you to regularly check this page to review any changes we might make. 
 
 
 
-### We want to hear from you if you have questions.
+## We want to hear from you if you have questions.
 
-  * If you have any comments, questions or concerns about any of the information in this Online Privacy Policy, or any other issues relating to the processing of your personal information by J.P. Morgan under this Policy, please contact your regular J.P. Morgan client service contact, or: 
-
-Global Privacy Office, JPMorgan Chase & Co.  
-270 Park Avenue, New York, NY 10017  
-email: [jpmc.cpo@jpmchase.com](mailto:jpmc.cpo@jpmchase.com)
-
+  * If you have any comments, questions or concerns about any of the information in this Online Privacy Policy, or any other issues relating to the processing of your personal information by J.P. Morgan under this Policy, please contact your regular J.P. Morgan client service contact, or: Global Privacy Office, JPMorgan Chase & Co. 270 Park Avenue, New York, NY 10017 email: [jpmc.cpo@jpmchase.com](mailto:jpmc.cpo@jpmchase.com)
   * If you would like to contact the J.P. Morgan Data Protection Officer, please send an email to [EMEA.Privacy.Office@jpmchase.com](mailto:EMEA.Privacy.Office@jpmchase.com).
-
-
-
-## Related Links
-
-  * [J.P. Morgan Privacy Statement for Merchant Services](https://www.jpmorgan.com/country/GB/EN/merchant-services/ms-privacy-statement)
-  * [J.P. Morgan EMEA Privacy Policy for Corporate & Investment Bank](http://jpmorgan.com/privacy/emea)
-  * [J.P. Morgan EMEA Privacy Policy for Asset Management](https://am.jpmorgan.com/gb/en/asset-management/gim/adv/legal/external-privacy-policy-site)
-  * [J.P. Morgan EMEA Privacy Policy for Wealth Management](https://am.jpmorgan.com/private-bank/public/gl/en/emea-important-information)
-  * [Global Privacy Code (Binding Corporate Rules)](https://www.jpmorgan.com/directdoc/emea_personal.pdf)
 
 
