@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snaptubeapp.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093701id_/https%3A//www.snaptubeapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snaptubeapp.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225031408id_/https%3A//www.snaptubeapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
