@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519072826id_/https%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225040637id_/https%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - This Is Anfield
 
@@ -9,7 +9,7 @@ This Is Anfield is operated by Soccer Publishing Limited. Registered UK company 
 
 Commercial address: Bulloch House, 10 Rumford Place, Liverpool, L3 9DG.
 
-This Privacy Policy governs the manner in which Soccer Publishing Limited collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.thisisanfield.com and https://forums.thisisanfield.com website (“Site”). The Site includes all employees, freelancers and third-party partners of Soccer Publishing Limited.
+This Privacy Policy governs the manner in which Soccer Publishing Limited collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://thisisanfield.com and https://forums.thisisanfield.com website (“Site”). The Site includes all employees, freelancers and third-party partners of Soccer Publishing Limited.
 
 ### Personal identification information
 
@@ -78,4 +78,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://www.thisisanfield.com/site/contact/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://thisisanfield.com/site/contact/).
