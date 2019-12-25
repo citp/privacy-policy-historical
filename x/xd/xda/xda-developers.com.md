@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230071642id_/https%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225053145id_/https%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
 
 # XDA-Developers Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy (“Policy”) describes and governs the information collect
 
   * xda-developers.com
   * [XDA Labs](https://www.xda-developers.com/xda-labs/)
-  * [Navigation Gestures](https://play.google.com/store/apps/details?id=com.xda.nobar) (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.nobar)
+  * Navigation Gestures (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.nobar)
   * XDA (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.labs.play)
   * [XDA Feed](https://forum.xda-developers.com/android/apps-games/feed-t3585865) (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.feed)
   * [One-Handed Mode](https://play.google.com/store/apps/details?id=com.xda.onehandedmode) (available on Google Play: https://play.google.com/store/apps/details?id=com.xda.onehandedmode)
