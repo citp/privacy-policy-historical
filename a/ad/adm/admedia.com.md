@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admedia.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613044428id_/http%3A//admedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admedia.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225102258id_/https%3A//admedia.com/privacy) for the most accurate reproduction.*
 
 # AdMedia Online Ad Network | Advertiser Solutions
 
