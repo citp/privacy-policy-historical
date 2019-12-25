@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the freshservice.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231103id_/https%3A//www.freshworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshservice.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225191659id_/https%3A//www.freshworks.com/privacy) for the most accurate reproduction.*
 
 # Refreshing Cloud Business Suite | Privacy Notice Freshworks Inc
 
 ###### Effective Date  
-March 18, 2019
+October 1, 2019
 
-For prior version, please click [here](https://www.freshworks.com/privacy/25-may-2018/).
+For prior version, please click [here](https://www.freshworks.com/privacy/18-mar-2019/).
 
 Freshworks, Inc and its group companies (collectively “ **Freshworks** ”, "we", "us", and "ours") is committed to protecting your privacy. This Privacy Notice (“ **Notice** ”) describes how Freshworks processes Personal Data in its capacity as a controller (i.e. Freshworks decides what Personal Data is collected and what it is used for) or processor (i.e. Freshworks only processes the data as per the controller's instructions), as the case may be. It also describes your choices regarding use, access and correction of your Personal Data.
 
@@ -134,7 +134,7 @@ You understand that we will not be liable to any person for unauthorized publish
 
 ###### 10) Marketing communications.
 
-We may use your e-mail address, collected as part of Collected Data, to send our newsletters and/or marketing communications about our products and services. Where you have so requested, we will also send you marketing communications about our third party partners. If you no longer wish to receive these communications, you can opt out by following the instructions contained in the e-mails you receive or by contacting us at [support@freshworks.com](https://www.freshworks.com/privacy/support@freshworks.com).
+When you have agreed to, we may use your e-mail address, collected as part of Collected Data, to send our newsletters and/or marketing communications about our products and services. Where you have so requested, we will also send you marketing communications about our third party partners. If you no longer wish to receive these communications, you can opt out by following the instructions contained in the e-mails you receive or by contacting us at [support@freshworks.com](https://www.freshworks.com/privacy/support@freshworks.com).
 
 ###### What is our legal basis for processing Personal Data (EEA and Swiss visitors only)?
 
@@ -180,9 +180,22 @@ You can log in to our Websites using sign-in services such as Google, Facebook C
 
 #### SHARING OF PERSONAL DATA
 
-Except as outlined in this Notice and the Terms, Personal Data contained in Collected Data and Service Data will never be sold to or shared with other companies or organizations for commercial purposes. We process Personal Data in the United States and the European Economic Area (“ **EEA** ”) and in other countries through third parties that we may use. You may refer to the page [here](https://www.freshworks.com/privacy/data-hosting/) for more information on hosting options. Third parties with whom Collected Data is shared may include third-party payment processors who process your credit card and other payment information for Freshworks but are otherwise not permitted to store, retain or use such information. We may disclose your name, e-mail address and location with third party service providers solely for them to reach out to you on our behalf to collect feedback from you on our Service(s). Third parties that we utilize to assist in providing the Service(s) with whom Service Data may be shared are listed [here](https://www.freshworks.com/privacy/sub-processor/) (“ **Sub-Processors** ”). Further, we may transfer Personal Data to our Group Companies for the purposes identified in the Terms and this Notice. All such transfers are covered by the service agreements with the relevant recipients and we have taken appropriate safeguards to ensure that your Personal Data will remain protected in accordance with this Privacy Notice. Further details can be provided upon request.
+We process Personal Data in the United States and the European Economic Area (“ **EEA** ”) and in other countries through third parties that we may use. You may refer to the page [here](https://www.freshworks.com/privacy/data-hosting/) for more information on hosting options.
 
-Subject to the Terms and this Notice, we and our Group Companies shall have the right to access Customer’s Account and to process Service Data solely to the extent necessary to provide, enhance and improve the Service(s), including, without limitation, in response to Customer’s support requests. Our Sub-Processors will only be given access to Customer’s Account and Service Data as is reasonably necessary to provide the Service(s) and will be subject to confidentiality obligations in their service agreements.
+We may also share your Personal Data as follows:
+
+  * With third party assisting Freshworks in providing you the Service(s) ( **“Sub-Processors"**  listed [here](https://www.freshworks.com/privacy/sub-processor/)). Our Sub-Processors are given access to Customer’s Account and Service Data only as reasonably necessary to provide the Service(s) and will be subject to confidentiality obligations in their service agreements;
+  * With third party service providers providing services, such as research and analytics, marketing and data enrichment or for them to reach out to you on our behalf;
+  * With third-party payment processors who process your credit card and other payment information for Freshworks but are otherwise not permitted to store, retain or use such information;
+  * With third party partners for the purpose of assisting us in onboarding you and providing any further support needed to use our Service(s);
+  * With sponsors of contests for which you register;
+  * With third-party social media networks, advertising networks and websites;
+  * With affiliates within Freshworks and companies that we will acquire in the future when they are made part of the Freshworks group for customer support, marketing, technical operations, account management or organizational purposes and to provide, enhance and improve the Service(s);
+  * If we are involved in a merger, reorganization or other fundamental corporate change with a third party, or sell/buy a business unit to/from a third party, or if all or a portion of our business, assets or stock are acquired by a third party, with such third party including at the due diligence stage. In accordance with applicable laws, we will use reasonable efforts to notify you of any transfer of Personal Data to unaffiliated third party.
+
+
+
+All such transfers are covered by the service agreements with the relevant recipients and we have taken appropriate safeguards to ensure that your Personal Data will remain protected in accordance with this Privacy Notice. Further details can be provided upon request.
 
 #### INFORMATION THAT WE OBTAIN FROM THIRD PARTIES
 
