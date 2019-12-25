@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidcactus.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516134421id_/https%3A//assets.web.com/legal/English/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidcactus.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225113633id_/https%3A//assets.web.com/legal/English/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 1
 
