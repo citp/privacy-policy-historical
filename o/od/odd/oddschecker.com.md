@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddschecker.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624194235id_/https%3A//www.oddschecker.com/myoddschecker/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddschecker.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225115613id_/https%3A//www.oddschecker.com/myoddschecker/cookies) for the most accurate reproduction.*
 
 # My Oddschecker | Cookies | Oddschecker
 
@@ -69,4 +69,4 @@ Although the OBA data collected uses your browsing activity to understand your i
 
 We use a cookie placed by a company called Lotame to collect this non-personal data that is used for OBA purposes. To opt-out of the collection and use of data by Lotame for OBA on your browser (including a mobile browser if third-party cookies are enabled in your browser), you can click [here](http://www.lotame.com/opt-out-preference-manager/) and follow the instructions provided. Your opt-out choice is applied only to the browser from which you make the choice. Note that our opt-out is cookie based, and so if you delete your cookies, you may no longer be opted out and you may need to opt-out again.
 
-Please e-mail any questions or comments you have about this policy [click here](https://www.oddschecker.com/# "Feedback")
+Please e-mail any questions or comments you have about this policy [click here](https://support.oddschecker.com/hc/en-us/requests/new "Feedback")
