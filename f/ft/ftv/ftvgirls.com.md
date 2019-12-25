@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftvgirls.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102034936id_/https%3A//www.ftvgirls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftvgirls.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226001540id_/https%3A//www.ftvgirls.com/privacy.html) for the most accurate reproduction.*
 
 # FTVGirls Privacy Policy
 
