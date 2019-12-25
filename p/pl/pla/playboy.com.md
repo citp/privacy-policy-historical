@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playboy.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050453id_/https%3A//www.playboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboy.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225192932id_/http%3A//www.playboy.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Playboy | Articles, Celebrity Interviews, Parties, Products and Beautiful Women
+# Privacy Policy
 
 Last updated on September 20, 2018.
 
-This Privacy Policy applies only to the information Playboy.com, Inc. and its subsidiaries and affiliates (collectively, "PBCI," "we," or "us," or "our") collects through the websites, mobile-optimized websites, mobile applications, electronic devices, kiosks, and all other interactive services we provide, and all of the associated content, functionalities, and advertising (collectively the “Services”). This Privacy Policy governs the Services regardless of how you access them. The Privacy Policy describes:
+This Privacy Policy applies only to the information Playboy.com, Inc. and its subsidiaries and affiliates (collectively, “PBCI,” “we,” or “us,” or “our”) collects through the websites, mobile-optimized websites, mobile applications, electronic devices, kiosks, and all other interactive services we provide, and all of the associated content, functionalities, and advertising (collectively the “Services”). This Privacy Policy governs the Services regardless of how you access them. The Privacy Policy describes:
 
   1. The personal information we collect and how we collect it.
   2. What we do with the information we collect.
@@ -27,7 +27,7 @@ This Privacy Policy applies only to the information Playboy.com, Inc. and its su
 
 READ THIS PRIVACY POLICY CAREFULLY. BY USING THE SERVICES, YOU AGREE TO THE TERMS OF THIS POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.
 
-Some Services may have a specific, separate privacy policy that will govern use of those Services. In the event of a conflict between the terms of the Privacy Policy and the terms of the privacy governing a specific Service, the terms of the Service's privacy policy shall govern.
+Some Services may have a specific, separate privacy policy that will govern use of those Services. In the event of a conflict between the terms of the Privacy Policy and the terms of the privacy governing a specific Service, the terms of the Service’s privacy policy shall govern.
 
 ## 1\. The personal information we collect and how we collect it.
 
@@ -56,7 +56,7 @@ You can choose not to provide us with certain personal information, but that may
 
 ### 1.2 Information you post on or to the Services
 
-We also collect content, such as comments, that you choose to post to or on any of the Services. Other than the information described in section 1.1, posting content to the Services is completely optional and you may still use the Services if you do not choose to post content. 
+We also collect content, such as comments, that you choose to post to or on any of the Services. Other than the information described in section 1.1, posting content to the Services is completely optional and you may still use the Services if you do not choose to post content.
 
 Please be careful and responsible whenever you are online. If you use a forum, blog, channel, bulletin board, chat room, user commenting features, or other interactive sharing or social features that may be offered through the Services, any personal information you submit, disclose, or otherwise publish is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by us, and other third parties. In addition, such postings may appear on other websites or when searches are performed on the subject of your posting. If you post your email address or other personal information, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information if it has been reproduced on other websites or shared with third parties outside of our control.
 
@@ -66,12 +66,12 @@ If you choose to access our paid Services or to make a purchase, we will collect
 
 ### 1.4 Automatically-collected information
 
-We automatically collect certain information when you use the Services: 
+We automatically collect certain information when you use the Services:
 
-  * **Device information:** We collect information about the device that you use to access or use the Services, such as hardware model, operating system, browser information, and IP addresses. 
-  * **Mobile device information:** In addition to the device information described above, we collect certain information when you access the Services via a mobile device, such as the unique device identifier assigned to your device, operating system, and other device attributes. 
-  * **Location information:** We collect information about your location, such as general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services with location-based information, advertising, and features. For example, if your IP address indicates an origin in Los Angeles, the Services may be customized with Los Angeles-specific information and advertisements. In order to do this, your location information may be shared with our agents, vendors or advertisers. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details. 
-  * **Usage information:** We collect information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages and content viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, the frequency of your use of the Services, error logs, and other similar information. 
+  * **Device information:** We collect information about the device that you use to access or use the Services, such as hardware model, operating system, browser information, and IP addresses.
+  * **Mobile device information:** In addition to the device information described above, we collect certain information when you access the Services via a mobile device, such as the unique device identifier assigned to your device, operating system, and other device attributes.
+  * **Location information:** We collect information about your location, such as general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services with location-based information, advertising, and features. For example, if your IP address indicates an origin in Los Angeles, the Services may be customized with Los Angeles-specific information and advertisements. In order to do this, your location information may be shared with our agents, vendors or advertisers. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details.
+  * **Usage information:** We collect information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages and content viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, the frequency of your use of the Services, error logs, and other similar information.
 
 
 
@@ -83,13 +83,13 @@ We may also capture other data, such as search criteria and results. In some cas
 
 When you use the Services, we use persistent and session cookies and other similar tracking technologies to: (a) store your username and password; (b) analyze the usage of the Services by collecting the information discussed in section 1.4 above; (c) customize the Services to your preferences; and (d) control the advertising displayed by the Services, as well as advertisements that may be displayed on other websites or mobile applications. The cookies may reflect de-identified data linked to or derived from data you voluntarily have submitted to us, e.g., a hashed version of your email address that we may share with service providers, solely in non-human readable form. We and our vendors may also use other Internet technologies, such as Flash technologies, Web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Services, as well as serve you ads when you are using our Services and/or when you are on other websites when those cookies can be accessed. We also may include Web beacons in e-mail messages or newsletters to determine whether the message has been opened and for other analytics. As we adopt additional technologies, we may also gather additional information through other methods.
 
-Most browsers automatically accept cookies, but you can modify your browser settings to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline or otherwise disable cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove Flash cookies. To learn more about how to manage Flash cookies, you can visit the Adobe website and make changes at the Global Privacy Settings Panel. You have the right to opt out of non-essential cookies, such as for analytics or advertising purposes, at any time. 
+Most browsers automatically accept cookies, but you can modify your browser settings to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline or otherwise disable cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove Flash cookies. To learn more about how to manage Flash cookies, you can visit the Adobe website and make changes at the Global Privacy Settings Panel. You have the right to opt out of non-essential cookies, such as for analytics or advertising purposes, at any time.
 
 ### 1.6 Information from third parties
 
 We may obtain additional information about you from third parties such as marketers, partners, researchers, and others. We may combine information that we collect from you with information about you that we obtain from such third parties and information derived from any other subscription, product, or service we provide.
 
-### 1.7 Aggregate or de-identified data 
+### 1.7 Aggregate or de-identified data
 
 We may aggregate and/or de-identify information collected by the Services or via other means so that the information is not intended to identify you. Our use and disclosure of aggregated and/or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
 
@@ -103,7 +103,7 @@ We use the information that we collect for the following purposes:
 
 How information is used | Types of information | Legal basis for use under GDPR  
 ---|---|---  
-Process your transactions and maintain your account(s) | 
+Process your transactions and maintain your account(s)  | 
 
   * Contact information
   * Account credentials
@@ -119,7 +119,7 @@ Process your transactions and maintain your account(s) |
   * Necessary for the purposes of our legitimate interests of providing the Services
 
   
-Send you information about your relationship or transactions with us | 
+Send you information about your relationship or transactions with us  | 
 
   * Contact information
   * Transaction history
@@ -132,7 +132,7 @@ Send you information about your relationship or transactions with us |
   * Necessary for the purposes of our legitimate interests of providing the Services
 
   
-Send you alerts or other communications via SMS messages or other media or networks | 
+Send you alerts or other communications via SMS messages or other media or networks  | 
 
   * Contact information
   * Account preferences
@@ -144,7 +144,7 @@ Send you alerts or other communications via SMS messages or other media or netwo
   * Necessary for the purposes of our legitimate interests of providing the Services
 
   
-Notify you about new features of the Services, special events, or products, services, and special offers | 
+Notify you about new features of the Services, special events, or products, services, and special offers  | 
 
   * Contact information
   * Account preferences
@@ -178,7 +178,7 @@ Process and respond to your inquiries |
   * Necessary for the purposes of our legitimate interests of providing the Services
 
   
-Contact you with information that we believe will be of interest to you | 
+Contact you with information that we believe will be of interest to you  | 
 
   * Contact information
   * Account preferences
@@ -189,7 +189,7 @@ Contact you with information that we believe will be of interest to you |
   * Necessary for the purposes of our legitimate interests of providing the Services
 
   
-Attribute content to you that you make available through the Services (such as comments you post) | 
+Attribute content to you that you make available through the Services (such as comments you post)  | 
 
   * Contact information
 
@@ -199,7 +199,7 @@ Attribute content to you that you make available through the Services (such as c
   * Necessary for the purposes of our legitimate interests of providing the Services
 
   
-Generate and review reports and data about our user base and Service usage patterns | 
+Generate and review reports and data about our user base and Service usage patterns  | 
 
   * Device information
   * Mobile device information
@@ -213,7 +213,7 @@ Generate and review reports and data about our user base and Service usage patte
   * Necessary for the purposes of our legitimate interests of maintaining and improving the Services
 
   
-Perform analytics and research aimed at improving the accuracy, effectiveness, usability, or popularity of the Services | 
+Perform analytics and research aimed at improving the accuracy, effectiveness, usability, or popularity of the Services  | 
 
   * Device information
   * Mobile device information
@@ -227,7 +227,7 @@ Perform analytics and research aimed at improving the accuracy, effectiveness, u
   * Necessary for the purposes of our legitimate interests of maintaining and improving the Services
 
   
-Improve the content and features of the Services or develop new Services | 
+Improve the content and features of the Services or develop new Services  | 
 
   * Device information
   * Mobile device information
@@ -241,7 +241,7 @@ Improve the content and features of the Services or develop new Services |
   * Necessary for the purposes of our legitimate interests of improving the Services
 
   
-Allow us to personalize the content and advertising that you see on the Services and to understand how users interact with and use our advertisements and Services | 
+Allow us to personalize the content and advertising that you see on the Services and to understand how users interact with and use our advertisements and Services  | 
 
   * Device information
   * Mobile device information
@@ -255,7 +255,7 @@ Allow us to personalize the content and advertising that you see on the Services
   * Necessary for the purposes of our legitimate interests of providing the Services
 
   
-Enforce the legal terms that govern your use of the Services | 
+Enforce the legal terms that govern your use of the Services  | 
 
   * Contact information
   * Account credentials
@@ -287,7 +287,7 @@ Administer and troubleshoot the Services |
   * Necessary for the purposes of our legitimate interests of maintaining and improving the Services
 
   
-Associate your activities, customize content or tailor advertising across different devices and browsers that you use to access the Services (for instance, computers, tablets, mobile devices, applications and websites) | 
+Associate your activities, customize content or tailor advertising across different devices and browsers that you use to access the Services (for instance, computers, tablets, mobile devices, applications and websites)  | 
 
   * Device information
   * Mobile device information
@@ -301,7 +301,7 @@ Associate your activities, customize content or tailor advertising across differ
   * Necessary for the purposes of our legitimate interests of improving the Services
 
   
-For the specific purpose for which you provide information which will be disclosed at the time you provide the information |  | 
+For the specific purpose for which you provide information which will be disclosed at the time you provide the information  |  | 
 
   * Consent, which will be obtained at the time information is collected
 
@@ -309,9 +309,7 @@ For the specific purpose for which you provide information which will be disclos
   
 The Services are supported in part by advertising revenue. We may send you commercial emails on behalf of ourselves, our Affiliates, and advertisers. Each such email we send you will have an opt-out that you can use to stop receiving such communications. It may take up to seven days for us to process an opt-out request. We may continue to send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving such emails. Please note that opting out of receiving promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
 
-## 3\. How we share and disclose information with third parties.
-
-We will make your information available to other companies, websites, applications, or people in the circumstances described below: 
+We will make your information available to other companies, websites, applications, or people in the circumstances described below:
 
 Third parties to which information is disclosed  | Types of information | Legal basis for disclosure under GDPR  
 ---|---|---  
@@ -400,7 +398,7 @@ With third parties in connection with any proposed or actual merger, reorganizat
 
   
   
-We may aggregate and/or de-identify your information so that the information no longer relates to you individually. Our use and disclosure of such aggregated or de-identified information is not subject to this Privacy Policy, and may be disclosed to others without limitation and for any purpose. 
+We may aggregate and/or de-identify your information so that the information no longer relates to you individually. Our use and disclosure of such aggregated or de-identified information is not subject to this Privacy Policy, and may be disclosed to others without limitation and for any purpose.
 
 We use WireCard Bank to process some of our customers’ credit card payments for us. Where European Union (“EU”) data protection laws apply, WireCard serves as a “data controller” of such information. The use by WireCard of your information is subject to WireCard’s GDPR privacy notice which can be found here: <https://www.wirecardbank.com/GDPR>
 
@@ -408,21 +406,21 @@ We use WireCard Bank to process some of our customers’ credit card payments fo
 
 ### 4.1 Online analytics
 
-We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology described in Section 1.5 to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section. You may opt out from the use of cookies and other technology for analytics at any time. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking [here](https://support.google.com/analytics/answer/181881?hl=en). You have the right to opt out of cookies and other technologies that provide you with such tailored advertising, as described in Section 1.5.Review Cookie Setting [here](https://www.playboy.com/cookie-settings).
+We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology described in Section 1.5 to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section. You may opt out from the use of cookies and other technology for analytics at any time. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking [here](https://support.google.com/analytics/answer/181881?hl=en). You have the right to opt out of cookies and other technologies that provide you with such tailored advertising, as described in Section 1.5.Review Cookie Setting [here](https://web.archive.org/legal/cookie-settings).
 
 ### 4.2 Tailored advertising
 
-When you use the Service, PBCI may serve you with ads based on various factors such as the content of the page you are visiting, information you provide such as your age or gender, your searches, demographic data, user-generated content and other information that you provide to us. These ads may be based on your current activity or your activity over time and may be tailored to your interests. You have the right to opt out of cookies and other technologies that provide you with such tailored advertising, as described in Section 1.5.Review Cookie Setting [here](https://www.playboy.com/cookie-settings).
+When you use the Service, PBCI may serve you with ads based on various factors such as the content of the page you are visiting, information you provide such as your age or gender, your searches, demographic data, user-generated content and other information that you provide to us. These ads may be based on your current activity or your activity over time and may be tailored to your interests. You have the right to opt out of cookies and other technologies that provide you with such tailored advertising, as described in Section 1.5.Review Cookie Setting [here](https://web.archive.org/legal/cookie-settings).
 
 If you are interested in more information about tailored browser advertising and how you can generally control cookies from being put on your computer to deliver tailored advertising, you may visit the Network Advertising Initiatives Consumer Opt-Out link, the Digital Advertising Alliances Consumer Opt-Out link or TRUSTe’s Advertising Choices Page to opt-out of receiving tailored advertising from companies that participate in those programs. You may also use any links that may be available in advertisements that appear in the Services to learn more.
 
 To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the [Google Ads Settings](https://adssettings.google.com/) page. Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising. In that case, the ads will just not be tailored specifically to you. We do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
 
-When using a mobile application you may also receive tailored in-application advertisements. Each operating system (iOS for Apple phones, Android for Android devices and Windows for Microsoft devices) provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator. 
+When using a mobile application you may also receive tailored in-application advertisements. Each operating system (iOS for Apple phones, Android for Android devices and Windows for Microsoft devices) provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator.
 
 ## 5\. How you can access and update your information.
 
-To ensure that you have some control over the information we have about you, you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated (may be available on some Services and not others) or by contacting us at privacy@playboy.com.
+To ensure that you have some control over the information we have about you, you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated (may be available on some Services and not others) or by contacting us at [privacy@playboy.com](mailto:privacy@playboy.com).
 
 ## 6\. How we protect information.
 
@@ -432,17 +430,17 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 ## 7\. How long we retain your information.
 
-We will retain your information for as long as you use the Services and for a limited period after you stop using the Services for billing and collection purposes. 
+We will retain your information for as long as you use the Services and for a limited period after you stop using the Services for billing and collection purposes.
 
 ## 8\. Linked websites and advertisements.
 
 The Services may contain links to third-party websites. We are not responsible for the privacy practices or the content of those third-party websites.
 
-We have relationships with third-party providers to provide content, products, services, and functionality through the Services. When you visit websites or use any Services provided in conjunction with one or more of these third-party providers and the brands of those providers appear on the website or Services in connection with such content, products, services, or functionalities, we share any information you provide or that is collected during your use of those Services with those providers as set forth in Section 3. In some cases, the provider may collect information from you directly, in which case the provider's privacy policy (which may differ from this Privacy Policy) would apply. If you have any questions regarding the privacy policy of any of our providers, you should contact the provider directly for more information.
+We have relationships with third-party providers to provide content, products, services, and functionality through the Services. When you visit websites or use any Services provided in conjunction with one or more of these third-party providers and the brands of those providers appear on the website or Services in connection with such content, products, services, or functionalities, we share any information you provide or that is collected during your use of those Services with those providers as set forth in Section 3. In some cases, the provider may collect information from you directly, in which case the provider’s privacy policy (which may differ from this Privacy Policy) would apply. If you have any questions regarding the privacy policy of any of our providers, you should contact the provider directly for more information.
 
 ## 9\. Use of the Services by users from outside the United States.
 
-Personal Data captured on this website may be transferred to, and stored or otherwise processed at, a destination outside the European Economic Area (hereinafter "EEA"), including destinations that are not subject to Data Privacy Provisions equivalent to those in the EEA countries in which you provided your Personal Data. We transfer your data to the US with your consent or where necessary to provide you with the services you have requested. We will take all steps reasonably necessary to ensure that your Personal Data is processed safely and in accordance with this Privacy Policy. 
+Personal Data captured on this website may be transferred to, and stored or otherwise processed at, a destination outside the European Economic Area (hereinafter “EEA”), including destinations that are not subject to Data Privacy Provisions equivalent to those in the EEA countries in which you provided your Personal Data. We transfer your data to the US with your consent or where necessary to provide you with the services you have requested. We will take all steps reasonably necessary to ensure that your Personal Data is processed safely and in accordance with this Privacy Policy.
 
 ## 10\. Use of the Services by children prohibited.
 
@@ -450,13 +448,13 @@ The Services are not intended for persons under the age of 18. By using the Serv
 
 If you become aware that your child has provided us with personal information, please contact us at privacy@playboy.com. We do not knowingly collect personal information from children. If we become aware that a child has provided us with personal information, we take steps to remove such information and terminate the child’s account.
 
-## 11\. Do-Not-Track disclosure requirements. 
+## 11\. Do-Not-Track disclosure requirements.
 
 We are committed to providing you with meaningful choices about the information collected on our Services for third-party purposes, and that is why we provide above the Network Advertising Initiatives Consumer Opt-out link, Digital Advertising Alliances Consumer Opt-Out Link, TRUSTe’s Advertising Choices page, and the Google opt-out link set forth in sections 4.1 and 4.2. However, we do not recognize or respond to browser-initiated Do Not Track signals, as the US Internet industry is currently still working on Do Not Track standards, implementations and solutions.
 
 ## 12\. California privacy rights.
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to privacy@playboy.com.
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@playboy.com](mailto:privacy@playboy.com).
 
 ## 13\. EU data subject rights.
 
@@ -481,7 +479,5 @@ This Privacy Policy does not create rights enforceable by third parties.
 ## 15\. Changes to this Privacy Policy.
 
 PBCI reserves the right to change this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Privacy Policy will mean you accept those changes.
-
-## 16\. How to contact us.
 
 If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an email to privacy@playboy.com.
