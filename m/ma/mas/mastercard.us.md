@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.us privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629003402id_/https%3A//www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.us privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225214204id_/https%3A//www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
 
 # Mastercard Global Privacy Policy
 
@@ -150,7 +150,7 @@ Depending on your country, you may have the right or choice to:
 
 
 
-If you are located in the EEA or Switzerland, you can exercise your rights on Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en-us.html)” portal or submit a request as described in the “How to Contact Us” section below.  
+If you are located in the EEA or Switzerland, you can exercise your rights on Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en/personal-data-request.html?locale=en-us&region=NAM)” portal or submit a request as described in the “How to Contact Us” section below.  
 If you are located outside the EEA or Switzerland, you may also submit a request as described in the “How to Contact Us” section below.
 
 Learn more 
@@ -180,7 +180,7 @@ Those rights may be limited in some circumstances by local law requirements.
 
 To update your preferences, ask us to remove your information from our mailing lists or submit a request to exercise your rights under applicable law, contact us as specified in the "How to Contact Us" section below.
 
-If you are located in the EEA or Switzerland, in addition to contacting us as specified in the “How to Contact Us” section below, you may also utilize the “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en-us.html)” portal to facilitate the exercise of your rights. 
+If you are located in the EEA or Switzerland, in addition to contacting us as specified in the “How to Contact Us” section below, you may also utilize the “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en/personal-data-request.html?locale=en-us&region=NAM)” portal to facilitate the exercise of your rights. 
 
 If you are located outside of the EEA or Switzerland, contact us as specified in the “How to Contact Us” section below to facilitate the exercise of your rights.
 
@@ -244,7 +244,7 @@ View summary
 
 ### 9\. How to Contact Us
 
-You can e-mail us, and our Data Protection Officer at [privacyanddataprotection@mastercard.com](mailto:privacyanddataprotection@mastercard.com). If you are located in the EEA or Switzerland, Mastercard Europe SA is the data controller and you may submit your request to exercise your rights to your Personal Information on Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en-us.html)” portal.
+You can e-mail us, and our Data Protection Officer at [privacyanddataprotection@mastercard.com](mailto:privacyanddataprotection@mastercard.com). If you are located in the EEA or Switzerland, Mastercard Europe SA is the data controller and you may submit your request to exercise your rights to your Personal Information on Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en/personal-data-request.html?locale=en-us&region=NAM)” portal.
 
 Learn more 
 
