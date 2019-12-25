@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambitiouskitchen.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423012006id_/https%3A//www.ambitiouskitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambitiouskitchen.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225030030id_/https%3A//www.ambitiouskitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ambitious Kitchen
 
