@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220345id_/https%3A//creativecommons.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225201248id_/https%3A//creativecommons.org/privacy) for the most accurate reproduction.*
 
 # Creative Commons Privacy Policy - Creative Commons
 
-**Last Updated: May 2, 2019**  
+**Last Updated: December 9, 2019**  
 This Privacy Policy (“Policy”) explains the information collection, use, and sharing practices of Creative Commons Corporation (“CC”, “Creative Commons,” “we,” “us,” and “our”).
 
 This Policy is incorporated into and part of Creative Commons Master Terms of Use (“Master Terms”) located at [https://creativecommons.org/terms](https://creativecommons.org/terms).
@@ -182,3 +182,5 @@ We will continue to evaluate this Privacy Policy as we update and expand our Ser
 ### 14\.  Questions About this Privacy Policy
 
 If you have any questions about this Privacy Policy or our privacy practices, you can contact us at: legal@creativecommons.org.
+
+The Creative Commons Privacy Policy is dedicated to the public domain under the [Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use and adapt this Privacy Policy and any applicable Supplemental Privacy Policy Terms for your own purposes. However, please keep in mind that this Privacy Policy may not be completely suitable for your situation. Creative Commons strongly encourages you to seek the advice of your own attorney before repurposing this Privacy Policy on your own site.
