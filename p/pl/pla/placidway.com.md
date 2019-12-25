@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placidway.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204075842id_/https%3A//www.placidway.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placidway.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225224640id_/https%3A//www.placidway.com/privacystatement.php) for the most accurate reproduction.*
 
 # PlacidWay Privacy Policy | Medical Tourism
 
@@ -217,5 +217,3 @@ However, we would appreciate the possibility to deal with your concerns before y
 If you have any questions or concerns about this Privacy Policy or the collection, use or handling of your personal information, feel free to contact us at any time via email: info@placidway.com
 
 You may also write to us at PlacidWay, LLC, 9800 Mount Pyramid Court, Suite 400,Englewood, Colorado 80112, the USA.
-
-This site uses cookies to deliver our services and to show you relevant medical tourism information. By using our site(s), you acknowledge that you have read and understand our [Cookie Policy](https://www.placidway.com/cookies-policy/), [Privacy Policy](https://www.placidway.com/privacystatement.php), and our [Terms of Service](https://www.placidway.com/termsconditions.php). Your use of PlacidWay Products and Services, including the PlacidWay Network Websites, is subject to these policies and terms.
