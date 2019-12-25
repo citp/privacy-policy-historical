@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624010458id_/https%3A//www.submittable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2019-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191226000846id_/https%3A//www.submittable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Submittable
 
@@ -201,7 +201,7 @@ AAA’s Privacy Shield page can be found here: <http://go.adr.org/privacyshield.
 
 ## Contact Information 
 
-You can contact us about these terms of use and privacy policy, or with inquiries and complaints, by writing or emailing us at: 
+You can contact us about these terms of use and privacy policy, or with inquiries and complaints, by writing or emailing us at:
 
 Submittable Holdings, Inc.   
 111 N. Higgins Ave, 3rd Floor   
