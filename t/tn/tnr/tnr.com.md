@@ -1,103 +1,144 @@
-> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184947id_/https%3A//newrepublic.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225204716id_/https%3A//newrepublic.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The New Republic
 
-This Privacy Policy was last updated effective May 24, 2018
+_This Privacy Policy was last updated effective Sept. 24, 2019_
 
-To help you understand how information submitted will be treated when you log on to and use our website, _The New Republic_ Online ("NewRepublic.com") offers this Privacy Policy. Use of the NewRepublic.com website, and disclosure to us of your personal information, is optional and voluntary. By visiting [NewRepublic.com](https://newrepublic.com/), you are accepting and agreeing to the practices described in this Policy. The following paragraphs describe the type of information NewRepublic.com collects, the reasons why such information is collected, how such information is used and who has access to it.
+ _The New Republic_ (“TNR”) understands that you care about how we collect, use, and share information when you interact with our websites, mobile applications, social media sites, email, and online services (our “Services”). Below, we describe the type of information TNR collects, the reasons why such information is collected, how such information is used and who has access to it. We also include specific disclosures for residents of the European Economic Area and Switzerland as well as California.
 
-### Collection of Information
+This Policy applies to TNR and our websites, mobile applications, social media sites, email, online services, and emails we send as well as the information we collect when you interact with us through other online services. It does not apply to non-TNR websites and mobile applications that may link to the Services or be linked to or from the Services; please review the privacy policies on those websites and applications directly to understand their privacy practices.
 
-NewRepublic.com collects information that is provided voluntarily by visitors to our site. Certain identifying information, such as name, street address, city, state, zip code and email address, is gathered at certain interactive areas on the site, such as when you subscribe to our print or digital publication while online. 
+### Information We Collect
 
-Wherever possible and practical, NewRepublic.com gives users options about submitting information. Such choices include:
+Information you give us: Some of the Services may include features or services that permit you to enter contact information and other information about you. We collect and store any information you enter on our Services. This includes:
 
-Opting not to receive our electronic newsletters, either by refraining from signing up to receive them, or by unsubscribing in the footer of the emails themselves.
+  * Contact and demographic information when subscribing to a print or digital version of TNR.
+  * Payment information and associated contact information when engaging in a transaction on our site.
+  * Email address information and your geographic details when subscribing to our email newsletters.
+  * Information you provide when you complete a survey administered by us or a service provider acting on our behalf.
+  * Information you provide when you participate in a contest or sweepstakes that we offer.
+  * If you contact us, we may keep a record of that correspondence and any contact information provided. 
 
-Opting not to participate in certain interactive areas, which completely alleviates the need for collecting information from our users. 
 
-### Subscriptions
 
-You may use the website to subscribe to the print or digital version of _The New Republic_ by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine's fulfillment house, CDS Global, and the magazine's email service provider, MailChimp. 
+Occasionally, TNR may offer digital products, obtainable if you submit your email address and respond to the confirmation email. By signing up for these digital offerings, you are opting in to receive future correspondence from _The New Republic_.
 
-You may use the website to sign up for a temporary free pass to the digital edition of _The New Republic_ magazine by submitting your email address and responding to the confirmation email. This data, which includes the time and location of your opting in, is stored by the magazine's email service provider, MailChimp. By signing up for a free pass with your email, you are opting in to receive future correspondence from _The New Republic_.
+Information We Collect Automatically: When you interact with the Services, certain information about your use of our Services is automatically collected. Much of this information is collected through cookies, web beacons, and other tracking technologies, as well as through your web browser or device. This includes:
 
-### Electronic Newsletters 
+  * Details of your visits to our site and information generated in the course of the use of our site, including, but not limited to, user traffic data (e.g., frequency and other patterns), location data, weblogs and other communication data, and how you reached our site.
+  * Details regarding the device you use to access our Services, including, but not limited to, your IP address, operating system and browser type.
+  * Information about how you interact with our ads and newsletters, including whether you open the email and what links you engage. 
+  * Information that you make available to us on a social media platform—by clicking on a social media icon linked from our Services or interacting with us via social media—including your account ID or username and other information included in your posts.
 
-NewRepublic.com offers several electronic newsletters to which you may voluntarily subscribe and unsubscribe at any time. You will have the option to subscribe to editorial newsletters only, magazine subscription offers and discounts, and/or information about events or staff updates from _The New Republic_. By subscribing to _The New Republic_ 's email lists, you will be sharing certain identifying information about your opt-in location, such as zip code and country, along with your name and email address.
 
-### General Principles 
 
-NewRepublic.com's Privacy Policy may change from time to time without notice to you. You should read this Privacy Policy each time you plan to submit personally identifiable information so that you understand how the information you are submitting will be used.
+Please see below for more information about how our automatic collection of information works.
 
-Any changes made to the Privacy Policy will be prospective, not retroactive.
+### How We Use and Protect Your Information
 
-NewRepublic.com is not responsible for the information practices of third parties, although we take care to engage third-party fulfillment processors, ad servers, CDNs, survey companies and other support services that respect your privacy, preferences and data security needs. 
+We may use the information we collect from you for the following purposes:
 
-### Collection of Information 
+  * To provide you with our products and services, including to provide online content, to take steps to enter into a contract if you choose to purchase a subscription, process payments, and send service communications.
+  * Create custom audiences on social media sites.
+  * To provide you with the best service and improve and grow our business, including understanding our customer base and purchasing trends and understanding the effectiveness of our marketing.
+  * To detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal, and to comply with legal requirements regarding the provision of products and services.
 
-NewRepublic.com collects information that is provided voluntarily by visitors to our site. Certain identifying information, such as name, zip code and email address is gathered as NewRepublic.com uses MailChimp, a reputable third party, to deliver the email newsletters you will receive from our site and serve all of the advertisements that are placed within those emails.
 
-MailChimp collects and stores all the information users submit to NewRepublic.com in connection with the electronic newsletters. If you would like to know more about the information-gathering practices and "opt-out" procedures of MailChimp, please see http://mailchimp.com/legal/privacy/
 
-You may remove yourself from any or all of the electronic newsletters' mailing lists at any time by following instructions for unsubscribing found at the end of every newsletter or by emailing [support@tnr.com](mailto:support@tnr.com).
+### How We Secure the Information We Collect From or About You
 
-### Surveys 
+TNR has technical and organizational security measures in place, including firewalls, to protect the information under our control from accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access. Such measures do not guarantee prevention of loss, misuse, or alteration of information, however, so while we strive to protect your information, TNR cannot warrant the security of information you transmit to us, and you do so at your own risk. We comply with generally accepted industry standards in collecting and processing credit card information. However, TNR does not guarantee the safety of credit card information over the internet.
 
-From time to time NewRepublic.com conducts voluntary user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers for various purposes including promotions, contests and offers. We never share any of this information about specific individuals with any third party, unless so indicated in this Privacy Policy.
+### Our Sharing of Your Information
 
-### Cookies and IP Addresses
+  * Other Similar Organizations: We engage a third-party partner that shares our physical mailing list with other organizations that may be interested in reaching out to our subscribers.
+  * Our Distribution Vendor: We partner with CDS Global to collect, store, and manage users’ subscription-related information. Please refer to CDS Global’s [privacy notice]() for more details regarding their privacy practices.
+  * Service Providers: We engage third-party service providers to perform functions on our behalf such as: website, software, and data storage, content management, database management, technical integration, marketing automation, analytics, site optimization, conducting customer surveys, and payment processing. 
+  * Social Media Platforms: Where you choose to interact with us through social media, your interaction with these programs typically allows the third party to collect some information about you through digital cookies they place on your device and other tracking mechanisms. In some cases, the third party may recognize you through its digital cookies even when you do not interact with their application. Please visit the third parties’ respective privacy policies to better understand their data collection practices and controls they make available to you.
+  * Third parties involved in advertising: We partner with third parties who assist us in serving advertising regarding the Services to others who may be interested in the Services. We also partner with third parties who use cookies to display interest-based advertising to you on the Services. These third parties may use tracking technologies on our website to collect or receive information from the Services and elsewhere on the internet and use that information to provide measurement services and target ads. While TNR will not share information that identifies you by name with unaffiliated third parties for their own uses, such third parties may, with sufficient data from other sources, be able to personally identify you.
+  * Corporate Affiliates: We share data with other members of our group of companies.
 
-In order to offer and provide personalized custom services, NewRepublic.com uses cookies to limit the number of times a particular advertisement is shown to a user as the user navigates through the site. A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file may contain information such as a user ID that the site uses to track the pages you have visited and to allow easy access to restricted areas of the website. The only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk, read cookie files created by other sites, or damage your files.
 
-You are able to delete, disable, or accept cookies from NewRepublic.com at any time. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies easily by disabling them on your browser. You must have cookies turned on to use premium areas of NewRepublic.com. To learn how to configure your cookies settings on your browser, visit: <http://www.aboutcookies.org.uk/managing-cookies>
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. NewRepublic.com may use data contained in log files to analyze trends, administer the site, track users' movement and gather broad demographic information for aggregate use.
+### Additional Information About our Data Collection and Sharing Practices
 
-We also use third party advertisements on NewRepublic.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Sharing of Aggregated Data: We may analyze aggregated, de-identified data for internal marketing purposes and share these analyses at our discretion, including with marketing agencies, media agencies and analytics providers. Combination of Information: Together and with the information provided from the Services, we may combine other information we obtain from our business records. Additionally, information collected about you from a particular browser or device may be linked to information collected from another computer or device that we believe relates to you.
 
-Use of the Information Collected NewRepublic.com uses information you voluntarily submit to send out electronic newsletters and to enable users to move seamlessly through our website and to communicate with users with legal notices, notices of material changes to terms and conditions, privacy policy, rules, etc., and account status. We send out newsletters to subscribers on a regular basis—daily and potentially weekly—and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. 
+Change of Ownership or Corporate Organization: We may transfer to another entity or its affiliates or service providers some or all information about you in connection with, or during negotiations of, any merger, acquisition, sale of assets or any line of business, change in ownership control, or financing transaction. We cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Policy.
 
-The staff of NewRepublic.com maintain accounts on social media platforms, such as Facebook and Twitter, and may use email addresses voluntarily submitted by newsletter or magazine subscribers to better target boosted posts and advertisements. We may also use aggregated demographic data collected by these social platforms to target similar audiences on Google AdWords. 
+Cross-border Transfer of Data: If you use our Services outside of the United States, you understand that we may collect, process, and store your personal information in the United States and other countries. The laws in the U.S. regarding personal information may be different from the laws of your state or country. Any such transfers will comply with safeguards as required by relevant law. By using the Services, you consent to the collection, international transfer, storage, and processing of your data.
 
-With respect to advertisements, an advertiser will inform us which type of audience it seeks to reach, and NewRepublic.com, through MailChimp, will place the advertisement in the body of the email newsletter of those individuals fitting the advertiser's criteria. Pop-up advertisements may be displayed to a targeted audience based on the same criteria. The advertisers are not able to access your account or any of your personally identifiable information.
+Our Practices Regarding Information Belonging to Children: The Services are intended for users over the age of 18. We will comply with the Children's Online Privacy Protection Act, and not knowingly provide children under the age of 13 with access to NewRepublic.com. If you are under 13, please do not submit any personally identifiable information on our site. Children should always ask a parent or guardian for permission to send any personal information online to anyone.
 
-We also use tracking services, such as Google Analytics, to determine which areas of our site users like and do not like based on traffic to those areas.
+### Your Options and Rights
 
-NewRepublic.com creates aggregate reports on user demographics and traffic patterns for advertisers. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. Because NewRepublic.com does not track the usage patterns of individual users, an advertiser will never know that a specific user clicked on a particular ad.
+Subscribers to TNR, in print or digital format, may correct or change their subscription information [online](https://newrepublic.com/customer-service). Users may change this information at any time and as often as necessary. Users who experience problems with updating information, or who have questions about how our subscription services work, may contact us at [newrepublic@cdsfulfillment.com](mailto:newrepublic@cdsfulfillment.com). If at any time you would like to unsubscribe from future correspondence, you can click the unsubscribe link at the bottom of any email, or write us at [support@tnr.com](mailto:support@tnr.com).
 
-### Credit Card Information
+### Your California Privacy Rights
 
-We comply with generally accepted industry standards in collecting and processing credit card information. However, NewRepublic.com does not guarantee the safety of credit card information over the internet. 
+Residents of the State of California have the right to request information regarding third parties to whom the company has disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes. If you are a California resident and would like to make such a request, please email support@tnr.com or write to us at 1 Union Square West, 6th Floor, New York, NY 10003
 
-### Information Sharing
+### Information for Individuals Located in the EEA and Switzerland
 
-When you visit NewRepublic.com and are asked to provide information about yourself, unless specifically stated otherwise in this Privacy Policy, you are sharing that information only with NewRepublic.com. NewRepublic.com will not disclose the information you submit, except with our third party fulfillment vendors and except as otherwise described here, or when we believe in good faith that the law requires disclosure to protect the rights or property of NewRepublic.com, or for administrative or other purposes we deem necessary to maintain or service our products and services. For example, we may allow access to our database by third parties that provide us with services, such as technical maintenance, but only for the purpose of and to the extent necessary to provide you with our services.
+We process personal data on the following legal bases: (1) with your consent; (2) as necessary to perform our agreement to provide Services; and (3) as necessary for our legitimate interests in providing the Services where those interests do not override your fundamental rights and freedom related to data privacy. Personal information we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or subcontractors maintain facilities, as described above.
 
-If you do not want your data to be shared, you may choose not to permit the data to be collected or transferred by not submitting personally identifiable information on our site, or by not using a particular service.
+Users who reside in the EEA or Switzerland have the right to lodge a complaint about our data collection and processing actions with the supervisory authority concerned. Contact details for data protection authorities are available [here](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
 
-### NewRepublic.com Security Measures 
+If you are a resident of the EEA or Switzerland, you are entitled to certain rights. Please note: In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing information about you. These rights include the ability:
 
-The NewRepublic.com website has technical and organizational security measures in place, including firewalls, to protect the information under our control from accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access. Such measures do not guarantee prevention of loss, misuse, or alteration of information, however, so while we strive to protect your information, NewRepublic.com cannot warrant the security of information you transmit to us, and you do so at your own risk.
+  * to request from us access to personal information held about you
+  * to ask for the information we hold about you to be rectified if it is inaccurate or incomplete;
+  * to ask for data to be erased if the data is no longer necessary for the purpose for which it was collected, you withdraw consent and no other legal basis for processing exists, or you believe your fundamental rights to data privacy and protection outweigh our legitimate interest in continuing the processing.
+  * to request that we restrict our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or processing your data for purposes of scientific or historical research and statistics.
 
-### Children's Privacy
 
-NewRepublic.com site is intended for use by individuals over the age of 18. We will comply with the Children's Online Privacy Protection Act, and not knowingly provide children under the age of 13 with access to NewRepublic.com. If you are under 13, please do not submit any personally identifiable information on our site. Children should always ask a parent or guardian for permission to send any personal information online to anyone.
 
-### Other Information About Your Privacy
+To submit a request to exercise your rights, please contact us at support@tnr.com. We may have a reason under the law why we do not have to respond to your request, or respond to it in a more limited way than you anticipated. If we do, we will explain that to you in our response.
 
-Whenever you voluntarily disclose any information online in any forum, that information can be collected and used by others. In other words, if you post personal information online that may be accessed by the public, you may receive unsolicited messages from other parties. It is important to be responsible and careful whenever you are online.
+### Changes to This Policy
 
-### Updating, Correcting and Deleting Personal Information 
+We may make changes to this Policy from time to time. We will post any changes, and such changes will become effective when they are posted. Your continued use of our Services following the posting of any changes will mean you accept those changes.
 
-Users who subscribe to our print or digital publication, _The New Republic_ , may correct or change [online](https://web.archive.org/customer-service) their subscription information. Users may change this information at any time and as often as necessary. Users who are experiencing problems with updating information, or who have any questions about how our services work, may contact us at [newrepublic@cdsfulfillment.com](mailto:newrepublic@cdsfulfillment.com). 
+### Additional Information About Our Use of Tracking Technologies and Interest-Based Advertising
 
-If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by emailing, calling, or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information.
+TNR relies on partners to provide many features of our sites and services using data about your use of TNR and other sites. We use cookies for the following purposes:
 
-Currently, NewRepublic.com does not offer users a means by which to completely delete personal information submitted while on this site.
+  * Site Operations: Enabling features that are necessary for providing you the services on our site, such as identifying you as being signed in, tracking content views, remembering your preferences, and the number of times you have been shown an advertisement.
+  * Analytics: Allowing us to understand how our services are being used, track site performance and make improvements.
+  * Personalized Advertising: Delivering tailored advertising based on your preferences or interests across services and devices and measuring the effectiveness of ads.
+  * Social Media: Enabling the sharing of content from our services through social networking and other sites.
 
-### Additional Information
 
-If, for any reason, you believe that NewRepublic.com has not adhered to its Privacy Policy, please notify us by sending an email message to support@tnr.com. NewRepublic.com will try to respond to your concerns and, where appropriate, attempt to correct the problem.
 
-By accepting our website's use of cookies, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our website. Moreover, your continued use of this website after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this website, or your interaction with NewRepublic.com, you may contact us via mail, email, or the telephone number listed here: [Contact Information](https://web.archive.org/pages/contact).
+Below is a list of these partners with links to more information regarding their use of your data and how to exercise your options regarding tracking.
+
+Category| Partner| Further Information  
+---|---|---  
+Analytics| Google| [How Google users information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)  
+Personalized Advertising, Social Media| Facebook| [Data Policy](https://www.facebook.com/privacy/explanation)  
+Personalized Advertising| LinkedIn| [Privacy Policy](https://www.linkedin.com/legal/privacy-policy)  
+Personalized Advertising| Neustar| [Privacy Policy](https://www.home.neustar/privacy/opt-out)   
+[Opt-Out](https://www.home.neustar/privacy/opt-out)  
+Personal Advertising| Drawbridge| [Privacy Policy](https://www.drawbridge.com/privacy)  
+[Opt-Out](https://www.drawbridge.com/privacy)  
+Analytics| Loggly| [Privacy Policy](https://www.loggly.com/about/privacy-policy/)  
+Analytics| Quantcast| [Privacy Policy](https://www.quantcast.com/privacy/)  
+[Opt-Out](https://www.quantcast.com/opt-out/)  
+Analytics| Parse.ly| [Privacy Policy](https://www.parse.ly/privacy-policy/)  
+Analytics| Chartbeat| [Privacy Policy](https://chartbeat.com/privacy/)  
+Personalized Advertising, Social Media| Twitter| [Privacy Policy](https://twitter.com/en/privacy)  
+Analytics| Mailchimp| [Privacy Policy](https://mailchimp.com/legal/privacy/)  
+  
+Most web browsers automatically accept cookies but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Services may not be available, work, or work as designed. You also may be able to opt out of or block tracking by interacting directly with the third parties that conduct tracking through our Services. 
+
+You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance](http://www.aboutads.info/choices), and the [European Interactive Digital Advertising](http://www.youronlinechoices.eu/) Initiative. Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device. 
+
+Please note that opting out of advertising networks services will neither exclude you from receiving advertising while using our Services, nor prevent third parties who do not participate in these programs from sending you interest-based advertising. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms. If you delete your cookies, you may also delete your opt-out preferences.
+
+Your browser or device may include “Do Not Track” functionality. At this time, TNR does not respond to browser “Do Not Track” signals.
+
+For questions about our privacy practices, contact us at:  
+ _The New Republic_  
+1 Union Square West, 6th Floor, New York, NY 10003  
+(646)779-8000  
+Email: [support@tnr.com](mailto:support@tnr.com)
