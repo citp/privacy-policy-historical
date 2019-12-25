@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencrush.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623211940id_/https%3A//www.townsquaremedia.com/privacy-policy/%3Fsite%3Dscreencrush.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencrush.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225220743id_/http%3A//www.townsquaremedia.com/privacy-policy/%3Fsite%3Dscreencrush.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -138,11 +138,11 @@ Additional resources or tools may exist that streamline the process of submittin
 
 ### 7\. Children 
 
-We do not permit children under 13 years of age to use the Services, and we do not knowingly collect, use or disclose information from anyone under 13 years of age except as part of specific outreach programs with parental permission. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. If you believe that we have mistakenly or unintentionally collected personal information of a minor without appropriate consent, please notify us at our privacy preferences page: <https://www.townsquaremedia.com/privacy-preferences>. You may also contact by mail at the the following address: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830.
+We do not permit children under 13 years of age to use the Services, and we do not knowingly collect, use or disclose information from anyone under 13 years of age except as part of specific outreach programs with parental permission. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. If you believe that we have mistakenly or unintentionally collected personal information of a minor without appropriate consent, please notify us at our privacy preferences page: <https://www.townsquaremedia.com/privacy-preferences>. You may also contact by mail at the the following address: Townsquare Media, Inc., ATTN: Privacy, 1 Manhattanville Rd, Suite 202 Purchase, NY 10577.
 
 ### 8\. Your California Privacy Rights
 
-8.1 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to request information from us regarding what categories of personal information we share with third parties who may use the data for direct marketing purposes and all third parties with whom we have shared that data in the past year. If you are a California resident and would like to submit a request, please write to the following address: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830. You must put the statement “Your California Privacy Rights” in the body of the request and state the name of our website with respect to which you are requesting the information as well as your name, street address, city, state, and zip code. 
+8.1 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to request information from us regarding what categories of personal information we share with third parties who may use the data for direct marketing purposes and all third parties with whom we have shared that data in the past year. If you are a California resident and would like to submit a request, please write to the following address: Townsquare Media, Inc., ATTN: Privacy, 1 Manhattanville Rd, Suite 202 Purchase, NY 10577. You must put the statement “Your California Privacy Rights” in the body of the request and state the name of our website with respect to which you are requesting the information as well as your name, street address, city, state, and zip code. 
 
 ### 9\. International User Notice
 
@@ -166,6 +166,6 @@ _Individual Rights_ : If you are a resident of the EEA or Switzerland, you are e
 
 ### 11\. Contact
 
-If you have any questions about your privacy or security at the Services, or wish to update your information, please contact us at our privacy preferences page: <https://www.townsquaremedia.com/privacy-preferences/>. You may also write to us at: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message. You may call us at 1 (203) 861-0900. 
+If you have any questions about your privacy or security at the Services, or wish to update your information, please contact us at our privacy preferences page: <https://www.townsquaremedia.com/privacy-preferences/>. You may also write to us at: Townsquare Media, Inc., ATTN: Privacy, 1 Manhattanville Rd, Suite 202 Purchase, NY 10577, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message. You may call us at 1 (203) 861-0900. 
 
-### DATE LAST MODIFIED: December 14, 2018
+### DATE LAST MODIFIED: November 25, 2019
