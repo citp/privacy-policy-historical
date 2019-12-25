@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.com.sg privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202201350id_/https%3A//www.starbucks.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com.sg privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225033150id_/https%3A//www.starbucks.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
@@ -109,8 +109,8 @@ We encourage you to check the date of our privacy policy when you visit this Sit
 
 We welcome your questions, comments and concerns about privacy. You may contact us at:
 
-Starbucks Coffee Singapore Pte. Ltd.  
-Customer Care ([customer@starbucks.com.sg](mailto:customer@starbucks.com.sg))  
+**Starbucks Coffee Singapore Pte. Ltd.**  
+[Customer Care](https://card.starbucks.com.sg/contact.php)   
 11 North Buona Vista Drive   
 #03-08 The Metropolis Tower 2   
 Singapore 138589
