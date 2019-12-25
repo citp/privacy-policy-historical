@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldline.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906194654id_/https%3A//worldline.com/en/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldline.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225052840id_/https%3A//worldline.com/en/home/privacy.html) for the most accurate reproduction.*
 
 # Worldline | Privacy
 
@@ -8,15 +8,11 @@ You are currently visiting the Worldline website.
 
 You can decide to share Personal Data with Worldline, when subscribing to our newsletter or when registering for Worldline’ Premium Services. The Personal Data we may collect as a result of such subscription will be processed only by Worldline for the sole purpose of ensuring you are delivered with the appropriate services. None of these data will be shared with third parties.
 
-Because data protection and security matters, the Worldline website is hosted in the European Union and Switzerland in order to guarantee an appropriate level of protection to all data that are collected and processed. Application support may be made e.g. from Worldline India. The transfers resulting from such support would be framed with the EU model clauses or Atos Binding Corporate Rules. This way we ensure that the Personal data transferred benefit from the same level of protection as if they had stayed in the EU.
+Because data protection and security matters, the Worldline website is hosted in the European Union and Switzerland in order to guarantee an appropriate level of protection to all data that are collected and processed. Application support may be made e.g. from Worldline India. The transfers resulting from such support would be framed with the EU model clauses. This way we ensure that the Personal data transferred benefit from the same level of protection as if they had stayed in the EU.
 
   Of course, you have the right to request access, amendment, erasure or receiving an electronic copy of your Personal Data. To exercise this right, you can contact the Group Data Protection Office at [dataprotection@worldline.com](mailto:dataprotection@worldline.com).
 
-This Privacy Notice was published on 3 July 2014 and updated on 25 May 2018. It may be amended from time to time. We invite you to consult this page regularly.
-
-### Atos Binding Corporate Rules
-
-Worldline is part of the Atos Group. Atos is the first IT company to have obtained approval of its [Binding Corporate Rules (BCRs)](https://atos.net/content/dam/global/documents/atos-binding-corporate-rules.pdf "BCR") by European data protection authorities both as a data controller and a processor. This approval evidences Atos’ commitment to the protection not only of its own data but also that of its clients: all Atos entities provide a very strong level of protection to personal data, regardless of their location in the world. The BCR are a commitment whereby the companies of the ATOS Group undertake to process personal data in accordance with a stringent level of protection to personal data. This applies to personal data it processes for its own needs (employee data, etc.) but also for the needs of its customers, therefore allowing the free flow of personal data between the companies of the ATOS Group.
+This Privacy Notice was published on 3 July 2014 and updated on 18 December 2019. It may be amended from time to time. We invite you to consult this page regularly.
 
 ### Cookies
 
