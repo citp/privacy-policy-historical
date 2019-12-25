@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628220216id_/https%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225193009id_/https%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hip2Save
 
@@ -87,11 +87,10 @@ We reserve the right to change this Privacy Policy at any time by posting the re
 **Questions**  
 If you have any questions about our Privacy Policy or wish to contact us regarding your Personal Data, please feel free to contact us at:
 
-HIP Happenings LLC  
-1712 N 13th Street  
-Boise, ID 83702  
+Whittaker & Associates, Inc.  
+c/o Hip2Save  
+155 E. 50th Street Suite A  
+Boise, ID 83714  
 Email: bryn@hip2save.com
 
 _This policy was lasted updated on November 12, 2018  _
-
-It's not your Grandma's coupon site!
