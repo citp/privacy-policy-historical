@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dslreports.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221715id_/https%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslreports.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225105454id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
 
 # our privacy policy | DSLReports, ISP Information
 
