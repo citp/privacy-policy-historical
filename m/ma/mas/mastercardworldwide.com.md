@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercardworldwide.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208221744id_/https%3A//www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercardworldwide.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225214204id_/https%3A//www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
 
 # Mastercard Global Privacy Policy
 
@@ -68,7 +68,7 @@ If you are applying for a job at Mastercard, we may collect certain Personal Inf
 
 We may collect Personal Information from individuals working for one of our business partners (including financial institutions, merchants, customers, suppliers, vendors and other partners), including name, job title, department and name of organization, business email and postal addresses, business telephone number, answers to security questions, security passwords and other credentials. We may use this information to provide products and services directly to financial institutions, corporate clients, merchants, customers and partners, to manage our business relationships and financial reporting, for franchise development and integrity, for marketing and to comply with applicable law, as well as for accounting, auditing and billing purposes.
 
-Back to top 
+View summary 
 
 ### 2\. How We May Use Your Personal Information
 
@@ -119,7 +119,7 @@ We will not subject you to a decision based solely on automated processing that 
 
 If you provide us with any information or material relating to another individual, you must make sure that the sharing with us and our further use as described to you from time to time is in line with applicable laws, so for example you should duly inform that individual about the processing of her/his Personal Information and obtain her/his consent, as may be necessary under applicable laws.
 
-Back to top 
+View summary 
 
 ### 3\. How We Share Your Personal Information 
 
@@ -136,7 +136,7 @@ We May Share Personal Information with:
 
 Learn more 
 
-Back to top 
+View summary 
 
 ### 4\. Your Rights and Choices
 
@@ -150,7 +150,8 @@ Depending on your country, you may have the right or choice to:
 
 
 
-If you are located in the EEA or Switzerland, you can exercise your rights on Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en-us.html)” portal. You may also submit a request as described in the “How to Contact Us” section below.
+If you are located in the EEA or Switzerland, you can exercise your rights on Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en/personal-data-request.html?locale=en-us&region=NAM)” portal or submit a request as described in the “How to Contact Us” section below.  
+If you are located outside the EEA or Switzerland, you may also submit a request as described in the “How to Contact Us” section below.
 
 Learn more 
 
@@ -166,7 +167,7 @@ You can choose:
 
 
 
-In certain jurisdictions, in particular if you are located in the EEA or Switzerland, you may have the right to:
+In certain jurisdictions, you may have the right to:
 
   * Request access to and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, to restrict or to object to the processing of your Personal Information, to have the information anonymized or deleted, as appropriate, or to exercise your right to data portability to easily transfer your Personal Information to another company. In addition, you may also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place. 
   * Withdraw any consent you previously provided to us regarding the processing of your Personal Information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal. 
@@ -177,11 +178,17 @@ You may opt out from certain processing of your Personal Information, e.g. via o
 
 Those rights may be limited in some circumstances by local law requirements. 
 
-If we fall short of your expectations in processing your Personal Information or you wish to make a complaint about our privacy practices, please tell us because it gives us an opportunity to fix the problem. To assist us in responding to your request, please give full details of the issue. We attempt to review and respond to all complaints within a reasonable time and as required under applicable law. 
+To update your preferences, ask us to remove your information from our mailing lists or submit a request to exercise your rights under applicable law, contact us as specified in the "How to Contact Us" section below.
 
-To update your preferences, ask us to remove your information from our mailing lists or submit a request to exercise your rights under applicable law, contact us as specified in the "How to Contact Us" section below. If you are located in the EEA or Switzerland, we have developed Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en-us.html)” portal to facilitate the exercise of your rights. 
+If you are located in the EEA or Switzerland, in addition to contacting us as specified in the “How to Contact Us” section below, you may also utilize the “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en/personal-data-request.html?locale=en-us&region=NAM)” portal to facilitate the exercise of your rights. 
 
-Back to top 
+If you are located outside of the EEA or Switzerland, contact us as specified in the “How to Contact Us” section below to facilitate the exercise of your rights.
+
+If we fall short of your expectations in processing your Personal Information or you wish to make a complaint about our privacy practices, please tell us because it gives us an opportunity to fix the problem. To assist us in responding to your request, please give full details of the issue. We attempt to review and respond to all complaints within a reasonable time and as required under applicable law.
+
+To learn more about the APEC Certification and access Dispute Resolution, please click on the TRUSTe seal.
+
+View summary 
 
 ### 5\. Data Transfers
 
@@ -189,13 +196,17 @@ Mastercard is a global business. We may transfer your Personal Information to th
 
 If you are located in the EEA, we will process your Personal Information in accordance with our Binding Corporate Rules and other data transfer mechanisms.
 
+Mastercard’s privacy practices, described in this Global Privacy Notice, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found at: <http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>
+
 Learn more 
 
 Mastercard is a global business. We may transfer the Personal Information we collect about you to recipients in countries other than your country, including the United States, where we are headquartered. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your Personal Information to other countries, we will protect that information as described in this Global Privacy Notice, as disclosed to you at the time of data collection or as described in our program-specific privacy notice.
 
 We comply with applicable legal requirements providing adequate safeguards for the transfer of Personal Information to countries other than the country where you are located. In particular, we have established and implemented a set of Binding Corporate Rules (“BCRs”) that have been recognized by EEA data protection authorities as providing an adequate level of protection to the Personal Information we process globally. A copy of our BCRs is available [here](https://www.mastercard.us/content/dam/mccom/global/documents/mastercard-bcrs-february-2017.pdf). We may also transfer Personal Information to countries for which adequacy decisions have been issued, use contractual protections for the transfer of Personal Information to third parties, such as the European Commission’s Standard Contractual Clauses or their equivalent under applicable law, or rely on third parties’ certification to the EU-U.S. or Swiss-U.S. Privacy Shield Frameworks where applicable. You may contact us as specified in the “How to Contact Us” section below to obtain a copy of the safeguards we use to transfer Personal Information outside of the EEA.
 
-Back to top 
+Additionally, Mastercard’s privacy practices, described in this Global Privacy Notice, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found at: <http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>
+
+View summary 
 
 ### 6\. How We Protect Your Personal Information
 
@@ -207,7 +218,7 @@ The security of your Personal Information is important to Mastercard. We are com
 
 We also take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrolment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law and the statute of limitations.
 
-Back to top 
+View summary 
 
 ### 7\. Features and Links to Other Websites
 
@@ -219,7 +230,7 @@ Our websites may provide links to other websites for your convenience and inform
 
 Mastercard offers you the possibility to share, link to, or mention things on social media about Mastercard’s products and services. For example, you may “like” an offer via your Facebook account, or “tweet” an offer using Twitter. You may also choose to use certain features on our websites that can be accessed through, or for which we partner with, other entities that are not otherwise affiliated with Mastercard. These features, including geo-location tools, are operated by third parties and are clearly identified as such. Social media providers such as Facebook and Twitter, and these other third parties, are independent from Mastercard and do not necessarily share the same policy as Mastercard regarding the protection of privacy. Please verify their privacy notices if you decide to use their services. Mastercard cannot be held liable for any of these social media tools’ and third parties’ websites’ and apps’ content, use or privacy practices.
 
-Back to top 
+View summary 
 
 ### 8\. Updates to This Global Privacy Notice
 
@@ -227,14 +238,14 @@ This Privacy Notice may be updated periodically to reflect changes in our privac
 
 Learn more 
 
-This Global Privacy Notice may be updated periodically to reflect changes in our Personal Information practices. We will post a prominent notice on relevant websites to notify you of any significant changes to our Global Privacy Notice and indicate at the top of the Notice when it was most recently updated. If we update our Global Privacy Notice, in certain circumstances, we may seek your consent.
+This Global Privacy Notice may be updated periodically to reflect changes in our Personal Information practices. We will post a prominent notice on relevant websites to notify you of any significant or material changes to our Global Privacy Notice prior to them being effective and indicate at the top of the Notice when it was most recently updated. If we update our Global Privacy Notice, in certain circumstances, we may seek your consent.
 
-Back to top 
+View summary 
 
 ### 9\. How to Contact Us
 
-You can e-mail us, and our Data Protection Officer at [privacyanddataprotection@mastercard.com](mailto:privacyanddataprotection@mastercard.com). If you are located in the EEA or Switzerland, Mastercard Europe SA is the data controller and you may submit your request to exercise your rights to your Personal Information on Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en-us.html)” portal.
+You can e-mail us, and our Data Protection Officer at [privacyanddataprotection@mastercard.com](mailto:privacyanddataprotection@mastercard.com). If you are located in the EEA or Switzerland, Mastercard Europe SA is the data controller and you may submit your request to exercise your rights to your Personal Information on Mastercard’s “[My Data Center](https://www.mastercard.us/public/my-data/gdp-public/en/personal-data-request.html?locale=en-us&region=NAM)” portal.
 
 Learn more 
 
-Back to top 
+View summary 
