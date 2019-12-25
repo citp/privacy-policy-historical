@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the onesignal.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628232612id_/https%3A//onesignal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesignal.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225232531id_/https%3A//onesignal.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - OneSignal
 
-OneSignal., a U.S. company located at 411 Borel Ave Suite 512, San Mateo, CA 94402 (“OneSignal” “we,” “us,” and “our”), provides this privacy policy because we believe that consumers should have clear and comprehensive ways to understand how information about them is collected and used – both to provide our services and for third party advertising purposes. We’ve tried to write this policy in a way that is easy for consumers to understand at a “high level,” while still providing detail to allow sophisticated users (and privacy advocates) to understand what data models we’re engaged in, and more generally, how interest-based advertising works. 
+Last updated July 29, 2019
+
+OneSignal., a U.S. company located at 2850 S Delaware St Suite 201, San Mateo, CA 94403 (“OneSignal” “we,” “us,” and “our”), provides this privacy policy because we believe that consumers should have clear and comprehensive ways to understand how information about them is collected and used – both to provide our services and for third party advertising purposes. We’ve tried to write this policy in a way that is easy for consumers to understand at a “high level,” while still providing detail to allow sophisticated users (and privacy advocates) to understand what data models we’re engaged in, and more generally, how interest-based advertising works. 
 
 We’ve also provided a section about the choices that you have with respect to “interest based advertising,”, and we encourage you to read that section and exercise your “opt out” rights if you’re inclined to do that. (But because interest based advertising leads to more relevant (and thus, less annoying) advertising, we hope you won’t do that.)  
 
