@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223735id_/https%3A//peerfly.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225190944id_/https%3A//peerfly.com/about/privacy) for the most accurate reproduction.*
 
 # PeerFly
 
 ## PeerFly's Privacy Policy
 
-PeerFly.com (the "Website") is an Internet property of PeerFly, Inc. ("us" or "we"). We provide this privacy policy ("Privacy Policy") so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at [PeerFly.com](http://peerfly.com/). If you have any questions about this Privacy Policy, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e5e5c47584f4d576e5e4b4b5c484257004d4143). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
+PeerFly.com (the "Website") is an Internet property of PeerFly, Inc. ("us" or "we"). We provide this privacy policy ("Privacy Policy") so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at [PeerFly.com](https://peerfly.com/). If you have any questions about this Privacy Policy, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4c4c6ddc2d5d7cdf4c4d1d1c6d2d8cd9ad7dbd9). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
 
 **Personally Identifiable Information**
 
@@ -42,11 +42,11 @@ PeerFly reserves the right to change or update this Privacy Policy at any time b
 
 **Deleting your PII**
 
-If you'd like us to delete any PII that you have provided to us on our Website, please send your request to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#20505249564143596050454552464c590e434f4d) and we will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. 
+If you'd like us to delete any PII that you have provided to us on our Website, please send your request to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2c5c5e455a4d4f556c5c49495e4a4055024f4341) and we will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. 
 
 **Contacting the Website**
 
-If you have any questions about this Privacy Policy or the practices of PeerFly, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990a0b5b5a2b6bca9feb3bfbd), or via postal mail at:
+If you have any questions about this Privacy Policy or the practices of PeerFly, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1d1d3c8d7c0c2d8e1d1c4c4d3c7cdd88fc2cecc), or via postal mail at:
 
 PeerFly, Inc.  
 15202 NW 147th Drive  
