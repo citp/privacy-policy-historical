@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009041845id_/https%3A//www.hqhair.com/articles/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225033543id_/https%3A//www.hqhair.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
 # Articles | About Us | Privacy Policy | HQhair.com | Free Delivery
 
@@ -15,6 +15,7 @@ We collect personal data from you when you provide it to us directly and throug
 media);
   * Information you provide us when you enter a competition or participate in a survey;
   * Information collected automatically, using cookies and other tracking technologies (e.g. which pages you viewed and whether you clicked on a link in one of our email updates).  We may also collect information about the device you use to access our Site; and
+  * Residence ID number required for customs clearance*
   * Other information necessary to provide the Site, for example we may access your location if you give us your consent.
 
 
@@ -24,6 +25,13 @@ If you also shop in one of our stores, 
 we may combine information you give us in-store (e.g. if you make a purchase or 
 
 join our mailing list in-store) with the information above. 
+
+ ** ** _*Residence ID number required for customs clearance_  
+****
+
+ _When choosing the CBEC delivery option inclusive of import taxes, you need to submit the resident ID card information of the recipient of the order for customs clearance. Please ensure you have filled in an accurate ID card number and a name (in simplified Chinese characters) that is consistent with the ID card. The information provided for the ID card must match the identity of the payer, if it does not then it will affect customs clearance.  
+We will safely store your ID card information and only use it for the purpose of customs clearance. Unless we notify you otherwise, you will not need to submit this information through other channels after submitting the required ID information here._  
+
 
  ** **What do we use this personal data for?****
 
@@ -115,7 +123,7 @@ If you have any queries on any aspect of our Privacy Policy, please contact us o
 
 Telephone: 0161 8131481
 
-Email: [feedback@thehutgroup.com](mailto:feedback@thehutgroup.com)
+Email: [customer.experience@thehutgroup.com](mailto:customer.experience@thehutgroup.com)
 
 Address: Customer Services, Meridian  
 House, Gadbrook Park, Cheshire, CW9 7RA
