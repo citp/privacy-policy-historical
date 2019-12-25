@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the teamup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191953id_/http%3A//www.teamup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamup.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225035532id_/https%3A//www.teamup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Teamup Calendar - Shared online calendar for groups
 
-We value the privacy of those who use our service. This Privacy Policy covers the collection, use and disclosure of information that may be collected any time you interact with the Teamup Calendar “Service” (e.g. when you visit our web site, use our calendaring service, or communicate with Teamup employees, etc.).
+Last updated: May 04, 2018
 
-Teamup abides by the legal framework on data protection. Teamup undertakes all common and reasonable precautions to protect user information from loss, misuse and unauthorized access, disclosure, alteration, and destruction.
+We value the privacy of those who use our service. We process personal data in accordance with the EU’s General Data Protection Regulation (“GDPR”) and the data protection laws of Switzerland.
 
-By accepting the Terms of Service ([http://www.teamup.com/terms-of-service](https://web.archive.org/terms-of-service)), you agree that Teamup and its affiliates can collect, record, and process data according to this Privacy Policy.
+This Privacy Policy covers the collection, use and disclosure of information that may be collected any time you interact with the Teamup Calendar “Service” (e.g. when you visit our web site, use our calendaring service, or communicate with Teamup support, etc.). Teamup undertakes all common and reasonable precautions to protect user information from loss, misuse and unauthorized access, disclosure, alteration, and destruction.
+
+This Privacy Policy amends and supplements our [Terms of Service](https://www.teamup.com/terms-of-service/) and our [Data Processing Agreement](https://www.teamup.com/dpa/). If you do not agree to this Privacy Policy, you may discontinue the use of Teamup and delete your calendar.
 
 ### 1\. Personal Information
 
@@ -44,10 +46,8 @@ Teamup collects and archives mail, email, data entered into web forms, and any o
 
 ### 5\. Location of Data
 
-The Teamup databases and servers are located in Zurich, Switzerland and Dublin, Ireland.
+Data is hosted in Oregon (United States), Dublin (Ireland), and Zurich (Switzerland).
 
 ### 6\. Changes to this Policy
 
 Please note that this Privacy Policy may change anytime. Your continued use of the service constitutes your agreement to this Privacy Policy. The latest version of this Privacy Policy is always available at [http://www.teamup.com/privacy-policy](https://web.archive.org/privacy-policy/).
-
-Last updated: October 3, 2016
