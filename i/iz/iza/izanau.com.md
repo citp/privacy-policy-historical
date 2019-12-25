@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izanau.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410223341id_/https%3A//izanau.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izanau.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225034820id_/https%3A//izanau.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Izanau
 
