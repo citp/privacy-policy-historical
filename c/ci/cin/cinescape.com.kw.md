@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinescape.com.kw privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419172529id_/https%3A//www.cinescape.com.kw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinescape.com.kw privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225165707id_/https%3A//www.cinescape.com.kw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
