@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricespy.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630112608id_/https%3A//pricespy.co.uk/info/privacy-policy--i6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespy.co.uk privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225124040id_/https%3A//pricespy.co.uk/info/privacy-policy--i6) for the most accurate reproduction.*
 
-# Privacy policy - Compare prices and do more with your money!
+# None
 
 In order to give you the world’s best price and product comparison service we need to process personal data. In our privacy policy we explain what information we collect from our users, how we process it, and what we do to protect the integrity of our users.
 
