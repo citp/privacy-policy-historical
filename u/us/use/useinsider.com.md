@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the useinsider.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617024429id_/http%3A//useinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the useinsider.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225044626id_/http%3A//useinsider.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Insider
+# Privacy Policy | Insider
 
 #### **Insider marketing subscription**
 
