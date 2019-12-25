@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628231238id_/https%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225194755id_/https%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
 
 # Smashwords – About Smashwords — Privacy Policy
 
-Updated May 23, 2018
+Updated December 3, 2019
 
 ##   
 Introduction to our New Privacy Policy
@@ -29,7 +29,7 @@ When a user registers to create an account at Smashwords, they agree to abide by
 
 Smashwords users span two intersecting communities:
 
- **1.   Ebook consumers (readers)** – We operate the Smashwords.com ebook store that allows readers to browse, discover, sample and purchase a catalog of over 475,000 ebooks
+ **1.   Ebook consumers (readers)** – We operate the Smashwords.com ebook store that allows readers to browse, discover, sample and purchase a catalog of over 500,000 ebooks
 
  **2.   Ebook publishers (authors and publishers)** – We operate the leading ebook publishing platform that enables authors and publishers to produce, publish, distribute and sell ebooks.
 
@@ -130,7 +130,7 @@ Authors and publishers who wish to receive payments for their works on Smashword
 
 Smashwords is not in the business of selling personal information to third parties.  Instead, we’re in the business of helping readers find and purchase the books they’ll enjoy reading, and helping authors and publishers serve readers with their books.
 
-We don't sell your personal data to third parties.  This also means we never sell or rent out the email contact information for Smashwords users.  
+We don't sell your personal data to third parties.  This also means we never sell or rent out the email contact information for Smashwords users.  If we provide you the option to share your email address with a particular author or publisher, such option will be clearly presented, opt-in only, and your choice.
 
 If a third party claims to know you and requests your contact information, we will not share your contact information.  In these cases, we will forward the inquiry to you privately and leave it to you to reply (we’re pleased to report that over the years we’ve helped reunite parents with their children and helped old friends reconnect).
 
@@ -172,7 +172,9 @@ Most of these communications are automated or semi-automated based on event trig
 
 If you publish ebooks at Smashwords, examples of event triggers for automated email notifications include when you publish a book; when Smashwords approves your book for Premium Catalog distribution; when you sell a book at the Smashwords store; and when your book is reviewed by a customer in the Smashwords store.  You will also receive our exclusive “Smashwords Author/Publisher Alerts” to notify you of important service developments, best practices recommendations, and policy changes.  
 
-If you purchase ebooks at Smashwords, you’ll receive an automated purchase confirmation containing links to your purchased ebooks.  Later, we may send you an automated email reminder to review it. 
+If you purchase ebooks at Smashwords, you’ll receive an automated purchase confirmation containing links to your purchased ebooks.  Later, we may send you an automated email reminder to review it.
+
+As mentioned above, if we provide you the option to share your email address with a particular author or publisher, such option will be clearly presented, opt-in only, and your choice.
 
 For ebook readers and producers alike, we will add similar event triggers or email alerts in the future.
 
@@ -247,6 +249,8 @@ Los Gatos, CA 95032
 www.smashwords.com
 
 ## Summary of Most Recent Updates
+
+December 3, 2019 - Immediately before the launch of Smashwords Presales, we added a mention that the only circumstance in which Smashwords will share a customer's email address with an author or publisher is if the customer explicity requests such sharing.  This is to recognize the permission-based option of Smashwords Presales in which customers purchasing presale books have the option to subscribe to an author's private mailing list, operated by the author.
 
 May 23, 2018 – Reorganized to address GDPR privacy compliance.  Added additional information to improve transparency. 
 
