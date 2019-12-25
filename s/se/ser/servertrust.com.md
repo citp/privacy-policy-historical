@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servertrust.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224834id_/https%3A//www.volusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servertrust.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225191849id_/https%3A//www.volusion.com/privacy-policy) for the most accurate reproduction.*
 
 # Volusion Privacy Policy
 
