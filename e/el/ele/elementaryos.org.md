@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementaryos.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630101707id_/https%3A//elementary.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementaryos.org privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225013148id_/https%3A//elementary.io/privacy) for the most accurate reproduction.*
 
 # Privacy ⋅ elementary
 
@@ -10,7 +10,7 @@ We do not collect any data from elementary OS. Your files, settings, and all oth
 
 ### Online Accounts
 
-elementary OS optionally integrates with online account providers such as Google, Last.fm, and FastMail via System Settings. Data from these providers may be retrieved and stored locally on your device to be used in apps such as Mail and Calendar. This data is not sent to elementary or shared with any third party.
+elementary OS optionally integrates with online account providers such as Google, Last.fm, and Fastmail via System Settings. Data from these providers may be retrieved and stored locally on your device to be used in apps such as Mail and Calendar. This data is not sent to elementary or shared with any third party.
 
 #### What Data is Collected
 
@@ -24,7 +24,11 @@ Your data is stored locally on your device and never sent to elementary servers 
 
 elementary OS does not share any data collected from your online accounts. The data is never sent to elementary or third-party servers.
 
-## Website
+## Blog
+
+Our [blog](https://blog.elementary.io/) does not use any external scripts, cookies, or other tracking methods.
+
+## elementary.io
 
 ### Do Not Track
 
@@ -84,7 +88,7 @@ As you have already visited our site, you may wish to manage cookies already set
 
 #### Safari
 
-](http://support.apple.com/kb/PH17191)
+](https://support.apple.com/kb/PH17191)
 
 ## Transparency
 
