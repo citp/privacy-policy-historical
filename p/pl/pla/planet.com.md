@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the planet.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115001256id_/https%3A//www.planet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225013037id_/https%3A//www.planet.com/privacy) for the most accurate reproduction.*
 
-# Planet — Privacy
+# Privacy Policy | Planet
+
+##### © 2019, Planet Labs Inc. All Rights Reserved.
 
 Planet was founded to improve our understanding of the Earth and to benefit the life it sustains. Our respect for the inhabitants of the Earth extends to safeguarding individual privacy. This policy describes what information we collect from you through our website, why we collect it, and what we do with it.
 
@@ -10,13 +12,13 @@ We at Planet Labs know you care about how your personal information is used and 
 
  **By using or accessing the Planet Labs website(s), products, services and applications (the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Most importantly, in some instances before you use or access Services, Planet Labs will request and require your consent that we will collect, use, and share your personally identifiable information.**
 
-Remember that your use of Planet Labs’ Services is at all times subject to the [Terms of Use](https://web.archive.org/web/20190115001256id_/https://www.planet.com/terms-of-use/), which incorporate this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the [Terms of Use.](https://web.archive.org/web/20190115001256id_/https://www.planet.com/terms-of-use/)
+Remember that your use of Planet Labs’ Services is at all times subject to the [Terms of Use](https://web.archive.org/web/20191225013037id_/https://www.planet.com/terms-of-use/), which incorporate this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the [Terms of Use.](https://web.archive.org/web/20191225013037id_/https://www.planet.com/terms-of-use/)
 
 ## What does this Privacy Policy cover?
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our Services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
-As noted in the [Terms of Use](https://web.archive.org/web/20190115001256id_/https://www.planet.com/terms-of-use/), we do not knowingly collect or solicit Personal Information from anyone under the age of 16. If you are under 16, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 16, we will delete that information as quickly as possible. If you believe that a child under 16 may have provided us Personal Information, please contact the Planet Labs Legal Department by email at [legal@planet.com](mailto:legal@planet.com).
+As noted in the [Terms of Use](https://web.archive.org/web/20191225013037id_/https://www.planet.com/terms-of-use/), we do not knowingly collect or solicit Personal Information from anyone under the age of 16. If you are under 16, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 16, we will delete that information as quickly as possible. If you believe that a child under 16 may have provided us Personal Information, please contact the Planet Labs Legal Department by email at [legal@planet.com](mailto:legal@planet.com).
 
 ## WILL PLANET LABS EVER CHANGE THIS PRIVACY POLICY?
 
@@ -50,7 +52,7 @@ We may use this data to customize Content for you that we think you might like, 
 
 ## WILL PLANET LABS SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
 
-We neither rent nor sell your Personal Information in personally identifiable form to anyone. However, we may share your Personal Information with third parties as described in this section. If we use third-party subprocessors, Planet will endeavor to ensure adequate technical and organizational measures exist at those subprocessors to safeguard Personal Information. A list of third-party subprocessors may be viewed [HERE](https://web.archive.org/web/20190115001256id_/https://www.planet.com/subprocessors/).
+We neither rent nor sell your Personal Information in personally identifiable form to anyone. However, we may share your Personal Information with third parties as described in this section. If we use third-party subprocessors, Planet will endeavor to ensure adequate technical and organizational measures exist at those subprocessors to safeguard Personal Information. A list of third-party subprocessors may be viewed [HERE](https://web.archive.org/web/20191225013037id_/https://www.planet.com/subprocessors/).
 
  **Information that’s no longer personally identifiable.** We may anonymize your Personal Information so that you are not individually identified, and provide that information to our partners. We may also provide aggregate usage information to our partners, who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. However, we never disclose aggregate information to a partner in a manner that would identify you personally, as an individual.
 
@@ -60,7 +62,7 @@ We neither rent nor sell your Personal Information in personally identifiable fo
 
  **Business Transfers.** We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. In these cases, if you do not wish to have your Personal Information transferred, you may request erasure of your Personal Information by contacting [mydata@planet.com](mailto:mydata@planet.com).
 
- **Protection of Planet Labs and Others.** Please keep in mind Planet Labs may process Personal Information for compliance with a legal obligation to which Planet Labs is subject. We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [Terms of Use](https://web.archive.org/web/20190115001256id_/https://www.planet.com/terms-of-use/) and other agreements; or protect the rights, property, or safety of Planet Labs, our employees, our users, or others.
+ **Protection of Planet Labs and Others.** Please keep in mind Planet Labs may process Personal Information for compliance with a legal obligation to which Planet Labs is subject. We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [Terms of Use](https://web.archive.org/web/20191225013037id_/https://www.planet.com/terms-of-use/) and other agreements; or protect the rights, property, or safety of Planet Labs, our employees, our users, or others.
 
 ## IS PERSONAL INFORMATION ABOUT ME SECURE?
 
@@ -101,4 +103,4 @@ If you have any questions or concerns regarding our Privacy Policy and data prot
 
  **Effective May 25, 2018.**
 
- **To learn more about Planet and the General Data Protection Regulation (GDPR),[click here](https://web.archive.org/web/20190115001256id_/https://www.planet.com/gdpr/).**
+ **To learn more about Planet and the General Data Protection Regulation (GDPR),[click here](https://web.archive.org/web/20191225013037id_/https://www.planet.com/gdpr/).**
