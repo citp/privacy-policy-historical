@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the virginmobile.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630034843id_/https%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225233345id_/https%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin
 
 **Last updated on:  10 January 2019**
 
-Here at Virgin.com Limited ("Virgin.com", "we" or "us" and, where the context so requires, “Virgin.com” also meaning the website www.virgin.com and references to “our site” and “our website” are references to [www.virgin.com](https://web.archive.org/web/20190630034843id_/https%3A//www.virgin.com/www.virgin.com)), we take your privacy seriously. We're committed to protecting the privacy of any personal data you give us and we will comply with all relevant data protection legislation.
+Here at Virgin.com Limited ("Virgin.com", "we" or "us" and, where the context so requires, “Virgin.com” also meaning the website www.virgin.com and references to “our site” and “our website” are references to [www.virgin.com](https://web.archive.org/web/20191225233345id_/https%3A//www.virgin.com/www.virgin.com)), we take your privacy seriously. We're committed to protecting the privacy of any personal data you give us and we will comply with all relevant data protection legislation.
 
 For the purposes of relevant data protection legislation, Virgin.com Limited is the data controller of personal data we hold and process about you. We are registered on the public register of fee payers maintained by the Information Commissioner in the UK. See the "Talk to us" section at the end of this Privacy Policy for details of how to contact us.
 
@@ -90,7 +90,7 @@ Further information on the general use and function of the third party cookies l
 
 **How do I turn cookies off?**
 
-If you do not wish us to install cookies or you don’t agree with how we use these cookies, you can change the settings on your internet browser to reject them. For more information please consult the “Help” section of your browser or visit [www.aboutcookies.org](https://web.archive.org/web/20190630034843id_/https%3A//www.virgin.com/www.aboutcookies.org),  [www.allaboutcookies.org](https://web.archive.org/web/20190630034843id_/https%3A//www.virgin.com/www.allaboutcookies.org) or <http://optout.aboutads.info/#/.> Please note that if you do set your browser to reject cookies, you may not be able to use all of the features on our site.
+If you do not wish us to install cookies or you don’t agree with how we use these cookies, you can change the settings on your internet browser to reject them. For more information please consult the “Help” section of your browser or visit [www.aboutcookies.org](https://web.archive.org/web/20191225233345id_/https%3A//www.virgin.com/www.aboutcookies.org),  [www.allaboutcookies.org](https://web.archive.org/web/20191225233345id_/https%3A//www.virgin.com/www.allaboutcookies.org) or <http://optout.aboutads.info/#/.> Please note that if you do set your browser to reject cookies, you may not be able to use all of the features on our site.
 
 **What information do we collect if you sign up for our newsletter?**
 
