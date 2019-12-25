@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630134404id_/https%3A//smartbear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225150932id_/https%3A//smartbear.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartBear Software
 
-LAST UPDATED: March 31, 2019
+LAST UPDATED: August 12, 2019
 
 SmartBear Software, Inc. and its affiliates (collectively, “ **SmartBear** ”, “ **we** ”, “ **us** ”) is a global organization offering software tools used by developers, testers and operations team members to deliver high quality software and applications. We offer products for code review, API and UI development, testing, and operations and end user experience monitoring across desktop, web, mobile, Internet of things devices, and cloud platforms.
 
@@ -111,7 +111,7 @@ To the extent permitted by applicable law, SmartBear may share and disclose info
 
   * **Customers**. We may share information with our customers and their service providers and other platforms that may assist those customers.
   * **Affiliates and Agents**. We may share information with our affiliates or any business partners or agents acting on our behalf.
-  * **Service Providers**. We may share information with our service providers, agents, vendors and other third parties we use to support and advertise the SmartBear Services and our business. We share personal information with such third parties to the extent necessary to provide services to us, and pursuant to binding contractual obligations.
+  * **Service Providers**. We may share information with our service providers, agents, vendors and other third parties we use to support and advertise the SmartBear Services and our business. We share personal information with such third parties to the extent necessary to provide services to us, and pursuant to binding contractual obligations. A listing of our subprocessors, service providers that receive access to and process personal information of our customers, may be found at: [https://smartbear.com/legal/smartbear-subprocessors/.](https://smartbear.com/legal/smartbear-subprocessors/)
   * **Advertising and Marketing**. To the extent permitted by applicable law, we may share information with third parties for marketing, advertising, promotions, contests, or other similar purposes. If required by applicable law, we will share such data for advertising and marketing purposes only in an aggregate, anonymous, and de-identified manner.
   * **Mergers, Acquisitions, Divestitures**. We may share, disclose or transfer information to a buyer, investor, new affiliate, or other successor in the event SmartBear, or any affiliate, portion, group or business unit thereof, undergoes a business transition, such as a merger, acquisition, consolidation, reorganization, divestiture, liquidation or dissolution (including bankruptcy), or a sale or other transfer of all or a portion of any assets of SmartBear or any affiliates or during steps in contemplation of such activities (e.g., negotiations and due diligence).
   * **Law Enforcement and National Security**. We may share information with legal, governmental, or judicial authorities, as instructed or required by those authorities or applicable laws, or to comply with any law or directive, judicial or administrative order, legal process or investigation, warrant, subpoena, government request, regulatory request, law enforcement or national security investigation, or as otherwise required or authorized by law.
