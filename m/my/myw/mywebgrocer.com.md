@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185725id_/https%3A//mi9retail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225124621id_/https%3A//mi9retail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mi9 Retail
 
@@ -57,7 +57,7 @@ Mi9 Retail sometimes provides personal information to third parties to perform s
 
 In compliance with the Privacy Shield Principles, Mi9 Retail commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should contact us at info@mi9retail.com. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means.
 
-Mi9 Retail has further committed to cooperating with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.  EU Persons may have the option to select binding arbitration under the Privacy Shield Panel for the resolution of your complaint under certain circumstances. For further information, please see the Privacy Shield website. To learn more about the Privacy Shield Framework at https://www.privacyshield.gov.
+Mi9 Retail has further committed to cooperating with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU.  EU Persons may have the option to select binding arbitration under the Privacy Shield Panel for the resolution of your complaint under certain circumstances. For further information, please see the Privacy Shield website. To learn more about the Privacy Shield Framework at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 Mi9 Retail is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
