@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 99designs.ca privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624071613id_/https%3A//99designs.ca/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.ca privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225135425id_/https%3A//99designs.ca/legal/privacy) for the most accurate reproduction.*
 
 # 
 
-**This privacy policy was last updated on: May 23, 2019**
+**This privacy policy was last updated on: July 17, 2019**
 
 ## Important information about 99designs
 
@@ -59,7 +59,7 @@ Personal information that may be collected directly from you if you register to 
 
 We may also collect personal information such as IP address, device information and log information by using cookies. Please see Cookies Policy for more information on this. 
 
-If you are a designer using our services, we will store the information on the profile you create and the content you choose to make available to other users, such as participation statistics, design concepts, design templates, service offerings, and messages and testimonials. We may also collect your tax information and information to verify your identity (passport, ID card or driver's licence information). 
+If you are a designer using our services, we will store the information on the profile you create and the content you choose to make available to other users, such as participation statistics, design concepts, design templates, service offerings, and messages and testimonials. We may also share this information with our third party partners, including operators of other websites and platforms that choose to integrate our services into their websites and platforms, as part of providing services to you. We may also collect your tax information and information to verify your identity (passport, ID card or driver's licence information). 
 
 If you are a customer using our services, we will store the information on the profile you create and the content you choose to make available to other users, such as design briefs, design contests, design concepts, and messages and testimonials.
 
@@ -121,6 +121,7 @@ In this section you can find out more about how we share personal information:
 We may share your personal information in the manner and for the purposes described below: 
 
   * With other companies within the 99designs group where such disclosure is necessary to provide you with our products or and services, including technical support or to manage our business. You can get a list of our group entities by contacting us;
+  * With third parties that operate other websites and platforms and who choose to integrate our services into their websites and platforms. They use your personal information to the extent required as part of integrating our services into their websites and platforms;
   * With third parties who help manage our business and deliver services. Our contracts with third parties generally include an obligation for them to comply with this privacy policy and to use any personal information we share with them solely for the purpose of providing services to us. However, any personal information you agree to provide may be received by a third party and may be stored and used by them according to their privacy policy; 
   * Where you direct us as part of the services we are providing to share your personal information with another user or to a third party service provider in order to integrate our services with a service that they may provide, for example with a third party printing partner, website builder or web development service provider so that they can provide you with a quote or service;
   * With government organisations and agencies, law enforcement, regulators to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies;
@@ -179,20 +180,20 @@ Your personal information may be disclosed, transferred to or processed outside 
 We will take appropriate steps ensure that transfers of personal information are in accordance with applicable law and carefully managed to protect your privacy rights and interests and transfers are limited to countries which are recognized as providing an adequate level of legal protection or where we can be satisfied that alternative arrangement are in place to protect your privacy rights. To this end:
 
   * We ensure transfers within 99designs' group of companies will be covered by an agreement entered into by members of 99designs' group of companies (an intra-group agreement) contractually obliges each member to ensure that personal information receives an adequate and consistent level of protection wherever it is transferred within 99designs' group of companies; 
-  * Where we transfer your personal information outside of our group of companies or to third parties who help provide our services, we obtain contractual commitments from them to protect your personal information. Some of these assurances are well recognized certification schemes like the EU - US Privacy Shield [for the protection of personal information transferred from within the EU to the United States and/or the use of EU approached Standard Contractual Clauses ( **'EU Model Clauses'** ) for controller to controller and /or controller to processor transfers from the EU /UK to jurisdictions, such as Australia, who do not have an adequacy finding from the EU Commission; or
+  * Where we transfer your personal information outside of our group of companies or to third parties who help provide our services (an ' **onward transfer** '), we obtain contractual commitments from them to protect your personal information. Some of these assurances are well recognized certification schemes like the EU - US Privacy Shield [for the protection of personal information transferred from within the EU to the United States and/or the use of EU approached Standard Contractual Clauses ( **'EU Model Clauses'** ) for controller to controller and /or controller to processor transfers from the EU /UK to jurisdictions, such as Australia, who do not have an adequacy finding from the EU Commission; and
   * Where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any personal information is disclosed.
 
 
 
 You have a right to contact us for more information about the safeguards we have put in place to ensure the adequate protection of your personal information when this is transferred as mentioned above. 
 
-**Privacy Shield** \- 99designs complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. 99designs has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+**Privacy Shield** \- 99designs complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. 99designs has certified to the Department of Commerce that it adheres to the Privacy Shield Principles ("Principles"). If there is any conflict between the terms in this privacy policy and the Principles, insofar as the transfer of personal information from the EU and Switzerland to the US is concerned, the Principles shall govern. In the event of an onward transfer of personal information subject to the Principles, 99designs shall remain liable under the Principles if its agent or data processor processes such personal information in a manner inconsistent with the Principles, unless 99designs shows that it is not responsible for the event giving rise to the damage. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
-If you have a question or complaint you believe to be within the scope of our Privacy Shield certification, please contact us first at privacy@99designs.com, or using the contact details in the “Contact us” section below. We'll respond within 30 days.
+If you have a question or complaint you believe to be within the scope of our Privacy Shield certification, please contact us first at privacy@99designs.com, or using the contact details in the “Contact us” section below. 
 
-For any complaints that we can’t resolve directly, JAMS is the independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance. You can contact JAMS free of charge at https://www.jamsadr.com/eu-us-privacy-shield. JAMS is an alternative dispute resolution provider based in the U.S..
+For any complaints that we can’t resolve directly, JAMS is a US-based independent provider responsible for reviewing and resolving complaints about US Privacy Shield compliance. You can contact JAMS free of charge at <https://www.jamsadr.com/eu-us-privacy-shield>. 
 
-If your concern still isn't addressed by JAMS, you may be entitled to a binding arbitration under the Privacy Shield Principles. For purposes of enforcing compliance with the Privacy Shield, 99designs, Inc. is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission.
+As further explained by the Principles, binding arbitration is available to address residual complaints not resolved by other means. As a US based company 99designs, Inc. is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission.
 
 ## Security
 
