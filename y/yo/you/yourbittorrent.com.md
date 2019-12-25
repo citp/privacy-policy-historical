@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215358id_/https%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225220748id_/https%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
 
 # YourBittorrent - Privacy Policy
 
