@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amprobe.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620121454id_/http%3A//en-us.fluke.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amprobe.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225142311id_/https%3A//www.fluke.com/en-us/fluke/privacy-policy) for the most accurate reproduction.*
 
 # Fluke Privacy Policy | Fluke
 
@@ -6,19 +6,19 @@
 
 ## [Fluke Privacy Notice](https://dam-assets.fluke.com/s3fs-public/20190131-Public-Facing-Privacy-Notice-Fluke-EN.pdf)
 
-Last updated: 21th February 2019
+Last updated: 21st February 2019
 
 If you’re in the European Economic Area and your personal data is governed by the General Data Protection Regulation (EU) 2016/679 and the respective implementing acts of European Economic Area Member States, please see our [Privacy Notice](https://dam-assets.fluke.com/s3fs-public/20190131-Public-Facing-Privacy-Notice-Fluke-EN.pdf) for more information on how we handle your personal data.
 
 We would like to provide you with choices regarding certain uses of personal data, particularly around marketing to you, and have therefore established an online privacy centre where you can view and make certain decisions about your personal data use. You can find this [here](https://privacy.fluke.com/en/privacy/initiate-rights/ig). Alternatively, you can unsubscribe or opt out from any further promotional communications from us at any time by clicking the “Unsubscribe” link in any of our communication or by [contacting us](https://privacy.fluke.com/en/privacy/initiate-rights/ig).
 
-## [Affiliates and Subsidiaries in the EEA](https://www.fluke.com/en-us/fluke/privacy-policy-0)
+## [Affiliates and Subsidiaries in the EEA](https://www.fluke.com/en-us/fluke/privacy-policy/privacy-policy-affiliates-subsidiaries)
 
-Our affiliates and subsidiaries in the EEA and the contact details of any representatives that we have appointed in the EEA are listed [here](https://www.fluke.com/en-us/fluke/privacy-policy-0).
+Our affiliates and subsidiaries in the EEA and the contact details of any representatives that we have appointed in the EEA are listed [here](https://www.fluke.com/en-us/fluke/privacy-policy/privacy-policy-affiliates-subsidiaries).
 
 ## Cookies
 
-Where required by law, we will ask you for your consent to our use of cookies when you first visit our Services. You will be presented with a choice of cookies for which we need to ask for your consent and a description of what function these cookies perform. If you agree to cookies, we will place a cookie on your device. If you change your mind,click here to renew, or change your cookie consent. You will be presented with our cookie consent banner again, where you can adjust your preferences.
+Where required by law, we will ask you for your consent to our use of cookies when you first visit our Services. You will be presented with a choice of cookies for which we need to ask for your consent and a description of what function these cookies perform. If you agree to cookies, we will place a cookie on your device. If you change your mind, click here to renew, or change your cookie consent. You will be presented with our cookie consent banner again, where you can adjust your preferences.
 
 * * *
 
