@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuepenguin.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324135034id_/https%3A//www.valuepenguin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuepenguin.com privacy policy that was archived on 2019-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191225044910id_/http%3A//www.valuepenguin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,18 +20,18 @@ How We May Use or Disclose Information Collected:
 
 #### We may use your Personal and Non-Personal Information
 
-  * upon your request, to obtain quotes, respond to your inquiries, or connect you with vendors, and other Third Parties who will provide you with information about products and services. Vendors and other affiliates may contact you to fulfill your requests
-  * for our administrative and operational purposes with service providers, usage analytics companies, or other Third Parties for purposes such as conducting data analysis and audits, developing new products, enhancing our website, improving our services, generally identifying usage trends, or determining the effectiveness of our product or service campaigns
+  * upon your request, to obtain quotes, respond to your inquiries, or connect you with vendors, and other Third Parties who will provide you with information about products and services. Vendors and other affiliates may contact you to fulfill your requests 
+  * for our administrative and operational purposes with service providers, usage analytics companies, or other Third Parties for purposes such as conducting data analysis and audits, developing new products, enhancing our website, improving our services, generally identifying usage trends, or determining the effectiveness of our product or service campaigns 
 
 
 
 Your Information may be disclosed:
 
-  * to third party service providers who provide services in conjunction with the fulfillment of our services such as customer service, website hosting, data analysis, infrastructure provision, IT services, etc.
-  * if you request information from vendors so that they (or so that Third Parties who provide similar services) can provide you with information about their products and services. We are not responsible or liable for vendors’ use of your information; please refer to their privacy policies
-  * on an aggregated level, such as overall number of users, or anonymous geographic summaries, etc.
-  * to a Third Party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings)
-  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain
+  * to third party service providers who provide services in conjunction with the fulfillment of our services such as customer service, website hosting, data analysis, infrastructure provision, IT services, etc. 
+  * if you request information from vendors so that they (or so that Third Parties who provide similar services) can provide you with information about their products and services. We are not responsible or liable for vendors’ use of your information; please refer to their privacy policies 
+  * on an aggregated level, such as overall number of users, or anonymous geographic summaries, etc. 
+  * to a Third Party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings) 
+  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain 
 
 
 
